@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2015-11-06 18:37:00 -05:00
+date: 2015-11-06 23:37:00 Z
 permalink: "/about/"
 layout: page
 ---
