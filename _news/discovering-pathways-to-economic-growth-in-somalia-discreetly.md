@@ -9,9 +9,6 @@ layout: post
 
 Somalis have suffered through a generation of conflict and political instability, with no formal national government since the outbreak of civil war in 1991. An estimated 500,000 Somalis died during the conflict, which left Somalia unable to support its people and an economy in dire straits. Yet following the formation in 2012 of the first federal national government since the war began, signs of progress have begun to emerge. A more settled political landscape and improving security—thanks to continuing action against Al-Shabaab—have seen Somalia graduate from a failed to a fragile state.
 
-
-
-![Devs----Naughton-pic-2](/assets/Devs----Naughton-pic-2.jpg)
 Donor programs in Somalia that previously focused on humanitarian aid, peace building, conflict resolution, and political settlement are now shifting to include economic development. Economic development—more than political reform—has been shown to increase the likelihood of conflict prevention and decrease the likelihood of conflict resuming, which occurs within 10 years in 40 percent of post-conflict countries.
 
 Building on the success of the U.S. Agency for International Development’s [Partnership for Economic Growth](http://dai.com/our-work/projects/somalia%E2%80%94partnership-economic-growth) project in Somaliland (2011–2016), DAI in May 2015 launched a broader initiative for the U.K. Department for International Development (DFID): [Promoting Inclusive Markets in Somalia](http://dai.com/our-work/projects/somalia%E2%80%94promoting-inclusive-markets-somalia) (PIMS). PIMS will work in Somaliland, Puntland, and South Central Somalia, employing a [market systems development approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/)—using the Making Markets Work for the Poor (M4P) methodology—to stimulate inclusive economic growth. We will work through the private sector to address weaknesses in small-scale productive infrastructure, a chronic lack of market information, and limited access to finance.
@@ -20,15 +17,12 @@ The three-year PIMS programme is nearing the end of its design phase and is abou
 
 PIMS aims to deliver net attributable income of GBP25.5 million for poor producers and entrepreneurs, with 50 percent of surveyed firms/farms reporting significant net revenue increases; approximately GBP6.5 million in additional private sector investment leveraged; 9,000 long-term jobs created (half for women); and 500,000 days of employment generated through cash-for-work activities.
 
-![Devs----Naughton-PIMS-1](/assets/Devs----Naughton-PIMS-1.jpg)
-
 ## The Big Challenge: Data
 
 To inform our analysis of local markets, PIMS needed to collect a substantial amount of data, which posed considerable difficulties given the prevailing security conditions, most notably in South Central Somalia. While our team conducted detailed studies of key value chains to better understand sector dynamics and identify potential entry points, this security challenge is compounded by a dearth of reliable data at the national level and the inadequacy of trade databases for imports/exports.
 
 We knew that due to security constraints, we could not simply travel into South Central Somalia and start surveying en masse. So we developed a multi-pronged approach—employing trained local enumerators, conducting contextual research, targeting interviewees, and cross-checking with experts and available data—to triangulate our facts and come up with credible findings based on a relatively small set of interviews.
 
-![Devs -- Naughton 2](/assets/Devs -- Naughton 2.jpg)
 
 First, we conducted capacity building training with a local partner for eight enumerators who would collect data on behalf of the programme using a beneficiary assessment approach based on focus groups and one-on-one interviews. The enumerators—all locally based Somalis—were selected based on their knowledge of the targeted locations, local language skills, previous experience of conducting market research, and (any) knowledge of the sectors. We provided these enumerators with techniques tailored for use with different actors in the value chains: input suppliers, farmers/fishermen, transporters, cold store operators, market owners, wholesalers, and exporters.
 
@@ -36,7 +30,6 @@ Through unstructured, conversational interviewing techniques, our enumerators st
 
 Among wholesale traders, enumerators would listen for buying and selling costs for products in similar seasons, then cross-check that information—and associated inferences on margins—with traders.
 
-![Devs -- Naughton 1](/assets/Devs -- Naughton 1.jpg)
 
 Equipped with preliminary research on the sector dynamics and the political economy of selected value chains, the enumerators interviewed carefully chosen market actors well positioned to provide statistical information relative to potential interventions. This rounded out the picture we were able to develop, with validation from various perspectives. All told, PIMS conducted 204 interviews across four value chains. Identifying and screening the key market actors before their interviews and focusing intently on the data most vital to our objectives meant the low sample size still produced high-quality inputs. To provide an added layer of quality assurance for the field data, our value chain experts debriefed the enumerators themselves and analysed the data to ensure that it was consistent with known dynamics in the market.
 
