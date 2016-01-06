@@ -2,30 +2,42 @@
 
 body{
   visibility: hidden;
-  line-height: 2rem;
+  line-height: 1.8rem;
 }
 .wf-inactive body{
   visibility: visible;
-  font-family: 'Merriweather', Georgia, serif;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
   .page-title{
-    font-family: 'Archivo Narrow', helvetica, sans-serif;
+    font-family: 'adelle-condensed', helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 4rem;
   }
   h1, h2, h3, h4{
-    font-family: 'Archivo Narrow', helvetica, sans-serif;
+    font-family: 'adelle-condensed', helvetica, sans-serif;
   }
 }
 .wf-active body{
   visibility: visible;
-  font-family: 'Merriweather', Georgia, serif;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
   .page-title{
-    font-family: 'Archivo Narrow', helvetica, sans-serif;
+    font-family: 'adelle-condensed', helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 4rem;
   }
   h1, h2, h3, h4{
-    font-family: 'Archivo Narrow', helvetica, sans-serif;
+    font-family: 'adelle-condensed', helvetica, sans-serif;
   }
 }
+h1, h2, h3, h4{
+  line-height: 2.3rem;
+}
+.page-title span{
+  position: relative;
+  top: -.3rem;
+  font-size: 5rem;
+}
 .colophon{
-  font-family: 'Archivo Narrow', helvetica, sans-serif;
+  font-family: 'adelle-condensed', helvetica, sans-serif;
   span{
     display: inline-block;
     width: .2rem;
@@ -35,7 +47,7 @@ body{
   fill: currentColor;
 }
 nav a{
-  font-family: 'Archivo Narrow', helvetica, sans-serif;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
 }
 nav a:hover{
   border-bottom: 2px solid darken($blue, 10%);
@@ -55,17 +67,13 @@ hr{
 }
 // 🎌Navigational Links🎌
 .more a{
-  font-family: 'Archivo Narrow', Georgia, sans-serif;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
 }
 // 🎌Content🎌
 .post-details{
-  font-family: 'Archivo Narrow', Georgia, sans-serif;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
   span{
     padding: .15rem .3rem;
-    background-color: $red;
-    color: white;
-    border-radius: .2rem;
-    margin-right: .5rem;
   }
 }
 // 🎌Content Links🎌
