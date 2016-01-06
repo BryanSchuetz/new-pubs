@@ -40,5 +40,5 @@ To understand export potential, we required statistical information on current e
 * In the banana value chain, less than 1 percent of production costs are spent on packaging. The lack of proper post-harvest packaging for such a perishable and easily bruised crop substantially reduces product value, providing an entry point for PIMS to demonstrate post-harvest value addition.
 * Ninety-five percent of sesame farmers had no training in sesame production, leading to low skill levels and poor production practices. PIMS will support farmer networks and train farmers on changing agricultural practices through demonstrations.
 </aside>
-
+ 
 Operating in a post-conflict environment presents many challenges, of which data collection and verification is only one. But our experience on PIMS shows that valid workarounds are feasible. Our alternate methods brought depth and accuracy to the fact-finding process, which is proving to be critical as we determine which entry points into the target value chain will give us the best leverage in removing systemic constraints, and thereby promoting inclusive economic growth in Somalia.
