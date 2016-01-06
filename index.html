@@ -11,7 +11,7 @@ topics:
   {% for post in posts limit:1 %}
     <h1 class="post-title">{{ post.title }}</h1>
     <p class="post-details">Tags:
-    {% for tag in post.tags %}<span class="post-topic">{{ tag | capitalize }}</span>{% endfor %}</p>
+    {% for tag in post.tags %}<span class="post-topic"><a href="">{{ tag }}</a></span>{% endfor %}</p>
     {{ post.content }}
     {% unless forloop.last %}<hr>{% endunless %}
   {% endfor %}
