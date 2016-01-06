@@ -7,11 +7,11 @@ topics:
 ---
 
 <div class="home">
-  {% assign news = site.news | sort: 'date' | reverse %}
-  {% for post in news limit:1 %}
+  {% assign posts = site.posts | sort: 'date' | reverse %}
+  {% for post in posts limit:1 %}
     <h1 class="post-title">{{ post.title }}</h1>
     <p class="post-details">Topics:
-    {% for topic in post.topics %}<span class="post-topic">{{ topic | capitalize }}</span>{% endfor %}</p>
+    {% for tag in post.tags %}<span class="post-topic">{{ tag | capitalize }}</span>{% endfor %}</p>
     {{ post.content }}
     {% unless forloop.last %}<hr>{% endunless %}
   {% endfor %}
