@@ -14,10 +14,7 @@ For a USAID project, understanding how local people interact with information fl
 
 Despite their country’s poor economic performance, Salvadorans have been leading adopters of mobile technologies. According to [BuddeComm](http://www.budde.com.au/Research/El-Salvador-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses.html), the country’s mobile penetration rate in 2015 reached 146%, which means that there are 1.46 mobile connections for each person in El Salvador; a current population of [6.108](#) million means there are roughly 8.9 million mobiles connections in the country. The 1.46 figure suggests a rapid growth rate -- 18% -- since 2013, when GSMA reported the same figure at 1.24 (or 124%) in their [Latin American Mobile Economy](#) report (see chart below). 
 
-![chart.png](/uploads/chart.png)
-
 <script id="infogram_0_el_salvador_mobile_usage" title="El Salvador Mobile Usage" src="//e.infogr.am/js/embed.js?7Nu" type="text/javascript"></script><div style="width:100%;padding:8px 0;font-family:Arial;font-size:13px;line-height:15px;text-align:center;"><a target="_blank" href="https://infogr.am/el_salvador_mobile_usage" style="color:#989898;text-decoration:none;">El Salvador Mobile Usage</a><br><a style="color:#989898;text-decoration:none;" href="http://charts.infogr.am/pie-chart?utm_source=embed_bottom&utm_medium=seo&utm_campaign=pie_chart" target="_blank">Create pie charts</a></div>
-</script>
 The chart shows active SIM penetration at 124% in El Salvador, while the overall proportion of the population that had at least one SIM (unique subscriber penetration) was 66%. The chart also gives a sense of where El Salvador stood in terms of mobile adoption relative to other Latin American countries back in 2013, but given the rapid evolution of the mobile market, I would anticipate that data from two years ago would have little bearing on today’s reality.
 
 ### Findings: Key Highlights
