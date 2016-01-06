@@ -6,3 +6,6 @@ collections:
   uploads:
     title: Uploads
     output: true
+  news:
+    title: Posts
+    outpus: true
