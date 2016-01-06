@@ -3,10 +3,11 @@
     <ul class="nav-list">
       {% for page in site.pages %}
         {% if page.layout == "page" %}
-          <li><a class="without-underline" href="{{ page.url }}">{{ page.title | upcase }}</a></li>
+          <li><a class="without-style" href="{{ page.url }}">{{ page.title | upcase }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
   </nav>
-  <h1 class="page-title"><a class="site-title without-underline" href="{{ site.baseurl }}/">Digital <span>@</span> DAI</a></h1>
+
+  <h1 class="page-title"><a class="site-title without-style" href="{{ site.baseurl }}/"><svg class="svg-logo" viewBox="0 0 651 114" preserveAspectRatio="xMinYMax meet"><use xlink:href="#svg-logo"></use></svg></a></h1>
 </header>

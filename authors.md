@@ -1,5 +1,5 @@
 ---
-title: Authors
+title: Our Authors
 permalink: "/setup/"
 layout: page
 ---
