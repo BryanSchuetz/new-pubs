@@ -8,7 +8,7 @@ tags:
 
 Somalis have suffered through a generation of conflict and political instability, with no formal national government since the outbreak of civil war in 1991. An estimated 500,000 Somalis died during the conflict, which left Somalia unable to support its people and an economy in dire straits. Yet following the formation in 2012 of the first federal national government since the war began, signs of progress have begun to emerge. A more settled political landscape and improving security—thanks to continuing action against Al-Shabaab—have seen Somalia graduate from a failed to a fragile state.
 
-![DSCF4592.jpg](/uploads/DSCF4592.jpg)
+![Devs----Naughton-PIMS-1.jpg](/uploads/Devs----Naughton-PIMS-1.jpg)
 
 Donor programs in Somalia that previously focused on humanitarian aid, peace building, conflict resolution, and political settlement are now shifting to include economic development. Economic development—more than political reform—has been shown to increase the likelihood of conflict prevention and decrease the likelihood of conflict resuming, which occurs within 10 years in 40 percent of post-conflict countries.
 
