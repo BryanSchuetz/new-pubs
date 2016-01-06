@@ -6,6 +6,22 @@ collections:
   uploads:
     title: Uploads
     output: true
-  news:
-    title: Posts
-    outpus: true
+gems:
+- jekyll-paginate
+paginate: 3
+paginate_path: "/page:num/"
+hilighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+excerpt_separator: "<!--more-->"
+email: your-email@domain.com
+exclude:
+- ".gitignore"
+description: |
+  Write an awesome description for your new site here.
+baseurl:
+destination: "./build"
+sass:
+  style: compressed
