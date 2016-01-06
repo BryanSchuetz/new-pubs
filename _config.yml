@@ -1,5 +1,5 @@
 ---
-title: Siteleaf/Jekyll
+title: 'Digital@DAI'
 url: http://siteleaf-jekyll.siteleaf.net
 timezone: America/New_York
 collections:
@@ -24,7 +24,7 @@ exclude:
 - ".gitignore"
 description: |
   Write an awesome description for your new site here.
-baseurl: 
+baseurl:
 destination: "./build"
 sass:
   style: compressed
