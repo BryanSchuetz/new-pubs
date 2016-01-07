@@ -68,6 +68,17 @@
   padding-left: 1rem;
   border-left: 1px solid $gray;
 }
+img.author-pic{
+  display: block;
+  width: 200px;
+  margin-top: .5rem;
+  margin-right: auto;
+  margin-left: auto;
+  @include responsive(medium-screens){
+    float: left;
+    margin-right: $gutter;
+  }
+}
 // 🎌The Footer🎌
 .colophon{
   text-align: center;
