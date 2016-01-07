@@ -15,15 +15,15 @@ defaults:
     path: ''
     type: posts
   values:
-    Author:
+    Author: 
     layout: project
 - scope:
     path: ''
     type: authors
   values:
     layout: author
-    Job:
-    Image:
+    Job: 
+    Image: 
 gems:
 - jekyll-paginate
 paginate: 3
@@ -39,7 +39,7 @@ exclude:
 - ".gitignore"
 description: |
   Write an awesome description for your new site here.
-baseurl:
+baseurl: 
 destination: "./build"
 sass:
   style: compressed
