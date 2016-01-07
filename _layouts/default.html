@@ -10,10 +10,12 @@
     {% include svg_sprite.html %}
     <div class="big-wrap">
       {% include header.html %}
-
-      <div class="page-content">
-        <div class="wrapper">
-          {{ content }}
+      <div class="page-content--wrap cf">
+        <div class="page-content">
+            <h1 class="page-title"><a class="site-title without-style" href="{{ site.baseurl }}/"><svg class="svg-logo" viewBox="0 0 651 114" preserveAspectRatio="xMinYMax meet"><use xlink:href="#svg-logo"></use></svg></a></h1>
+          <div class="wrapper">
+            {{ content }}
+          </div>
         </div>
       </div>
 

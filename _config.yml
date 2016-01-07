@@ -6,13 +6,21 @@ collections:
   uploads:
     title: Uploads
     output: true
+  authors:
+    title: Authors
+    output: true
 defaults:
 - scope:
     path: ''
     type: posts
   values:
-    Author: 
+    Author:
     layout: project
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: page
 gems:
 - jekyll-paginate
 paginate: 3
@@ -28,7 +36,7 @@ exclude:
 - ".gitignore"
 description: |
   Write an awesome description for your new site here.
-baseurl: 
+baseurl:
 destination: "./build"
 sass:
   style: compressed
