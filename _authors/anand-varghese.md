@@ -1,6 +1,6 @@
 ---
 title: Anand Varghese
-job: Senior ICT Specialist
+Job: Senior ICT Specialist
 layout: author
 ---
 

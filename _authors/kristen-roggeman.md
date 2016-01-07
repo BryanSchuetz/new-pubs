@@ -1,6 +1,6 @@
 ---
 title: Kristen Roggeman
-job: Principal Mobile Solutions Specialist
+Job: Principal Mobile Solutions Specialist
 layout: author
 ---
 
