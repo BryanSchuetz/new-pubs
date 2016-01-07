@@ -15,7 +15,7 @@ defaults:
     path: ''
     type: posts
   values:
-    Author:
+    Author: 
     layout: project
 - scope:
     path: ''
@@ -37,7 +37,7 @@ exclude:
 - ".gitignore"
 description: |
   Write an awesome description for your new site here.
-baseurl:
+baseurl: 
 destination: "./build"
 sass:
   style: compressed
