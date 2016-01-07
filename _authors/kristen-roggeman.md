@@ -1,7 +1,7 @@
 ---
 title: Kristen Roggeman
 job: Principal Mobile Solutions Specialist
-layout: page
+layout: author
 ---
 
 Before joining DAI, Kristen held advisory and business development positions within a variety of mobile for development and international development organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen, driving partnership strategy at the intersection of the mobile operator and international development sectors.

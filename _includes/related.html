@@ -1,7 +1,7 @@
 <h3>Theoretically Related Content:</h3>
 <ul>
   {% assign posts = site.posts | sort: 'date' | reverse %}
-  {% for post in posts | offset:1 %}
+  {% for post in posts %}
     {% if post.url != page.url %}
       {% for tag in page.tags %}
         {% if post.tags contains tag %}

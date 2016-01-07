@@ -1,7 +1,7 @@
 ---
 title: Anand Varghese
 job: Senior ICT Specialist
-layout: page
+layout: author
 ---
 
 During his seven-year career as a specialist in international development and conflict management, Anand Varghese has managed complex operations with a commitment to using information and communications technology (ICT) tools to create peaceful social change around the world. Anand helps DAI’s projects integrate ICT into their activities and build partnerships with local technology companies. Prior to joining DAI, he served as Senior Manager at the PeaceTech Lab at the U.S. Institute of Peace. Anand played an integral role in creating and launching the PeaceTech Lab, the first nonprofit spin-off that the Institute has created in its 30-year history. In doing so, Anand guided elements of strategic planning for the transition of the Lab, including its conceptual foundation, business development, space design, and collaboration with the private sector.
