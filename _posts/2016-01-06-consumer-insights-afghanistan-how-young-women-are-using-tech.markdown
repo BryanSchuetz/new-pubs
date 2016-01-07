@@ -1,5 +1,6 @@
 ---
 title: 'Consumer Insights Afghanistan: How Young Women are Using Tech'
+layout: post
 date: 2016-01-06 17:30:00 Z
 tags:
 - Consumer Insights
@@ -9,6 +10,7 @@ author: Anand Varghese
 
 In November of 2015, I spent two weeks in Kabul working with DAI’s Women in Economy (WIE) project, funded under USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners. This is the second in a series of two blog posts that I’m writing about my time there. Find the first post [here](#). This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You find them [here](#).
 
+<!--more-->
 
 Before diving into any technology-based programming, the WIE team decided to do some research into how their target audience – educated Afghan women between the ages of 18 and 30 – gather information, use technology tools, and consume media. To do this, we created a questionnaire and deployed it using a newly-developed data collection and visualization tool called First Mile Geo. WIE’s regional managers, who are based in Kabul, Kandahar, Jalalabad, Mazar-e-Sharif, and Herat, used First Mile’s mobile-based and paper-based collection tools to gather data from 50 young women around the country*.
 

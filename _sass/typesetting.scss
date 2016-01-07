@@ -17,7 +17,7 @@ body{
     }
   }
   h1, h2, h3, h4{
-    font-family: 'adelle-condensed', helvetica, sans-serif;
+    font-family: 'adelle-condensed', Georgia, serif;
   }
 }
 .wf-active body{
@@ -33,7 +33,7 @@ body{
     }
   }
   h1, h2, h3, h4{
-    font-family: 'adelle-condensed', helvetica, sans-serif;
+    font-family: 'adelle-condensed', Georgia, serif;
   }
 }
 h1, h2, h3, h4{
@@ -46,7 +46,7 @@ h1, h2, h3, h4{
   text-align: center;
 }
 .colophon{
-  font-family: 'adelle-condensed', helvetica, sans-serif;
+  font-family: 'adelle-condensed', Georgia, serif;
   span{
     display: inline-block;
     width: .2rem;
@@ -55,9 +55,13 @@ h1, h2, h3, h4{
 .svg{
   fill: currentColor;
 }
+
 nav a{
   font-family: 'proxima-nova', Helvetica, sans-serif;
   color: darken($blue, 10%)
+}
+.colophon{
+  font-family: 'proxima-nova', Helvetica, sans-serif;
 }
 nav a:hover{
   border-bottom: 2px solid $blue;
@@ -73,7 +77,7 @@ nav a:hover{
 }
 hr{
   border: none;
-  border-bottom: 1px solid $red;
+  border-bottom: 1px solid $blue;
 }
 // 🎌Navigational Links🎌
 .more a{
@@ -84,23 +88,22 @@ hr{
   font-family: 'proxima-nova', Helvetica, sans-serif;
   span{
     padding: .15rem .3rem;
-    margin-right: .5rem;
   }
 }
 // 🎌Content Links🎌
 
 a{
   text-decoration: none;
-  color: darken($blue, 10%);
-}
-a:hover{
   color: $blue;
 }
+a:hover{
+  color: darken($blue, 10%);;
+}
 a:not(.without-style){
-  border-bottom: 2px solid darken($blue, 10%);
+  border-bottom: 2px solid $blue;
 }
 a:not(.without-style):hover{
-  border-bottom: 2px solid $blue;
+  border-bottom: 2px solid darken($blue, 10%);
 }
 
 /*a:not(.without-underline){
