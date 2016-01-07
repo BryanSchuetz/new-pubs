@@ -11,9 +11,8 @@ defaults:
     path: ''
     type: posts
   values:
-    tags:
-    author:
-    layout: post
+    author: 
+    layout: project
 gems:
 - jekyll-paginate
 paginate: 3
@@ -29,14 +28,7 @@ exclude:
 - ".gitignore"
 description: |
   Write an awesome description for your new site here.
-baseurl:
+baseurl: 
 destination: "./build"
 sass:
   style: compressed
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    author:
-    layout: project
