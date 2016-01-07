@@ -8,7 +8,7 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
-      <p class="post-details--byline">{% if page.author %}By <a href="/authors/{{ page.author | downcase | split: ' ' | join: '-'  }}/" class="without-style">{{ page.author }}</a>{% endif %}</p>
+      <p class="post-details--byline">{% if page.Author %}By <a href="/authors/{{ page.Author | downcase | split: ' ' | join: '-'  }}/" class="without-style">{{ page.Author }}</a>{% endif %}</p>
       <p class="post-details--tags">Tags: {% for tag in page.tags %}<span class="post-topic"><a href="" class="without-style">{{ tag }}</a></span>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
     </div>
   </header>

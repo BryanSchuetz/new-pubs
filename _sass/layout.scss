@@ -1,5 +1,8 @@
 
 // 🎌The Grid 🎌
+.site-header{
+  margin-bottom: 5rem;
+}
 .page-content img{
   width: 100%;
 }
@@ -8,12 +11,10 @@
     @include width(8);
   }
   @include responsive(wide-screens){
-    margin-right: auto;
-    margin-left: auto;
+    float: right;
   }
 }
 .big-wrap{
-  padding: 2rem;
   @include min-width(3.5);
   margin: auto;
   @include responsive(tiny-screens){
@@ -47,7 +48,7 @@
   }
 }
 .page-title{
-  margin-top: 5rem;
+  margin-top: 0;
   margin-bottom: 2rem;
 }
 // 🎌Content🎌
@@ -79,6 +80,31 @@ img.author-pic{
     margin-right: $gutter;
   }
 }
+// 🎌Asides🎌
+.aside-related{
+  margin-top: 6rem;
+  ul{
+    padding-left: 0;
+    list-style-type: none;
+    margin-bottom: 2.3rem;
+    li{
+      margin-top: 1rem;
+    }
+  }
+  @include responsive(wide-screens){
+    @include width(4);
+    float: left;
+    margin-right: $gutter;
+  }
+  @include responsive(ultra-wide-screens){
+    @include width(6);
+  }
+}
+.aside--logo{
+  width: 50%;
+
+}
+
 // 🎌The Footer🎌
 .colophon{
   text-align: center;
@@ -131,4 +157,5 @@ footer{
   margin-top: 1rem;
   padding-top: 3rem;
   padding-bottom: 3rem;
+  clear: right;
 }
