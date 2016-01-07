@@ -19,7 +19,7 @@ defaults:
     layout: project
 - scope:
     path: ''
-    type: Authors
+    type: authors
   values:
     layout: page
     job:
