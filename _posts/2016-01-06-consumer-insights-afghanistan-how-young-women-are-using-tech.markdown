@@ -1,10 +1,10 @@
 ---
 title: 'Consumer Insights Afghanistan: How Young Women are Using Tech'
-layout: post
 date: 2016-01-06 17:30:00 Z
 tags:
 - Consumer Insights
 - Afghanistan
+layout: post
 author: Anand Varghese
 ---
 

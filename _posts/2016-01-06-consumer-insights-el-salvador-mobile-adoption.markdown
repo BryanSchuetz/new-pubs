@@ -1,11 +1,11 @@
 ---
 title: 'Consumer Insights El Salvador: Mobile Adoption'
-layout: post
-author: Kristen Roggeman
 date: 2016-01-06 22:27:00 Z
 tags:
 - Consumer Insights
 - El Slavador
+layout: post
+author: Kristen Roggeman
 ---
 
 In October of 2015, I was in El Salvador to help DAI launch the new USAID Employment Training Project, which is working to link at-risk Salvadoran youth to educational and employment opportunities, fostering social inclusion and reducing the space for gangs to influence and recruit young people. While I was there, I made a point to get a sense of the role mobile phones play in young peoples’ lives: do most youth have mobile phones? If so, are they smartphones or basic phones? Which apps do they use?  This is the second in a series of two blog posts that I’m writing about my time in El Salvador. Find the first post here. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You find them [here](#).
