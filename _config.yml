@@ -30,6 +30,5 @@ defaults:
     path: ''
     type: posts
   values:
-    tags:
-    author: 
-    layout: post
+    author:
+    layout: project
