@@ -4,7 +4,7 @@ date: 2016-01-07 16:51:00 Z
 tags:
 - Afghanistan
 - Economic Growth
-author: Anand Varghese
+Author: Anand Varghese
 layout: post
 ---
 
