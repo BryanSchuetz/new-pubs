@@ -3,7 +3,7 @@ title: Digital@DAI
 url: http://dai-global-digital.com
 timezone: UTC
 collections:
-  authors:
+  Authors:
     title: Authors
     output: true
   uploads:
@@ -14,11 +14,11 @@ defaults:
     path: ''
     type: posts
   values:
-    author: 
+    Author:
     layout: project
 - scope:
     path: ''
-    type: authors
+    type: Authors
   values:
     layout: page
 gems:
@@ -36,7 +36,7 @@ exclude:
 - ".gitignore"
 description: |
   Write an awesome description for your new site here.
-baseurl: 
+baseurl:
 destination: "./build"
 sass:
   style: compressed
