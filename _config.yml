@@ -6,6 +6,7 @@ collections:
   Authors:
     title: Authors
     output: true
+    permalink: "/authors/:path/"
   uploads:
     title: Uploads
     output: true
