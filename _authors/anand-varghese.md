@@ -1,6 +1,8 @@
 ---
 title: Anand Varghese
+date: 2016-01-07 20:34:00 Z
 Job: Senior ICT Specialist
+Image: "/uploads/anand%20inner.jpg"
 layout: author
 ---
 
