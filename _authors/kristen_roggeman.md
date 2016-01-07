@@ -3,6 +3,7 @@ title: Kristen Roggeman
 job: Principal Mobile Solutions Specialist
 layout: page
 ---
+
 Before joining DAI, Kristen held advisory and business development positions within a variety of mobile for development and international development organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen, driving partnership strategy at the intersection of the mobile operator and international development sectors.
 
 Prior to working for GSMA, Kristen was the Business Development Manager at Souktel, Inc. in Palestine. While at Souktel, Kristen delivered mobile partnerships in more than 12 countries, doubling Souktel’s market footprint and developing new product lines. Before Souktel, Kristen was a management consultant at The Bridgespan Group based in New York City, but missed international work too much to fully commit to the tempting lifestyle of a domestic-based consultant.
