@@ -4,8 +4,8 @@ date: 2016-01-06 17:30:00 Z
 tags:
 - Consumer Insights
 - Afghanistan
+Author: Anand Varghese
 layout: post
-author: Anand Varghese
 ---
 
 In November of 2015, I spent two weeks in Kabul working with DAI’s Women in Economy (WIE) project, funded under USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners. This is the second in a series of two blog posts that I’m writing about my time there. Find the first post [here](#). This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You find them [here](#).
