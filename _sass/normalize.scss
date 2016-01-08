@@ -453,3 +453,13 @@ th {
 .cf {
     *zoom: 1;
 }
+iframe{
+  margin: 2rem 0;
+  width: 100%;
+  @include responsive(tiny-screens){
+    height: 9rem;
+  }
+  @include responsive(small-screens){
+    height: 20rem;
+  }
+}

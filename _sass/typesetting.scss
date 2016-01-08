@@ -20,6 +20,11 @@ body{
     font-family: 'adelle-condensed', Georgia, serif;
   }
 }
+blockquote{
+  border-left: 2px solid $blue;
+  padding-left: 2rem;
+  margin-left: 1rem;
+}
 .wf-active body{
   visibility: visible;
   font-family: 'proxima-nova', Helvetica, sans-serif;

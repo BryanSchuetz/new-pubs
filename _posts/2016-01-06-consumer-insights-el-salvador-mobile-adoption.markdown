@@ -3,7 +3,7 @@ title: 'Consumer Insights El Salvador: Mobile Adoption'
 date: 2016-01-06 22:27:00 Z
 tags:
 - Consumer Insights
-- El Slavador
+- El Salvador
 Author: Adam Fivenson
 layout: post
 ---
