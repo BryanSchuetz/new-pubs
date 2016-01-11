@@ -20,7 +20,7 @@
         <div class="aside--logo"><a class="without-style" href="dai.com"><svg class="search" viewBox="0 0 996 255" preserveAspectRatio="xMinYMax meet"><use xlink:href="#dai-logo"></use></svg></a></div>
         <p><strong>DAI</strong> works on the frontlines of international development. Transforming ideas into action—action into impact. We are committed to shaping a more livable world.</p>
         <p>We tackle fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability. We work with a wide range of clients, including national and local governments, bilateral and multilateral donors, private corporations, and philanthropies.</p>
-        {% if page.layout == 'post' %}
+        {% if page.layout == 'post' or page.layout == 'author'%}
           {% include related.html %}
         {% endif %}
       </div>

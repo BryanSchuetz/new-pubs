@@ -3,10 +3,9 @@
     <ul class="nav-list">
       {% for page in site.pages %}
         {% if page.layout == "page" %}
-          <li><a class="without-style" href="{{ page.url }}">{{ page.title | upcase }}</a></li>
+          <li><a class="without-style more-button" href="{{ page.url }}">{{ page.title | upcase }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
   </nav>
-
 </header>

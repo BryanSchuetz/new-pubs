@@ -1,14 +1,24 @@
-<h3>Theoretically Related Content:</h3>
+{% if page.layout  == 'author' %}
+  <h3>Recently, from {{ page.title }}:</h3>
+{% else %}
+  <h3>Related Articles:</h3>
+{% endif %}
 <ul>
   {% assign posts = site.posts | sort: 'date' | reverse %}
   {% for post in posts %}
     {% if post.url != page.url %}
-      {% for tag in page.tags %}
-        {% if post.tags contains tag %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
-          {% break %}
+      {% if page.layout == 'author' %}
+        {% if post.Author == page.title %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
-      {% endfor %}
+      {% else if page.layout == 'post' %}
+        {% for tag in page.tags %}
+          {% if post.tags contains tag %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
