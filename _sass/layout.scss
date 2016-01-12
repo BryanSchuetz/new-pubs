@@ -37,6 +37,13 @@
 // 🎌The Header🎌
 
 /*Navigation*/
+.svg-button{
+  height: 1rem;
+  position: relative;
+  top: .2rem;
+  left: -.2rem;
+}
+
 .nav-list{
   list-style-type: none;
   padding-left: 0;
@@ -105,6 +112,12 @@ a.more-button:hover{
   display: none;
 }
 // 🎌Asides🎌
+.related-links{
+  text-align: center;
+}
+.related-link{
+  margin-right: 1rem;
+}
 .aside-related{
   margin-top: 6rem;
   ul{
