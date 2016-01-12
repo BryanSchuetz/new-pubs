@@ -7,6 +7,9 @@ collections:
     title: Authors
     output: true
     permalink: "/authors/:path/"
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
