@@ -193,6 +193,10 @@ img {
 
 svg:not(:root) {
   overflow: hidden;
+  display: inline;
+}
+svg{
+  display: inline;
 }
 
 /* Grouping content
