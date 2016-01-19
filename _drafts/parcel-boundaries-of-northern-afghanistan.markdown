@@ -11,3 +11,10 @@ RAMP UP North's objective was to strengthen municipal governments in the norther
 Separate shapefiles for each municipality are available here. Each file uses the EPSG:4326 projection.
 
 ![_uploads/intro photo_mini.jpg](/uploads/intro photo_mini.jpg)
+
+
+| One Thing                                      | Second Thing                                   |                   Third Thing                  |   |   |
+|------------------------------------------------|------------------------------------------------|:----------------------------------------------:|---|---|
+| Some text in the first row of the first colum  | Some text in the first row of the second colum |                                                |   |   |
+| Some text in the second row of the first colum |                                                | Some text in the second row of the third colum |   |   |
+|                                                |                                                |                                                |   |   |
