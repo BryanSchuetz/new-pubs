@@ -1,6 +1,6 @@
 ---
 title: Parcel Boundaries of Northern Afghanistan
-date: 2016-01-19 18:27:00 Z
+date: 2016-01-18 00:00:00 Z
 tags:
 - GIS
 Author: John Deriggi
