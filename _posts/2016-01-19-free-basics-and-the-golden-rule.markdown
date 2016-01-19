@@ -6,6 +6,7 @@ tags:
 - smartphones
 - Thoughtpiece
 Author: Anand Varghese
+layout: post
 ---
 
 Plenty of pixelated ink has already been spilt over Facebook’s Internet.org and its latest avatar, Free Basics. For net neutrality activists, especially in India, these kinds of zero-rated services are inherently [insidious](http://thewire.in/2015/12/30/facebooks-rebuttal-to-mahesh-murthy-on-free-basics-with-replies-18235/). For others, objections to Free Basics are merely based on knee-jerk anti-Facebook [prejudice](http://www.ictworks.org/2016/01/14/be-honest-you-hate-free-basics-because-its-facebook/) -- not honest, fact-based reflection. Before I wade into the argument, indulge me while I make a short -- but relevant -- digression.
