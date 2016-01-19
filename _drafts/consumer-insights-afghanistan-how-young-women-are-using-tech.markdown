@@ -1,6 +1,5 @@
 ---
 title: 'Consumer Insights Afghanistan: How Young Women are Using Tech'
-date: 2016-01-19 21:33:01.171000000 Z
 tags:
 - Consumer Insights
 - Afghanistan
