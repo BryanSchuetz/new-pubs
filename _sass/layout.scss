@@ -139,9 +139,6 @@ a.more-button:hover{
     float: left;
     margin-right: $gutter;
   }
-  @include responsive(ultra-wide-screens){
-    @include width(6);
-  }
 }
 .aside--logo{
   width: 50%;
