@@ -1,4 +1,4 @@
-// 🎌Use the web-font loader to hide the flash of unstyled text—if Google fonts goes down, serve the next font in the stack🎌 
+// 🎌Use the web-font loader to hide the flash of unstyled text—if Google fonts goes down, serve the next font in the stack🎌
 
 body{
   visibility: hidden;
@@ -83,6 +83,11 @@ nav a:hover{
 hr{
   border: none;
   border-bottom: 1px solid $blue;
+}
+.lead-in{
+  font-size: .9rem;
+  line-height: 1.3rem;
+  font-style: italic;
 }
 // 🎌Navigational Links🎌
 .more a{
