@@ -5,6 +5,8 @@ tags:
 - Afghanistan
 ---
 
+Markdown Table:
+
 | One Thing                                      | Second Thing                                   |                   Third Thing                  |   |   |
 |------------------------------------------------|------------------------------------------------|:----------------------------------------------:|---|---|
 | Some text in the first row of the first colum  | Some text in the first row of the second colum |                                                |   |   |
