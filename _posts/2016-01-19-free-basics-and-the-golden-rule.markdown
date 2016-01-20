@@ -2,9 +2,8 @@
 title: Free Basics and the Golden Rule
 date: 2016-01-19 19:12:00 Z
 tags:
-- Net neutrality
-- smartphones
-- Thoughtpiece
+- Net Neutrality
+- Smartphones
 Author: Anand Varghese
 layout: post
 ---
