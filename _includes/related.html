@@ -25,15 +25,21 @@
           {% if post.tags contains tag %}
             {% assign got_related = true%}
             <!-- Show tags that match -->
-            <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             <!-- If one tag in a post matches a tag on the page, stop -->
             {% break %}
           {% endif %}
         {% endfor %}
-        {% unless got_related? %}
-          <h3>foobar</h3>
-        {% endunless %}
       {% endif %}
     {% endif %}
   {% endfor %}
+  <!-- If there's no actually related content show recent stuff -->
+  {% unless got_related == true %}
+    {% assign new_posts = posts | limit: 3 %}
+    {% for post in new_posts %}
+      {% if post.url != page.url%}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endunless %}
 </ul>
