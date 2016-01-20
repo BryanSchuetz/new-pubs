@@ -4,20 +4,35 @@
   <h3>Related Articles:</h3>
 {% endif %}
 <ul>
+  <!-- Get all the posts -->
   {% assign posts = site.posts | sort: 'date' | reverse %}
+  <!-- Look at each post in the array -->
   {% for post in posts %}
+  <!-- Ignore the current post -->
     {% if post.url != page.url %}
+      <!-- Check to see if we're on an author page -->
       {% if page.layout == 'author' %}
+        <!-- If the posts author is the author being shown -->
         {% if post.Author == page.title %}
+          <!-- Show the post details -->
           <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
+        <!-- Otherwise, if we're on a post -->
       {% else if page.layout == 'post' %}
+        <!-- Loop through the post tags -->
         {% for tag in page.tags %}
+          <!-- Compare each tag in each post to each tag on the page -->
           {% if post.tags contains tag %}
+            {% assign got_related = true%}
+            <!-- Show tags that match -->
             <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
+            <!-- If one tag in a post matches a tag on the page, stop -->
             {% break %}
           {% endif %}
         {% endfor %}
+        {% unless got_related? %}
+          <h3>foobar</h3>
+        {% endunless %}
       {% endif %}
     {% endif %}
   {% endfor %}
