@@ -17,16 +17,16 @@ The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An eff
 
 |  Municipality  | Num Parcels | Download |
 |:--------------:|:-----------:|:--------:|
-|    Faizabad    |    11972    | download |
-|   Pul-e Kumri  |    24248    | download |
-|      Khulm     |     7925    | download |
-| Mazar-e Sharif |    79865    | download |
-|     Andkhoy    |     9657    | download |
-|     Maymana    |    13740    | download |
-|   Sheberghan   |    24823    | download |
-|     Kunduz     |    31531    | download |
-|      Aybak     |     5210    | download |
-|    Sar-e Pul   |     9685    | download |
+|    Faizabad    |    11972    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Badakshan)|
+|   Pul-e Kumri  |    24248    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Baghlan)|
+|      Khulm     |     7925    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Balkh)|
+| Mazar-e Sharif |    79865    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Balkh)|
+|     Andkhoy    |     9657    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Faryab)|
+|     Maymana    |    13740    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Faryab)|
+|   Sheberghan   |    24823    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Jawzjan)|
+|     Kunduz     |    31531    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Kunduz)|
+|      Aybak     |     5210    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Samangan)|
+|    Sar-e Pul   |     9685    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Sarepul)|
 
 ## The Uses of Parcel Boundaries
 The parcel data is applicable to a variety of situations and is probably most valuable to Afghan municipal governments and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
