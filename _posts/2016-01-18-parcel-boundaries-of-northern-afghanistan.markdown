@@ -24,13 +24,19 @@ After the Haiti earthquake, there was a conspicuous lack of spatial data about b
 ## Working with the data
 
 The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for analyzing shapefiles. Download QGIS if you do not already have it on your machine
+
 ●	Choose one of the files from the table above and download it and unzip it
 ●	Open up QGIS
 ●	Drag the .shp file onto your workspace 
+
 (photo here)
 
-A Web Map of the Mazar-e Sharif Data
-Interact with the Mazar-e Sharif Data
-Sample Visualisations
+## A Web Map of the Mazar-e Sharif Data
+
+[Interact with the Mazar-e Sharif Data
+](http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html)
+
+## Sample Visualisations
+
 Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.
 Mazar-e Sharif
