@@ -14,7 +14,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An eff
 
 (put table here)
 
-##The Uses of Parcel Boundaries
+##The Uses of Parcel Boundaries##
 The parcel data is applicable to a variety of situations and is probably most valuable to Afghan municipal governments and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
 
 The data is especially relevant to the field of disaster response. Northern Afghanistan has a history of earthquakes, including two in 1998 in which over 6,000 people lost their lives. With the danger clearly there, accurate urban spatial data could help people plan and respond to natural hazard events in the future.
