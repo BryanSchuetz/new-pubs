@@ -10,7 +10,7 @@ RAMP UP North's objective was to strengthen municipal governments in the norther
 The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An effort was made to check data quality pertaining to gaps between adjacent boundaries but some gaps may still exist.
 
 **Shapefile Downloads
-**
+
 Separate shapefiles for each municipality are available here. Each file uses the EPSG:4326 projection.
 
 (put table here)
