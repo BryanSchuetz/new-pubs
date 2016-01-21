@@ -28,6 +28,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An eff
 |      Aybak     |     5210    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Samangan)|
 |    Sar-e Pul   |     9685    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Sarepul)|
 
+
 ## The Uses of Parcel Boundaries
 The parcel data is applicable to a variety of situations and is probably most valuable to Afghan municipal governments and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
 
