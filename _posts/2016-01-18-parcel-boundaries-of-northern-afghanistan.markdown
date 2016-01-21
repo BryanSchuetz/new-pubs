@@ -15,7 +15,18 @@ The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An eff
 **Shapefile Downloads**
 *Separate shapefiles for each municipality are available here. Each file uses the EPSG:4326 projection.*
 
-(put table here)
+|  Municipality  | Num Parcels | Download |
+|:--------------:|:-----------:|:--------:|
+|    Faizabad    |    11972    | download |
+|   Pul-e Kumri  |    24248    | download |
+|      Khulm     |     7925    | download |
+| Mazar-e Sharif |    79865    | download |
+|     Andkhoy    |     9657    | download |
+|     Maymana    |    13740    | download |
+|   Sheberghan   |    24823    | download |
+|     Kunduz     |    31531    | download |
+|      Aybak     |     5210    | download |
+|    Sar-e Pul   |     9685    | download |
 
 ## The Uses of Parcel Boundaries
 The parcel data is applicable to a variety of situations and is probably most valuable to Afghan municipal governments and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
