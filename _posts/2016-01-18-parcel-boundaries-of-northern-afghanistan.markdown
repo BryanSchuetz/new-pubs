@@ -6,6 +6,8 @@ tags:
 Author: John DeRiggi
 ---
 
+![Parcel Boundaries 1.jpg](/uploads/Parcel Boundaries 1.jpg)
+
 RAMP UP North's objective was to strengthen municipal governments in the northern part of Afghanistan. The principal component of this effort involved using a land management system to help government officials provide better services for their municipalities. The data presented here is the output of the the GIS analysts work to demarcate the boundaries of every parcel of property in the municipalities
 
 The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An effort was made to check data quality pertaining to gaps between adjacent boundaries but some gaps may still exist.
