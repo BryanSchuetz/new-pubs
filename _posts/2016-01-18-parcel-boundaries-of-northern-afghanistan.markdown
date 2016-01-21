@@ -44,15 +44,16 @@ The easiest way to work with the data is to open it up in your favorite GIS. QGI
 Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.
 
 **Mazar-e Sharif**
-
+![Parcel Boundaries 3.jpg](/uploads/Parcel Boundaries 3.jpg)
 **Faizabad**
-
+![Parcel Boundaries 4.jpg](/uploads/Parcel Boundaries 4.jpg)
 **Pulekhumri**
-
+![Parcel Boundaries 5.jpg](/uploads/Parcel Boundaries 5.jpg)
 **Khulm**
-
+![Parcel Boundaries 6.jpg](/uploads/Parcel Boundaries 6.jpg)
 **Maymana**
-
+![Parcel Boundaries 7.jpg](/uploads/Parcel Boundaries 7.jpg)
 **Shberghan**
-
+![Parcel Boundaries 8.jpg](/uploads/Parcel Boundaries 8.jpg)
 **Kunduz**
+![Parcel Boundaries 9.jpg](/uploads/Parcel Boundaries 9.jpg)
