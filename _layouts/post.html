@@ -8,7 +8,13 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
-      <p class="post-details--byline">{% if page.Author %}By <a href="/authors/{{ page.Author | downcase | split: ' ' | join: '-'  }}/" class="without-style">{{ page.Author }}</a>{% endif %}</p>
+      {% for author in site.authors %}
+        {% if author.title == page.Author %}
+          {% assign author_link = author.url %}
+        {% endif %}
+      {% endfor %}
+      {% assign author_slug = page.Author | slugify %}
+      <p class="post-details--byline">By {% if author_link contains author_slug %}<a href="/authors/{{ page.Author | downcase | split: ' ' | join: '-'  }}/" class="without-style">{% endif %}{{ page.Author }}{% if author_link contains author_slug %}</a>{% endif %}</p>
       <p class="post-details--tags">Tags: {% for tag in page.tags %}<span class="post-topic"><a href="/tags/?tag={{ tag | downcase | split:' ' | join: '-'}}" class="without-style">{{ tag }}</a></span>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
     </div>
   </header>
