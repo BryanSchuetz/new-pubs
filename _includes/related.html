@@ -16,6 +16,7 @@
         {% if post.Author == page.title %}
           <!-- Show the post details -->
           <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% assign got_related = true%}
         {% endif %}
         <!-- Otherwise, if we're on a post -->
       {% else if page.layout == 'post' %}
