@@ -14,7 +14,7 @@ In October 2015, I was in El Salvador to help DAI launch the new USAID Employmen
 
 For a USAID project, understanding how local people interact with information flows is key to reaching beneficiaries in ways that are familiar to them, increasing the likelihood that content will create impact. In the case of the Employment Training Project, high mobile—particularly smartphone—adoption would open the door to a number of possibilities: connecting young Salvadorans to labor markets and job opportunities or even helping them design and promote their own apps as viable businesses. To get a better sense of how at-risk youth in El Salvador communicate, DAI hosted a small focus group with nine young people, averaging 21 years in age. Below are the results. But first, a brief discussion of mobile adoption in El Salvador:
 
-### Mobile Adoption in El Salvador
+## Mobile Adoption in El Salvador
 
 Despite their country’s poor economic performance, Salvadorans have been leading adopters of mobile technologies. According to [BuddeComm](http://www.budde.com.au/Research/El-Salvador-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses.html), the country’s mobile penetration rate in 2015 reached 146 percent, which means that there are 1.46 mobile connections for each person in El Salvador; a current population of [6.108](#) million means there are roughly 8.9 million mobiles connections in the country. The 1.46 figure suggests a rapid growth rate—18 percent—since 2013, when GSMA reported the same figure at 1.24 (or 124 percent) in their [Latin American Mobile Economy](#) report (see chart below).
 
@@ -22,7 +22,7 @@ Despite their country’s poor economic performance, Salvadorans have been leadi
 
 The chart shows active SIM penetration at 124 percent in El Salvador, while the overall proportion of the population that had at least one SIM (unique subscriber penetration) was 66 percent. The chart also gives a sense of where El Salvador stood in terms of mobile adoption relative to other Latin American countries back in 2013, but given the rapid evolution of the mobile market, I would anticipate that data from two years ago would have little bearing on today’s reality.
 
-### Findings: Key Highlights
+## Findings: Key Highlights
 
 A sample size of nine is clearly not representative of all young Salvadorians. We chose to do a quick and dirty analysis to get directional information on the communities the project will be operating in; with that caveat in mind, key highlights from the research include:
 
