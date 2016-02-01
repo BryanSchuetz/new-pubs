@@ -1,33 +1,34 @@
 ---
 layout: default
 ---
-
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
   <article class="post-content">
     {{ content }}
-    <!-- Organize post tags  -->
+    {% comment %}
+      Loop through all site tags. For each tag, create a container with the tag title, and all posts containing that tag. Hide the container by default and use the tag slug as an ID for the container
+    {% endcomment %}
     {% assign sorted_tags = site.tags | sort %}
-    <!-- Loop through all the tags and create a container to hold all the posts for that tag -->
     {% for tag in sorted_tags %}
-      <div class="tag-archive--block" id="{{ tag[0] | slugify }}">
-        <h2>{{ tag[0] }}</h2>
-        {% for post in site.posts %}
-          {% for post_tag in post.tags %}
-          <!-- Loop through all posts on the site and list them if they have the current tag -->
-            {% if post_tag == tag[0] %}
+      <div class="tag-archive--block" id="{{ tag | first | slugify }}">
+        <h2>{{ tag | first }}</h2>
+        {% assign posts = tag | last %}
+        {% for post in posts %}
               <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-            {% endif %}
-          {% endfor %}
         {% endfor %}
       </div>
-      <script type="text/javascript">
-        if(location.search == "?tag={{ tag[0] | slugify }}"){
-          $('#{{ tag[0] | slugify}}').show();
-        }
-      </script>
-      {% endfor %}
+      {% comment %}
+        Use Javascript to grab the `tag` paramater from the URL—the tag paramater is set in the URL when a user clicks on a tag link in a post—then show the associated div.
+      {% endcomment %}
+    {% endfor %}
+    <script type="text/javascript">
+    {% for tag in sorted_tags %}
+      if(location.search == "?tag={{ tag | first | slugify }}"){
+        $('#{{ tag | first | slugify}}').show();
+      }
+    {% endfor %}
+    </script>
   </article>
 </div>
