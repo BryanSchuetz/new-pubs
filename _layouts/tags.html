@@ -3,30 +3,31 @@ layout: default
 ---
 
 <div class="post">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
   <article class="post-content">
     {{ content }}
+    <!-- Organize post tags  -->
     {% assign sorted_tags = site.tags | sort %}
-      {% for tag in sorted_tags %}
-      <div class="tag-archive--block" id="{{ tag[0] | downcase | split:' ' | join: '-'}}">
+    <!-- Loop through all the tags and create a container to hold all the posts for that tag -->
+    {% for tag in sorted_tags %}
+      <div class="tag-archive--block" id="{{ tag[0] | slugify }}">
         <h2>{{ tag[0] }}</h2>
-        {% assign filter_tag = tag[0] %}
         {% for post in site.posts %}
-          {% for tag in post.tags %}
-            {% if tag == filter_tag %}
-              <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h2>
+          {% for post_tag in post.tags %}
+          <!-- Loop through all posts on the site and list them if they have the current tag -->
+            {% if post_tag == tag[0] %}
+              <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
             {% endif %}
           {% endfor %}
         {% endfor %}
       </div>
-        <script type="text/javascript">
-          if(location.search == "?tag={{ tag[0] | downcase | split:' ' | join: '-'}}"){
-            $('#{{ tag[0] | downcase | split:' ' | join: '-'}}').show();
-          }
-        </script>
+      <script type="text/javascript">
+        if(location.search == "?tag={{ tag[0] | slugify }}"){
+          $('#{{ tag[0] | slugify}}').show();
+        }
+      </script>
       {% endfor %}
   </article>
 </div>
