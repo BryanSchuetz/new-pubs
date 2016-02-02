@@ -8,6 +8,8 @@ Author: Anand Varghese
 layout: post
 ---
 
+<aside>*Note: This isn’t a statistically significant study, and it wasn’t intended to be. The sample was not randomly selected, so these results can’t be generalized to the population. In addition, all the respondents were educated women from urban areas, so skews are inevitable. However, such caveats don’t stop projects from using these insights to quickly gauge how they might engage their target audiences using ICT tools. The ICT team will be working with DAI’s projects across the globe to make this kind of ‘quick and dirty’ consumer insights study a core function of their on-the-ground data-gathering efforts.*</aside>
+
 In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is the second in a series of two blog posts about my time there. Find the first post [here](#). This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You can find them [here](#).
 
 <!--more-->
@@ -39,5 +41,3 @@ Since the WIE project is focused on helping female jobseekers, we also asked res
 ## Interest in technology as a job-seeking tool
 
 The vast majority of respondents (96 percent) is interested in improving their job-hunting skills via technology and would prefer to receive such training via online video (35 percent), smartphone app (31 percent), or SMS/IVR capabilities (24 percent). However, very few (around 12 percent) have received any form of online training in the past. Therefore, WIE would need to do some amount of capacity training or deeper market research in this area to explore whether technology is a viable method of skills transfer.
-
-<aside>*Note: This isn’t a statistically significant study, and it wasn’t intended to be. The sample was not randomly selected, so these results can’t be generalized to the population. In addition, all the respondents were educated women from urban areas, so skews are inevitable. However, such caveats don’t stop projects from using these insights to quickly gauge how they might engage their target audiences using ICT tools. The ICT team will be working with DAI’s projects across the globe to make this kind of ‘quick and dirty’ consumer insights study a core function of their on-the-ground data-gathering efforts.*</aside>
