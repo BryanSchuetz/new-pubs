@@ -8,10 +8,10 @@ Author: Anand Varghese
 layout: post
 ---
 
-'<p font-size:9>'
-<aside>*In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries.*
+<aside>
+*In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries.*
 </aside>
-'</p>'
+
 <!--more-->
 
 Before diving into any technology-based programming, the WIE team decided to do some research into how their target audience—educated Afghan women between the ages of 18 and 30—gather information, use technology tools, and consume media. To do this, we created a questionnaire and deployed it using a newly developed data collection and visualization tool called First Mile Geo. WIE’s regional managers, based in Kabul, Kandahar, Jalalabad, Mazar-e-Sharif, and Herat, used First Mile’s mobile-based and paper-based collection tools to gather data from 50 young women around the country*.
