@@ -9,7 +9,7 @@ layout: post
 ---
 
 <aside>
-<p style=font-size:9px>
+<p style=font-size:9px;>
 *In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries.*
 </p>
 </aside>
