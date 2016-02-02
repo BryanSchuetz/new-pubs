@@ -24,13 +24,26 @@ Find additional results from the study below.
 
 All of the respondents own a mobile phone, and 90 percent of them have access to the internet. However, 60 percent report that other members of the family used these phones quite often—i.e. it’s a shared resource for the family. More than 75 percent of respondents own smartphones, and for a plurality (41 percent), mobile 3G is the only source of internet access. Two-thirds of respondents access the internet at home, and most (40 percent) access the internet between 7 and 10 p.m.
 
-![1.jpg](/uploads/1.jpg)
 ***Chart 1: Do you own a smartphone?***
 *Chart created on First Mile Geo*
+![1.jpg](/uploads/1.jpg)
+
+
+***Chart 2: Internet access: mobile 3G v computers***
+*Chart created on First Mile Geo*
+![2.jpg](/uploads/2.jpg)
 
 ## Popular messaging and social networking platforms
 
 Almost three-quarters of the respondents (73 percent) are active on social networks, and Facebook by far was the most popular social networking platform (used by 73 percent of those active on social networks). Viber is the most common messaging app, preferred by about 47 percent of respondents.
+
+***Chart 3: Popular social networking platforms***
+*Chart created on First Mile Geo*
+![3.jpg](/uploads/3.jpg)
+
+***Chart 4: Popular messaging apps***
+*Chart created on First Mile Geo*
+![4.jpg](/uploads/4.jpg)
 
 ## Media consumption habits
 
