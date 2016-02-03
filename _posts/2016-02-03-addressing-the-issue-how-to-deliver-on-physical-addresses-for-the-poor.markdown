@@ -20,7 +20,8 @@ The proliferation of mobile technology has already made it easier to connect wit
 
 ## OkHi: Changing the Game
 In 2014, OkHi was voted the best startup in the booming Kenyan startup scene at the Seedstars world competition. The Nairobi-based startup has received funding from notable Silicon Valley investors to deliver on its mission to empower Kenyan residents with a working address simply and effectively. The app uses geo-tagged photographs of the user’s front door/gate to allow the user to share his or her location via WhatsApp, SMS or email.
-  
+
+***An OkHi address consists of a location on Google Maps and a photo of the front of the address to allow the user to know that he or she is at the right door.***  
 ![Addressing 11.jpg](/uploads/Addressing 11.jpg)
 
 OkHi’s founder and CEO Timbo Drayson says the startup has initially worked with e-commerce companies and has helped them cut delivery times by 50%. Drayson sees the technology as offering a simple and effective way to physically connect people without addresses to improve the delivery of public and private services, as well as to provide people with another form of identity proof, helping them qualify for services.
