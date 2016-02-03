@@ -26,12 +26,14 @@ In 2014, OkHi was voted the best startup in the booming Kenyan startup scene at 
 
 OkHi’s founder and CEO Timbo Drayson says the startup has initially worked with e-commerce companies and has helped them cut delivery times by 50%. Drayson sees the technology as offering a simple and effective way to physically connect people without addresses to improve the delivery of public and private services, as well as to provide people with another form of identity proof, helping them qualify for services.
 The startup has gained local visibility, but its ambition is much broader. Drayson hopes that this simple approach will eventually be adopted globally by users around the world looking to connect with each other.
-What3Words
+
+## What3Words
 While OkHi enables users to share their individual locations with targeted users, UK-based What3Words is working on allowing people to locate each other without actively having to tag their location. Instead, What3Words’ approach automatically assigns every location an address, essentially taking over the mapping and addressing responsibility usually handled by local municipalities. How is this done? It’s simple. 
 The company has sliced the world into 3x3 meter square grids, and assigned each grid square with a unique combination of 3 words to avoid using GPS coordinates to describe a location. A user can find the unique 3 word combination associated with his or her specific location.
 
- 
-
+***The location of my desk at DAI's Bethesda offices is represented by the words "power.wishes.eating"***
+![Addressing 3.jpg](/uploads/Addressing 3.jpg)
 
 In Rio de Janeiro, a local company Grupo Cartero Amigo set up a postal system in the country’s largest favela not served by the Brazilian national postal system. The case is a model for how such a system might be used by actors the world over. 
+
 Whether it is used for applications that require active user geo-tagging or for those that don’t, mobile GPS technology clearly represents a possible game changer for individuals, businesses and even public institutions operating in the worlds vast un-addressed areas. How quickly and successfully such usage scales remains to be seen.
