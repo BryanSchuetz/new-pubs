@@ -5,7 +5,7 @@ tags:
 - GPS
 - Entrepreneurship
 - Physical Addressing
-Author: Karim Bin-Humam
+Author: <a href="http://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>
 ---
 
 # Where the Streets have No Name
