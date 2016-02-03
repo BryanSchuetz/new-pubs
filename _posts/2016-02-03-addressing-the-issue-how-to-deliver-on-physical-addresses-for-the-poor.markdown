@@ -18,10 +18,10 @@ Large sums of money have been invested in developing addressing systems in areas
 # Enter GPS Technology
 The proliferation of mobile technology has already made it easier to connect with informal communities largely under the radar. Connecting these communities with public and private services empowers them to improve livelihoods, and innovative GPS-based innovations may have the potential to offer them a work-around for lacking public infrastructure. Some startups have taken up the issue of physical addressing with GPS specifically for this purpose:
 
-# OkHi: Changing the Game
+## OkHi: Changing the Game
 In 2014, OkHi was voted the best startup in the booming Kenyan startup scene at the Seedstars world competition. The Nairobi-based startup has received funding from notable Silicon Valley investors to deliver on its mission to empower Kenyan residents with a working address simply and effectively. The app uses geo-tagged photographs of the user’s front door/gate to allow the user to share his or her location via WhatsApp, SMS or email.
   
-[Addressing 11.jpg](/uploads/Addressing 11.jpg)
+[Addressing 1.jpg](/uploads/Addressing 1.jpg)
 
 OkHi’s founder and CEO Timbo Drayson says the startup has initially worked with e-commerce companies and has helped them cut delivery times by 50%. Drayson sees the technology as offering a simple and effective way to physically connect people without addresses to improve the delivery of public and private services, as well as to provide people with another form of identity proof, helping them qualify for services.
 The startup has gained local visibility, but its ambition is much broader. Drayson hopes that this simple approach will eventually be adopted globally by users around the world looking to connect with each other.
