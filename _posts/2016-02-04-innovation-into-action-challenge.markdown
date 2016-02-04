@@ -18,11 +18,11 @@ Entry is open to businesses and nonprofit organizations around the world, and th
 
 The competition is focused on six areas:
 
-1. Governance and Services: Fostering dialogue between governments and citizens.
-2. Workforce Development: Equipping young people with skills and ways to connect to the labor market.
-3. Data Analytics: Improving monitoring, service delivery, and impact of projects related to health, education, energy, water and sanitation.
-4. Knowledge Management: Facilitating learning and collaboration among development partners.
-5. Climate Change Adaptation: Helping monitor and respond to changes in the environment.
-6. Agriculture: Improve and secure food production and distribution.
+* Governance and Services: Fostering dialogue between governments and citizens.
+* Workforce Development: Equipping young people with skills and ways to connect to the labor market.
+* Data Analytics: Improving monitoring, service delivery, and impact of projects related to health, education, energy, water and sanitation.
+* Knowledge Management: Facilitating learning and collaboration among development partners.
+* Climate Change Adaptation: Helping monitor and respond to changes in the environment.
+* Agriculture: Improve and secure food production and distribution.
 
 Entries are due on February 29th. Find out more here.
