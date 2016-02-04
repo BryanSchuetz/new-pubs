@@ -3,7 +3,7 @@ title: Parcel Boundaries of Northern Afghanistan
 date: 2016-01-18 19:46:00 Z
 tags:
 - Afghanistan
-Author: John DeRiggi
+Author: John Deriggi
 ---
 
 ![Parcel Boundaries 1.jpg](/uploads/Parcel Boundaries 1.jpg)
