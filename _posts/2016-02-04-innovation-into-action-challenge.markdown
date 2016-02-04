@@ -1,6 +1,10 @@
 ---
 title: Innovation Into Action Challenge
 date: 2016-02-04 17:23:00 Z
+tags:
+- innovation
+- challenge
+Author: Anand Varghese
 ---
 
 # Enter the DAI Innovation into Action Challenge!
