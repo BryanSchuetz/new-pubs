@@ -8,10 +8,11 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-## Where the Streets have No Name
 Did you know that 4 billion people the world over make do every day without a physical address? Consider the last time you opened a bank account or applied for a loan – you were probably asked for a home address to verify your identity. Imagine calling an ambulance in an emergency situation and trying to explain where you were if your street had no name and your home had no number. How would you register to vote? How would you get supplies to and from your office?
 
 <!--more-->
+
+## Where the Streets have No Name
 
 For the individual, not having a physical address can be tantamount to not having a registered identity, making seemingly basic and often essential tasks difficult. Participating in political processes, accessing finance, and conducting business that involves delivery of official documents can all be excruciatingly time-consuming endeavors in areas where people live off the radar. The same is true for enterprises whose efficiency and reach is limited by reliance upon ad-hoc local networks to physically link goods and services.
 
