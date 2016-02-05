@@ -18,15 +18,15 @@ defaults:
     path: ''
     type: posts
   values:
-    Author: 
+    Author:
     layout: post
 - scope:
     path: ''
     type: authors
   values:
     layout: author
-    Job: 
-    Image: 
+    Job:
+    Image:
 gems:
 - jekyll-paginate
 paginate: 3
@@ -40,9 +40,8 @@ excerpt_separator: "<!--more-->"
 email: your-email@domain.com
 exclude:
 - ".gitignore"
-description: |
-  Write an awesome description for your new site here.
-baseurl: 
+description: The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward
+baseurl:
 destination: "./build"
 sass:
   style: compressed
