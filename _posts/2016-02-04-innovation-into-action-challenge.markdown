@@ -7,9 +7,9 @@ tags:
 Author: Anand Varghese
 ---
 
-Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in international development? DAI and a group of partners have come together to launch the “[Innovation into Action Challenge,](https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai)” and we’re looking for people like you! 
-
 ![innovationchallenge1.jpg](/uploads/innovationchallenge1.jpg)
+
+Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in international development? DAI and a group of partners have come together to launch the “[Innovation into Action Challenge,](https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai)” and we’re looking for people like you! 
 
 <!--more-->
  
