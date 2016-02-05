@@ -1,6 +1,7 @@
 ---
 title: Krista Baptista
 date: 2016-02-04 14:53:00 Z
+published: false
 Job: Manager, ICT Services
 Image: "/uploads/BaptistaInner1.jpg"
 ---
