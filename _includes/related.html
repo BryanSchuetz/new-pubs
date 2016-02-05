@@ -19,7 +19,7 @@
           {% assign got_related = true%}
         {% endif %}
         <!-- Otherwise, if we're on a post -->
-      {% else if page.layout == 'post' %}
+      {% elsif page.layout == 'post' %}
         <!-- Loop through the post tags -->
         {% for tag in page.tags %}
           <!-- Compare each tag in each post to each tag on the page -->
