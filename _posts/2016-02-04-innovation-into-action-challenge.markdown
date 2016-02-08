@@ -17,7 +17,7 @@ DAI and a group of partners have come together to launch the “[Innovation into
  
 Entry is open to businesses and nonprofit organizations around the world, and three winners will receive:
 
-* $20K in support 
+* $20,000 in support 
 
 * The opportunity to test your product or service in the field
 
@@ -32,4 +32,4 @@ The competition is focused on six areas:
 * Climate Change Adaptation: Helping monitor and respond to changes in the environment.
 * Agriculture: Improve and secure food production and distribution.
 
-Entries are due on February 29th. Find out more here.
+Entries are due on February 29. Find out more here.
