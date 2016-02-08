@@ -17,7 +17,7 @@ For a USAID project, understanding how local people interact with information fl
 
 ## Mobile Adoption in El Salvador
 
-Despite their country’s poor economic performance, Salvadorans have been leading adopters of mobile technologies. According to [BuddeComm](http://www.budde.com.au/Research/El-Salvador-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses.html), the country’s mobile penetration rate in 2015 reached 146 percent, which means that there are 1.46 mobile connections for each person in El Salvador; a current population of [6.108](#) million means there are roughly 8.9 million mobiles connections in the country. The 1.46 figure suggests a rapid growth rate—18 percent—since 2013, when GSMA reported the same figure at 1.24 (or 124 percent) in their [Latin American Mobile Economy](#) report (see chart below).
+Salvadorans have been leading adopters of mobile technologies. According to [BuddeComm](http://www.budde.com.au/Research/El-Salvador-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses.html), the country’s mobile penetration rate in 2015 reached 146 percent, which means that there are 1.46 mobile connections for each person in El Salvador; a current population of [6.108](#) million means there are roughly 8.9 million mobiles connections in the country. The 1.46 figure suggests a rapid growth rate—18 percent—since 2013, when GSMA reported the same figure at 1.24 (or 124 percent) in their [Latin American Mobile Economy](#) report (see chart below).
 
 ![chart.png](/uploads/chart.png)
 
@@ -27,7 +27,7 @@ The chart shows active SIM penetration at 124 percent in El Salvador, while the 
 
 A sample size of nine is clearly not representative of all young Salvadorians. We chose to do a quick and dirty analysis to get directional information on the communities the project will be operating in; with that caveat in mind, key highlights from the research include:
 
-* All FG participants had mobile phones, but only one-third reported using SMS to chat, while 78 percent reported using WhatsApp and Facebook. WhatsApp is becoming the “appa franca” in Central America, where companies promote their services via WhatsApp and mobile network operators (MNOs) promote their services based on access to WhatsApp
+* All FG participants had mobile phones, but only one-third reported using SMS to chat, while 78 percent reported using WhatsApp and Facebook. WhatsApp is becoming the “appa franca” in Central America, where companies promote their services via WhatsApp and mobile network operators (MNOs) promote their services based on access to WhatsApp.
 * 44 percent of participants had smartphones, however 78 percent reported using both Facebook and WhatsApp on their phones. This may be due to problems with the language of the survey, the presence of other types of phones (e.g. feature phones) that I didn’t account for, or the possibility that they’re using Facebook and WhatsApp on others’ phones.
 * Similarly, only one-third of participants had mobile data plans but 78 percent reported using Facebook and WhatsApp. This suggests that young people are using wifi connections instead of data plans.
 
