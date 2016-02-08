@@ -2,7 +2,7 @@
 title: Open Data Release! Parcel Boundaries of Northern Afghanistan
 date: 2016-01-18 19:46:00 Z
 categories:
-- open data
+- open-data
 tags:
 - Afghanistan
 Author: John Deriggi
