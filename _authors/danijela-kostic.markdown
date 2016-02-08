@@ -1,7 +1,6 @@
 ---
 title: Danijela Kostic
 date: 2016-02-04 14:52:00 Z
-published: false
 Job: Senior ICT Specialist, ICT
 Image: "/uploads/DanijelaMInner.jpg"
 ---
