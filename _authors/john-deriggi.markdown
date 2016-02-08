@@ -1,5 +1,5 @@
 ---
-title: John Deriggi
+title: John DeRiggi
 date: 2016-02-04 14:50:00 Z
 Job: Senior Geospatial Products Developer, ICT
 Image: "/uploads/DeRiggiInner.jpg"
