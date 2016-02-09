@@ -29,7 +29,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 |     Andkhoy    |     9657    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpZ1BNeDNzbmQwX1U/view?usp=sharing)|
 |     Maymana    |    13740    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpejduM2ZLcUNGZ3c/view?usp=sharing )|
 |   Sheberghan   |    24823    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpaDFZbFdyUkJqbFE/view?usp=sharing)|
-|     Kunduz     |    31531    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpTjFkQldDWjBpeVE/view?usp=sharing)|
+|     Kunduz     |    31531    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpZlhEMHY5TkFzX2M/view?usp=sharing)|
 |      Aybak     |     5210    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpU1VTLTBzM0tYMEk/view?usp=sharing)|
 |    Sar-e Pul   |     9685    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpS2x0d2J2UjNqUEk/view?usp=sharing)|
 
