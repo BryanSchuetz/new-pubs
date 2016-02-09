@@ -5,7 +5,7 @@ categories:
 - open-data
 tags:
 - Afghanistan
-- open data
+- Open Data
 Author: John DeRiggi
 ---
 
