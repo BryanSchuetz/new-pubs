@@ -22,7 +22,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 |  Municipality  | Num Parcels | Download |
 |:--------------:|:-----------:|:--------:|
 |    Faizabad    |    11972    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpb0xsNkZnZ1h5VDg/view?usp=sharing)|
-|   Pul-e Kumri  |    24248    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Baghlan)|
+|   Pul-e Kumri  |    24248    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpOWxjWjhfTlJIQUE/view?usp=sharing)|
 |      Khulm     |     7925    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Balkh)|
 | Mazar-e Sharif |    79865    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Balkh)|
 |     Andkhoy    |     9657    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Faryab)|
