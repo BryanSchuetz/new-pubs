@@ -48,7 +48,7 @@ The easiest way to work with the data is to open it up in your favorite GIS. QGI
 * Choose one of the files from the table above and download it and unzip it
 * Open up QGIS
 * Drag the .shp file onto your workspace 
-
+[Go fullscreen with this animation(http://dai-global-digital.com/uploads/mazarinqgis.gif)
 ![Parcel Boundaries 2.jpg](/uploads/mazarinqgis.gif)
 
 
