@@ -44,9 +44,9 @@ After the Haiti earthquake, there was a conspicuous lack of spatial data about b
 
 The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for analyzing shapefiles. [Download QGIS](http://www.qgis.org/en/site/forusers/download.html) if you do not already have it on your machine:
 
-●	Choose one of the files from the table above and download it and unzip it
-●	Open up QGIS
-●	Drag the .shp file onto your workspace 
+* Choose one of the files from the table above and download it and unzip it
+* Open up QGIS
+* Drag the .shp file onto your workspace 
 
 ![Parcel Boundaries 2.jpg](/uploads/Parcel Boundaries 2.jpg)
 
