@@ -26,7 +26,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 |   Pul-e Kumri  |    24248    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpejBfM0pJU1lmWms/view?usp=sharing)|
 |      Khulm     |     7925    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpaEE5c25INzB6c3M/view?usp=sharing)|
 | Mazar-e Sharif |    79865    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpdXB4Y0ZMemJyV0E/view?usp=sharing)|
-|     Andkhoy    |     9657    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpSmU0c1BoeE4zeEE/view?usp=sharing)|
+|     Andkhoy    |     9657    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpZ1BNeDNzbmQwX1U/view?usp=sharing)|
 |     Maymana    |    13740    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpejduM2ZLcUNGZ3c/view?usp=sharing )|
 |   Sheberghan   |    24823    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpaDFZbFdyUkJqbFE/view?usp=sharing)|
 |     Kunduz     |    31531    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpbHRpek5IUmlTTmM/view?usp=sharing)|
