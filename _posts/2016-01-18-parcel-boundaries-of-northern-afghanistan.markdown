@@ -6,7 +6,7 @@ categories:
 tags:
 - Afghanistan
 - open data
-Author: John Deriggi
+Author: John DeRiggi
 ---
 
 ![Parcel Boundaries 1.jpg](/uploads/afghanparcelstitle.png)
