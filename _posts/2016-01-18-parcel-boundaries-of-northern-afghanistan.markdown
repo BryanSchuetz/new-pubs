@@ -26,7 +26,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 |      Khulm     |     7925    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpbDg0eU5mNDFxSW8/view?usp=sharing)|
 | Mazar-e Sharif |    79865    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpQlc4SEYtZDlrWDA/view?usp=sharing)|
 |     Andkhoy    |     9657    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpSmU0c1BoeE4zeEE/view?usp=sharing)|
-|     Maymana    |    13740    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Faryab)|
+|     Maymana    |    13740    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpUDJOT0p4czdHRkU/view?usp=sharing)|
 |   Sheberghan   |    24823    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Jawzjan)|
 |     Kunduz     |    31531    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Kunduz)|
 |      Aybak     |     5210    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Samangan)|
