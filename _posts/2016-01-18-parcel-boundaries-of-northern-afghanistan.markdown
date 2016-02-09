@@ -9,7 +9,7 @@ tags:
 Author: John DeRiggi
 ---
 
-![Parcel Boundaries 1.jpg](/uploads/afghanparcelstitle.png)
+![Parcel Boundaries 1.jpg](/uploads/afghanparcelstitle_sm.png)
 
 The USAID-funded RAMP UP North’s objective was to strengthen municipal governments in the northern part of Afghanistan. The principal component of this effort involved using a land management system to help government officials provide better services for their municipalities. The data presented here is the output of the geographic information system (GIS) analysts’ work to demarcate the boundaries of every parcel of property in the municipalities
 
