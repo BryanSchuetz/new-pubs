@@ -29,7 +29,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 |     Maymana    |    13740    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpUDJOT0p4czdHRkU/view?usp=sharing )|
 |   Sheberghan   |    24823    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpY2dFb3EtcXo3ZU0/view?usp=sharing)|
 |     Kunduz     |    31531    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpbHRpek5IUmlTTmM/view?usp=sharing)|
-|      Aybak     |     5210    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Samangan)|
+|      Aybak     |     5210    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpU1VTLTBzM0tYMEk/view?usp=sharing)|
 |    Sar-e Pul   |     9685    | [download ](https://github.com/deriggi/RAMPUPNorthData/blob/master/municipal_parcels_export/Sarepul)|
 
 
