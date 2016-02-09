@@ -22,7 +22,7 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 |  Municipality  | Num Parcels | Download |
 |:--------------:|:-----------:|:--------:|
 |    Faizabad    |    11972    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpb0xsNkZnZ1h5VDg/view?usp=sharing)|
-|   Pul-e Kumri  |    24248    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpOWxjWjhfTlJIQUE/view?usp=sharing)|
+|   Pul-e Kumri  |    24248    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpejBfM0pJU1lmWms/view?usp=sharing)|
 |      Khulm     |     7925    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpbDg0eU5mNDFxSW8/view?usp=sharing)|
 | Mazar-e Sharif |    79865    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpQlc4SEYtZDlrWDA/view?usp=sharing)|
 |     Andkhoy    |     9657    | [download ](https://drive.google.com/file/d/0B9Y8IICmeFgpSmU0c1BoeE4zeEE/view?usp=sharing)|
