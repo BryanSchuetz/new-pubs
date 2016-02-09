@@ -17,7 +17,7 @@ The USAID-funded RAMP UP North’s objective was to strengthen municipal governm
 The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An effort was made to check data quality pertaining to gaps between adjacent boundaries but some gaps may still exist.
 
 **Shapefile Downloads**
-*Separate shapefiles for each municipality are available here. Each file uses the EPSG:4326 projection.*
+*Separate shapefiles for each municipality are available here. Each download contains the parcel data and the district boundaries. Parcel shapefiles end with _p and district shapefiles end with _d. The projection for these files is EPSG:4326.*
 
 |  Municipality  | Num Parcels | Download |
 |:--------------:|:-----------:|:--------:|
