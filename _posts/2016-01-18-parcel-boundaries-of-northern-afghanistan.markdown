@@ -49,7 +49,7 @@ The easiest way to work with the data is to open it up in your favorite GIS. QGI
 * Open up QGIS
 * Drag the .shp file onto your workspace
  
-[Go fullscreen with this animation](http://dai-global-digital.com/uploads/mazarinqgis.gif)
+[View animation fullscreen ](http://dai-global-digital.com/uploads/mazarinqgis.gif)
 
 ![Parcel Boundaries 2.jpg](/uploads/mazarinqgis.gif)
 
