@@ -1,7 +1,6 @@
 ---
 title: 'Consumer Insights El Salvador: Mobile Adoption'
 date: 2016-01-06 22:27:00 Z
-published: false
 tags:
 - Consumer Insights
 - El Salvador
