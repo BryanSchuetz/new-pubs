@@ -30,6 +30,6 @@ The competition is focused on six areas:
 * Data Analytics: Improving monitoring, service delivery, and impact of projects related to health, education, energy, water and sanitation.
 * Knowledge Management: Facilitating learning and collaboration among development partners.
 * Climate Change Adaptation: Helping monitor and respond to changes in the environment.
-* Agriculture: Improve and secure food production and distribution.
+* Agriculture: Improving and securing food production and distribution.
 
 Entries are due on February 29. Find out more here.
