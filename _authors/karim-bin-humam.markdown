@@ -1,7 +1,7 @@
 ---
 title: Karim Bin-Humam
 date: 2016-02-04 14:51:00 Z
-Job: Senior ICT Specialist, ICT
+Job: Senior ICT Specialist
 Image: "/uploads/Karim Inner.jpg"
 ---
 
