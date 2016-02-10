@@ -8,7 +8,7 @@ Author: Adam Fivenson
 layout: post
 ---
 
-In October 2015, I was in El Salvador to help DAI launch the new USAID Employment Training Project, which works to link at-risk Salvadoran youth to educational and employment opportunities, fostering social inclusion, and reducing the space for gangs to influence and recruit young people. While I was there, I made a point to get a sense of the role mobile phones play in young peoples’ lives: do most youth have mobile phones? If so, are they smartphones or basic phones? Which apps do they use? This is the second in a series of two blog posts I’m writing about my time in El Salvador. Find the first post here. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You can find them [here](/tags/?tag=consumer-insights).
+In October 2015, I was in El Salvador to help DAI launch the new U.S. Agency for International Development (USAID) Employment Training Project, which works to link at-risk Salvadoran youth to educational and employment opportunities, foster social inclusion, and reduce the space for gangs to influence and recruit young people. While I was there, I made a point to get a sense of the role mobile phones play in young peoples’ lives: do most youth have mobile phones? If so, are they smartphones or basic phones? Which apps do they use? This is the second of two blog posts I’m writing about my time in El Salvador. Find the first post here. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You can find them [here](/tags/?tag=consumer-insights).
 
 <!--more-->
 
@@ -24,10 +24,10 @@ The chart shows active SIM penetration at 124 percent in El Salvador, while the 
 
 ## Findings: Key Highlights
 
-A sample size of nine is clearly not representative of all young Salvadorians. We chose to do a quick and dirty analysis to get directional information on the communities the project will be operating in; with that caveat in mind, key highlights from the research include:
+A sample size of nine is clearly not representative of all young Salvadorans. We chose to do a quick and dirty analysis to get directional information on the communities the project will be operating in; with that caveat in mind, key highlights from the research include:
 
-* All FG participants had mobile phones, but only one-third reported using SMS to chat, while 78 percent reported using WhatsApp and Facebook. WhatsApp is becoming the “appa franca” in Central America, where companies promote their services via WhatsApp and mobile network operators (MNOs) promote their services based on access to WhatsApp.
-* 44 percent of participants had smartphones, however 78 percent reported using both Facebook and WhatsApp on their phones. This may be due to problems with the language of the survey, the presence of other types of phones (e.g. feature phones) that I didn’t account for, or the possibility that they’re using Facebook and WhatsApp on others’ phones.
+* All FG participants had mobile phones, but only one-third reported using SMS to chat, while 78 percent reported using WhatsApp and Facebook. WhatsApp is becoming the “appa franca” in Central America, where companies promote their services via WhatsApp and mobile network operators promote their services based on access to WhatsApp.
+* 44 percent of participants had smartphones, but 78 percent reported using both Facebook and WhatsApp on their phones. This may be due to problems with the language of the survey, the presence of other types of phones (e.g. feature phones) that I didn’t account for, or the possibility that they’re using Facebook and WhatsApp on others’ phones.
 * Similarly, only one-third of participants had mobile data plans but 78 percent reported using Facebook and WhatsApp. This suggests that young people are using wifi connections instead of data plans.
 
 <p><script id="infogram_0_el_salvador_mobile_usage" title="El Salvador Mobile Usage" src="//e.infogr.am/js/embed.js?7Nu" type="text/javascript"></script></p>
