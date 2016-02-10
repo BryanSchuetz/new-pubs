@@ -197,3 +197,15 @@ footer{
   padding-bottom: 3rem;
   clear: right;
 }
+
+
+// 🎌Print Styles🎌
+@media print{
+  .big-wrap{
+    @include width(8);
+  }
+  img.author-pic{
+      float: left;
+      margin-right: $gutter;
+  }
+}
