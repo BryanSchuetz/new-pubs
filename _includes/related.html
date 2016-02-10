@@ -1,5 +1,15 @@
 {% if page.layout  == 'author' %}
-  <h3>Recently, from {{ page.title }}:</h3>
+  {% for post in site.posts %}
+    {% if post.Author == page.title %}
+      {% assign published = 'true' %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% if published == 'true' %}
+    <h3>Recently, from {{ page.title }}:</h3>
+  {% else %}
+    <h3>Related Articles:</h3>
+  {% endif %}
 {% else %}
   <h3>Related Articles:</h3>
 {% endif %}
