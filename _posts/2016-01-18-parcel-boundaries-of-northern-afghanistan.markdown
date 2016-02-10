@@ -61,7 +61,7 @@ The easiest way to work with the data is to open it up in your favorite GIS. QGI
 
 ## Sample Visualizations
 
-Here some sample visualizations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.
+Here are some sample visualizations to give you an idea of how the municipalities vary in size and distribution. Each was made with QGIS.
 
 **Mazar-e Sharif**
 ![Parcel Boundaries 3.jpg](/uploads/Parcel Boundaries 3.jpg)
