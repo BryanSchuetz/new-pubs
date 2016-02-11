@@ -1,5 +1,5 @@
 ---
-title: 'Addressing the Issue: How to deliver on physical addresses for the poor'
+title: 'Addressing the Issue: How to Deliver on Physical Addresses for the Poor'
 date: 2016-02-03 14:24:00 Z
 tags:
 - GPS
