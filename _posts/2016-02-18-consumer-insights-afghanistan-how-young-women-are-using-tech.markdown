@@ -24,7 +24,7 @@ All of the respondents own a mobile phone, and 90 percent of them have access to
 
 ***[Chart 1: Do you own a smartphone?](/uploads/doYouOwnASmartPhone5.png)***
 
-![hand computer?](/uploads/doYouOwnASmartPhone5.png)
+[![hand computer?](/uploads/doYouOwnASmartPhone5.png)](/uploads/doYouOwnASmartPhone5.png)
 
 
 ***[Chart 2: Internet access: mobile 3G v computers](/uploads/InternetAccess2.png)***
