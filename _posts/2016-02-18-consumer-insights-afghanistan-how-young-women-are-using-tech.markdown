@@ -26,8 +26,8 @@ All of the respondents own a mobile phone, and 90 percent of them have access to
 ![do you though?](/uploads/doYouOwnASmartPhone3.png)
 
 
-***[Chart 2: Internet access: mobile 3G v computers](/uploads/InternetAccess.png)***
-![haz access?](/uploads/InternetAccess.png)
+***[Chart 2: Internet access: mobile 3G v computers](/uploads/InternetAccess1.png)***
+![haz access?](/uploads/InternetAccess1.png)
 
 ## Popular messaging and social networking platforms
 
