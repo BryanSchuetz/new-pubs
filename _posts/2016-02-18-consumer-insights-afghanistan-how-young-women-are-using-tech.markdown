@@ -34,8 +34,8 @@ All of the respondents own a mobile phone, and 90 percent of them have access to
 
 Almost three-quarters of the respondents (73 percent) are active on social networks, and Facebook by far was the most popular social networking platform (used by 73 percent of those active on social networks). Viber is the most common messaging app, preferred by about 47 percent of respondents.
 
-***[Chart 3: Popular social networking platforms](/uploads/PopularPlatforms1.png)***
-![who is the king of pop?](/uploads/PopularPlatforms1.png)
+***[Chart 3: Popular social networking platforms](/uploads/PopularPlatforms2.png)***
+![who is the king of pop?](/uploads/PopularPlatforms2.png)
 
 ***[Chart 4: Popular messaging apps](/uploads/PopularMessagePlatform.png)***
 
