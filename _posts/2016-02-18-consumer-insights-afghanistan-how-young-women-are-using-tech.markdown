@@ -36,9 +36,9 @@ Almost three-quarters of the respondents (73 percent) are active on social netwo
 ***[Chart 3: Popular social networking platforms](/uploads/PopularPlatforms1.png)***
 ![who is the king of pop?](/uploads/PopularPlatforms1.png)
 
-***[Chart 4: Popular messaging apps](/uploads/4.jpg)***
+***[Chart 4: Popular messaging apps](/uploads/PopularMessagePlatform.png)***
 
-![4.jpg](/uploads/4.jpg)
+![4.jpg](/uploads/PopularMessagePlatform.png)
 
 ## Media consumption habits
 
