@@ -1,7 +1,6 @@
 ---
 title: Sowing the Seeds of a Tech-for-Social-Good Ecosystem in Afghanistan
 date: 2016-02-04 15:02:00 Z
-published: false
 tags:
 - Afghanistan
 Author: Anand Varghese
