@@ -6,8 +6,9 @@ tags:
 Author: Anand Varghese
 ---
 
-In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded under the U.S. Agency for International Development (USAID)’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners. This is the first in a series of two posts I’m writing about my time there. Find the second post, click here.
+In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded under the U.S. Agency for International Development (USAID)’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners. 
 
+<!--more-->
 
 The technology sector, specifically telecommunications, has long been a bright spot in Afghanistan’s struggling post-war economy. During a recent trip I met with representatives from a number of established companies like [Roshan](http://www.roshan.af/) (a mobile provider), [Arif Azim](http://www.arifazim.com/) (a mobile value-added services (VAS) provider), and [Jobs.Af](http://www.jobs.af/) (a job portal) to explore the possibilities of partnership. I was not surprised that all of them were excited at the prospect of using their expertise, time, and resources in service of young jobseekers in Afghanistan. But I also noticed the beginnings of an even more encouraging, if more informal, phenomenon: the growth of a tech-for-social-good community in Afghanistan.
 
