@@ -5,6 +5,7 @@ published: false
 tags:
 - Innovation
 - El Salvador
+Author: Adam Fivenson
 ---
 
 A recent visit to El Salvador to help DAI launch the new USAID Employment Training Project made it clear that El Salvador’s budding technology, innovation, and entrepreneurship community is poised and ready to help solve the country’s youth unemployment problems.  Below are brief bios of five rockstars of the Salvadoran innovation, entrepreneurship, and technology scene who I was lucky enough to meet while I was there.  Please email us (digital@dai.com) if you would like an introduction!
