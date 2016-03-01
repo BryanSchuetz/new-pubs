@@ -78,7 +78,75 @@ Each country is indexed on those variables for every year from 1980 - 2013, with
 
 For an example of what the data looks like, here are the dimensions of the HDI for Ghana (GHA) and Haiti (HTI), with Ghana in the medium development class and Haiti in the low development class
 
-Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 208 countries would be difficult. One option is to simply sort the data by the HDI showing highly developed countries at the top and countries with low development at the bottom.
+<table>
+    <tr>
+        <th>
+            Country
+         </th>  
+          <th>
+            Gross National Income
+          </th>
+          <th>
+            Life Expectancy
+          </th>
+          <th>
+            Expected Years Schooling
+          </th>
+          <th>
+            Mean years schooling
+          </th>
+          <th>
+            HDI
+          </th>
+    </tr>
+    <tr>
+      <td>
+        GHA
+      </td>
+      <td>
+         3532.332
+      </td>
+      <td>
+         61.13
+      </td>
+       <td>
+         11.5
+      </td>
+      <td>
+         6.999
+      </td>
+      <td>
+         0.573
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        GHA
+      </td>
+      <td>
+         3532.332
+      </td>
+      <td>
+         61.13
+      </td>
+       <td>
+         11.5
+      </td>
+      <td>
+         6.999
+      </td>
+      <td>
+         0.573
+      </td>
+    </tr>
+
+    
+
+</table>
+
+
+Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 208 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
 
 Ranking by HDI helps identify the countries experiencing the lowest development, but it also obscures some nuances in the data. With data mining and visualization we can improve our understanding of the the data and how the countries are distributed according to the index.
 
