@@ -155,6 +155,7 @@ Ranking by HDI helps identify the countries experiencing the lowest development,
 
 Starting with a small data set, let’s put four car models into our dendrogram to see how they cluster by height and weight. We’ll look the Fiat 500, Mini Cooper, Hummer H3, Cadillac Escalade
 
+
 [Cars](/uploads/manycars.png)
 
 ![Cars](/uploads/manycars.png)
