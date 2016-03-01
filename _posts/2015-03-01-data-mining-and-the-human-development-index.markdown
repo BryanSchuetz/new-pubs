@@ -232,4 +232,5 @@ Using just a few lines of code using a programming environment called R, we can 
 
 We see right away that the diagram groups the data into two classes, big and tall cars(Hummer and Escalade) into one cluster and small and cars (fiat and mini cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. There is however, a difference in the clusters, the big cars are higher up along the y-axis than the small cars cluster. Height along the y-axis in a dendrogram represents the degree of dissimilarity. Therefore, the big-car cluster has a greater dissimilarity than the small-dog cluster. In other words, the big cars are less similar to each other than the cars in the small-car cluster.
 
+
 The most important job of the dendrogram is to identify classes and to show which data elements belong in each class. In the following image we show a line indicating the identification of two distinct classes identified by the dendrogram
