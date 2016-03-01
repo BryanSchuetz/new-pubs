@@ -254,4 +254,4 @@ Right away we see a big two-class split in the dendrogram, showing two classes a
 ![Dendrogram Highlighting extremes](/uploads/hdi_dendro_3.png)
 
 [High and low development countries](/uploads/extremes_table.png)
-![Extremes table](/uploads/extremes_table.png)
+![Extremes table](/uploads/extremes_table1.png)
