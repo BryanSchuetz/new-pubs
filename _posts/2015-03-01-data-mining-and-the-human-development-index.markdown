@@ -150,7 +150,7 @@ Comparing dimensions and HDI values for two countries is straightforward, but at
 [country table](/uploads/countrytable.png)
 ![country table](/uploads/countrytable.png)
 
-Ranking by HDI helps identify the countries experiencing the lowest development, but it also obscures some nuances in the data. With data mining and visualization we can improve our understanding of the the data and how the countries are distributed according to the index.
+Ranking by HDI helps identify the countries with the lowest and highest levels of development, but it also obscures some nuances in the data. With data mining and visualization we can improve our understanding of the the data and how the countries are distributed according to the index.
 
 ## Data Mining for Similarity
 
