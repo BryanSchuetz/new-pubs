@@ -157,7 +157,6 @@ Starting with a small data set, let’s put four car models into our dendrogram 
 
 
 [Cars](/uploads/manycars.png)
-
 ![Cars](/uploads/manycars.png)
 
 
