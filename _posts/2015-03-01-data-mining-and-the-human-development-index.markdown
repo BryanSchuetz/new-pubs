@@ -1,6 +1,9 @@
 ---
 title: Data Mining and the Human Development Index
 date: 2015-03-01 15:47:00 Z
+tags:
+- data mining
+- UN
 Author: John DeRiggi
 ---
 
@@ -28,4 +31,40 @@ Each country is indexed on those variables for every year from 1980 - 2013, with
             HDI
           </th>
     </tr>
+    <tr>
+      <td>
+        Very high human development
+      </td>
+      <td>
+         0.800 and above
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        High human development
+      </td>
+      <td>
+         0.700–0.799
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        Medium human development
+      </td>
+      <td>
+         0.550–0.699
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        Low human development
+      </td>
+      <td>
+         Below 0.550
+      </td>
+    </tr>
+
 </table>
