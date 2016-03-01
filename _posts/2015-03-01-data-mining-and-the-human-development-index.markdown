@@ -120,22 +120,22 @@ For an example of what the data looks like, here are the dimensions of the HDI f
 
     <tr>
       <td>
-        GHA
+        HTI
       </td>
       <td>
-         3532.332
+         1635.691
       </td>
       <td>
-         61.13
+         63.1
       </td>
        <td>
-         11.5
+         7.6
       </td>
       <td>
-         6.999
+         4.895
       </td>
       <td>
-         0.573
+         0.471
       </td>
     </tr>
 
