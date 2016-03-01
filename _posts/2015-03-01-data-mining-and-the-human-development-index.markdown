@@ -241,3 +241,6 @@ The most important job of the dendrogram is to identify classes and to show whic
 ## A Dendrogram for the Human Development Index
 
 Instead of just looking at two variables, we can use something slightly more complex like the four components in the human development index to cluster countries. Making the plot with nearly the same R script that we used for the dog example, we start to see some patterns right away. In our HDI dendrogram there are clearly two distinct groups, represented by the big tall branches at the root.
+
+[Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
+![Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
