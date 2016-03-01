@@ -235,7 +235,7 @@ The most important job of the dendrogram is to identify classes and to show whic
 
 
 [Highlighting two classes](/uploads/car_cluster_2b.png)
-![two classes](/uploads/car_cluster_2abpng)
+![two classes](/uploads/car_cluster_2b.png)
 
 ## A Dendrogram for the Human Development Index
 
