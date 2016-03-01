@@ -235,5 +235,5 @@ The diagram clearly groups the data into two classes, big and tall cars(Hummer a
 The most important job of the dendrogram is to identify classes and to show which data elements belong in each class. In the following image we show a line indicating the identification of two distinct classes identified by the dendrogram
 
 
-[Highlighting two classes](/uploads/car_cluster_2.png)
-![two classes](/uploads/car_cluster_2.png)
+[Highlighting two classes](/uploads/car_cluster_2a.png)
+![two classes](/uploads/car_cluster_2a.png)
