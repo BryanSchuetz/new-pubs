@@ -228,16 +228,16 @@ Starting with a small data set, let’s put four car models into our dendrogram 
 
 Using just a few lines of code using a programming environment called R, we can process the table and create our cluster diagram
 
-[Car Dendorogram](/uploads/car_cluster_1.png)
-![Car Dendorogram](/uploads/car_cluster_1.png)
+[Car Dendorogram](/uploads/car_cluster_1a.png)
+![Car Dendorogram](/uploads/car_cluster_1a.png)
 
 The diagram clearly groups the data into two classes, big and tall cars(Hummer and Escalade) into one cluster and small cars (fiat and mini cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. The height of the horizontal bar separating the clusters describes the degree of dissimilarity between them. 
 
 The most important job of the dendrogram is to identify classes and to show which data elements belong in each class. In the following image we show a line indicating the identification of two distinct classes identified by the dendrogram
 
 
-[Highlighting two classes](/uploads/car_cluster_2a.png)
-![two classes](/uploads/car_cluster_2a.png)
+[Highlighting two classes](/uploads/car_cluster_2b.png)
+![two classes](/uploads/car_cluster_2abpng)
 
 ## A Dendrogram for the Human Development Index
 
