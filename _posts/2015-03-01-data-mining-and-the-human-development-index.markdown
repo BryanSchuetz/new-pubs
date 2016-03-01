@@ -246,6 +246,7 @@ Instead of just looking at two variables, we can use something slightly more com
 
 Right away we see a big two-class split in the dendrogram, showing two classes at the top of the image. Looking at the countries it appears that the branch on the left are low-development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of difference between the two classes is much greater than of those lower down in the dendrogram
 
+
 ![Dendrogram for the HDI](/uploads/hdi_dendro_2.png)
 
 
