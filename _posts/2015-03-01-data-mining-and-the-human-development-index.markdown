@@ -283,3 +283,5 @@ All of this can be done with a few clicks in R, sample code and data from these 
 [Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
 
 [Hierarchical Cluster Analysis](http://www.econ.upf.edu/~michael/stanford/maeb7.pdf)
+
+[UN HDI](http://hdr.undp.org/en/content/human-development-index-hdi)
