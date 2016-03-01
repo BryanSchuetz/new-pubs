@@ -252,12 +252,13 @@ Right away we see a big two-class split in the dendrogram, showing two classes a
 [Highlighting extremes](/uploads/hdi_dendro_3.png)
 ![Dendrogram Highlighting extremes](/uploads/hdi_dendro_3.png)
 
-[High and low development countries](/uploads/extremes_table.png)
+[High and low development countries](/uploads/extremes_table1.png)
 ![Extremes table](/uploads/extremes_table1.png)
 
+[Two Major Clusters](/uploads/hdi_dendro_2.png)
 ![Dendrogram for the HDI](/uploads/hdi_dendro_2.png)
 
 Our dendrogram reveals a massive split between the low-development and higher-development group and another sizable split between the high and medium groups at the three-class level. 
 
-[Highlighting extremes](/uploads/hdi_dendro_3.png)
+[Highlighting extremes](/uploads/hdi_dendro_4.png)
 ![Dendrogram Highlighting extremes](/uploads/hdi_dendro_4.png)
