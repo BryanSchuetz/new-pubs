@@ -253,3 +253,7 @@ Right away we see a big two-class split in the dendrogram, showing two classes a
 
 [Highlighting extremes](/uploads/hdi_dendro_3.png)
 ![Dendrogram Highlighting extremes](/uploads/hdi_dendro_3.png)
+
+
+[Highlighting extremes](/uploads/hdi_dendro_3.png)
+![Dendrogram Highlighting extremes](/uploads/hdi_dendro_4.png)
