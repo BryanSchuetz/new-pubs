@@ -280,3 +280,6 @@ There are countless ways clustering data can help us more easily recognize patte
 All of this can be done with a few clicks in R, sample code and data from these exercises can be found [here](https://github.com/deriggi/HumanDevelopmentIndex)
 
 ### Resourcees
+[Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
+
+[Hierarchical Cluster Analysis](http://www.econ.upf.edu/~michael/stanford/maeb7.pdf)
