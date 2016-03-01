@@ -22,7 +22,7 @@ The UN maintains an index for 205 countries describing the overall level of huma
 
 Each country is indexed on those variables for every year from 1980 - 2013, with more data-completeness in years closer to 2013. The result of the index calculation is a single value, the HDI, describing the overall strength of human development based on four component variables. This is great because it provides a measurable data point on which to gauge progress over time and it helps focus aid in countries and sectors that need it most.
 
-[!Calculation of the HDI](/uploads/hdi.jpg)
+![Calculation of the HDI](/uploads/hdi.jpg)
 <table>
     <tr>
         <th>
