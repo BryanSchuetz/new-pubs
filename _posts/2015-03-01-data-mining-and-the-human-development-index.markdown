@@ -146,6 +146,9 @@ For an example of what the data looks like, here are the dimensions of the HDI f
 
 Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 208 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
 
+[country table](/uploads/countrytable.png)
+![country table](/uploads/countrytable.png)
+
 Ranking by HDI helps identify the countries experiencing the lowest development, but it also obscures some nuances in the data. With data mining and visualization we can improve our understanding of the the data and how the countries are distributed according to the index.
 
 Starting with a small data set, let’s put four car models into our dendrogram to see how they cluster by height and weight.. We’ll look the Fiat 500, Mini Cooper, Hummer H3, Cadillac Escalade
