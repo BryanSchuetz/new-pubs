@@ -75,3 +75,5 @@ Each country is indexed on those variables for every year from 1980 - 2013, with
 
 
 For an example of what the data looks like, here are the dimensions of the HDI for Ghana (GHA) and Haiti (HTI), with Ghana in the medium development class and Haiti in the low development class
+
+Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 208 countries would be difficult. One option is to simply sort the data by the HDI showing highly developed countries at the top and countries with low development at the bottom.
