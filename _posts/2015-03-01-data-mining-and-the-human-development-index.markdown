@@ -159,6 +159,71 @@ Starting with a small data set, let’s put four car models into our dendrogram 
 [Cars](/uploads/manycars.png)
 ![cars](/uploads/manycars.png)
 
+
+<table>
+  <tr>
+    <th>
+      Vehicle
+    </th>  
+    <th>
+      Height
+    </th>
+    <th>
+      Weight
+    </th>
+
+  </tr>
+  <tr>
+    <td>
+      hummer h3
+    </td>
+    <td>
+     73.2
+   </td>
+   <td>
+     4883
+   </td>
+ </tr>
+
+ <tr>
+  <td>
+    escalade
+  </td>
+  <td>
+   74.4
+ </td>
+ <td>
+   5915
+ </td>
+</tr>
+
+<tr>
+  <td>
+    fiat 500
+  </td>
+  <td>
+   59.8
+ </td>
+ <td>
+   2512
+ </td>
+</tr>
+
+<tr>
+  <td>
+    Mini cooper
+  </td>
+  <td>
+   56.1
+ </td>
+ <td>
+   2545
+ </td>
+</tr>
+
+</table>
+
+
 Using just a few lines of code using a programming environment called R, we can process the table and create our cluster diagram
 
 We see right away that the diagram groups the data into two classes, big and tall cars(Hummer and Escalade) into one cluster and small and cars (fiat and mini cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. There is however, a difference in the clusters, the big cars are higher up along the y-axis than the small cars cluster. Height along the y-axis in a dendrogram represents the degree of dissimilarity. Therefore, the big-car cluster has a greater dissimilarity than the small-dog cluster. In other words, the big cars are less similar to each other than the cars in the small-car cluster.
