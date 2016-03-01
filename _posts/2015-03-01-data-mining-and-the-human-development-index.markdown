@@ -270,4 +270,5 @@ In the dendrogram we see a group of countries located far from each other on the
 
 
 [Similar countries](/uploads/countries_feather1.png)
+
 ![Similar countries](/uploads/countries_feather1.png)
