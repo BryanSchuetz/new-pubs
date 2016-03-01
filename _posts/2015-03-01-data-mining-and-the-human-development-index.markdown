@@ -246,7 +246,7 @@ Instead of just looking at two variables, we can use something slightly more com
 
 Right away we see a big two-class split in the dendrogram, showing two classes at the top of the diagram. Looking at the countries it appears that the branch on the left are low-development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram
 
-
+This means countries with low development values are far behind the those in the medium and high development.  
 
 [Highlighting extremes](/uploads/hdi_dendro_3.png)
 ![Dendrogram Highlighting extremes](/uploads/hdi_dendro_3.png)
