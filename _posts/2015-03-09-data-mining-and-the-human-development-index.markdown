@@ -15,7 +15,6 @@ We love data mining at DAI and today we are going to mine a data set from the Un
 
 <!--more-->
 
-
 ### The Human Development Index (HDI)
 The UN maintains an index for 187 countries describing the overall level of human development of each country based on three pillars: health, education, and a standard of living. Specifically, the HDI dataset is based on:
 
