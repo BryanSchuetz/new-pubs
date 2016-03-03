@@ -25,7 +25,7 @@ The proliferation of mobile technology has already made it easier to connect wit
 In 2014, OkHi was voted the best startup in the booming Kenyan startup scene at the Seedstars world competition. The Nairobi-based startup has received funding from notable Silicon Valley investors to deliver on its mission to empower Kenyan residents with a working address simply and effectively. The app uses geo-tagged photographs of the user’s front door/gate to allow the user to share his or her location via WhatsApp, SMS, or email.
 
 ![Addressing 11.jpg](/uploads/Addressing 11.jpg)
-***An OkHi address consists of a location on Google Maps and a photo of the front of the address to allow the user to know that he or she is at the right door.***
+`An OkHi address consists of a location on Google Maps and a photo of the front of the address to allow the user to know that he or she is at the right door.`
 
 OkHi’s founder and CEO Timbo Drayson says the startup has initially worked with e-commerce companies and has helped them cut delivery times by 50 percent. Drayson sees the technology as offering a simple and effective way to physically connect people without addresses to improve the delivery of public and private services, as well as to provide people with another form of identity proof, helping them qualify for services.
 
@@ -37,7 +37,7 @@ While OkHi enables users to share their individual locations with targeted users
 The company has sliced the world into 3x3-meter square grids, and assigned each grid square a unique combination of three words to avoid using GPS coordinates to describe a location. A user can find the unique three-word combination associated with his or her specific location.
 
 ![Addressing 3.jpg](/uploads/Addressing 3.jpg)
-***The location of my desk at DAI’s Bethesda offices is represented by the words "power.wishes.eating"***
+`The location of my desk at DAI’s Bethesda offices is represented by the words "power.wishes.eating"`
 
 In Rio de Janeiro, a local company Grupo Cartero Amigo set up a postal system in the country’s largest favela not served by the Brazilian national postal system. The case is a model for how such a system might be used by actors the world over. 
 
