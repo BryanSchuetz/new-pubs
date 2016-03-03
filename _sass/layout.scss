@@ -61,6 +61,20 @@
   margin-bottom: 2rem;
 }
 // 🎌Content🎌
+/*Captions*/
+code{
+  margin-top: .1rem;
+  margin-bottom: .5rem;
+  background-color: #EBEBEB;
+  padding: .2rem;
+  padding-left: .5rem;
+  font-style: italic;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+  display: block;
+  width: 100%;
+  font-size: .8rem;
+  line-height: .9rem;
+}
 .more{
   text-align: right;
 }

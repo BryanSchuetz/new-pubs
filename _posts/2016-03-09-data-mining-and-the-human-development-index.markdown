@@ -142,7 +142,7 @@ For an example of what the data looks like, here are the dimensions of the HDI f
       </td>
     </tr>
 
-    
+
 
 </table>
 
@@ -232,7 +232,7 @@ Using just a few lines of code from a programming environment called R, we can p
 [Car Dendorogram](/uploads/car_cluster_1a.png)
 ![Car Dendorogram](/uploads/car_cluster_1a.png)
 
-The diagram clearly groups the data into two classes, big and tall cars (Hummer and Escalade) into one cluster and small cars (Fiat and Mini Cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. The height of the horizontal bar separating the clusters describes the degree of dissimilarity between them. 
+The diagram clearly groups the data into two classes, big and tall cars (Hummer and Escalade) into one cluster and small cars (Fiat and Mini Cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. The height of the horizontal bar separating the clusters describes the degree of dissimilarity between them.
 
 The most important job of the dendrogram is to identify classes and to show which data elements belong in each class. In the following image we show a line indicating the identification of two distinct classes identified by the dendrogram
 
@@ -260,12 +260,12 @@ This means countries with low development values are far behind the those in the
 [Two Major Clusters](/uploads/hdi_dendro_2.png)
 ![Dendrogram for the HDI](/uploads/hdi_dendro_2.png)
 
-Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level. 
+Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level.
 
 [Highlighting extremes](/uploads/hdi_dendro_4.png)
 ![Dendrogram Highlighting extremes](/uploads/hdi_dendro_4.png)
 
-## Clusters Highlighting Similar Countries 
+## Clusters Highlighting Similar Countries
 
 In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Cyprus, Cuba, Chile, and Bahrain. Each has a population with a life expectancy close to 80, but low gross national income—for comparison it is almost half of that of the United States.
 
@@ -275,9 +275,9 @@ In the dendrogram we see a group of countries located far from each other on the
 ![Similar countries](/uploads/countries_feather2.png)
 
 
-## Clustering Applications for Development 
-There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past. 
- 
+## Clustering Applications for Development
+There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
+
 All of this can be done with a few clicks in R, sample code and data from these exercises can be found [here](https://github.com/deriggi/HumanDevelopmentIndex)
 
 ### Resourcees
