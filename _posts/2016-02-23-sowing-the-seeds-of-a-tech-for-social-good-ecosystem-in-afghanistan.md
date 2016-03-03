@@ -19,7 +19,7 @@ Founded by a young technologist and social entrepreneur named Jamshid Hashimi, [
 Code Weekend currently reaches about 3,000 young coders in Afghanistan, primarily in Kabul, providing training in various technology skills (web development, app development, languages such as Python, etc.) via ad hoc training sessions. These sessions typically attract between 40 and 100 attendees. Code Weekend also hosts technology podcasts, aggregates technology-related news in Dari and Pashto, and maintains an active social media presence. At the end of November, it hosted its first coding challenge—a month-long collaborative project that will lead to the creation of a mobile phone application to track and counter bribery.
 
 ![tfsg1.jpg](/uploads/tfsg1.jpg)
-(Image courtesy: Jamshid Hashimi and Code Weekend)
+`Image courtesy: Jamshid Hashimi and Code Weekend`
 
 ## Growing pains
 Despite the growing energy around its activities, Code Weekend is not without its challenges. It is currently supported by the volunteer efforts of Hashimi, its current president, Asad Salehi, and a core team of volunteer technologists and entrepreneurs. The sessions are hosted at the offices of local companies such as NetLinks, depending on schedules and availability. In essence, Code Weekend has no permanent staff nor facilities.
