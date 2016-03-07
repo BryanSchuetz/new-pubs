@@ -2,6 +2,11 @@
 title: 'Civil Society the Hard(ware) Way: Maker Lab Experiences in Cambodia'
 date: 2016-03-07 13:28:00 Z
 published: false
+tags:
+- Maker Labs
+- Civil Society
+- Innovation
+Author: Rob Ryan-Silva
 ---
 
 I'm Rob Ryan-Silva, Director of the <a href="http://dai.com/makerlab">DAI Maker Lab</a>, which we started about a year ago to introduce a promising set of tools and approaches emerging from the maker movement to the developing world. These rapidly evolving and improving tools empower non-specialists to design electronic and mechanical devices, and to build them in quantities that are not economically viable under the traditional mass production model, upending some of the long-standing constraints around traditional manufacturing that have hindered developing countries’ access to transformative technologies. 
