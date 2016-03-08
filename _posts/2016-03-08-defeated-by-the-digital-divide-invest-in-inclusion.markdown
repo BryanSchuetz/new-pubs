@@ -12,6 +12,8 @@ Author: Kate Heuisler
 
 The [digital divide](https://en.wikipedia.org/wiki/Digital_divide) is a buzz phrase that is easy to cite (especially around International Women’s Day!), but considerably harder to address with tangible plans. Quotas?  Women-focused events? [Round phones](http://www.telegraph.co.uk/technology/2016/03/01/would-you-buy-this-non-rectangular-smartphone-for-women/)? As development practitioners look for the easy answer, we here at [Development Innovations Cambodia](http://www.development-innovations.org/) are pushing back: there isn’t one. Rather than one-off events, we focus on the quality of programming, improving access to digital education, tools and skills, and showing young Cambodians that jobs and careers in tech are a viable career option for every interested Cambodian, not just young men.
 
+<!--more-->
+
 ## What’s Happening Today
 
 In Cambodia, the number of women engaged in the tech sector is growing, but major structural barriers still exist. The British Embassy in Phnom Penh is working to address one challenge with their recent [STEM Careers of the Future](https://www.gov.uk/government/world-location-news/official-launch-of-stem-careers-of-the-future), an easy to use handbook showcasing the top 20 careers in Cambodia in science, technology, engineering and mathematics. One of the big challenges for young Cambodian women and men is that many parents feel more comfortable with career progression in law, accounting or business management. This guidebook provides details about specific jobs from civil engineers to project managers, software programmers to network engineers, and shows where people can study for those careers in Cambodia, as well as how much they are likely to make in monthly salaries.
