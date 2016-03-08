@@ -1,6 +1,6 @@
 ---
 title: Defeated by the Digital Divide? Invest in Inclusion
-date: 2016-03-08 09:45:00 Z
+date: 2016-03-08 08:45:00 Z
 tags:
 - Cambodia
 - Innovation
