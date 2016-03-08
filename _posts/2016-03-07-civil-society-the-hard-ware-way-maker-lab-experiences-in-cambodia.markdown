@@ -9,7 +9,9 @@ tags:
 Author: Rob Ryan-Silva
 ---
 
-I'm Rob Ryan-Silva, Director of the <a href="http://dai.com/makerlab">DAI Maker Lab</a>, which we started about a year ago to introduce a promising set of tools and approaches emerging from the maker movement to the developing world. These rapidly evolving and improving tools empower non-specialists to design electronic and mechanical devices, and to build them in quantities that are not economically viable under the traditional mass production model, upending some of the long-standing constraints around traditional manufacturing that have hindered developing countries’ access to transformative technologies. 
+*This is a guest post by [Rob Ryan-Silva](http://dai.com/who-we-are/our-team/robert-ryan-silva),  Director, [DAI Maker Lab](http://dai.com/makerlab)*
+
+We started the Maker Lab about a year ago to introduce a promising set of tools and approaches emerging from the maker movement to the developing world. These rapidly evolving and improving tools empower non-specialists to design electronic and mechanical devices, and to build them in quantities that are not economically viable under the traditional mass production model, upending some of the long-standing constraints around traditional manufacturing that have hindered developing countries’ access to transformative technologies. 
 
 <!--more-->
 
