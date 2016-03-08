@@ -8,6 +8,8 @@ tags:
 Author: Kate Heuisler
 ---
 
+*This is a guest blog by Kate Heuisler, Chief of Party USAID Development Innovations Cambodia*
+
 The [digital divide](https://en.wikipedia.org/wiki/Digital_divide) is a buzz phrase that is easy to cite (especially around International Women’s Day!), but considerably harder to address with tangible plans. Quotas?  Women-focused events? [Round phones](http://www.telegraph.co.uk/technology/2016/03/01/would-you-buy-this-non-rectangular-smartphone-for-women/)? As development practitioners look for the easy answer, we here at [Development Innovations Cambodia](http://www.development-innovations.org/) are pushing back: there isn’t one. Rather than one-off events, we focus on the quality of programming, improving access to digital education, tools and skills, and showing young Cambodians that jobs and careers in tech are a viable career option for every interested Cambodian, not just young men.
 
 <!--more-->
