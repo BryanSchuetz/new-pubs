@@ -250,8 +250,8 @@ Right away we see a big two-class split in the dendrogram, showing two classes a
 
 This means countries with low development values are far behind the those in the medium and high development.  
 
-[Highlighting extremes](/uploads/uploads/topandbottom15_v2.png)
-![Dendrogram Highlighting extremes](/uploads/uploads/topandbottom15_v2.png)
+[Highlighting extremes](/uploads/topandbottom15_v2.png)
+![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)
 
 [High and low development countries](/uploads/extremes_table1.png)
 ![Extremes table](/uploads/extremes_table1.png)
