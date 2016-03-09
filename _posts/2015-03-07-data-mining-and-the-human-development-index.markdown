@@ -277,6 +277,26 @@ In the dendrogram we see a group of countries located far from each other on the
 ## Clustering Applications for Development
 There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
 
+
+## Want to roll your own dendrograms now?
+`# load the data into R
+cars <- read.table("C:/Users/jderiggi/dendrogram/hdi_2015.csv", row.names = 1, header=TRUE, sep=',')
+
+# remove any empty values (we have none but its a good practice)
+cars <- na.omit(cars)
+
+# put height and weight on the spame scale
+cars <- scale(cars)
+
+# calculate the distance between each data element 
+d<- dist(cars, method='euclidean')
+
+# create the cluster
+fit <-hclust(d, method='ward.D')
+
+# party time
+plot(fit)`
+
 All of this can be done with a few clicks in R, sample code and data from these exercises can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
 
 ### Resourcees
