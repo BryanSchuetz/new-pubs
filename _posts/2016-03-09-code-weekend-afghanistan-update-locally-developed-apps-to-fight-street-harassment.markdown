@@ -14,7 +14,7 @@ The three female coders from the winning teams—Fatima Shefaie and Alina Niko o
 
 Says Jamshid Hashimi, Code Weekend’s founder:
 
-> “Coding is so important to our generation. We live in an era of digital literacy and computer science. By engaging in the Code Women Challenge, women have the chance to be innovative and creative in solving problems that affect everyone,”
+> “Coding is so important to our generation. We live in an era of digital literacy and computer science. By engaging in the Code Women Challenge, women have the chance to be innovative and creative in solving problems that affect everyone.”
 
 The funds for this project come from three projects funded by the U.S. Agency for International Development (USAID): [Women in the Economy](http://dai.com/our-work/projects/afghanistan%E2%80%94women-economy-wie) and [Musharikat](http://dai.com/our-work/projects/afghanistan%E2%80%94musharikat) (both under Promote), and [Assistance in Building Afghanistan Developing Enterprises (ABADE)](http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade).
 
