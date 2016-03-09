@@ -22,7 +22,7 @@ The [UN maintains an index for](http://hdr.undp.org/en/data) 188 countries descr
 - Expected years of schooling
 - Mean years of schooling
 
-Each country is indexed on those variables for every year from 1980 to 2013, with more data-completeness after 2013. The result of the index calculation is a single value, the HDI, describing the overall strength of human development. It’s a measurable data point on which to gauge progress over time and it helps focus aid in countries and sectors that need it most.
+Each country is indexed on those variables for every year from 1980 to 2014. The result of the index calculation is a single value, the HDI, describing the overall strength of human development. It’s a measurable data point on which to gauge progress over time and it helps focus aid in countries and sectors that need it most.
 
 
 [Calculation of the HDI](/uploads/hdi.jpg)
