@@ -253,8 +253,7 @@ This means countries with low development values are far behind the those in the
 [Highlighting extremes](/uploads/topandbottom15_v2.png)
 ![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)
 
-[High and low development countries](/uploads/extremes_table1.png)
-![Extremes table](/uploads/extremes_table1.png)
+
 
 [Two Major Clusters](/uploads/two_classes_v2.png)
 ![Dendrogram for the HDI](/uploads/two_classes_v2.png)
