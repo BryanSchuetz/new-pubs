@@ -19,3 +19,5 @@ Says Jamshid Hashimi, Code Weekend’s founder:
 > “Coding is so important to our generation. We live in an era of digital literacy and computer science. By engaging in the Code Women Challenge, women have the chance to be innovative and creative in solving problems that affect everyone,”
 
 The funds for this project come from three projects funded by the U.S. Agency for International Development (USAID): [Women in the Economy](http://dai.com/our-work/projects/afghanistan%E2%80%94women-economy-wie) and [Musharikat](http://dai.com/our-work/projects/afghanistan%E2%80%94musharikat) (both under Promote), and [Assistance in Building Afghanistan Developing Enterprises (ABADE)](http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade).
+
+Tell us about similar harrassment apps—pros and cons—below in the comments, engage with us at @DAIGlobal on Twitter, or email us: Digital@dai.com
