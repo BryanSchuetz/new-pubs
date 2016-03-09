@@ -280,24 +280,6 @@ There are countless ways clustering data can help us more easily recognize patte
 ## You two can do hierarchical cluster analysis
 It's easy, just download the amazing and free [statistical programming environment called R](https://www.rstudio.com/home/)
 
-`# load the data into R
-cars <- read.table("C:/Users/jderiggi/dendrogram/hdi_2015.csv", row.names = 1, header=TRUE, sep=',')
-
-# remove any empty values (we have none but its a good practice)
-cars <- na.omit(cars)
-
-# put height and weight on the spame scale
-cars <- scale(cars)
-
-# calculate the distance between each data element 
-d<- dist(cars, method='euclidean')
-
-# create the cluster
-fit <-hclust(d, method='ward.D')
-
-# party time
-plot(fit)`
-
 Then with just a few clicks in R, you will be up and running. All the code, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
 
 ### Resourcees
