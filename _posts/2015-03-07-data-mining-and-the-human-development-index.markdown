@@ -279,7 +279,7 @@ There are countless ways clustering data can help us more easily recognize patte
 
 
 ## Want to roll your own dendrograms now?
-`# load the data into R
+<code># load the data into R
 cars <- read.table("C:/Users/jderiggi/dendrogram/hdi_2015.csv", row.names = 1, header=TRUE, sep=',')
 
 # remove any empty values (we have none but its a good practice)
@@ -295,7 +295,7 @@ d<- dist(cars, method='euclidean')
 fit <-hclust(d, method='ward.D')
 
 # party time
-plot(fit)`
+plot(fit)</code>
 
 All of this can be done with a few clicks in R, sample code and data from these exercises can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
 
