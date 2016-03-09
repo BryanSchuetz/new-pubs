@@ -287,7 +287,7 @@ It's easy, just download the amazing and free [statistical programming environme
 
 Then with just a few clicks in R, you will be up and running. All the code that you need to do this, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
 
-The [cars script](https://bitbucket.org/jderiggi/dendrograms/src/dd957275cdbd81dad625febbb91a40ec49e6bbef/DoADendrogram.R?fileviewer=file-view-default) and the hdi script are exactly the same, the only difference is the data source. 
+The [cars script](https://bitbucket.org/jderiggi/dendrograms/src/dd957275cdbd81dad625febbb91a40ec49e6bbef/DoADendrogram.R?fileviewer=file-view-default) and the [HDI script](https://bitbucket.org/jderiggi/dendrograms/src/d426855dcdd670b0cfb86752e28bb7aa4808d055/DoADendrogram_hdi.R?at=master&fileviewer=file-view-default) are exactly the same, the only difference is the data source. 
 
 ### Resourcees
 [Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
