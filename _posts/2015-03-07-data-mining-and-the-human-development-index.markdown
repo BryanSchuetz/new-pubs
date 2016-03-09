@@ -261,8 +261,8 @@ This means countries with low development values are far behind the those in the
 
 Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level.
 
-[Highlighting extremes](/uploads/three_classes_v2.png)
-![Dendrogram Highlighting extremes](/uploads/three_classes_v2.png)
+[Three Major Clusters](/uploads/three_classes_v2.png)
+![Three Major Clusters](/uploads/three_classes_v2.png)
 
 ## Clusters Highlighting Similar Countries
 
