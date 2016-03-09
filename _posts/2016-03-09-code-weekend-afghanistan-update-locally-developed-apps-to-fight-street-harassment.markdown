@@ -3,10 +3,8 @@ title: 'Code Weekend: Locally Developed Apps Aim to Fight Street Harassment'
 date: 2016-03-09 18:41:00 Z
 tags:
 - Afghanistan
-- women
-- coding
-- apps
-- harassment
+- Women
+- Innovation
 Author: Karim Bin-Humam
 ---
 
