@@ -15,7 +15,7 @@ We love data mining at DAI and today we are going to mine a data set from the Un
 <!--more-->
 
 ### The Human Development Index (HDI)
-The [UN maintains an index for](http://hdr.undp.org/en/data) 187 countries describing the overall level of human development of each country based on three pillars: health, education, and a standard of living. Specifically, the HDI dataset is based on:
+The [UN maintains an index for](http://hdr.undp.org/en/data) 188 countries describing the overall level of human development of each country based on three pillars: health, education, and a standard of living. Specifically, the HDI dataset is based on:
 
 - Gross national income
 - Life expectancy at birth
@@ -146,7 +146,7 @@ For an example of what the data looks like, here are the dimensions of the HDI f
 </table>
 
 
-Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 187 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
+Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 188 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
 
 [country table](/uploads/topandbottom15.png)
 ![country table](/uploads/topandbottom15.png)
