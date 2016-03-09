@@ -265,14 +265,14 @@ Our dendrogram reveals a massive split between the low development and higher de
 
 ## Clusters Highlighting Similar Countries
 
-In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Cyprus, Cuba, Chile, and Bahrain. Each has a population with a life expectancy close to 80, but low gross national income—for comparison it is almost half of that of the United States.
+In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Cyprus, Cuba, Chile, and Bahrain. Each has a population with a life expectancy above 72, but low gross national income—for comparison it is at least a 25 percent of that of the United States.
 
 
 [Similar countries](/uploads/cluster_cuba_v5.png)
 
 ![Similar countries](/uploads/cluster_cuba_v5.png)
 
-Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar and geographically disperse - fascinating!
+Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally different - fascinating!
 
 [Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
 ![Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
