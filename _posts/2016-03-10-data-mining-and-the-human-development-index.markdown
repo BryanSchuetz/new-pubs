@@ -17,7 +17,7 @@ We love data mining at DAI and today we are going to mine a data set from the Un
 <!--more-->
 
 ### The Human Development Index (HDI)
-The [UN maintains an index for](http://hdr.undp.org/en/data) 188 countries describing the overall level of human development of each country based on three pillars: health, education, and a standard of living. Specifically, the HDI dataset is based on:
+The [UN maintains an index for](http://hdr.undp.org/en/data) 188 countries describing the overall level of human development of each country based on three pillars: health, education, and standard of living. Specifically, the HDI dataset is based on:
 
 - Gross national income
 - Life expectancy at birth
@@ -153,7 +153,7 @@ Comparing dimensions and HDI values for two countries is straightforward, but at
 [country table](/uploads/topandbottom15.png)
 ![country table](/uploads/topandbottom15.png)
 
-Ranking by HDI helps identify the countries with the lowest and highest levels of development, but it also obscures some nuances in the data. Using data mining and visualization we can improve our understanding of the the data and learn how the countries are distributed according to the index.
+Ranking by HDI helps identify the countries with the lowest and highest levels of development, but it also obscures some nuances in the data. Using data mining and visualization we can improve our understanding of the data and learn how the countries are distributed according to the index.
 
 ## Data Mining for Similarity
 
@@ -248,14 +248,14 @@ Instead of just looking at two variables, we can use something slightly more com
 [Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 ![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 
-It appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram
+It appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram.
 
 This means countries with low development values are far behind the those in the medium and high development.  
 
 [Highlighting extremes](/uploads/topandbottom15_v2.png)
 ![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)
 
-Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That's because the data is clustered by component variables, not the HDI alone.
+Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That’s because the data is clustered by component variables, not the HDI alone.
 
 [Two Major Clusters](/uploads/two_classes_v2.png)
 ![Dendrogram for the HDI](/uploads/two_classes_v2.png)
@@ -267,30 +267,30 @@ Our dendrogram reveals a massive split between the low development and higher de
 
 ## Clusters Highlighting Similar Countries
 
-In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Cyprus, Cuba, Chile, and Bahrain. Each has a population with a life expectancy above 72, but low gross national income—for comparison it is at least a 25 percent of that of the United States.
+In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Bahrain, Chile, Cuba, and Cyprus. Each has a population with a life expectancy above 72, but low gross national income—for comparison it is at least 25 percent of that of the United States.
 
 
 [Similar countries](/uploads/cluster_cuba_v5.png)
 
 ![Similar countries](/uploads/cluster_cuba_v5.png)
 
-Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally distinct - fascinating!
+Here’s another tight cluster: Israel, Korea, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally distinct—fascinating!
 
-[Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
-![Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
+[Korea, Israel, and Slovenia](/uploads/isr_kor_slvn.png)
+![Korea, Israel, and Slovenia](/uploads/isr_kor_slvn.png)
 
 ## Clustering Applications for Development
-There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
+There are countless ways clustering data can help us more easily recognize patterns and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
 
 
 ## You too can do hierarchical cluster analysis
-It's easy, just download the amazing and free [statistical programming environment called R](https://www.rstudio.com/home/)
+It’s easy, just download the amazing and free [statistical programming environment called R](https://www.rstudio.com/home/)
 
 Then with just a few clicks in R, you will be up and running. All the code that you need to do this, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
 
 The [cars script](https://bitbucket.org/jderiggi/dendrograms/src/dd957275cdbd81dad625febbb91a40ec49e6bbef/DoADendrogram.R?fileviewer=file-view-default) and the [HDI script](https://bitbucket.org/jderiggi/dendrograms/src/b20b9a400cf4b286ba7fa54efb698574f238f159/DoADendrogram_hdi.R?at=master&fileviewer=file-view-default) are exactly the same, the only difference is the data source. 
 
-### Resourcees
+### Resources
 [Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
 
 [Hierarchical Cluster Analysis](http://www.econ.upf.edu/~michael/stanford/maeb7.pdf)
