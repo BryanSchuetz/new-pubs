@@ -285,7 +285,9 @@ There are countless ways clustering data can help us more easily recognize patte
 ## You too can do hierarchical cluster analysis
 It's easy, just download the amazing and free [statistical programming environment called R](https://www.rstudio.com/home/)
 
-Then with just a few clicks in R, you will be up and running. All the code, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
+Then with just a few clicks in R, you will be up and running. All the code that you need to do this, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
+
+The [cars script](https://bitbucket.org/jderiggi/dendrograms/src/dd957275cdbd81dad625febbb91a40ec49e6bbef/DoADendrogram.R?fileviewer=file-view-default) and the hdi script are exactly the same, the only difference is the data source. 
 
 ### Resourcees
 [Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
