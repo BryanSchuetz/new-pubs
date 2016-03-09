@@ -244,8 +244,8 @@ The most important job of the dendrogram is to identify classes and to show whic
 
 Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same R script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
 
-[Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
-![Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
+[Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
+![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 
 Right away we see a big two-class split in the dendrogram, showing two classes at the top of the diagram. Looking at the countries, it appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram
 
