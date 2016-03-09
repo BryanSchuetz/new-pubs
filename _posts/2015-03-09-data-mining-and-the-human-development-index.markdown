@@ -281,7 +281,7 @@ Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar 
 There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
 
 
-## You two can do hierarchical cluster analysis
+## You too can do hierarchical cluster analysis
 It's easy, just download the amazing and free [statistical programming environment called R](https://www.rstudio.com/home/)
 
 Then with just a few clicks in R, you will be up and running. All the code, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
