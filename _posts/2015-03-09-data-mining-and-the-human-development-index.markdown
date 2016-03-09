@@ -272,7 +272,7 @@ In the dendrogram we see a group of countries located far from each other on the
 
 ![Similar countries](/uploads/cluster_cuba_v5.png)
 
-Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally different - fascinating!
+Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally distinct - fascinating!
 
 [Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
 ![Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
