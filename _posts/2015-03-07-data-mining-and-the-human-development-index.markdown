@@ -269,9 +269,9 @@ Our dendrogram reveals a massive split between the low development and higher de
 In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Cyprus, Cuba, Chile, and Bahrain. Each has a population with a life expectancy close to 80, but low gross national income—for comparison it is almost half of that of the United States.
 
 
-[Similar countries](/uploads/cluster_cuba_v4.png)
+[Similar countries](/uploads/cluster_cuba_v5.png)
 
-![Similar countries](/uploads/cluster_cuba_v4.png)
+![Similar countries](/uploads/cluster_cuba_v5.png)
 
 
 ## Clustering Applications for Development
