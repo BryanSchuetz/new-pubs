@@ -104,19 +104,19 @@ For an example of what the data looks like, here are the dimensions of the HDI f
         GHA
       </td>
       <td>
-         3532.332
+         3852
       </td>
       <td>
-         61.13
+         61.4
       </td>
        <td>
          11.5
       </td>
       <td>
-         6.999
+         7
       </td>
       <td>
-         0.573
+         0.58
       </td>
     </tr>
 
@@ -125,19 +125,19 @@ For an example of what the data looks like, here are the dimensions of the HDI f
         HTI
       </td>
       <td>
-         1635.691
+         1668.71
       </td>
       <td>
-         63.1
+         62.8
       </td>
        <td>
-         7.6
+        8.67
       </td>
       <td>
          4.895
       </td>
       <td>
-         0.471
+         0.48
       </td>
     </tr>
 
@@ -253,7 +253,7 @@ This means countries with low development values are far behind the those in the
 [Highlighting extremes](/uploads/topandbottom15_v2.png)
 ![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)
 
-Notice that the top 15 and bottom 15 countries by HDI are scattered somewhat in their respective high and low clusters? That's because they are clustered by the component variables, not the index alone.
+Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That's because the data is clustered by component variables, not the HDI alone.
 
 [Two Major Clusters](/uploads/two_classes_v2.png)
 ![Dendrogram for the HDI](/uploads/two_classes_v2.png)
@@ -272,7 +272,8 @@ In the dendrogram we see a group of countries located far from each other on the
 
 ![Similar countries](/uploads/cluster_cuba_v5.png)
 
-Here's another tight cluster:Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar and geographically disperse - fascinating!
+Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar and geographically disperse - fascinating!
+
 [Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
 ![Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
 
