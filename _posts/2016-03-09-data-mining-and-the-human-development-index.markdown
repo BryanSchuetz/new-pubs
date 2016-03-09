@@ -247,14 +247,14 @@ Instead of just looking at two variables, we can use something slightly more com
 [Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 ![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 
-Right away we see a big two-class split in the dendrogram, showing two classes at the top of the diagram. Looking at the countries, it appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram
+It appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram
 
 This means countries with low development values are far behind the those in the medium and high development.  
 
 [Highlighting extremes](/uploads/topandbottom15_v2.png)
 ![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)
 
-
+Notice that the top 15 and bottom 15 countries by HDI are scattered somewhat in their respective high and low clusters? That's because they are clustered by the component variables, not the index alone.
 
 [Two Major Clusters](/uploads/two_classes_v2.png)
 ![Dendrogram for the HDI](/uploads/two_classes_v2.png)
@@ -273,6 +273,9 @@ In the dendrogram we see a group of countries located far from each other on the
 
 ![Similar countries](/uploads/cluster_cuba_v5.png)
 
+Here's another tight cluster:Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar and geographically disperse - fascinating!
+[Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
+![Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
 
 ## Clustering Applications for Development
 There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
