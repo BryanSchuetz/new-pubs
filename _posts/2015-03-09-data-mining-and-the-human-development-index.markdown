@@ -12,6 +12,7 @@ Author: John DeRiggi
 
 We love data mining at DAI and today we are going to mine a data set from the United Nations (UN). We are going to do so by first working through an illustrative four-wheeled example
 
+
 <!--more-->
 
 ### The Human Development Index (HDI)
@@ -241,7 +242,7 @@ The most important job of the dendrogram is to identify classes and to show whic
 
 ## A Dendrogram for the HDI
 
-Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same R script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
+Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same [R](https://www.rstudio.com/home/) script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
 
 [Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 ![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
