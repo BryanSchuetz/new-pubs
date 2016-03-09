@@ -277,7 +277,7 @@ In the dendrogram we see a group of countries located far from each other on the
 ## Clustering Applications for Development
 There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
 
-All of this can be done with a few clicks in R, sample code and data from these exercises can be found [here](https://github.com/deriggi/HumanDevelopmentIndex)
+All of this can be done with a few clicks in R, sample code and data from these exercises can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
 
 ### Resourcees
 [Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
