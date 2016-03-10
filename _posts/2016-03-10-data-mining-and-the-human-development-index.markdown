@@ -1,6 +1,6 @@
 ---
 title: Data Mining and the Human Development Index
-date: 2016-03-10 15:47:00 Z
+date: 2016-03-10 04:00:00 Z
 tags:
 - data mining
 - UN
