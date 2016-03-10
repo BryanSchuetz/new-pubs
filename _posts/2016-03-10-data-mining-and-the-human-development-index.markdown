@@ -226,7 +226,8 @@ Starting with a small data set, let’s put four car models into our dendrogram 
 
 Using just a few lines of code from a programming environment called R, we can process the table and create our cluster diagram
 
-[![Car Dendorogram](/uploads/car_cluster_1a.png)](/uploads/car_cluster_1a.png)
+[![Car Dendorogram](/uploads/car_cluster_1a.png)]
+(/uploads/car_cluster_1a.png)
 
 The diagram clearly groups the data into two classes, big and tall cars (Hummer and Escalade) into one cluster and small cars (Fiat and Mini Cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. The height of the horizontal bar separating the clusters describes the degree of dissimilarity between them.
 
@@ -240,6 +241,7 @@ The most important job of the dendrogram is to identify classes and to show whic
 Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same [R](https://www.rstudio.com/home/) script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
 
 [![Dendrogram for the HDI](/uploads/output_huge.png)](/uploads/output_huge.png)
+`Dendrogram for the Human Development Report`
 
 It appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram.
 
