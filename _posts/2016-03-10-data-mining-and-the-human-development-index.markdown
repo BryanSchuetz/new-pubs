@@ -248,7 +248,7 @@ It appears that the branch on the left are low development countries and the rig
 This means countries with low development values are far behind the those in the medium and high development.  
 
 [![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)](/uploads/topandbottom15_v2.png)
-`Highlighting the top 15 and bottom 15 countries according to HDI. The non-adjacency is occurs because clustering is based on the component variables instead of the HDI` 
+`Highlighting the top 15 and bottom 15 countries according to HDI. The non-adjacency occurs because clustering is based on the component variables instead of the HDI` 
 
 Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That’s because the data is clustered by component variables, not the HDI alone.
 
