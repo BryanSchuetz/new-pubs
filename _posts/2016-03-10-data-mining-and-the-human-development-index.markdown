@@ -253,6 +253,7 @@ This means countries with low development values are far behind the those in the
 Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That’s because the data is clustered by component variables, not the HDI alone.
 
 [![Dendrogram for the HDI](/uploads/two_classes_v2.png)](/uploads/two_classes_v2.png)
+`Two highly distinct clusters in the dendrogram reveal incredible differences in development`
 
 Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level.
 
