@@ -226,7 +226,7 @@ Starting with a small data set, let’s put four car models into our dendrogram 
 
 Using just a few lines of code from a programming environment called R, we can process the table and create our cluster diagram
 
-[![Car Dendorogram](/uploads/car_cluster_1a.png)]]
+[![Car Dendorogram](/uploads/car_cluster_1a.png)]
 (/uploads/car_cluster_1a.png)
 
 The diagram clearly groups the data into two classes, big and tall cars (Hummer and Escalade) into one cluster and small cars (Fiat and Mini Cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. The height of the horizontal bar separating the clusters describes the degree of dissimilarity between them.
