@@ -148,8 +148,7 @@ For an example of what the data looks like, here are the dimensions of the HDI f
 
 Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 188 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
 
-[country table](/uploads/topandbottom15.png)
-![country table](/uploads/topandbottom15.png)
+[![country table](/uploads/topandbottom15.png)](/uploads/topandbottom15.png)
 
 Ranking by HDI helps identify the countries with the lowest and highest levels of development, but it also obscures some nuances in the data. Using data mining and visualization we can improve our understanding of the data and learn how the countries are distributed according to the index.
 
@@ -158,8 +157,7 @@ Ranking by HDI helps identify the countries with the lowest and highest levels o
 Starting with a small data set, let’s put four car models into our dendrogram to see how they cluster by height and weight. We’ll look the Fiat 500, Mini Cooper, Hummer H3, and Cadillac Escalade
 
 
-[Cars](/uploads/manycars.png)
-![Cars](/uploads/manycars.png)
+[![Cars](/uploads/manycars.png)](/uploads/manycars.png)
 
 
 <table>
@@ -228,54 +226,45 @@ Starting with a small data set, let’s put four car models into our dendrogram 
 
 Using just a few lines of code from a programming environment called R, we can process the table and create our cluster diagram
 
-[Car Dendorogram](/uploads/car_cluster_1a.png)
-![Car Dendorogram](/uploads/car_cluster_1a.png)
+[![Car Dendorogram](/uploads/car_cluster_1a.png)](/uploads/car_cluster_1a.png)
 
 The diagram clearly groups the data into two classes, big and tall cars (Hummer and Escalade) into one cluster and small cars (Fiat and Mini Cooper) into another cluster. It is not surprising that the big cars form one cluster and the small cars are in another cluster. The height of the horizontal bar separating the clusters describes the degree of dissimilarity between them.
 
 The most important job of the dendrogram is to identify classes and to show which data elements belong in each class. In the following image we show a line indicating the identification of two distinct classes identified by the dendrogram
 
 
-[Highlighting two classes](/uploads/car_cluster_2b.png)
-![two classes](/uploads/car_cluster_2b.png)
+[![two classes](/uploads/car_cluster_2b.png)](/uploads/car_cluster_2b.png)
 
 ## A Dendrogram for the HDI
 
 Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same [R](https://www.rstudio.com/home/) script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
 
-[Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
-![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
+[![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)](/uploads/high_level_dendrogram.png)
 
 It appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram.
 
 This means countries with low development values are far behind the those in the medium and high development.  
 
-[Highlighting extremes](/uploads/topandbottom15_v2.png)
-![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)
+[![Dendrogram Highlighting extremes](/uploads/topandbottom15_v2.png)](/uploads/topandbottom15_v2.png)
 
 Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That’s because the data is clustered by component variables, not the HDI alone.
 
-[Two Major Clusters](/uploads/two_classes_v2.png)
-![Dendrogram for the HDI](/uploads/two_classes_v2.png)
+[![Dendrogram for the HDI](/uploads/two_classes_v2.png)](/uploads/two_classes_v2.png)
 
 Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level.
 
-[Three Major Clusters](/uploads/three_classes_v2.png)
-![Three Major Clusters](/uploads/three_classes_v2.png)
+[![Three Major Clusters](/uploads/three_classes_v2.png)](/uploads/three_classes_v2.png)
 
 ## Clusters Highlighting Similar Countries
 
 In the dendrogram we see a group of countries located far from each other on the globe but clustered together tightly here in our tree diagram. These countries represent an interesting group that has high life expectancy and education but low gross national income. Perhaps the governments of these countries have done well to prioritize health care systems but are not doing as well economically. These countries are Cuba, Georgia, and the island nation of Palau. Each has a population with a life expectancy above 72, but low gross national income—for comparison it is at least 25 percent of that of the United States.
 
 
-[Similar countries](/uploads/cluster_cuba_v5.png)
-
-![Similar countries](/uploads/cluster_cuba_v5.png)
+[![Similar countries](/uploads/cluster_cuba_v5.png)](/uploads/cluster_cuba_v5.png)
 
 Here’s another tight cluster: Israel, Korea, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally distinct—fascinating!
 
-[Korea, Israel, and Slovenia](/uploads/isr_kor_slvn.png)
-![Korea, Israel, and Slovenia](/uploads/isr_kor_slvn.png)
+[![Korea, Israel, and Slovenia](/uploads/isr_kor_slvn.png)](/uploads/isr_kor_slvn.png)
 
 ## Clustering Applications for Development
 There are countless ways clustering data can help us more easily recognize patterns and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
@@ -288,7 +277,7 @@ Then with just a few clicks in R, you will be up and running. All the code that 
 
 The [cars script](https://bitbucket.org/jderiggi/dendrograms/src/dd957275cdbd81dad625febbb91a40ec49e6bbef/DoADendrogram.R?fileviewer=file-view-default) and the [HDI script](https://bitbucket.org/jderiggi/dendrograms/src/b20b9a400cf4b286ba7fa54efb698574f238f159/DoADendrogram_hdi.R?at=master&fileviewer=file-view-default) are exactly the same, the only difference is the data source. 
 
-### Resources
+## Resources
 [Hierarchical Clustering Dendrograms](http://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Hierarchical_Clustering-Dendrograms.pdf)
 
 [Hierarchical Cluster Analysis](http://www.econ.upf.edu/~michael/stanford/maeb7.pdf)
