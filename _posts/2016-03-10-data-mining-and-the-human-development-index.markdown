@@ -258,6 +258,7 @@ Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one an
 Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level.
 
 [![Three Major Clusters](/uploads/three_classes_v2.png)](/uploads/three_classes_v2.png)
+`The hierarchy in clusters shows two distinct clusters at the top. Within those two clusters are three clusters. This hierarchy continues down into the dendrogram`
 
 ## Clusters Highlighting Similar Countries
 
