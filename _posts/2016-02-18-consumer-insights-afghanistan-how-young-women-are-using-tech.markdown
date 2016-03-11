@@ -16,6 +16,8 @@ Before diving into any technology-based programming, the WIE team decided to do 
 
 The results were fascinating: WIE’s target audience is highly tech savvy, with 75 percent of them owning smartphones and 90 percent having internet access. They’re active on social media sites such as Facebook and Viber, and many of them (31 percent) use online tools to search for jobs. These insights on technology usage and media consumption, especially as it relates to job searches, will allow WIE to tailor its approach to digital engagement, training tools, and media outreach.    
 
+[![Consumer Insights Afghanistan_Final_Infographic.jpg](/uploads/Consumer%20Insights%20Afghanistan_Final_Infographic.jpg)](/uploads/Thumbnail_Infographic.jpg)
+
 Find additional results from the study below.
 
 ## Technology and internet access
