@@ -12,6 +12,7 @@ A recent visit to El Salvador to help DAI launch the new [USAID Employment Train
 
 <!--more-->
 
+
 *Note: This is the second in a series of two blog posts that I wrote about my time in El Salvador. Find the first post [here](http://dai-global-digital.com/2016/01/06/consumer-insights-el-salvador-mobile-adoption.html).*
 
 First, a bit of background on the information and communications technology (ICT) industry in El Salvador: Internet penetration in the country has advanced rapidly over the last 15 years. With a penetration rate of 1.2 percent in 2000, the [World Bank](http://databank.worldbank.org/) cites El Salvador’s 2014 rate as 29.7 percent. The World Bank defines Internet users as “individuals who have used the Internet (from any location) in the last 12 months. Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV, etc.” The rate of 29.7 percent qualifies El Salvador as the most connected country among its immediate neighbors (Guatemala, 23.4 percent; Honduras, 19.08 percent; Nicaragua, 17.6 percent) but firmly below the rest of Central America (Costa Rica, 49.41 percent; Panama 44.92 percent; Mexico 44.39 percent; Belize, 38.7 percent). See [this map ](https://afivenson.cartodb.com/viz/5b4b1ba4-be67-11e5-8eeb-0e98b61680bf/public_map) for a visual comparison.
