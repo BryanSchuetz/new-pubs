@@ -1,14 +1,22 @@
-$width-tiny: 15rem; //4bits
-$width-small: 30rem; //6bits
-$width-medium: 37.5rem; //8bits
-$width-wide: 57rem; //10bits
-$ultra-wide: 67rem;
+/* Width in bits refers to how many collumns can be applied wihtout a wrap for a given viewport*/
+
+$width-tiny: 15rem; //4bits 240px
+$width-tinyish: 20rem; //5bits 320px
+$width-small: 30rem; //6bits 480px
+$width-medium: 37.5rem; //8bits 600px
+$width-wide: 57rem; //12bits 912px
+$ultra-wide: 67rem; //14bits 1072px
 
 // 🎌 Responsve mixin for bubbling up media queries, have a look at the layout partial to see how they're used 🎌
 
 @mixin responsive($width){
   @if $width == tiny-screens{
     @media screen and (min-width: $width-tiny){
+      @content;
+    }
+  }
+  @else if $width == tinyish-screens{
+    @media screen and (min-width: $width-tinyish){
       @content;
     }
   }
