@@ -9,14 +9,12 @@ Democracy activists, party workers, and community organizers don’t get into th
 
 National Democratic Institute’s (NDI’s) ICT team realized, however, that often (a) the tech tools available to activists, political parties, and citizens in developing countries are rarely very good, from a technical or user standpoint, (b) the tools that are good tend to be priced out of their reach, and (c) the affordable tools tend to require a lot of technical skill to deploy. To address these gaps, NDI developed version 2.0 of their DemTools suite, which they launched at an event on December 9, 2015. The six tools in the DemTools suite cover a range of functions to facilitate democratic processes between political agents and constituents:
 
-<aside>
 * [Civi](https://dem.tools/civi): A contact management system for organizations to store, track, and engage their constituents
 * [DKAN](https://dem.tools/dkan): A data collection, management, and visualization platform
 * [Elections](https://dem.tools/elections): A database tool that allows civic groups to monitor elections to ensure that they are run in a free and fair manner
 * [FixMyCOmmunity](https://dem.tools/fix-my-community): A tool to crowdsource public services that need to be fixed or delivered.
 * [Issues](https://dem.tools/issues): A tool that creates a way for citizens and politicians to engage in a two-way dialog on the issues that matter.
 * [Petitions](https://dem.tools/petitions): A tool to allow citizens and civic groups to create and build support for petitions to their government
-</aside>
 
 NDI Tech is also working on a new tool called PolitiFilter, which helps users “visualize, sort and scrutinize political speech across several social media platforms.”
 
