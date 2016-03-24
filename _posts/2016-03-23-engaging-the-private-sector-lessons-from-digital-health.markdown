@@ -24,12 +24,9 @@ Much of the work that goes on in public health -- indeed across the internationa
 <aside><i>Demonstrate shared value</i></aside>
 
 
-Related to the previous point, don’t simply think through what you can gain from a private sector partner, but be ready to articulate how both of your organizations can share value. For example, mobile network operators are always interested in customer retention. They do so by providing basic services such as calls and SMS, but also by providing other value added services (VAS) to their clients, such as entertainment and educational content. If your public health initiative can help drive customer retention, say by providing great content on maternal health, it’s a win-win. These kinds of engagements tend to attract telcos (and be much more sustainable) than those where there’s little-to-no shared value. \[Side note: If you want to read more about VAS vendors in development, read this great report co-authored by my colleague, Kristen Roggemann.\]
+Related to the previous point, don’t simply think through what you can gain from a private sector partner, but be ready to articulate how both of your organizations can share value. For example, mobile network operators are always interested in customer retention. They do so by providing basic services such as calls and SMS, but also by providing other value added services (VAS) to their clients, such as entertainment and educational content. If your public health initiative can help drive customer retention, say by providing great content on maternal health, it’s a win-win. These kinds of engagements tend to attract telcos (and be much more sustainable) than those where there’s little-to-no shared value. \[Side note: If you want to read more about VAS vendors in development, read this great [report ](http://draft-content.gsmaintelligence.com/AR/assets/8784352/Role of VAS Vendors in M4D FINAL web.pdf)co-authored by my colleague, Kristen Roggemann.\]
 
-Public sector grants can be more expensive than private sector investments
+<i><aside>Public sector grants can be more expensive than private sector investments</i></aside>
+
+
 A number of participants at the event were from small(ish) digital health companies are trying to figure how to scale up their businesses to the next level. And of course, funding is critical. But funding can come in different forms: public sector/ philanthropic grants, which are usually tied to impact metrics. Or private sector investments (from venture capitalists or impact investors), which are usually tied to revenues and profits. Many organizations, especially those who have been raised on donor funding, often prefer the former. But as participants at the conference were warned, the reporting and compliance demands of grants can eat into overhead and end up costing a lot more in the long run. So, when looking for funding, don’t just compare dollar amounts and deliverables. Compare the hidden costs as well.
-
-Sample Tweets:
-
-●   Read @vargheseanand’s summary of the #DigitalHealthImpact conference in Nairobi
-●   Lessons on engaging the private sector in Digital Health, from the  #DigitalHealthImpact conference in Nairobi
