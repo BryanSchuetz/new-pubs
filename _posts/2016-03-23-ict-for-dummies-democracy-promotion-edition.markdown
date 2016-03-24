@@ -4,7 +4,7 @@ date: 2016-03-23 20:51:00 Z
 tags:
 - Democracy
 - open source
-Author: Karim Bin-Humam
+Author: Anand Varghese; Karim Bin-Humam
 ---
 
 Democracy activists, party workers, and community organizers don’t get into the hard work of political mobilization to sit in front of a computer all day. Their work – and their livelihood – is based in the field. But things are changing. As with many other sectors, the proliferation of technology tools means that these professionals increasingly encounter, and are forced to work with, technology on a daily basis. In fact, ignoring new communication technologies represents a missed opportunity for both politicians and citizen groups to effectively engage in the process of political reform.
