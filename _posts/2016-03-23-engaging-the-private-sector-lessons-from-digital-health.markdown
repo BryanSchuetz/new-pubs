@@ -17,7 +17,7 @@ As a complete newcomer to the world of public health, the biggest eye-opener to 
 
 Panelists from across a range of private sector actors -- telecom companies like Safaricom, hardware developers like Huawei, impact investors like Alphamundi, and advisory groups like Open Capital -- all weighed in on the best strategies to approach private sector partners. Here are a few takeaways:
 
-<aside>\*If you’re uncomfortable with profit-seeking motives, you might want to rethink your private sector engagement strategy\*</aside>
+\*<aside>If you’re uncomfortable with profit-seeking motives, you might want to rethink your private sector engagement strategy</aside>\*
 
 Much of the work that goes on in public health -- indeed across the international development sector in general -- is driven by a sense of altruism. The notion of making profits from the needs of the underserved is often an anathema, and, as conference participants explained, this is particularly so in the relatively new field of digital health. But they also pointed out that private sector partners are, by definition, driven by the bottom line. Now, this doesn’t mean that accessing CSR funds from the private sector automatically turns you into PharmaBro, but be aware of the motivations and incentives at play. Even the most altruistic CSR initiative is aligned, even tangentially, with raising profits. Digital health companies need to make sure they’re OK with that before approaching the private sector.
 
