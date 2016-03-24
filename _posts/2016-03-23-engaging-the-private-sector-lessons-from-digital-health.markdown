@@ -1,6 +1,9 @@
 ---
 title: 'Engaging the Private Sector: Lessons from Digital Health'
 date: 2016-03-23 20:19:00 Z
+tags:
+- Public Health
+- Public Private Partnerships
 Author: Anand Varghese
 ---
 
