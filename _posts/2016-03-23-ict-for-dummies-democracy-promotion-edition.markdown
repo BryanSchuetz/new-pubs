@@ -3,6 +3,7 @@ title: 'ICT for Dummies: Democracy Promotion Edition'
 date: 2016-03-23 20:51:00 Z
 tags:
 - Democracy
+- open source
 Author: Anand Varghese, Karim Bin-Humam
 Field name: 
 ---
