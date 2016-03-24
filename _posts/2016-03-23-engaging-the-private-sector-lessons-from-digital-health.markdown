@@ -16,18 +16,21 @@ The conference focused on three interrelated efforts to engage the private secto
 
 3. Using ‘startup’-style fundraising mechanisms (such as incubation and acceleration) to boost investment in digital health businesses that are aiming to scale up their operations
 
-Panelists from across a range of private sector actors -- telecom companies like Safaricom, hardware developers like Huawei, impact investors like Alphamundi, and advisory groups like Open Capital -- all weighed in on the best strategies to approach private sector partners. Here are a few takeaways:
+Panelists from across a range of private sector actors -- telecom companies like Safaricom, hardware developers like Huawei, impact investors like Alphamundi, and advisory groups like Open Capital -- all weighed in on the best strategies to approach private sector partners.
+
+Here are a few takeaways:
 
 <aside><i>If you’re uncomfortable with profit-seeking motives, you might want to rethink your private sector engagement strategy</i></aside>
 
 Much of the work that goes on in public health -- indeed across the international development sector in general -- is driven by a sense of altruism. The notion of making profits from the needs of the underserved is often an anathema, and, as conference participants explained, this is particularly so in the relatively new field of digital health. But they also pointed out that private sector partners are, by definition, driven by the bottom line. Now, this doesn’t mean that accessing CSR funds from the private sector automatically turns you into [PharmaBro](http://www.theatlantic.com/national/archive/2015/12/pharma-bro-arrested/420954/), but be aware of the motivations and incentives at play. Even the most altruistic CSR initiative is aligned, even tangentially, with raising profits. Digital health companies need to make sure they’re OK with that before approaching the private sector.
+
 
 <aside><i>Demonstrate shared value</i></aside>
 
 
 Related to the previous point, don’t simply think through what you can gain from a private sector partner, but be ready to articulate how both of your organizations can share value. For example, mobile network operators are always interested in customer retention. They do so by providing basic services such as calls and SMS, but also by providing other value added services (VAS) to their clients, such as entertainment and educational content. If your public health initiative can help drive customer retention, say by providing great content on maternal health, it’s a win-win. These kinds of engagements tend to attract telcos (and be much more sustainable) than those where there’s little-to-no shared value. \[Side note: If you want to read more about VAS vendors in development, read this great [report ](http://draft-content.gsmaintelligence.com/AR/assets/8784352/Role of VAS Vendors in M4D FINAL web.pdf)co-authored by my colleague, Kristen Roggemann.\]
 
-<i><aside>Public sector grants can be more expensive than private sector investments</i></aside>
+<aside><i>Public sector grants can be more expensive than private sector investments</i></aside>
 
 
 A number of participants at the event were from small(ish) digital health companies are trying to figure how to scale up their businesses to the next level. And of course, funding is critical. But funding can come in different forms: public sector/ philanthropic grants, which are usually tied to impact metrics. Or private sector investments (from venture capitalists or impact investors), which are usually tied to revenues and profits. Many organizations, especially those who have been raised on donor funding, often prefer the former. But as participants at the conference were warned, the reporting and compliance demands of grants can eat into overhead and end up costing a lot more in the long run. So, when looking for funding, don’t just compare dollar amounts and deliverables. Compare the hidden costs as well.
