@@ -1,6 +1,8 @@
 ---
 title: 'ICT for Dummies: Democracy Promotion Edition'
 date: 2016-03-23 20:51:00 Z
+tags:
+- Democracy
 Author: Anand Varghese, Karim Bin-Humam
 Field name: 
 ---
@@ -25,7 +27,7 @@ Some of the tools were initially developed locally to tackle local challenges. T
 Placing a renewed focus on scalability, NDI reworked its existing set of DemTools (which previously consisted of only Civi, Elections, and Issues), adding new applications to the suite and tackling maintenance and sustainability burdens to make it easier to deploy them for various purposes and by various organizations. NDI has made the tools open source and offers the [code ](https://dem.tools/docs)for free on GitHub to individuals and organizations that can host the web-based tools on their own servers, along with extensive documentation. For those without significant technical skills or hosting capacity, NDI also offers hosting for standardized versions of each tool online via their DemCloud Software-as-a-Service (SaaS) platform, also for free, albeit to partner organizations and individuals who meet certain criteria. This combination of partnered hosting arrangements and open source code allows would-be adopters a quick and easy way to deploy the tools regardless of their technical capacity. The approach reflects the view that access to user-friendly technology is a foundation  for civic engagement and democracy promotion in the 21st century.
 
 ## Some comments
-There is little doubt that DemTools is a set powerful tools with great potential, and the absence of a price tag and availability of source code makes them accessible to and customizable for the widest range of actors. This free and open source approach is likely to  drive adoption. However, navigating the DemTools website left us with a couple of questions:
+There is little doubt that DemTools is a set of powerful tools with great potential, and the absence of a price tag and availability of source code makes them accessible to and customizable for the widest range of actors. This free and open source approach is likely to  drive adoption. However, navigating the DemTools website left us with a couple of questions:
 
 One, how do I obtain access to the cloud hosted apps? Demos for the tools are offered via separate log-in credentials on separate pages, and to gain access to full tool functionality on the cloud, [sign-up](https://dem.tools/signup) must be requested on a page not directly accessible from the homepage. Presumably, credentials for each tool will then be provided at some later date. Additionally, the criteria for the granting of full access are not clear.
 
