@@ -19,6 +19,8 @@ National Democratic Institute (NDI)’s ICT team realized, however, that often (
 * [Issues](https://dem.tools/issues): A tool that creates a way for citizens and politicians to engage in a two-way dialog on issues.
 * [Petitions](https://dem.tools/petitions): A tool to allow citizens and civic groups to create and build support for petitions to their government.
 
+<!--more-->
+
 NDI Tech is also working on a tool called PolitiFilter, which helps users “visualize, sort, and scrutinize political speech across several social media platforms.”
 
 ## DemTools in action
