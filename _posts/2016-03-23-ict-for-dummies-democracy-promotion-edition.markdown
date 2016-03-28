@@ -10,6 +10,8 @@ Author: Anand Varghese; Karim Bin-Humam
 
 Democracy activists, party workers, and community organizers don’t get into the hard work of political mobilization to sit in front of a computer all day. Their work—and their livelihood—is based in the field. But things are changing. As with many other sectors, the proliferation of technology means that these professionals increasingly encounter, and are forced to work with, technology on a daily basis. In fact, ignoring new communication technologies represents a missed opportunity for both politicians and citizen groups to effectively engage in the process of political reform.
 
+<!--more-->
+
 National Democratic Institute (NDI)’s ICT team realized, however, that often (a) the tech tools available to activists, political parties, and citizens in developing countries are rarely good, from a technical or user standpoint, (b) the tools that are good tend to be too expensive, and (c) the affordable tools tend to require a lot of skill to deploy. To address these gaps, NDI developed version 2.0 of its DemTools suite, which it launched last December. The six tools in the DemTools suite cover a range of functions to facilitate democratic processes between political agents and constituents:
 
 * [Civi](https://dem.tools/civi): A contact management system for organizations to store, track, and engage their constituents.
@@ -18,8 +20,6 @@ National Democratic Institute (NDI)’s ICT team realized, however, that often (
 * [FixMyCommunity](https://dem.tools/fix-my-community): A tool to crowdsource public services that need to be fixed or delivered.
 * [Issues](https://dem.tools/issues): A tool that creates a way for citizens and politicians to engage in a two-way dialog on issues.
 * [Petitions](https://dem.tools/petitions): A tool to allow citizens and civic groups to create and build support for petitions to their government.
-
-<!--more-->
 
 NDI Tech is also working on a tool called PolitiFilter, which helps users “visualize, sort, and scrutinize political speech across several social media platforms.”
 
