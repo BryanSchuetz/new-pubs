@@ -46,5 +46,5 @@ Have you worked with good open source tools within ICT? Is there a product you�
 [DemTools 2.0](https://dem.tools/): The website of NDI’s DemTools Suite
 [Sign-Up](https://dem.tools/signup): The request form to get access to the DemCloud-hosted DemTools
 [DemTools Guide Book](https://s3.amazonaws.com/demtools/DemTools+2.0+Launch+Brochure.pdf): A guide to the rationale for tools, tool features, and use cases
-[NDITech](https://www.nditech.org/):The official blog of NDI’s ICT team
+[NDITech](https://www.nditech.org/): The official blog of NDI’s ICT team
 [Technology: A Planning Guide for Political Parties](http://tech4parties.org/):NDI’s new resource for political parties
