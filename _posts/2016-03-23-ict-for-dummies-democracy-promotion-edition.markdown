@@ -1,5 +1,5 @@
 ---
-title: 'ICT for Dummies: Democracy Promotion Edition'
+title: ICT for Democracy? A Review of NDI's DemTools
 date: 2016-03-23 20:51:00 Z
 published: false
 tags:
