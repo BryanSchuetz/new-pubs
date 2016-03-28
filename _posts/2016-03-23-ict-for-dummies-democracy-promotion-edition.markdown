@@ -16,7 +16,7 @@ National Democratic Institute’s (NDI’s) ICT team realized, however, that oft
 * [Civi](https://dem.tools/civi): A contact management system for organizations to store, track, and engage their constituents
 * [DKAN](https://dem.tools/dkan): A data collection, management, and visualization platform
 * [Elections](https://dem.tools/elections): A database tool that allows civic groups to monitor elections to ensure that they are run in a free and fair manner
-* [FixMyCOmmunity](https://dem.tools/fix-my-community): A tool to crowdsource public services that need to be fixed or delivered.
+* [FixMyCommunity](https://dem.tools/fix-my-community): A tool to crowdsource public services that need to be fixed or delivered.
 * [Issues](https://dem.tools/issues): A tool that creates a way for citizens and politicians to engage in a two-way dialog on the issues that matter.
 * [Petitions](https://dem.tools/petitions): A tool to allow citizens and civic groups to create and build support for petitions to their government
 
