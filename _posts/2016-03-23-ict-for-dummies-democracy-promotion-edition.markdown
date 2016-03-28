@@ -5,6 +5,7 @@ published: false
 tags:
 - Democracy
 - Open Source
+- Product review
 Author: Anand Varghese; Karim Bin-Humam
 ---
 
@@ -39,6 +40,8 @@ Presumably, NDI has put these mechanisms into place in order to be able to prope
 Finally, if it’s not a feature already,  we’re hoping that ver 3.0 builds in some interoperability between tools. For example, is there any connection between the people who are tracked via CiviCRM and those who sign on to Petitions or report issues on FixMyCommunity? If not, these are the kinds of features that would likely make version 3.0 truly powerful, moving DemTools from a simple suite of disparate tools to a powerful Google-style conglomeration of tools that can conceivably be the basis for a profitable SaaS spin-off (DemTools for Enterprise, anyone?)
 
 All in all, DemTools represents an important step for democracy promotion and the development field more broadly. It moves us all in exactly the right direction -- towards the creation of a technology development expertise *within* our organizations, so that we can all design, build, and deploy our own technology to meet the the specific needs of our constituents. Congrats to NDI on their huge steps forward!
+
+Have you worked with good open source tools within ICT?  Is there a product you're eager for us to review?  Give us a shout on Twitter at @DAIGlobal or #DigitalDAI, or comment below!
 
 ### Links to user guides and other useful material
 [DemTools 2.0](https://dem.tools/): The official website of NDI’s DemTools Suite
