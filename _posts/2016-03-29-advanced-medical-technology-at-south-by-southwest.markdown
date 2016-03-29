@@ -4,6 +4,7 @@ date: 2016-03-29 08:18:00 Z
 published: false
 ---
 
+### Bioelectronics
 In the MedTech track a panel called Innserspace: Bioelectronics and Medicine’s Future moderated by Sree Sreenivisan,  the panelists discussed bioelectronics and the technology behind small implantable devices that could help deliver targeted treatment to sick and chronically ill patients. Bioelectronics represent an advancement over traditional drugs, which are actually quite primitive in their design and delivery. Today’s drugs distribute all over the body and sometimes causing debilitating side effects. This is a particularly important problem for patients who take drugs every day for glucose deficiencies, blood pressure problems, etc. Bioelectronics could offer a leap forward in treatment for these patients by using the systems of electric current present in our nervous system
 
 By interacting directly with the tissue or organ in need of treatment, bioelectronics could bring the targeted treatment that many need. The technology uses electrical signals to repair a tissue or organ by interacting with it in a way similar to the way our brain communicates with various parts of our body. One of the ways they could work is by learning when the brain is sending the wrong signals to an organ, then reengineering the signal and pulsing it to an organ to correct its function. A company called Cala Health is working on commercializing products that do this. 
