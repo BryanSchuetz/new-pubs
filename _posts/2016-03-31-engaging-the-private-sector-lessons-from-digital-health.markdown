@@ -10,6 +10,10 @@ Author: Anand Varghese
 
 In February 2016, I attended the [The State of Digital Health Innovations: Accelerating Impact at Scale](https://www.eiseverywhere.com/ereg/inactive.php?eventid=160166) conference in Nairobi. Co-hosted by the UN Foundation, the WHO’s Human Reproduction Program, and Open Capital, the conference aimed to not only give participants a detailed understanding of where digital health stands today, but also to brainstorm how to expand the scale and sustainability of these tools.
 
+
+<!--more-->
+
+
 As a complete newcomer to the world of public health, the biggest eye-opener to me was the maturity of digital tools in public health, especially when compared to other ICT4D applications with which I’m more familiar, such as governance and conflict management. It’s not that [pilotitis](http://archive.skoll.org/debate/how-do-we-cure-mhealth-pilotitis-critical-lessons-in-reaching-scale/) isn’t a concern, but overall, digital health seems well on its way towards the next step—scale and sustainability. Indeed, the conference was milling with participants from across a number of sectors, and the buzz—arguably the focus of the entire event—was on the growing need to engage the private sector in public health. Underlying this focus is the implicit notion that partnerships with the private sector will provide the basis for both speeding up (“Accelerating Impact”) and widening the scope (“at Scale”) of digital tools in international public health efforts.
 
 The conference focused on three interrelated efforts to engage the private sector in the digital health space:
