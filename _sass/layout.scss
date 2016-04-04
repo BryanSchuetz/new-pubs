@@ -17,10 +17,10 @@
 .big-wrap{
   margin: auto;
   @include responsive(tiny-screens){
-    @include width(4);
+    @include width(3.5);
   }
   @include responsive(tinyish-screens){
-    @include width(5);
+    @include width(4);
   }
   @include responsive(small-screens){
     @include width(6);
