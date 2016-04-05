@@ -2,6 +2,10 @@
 title: 'For the love of Facebook: Consumer Insights from Jordan'
 date: 2016-04-05 18:22:00 Z
 published: false
+tags:
+- Consumer Insights
+- Jordan
+- Youth
 ---
 
 ![sms-facebook-whatsapp.png](/uploads/sms-facebook-whatsapp.png)
