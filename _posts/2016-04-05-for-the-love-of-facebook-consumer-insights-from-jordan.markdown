@@ -12,6 +12,8 @@ Author: Kristen Roggemann
 
 Young people are adopting new technology faster and smarter than the general population. We know this anecdotally and witness it in our daily lives as we interact with youths in our communities. But what does this mean for development, and how do we harness it our youth-focused programming? Some new learnings from Jordan provide guidance on how to make the most of ICT for the mobile-first generation.
 
+<!--more-->
+
 ## What Youth Are Using These Days
 
 A recent survey of rural young people conducted by [DAI’s Jordan Workforce Development Project](http://www.jordanwfd.org/en-us/) and partner [Souktel Digital Solutions](www.souktel.org) in the Irbid, Marqa, Tafilah, and Zarqa governorates found that:
