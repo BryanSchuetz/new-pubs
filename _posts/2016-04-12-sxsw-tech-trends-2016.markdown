@@ -19,9 +19,9 @@ For 30 years, SXSW has attracted leading innovators in technology and features h
 
 * **Virtual Reality has Arrived**
   It is virtually (get it?) impossible to summarize an experience at SXSW 2016 without mentioning VR somewhere at the top of the list of featured technologies. VR related billboards and posters were everywhere. VR and AR (Augmented Reality) actually constituted its own content track at the conference, featuring a plethora of speaker panels, interactive demonstrations and VR theaters, such as the prominently featured Samsung VR lounge, which included a 4D theater with motion seats to simulate a day at the theme park:
-  
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9VpS9-BzQuM" frameborder="0" allowfullscreen></iframe>
-  
+
   The writing is on the wall: VR is here, and it will be big. From children’s educational programming to well…adult programming, from music entertainment to compassion creation in advocacy, the possibilities for VR application are countless. Now if only they could make us look less ridiculous while wearing VR headsets, this tech will really take off!
 
 
@@ -37,3 +37,5 @@ The gender divide in the Tech. sector is even starker in most developing countri
 **What does this mean for Digital Development?**
 
 SXSW was choc-full-of great talks on and demonstrations of promising innovations that have implications for how the development industry may change in the future. From infrared cameras linked to machine learning software that can identify wildlife crimes before they happen, to implementing an Uber model for tractor sharing in rural Nigeria, emerging technologies can help us to be more effective in our work and deliver greater impact for the bottom of the pyramid. But while we consider how technology will impact our future work we shouldn’t lose sight of the growing digital gender divide, and though we can use technology to increase our effectiveness, that effectiveness will always be limited by the exclusivity of our technological solutions, and the education needed to develop them.
+
+Did you attend SXSW? Do you have other takeaways? Want to know more? Let us know in the comments section!
