@@ -2,6 +2,11 @@
 title: 'SXSW: Tech Trends 2016'
 date: 2016-04-12 20:51:00 Z
 published: false
+tags:
+- Technology
+- Innovation
+- SXSW
+Author: Karim Bin-Humam
 ---
 
 ![sxsw.png](/uploads/sxsw.png)
