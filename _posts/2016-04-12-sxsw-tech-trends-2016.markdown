@@ -13,6 +13,8 @@ Author: Karim Bin-Humam; John Deriggi
 
 We hear it all the time: technology is constantly and rapidly changing. By the time you’ve familiarized yourself with the coolest new app, gadget or gizmo, there is a new and better one on the market that everyone is talking about. The sheer speed with which innovations pop up and change market landscapes can be daunting for even the professionaltechnologist. We attended South by Southwest (SXSW) wanting to know: what new trends are going to impact technology for development, and how can we leverage those trends in our work. We also wanted to check out the cool, quirky and downright bizarre things tech innovators have been developing in the past year –you never know which app might be the next global phenomenon!
 
+<!--more-->
+
 **Stealing the Show**
 
 For 30 years, SXSW has attracted leading innovators in technology and features hundreds of new technologies, highlighting a range of emerging trends. But there are always a few that capture the imagination more than others, grab the most attention, and cause the longest lines to form (and no, we’re not talking about the 1-hour wait to get a picture taken with [grumpy cat)](https://www.yahoo.com/style/absolutely-insane-lines-exist-to-see-grumpy-cat-at-113698908357.html). Plenty of technology trends in other industries were featured at SXSW, from medical sciences and healthcare to data privacy and security, some of which we will feature in subsequent blog posts. But undoubtedly, two of the major show-stoppers were virtual reality (VR) and artificial intelligence (AI).
