@@ -6,7 +6,7 @@ tags:
 - Technology
 - Innovation
 - SXSW
-Author: Karim Bin-Humam
+Author: John DeRiggi
 ---
 
 ![sxsw.png](/uploads/sxsw.png)
