@@ -4,6 +4,8 @@ date: 2016-04-12 20:51:00 Z
 published: false
 ---
 
+![sxsw.png](/uploads/sxsw.png)
+
 We hear it all the time: technology is constantly and rapidly changing. By the time you’ve familiarized yourself with the coolest new app, gadget or gizmo, there is a new and better one on the market that everyone is talking about. The sheer speed with which innovations pop up and change market landscapes can be daunting for even the professionaltechnologist. We attended South by Southwest (SXSW) wanting to know: what new trends are going to impact technology for development, and how can we leverage those trends in our work. We also wanted to check out the cool, quirky and downright bizarre things tech innovators have been developing in the past year –you never know which app might be the next global phenomenon!
 
 **Stealing the Show**
