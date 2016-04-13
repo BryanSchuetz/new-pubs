@@ -28,4 +28,5 @@ Demographics
 
 <p><script id="infogram_0_el_salvador_mobile_usage" title="El Salvador Mobile Usage" src="//e.infogr.am/js/embed.js?7Nu" type="text/javascript"></script></p>
 
-<script id="infogram_0_0Xpj5K8DTyOYPBKI" title="Honduras Mobile Use" src="//e.infogr.am/js/embed.js?zp6" type="text/javascript"></script></p>
+
+<p><script id="infogram_0_0Xpj5K8DTyOYPBKI" title="Honduras Mobile Use" src="//e.infogr.am/js/embed.js?zp6" type="text/javascript"></script></p>
