@@ -17,6 +17,8 @@ To the casual observer, Chamelecón looks like any other marginalized Central Am
 
 With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering what solutions may be best suited for the situation, including ICT-enabled ones.
 
+<!--More-->
+
 ## A trip to Honduras
 
 During January of 2016, I spent two weeks in some of Honduras most marginalized neighborhoods, interviewing young people on: how they receive and share information, what kinds of communications technology they use, the mobile phones they choose, and the apps they use most, all with the goal of learning how best to communicate and engage with this particularly vulnerable segment. The survey included 213 young people between the ages of 15 and 33, who live in marginalized neighborhoods in three locations: Tegucigalpa, San Pedro Sula, and in rural communities around the western department of La Paz.
