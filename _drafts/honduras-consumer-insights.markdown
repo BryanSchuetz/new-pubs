@@ -1,5 +1,5 @@
 ---
-title: Honduras Consumer Insights
+title: Consumer Insights Honduras
 date: 2016-04-13 20:10:00 Z
 tags:
 - Honduras
@@ -20,8 +20,12 @@ During January of 2016, I spent two weeks in some of Honduras most marginalized 
 
 Over the last month we’ve been analyzing the data, and have come to some surprising conclusions about how young Hondurans receive and share information. This is the first in a series of blog posts that will explore the situation in Honduras and what DAI found via the Consumer Insights process. Today we’ll cover only the demographics of our sample along with a couple high-level insights.
 
-Sample Demographics
+Demographics
 1. Our  sample was 56% female and 44% male.  
 2. 71% of our sample lives in urban areas in or around Tegucigalpa and San Pedro Sula, 29% lives in rural areas. Urban areas include both Tegucigalpa and San Pedro Sula; La Paz was the rural area that we visited.
 3. The average age of our sample is 19 years, while the most common age was 16 years. 
 
+
+<p><script id="infogram_0_el_salvador_mobile_usage" title="El Salvador Mobile Usage" src="//e.infogr.am/js/embed.js?7Nu" type="text/javascript"></script></p>
+
+<script id="infogram_0_0Xpj5K8DTyOYPBKI" title="Honduras Mobile Use" src="//e.infogr.am/js/embed.js?zp6" type="text/javascript"></script></p>
