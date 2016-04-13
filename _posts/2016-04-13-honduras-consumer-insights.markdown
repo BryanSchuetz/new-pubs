@@ -1,6 +1,7 @@
 ---
 title: Consumer Insights Honduras
 date: 2016-04-13 20:10:00 Z
+published: false
 tags:
 - Honduras
 - Consumer Insights
@@ -15,8 +16,6 @@ Author: Adam Fivenson
 To the casual observer, Chamelecón looks like any other marginalized Central American neighborhood: low-slung, pastel-colored shops line its main road, channeling a ceaseless flow of pedestrians, produce carts, motorcycles and cars. Yet behind this mundane appearance, the residents of Chamalecón face some significant challenges: poverty, unemployment, migration, family disintegration, gang infiltration, violence and impunity. While this combination of risk factors is common in marginalized neighborhoods around Central America, in communities on the periphery of San Pedro Sula like Chamalecón, they coincide with acute force—each factor feeding off the rest and exacerbating the daily risks that residents face.
 
 With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering what solutions may be best suited for the situation, including ICT-enabled ones.
-
-<!--More-->
 
 ## A trip to Honduras
 
