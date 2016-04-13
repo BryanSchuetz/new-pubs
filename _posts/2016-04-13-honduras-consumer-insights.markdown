@@ -1,5 +1,5 @@
 ---
-title: 'Consumer Insights Honduras: The Basics'
+title: 'Mobiles in Central America: Consumer Insights Honduras'
 date: 2016-04-13 20:10:00 Z
 published: false
 tags:
