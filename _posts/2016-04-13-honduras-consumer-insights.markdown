@@ -1,5 +1,5 @@
 ---
-title: Consumer Insights Honduras
+title: 'Consumer Insights Honduras: The Basics'
 date: 2016-04-13 20:10:00 Z
 published: false
 tags:
