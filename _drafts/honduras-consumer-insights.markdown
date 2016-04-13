@@ -16,7 +16,7 @@ To the casual observer, Chamelecón looks like any other marginalized Central Am
 
 With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering what solutions may be best suited for the situation, including ICT-enabled ones.
 
-<!--more-->
+<!--More-->
 
 ## A trip to Honduras
 
@@ -26,9 +26,11 @@ Over the last month we’ve been analyzing the data, and have come to some surpr
 
 ## Demographics
 
-1. Our  sample was 56% female and 44% male.  
+1. Our  sample was 56% female and 44% male.
+
 2. 71% of our sample lives in urban areas in or around Tegucigalpa and San Pedro Sula, 29% lives in rural areas. Urban areas include both Tegucigalpa and San Pedro Sula; La Paz was the rural area that we visited.
-3. The average age of our sample is 19 years, while the most common age was 16 years. 
+
+3. The average age of our sample is 19 years, while the most common age was 16 years.
 
 ## Sample results
 
