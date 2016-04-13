@@ -38,7 +38,9 @@ Over the last month we’ve been analyzing the data, and have come to some surpr
 <p><script id="infogram_0_0Xpj5K8DTyOYPBKI" title="Honduras Mobile Use" src="//e.infogr.am/js/embed.js?zp6" type="text/javascript"></script></p>
 
 ## Coming soon
+
 * 
 Social media and messaging choices
+
 * 
 Information flows of choice
