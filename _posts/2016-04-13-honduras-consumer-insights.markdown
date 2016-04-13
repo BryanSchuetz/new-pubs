@@ -40,4 +40,5 @@ Over the last month we’ve been analyzing the data, and have come to some surpr
 ## Coming soon
 * 
 Social media and messaging choices
+*
 Information flows of choice
