@@ -16,7 +16,7 @@ To the casual observer, Chamelecón looks like any other marginalized Central Am
 
 With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering what solutions may be best suited for the situation, including ICT-enabled ones.
 
-<!--More-->
+<!--more-->
 
 ## A trip to Honduras
 
