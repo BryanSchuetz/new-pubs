@@ -27,7 +27,7 @@ Over the last month we’ve been analyzing the data, and have come to some surpr
 
 ## Demographics
 
-1. Our  sample was 56% female and 44% male.
+1. Our  sample was 56% female and 44% male. All of the young people we interviewed live in marginalized neighborhoods where they are at-risk of violence, drug use, gang recruitment, and more. 
 
 2. 71% of our sample lives in urban areas in or around Tegucigalpa and San Pedro Sula, 29% lives in rural areas. Urban areas include both Tegucigalpa and San Pedro Sula; La Paz was the rural area that we visited.
 
@@ -36,6 +36,27 @@ Over the last month we’ve been analyzing the data, and have come to some surpr
 ## Sample results
 
 <p><script id="infogram_0_0Xpj5K8DTyOYPBKI" title="Honduras Mobile Use" src="//e.infogr.am/js/embed.js?zp6" type="text/javascript"></script></p>
+
+## Key insights
+
+* 
+Mobiles are hugely popular. This should surprise no one. 
+
+* 
+Smartphones are growing in market share, but are more popular in urban areas than rural areas due to the limited availability of WiFi and data services in those areas.
+
+* 
+Facebook is everywhere. If youth aren't logging on via their phones, they're logging in via the computer. For those of us who started on Facebook via the computer, this seems entirely normal, but in Honduras it's actually somewhat novel, given that computers aren't nearly as widespread. 
+
+*
+When someone buys a phone, the person they buy it from usually helps them set up their Facebook and WhatsApp accounts. 
+
+* 
+WhatsApp is the dominant messaging app. Line and Facebook Messenger are also used in Honduras but not nearly as popular. 
+
+* 
+Youth love mobile games. Candy Crush and Clash of Clans are among the most popular. 
+
 
 ## Coming soon
 
