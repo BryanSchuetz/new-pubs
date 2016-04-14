@@ -48,7 +48,7 @@ Smartphones are growing in market share, but are more popular in urban areas tha
 * 
 Facebook is everywhere. If youth aren't logging on via their phones, they're logging in via the computer. For those of us who started on Facebook via the computer, this seems entirely normal, but in Honduras it's actually somewhat novel, given that computers aren't nearly as widespread. 
 
-*
+* 
 When someone buys a phone, the person they buy it from usually helps them set up their Facebook and WhatsApp accounts. 
 
 * 
