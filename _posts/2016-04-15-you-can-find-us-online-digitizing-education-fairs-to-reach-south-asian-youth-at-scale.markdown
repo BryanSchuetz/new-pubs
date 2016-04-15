@@ -7,6 +7,8 @@ published: false
 
 *This is a guest post by Cari Wood, Project Manager in DAI’s Europe office, and the PDO project team*
 
+![south asia photo 1.jpg](/uploads/south%20asia%20photo%201.jpg)
+
 The [Public Diplomacy and Outreach Project in India and SAARC](http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association) is an EU-funded project that DAI has been implementing since December 2013, with Marco Corsi as team leader. In line with the EU’s Common Foreign and Security Policy strategy in Asia, this project aims to deepen the political, economic, and cultural relationships between the EU and India and the SAARC nations (South Asian Association for Regional Cooperation), and to promote EU visibility by organising various events, supporting local cultural organisations and setting up active ICT platforms and new means of communications.
 
 # Promoting European higher education
@@ -28,12 +30,15 @@ In addition, the students who registered on the website had the possibility to i
 Feedback from the fair has been positive from both prospective students and HEIs. The team agree further technical improvements can be made with recommendations on how to make future events better, but the overall experience of the platform was well received with an overwhelming majority (about 80%) of respondents positively assessing their time on the EHEVF (from good to excellent). This form of communication and outreach on our project has been done at a regional level, but it has the realistic possibility of becoming a global virtual fair. Detailed usage data can be found below for those interested!
 
 # Portal
+
 The portal received a surge of traffic during the virtual fair and recorded 8,116 sessions and 5,159 unique visitors over the four days (26-29 November 2015), with an average time of 7 min 43 sec spent by each visitor (higher in comparison to similar websites/ events).
 
 # Webinars
+
 Over four intense days as many as 76 webinars of 30 minutes each, many of them in parallel, were organised for EU HEIs and speakers to engage. A total of 3,243 participants (log-ins) were recorded. (Actual number would be higher due to screen sharing among students and institutional screening in some places).
 
 # Registrations
+
 The main objective of the EHEVF marketing and outreach campaign was carried out through Facebook, marketing support agencies and on-ground college campus activations in Kolkata, Hyderabad, Bangalore and Chennai. 13,592 students’ registrations were achieved through all channels and partners combined.
 
 The portal will be hosting the 2016 VEHEF, with discussions to follow on how to sustain this initiative past the life of DAI’s project, with the possibility of making this a one stop destination for students who want to get info on study opportunities in the EU.   If you have experiences with the digitization of traditionally in-person events, we’d love to hear more – please comment below or reach out to us on Twitter at @DAIGlobal or #DigitalDAI!
