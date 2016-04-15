@@ -11,6 +11,8 @@ published: false
 
 The [Public Diplomacy and Outreach Project in India and SAARC](http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association) is an EU-funded project that DAI has been implementing since December 2013, with Marco Corsi as team leader. In line with the EU’s Common Foreign and Security Policy strategy in Asia, this project aims to deepen the political, economic, and cultural relationships between the EU and India and the SAARC nations (South Asian Association for Regional Cooperation), and to promote EU visibility by organising various events, supporting local cultural organisations and setting up active ICT platforms and new means of communications.
 
+<!--more-->
+
 # Promoting European higher education
 
 Included in the project’s initiatives is the outreach of European Higher Education. In 2014, the EUD to India along with the EU Member States (MS) missions in New Delhi organised the European Higher Education Fair. The fair was held in New Delhi, Bengaluru and Kolkata over the course of a week and attracted the participation of 118 Higher Education Institutes (HEIs) from 23 EU MS. It was attended by more than 6,500 students and parents in these three cities.  The event was promoted energetically through the traditional media and advertising as well as newly emergent social media channels and received widespread coverage both online and offline.
