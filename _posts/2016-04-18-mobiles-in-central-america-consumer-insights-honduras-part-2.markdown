@@ -6,7 +6,7 @@ published: false
 
 ## Social media and messaging choices
 
-Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here:  \[ Mobiles in Central America: Consumer Insights Honduras, Part 1 \] (dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
+Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [ Mobiles in Central America: Consumer Insights Honduras, Part 1 ](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
 
 Mobile messaging and social media are incredibly popular among Honduran youth. More than 70% of at-risk youth in Honduras that we interviewed had smartphones, and almost every single one that had a smartphone used WhatsApp. Facebook is even more ubiquitous. The message is this: anyone who wants to engage Honduran youth—from the Honduran government to development actors like USAID and implementing organizations—must meet them on their native platforms of communication. These days that means social media and messaging apps.
 
