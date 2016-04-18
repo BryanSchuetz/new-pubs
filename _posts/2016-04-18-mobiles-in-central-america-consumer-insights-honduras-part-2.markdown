@@ -12,9 +12,8 @@ Author: Adam Fivenson
 ---
 
 ## Social media and messaging choices
-
-![IMG_20160202_152951472_HDR.jpg](/uploads/IMG_20160202_152951472_HDR.jpg)
-<sup>*The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras*</sup>
+![Revised4.png](/uploads/Revised4.png)
+<sup>*The author (R) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!*</sup>
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
 
