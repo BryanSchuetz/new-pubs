@@ -2,9 +2,18 @@
 title: 'Mobiles in Central America: Consumer Insights Honduras, Part 2'
 date: 2016-04-18 21:00:00 Z
 published: false
+tags:
+- Consumer Insights
+- Honduras
+Author: Adam Fivenson
 ---
 
 ## Social media and messaging choices
+
+
+
+![Revised3.jpg](/uploads/Revised3.jpg)
+<sup>*The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras*</sup>
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
 
@@ -14,20 +23,18 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 ## Key insights:
 
-Social Media Honduras
-https://infogr.am/Z9qbRaVRcwhDPS58
-
 1. Awareness of messaging apps is high across the board, but use is much more selective. Facebook and WhatsApp dominate, with 80% and 70% penetration among our sample. Twitter is the third most popular app with 19%.
 
-Social Media 2
-https://infogr.am/gGra7YHYHQfzzHSV
+<p><script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
-1. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
+2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
 
-Social Media 3
+<p><script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
+
+3. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
+
 https://infogr.am/YgP6553d5LKnyjk1
-
-1. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
+<p><script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
 Coming soon
 
@@ -35,4 +42,6 @@ Coming soon
 
 * Mobile gaming among at-risk youth in Honduras
 
-* Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed youth from age 15 to 33.
+
+<sup>*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed youth from age 15 to 33.*</sup>
+
