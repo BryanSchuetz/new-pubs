@@ -7,7 +7,6 @@ tags:
 - Honduras
 - Mobiles
 - ICT4D
-- Technology
 Author: Adam Fivenson
 ---
 
