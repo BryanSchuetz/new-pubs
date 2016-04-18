@@ -7,7 +7,6 @@ tags:
 - Consumer Insights
 - Mobiles
 - ICT4D
-- Technology
 Author: Adam Fivenson
 ---
 
