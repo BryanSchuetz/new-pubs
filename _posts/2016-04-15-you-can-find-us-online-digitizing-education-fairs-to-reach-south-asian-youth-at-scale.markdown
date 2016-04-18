@@ -9,13 +9,13 @@ published: false
 
 ![south asia photo 1.jpg](/uploads/south%20asia%20photo%201.jpg)
 
-The [Public Diplomacy and Outreach Project in India and SAARC](http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association) is a European Union (EU)-funded project that DAI has been implementing since December 2013, with Marco Corsi as team leader. In line with the EU’s Common Foreign and Security Policy strategy in Asia, this project aims to deepen the political, economic, and cultural relationships between the EU and India and the South Asian Association for Regional Cooperation (SAARC) nations, and to promote EU visibility by organising various events, supporting local cultural organisations and setting up active ICT platforms and new means of communications.
+The [Public Diplomacy and Outreach Project in India and SAARC](http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association) is a European Union (EU)-funded project that DAI has been implementing since December 2013, with Marco Corsi as team leader. In line with the EU’s Common Foreign and Security Policy strategy in Asia, this project aims to deepen the political, economic, and cultural relationships between the EU and India and the South Asian Association for Regional Cooperation (SAARC) nations. It works to promote EU visibility by organising various events, supporting local cultural organisations, and setting up active ICT platforms and new means of communications.
 
 <!--more-->
 
 # Promoting European Higher Education
 
-Included in the project’s initiatives is the outreach of European Higher Education. In 2014, the EUD to India along with the EU Member States missions in New Delhi organised the European Higher Education Fair. The fair was held in New Delhi, Bengaluru, and Kolkata over the course of a week and attracted the participation of 118 higher education institutes from 23 EU member states. It was attended by more than 6,500 students and parents from these three cities. The event was promoted energetically through the traditional media and advertising, as well as social media channels.
+Outreach to institutions of higher education in Europe is one of the project’s initiatives. In 2014, the EU Delegation to India along with the EU Member States missions in New Delhi organised the European Higher Education Fair. The fair was held in New Delhi, Bengaluru, and Kolkata over the course of a week and attracted the participation of 118 higher education institutes from 23 EU member states. It was attended by more than 6,500 students and parents from these three cities. The event was promoted energetically through the traditional media and advertising, as well as social media channels.
 
 # From In-person to Virtual: The Digitization of the Education Fair
 
