@@ -5,12 +5,13 @@ published: false
 tags:
 - Consumer Insights
 - Honduras
+- Mobiles
+- ICT4D
+- Technology
 Author: Adam Fivenson
 ---
 
 ## Social media and messaging choices
-
-
 
 ![IMG_20160202_152951472_HDR.jpg](/uploads/IMG_20160202_152951472_HDR.jpg)
 <sup>*The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras*</sup>
