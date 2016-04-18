@@ -26,7 +26,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <p><script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
-<p>2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.</p>
+2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
 
 <p><script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
