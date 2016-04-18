@@ -23,9 +23,9 @@ With those challenges in mind, DAI is hard at work developing a deeper understan
 
 ## Two Weeks in Honduras
 
-During January, I spent two weeks in some of Honduras’ most marginalized neighborhoods, interviewing young people about: how they receive and share information, what kinds of communications technology they use, which mobile phones they prefer, and the apps they use most, all with the goal of learning how best to communicate and engage with this particularly vulnerable segment. The survey included 213 people between the ages of 15 and 33 who live in marginalized neighborhoods in: Tegucigalpa, San Pedro Sula, and in rural communities around the western department of La Paz.
+During January, I spent two weeks in a variety of marginalized neighborhoods around Honduras, interviewing young people about: how they receive and share information, what kinds of communications technology they use, which mobile phones they prefer, and the apps they use most, all with the goal of learning how best to engage with them through the media they choose. The survey included 213 people between the ages of 15 and 33, all of whom live in marginalized neighborhoods in: Tegucigalpa, San Pedro Sula, and in rural communities in the western department of La Paz.
 
-Over the last month we’ve been analyzing that data, and have come to some surprising conclusions about how young Hondurans receive and share information. This is the first in a series of blog posts that will explore the situation in Honduras and what DAI found via the Consumer Insights process. Today we’ll cover only the demographics of our sample along with a couple high-level insights.
+Over the last month we’ve been analyzing that data, and been surprised more than once as we learn how young Hondurans receive and share information. This is the first in a series of blog posts that will explore the situation in Honduras and what DAIis finding through the Consumer Insights process. Today we’ll cover only the demographics of our sample along with a few high-level insights.
 
 ## Demographics
 
@@ -46,7 +46,7 @@ Smartphones are growing in market share, but are more popular in urban areas tha
 * Facebook is everywhere. If youth aren’t logging on via their phones, they’re logging on via the computer. For those of us who started using on Facebook on our computers, this seems entirely normal, but in Honduras it’s actually somewhat novel, given that computers aren’t nearly as widespread. 
 * When someone buys a phone, the person they buy it from usually helps them set up their Facebook and WhatsApp accounts. 
 * WhatsApp is the dominant messaging app. Line and Facebook Messenger are also used in Honduras but not nearly as popular. 
-* Youth love mobile games. Candy Crush and Clash of Clans are among the most popular. 
+* Youth love mobile games. Candy Crush and Clash of Clans are the most popular. 
 
 
 ## Coming soon
