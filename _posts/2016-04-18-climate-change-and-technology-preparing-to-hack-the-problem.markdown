@@ -55,6 +55,7 @@ Luis Alfonso Ortega (Coordinator for Protected Areas and Climate Change at Funda
 Noemi: For me, the biggest takeaways are that ministries of the Colombian government are already developing concrete apps and tools to address specific concerns around climate change and vulnerability.  They are clearly committed to using tech where it makes sense to combat climate change. Not only that, they are committed to developing access points for the public. Hosting the NASA Space Apps Challenge is one way to further these goals and generate enthusiasm from students, mentors, and judges and to crowd in new participants to create apps and tools that pull from international and national data sets simultaneously.
 
 ## Full video of Forum
+
 Playlist contents: 
 * 
 
