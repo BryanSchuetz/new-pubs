@@ -81,4 +81,4 @@ Playlist contents:
 
 
 
-## Have you seen a great climate change fighting app?  Let us know in the comments!
+## Have you seen an app that does a great job of fighting climate change? Let us know in the comments!
