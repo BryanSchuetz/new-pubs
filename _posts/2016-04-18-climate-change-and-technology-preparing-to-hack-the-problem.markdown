@@ -11,7 +11,7 @@ Author: Krista Baptista
 ---
 
 ![colombia-flooding.jpg](/uploads/colombia-flooding.jpg)
-<sup>*Photo: Manuel Saldarriaga/El Colombiano*</sup>
+`Photo: Manuel Saldarriaga/El Colombiano`
 
 Colombia’s 2015 floods affected some 18,000 people. They destroyed homes and bridges, caused the suspension of water and sanitation services, and killed at least 83 people. The loss of life and millions of dollars in damage have re-emphasized the importance of confronting the effects of climate change in Colombia. 
 
@@ -23,14 +23,14 @@ This month, DAI hosted Colombia’s first Forum for Technology for Climate Chang
 ## Forum for Technology for Climate Change in Colombia
 
 ![foro 2 small.JPG](/uploads/foro%202%20small.JPG)
-<sup>*Opening panel*</sup>
+`Opening panel`
 
 The Forum’s opening panel featured María Carolina Hoyos Turbay, Vice Minister for Technology, Information, and Communications; Father Luis Alfonso Castellanos Ramírez, Vice Rector at the Pontifica Universidad Javeriana; and Camila Rodriguez Vargas, Advisor at the Ministry of Environment and Sustainability. The speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
 DAI’s Latin America Regional Director for ICT, Alejandro Solis, presented the CoffeeCloud app, designed to centralize and disseminate information and connect decision makers around daily and seasonal forecasting for coffee crops. The app also reports outbreak of diseases such as coffee rust, and has a geospatial platform for consultation on cases of infestation and a two-way communication feature with Costa Rica’s Ministry of Agriculture.
 
 ![ale small.JPG](/uploads/ale%20small.JPG)
-<sup>*Alejandro Solis presents CoffeeCloud*</sup>
+`Alejandro Solis presents CoffeeCloud`
 
 DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) attended the event. “DAI is committed to supporting Colombia in its efforts to mitigate climate change and supporting the Space Apps Challenge here is a manifestation of that,” Otero remarked. 
 
@@ -39,7 +39,7 @@ DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard
 [Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), DAI’s Director of Governance, moderated the event. Digital@DAI interviewed Danao-Schroeder on the key takeaways. 
 
 ![foro small.JPG](/uploads/foro%20small.JPG)
-<sup>*Opening panel, Noemi Danao-Schroeder is second from left*</sup>
+`Opening panel, Noemi Danao-Schroeder is second from left`
 
 **Q. What was the purpose of this event?**
 
