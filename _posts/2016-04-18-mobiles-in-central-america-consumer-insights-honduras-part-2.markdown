@@ -27,12 +27,12 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
 
-<p><script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
+<script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
 3. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
 
 
-<p><script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
+<script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
 Coming soon
 
