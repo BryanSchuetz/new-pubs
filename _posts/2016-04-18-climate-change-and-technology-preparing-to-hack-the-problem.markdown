@@ -34,9 +34,9 @@ DAI's Latin America Regional Director for ICT, Alejandro Solis, presented the Co
 
 DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event. Ms. Otero spoke, affirming that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that." Dr. Boomgard seconded these comments. 
 
-[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder on the takeaways from the event. 
-
 ## Key takeaways from Forum
+
+[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder on the takeaways from the event. 
 
 ![foro small.JPG](/uploads/foro%20small.JPG)
 <sup>*Opening panel, Danao-Schroeder second from left*</sup>
