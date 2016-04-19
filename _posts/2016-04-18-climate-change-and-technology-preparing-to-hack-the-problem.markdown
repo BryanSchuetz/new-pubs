@@ -47,7 +47,7 @@ Noemi: One of the immediate benefits was to showcase actual outputs from previou
 **Q. What were some of the other technologies that were presented?**
  
 Noemi: Tito Muto from Conservación International presented [TREMARCTOS COLOMBIA](http://www.tremarctoscolombia.org/), which is a free, on-line tool that provides preliminary vulnerability screening and recommendations. 
-Luis Alfonso Ortega (Coordinator for Protected Areas and Climate Change at Fundación Ecohabitats) presented a toolkit to increase resilience to and reduce vulnerability around climate changes in rural areas, based on the latest technology and best practices tailored to local areas. The tool is called [TeSAC - Los Territorios Sostenibles Adaptados al Clima](https://ccafs.cgiar.org/es/territorios-sostenibles-adaptados-al-clima#.VvrWc2ThCMI).
+Luis Alfonso Ortega, Coordinator for Protected Areas and Climate Change at Fundación Ecohabitats, presented a toolkit to increase resilience and reduce vulnerability to climate changes in rural areas, based on the latest technology and best practices tailored to local areas. The tool is called [TeSAC - Los Territorios Sostenibles Adaptados al Clima](https://ccafs.cgiar.org/es/territorios-sostenibles-adaptados-al-clima#.VvrWc2ThCMI).
 
  
 **Q. What were some of the biggest takeaways from the Forum?**
@@ -56,12 +56,12 @@ Noemi: For me, the biggest takeaways are that ministries of the Colombian govern
 
 ## Full video of Forum
 
-Playlist contents: 
-* 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoSdx8wng0g?list=PLoRLK-0MlLuN4Tx_UL1u6L7V7GffIhI4K" frameborder="0" allowfullscreen></iframe>
 
-
-[![Forum for Technology for Climate Change](http://img.youtube.com/vi/JoSdx8wng0g/0.jpg)](http://www.youtube.com/watch?v=JoSdx8wng0g "Forum for Technology for Climate Change")
-
+Playlist contents: 
+* Forum for Technology for Climate Change
+* Comments by Maria Otero, Board Member, DAI
+* Comments by Alejandro Solis, LAC Regional ICT Director, DAI
+* Comments by Luis Ortega, Coordinator for Protected Areas and Climate Change at Fundación Ecohabitats, CATIE
+* Comments by Tito Muto, IT Coordinator, Conservación International
+* Closing by Alejandro Solis, LAC Regional ICT Director, DAI
