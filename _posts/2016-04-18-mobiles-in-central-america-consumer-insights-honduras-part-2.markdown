@@ -19,13 +19,13 @@ Author: Adam Fivenson
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
 
-Mobile messaging and social media are incredibly popular among Honduran youth. More than 70% of at-risk youth in Honduras that we interviewed had smartphones, and almost every single one that had a smartphone used WhatsApp. Facebook is even more ubiquitous. The message is this: anyone who wants to engage Honduran youth—from the Honduran government to development actors like USAID and implementing organizations—must meet them on their native platforms of communication. These days that means social media and messaging apps.
+Mobile messaging and social media are incredibly popular among Honduran youth. More than 70 percent of at-risk young people in Honduras who we interviewed had smartphones, and almost every single one who had a smartphone uses WhatsApp. Facebook is even more ubiquitous. The message is this: anyone—from the Honduran government to development actors like USAID and implementing organizations—who wants to engage with Honduran young people must meet them on their native platforms of communication. These days that means social media and messaging apps.
 
 <!--more-->
 
-## Key insights:
+## Key Insights:
 
-* Awareness of messaging apps is high across the board, but use is much more selective. 95% were aware of both Facebook and WhatsApp, and 88% knew Twitter, and 71% knew Line. The picture for actual usage is very different. Facebook and WhatsApp dominate, with 80% and 70% penetration among our sample, respectively. Twitter was a far off third with 19%, and Line had 12% usage.
+* Awareness of messaging apps is high across the board, but use is much more selective. Ninety-five percent were aware of both Facebook and WhatsApp, and 88 percent knew Twitter, and 71 percent knew Line. The picture for actual usage is very different. Facebook and WhatsApp dominate, with 80 percent and 70 percent penetration among our sample, respectively. Twitter was a far off third with 19 percent, and Line had 12 percent usage.
 
 <script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
@@ -33,20 +33,20 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
-* WhatsApp and Facebook are the apps most people said use the most. Based on the stats above, this is not a surprise. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
+* WhatsApp and Facebook are the apps most people say they use the most. Based on the stats above, this is not a surprise. When asked to choose, 47 percent of users identified WhatsApp as the app they use most, while 30 percent said the same of Facebook. Twitter was the next most choice at 1 percent.
 
 <script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
 
-## Coming soon
+## Coming Soon
 
-* How do at-risk youth in Honduras receive and share information?
+* How do at-risk young people in Honduras receive and share information?
 
-* Mobile gaming among at-risk youth in Honduras
+* Mobile gaming among at-risk young people in Honduras
 
 
 ***
 
 
-<sup>*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed youth from age 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
+<sup>*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
 
