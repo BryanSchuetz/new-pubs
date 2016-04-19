@@ -19,7 +19,7 @@ On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Chang
 
 ## View the Forum 
 
-[![Forum for Technology for Climate Change](http://img.youtube.com/vi/JoSdx8wng0g/0.jpg)](http://www.youtube.com/watch?v=JoSdx8wng0g "Forum for Technology for Climate Change")
+[![Forum for Technology for Climate Change](http://img.youtube.com/vi/JoSdx8wng0g/0.jpg)](http://www.youtube.com/watch?v=JoSdx8wng0g "Forum for Technology for Climate Change"){:target="_blank"}
 
 The opening panel featured representatives from the Ministry of Technology, Information and Communications, the Ministry of the Environment and Sustainability, and Javeriana. The speakers addressed high level considerations related to technologies for decision making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
