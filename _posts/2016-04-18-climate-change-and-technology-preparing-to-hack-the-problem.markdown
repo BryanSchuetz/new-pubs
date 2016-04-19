@@ -2,6 +2,11 @@
 title: Climate Change and Technology – Preparing to Hack the Problem
 date: 2016-04-18 21:46:00 Z
 published: false
+tags:
+- ICT4D
+- Entrepreneurship
+- Youth
+- Colombia
 Author: Krista Baptista
 ---
 
