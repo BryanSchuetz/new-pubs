@@ -79,4 +79,4 @@ Playlist contents:
 * Closing by Alejandro Solis, LAC Regional ICT Director, DAI
 
 
-## Have you seen an app that does a great job of fighting climate change? Let us know in the comment section below or tweet to @DAIGlobal with the #DigitalDAI hashtag. 
+Have you seen an app that does a great job of fighting climate change? Let us know in the comment section below or tweet to @DAIGlobal with the #DigitalDAI hashtag. 
