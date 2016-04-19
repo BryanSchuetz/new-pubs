@@ -20,11 +20,9 @@ In response, DAI is working with the [Pontificia Universidad Javeriana](http://w
 
 On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at the Centro Ático, bringing together more than 50 representatives of the public and private sector working on climate change and environmental management to discuss to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana will be hosing The Challenge April 22-24 at the Centro Ático with 120 young innovators. 
 
-## View the Forum 
+## Forum for Technology for Climate Change at the Centro Ático
 
-[![Forum for Technology for Climate Change](http://img.youtube.com/vi/JoSdx8wng0g/0.jpg)](http://www.youtube.com/watch?v=JoSdx8wng0g "Forum for Technology for Climate Change")
-
-The opening panel featured representatives from the Ministry of Technology, Information and Communications, the Ministry of the Environment and Sustainability, and Javeriana. The speakers addressed high level considerations related to technologies for decision making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
+The Forum's opening panel featured representatives from the Ministries of Technology, Information and Communications, and the Environment and Sustainability, and Javeriana. Speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
 DAI CEO [Jim Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event, and affirmed that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that."
 
@@ -55,3 +53,14 @@ Luis Alfonso Ortega (Coordinator for Protected Areas and Climate Change at Funda
 **Q. What were some of the biggest takeaways from the Forum?**
 
 Noemi: For me, the biggest takeaways are that ministries of the Colombian government are already developing concrete apps and tools to address specific concerns around climate change and vulnerability.  They are clearly committed to using tech where it makes sense to combat climate change. Not only that, they are committed to developing access points for the public. Hosting the NASA Space Apps Challenge is one way to further these goals and generate enthusiasm from students, mentors, and judges and to crowd in new participants to create apps and tools that pull from international and national data sets simultaneously.
+
+## Full video of Forum
+Playlist contents: 
+* 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JoSdx8wng0g?list=PLoRLK-0MlLuN4Tx_UL1u6L7V7GffIhI4K" frameborder="0" allowfullscreen></iframe>
+
+
+[![Forum for Technology for Climate Change](http://img.youtube.com/vi/JoSdx8wng0g/0.jpg)](http://www.youtube.com/watch?v=JoSdx8wng0g "Forum for Technology for Climate Change")
+
