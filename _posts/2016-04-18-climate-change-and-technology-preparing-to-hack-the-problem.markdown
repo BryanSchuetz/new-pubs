@@ -21,15 +21,13 @@ On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Chang
 
 [![Forum for Technology for Climate Change](http://img.youtube.com/vi/JoSdx8wng0g/0.jpg)](http://www.youtube.com/watch?v=JoSdx8wng0g "Forum for Technology for Climate Change")
 
-## Reaction to the Forum
-
 The opening panel featured representatives from the Ministry of Technology, Information and Communications, the Ministry of the Environment and Sustainability, and Javeriana. The speakers addressed high level considerations related to technologies for decision making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
-DAI CEO Jim Boomgard and Board Member Maria Otero both attended the event, and affirmed that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that."
+DAI CEO [Jim Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event, and affirmed that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that."
 
-Noemi Danao-Schroeder, Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Noemi on the key takeaways from the event. 
+[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Noemi on the takeaways from the event. 
 
----
+## Key takeaways from Forum
 
 **Q. What was the purpose of this event and who was on the initial panel?**
 
