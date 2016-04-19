@@ -11,6 +11,7 @@ Author: Adam Fivenson
 ---
 
 ## Social media and messaging choices
+
 ![Revised4.png](/uploads/Revised4.png)
 <sup>*The author (R) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!*</sup>
 
@@ -24,15 +25,16 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 1. Awareness of messaging apps is high across the board, but use is much more selective. Facebook and WhatsApp dominate, with 80% and 70% penetration among our sample. Twitter is the third most popular app with 19%.
 
+<p><script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
 2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
 
-<script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
+<p><script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
 3. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
 
-
-<script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
+https://infogr.am/YgP6553d5LKnyjk1
+<p><script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
 Coming soon
 
