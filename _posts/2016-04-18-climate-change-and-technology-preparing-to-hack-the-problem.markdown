@@ -32,7 +32,7 @@ DAI’s Latin America Regional Director for ICT, Alejandro Solis, presented the 
 ![ale small.JPG](/uploads/ale%20small.JPG)
 `Alejandro Solis presents CoffeeCloud`
 
-DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) attended the event. “DAI is committed to supporting Colombia in its efforts to mitigate climate change and supporting the Space Apps Challenge here is a manifestation of that,” Otero remarked. 
+DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) attended the event. “DAI is committed to supporting Colombia in its efforts to mitigate climate change and supporting the Space Apps Challenge here is a manifestation of that,” remarked Otero. 
 
 ## Key Takeaways 
 
@@ -69,7 +69,7 @@ Danao-Schroeder: For me, the biggest takeaways are that ministries of the Colomb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoSdx8wng0g?list=PLoRLK-0MlLuN4Tx_UL1u6L7V7GffIhI4K" frameborder="0" allowfullscreen></iframe>
 
-Playlist contents: 
+*Embedded video (above) playlist contents:*
 
 * Forum for Technology for Climate Change
 * Comments by Maria Otero, Board Member, DAI
