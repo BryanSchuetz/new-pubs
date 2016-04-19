@@ -1,5 +1,5 @@
 ---
-title: Climate Change and Technology – Preparing to Hack the Problem
+title: Hacking Climate Change in Colombia
 date: 2016-04-18 21:46:00 Z
 published: false
 tags:
