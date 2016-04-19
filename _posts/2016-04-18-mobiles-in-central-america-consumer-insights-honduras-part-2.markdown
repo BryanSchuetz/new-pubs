@@ -33,7 +33,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
-* WhatsApp and Facebook are the apps most people use the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
+* WhatsApp and Facebook are the apps most people said use the most. Based on the stats above, this is not a surprise. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
 
 <script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
