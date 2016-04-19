@@ -18,25 +18,25 @@ Colombia's 2015 floods affected some 18,000 people. They destroyed homes and bri
 In response, DAI is working with the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/) in Bogota, its on-campus technology and innovation hub, [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), and the
 [Centro Agronómico Tropical de Investigación y Enseñanza (CATIE)](http://www.catie.ac.cr/es/) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity. 
 
-On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at the Centro Ático, bringing together more than 50 representatives of the public and private sectors working on climate change and environmental management to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana will be hosing The Space Apps Challenge April 22-24 at the Centro Ático with 120 young Colombian innovators. 
+On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at Centro Ático, bringing together more than 50 representatives of the public and private sectors working on climate change and environmental management to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana are preparing to host The Space Apps Challenge at Centro Ático with 120 young Colombian innovators from April 22-24.  
 
 ## Forum for Technology for Climate Change in Colombia
 
 ![foro 2 small.JPG](/uploads/foro%202%20small.JPG)
 <sup>*Opening panel*</sup>
 
-The Forum's opening panel featured representatives from the Ministries of Technology, Information and Communications, and the Environment and Sustainability, and Javeriana. Speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
+The Forum's opening panel featured María Carolina Hoyos Turbay - Viceminister for Technology, Information and Communications; Father Luis Alfonso Castellanos Ramírez, Vice Rector at the Pontifica Universidad Javeriana; and Camila Rodriguez Vargas, Advisor at the Ministry of Environment and Sustainability.The speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
-DAI's Latin America Regional Director for ICT, Alejandro Solis, presented the CoffeeCloud app, designed to centralize and disseminate information and connect decision makers around daily and seasonal forecasting for coffee crops. The app also reports outbreak of diseases such as coffee rust. Cloud Coffee also has an a geospatial platform for consultation on cases of infestation, reporting, and two-way communication with Costa Rica’s Ministry of Agriculture.
+DAI's Latin America Regional Director for ICT, Alejandro Solis, presented the CoffeeCloud app, designed to centralize and disseminate information and connect decision makers around daily and seasonal forecasting for coffee crops. The app also reports outbreak of diseases such as coffee rust, and has a geospatial platform for consultation on cases of infestation and a two-way communication feature with Costa Rica’s Ministry of Agriculture.
 
 ![ale small.JPG](/uploads/ale%20small.JPG)
 <sup>*Alejandro Solis presents CoffeeCloud*</sup>
 
-DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event. Ms. Otero spoke, affirming that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that." Dr. Boomgard seconded these comments. 
+DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event. Ms. Otero spoke, affirming that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and supporting the Space Apps Challenge here is a manifestation of that." Dr. Boomgard seconded these comments. 
 
 ## Key takeaways from Forum
 
-[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder on the takeaways from the event. 
+[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder on the takeaways. 
 
 ![foro small.JPG](/uploads/foro%20small.JPG)
 <sup>*Opening panel, Danao-Schroeder second from left*</sup>
@@ -45,12 +45,10 @@ DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard
 
 Danao-Schroeder:  The purpose of the event was to highlight technologies and innovations that Ministries and NGOs can use immediately to support climate change decision-making.  While we were there to really bring together these thought leaders, we also wanted to energize people around the NASA Space Apps Challenge.  We wanted to provide real-life examples of what could be generated in the Space Apps Challenge. 
 
-The initial panel was María Carolina Hoyos Turbay - Viceminister for the Technology, Information and Communications; Father Luis Alfonso Castellanos Ramírez, Vice Rector at the Pontifica Universidad Javeriana, and Camila Rodriguez Vargas, Advisor at the Ministry of Environment and Sustainability.
-
 
 **Q. What is the NASA Space Apps Challenge?**
 
-Danao-Schroeder: The annual [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/) is a 30 hour blitz of coding and product development – otherwise known as a hack-a-thon - that occurs simultaneously around the globe and uses NASA data and imagery to develop new solutions to pressing global challenges identified by NASA.  During the hack-a-thon, NASA satellite imagery, data sets, and tools are made available to students and other participants to create localized solutions.
+Danao-Schroeder: The annual [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/) is a 30 hour blitz of coding and product development – otherwise known as a hack-a-thon - that occurs simultaneously around the globe and uses NASA data and imagery to develop new solutions to pressing global challenges identified by NASA.  During the hackathon, NASA satellite imagery, data sets, and tools are made available to students and other participants to create localized solutions.
 
 
 **Q. How will this event fuel the Space Apps Challenge?**
@@ -82,4 +80,5 @@ Playlist contents:
 * Closing by Alejandro Solis, LAC Regional ICT Director, DAI
 
 
-## Have you seen a great app to track climate change?  Let us know in the comments!
+
+## Have you seen a great climate change fighting app?  Let us know in the comments!
