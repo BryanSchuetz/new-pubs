@@ -20,7 +20,7 @@ In response, DAI is working with the [Pontificia Universidad Javeriana](http://w
 
 On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at the Centro Ático, bringing together more than 50 representatives of the public and private sector working on climate change and environmental management to discuss to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana will be hosing The Challenge April 22-24 at the Centro Ático with 120 young innovators. 
 
-## Forum for Technology for Climate Change at the Centro Ático
+## Forum for Technology for Climate Change
 
 The Forum's opening panel featured representatives from the Ministries of Technology, Information and Communications, and the Environment and Sustainability, and Javeriana. Speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
