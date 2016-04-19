@@ -23,7 +23,7 @@ The opening panel featured representatives from the Ministry of Technology, Info
 
 DAI CEO Jim Boomgard and Board Member Maria Otero both attended the event, and affirmed that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that."
 
-Noemi Danao-Schroeder, Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder to get her thoughts on the event. 
+Noemi Danao-Schroeder, Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Noemi on the key takeaways from the event. 
 
 ---
 
