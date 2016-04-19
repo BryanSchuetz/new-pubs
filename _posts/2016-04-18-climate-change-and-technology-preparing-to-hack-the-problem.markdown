@@ -18,7 +18,7 @@ Colombia's 2015 floods affected some 18,000 people. They destroyed homes and bri
 In response, DAI is working with the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/) in Bogota, its on-campus technology and innovation hub, the [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), and the
 [Centro Agronómico Tropical de Investigación y Enseñanza (CATIE)](http://www.catie.ac.cr/es/) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity. 
 
-On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at the Centro Ático, bringing together more than 50 representatives of the public and private sector working on climate change and environmental management to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana will be hosing The Challenge April 22-24 at the Centro Ático with 120 young innovators. 
+On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at the Centro Ático, bringing together more than 50 representatives of the public and private sectors working on climate change and environmental management to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana will be hosing The Space Apps Challenge April 22-24 at the Centro Ático with 120 young innovators. 
 
 ## Forum for Technology for Climate Change in Colombia
 
