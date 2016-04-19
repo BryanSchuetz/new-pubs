@@ -24,7 +24,6 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 1. Awareness of messaging apps is high across the board, but use is much more selective. Facebook and WhatsApp dominate, with 80% and 70% penetration among our sample. Twitter is the third most popular app with 19%.
 
-<script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript">
 
 2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
 
