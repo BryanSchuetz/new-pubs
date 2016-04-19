@@ -1,6 +1,7 @@
 ---
 title: 'Mobiles in Central America: Consumer Insights Honduras, Part 2'
 date: 2016-04-18 21:00:00 Z
+published: false
 tags:
 - Consumer Insights
 - Honduras
@@ -31,7 +32,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 3. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
 
-https://infogr.am/YgP6553d5LKnyjk1
+
 <p><script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
 Coming soon
