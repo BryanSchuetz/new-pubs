@@ -22,14 +22,14 @@ On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Chang
 
 ## Forum for Technology for Climate Change
 
-[foro 2 small.JPG](/uploads/foro%202%20small.JPG)
+![foro 2 small.JPG](/uploads/foro%202%20small.JPG)
 <sup>*Opening panel*</sup>
 
 The Forum's opening panel featured representatives from the Ministries of Technology, Information and Communications, and the Environment and Sustainability, and Javeriana. Speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
 DAI's Latin America Regional Director for ICT, Alejandro Solis, presented the CoffeeCloud app, designed to centralize and disseminate information and connect decision makers around daily and seasonal forecasting for coffee crops. The app also reports outbreak of diseases such as coffee rust. Cloud Coffee also has an a geospatial platform for consultation on cases of infestation, reporting, and two-way communication with Costa Rica’s Ministry of Agriculture.
 
-[ale small.JPG](/uploads/ale%20small.JPG)
+![ale small.JPG](/uploads/ale%20small.JPG)
 <sup>*Alejandro Solis presents CoffeeCloud*</sup>
 
 DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event. Ms. Otero spoke, affirming that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that." Dr. Boomgard seconded these comments. 
@@ -38,9 +38,8 @@ DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard
 
 ## Key takeaways from Forum
 
-[foro small.JPG](/uploads/foro%20small.JPG)
+![foro small.JPG](/uploads/foro%20small.JPG)
 <sup>*Opening panel, Danao-Schroeder second from left*</sup>
-
 
 **Q. What was the purpose of this event and who was on the initial panel?**
 
@@ -74,6 +73,7 @@ Danao-Schroeder: For me, the biggest takeaways are that ministries of the Colomb
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoSdx8wng0g?list=PLoRLK-0MlLuN4Tx_UL1u6L7V7GffIhI4K" frameborder="0" allowfullscreen></iframe>
 
 Playlist contents: 
+
 * Forum for Technology for Climate Change
 * Comments by Maria Otero, Board Member, DAI
 * Comments by Alejandro Solis, LAC Regional ICT Director, DAI
