@@ -23,17 +23,18 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 ## Key insights:
 
-1. Awareness of messaging apps is high across the board, but use is much more selective. Facebook and WhatsApp dominate, with 80% and 70% penetration among our sample. Twitter is the third most popular app with 19%.
+*1. Awareness of messaging apps is high across the board, but use is much more selective. Facebook and WhatsApp dominate, with 80% and 70% penetration among our sample. Twitter is the third most popular app with 19%.*
 
 <script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
-2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
+*2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.*
 
 <script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
-3. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.
+*3. WhatsApp and Facebook are the apps most people us the most. When asked to choose, 47% of users identified WhatsApp as the app they use most, while 30% said the same of Facebook. Twitter was the next most popular choice with 1%.*
 
 <script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
+
 
 ## Coming soon
 
@@ -41,6 +42,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 * Mobile gaming among at-risk youth in Honduras
 
+###
 
 <sup>*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed youth from age 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
 
