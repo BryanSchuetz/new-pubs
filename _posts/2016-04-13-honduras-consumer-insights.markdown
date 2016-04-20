@@ -16,7 +16,7 @@ Author: Adam Fivenson
 `The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras`
 
 
-To the casual observer, Chamelecón looks like any other marginalized Central American neighborhood: low-slung, pastel-colored shops line its main road, channeling a ceaseless flow of pedestrians, produce carts, motorcycles, and cars. Yet behind this mundane facade, the residents of Chamalecón face some significant challenges: poverty, unemployment, migration, family disintegration, gang infiltration, violence, and impunity. While this combination of risk factors is common in marginalized neighborhoods around Central America, in communities on the periphery of San Pedro Sula such as Chamalecón, they coincide with acute force—each factor feeding off the rest and exacerbating the daily risks that residents face.
+To the casual observer, Chamelecón looks like any other marginalized Central American neighborhood: low-slung, pastel-colored shops line its main road, channeling a ceaseless flow of pedestrians, produce carts, motorcycles, and cars. Yet behind this mundane facade, the residents of Chamalecón face some significant challenges: poverty, unemployment, migration, family disintegration, gang infiltration, violence, and impunity. While this combination of risk factors is common in at-risk* neighborhoods around Central America, in communities on the periphery of San Pedro Sula such as Chamalecón, they coincide with acute force—each factor feeding off the rest and exacerbating the daily risks that residents face.
 
 With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering which solutions may be best for the situation, including ICT-enabled ones.
 
@@ -24,13 +24,13 @@ With those challenges in mind, DAI is hard at work developing a deeper understan
 
 ## Two Weeks in Honduras
 
-During January, I spent two weeks in a variety of marginalized neighborhoods around Honduras, interviewing young people about: how they receive and share information, what kinds of communications technology they use, which mobile phones they prefer, and the apps they use most, all with the goal of learning how best to engage with them through the media they choose. The survey included 213 people between the ages of 15 and 33, all of whom live in marginalized neighborhoods in: Tegucigalpa, San Pedro Sula, and in rural communities in the western department of La Paz.
+During January, I spent two weeks in a variety of poor neighborhoods around Honduras, interviewing young people about: how they receive and share information, what kinds of communications technology they use, which mobile phones they prefer, and the apps they use most, all with the goal of learning how best to engage with them through the media they choose. The survey included 213 people between the ages of 15 and 33, all of whom live in marginalized neighborhoods in: Tegucigalpa, San Pedro Sula, and in rural communities in the western department of La Paz.
 
 Over the last month we’ve been analyzing that data, and been surprised more than once as we learn how young Hondurans receive and share information. This is the first in a series of blog posts that will explore the situation in Honduras and what DAIis finding through the Consumer Insights process. Today we’ll cover only the demographics of our sample along with a few high-level insights.
 
 ## Demographics
 
-1. Our sample was 56 percent female and 44 percent male. All of the young people we interviewed live in marginalized neighborhoods where they are at risk of violence, drug use, gang recruitment, and more. 
+1. Our sample was 56 percent female and 44 percent male. All of the young people we interviewed live in neighborhoods where they are at-risk of violence, drug use, gang recruitment, and more. 
 
 2. About 71 percent of our sample lives in urban areas in or around Tegucigalpa and San Pedro Sula; 29 percent lives in rural areas. Urban areas include both Tegucigalpa and San Pedro Sula; La Paz was the rural area that we visited.
 
@@ -57,3 +57,9 @@ Social media and messaging choices
 
 * 
 Information flows of choice
+
+
+***
+
+
+<sup>*  *Honduran neighborhoods are considered at-risk if they shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors.*</sup>
