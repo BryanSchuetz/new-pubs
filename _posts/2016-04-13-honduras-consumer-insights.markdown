@@ -24,7 +24,7 @@ With those challenges in mind, DAI is hard at work developing a deeper understan
 
 ## Two Weeks in Honduras
 
-During January, I spent two weeks in a variety of poor neighborhoods around Honduras, interviewing young people about: how they receive and share information, what kinds of communications technology they use, which mobile phones they prefer, and the apps they use most, all with the goal of learning how best to engage with them through the media they choose. The survey included 213 people between the ages of 15 and 33, all of whom live in marginalized neighborhoods in: Tegucigalpa, San Pedro Sula, and in rural communities in the western department of La Paz.
+During January, I spent two weeks in a variety of cities and neighborhoods, interviewing young people about: how they receive and share information, what kinds of communications technology they use, which mobile phones they prefer, and the apps they use most, all with the goal of learning how best to engage with them through the media they choose. The survey included 213 people between the ages of 15 and 33, all of whom live in marginalized neighborhoods in: Tegucigalpa, San Pedro Sula, and in rural communities in the western department of La Paz.
 
 Over the last month we’ve been analyzing that data, and been surprised more than once as we learn how young Hondurans receive and share information. This is the first in a series of blog posts that will explore the situation in Honduras and what DAIis finding through the Consumer Insights process. Today we’ll cover only the demographics of our sample along with a few high-level insights.
 
