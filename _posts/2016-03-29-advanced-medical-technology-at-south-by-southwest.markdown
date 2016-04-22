@@ -1,5 +1,5 @@
 ---
-title: Disparities in Hype and the Advanced Medical Technology at SXSW 2016
+title: 'Disparities in Hype: Advanced Medical Technology at SXSW 2016'
 date: 2016-03-29 08:18:00 Z
 published: false
 categories:
