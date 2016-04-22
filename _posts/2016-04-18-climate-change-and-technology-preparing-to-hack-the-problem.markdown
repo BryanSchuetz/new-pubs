@@ -15,7 +15,7 @@ Author: Krista Baptista
 Colombia’s 2015 floods affected some 18,000 people. They destroyed homes and bridges, caused the suspension of water and sanitation services, and killed at least 83 people. The loss of life and millions of dollars in damage have re-emphasized the importance of confronting the effects of climate change in Colombia. 
 
 DAI is working with the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/) in Bogota, its on-campus technology and innovation hub, [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), and the
-[Centro Agronómico Tropical de Investigación y Enseñanza (CATIE)](http://www.catie.ac.cr/es/) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity. 
+[Centro Internacional de Agriculture Tropical (CIAT)](https://ciat.cgiar.org/) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity. 
 
 This month, DAI hosted Colombia’s first Forum for Technology for Climate Change at Centro Ático, bringing together more than 50 participants who work on climate change and environmental management issues to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can create pilot solutions. DAI and Javeriana are preparing to host The Space Apps Challenge at Centro Ático with 120 young Colombian innovators from April 22 to 24.  
 
