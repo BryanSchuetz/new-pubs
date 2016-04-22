@@ -4,6 +4,10 @@ date: 2016-03-29 08:18:00 Z
 published: false
 ---
 
+Disparities in Hype: Medical Technology at SXSW and a 
+The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths disrupting traditional industries. Those companies are important and clearly shaping our economy and our lives forever. 
+What does not get as much press coverage though is medical technology and the smart people working hard to develop life-saving technology for the entire planet. This contrast was readily apparent at this year’s South by Southwest interactive conference where one could attend a panel on how fashion retail technology startups are using rfid to learn how we shop, followed immediately by a panel about how the world’s best vaccine researchers are trying to create new technology for drug delivery. This was my experience, and the palpable disparity in “coolness” between the two innovative applications of technology was remarkable. 
+
 ### Bioelectronics
 In the MedTech track a panel called Innserspace: Bioelectronics and Medicine’s Future moderated by Sree Sreenivisan,  the panelists discussed bioelectronics and the technology behind small implantable devices that could help deliver targeted treatment to sick and chronically ill patients. Bioelectronics represent an advancement over traditional drugs, which are actually quite primitive in their design and delivery. Today’s drugs distribute all over the body and sometimes causing debilitating side effects. This is a particularly important problem for patients who take drugs every day for glucose deficiencies, blood pressure problems, etc. Bioelectronics could offer a leap forward in treatment for these patients by using the systems of electric current present in our nervous system
 
