@@ -1,7 +1,7 @@
 ---
 title: 'You can find us online: Digitizing education fairs to reach South Asian youth
   at scale'
-date: 2016-04-15 15:40:00 Z
+date: 2016-04-23 09:00:00 Z
 published: false
 ---
 
