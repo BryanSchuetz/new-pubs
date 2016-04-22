@@ -6,6 +6,10 @@ categories:
 - SXSW2016
 - Bioelectronics
 - MedTech
+tags:
+- SXSW
+- Bioelctronics
+- MedicalTechnology
 Author: John DeRiggi
 ---
 
