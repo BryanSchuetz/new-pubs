@@ -13,6 +13,8 @@ tags:
 Author: John DeRiggi
 ---
 
+![shpmemoryplymer2.jpg](/uploads/shpmemoryplymer2.jpg)
+
 The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths working hard to disrupt traditional industries. Those companies are important and clearly shaping our economy and our lives forever.
  
 **What pales in a press-coverage comparison though is medical technology and the smart people working hard to develop life-saving technology for the entire planet.** 
