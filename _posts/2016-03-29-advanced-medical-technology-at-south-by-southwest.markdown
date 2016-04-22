@@ -48,6 +48,7 @@ Several methods exist for neurostimulation. Non-invasive localized stimulation c
 
 Research provides evidence that stimulation has an effect on mental performance but little is understood on how it works. Correlative data is strong as several studies showed increased ability to perform mathematical functions and improved motor skills. The panelists argument is that it is ok to have an effective treatment that is not well understood. There were some interesting side effects too. When researchers stimulated the reward center of the brain they found increased resistance to depression, but patients were then more likely to partake in risky behavior!
 
+![thync.jpg](/uploads/thync.jpg)
 There are already companies working in this field that is not well understood, like Thync which creates an external neurostimulator to stimulate focus and calming sensations by indirectly stimulating the nervous system through nerves in the face and head.
 
 Open source brain mapping software is making it easier and more accessible for everyone to understand which parts of the brain are stimulated by direct stimulation. 
