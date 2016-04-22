@@ -31,7 +31,7 @@ One of the panelists, [Dr Moncef Slaoui](http://www.gsk.com/en-gb/about-us/board
 
 ![shape memory](/uploads/shapememeorypolymer.jpg)
 [Image source](http://www.notey.com/@digitaltrends_unofficial/external/8160673/engineers-have-created-a-liquid-metal-circuit-that-can-stretch-to-4x-its-normal-size.html)
-``` Shape memory polymers are tissue like materials with embedded electric circuits  [Image source](http://www.notey.com/@digitaltrends_unofficial/external/8160673/engineers-have-created-a-liquid-metal-circuit-that-can-stretch-to-4x-its-normal-size.html)```
+``` Shape memory polymers are tissue like materials with embedded electric circuits ```
 
 Well-spoken genius, and professor in this field [Walter Voit](http://me.utdallas.edu/people/voit.html), displayed a small thin rigid piece of plastic that contained an embedded circuit. He then warmed it up in his hand and the rigid plastic reacted, and molded to the shape of his hand. These materials (shape memory polymers) can attach to an organ and deliver electric pulses in a way that will fit comfortably within the body.
 These devices also represent a data goldmine as they can essentially act as sensors. An example comes from St. Jude Hospital where they are using data from heart failure sensors to learn 
