@@ -6,6 +6,7 @@ categories:
 - SXSW2016
 - Bioelectronics
 - MedTech
+Author: John DeRiggi
 ---
 
 The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths working hard to disrupt traditional industries. Those companies are important and clearly shaping our economy and our lives forever.
