@@ -8,8 +8,8 @@ categories:
 - MedTech
 tags:
 - SXSW
-- Bioelctronics
 - MedicalTechnology
+- Bioelectronics
 Author: John DeRiggi
 ---
 
