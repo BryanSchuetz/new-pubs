@@ -8,7 +8,7 @@ categories:
 - MedTech
 ---
 
-The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths disrupting traditional industries. Those companies are important and clearly shaping our economy and our lives forever.
+The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths working hard to disrupt traditional industries. Those companies are important and clearly shaping our economy and our lives forever.
  
 **What pales in a press-coverage comparison though is medical technology and the smart people working hard to develop life-saving technology for the entire planet.** This contrast was readily apparent at this year’s South by Southwest interactive conference where one could attend a panel on how fashion retail technology startups are using rfid to learn how we shop, followed immediately by a panel about how the world’s best vaccine researchers are trying to create new technology for drug delivery. This was my experience, and the palpable disparity in “coolness” between the two innovative applications of technology was remarkable. 
 
