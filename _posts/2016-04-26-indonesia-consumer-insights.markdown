@@ -6,7 +6,7 @@ published: false
 
 Consumer Insights Indonesia: TITLE
 
-![Image]
+![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
 
 Officially, unemployment in Indonesia [hovers around 6%]( http://www.reuters.com/article/us-indonesia-unemployment-idUSKBN0P101D20150621). In a country of 250 million people, this amounts to some 15 million people of able body who are searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers peg [youth unemployment as high as 20%]( http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30] (http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment bodes well neither for the country’s present nor its future. 
 
