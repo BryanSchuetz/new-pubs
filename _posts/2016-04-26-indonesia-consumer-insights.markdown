@@ -38,9 +38,7 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 ## Upcoming blog posts in the Indonesia Consumer Insights series
 
-* 
+* Mobiles & Workforce Development in Indonesia
 * Social Media Habits & App Choice
 * General Information Flows 
 * Mobile Gaming 
-
-Sample tweets
