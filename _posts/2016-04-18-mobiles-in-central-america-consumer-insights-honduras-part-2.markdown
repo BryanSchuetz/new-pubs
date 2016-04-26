@@ -15,7 +15,7 @@ Author: Adam Fivenson
 ## Social media and messaging choices
 
 ![Revised4.png](/uploads/Revised4.png)
-`The author (R) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
+`The author, at right, interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
 
@@ -25,7 +25,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 ## Key Insights:
 
-* Awareness of messaging apps is high across the board, but use is much more selective. Ninety-five percent were aware of both Facebook and WhatsApp, and 88 percent knew Twitter, and 71 percent knew Line. The picture for actual usage is very different. **(Click the radio buttons at the top of the graph to switch from awareness to useage.)** Facebook and WhatsApp dominate, with 80 percent and 70 percent penetration among our sample, respectively. Twitter was a far off third with 19 percent, and Line had 12 percent usage.
+* Awareness of messaging apps is high across the board, but use is much more selective. Ninety-five percent of those we interviewed were aware of both Facebook and WhatsApp, and 88 percent knew Twitter, and 71 percent knew Line. The picture for actual usage is very different. **(Click the radio buttons at the top of the graph to switch from awareness to useage.)** Facebook and WhatsApp dominate, with 80 percent and 70 percent penetration among our sample, respectively. Twitter was a far off third with 19 percent, and Line had 12 percent usage.
 
 <script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
@@ -33,7 +33,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
-* WhatsApp and Facebook are the apps most people say they use the most. Based on the stats above, this is not a surprise. When asked to choose, 47 percent of users identified WhatsApp as the app they use most, while 30 percent said the same of Facebook. Twitter was the next most choice at 1 percent.
+* WhatsApp and Facebook are the apps most people say they use the most. Based on the stats above, this is not a surprise. When asked to choose, 47 percent of users identified WhatsApp as the app they use most, while 30 percent said the same of Facebook. Twitter was next, at 1 percent.
 
 <script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
