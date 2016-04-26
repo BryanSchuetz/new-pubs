@@ -25,11 +25,11 @@ The fact that [75% of people globally now have access to a mobile phone](http://
 
 ## Games for Good
 
-Games for Change is an organization that promotes games with a social mission. Their online catalogue is filled with excellent examples of games being used to challenge assumptions, change perceptions, and affect positive social behavior. A few examples: 
+[Games for Change](http://www.gamesforchange.org/) is an organization that promotes games with a social mission. Their online catalogue is filled with excellent examples of games being used to challenge assumptions, change perceptions, and affect positive social behavior. A few examples: 
 
-* Stereowiped aims to challenge stereotypes about social, ethnic, and minority groups; 
-* Endgame Syria is a news-based strategy game that challenges players to think seriously about which decisions might inflame the country’s civil war and which might bring peace a step closer; 
-* The Migrant Trail forces players into the shoes of either a border guard or undocumented immigrant, attempting to enter the United States. 
+* [Stereowiped](https://itunes.apple.com/US/app/id972396140?mt=8) aims to challenge stereotypes about social, ethnic, and minority groups; 
+* [Endgame Syria](http://gamethenews.net/index.php/endgame-syria/) is a news-based strategy game that challenges players to think seriously about which decisions might inflame the country’s civil war and which might bring peace a step closer; 
+* [The Migrant Trail](http://theundocumented.com/) forces players into the shoes of either a border guard or undocumented immigrant, attempting to enter the United States. 
 
 Elsewhere, NDI's Meron Menwyelet describes her experience [developing a new game for civic engagement](https://www.nditech.org/games4democracy) in Nigeria and USIP's Derek Caelin takes on [games for peace building](http://foreignpolicy.com/2016/02/08/can-your-playstation-stop-a-war-videogames-peace/). 
 
