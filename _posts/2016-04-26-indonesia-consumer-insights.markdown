@@ -1,5 +1,5 @@
 ---
-title: What's WhatsApp? Is that like BBM? Consumer Insights Indonesia
+title: 'Where WhatsApp is just another BBM clone: Consumer Insights Indonesia'
 date: 2016-04-26 14:40:00 Z
 published: false
 categories:
