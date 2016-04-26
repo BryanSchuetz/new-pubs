@@ -9,6 +9,7 @@ tags:
 - Consumer Insights
 - Indonesia
 - Mobiles
+Author: Adam Fivenson
 ---
 
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
