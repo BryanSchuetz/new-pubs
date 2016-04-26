@@ -2,6 +2,13 @@
 title: Indonesia Consumer Insights
 date: 2016-04-26 14:40:00 Z
 published: false
+categories:
+- Consumer Insights
+tags:
+- ICT4D
+- Consumer Insights
+- Indonesia
+- Mobiles
 ---
 
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
