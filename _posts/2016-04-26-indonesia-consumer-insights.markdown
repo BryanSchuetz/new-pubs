@@ -22,7 +22,7 @@ Key questions include:
 * Do they have mobile phones? If so, what kind? 
 * What kinds of communication apps are most popular? 
 * What kinds of games do they play?
-* And much more
+* And much more...
 
 We call this research Consumer Insights—“consumer” as in information consumer—and an early sample of our results is below. 
 
