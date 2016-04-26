@@ -1,5 +1,5 @@
 ---
-title: 'Indonesia Consumer Insights: The Basics'
+title: Consumer Insights in Indonesia
 date: 2016-04-26 14:40:00 Z
 published: false
 categories:
