@@ -48,5 +48,4 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 * Mobiles & Workforce Development in Indonesia
 * Social Media Habits & App Choice
-* General Information Flows 
 * Mobile Gaming 
