@@ -9,9 +9,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-
-
-##From Gaming to Development Impact 
+## From Gaming to Development Impact 
 
 I was six years old when my dad brought home our first computer. It was a 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in [Wolfenstein 3D](https://static.3drealms.com/media/screenshots/c7185590cf634773b4d56490e26aec1e.jpg) and engineering some pretty spectacular crashes in in [Stunts](https://www.youtube.com/watch?v=-CITIXlw_T4). Needless to say, I was hooked.
 
