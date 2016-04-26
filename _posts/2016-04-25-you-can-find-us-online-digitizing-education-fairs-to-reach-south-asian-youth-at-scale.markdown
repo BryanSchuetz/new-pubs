@@ -1,6 +1,5 @@
 ---
-title: 'You can find us online: Digitizing education fairs to reach South Asian youth
-  at scale'
+title: Digitizing Education Fairs to Reach South Asian Young People at Scale
 date: 2016-04-25 09:00:00 Z
 tags:
 - EU
