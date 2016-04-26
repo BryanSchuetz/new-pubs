@@ -12,7 +12,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-## Social media and messaging choices
+## Social Media and Messaging Choices
 
 ![Revised4.png](/uploads/Revised4.png)
 `The author, at right, interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
