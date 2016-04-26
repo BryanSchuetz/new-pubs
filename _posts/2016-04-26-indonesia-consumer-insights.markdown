@@ -1,5 +1,5 @@
 ---
-title: Consumer Insights in Indonesia
+title: Consumer Insights Indonesia
 date: 2016-04-26 14:40:00 Z
 published: false
 categories:
@@ -20,7 +20,7 @@ Youth who are not in school and not working are vulnerable to drug use, gang or 
 
 <!--more-->
 
-In early April, DAI sent me to Indonesia to replicate some of the [mobile phone-related research I’ve been doing in Honduras]( dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows. 
+In early April, DAI sent me to Indonesia to replicate some of the [mobile phone-related research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows. 
 
 Key questions include: 
 
