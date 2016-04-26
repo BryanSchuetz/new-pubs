@@ -4,15 +4,13 @@ date: 2016-04-26 14:40:00 Z
 published: false
 ---
 
-Consumer Insights Indonesia: TITLE
-
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
 
 Officially, unemployment in Indonesia [hovers around 6%]( http://www.reuters.com/article/us-indonesia-unemployment-idUSKBN0P101D20150621). In a country of 250 million people, this amounts to some 15 million people of able body who are searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers peg [youth unemployment as high as 20%]( http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30] (http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment bodes well neither for the country’s present nor its future. 
 
 Youth who are not in school and not working are vulnerable to drug use, gang or extremist recruitment, and violence; they are not actively developing productive life skills, and they aren’t helping spur economic activity in their communities. With this as context, DAI is working hard to gain deeper insights into the lives of these young people, and find innovative ways to get them off the streets and into stable jobs, and to explore new opportunities for entrepreneurship in a country with more than 88 million internet users, 93% of whom [access the internet via their phone](https://www.digitalnewsasia.com/more-90-users-indonesia-access-net-their-smartphone-gfk).
 
-<--more!-->
+<!--more-->
 
 In early April, DAI sent me to Indonesia to replicate some of the [mobile phone-related research I’ve been doing in Honduras]( dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows. 
 
