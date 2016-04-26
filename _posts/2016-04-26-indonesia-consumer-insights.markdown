@@ -21,7 +21,7 @@ Youth who are not in school and not working are uniquely vulnerable to drug use,
 
 <!--more-->
 
-## One week in the 
+## One week in the Emerald of the Equator
 
 In early April, DAI sent me to Indonesia to replicate some of the [mobile phone-related research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows. 
 
@@ -35,7 +35,7 @@ Key questions include:
 
 We call this research Consumer Insights—“consumer” as in information consumer—and an early sample of our results is below. 
 
-## Demographics
+## Demographics of the sample
 
 We conducted 107 face-to-face interviews with young people. About half were in Jakarta and half were in Semarang, a less urban city in the center of Java (the same island as Jakarta). They were roughly half females and half males, and the average age of our participants was 18.
 
