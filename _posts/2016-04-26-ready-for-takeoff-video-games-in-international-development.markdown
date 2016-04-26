@@ -9,9 +9,11 @@ tags:
 Author: Adam Fivenson
 ---
 
+
+
 ##From Gaming to Development Impact 
 
-I was six years old when my dad brought home our first computer. It was a 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in Wolfenstein 3D and engineering some pretty spectacular crashes in in Stunts. Needless to say, I was hooked.
+I was six years old when my dad brought home our first computer. It was a 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in [Wolfenstein 3D](https://static.3drealms.com/media/screenshots/c7185590cf634773b4d56490e26aec1e.jpg) and engineering some pretty spectacular crashes in in [Stunts](https://www.youtube.com/watch?v=-CITIXlw_T4). Needless to say, I was hooked.
 
 Over time, the fearful prospect of a broken computer (and no video games) drove me to sit with my older brother and learn how to troubleshoot software problems, stamp out viruses, and perform open heart surgery on the thing. These skills would come in handy during high school when I took a side job fixing computers, and a few years later as a Peace Corps volunteer in the Dominican Republic, where I spent weekends moto-taxi'ing around the country helping fellow technology education volunteers turn rooms filled with large, beige paper weights into working computer labs. Four years after leaving Peace Corps technology remains an integral part of my life and work; At DAI it's my job to find ways to make DAI projects focused on governance, economic growth, and climate change adaptation more efficient and more effective by incorporating new technologies into our strategies. For me, the role is a culmination of my experience working with technology, starting with video games. 
 
