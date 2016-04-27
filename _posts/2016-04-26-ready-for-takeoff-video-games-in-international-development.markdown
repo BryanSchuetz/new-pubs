@@ -30,7 +30,6 @@ Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com
 Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or--for those in rural areas--get from their friends via via Bluetooth. Contrast this to Indonesia, where 48% of the youth we interviewed played mobile games. 
 
 ***
-***
 
 <div style="background-color:rgba(242, 237, 225, 1);text-align:center; vertical-align: middle; padding:40px 0;">
 
@@ -39,7 +38,6 @@ Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
 
 </div>
-***
 ***
 
 While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities to present engaging tools for attitudinal and behavioral change for youth.
