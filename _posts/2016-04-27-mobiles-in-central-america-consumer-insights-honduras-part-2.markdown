@@ -11,10 +11,10 @@ tags:
 Author: Adam Fivenson
 ---
 
-## Social Media and Messaging Choices
-
 ![Revised4.png](/uploads/Revised4.png)
 `The author, at right, interviewing a young person in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
+
+## Social Media and Messaging Choices
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
 
