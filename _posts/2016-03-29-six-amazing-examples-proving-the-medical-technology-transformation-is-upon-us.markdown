@@ -75,8 +75,7 @@ Open Source Neurostimulation software and hardware is so advanced that you can s
 
 # 5) Virtual physicians!
 ![usc_virtual_phys_2.jpg](/uploads/usc_virtual_phys_2.jpg)
-Because going to face-to-face visits with a human doctor is so 2010. It would be so much easier if our bodies and the various wearables attached to them just sent a constant stream of data directly to our physician’s analysis engines so they could call us right away whenever something seemed wrong. Well, the future is now. USC's [Virtual Care Clinic]
-(http://www.uscbodycomputing.org/virtual-care-clinic/) is prototyping tools in this field and [Proteus Digital Health](http://www.proteus.com/company/mission/) is an early entry into the commercial market 
+Because going to face-to-face visits with a human doctor is so 2010. It would be so much easier if our bodies and the various wearables attached to them just sent a constant stream of data directly to our physician’s analysis engines so they could call us right away whenever something seemed wrong. Well, the future is now. USC's [Virtual Care Clinic](http://www.uscbodycomputing.org/virtual-care-clinic/) is prototyping tools in this field and [Proteus Digital Health](http://www.proteus.com/company/mission/) is an early entry into the commercial market 
 
 
 <br>
