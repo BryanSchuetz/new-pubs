@@ -59,3 +59,9 @@ Their enthusiasm for improving medicine was palpable (because they've been worki
 Just strap one of these devices to your head and walk cooly and confidently (and stimulatedly) into your next meeting or happy hour. From your smartphone you get to select from categories of feelings like calm, energy, or focus. The Washington Post [just recently reviewed the devices](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/29/brain-zapping-gadgets-promise-to-make-you-a-better-you-smarter-stronger-even-happier/) made by [Thync](http://www.thync.com/) 
 ![thync.png](/uploads/thync.png) 
 ```A neurosignaling device from Thync```
+
+<br>
+<br>
+
+### 4)	DIY Brainsignaling
+Open Source Neurostimulation software and hardware is so advanced that you can self –administer the technology in your own home. Why limit ourselves to thermometer sensors and rain gauges of the maker movement when we could jump straight to the Brain Computer Interface  movement and build neuro-stimulating machines from the comfort of our own garages. Disclaimer: DAI makes no recommendation towards self administration of neuro-stimulation– it is not a well understood field
