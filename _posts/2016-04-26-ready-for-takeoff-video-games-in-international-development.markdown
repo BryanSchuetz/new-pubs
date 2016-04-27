@@ -32,9 +32,9 @@ Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles
 ***
 ***
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588);text-align:center; vertical-align: middle; padding:40px 0;">
+<div style="background-color:rgba(242, 237, 225, 1);text-align:center; vertical-align: middle; padding:40px 0;">
 
-*Which games are most popular in each country? See the graphic below. Numbers represent the percent of all 213 respondents who mentioned each game as a favorite. Respondents could name as many games as they wanted; most mentioned between 1 and 3.*
+*Which games are most popular in each country? See the graphic below.*
 
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
 
