@@ -35,3 +35,7 @@ Bioelectronics are better, more precise, and come with fewer side effects than o
 
 ![bioelectronics_bios.png](/uploads/bioelectronics_bios.png)
 ```Moncef Slaoui, Kate Rosenbluth and Walter E Voit are three medical professionals working at the forefront of bioelcetronics```
+
+
+### 3) Neurosignaling and facial-nervous stimulation are here
+Just strap one of these devices to your head and walk cooly and confidently (and stimulatedly) into your next meeting or happy hour. From your smartphone you get to select from categories of feelings like calm, energy, or focus. The Washington Post just recently reviewed the devices.
