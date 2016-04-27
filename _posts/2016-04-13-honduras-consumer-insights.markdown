@@ -52,7 +52,7 @@ Smartphones are growing in market share, but are more popular in urban areas tha
 ## Coming soon
 
 * 
-Social media and messaging choices
+[Social media and messaging choices](http://dai-global-digital.com/consumer%20insights/2016/04/27/mobiles-in-central-america-consumer-insights-honduras-part-2.html)
 
 * 
 Information flows of choice
