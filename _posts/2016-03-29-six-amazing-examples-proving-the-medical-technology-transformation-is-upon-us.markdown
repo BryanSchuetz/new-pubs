@@ -17,7 +17,7 @@ Author: John DeRiggi
 <br>
 <br>
 
-Because who needs pharmaceutical drugs when you can just implant a shape-memory polymer with an embedded circuit to send neuro-signals to your faulty organs?
+###Because who needs pharmaceutical drugs when you can just implant a shape-memory polymer with an embedded circuit to send neuro-signals to your faulty organs?
 
 <br>
 <br>
