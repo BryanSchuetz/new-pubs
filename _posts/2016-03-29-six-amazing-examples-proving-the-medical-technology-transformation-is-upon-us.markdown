@@ -21,6 +21,9 @@ Because who needs pharmaceutical drugs when you can just implant a shape-memory 
 Simple, right?
 ![aubreyplaza.gif](/uploads/aubreyplaza.gif)
 
+
+### Yeah sounds simple enough, so what do these shape-memory-polymers look like?
+
 ![shpmemoryplymer2.jpg](/uploads/shpmemoryplymer2.jpg)
 ```A shape memory polymer with an embedded circuit```
 [Image Source](http://www.qmed.com/mpmn/medtechpulse/how-shape-memory-polymer-could-drive-medical-device-innovation)
