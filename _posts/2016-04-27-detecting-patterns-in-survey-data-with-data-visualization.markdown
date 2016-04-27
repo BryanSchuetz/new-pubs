@@ -1,7 +1,11 @@
 ---
 title: Detecting Patterns in Survey Data with Data Visualization
 date: 2016-04-27 18:30:00 Z
+tags:
+- Data Science
+- Data Visualization
 ---
+
 
 We love exploratory data analysis here at DAI and today we are going to delve into some of Adam's survey data to see if we can use data visualization to find super users
 
