@@ -35,9 +35,9 @@ Bioelectronics are better, more precise, and come with fewer side effects than o
 
 * Dr. Moncef Slaoui was among the developers of the first malaria vaccine and has recently turned his attention to bioelectronics. 
 
-*Dr. Kate Rosenbluth is the CEO of Cala Health, a company working on developing novel therapies from recent discoveries in neuroscience. 
+* Dr. Kate Rosenbluth is the CEO of Cala Health, a company working on developing novel therapies from recent discoveries in neuroscience. 
 
-*Dr. Walter Voit is a professor at UT Dallas and is devoted to growing a core of scientists specializing in this field. 
+* Dr. Walter Voit is a professor at UT Dallas and is devoted to growing a core of scientists specializing in this field. 
 
 Their enthusiasm for improving medicine was palpable (because they've been working in the field their entire lives) and it was inspiring to hear from technologists that were in it for so much more than a big exit from a well funded startup.
 
