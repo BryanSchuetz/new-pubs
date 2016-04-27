@@ -31,7 +31,7 @@ Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles
 
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
 
-While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities positive attitudinal and behavioral change.
+While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities to present engaging tools for attitudinal and behavioral change for youth.
 
 ## Games for Good
 
