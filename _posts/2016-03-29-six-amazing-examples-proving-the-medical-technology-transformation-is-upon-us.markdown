@@ -22,6 +22,7 @@ Simple, right?
 ![aubreyplaza.gif](/uploads/aubreyplaza.gif)
 
 ![shpmemoryplymer2.jpg](/uploads/shpmemoryplymer2.jpg)
+```A shape memory polymer with an embedded circuit```
 [Image Source](http://www.qmed.com/mpmn/medtechpulse/how-shape-memory-polymer-could-drive-medical-device-innovation)
 
 The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths working hard to disrupt traditional industries. Those companies are important and clearly shaping our economy and our lives forever.
