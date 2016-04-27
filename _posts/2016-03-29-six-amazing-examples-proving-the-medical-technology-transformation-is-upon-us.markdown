@@ -32,3 +32,6 @@ Bioelectronics is a field poised to change medicine. How do they work? Well, all
 
 ### 2)	Like email vs. snail mail
 Bioelectronics are better, more precise, and come with fewer side effects than our decades old (like 15 decades old) pharmaceutical-based system of drug delivery. At SXSW there was a great panel moderated by [Sree Sreenivasan](https://twitter.com/sree) with several of the rock star pioneers working in the field: Dr. Moncef Slaoui was among the developers of the first malaria vaccine and has recently turned his attention to bioelectronics. Dr. Kate Rosenbluth is the CEO of Cala Health, a company working on developing novel therapies from recent discoveries in neuroscience. Dr. Walter Voit is a professor at UT Dallas and is devoted to growing a core of scientists specializing in this field. Their enthusiasm for improving medicine was palpable (because they've been working in the field their entire lives) and it was inspiring to hear from technologists that were in it for so much more than a big exit from a well funded startup.
+
+![bioelectronics_bios.png](/uploads/bioelectronics_bios.png)
+```Moncef Slaoui, Kate Rosenbluth and Walter E Voit are three medical professionals working at the forefront of bioelcetronics```
