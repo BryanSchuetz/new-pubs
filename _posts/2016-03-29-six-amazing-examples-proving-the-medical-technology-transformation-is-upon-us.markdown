@@ -68,4 +68,4 @@ Just strap one of these devices to your head and walk cooly and confidently (and
 Open Source Neurostimulation software and hardware is so advanced that you can self –administer the technology in your own home. Why limit ourselves to thermometer sensors and rain gauges of the maker movement when we could jump straight to the [Brain Computer Interface ](http://openbci.com/) movement and build neuro-stimulating machines from the comfort of our own garages. There is even [open source brain imaging software](http://simnibs.de/) that you can download for free  *Disclaimer: DAI makes no recommendation towards self administration of neuro-stimulation– it is not a well understood field*
 
 ![ossbrain_scan.png](/uploads/ossbrain_scan.png)
-```SIM Nibs open source brain imaging software```
+```Sim NIBS open source brain imaging software```
