@@ -1,6 +1,7 @@
 ---
 title: Detecting Patterns in Survey Data with Data Visualization
 date: 2016-04-27 18:30:00 Z
+published: false
 tags:
 - Data Science
 - Data Visualization
