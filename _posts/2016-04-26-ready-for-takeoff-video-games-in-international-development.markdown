@@ -27,7 +27,7 @@ The fact that [75 percent of people globally now have access to a mobile phone](
 
 Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html), I found that 71 percent of the youth in interviewed had a smartphone, and 60 percent used their phones to play games. 
 
-Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or--for those in rural areas--get from their friends via via Bluetooth. Contrast this to Indonesia, where 48% of the youth I interviewed played mobile games. See the graphic below to contrast each country's favorite mobile games. 
+Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or--for those in rural areas--get from their friends via via Bluetooth. Contrast this to Indonesia, where 48% of the youth I interviewed played mobile games. Which games are most popular in each country? See the graphic below.
 
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
 
