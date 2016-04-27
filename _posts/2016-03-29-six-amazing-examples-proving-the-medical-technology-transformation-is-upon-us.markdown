@@ -39,7 +39,7 @@ Bioelectronics is a field poised to change medicine. How do they work? Well, all
 <br>
 
 # 2)	Waaay better then traditional drugs
-Bioelectronics are better, more precise, and come with fewer side effects than our decades old (like 15 decades old) pharmaceutical-based system of drug delivery. At SXSW there was a great panel moderated by [Sree Sreenivasan](https://twitter.com/sree) with several of the rock star pioneers working in the field: 
+Bioelectronics are more effective, more precise, and come with fewer side effects than our decades old (like 15 decades old) pharmaceutical-based system of drug delivery. At SXSW there was a great panel moderated by [Sree Sreenivasan](https://twitter.com/sree) with several of the rock star pioneers working in the field: 
 
 * [Dr. Moncef Slaoui](http://www.gsk.com/en-gb/about-us/board-of-directors/dr-moncef-slaoui/) was among the developers of the first malaria vaccine and has recently turned his attention to bioelectronics. 
 
