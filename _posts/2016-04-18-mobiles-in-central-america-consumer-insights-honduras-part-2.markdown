@@ -37,16 +37,14 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <script id="infogram_0_YgP6553d5LKnyjk1" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></script>
 
-
 ## Coming Soon
 
 * How do at-risk young people in Honduras receive and share information?
 
 * Mobile gaming among at-risk young people in Honduras
 
+Questions?  Comments?  Want to hear more? Please share below, or sing out to us on Twitter at @DAIGlobal or #DigitalDAI!
 
-***
+---
 
-
-<sup>*  *Honduran Youth are considered at-risk if the community where they show high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
-
+<sup>\*  *Honduran Youth are considered at-risk if the community where they show high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
