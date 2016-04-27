@@ -30,13 +30,16 @@ Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com
 Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or--for those in rural areas--get from their friends via via Bluetooth. Contrast this to Indonesia, where 48% of the youth I interviewed played mobile games. 
 
 ***
-<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+***
 
-*Which games are most popular in each country? See the graphic below. Numbers are what percent of all 213 respondents mentioned each game as a favorites. Respondents could name as many games as they wanted, although most mentioned 1-3.*
+<div style="background-color:rgba(0, 0, 0, 0.0470588);text-align:center; vertical-align: middle; padding:40px 0;">
+
+*Which games are most popular in each country? See the graphic below. Numbers represent the percent of all 213 respondents who mentioned each game as a favorite. Respondents could name as many games as they wanted; most mentioned between 1 and 3.*
 
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
 
 </div>
+***
 ***
 
 While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities to present engaging tools for attitudinal and behavioral change for youth.
