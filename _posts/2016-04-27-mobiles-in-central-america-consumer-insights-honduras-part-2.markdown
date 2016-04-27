@@ -42,7 +42,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 * Mobile gaming among at-risk young people in Honduras
 
-Questions?  Comments?  Want to hear more? Please share below, or sing out to us on Twitter at @DAIGlobal or #DigitalDAI!
+Questions?  Comments?  Want to hear more? Please share below, or tell us on Twitter at @DAIGlobal or #DigitalDAI!
 
 ---
 
