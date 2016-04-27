@@ -21,6 +21,7 @@ Bioelectronics is a field poised to change medicine. How do they work? Well, all
 ###Simple, right?
 ![aubreyplaza.gif](/uploads/aubreyplaza.gif)
 
+<!--more-->
 
 ### Yeah sounds simple enough, so what do these shape-memory-polymers look like?
 
