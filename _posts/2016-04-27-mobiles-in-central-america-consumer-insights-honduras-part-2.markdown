@@ -1,7 +1,6 @@
 ---
 title: 'Mobiles in Central America: Consumer Insights Honduras, Part 2'
 date: 2016-04-27 08:00:00 Z
-published: false
 categories:
 - Consumer Insights
 tags:
