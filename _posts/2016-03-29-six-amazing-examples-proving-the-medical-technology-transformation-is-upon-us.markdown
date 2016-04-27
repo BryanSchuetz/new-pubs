@@ -69,3 +69,6 @@ Open Source Neurostimulation software and hardware is so advanced that you can s
 
 ![ossbrain_scan.png](/uploads/ossbrain_scan.png)
 ```Sim NIBS open source brain imaging software```
+
+# 5) Virtual physicians!
+Because going to face-to-face visits with a human doctor is so 2010. It would be so much easier if our bodies and the various wearables attached to them just sent a constant stream of data directly to our physician’s analysis engines so they could call us right away whenever something seemed wrong. Well, the future is now.
