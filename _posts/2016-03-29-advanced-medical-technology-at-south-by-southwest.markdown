@@ -1,5 +1,6 @@
 ---
-title: 'Disparities in Hype: Advanced Medical Technology at SXSW 2016'
+title: 6 amazing examples proving that the medical technology transformation is upon
+  us
 date: 2016-03-29 08:18:00 Z
 published: false
 categories:
