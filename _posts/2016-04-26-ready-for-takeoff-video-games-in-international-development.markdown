@@ -25,7 +25,13 @@ But why now? Educational video games have been popular for years (Mathblasters, 
 
 The fact that [75 percent of people globally now have access to a mobile phone](http://www.worldbank.org/en/news/press-release/2012/07/17/mobile-phone-access-reaches-three-quarters-planets-population) (a number predicted to [grow to 90 percent by 2020](http://www.ericsson.com/news/1872291)) means that it’s no longer a surprise to find a young woman in a rural area of a developing country—far beyond the nearest internet connection—playing Banana Kong on her phone. 
 
-Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html), I found that 71 percent of the youth in interviewed had a smartphone, and 60 percent used their phones to play games. Additionally, many play the latest games, such as Clash of Clans, Candy Crush, and Banana Kong, which their friends pass on via Bluetooth. While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities positive attitudinal and behavioral change.
+Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html), I found that 71 percent of the youth in interviewed had a smartphone, and 60 percent used their phones to play games. 
+
+Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or--for those in rural areas--get from their friends via via Bluetooth. Contrast this to Indonesia, where 48% of the youth I interviewed played mobile games, although many of them--Clash of Clans, Candy Crush, and Zombie games--were the same, some were unique to the 
+
+<script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
+
+While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities positive attitudinal and behavioral change.
 
 ## Games for Good
 
