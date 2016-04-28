@@ -7,7 +7,7 @@ tags:
 - Data Visualization
 - Consumer Insights
 - Honduras
-Author: John DeRiggi
+Author: John DeRiggi and Adam Fivenson
 ---
 
 <br>
