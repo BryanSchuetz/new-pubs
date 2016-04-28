@@ -1,5 +1,6 @@
 ---
-title: 6 Amazing Examples Proving Medical Technology Transformation is Upon Us
+title: 6 Amazing Examples Proving that the Medical Technology Transformation is Upon
+  Us
 date: 2016-04-28 08:18:00 Z
 categories:
 - SXSW2016
