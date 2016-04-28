@@ -12,6 +12,8 @@ tags:
 Author: Adam Fivenson
 ---
 
+**THIS IS GOING THROUGH A COMPLETE REWRITE**
+
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
 `A Consumer Insights survey at Rumah Kitab NGO in East Jakata`
 
