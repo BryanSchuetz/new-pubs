@@ -19,7 +19,7 @@ Author: John DeRiggi
 
 <br>
 
-# 1) A direct line to your liver:
+# 1) A Direct Line to Your Liver:
 
 Bioelectronics is a field poised to change medicine. How do they work? Well, all you have to do is print a nano-scale electronic circuit onto a polymer material that is human-tissue-like enough that your body won’t trigger its natural defense mechanism of rejecting all foreign objects. Then you have to take the neuro-signal patterns from the brain and program the circuits to mimic those neuro-signals. Then, adhere the polymer directly to the malfunctioning tissue and it will deliver brain-like signals straight to the organ. That silly broken liver won’t know the difference!
 
@@ -38,7 +38,7 @@ Bioelectronics is a field poised to change medicine. How do they work? Well, all
 <br>
 <br>
 
-# 2)    Waaay better then traditional drugs
+# 2)    Waaay Better Than Traditional Drugs
 
 Bioelectronics are more effective, more precise, and come with fewer side effects than our decades-old (like 15 decades old) pharmaceutical-based system of drug delivery. At SXSW there was a great panel moderated by [Sree Sreenivasan](https://twitter.com/sree) with several of the rock star pioneers working in the field:
 
@@ -56,7 +56,7 @@ Their enthusiasm for improving medicine was palpable (because they’ve been wor
 <br>
 <br>
 
-# 3) Neurosignaling and facial-nervous stimulation are here
+# 3) Neurosignaling and Facial-Nervous Stimulation are Here
 
 Just strap one of these devices to your head and walk cooly and confidently (and stimulatedly) into your next meeting or happy hour. From your smartphone, you can select from categories of feelings like calm, energy, or focus. The Washington Post [just recently reviewed the devices](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/29/brain-zapping-gadgets-promise-to-make-you-a-better-you-smarter-stronger-even-happier/) made by [Thync](http://www.thync.com/)
 
@@ -77,7 +77,7 @@ Open Source Neurostimulation software and hardware is so advanced that you can s
 <br>
 <br>
 
-# 5) Virtual physicians!
+# 5) Virtual Physicians!
 
 ![usc_virtual_phys_2.jpg](/uploads/usc_virtual_phys_2.jpg)
 Because going to face-to-face visits with a human doctor is so 2010. It would be so much easier if our bodies and the various wearables attached to them sent a constant stream of data directly to our physician’s analysis engines so they could call us right away whenever something seemed wrong. Well, the future is now. The University of Southern California’s [Virtual Care Clinic](http://www.uscbodycomputing.org/virtual-care-clinic/) is prototyping tools in this field and [Proteus Digital Health](http://www.proteus.com/company/mission/) is an early entry into the commercial market.
@@ -85,6 +85,6 @@ Because going to face-to-face visits with a human doctor is so 2010. It would be
 <br>
 <br>
 
-# 6) Your medical history is yours, so why not carry it around in your pocket?
+# 6) Your Medical History is Yours, so Why Not Carry it Around in Your Pocket?
 
 Personal medical records systems for us—the patients! Why should doctors get all the cool medical records systems when it’s our data anyway? Thanks [HIPPA](http://www.hhs.gov/hipaa/). With tools like [CareSync](http://www.caresync.com/consumers/index.php) we can walk into a doctor appointment or emergency room visit with all our sordid medical history in an easily retrievable format on our phones. No more having to worry about which vaccinations you received as a child or medications you are allergic to.
