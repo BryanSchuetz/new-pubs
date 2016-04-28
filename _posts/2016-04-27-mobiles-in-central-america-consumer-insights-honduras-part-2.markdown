@@ -46,4 +46,4 @@ Questions?  Comments?  Want to hear more? Please share below, or tell us on Twit
 
 ---
 
-<sup>\*  *Honduran Youth are considered at-risk if the community where they show high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
+<sup>\*  *Honduran Youth are considered at-risk if the community where they show high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
