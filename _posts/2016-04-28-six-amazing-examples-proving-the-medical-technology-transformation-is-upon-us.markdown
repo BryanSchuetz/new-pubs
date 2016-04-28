@@ -10,7 +10,7 @@ tags:
 - SXSW
 - Bioelectronics
 - MedTech
-Author: John DeRiggi
+Author: John DeRiggi and Adam Fivenson
 ---
 
 <br>
