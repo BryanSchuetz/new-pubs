@@ -47,7 +47,7 @@ Bioelectronics are more effective, more precise, and come with fewer side effect
 
 * [Dr. Walter Voit](http://me.utdallas.edu/people/voit.html) is a professor at the University of Texas in Dallas and is devoted to growing a core of scientists specializing in this field.
 
-Their enthusiasm for improving medicine was palpable (because they’ve been working in the field their entire lives) and it was inspiring to hear from technologists who are in it for so much more than a big exit from a well-funded startup.
+Their enthusiasm for improving medicine was palpable (because they’ve been working in the field their entire lives) and it was inspiring to hear from scientists and engineers who are in it for so much more than a big exit from a well-funded startup.
 
 ![bioelectronics_bios.png](/uploads/bioelectronics_bios.png)
 `Moncef Slaoui, Kate Rosenbluth, and Walter E. Voit are three medical professionals working at the forefront of bioelectronics`
