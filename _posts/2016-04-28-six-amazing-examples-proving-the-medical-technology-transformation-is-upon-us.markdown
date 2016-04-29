@@ -16,11 +16,12 @@ Author: John DeRiggi
 
 **Because who needs pharmaceutical drugs when you can just implant a shape-memory polymer with an embedded circuit to send neuro-signals to your faulty organs?**
 
-<!--more-->
 
 ## 1) A Direct Line to Your Liver
 
 Bioelectronics is a field poised to change medicine. How do they work? Well, all you have to do is print a nano-scale electronic circuit onto a polymer material that is human-tissue-like enough that your body won’t trigger its natural defense mechanism of rejecting all foreign objects. Then you have to take the neuro-signal patterns from the brain and program the circuits to mimic those neuro-signals. Then, adhere the polymer directly to the malfunctioning tissue and it will deliver brain-like signals straight to the organ. That silly broken liver won’t know the difference!
+
+<!--more-->
 
 ### Simple, right?
 
