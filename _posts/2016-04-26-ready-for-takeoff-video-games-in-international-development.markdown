@@ -49,4 +49,4 @@ Elsewhere, NDI’s Meron Menwyelet describes her experience [developing a new ga
 
 Looking at what’s already being done in the field of games for good, it’s easy to see international development organizations investing more in designing mobile-accessible games for future projects, particularly if pre-existing platforms and game engines can be re-purposed economically. Globally, with mobile phones in the hands of so many marginalized people, the opportunity to reach them in a way that resonates is simply too ripe to ignore. 
 
-Have you seen gaming applied well in an international development setting? I’d love to hear about any strong examples in the comment section or on Twitter @DAIGlobal with the #DigitalDAI hashtag.
+Have you seen gaming applied well in an international development setting? I’d love to hear about any strong examples in the comment section or on Twitter [@DAIGlobal](https://twitter.com/DAIGlobal) with the #DigitalDAI hashtag.
