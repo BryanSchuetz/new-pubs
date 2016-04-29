@@ -13,11 +13,10 @@ tags:
 Author: John DeRiggi
 ---
 
-<br>
 
 **Because who needs pharmaceutical drugs when you can just implant a shape-memory polymer with an embedded circuit to send neuro-signals to your faulty organs?**
 
-<br>
+
 
 ## 1) A Direct Line to Your Liver
 
@@ -50,16 +49,12 @@ Their enthusiasm for improving medicine was palpable (because they’ve been wor
 ![bioelectronics_bios.png](/uploads/bioelectronics_bios.png)
 `Moncef Slaoui, Kate Rosenbluth, and Walter E. Voit are three medical professionals working at the forefront of bioelectronics`
 
-<br>
-<br>
-
 ## 3) Neurosignaling and Facial-Nervous Stimulation are Here
 
 Just strap one of these devices to your head and walk cooly and confidently (and stimulatedly) into your next meeting or happy hour. From your smartphone, you can select from categories of feelings like calm, energy, or focus. The Washington Post [just recently reviewed the devices](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/29/brain-zapping-gadgets-promise-to-make-you-a-better-you-smarter-stronger-even-happier/) made by [Thync](http://www.thync.com/)
 
 ![thync.png](/uploads/thync.png)
 `A neurosignaling device from Thync`
-
 
 ## 4)    DIY Brainsignaling
 
@@ -69,14 +64,10 @@ Open Source Neurostimulation software and hardware is so advanced that you can s
 ![ossbrain_scan.png](/uploads/ossbrain_scan.png)
 `Sim NIBS open source brain-imaging software`
 
-
 ## 5) Virtual Physicians!
 
 ![usc_virtual_phys_2.jpg](/uploads/usc_virtual_phys_2.jpg)
 Because going to face-to-face visits with a human doctor is so 2010. It would be so much easier if our bodies and the various wearables attached to them sent a constant stream of data directly to our physician’s analysis engines so they could call us right away whenever something seemed wrong. Well, the future is now. The University of Southern California’s [Virtual Care Clinic](http://www.uscbodycomputing.org/virtual-care-clinic/) is prototyping tools in this field and [Proteus Digital Health](http://www.proteus.com/company/mission/) is an early entry into the commercial market.
-
-<br>
-<br>
 
 ## 6) Your Medical History is Yours, so Why Not Carry it Around in Your Pocket?
 
