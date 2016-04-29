@@ -16,8 +16,7 @@ Author: John DeRiggi
 
 **Because who needs pharmaceutical drugs when you can just implant a shape-memory polymer with an embedded circuit to send neuro-signals to your faulty organs?**
 
-
-
+<!--more-->
 
 ## 1) A Direct Line to Your Liver
 
@@ -27,7 +26,6 @@ Bioelectronics is a field poised to change medicine. How do they work? Well, all
 
 ![aubreyplaza.gif](/uploads/aubreyplaza.gif)
 
-<!--more-->
 
 ### Yeah sounds simple enough, so what do these shape-memory-polymers look like?
 
