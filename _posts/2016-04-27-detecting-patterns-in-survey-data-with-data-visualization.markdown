@@ -17,3 +17,5 @@ We love exploratory data analysis here at DAI and today we are going to delve in
 ## [Click here to see the presentation in a larger format](http://slides.com/deriggi/deck/fullscreen)
 
 <iframe src="//slides.com/deriggi/deck/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+If you have questions or are eager to here more about how we use data visualization in our work, please comment below!
