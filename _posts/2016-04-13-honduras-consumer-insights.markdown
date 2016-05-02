@@ -17,9 +17,11 @@ Author: Adam Fivenson
 
 To the casual observer, Chamelecón looks like any other marginalized Central American neighborhood: low-slung, pastel-colored shops line its main road, channeling a ceaseless flow of pedestrians, produce carts, motorcycles, and cars. Yet behind this mundane facade, the residents of Chamalecón face some significant challenges: poverty, unemployment, migration, family disintegration, gang infiltration, violence, and impunity. While this combination of risk factors is common in at-risk* neighborhoods around Central America, in communities on the periphery of San Pedro Sula such as Chamalecón, they coincide with acute force—each factor feeding off the rest and exacerbating the daily risks that residents face.
 
-With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering which solutions may be best for the situation, including ICT-enabled ones.
 
 <!--more-->
+
+
+With those challenges in mind, DAI is hard at work developing a deeper understanding of the problems that people in Chamalecón and other marginalized neighborhoods around Honduras face, and considering which solutions may be best for the situation, including ICT-enabled ones.
 
 ## Two Weeks in Honduras
 
