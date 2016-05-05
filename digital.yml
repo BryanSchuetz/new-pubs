@@ -2,9 +2,10 @@
 ---
 {% for post in site.posts | limit:30 %}
 - title: "{{ post.title }}"
-  pub: "digital"
-  date: "{{ post.date }}"
+  pub: "Digital"
+  date: "{{ post.date | %D }}"
   link: "http://dai-global-digital.com{{ post.url }}"
   summary: "{{ post.excerpt | strip_html | rstrip | lstrip }}"
-  tags:{% for tag in post.tags %}
-    - {{ tag | rstrip }}{% endfor %}{% endfor %}
+  tags:
+    - digital
+{% endfor %}
