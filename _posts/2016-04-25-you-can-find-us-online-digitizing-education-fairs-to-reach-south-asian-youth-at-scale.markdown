@@ -15,11 +15,11 @@ The [Public Diplomacy and Outreach Project in India and SAARC](http://dai.com/ou
 
 <!--more-->
 
-# Promoting European Higher Education
+## Promoting European Higher Education
 
 Outreach to institutions of higher education in Europe is one of the project’s initiatives. In 2014, the EU Delegation to India along with the EU Member States missions in New Delhi organised the European Higher Education Fair. The fair was held in New Delhi, Bengaluru, and Kolkata over the course of a week and attracted the participation of 118 higher education institutes from 23 EU member states. It was attended by more than 6,500 students and parents from these three cities. The event was promoted energetically through the traditional media and advertising, as well as social media channels.
 
-# From In-person to Virtual: The Digitization of the Education Fair
+## From In-person to Virtual: The Digitization of the Education Fair
 
 In 2015, built on the success of the previous fair, the team set up a European Higher Education Virtual Fair (EHEVF 2015), an online platform to reach out to prospective students in India and South Asia through web presence, chat sessions, and webinars. The virtual fair was interactive and participatory with direct contribution by the higher education institutions complementing their efforts in promoting internationalization of higher education in the EU. This initiative was a first of its kind globally, proven to be less cost-intensive with greater outreach.
 
@@ -29,19 +29,19 @@ Each of the 138 higher education institutes from 28 EU member states had one pag
 
 In addition, the students who registered on the website had the possibility to interact with the EU higher education institutes through Q&A and chat sessions. The chat sessions were live during eight hours every day during the fair. Before and after the chat session timings, the students could always leave behind their queries in the Q&A window available on every institution’s page.
 
-# Value for Money, with Value for Users
+## Value for Money, with Value for Users
 
 Feedback from the fair has been positive from both prospective students and institutions. The team agree further technical improvements can be made with recommendations on how to make future events better, but the overall experience of the platform was well received with an overwhelming majority (about 80 percent) of respondents positively assessing their time on the EHEVF (from good to excellent). This form of communication and outreach on our project has been done at a regional level, but it has the realistic possibility of becoming a global virtual fair. Detailed usage data can be found below for those interested!
 
-# Portal
+## Portal
 
 The portal received a surge of traffic during the virtual fair and recorded 8,116 sessions and 5,159 unique visitors over the four days (26-29 November 2015), with an average time of seven minutes 43 seconds spent by each visitor (higher in comparison to similar websites/events).
 
-# Webinars
+## Webinars
 
 Over four intense days as many as 76 webinars of 30 minutes each, many of them in parallel, were organised for EU higher education institutes and speakers to engage. A total of 3,243 participants (log-ins) were recorded. (Actual number would be higher due to screen sharing among students and institutional screening in some places).
 
-# Registrations
+## Registrations
 
 The main objective of the EHEVF marketing and outreach campaign was carried out through Facebook, marketing support agencies and on-ground college campus activations in Kolkata, Hyderabad, Bangalore and Chennai. More than 13,500 students’ registrations were achieved through all channels and partners combined.
 
