@@ -15,15 +15,13 @@ Author: Adam Fivenson
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
 `A Consumer Insights survey at Rumah Kitab NGO in East Jakata`
 
-Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what appeared to be an open field in the middle of the city comes into view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be for residents of the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), 
+Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what appeared to be an open field in the middle of the city comes into view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be; Snack hawkers shout as they amble along the rows of onion-dome shaped headstones, groups of friends congregate alongside tea stands, and families gather around the graves of fallen aunts and uncles. Such was my introduction to the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), where I would soon be playing Simon Says, dancing, and beatboxing with the 60 Indonesian youth we came to interview about their media and technology habits. What we found 
 
+But first, a step back to the macro level. Officially, unemployment in Indonesia [hovers around 6%]( http://www.reuters.com/article/us-indonesia-unemployment-idUSKBN0P101D20150621). In a country of 250 million people, this amounts to some 15 million able bodied people who are searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers peg [youth unemployment as high as 20%](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment bodes well neither for the country’s present nor its future. And these are just the official number; they don't include those who have given up looking. 
 
-is a marginalized neighborhood in East Jakarta . It's also home to an number of young entrepreneurs, many of whom are using social media to promote their 
+Youth who are not in school and not working--like many of those I met in Cipinang Besar Utara--are uniquely vulnerable to drug use, gang or extremist recruitment, and violence; they aren't actively developing productive life skills and they aren’t spurring economic activity in their communities. 
 
-
-Officially, unemployment in Indonesia [hovers around 6%]( http://www.reuters.com/article/us-indonesia-unemployment-idUSKBN0P101D20150621). In a country of 250 million people, this amounts to some 15 million able bodied people who are searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers peg [youth unemployment as high as 20%](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment bodes well neither for the country’s present nor its future. And these are just the official number; they don't include those who have given up looking. 
-
-Youth who are not in school and not working are uniquely vulnerable to drug use, gang or extremist recruitment, and violence; they aren't actively developing productive life skills and they aren’t spurring economic activity in their communities. With this as context, DAI is working hard to gain deeper insights into the lives of these young people. Our goal is to find innovative ways to get them off the streets, into stable jobs, and to explore new opportunities for workforce development in a country with more than 88 million internet users, 93% of whom [access the internet via their phone](https://www.digitalnewsasia.com/more-90-users-indonesia-access-net-their-smartphone-gfk).
+With this as context, DAI is working hard to gain deeper insights into the lives of these young people. Our goal is to find innovative ways to get them off the streets, into training programs, and ultimately into stable jobs. More narrowly, we're exploring new opportunities for jump-starting workforce development in a country with more than 88 million internet users, 93% of whom [access the internet via their phone](https://www.digitalnewsasia.com/more-90-users-indonesia-access-net-their-smartphone-gfk).
 
 <!--more-->
 
@@ -31,7 +29,7 @@ Youth who are not in school and not working are uniquely vulnerable to drug use,
 
 In early April, DAI sent me to Indonesia to replicate some of the [mobile phone-related research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows. 
 
-Key questions include: 
+Key questions included: 
 
 * How do at-risk youth receive and share information in general? 
 * Do they have mobile phones? If so, what kind? 
@@ -41,7 +39,7 @@ Key questions include:
 
 We call this research Consumer Insights—“consumer” as in information consumer—and an early sample of our results is below. 
 
-## Demographics of the sample
+## Demographics of the Sample
 
 We conducted 107 face-to-face interviews with young people. About half were in Jakarta and half were in Semarang, a less urban city in the center of Java (the same island as Jakarta). They were roughly half females and half males, and the average age of our participants was 18.
 
