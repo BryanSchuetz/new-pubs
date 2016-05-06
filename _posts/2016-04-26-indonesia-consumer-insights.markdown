@@ -41,7 +41,7 @@ We call this research Consumer Insights—“consumer” as in information consu
 
 ## Demographics of the Sample
 
-We conducted 107 face-to-face interviews with young people. About half were in Jakarta and half were in Semarang, a less urban city in the center of Java (the same island as Jakarta). They were roughly half females and half males, and the average age of our participants was 18.
+We conducted 107 face-to-face interviews with young people. About half were in Jakarta and half were in Semarang, a less urban city in the center of Java (the same island as Jakarta). They were roughly half females and half males, and their average age was 18.
 
 ## Sample Stats
 
