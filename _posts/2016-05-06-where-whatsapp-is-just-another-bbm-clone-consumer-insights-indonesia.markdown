@@ -18,3 +18,5 @@ Phone choice
 Favorite apps
 <script id="infogram_0_73daef7e-f91b-449f-9c10-44214117e967" title="Favorite apps 2" src="//e.infogr.am/js/embed.js?gOo" type="text/javascript"></script>
 
+Messages per day
+<script id="infogram_0_N4e6sWYz1zPSPnOl" title="Messages per day" src="//e.infogr.am/js/embed.js?dAU" type="text/javascript"></script>
