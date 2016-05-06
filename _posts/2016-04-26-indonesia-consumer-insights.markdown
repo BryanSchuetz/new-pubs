@@ -1,5 +1,5 @@
 ---
-title: 'Consumer Insights Indonesia: Workforce Development in the Emerald of the Equator'
+title: 'Consumer Insights Indonesia: Mobiles & Workforce Development'
 date: 2016-04-26 14:40:00 Z
 published: false
 categories:
