@@ -14,7 +14,7 @@ We love exploratory data analysis here at DAI and today we are going to delve in
 
 <!--more-->
 
-## [Click here to see the presentation in a larger format](http://slides.com/deriggi/deck/fullscreen)
+**[Click here to see the presentation in a larger format](http://slides.com/deriggi/deck/fullscreen)**
 
 <iframe src="//slides.com/deriggi/deck/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
