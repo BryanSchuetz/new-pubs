@@ -1,5 +1,5 @@
 ---
-title: 'Where WhatsApp is just another BBM clone: Consumer Insights Indonesia'
+title: 'Consumer Insights Indonesia: Workforce Development in the Emerald of the Equator'
 date: 2016-04-26 14:40:00 Z
 published: false
 categories:
