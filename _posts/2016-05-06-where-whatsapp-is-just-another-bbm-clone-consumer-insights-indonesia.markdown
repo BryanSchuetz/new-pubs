@@ -20,3 +20,4 @@ Favorite apps
 
 Messages per day
 <script id="infogram_0_N4e6sWYz1zPSPnOl" title="Messages per day" src="//e.infogr.am/js/embed.js?dAU" type="text/javascript"></script>
+
