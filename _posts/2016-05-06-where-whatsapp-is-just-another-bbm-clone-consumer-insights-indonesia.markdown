@@ -15,5 +15,6 @@ Author: Adam Fivenson
 Phone choice
 <script id="infogram_0_YoGs14jnIabkggBh" title="Phone Choice" src="//e.infogr.am/js/embed.js?j0X" type="text/javascript"></script>
 
-
+Favorite apps
 <script id="infogram_0_73daef7e-f91b-449f-9c10-44214117e967" title="Favorite apps 2" src="//e.infogr.am/js/embed.js?gOo" type="text/javascript"></script>
+
