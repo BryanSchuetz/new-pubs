@@ -12,10 +12,14 @@ tags:
 Author: Adam Fivenson
 ---
 
-**THIS IS GOING THROUGH A COMPLETE REWRITE**
-
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
 `A Consumer Insights survey at Rumah Kitab NGO in East Jakata`
+
+Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what appeared to be an open field in the middle of the city comes into view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be for residents of the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), 
+
+
+is a marginalized neighborhood in East Jakarta . It's also home to an number of young entrepreneurs, many of whom are using social media to promote their 
+
 
 Officially, unemployment in Indonesia [hovers around 6%]( http://www.reuters.com/article/us-indonesia-unemployment-idUSKBN0P101D20150621). In a country of 250 million people, this amounts to some 15 million able bodied people who are searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers peg [youth unemployment as high as 20%](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment bodes well neither for the country’s present nor its future. And these are just the official number; they don't include those who have given up looking. 
 
@@ -49,6 +53,5 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 ## Upcoming blog posts in the Indonesia Consumer Insights series
 
-* Mobiles & Workforce Development in Indonesia
 * Social Media Habits & App Choice
-* Mobile Gaming 
+* Mobile Gaming
