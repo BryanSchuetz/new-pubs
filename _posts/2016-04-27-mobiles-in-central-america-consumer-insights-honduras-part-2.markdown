@@ -22,7 +22,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <!--more-->
 
-## Key Insights:
+## Key Insights
 
 * Awareness of messaging apps is high across the board, but use is much more selective. Ninety-five percent of those we interviewed were aware of both Facebook and WhatsApp, and 88 percent knew Twitter, and 71 percent knew Line. The picture for actual usage is very different. **(Click the radio buttons at the top of the graph to switch from awareness to useage.)** Facebook and WhatsApp dominate, with 80 percent and 70 percent penetration among our sample, respectively. Twitter was a far off third with 19 percent, and Line had 12 percent usage.
 
