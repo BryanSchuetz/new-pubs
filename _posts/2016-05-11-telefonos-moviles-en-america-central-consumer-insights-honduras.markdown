@@ -1,5 +1,5 @@
 ---
-title: 'Teléfonos Móviles en America Central: Consumer Insights Honduras, Parte 1'
+title: 'Móviles en América Central: Consumer Insights Honduras, Parte 1'
 date: 2016-05-11 21:36:00 Z
 published: false
 ---
