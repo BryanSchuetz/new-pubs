@@ -1,6 +1,7 @@
 ---
 title: 'Teléfonos Móviles en America Central: Consumer Insights Honduras'
 date: 2016-05-11 21:36:00 Z
+published: false
 ---
 
 ![Revised3.jpg](/uploads/Revised3.jpg)`El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras`
