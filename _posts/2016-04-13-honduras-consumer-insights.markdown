@@ -14,7 +14,6 @@ Author: Adam Fivenson
 ![Revised3.jpg](/uploads/Revised3.jpg)
 `The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras`
 
-
 To the casual observer, Chamelecón looks like any other marginalized Central American neighborhood: low-slung, pastel-colored shops line its main road, channeling a ceaseless flow of pedestrians, produce carts, motorcycles, and cars. Yet behind this mundane facade, the residents of Chamalecón face some significant challenges: poverty, unemployment, migration, family disintegration, gang infiltration, violence, and impunity. While this combination of risk factors is common in at-risk* neighborhoods around Central America, in communities on the periphery of San Pedro Sula such as Chamalecón, they coincide with acute force—each factor feeding off the rest and exacerbating the daily risks that residents face.
 
 
