@@ -58,7 +58,7 @@ Durante el último mes hemos estado analizando los datos y nos ha sorprendido c�
 
 ## Próximamente
 * [Los medios sociales y la mensajería instantánea](dai-global-digital.com/consumer%20insights/2016/04/27/mobiles-in-central-america-consumer-insights-honduras-part-2.html)
-* Flujos de información predilectos
+* ¿Cómo reciben y comparten información en general los jóvenes de riesgo en Honduras?
 
 ***
 
