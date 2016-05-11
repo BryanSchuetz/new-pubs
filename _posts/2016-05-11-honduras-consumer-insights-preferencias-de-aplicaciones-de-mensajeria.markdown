@@ -40,7 +40,7 @@ La mensajería móvil y las redes sociales son muy populares entre los jóvenes 
 <script id="infogram_0_E7fVOnRoppAufJFt" title="ESP Social Media 3" src="//e.infogr.am/js/embed.js?8G3" type="text/javascript"></script> 
 
 ## Próximamente
-* ¿Cómo reciben y comparten información los jóvenes de riesgo en Honduras?
+* ¿Cómo reciben y comparten información en general los jóvenes de riesgo en Honduras?
 
 ---
 <Sup> *Los jóvenes de Honduras se consideran en riesgo si la comunidad donde viven muestra altos niveles de violencia doméstica, el consumo de drogas, presencia de pandillas, u otros factores de riesgo importantes. Se encuestó a personas de edades de 15 a 33. Véase [Móviles en América Central: Consumer Insights Honduras, Parte 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer- insights.html) para obtener más información demográfica* </ sup>
