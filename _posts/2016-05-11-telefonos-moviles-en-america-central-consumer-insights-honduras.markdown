@@ -2,6 +2,14 @@
 title: 'Móviles en América Central: Consumer Insights Honduras, Parte 1'
 date: 2016-05-11 21:36:00 Z
 published: false
+categories:
+- Consumer Insights
+tags:
+- Consumer Insights
+- Honduras
+- ICT4D
+- Mobiles
+Author: Adam Fivenson
 ---
 
 ![Revised3.jpg](/uploads/Revised3.jpg)`El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras`
