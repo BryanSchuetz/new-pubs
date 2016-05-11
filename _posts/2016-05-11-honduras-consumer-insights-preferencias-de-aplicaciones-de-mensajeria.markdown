@@ -15,6 +15,8 @@ Author: Adam Fivenson
 ![Revised4.png](/uploads/Revised4.png)
 `El autor, a la derecha, entrevistando a un joven en Tegucigalpa, Honduras. Un agradecimiento especial a Plan Internacional para el apoyo operativo, y el chaleco de seguridad! `
 
+*Este artículo también está disponible en Inglés.*
+
 ## Decisiones Sobre los Medios Sociales y Mensajería Móvil
 
 Hace poco escribí sobre mi experiencia entrevistando a jóvenes en riesgo en Honduras, sobre sus teléfonos móviles y cómo los utilizan. Si no lo vió, atrápelo aquí: [Los móviles en América Central: Consumer Insights Honduras, Parte 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html)
