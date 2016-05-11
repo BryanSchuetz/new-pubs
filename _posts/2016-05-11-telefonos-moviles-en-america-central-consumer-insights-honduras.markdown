@@ -33,7 +33,10 @@ Durante el último mes hemos estado analizando los datos y nos ha sorprendido c�
 
 ## Resultados de Muestra
 
-## Ideas claves
+<script id="infogram_0_FSJlq7JKrIbUHUZi" title="Espanol Honduras Mobile Use" src="//e.infogr.am/js/embed.js?smF" type="text/javascript"></script>
+
+## Ideas Claves
+
 * Los teléfonos móviles son muy populares. Esto no debería de sorprenderle a nadie.
 * Los teléfonos inteligentes están creciendo, pero son más populares en las zonas urbanas que en zonas rurales debido a la limitada disponibilidad de servicios de WiFi y datos en esas áreas.
 * Facebook está en todas partes. Si la juventud no inicia sesión a través de sus teléfonos, se conectan a través del ordenador. Para los de nosotros quienes comenzamos a usar Facebook en nuestros ordenadores, esto parece completamente normal, pero en Honduras en realidad es algo novedoso, dado que los ordenadores no son tan generalizados entre las poblaciones que forman parte de este estudio.
