@@ -23,9 +23,10 @@ Con estos retos en mente, DAI ha estado trabajando para comprender más profunda
 
 En enero, pasé dos semanas entrevistando a jóvenes  de barrios y ciudades del país sobre: 
 
-* ¿Cómo reciben y comparten información?, 
-* ¿Qué tipo de tecnología de comunicaciones utilizan? y
-* ¿Cuáles teléfonos móviles prefieren?, ¿cuáles aplicaciones utilizan más?
+* ¿Cómo reciben y comparten información?
+* ¿Qué tipo de tecnología de comunicaciones utilizan? 
+* ¿Cuáles teléfonos móviles prefieren?
+* ¿Cuáles aplicaciones utilizan más?
 
 El objetivo era aprender la mejor manera de comunicarnos con ellos en el contexto de un proyecto de desarrollo comunitario. En total, la encuesta incluyó a 213 personas entre las edades de 15 y 33, todos los cuales viven en barrios marginales en Tegucigalpa, San Pedro Sula, y en comunidades rurales en el departamento occidental de La Paz.
 
