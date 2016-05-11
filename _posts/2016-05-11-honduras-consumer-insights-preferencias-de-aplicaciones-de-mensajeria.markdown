@@ -1,5 +1,5 @@
 ---
-title: 'Honduras Consumer Insights: Preferencias de Aplicaciones de Mensajería'
+title: 'Móviles en América Central: Consumer Insights Honduras, Parte 2'
 date: 2016-05-11 19:42:00 Z
 published: false
 categories:
@@ -42,4 +42,4 @@ La mensajería móvil y las redes sociales son muy populares entre los jóvenes 
 * Los juegos móviles entre los jóvenes en riesgo en Honduras
 
 ---
-<Sup> *Los jóvenes de Honduras se consideran en riesgo si la comunidad donde viven muestra altos niveles de violencia doméstica, el consumo de drogas, presencia de pandillas, u otros factores de riesgo importantes. Se encuestó a personas de edades de 15 a 33. Véase [Móviles en América Central: Consumer Insights Honduras, Parte 1] (http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer- insights.html) para obtener más información demográfica* </ sup>
+<Sup> *Los jóvenes de Honduras se consideran en riesgo si la comunidad donde viven muestra altos niveles de violencia doméstica, el consumo de drogas, presencia de pandillas, u otros factores de riesgo importantes. Se encuestó a personas de edades de 15 a 33. Véase [Móviles en América Central: Consumer Insights Honduras, Parte 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer- insights.html) para obtener más información demográfica* </ sup>
