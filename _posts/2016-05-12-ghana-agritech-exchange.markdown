@@ -12,7 +12,7 @@ Author: Anand Varghese
 
 <!--more-->
 
-![20160413_095204.jpg](/uploads/20160413_095204.jpg)`Participants at KIC`’s inaugural AgriTech Exchange in Accra, Ghana`
+![20160413_095204.jpg](/uploads/20160413_095204.jpg)`Participants at KIC’s inaugural AgriTech Exchange in Accra, Ghana`
 
 One of the assumptions behind KIC’s efforts is that getting young entrepreneurs to invest in Ghana’s agricultural sector will inject some much-needed energy into a field on the decline. So KIC has been working with the [Meltwater School of Entrepreneurial Technology](http://meltwater.org/) (MEST), a school and incubator for African startups. As you might expect, MEST students are largely young, city-educated students who have never set foot on a farm in their lives. So, back to the question at hand: *how do you get city kids interested in agriculture?* More accurately, how do we get MEST incubatees to think of the agriculture sector not just as a relic but as a sector with complex value chains that, while they may be struggling, also present a number of business opportunities?
 
