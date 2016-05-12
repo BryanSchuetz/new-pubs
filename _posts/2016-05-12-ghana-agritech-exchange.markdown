@@ -8,7 +8,7 @@ tags:
 Author: Anand Varghese
 ---
 
-*How do you get city kids interested in agriculture?* It’s one of the first questions I was asked when I joined DAI, and as a confirmed urbanite, I must admit it’s not a discussion I expected to have. The topic came up in a meeting with my colleagues in DAI’s Energy & Resources Group, who have been working over the last year with the [Kosmos Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) in Accra, Ghana. The KIC, the flagship corporate social investment effort by [Kosmos Energy] (http://dai.com/news-publications/news/kosmos-energy-launches-groundbreaking-social-investment-initiative-ghana/), is exploring creative ways to address development challenges in Ghana, and in its first year, it has set its sights on boosting Ghana’s agricultural sector.
+*How do you get city kids interested in agriculture?* It’s one of the first questions I was asked when I joined DAI, and as a confirmed urbanite, I must admit it’s not a discussion I expected to have. The topic came up in a meeting with my colleagues in DAI’s Energy & Resources Group, who have been working over the last year with the [Kosmos Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) in Accra, Ghana. The KIC, the flagship corporate social investment effort by [Kosmos Energy](http://dai.com/news-publications/news/kosmos-energy-launches-groundbreaking-social-investment-initiative-ghana/), is exploring creative ways to address development challenges in Ghana, and in its first year, it has set its sights on boosting Ghana’s agricultural sector.
 
 <!--more-->
 
