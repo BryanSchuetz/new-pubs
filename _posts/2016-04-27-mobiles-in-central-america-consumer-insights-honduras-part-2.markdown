@@ -14,6 +14,7 @@ Author: Adam Fivenson
 ![Revised4.png](/uploads/Revised4.png)
 `The author, at right, interviewing a young person in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
 
+Este entrada también está disponible en (español)[dai-global-digital.com/consumer%20insights/2016/05/13/honduras-consumer-insights-preferencias-de-aplicaciones-de-mensajeria.html].
 ## Social Media and Messaging Choices
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1
