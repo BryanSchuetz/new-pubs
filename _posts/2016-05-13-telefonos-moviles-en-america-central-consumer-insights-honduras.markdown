@@ -1,6 +1,6 @@
 ---
 title: 'Móviles en América Central: Consumer Insights Honduras, Parte 1'
-date: 2016-05-11 21:36:00 Z
+date: 2016-05-13 09:00:00 Z
 published: false
 categories:
 - Consumer Insights
