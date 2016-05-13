@@ -13,7 +13,7 @@ Author: Adam Fivenson
 
 ![Revised3.jpg](/uploads/Revised3.jpg)`El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras`
 
-*This post is also available in [English](dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html).*
+*This post is also available in [English](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html).*
 
 ## Chamelecón 
 
