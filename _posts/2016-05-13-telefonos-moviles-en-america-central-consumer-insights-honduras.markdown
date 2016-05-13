@@ -19,6 +19,8 @@ Author: Adam Fivenson
 
 Para el observador casual, Chamelecón se parece a cualquier barrio marginal de América Central: tiendas pintadas de color pastel flanquean su calle principal, canalizando un flujo incesante de peatones, carros, y motocicletas. Pero detrás de esta fachada cotidiana, los residentes de Chamelecón se enfrentan a algunos grandes retos: pobreza, desempleo, migración, desintegración familiar, infiltración de pandillas, la violencia y la impunidad. Mientras esta combinación de factores de riesgo es común en los barrios marginales en América Central, en las comunidades de la periferia de San Pedro Sula como Chamelecón, coinciden con fuerza. Cada factor alimenta los demás y aumenta los riesgos que los residentes enfrentan a diario. 
 
+<!--more-->
+
 Con estos retos en mente, DAI ha estado trabajando para comprender más profundamente  los problemas que se enfrenta la gente de Chamelecón y otros barrios pobres parecidos en  Honduras.  Lo que hemos aprendido hasta ahora nos está ayudando a pensar en cómo solucionar los problemas.
 
 ## Dos Semanas en Honduras
