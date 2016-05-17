@@ -18,7 +18,12 @@ Last time, in (Consumer Insights Indonesia: Mobiles & Workforce Development)[dai
 
 > “Three years ago, all we knew about selling phones was selling BlackBerrys – nine out of 10 phones we sold were BlackBerrys,” Mr. Chandra says. “Now, it’s one out of 10. I barely sell any.”
 
-Androids hit a democratizing price point $50-100, 
+Very quickly, cheap Androids brought down the cost of mobile phone ownership, and BlackBerry's handsets simply couldn't compete. Today the story in Indonesia is much like that of the rest of the world: Androids are the mobile of choice, 
+
+http://www.gartner.com/newsroom/id/3215217
+
+
+Androids hit a democratizing price poaint $50-100, 
 
 The massive and rapid proliferation of the smartphones around the world comes thanks to the Android phones. 
 
