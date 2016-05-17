@@ -20,17 +20,17 @@ Stepping through a narrow alley way, under low-slung balconies and sagging cloth
 
 What we found surprised me; who knew so many Indonesian youth had mobiles? Who knew so many were using a certain blue-tinted social network? More on both later, but first, a step back to the macro level.
 
-The latest official numbers peg [unemployment in Indonesia at 5.5%](http://jakartaglobe.beritasatu.com/business/indonesias-unemployment-rate-drops-many-leave-workforce/). With a total workforce of 127.8 million, this amounts to some 7.02 million able-bodied people who are actively searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers put [youth unemployment at 20% and up](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment does not bode well for the country’s present nor for its future. And these are just the official numbers; they don't include those who have given up looking, nor do they include the informal labor sector.
+The latest official numbers peg [unemployment in Indonesia at 5.5 percent](http://jakartaglobe.beritasatu.com/business/indonesias-unemployment-rate-drops-many-leave-workforce/). With a total workforce of 127.8 million, this amounts to some 7.02 million able-bodied people who are actively searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers put [youth unemployment at 20 percent and up](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment does not bode well for the country’s present nor for its future. And these are just the official numbers; they don’t include those who have given up looking, nor do they include the informal labor sector.
 
-Youth who are not in school and not working--like many of those I met in Cipinang Besar Utara--are uniquely vulnerable to drug use, gang or extremist recruitment, and violence; they aren't actively developing productive life skills nor are they engaging in productive economic activity in their communities.
+Youth who are not in school and not working—like many of those I met in Cipinang Besar Utara—are uniquely vulnerable to drug use, gang, or extremist recruitment, and violence; they aren’t actively developing productive life skills nor are they engaging in productive economic activity in their communities.
 
-With this as context, DAI is working hard to gain deeper insights into the lives of these young people. Our goal is to find innovative ways to get them off the streets, into training programs, and ultimately into stable jobs. More narrowly, we're exploring new opportunities for jump-starting workforce development in a country with more than 88 million internet users, 93% of whom [access the internet via their phone](https://www.digitalnewsasia.com/more-90-users-indonesia-access-net-their-smartphone-gfk).
+With this as context, DAI is working hard to gain deeper insights into the lives of these young people. Our goal is to find innovative ways to get them off the streets, into training programs, and ultimately into stable jobs. More narrowly, we’re exploring new opportunities for jump-starting workforce development in a country with more than 88 million internet users, 93 percent of whom [access the internet via their phone](https://www.digitalnewsasia.com/more-90-users-indonesia-access-net-their-smartphone-gfk).
 
 <!--more-->
 
-## One week in the Emerald of the Equator
+## One Week in the Emerald of the Equator
 
-In early April, DAI sent me to Indonesia to replicate [the research I've been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
+In early April, DAI sent me to Indonesia to replicate [the research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
 
 Key questions include:
 
@@ -50,14 +50,14 @@ We conducted 107 face-to-face interviews with young people. About half were in J
 
 ## Sample Stats
 
-The graphic below contains a few sample, binary results from our survey in Indonesia. 86% of our respondents had mobile phones; 62% had smartphones, 77% use Facebook on their phones, and 48% are mobile gamers. 
+The graphic below contains a few sample, binary results from our survey in Indonesia. Eighty-six percent of our respondents had mobile phones; 62 percent had smartphones, 77 percent use Facebook on their phones, and 48 percent are mobile gamers. 
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 
 ## Coming Soon
 
-* Social Media Habits, App Choices, & Information Flows
+* Social Media Habits, App Choices, and Information Flows
 
 ***
 
-*The author would like to thank the great people of [Plan Indonesia](https://plan-international.org/indonesia) for their assistance in carrying out Consumer Insights research.*
+*The author would like to thank [Plan Indonesia](https://plan-international.org/indonesia) for assistance in carrying out Consumer Insights research.*
