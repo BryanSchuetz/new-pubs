@@ -37,7 +37,9 @@ The second graph shows the number of self-reported messages per day among users 
 
 ## 2. If BBM is an 800 lb. gorilla, Facebook is an 1,800 lb. gorilla.
 
-Facebook is nearly omnipresent in Indonesia. The most recent publicly available numbers (from 2014) show almost [70 million Facebook users](http://blogs.wsj.com/digits/2014/06/27/facebook-users-in-indonesia-rise-to-69-million/), 15 to 20 million more than the messaging apps. We found that trend in our sample--107 young people from economically challenged neighborhoods--of whom 77% reported having Facebook installed on their phones. Beyond that, Facebook users reported spending an average of **97 minutes per day** actively using the social platform. We also asked them broad questions about how they participate in information flows. 55% said they got their news from TV, while 50% said they got their news from Facebook (the next most popular options were BBM and the Internet--mainly http://detik.com); meanwhile, when asked about how they find job information, Facebook was far and away the most common response with 48% of respondents, followed by friends (25%) and BBM (20%). See the graphic below for full details.
+Facebook is nearly omnipresent in Indonesia. The most recent publicly-available numbers (from 2014) show almost [70 million Facebook users](http://blogs.wsj.com/digits/2014/06/27/facebook-users-in-indonesia-rise-to-69-million/), 15 to 20 million more than the messaging apps. We found that trend replicated among our sample: 77% reported having Facebook installed on their mobile phones. Beyond that, Facebook users reported spending an average of **97 minutes per day** actively using the social platform. 
+
+We also asked them broad questions about how they participate in information flows. 55% said they got their news from TV, while 50% said they got their news from Facebook (the next most popular options were BBM and the Internet--mainly http://detik.com); meanwhile, when asked about how they find job information, Facebook was far and away the most common response with 48% of respondents, followed by friends (25%) and BBM (20%). See the graphic below for full details.
 
 <script id="infogram_0_b8e5ebe4-db97-4eb8-858e-7da42733599c" title="Copy: Info Flows and Indonesian Youth" src="//e.infogr.am/js/embed.js?DPi" type="text/javascript"></script>
 
@@ -53,7 +55,7 @@ The answers were almost unanimous: between 78% and 90% of youth strongly agreed 
 
 <script id="infogram_0_2oRP1aq33YePvkNa" title="Likert" src="//e.infogr.am/js/embed.js?7eO" type="text/javascript"></script>
 
-Across our insights, one theme is consistent: young Indonesians from marginalized communities are well-connected. They have mobile phones, they have smartphones, and they're active on social media--particularly BBM and Facebook. They're using social media to find jobs, and they're interested in how their mobiles can help them access jobs and training. As DAI thinks about how to support this vulnerable population's entry into the workforce, we'll be taking all those facts into account. 
+Across our insights, one theme is consistent: young Indonesians from marginalized communities are well-connected to information flows. They have mobile phones, they have smartphones, and they're active on social media--particularly BBM and Facebook. They're using social media to find jobs, and they're interested in how their mobiles can help them access jobs and training. As DAI thinks about how to support this vulnerable population's entry into the workforce, we'll be taking all those facts into account. 
 
 ***
 
