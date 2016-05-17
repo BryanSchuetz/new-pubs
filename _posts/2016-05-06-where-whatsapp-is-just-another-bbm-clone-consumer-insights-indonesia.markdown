@@ -12,6 +12,9 @@ tags:
 Author: Adam Fivenson
 ---
 
+![IMG_20160401_121015615.jpg](/uploads/IMG_20160401_121015615.jpg)
+`Consumer Insights in Semarang, Central Java. Thanks to Plan International for all the support!`
+
 Last time, in [Consumer Insights Indonesia: Mobiles & Workforce Development](http://dai-global-digital.com/consumer%20insights/2016/05/17/indonesia-consumer-insights.html), I laid out the broad context, a description of our sample, and why I went to in Indonesia in the first place. See the link above for that information. This time, it's straight to the insights:
 
 ## 1. BlackBerry Messenger (BBM) is the 800 lb. gorilla of messaging apps, particularly among young people.
