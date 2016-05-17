@@ -12,7 +12,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-Last time, in [Consumer Insights Indonesia: Mobiles & Workforce Development](dai-global-digital.com/consumer%20insights/2016/04/26/indonesia-consumer-insights.html), I laid out the context,who we interviewed, and why we were in Indonesia in the first place. This time, its straight to the insights:
+Last time, in [Consumer Insights Indonesia: Mobiles & Workforce Development](http://dai-global-digital.com/consumer%20insights/2016/05/17/indonesia-consumer-insights.html), I laid out the context,who we interviewed, and why we were in Indonesia in the first place. This time, its straight to the insights:
 
 ## 1. BlackBerry Messenger (BBM) is the 800 lb. gorilla of messaging apps, particularly among young people.
 
