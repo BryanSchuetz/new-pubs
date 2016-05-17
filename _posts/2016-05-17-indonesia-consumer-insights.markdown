@@ -50,7 +50,7 @@ We conducted 107 face-to-face interviews with young people. About half were in J
 
 ## Sample Stats
 
-The graphic below contains a few sample, binary results from our survey in Indonesia.
+The graphic below contains a few sample, binary results from our survey in Indonesia. 86% of our respondents had mobile phones; 62% had smartphones, 77% use Facebook on their phones, and 48% are mobile gamers. 
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 
