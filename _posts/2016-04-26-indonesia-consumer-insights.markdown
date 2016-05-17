@@ -29,21 +29,19 @@ With this as context, DAI is working hard to gain deeper insights into the lives
 
 ## One week in the Emerald of the Equator
 
-In early April, DAI sent me to Indonesia to conduct Consumer Insights research, [as we recently did in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
+In early April, DAI sent me to Indonesia to replicate [the research I've been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
 
-Key questions included:
+Key questions include:
 
 * How do at-risk youth receive and share information in general?
 
 * Do they have mobile phones? If so, what kind?
 
-* What kinds of communication apps are most popular?
+* What kinds of communication apps are most popular? 
 
 * What kinds of games do they play?
 
-* And much more...
-
-We call this research Consumer Insights—“consumer” as in information consumer—and an early sample of our results is below.
+We call this research **Consumer Insights**—“consumer” as in information consumer—and below is a bit of what we found.
 
 ## Demographics of the Sample
 
