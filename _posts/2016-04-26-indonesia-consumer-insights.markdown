@@ -1,6 +1,7 @@
 ---
-title: 'Consumer Insights Indonesia Part 1: Mobiles & Workforce Development'
-date: 2016-05-17 09:00:00 Z
+title: 'Consumer Insights Indonesia: Mobiles & Workforce Development'
+date: 2016-04-26 14:40:00 Z
+published: false
 categories:
 - Consumer Insights
 tags:
