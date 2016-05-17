@@ -54,6 +54,6 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 
-## Upcoming blog posts in the Indonesia Consumer Insights series
+## Coming Soon
 
 * Social Media Habits, App Choices, & Information Flows
