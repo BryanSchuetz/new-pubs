@@ -42,7 +42,7 @@ Key questions include:
 
 * What kinds of games do they play?
 
-We call this research **[Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights)**—“consumer” as in information consumer—and below is a bit of what we found.
+We call this research [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights)—“consumer” as in information consumer—and below is a bit of what we found.
 
 ## Demographics of the Sample
 
