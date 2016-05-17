@@ -60,4 +60,4 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 ***
 
-*The author would like to thank [Plan Indonesia](https://plan-international.org/indonesia) for assistance in carrying out Consumer Insights research.*
+*The author would like to thank the great people of [Plan Indonesia](https://plan-international.org/indonesia) for their assistance in carrying out Consumer Insights research.*
