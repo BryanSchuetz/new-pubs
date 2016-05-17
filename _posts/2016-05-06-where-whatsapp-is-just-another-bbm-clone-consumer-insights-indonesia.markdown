@@ -57,4 +57,4 @@ Across our insights, one theme is consistent: young Indonesians from marginalize
 
 ***
 
-*The author would like to thank [Plan Indonesia](https://plan-international.org/indonesia) for assistance in carrying out Consumer Insights research*
+*The author would like to thank [Plan Indonesia](https://plan-international.org/indonesia) for assistance in carrying out Consumer Insights research.*
