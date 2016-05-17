@@ -16,6 +16,10 @@ Author: Adam Fivenson
 
 Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what had appeared to be an open field in the middle of a megacity now comes in to view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be; snack hawkers shout as they amble along the rows of horseshoe shaped headstones, groups of friends congregate alongside tea stands, and families gather around the graves of aunts and uncles. Such was my introduction to the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), where I would soon be playing Simon Says, dancing, and beatboxing with the 60 Indonesian youth who we interviewed about their media and technology habits.
 
+
+<!--more-->
+
+
 What we found surprised me; who knew so many Indonesian youth had mobiles? Who knew so many were using a certain blue-tinted social network? More on both later, but first, a step back to the macro level.
 
 The latest official numbers peg [unemployment in Indonesia at 5.5%](http://jakartaglobe.beritasatu.com/business/indonesias-unemployment-rate-drops-many-leave-workforce/). With a total workforce of 127.8 million, this amounts to some 7.02 million able-bodied people who are actively searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers put [youth unemployment at 20% and up](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment does not bode well for the country’s present nor for its future. And these are just the official numbers; they don't include those who have given up looking, nor do they include the informal labor sector.
