@@ -16,9 +16,7 @@ Author: Adam Fivenson
 
 Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what had appeared to be an open field in the middle of a megacity now comes in to view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be; snack hawkers shout as they amble along the rows of horseshoe shaped headstones, groups of friends congregate alongside tea stands, and families gather around the graves of aunts and uncles. Such was my introduction to the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), where I would soon be playing Simon Says, dancing, and beatboxing with the 60 Indonesian youth who we interviewed about their media and technology habits.
 
-
 <!--more-->
-
 
 What we found surprised me; who knew so many Indonesian youth had mobiles? Who knew so many were using a certain blue-tinted social network? More on both later, but first, a step back to the macro level.
 
