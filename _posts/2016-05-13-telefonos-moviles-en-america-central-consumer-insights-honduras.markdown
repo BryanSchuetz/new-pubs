@@ -63,4 +63,6 @@ Durante el último mes hemos estado analizando los datos y nos ha sorprendido c�
 
 ***
 
+*El autor desea agradecer la gran gente de [Plan Honduras] (https://plan-international.org/Honduras), [OYE Honduras] (http://www.oyehonduras.org/), y el [Centro de Desarrollo Humano] (http://www.centrocdh.org/) para su ayuda en la realización de esta investigación.*
+
 *Los  barrios de Honduras se consideran en riesgo si se muestra altos niveles de violencia doméstica, el consumo de drogas, y/o con presencia de pandillas, u otros factores de riesgo importantes.*
