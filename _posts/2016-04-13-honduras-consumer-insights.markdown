@@ -61,7 +61,7 @@ Information flows of choice
 
 ***
 
-*The author would like to thank the great people of [Plan Honduras](https://plan-international.org/Honduras), [the Organization for Youth Empowerment](http://www.oyehonduras.org/), and the [Centro de Desarrollo Humano](http://www.centrocdh.org/) for assistance in carrying out Consumer Insights research.*
+*The author would like to thank the great people of [Plan Honduras](https://plan-international.org/Honduras), [the Organization for Youth Empowerment](http://www.oyehonduras.org/), and the [Centro de Desarrollo Humano](http://www.centrocdh.org/) for their assistance in carrying out Consumer Insights research.*
 
 <sup>*  *Honduran neighborhoods are considered at-risk if they shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors.*</sup>
 
