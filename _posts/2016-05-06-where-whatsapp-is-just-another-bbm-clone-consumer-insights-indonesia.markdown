@@ -18,6 +18,12 @@ Last time, in (Consumer Insights Indonesia: Mobiles & Workforce Development)[dai
 
 > “Three years ago, all we knew about selling phones was selling BlackBerrys – nine out of 10 phones we sold were BlackBerrys,” Mr. Chandra says. “Now, it’s one out of 10. I barely sell any.”
 
+Androids hit a democratizing price point $50-100, 
+
+The massive and rapid proliferation of the smartphones around the world comes thanks to the Android phones. 
+
+
+ has made it the 
 
 , nowhere to be found on the US is similar to WhatsApp in that it's a relatively simple chat program
 
@@ -32,6 +38,7 @@ https://blog.jana.com/2015/06/18/top-messenger-apps-in-indonesia/
 
 
 The following two graphics cement the claim. 
+
 Favorite apps
 <script id="infogram_0_73daef7e-f91b-449f-9c10-44214117e967" title="Favorite apps 2" src="//e.infogr.am/js/embed.js?gOo" type="text/javascript"></script>
 
