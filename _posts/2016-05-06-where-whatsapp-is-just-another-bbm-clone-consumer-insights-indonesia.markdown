@@ -55,6 +55,8 @@ The answers were almost unanimous: between 78% and 90% of youth strongly agreed 
 
 <script id="infogram_0_2oRP1aq33YePvkNa" title="Likert" src="//e.infogr.am/js/embed.js?7eO" type="text/javascript"></script>
 
+## Final Thoughts
+
 Across our insights, one theme is consistent: young Indonesians from marginalized communities are well-connected to information flows. They have mobile phones, they have smartphones, and they're active on social media--particularly BBM and Facebook. They're using social media to find jobs, and they're interested in how their mobiles can help them access jobs and training. As DAI thinks about how to support this vulnerable population's entry into the workforce, we'll be taking all those facts into account. 
 
 ***
