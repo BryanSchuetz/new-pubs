@@ -16,11 +16,11 @@ Last time, in [Consumer Insights Indonesia: Mobiles & Workforce Development](dai
 
 ## 1. BlackBerry Messenger (BBM) is the 800 lb. gorilla of messaging apps, particularly among young people.
 
-Why BBM when WhatsApp dominates in so many other geographies?  Long ago, before the Android democratized the smartphone space, [Blackberries accounted for almost half (43%) of all mobile phones sold in Indonesia](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/). This quote says it all:
+Why BBM when WhatsApp dominates in so many other geographies?  Back in 2011, before the Android democratized the smartphone market, [Blackberries accounted for almost half (43%) of all mobile phones sold in Indonesia](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/). This quote says it all:
 
 > “Three years ago, all we knew about selling phones was selling BlackBerrys – nine out of 10 phones we sold were BlackBerrys,” Mr. Chandra says. “Now, it’s one out of 10. I barely sell any.”
 
-Three years later, BlackBerry phones are about as popular in Indonesia as cross country skiing--not very. The above-quoted article puts BlackBerry's share of Indonesia's smartphone market at 3% as of the mid-2014, a 40% drop from the the heights of 2011. IDC, a global market research firm, doesn't bother to include Blackberry among the [country's top selling smartphone brands](https://www.idc.com/getdoc.jsp?containerId=prAP41041116).
+Five years later, BlackBerry phones are about as popular in Indonesia as cross country skiing--not very. The above-quoted article puts BlackBerry's share of Indonesia's smartphone market at 3% as of the mid-2014, a 40% drop from the the heights of 2011. IDC, a global market research firm, doesn't bother to include Blackberry among the [country's top selling smartphone brands](https://www.idc.com/getdoc.jsp?containerId=prAP41041116).
 
 The one remaining vestige of the BlackBerry's former halcyon days of domination is BBM, and while the company's all-or-nothing bet on the physical keyboard didn't pan out, their saving grace may have been the decision to port BBM over to Android. When people left their BlackBerries behind, they took BBM with them to a new platform, and today the app [counts some 55 million users in Indonesia](http://blogs.wsj.com/digits/2016/02/29/why-blackberry-is-a-hit-in-indonesia/), ahead of both WhatsApp and Facebook Messenger, each of which have about 50 million users. BBM also has the [most installs and the most active daily users](https://blog.jana.com/2015/06/18/top-messenger-apps-in-indonesia/), according to app marketing firm Jana.
 
@@ -34,13 +34,11 @@ The second graph shows the number of self-reported messages per day by platform 
 
 ## 2. If BBM is an 800 lb. gorilla, Facebook is an 1,800 lb. gorilla.
 
-Facebook is nearly omnipresent in Indonesia. The most recent publicly available numbers (from 2014) show almost [70 million Facebook users](http://blogs.wsj.com/digits/2014/06/27/facebook-users-in-indonesia-rise-to-69-million/), 15 to 20 million more than the messaging apps.
-
-This graphic shows how young Indonesians participate in information flows. We asked them how they receive information about news, social events, jobs, and training opportunities and found that while TV remains an important source of information,
+Facebook is nearly omnipresent in Indonesia. The most recent publicly available numbers (from 2014) show almost [70 million Facebook users](http://blogs.wsj.com/digits/2014/06/27/facebook-users-in-indonesia-rise-to-69-million/), 15 to 20 million more than the messaging apps. We found that trend in our sample--107 young people from economically challenged neighborhoods--of whom 77% reported having Facebook installed on their phones. Beyond that, Facebook users reported spending an average of **97 minutes per day** actively using the social platform. We also asked them broad questions about how they participate in information flows. 55% said they got their news from TV, while 50% said they got their news from Facebook (the next most popular options were BBM and the Internet--mainly http://detik.com); meanwhile, when asked about how they find job information, Facebook was far and away the most common response with 48% of respondents, followed by friends (25%) and BBM (20%). See the graphic below for full details.
 
 <script id="infogram_0_b8e5ebe4-db97-4eb8-858e-7da42733599c" title="Copy: Info Flows and Indonesian Youth" src="//e.infogr.am/js/embed.js?DPi" type="text/javascript"></script>
 
-## 3. ore and more, youth are turning to their mobile phones for information about job opportunities.
+## 3. More and more, youth are turning to their mobile phones for information about job opportunities.
 
 We used a Likert scale (Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree) to gauge Indonesian youth perceptions of the utility of their phones in the search for job and training opportunities. We asked three questions:
 
