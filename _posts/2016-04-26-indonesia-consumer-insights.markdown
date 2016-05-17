@@ -29,7 +29,7 @@ With this as context, DAI is working hard to gain deeper insights into the lives
 
 ## One week in the Emerald of the Equator
 
-In early April, DAI sent me to Indonesia to replicate some of the [mobile phone-related research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
+In early April, DAI sent me to Indonesia to conduct Consumer Insights research, [as we recently did in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
 
 Key questions included:
 
