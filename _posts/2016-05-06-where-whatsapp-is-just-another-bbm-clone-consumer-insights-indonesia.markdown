@@ -31,7 +31,7 @@ Those are the numbers for all of Indonesia, but within our sample--young people 
 
 <script id="infogram_0_73daef7e-f91b-449f-9c10-44214117e967" title="Favorite apps 2" src="//e.infogr.am/js/embed.js?gOo" type="text/javascript"></script>
 
-The second graph shows the number of self-reported messages per day among users of that platform (as opposed to among the entire sample). BBM users sent 110 messages per day, 266% more than SMS users, who sent an average of 30 messages per day. WhatsApp and Facebook Messenger users reported sending 7 and 5 messages a day per those platforms, respectively. Anecdotally, older professionals and people in government that I met tended to use other apps like WhatsApp or Line to communicate, while it seems that young people are barely using these apps.
+The second graph shows the number of self-reported messages per day among users of that platform (as opposed to among the entire sample). BBM users sent 110 messages per day, 266% more than SMS users, who sent an average of 30 messages per day. WhatsApp and Facebook Messenger users reported sending 7 and 5 messages a day on those platforms, respectively. Anecdotally, older professionals and people in government that I met tended to use  WhatsApp or Line to communicate, while it seems that young people are barely using these apps at all. 
 
 <script id="infogram_0_N4e6sWYz1zPSPnOl" title="Messages per day" src="//e.infogr.am/js/embed.js?dAU" type="text/javascript"></script>
 
