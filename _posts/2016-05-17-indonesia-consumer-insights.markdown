@@ -18,7 +18,7 @@ Stepping through a narrow alley way, under low-slung balconies and sagging cloth
 
 <!--more-->
 
-What we found surprised me; who knew so many Indonesian youth had mobiles? Who knew so many were using a certain blue-tinted social network? More on both later, but first, a step back to the macro level.
+What we found surprised me; who knew so many Indonesian young people had mobiles? Who knew so many were using a certain blue-tinted social network? More on both later, but first, a step back to the macro level.
 
 The latest official numbers peg [unemployment in Indonesia at 5.5 percent](http://jakartaglobe.beritasatu.com/business/indonesias-unemployment-rate-drops-many-leave-workforce/). With a total workforce of 127.8 million, this amounts to some 7.02 million able-bodied people who are actively searching for a job and can’t find one. Among youth (ages 16-24) the problem is even worse: official numbers put [youth unemployment at 20 percent and up](http://data.worldbank.org/indicator/SL.UEM.1524.MA.ZS). With fully [half of Indonesia’s population under 30](http://theconversation.com/jobless-youth-raise-risk-of-indonesias-demographic-bonus-turning-into-disaster-50402), high youth unemployment does not bode well for the country’s present nor for its future. And these are just the official numbers; they don’t include those who have given up looking, nor do they include the informal labor sector.
 
@@ -30,7 +30,7 @@ With this as context, DAI is working hard to gain deeper insights into the lives
 
 ## One Week in the Emerald of the Equator
 
-In early April, DAI sent me to Indonesia to replicate [the research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young participate in information flows.
+In early April, DAI sent me to Indonesia to replicate [the research I’ve been doing in Honduras](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html), which focuses on understanding how at-risk young people participate in information flows.
 
 Key questions include:
 
