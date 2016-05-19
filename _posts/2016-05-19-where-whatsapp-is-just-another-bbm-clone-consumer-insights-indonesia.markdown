@@ -1,6 +1,6 @@
 ---
 title: 'Consumer Insights Indonesia Part 2: Where WhatsApp is Just Another BBM Clone'
-date: 2016-05-06 22:34:00 Z
+date: 2016-05-19 00:00:00 Z
 categories:
 - Consumer Insights
 tags:
