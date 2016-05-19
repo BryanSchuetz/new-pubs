@@ -17,7 +17,9 @@ Author: Adam Fivenson
 
 Last time, in [Consumer Insights Indonesia: Mobiles & Workforce Development](http://dai-global-digital.com/consumer%20insights/2016/05/17/indonesia-consumer-insights.html), I described the Consumer Insights research I recently conducted in Indonesia. To recap: we interviewed 107 Indonesian youth between the ages of 16 and 24, all from marginalized neighborhoods. Our goal was to understand how they receive and share information, what kinds of mobile technologies they use, and which messaging and social media apps. For a full description and more context, please see that [post](http://dai-global-digital.com/consumer%20insights/2016/05/17/indonesia-consumer-insights.html).
 
-This time, it's straight to the insights:
+This time, it's straight to the insights.
+
+<!--more-->
 
 ## 1. BlackBerry Messenger (BBM), is the 800 lb. gorilla of messaging apps, particularly among young people.
 
