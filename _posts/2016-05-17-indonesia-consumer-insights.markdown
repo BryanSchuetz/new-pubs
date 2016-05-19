@@ -54,7 +54,7 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 
-## Coming Soon
+## More on Consumer Insights Indonesia
 
 * [Social Media Habits & App Choices](http://dai-global-digital.com/consumer%20insights/2016/05/19/where-whatsapp-is-just-another-bbm-clone-consumer-insights-indonesia.html).
 
