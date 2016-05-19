@@ -21,7 +21,9 @@ This time, it's straight to the insights:
 
 ## 1. BlackBerry Messenger (BBM), is the 800 lb. gorilla of messaging apps, particularly among young people.
 
-Why BBM when WhatsApp dominates in so many other geographies?  Back in 2011, before the Android democratized the smartphone market, [Blackberries accounted for almost half (43%) of all mobile phones sold in Indonesia](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/). This quote from the [Globe and Mail](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/) says it all:
+Why BBM when WhatsApp dominates in so many other geographies?  Back in 2011, before the Android democratized the smartphone market, [Blackberries accounted for almost half (43%) of all mobile phones sold in Indonesia](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/). 
+
+This quote from the [Globe and Mail](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/) says it all:
 
 > “Three years ago, all we knew about selling phones was selling BlackBerrys – nine out of 10 phones we sold were BlackBerrys,” Mr. Chandra says. “Now, it’s one out of 10. I barely sell any.”
 
