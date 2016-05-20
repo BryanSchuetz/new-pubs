@@ -28,6 +28,7 @@ defaults:
     layout: author
     Job:
     Image:
+url: http://dai-global-digital.com
 gems:
 - jekyll-paginate
 paginate: 3
