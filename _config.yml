@@ -1,6 +1,7 @@
 ---
 title: Digital@DAI
 url: "http://dai-global-digital.com"
+permalink: /:title.html
 timezone: UTC
 collections:
   authors:
