@@ -1,5 +1,6 @@
 ---
 title: Digital@DAI
+url: "http://dai-global-digital.com"
 timezone: UTC
 collections:
   authors:
@@ -17,15 +18,15 @@ defaults:
     path: ''
     type: posts
   values:
-    Author: 
+    Author:
     layout: post
 - scope:
     path: ''
     type: authors
   values:
     layout: author
-    Job: 
-    Image: 
+    Job:
+    Image:
 gems:
 - jekyll-paginate
 paginate: 3
@@ -41,7 +42,7 @@ exclude:
 description: The Digital for Development field has enormous potential—and plenty of
   room for learning. We launched this blog as part of our own learning process, and
   we hope to engage the Digital for Development community as we find our way forward
-baseurl: 
+baseurl:
 destination: "./build"
 sass:
   style: compressed
