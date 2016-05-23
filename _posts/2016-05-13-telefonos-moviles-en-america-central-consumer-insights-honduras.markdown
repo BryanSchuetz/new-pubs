@@ -58,7 +58,7 @@ Durante el último mes hemos estado analizando los datos y nos ha sorprendido c�
 * Los jóvenes son muy amantes de los juegos móviles. Candy Crush y Clash of Clans son los más populares.
 
 ## Próximamente
-* [Los medios sociales y la mensajería instantánea](dai-global-digital.com/consumer%20insights/2016/04/27/mobiles-in-central-america-consumer-insights-honduras-part-2.html)
+* [Los medios sociales y la mensajería instantánea](dai-global-digital.com/mobiles-in-central-america-consumer-insights-honduras-part-2.html)
 * ¿Cómo reciben y comparten información en general los jóvenes de riesgo en Honduras?
 
 ***
