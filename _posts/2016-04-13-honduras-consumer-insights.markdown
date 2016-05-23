@@ -65,4 +65,4 @@ Information flows of choice
 *The author would like to thank the great people of [Plan Honduras](https://plan-international.org/Honduras), [the Organization for Youth Empowerment](http://www.oyehonduras.org/), and the [Centro de Desarrollo Humano](http://www.centrocdh.org/) for their assistance in carrying out Consumer Insights research.*
 
 
-<sup>\*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
+<sup>\*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](http://dai-global-digital.com/honduras-consumer-insights.html) for more demographic information*</sup>
