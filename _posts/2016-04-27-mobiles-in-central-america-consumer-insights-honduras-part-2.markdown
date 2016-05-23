@@ -14,7 +14,7 @@ Author: Adam Fivenson
 ![Revised4.png](/uploads/Revised4.png)
 `The author, at right, interviewing a young person in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
 
-*Esta entrada también está disponible en [español](http://dai-global-digital.com/consumer%20insights/2016/05/13/honduras-consumer-insights-preferencias-de-aplicaciones-de-mensajeria.html).*
+*Esta entrada también está disponible en [español](http://dai-global-digital.com/honduras-consumer-insights-preferencias-de-aplicaciones-de-mensajeria.html).*
 
 ## Social Media and Messaging Choices
 
