@@ -56,7 +56,7 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 ## More on Consumer Insights Indonesia
 
-* [Social Media Habits & App Choices](http://dai-global-digital.com/consumer%20insights/2016/05/19/where-whatsapp-is-just-another-bbm-clone-consumer-insights-indonesia.html).
+* [Social Media Habits & App Choices](http://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-consumer-insights-indonesia.html).
 
 ***
 
