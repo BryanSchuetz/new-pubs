@@ -1,6 +1,9 @@
 ---
 title: Have we hit a technology tipping point?
 date: 2016-05-24 09:26:00 Z
+tags:
+- Cambodia
+- Think Piece
 ---
 
 ![For DI tipping point blog - photo.jpg](/uploads/For%20DI%20tipping%20point%20blog%20-%20photo.jpg)`Ratanakiri province, Cambodia - Image courtesy: Chandy Mao, Development Innovations`
