@@ -30,4 +30,4 @@ My second theory is that because smartphones are so widely adopted, even in plac
 
 It’s exciting to know this—one big barrier to ICT4D may have been cleared by two factors: the market and time. Still this forces us to ask ourselves, what about sustained usage? Uptake certainly does not equal robust usage, and design is an important driver in ensuring a service is actually used. Perhaps what this means is that we now can focus our efforts on truly robust and user-centered design; knowing that finally, if we build it, and build it well, they will come.
 
-Reader, have you seen this in the markets you work in? If so, please let me know in the comments. I’m truly curious to know if others are witnessing this same tipping point phenomenon in their work.
+**Reader, have you seen this in the markets you work in? If so, please let me know in the comments.** I’m truly curious to know if others are witnessing this same tipping point phenomenon in their work.
