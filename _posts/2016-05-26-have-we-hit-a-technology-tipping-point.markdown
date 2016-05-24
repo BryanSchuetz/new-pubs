@@ -8,13 +8,13 @@ tags:
 Author: Kristen Roggemann
 ---
 
-![For DI tipping point blog - photo.jpg](/uploads/For%20DI%20tipping%20point%20blog%20-%20photo.jpg)`Ratanakiri province, Cambodia - Image courtesy: Chandy Mao, Development Innovations`
-
 Longstanding wisdom in the ICT4D community dictates that you need to conduct a hard sales job to convince more traditional communities and/or stakeholders to use ICT services. My current research in Cambodia is challenging this notion.
 
-For the past five weeks I’ve been in Cambodia working with DAI’s [Development Innovations ](http://www.development-innovations.org/)project to interview their grantees, largely local nongovernmental organizations utilizing ICT services in their civil society work for the first time. Their deployments are as diverse as an [IVR hotline for commune services](http://www.development-innovations.org/success-stories/hotline-mobile-app-improve-access-public-service/) and an [app for remote WASH supply chain management](http://www.development-innovations.org/success-stories/leveraging-mobiles-boost-efficiencies-rural-sanitation-market/). I’ve been talking with grantees about what they’ve learned in the process of doing the often challenging work of designing and launching successful ICT4D services.
-
 <!--more-->
+
+![For DI tipping point blog - photo.jpg](/uploads/For%20DI%20tipping%20point%20blog%20-%20photo.jpg)`Ratanakiri province, Cambodia - Image courtesy: Chandy Mao, Development Innovations`
+
+For the past five weeks I’ve been in Cambodia working with DAI’s [Development Innovations ](http://www.development-innovations.org/)project to interview their grantees, largely local nongovernmental organizations utilizing ICT services in their civil society work for the first time. Their deployments are as diverse as an [IVR hotline for commune services](http://www.development-innovations.org/success-stories/hotline-mobile-app-improve-access-public-service/) and an [app for remote WASH supply chain management](http://www.development-innovations.org/success-stories/leveraging-mobiles-boost-efficiencies-rural-sanitation-market/). I’ve been talking with grantees about what they’ve learned in the process of doing the often challenging work of designing and launching successful ICT4D services.
 
 Many of the lessons they’ve shared are familiar to those of us who have worked in the sector: technology takes a long time to build; designing with the user is crucial; rural connectivity is still a challenge in a lot of places. Some of them, however, have been unfamiliar—end users, even rural, older populations, did not need the hard sell to use these tools. When asked about what surprised them during the grant process, across the board, grantees were shocked at how eager their end users were to engage with the services they had developed. Communities and beneficiaries immediately recognized the benefits of ICT in replacing of traditional, analog processes, and had the will to learn how to use them. Perhaps, the technology tipping point has been reached: The challenges in getting people to utilize new technologies have been overcome by a world swamped in them.
 
