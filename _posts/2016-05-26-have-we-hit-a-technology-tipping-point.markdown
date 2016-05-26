@@ -13,7 +13,7 @@ Longstanding wisdom in the ICT4D community dictates that you need to conduct a h
 
 ![For DI tipping point blog - photo.jpg](/uploads/For%20DI%20tipping%20point%20blog%20-%20photo.jpg)`Ratanakiri province, Cambodia - Image courtesy: Chandy Mao, Development Innovations`
 
-For the past five weeks I’ve been in Cambodia working with DAI’s [Development Innovations ](http://www.development-innovations.org/)project to interview their grantees, largely local nongovernmental organizations utilizing ICT services in their civil society work for the first time. Their deployments are as diverse as an [IVR hotline for commune services](http://www.development-innovations.org/success-stories/hotline-mobile-app-improve-access-public-service/) and an [app for remote WASH supply chain management](http://www.development-innovations.org/success-stories/leveraging-mobiles-boost-efficiencies-rural-sanitation-market/). I’ve been talking with grantees about what they’ve learned in the process of doing the often challenging work of designing and launching successful ICT4D services.
+For the past five weeks I’ve been in Cambodia working with DAI’s [Development Innovations ](http://www.development-innovations.org/)project to interview their grantees, largely Cambodian nongovernmental organizations utilizing ICT services in their civil society work for the first time. Their deployments are as diverse as an [IVR hotline for commune services](http://www.development-innovations.org/success-stories/hotline-mobile-app-improve-access-public-service/) and an [app for remote WASH supply chain management](http://www.development-innovations.org/success-stories/leveraging-mobiles-boost-efficiencies-rural-sanitation-market/). I’ve been talking with grantees about what they’ve learned in the process of doing the often challenging work of designing and launching successful ICT4D services.
 
 ## Lessons Learned
 
@@ -23,7 +23,7 @@ This surprised me too. There are always two main challenges in planning a new IC
 
 ## Some Theories
 
-So what’s going on? Why are older Cambodians, even in rural areas, so willing to try new technologies? My first theory is that a lot of this has to do with Facebook. Most people on the planet have heard about Facebook at this point, and those who don’t have an account have either a) seen a family member or friend playing with it, or b) heard about it via word of mouth or traditional media. The Zuckerburg mythology runs strong, even in these parts of the world, and people are eager to see what the fuss is about.  A digital fear of missing out, if you will.
+So what’s going on? Why are older Cambodians, even in rural areas, so willing to try new technologies? My first theory is that a lot of this has to do with Facebook. Most people on the planet have heard about Facebook at this point, and those who don’t have an account have either a) seen a family member or friend playing with it, or b) heard about it via word of mouth or traditional media. The Zuckerburg mythology runs strong, especially in these parts of the world, and people are eager to see what the fuss is about.  A digital fear of missing out, if you will.
 
 My second theory is that because smartphones are so widely adopted, even in places where we don’t expect them (see all of DAI’s [Consumer Insights research](http://dai-global-digital.com/tags/?tag=consumer-insights) on this), the presence and utility of technology is just far more accepted. Through repeated exposure from friends/family/community/media, even the technophobic have become technocurious.
 
