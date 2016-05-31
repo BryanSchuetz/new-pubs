@@ -12,7 +12,7 @@ Author: Krista Baptista
 Colombia’s 2015 floods affected some 18,000 people. They destroyed homes and bridges, caused the suspension of water and sanitation services, and killed at least 83 people. The loss of life and millions of dollars in damage have re-emphasized the importance of confronting the effects of climate change in Colombia. 
 
 DAI is working with the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/) in Bogota, its on-campus technology and innovation hub, [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), and the
-[Centro Internacional de Agriculture Tropical (CIAT)](https://ciat.cgiar.org/) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity. 
+[Centro Internacional de Agricultura Tropical (CIAT)](https://ciat.cgiar.org/) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity. 
 
 
 <!--more-->
