@@ -25,7 +25,7 @@ Given these challenges, and the large population of tech-savvy young people in B
 ## #1 [DATASPATIAL](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system)
 ![IMG_20160423_184034562.jpg](/uploads/IMG_20160423_184034562.jpg)
 `The members of team DATASPATIAL describe their tool`
-Responding to Colombia's recent floods, DATASPATIAL is designed to help authorities measure flood risk along major highways throughout the country. In short, it's a map-based platform that predicts which of Colombia's highways will likely flood during periods of sustained rain. The team of three that designed DATASPATIAL are geospatial and topographical engineers, and the system is also designed to account for other types of infrastructure such as roads and power lines. For more info, see the [developer's page](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system).
+Responding to Colombia's recent floods, DATASPATIAL is designed to help authorities measure flood risk along major highways throughout the country. In short, it's a map-based platform that predicts which of Colombia's highways are most likely to flood during periods of sustained rain. The team of three that designed DATASPATIAL are geospatial and topographical engineers, and the system is also designed to account for other types of infrastructure such as roads and power lines. For more info, see the [developer's page](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system).
 
 ## #2 [Air Guardian](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian)
 ![IMG_20160424_101008636.jpg](/uploads/IMG_20160424_101008636.jpg)
