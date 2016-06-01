@@ -4,7 +4,6 @@ date: 2016-05-31 23:55:00 Z
 published: false
 ---
 
-
 [TITLE IMAGE AND CAPTION]
 
 Which of Colombia's highways faces the greatest risk of flood? Is there a causal link between changing climate conditions, increased air pollution, and poor health among Colombians? How can drones help confront climate change? These are a few of the big questions that teams of young people confronted at the [2016 NASA Space Apps Challenge in Bogotá](http://www.javeriana.edu.co/spaceappsbogota/). The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
@@ -20,7 +19,6 @@ Responding to Colombia's recent floods, DATASPATIAL is designed to help authorit
 
 ## #2 [Air Guardian](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian)
 Air Guardians is an app, designed to help strengthen the link between air pollution and poor health. The goal is to help environmental institutions--who already have access to air quality indices--get live health information from targeted populations, and then draw correlations between the two. The key difference between Air Guardian and other air quality monitors that teams designed at the event is that Air Guardian provides an incentive for users to share health information in the form of points, which can be redeemed for discount rewards for local food and shopping. Retailers participate for exposure and tax breaks. For more info, see the [developer's page](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian).
-
 
 ## #3 [SafeWay: The Drone App](https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/safeway-the-drone-app)
 SafeWay is a drone-mounted weather station that measures temperature, wind speed/direction, humidity, air pollution, and feeds this information live to an Android app. The app also includes a live map of the drone's location and restricted areas, and more. The system's developers built the weather station from an Arduino, and also coded their app during the weekend event. For more information, see the [developer's page]( https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/safeway-the-drone-app).
