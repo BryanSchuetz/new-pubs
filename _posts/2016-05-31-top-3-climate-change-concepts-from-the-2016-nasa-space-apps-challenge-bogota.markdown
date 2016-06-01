@@ -7,8 +7,6 @@ published: false
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
 `NASA Space Apps Challenge - Bogota 2016`
 
-[TITLE IMAGE AND CAPTION]
-
 Which of Colombia's highways faces the greatest risk of flood? Is there a causal link between changing climate conditions, increased air pollution, and poor health among Colombians? How can drones help confront climate change? These are a few of the big questions that teams of young people confronted at the [2016 NASA Space Apps Challenge in Bogotá](http://www.javeriana.edu.co/spaceappsbogota/). The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
 
 DAI co-hosted the Bogotá edition in partnership with [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), the on-campus technology and innovation hub of the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/), and the [Centro Internacional de Agricultura Tropical (CIAT)](https://ciat.cgiar.org/), with the goal of harnessing the entrepreneurial power of young Colombians to tackle climate change.
