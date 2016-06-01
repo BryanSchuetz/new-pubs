@@ -1,8 +1,11 @@
 ---
-title: Top 3 Climate Change Concepts from the 2016 NASA Space Apps Challenge Bogotá
+title: Top 3 Climate Change Concepts from NASA Space Apps Challenge Bogotá
 date: 2016-05-31 23:55:00 Z
 published: false
 ---
+
+![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
+`NASA Space Apps Challenge - Bogota 2016`
 
 [TITLE IMAGE AND CAPTION]
 
@@ -12,7 +15,7 @@ DAI co-hosted the Bogotá edition in partnership with [Centro Ático](http://www
 
 Why climate change? The issue has risen to the fore in Colombia in recent years, as catastrophic flooding--[the direct result of changing climate conditions in the high Andes](http://www.dailyclimate.org/tdc-newsroom/2012/12/colombia-andes-flooding)--has become a near-annual disaster, destroying families' homes, wiping out farm land, impairing road networks, and killing dozens of people. Beyond flooding, Colombia is [noticeably hotter](http://thecitypaperbogota.com/news/climate-change-could-turn-up-the-heat-in-colombia/10812) than it has been in even the recent past, hitting farmers hard with drought-like conditions in some areas, turning up the temperature to dangerous levels for those who depend on manual labor for their livelihoods, and exacerbating air quality problems that already cause [the death of more than 15,000 Colombians each year](http://www.copenhagenconsensus.com/publication/colombia-perspective-air-pollution).
 
-Given these challenges, and the large population of tech-savvy young people in Bogota, DAI thought the conditions were right for just such a challenge. So, together with Centro Ático, we hosted 18 teams comprised of 99 young people, armed them with NASA satellite data, and turned them loose on the challenges. The results were far better than we could have expected: not only did the teams create viable, working concepts, they created some really GOOD viable, working concepts. With no further adieu, the top 5:
+Given these challenges, and the large population of tech-savvy young people in Bogota, DAI thought the conditions were right for just such a challenge. So, together with Centro Ático, we hosted 18 teams comprised of 99 young people, armed them with NASA satellite data, and turned them loose on the challenges. The results were far better than we could have expected: not only did the teams create viable, working concepts, they created some really GOOD viable, working concepts. With no further adieu, the top 3:
 
 ## #1 [DATASPATIAL](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system)
 Responding to Colombia's recent floods, DATASPATIAL is designed to help authorities measure flood risk along major highways throughout the country. In short, it's it's a map-based platform that predicts which of Colombia's highways will likely flood during periods of sustained rain. The team of three that designed DATASPATIAL are geospatial and topographical engineers, and the system is also designed to account for other types of infrastructure such as roads and power lines. For more info, see the [developer's page](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system).
