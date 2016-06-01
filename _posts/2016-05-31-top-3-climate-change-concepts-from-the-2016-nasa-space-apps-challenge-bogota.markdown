@@ -16,6 +16,8 @@ Why climate change? The issue has risen to the fore in Colombia in recent years,
 Given these challenges, and the large population of tech-savvy young people in Bogota, DAI thought the conditions were right for just such a challenge. So, together with Centro Ático, we hosted 18 teams comprised of 99 young people, armed them with NASA satellite data, and turned them loose on the challenges. The results were far better than we could have expected: not only did the teams create viable, working concepts, they created some really GOOD viable, working concepts. With no further adieu, the top 3:
 
 ## #1 [DATASPATIAL](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system)
+![IMG_20160423_184034562.jpg](/uploads/IMG_20160423_184034562.jpg)
+`The members of team DATASPATIAL describe their tool`
 Responding to Colombia's recent floods, DATASPATIAL is designed to help authorities measure flood risk along major highways throughout the country. In short, it's it's a map-based platform that predicts which of Colombia's highways will likely flood during periods of sustained rain. The team of three that designed DATASPATIAL are geospatial and topographical engineers, and the system is also designed to account for other types of infrastructure such as roads and power lines. For more info, see the [developer's page](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system).
 
 ## #2 [Air Guardian](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian)
