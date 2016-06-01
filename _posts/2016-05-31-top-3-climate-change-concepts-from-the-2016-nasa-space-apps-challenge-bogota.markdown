@@ -2,6 +2,13 @@
 title: Top 3 Climate Change Concepts from NASA Space Apps Challenge Bogotá
 date: 2016-05-31 23:55:00 Z
 published: false
+tags:
+- innovation
+- NASA Space Apps Challenge
+- Bogota
+- Colombia
+- ICT4D
+Author: Adam Fivenson
 ---
 
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
