@@ -4,7 +4,6 @@ date: 2016-05-31 23:55:00 Z
 published: false
 tags:
 - Colombia
-- ICT4D
 - Innovation
 Author: Adam Fivenson
 ---
