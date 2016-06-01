@@ -29,7 +29,7 @@ Responding to Colombia's recent floods, DATASPATIAL is designed to help authorit
 
 ## #2 [Air Guardian](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian)
 ![IMG_20160424_101008636.jpg](/uploads/IMG_20160424_101008636.jpg)
-`Two members of the Air Guardian team speak with mentor Manuel Pardo (R), an innovation advisor from Colombia's Ministry of Technology`
+`Two members of the Air Guardian team speak with mentor Manuel Pardo (R), Innovation Advisor from Colombia's Ministry of Technology`
 Air Guardians is an app, designed to help strengthen the link between air pollution and poor health. The goal is to help environmental institutions--who already have access to air quality indices--get live health information from targeted populations, and then draw correlations between the two. The key difference between Air Guardian and other air quality monitors that teams designed at the event is that Air Guardian provides an incentive for users to share health information in the form of points, which can be redeemed for discount rewards for local food and shopping. Retailers participate for exposure and tax breaks. For more info, see the [developer's page](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian).
 
 ## #3 [SafeWay: The Drone App](https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/safeway-the-drone-app)
