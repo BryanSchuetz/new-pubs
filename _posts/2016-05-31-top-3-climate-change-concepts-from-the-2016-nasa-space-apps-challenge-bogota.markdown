@@ -38,4 +38,4 @@ Air Guardians is an app designed to strengthen the empirical link between air po
 `Two members of the SafeWay team`
 SafeWay is a drone-mounted weather station that measures temperature, wind speed/direction, humidity, air pollution, and feeds this information live to an Android app. The app also includes a live map of the drone’s location and restricted areas. The system’s developers built the weather station from an Arduino, and also coded their app during the weekend event. For more information, see the [developer’s page]( https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/safeway-the-drone-app).
 
-Have you seen a strong example of how new technologies are helping people adapt to and mitigate climate change? If so, let me know about it in the comments or tweet about it using #DigitalDAI hashtag! 
+**Have you seen a strong example of how new technologies are helping people adapt to and mitigate climate change?** If so, let me know about it in the comments or tweet about it using #DigitalDAI hashtag! 
