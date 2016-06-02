@@ -1,7 +1,6 @@
 ---
 title: Top 3 Climate Change Concepts from NASA Space Apps Challenge Bogotá
 date: 2016-05-31 23:55:00 Z
-published: false
 tags:
 - Colombia
 - Innovation
