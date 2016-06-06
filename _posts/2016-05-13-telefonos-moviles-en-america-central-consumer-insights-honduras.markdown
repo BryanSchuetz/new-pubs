@@ -11,7 +11,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-![Mobiles Honduras](/uploads/Revised3.jpg)`El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras`
+![Móviles Honduras](/uploads/Revised3.jpg)`El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras`
 
 *This post is also available in [English](http://dai-global-digital.com/honduras-consumer-insights.html).*
 
