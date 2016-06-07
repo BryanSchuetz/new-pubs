@@ -1,6 +1,0 @@
----
-title: testing
-date: 2016-06-07 15:03:00 Z
----
-
-footer
