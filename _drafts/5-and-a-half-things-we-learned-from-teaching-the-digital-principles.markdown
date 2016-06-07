@@ -1,6 +1,10 @@
 ---
 title: 5 (and a half) Things We Learned from Teaching the Digital Principles
 date: 2016-06-07 13:43:00 Z
+tags:
+- Digital Principles
+- ICT4D
+- Training
 ---
 
 Over the last couple of years, DAI developed the “[ICT Corps](http://www.ictworks.org/2016/03/30/ict-innovation-corps-teaching-digital-principles-to-non-techie-staff/)” – a series of in-house training modules for our teams around the world on how to integrate ICTs into development projects, from using mobile tools to engage communities to using ICT-enabled solutions to gather data for decision-making. One of these modules is devoted solely to teaching the nine [Principles for Digital Development](http://digitalprinciples.org/). DAI has endorsed the Principles and regularly uses them to guide technology design, but in using them as a training tool, we learned a thing or five. 
