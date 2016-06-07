@@ -1,5 +1,5 @@
 ---
-title: 5 (and a half) Things We Learned from Teaching the Digital Principles
+title: 5 (and 1/2) Things We Learned from Teaching the Digital Principles
 date: 2016-06-07 13:43:00 Z
 published: false
 tags:
