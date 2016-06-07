@@ -5,10 +5,10 @@ date: 2016-06-07 13:43:00 Z
 
 Over the last couple of years, DAI developed the “[ICT Corps](http://www.ictworks.org/2016/03/30/ict-innovation-corps-teaching-digital-principles-to-non-techie-staff/)” – a series of in-house training modules for our teams around the world on how to integrate ICTs into development projects, from using mobile tools to engage communities to using ICT-enabled solutions to gather data for decision-making. One of these modules is devoted solely to teaching the nine [Principles for Digital Development](http://digitalprinciples.org/). DAI has endorsed the Principles and regularly uses them to guide technology design, but in using them as a training tool, we learned a thing or five. 
 
-**1. The Digital Principles force staff to think critically about their entire project – not just the tech-focused parts. **
+**1. The Digital Principles force staff to think critically about their entire project – not just the tech-focused parts.**
 Very few of the Principles are solely applicable to technology.  “Design with the user” or “build for sustainability” – these are things that any good development project should do. But by creating a training module that was solely focused on the Digital Principles, we created a really useful pedagogical tool that forced staff to step back and think critically about their entire project, what they were going to do, and why. 
 
-**1b. Look for windows of opportunity. **
+**1b. Look for windows of opportunity.**
 A small sub-lesson related to the timing of the training: an important window of opportunity opens up just as a team gets past those first few hectic weeks of starting up a project. We recently trained one of our teams in Liberia during this phase. When we arrived, they had just hired all their staff and were beginning their work in earnest. They were coming together as a team and trying to shape a common vision for what their project was going to achieve. This proved to be an ideal time to deploy the Digital Principles training. Not only was the team energized, but they also felt that they had an opportunity to apply the Principles to their work in ‘real-time’, as it were. 
 
 **2. The Digital Principles help reveal the ICT Champions on a team.** 
