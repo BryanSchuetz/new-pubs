@@ -1,7 +1,6 @@
 ---
 title: 5 (and 1/2) Things We Learned from Teaching the Digital Principles
-date: 2016-06-07 13:43:00 Z
-published: false
+date: 2016-06-08 08:00:00 Z
 tags:
 - Digital Principles
 - ICT4D
