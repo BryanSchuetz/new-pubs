@@ -43,6 +43,6 @@ La mensajería móvil y las redes sociales son muy populares entre los jóvenes 
 
 ***
 
-*El autor desea agradecer la gran gente de [Plan Honduras] (https://plan-international.org/Honduras), [OYE Honduras] (http://www.oyehonduras.org/), y el [Centro de Desarrollo Humano] (http://www.centrocdh.org/) para su ayuda en la realización de esta investigación.*
+*El autor desea agradecer la gran gente de [Plan Honduras](https://plan-international.org/Honduras), [OYE Honduras](http://www.oyehonduras.org/), y el [Centro de Desarrollo Humano](http://www.centrocdh.org/) para su ayuda en la realización de esta investigación.*
 
 *Los jóvenes de Honduras se consideran en riesgo si la comunidad donde viven muestra altos niveles de violencia doméstica, el consumo de drogas, presencia de pandillas, u otros factores de riesgo importantes. Se encuestó a personas de edades de 15 a 33. Véase [Móviles en América Central: Consumer Insights Honduras, Parte 1](http://dai-global-digital.com/telefonos-moviles-en-america-central-consumer-insights-honduras.html) para obtener más información demográfica*
