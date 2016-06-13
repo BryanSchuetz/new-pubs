@@ -17,6 +17,8 @@ Author: Adam Fivenson
 ![cambio climatico Space Apps Bogota](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
 `Apps Challenge espacial de la NASA - Bogotá 2016`
 
+This post is also available in [English](http://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html).
+
 Esta es una competencia anual, realizada en más de [150 ciudades](https://2016.spaceappschallenge.org/locations) alrededor del mundo, y centrada en el diseño y desarrollo de los conceptos tecnológicos que utilizan los datos de satélite de NASA para enfrentar desafíos relacionados con la exploración del espacio y la mejora de la vida en la Tierra.
 
 DAI fue co-anfitrión del evento en Bogotá en colaboración con [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), el centro de tecnología e innovación de la [Universidad Javeriana](http://www.javeriana.edu.co/), y el [Centro Internacional de Agricultura Tropical (CIAT)](https://ciat.cgiar.org/), con el objetivo de aprovechar del espíritu emprendedor de los jóvenes Colombianos para abordar el cambio climático.
