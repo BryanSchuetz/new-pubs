@@ -19,7 +19,7 @@ Author: Adam Fivenson
 ## Social Media and Messaging Choices
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1
-](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html)
+](http://dai-global-digital.com/honduras-consumer-insights.html).
 Mobile messaging and social media are incredibly popular among Honduran youth. More than 70 percent of the at-risk young people in Honduras who we interviewed had smartphones, and almost every single one who had a smartphone uses WhatsApp. Facebook is even more ubiquitous. The message is this: anyone—from the Honduran government to development actors like USAID and implementing organizations—who wants to engage with Honduran young people must meet them on their native platforms of communication. These days that means social media and messaging apps.
 
 <!--more-->
