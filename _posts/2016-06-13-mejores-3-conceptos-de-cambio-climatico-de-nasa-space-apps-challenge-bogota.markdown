@@ -1,7 +1,10 @@
 ---
-title: Mejores 3 Conceptos de Cambio Climático de NASA Space Apps Challenge Bogotá
+title: Los Mejores 3 Conceptos Para Enfrertar el Cambio Climatico de NASA Space Apps
+  Bogota
 date: 2016-06-13 15:38:00 Z
+permalink: "/cambio-climatico-space-apps-bogota"
 published: false
+Author: Adam Fivenson
 ---
 
 ¿Cuál de las carreteras de Colombia tiene el mayor riesgo de inundación? ¿Existe una relación causal entre el cambio climático, el aumento de la contaminación del aire, y la mala salud entre los colombianos? ¿Cómo pueden los drones ayudarnos a mitigar los efectos del cambio climático? Estas son algunas de las grandes preguntas a las que los equipos de jóvenes buscaron respuestas y soluciones en el [2016 NASA Space Apps Challenge en Bogotá](http://www.javeriana.edu.co/spaceappsbogota/).
