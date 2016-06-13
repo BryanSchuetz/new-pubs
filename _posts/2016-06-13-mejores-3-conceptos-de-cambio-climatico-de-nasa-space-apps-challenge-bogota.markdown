@@ -2,7 +2,6 @@
 title: Los Mejores 3 Conceptos Para Enfrertar el Cambio Climatico de NASA Space Apps
   Bogota
 date: 2016-06-13 15:38:00 Z
-permalink: "/cambio-climatico-space-apps-bogota"
 published: false
 Author: Adam Fivenson
 ---
