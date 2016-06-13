@@ -6,7 +6,7 @@ published: false
 
 ¿Cuál de las carreteras de Colombia tiene el mayor riesgo de inundación? ¿Existe una relación causal entre el cambio climático, el aumento de la contaminación del aire, y la mala salud entre los colombianos? ¿Cómo pueden los drones ayudarnos a mitigar los efectos del cambio climático? Estas son algunas de las grandes preguntas a las que los equipos de jóvenes buscaron respuestas y soluciones en el [2016 NASA Space Apps Challenge en Bogotá](http://www.javeriana.edu.co/spaceappsbogota/).
 
-<!-More-->
+<!--more-->
 
 ![Aplicaciones Espacio Bogotá-12.jpg](/uploads /Espacio% 20Apps% 20Bogot% C3% A1-12.jpg)
 `Apps Challenge espacial de la NASA - Bogotá 2016`
