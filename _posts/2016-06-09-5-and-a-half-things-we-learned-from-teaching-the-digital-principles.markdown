@@ -34,7 +34,7 @@ Taking the Digital Principles training “on the road” to various countries sh
 
 ![YZSNQ64.png](/uploads/YZSNQ64.png)
 
-For better or worse, the Digital Principles currently speak to a Western audience that’s based in Washington, D.C., London, or Geneva. That’s understandable for two reasons: (a) The pPrinciples were written so that they’d receive broad-based buy-in from the leaders of large donor and implementing organizations. (b) Some of the principles touch upon technical topics that we can currently only explaining using equally technical language. The next challenge for us is to translate the language we use in the principles to the language used by the people we’re trying to serve. 
+For better or worse, the Digital Principles currently speak to a Western audience that’s based in Washington, D.C., London, or Geneva. That’s understandable for two reasons: (a) The Principles were written so that they’d receive broad-based buy-in from the leaders of large donor and implementing organizations. (b) Some of the principles touch upon technical topics that we can currently only explaining using equally technical language. The next challenge for us is to translate the language we use in the principles to the language used by the people we’re trying to serve. 
 
 **5. The Digital Principles can trigger a virtuous cycle (we hope).**
 
