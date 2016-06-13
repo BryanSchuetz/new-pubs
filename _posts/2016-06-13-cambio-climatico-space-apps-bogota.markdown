@@ -1,6 +1,6 @@
 ---
 title: Los Mejores 3 Conceptos Para Enfrertar el Cambio Climatico de NASA Space Apps
-  Bogota
+  Bogotá
 date: 2016-06-13 15:38:00 Z
 published: false
 tags:
@@ -32,7 +32,7 @@ Teniendo en cuenta estos desafíos, y la gran población de jóvenes expertos en
 `Los miembros del equipo de DATASPATIAL describen su herramienta`
 En respuesta a las recientes inundaciones en Colombia, DATASPATIAL fue diseñado para ayudar a las autoridades a medir el riesgo de inundación a lo largo de las principales carreteras del país. El sistema es una plataforma basada en mapas que permite predecir cuál de las carreteras de Colombia son más propensas a las inundaciones durante los períodos de lluvia sostenida. Las tres personas quienes diseñaron DATASPATIAL son ingenieros geoespaciales y topográficos, y el sistema está diseñado para tener en cuenta otras formas de infraestructura, como calles y líneas eléctricas. Para obtener más información, consulte la [página del equipo](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/risk-managment-system).
 
-## #2 [Air Guardian](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian)
+## #2 [Air Guardián](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian)
 ![Air Guardian](/uploads/IMG_20160424_101008636.jpg)
 `Dos miembros del equipo de Air Guardián hablan con el mentor Manuel Pardo (R), Asesor de Innovación del Ministerio de Tecnología de Colombia`
 Air Guardián es una aplicación creado para fortalecer la relación empírica entre la contaminación atmosférica y la mala salud. Su objetivo es ayudar a las instituciones ambientales que ya tienen acceso a los índices de calidad del aire a recibir información de salud directamente de la población, y luego establecer una correlación entre los dos. La diferencia clave entre Air Guardián y otros monitores de calidad del aire que fueron diseñados en el evento es que Air Guardián ofrece un incentivo en forma de puntos, para que los usuarios compartan información de su salud. Los usuarios pueden canjear por descuentos en comida y compras locales. Los comerciantes participan para la publicidad y para recibir exenciones de impuestos. Para obtener más información, consulte la [página del equipo](https://2016.spaceappschallenge.org/challenges/earth/aircheck/projects/air-guardian).
