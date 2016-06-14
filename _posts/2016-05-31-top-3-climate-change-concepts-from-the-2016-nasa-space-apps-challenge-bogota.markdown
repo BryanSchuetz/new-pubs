@@ -9,12 +9,12 @@ Author: Adam Fivenson
 
 Which of Colombia’s highways faces the greatest risk of flood? Is there a causal link between changing climate conditions, increased air pollution, and poor health among Colombians? How can drones help us mitigate the effects of climate change? These are a few of the big questions that teams of young people confronted at the [2016 NASA Space Apps Challenge in Bogotá](http://www.javeriana.edu.co/spaceappsbogota/).
 
+*Esta entrada también está disponible en [español](http://dai-global-digital.com/cambio-climatico-space-apps-bogota.html).*
+
 <!--more-->
 
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
 `NASA Space Apps Challenge - Bogota 2016`
-
-*Esta entrada también está disponible en [español](http://dai-global-digital.com/cambio-climatico-space-apps-bogota.html).*
 
 The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
 
