@@ -14,6 +14,8 @@ Which of Colombia’s highways faces the greatest risk of flood? Is there a caus
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
 `NASA Space Apps Challenge - Bogota 2016`
 
+Esta entrada también está disponible en [español](http://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html).
+
 The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
 
 DAI co-hosted the Bogotá edition in partnership with [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), the on-campus technology and innovation hub of the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/), and the [Centro Internacional de Agricultura Tropical (CIAT)](https://ciat.cgiar.org/), with the goal of harnessing the entrepreneurial power of young Colombians to tackle climate change.
