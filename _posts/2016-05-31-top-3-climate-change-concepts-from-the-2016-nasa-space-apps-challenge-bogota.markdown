@@ -14,7 +14,7 @@ Which of Colombia’s highways faces the greatest risk of flood? Is there a caus
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
 `NASA Space Apps Challenge - Bogota 2016`
 
-Esta entrada también está disponible en [español](http://dai-global-digital.com/cambio-climatico-space-apps-bogota.html).
+*Esta entrada también está disponible en [español](http://dai-global-digital.com/cambio-climatico-space-apps-bogota.html).*
 
 The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
 
