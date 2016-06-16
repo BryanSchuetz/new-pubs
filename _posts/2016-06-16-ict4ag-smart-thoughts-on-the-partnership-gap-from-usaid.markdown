@@ -10,15 +10,15 @@ tags:
 Author: Kristen Roggemann
 ---
 
-After last week’s [ICT4Ag conference](http://ictforag.org/), there was one panel discussion that really stuck in mind, and in particular one speaker: USAID’s [Chris Burns](https://www.linkedin.com/in/christophermburns?authType=NAME_SEARCH&authToken=3Xj7&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A16147536%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466017100217%2Ctas%3Achris%20bur).  This is not some fawning post batting eyelashes at the donor, but a true appreciation for the content of what Chris said and his eloquence in getting at what I see as really the heart of the matter in any ICT4D work: smart partnerships that leverage comparative advantages.
+After last week’s [ICT4Ag conference](http://ictforag.org/), there was one panel discussion that really stuck in mind, and in particular one speaker: USAID’s [Chris Burns](https://www.linkedin.com/in/christophermburns?authType=NAME_SEARCH&authToken=3Xj7&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A16147536%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466017100217%2Ctas%3Achris%20bur). This is not some fawning post batting eyelashes at the donor, but a true appreciation for the content of what Chris said and his eloquence in getting at what I see as really the heart of the matter in any ICT4D work: smart partnerships that leverage comparative advantages.
 
 <!--more-->
 
-## It takes a village
+## It Takes a Village
 
 High-quality ICT work is never the result of one single organization’s efforts; by its very nature it involves multiple parties, from the content creators and the technologists to the channel providers and end users. Despite this inherent need for strong partnerships, we still struggle as a sector to execute on this knowledge—papers have been written about this topic, conference sessions convened, donor dollars put forth to address it. Too often we see development organizations trying, and failing, to do it all—either on their own or through ad-hoc initiatives by allocating a significant budget for a mobile messaging campaign without any funds to develop quality content, or launching a huge mobile data collection effort using a poorly designed tool that has a bad user experience and thus low usability. We keep shooting ourselves in the foot by not putting in the hard work to craft strong partnerships, and instead take shortcuts or use the same partners over and over again because it’s just ‘easier.’ Yes, a lot of this is driven by the speed and cost constraints of the donors, which is why it so heartened me to hear Chris speak.
 
-## Play to your strengths
+## Play to Your Strengths
 
 Chris focused on the need to ensure that we’re leveraging the comparative advantages of each party in any ICT deployment—as development organizations we don’t own mobile towers; as operators we don’t know farmers; and as local value-added service providers we don’t have best practice horticultural content to disseminate. But combined, these three parties have a robust partnership that brings forward everything you need for a truly high-quality ICT intervention: the channel, the content, the end-user knowledge and the savvy packaging. 
 
