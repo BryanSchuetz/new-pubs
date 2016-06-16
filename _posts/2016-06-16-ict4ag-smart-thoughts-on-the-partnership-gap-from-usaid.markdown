@@ -1,7 +1,6 @@
 ---
 title: 'ICT4Ag: Smart Thoughts from USAID on the Partnership Gap'
 date: 2016-06-16 14:18:00 Z
-published: false
 tags:
 - Agriculture
 - USAID
