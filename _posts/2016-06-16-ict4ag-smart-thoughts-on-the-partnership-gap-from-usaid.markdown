@@ -1,6 +1,7 @@
 ---
 title: 'ICT4Ag: Smart thoughts on the partnership gap from USAID'
 date: 2016-06-16 14:18:00 Z
+published: false
 ---
 
 After last week’s [ICT4Ag conference](http://ictforag.org/), there was one panel discussion that really stuck in mind, and in particular one speaker: USAID’s [Chris Burns](https://www.linkedin.com/in/christophermburns?authType=NAME_SEARCH&authToken=3Xj7&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A16147536%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466017100217%2Ctas%3Achris%20bur).  This is not some fawning post batting eyelashes at the donor, but a true appreciation for the content of what Chris said and his eloquence in getting at what I see as really the heart of the matter in any ICT4D work: smart partnerships that leverage comparative advantages.
