@@ -2,14 +2,13 @@
 title: 'Notes from the Field: Makerspaces a Great Solution for Tanzanian Youth to
   Realize Dreams'
 date: 2016-06-17 19:15:00 Z
-published: false
 tags:
 - Tanzania
 - Maker movement
 - Innovation
 ---
 
-*This post was guest-authored by DAI team members Caity Campos, a youth and workforce development specialist, and Colleen Green, a development finance specialist*
+*This post was guest-authored by DAI team members [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064?authType=NAME_SEARCH&authToken=19_W&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A227785418%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466454127582%2Ctas%3Acaity%20cam), a youth and workforce development specialist, and [Colleen Green](https://www.linkedin.com/in/colleen-green-6170081?authType=NAME_SEARCH&authToken=tmi-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A3000691%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466454153170%2Ctas%3Acolleen%20green), a development finance specialist*
 
 Meet Jesse, a university student and entrepreneur. Jesse grew up in Leguruki village in Meru District in Northern Tanzania where the majority of people farm avocados, including Jesse’s family members. Despite good markets for avocado, 98 percent of Leguruki avocados do not make it to the market; their thin skins make them susceptible to rot or damage during transport along Meru’s bumpy, unpaved roads.
 
