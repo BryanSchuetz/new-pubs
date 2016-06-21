@@ -13,11 +13,19 @@ In June I traveled to the West Bank in Palestine with a few colleagues to invest
 Over the course of a week I traveled to 3 cities in the West Bank and interviewed 81 Palestinian citizens from 15 different municipalities and different walks of life. We call this type of rapid, dirty data collection Consumer Insights – a tool that allows our project teams to quickly make user and data driven decisions about appropriate ICT interventions and which we have deployed in Jordan, Honduras, Indonesia and now Palestine.
 
 Key overarching questions that I hoped to explore included:
-•   What kinds of mobile technologies are Palestinians using regularly?
-•   How do Palestinians receive and share information?
-•   What kinds of interactions do Palestinians regularly have with their municipalities
-•   Would Palestinians see value in access to E-Gov services?
- The key insights from the data are summarized below:
+
+* What kinds of mobile technologies are Palestinians using regularly?
+
+* How do Palestinians receive and share information?
+
+* What kinds of interactions do Palestinians regularly have with their municipalities
+
+* Would Palestinians see value in access to E-Gov services?
+  
+
+The key insights from the data are summarized below:
+
+<script id="infogram_0_0cb97e12-2f6d-4b38-913f-3cb3083ee267" title="" src="//e.infogr.am/js/embed.js?8Zs" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a style="color:#989898!important;text-decoration:none!important;" href="https://infogr.am" target="_blank">Create your own infographics</a></div>
 
 Technology and Internet Access: Smart People using Smartphones
 Palestinians are not only exceptionally well educated, they are also unsurprisingly very tech savvy. Every last survey respondent own at least one mobile phone (2 in 5 owned multiple phones). The overwhelming majority own smartphones which they identify as their primary gateway to the internet: highlighting the global trend towards mobile device supremacy in terms of internet access. 3G frequencies are not yet available to Palestinian network operators (3G availability is planned for later this year), meaning that even on their phones Palestinians must access the internet through ISP-backed Wi-Fi networks, to which 86% of respondents had access at home.
