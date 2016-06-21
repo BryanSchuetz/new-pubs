@@ -21,6 +21,9 @@ Because of his education, Jesse has traversed a different path. Having heard abo
 
 Like Jesse, an estimated 900,000 young people enter the job market in Tanzania each year to find fewer than 60,000 new positions in the formal sector, according to the International Labour Organisation. Although they may have skills and education not available to their parents’ generation, nearly three-quarters of youth will end up in informal employment in agriculture. Jesse represents one of the success stories of young agricultural entrepreneurs.
 
+![avomeru_christmasfair.jpg](/uploads/avomeru_christmasfair.jpg)
+`Jesse selling Avomeru avocado oil at the annual Arusha Christmas Fair in 2015`
+
 For Jesse, the agriculture industry has great employment potential, although currently lacks structure and sufficient market information on demand. He hopes that Tanzanians will see improved market systems from the new government, including increased foreign investment and policies to encourage exports.
 
 DAI youth experts recently met Jesse and others as part of a study of Tanzania’s entrepreneurship ecosystem. The DAI team visited Twende, a makerspace in Arusha that offers classes in creative capacity building and design thinking as well as a support system of local entrepreneurs. Twende acts as a springboard for local youth, both mentally through coaching in creative problem solving skills to design small-scale solutions to local problems, and by providing the venue and machinery to design and develop prototypes.
