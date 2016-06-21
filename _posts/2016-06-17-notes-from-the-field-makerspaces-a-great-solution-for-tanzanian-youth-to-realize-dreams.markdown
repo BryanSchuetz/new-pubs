@@ -9,7 +9,6 @@ tags:
 Author: Caity Campos and Colleen Green
 ---
 
-*This post was guest-authored by DAI team members [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064?authType=NAME_SEARCH&authToken=19_W&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A227785418%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466454127582%2Ctas%3Acaity%20cam), a youth and workforce development specialist, and [Colleen Green](https://www.linkedin.com/in/colleen-green-6170081?authType=NAME_SEARCH&authToken=tmi-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A3000691%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466454153170%2Ctas%3Acolleen%20green), a development finance specialist*
 
 Meet Jesse, a university student and entrepreneur. Jesse grew up in Leguruki village in Meru District in Northern Tanzania where the majority of people farm avocados, including Jesse’s family members. Despite good markets for avocado, 98 percent of Leguruki avocados do not make it to the market; their thin skins make them susceptible to rot or damage during transport along Meru’s bumpy, unpaved roads.
 
@@ -47,3 +46,5 @@ In Tanzania and throughout Sub-Saharan Africa, DAI implements USAID [Africa Lead
 Despite the employment odds, the interviews we held with young people revealed an optimism and interest in developing their own entrepreneurial projects. The positive exposure to new ideas and the Maker approach that enables people to develop their own local solutions to hyperlocal challenges has found root in Tanzania’s youth.
 
 Through creative problem solving workshops and meaningful skills building exercises, makerspaces shape the entrepreneurial mindset, create linkages, and foster peer-to-peer learning. Although nascent, the entrepreneurial ecosystem in Tanzania is beginning to grow. Committed to fostering innovation, we see great potential for nurturing local expertise and providing collision points for innovation.
+
+<aside>*This post was guest-authored by DAI team members [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064?authType=NAME_SEARCH&authToken=19_W&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A227785418%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466454127582%2Ctas%3Acaity%20cam), a youth and workforce development specialist, and [Colleen Green](https://www.linkedin.com/in/colleen-green-6170081?authType=NAME_SEARCH&authToken=tmi-&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A3000691%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1466454153170%2Ctas%3Acolleen%20green), a development finance specialist*</aside>
