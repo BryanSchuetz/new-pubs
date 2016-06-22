@@ -32,7 +32,7 @@ The key insights from the data are summarized below:
 The insights taken from the survey data tell us unequivocally that Palestinians are tech savvy and well connected to information flows. They are active online and on social media, and rely on social media platforms like Facebook and Whatsapp for more than entertainment - they use these platforms for regular communication and to receive and send information, including local news. Palestinians across all demographics appear to be relying on web-based mobile technology to communicate with one another
 
 ###The Disconnect: Municipal Services
-While citizens are using the web to communicate and engage one another directly on a daily basis, their interactions with Municipalities appear to 
+While citizens are using the web to communicate and engage one another directly on a daily basis, their interactions with Municipalities appear are very different. Citizens are making time consuming in-person visits to conduct routine municipal business
 
 
 
