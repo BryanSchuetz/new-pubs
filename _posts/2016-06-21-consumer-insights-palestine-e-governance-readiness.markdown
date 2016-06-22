@@ -30,6 +30,8 @@ Key overarching questions that I hoped to explore included:
 
 The key insights from the data are summarized below:
 
+*Note: The interviews conducted do not represent a statistically significant sampling of Palestinian citizens. The purpose of DAI's Consumer Insights is to gain rapid insights about how target populations use technology and generate actionable data quickly*
+
 <script id="infogram_0_0cb97e12-2f6d-4b38-913f-3cb3083ee267" title="" src="//e.infogr.am/js/embed.js?8Zs" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a style="color:#989898!important;text-decoration:none!important;" href="https://infogr.am" target="_blank">Create your own infographics</a></div>
 
 ## What is the Data telling us?
