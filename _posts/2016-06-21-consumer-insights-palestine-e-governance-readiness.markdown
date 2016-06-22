@@ -2,6 +2,12 @@
 title: 'Consumer Insights Palestine: E-Governance Readiness'
 date: 2016-06-21 20:03:00 Z
 published: false
+tags:
+- Consumer Insights
+- Mobiles
+- ICT4D
+- Palestine
+Author: Karim Bin-Humam
 ---
 
 *“You’re doing this on the first day of Ramadan? Everyone is fasting and grumpy! I was going to tell you to leave me alone, but you are a guest and have a kind face so I will answer your questions!”*
