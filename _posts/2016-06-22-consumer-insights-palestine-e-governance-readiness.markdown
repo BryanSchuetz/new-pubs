@@ -1,12 +1,10 @@
 ---
 title: "Consumer Insights Palestine: \nE-Governance Readiness"
-date: 2016-06-21 20:03:00 Z
-published: false
+date: 2016-06-22 08:03:00 Z
 tags:
 - Consumer Insights
-- Mobiles
-- ICT4D
 - Palestine
+- Governance
 Author: Karim Bin-Humam
 ---
 
