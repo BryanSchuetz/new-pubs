@@ -8,7 +8,7 @@ published: false
 
 That was the joking response I received from a local fabric store owner in Ramallah when I asked whether he had a few minutes to spare to help me with some research I was doing.
 
-In June I traveled to the West Bank in Palestine with a few colleagues to investigate aspects of Palestinian readiness for electronic governance (E-Gov) systems at the local level. As part of an attempt to explore potential improvements in municipal service delivery and citizen engagement, I conducted a citizen survey to help us better understand how Palestinians receive and share information using technology, and how they interact with local municipalities.
+In June I traveled to the West Bank in Palestine with a few colleagues to investigate aspects of Palestinian readiness for electronic governance (E-Gov) systems at the local level. As part of an attempt to explore potential improvements in municipal service delivery and citizen engagement, I conducted a citizen series of citizen interviews to help us better understand how Palestinians receive and share information using technology, and how they interact with local municipalities.
 
 Over the course of a week I traveled to 3 cities in the West Bank and interviewed 81 Palestinian citizens from 15 different municipalities and different walks of life. We call this type of rapid, dirty data collection Consumer Insights – a tool that allows our project teams to quickly make user and data driven decisions about appropriate ICT interventions and which we have deployed in Jordan, Honduras, Indonesia and now Palestine.
 
@@ -28,7 +28,7 @@ The key insights from the data are summarized below:
 
 ## What is the Data telling us?
 
-The insights taken from the survey data tell us unequivocally that Palestinians are tech savvy and well connected to information flows. They are active online and on social media, and rely on social media platforms like Facebook and Whatsapp for more than entertainment - they use these platforms for regular communication and to receive and send information, including local news. Palestinians across all demographics appear to be relying on web-based mobile technology to engage with one another. This is a trend that is likely to increase once 3G connectivity becomes available for Palestinian mobile phone users in the coming months.
+The insights taken from the data tell us unequivocally that Palestinians are tech savvy and well connected to information flows. They are active online and on social media, and rely on social media platforms like Facebook and Whatsapp for more than entertainment - they use these platforms for regular communication and to receive and send information, including local news. Palestinians across all demographics appear to be relying on web-based mobile technology to engage with one another. This is a trend that is likely to increase once 3G connectivity becomes available for Palestinian mobile phone users in the coming months.
 
 ### The Disconnect: Municipal Services
 
