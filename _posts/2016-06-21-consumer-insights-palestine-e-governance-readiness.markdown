@@ -10,15 +10,15 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-*“You’re doing this on the first day of Ramadan? Everyone is fasting and grumpy! I was going to tell you to leave me alone, but you are a guest and have a kind face so I will answer your questions!”*
-
-That was the joking response I received from a local fabric store owner in Ramallah when I asked whether he had a few minutes to spare to help me with some research I was doing.
-
 In June I traveled to the West Bank to investigate aspects of Palestinian readiness for electronic governance (E-Gov) systems at the local level. As part of an attempt to explore potential improvements in municipal service delivery and citizen engagement, I conducted a citizen series of citizen interviews to help us better understand how Palestinians receive and share information using technology, and how they interact with local municipalities.
 
 <!--more-->
 
-Over the course of a week I traveled to three cities and interviewed 81 Palestinian citizens from 15 different municipalities and different walks of life. We call this type of rapid, dirty data collection Consumer Insights – a set of meaningful insights that allow our project teams to quickly make user-centric and data-driven decisions about appropriate ICT interventions and which we have deployed in Jordan, Honduras, Indonesia and now Palestine.
+*“You’re doing this on the first day of Ramadan? Everyone is fasting and grumpy! I was going to tell you to leave me alone, but you are a guest and have a kind face so I will answer your questions!”*
+
+That was the joking response I received from a local fabric store owner in Ramallah when I asked whether he had a few minutes to spare to help me with some research I was doing.
+
+Over the course of a week I traveled to three cities and interviewed 81 Palestinian citizens from 15 different municipalities and different walks of life. We call this type of rapid, dirty data collection [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) – a set of meaningful insights that allow our project teams to quickly make user-centric and data-driven decisions about appropriate ICT interventions and which we have deployed in Jordan, Honduras, Indonesia and now Palestine.
 
 Key overarching questions that I hoped to explore included:
 
