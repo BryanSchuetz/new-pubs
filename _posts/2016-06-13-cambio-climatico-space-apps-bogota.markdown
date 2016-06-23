@@ -1,5 +1,5 @@
 ---
-title: Los Mejores 3 Conceptos Para Enfrertar el Cambio Climatico de NASA Space Apps
+title: Los Mejores 3 Conceptos Para Enfrentar el Cambio Climatico de NASA Space Apps
   Bogotá
 date: 2016-06-13 15:38:00 Z
 tags:
