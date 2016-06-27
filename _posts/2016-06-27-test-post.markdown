@@ -1,7 +1,0 @@
----
-title: test-post
-date: 2016-06-27 14:44:00 Z
-published: false
----
-
-lorem
