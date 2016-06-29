@@ -3,6 +3,7 @@ title: Afghanistan's Highly Skilled Software Engineers
 date: 2016-06-29 00:50:00 Z
 tags:
 - Afghanistan
+Author: John DeRiggi
 ---
 
 Great products are built close to the user. It is [design principle number one](http://digitalprinciples.org/design-with-the-user/). It is what lets you deploy early and often, fail fast, learn and iterate. It is also why it is impossible to export software across an ocean and expect it to work well for users with whom you have little interaction or empathy. But here’s the thing: businesses, and local governments in poor countries need great software to achieve inclusion, transparency, efficiency, and revenue. 
