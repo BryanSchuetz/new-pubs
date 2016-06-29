@@ -10,6 +10,8 @@ Author: John DeRiggi
 
 Great products are built close to the user. It is [design principle No. 1](http://digitalprinciples.org/design-with-the-user/). It is what lets you deploy early and often, fail fast, learn and iterate. It is also why it is impossible to export software across an ocean and expect it to work well for users with whom you have little interaction or empathy. But here’s the thing: businesses and local governments in poor countries need great software to achieve inclusion, transparency, efficiency, and revenue.
 
+<!--more-->
+
 As my colleague and owner of fine footwear, Anand Varghese, wrote [here ](http://dai-global-digital.com/code-weekend-afghanistan-update-locally-developed-apps-to-fight-street-harassment.html)and [here](http://dai-global-digital.com/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html), community-minded hackers in Afghanistan are building the software their fellow citizens need and want. On a recent visit to [USAID’s Women in the Economy](http://promote-wie.com/site/page/about) ([WIE](http://dai.com/our-work/projects/afghanistan%E2%80%94women-economy-wie)) project I saw it firsthand: developers with tremendous skill and ability. Some attended university programs in computer science, but many did not. All the coders I met had the key hallmarks of true engineers: the desire to continuously learn.
 
 ## Afghanistan’s Robust Coder Communities
