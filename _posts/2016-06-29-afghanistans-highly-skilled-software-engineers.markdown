@@ -4,6 +4,9 @@ date: 2016-06-29 00:50:00 Z
 published: false
 tags:
 - Afghanistan
+- Software Developer
+- GitHub
+- StackOverflow
 Author: John DeRiggi
 ---
 
