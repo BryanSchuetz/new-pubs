@@ -1,6 +1,7 @@
 ---
 title: Afghanistan's Highly Skilled Software Engineers
 date: 2016-06-29 00:50:00 Z
+published: false
 tags:
 - Afghanistan
 Author: John DeRiggi
