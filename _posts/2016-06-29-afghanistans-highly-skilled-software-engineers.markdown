@@ -4,21 +4,23 @@ date: 2016-06-29 00:50:00 Z
 published: false
 tags:
 - Afghanistan
-- Software Developer
-- GitHub
-- StackOverflow
+- Software Development
 Author: John DeRiggi
 ---
 
-Great products are built close to the user. It is [design principle number one](http://digitalprinciples.org/design-with-the-user/). It is what lets you deploy early and often, fail fast, learn and iterate. It is also why it is impossible to export software across an ocean and expect it to work well for users with whom you have little interaction or empathy. But here’s the thing: businesses and local governments in poor countries need great software to achieve inclusion, transparency, efficiency, and revenue. 
+Great products are built close to the user. It is [design principle number one](http://digitalprinciples.org/design-with-the-user/). It is what lets you deploy early and often, fail fast, learn and iterate. It is also why it is impossible to export software across an ocean and expect it to work well for users with whom you have little interaction or empathy. But here’s the thing: businesses and local governments in poor countries need great software to achieve inclusion, transparency, efficiency, and revenue.
 
-As my colleague and owner of fine footwear, Anand Varghese, wrote [here ](http://dai-global-digital.com/code-weekend-afghanistan-update-locally-developed-apps-to-fight-street-harassment.html)and [here](http://dai-global-digital.com/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html), community minded hackers in Afghanistan are building the software their fellow citizens need and want. On a recent visit to USAID’s Women in the Economy project I saw it first hand: developers with tremendous skill and ability. Some attended university programs in computer science but many did not. All the coders I met had the key hallmarks of true engineers: the desire to continuously learn.
- 
+As my colleague and owner of fine footwear, Anand Varghese, wrote [here ](http://dai-global-digital.com/code-weekend-afghanistan-update-locally-developed-apps-to-fight-street-harassment.html)and [here](http://dai-global-digital.com/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html), community minded hackers in Afghanistan are building the software their fellow citizens need and want. On a recent visit to [USAID’s Women in the Economy](http://promote-wie.com/site/page/about) (WIE) project I saw it first hand: developers with tremendous skill and ability. Some attended university programs in computer science but many did not. All the coders I met had the key hallmarks of true engineers: the desire to continuously learn.
+
+## Afghanistan's robust coder communities
+
 How did they build these great skills? [Code Weekend](http://codeweekend.af/) and community coding events are a huge driver for mentoring, learning and engendering a spirit of civic hacking. But developing professional grade coding skills, like any skill, requires near daily practice. Many of the developers I met with mentioned sites like [StackOverflow ](http://stackoverflow.com/)and [GitHub ](https://github.com/)as the resources they rely on to learn and work through complex problems. GitHub is the massively popular social coding site that makes it easy to explore or fork open software projects. StackOverflow is a question and answer site programmers use to find solutions to engineering problems. It works well because users who answer questions correctly earn points and are ranked in their skill area, attributing prestige to the most prolific and accurate users.
 
 These tools are great resources for developers around the world. Any developer old enough to remember writing software before StackOverflow probably also remembers getting stuck on a tough problem for an entire day, only to find out later how simple the fix was. With StackOverflow , that doesn’t really happen anymore. If you are working on the early stages of of a something that thousands of others have worked on, you are going to hit the same problem that someone else did and the answer is likely in at least a few places on SO.
 
 These web based resources democratize access to the skills and abilities developers need. Reflect for a moment on how valuable they are to connected coders in poor countries who do not attend formal university training or whose training was lecture based and without the hands-on experience necessary to build stable software. It is safe to say that they are the lifelines that power the proliferation of engineering skills in resource-poor countries. It is also a testament to the grit, focus, and determination of the coders in Afghanistan. That they are able to accomplish so much while living in a harsh security environment is humbling.
+
+## Silicon Valley comes calling
 
 I am clearly not the first American to take note of the tech talent in Afghanistan. American accelerators like The [Unreasonable Institute](http://unreasonableinstitute.org/accelerator/afghanistan-2016/) just launched here in April, as did [Startup Grind](http://startupgrind.af/), a Silicon Valley based startup community. As development practitioners it is important that we too foster and promote environments for local coders to build software for businesses and governments in their communities. The abundance of developer talent and entrepreneurs in Afghanistan demonstrates what is possible when motivated engineers have access to the tech communities at home and on the web.
 
