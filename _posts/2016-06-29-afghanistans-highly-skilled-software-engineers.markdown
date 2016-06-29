@@ -18,4 +18,4 @@ These web based resources democratize access to the skills and abilities develop
 
 As development practitioners it is important we foster and promote environments for local coders to build software for businesses and governments in their communities. The abundance of developer talent already doing this in Afghanistan demonstrates what is possible when motivated engineers have access to the tech communities at home and on the web.
 
-Stay tuned for more. I’m not just here to watch people work, gawk at helicopters and write home about it. I can’t wait to share a few details with you about the ambitious job-matching systems WIE is developing here in Kabul. That and more will be in my next post about ICT in Afghanistan.
+Stay tuned for more. I’m not just here to watch people work, gaze at helicopters and write home about it. I can’t wait to share a few details with you about the ambitious job-matching systems WIE is developing here in Kabul. That and more will be in my next post about ICT in Afghanistan.
