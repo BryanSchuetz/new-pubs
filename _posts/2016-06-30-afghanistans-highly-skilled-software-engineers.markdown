@@ -1,6 +1,6 @@
 ---
 title: Afghanistan Produces Highly Skilled Software Engineers
-date: 2016-06-29 08:00:00 Z
+date: 2016-06-30 09:00:00 Z
 tags:
 - Afghanistan
 - Software Development
