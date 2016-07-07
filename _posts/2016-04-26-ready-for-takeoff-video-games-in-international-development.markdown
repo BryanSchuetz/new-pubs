@@ -31,20 +31,20 @@ Anecdotally, during my [recent Consumer Insights visit to Honduras](dai-global-d
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
 ***
 
-While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities to present engaging tools for attitudinal and behavioral change for youth.
+While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote *in-and-of-itself*, gaming as a hobby does present an avenue to present engaging tools for education as well as attitudinal and behavioral change in youth.
 
 ## Games for Good
 
-[Games for Change](http://www.gamesforchange.org/) is an organization that promotes games with a social mission. Its online catalogue is filled with excellent examples of games being used to challenge assumptions, change perceptions, and affect positive social behavior. A few examples: 
+[Games for Change](http://www.gamesforchange.org/) is an organization that promotes games with a social mission. Its online catalogue is filled with examples of games that challenge assumptions, change perceptions, and instill positive social attitudes. A few examples: 
 
-* [Stereowiped](https://itunes.apple.com/US/app/id972396140?mt=8) aims to challenge stereotypes about social, ethnic, and minority groups; 
+* [Stereowiped](https://itunes.apple.com/US/app/id972396140?mt=8) challenges stereotypes about social, ethnic, and minority groups; 
 * [Endgame Syria](http://gamethenews.net/index.php/endgame-syria/) is a news-based strategy game that challenges players to think seriously about which decisions might inflame the country’s civil war and which might bring peace a step closer; 
 * [The Migrant Trail](http://theundocumented.com/) forces players into the shoes of either a border guard or undocumented immigrant, attempting to enter the United States. 
 
 Elsewhere, NDI’s Meron Menwyelet describes her experience [developing a new game for civic engagement](https://www.nditech.org/games4democracy) in Nigeria and USIP’s Derek Caelin takes on [games for peace building](http://foreignpolicy.com/2016/02/08/can-your-playstation-stop-a-war-videogames-peace/). 
 
-## Wrapping it All Up
+## Wrapping it Up
 
-Looking at what’s already being done in the field of games for good, it’s easy to see international development organizations investing more in designing mobile-accessible games for future projects, particularly if pre-existing platforms and game engines can be re-purposed economically. Globally, with mobile phones in the hands of so many marginalized people, the opportunity to reach them in a way that resonates is simply too ripe to ignore. 
+Looking at what’s already being done in the field of games for good, it’s easy to see international development organizations investing more in designing mobile-accessible games for future projects, particularly if pre-existing platforms and game engines can be re-purposed to save on cost. Globally, with mobile phones in the hands of so many people, the opportunity to reach them in a way that resonates is simply too ripe to ignore. 
 
-Have you seen gaming applied well in an international development setting? I’d love to hear about any strong examples in the comment section or on Twitter [@DAIGlobal](https://twitter.com/DAIGlobal) with the #DigitalDAI hashtag.
+Have you seen video gaming used for social change in an international setting? I’d love to hear about any strong examples in the comment section or on Twitter [@DAIGlobal](https://twitter.com/DAIGlobal) with the #DigitalDAI hashtag.
