@@ -1,7 +1,7 @@
 ---
 title: Los Mejores 3 Conceptos Para Enfrentar el Cambio Climatico de NASA Space Apps
   Bogotá
-date: 2016-06-13 15:38:00 Z
+date: 2016-06-13 11:38:00 -04:00
 tags:
 - Colombia
 - Cambio Climatico
@@ -15,8 +15,8 @@ Author: Adam Fivenson
 
 <!--more-->
 
-![cambio climatico Space Apps Bogota](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
-`Apps Challenge espacial de la NASA - Bogotá 2016`
+![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogota%CC%81-12.jpg)
+`Apps Challenge espacial de la NASA - Bogotá 2016`!
 
 Esta es una competencia anual, realizada en más de [150 ciudades](https://2016.spaceappschallenge.org/locations) alrededor del mundo, y centrada en el diseño y desarrollo de los conceptos tecnológicos que utilizan los datos de satélite de NASA para enfrentar desafíos relacionados con la exploración del espacio y la mejora de la vida en la Tierra.
 
