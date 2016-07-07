@@ -35,7 +35,7 @@ While learning to swipe two dimensional candies from left to right is not the ty
 
 ## Games for Good
 
-[Games for Change](http://www.gamesforchange.org/) is an organization that promotes games with a social mission. Its online catalogue is filled with examples of games that challenge assumptions, change perceptions, and instill positive social attitudes. A few examples: 
+[Games for Change](http://www.gamesforchange.org/) is an organization that promotes games with a social mission. Its online catalog is filled with examples of games that challenge assumptions, change perceptions, and instill positive social attitudes. A few examples: 
 
 * [Stereowiped](https://itunes.apple.com/US/app/id972396140?mt=8) challenges stereotypes about social, ethnic, and minority groups; 
 * [Endgame Syria](http://gamethenews.net/index.php/endgame-syria/) is a news-based strategy game that challenges players to think seriously about which decisions might inflame the country’s civil war and which might bring peace a step closer; 
