@@ -1,6 +1,6 @@
 ---
 title: Top 3 Climate Change Concepts from NASA Space Apps Challenge Bogotá
-date: 2016-05-31 23:55:00 Z
+date: 2016-05-31 19:55:00 -04:00
 tags:
 - Colombia
 - Innovation
@@ -13,7 +13,7 @@ Which of Colombia’s highways faces the greatest risk of flood? Is there a caus
 
 <!--more-->
 
-![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
+![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogota%CC%81-12.jpg)
 `NASA Space Apps Challenge - Bogota 2016`
 
 The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
