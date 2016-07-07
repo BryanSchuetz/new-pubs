@@ -39,11 +39,12 @@ While learning to swipe two dimensional candies from left to right is not the ty
 
 [Games for Change](http://www.gamesforchange.org/) is an organization that promotes games with a social mission. Its online catalog is filled with examples of games that challenge assumptions, change perceptions, and instill positive social attitudes. A few examples: 
 
-* [Stereowiped](https://itunes.apple.com/US/app/id972396140?mt=8) challenges stereotypes about social, ethnic, and minority groups; 
 * [Endgame Syria](http://gamethenews.net/index.php/endgame-syria/) is a news-based strategy game that challenges players to think seriously about which decisions might inflame the country’s civil war and which might bring peace a step closer; 
 * [The Migrant Trail](http://theundocumented.com/) forces players into the shoes of either a border guard or undocumented immigrant, attempting to enter the United States. 
+* [9 Minutes](http://www.gamesforchange.org/2013/03/9-minutes-mobile-game-evaluation-demonstrates-positive-change-for-pregnant-women/) teaches young women about pregnancy. 
 
-Elsewhere, NDI’s Meron Menwyelet describes her experience [developing a new game for civic engagement](https://www.nditech.org/games4democracy) in Nigeria and USIP’s Derek Caelin takes on [games for peace building](http://foreignpolicy.com/2016/02/08/can-your-playstation-stop-a-war-videogames-peace/). 
+
+Elsewhere, NDI’s Meron Menwyelet describes her experience [developing a new game for civic engagement](https://www.nditech.org/games4democracy) in Nigeria; USIP’s Derek Caelin takes on [games for peace building](http://foreignpolicy.com/2016/02/08/can-your-playstation-stop-a-war-videogames-peace/); and the World Bank's Miriam Adil--founder of [GRID](https://gamingrevolution4intdev.wordpress.com/)--on [games for education](http://blogs.worldbank.org/education/gamification-education).
 
 ## Wrapping it Up
 
