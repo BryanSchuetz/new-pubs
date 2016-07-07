@@ -1,7 +1,6 @@
 ---
 title: 'Ready for Takeoff: Video Games in International Development'
 date: 2016-07-07 10:00:00 -04:00
-published: false
 tags:
 - ICT4D
 - Video Games
