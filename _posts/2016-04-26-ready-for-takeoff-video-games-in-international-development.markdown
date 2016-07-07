@@ -21,7 +21,7 @@ Four years after leaving Peace Corps technology remains an integral part of my l
 
 These days, young people’s path from video gaming to social impact is hardly so circuitous. Today’s “games for good” challenge racism, teach life skills, combat violent extremism, and instill civic values, all while instilling tech literacy. This newfound focus on behavioral change in gaming is attracting attention in the international development sphere, where [multiple](http://technologysalon.org/how-we-can-leverage-online-games-for-social-impact/) [events](https://ict.demcloud.org/civicrm/event/info?id=10) have popped up recently around the potential for using [video games](https://www.facebook.com/events/1719065978318415/) to engage with young people in the communities where we operate. 
 
-But why now? Educational video games have been popular for years in the States (Mathblasters, anyone?), but only recently has the ground been so fallow for gaming as a tool for in the international sphere. So what gives? In a word: mobiles.  
+But why now? Educational video games have been popular for years in The States (Mathblasters, anyone?), but only recently has the ground been so fallow for gaming as a tool for in the international sphere. So what gives? In a word: mobiles.  
 
 ## Gaming in the Developing World
 
