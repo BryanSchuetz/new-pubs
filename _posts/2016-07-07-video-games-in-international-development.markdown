@@ -23,13 +23,15 @@ Four years after leaving Peace Corps technology remains an integral part of my l
 
 These days, young people’s path from video gaming to social impact is hardly so circuitous. Today’s “games for good” challenge racism, teach life skills, combat violent extremism, and instill civic values, all while instilling tech literacy. This newfound focus on behavioral change in gaming is attracting attention in the international development sphere, where [multiple](http://technologysalon.org/how-we-can-leverage-online-games-for-social-impact/) [events](https://ict.demcloud.org/civicrm/event/info?id=10) have popped up recently around the potential for using [video games](https://www.facebook.com/events/1719065978318415/) to engage with young people in the communities where we operate. 
 
-But why now? Educational video games have been popular for years in the States (Mathblasters, anyone?), but only recently has the ground been so fallow for gaming as a tool for in the international sphere. So what gives? In a word: mobiles.  
+But why now? Educational video games have been popular for years in the States (Mathblasters, anyone?), but only recently has the ground been so fertile for gaming as a tool for in the international sphere. So what gives? In a word: mobiles.  
 
 ## Gaming in the Developing World
 
 The fact that [75 percent of people globally now have access to a mobile phone](http://www.worldbank.org/en/news/press-release/2012/07/17/mobile-phone-access-reaches-three-quarters-planets-population) (a number predicted to [grow to 90 percent by 2020](http://www.ericsson.com/news/1872291)) means that it’s no longer a surprise to find a young woman in rural Honduras—far beyond the nearest internet connection—playing Banana Kong on her phone. 
 
-Anecdotally, during my [recent Consumer Insights visit to Honduras](dai-global-digital.com/honduras-consumer-insights.html), 71 percent of the 213 youth we interviewed—across urban and rural areas—had smartphones, and 60 percent used their phones to play games. Many play the latest titles: Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or—for those in rural areas—get from their friends via Bluetooth. Contrast this to [Indonesia Consumer Insights](http://dai-global-digital.com/indonesia-consumer-insights.html), where 48 percent of the youth we interviewed played mobile games. 
+My [recent Consumer Insights visit to Honduras](dai-global-digital.com/honduras-consumer-insights.html), showed that of the 213 youth we interviewed, 71 percent had smartphones, and 60 percent used their phones to play games.
+
+Many play the latest titles: Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or—for those in rural areas—get from their friends via Bluetooth. Contrast this to [Indonesia Consumer Insights](http://dai-global-digital.com/indonesia-consumer-insights.html), where 48 percent of the youth we interviewed played mobile games. 
 
 ***
 <script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
