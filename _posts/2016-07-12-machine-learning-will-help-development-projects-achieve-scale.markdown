@@ -8,6 +8,7 @@ tags:
 Author: John DeRiggi
 ---
 
+![iStock_15693853_SMALL.jpg](/uploads/iStock_15693853_SMALL.jpg)
 The terms “machine learning” and “artificial intelligence” conjure up feelings that are equal parts fear and fascination. Why is that? Until recently, the prospect of a piece of software making human-like decisions resided safely in the far-fetched expectations of 1960s-era computer scientists or the plot lines of science fiction novels. Today, however, after [decades of unmet expectations](https://en.wikipedia.org/wiki/AI_winter), we finally have AI systems that are beginning to influence our lives in tangible ways. Voice recognition systems like Amazon’s Echo and Apple’s Siri, and once-unimaginable fantasies like self-driving cars, are on the market for consumers, with more exciting lifelike systems to come. We have also seen a few early signs of robotic autonomy that makes us feel uneasy, like the [Russian robot that learned how to escape the lab!](http://qz.com/709161/its-happening-a-robot-escaped-a-lab-in-russia-and-made-a-dash-for-freedom/)
 
 <!--more-->
