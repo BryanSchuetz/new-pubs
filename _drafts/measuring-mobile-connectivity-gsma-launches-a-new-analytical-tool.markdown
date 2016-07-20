@@ -11,6 +11,8 @@ Author: Karim Bin-Humam
 
 The end of 2015 saw 3.2 billion people the world over connected to the internet. With connectivity rates continuing to rise steadily, people are plugging into online networks that foster social and economic development, empowering them with new tools for more effective communication and more efficient economic activity. As impressive as these figures are though, 4 billion people globally remain offline, without access to these opportunities. Bridging the digital divide is of paramount importance if the world’s most disadvantaged populations are to participate in the world’s increasingly connected economy, and because people are [increasingly turning to mobile phones ](http://www.gsmamobileeconomy.com/GSMA_Global_Mobile_Economy_Report_2015.pdf)as their primary gateway to the mobile networks represent the linchpin to inclusive, ICT-enabled development.
 
+<!--more-->
+
 Last week, the [GSMA](http://www.gsma.com/) launched a new analytical tool call the [Mobile Connectivity Index](http://www.mobileconnectivityindex.com/) to measure the state of readiness of 134 countries with regards to providing citizens with mobile internet connectivity. The index is a composite indicator that incorporates analysis of 4 key enablers that bear on a country’s ability to support mobile internet adoption.
 
 * **Infrastructure** – availability of reliable mobile internet network coverage
