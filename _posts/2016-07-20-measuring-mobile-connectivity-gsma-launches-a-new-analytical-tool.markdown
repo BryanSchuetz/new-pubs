@@ -1,6 +1,7 @@
 ---
 title: 'Measuring Mobile Connectivity: GSMA Launches a New Analytical Tool'
 date: 2016-07-20 09:25:00 -04:00
+published: false
 tags:
 - Mobiles
 - Connectivity
