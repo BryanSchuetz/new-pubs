@@ -16,7 +16,7 @@ Author: Adam Fivenson
 <!--more-->
 
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogota%CC%81-12.jpg)
-`Apps Challenge espacial de la NASA - Bogotá 2016`
+`NASA Apps Challenge - Bogotá 2016`
 
 Esta es una competencia anual, realizada en más de [150 ciudades](https://2016.spaceappschallenge.org/locations) alrededor del mundo, y centrada en el diseño y desarrollo de los conceptos tecnológicos que utilizan los datos de satélite de NASA para enfrentar desafíos relacionados con la exploración del espacio y la mejora de la vida en la Tierra.
 
