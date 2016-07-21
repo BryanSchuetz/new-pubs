@@ -1,5 +1,5 @@
 ---
-title: 'Measuring Mobile Connectivity: GSMA Launches a New Analytical Tool'
+title: 'Measuring Mobile Connectivity: GSMA Launches Analytical Tool'
 date: 2016-07-20 09:25:00 -04:00
 tags:
 - ICT4D
@@ -12,7 +12,7 @@ The end of 2015 saw 3.2 billion people connected to the internet. With rates con
 
 <!--more-->
 
-Last week, the [GSMA](http://www.gsma.com/) launched a new analytical tool call the [Mobile Connectivity Index](http://www.mobileconnectivityindex.com/) to measure the state of readiness of 134 countries with regards to providing citizens with mobile internet connectivity. The index is a composite indicator that incorporates analysis of four key enablers that bear on a country’s ability to support mobile internet adoption.
+Last week, the [GSMA](http://www.gsma.com/) launched a new analytical tool called the [Mobile Connectivity Index](http://www.mobileconnectivityindex.com/) to measure the state of readiness of 134 countries with regards to providing citizens with mobile internet connectivity. The index is a composite indicator that incorporates analysis of four key enablers that bear on a country’s ability to support mobile internet adoption.
 
 * **Infrastructure**—availability of reliable mobile internet network coverage
 
