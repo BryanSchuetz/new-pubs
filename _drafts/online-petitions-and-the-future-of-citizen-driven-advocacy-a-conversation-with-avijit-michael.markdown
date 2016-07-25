@@ -2,6 +2,11 @@
 title: 'Online Petitions and the Future of Citizen-driven Advocacy: A Conversation
   with Avijit Michael'
 date: 2016-07-25 11:39:00 -04:00
+tags:
+- Civil Society
+- ICT4D
+- India
+- Democracy
 ---
 
 For this week’s post, we interview Avijit Michael, the former Global Development Director for [Change.org](https://www.change.org/) who recently moved to [Jhatkaa.org](https://jhatkaa.org/), a tech non-profit that’s focused on digital advocacy in his home country of India. Avijit wears many hats -- software designer, artist, environmentalist, campaigner for progressive causes, and musician. After almost a decade in the world of digital activism, he gives us thoughts on the state of the field. 
