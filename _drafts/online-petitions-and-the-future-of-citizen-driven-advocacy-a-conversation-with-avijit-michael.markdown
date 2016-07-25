@@ -17,7 +17,7 @@ Meet Avijit Michael, the former Global Development Director for [Change.org](htt
 
 What Jhatkaa does isn’t really new, globally speaking, though in India there isn’t really anyone else doing this. It’s similar to [MoveOn.org](http://front.moveon.org/) or [SumofUs.Org](http://sumofus.org/)—we run rapid-response campaigns on progressive issues. The usual model involves looking at the media that is taking off and is in the public awareness. We then do a campaign strategy, figuring out the ‘winability’ of the campaign, and by identifying the decision-maker who could bring about change—someone in the government or in a corporation. We then do a quick analysis of how susceptible those people are to change, to public pressure, to brand pressure, etc. For example, in India, we’re running a campaign to [combat air pollution](https://jhatkaa.org/bangaloreisburning/). We’re looking to create a model in Bangalore and replicate that in other urban areas across the country. 
 
-![Avijit-8ec8bc.jpg](/uploads/Avijit-8ec8bc.jpg) 'Image courtesy: Avijit Michael'
+![Avijit-8ec8bc.jpg](/uploads/Avijit-8ec8bc.jpg) `Image courtesy: Avijit Michael`
 
 Usually, the kind of campaigns that we get into are the kind where can generate public pressure to make quick change without going into a deep-dive campaign. The way this is different from other advocacy organizations that have a digital side, say Greenpeace or Amnesty International, is that those organizations also spend a lot of time and effort in doing a lot of research the root causes of a problem and its various solutions. 
 
