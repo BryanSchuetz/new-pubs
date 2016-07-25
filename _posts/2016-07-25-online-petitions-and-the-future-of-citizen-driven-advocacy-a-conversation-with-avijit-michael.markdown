@@ -6,7 +6,7 @@ date: 2016-07-25 11:39:00 -04:00
 
 For this week’s post, we interview Avijit Michael, the former Global Development Director for [Change.org](https://www.change.org/) who recently moved to [Jhatkaa.org](https://jhatkaa.org/), a tech non-profit that’s focused on digital advocacy in his home country of India. Avijit wears many hats -- software designer, artist, environmentalist, campaigner for progressive causes, and musician. After almost a decade in the world of digital activism, he gives us thoughts on the state of the field. 
 
-**Tell us about Jhatkaa. What makes it different from other online petition tools? **
+**Tell us about Jhatkaa. What makes it different from other online petition tools?** 
 
 What Jhatkaa does isn’t really new, globally speaking, though in India there isn’t really anyone else doing this. It’s similar to [MoveOn.org](http://front.moveon.org/) or [SumofUs.Org](http://sumofus.org/) -- we run rapid-response campaigns on progressive issues. The usual model involves looking at the media for a moment that is taking off and is in the public awareness. We then do a campaign strategy, figuring out the ‘winability’ of the campaign, and by identifying the decision-maker who could bring about change -- someone in the government or in a corporation. We then do a quick analysis of how susceptible those people are to change, to public pressure, to brand pressure, etc. For example, in India, we’re running a campaign to [combat air pollution](https://jhatkaa.org/bangaloreisburning/). We’re looking to create a model in Bangalore and replicate that in other urban areas across the country. 
 
@@ -26,7 +26,7 @@ The other aspect is figuring out the gamification of change-making. What are the
 
 Here in India, we’re building out our ability to mobilize people on feature phones, say via IVR or using mobile polling to get a sense of the public sentiment around an issue. I’ve been closely following the work of [CGNet Swara](http://cgnetswara.org/) in India, who have created a purely voice-based forum discussion platform for feature phones. 
 
-**What business models that you have tried to sustain your work, and what models do you see succeeding in the future? **
+**What business models that you have tried to sustain your work, and what models do you see succeeding in the future?**
 
 There are really two models in the space. Jhatkaa is a traditional non-profit, so we run on donations. Change.org’s model was based on running sponsored campaigns for non-profits. So, while it was free for anyone to start a campaign, organizations could pay for Change.org to push a campaign out to targeted audiences on Change’s mailing list. But I do believe that there’s definitely a viable business model around using the customer relationship management (CRM) capabilities at the core of these platforms as a software-as-a-service. 
 
