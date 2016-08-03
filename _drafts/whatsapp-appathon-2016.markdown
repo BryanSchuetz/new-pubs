@@ -7,7 +7,7 @@ date: 2016-08-03 14:42:00 -04:00
 
 \*This week, we begin with one of the most popular -- \*Whatsapp.
 
-<--More
+<!--more-->
 
 **Key Functionalities**: Send and receive encrypted messages through mobile web (including low bandwidth environments), create group chats (max 256 members) and a contact list, broadcast messages out to contacts who have your number saved in their contacts list, send video, photos and audio messages, make voice calls
 
