@@ -15,7 +15,7 @@ date: 2016-08-03 14:42:00 -04:00
 
 \*\*Cons: \*\*Relatively small group and broadcast list limits; lacks richer ‘profile’ or ‘public feed’ capabilities of some of the other messaging apps we tested; no public API to build services or platforms on top of
 
-**Commentary**
+# **Commentary**
 
 **Anand**
 
