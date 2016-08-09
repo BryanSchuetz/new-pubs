@@ -11,7 +11,7 @@ Author: John DeRiggi
 
 [![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
-Budget data can be difficult to work with. The volume of data can be high, and the structures are almost always multi-layered, which makes it difficult to visualize all at once. But at DAI we love data visualization and we are working with with advanced interactive visualization tools to help us explore all our data.
+Budget data is difficult to analyze. The volume of data can be high, and the structures are almost always multi-layered, which makes it difficult to visualize all at once. But at DAI we love data visualization and we are working with with advanced interactive visualization tools to help us explore all our data.
 <!--more-->
 In this example, we use a public data set from USAID'S 2017 budget request and visualize it in a sunburst:
 
@@ -24,3 +24,5 @@ Sunbursts are a great way to see hierarchical data all at once and with a little
 
 [D3](https://d3js.org/)
 
+This budget data came from the PDF files on [USAID's website](https://www.usaid.gov/results-and-data/budget-spending). Specifically this is Table 13: Global Health Initiative - FY 2017 Request on page 42 of the [Congressional Budget Justification for Foreign Assistance for FY2017](http://www.state.gov/documents/organization/252735.pdf)
+ 
