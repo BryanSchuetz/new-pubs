@@ -17,6 +17,8 @@ In this example, we take a budget dataset and visualize it in a sunburst:
 
 [A Sunburst visualization for the Global Health Initiative's 2017 Budget Request ](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
+![animated sunburst](/uploads/sunburstgiffy.gif)
+
 Sunbursts are a great way to see hierarchical data all at once and with a little JavaScript we can make them interactive too. Thanks to D3 this is all easier (and free).
 
 [D3](https://d3js.org/)
