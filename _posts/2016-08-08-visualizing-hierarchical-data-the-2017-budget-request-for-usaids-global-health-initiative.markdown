@@ -25,6 +25,6 @@ This budget data came from the PDF files on [USAID's website](https://www.usaid.
 
 Compare the interactive visualization with that of the table spread across four pages in a PDF
 ![ghi budget](/uploads/two_page_budget.PNG.jpg)
-``` Two pages from the Global Health Initiative Budget Justification```
+``` Two pages from the 2017 Global Health Initiative Budget Justification```
  
 
