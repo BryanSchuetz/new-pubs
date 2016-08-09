@@ -30,7 +30,4 @@ Compare the interactive visualization with the table spread across four pages in
 
 ``` One of four pages from the USAID 2017 Global Health Initiative Budget Justification```
  
-Other common methods for hierarchical data visualizations are [dendrograms](http://dai-global-digital.com/data-mining-and-the-human-development-index.html) and treemaps.
-
- 
-
+Other common methods for hierarchical data visualizations are [dendrograms](http://dai-global-digital.com/data-mining-and-the-human-development-index.html) and treemaps. Let's hope that visualizations like these can help with transparency and efficiency.    
