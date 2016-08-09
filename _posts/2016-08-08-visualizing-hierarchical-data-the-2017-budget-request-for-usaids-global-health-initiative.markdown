@@ -11,9 +11,9 @@ Author: John DeRiggi
 
 [![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
-Budget data can be difficult to work with. The volume of data can be high, and the structures are almost always multi-layered, which makes it difficult to visualize on one page. But here at DAI we love data visualization and we are working with with advanced interactive visualization tools to help us see patterns in our data.
+Budget data can be difficult to work with. The volume of data can be high, and the structures are almost always multi-layered, which makes it difficult to visualize all at once. But at DAI we love data visualization and we are working with with advanced interactive visualization tools to help us explore all our data.
 <!--more-->
-In this example, we take a budget data set and visualize it in a sunburst:
+In this example, we use a public data set from USAID'S 2017 budget request and visualize it in a sunburst:
 
 
 [A Sunburst visualization for the Global Health Initiative's 2017 Budget Request ](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
