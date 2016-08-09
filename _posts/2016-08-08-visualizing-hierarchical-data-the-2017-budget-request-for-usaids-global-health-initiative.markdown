@@ -9,7 +9,7 @@ tags:
 Author: John DeRiggi
 ---
 
-![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)
+[![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
 Budget data can be difficult (and boring) to work with. Often, there are many data points and the structures are nearly always multi-layered which makes them difficult to visualize all at once in an intuitive way. But here at DAI we love data visualization and we are working with with advanced interactive data visualization tools to help us see patterns in our data.
 
