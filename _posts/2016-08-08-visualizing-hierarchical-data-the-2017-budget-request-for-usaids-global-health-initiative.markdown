@@ -15,14 +15,12 @@ Budget data is difficult to analyze. The volume of data can be high, and the str
 <!--more-->
 In this example, we use a public data set from USAID'S 2017 budget request and visualize it in a sunburst:
 
-
 [A Sunburst visualization for the Global Health Initiative's 2017 Budget Request ](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
 [![animated sunburst](/uploads/sunburstgiffy.gif)](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
-Sunbursts are a great way to see hierarchical data all at once and with a little JavaScript we can make them interactive too. Thanks to D3 this is all easier (and free).
-
-[D3](https://d3js.org/)
+Sunbursts are a great way to see hierarchical data all at once and with a little JavaScript we can make them interactive too. Thanks to [D3](https://d3js.org/) this is all easier (and free).
 
 This budget data came from the PDF files on [USAID's website](https://www.usaid.gov/results-and-data/budget-spending). Specifically this is Table 13: Global Health Initiative - FY 2017 Request on page 42 of the [Congressional Budget Justification for Foreign Assistance for FY2017](http://www.state.gov/documents/organization/252735.pdf)
  
+
