@@ -30,6 +30,6 @@ Compare the interactive visualization with this table spread across four pages i
 
 `One of four pages from the USAID 2017 Global Health Initiative Budget Justification`
 
-Other common methods for hierarchical data visualizations are dendograms and treemaps. You can read our previous post on dendograms [here] (http://dai-global-digital.com/data-mining-and-the-human-development-index.html). 
+Other common methods for hierarchical data visualizations are dendograms and treemaps. You can read our previous post on dendograms [[here](http://dai-global-digital.com/data-mining-and-the-human-development-index.html)]. 
 
 Data, especially large and hierarchical data sets, are notoriously difficult to understand, and often elicit either a disengaged or overly detailed reaction. Let’s hope that visualizations like these can help improve our understanding of complex data, and in turn, increase transparency and efficiency.
