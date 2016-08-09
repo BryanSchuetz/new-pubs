@@ -3,6 +3,9 @@ title: 'Visualizing Hierarchical Data: the 2017 Budget Request for USAID''s Glob
   Health Initiative'
 date: 2016-08-08 22:18:00 -04:00
 published: false
+tags:
+- Data Visualization
+- Global Health
 ---
 
 [Capture.PNG](/uploads/Capture.PNG)
