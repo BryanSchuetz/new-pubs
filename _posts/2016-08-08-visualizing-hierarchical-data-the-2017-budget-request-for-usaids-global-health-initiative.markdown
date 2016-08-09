@@ -15,7 +15,7 @@ Budget data is notoriously difficult to analyze. The volume of data can be high,
 <!--more-->
 In this example, we use a public data set from USAID'S 2017 budget request and visualize it in a sunburst:
 
-[A Sunburst visualization for the Global Health Initiative's 2017 Budget Request ](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
+[A sunburst visualization for the Global Health Initiative's 2017 Budget Request ](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
 ![animated sunburst](/uploads/sunburstgiffy.gif)
 
