@@ -11,7 +11,7 @@ Author: John DeRiggi
 
 [![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
-Budget data is difficult to analyze. The volume of data can be high, and the structures are almost always multi-layered, which makes it difficult to visualize all at once. At DAI we love data visualization and we are working with with advanced interactive visualization tools to help us explore all our data.
+Budget data is difficult to analyze. The volume of data can be high, and the structures are almost always multi-layered, which makes it difficult to visualize. At DAI we love data visualization and we are working with with advanced interactive visualization tools to help us explore all our data.
 <!--more-->
 In this example, we use a public data set from USAID'S 2017 budget request and visualize it in a sunburst:
 
