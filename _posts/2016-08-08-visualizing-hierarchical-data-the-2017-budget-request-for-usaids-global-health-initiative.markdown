@@ -21,6 +21,10 @@ In this example, we use a public data set from USAID'S 2017 budget request and v
 
 Sunbursts are a great way to see hierarchical data all at once and with a little JavaScript we can make them interactive too. Thanks to [D3](https://d3js.org/) this is all easier (and free).
 
-This budget data came from the PDF files on [USAID's website](https://www.usaid.gov/results-and-data/budget-spending). Specifically this is Table 13: Global Health Initiative - FY 2017 Request on page 42 of the [Congressional Budget Justification for Foreign Assistance for FY2017](http://www.state.gov/documents/organization/252735.pdf)
+This budget data came from the PDF files on [USAID's website](https://www.usaid.gov/results-and-data/budget-spending). Specifically this is Table 13: Global Health Initiative - FY 2017 Request on page 35 of the [Congressional Budget Justification for Foreign Assistance for FY2017](http://www.state.gov/documents/organization/252735.pdf)
+
+Compare the interactive visualization with that of the table spread across four pages in a PDF
+![ghi budget]/uploads/two_page_budget.PNG.jpg
+``` Two pages from the Global Health Initiative Budget Justification```
  
 
