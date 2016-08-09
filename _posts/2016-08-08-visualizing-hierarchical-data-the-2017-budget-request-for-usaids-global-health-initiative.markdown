@@ -1,6 +1,6 @@
 ---
-title: 'Visualizing Hierarchical Data: the 2017 Budget Justification for USAID’s Global
-  Health Initiative'
+title: 'Visualizing Hierarchical Data: the 2017 Budget Justification for USAID’s $8.5
+  Billion Global Health Initiative'
 date: 2016-08-08 22:18:00 -04:00
 published: false
 tags:
