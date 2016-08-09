@@ -10,8 +10,11 @@ tags:
 
 ![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)
 
-Visualizing budget data is traditionally pretty difficult. It is often high volume, multi-layered data which makes it hard to see all at once. But here at DAI we love data visualization and we are using D3 to help us with advanced interactive data visualizations.
+Visualizing budget data is traditionally pretty difficult. Often, there are many data points and budgets are nearly always multi-layered which makes them difficult to render all at once in an intuitive way. But here at DAI we love data visualization and we are using working with with advanced interactive data visualizations to make sense of all our data.
 
-Sunbursts are a great way to see hierarchical data all at once and with a little JavaScript we can make them interactive too
+Here we use the sunburst to look at the 2017 Global Health Initiative Data
 
+Sunbursts are a great way to see hierarchical data all at once and with a little JavaScript we can make them interactive too. Thanks to D3 this is all easier (and free).
+
+[D3](https://d3js.org/)
 
