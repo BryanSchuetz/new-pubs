@@ -13,7 +13,7 @@ Author: John DeRiggi
 
 Budget data is notoriously difficult to analyze. The volume of data can be high, the long tables are unwieldy, and the structures are almost always multi-layered, which makes it difficult to visualize. But with some of the advanced interactive visualization tools we use at DAI to help us do complex visualizations, we can analyze and present even complex data more clearly.
 <!--more-->
-In this example, we use a public data set from USAID'S 2017 budget request and visualize it in a sunburst:
+In this example, we use a public data set from USAID'S 2017 budget request and we visualize it in a sunburst:
 
 [A sunburst visualization for the Global Health Initiative's 2017 Budget Request ](https://s3.amazonaws.com/daiblogviz/usaidghi/sunburst.html)
 
