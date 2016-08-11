@@ -1,7 +1,6 @@
 ---
 title: 'Visualizing Hierarchical Data: USAID’s $8.5 Billion Global Health Initiative'
 date: 2016-08-08 22:18:00 -04:00
-published: false
 tags:
 - Data Visualization
 - Global Health
