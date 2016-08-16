@@ -7,7 +7,7 @@ tags:
 Author: Max Baiden
 ---
 
-*Guest post by Max Baiden, Project Manager in DAI’s UK office*
+*Guest post by Max Baiden, Project Manager on the Climate & Environment, Infrastructure and Livelihood's Professional Evidence Applied Knowledge Services Framework in DAI’s UK office*
 
 Before my time at DAI, I spent several months in India, working for a local nongovernmental organization on multidimensional poverty reduction projects. One of the projects had me walking through a tsunami-affected village on the southeastern coast of India. To witness first-hand how damaging hydrometerological events can be really galvanized my desire to work in the sector. I talked to local fisherman about how their boats were destroyed and how they had to leave their village behind in the impending wake of the storm. They despaired at the lack of early warning information to help them prepare for and understand the effects of such a traumatic disaster.
 
