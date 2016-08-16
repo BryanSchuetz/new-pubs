@@ -10,7 +10,7 @@ Author: Adam Fivenson
 
 The annual [Personal Democracy Forum](http://go.personaldemocracy.com/) (PDF) might best be described as "civic tech prom." It's that once-a-year time when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they're using new technologies for public good. What qualifies as civic tech in this crowd? If you're starting discourse about important public issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, you would fit right in at PDF.
 
-<--more!-->
+<!--more-->
 
 While DAI does little work in the purely political sphere--this is [NDI](https://www.ndi.org/) and [IRI's](http://www.iri.org/) wheelhouse--we have a number of active projects that work with local governments to improve their ability to manage funds and engage with civil society, as well as increasing civil society's capacity to hold government accountable. E.g., [Nexos Locales](http://dai.com/our-work/projects/guatemala%E2%80%94nexos-locales) in Guatemala and [ENGAGE](http://dai.com/our-work/projects/philippines%E2%80%94enhancing-governance-accountability-and-engagement-engage) in the Philippines. 
 
