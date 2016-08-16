@@ -4,7 +4,7 @@ date: 2016-08-16 09:59:00 -04:00
 published: false
 ---
 
-The annual Personal Democracy Forum (PDF) might best be described as "civic tech prom." It's the time, once-a-year--when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they're using new technologies for public good*. What qualifies as civic tech in this crowd? If you're starting discourse about important issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, PDF is the event for you.
+The annual [Personal Democracy Forum](http://go.personaldemocracy.com/) (PDF) might best be described as "civic tech prom." It's the time, once-a-year--when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they're using new technologies for public good. What qualifies as civic tech in this crowd? If you're starting discourse about important issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, PDF is the event for you.
 
 While DAI does little work in the political sphere--this is NDI and IRI's wheelhouse--we have a number of active projects that work with local governments to improve their ability to manage funds and engage with civil society. E.g., Nexos Locales in Guatemala and ENGAGE in the Philippines. 
 
