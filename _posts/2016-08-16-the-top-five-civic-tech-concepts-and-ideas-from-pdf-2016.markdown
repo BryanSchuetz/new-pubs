@@ -6,18 +6,20 @@ published: false
 
 The annual Personal Democracy Forum (PDF) might best be described as "civic tech prom." It's the time, once-a-year--when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they're using new technologies for public good*. What qualifies as civic tech in this crowd? If you're starting discourse about important issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, PDF is the event for you.
 
-While DAI does little work in the political sphere--this is NDI and IRI's wheelhouse--we have a number of active projects that work with local governments to improve their ability to manage funds and engage with civil society, e.g., Nexos Locales in Guatemala and ENGAGE in the Philippines. It was your humble correspondent's task to filter out the ideas that could be most applicable to the civic work that DAI does around the world. With no further adieu, the top 5 civic ideas and concepts from PDF 2016:
+While DAI does little work in the political sphere--this is NDI and IRI's wheelhouse--we have a number of active projects that work with local governments to improve their ability to manage funds and engage with civil society. E.g., Nexos Locales in Guatemala and ENGAGE in the Philippines. 
+
+It was your humble correspondent's task at PDF 2016 to seek out the ideas that could be most applicable to the civic work that DAI does around the world. So, with no further adieu, the top 5 civic tech concepts and ideas from PDF 2016:
 
 5. Civic tech is for both sides of the aisle
 https://www.youtube.com/watch?v=whgHBpF0i6A
 
 Republican pollster Kristen Solits Anderson makes the point that, contrary to popular belief, data-driven government isn't just for liberals. Conservatives who criticize "big" government as wasteful shouldn't just advocate dynamiting the bureaucracy; they should be advocating for more government accountability ,and the raft of technologies that are available in support of that goal. In the private sector, accountability comes in the form of the choices we make every day: if Uber isn't working, we can use Lyft; we can use Yelp to figure out which restaurants are worth visiting, why don't we have anything like this for government? That's something that both liberals and conservatives can get behind.
 
-3. Do you know a woman who should run for public office?
+4. Do you know a woman who should run for public office?
 https://voterunlead.org/
 Erin Vilardi runs VoteRunLead, which drafts women to run for public office. VoteRunLead also offers leadership training for women, features profiles (https://voterunlead.org/go-lead/how-i-lead/) of women who are leaders in local government, all under the premise that a government which better reflects its constituents will better represent them.
 
-4. Civic tech has a champion in the Middle East
+3. Civic tech has a champion in the Middle East
 https://personaldemocracy.com/esraa-al-shafei
 Esraa al-Shafei's first instruction was "please, no photos." Apparently being a blogger and civic activist hasn't endeared her to the authorities in her native Bahrain. But al-Shafei is also the founder of a whole raft of cool civic oriented tech start-ups. Mideast Tunes (https://mideastunes.com/) is a "platform for underground musicians in the Middle East and North Africa who use music as a tool for social change." As of August 2016, it includes music from more than 9,000 tracks from 1,700 artists, and is available online for free. Al-Shafei has also been a primary driver behind Ahwaa (https://ahwaa.org/), which is likely the only "open space to debate LGBTQ-related issues in the Middle East." The system features tiered permissions to allow the community vetting of new members and prevent infiltration and co-option by anti-LGBTQ groups. al-Shafei's other initiatives are Majal (https://majal.org/), CrowdVoice (http://crowdvoice.org/) and MigrantRights.org (https://www.migrant-rights.org/).
 
