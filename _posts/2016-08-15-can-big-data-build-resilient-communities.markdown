@@ -6,7 +6,6 @@ tags:
 - Health
 - Big data
 Author: Max Baiden
-Field name: 
 ---
 
 *Guest post by Max Baiden, Project Manager on the Climate & Environment, Infrastructure and Livelihood's Professional Evidence Applied Knowledge Services Framework in DAI’s UK office*
