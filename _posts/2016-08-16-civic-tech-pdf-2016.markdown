@@ -18,7 +18,7 @@ While DAI does little work in the purely political sphere—this is [NDI’s](ht
 
 I attended PDF 2016 this past June in New York City, seeking to spotlight the work could be most applicable to DAI’s work in local governance and civic engagement around the world. So, with no further adieu, my guide to the top 5 civic tech concepts and ideas from PDF 2016:
 
-## #5 [Civic tech is for both sides of the aisle](https://www.youtube.com/watch?v=whgHBpF0i6A)*
+## #5 [Civic tech is for both sides of the aisle](https://www.youtube.com/watch?v=whgHBpF0i6A)
 
 Republican pollster Kristen Solits Anderson makes the point that, contrary to popular belief, data-driven government isn’t just for liberals. Conservatives who criticize “big” government as wasteful shouldn’t just advocate dynamiting the bureaucracy; they should be advocating for more government accountability, and the raft of technologies that are available in support of that goal. In the private sector, accountability comes in the form of the choices we make every day: if Uber isn’t working, we can use Lyft. We can use Yelp to figure out which restaurants are worth visiting, why don’t we have anything like this for government? That’s something that both liberals and conservatives can get behind.
 
