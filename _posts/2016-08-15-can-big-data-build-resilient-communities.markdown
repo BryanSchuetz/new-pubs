@@ -1,7 +1,6 @@
 ---
 title: Can Big Data Build Resilient Communities?
 date: 2016-08-15 12:03:00 -04:00
-published: false
 tags:
 - Health
 - Big data
