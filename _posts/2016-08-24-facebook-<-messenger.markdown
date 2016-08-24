@@ -18,7 +18,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ![twoferns.gif](/uploads/twoferns.gif)
 
-**John:** Adam are you OK? Anyway. The GIF search is too much fun to ignore.
+**John:** Haha! The GIF search is too much fun to ignore.
 
 **John:** So uh, did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
 
