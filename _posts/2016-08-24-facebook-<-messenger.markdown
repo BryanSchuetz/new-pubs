@@ -26,7 +26,9 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
-**Adam:** Yeah, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8
+**Adam:** Yeah, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. 
+
+**Adam:** http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8
 
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
