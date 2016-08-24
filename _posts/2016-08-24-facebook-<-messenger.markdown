@@ -64,7 +64,7 @@ https://media.giphy.com/media/PUT90CnYu6AqQ/giphy.gif
 
 **John:** Oh, you mean auto-response text menus straight out of 1994?
 
-**Adam:** [GIF of EXACTLY]
+**Adam:** ![ezgif-1422871348.gif](/uploads/ezgif-1422871348.gif)
 
 **John:** You can reserve a flight on KLM through Messenger and hail a Lyft, among other things. 
 
