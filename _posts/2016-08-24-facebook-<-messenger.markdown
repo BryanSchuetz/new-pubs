@@ -44,13 +44,15 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** http://fortune.com/2016/04/07/facebook-sharing-decline/
 
-**Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… \[Link showing Snapchat users 2016\]
+**Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… 
+
+**Adam:** http://www.bloomberg.com/news/articles/2016-06-02/snapchat-passes-twitter-in-daily-usage
 
 **Adam:** So they just hauled off and *made* their own.
 
 **John:** And it’s no coincidence that young people are sharing less and less on their Facebook walls.
 
-**John:** Apparently our generation’s social media faux pas have been noted, and duly so. \[Link to article about this, if we can find one\]
+**John:** Apparently our generation’s social media faux pas have been noted, and duly so.
 
 **Adam:** Which mistakes?
 
@@ -106,7 +108,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** Little-known fact: I’m two points up on you in Messenger basketball.
 
-**John:**  \[Ball icon\]
+**John:**  [basketball.PNG](/uploads/basketball.PNG)
 
 \[Screen turns into basketball game and starts shooting\]
 
