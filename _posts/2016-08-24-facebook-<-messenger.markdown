@@ -16,3 +16,13 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app--now they’re two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly
 
+**Adam:** First of all, let me start off by saying:
+
+John: Love it. The GIF search is too much fun to ignore. 
+John: So ah, did you know that you and me share one crazy trait with a billion other people?
+
+<div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
+
+https://www.theatlas.com/charts/S1pISLTD [import as image]
+
+
