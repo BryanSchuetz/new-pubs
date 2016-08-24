@@ -108,7 +108,9 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** Little-known fact: I’m two points up on you in Messenger basketball.
 
-**John:** ![basketball.PNG](/uploads/basketball.PNG)
+**John:** 
+
+![basketball.PNG](/uploads/basketball.PNG)
 
 ***
 
