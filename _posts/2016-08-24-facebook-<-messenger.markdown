@@ -71,9 +71,11 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 John: And maybe more importantly, what we’re not saying. 
 **John:** Instead of doing this:
 
+![Screenshot_20160824-120640.png](/uploads/Screenshot_20160824-120640.png)
 
+**Adam:** Totally. Natural language processing still leaves a lot to be desired.
 
-**Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities. 
+**Adam** From an international development standpoint, chatbots do present some big opportunities. 
 **Adam:** Namely, in low bandwidth environments, chatbots have the potential to do what websites currently do so well: 
 **Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product. 
 **Adam:** This is very exciting from a business standpoint: http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633 
