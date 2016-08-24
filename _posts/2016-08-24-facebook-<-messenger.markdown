@@ -8,7 +8,6 @@ As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/
 
 <!-- more -->
 
-![twoferns.gif](/uploads/twoferns.gif)
 
 Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.
 
@@ -18,8 +17,11 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** First of all, let me start off by saying:
 
-John: Love it. The GIF search is too much fun to ignore. 
-John: So ah, did you know that you and me share one crazy trait with a billion other people? This chart is from 2016:
+![twoferns.gif](/uploads/twoferns.gif)
+
+**John:** Adam are you ok? Anyway. The GIF search is too much fun to ignore. 
+
+**John:** So ah, did you know that you and me share one crazy trait with a billion other people? This chart is from 2016:
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
