@@ -37,13 +37,17 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 **Adam:** Beyond the text/voice/video messaging and live calling, which are now pretty much standard with all of these apps, what’s different about Messenger?
 
 **John:** The secret games and GIF search are top notch.
+
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps.
+
 **John:** http://fortune.com/2016/04/07/facebook-sharing-decline/
 
 **Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… \[Link showing Snapchat users 2016\]
+
 **Adam:** So they just hauled off and *made* their own.
 
 **John:** And it’s no coincidence that young people are sharing less and less on their Facebook walls.
+
 **John:** Apparently our generation’s social media faux pas have been noted, and duly so. \[Link to article about this, if we can find one\]
 
 **Adam:** Which mistakes?
