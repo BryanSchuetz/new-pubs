@@ -2,7 +2,6 @@
 title: 'Appathon 2016: Facebook  Messenger for Development'
 date: 2016-08-24 10:14:00 -04:00
 published: false
-Author: Krista Baptista
 Field name: 
 ---
 
@@ -64,15 +63,15 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** ![ezgif-1422871348.gif](/uploads/ezgif-1422871348.gif)
 
-**John:** You can reserve a flight on KLM through Messenger and hail a Lyft, among other things. 
+**John:** Chatbots can help you do some cool stuff. You can reserve a flight on KLM through Messenger and hail a Lyft, among other things. 
 
+**Adam:** Yeah, and CNN has a chatbot that sends you the top headlines every day, and provides a pre-selected set of responses to deepen the interaction. It’s pretty good, but I’d still rather just go to CNN.com.
 
-**Adam:** Yeah, CNN has a chatbot that sends you the top headlines every day, and provides a pre-selected set of responses to deepen the interaction. It’s pretty good, but I’d rather just go to CNN.com at this stage. 
-
-**John:** Right, I suppose we’ll know that we’ve crossed the Rubicon with chatbots when they can actually understand what we’re saying. 
+**John:** Right, I suppose we’ll know that we’ve crossed the Chatbot Rubicon when they can actually understand what we’re saying. 
 John: And maybe more importantly, what we’re not saying. 
-**John:** Instead of doing this: 
-**John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo 
+**John:** Instead of doing this:
+
+
 
 **Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities. 
 **Adam:** Namely, in low bandwidth environments, chatbots have the potential to do what websites currently do so well: 
