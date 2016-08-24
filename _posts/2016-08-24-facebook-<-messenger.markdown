@@ -110,7 +110,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:**  [basketball.PNG](/uploads/basketball.PNG)
 
-\[Screen turns into basketball game and starts shooting\]
+***
 
 **CLOSING COMMENTS**
 
