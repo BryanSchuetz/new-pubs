@@ -2,6 +2,8 @@
 title: 'Appathon 2016: Facebook  Messenger for Development'
 date: 2016-08-24 10:14:00 -04:00
 published: false
+Author: Krista Baptista
+Field name: 
 ---
 
 As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) work over the last few months, we’ve had the opportunity to talk with people around the Middle East, Latin America, Asia, and Africa about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app. 
@@ -18,7 +20,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ![twoferns.gif](/uploads/twoferns.gif)
 
-**John:** Adam are you ok? Anyway. The GIF search is too much fun to ignore. 
+**John:** The GIF search is too much fun to ignore. 
 
 **John:** So ah, did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
 
@@ -31,8 +33,6 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 **Adam:** So the app is popular, we know that. What about the features?
  
 **Adam:** Beyond the text/voice/video messaging and live calling, which are now pretty much standard with all of these apps, what’s different about Messenger?
-
-![messenger](/uploads/messenger%20(2).png)
 
 **John:** The secret games and GIF search are top notch. 
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps. 
@@ -55,9 +55,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 **John:** And did you know that you don’t even need a Facebook account to use Messenger. 
 **John:** BUT I THOUGHT FACEBOOK WAS THE CENTER OF THE UNIVERSE, WHAT IS HAPPENING!? 
 
-[ Login images] 
-
-https://media.giphy.com/media/PUT90CnYu6AqQ/giphy.gif
+![messenger](/uploads/messenger%20(2).png)
 
 **Adam:** It’s like the original Facebook is now fully regressing into MySpace status.
 **Adam:** Still, one area where Facebook is leading is in the introduction of chatbots. 
