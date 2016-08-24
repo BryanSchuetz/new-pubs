@@ -30,13 +30,11 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
-**Adam:** Hard to say, but they’re definitely not living life to the fullest.
+**Adam:** Hard to say, but one thing we can say is that they're just not living. 
 
 **Adam:** So the app is popular, we know that. What about the features?
 
 **Adam:** Beyond the text/voice/video messaging and live calling, which are now pretty much standard with all of these apps, what’s different about Messenger?
-
-![messenger](/uploads/messenger%20(2).png)
 
 **John:** The secret games and GIF search are top notch.
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps.
@@ -59,11 +57,10 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 **John:** And did you know that you don’t even need a Facebook account to use Messenger.
 **John:** BUT I THOUGHT FACEBOOK WAS THE CENTER OF THE UNIVERSE, WHAT IS HAPPENING!?
 
-\[ Login images\]
+![messenger](/uploads/messenger%20(2).png)
 
-https://media.giphy.com/media/PUT90CnYu6AqQ/giphy.gif
+**Adam:** It’s like the original Facebook is now regressing into MySpace status.
 
-**Adam:** It’s like the original Facebook is now fully regressing into MySpace status.
 **Adam:** Still, one area where Facebook is leading is in the introduction of chatbots.
 
 **John:** Oh, you mean auto-response text menus straight out of 1994?
@@ -76,15 +73,21 @@ https://media.giphy.com/media/PUT90CnYu6AqQ/giphy.gif
 
 **John:** Right, I suppose we’ll know that we’ve crossed the Rubicon with chatbots when they can actually understand what we’re saying.
 John: And maybe more importantly, what we’re not saying.
+
 **John:** Instead of doing this:
+
 **John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo
 
 **Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities.
+
 **Adam:** Namely, in low-bandwidth environments, chatbots have the potential to do what websites currently do so well:
+
 **Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product.
+
 **Adam:** This is very exciting from a business standpoint: http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
 
 **John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now.
+
 **John:** Zuckerberg sees this as a natural progression of online shopping that will hit the United States because it already has a proven design.
 
 **Adam:** It will be interesting see if that happens.
@@ -96,5 +99,7 @@ John: And maybe more importantly, what we’re not saying.
 **John:**  \[Ball icon\]
 
 \[Screen turns into basketball game and starts shooting\]
+
+**CLOSING COMMENTS**
 
 *Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
