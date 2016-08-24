@@ -35,7 +35,16 @@ Adam: Yeah, but did they have a choice? Facebook rolled out Messenger like a hos
 
 **John:** The secret games and GIF search are top notch. 
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps. 
-**John:** http://fortune.com/2016/04/07/facebook-sharing-decline/ 
+**John:** http://fortune.com/2016/04/07/facebook-sharing-decline/
+
+**Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… [Link showing Snapchat users 2016]
+**Adam:** So they just hauled off and made their own.
+
+**John:** And it’s no coincidence that young people are sharing less and less on their Facebook walls. 
+**John:** Apparently our generation’s social media faux pas have been noted, and duly so. [Link to article about this, if we can find one] 
+
+**Adam: **Which mistakes?
+ 
 
 
 
