@@ -10,3 +10,4 @@ As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/
 
 ![twoferns.gif](/uploads/twoferns.gif)
 
+Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.
