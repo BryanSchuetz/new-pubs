@@ -48,13 +48,14 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** Which mistakes?
 
-\[ Pulling on collar GIF\]
+![200w_d.gif](/uploads/200w_d.gif)
 
 **Adam:** Just don’t Google “pants” “fire” and “cheese” together. Please.
 
 **Adam:** But seriously folks, it’s noteworthy that Facebook is following the trend here, not setting it.
 
 **John:** And did you know that you don’t even need a Facebook account to use Messenger.
+
 **John:** BUT I THOUGHT FACEBOOK WAS THE CENTER OF THE UNIVERSE, WHAT IS HAPPENING!?
 
 ![messenger](/uploads/messenger%20(2).png)
@@ -65,14 +66,15 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Oh, you mean auto-response text menus straight out of 1994?
 
-**Adam:** \[GIF of EXACTLY\]
+**Adam:** ![ezgif-1422871348.gif](/uploads/ezgif-1422871348.gif)
 
 **John:** You can reserve a flight on KLM through Messenger and hail a Lyft, among other things.
 
 **Adam:** Yeah, CNN has a chatbot that sends you the top headlines every day, and provides a pre-selected set of responses to deepen the interaction. It’s pretty good, but I’d rather just go to CNN.com at this stage.
 
 **John:** Right, I suppose we’ll know that we’ve crossed the Rubicon with chatbots when they can actually understand what we’re saying.
-John: And maybe more importantly, what we’re not saying.
+
+**John:** And maybe more importantly, what we’re not saying.
 
 **John:** Instead of doing this:
 
@@ -84,7 +86,7 @@ John: And maybe more importantly, what we’re not saying.
 
 **Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product.
 
-**Adam:** This is very exciting from a business standpoint: http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
+**Adam:** This is very exciting from a business standpoint: **Adam:** http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
 
 **John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now.
 
