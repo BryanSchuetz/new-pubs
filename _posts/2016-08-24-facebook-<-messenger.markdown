@@ -14,6 +14,8 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly?
 
+***
+
 **Adam:** First of all, let me start off by saying:
 
 ![twoferns.gif](/uploads/twoferns.gif)
