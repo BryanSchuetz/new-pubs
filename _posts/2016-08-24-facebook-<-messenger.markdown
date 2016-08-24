@@ -52,48 +52,48 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
  
 [ Pulling on collar GIF]
 
-Adam: Just don’t Google “pants” “fire” and “cheese” together. Please. 
+**Adam:** Just don’t Google “pants” “fire” and “cheese” together. Please. 
 
-Adam: But seriously folks, it’s noteworthy that Facebook is following the trend here, not setting it. 
+**Adam:** But seriously folks, it’s noteworthy that Facebook is following the trend here, not setting it. 
 
-John: And did you know that you don’t even need a Facebook account to use Messenger. 
-John: BUT I THOUGHT FACEBOOK WAS THE CENTER OF THE UNIVERSE, WHAT IS HAPPENING!? 
+**John:** And did you know that you don’t even need a Facebook account to use Messenger. 
+**John:** BUT I THOUGHT FACEBOOK WAS THE CENTER OF THE UNIVERSE, WHAT IS HAPPENING!? 
 
 [ Login images] 
 
 https://media.giphy.com/media/PUT90CnYu6AqQ/giphy.gif
 
-Adam: It’s like the original Facebook is now fully regressing into MySpace status.
-Adam: Still, one area where Facebook is leading is in the introduction of chatbots. 
+**Adam:** It’s like the original Facebook is now fully regressing into MySpace status.
+**Adam:** Still, one area where Facebook is leading is in the introduction of chatbots. 
 
-John: Oh, you mean auto-response text menus straight out of 1994?
+**John:** Oh, you mean auto-response text menus straight out of 1994?
 
-Adam: [GIF of EXACTLY]
+**Adam:** [GIF of EXACTLY]
 
-John: You can reserve a flight on KLM through Messenger and hail a Lyft, among other things. 
+**John:** You can reserve a flight on KLM through Messenger and hail a Lyft, among other things. 
 
 
-Adam: Yeah, CNN has a chatbot that sends you the top headlines every day, and provides a pre-selected set of responses to deepen the interaction. It’s pretty good, but I’d rather just go to CNN.com at this stage. 
+**Adam:** Yeah, CNN has a chatbot that sends you the top headlines every day, and provides a pre-selected set of responses to deepen the interaction. It’s pretty good, but I’d rather just go to CNN.com at this stage. 
 
-John: Right, I suppose we’ll know that we’ve crossed the Rubicon with chatbots when they can actually understand what we’re saying. 
+**John:** Right, I suppose we’ll know that we’ve crossed the Rubicon with chatbots when they can actually understand what we’re saying. 
 John: And maybe more importantly, what we’re not saying. 
-John: Instead of doing this: 
-John: https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo 
+**John:** Instead of doing this: 
+**John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo 
 
-Adam: Totally. From an international development standpoint, chatbots do present some big opportunities. 
-Adam: Namely, in low bandwidth environments, chatbots have the potential to do what websites currently do so well: 
-Adam: Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product. 
-Adam: This is very exciting from a business standpoint: http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633 
+**Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities. 
+**Adam:** Namely, in low bandwidth environments, chatbots have the potential to do what websites currently do so well: 
+**Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product. 
+**Adam:** This is very exciting from a business standpoint: http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633 
 
-John: Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now. 
-John: Zuckerberg sees this as a natural progression of online shopping that will hit the U.S. because it already has a proven design. 
+**John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now. 
+**John:** Zuckerberg sees this as a natural progression of online shopping that will hit the U.S. because it already has a proven design. 
 
-Adam: It will be interesting see if that happens. 
+**Adam:** It will be interesting see if that happens. 
 
-John: Little known fact: China had huge public bike sharing systems before they started popping up in cities around the U.S.  
+**John:** Little known fact: China had huge public bike sharing systems before they started popping up in cities around the U.S.  
 
-Adam: Little known fact: I’m two points up on you in Messenger basketball.
+**Adam:** Little known fact: I’m two points up on you in Messenger basketball.
 
-John:  [Ball icon] 
+**John:**  [Ball icon] 
 
 [Screen turns into basketball game and starts shooting]
