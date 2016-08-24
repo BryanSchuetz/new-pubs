@@ -23,6 +23,5 @@ John: So ah, did you know that you and me share one crazy trait with a billion o
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
-https://www.theatlas.com/charts/S1pISLTD [import as image]
 
 
