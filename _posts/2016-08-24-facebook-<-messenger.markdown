@@ -4,7 +4,7 @@ date: 2016-08-24 10:14:00 -04:00
 published: false
 ---
 
-As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) work over the last few months, we’ve had the opportunity to talk with people around the Middle East, Latin America, Asia, and Africa about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
+As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “Appathon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 <!-- more -->
 
@@ -12,15 +12,15 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Pros:** Rides on the back of Facebook, which is used by more than a billion people, according to Facebook. Just like with WhatsApp, many phones come pre-loaded with Messenger. Features! GIF search adds flavor to conversations and the secret basketball and chess games are hidden gems. Payments open up major possibilities. Accessible via web browser.
 
-**Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app--now they’re two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly
+**Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly?
 
 **Adam:** First of all, let me start off by saying:
 
 ![twoferns.gif](/uploads/twoferns.gif)
 
-**John:** Adam are you ok? Anyway. The GIF search is too much fun to ignore.
+**John:** Adam are you OK? Anyway. The GIF search is too much fun to ignore.
 
-**John:** So ah, did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
+**John:** So uh, did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
@@ -78,18 +78,18 @@ John: And maybe more importantly, what we’re not saying.
 **John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo
 
 **Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities.
-**Adam:** Namely, in low bandwidth environments, chatbots have the potential to do what websites currently do so well:
+**Adam:** Namely, in low-bandwidth environments, chatbots have the potential to do what websites currently do so well:
 **Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product.
 **Adam:** This is very exciting from a business standpoint: http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
 
 **John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now.
-**John:** Zuckerberg sees this as a natural progression of online shopping that will hit the U.S. because it already has a proven design.
+**John:** Zuckerberg sees this as a natural progression of online shopping that will hit the United States because it already has a proven design.
 
 **Adam:** It will be interesting see if that happens.
 
-**John:** Little known fact: China had huge public bike sharing systems before they started popping up in cities around the U.S.
+**John:** Little-known fact: China had huge public bike-sharing systems before they started popping up in cities here.
 
-**Adam:** Little known fact: I’m two points up on you in Messenger basketball.
+**Adam:** Little-known fact: I’m two points up on you in Messenger basketball.
 
 **John:**  \[Ball icon\]
 
