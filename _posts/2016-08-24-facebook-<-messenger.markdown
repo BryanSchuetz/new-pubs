@@ -30,8 +30,10 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
 
-**Adam:** Hard to say, but they’re definitely not living life to the fullest. 
-**Adam:** So the app is popular, we know that. What about the features? 
+**Adam:** Hard to say, but they’re definitely not living life to the fullest.
+ 
+**Adam:** So the app is popular, we know that. What about the features?
+ 
 **Adam:** Beyond the text/voice/video messaging and live calling, which are now pretty much standard with all of these apps, what’s different about Messenger?
 
 **John:** The secret games and GIF search are top notch. 
