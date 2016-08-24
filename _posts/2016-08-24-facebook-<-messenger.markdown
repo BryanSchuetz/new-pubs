@@ -27,9 +27,6 @@ John: So ah, did you know that you and me share one crazy trait with a billion o
 
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
-**John:** Those other six billion people are so lame, you know?. 
-
-**John:** I mean what could they be possibly doing with all their time? 
 
 **Adam:** Hard to say, but they’re definitely not living life to the fullest. 
 **Adam:** So the app is popular, we know that. What about the features? 
