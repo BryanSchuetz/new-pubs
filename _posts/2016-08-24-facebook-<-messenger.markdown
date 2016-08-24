@@ -86,7 +86,9 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product.
 
-**Adam:** This is very exciting from a business standpoint: **Adam:** http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
+**Adam:** This is very exciting from a business standpoint: 
+
+**Adam:** http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
 
 **John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now.
 
