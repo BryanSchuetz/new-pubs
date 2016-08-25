@@ -132,4 +132,4 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 
 **Adam:** Little-known fact: I’m two points up on you in Messenger basketball.
 
-[Hidden Facebook games: How to find and play all of Facebook Messenger's secret games from basketball to chess] (http://www.digitalspy.com/tech/feature/a788495/hidden-facebook-games-how-to-find-play-facebook-messengers-secret-games-basketball-chess/)
+[Hidden Facebook games: How to find and play all of Facebook Messenger's secret games from basketball to chess](http://www.digitalspy.com/tech/feature/a788495/hidden-facebook-games-how-to-find-play-facebook-messengers-secret-games-basketball-chess/)
