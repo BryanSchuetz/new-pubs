@@ -16,13 +16,11 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ***
 
-**Adam:** First of all, let me start off by saying:
+**John:** Hey Adam
 
-![twoferns.gif](/uploads/twoferns.gif)
+**Adam:** What's up? 
 
-**John:** Haha! The GIF search is too much fun to ignore.
-
-**John:** So uh, did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
+**John:** Did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
