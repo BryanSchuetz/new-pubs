@@ -12,9 +12,9 @@ As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/
 
 <!-- more -->
 
-![download-facebook-messenger-apk-15002016-for-your-android-2.jpg](/uploads/download-facebook-messenger-apk-15002016-for-your-android-2.jpg)
-
 Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.
+
+![download-facebook-messenger-apk-15002016-for-your-android-2.jpg](/uploads/download-facebook-messenger-apk-15002016-for-your-android-2.jpg)
 
 **Pros:** Rides on the back of Facebook, which is used by more than a billion people, according to Facebook. Just like with WhatsApp, many phones come pre-loaded with Messenger. Features! GIF search adds flavor to conversations and the secret basketball and chess games are hidden gems. Payments open up major possibilities. Accessible via web browser.
 
