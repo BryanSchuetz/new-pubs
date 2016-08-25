@@ -25,13 +25,15 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ***
 
-Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even SMS. What we're less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people--and help them order products--there aren't yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to communicate and 
+Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even SMS. What we're less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people--and help them order products--there aren't yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care? 
+
 
 *Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
 
+
 ***
 
-*Full text for those unable to access YouTube*
+## Full text of video for those unable to access YouTube
 
 **John:** Hey Adam
 
