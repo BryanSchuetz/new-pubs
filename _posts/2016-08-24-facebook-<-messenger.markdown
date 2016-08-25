@@ -25,7 +25,7 @@ Author: Adam Fivenson & John DeRiggi
 ## Commentary
 *See YouTube video below.*
 
-*We recommend viewing in Fullscreen and HD quality.*
+*We recommend viewing in full screen and HD quality.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
