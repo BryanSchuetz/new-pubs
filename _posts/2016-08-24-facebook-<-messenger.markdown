@@ -90,7 +90,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Instead of doing this:
 
-**John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo
+[Four Months Into ‘Chatbot Revolution,’ Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo)
 
 **Adam:** Totally. 
 
