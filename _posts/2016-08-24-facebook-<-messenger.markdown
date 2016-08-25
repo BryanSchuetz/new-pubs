@@ -25,7 +25,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ***
 
-Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development implementers, it's more important than ever that 
+Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents big opportunities not only in community outreach and 
 
 *Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
 
