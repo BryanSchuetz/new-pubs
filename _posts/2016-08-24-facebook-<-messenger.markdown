@@ -22,7 +22,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ***
 
-## Reviewing the app
+## Commentary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
@@ -35,7 +35,7 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 
 ***
 
-## Full text of video for those unable to access YouTube
+## Full text of video 
 
 **John:** Hey Adam
 
