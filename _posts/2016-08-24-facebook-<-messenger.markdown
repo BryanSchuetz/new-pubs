@@ -22,6 +22,16 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
+***
+
+
+
+*Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
+
+***
+
+*Full text for those unable to access YouTube*
+
 **John:** Hey Adam
 
 **Adam:** What's up? 
@@ -88,8 +98,6 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** And maybe more importantly, what we’re not saying.
 
-**John:** Instead of doing this:
-
 [Four Months Into ‘Chatbot Revolution,’ Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo)
 
 **Adam:** Totally. 
@@ -116,12 +124,4 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** Little-known fact: I’m two points up on you in Messenger basketball.
 
-**John:** 
-
-![basketball.PNG](/uploads/basketball.PNG)
-
 ***
-
-**CLOSING COMMENTS**
-
-*Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
