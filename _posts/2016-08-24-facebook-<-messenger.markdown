@@ -23,8 +23,9 @@ Author: Adam Fivenson & John DeRiggi
 **Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly? 
 
 ## Commentary
-*See YouTube video below. 
-We recommend viewing in Fullscreen and HD quality.*
+*See YouTube video below.*
+
+*We recommend viewing in Fullscreen and HD quality.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
