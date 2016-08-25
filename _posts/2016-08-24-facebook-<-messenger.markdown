@@ -1,8 +1,7 @@
 ---
-title: 'Appathon 2016: Facebook  Messenger for Development'
+title: 'Appathon 2016: Facebook  Messenger'
 date: 2016-08-24 10:14:00 -04:00
 published: false
-Author: Adam Fivenson John Deriggi
 ---
 
 As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “Appathon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
@@ -17,6 +16,8 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ***
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
+
 **John:** Hey Adam
 
 **Adam:** What's up? 
@@ -25,13 +26,13 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
-**Adam:** Yeah, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. 
+**Adam:** Impressive, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. 
 
 **Adam:** http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8
 
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
-**Adam:** Hard to say, but one thing we can say is that they're just not living. 
+**Adam:** Agreed.
 
 **Adam:** So the app is popular, we know that. What about the features?
 
@@ -53,7 +54,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Apparently our generation’s social media faux pas have been noted, and duly so.
 
-**Adam:** Which mistakes?
+**Adam:** Which faux pas?
 
 ![200w_d.gif](/uploads/200w_d.gif)
 
@@ -87,13 +88,17 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo
 
-**Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities.
+**Adam:** Totally. 
+
+**Adam:** From an international development standpoint, chatbots do present some big opportunities.
 
 **Adam:** Namely, in low-bandwidth environments, chatbots have the potential to do what websites currently do so well:
 
-**Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product.
+**Adam:** Guide users through the process of inputting information to elicit a customized response.
 
-**Adam:** This is very exciting from a business standpoint: 
+**Adam:** Be that more information or placing and order for a product.
+
+**Adam:** This is very exciting from a business standpoint.
 
 **Adam:** http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
 
@@ -101,7 +106,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Zuckerberg sees this as a natural progression of online shopping that will hit the United States because it already has a proven design.
 
-**Adam:** It will be interesting see if that happens.
+**Adam:** It'll be interesting see if that happens.
 
 **John:** Little-known fact: China had huge public bike-sharing systems before they started popping up in cities here.
 
