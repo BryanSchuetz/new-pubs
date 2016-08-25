@@ -36,6 +36,7 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 ***
 
 ## Full text of video 
+*For those without access to YouTube*
 
 **John:** Hey Adam
 
