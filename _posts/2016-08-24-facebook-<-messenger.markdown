@@ -12,7 +12,7 @@ Author: Adam Fivenson & John DeRiggi
 
 <!-- more -->
 
-Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.
+*Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.*
 
 ![download-facebook-messenger-apk-15002016-for-your-android-2.jpg](/uploads/download-facebook-messenger-apk-15002016-for-your-android-2.jpg)
 
