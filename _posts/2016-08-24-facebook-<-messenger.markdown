@@ -16,9 +16,11 @@ Author: Adam Fivenson & John DeRiggi
 
 ![download-facebook-messenger-apk-15002016-for-your-android-2.jpg](/uploads/download-facebook-messenger-apk-15002016-for-your-android-2.jpg)
 
+**Key Functionalities:** Key Functionalities: Send and receive text, audio, video messages. Groups of up to 150. Audio and video calling. GIF search, mobile payments, emoji and stickers. Sources contact list and integrates directly with Facebook app.
+
 **Pros:** Rides on the back of Facebook, which is used by more than a billion people, according to Facebook. Just like with WhatsApp, many phones come pre-loaded with Messenger. Features! GIF search adds flavor to conversations and the secret basketball and chess games are hidden gems. Payments open up major possibilities. Accessible via web browser.
 
-**Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly?
+**Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly? 
 
 ## Commentary
 *See YouTube video below. We recommend viewing in Fullscreen and HD quality.*
