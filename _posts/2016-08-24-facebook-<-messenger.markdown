@@ -46,11 +46,11 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps.
 
-**John:** http://fortune.com/2016/04/07/facebook-sharing-decline/
+[Facebook Users Are Sharing Fewer Personal Updates and It’s a Big Problem](http://fortune.com/2016/04/07/facebook-sharing-decline/)
 
 **Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… 
 
-**Adam:** http://www.bloomberg.com/news/articles/2016-06-02/snapchat-passes-twitter-in-daily-usage
+[Snapchat Passes Twitter in Daily Usage](http://www.bloomberg.com/news/articles/2016-06-02/snapchat-passes-twitter-in-daily-usage)
 
 **Adam:** So they just hauled off and *made* their own.
 
