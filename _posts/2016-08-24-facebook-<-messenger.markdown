@@ -104,7 +104,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **Adam:** This is very exciting from a business standpoint.
 
-**Adam:** http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
+[Get Ready For The Chat Bot Revolution: They're Simple, Cheap And About To Be Everywhere](http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633)
 
 **John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now.
 
