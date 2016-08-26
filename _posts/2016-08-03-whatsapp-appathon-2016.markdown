@@ -1,5 +1,5 @@
 ---
-title: 'WhatsApp for Development: the Launch of Appathon 2016'
+title: 'WhatsApp for Development: the Launch of App-a-Thon 2016'
 date: 2016-08-03 14:42:00 -04:00
 tags:
 - Appathon 2016
