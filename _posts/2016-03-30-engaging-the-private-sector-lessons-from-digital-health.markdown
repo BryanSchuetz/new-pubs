@@ -1,10 +1,9 @@
 ---
 title: 'Engaging the Private Sector: Lessons from Digital Health'
-date: 2016-03-30 05:27:00 Z
+date: 2016-03-30 01:27:00 -04:00
 tags:
-- Public Health
-- Public Private Partnerships
 - Kenya
+- Health
 Author: Anand Varghese
 ---
 
