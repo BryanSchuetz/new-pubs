@@ -2,9 +2,7 @@
 title: Machine Learning Will Help Development Projects Achieve Scale
 date: 2016-07-12 15:06:00 -04:00
 tags:
-- Artificial Intelligence
-- Machine Learining
-- ML4D
+- Think Piece
 Author: John DeRiggi
 ---
 
