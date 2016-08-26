@@ -19,7 +19,7 @@ Author: Adam Fivenson & John DeRiggi
 
 **Pros:** Rides on the back of Facebook, which is used by more than a billion people, according to Facebook. Just like with WhatsApp, many phones come pre-loaded with Messenger. Features like GIF search adds flavor to conversations and the secret basketball and chess games are hidden gems. Payments open up major possibilities. Accessible via web browser.
 
-**Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly? 
+**Cons:** What happened to Facebook private messages? Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly? 
 
 ## Commentary
 *See YouTube video below.*
@@ -27,10 +27,10 @@ Author: Adam Fivenson & John DeRiggi
 *We recommend viewing in full screen and HD quality.*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
-Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even SMS. What we're less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people--and help them order products--there aren't yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care? 
+Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even short message services. What we’re less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people—and help them order products—there aren’t yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care? 
 
 
-*Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
+*Interested in hearing more about other the other apps we tested in App-a-Thon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
 
 
 
