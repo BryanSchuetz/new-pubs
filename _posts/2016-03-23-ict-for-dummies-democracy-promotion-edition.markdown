@@ -1,10 +1,9 @@
 ---
 title: ICT for Democracy? A Review of NDI’s DemTools
-date: 2016-03-23 20:51:00 Z
+date: 2016-03-23 16:51:00 -04:00
 tags:
-- Democracy
-- Open Source
 - Product review
+- Governance
 Author: Anand Varghese; Karim Bin-Humam
 ---
 
