@@ -3,7 +3,7 @@ title: 'Visualizing Hierarchical Data: USAID’s $8.5 Billion Global Health Init
 date: 2016-08-08 22:18:00 -04:00
 tags:
 - Data Visualization
-- Global Health
+- Health
 Author: John DeRiggi
 ---
 
