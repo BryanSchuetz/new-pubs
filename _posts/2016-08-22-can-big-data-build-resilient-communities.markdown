@@ -3,7 +3,7 @@ title: Can Big Data Build Resilient Communities?
 date: 2016-08-22 12:03:00 -04:00
 tags:
 - Health
-- Big data
+- Data
 Author: Max Baiden
 ---
 
