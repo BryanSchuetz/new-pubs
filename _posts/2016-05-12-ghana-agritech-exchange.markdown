@@ -1,8 +1,7 @@
 ---
 title: Injecting Ghana’s Ag Sector with Youth-led ICT Energy
-date: 2016-05-12 09:00:00 Z
+date: 2016-05-12 05:00:00 -04:00
 tags:
-- ICT4D
 - Ghana
 - Agriculture
 Author: Anand Varghese
