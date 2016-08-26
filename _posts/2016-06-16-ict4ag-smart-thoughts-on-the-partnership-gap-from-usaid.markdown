@@ -1,10 +1,8 @@
 ---
 title: 'ICT4Ag: Smart Thoughts from USAID on the Partnership Gap'
-date: 2016-06-16 14:18:00 Z
+date: 2016-06-16 10:18:00 -04:00
 tags:
 - Agriculture
-- USAID
-- ICT4D
 - Think Piece
 Author: Kristen Roggemann
 ---
