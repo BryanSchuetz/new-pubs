@@ -2,9 +2,7 @@
 title: 'Ready for Takeoff: Video Games in International Development'
 date: 2016-07-07 10:00:00 -04:00
 tags:
-- ICT4D
-- Video Games
-- Gamification
+- Think Piece
 Author: Adam Fivenson
 ---
 
