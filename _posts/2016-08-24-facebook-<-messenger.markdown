@@ -27,6 +27,8 @@ Author: Adam Fivenson & John DeRiggi
 *We recommend viewing in full screen and HD quality.*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
+## So what do we conclude?
+
 Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even short message services. What we’re less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people—and help them order products—there aren’t yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care? 
 
 
