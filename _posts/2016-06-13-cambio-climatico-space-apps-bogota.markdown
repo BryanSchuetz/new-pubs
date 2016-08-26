@@ -5,6 +5,7 @@ date: 2016-06-13 11:38:00 -04:00
 tags:
 - Colombia
 - Environment & Energy
+- Innovation
 Author: Adam Fivenson
 ---
 
