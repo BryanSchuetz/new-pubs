@@ -1,5 +1,5 @@
 ---
-title: 'Appathon 2016: Facebook  Messenger for Development'
+title: 'App-a-Thon 2016: Facebook  Messenger for Development'
 date: 2016-08-24 10:14:00 -04:00
 tags:
 - Appathon 2016
