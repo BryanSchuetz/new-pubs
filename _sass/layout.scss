@@ -90,6 +90,9 @@ code{
   margin-bottom: 0;
   line-height: 1.3rem;
 }
+.post{
+
+}
 .post-details{
   padding-left: 1rem;
   border-left: 1px solid $gray;
@@ -115,7 +118,18 @@ img.author-pic{
   border: 1px solid #e4e4e4;
   font-size: .9rem;
 }
-a.more-button:hover{
+button.more-button{
+  background-color: white;
+  color: $blue;
+  padding: .15rem .8rem !important;
+  border-radius: 30px;
+  border: 1px solid #e4e4e4;
+  font-size: .9rem;
+}
+div.filter-button-group ul li{
+  margin-top: .3rem;
+}
+a.more-button:hover, button.more-button:hover, button.is-checked{
   color: white;
   background-color: $blue;
   border-color: $blue;
