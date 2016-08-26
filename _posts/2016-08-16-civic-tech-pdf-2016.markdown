@@ -3,7 +3,6 @@ title: Top 5 Civic Tech Concepts and Ideas from PDF 2016
 date: 2016-08-16 09:59:00 -04:00
 tags:
 - Governance
-- Democracy
 Author: Adam Fivenson
 ---
 
