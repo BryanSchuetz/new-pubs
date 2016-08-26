@@ -1,14 +1,12 @@
 ---
 title: 'Consumer Insights Indonesia Part 2: Where WhatsApp is Just Another BlackBerry
   Messenger Clone'
-date: 2016-05-19 00:00:00 Z
+date: 2016-05-18 20:00:00 -04:00
 categories:
 - Consumer Insights
 tags:
-- ICT4D
 - Indonesia
 - Consumer Insights
-- Mobiles
 Author: Adam Fivenson
 ---
 
