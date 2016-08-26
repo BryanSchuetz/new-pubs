@@ -4,8 +4,7 @@ title: Los Mejores 3 Conceptos Para Enfrentar el Cambio Climatico de NASA Space 
 date: 2016-06-13 11:38:00 -04:00
 tags:
 - Colombia
-- Cambio Climatico
-- NASA
+- Environment & Energy
 Author: Adam Fivenson
 ---
 
