@@ -1,13 +1,11 @@
 ---
 title: 'Consumer Insights Indonesia Part 1: Mobiles & Workforce Development'
-date: 2016-05-17 08:40:00 Z
+date: 2016-05-17 04:40:00 -04:00
 categories:
 - Consumer Insights
 tags:
-- ICT4D
 - Consumer Insights
 - Indonesia
-- Mobiles
 Author: Adam Fivenson
 ---
 
