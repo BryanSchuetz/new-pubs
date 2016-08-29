@@ -1,9 +1,8 @@
 ---
 title: Innovation Into Action Challenge
-date: 2016-02-04 17:23:00 Z
+date: 2016-02-04 12:23:00 -05:00
 tags:
 - Innovation
-- Challenge
 Author: Anand Varghese
 ---
 
