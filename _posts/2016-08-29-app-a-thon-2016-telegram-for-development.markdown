@@ -16,7 +16,7 @@ Author: Kristen Roggemann and Anand Varghese
 
 **Key functionalities**: Send and receive text, audio, photo, and video messages; share files and geo-locations; communicate through “secret chats” that are fully encrypted, leave no trace on Telegram servers, self-destruct, and do not allow forwarding; create groups (up to 200 members), super groups (up to 5,000 members, public or private) and public and private “channels” that have no member limits and can be used to share information and files (one-way only); develop Telegram apps and chatbots through its open API and integrate bots into the platform as users to provide specialized functions. Totally free to download and use.
 
-![Telegram screen shot.png](/uploads/Telegram%20screen%20shot.png)`Screenshot of a chat with the Buzzfeed channel bot in Telegram`
+![Telegram screen shot.png](/uploads/Telegram%20screen%20shot.png)`Screenshot of a chat with the BuzzFeed channel bot in Telegram`
 
 **Pros**: Extremely secure system with a wide variety of ways for the user to share and receive information; large group and channel functionalities allow for easy transmission of information, files, and locations in real-time; username-based identity means that you don’t need to give away your number; lean data usage allows for rich functionality even in low-bandwidth environments. An open API means you can develop enterprise-level management apps on top, and even a bot to manage channels if you’re so inspired. All in all, a really great app for those of us working in international development and trying to crack the community and youth engagement nut, so to speak.
 
