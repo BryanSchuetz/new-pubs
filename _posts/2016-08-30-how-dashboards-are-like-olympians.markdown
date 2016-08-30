@@ -14,11 +14,7 @@ The skill of making it look easy, which comes with learning to relax while exert
 
 This easy-going appearance is an act of deception. Not the nefarious kind of deception, just a benign unintentional ruse. Demonstrating grace while winning a race hides the years of grueling twice-a-day workouts during which athletes prepare mentally and physically to reach the heights of their performance all for a chance to compete in a very short race perhaps years away.
 
-It reminds me of another phenomenon that appears a lot in development work: data driven dashboards. Wait, what is the connection? Seem like an analogy stretched a bit too far? Well limber up because here we go: dashboards look amazing, smooth, and effortless. Just click a link and voila, there is every geotagged and timestamped participant in your program on a map, with perfect donut charts and time-series plots informing us about what is relevant and what is happening right now. They are visually stunning. They lull us into a hypnotized face-melting feeling of satisfaction of real-time information supply, bolstering a feeling of awareness, propelling clarity to the forefront where before it was only fog and uncertainty!
-
-
-
-https://dribbble.com/shots/2023376-Server-Dashboard
+It reminds me of another phenomenon that appears a lot in development work: data driven dashboards. Wait, what is the connection? Seem like an analogy stretched a bit too far? Well limber up because here we go: dashboards look amazing, smooth, and effortless. Just click a link and voila, there is every geotagged and timestamped participant in your program on a map, with perfect donut charts and time-series plots informing us about what is relevant and what is happening right now. They are visually stunning. They lull us into a hypnotized face-melting feeling of satisfaction delivered with real-time information supply, bolstering a feeling of awareness, propelling clarity to the forefront where before it was only fog and uncertainty!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">AdminBSB - A free dashboard web template, based on Bootstrap 3.x with Material Design <a href="https://t.co/U72upk9vNa">https://t.co/U72upk9vNa</a> <a href="https://t.co/Ii8OuuEoQc">pic.twitter.com/Ii8OuuEoQc</a></p>&mdash; Speckyboy (@speckyboy) <a href="https://twitter.com/speckyboy/status/768916166710558720">August 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
