@@ -5,7 +5,7 @@ published: false
 Author: John DeRiggi
 ---
 
-The Olympic Games in Rio are over! It’s too bad. We all had fun watching the world’s greatest athletes come together and compete. At these Olympic games we saw several displays of complete dominance from competitors like Usain Bolt, Katie Ledecky, and Michael Phelps. Watching their races, it struck me how easy they made it look, with Usain Bolt laughing in his prelims, Ledecky winning by 11 seconds, and Phelps winning by over a body length in a race that is only two laps in the pool. 
+The Olympic Games in Rio are over! It’s too bad. We all had fun watching the world’s greatest athletes come together and compete. At these Olympic games we saw several displays of complete dominance from competitors like Usain Bolt, Katie Ledecky, and Michael Phelps. Watching their races, it struck me how easy they made it look, with Usain Bolt laughing in his prelims, Ledecky winning by 11 seconds, and Phelps winning by over a body length in a race that was only two laps in the pool. 
 
 <!--more-->
 
