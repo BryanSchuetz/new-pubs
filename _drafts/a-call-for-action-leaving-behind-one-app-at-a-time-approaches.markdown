@@ -1,11 +1,12 @@
 ---
 title: 'A Call for Action: Leaving Behind “One App at a Time” Approaches'
 date: 2016-08-31 11:03:00 -04:00
+Author: Krista Baptista
 ---
 
 It’s become all but banal to observe that ICTs have made our world increasingly interconnected and data-rich. But, for some reason, the role of ICT practitioners in international development hasn’t evolved to reflect this shift. ICT teams, like other ‘functional’ (as opposed to regional) experts, are incentivized to develop niche expertise and subject matter knowledge – sometimes at the detriment of improved development programming.
 
-\
+<!--more-->\
 But ICTs are about making connections – whether between people, data sets, systems or platforms. For example, the ability of data to reveal new insights and meaning is largely a result of its sector-agnostic nature. The resulting knowledge exposes the connection between what might seem like unrelated data such as mobile phone coverage and prevalence of diabetes in the US (shout out to recent work by the Federal Communications Commission to map broadband and health in the US recently presented by Karen Onyeije, JD and Yahya Shaikh, PhD at the [NACCHO Public Health Informatics conference](http://phiconference.org/)) or links between [perceptions of security and taking mobile phones outside the home in rural Honduras](http://dai-global-digital.com/honduras-consumer-insights.html).
 
 
