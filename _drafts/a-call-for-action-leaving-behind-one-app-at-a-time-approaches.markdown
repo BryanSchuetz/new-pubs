@@ -8,7 +8,6 @@ It’s become all but banal to observe that ICTs have made our world increasingl
 
 <!--more-->
 
-\
 But ICTs are about making connections – whether between people, data sets, systems or platforms. For example, the ability of data to reveal new insights and meaning is largely a result of its sector-agnostic nature. The resulting knowledge exposes the connection between what might seem like unrelated data such as mobile phone coverage and prevalence of diabetes in the US (shout out to recent work by the Federal Communications Commission to map broadband and health in the US recently presented by Karen Onyeije, JD and Yahya Shaikh, PhD at the [NACCHO Public Health Informatics conference](http://phiconference.org/)) or links between [perceptions of security and taking mobile phones outside the home in rural Honduras](http://dai-global-digital.com/honduras-consumer-insights.html).
 
 
