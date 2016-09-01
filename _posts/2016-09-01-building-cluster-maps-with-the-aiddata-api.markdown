@@ -6,7 +6,7 @@ published: false
 
 AidData is an awesome organization. They've built s lightning fast API that exposes a massive amount of structured data about aid finances, projects, locations, and sources of funding.
 
-More broadly and quoted from their Twitter bio, AidData is "A research and innovation lab based at @williamandmary providing tools and services to make development finance more transparent and effective." 
+More broadly and quoted from their Twitter bio, AidData is "A research and innovation lab based at William and Mary providing tools and services to make development finance more transparent and effective." 
 
 We built a super simple data explorer for GIS elements within the AidData API
 
