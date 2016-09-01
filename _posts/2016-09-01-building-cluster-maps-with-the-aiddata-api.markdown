@@ -8,6 +8,8 @@ AidData is an awesome organization. They've built s lightning fast API that expo
 
 We built a super simple data explorer for GIS elements within the AidData API
 
+<!--more-->
+
 [AidData Client](http://aiddataclient.s3-website-us-east-1.amazonaws.com/)
 
 More broadly and quoted from their Twitter bio, AidData is "A research and innovation lab based at @williamandmary providing tools and services to make development finance more transparent and effective."
