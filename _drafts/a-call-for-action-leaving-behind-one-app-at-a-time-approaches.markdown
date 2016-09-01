@@ -1,6 +1,8 @@
 ---
 title: 'A Call for Action: Leaving Behind “One App at a Time” Approaches'
 date: 2016-08-31 11:03:00 -04:00
+tags:
+- Think Piece
 Author: Krista Baptista
 ---
 
