@@ -4,7 +4,7 @@ date: 2016-09-01 08:13:00 -04:00
 published: false
 ---
 
-AidData is an awesome organization. They've built s lightning fast API that exposes all massive amount of structured data about aid finances, projects, locations, and sources of funding. 
+AidData is an awesome organization. They've built s lightning fast API that exposes a massive amount of structured data about aid finances, projects, locations, and sources of funding. 
 
 We built a super simple data explorer for GIS elements within the AidData API
 
