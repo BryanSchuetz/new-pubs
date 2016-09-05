@@ -26,19 +26,19 @@ Author: Karim Bin-Humam & Adam Fivenson
 
 **Karim:** Personally, I’m not sold on Kik for either personal use, or in the context of international development work. While I do appreciate the ease of use and intuitive interface, particularly in comparison to Snapchat which felt like it had been designed for people with severe ADD..  It seems Kik is better designed for sharing viral web content than it is to be a well-rounded communications toolkit. My bot experience was decent enough, but no better than with other messaging apps. This surprised me, because Kik--along with Facebook Messenger--has made a huge bet on chatbots as the next big thing for people who want an even easier solution than apps, and brands that want to engage their audience. . Brands like Skull Candy and online viral video platform Funny or Die have found success reaching users through Kik. Perhaps the rub lies in the user base - a very Western, very teenage user base (not typically work-ready youth that we tend to engage in our work).  The disconnect was quite clear when I used the [Chatty McChatface](http://www.chattymcchatface.com/) bot to (supposedly) connect me with real Kik chat users to discuss topics of my choice (although those choices were limited to such substantial topics as  “Music: Kanye West vs. Taylor Swift”...which I immediately chose.
 
-<p>**Random Kik User:** Yeaa
-<p>**Me:** Taylor Swift is the best. I lover her songs. 
-<p>**RKU:** ;)
-<p>**RKU:** But Selina Gomez also rocks
-<p>**Me:** oh totally. She’s the bomb diggity.
-<p>**RKU:** Yaaaaaasssss
-<p>**Me:** My favorite is still Coltrane though
-<p>**RKU:** awesome choice. 2 gud.
-<p>**Me:** What do you think about Kaiser Wilhelm?
-<p>**RKU:**  Not sure I have his new album... 
+**Random Kik User:** Yeaa
+**Me:** Taylor Swift is the best. I lover her songs. 
+**RKU:** ;)
+**RKU:** But Selina Gomez also rocks
+**Me:** oh totally. She’s the bomb diggity.
+**RKU:** Yaaaaaasssss
+**Me:** My favorite is still Coltrane though
+**RKU:** awesome choice. 2 gud.
+**Me:** What do you think about Kaiser Wilhelm?
+**RKU:**  Not sure I have his new album... 
 
 
-<p>**Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
+**Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
 
 Taking a queue from the success of WeChat’s chatbots in China, Kik has lashed itself to the mast of the chatbot craze, alongside Facebook Messenger. In an ocean crowded with messaging apps, whether chatbots will be the critical differentiator that sets some apart from the rest remains to be seen. Certainly Kik is betting that they will, despite the fact that in the US market, the advantage of chatbots over apps and mobile-first web sites is still not clear. I suspect that this is due to relative differences in the cost of mobile data; far more plans in the US include unlimited data which means apps and mobile websites are an easy download, whereas in China most people are still on prepaid plans and pay for each megabyte, so data-light chatbots are far more attractive for users. 
 
