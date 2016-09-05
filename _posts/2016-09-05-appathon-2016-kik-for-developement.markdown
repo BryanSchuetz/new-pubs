@@ -24,17 +24,27 @@ tags:
 
 **Karim:** Personally, I’m not sold on Kik for either personal use, or in the context of international development work. While I do appreciate the ease of use and intuitive interface, particularly in comparison to Snapchat which felt like it had been designed for people with severe ADD..  It seems Kik is better designed for sharing viral web content than it is to be a well-rounded communications toolkit. My bot experience was decent enough, but no better than with other messaging apps. This surprised me, because Kik--along with Facebook Messenger--has made a huge bet on chatbots as the next big thing for people who want an even easier solution than apps, and brands that want to engage their audience. . Brands like Skull Candy and online viral video platform Funny or Die have found success reaching users through Kik. Perhaps the rub lies in the user base - a very Western, very teenage user base (not typically work-ready youth that we tend to engage in our work).  The disconnect was quite clear when I used the [Chatty McChatface](http://www.chattymcchatface.com/) bot to (supposedly) connect me with real Kik chat users to discuss topics of my choice (although those choices were limited to such substantial topics as  “Music: Kanye West vs. Taylor Swift”...which I immediately chose.
 
+<div>
 **Random Kik User:** Yeaa
-**Me:** Taylor Swift is the best. I lover her songs. She’s dope.
-**RKU:** ;)
-**RKU:** But Selina Gomez also rocks
-**Me:** oh totally. She’s the bomb diggity.
-**RKU:** Yaaaaaasssss
-**Me:** My favorite is still Coltrane though
-**RKU:** awesome choice. 2 gud.
-**Me:** What do you think about Kaiser Wilhelm?
-**RKU:**  Not sure I have his new album...
 
+**Me:** Taylor Swift is the best. I lover her songs. She’s dope.
+
+**RKU:** ;)
+
+**RKU:** But Selina Gomez also rocks
+
+**Me:** oh totally. She’s the bomb diggity.
+
+**RKU:** Yaaaaaasssss
+
+**Me:** My favorite is still Coltrane though
+
+**RKU:** awesome choice. 2 gud.
+
+**Me:** What do you think about Kaiser Wilhelm?
+
+**RKU:**  Not sure I have his new album...
+</div
 
 **Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
 
