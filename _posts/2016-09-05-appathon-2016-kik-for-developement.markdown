@@ -38,13 +38,13 @@ tags:
 
 **Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
 
-Taking a queue from the success of WeChat’s chatbots in China, Kik has lashed itself to the mast of the chatbot craze, alongside Facebook Messenger. In an ocean crowded with messaging apps, whether chatbots will be the critical differentiator that sets some apart from the rest remains to be seen. Certainly Kik is betting that they will, despite the fact that in the US market, the advantage of chatbots over apps and mobile-first web sites is still not clear. I suspect that this is due to relative differences in the cost of mobile data; far more plans in the US include unlimited data which means apps and mobile websites are an easy download, whereas in China most people are still on prepaid plans and pay for each megabyte, so data-light chatbots are far more attractive for users. Kik actually offers a 
+Taking a queue from the success of WeChat’s chatbots in China, Kik has lashed itself to the mast of the chatbot craze, alongside Facebook Messenger. In an ocean crowded with messaging apps, whether chatbots will be the critical differentiator that sets some apart from the rest remains to be seen. Certainly Kik is betting that they will, despite the fact that in the US market, the advantage of chatbots over apps and mobile-first web sites is still not clear. I suspect that this is due to relative differences in the cost of mobile data; far more plans in the US include unlimited data which means apps and mobile websites are an easy download, whereas in China most people are still on prepaid plans and pay for each megabyte, so data-light chatbots are far more attractive for users. 
 
 In the context of international development, chatbots offer the same advantages they do in China: a simple, data-light interface that (at least in theory) makes it easy to interact with brands and organizations. With a little imagination, I could see governments using chat bots to deliver simple services online, provide access to records, host budget data, and create an easy avenue for citizen feedback. I could see small businesses deploying chatbots to improve marketing and e-commerce, and local civil society organizations using them to educate citizens. 
 
 Still, with WhatsApp and Facebook Messenger [dominating the Messaging App Wars in most of the world](https://www.similarweb.com/blog/worldwide-messaging-apps), it’s unlikely that space for a challenger like Kik will open up, unless that killer chat bot suddenly appears and the Facebook Messenger version just isn’t as good as Kik’s. 
  
-So what do we conclude?
+## So what do we conclude?
  
 Will Kik be the AOL Instant Messenger of the 2010’s: hugely popular with the tweens, but quickly rendered obsolete and forgotten? Or will we all be ordering our pizzas, Ubers and clothes via Kik chatbots five years from now? Maybe the answer lies somewhere in the middle. Tech Crunch’s Faisal Khalid sums up the current state of chatbots in his provocatively named article [Let me tell you why chatbots suck](https://techcrunch.com/2016/05/29/why-do-chatbots-suck/): 
 
@@ -52,6 +52,4 @@ Will Kik be the AOL Instant Messenger of the 2010’s: hugely popular with the t
 
 Until the perception that chatbots have no tangible benefits over apps and mobile web sites changes, we’re unlikely to see Kik as a popular tool in the places DAI works. Anyone who has read our Consumer Insights work knows that our approach to mobile messaging apps is predicated on engaging people through the media they already use instead of attempting to introduce entirely new platforms. Chatbots themselves are based on this premise--they can even be accessed (with an @) within chats between two people, which is a pretty cool little feature that removes one more barrier to using them. Still, lacking a user base outside the US and Canada, Kik won’t have much opportunity to show the value of its chatbots in the rest of the world. 
 
- 
-Interested in hearing more about other the other apps we tested in App-a-Thon 2016? Subscribe now to receive a weekly digest of our newest blogs sent directly to your inbox!
- 
+ *Interested in hearing more about other the other apps we tested in App-a-Thon 2016? [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
