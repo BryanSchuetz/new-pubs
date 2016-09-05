@@ -44,7 +44,7 @@ tags:
 **Me:** What do you think about Kaiser Wilhelm?
 
 **RKU:**  Not sure I have his new album...
-</div
+</div>
 
 **Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
 
