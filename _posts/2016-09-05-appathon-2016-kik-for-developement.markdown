@@ -38,7 +38,7 @@ Author: Karim Bin-Humam & Adam Fivenson
 <p>**RKU:**  Not sure I have his new album... 
 
 
-**Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
+<p>**Adam:** First of all, according to Kik, [40% of US teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility. 
 
 Taking a queue from the success of WeChat’s chatbots in China, Kik has lashed itself to the mast of the chatbot craze, alongside Facebook Messenger. In an ocean crowded with messaging apps, whether chatbots will be the critical differentiator that sets some apart from the rest remains to be seen. Certainly Kik is betting that they will, despite the fact that in the US market, the advantage of chatbots over apps and mobile-first web sites is still not clear. I suspect that this is due to relative differences in the cost of mobile data; far more plans in the US include unlimited data which means apps and mobile websites are an easy download, whereas in China most people are still on prepaid plans and pay for each megabyte, so data-light chatbots are far more attractive for users. 
 
