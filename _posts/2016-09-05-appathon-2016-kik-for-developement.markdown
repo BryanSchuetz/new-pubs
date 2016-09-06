@@ -25,9 +25,9 @@ Author: Karim Bin-Humam & Adam Fivenson
 
 **Karim:** Personally, I’m not sold on kik for either personal use, or in the context of international development work. While I do appreciate the ease of use and intuitive interface, particularly in comparison to Snapchat which feels like it’s designed for people with severe attention-deficit disorder. It seems kik is better designed for sharing viral web content than it is to be a well-rounded communications toolkit. My bot experience was decent enough, but no better than with other messaging apps. This surprised me, because kik—along with Facebook Messenger—has made a huge bet on chatbots as the next big thing for people who want an even easier solution than apps, and brands that want to engage their audience. Brands such as Skull Candy and online viral video platform Funny or Die have found success reaching users through kik. Perhaps the rub lies in the user base—a very Western, very teenage user base (not typically work-ready young people whom we tend to engage in our work). The disconnect was quite clear when I used the [Chatty McChatface](http://www.chattymcchatface.com/) bot to (supposedly) connect me with real kik chat users to discuss topics of my choice (although those choices were limited to such substantial topics as  “Music: Kanye West vs. Taylor Swift”...which I immediately chose.
 
-*Random kik User:* Yeaa <br />
-*Me:* Taylor Swift is the best. I love her songs. <br />
-*RKU:* ;) <br />
+>*Random kik User:* Yeaa <br />
+>*Me:* Taylor Swift is the best. I love her songs. <br />
+>*RKU:* ;) <br />
 *RKU:* But Selina Gomez also rocks <br />
 *Me:* oh totally. She’s the bomb diggity. <br />
 *RKU:* Yaaaaaasssss <br />
