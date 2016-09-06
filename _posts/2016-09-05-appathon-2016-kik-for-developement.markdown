@@ -1,7 +1,6 @@
 ---
 title: 'App-a-Thon 2016: Kik for Development'
 date: 2016-09-05 18:44:00 -04:00
-published: false
 tags:
 - Appathon 2016
 Author: Karim Bin-Humam & Adam Fivenson
