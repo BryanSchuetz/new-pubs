@@ -4,7 +4,6 @@ date: 2016-09-05 18:44:00 -04:00
 published: false
 tags:
 - Appathon 2016
-- Mobiles
 Author: Karim Bin-Humam & Adam Fivenson
 ---
 
