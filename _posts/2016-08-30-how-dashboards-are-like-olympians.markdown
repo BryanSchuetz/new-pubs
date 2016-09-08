@@ -1,7 +1,6 @@
 ---
 title: How Dashboards are like Olympians
 date: 2016-08-30 11:36:00 -04:00
-published: false
 tags:
 - data
 Author: John DeRiggi
