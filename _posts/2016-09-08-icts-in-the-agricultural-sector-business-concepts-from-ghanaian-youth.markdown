@@ -23,4 +23,4 @@ In the months following the AgriTech Exchange event that kicked off this incubat
 
 **Managing farmer networks:** The Ghalani team have developed a farm management software that helps agricultural aggregators efficiently organize, manage and monitor large numbers of farmers to improve productivity and reduce risks.
 ![Pic 3.jpg](/uploads/Pic%203.jpg)`Image courtesy KIC`
-So what’s next? Earlier this month, these finalists gave their final pitch, competing to receive seed funding from KIC and to spend the next year in the incubator at the Me[ltwater Entrepreneurial School of Technology](http://meltwater.org/incubator/about-the-incubator/) (MEST) to launch their businesses. Stay tuned for updates on the winners!
+So what’s next? Earlier this month, these finalists gave their final pitch, competing to receive seed funding from KIC and to spend the next year in the incubator at the [Meltwater Entrepreneurial School of Technology](http://meltwater.org/incubator/about-the-incubator/) (MEST) to launch their businesses. Stay tuned for updates on the winners!
