@@ -8,7 +8,7 @@ tags:
 Author: John DeRiggi and Adam Fivenson
 ---
 
-We love exploratory data analysis here at DAI and today we are going to delve into some of the survey data from my colleague Adam’s recent [Consumer Insights Research in Honduras](http://dai-global-digital.com/honduras-consumer-insights.html) to see if we can use data visualization to find social media and mobile super users.  Spoiler: they exist (and in surprising places!)
+We love exploratory data analysis here at DAI and today we are going to delve into some of the survey data from my colleague Adam’s recent [Digital Insights Research in Honduras](http://dai-global-digital.com/honduras-digital-insights.html) to see if we can use data visualization to find social media and mobile super users.  Spoiler: they exist (and in surprising places!)
 
 <!--more-->
 

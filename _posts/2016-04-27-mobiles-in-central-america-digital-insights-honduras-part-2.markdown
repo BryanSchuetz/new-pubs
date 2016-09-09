@@ -1,5 +1,5 @@
 ---
-title: 'Mobiles in Central America: Consumer Insights Honduras, Part 2'
+title: 'Mobiles in Central America: Digital Insights Honduras, Part 2'
 date: 2016-04-27 04:00:00 -04:00
 categories:
 - Digital Insights
@@ -14,12 +14,12 @@ Author: Adam Fivenson
 ![Revised4.png](/uploads/Revised4.png)
 `The author, at right, interviewing a young person in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
 
-*Esta entrada también está disponible en [español](http://dai-global-digital.com/honduras-consumer-insights-preferencias-de-aplicaciones-de-mensajeria.html).*
+*Esta entrada también está disponible en [español](http://dai-global-digital.com/honduras-digital-insights-preferencias-de-aplicaciones-de-mensajeria.html).*
 
 ## Social Media and Messaging Choices
 
-Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1
-](http://dai-global-digital.com/honduras-consumer-insights.html).
+Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Digital Insights Honduras, Part 1
+](http://dai-global-digital.com/honduras-digital-insights.html).
 Mobile messaging and social media are incredibly popular among Honduran youth. More than 70 percent of the at-risk young people in Honduras who we interviewed had smartphones, and almost every single one who had a smartphone uses WhatsApp. Facebook is even more ubiquitous. The message is this: anyone—from the Honduran government to development actors like USAID and implementing organizations—who wants to engage with Honduran young people must meet them on their native platforms of communication. These days that means social media and messaging apps.
 
 <!--more-->
@@ -48,7 +48,6 @@ Questions?  Comments?  Want to hear more? Please share below, or tell us on Twit
 
 ***
 
-*The author would like to thank the great people of [Plan Honduras](https://plan-international.org/Honduras), [the Organization for Youth Empowerment](http://www.oyehonduras.org/), and the [Centro de Desarrollo Humano](http://www.centrocdh.org/) for their assistance in carrying out Consumer Insights research.*
+*The author would like to thank the great people of [Plan Honduras](https://plan-international.org/Honduras), [the Organization for Youth Empowerment](http://www.oyehonduras.org/), and the [Centro de Desarrollo Humano](http://www.centrocdh.org/) for their assistance in carrying out Digital Insights research.*
 
-<sup>\*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](http://dai-global-digital.com/honduras-consumer-insights.html) for more demographic information*</sup>
-
+<sup>\*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Digital Insights Honduras, Part 1](http://dai-global-digital.com/honduras-digital-insights.html) for more demographic information*</sup>

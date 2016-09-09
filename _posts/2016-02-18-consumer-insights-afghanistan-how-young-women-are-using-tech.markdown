@@ -1,5 +1,5 @@
 ---
-title: 'Consumer Insights Afghanistan: How Young Women are Using Tech'
+title: 'Digital Insights Afghanistan: How Young Women are Using Tech'
 date: 2016-02-18 02:00:00 -05:00
 tags:
 - Digital Insights
@@ -8,7 +8,7 @@ Author: Anand Varghese
 layout: post
 ---
 
-In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s <a href="https://www.usaid.gov/afghanistan/promote/">Promote</a> program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. 
+In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s <a href="https://www.usaid.gov/afghanistan/promote/">Promote</a> program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Digital Insights that DAI’s ICT team collects from various developing countries. 
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Before diving into any technology-based programming, the WIE team decided to do 
 
 The results were fascinating: WIE’s target audience is highly tech savvy, with 75 percent of them owning smartphones and 90 percent having internet access. They’re active on social media sites such as Facebook and Viber, and many of them (31 percent) use online tools to search for jobs. These insights on technology usage and media consumption, especially as it relates to job searches, will allow WIE to tailor its approach to digital engagement, training tools, and media outreach.    
 
-[![Consumer Insights Afghanistan_Final_Infographic.jpg](/uploads/Thumbnail_Infographic.jpg)](/uploads/full_infographic.jpg)
+[![Digital Insights Afghanistan_Final_Infographic.jpg](/uploads/Thumbnail_Infographic.jpg)](/uploads/full_infographic.jpg)
 
 Find additional results from the study below.
 
@@ -57,4 +57,4 @@ Since the WIE project is focused on helping female jobseekers, we also asked res
 
 The vast majority of respondents (96 percent) is interested in improving their job-hunting skills via technology and would prefer to receive such training via online video (35 percent), smartphone app (31 percent), or SMS/IVR capabilities (24 percent). However, very few (around 12 percent) have received any form of online training in the past. Therefore, WIE would need to do some amount of capacity training or deeper market research in this area to explore whether technology is a viable method of skills transfer.
 
-<aside>*Note: This isn’t a statistically significant study, and it wasn’t intended to be. The sample was not randomly selected, so these results can’t be generalized to the population. In addition, all the respondents were educated women from urban areas, so skews are inevitable. However, such caveats don’t stop projects from using these insights to quickly gauge how they might engage their target audiences using ICT tools. The ICT team will be working with DAI’s projects across the globe to make this kind of ‘quick and dirty’ consumer insights study a core function of their on-the-ground data-gathering efforts.*</aside>
+<aside>*Note: This isn’t a statistically significant study, and it wasn’t intended to be. The sample was not randomly selected, so these results can’t be generalized to the population. In addition, all the respondents were educated women from urban areas, so skews are inevitable. However, such caveats don’t stop projects from using these insights to quickly gauge how they might engage their target audiences using ICT tools. The ICT team will be working with DAI’s projects across the globe to make this kind of ‘quick and dirty’ Digital Insights study a core function of their on-the-ground data-gathering efforts.*</aside>

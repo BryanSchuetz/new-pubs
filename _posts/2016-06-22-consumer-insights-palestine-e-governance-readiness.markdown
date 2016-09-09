@@ -1,5 +1,5 @@
 ---
-title: "Consumer Insights Palestine: \nE-Governance Readiness"
+title: "Digital Insights Palestine: \nE-Governance Readiness"
 date: 2016-06-22 04:03:00 -04:00
 tags:
 - Digital Insights
@@ -16,7 +16,7 @@ In June I traveled to the West Bank to investigate aspects of Palestinian readin
 
 That was the joking response I got from a fabric store owner in Ramallah when I asked whether he had a few minutes to spare to help me with my research.
 
-Over the course of a week, I traveled to three cities and interviewed 81 Palestinian citizens from 15 different municipalities and all walks of life. We call this type of rapid, dirty data collection [Consumer Insights](http://dai-global-digital.com/tags/?tag=digital-insights)—a set of meaningful insights that allow our project teams to quickly make user-centric and data-driven decisions about appropriate ICT interventions. We’ve performed this research in Jordan, Honduras, Indonesia, and now Palestine.
+Over the course of a week, I traveled to three cities and interviewed 81 Palestinian citizens from 15 different municipalities and all walks of life. We call this type of rapid, dirty data collection [Digital Insights](http://dai-global-digital.com/tags/?tag=digital-insights)—a set of meaningful insights that allow our project teams to quickly make user-centric and data-driven decisions about appropriate ICT interventions. We’ve performed this research in Jordan, Honduras, Indonesia, and now Palestine.
 
 Overarching questions I hoped to explore included:
 
@@ -30,7 +30,7 @@ Overarching questions I hoped to explore included:
 
 The key insights from the data are summarized below:
 
-*Note: The interviews conducted do not represent a statistically significant sampling of Palestinian citizens. The purpose of DAI’s Consumer Insights is to gain qualitative, directional insights about how target populations use technology and generate actionable data quickly.*
+*Note: The interviews conducted do not represent a statistically significant sampling of Palestinian citizens. The purpose of DAI’s Digital Insights is to gain qualitative, directional insights about how target populations use technology and generate actionable data quickly.*
 
 <script id="infogram_0_0cb97e12-2f6d-4b38-913f-3cb3083ee267" title="" src="//e.infogr.am/js/embed.js?8Zs" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a style="color:#989898!important;text-decoration:none!important;" href="https://infogr.am" target="_blank">Create your own infographics</a></div>
 
