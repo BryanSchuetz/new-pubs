@@ -1,6 +1,6 @@
 ---
 title: "Consumer Insights Palestine: \nE-Governance Readiness"
-date: 2016-06-22 08:03:00 Z
+date: 2016-06-22 04:03:00 -04:00
 tags:
 - Digital Insights
 - Palestine
