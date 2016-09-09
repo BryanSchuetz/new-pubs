@@ -36,11 +36,11 @@ Key questions include:
 
 * Do they have mobile phones? If so, what kind?
 
-* What kinds of communication apps are most popular? 
+* What kinds of communication apps are most popular?
 
 * What kinds of games do they play?
 
-We call this research [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights)—“consumer” as in information consumer—and below is a bit of what we found.
+We call this research [Consumer Insights](http://dai-global-digital.com/tags/?tag=digital-insights)—“consumer” as in information consumer—and below is a bit of what we found.
 
 ## Demographics of the Sample
 
@@ -48,7 +48,7 @@ We conducted 107 face-to-face interviews with young people. About half were in J
 
 ## Sample Stats
 
-The graphic below contains a few sample, binary results from our survey in Indonesia. Eighty-six percent of our respondents had mobile phones; 62 percent had smartphones, 77 percent use Facebook on their phones, and 48 percent are mobile gamers. 
+The graphic below contains a few sample, binary results from our survey in Indonesia. Eighty-six percent of our respondents had mobile phones; 62 percent had smartphones, 77 percent use Facebook on their phones, and 48 percent are mobile gamers.
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 

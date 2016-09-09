@@ -16,7 +16,7 @@ In June I traveled to the West Bank to investigate aspects of Palestinian readin
 
 That was the joking response I got from a fabric store owner in Ramallah when I asked whether he had a few minutes to spare to help me with my research.
 
-Over the course of a week, I traveled to three cities and interviewed 81 Palestinian citizens from 15 different municipalities and all walks of life. We call this type of rapid, dirty data collection [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights)—a set of meaningful insights that allow our project teams to quickly make user-centric and data-driven decisions about appropriate ICT interventions. We’ve performed this research in Jordan, Honduras, Indonesia, and now Palestine.
+Over the course of a week, I traveled to three cities and interviewed 81 Palestinian citizens from 15 different municipalities and all walks of life. We call this type of rapid, dirty data collection [Consumer Insights](http://dai-global-digital.com/tags/?tag=digital-insights)—a set of meaningful insights that allow our project teams to quickly make user-centric and data-driven decisions about appropriate ICT interventions. We’ve performed this research in Jordan, Honduras, Indonesia, and now Palestine.
 
 Overarching questions I hoped to explore included:
 
