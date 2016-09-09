@@ -1,6 +1,6 @@
 ---
 title: Have We Hit a Tech Tipping Point? Observations from Cambodia
-date: 2016-05-26 08:00:00 Z
+date: 2016-05-26 04:00:00 -04:00
 tags:
 - Cambodia
 - Think Piece
