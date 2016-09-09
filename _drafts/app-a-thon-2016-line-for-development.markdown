@@ -10,6 +10,8 @@ Author: "[Kristen Roggemann](/authors/kristen-roggemann) and [Anand Varghese](/a
 
 *So far, we’ve covered [Facebook Messenger](http://dai-global-digital.com/facebook-messenger.html), [Kik](http://dai-global-digital.com/appathon-2016-kik-for-development.html), [Telegram ](http://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html)and [WhatsApp](http://dai-global-digital.com/whatsapp-appathon-2016.html).  This time, we’re getting chatty with the messenger app [LINE](http://line.me/en/).*
 
+![line logo.jpg](/uploads/line%20logo.jpg)
+
 <!--more-->
 
 **Key functionalities:** Share photos, videos, voice messages, contacts, and location information with end-to-end encryption in real-time, for free; available across mobile platforms and on Mac and PC (desktop client); Timeline feature lets you build social timelines and comment on/engage with friend’s timelines; Group feature allows for groups of up to 500; “Keep” feature allows you to file and save media to a specific ‘keep’ folder; easy event scheduler; “Secret chat” Secure payments platform embedded in app via LINE Pay; a plethora of app extension services, shops and features such as stickers, games, cartoons, camera lenses; timelines and (pretty lame) chat features with ‘official accounts’ of media, brands and celebrities. Great in-app ‘help’ section really helps with ease-of-use. Last but certainly not least: amazing sticker predictor that offers up a selection of stickers in real-time that “match” the words you’re typing.  Makes texting super fun!
