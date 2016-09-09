@@ -2,10 +2,10 @@
 title: 'Mobiles in Central America: Consumer Insights Honduras, Part 1'
 date: 2016-04-13 20:10:00 Z
 categories:
-- Consumer Insights
+- Digital Insights
 tags:
 - Honduras
-- Consumer Insights
+- Digital Insights
 - Mobiles
 - ICT4D
 Author: Adam Fivenson

@@ -2,7 +2,7 @@
 title: 'For the Love of Facebook: Consumer Insights from Jordan'
 date: 2016-04-05 14:22:00 -04:00
 tags:
-- Consumer Insights
+- Digital Insights
 - Jordan
 Author: Kristen Roggemann
 ---

@@ -2,9 +2,9 @@
 title: 'Consumer Insights Indonesia Part 1: Mobiles & Workforce Development'
 date: 2016-05-17 04:40:00 -04:00
 categories:
-- Consumer Insights
+- Digital Insights
 tags:
-- Consumer Insights
+- Digital Insights
 - Indonesia
 Author: Adam Fivenson
 ---

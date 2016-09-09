@@ -3,10 +3,10 @@ title: 'Consumer Insights Indonesia Part 2: Where WhatsApp is Just Another Black
   Messenger Clone'
 date: 2016-05-18 20:00:00 -04:00
 categories:
-- Consumer Insights
+- Digital Insights
 tags:
 - Indonesia
-- Consumer Insights
+- Digital Insights
 Author: Adam Fivenson
 ---
 

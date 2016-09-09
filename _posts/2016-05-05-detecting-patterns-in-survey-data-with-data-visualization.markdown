@@ -2,7 +2,7 @@
 title: Detecting Patterns in Survey Data with Data Visualization
 date: 2016-05-05 05:30:00 -04:00
 tags:
-- Consumer Insights
+- Digital Insights
 - Honduras
 - Data
 Author: John DeRiggi and Adam Fivenson

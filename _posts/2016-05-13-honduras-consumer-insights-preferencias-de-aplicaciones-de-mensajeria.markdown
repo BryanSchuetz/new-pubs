@@ -2,9 +2,9 @@
 title: 'Móviles en América Central: Consumer Insights Honduras, Parte 2'
 date: 2016-05-13 04:00:00 -04:00
 categories:
-- Consumer Insights
+- Digital Insights
 tags:
-- Consumer Insights
+- Digital Insights
 - Honduras
 Author: Adam Fivenson
 ---
