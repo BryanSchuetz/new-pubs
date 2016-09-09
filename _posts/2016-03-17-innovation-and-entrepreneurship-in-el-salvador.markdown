@@ -1,6 +1,6 @@
 ---
 title: Innovation and Entrepreneurship in El Salvador
-date: 2016-03-17 15:00:00 Z
+date: 2016-03-17 11:00:00 -04:00
 tags:
 - Innovation
 - El Salvador
