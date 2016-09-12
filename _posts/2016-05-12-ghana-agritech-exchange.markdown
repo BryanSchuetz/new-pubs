@@ -2,8 +2,10 @@
 title: Injecting Ghana’s Ag Sector with Youth-led ICT Energy
 date: 2016-05-12 05:00:00 -04:00
 tags:
-- Ghana
 - Agriculture
+- Innovation
+- Sub-Saharan Africa
+- Economic Growth
 Author: Anand Varghese
 ---
 
