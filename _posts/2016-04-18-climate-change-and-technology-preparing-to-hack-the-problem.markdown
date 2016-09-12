@@ -1,11 +1,10 @@
 ---
 title: 'Climate Change in Colombia: Hack the Problem'
-date: 2016-04-18 21:46:00 Z
+date: 2016-04-18 17:46:00 -04:00
 tags:
-- ICT4D
 - Entrepreneurship
 - Youth
-- Colombia
+- Latin America and the Caribbean
 Author: Krista Baptista
 ---
 
