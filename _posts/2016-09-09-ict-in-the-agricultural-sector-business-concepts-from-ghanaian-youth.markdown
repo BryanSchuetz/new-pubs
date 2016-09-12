@@ -2,8 +2,9 @@
 title: 'ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth'
 date: 2016-09-09 09:38:00 -04:00
 tags:
-- Ghana
 - Agriculture
+- Sub-Saharan Africa
+- Economic Growth
 Author: Anand Varghese
 ---
 
