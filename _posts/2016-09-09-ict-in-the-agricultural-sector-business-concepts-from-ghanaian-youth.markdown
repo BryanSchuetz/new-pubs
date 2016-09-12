@@ -5,6 +5,7 @@ tags:
 - Agriculture
 - Sub-Saharan Africa
 - Economic Growth
+- Innovation
 Author: Anand Varghese
 ---
 
