@@ -6,9 +6,8 @@ categories:
 - Health
 - Innovation
 tags:
-- SXSW
-- Bioelectronics
-- MedTech
+- Health
+- Innovation
 Author: John DeRiggi
 ---
 
