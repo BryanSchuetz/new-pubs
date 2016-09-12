@@ -5,9 +5,7 @@ categories:
 - Digital Insights
 tags:
 - Digital Insights
-- Honduras
-- Mobiles
-- ICT4D
+- Latin America and the Caribbean
 Author: Adam Fivenson
 ---
 
