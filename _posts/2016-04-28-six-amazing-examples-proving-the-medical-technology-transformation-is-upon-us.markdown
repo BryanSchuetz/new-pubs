@@ -4,6 +4,7 @@ title: 6 Amazing Examples Proving that the Medical Technology Transformation is 
 date: 2016-04-28 04:18:00 -04:00
 categories:
 - Health
+- Innovation
 tags:
 - SXSW
 - Bioelectronics
