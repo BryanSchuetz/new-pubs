@@ -1,6 +1,6 @@
 ---
 title: 'App-a-Thon 2016: LINE for Development'
-date: 2016-09-09 11:25:00 -04:00
+date: 2016-09-13 11:25:00 -04:00
 tags:
 - Appathon 2016
 Author: "[Kristen Roggemann](/authors/kristen-roggemann) and [Anand Varghese](/authors/anand-varghese)"
