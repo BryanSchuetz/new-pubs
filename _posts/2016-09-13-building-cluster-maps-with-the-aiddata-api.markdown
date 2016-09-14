@@ -3,8 +3,8 @@ title: Building Cluster Maps with the AidData API
 date: 2016-09-13 08:13:00 -04:00
 published: false
 tags:
-- data
 - Think Piece
+- Data
 Author: John DeRiggi
 ---
 
