@@ -21,4 +21,4 @@ When you enter a country into the search box, the app requests the location-tagg
 
 Some of the project responses contain very little data, others contain lengthy text descriptions. You're likely to find both as you click around the markers.
 
-As for the technical details, this is a super simple web app that runs completely in the browser. It uses an old-fashioned map layer from MapBox and some basic JavaScript for the API calls. We'll put it in a proper open source repository once we've cleaned it up a little that will help us consider new features for the application.
+As for the technical details, the app runs completely in the browser. It uses an old-fashioned map layer from MapBox and some basic JavaScript for the API calls. We'll put it in a proper open source repository once we've cleaned it up. Hopefully doing so will help us consider new features for the application.
