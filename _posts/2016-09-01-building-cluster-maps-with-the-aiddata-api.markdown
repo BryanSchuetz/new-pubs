@@ -2,6 +2,7 @@
 title: Building Cluster Maps with the AidData API
 date: 2016-09-01 08:13:00 -04:00
 published: false
+Author: John DeRiggi
 ---
 
 [AidData](http://aiddata.org/) is an awesome organization. They've built a lightning fast API that exposes a massive amount of structured data about aid finances, projects, locations, and sources of funding.  More broadly and quoted from their Twitter bio, AidData is "a research and innovation lab based at William and Mary providing tools and services to make development finance more transparent and effective."
