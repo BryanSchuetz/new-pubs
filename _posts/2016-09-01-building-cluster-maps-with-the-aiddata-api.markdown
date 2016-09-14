@@ -17,7 +17,7 @@ To use it just type in a country name into the search box and click around the m
 
 **[Click Here to Open the AidData Client](http://daiblogviz.s3-website-us-east-1.amazonaws.com/)**
 
- When you enter a country into the search box, the app requests the location-tagged project data for the country you searched for. Many projects will not show in this response as AidData can only collect data that is easily available.
+When you enter a country into the search box, the app requests the location-tagged project data for the country you searched for. Many projects will not show in this response as AidData can only collect data that is easily available.
 
 Some of the project responses contain very little data, others contain lengthy text descriptions. You're likely to find both as you click around the markers.
 
