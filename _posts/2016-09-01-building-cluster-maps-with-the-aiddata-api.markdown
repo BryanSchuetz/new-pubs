@@ -15,7 +15,7 @@ To scratch the surface of this great API, we built a super simple web app for th
 To use it just type in a country name into the search box and click around the map markers to see more details.
 <!--more-->
 
-**[Click Here to Open the AidData Client](http://daiblogviz.s3-website-us-east-1.amazonaws.com/)**
+**[Click Here to Open the AidData Cluster Map](http://daiblogviz.s3-website-us-east-1.amazonaws.com/)**
 
 When you enter a country into the search box, the app requests the location-tagged project data for the country you searched for. Many projects will not show in this response as AidData can only collect data that is easily available.
 
