@@ -10,7 +10,7 @@ We built a super simple data explorer for GIS elements within the AidData API to
 
 <!--more-->
 
-[AidData Client](http://daiblogviz.s3-website-us-east-1.amazonaws.com/)
+**[Click Here to Open the AidData Client](http://daiblogviz.s3-website-us-east-1.amazonaws.com/)**
 
 This is a super simple web app that runs completely in the browser. Some of the project responses contain very little data, others contain lengthy text descriptions. You're likely to find both as you click around the markers.
 
