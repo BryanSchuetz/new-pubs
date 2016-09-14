@@ -7,7 +7,7 @@ Author: John DeRiggi
 
 [AidData](http://aiddata.org/) is an awesome organization. They've built a lightning fast API that exposes a massive amount of structured data about aid finances, projects, locations, and sources of funding.  More broadly and quoted from their Twitter bio, AidData is "a research and innovation lab based at William and Mary providing tools and services to make development finance more transparent and effective."
 
-We built a super simple data explorer for GIS elements within the AidData API to help us explore past projects in specific countries. The app is a little rough around the edges but we want to share it and upgrade it over the next few months
+To scratch the surface of this great API, we built a super simple data explorer for GIS elements within the AidData API. With some more work we hope it will help us investigate past projects in areas where we work. The app is a little rough around the edges but we want to share it and upgrade it over the next few months.
 
 <!--more-->
 
