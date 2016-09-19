@@ -3,6 +3,8 @@ title: 'From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Dev
   Challenges'
 date: 2016-09-19 16:23:00 -04:00
 published: false
+Author: Karim Bin-Humam
+Alexander Hatzold: 
 ---
 
 By now the much vaunted “Big Data Revolution” that technologists have endlessly “touted” is in full swing. Hardly an industry or economic sector is not actively recognizing and harnessing the potential of digital data actively and passively collected from VARIOUS SOURCES. International Development is no different, as an ever increasing number of programs are being conceived with data for decision making as a central pillar to support improved intervention strategy, activity coordination, and impact measurement. This increased focus on data has lead to new technology-driven solutions for the collection and analysis of data for improved decision making.
