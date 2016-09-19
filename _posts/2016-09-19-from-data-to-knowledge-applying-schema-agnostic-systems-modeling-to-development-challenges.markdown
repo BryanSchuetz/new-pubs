@@ -3,6 +3,9 @@ title: 'From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Dev
   Challenges'
 date: 2016-09-19 16:23:00 -04:00
 published: false
+tags:
+- Think Piece
+- Data
 Author: Karim Bin-Humam
 Alexander Hatzold: 
 ---
