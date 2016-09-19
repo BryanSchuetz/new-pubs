@@ -37,15 +37,11 @@ Once a Meta-Model has been created, data from a variety of sources can be overla
 
 Finally - and perhaps most critically - the model includes a set and sequence of so-called “rules”. Defining rules allows for knowledgeable experts to integrate human understanding of complex subject matter that has been acquired through study and experience into the model. A simple example of such a rule could be that farmers aim to maximize profits by maximizing sales given specific commodity prices. But if this were the only rule encoded into the model, all farmers would simply produce a single crop - the crop with the highest market price - effectively leading to the depression of the market price, incurring greater farmer risk, and leading to farmers producing low-yield crops. So additional rules governing diversification for risk management (e.g. production of at least 2 crop varieties), as well as rules linking local climatic conditions (such as rainfall) to crop variety suitability were also encoded into the model. Finally, a rule governing the optimization of the combination of crop is included. These supply-side rules are then linked to demand data based on aggregate sales volumes of the previous year to link the supply side of the market to the demand side and link traders with to farmers.
 
-![rules3.png](/uploads/rules3.png)
-
-Figure 3:  Once rules have been defined, they are combined into sequences to run simulations
+![rules3.png](/uploads/rules3.png)`Once rules have been defined, they are combined into sequences to run simulations`
 
 A market simulation is run based on sequences of rules (outlined above) to produce a new market scenario in which a group of farmers meet crop demands through an overall harmonization of crop production strategies. The result of the simulation is a set of localized recommendations for farmers for which combination of crops to plant and harvest and at which quantities to optimize efficiency and income based on their local climate and market prices. In this model the suggested ratio of growing the best 2 crops are set to 80% and 20% of each farmer’s total amount. The suggestion itself refers to the amount of land that is supposed to be used to grow each crop as this information can be used easier by the farmers. This ratio could of course be adjusted or a third option could be suggested for each farmer in order to emphasis biological variety in the region.
 
-![CropRecommendationBarChart.PNG](/uploads/CropRecommendationBarChart.PNG)
-
-Figure 4: The outcome of the simulation yields a recommendation for crop production ased on farm size, climate data, and market demand that is more efficient for farmers.
+![CropRecommendationBarChart.PNG](/uploads/CropRecommendationBarChart.PNG)`The outcome of the simulation yields a recommendation for crop production ased on farm size, climate data, and market demand that is more efficient for farmers.`
 
 The simulation of this crop production adjustment on the part of farmers in turn affects future market prices, based upon which the simulation can be iteratively run, until a market-clearing equilibrium is reached. Ultimately, the model reflects the fact that farmers’ incomes depend not only on the size of their land or the market price of the crops they produce, but a combination of that with environmental conditions such as humidity and altitude, and enable macro-level modeling of complex systems to yield localized, specific recommendations for crop optimization based on specialized expertise.
 
