@@ -31,8 +31,7 @@ Every Meta-Model contains a set of basic building blocks classified as either No
 
 
 * **Edges -** are the relationships that define how entities (or nodes) in the model interact with one another. In our model, edges include:
-
-\*\*         1)“Sells”                        2) “Buys”                   3) “are Competitors”\*\*
+  **1)“Sells”                        2) “Buys”                   3) “are Competitors”**
 
 Once a Meta-Model has been created, data from a variety of sources can be overlaid and mapped to the Meta-Model. The meta-model is dataset agnostic, meaning that any different datasets (from different countries for example) can be mapped to the same model. Elements and their relations can be queried as patterns (for example: farmer >> sells >> barley) so that the Meta-Model and the data sets are combined to create an actual working model. This intuitive approach is how an agent-based crop market was modeled.
 
@@ -48,6 +47,6 @@ A market simulation is run based on sequences of rules (outlined above) to produ
 
 The simulation of this crop production adjustment on the part of farmers in turn affects future market prices, based upon which the simulation can be iteratively run, until a market-clearing equilibrium is reached. Ultimately, the model reflects the fact that farmers’ incomes depend not only on the size of their land or the market price of the crops they produce, but a combination of that with environmental conditions such as humidity and altitude, and enable macro-level modeling of complex systems to yield localized, specific recommendations for crop optimization based on specialized expertise.
 
-While this particular model that Soley built doesn’t reflect all the elements and relationships required to manage an entire crop market, the simple use-case demonstrates the potential of schema-agnostic data modeling platforms that can use readily available data and a limited set of expertise-based rules, to provide insight into creating more sustainable and productive markets, whether in agriculture or elsewhere. 
+While this particular model that Soley built doesn’t reflect all the elements and relationships required to manage an entire crop market, the simple use-case demonstrates the potential of schema-agnostic data modeling platforms that can use readily available data and a limited set of expertise-based rules, to provide insight into creating more sustainable and productive markets, whether in agriculture or elsewhere.
 
-*To find out more about Soley's modeling platform and other use cases, visit them at *[https://www.soley.io/en/](https://www.soley.io/en/)
+\*To find out more about Soley's modeling platform and other use cases, visit them at \*[https://www.soley.io/en/](https://www.soley.io/en/)
