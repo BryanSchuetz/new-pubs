@@ -17,7 +17,7 @@ To explore this question, I recently contacted some old friends from Soley GMBH,
 
 ![Overview.png](/uploads/Overview.png)
 
-Figure 1: A Virtual Cop Marketplace Model and Simulation in Soley Studio
+\`Figure 1: A Virtual Cop Marketplace Model and Simulation in Soley Studio\`
 
 ## The process:
 
