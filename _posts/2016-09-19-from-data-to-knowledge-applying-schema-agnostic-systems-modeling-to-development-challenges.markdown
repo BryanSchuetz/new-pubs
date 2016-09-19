@@ -37,7 +37,7 @@ Once a Meta-Model has been created, data from a variety of sources can be overla
 
 ![RecommendationGraph1.PNG](/uploads/RecommendationGraph1.PNG)
 
-Figure 2: A graphical representation of a model that includes nodes (farmers, crops and traders) and edges (quantities of commodities sold and bought by farmer and traders respectively).
+`Figure 2: A graphical representation of a model that includes nodes (farmers, crops and traders) and edges (quantities of commodities sold and bought by farmer and traders respectively).`
 
 Finally - and perhaps most critically - the model includes a set and sequence of so-called “rules”. Defining rules allows for knowledgeable experts to integrate human understanding of complex subject matter that has been acquired through study and experience into the model. A simple example of such a rule could be that farmers aim to maximize profits by maximizing sales given specific commodity prices. But if this were the only rule encoded into the model, all farmers would simply produce a single crop - the crop with the highest market price - effectively leading to the depression of the market price, incurring greater farmer risk, and leading to farmers producing low-yield crops. So additional rules governing diversification for risk management (e.g. production of at least 2 crop varieties), as well as rules linking local climatic conditions (such as rainfall) to crop variety suitability were also encoded into the model. Finally, a rule governing the optimization of the combination of crop is included. These supply-side rules are then linked to demand data based on aggregate sales volumes of the previous year to link the supply side of the market to the demand side and link traders with to farmers.
 
