@@ -19,7 +19,7 @@ This time, it’s straight to the insights.
 
 <!--more-->
 
-## 1. BlackBerry Messenger (BBM), is the 800-pound gorilla of messaging apps, particularly among young people.
+## 1. BlackBerry Messenger (BBM) is the 800-pound gorilla of messaging apps, particularly among young people.
 
 Why BBM when WhatsApp dominates in so many other geographies?  Back in 2011, before the Android democratized the smartphone market, [BlackBerrys accounted for almost half (43 percent) of all mobile phones sold in Indonesia](http://www.theglobeandmail.com/report-on-business/international-business/lack-of-global-knowledge-has-cost-blackberry-indonesia/article21432165/).
 
