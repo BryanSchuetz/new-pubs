@@ -18,7 +18,7 @@ There is little doubt about the value of many of the information systems being u
 
 To explore this question, I recently contacted some old friends from [Soley GMBH](https://www.soley.io/en/), a data analytics startup that specializes in just that—integrating expert knowledge into digital systems to automate resource-intensive workflows, and master complexity. Together we tried to come up with a use case that could demonstrate how their nifty modeling and simulation platform could help us understand how we might optimize farmer crop production in certain regions in Ethiopia to maximize farmer incomes. This was done by simulating a virtual crop marketplace in Ethiopia based on past market price and and localized climate data. The results were a set of recommendations for optimized crop production strategies for individual farmers in the market that would ensure farmers could maximize incomes in coming years just by planting an optimal combination of crops.
 
-![Overview.png](/uploads/Overview.png)`Figure 1: A Virtual Cop Marketplace Model and Simulation in Soley Studio`
+![Overview.png](/uploads/Overview.png)`Figure 1: A Virtual Crop Marketplace Model and Simulation in Soley Studio`
 
 ## The process
 
