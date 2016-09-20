@@ -10,7 +10,7 @@ Author: Karim Bin-Humam
 Alexander Hatzold: 
 ---
 
-By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement. 
+By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement.
 
 <!--more-->
 
@@ -27,13 +27,15 @@ Let us pick pick apart how the good folks at Soley set up the model and came up 
 Every meta-model contains a set of basic building blocks classified as either nodes or edges.
 
 * **Nodes -** are entities within the model that often represent physical actors, goods, or services. In our model, nodes include:
-  * **1) Farmers**
-  * **2) Crops**                   
-  * **3) Traders**
+  * **Farmers**
 
+  * **Crops**
 
+  * **Traders**
 * **Edges -** are the relationships that define how entities (or nodes) in the model interact with one another. In our model, edges include:
-  **1) “Sells”                        2) “Buys”                   3) “are Competitors”**
+  * **“Sells”**                        
+  * **“Buys”**
+  * **“are Competitors”**
 
 Once a meta-model has been created, data from a variety of sources can be overlaid and mapped to the meta-model. The meta-model is dataset agnostic, meaning that any different datasets (from different countries for example) can be mapped to the same model. Elements and their relations can be queried as patterns (for example: farmer >> sells >> barley) so that the meta-model and the data sets are combined to create an actual working model. This intuitive approach is how an agent-based crop market was modeled.
 
