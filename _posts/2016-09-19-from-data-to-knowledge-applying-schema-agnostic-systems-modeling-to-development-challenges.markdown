@@ -27,7 +27,9 @@ Let us pick pick apart how the good folks at Soley set up the model and came up 
 Every meta-model contains a set of basic building blocks classified as either nodes or edges.
 
 * **Nodes -** are entities within the model that often represent physical actors, goods, or services. In our model, nodes include:
-  **1) Farmers                  2) Crops                   3) Traders**
+  * **1) Farmers**
+  * **2) Crops**                   
+  * **3) Traders**
 
 
 * **Edges -** are the relationships that define how entities (or nodes) in the model interact with one another. In our model, edges include:
