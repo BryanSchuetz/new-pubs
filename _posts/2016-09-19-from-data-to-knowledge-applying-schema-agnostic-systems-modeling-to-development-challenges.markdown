@@ -20,7 +20,7 @@ To explore this question, I recently contacted some old friends from [Soley GMBH
 
 ![Overview.png](/uploads/Overview.png)`Figure 1: A Virtual Crop Marketplace Model and Simulation in Soley Studio`
 
-## The process
+## The Process
 
 Let us pick pick apart how the good folks at Soley set up the model and came up with the optimal crop planting strategies for farmers. The first step was to create a so-called meta-model (sometimes referred to as an ontology or a schema) describing all the elements in the system and their interactions, specific to our use case.
 
@@ -41,7 +41,7 @@ Finally—and perhaps most critically—the model includes a set and sequence of
 
 ![rules3.png](/uploads/rules3.png)`Once rules have been defined, they are combined into sequences to run simulations.`
 
-## The result
+## The Result
 
 A market simulation is run based on sequences of rules (as outlined above) to produce a new market scenario in which a group of farmers meet crop demands through an overall harmonization of crop production strategies. The result of the simulation is a set of localized recommendations for farmers for which combination of crops to plant and harvest and at which quantities to optimize efficiency and income based on their local climate and market prices. In this model the suggested ratio of growing the best two crops are set to 80 percent and 20 percent of each farmer’s total amount. The suggestion itself refers to the amount of land that is supposed to be used to grow each crop as this information can be used easier by the farmers. This ratio could of course be adjusted or a third option could be suggested for each farmer to emphasize biological variety in the region.
 
