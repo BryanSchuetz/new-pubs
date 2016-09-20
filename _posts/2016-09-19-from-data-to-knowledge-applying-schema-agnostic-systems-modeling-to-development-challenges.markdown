@@ -51,4 +51,4 @@ The simulation of this crop production adjustment on the part of farmers in turn
 
 While this particular model that Soley built doesn’t reflect all the elements and relationships required to manage an entire crop market, the simple example demonstrates the potential of schema-agnostic data modeling platforms that can use available data and a limited set of expertise-based rules, to provide insights into creating more sustainable and productive markets, whether in agriculture or elsewhere.
 
-*Thanks to our friends at Soley for co-authoring this blog with us! You can check out their suite of tools and more example scenarios on their [website](https://www.soley.io/en/)*
+*Thanks to our friends at Soley for co-authoring this blog with us! You can check out their suite of tools and more scenarios on their [website](https://www.soley.io/en/).*
