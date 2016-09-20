@@ -28,9 +28,7 @@ Every meta-model contains a set of basic building blocks classified as either no
 
 * **Nodes -** are entities within the model that often represent physical actors, goods, or services. In our model, nodes include:
   * **Farmers**
-
   * **Crops**
-
   * **Traders**
 * **Edges -** are the relationships that define how entities (or nodes) in the model interact with one another. In our model, edges include:
   * **“Sells”**                        
