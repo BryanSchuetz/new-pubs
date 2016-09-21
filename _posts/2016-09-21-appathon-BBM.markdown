@@ -13,7 +13,9 @@ As we’ve ramped up our [Digital Insights](http://dai-global-digital.com/tags/?
 
 So far, we’ve covered [WhatsApp](http://dai-global-digital.com/whatsapp-appathon-2016.html), [Facebook Messenger](http://dai-global-digital.com/facebook-messenger.html), [Telegram](http://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html), [Kik](http://dai-global-digital.com/appathon-2016-kik-for-development.html), and [Line](http://dai-global-digital.com/app-a-thon-2016-line-for-development.html). Up to bat this week is BlackBerry Messenger. 
 
-[BBM Logo Here]
+<--more!-->
+
+![plainicon.com-46432-256px-d2a.png](/uploads/plainicon.com-46432-256px-d2a.png)
 
 Key functionalities: Send text, audio photo messages; automatic, timed self-timed disappearance of content (ala Snapchat); real-time location sharing; file sharing; newsfeed as homepage (ala Facebook); channels open up a new content avenues for both users and marketers. Group features are robust; beyond chat, BBM groups can share and comment on photos, make joint to-do lists and assign tasks, and add events. Groups can include up to 50 people. BBM Shop has stickers, ad-free subscriptions, and more stickers. 
 
