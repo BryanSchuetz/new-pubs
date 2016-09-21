@@ -1,6 +1,10 @@
 ---
 title: 'Appathon 2016: Blackberry Messenger for Development'
 date: 2016-09-21 14:04:00 -04:00
+published: false
+tags:
+- Appathon 2016
+Author: Adam Fivenson & John DeRiggi
 ---
 
 Appathon 2016: Blackberry Messenger for Development
