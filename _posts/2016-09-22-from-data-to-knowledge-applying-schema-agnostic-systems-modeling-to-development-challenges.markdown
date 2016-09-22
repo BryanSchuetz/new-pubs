@@ -1,7 +1,7 @@
 ---
 title: 'From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Development
   Challenges'
-date: 2016-09-19 16:23:00 -04:00
+date: 2016-09-22 07:23:00 -04:00
 tags:
 - Think Piece
 - Data
