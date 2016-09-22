@@ -5,7 +5,8 @@ date: 2016-09-22 07:23:00 -04:00
 tags:
 - Think Piece
 - Data
-Author: Karim Bin-Humam & Alexander Hatzold
+Author: "[Karim Bin-Humam](http://dai-global-digital.com/authors/karim-bin-humam/)
+  and [Alexander Hatzold](https://www.linkedin.com/in/alexander-hatzold-30392893)"
 ---
 
 By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement.
