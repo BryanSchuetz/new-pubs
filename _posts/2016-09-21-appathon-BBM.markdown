@@ -1,5 +1,5 @@
 ---
-title: 'App-a-Thon 2016: Blackberry Messenger for Development'
+title: 'App-a-Thon 2016: BlackBerry Messenger for Development'
 date: 2016-09-21 14:04:00 -04:00
 published: false
 tags:
