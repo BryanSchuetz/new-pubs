@@ -8,9 +8,10 @@ Author: Kristen Roggemann
 
 [A spoonful of sugar helps the medicine go down, in a most delightful way](https://www.youtube.com/watch?v=vLkp_Dx6VdI). Mary Poppins was on to something significant in user experience, far before that phrase even entered our lexicon.  How has the sugary world of social media changed the game in ICT4D? More than just providing us with new channels to engage our target audiences, social media has actually taught our beneficiaries how to be a mobile audience.
 
+
+
 It’s no secret that one of the main challenges in ICT4D has been user uptake.  We’ve all heard of (or even implemented) mHealth services that failed to launch or market pricing systems that end up spamming farmers desperate to unsubscribe.  ICT4D deployments have consistently struggled with a persistent inability to gain meaningful traction and scale. Thus we find that we continue to have a bad case of “[pilotitis](https://twitter.com/wayan_vota/status/383367696655474688)”, despite significant investments in the ICT4D sector and rapidly improving technological infrastructure in the vast majority of the markets we seek to serve.
 
-<!--more-->
 
 There are factors we control that drive this lack of uptake – things like irrelevant content, bad design and poor marketing – and factors we have less control over, like users’ inability to access technology and low digital literacy.  I’ve soapboxed about [the need for better content and design in ICT4D](http://www.ictworks.org/2014/10/15/hey-ict4d-it-is-time-we-take-fun-seriously/) in the past, but a conversation recently I had with an old friend made me look at those less controllable factors in a new – and much more positive – light.
 
