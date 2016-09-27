@@ -1,7 +1,6 @@
 ---
 title: 'App-a-Thon 2016: BlackBerry Messenger for Development'
 date: 2016-09-21 14:04:00 -04:00
-published: false
 tags:
 - Appathon 2016
 Author: "[Adam Fivenson](dai-global-digital.com/authors/adam-fivenson) and [John DeRiggi](dai-global-digital.com/authors/john-deriggi/)"
