@@ -1,6 +1,6 @@
 ---
 title: 'Appified: How Social Media is Doing the Hard Work in ICT4D'
-date: 2016-09-26 15:19:00 -04:00
+date: 2016-09-28 15:19:00 -04:00
 tags:
 - Think Piece
 Author: Kristen Roggemann
