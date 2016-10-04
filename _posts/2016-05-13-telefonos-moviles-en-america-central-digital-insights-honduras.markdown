@@ -55,9 +55,9 @@ Durante el último mes hemos estado analizando los datos y nos ha sorprendido c�
 * WhatsApp es la aplicación de mensajería dominante. Line y Facebook Messenger también se utilizan en Honduras pero no son tan populares.
 * Los jóvenes son muy amantes de los juegos móviles. Candy Crush y Clash of Clans son los más populares.
 
-## Próximamente
-* [Los medios sociales y la mensajería instantánea](http://dai-global-digital.com/honduras-digital-insights-preferencias-de-aplicaciones-de-mensajeria.html)
-* ¿Cómo reciben y comparten información en general los jóvenes de riesgo en Honduras?
+## Mas
+* [Los medios sociales y la mensajería instantánea](http://dai-global-digital.com/honduras-consumer-insights-preferencias-de-aplicaciones-de-mensajeria.html)
+
 
 ***
 
