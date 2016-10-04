@@ -22,9 +22,9 @@ For marginalized populations in poor countries, the arrival of the bill—and it
 ## Implementation
 So how is it actually going to happen? The bill charges the State Department, Peace Corps, and USAID with the implementation of the policy, but says little about how they should go about doing so, only that the . That being the case, I have two questions for readers:
 
-1. Did you read the bill differently? Am I missing a key aspect? 
+1. Did you read the bill differently? What am I missing? 
 
-2. The President just appointed you to his Special Task Force for the Implementation of the Digital GAP Act, what would you have State, USAID, and the Peace Corps do? How would they work together to help affordable internet reach the last mile? What about funding? 
+2. The President just appointed you to his Special Task Force for the Implementation of the Digital GAP Act. What would you have State, USAID, and the Peace Corps do? How would they work together to help affordable internet reach the last mile? What about funding? 
 
 
 Universal Service Funds
