@@ -10,7 +10,7 @@ Author: Adam Fivenson
 ---
 
 ![Revised4.png](/uploads/Revised4.png)
-`The author, at right, interviewing a young person in Tegucigalpa, Honduras. Special thanks to Plan International for operational support, and the safety vest!`
+`The author, at right, interviewing a young person near La Paz, western Honduras. Special thanks to Plan International for operational support, and the safety vest!`
 
 *Esta entrada también está disponible en [español](http://dai-global-digital.com/honduras-digital-insights-preferencias-de-aplicaciones-de-mensajeria.html).*
 
