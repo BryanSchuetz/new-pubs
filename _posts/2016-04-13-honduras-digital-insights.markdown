@@ -42,19 +42,16 @@ Over the last month we’ve been analyzing that data, and been surprised more th
 
 * Mobiles are hugely popular. This should surprise no one.
 Smartphones are growing in market share, but are more popular in urban areas than rural areas due to the limited availability of wifi and data services in those areas.
-* Facebook is everywhere. If youth aren’t logging on via their phones, they’re logging on via the computer. For those of us who started using on Facebook on our computers, this seems entirely normal, but in Honduras it’s actually somewhat novel, given that computers aren’t nearly as widespread.
-* When someone buys a phone, the person they buy it from usually helps them set up their Facebook and WhatsApp accounts.
+* Facebook is everywhere. If youth aren’t logging on via their phones, they’re logging on via the computer. For those of us who started using Facebook on our computers, this seems entirely normal, but in Honduras it’s actually somewhat novel, given that computers aren’t nearly as widespread.
+* When someone buys a phone, the person they buy it from usually helps them set up their Facebook and WhatsApp accounts immediately.
 * WhatsApp is the dominant messaging app. Line and Facebook Messenger are also used in Honduras but not nearly as popular.
 * Youth love mobile games. Candy Crush and Clash of Clans are the most popular.
 
 
-## Coming soon
+## Don't miss
 
 *
-[Social media and messaging choices](http://dai-global-digital.com/mobiles-in-central-america-consumer-digital-honduras-part-2.html)
-
-*
-Information flows of choice
+[Social media and messaging choices](http://dai-global-digital.com/mobiles-in-central-america-consumer-digital-honduras-part-2.html
 
 
 ***
