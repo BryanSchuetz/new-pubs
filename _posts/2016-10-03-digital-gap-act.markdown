@@ -37,3 +37,4 @@ So how is it actually going to happen? The bill charges the State Department, Pe
 Universal Service Funds
 Colombia's Plan Nacional de Fibre optica
 Add something about the digital divide
+http://borgenproject.org/house-passes-digital-gap-act/
