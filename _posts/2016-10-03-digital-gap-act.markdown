@@ -2,6 +2,9 @@
 title: Have you read the 2016 Digital GAP Act?
 date: 2016-10-03 22:19:00 -04:00
 published: false
+tags:
+- Think Piece
+Author: Adam Fivenson
 ---
 
 Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?) 
