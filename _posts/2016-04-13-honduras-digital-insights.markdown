@@ -51,8 +51,7 @@ Smartphones are growing in market share, but are more popular in urban areas tha
 ## Don't miss
 
 *
-[Social media and messaging choices](http://dai-global-digital.com/mobiles-in-central-america-digital-honduras-part-2.html)
-
+[Social media and messaging choices](http://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html)
 
 ***
 
