@@ -173,6 +173,24 @@ aside{
   padding: 2rem;
   background-color: lighten($gray, 25%);
 }
+button{
+  outline: none !important;
+}
+button:active{
+  outline: none !important;
+}
+button:focus {
+  outline: none !important;
+}
+button.is-checked{
+  outline: none !important;
+}
+button.more-button.tag-filter{
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+  border-radius: 3px;
+  margin-bottom: .5rem;
+}
 // 🎌The Footer🎌
 .colophon{
   text-align: center;
