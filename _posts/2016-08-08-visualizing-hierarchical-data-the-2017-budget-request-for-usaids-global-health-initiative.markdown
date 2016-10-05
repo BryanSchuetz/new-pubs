@@ -7,7 +7,7 @@ tags:
 Author: John DeRiggi
 ---
 
-![Sunburst](/uploads/Capture.PNG-5e5efd.jpg)
+![Sunburst](/uploads/Capture.png)
 
 Budget data is notoriously difficult to analyze. The volume of data can be high, the long tables are unwieldy, and the structures are almost always multilayered, making it difficult to visualize. But with some of the advanced interactive visualization tools we use at DAI, we can analyze and present even complex data more clearly.
 <!--more-->
