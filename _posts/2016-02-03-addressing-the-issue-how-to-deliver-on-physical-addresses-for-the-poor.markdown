@@ -1,10 +1,9 @@
 ---
 title: 'Addressing the Issue: How to Deliver on Physical Addresses for the Poor'
-date: 2016-02-03 14:24:00 Z
+date: 2016-02-03 09:24:00 -05:00
 tags:
-- GPS
 - Entrepreneurship
-- Physical Addressing
+- Economic Growth
 Author: Karim Bin-Humam
 ---
 

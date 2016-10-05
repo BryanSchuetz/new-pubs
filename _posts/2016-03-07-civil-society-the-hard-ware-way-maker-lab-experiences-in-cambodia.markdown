@@ -1,11 +1,10 @@
 ---
 title: 'Civil Society the Hard(ware) Way: Maker Lab Experiences in Cambodia'
-date: 2016-03-07 13:28:00 Z
+date: 2016-03-07 08:28:00 -05:00
 tags:
-- Civil Society
 - Innovation
-- Maker movement
-- Cambodia
+- Governance
+- Asia and the Pacific
 Author: Rob Ryan-Silva
 ---
 

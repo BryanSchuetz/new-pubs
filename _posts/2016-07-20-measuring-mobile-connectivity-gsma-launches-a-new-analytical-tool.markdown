@@ -2,9 +2,8 @@
 title: 'Measuring Mobile Connectivity: GSMA Launches New Analytical Tool'
 date: 2016-07-20 09:25:00 -04:00
 tags:
-- ICT4D
-- Mobiles
 - Economic Growth
+- Data
 Author: Karim Bin-Humam
 ---
 

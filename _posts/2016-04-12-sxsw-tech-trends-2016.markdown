@@ -1,10 +1,8 @@
 ---
 title: 'SXSW: Tech Trends 2016'
-date: 2016-04-12 20:51:00 Z
+date: 2016-04-12 16:51:00 -04:00
 tags:
-- Technology
 - Innovation
-- SXSW
 Author: Karim Bin-Humam; John Deriggi
 ---
 

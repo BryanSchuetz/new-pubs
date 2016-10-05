@@ -1,9 +1,9 @@
 ---
 title: Afghanistan Produces Highly Skilled Software Engineers
-date: 2016-06-30 09:00:00 Z
+date: 2016-06-30 05:00:00 -04:00
 tags:
 - Afghanistan
-- Software Development
+- Economic Growth
 Author: John DeRiggi
 ---
 

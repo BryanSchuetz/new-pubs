@@ -1,18 +1,16 @@
 ---
-title: 'Consumer Insights Indonesia Part 1: Mobiles & Workforce Development'
-date: 2016-05-17 08:40:00 Z
+title: 'Digital Insights Indonesia Part 1: Mobiles & Workforce Development'
+date: 2016-05-17 04:40:00 -04:00
 categories:
-- Consumer Insights
+- Digital Insights
 tags:
-- ICT4D
-- Consumer Insights
+- Digital Insights
 - Indonesia
-- Mobiles
 Author: Adam Fivenson
 ---
 
 ![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
-`A Consumer Insights survey at Rumah Kitab NGO in East Jakata`
+`A Digital Insights survey at Rumah Kitab NGO in East Jakata`
 
 Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what had appeared to be an open field in the middle of a megacity now comes in to view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be; snack hawkers shout as they amble along the rows of horseshoe shaped headstones, groups of friends congregate alongside tea stands, and families gather around the graves of aunts and uncles. Such was my introduction to the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), where I would soon be playing Simon Says, dancing, and beatboxing with the 60 Indonesian youth who we interviewed about their media and technology habits.
 
@@ -30,7 +28,7 @@ With this as context, DAI is working hard to gain deeper insights into the lives
 
 ## One Week in the Emerald of the Equator
 
-In early April, DAI sent me to Indonesia to replicate [the research I’ve been doing in Honduras](dai-global-digital.com/honduras-consumer-insights.html), which focuses on understanding how at-risk young people participate in information flows.
+In early April, DAI sent me to Indonesia to replicate [the research I’ve been doing in Honduras](dai-global-digital.com/honduras-digital-insights.html), which focuses on understanding how at-risk young people participate in information flows.
 
 Key questions include:
 
@@ -38,11 +36,11 @@ Key questions include:
 
 * Do they have mobile phones? If so, what kind?
 
-* What kinds of communication apps are most popular? 
+* What kinds of communication apps are most popular?
 
 * What kinds of games do they play?
 
-We call this research [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights)—“consumer” as in information consumer—and below is a bit of what we found.
+We call this research [Digital Insights](http://dai-global-digital.com/tags/?tag=digital-insights) and below is a bit of what we found.
 
 ## Demographics of the Sample
 
@@ -50,14 +48,14 @@ We conducted 107 face-to-face interviews with young people. About half were in J
 
 ## Sample Stats
 
-The graphic below contains a few sample, binary results from our survey in Indonesia. Eighty-six percent of our respondents had mobile phones; 62 percent had smartphones, 77 percent use Facebook on their phones, and 48 percent are mobile gamers. 
+The graphic below contains a few sample, binary results from our survey in Indonesia. Eighty-six percent of our respondents had mobile phones; 62 percent had smartphones, 77 percent use Facebook on their phones, and 48 percent are mobile gamers.
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 
-## More on Consumer Insights Indonesia
+## More on Digital Insights Indonesia
 
-* [Social Media Habits & App Choices](http://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-consumer-insights-indonesia.html).
+* [Social Media Habits & App Choices](http://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html).
 
 ***
 
-*The author would like to thank [Plan Indonesia](https://plan-international.org/indonesia) for assistance in carrying out Consumer Insights research.*
+*The author would like to thank [Plan Indonesia](https://plan-international.org/indonesia) for assistance in carrying out Digital Insights research.*

@@ -1,10 +1,9 @@
 ---
 title: Defeated by the Digital Divide? Invest in Inclusion
-date: 2016-03-08 08:45:00 Z
+date: 2016-03-08 03:45:00 -05:00
 tags:
 - Cambodia
 - Innovation
-- Women
 Author: Kate Heuisler
 ---
 

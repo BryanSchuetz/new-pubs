@@ -8,5 +8,6 @@
   link: "http://dai-global-digital.com{{ post.url }}"
   summary: "{{ post.excerpt | strip_html | rstrip | lstrip }}"
   tags:
-    - digital
+    - digital {% for tag in post.tags%}
+    - {{ tag }} {% endfor %}
 {% endfor %}

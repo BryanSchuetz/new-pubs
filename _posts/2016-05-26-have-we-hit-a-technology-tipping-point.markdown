@@ -1,6 +1,6 @@
 ---
 title: Have We Hit a Tech Tipping Point? Observations from Cambodia
-date: 2016-05-26 08:00:00 Z
+date: 2016-05-26 04:00:00 -04:00
 tags:
 - Cambodia
 - Think Piece
@@ -25,7 +25,7 @@ This surprised me too. There are always two main challenges in planning a new IC
 
 So what’s going on? Why are older Cambodians, even in rural areas, so willing to try new technologies? My first theory is that a lot of this has to do with Facebook. Most people on the planet have heard about Facebook at this point, and those who don’t have an account have either a) seen a family member or friend playing with it, or b) heard about it via word of mouth or traditional media. The Zuckerburg mythology runs strong, especially in these parts of the world, and people are eager to see what the fuss is about.  A digital fear of missing out, if you will.
 
-My second theory is that because smartphones are so widely adopted, even in places where we don’t expect them (see all of DAI’s [Consumer Insights research](http://dai-global-digital.com/tags/?tag=consumer-insights) on this), the presence and utility of technology is just far more accepted. Through repeated exposure from friends/family/community/media, even the technophobic have become technocurious.
+My second theory is that because smartphones are so widely adopted, even in places where we don’t expect them (see all of DAI’s [Digital Insights research](http://dai-global-digital.com/tags/?tag=digital-insights) on this), the presence and utility of technology is just far more accepted. Through repeated exposure from friends/family/community/media, even the technophobic have become technocurious.
 
 It’s exciting to know this—one big barrier to ICT4D may have been cleared by two factors: the market and time. Still this forces us to ask ourselves, what about sustained usage? Uptake certainly does not equal robust usage, and design is an important driver in ensuring a service is actually used. Perhaps what this means is that we now can focus our efforts on truly robust and user-centered design; knowing that finally, if we build it, and build it well, they will come.
 

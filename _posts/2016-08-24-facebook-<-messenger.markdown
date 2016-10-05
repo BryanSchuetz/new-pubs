@@ -3,11 +3,10 @@ title: 'App-a-Thon 2016: Facebook  Messenger for Development'
 date: 2016-08-24 10:14:00 -04:00
 tags:
 - Appathon 2016
-- Smartphones
-Author: Adam Fivenson & John DeRiggi
+Author: Adam Fivenson and John DeRiggi
 ---
 
-*As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “[App-a-Thon 2016](http://dai-global-digital.com/tags/?tag=appathon-2016)” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.*
+*As we’ve ramped up our [Digital Insights](http://dai-global-digital.com/tags/?tag=digital-insights) work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “[App-a-Thon 2016](http://dai-global-digital.com/tags/?tag=appathon-2016)” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.*
 
 *Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.*
 
@@ -19,7 +18,7 @@ Author: Adam Fivenson & John DeRiggi
 
 **Pros:** Rides on the back of Facebook, which is used by more than a billion people, according to Facebook. Just like with WhatsApp, many phones come pre-loaded with Messenger. Features like GIF search adds flavor to conversations and the secret basketball and chess games are hidden gems. Payments open up major possibilities. Accessible via web browser.
 
-**Cons:** What happened to Facebook private messages? Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly? 
+**Cons:** What happened to Facebook private messages? Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly?
 
 ## Commentary
 *See YouTube video below.*
@@ -27,7 +26,9 @@ Author: Adam Fivenson & John DeRiggi
 *We recommend viewing in full screen and HD quality.*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
 
-Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even short message services. What we’re less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people—and help them order products—there aren’t yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care? 
+## So what do we conclude?
+
+Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even short message services. What we’re less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people—and help them order products—there aren’t yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care?
 
 
 *Interested in hearing more about other the other apps we tested in App-a-Thon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
@@ -37,18 +38,18 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 ***
 
 
-## Full text of video 
+## Full text of video
 *For those without access to YouTube*
 
 **John:** Hey Adam
 
-**Adam:** What's up? 
+**Adam:** What's up?
 
 **John:** Did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
-**Adam:** Impressive, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. 
+**Adam:** Impressive, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature.
 
 [Facebook Messenger Is Getting Slammed By Tons Of Negative Reviews Right Now](http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8)
 
@@ -66,7 +67,7 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 
 [Facebook Users Are Sharing Fewer Personal Updates and It’s a Big Problem](http://fortune.com/2016/04/07/facebook-sharing-decline/)
 
-**Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… 
+**Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price…
 
 [Snapchat Passes Twitter in Daily Usage](http://www.bloomberg.com/news/articles/2016-06-02/snapchat-passes-twitter-in-daily-usage)
 
@@ -108,7 +109,7 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 
 [Four Months Into ‘Chatbot Revolution,’ Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo)
 
-**Adam:** Totally. 
+**Adam:** Totally.
 
 **Adam:** From an international development standpoint, chatbots do present some big opportunities.
 

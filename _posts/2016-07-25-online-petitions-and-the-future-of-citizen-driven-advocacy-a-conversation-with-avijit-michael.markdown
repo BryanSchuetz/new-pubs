@@ -3,8 +3,6 @@ title: 'Online Petitions and the Future of Citizen-driven Advocacy: A Conversati
   with Avijit Michael'
 date: 2016-07-25 11:39:00 -04:00
 tags:
-- ICT4D
-- India
 - Governance
 Author: Anand Varghese
 ---

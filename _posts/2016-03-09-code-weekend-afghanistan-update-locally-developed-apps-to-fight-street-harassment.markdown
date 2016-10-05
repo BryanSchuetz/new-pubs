@@ -1,10 +1,10 @@
 ---
 title: 'Code Weekend: Locally Developed Apps Aim to Fight Street Harassment'
-date: 2016-03-09 18:41:00 Z
+date: 2016-03-09 13:41:00 -05:00
 tags:
-- Afghanistan
-- Women
 - Innovation
+- Governance
+- Eastern Europe and Central Asia
 Author: Anand Varghese
 ---
 

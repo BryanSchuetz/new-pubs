@@ -101,10 +101,10 @@ a{
 a:hover{
   color: darken($blue, 10%);;
 }
-a:not(.without-style){
+a:not(.without-style, .post-details--byline a){
   border-bottom: 2px solid $blue;
 }
-a:not(.without-style):hover{
+a:not(.without-style, .post-details--byline a):hover{
   border-bottom: 2px solid darken($blue, 10%);
 }
 

@@ -1,9 +1,10 @@
 ---
 title: Digitizing Education Fairs to Reach South Asian Young People at Scale
-date: 2016-04-25 09:00:00 Z
+date: 2016-04-25 05:00:00 -04:00
 tags:
-- EU
 - Education
+- European Union
+- Asia and the Pacific
 Author: Cari Wood
 ---
 

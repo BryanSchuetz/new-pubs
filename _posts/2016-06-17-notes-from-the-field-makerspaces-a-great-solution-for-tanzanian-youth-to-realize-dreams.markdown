@@ -1,11 +1,10 @@
 ---
 title: 'Notes from the Field: Makerspaces a Great Solution for Tanzanian Youth to
   Realize Dreams'
-date: 2016-06-17 19:15:00 Z
+date: 2016-06-17 15:15:00 -04:00
 tags:
-- Tanzania
-- Maker movement
 - Innovation
+- Sub-Saharan Africa
 Author: Caity Campos and Colleen Green
 ---
 

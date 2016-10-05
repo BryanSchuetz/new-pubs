@@ -1,15 +1,13 @@
 ---
 title: 6 Amazing Examples Proving that the Medical Technology Transformation is Upon
   Us
-date: 2016-04-28 08:18:00 Z
+date: 2016-04-28 04:18:00 -04:00
 categories:
-- SXSW2016
-- Bioelectronics
-- MedTech
+- Health
+- Innovation
 tags:
-- SXSW
-- Bioelectronics
-- MedTech
+- Health
+- Innovation
 Author: John DeRiggi
 ---
 

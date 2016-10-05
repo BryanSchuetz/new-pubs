@@ -1,10 +1,8 @@
 ---
 title: 5 (and 1/2) Things We Learned from Teaching the Digital Principles
-date: 2016-06-09 00:00:00 Z
+date: 2016-06-08 20:00:00 -04:00
 tags:
 - Digital Principles
-- ICT4D
-- Training
 Author: Krista Baptista, Kristen Roggemann, Anand Varghese
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Data Mining and the Human Development Index
-date: 2016-03-10 04:00:00 Z
+date: 2016-03-09 23:00:00 -05:00
 tags:
-- UN
-- Data Mining
-- Dendogram
+- Data
+- Health
 Author: John DeRiggi
 ---
 
