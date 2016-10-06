@@ -9,7 +9,6 @@ tags:
 Author: Adam Fivenson
 ---
 
-![Revised3.jpg](/uploads/Revised3.jpg)
 `The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras`
 
 *Esta entrada también está disponible en [español](http://dai-global-digital.com/telefonos-moviles-en-america-central-digital-insights-honduras.html).*
