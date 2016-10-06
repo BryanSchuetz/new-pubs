@@ -9,8 +9,6 @@ tags:
 Author: Adam Fivenson
 ---
 
-`El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras`
-
 *This post is also available in [English](http://dai-global-digital.com/honduras-digital-insights.html).*
 
 ## Chamelecón
