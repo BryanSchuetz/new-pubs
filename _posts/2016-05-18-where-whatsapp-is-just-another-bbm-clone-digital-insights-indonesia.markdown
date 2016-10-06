@@ -10,9 +10,6 @@ tags:
 Author: Adam Fivenson
 ---
 
-![remake.jpg](/uploads/remake.jpg)
-`Digital Insights participants in Semarang, Central Java, Indonesia.`
-
 Last time, in [Digital Insights Indonesia: Mobiles & Workforce Development](http://dai-global-digital.com/indonesia-digital-insights.html), I described the Digital Insights research I recently conducted in Indonesia. To recap: we interviewed 107 Indonesian youth between the ages of 16 and 24, all from marginalized neighborhoods. Our goal was to understand how they receive and share information, what kind of mobile technologies they use, and which messaging and social media apps they prefer. For a full description and more context, please see that [post](http://dai-global-digital.com/indonesia-digital-insights.html).
 
 This time, it’s straight to the insights.
