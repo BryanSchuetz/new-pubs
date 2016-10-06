@@ -9,9 +9,6 @@ tags:
 Author: Adam Fivenson
 ---
 
-![IMG_20160402_104101258.jpg](/uploads/IMG_20160402_104101258.jpg)
-`A Digital Insights survey at Rumah Kitab NGO in East Jakata`
-
 Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what had appeared to be an open field in the middle of a megacity now comes in to view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be; snack hawkers shout as they amble along the rows of horseshoe shaped headstones, groups of friends congregate alongside tea stands, and families gather around the graves of aunts and uncles. Such was my introduction to the East Jakarta neighborhood of [Cipinang Besar Utara](https://goo.gl/maps/goZzRo6ZXWq), where I would soon be playing Simon Says, dancing, and beatboxing with the 60 Indonesian youth who we interviewed about their media and technology habits.
 
 <!--more-->
