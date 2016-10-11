@@ -29,7 +29,7 @@ For those who believe in the digital divide—both between countries and within 
 According to the International Telecommunication Union (ITU), [60 percent of the world’s population remains without internet access](http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf), and an estimated 75 percent of that population lives in just 20 countries and is [largely rural, female, elderly, illiterate, and low-income](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?). Internet access, provided at broadband speeds and at price points which are affordable—2 percent or less of monthly income, according to the Alliance for Affordable Internet’s [2015-2016 Internet Affordability Report](http://a4ai.org/affordability-report/)—will be a key driver of the next epoch of global gains in incomes, equality, rights, and security around the world. 
 
 ## Implementation
-So how is it actually going to happen? The bill charges the State Department, Peace Corps, and USAID with the implementation of the policy, but says little about how they should go about doing so, only that the . That being the case, I have two questions for readers:
+So how is it actually going to happen? The bill charges the State Department, Peace Corps, and USAID with the implementation of the policy, but says little about how they should go about doing so, only that the President has 180 days after the passage of the Act to deliver an implementation plan to Congress. That being the case, I have two questions for readers:
 
 1. Did you read the bill differently? What am I missing? 
 
