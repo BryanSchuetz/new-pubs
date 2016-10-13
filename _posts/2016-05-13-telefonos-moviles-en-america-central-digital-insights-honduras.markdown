@@ -9,6 +9,9 @@ tags:
 Author: Adam Fivenson
 ---
 
+![HondurasCI.jpg](/uploads/HondurasCI.jpg)
+`El autor en una cocina en San Jose Ulloa, Tegucigalpa`
+
 *This post is also available in [English](http://dai-global-digital.com/honduras-digital-insights.html).*
 
 ## Chamelecón
