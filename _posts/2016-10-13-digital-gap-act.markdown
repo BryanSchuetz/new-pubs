@@ -1,6 +1,6 @@
 ---
 title: Have You Read the 2016 Digital GAP Act?
-date: 2016-10-03 22:19:00 -04:00
+date: 2016-10-13 09:19:00 -04:00
 tags:
 - Think Piece
 Author: Adam Fivenson
