@@ -8,7 +8,6 @@ Author: Adam Fivenson
 
 Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?) If you’re an ICT4D practitioner, you should. 
 
-<!--more-->
 
 ![Digital-GAP-ACT-530x297.jpg](/uploads/Digital-GAP-ACT-530x297.jpg)
 
@@ -21,6 +20,8 @@ The bill was just passed in the House (unanimously, no less), and is speeding to
 5. The growth of the internet as a lever for economic growth and trade, democracy, transparency, and human rights
 6. Improved access for women, people with disabilities, minorities, and underserved populations
 7. Cybersecurity and data protection in the international sphere
+
+<!--more-->
 
 ## Why now?
 For those who believe in the digital divide—both between countries and within them—the bill is welcome news. For marginalized populations themselves, it represents a lifeline from the world of Ubers and WhatsApps that is currently leaving them behind, both innovators and consumers. 
