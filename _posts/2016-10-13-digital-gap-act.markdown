@@ -6,7 +6,9 @@ tags:
 Author: Adam Fivenson
 ---
 
-Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?)? If you’re an ICT4D practitioner, you should. 
+Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?)? 
+
+If you’re an ICT4D practitioner, you should. 
 
 ![binary-1695475_1920.jpg](/uploads/binary-1695475_1920.jpg)
 
