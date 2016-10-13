@@ -10,7 +10,7 @@ Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.
 
 ![binary-1695475_1920.jpg](/uploads/binary-1695475_1920.jpg)
 
-The bill was just passed in the House (unanimously, no less), and is speeding toward a Senate vote. So, what’s it all about? In short, it enshrines the growth of affordable internet access as a tenet of U.S. foreign policy by promoting: 
+The bill was just passed in the House and is speeding toward a Senate vote. So, what’s it all about? In short, it enshrines the growth of affordable internet access as a tenet of U.S. foreign policy by promoting: 
 
 1. First-time broadband internet access for at least 1.5 billion additional people in developing countries by 2020 
 2. Internet capacity building in those countries
