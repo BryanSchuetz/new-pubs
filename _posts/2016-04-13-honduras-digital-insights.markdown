@@ -9,6 +9,9 @@ tags:
 Author: Adam Fivenson
 ---
 
+![HondurasCI.jpg](/uploads/HondurasCI.jpg)
+`The author in a kitchen in San Jose Ulloa, Tegucigalpa`
+
 *Esta entrada también está disponible en [español](http://dai-global-digital.com/telefonos-moviles-en-america-central-digital-insights-honduras.html).*
 
 To the casual observer, Chamelecón looks like any other marginalized Central American neighborhood: low-slung, pastel-colored shops line its main road, channeling a ceaseless flow of pedestrians, produce carts, motorcycles, and cars. Yet behind this mundane facade, the residents of Chamalecón face some significant challenges: poverty, unemployment, migration, family disintegration, gang infiltration, violence, and impunity. While this combination of risk factors is common in at-risk* neighborhoods around Central America, in communities on the periphery of San Pedro Sula such as Chamalecón, they coincide with acute force—each factor feeding off the rest and exacerbating the daily risks that residents face.
