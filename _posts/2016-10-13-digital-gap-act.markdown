@@ -34,4 +34,7 @@ So how is it actually going to happen? The bill charges the State Department, Pe
 
 1. Did you read the bill differently? What am I missing? 
 
-2. The President just appointed you to his Special Task Force for the Implementation of the Digital GAP Act. What would you have State, USAID, and the Peace Corps do? How would they work together to help affordable internet reach those living past the last mile? What about funding, given that the [Congressional Budget Office estimates implementation at only $500,000]( https://www.cbo.gov/publication/51942)?
+2. *Pop quiz, hot shot:* The President just appointed you to his Special Task Force for the Implementation of the Digital GAP Act. 
+* What would you have State, USAID, and the Peace Corps do? 
+* How would they work together to help affordable internet reach those living past the last mile? 
+* What about funding, given that the [Congressional Budget Office estimates implementation at only $500,000]( https://www.cbo.gov/publication/51942)?
