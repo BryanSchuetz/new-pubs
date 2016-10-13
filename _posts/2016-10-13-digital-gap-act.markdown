@@ -14,6 +14,8 @@ If you’re an ICT4D practitioner, you should.
 
 The bill was just passed in the House and is speeding toward a Senate vote. So, what’s it all about? In short, it enshrines the growth of affordable internet access as a tenet of U.S. foreign policy by promoting: 
 
+<!--more-->
+
 1. First-time broadband internet access for at least 1.5 billion additional people in developing countries by 2020 
 2. Internet capacity building in those countries
 3. “Build-once policies” that encourage the construction of broadband conduit pipes during any public infrastructure project, particularly road building
@@ -21,8 +23,6 @@ The bill was just passed in the House and is speeding toward a Senate vote. So, 
 5. The growth of the internet as a lever for economic growth and trade, democracy, transparency, and human rights
 6. Improved access for women, people with disabilities, minorities, and underserved populations
 7. Cybersecurity and data protection in the international sphere
-
-<!--more-->
 
 ## Why now?
 For those who believe in the digital divide—both between countries and within them—the bill is welcome news. For marginalized populations themselves, it represents a lifeline from the world of Ubers and WhatsApps that is currently leaving them behind, both innovators and consumers. 
