@@ -9,6 +9,9 @@ tags:
 Author: Adam Fivenson
 ---
 
+![HondurasCI2.jpg](/uploads/HondurasCI2.jpg)
+`The author interviews a youth in the mountains above La Paz`
+
 *Esta entrada también está disponible en [español](http://dai-global-digital.com/honduras-digital-insights-preferencias-de-aplicaciones-de-mensajeria.html).*
 
 ## Social Media and Messaging Choices
