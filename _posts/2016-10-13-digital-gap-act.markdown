@@ -8,8 +8,7 @@ Author: Adam Fivenson
 
 Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?) If you’re an ICT4D practitioner, you should. 
 
-
-![Digital-GAP-ACT-530x297.jpg](/uploads/Digital-GAP-ACT-530x297.jpg)
+![binary-1695475_1920.jpg](/uploads/binary-1695475_1920.jpg)
 
 The bill was just passed in the House (unanimously, no less), and is speeding toward a Senate vote. So, what’s it all about? In short, it enshrines the growth of affordable internet access as a tenet of U.S. foreign policy by promoting: 
 
