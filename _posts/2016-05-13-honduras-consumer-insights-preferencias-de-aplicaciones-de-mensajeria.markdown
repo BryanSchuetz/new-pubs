@@ -10,7 +10,7 @@ Author: Adam Fivenson
 ---
 
 ![HondurasCI2.jpg](/uploads/HondurasCI2.jpg)
-`El autor entrevista a un joven en las montañas de La Paz`
+`El autor entrevistando a un joven en las montañas de La Paz`
 
 *This post is also available in [English](http://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html).*
 
