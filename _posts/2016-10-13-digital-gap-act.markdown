@@ -6,7 +6,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-*Update: Since I wrote ths, Congress.gov removed the text of the bill so I pasted it at the [bottom of this post](#Full-text-of-bill).*
+*Update: Since I wrote this, Congress.gov removed the text of the bill. It's now pasted at the [bottom of this post](#Full-text-of-bill).*
 
 ### <a name="head1234"></a>A Heading in this SO entry!
 
