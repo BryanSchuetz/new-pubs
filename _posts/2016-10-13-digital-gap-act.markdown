@@ -41,10 +41,11 @@ So how is it actually going to happen? The bill charges the State Department, Pe
 * How would they work together to help affordable internet reach those living past the last mile? 
 * What about funding, given that the [Congressional Budget Office estimates implementation at only $500,000]( https://www.cbo.gov/publication/51942)?
 
-
 ========================================
-<a name="fulltext"></a>
+
 # Full text of bill
+<a name="fulltext"></a>
+
 
 114th CONGRESS
 2d Session
