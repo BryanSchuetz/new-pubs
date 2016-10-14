@@ -6,9 +6,9 @@ tags:
 Author: Adam Fivenson
 ---
 
-*Update: Since I wrote this, Congress.gov removed the text of the bill. It's now pasted at the [bottom of this post](#fulltext).*
+*Update: Since I wrote this, Congress.gov removed the text of the bill. It's now pasted at the [bottom](#fulltext).*
 
-Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?)? 
+Have you read the [Digital Global Access Policy (GAP) Act](#fulltext)? 
 
 If you’re an ICT4D practitioner, you should. 
 
