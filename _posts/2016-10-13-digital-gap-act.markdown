@@ -43,7 +43,6 @@ So how is it actually going to happen? The bill charges the State Department, Pe
 
 ========================================
 <a name="fulltext"></a>
-
 # Full text of bill
 
 114th CONGRESS
