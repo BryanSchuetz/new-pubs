@@ -6,7 +6,9 @@ tags:
 Author: Adam Fivenson
 ---
 
-*Update: Since I wrote ths, Congress.gov removed the text of the bill so I pasted it at the bottom of this post.*
+*Update: Since I wrote ths, Congress.gov removed the text of the bill so I pasted it at the [bottom of this post](#Full-text-of-bill).*
+
+### <a name="head1234"></a>A Heading in this SO entry!
 
 Have you read the [Digital Global Access Policy (GAP) Act](https://www.congress.gov/bill/114th-congress/house-bill/5537/text?)? 
 
@@ -43,7 +45,7 @@ So how is it actually going to happen? The bill charges the State Department, Pe
 
 
 ========================================
-Full text of bill
+## Full text of bill
 
 114th CONGRESS
 2d Session
