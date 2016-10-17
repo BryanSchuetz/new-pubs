@@ -12,7 +12,8 @@ Author: "[Adam Fivenson](authors/adam-fivenson) and [John DeRiggi](authors/john-
 
 <!--more-->
 
-![-icon-bbm-logo-format-cdr-download-vector-logo-icon-bbm-icon-bbm-logo-1.jpg](/uploads/-icon-bbm-logo-format-cdr-download-vector-logo-icon-bbm-icon-bbm-logo-1.jpg)
+![plainicon.com-46432-256px-d2a.png](/uploads/plainicon.com-46432-256px-d2a.png)
+
 
 **Key functionalities:** Send text, audio photo messages; automatic, timed self-timed disappearance of content (a la Snapchat); real-time location sharing; file sharing; newsfeed as homepage (a la Facebook); channels open up a new content avenues for both users and marketers. Group features are robust; beyond chat, BBM groups can share and comment on photos, make joint to-do lists and assign tasks, and add events. Groups can include up to 50 people. BBM Shop has stickers, ad-free subscriptions, and more stickers.
 
