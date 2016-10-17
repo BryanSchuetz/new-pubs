@@ -56,7 +56,8 @@ So how is it actually going to happen? The bill charges the State Department, Pe
  
 *[Subscribe here](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest ICT4D blogs in your inbox.*
 
-=========================================================
+***
+
 <a name="fulltext"></a>
 
 # Full text of bill
