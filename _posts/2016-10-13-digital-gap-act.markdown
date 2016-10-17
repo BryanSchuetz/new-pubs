@@ -54,7 +54,7 @@ So how is it actually going to happen? The bill charges the State Department, Pe
 
 **Would love to hear your response to any or all of these questions [via Facebook](https://www.facebook.com/DAIGlobal/posts/10154523428275797).**
  
-*[Subscribe here](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest ICT4D blogs in your inbox.*
+*Don't miss a post! [Click here](https://confirmsubscription.com/h/r/066AFBA15492935C) to subscribe our weekly Digital@DAI digest email.*
 
 ***
 
