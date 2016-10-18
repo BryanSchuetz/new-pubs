@@ -21,5 +21,5 @@ Ever since the first Blogs & Bullets report released in 2010, the authors have u
 
 This framework, while it has its roots in academic research, can help us ask some critical questions as we build our ICT projects: which of these five levels do we want to affect? Is the dollar we spend on expanding individual competencies better spent on creating collective action? Are we confusing a globally-trending hashtag with real change on the ground? More broadly, I hope we see more of this kind of research coming out of academia and that ICT practitioners can draw upon it to design better projects and interventions. 
 
-Geeks of the world, unite. We have nothing to lose but our poorly-constructed logic frameworks. 
+_Geeks of the world, unite. We have nothing to lose but our poorly-constructed logic frameworks._ 
 
