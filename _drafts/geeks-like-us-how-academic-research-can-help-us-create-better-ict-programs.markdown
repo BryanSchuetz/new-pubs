@@ -11,7 +11,7 @@ In a not-so-distant past life, I was at the [PeaceTech Lab](http://www.peacetech
 
 Ever since the first Blogs & Bullets report released in 2010, the authors have used ‘five lenses of analysis’ to investigate  how ICTs trigger or foster the kind of ‘bottom up’ political activism we saw in Tahrir Square in 2011. According to the authors, these lenses are “designed to .. avoid overly generalized arguments that social media generically causes democratization or radicalization or anything else.” Translation: if we’re going to talk about ICTs causing change, then we need to be much clearer about exactly how we think that change is likely to occur.
 
-###The 'Five Lenses' 
+### The 'Five Lenses' 
 
 You can read about the framework in more detail 
 [here](http://www.usip.org/sites/default/files/pw65.pdf) (it begins on page 9), but I thought it would be an interesting exercise to apply this framework to the kind of work we do in the field:
