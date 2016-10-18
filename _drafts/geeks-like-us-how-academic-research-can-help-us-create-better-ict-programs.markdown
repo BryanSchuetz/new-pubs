@@ -20,7 +20,7 @@ You can read about the framework in more detail
 
 **Collective action:** ICTs can also help large groups of people come together in common cause (as we saw in Egypt in 2011), or even at a hyper-local level to fight corruption, lobby their government for a policy change, etc.
 
-**Intergroup dynamics:** ICTs have become powerful tools to create connections between people across different spaces – from the [geo-political](https://www.facebook.com/peace) to the \[professional\](https://usaidlearninglab.org/sites/default/files/resource/files/Supporting Communities of Practice.pdf). They have even [connected Western geeks with Egyptian activists](http://www.huffingtonpost.com/2011/01/29/anonymous-internet-egypt_n_815889.html).
+**Intergroup dynamics:** ICTs have become powerful tools to create connections between people across different spaces – from the [geo-political](https://www.facebook.com/peace) to the [professional](https://usaidlearninglab.org/sites/default/files/resource/files/Supporting Communities of Practice.pdf). They have even [connected Western geeks with Egyptian activists](http://www.huffingtonpost.com/2011/01/29/anonymous-internet-egypt_n_815889.html).
 
 **Power and reach of the state:** ICTs can help the state do its job better. In most cases, that’s for the better, as in the case of [Estonia](http://www.theatlantic.com/international/archive/2014/01/lessons-from-the-worlds-most-tech-savvy-government/283341/). In other places, ICTs can simply extend the state’s  ability to crush dissent and [spy on its citizens](https://www.washingtonpost.com/opinions/cyber-surveillance-is-a-way-of-life-in-china/2016/01/29/e4e856dc-c476-11e5-a4aa-f25866ba0dc6_story.html?utm_term=.c07800e947c9).
 
