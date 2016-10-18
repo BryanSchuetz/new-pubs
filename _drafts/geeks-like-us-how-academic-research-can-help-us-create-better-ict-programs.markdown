@@ -3,6 +3,7 @@ title: 'Geeks Like Us: How academic research can help us create better ICT progr
 date: 2016-10-18 13:40:00 -04:00
 tags:
 - Think Piece
+Author: Anand Varghese
 ---
 
 In a not-so-distant past life, I was at the [PeaceTech Lab](http://www.peacetechlab.org/technology/ptx/), a spin-off from the [US Institute of Peace](https://www.usip.org/). For the most part, the Lab executes in-country technology and media projects, but one vestige of its parent organization’s think tank legacy is the [Blogs & Bullets](http://www.peacetechlab.org/data/blogs-and-bullets) project – a research initiative done in partnership with some of the wonkiest political science and data analysis geeks from George Washington University, American University, and Stanford University. As I’ve made my transition into a full-time ‘do tank’ like DAI, it’s become easy to dismiss (or forget) the somewhat esoteric pursuits of our friends in academia. But with the release last week of the [latest installment](http://www.peacetechlab.org/blogs-bullets-iv) in the Blogs & Bullets series, I was reminded just how important the work of the Ivory Tower is to advancing our understanding of the role of ICTs in creating ‘real world’ change in the places where we work.
