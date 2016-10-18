@@ -14,7 +14,7 @@ Ever since the first Blogs & Bullets report released in 2010, the authors have u
 ###The 'Five Lenses' 
 
 You can read about the framework in more detail 
-[`here`](http://www.usip.org/sites/default/files/pw65.pdf) (it begins on page 9), but I thought it would be an interesting exercise to apply this framework to the kind of work we do in the field:
+[here](http://www.usip.org/sites/default/files/pw65.pdf) (it begins on page 9), but I thought it would be an interesting exercise to apply this framework to the kind of work we do in the field:
 
 **Individual attitudes and competencies:** At their most basic level, ICTs can change the way individuals interact with various institutions, for example by providing them with new information (e.g. [crop pricing or market information](http://dai.com/stories/farm-price-index-expands-cover-northern-western-afghanistan)) or getting them involved in the political process (e.g. helping them locate their closest polling station). When we’re successful, ICTs can even change an individual’s behavior (e.g. reduced smoking as a result of public health campaigns).
 
