@@ -1,6 +1,8 @@
 ---
 title: 'Geeks Like Us: How academic research can help us create better ICT programs'
 date: 2016-10-18 13:40:00 -04:00
+tags:
+- Think Piece
 ---
 
 In a not-so-distant past life, I was at the [PeaceTech Lab](http://www.peacetechlab.org/technology/ptx/), a spin-off from the [US Institute of Peace](https://www.usip.org/). For the most part, the Lab executes in-country technology and media projects, but one vestige of its parent organization’s think tank legacy is the [Blogs & Bullets](http://www.peacetechlab.org/data/blogs-and-bullets) project – a research initiative done in partnership with some of the wonkiest political science and data analysis geeks from George Washington University, American University, and Stanford University. As I’ve made my transition into a full-time ‘do tank’ like DAI, it’s become easy to dismiss (or forget) the somewhat esoteric pursuits of our friends in academia. But with the release last week of the [latest installment](http://www.peacetechlab.org/blogs-bullets-iv) in the Blogs & Bullets series, I was reminded just how important the work of the Ivory Tower is to advancing our understanding of the role of ICTs in creating ‘real world’ change in the places where we work. 
@@ -18,7 +20,7 @@ You can read about the framework in more detail [here](http://www.usip.org/sites
 
 **Intergroup dynamics:** ICTs have become powerful tools to create connections between people across different spaces – from the [geo-political](https://www.facebook.com/peace) to the [professional](https://usaidlearninglab.org/sites/default/files/resource/files/Supporting Communities of Practice.pdf). 
 
-**Power and reach of the state:** ICTs can help the state do its job better. In most cases, that’s for the better, as in the case of [Estonia](http://www.theatlantic.com/international/archive/2014/01/lessons-from-the-worlds-most-tech-savvy-government/283341/). In other places, ICTs can simply extend the state’s  ability to crush dissent and [spy on n its citizens](https://www.washingtonpost.com/opinions/cyber-surveillance-is-a-way-of-life-in-china/2016/01/29/e4e856dc-c476-11e5-a4aa-f25866ba0dc6_story.html?utm_term=.c07800e947c9). 
+**Power and reach of the state:** ICTs can help the state do its job better. In most cases, that’s for the better, as in the case of [Estonia](http://www.theatlantic.com/international/archive/2014/01/lessons-from-the-worlds-most-tech-savvy-government/283341/). In other places, ICTs can simply extend the state’s  ability to crush dissent and [spy on its citizens](https://www.washingtonpost.com/opinions/cyber-surveillance-is-a-way-of-life-in-china/2016/01/29/e4e856dc-c476-11e5-a4aa-f25866ba0dc6_story.html?utm_term=.c07800e947c9). 
 
 **External attitudes:** The intensely networked nature of ICTs allows them to take issues beyond the local, attracting the attention of audiences around the world -- think of the [#BringBackOurGirls](http://bringbackourgirls.us/) campaign from Nigeria that received some [high-power online support](https://twitter.com/flotus/status/464148654354628608?lang=en). 
 
