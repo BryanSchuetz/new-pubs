@@ -1,5 +1,5 @@
 ---
-title: 'Geeks Like Us: How academic research can help us create better ICT programs'
+title: 'Geeks Like Us: How Academic Research Can Help us Create Better ICT Programs'
 date: 2016-10-18 13:40:00 -04:00
 tags:
 - Think Piece
