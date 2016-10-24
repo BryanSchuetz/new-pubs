@@ -26,4 +26,4 @@ published: false
 
 Overall this is a great tool for doing all the core messaging functions. Be sure to research user adoption in your project location before adopting a platform for message delivery
 
-Interested in hearing more about other the other apps we tested in App-a-Thon 2016? Subscribe now to receive a weekly digest of our newest blogs sent directly to your inbox!
+*Interested in hearing more about other the other apps we tested in App-a-Thon 2016? [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
