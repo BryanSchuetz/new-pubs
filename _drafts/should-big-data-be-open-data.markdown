@@ -1,6 +1,9 @@
 ---
 title: Should Big Data Be Open Data?
 date: 2016-10-23 23:56:00 -04:00
+tags:
+- Data
+- Think Piece
 ---
 
 *This is a guest blog by Michelle Kaffenberger and Bill Kedrock*
