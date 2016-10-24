@@ -25,3 +25,5 @@ Viber stands out with it’s deep purple UI elements and some of the basic funct
 ## So what do we conclude?
 
 Overall this is a great tool for doing all the core messaging functions. Be sure to research user adoption in your project location before adopting a platform for message delivery
+
+Interested in hearing more about other the other apps we tested in App-a-Thon 2016? Subscribe now to receive a weekly digest of our newest blogs sent directly to your inbox!
