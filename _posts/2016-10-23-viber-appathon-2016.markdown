@@ -16,7 +16,7 @@ published: false
 
 **Pros:** Offers a series of ‘business’ features including promotional stickers, official public chats, and API-based features to message constituents. Encrypted chats to individuals and groups.
 
-**Cons:** No browser-based version.
+**Cons:** No browser-based version. Undocumented security infrastructure.
 
 ## Commentary
 
@@ -26,6 +26,6 @@ published: false
 
 ## So what do we conclude?
 
-Overall this is a great tool for doing all the core messaging functions. Be sure to research user adoption in your project location before adopting a platform for message delivery
+Overall this is a great tool for doing all the core messaging functions. Be sure to research user adoption in your project location before adopting a platform for message delivery. With an API and (supposedly) secure communications lines, this is a great tool for automating messaging content, sending notifications, and setting up message broadcasts triggered by external events like market prices, and weather information.   
 
 *Interested in hearing more about other the other apps we tested in App-a-Thon 2016? [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
