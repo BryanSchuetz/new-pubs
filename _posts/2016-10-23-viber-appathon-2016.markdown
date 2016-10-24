@@ -1,7 +1,6 @@
 ---
 title: 'App-a-Thon 2016: Viber for Development'
 date: 2016-10-23 21:40:00 -04:00
-published: false
 tags:
 - Appathon 2016
 Author: Anand Varghese
