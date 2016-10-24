@@ -51,3 +51,5 @@ Another approach would be to segment information into three buckets – (Green) 
 | GPS coordinates                    |                                                          |                                                         |
 | Mobile money transaction records   |                                                          |                                                         |
 | Identification numbers (e.g. SSNs) |                                                          |                                                         |
+
+## Big Data as Open Data is a Two-edged Sword
