@@ -43,3 +43,11 @@ These factors are generally not true of big data, which is why we must be carefu
 Another approach would be to segment information into three buckets – (Green) that which could safely be made public, (Yellow) that which if aggregated or sufficiently anonymized may be made public and (Red) that which should not be made public. For example:
 
 ### Segmenting big data
+
+| Red – Not to be made open          | Yellow – Possibly made open with appropriate precautions | Green – Can be made open                                |
+|------------------------------------|----------------------------------------------------------|---------------------------------------------------------|
+| Names                              | CDRs, with appropriate safeguards and consent            | Aggregate figures (60% of District X uses mobile money) |
+| Phone numbers                      |                                                          |                                                         |
+| GPS coordinates                    |                                                          |                                                         |
+| Mobile money transaction records   |                                                          |                                                         |
+| Identification numbers (e.g. SSNs) |                                                          |                                                         |
