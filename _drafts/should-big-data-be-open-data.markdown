@@ -8,9 +8,9 @@ tags:
 
 *This is a guest blog by Michelle Kaffenberger and Bill Kedrock*
 
-Some weeks back Bill Kedrock wrote an [ICTWorks blog post ](http://www.ictworks.org/2016/08/15/big-data-needs-to-be-open-data/)on the benefits of turning big data into open data based on a presentation by Dr. Debisi Araba at [MERLTech 2016](http://merltech.org/). Bill ended calling for donors and others to be ready to assist countries like Nigeria as they grapple with the opportunities and challenges of open data. Since the post, the recently published [USAID Food Security Strategy ](https://www.usaid.gov/sites/default/files/documents/1867/USG-Global-Food-Security-Strategy-2016.pdf)notes that, *“Open and accessible data are essential assets that provide a foundation of evidence for scientists and decision-makers globally and help fuel entrepreneurship, innovation, and scientific discovery in food security and nutrition.”*
+*Some weeks back Bill Kedrock wrote an [ICTWorks blog post ](http://www.ictworks.org/2016/08/15/big-data-needs-to-be-open-data/)on the benefits of turning big data into open data based on a presentation by Dr. Debisi Araba at [MERLTech 2016](http://merltech.org/). Bill ended calling for donors and others to be ready to assist countries like Nigeria as they grapple with the opportunities and challenges of open data. Since the post, the recently published [USAID Food Security Strategy ](https://www.usaid.gov/sites/default/files/documents/1867/USG-Global-Food-Security-Strategy-2016.pdf)notes that, “Open and accessible data are essential assets that provide a foundation of evidence for scientists and decision-makers globally and help fuel entrepreneurship, innovation, and scientific discovery in food security and nutrition.”*
 
-In response to Bill’s post, Michelle Kaffenberger, who is helping launch a new data privacy initiative at [CGAP](https://www.cgap.org/), reached out to him to raise a number of questions regarding risks associated with making big data open. The following, written jointly, uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme that Dr. Araba led as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data. 
+*In response to Bill’s post, Michelle Kaffenberger, who is helping launch a new data privacy initiative at [CGAP](https://www.cgap.org/), reached out to him to raise a number of questions regarding risks associated with making big data open. The following, written jointly, uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme that Dr. Araba led as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data.*
 
 <!--more-->
 
@@ -42,3 +42,4 @@ These factors are generally not true of big data, which is why we must be carefu
 
 Another approach would be to segment information into three buckets – (Green) that which could safely be made public, (Yellow) that which if aggregated or sufficiently anonymized may be made public and (Red) that which should not be made public. For example:
 
+### Segmenting big data
