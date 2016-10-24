@@ -10,6 +10,8 @@ published: false
 
 <!--more-->
 
+![viber.jpg](/uploads/viber.jpg)
+
 **Key functionalities:** Send and receive text, photo, doodles, audio, and video messages; share money (via Western Union), files and geo-locations. Voice calls to other Viber users via web and calls to mobiles/landline phones via Viber Out (an associated app). Create ‘public chats’ to broadcast messages. Desktop application available for Windows, Mac and Linux. A Viber plugin is available for Google Chrome, but it requires desktop application to be installed. Free to use and download. Viber Out costs money in order to make calls.
 
 **Pros:** Offers a series of ‘business’ features including promotional stickers, official public chats, and API-based features to message constituents. Encrypted chats to individuals and groups.
