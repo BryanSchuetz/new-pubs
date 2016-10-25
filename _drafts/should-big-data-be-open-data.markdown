@@ -53,3 +53,5 @@ Another approach would be to segment information into three buckets – (Green) 
 | Identification numbers (e.g. SSNs) |                                                          |                                                         |
 
 ## Big Data as Open Data is a Two-edged Sword
+
+There is much that can be learned from big data that can benefit marginalized populations such as smallholder farmers. Additionally, poorly conceived data releases that enable access to individuals’ information can lead to misuse of such information to the determent of the individual. In light of often inadequate consumer protection regulations regarding data privacy, the burden in many cases falls on other stakeholders – companies or governments that hold or control data, donors and funders who hold influence, implementing organizations, and others involved in decision making – to decide which data to share and when. 
