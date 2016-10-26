@@ -6,7 +6,7 @@ tags:
 - Think Piece
 ---
 
-*This is a guest blog by [Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberger), Applied Research Consultant, and Bill Kedrock*
+*This is a guest blog by [Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberger), Applied Research Consultant, and [Bill Kedrock](https://www.linkedin.com/in/wkedrock), Independent Consultant*
 
 *Some weeks back Bill Kedrock wrote an [ICTWorks blog post ](http://www.ictworks.org/2016/08/15/big-data-needs-to-be-open-data/)on the benefits of turning big data into open data based on a presentation by Dr. Debisi Araba at [MERLTech 2016](http://merltech.org/). Bill ended calling for donors and others to be ready to assist countries like Nigeria as they grapple with the opportunities and challenges of open data. Since the post, the recently published [USAID Food Security Strategy ](https://www.usaid.gov/sites/default/files/documents/1867/USG-Global-Food-Security-Strategy-2016.pdf)notes that, “Open and accessible data are essential assets that provide a foundation of evidence for scientists and decision-makers globally and help fuel entrepreneurship, innovation, and scientific discovery in food security and nutrition.”*
 
