@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-## Three key considerations for deciding whether big data should be open data
+## Key Considerations
 
 We propose that when considering whether big data should be made open, decision makers should apply a litmus test including at least the following three questions, and likely many others according to the specific context of the data.
 
@@ -46,12 +46,12 @@ Another approach would be to segment information into three buckets—(Green) co
 
 | Red—Not to be made open          | Yellow—Possibly made open with appropriate precautions | Green—Can be made open                                |
 |------------------------------------|----------------------------------------------------------|---------------------------------------------------------|
-| Names                              | CDRs, with appropriate safeguards and consent            | Aggregate figures (60% of District X uses mobile money) |
+| Names                              | CDRs, with appropriate safeguards and consent            | Aggregate figures (60 percent of District X uses mobile money) |
 | Phone numbers                      |                                                          |                                                         |
 | GPS coordinates                    |                                                          |                                                         |
 | Mobile money transaction records   |                                                          |                                                         |
 | Identification numbers (e.g. SSNs) |                                                          |                                                         |
 
-## Big Data as open data is a two-edged sword
+## Big Data as Open Data is a Two-Edged Sword
 
 There is much that can be learned from big data that can benefit marginalized populations such as smallholder farmers. Additionally, poorly conceived data releases that enable access to individuals’ information can lead to misuse of such information to the determent of the individual. In light of often inadequate consumer protection regulations regarding data privacy, the burden in many cases falls on other stakeholders—companies or governments that hold or control data, donors and funders who hold influence, implementing organizations, and others involved in decision-making—to decide which data to share and when. 
