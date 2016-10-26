@@ -34,7 +34,7 @@ In [Kenya](http://www.cgap.org/publications/proliferation-digital-credit-deploym
 
 For smallholder farmers, it is common to need loans to buy fertilizer and seeds at the beginning of the season that can then be repaid several months later after harvest. Big data-driven digital loans, as currently offered, would not meet this need—the digital loans are typically small and have short repayment periods (seven to 30 days). Yet, once data is publicly available to banks or other providers, there is a temptation to push a product even where there is a mismatch, leaving the borrower exposed to unneeded debts and default. Because of this, calls to make the data open could put farmers’ sensitive information at risk, without providing adequate benefits to make that a worthwhile tradeoff.
 
-## Not all data is the same
+## Not All Data is the Same
 
 The push to make data open—prominently supported by the [World Bank](http://www.worldbank.org/en/topic/opendevelopment/overview) and [the U.S. Agency for International Development (USAID)](https://www.usaid.gov/sites/default/files/documents/1868/ADS579FactSheet 2015-02-13.pdf), among others—has had an incredible impact on the quantity of data available for development-oriented research and for understanding the lives of the poor. However, not all data is the same. To date, many efforts to make data open, such as by the World Bank and USAID, relate to survey data (e.g., data collected via door-to-door household interview, or as part of a projects or program evaluation). This type of data has usually been collected as a public good (e.g. with public money), and can be anonymized before being made “open.”
 
@@ -44,7 +44,7 @@ Another approach would be to segment information into three buckets—(Green) co
 
 ### Segmenting big data
 
-| Red – Not to be made open          | Yellow – Possibly made open with appropriate precautions | Green – Can be made open                                |
+| Red—Not to be made open          | Yellow—Possibly made open with appropriate precautions | Green—Can be made open                                |
 |------------------------------------|----------------------------------------------------------|---------------------------------------------------------|
 | Names                              | CDRs, with appropriate safeguards and consent            | Aggregate figures (60% of District X uses mobile money) |
 | Phone numbers                      |                                                          |                                                         |
