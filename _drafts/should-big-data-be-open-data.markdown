@@ -10,6 +10,8 @@ Author: "[Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberge
 
 We propose that when considering whether big data should be made open, decision makers should apply a litmus test including at least the following three questions, and likely many others according to the specific context of the data.
 
+<!--more-->
+
 ### 1. What level of personal information is contained in the data? 
 
 Big data, which can include call data records, GPS coordinates, and mobile money transactions contains [an incredible amount of personal information](http://cis-india.org/papers/ebola-a-big-data-disaster). The smallholders database in Nigeria, for example, contains sensitive data points including the farmer’s national ID number (the equivalent of a social security number), e-money transaction data, bank account ownership, size of the farm, and GPS coordinates. Making this level of personal information publicly available is poor practice in any context—would you want the world to see your bank account transactions?
