@@ -4,17 +4,9 @@ date: 2016-10-23 23:56:00 -04:00
 tags:
 - Data
 - Think Piece
+Author: "[Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberger)
+  and [Bill Kedrock](https://www.linkedin.com/in/wkedrock)"
 ---
-
-*This is a guest blog by [Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberger), Applied Research Consultant, and [Bill Kedrock](https://www.linkedin.com/in/wkedrock), Independent Consultant*
-
-*Some weeks back Bill wrote an [ICTWorks blog post ](http://www.ictworks.org/2016/08/15/big-data-needs-to-be-open-data/)on the benefits of turning big data into open data based on a presentation by Dr. Debisi Araba at [MERLTech 2016](http://merltech.org/). Bill concluded by calling for donors and others to assist countries like Nigeria as they grapple with the opportunities and challenges of open data. Since the post, the recently published [USAID Food Security Strategy ](https://www.usaid.gov/sites/default/files/documents/1867/USG-Global-Food-Security-Strategy-2016.pdf)notes that, “Open and accessible data are essential assets that provide a foundation of evidence for scientists and decision-makers globally and help fuel entrepreneurship, innovation, and scientific discovery in food security and nutrition.”*
-
-*In response to Bill’s post, Michelle Kaffenberger, who is helping launch a new data privacy initiative at [CGAP](https://www.cgap.org/), reached out to him to raise a number of questions regarding risks associated with making big data open. The following, written jointly, uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme that led as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data.*
-
-<!--more-->
-
-## Key Considerations
 
 We propose that when considering whether big data should be made open, decision makers should apply a litmus test including at least the following three questions, and likely many others according to the specific context of the data.
 
@@ -55,3 +47,11 @@ Another approach would be to segment information into three buckets—(Green) co
 ## Big Data as Open Data is a Two-Edged Sword
 
 There is much that can be learned from big data that can benefit marginalized populations such as smallholder farmers. Additionally, poorly conceived data releases that enable access to individuals’ information can lead to misuse of such information to the determent of the individual. In light of often inadequate consumer protection regulations regarding data privacy, the burden in many cases falls on other stakeholders—companies or governments that hold or control data, donors and funders who hold influence, implementing organizations, and others involved in decision-making—to decide which data to share and when. 
+
+<aside>
+<p><em>This is a guest blog by [Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberger), Applied Research Consultant, and [Bill Kedrock](https://www.linkedin.com/in/wkedrock), Independent Consultant</em></p>
+
+<p><em>Some weeks back Bill wrote an [ICTWorks blog post ](http://www.ictworks.org/2016/08/15/big-data-needs-to-be-open-data/)on the benefits of turning big data into open data based on a presentation by Dr. Debisi Araba at [MERLTech 2016](http://merltech.org/). Bill concluded by calling for donors and others to assist countries like Nigeria as they grapple with the opportunities and challenges of open data. Since the post, the recently published [USAID Food Security Strategy ](https://www.usaid.gov/sites/default/files/documents/1867/USG-Global-Food-Security-Strategy-2016.pdf)notes that, “Open and accessible data are essential assets that provide a foundation of evidence for scientists and decision-makers globally and help fuel entrepreneurship, innovation, and scientific discovery in food security and nutrition.”</em></p>
+
+<p><em>In response to Bill’s post, Michelle Kaffenberger, who is helping launch a new data privacy initiative at [CGAP](https://www.cgap.org/), reached out to him to raise a number of questions regarding risks associated with making big data open. The following, written jointly, uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme that led as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data.</em></p>
+</aside>
