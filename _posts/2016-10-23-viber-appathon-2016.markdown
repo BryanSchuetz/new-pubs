@@ -12,7 +12,7 @@ Author: Anand Varghese
 
 <!--more-->
 
-![viber2.png](/uploads/viber2.png)
+![viber2.png](/uploads/viber2.png = 250x)
 
 **Key functionalities:** Send and receive text, photo, doodles, audio, and video messages; share money (via Western Union), files, and geo-locations. Voice calls to other Viber users via web and calls to mobiles/landline phones via Viber Out (an associated app). Create public chats to broadcast messages. Desktop application available for Windows, Mac, and Linux. A Viber plugin is available for Google Chrome, but it requires desktop application to be installed. Free to use and download. Viber Out costs money to make calls.
 
