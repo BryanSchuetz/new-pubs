@@ -1,6 +1,6 @@
 ---
 title: Should Big Data Be Open Data?
-date: 2016-10-23 23:56:00 -04:00
+date: 2016-10-26 11:56:00 -04:00
 tags:
 - Data
 - Think Piece
