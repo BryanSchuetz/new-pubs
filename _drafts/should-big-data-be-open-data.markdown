@@ -8,7 +8,7 @@ Author: "[Michelle Kaffenberger](https://www.linkedin.com/in/michellekaffenberge
   and [Bill Kedrock](https://www.linkedin.com/in/wkedrock)"
 ---
 
-*The guest blog below uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme that led as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data.*
+*The guest blog below uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme that led as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data*
 
 We propose that when considering whether big data should be made open, decision makers should apply a litmus test including at least the following three questions, and likely many others according to the specific context of the data.
 
