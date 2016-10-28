@@ -16,6 +16,7 @@
 <ul>
   <!-- Get all the posts -->
   {% assign posts = site.posts | sort: 'date' | reverse %}
+  {% assign cap = 0 %}
   <!-- Look at each post in the array -->
   {% for post in posts %}
   <!-- Ignore the current post -->
@@ -26,6 +27,7 @@
         {% if post.Author == page.title %}
           <!-- Show the post details -->
           <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% assign cap = cap | plus: 1 %}
           {% assign got_related = true%}
         {% endif %}
         <!-- Otherwise, if we're on a post -->
@@ -37,17 +39,21 @@
             {% assign got_related = true%}
             <!-- Show tags that match -->
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% assign cap = cap | plus: 1 %}
             <!-- If one tag in a post matches a tag on the page, stop -->
             {% break %}
           {% endif %}
         {% endfor %}
       {% endif %}
     {% endif %}
+    {% if cap > 9 %}
+      {% break %}
+    {% endif %}
   {% endfor %}
   <!-- If there's no actually related content show recent stuff -->
   {% unless got_related == true %}
     {% assign new_posts = posts%}
-    {% for post in new_posts | limit: 4 %}
+    {% for post in new_posts | limit: 9 %}
       {% if post.url != page.url%}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
