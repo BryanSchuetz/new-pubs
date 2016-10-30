@@ -16,7 +16,7 @@ This year’s Rally brought together accelerators and startups from all over the
 
 * [AltCity in Lebanon](http://www.altcity.me/)
 * [Carao Ventures in Costa Rica](http://www.caraov.com/)
-* Orion Startups in Mexico](http://hello.orionstartups.com/)
+* [Orion Startups in Mexico](http://hello.orionstartups.com/)
 * [Ampersand-et in Colombia](http://gan.co/members/view/ampersand-et)
 * [UTEC Ventures in Peru](http://www.utecventures.com/)
 
