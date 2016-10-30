@@ -14,7 +14,8 @@ It’s a mentorship program for budding entrepreneurs. Generally, after a compet
 
 This year’s Rally brought together accelerators and startups from all over the world, including:
 
-<p>*Those based in countries where DAI does operate*
+*Those based in countries where DAI does operate*
+
 * [AltCity in Lebanon](http://www.altcity.me/)
 * [Carao Ventures in Costa Rica](http://www.caraov.com/)
 * Orion Startups in Mexico](http://hello.orionstartups.com/)
@@ -22,6 +23,7 @@ This year’s Rally brought together accelerators and startups from all over the
 * [UTEC Ventures in Peru](http://www.utecventures.com/)
 
 *Those based in countries where DAI doesn’t operate (but still loves)*
+
 * [H-Farm Ventures in Italy](http://www.h-farm.com/en/)
 * [The Summer Institute](http://www.summerinst.ca/) and [Ideaboost](http://www.ideaboost.ca/) in Canada
 * [Sparklabs in Korea](http://www.sparklabs.co.kr/)
