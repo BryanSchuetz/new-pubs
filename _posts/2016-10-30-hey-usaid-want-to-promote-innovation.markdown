@@ -21,7 +21,7 @@ This year’s Rally brought together accelerators and startups from all over the
 * [Ampersand-et in Colombia](http://gan.co/members/view/ampersand-et)
 * [UTEC Ventures in Peru](http://www.utecventures.com/)
 
-*Those based in countries where DAI doesn’t operate but still loves*
+*Those based in countries where DAI doesn’t operate (but still loves)*
 * [H-Farm Ventures in Italy](http://www.h-farm.com/en/)
 * [The Summer Institute](http://www.summerinst.ca/) and [Ideaboost](http://www.ideaboost.ca/) in Canada
 * [Sparklabs in Korea](http://www.sparklabs.co.kr/)
