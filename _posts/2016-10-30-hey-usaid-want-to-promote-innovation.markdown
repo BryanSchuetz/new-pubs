@@ -17,7 +17,7 @@ It’s a mentorship program for budding entrepreneurs. Generally, after a compet
 
 This year’s Rally brought together accelerators and startups from all over the world, including:
 
-*Those based in countries where DAI does operate*
+<p>*Those based in countries where DAI does operate*
 * [AltCity in Lebanon](http://www.altcity.me/)
 * [Carao Ventures in Costa Rica](http://www.caraov.com/)
 * Orion Startups in Mexico](http://hello.orionstartups.com/)
