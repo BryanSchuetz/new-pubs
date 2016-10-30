@@ -35,24 +35,21 @@ This year’s Rally brought together accelerators and startups from all over the
 * [Startupbootcamp in the UK](https://www.startupbootcamp.org/)
 
 ...all to discuss how to better support the people who are the stars of the startup scene: [the founders](http://www.inc.com/young-entrepreneur-council/7-rockstar-female-founders-share-their-best-startup-advice.html). Throughout the week I heard a lot of ideas about how to improve startup mentorship, training opportunities, and access to venture capital, but my primary take-away was that accelerators and development actors are really two sides of the same coin: We’re both trying to help local people solve local problems, we’re just doing it in different ways. 
-Accelerators solve local problems by empowering entrepreneurs with the training and tools they need to achieve market sustainability; development organizations help solve local problems by empowering citizens, civil society organizations, and local governments with the training and tools they need to achieve sustainable impact. And yet, our worlds are not entirely distinct from one another: And as the [Engine Room](https://www.theengineroom.org/disrupt-your-market) asserts, 
-> “Foundations, funders, and nonprofits today increasingly talk about “investments” rather than grants. > “Start-ups” and “ventures” receive “seed funding”, where new organizations once simply secured core > funding. Executive Directors are becoming CEOs, and “capacity building” is now “incubation.”
 
-there’s a strong trend among entrepreneurs to focus not just on opportunities to turn a profit, but opportunities to have social impact and turn a profit. This trend, called [social impact investing]( https://thegiin.org/impact-investing/need-to-know/), “challenges the long-held views that social and environmental issues should be addressed only by philanthropic donations, and that market investments should focus exclusively on achieving financial returns.” 
-https://www.theengineroom.org/disrupt-your-market/
+Accelerators solve local problems by empowering entrepreneurs with the training and tools they need to achieve market sustainability; development organizations help solve local problems by empowering citizens, civil society organizations, and local governments with the training and tools they need to achieve sustainable social, economic, and political impact. 
 
-
-focuses not on monetary return on investment, but on impact return on investment. 
-
-For obvious reasons, these two approaches are starting to merge. More and more, startup entrepreneurs are taking on 
-
-https://www.theengineroom.org/disrupt-your-market/ 
-
-entrepreneurs design market-based solutions to problems people face every day; development programs help local organizations solve 
-But more and more, our two worlds are 
+And yet, our worlds are not entirely distinct from one another: There is a strong trend among the domestic 
 
 
-Support people who are trying to 
+There’s a strong trend among entrepreneurs to focus not just on opportunities to turn a profit, but opportunities to have social impact and turn a profit. This movement, called [social impact investing]( https://thegiin.org/impact-investing/need-to-know/), “challenges the long-held views that social and environmental issues should be addressed only by philanthropic donations, and that market investments should focus exclusively on achieving financial returns.” 
+
+Simultaneously, there's a growing segment of the social sector that thinks of itself not as charity organizations, but as market actors responding to market needs. And as the [Engine Room](https://www.theengineroom.org/disrupt-your-market) asserts:
+
+> “Foundations, funders, and nonprofits today increasingly talk about “investments” rather than grants. “Start-ups” and “ventures” receive “seed funding”, where new organizations once simply secured core funding. Executive Directors are becoming CEOs, and “capacity building” is now “incubation.”
+
+
+
+
 
 organizations in the international development space could learn quite a lot 
 
