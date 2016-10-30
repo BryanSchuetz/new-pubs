@@ -4,16 +4,13 @@ date: 2016-10-30 15:33:00 -04:00
 published: false
 ---
 
-Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) annual [Rally]( https://twitter.com/hashtag/ganrally) out in Denver. The Global Accelerator Network (GAN) consists of 70 startup accelerators, in 100 cities across six continents. 
-
-<aside>
+Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) annual [Rally]( https://twitter.com/hashtag/ganrally) out in Denver. The Global Accelerator Network (GAN) includes 70 startup accelerators in 100 cities across six continents. 
 
 ## What exactly is a [startup accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
 
+<aside>
 It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6-10%) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
-
 </aside>
-
 
 This year’s Rally brought together accelerators and startups from all over the world, including:
 
@@ -55,18 +52,17 @@ organizations in the international development space could learn quite a lot
 
 about how localizing programming from 
 
-and development organizations aren’t really all that different: we’re both trying to create opportunities for people to help themselves. 
-
-are a lot like development organizations in how they work with 
-
 Technology is becoming more democratized; the ability to promote an idea, sell a product, market a service
 
 We want to talk about local impact 
-Amazing to see all the dynamism and creativity around how to support start-ups and private sector mentorship
-More and more this is an international space. There were accerlators there from Lebanon, costa Rica, Mexico, Iceland, 
+
+
+support start-ups and private sector mentorship
+
 DAI works closely with the innovation community
+
 How can USAID help to support the growth of hometown innovation economies? 
-As the Engine room says, this is a way to think about investing in social good by 
+
 As DAI is doing in Cambodia with the Development Innovations Project
 
 
