@@ -37,10 +37,7 @@ This year’s Rally brought together accelerators and startups from all over the
 
 Accelerators solve local problems by empowering entrepreneurs with the training and tools they need to achieve market sustainability; development organizations help solve local problems by empowering citizens, civil society organizations, and local governments with the training and tools they need to achieve sustainable social, economic, and political impact. 
 
-And yet, our worlds are not entirely distinct from one another: There is a strong trend among the domestic 
-
-
-There’s a strong trend among entrepreneurs to focus not just on opportunities to turn a profit, but opportunities to have social impact and turn a profit. This movement, called [social impact investing]( https://thegiin.org/impact-investing/need-to-know/), “challenges the long-held views that social and environmental issues should be addressed only by philanthropic donations, and that market investments should focus exclusively on achieving financial returns.” 
+And yet, our worlds are not entirely distinct from one another: There’s a strong trend among entrepreneurs to focus not just on opportunities to turn a profit, but opportunities to have social impact and turn a profit. This movement, called [social impact investing]( https://thegiin.org/impact-investing/need-to-know/), “challenges the long-held views that social and environmental issues should be addressed only by philanthropic donations, and that market investments should focus exclusively on achieving financial returns.” 
 
 Simultaneously, there's a growing segment of the social sector that thinks of itself not as charity organizations, but as market actors responding to market needs. And as the [Engine Room](https://www.theengineroom.org/disrupt-your-market) asserts:
 
