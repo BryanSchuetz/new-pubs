@@ -4,8 +4,6 @@ date: 2016-10-30 15:33:00 -04:00
 published: false
 ---
 
-Hey USAID, want to promote innovation?
-
 Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) annual [Rally]( https://twitter.com/hashtag/ganrally) out in Denver. The Global Accelerator Network (GAN) consists of 70 startup accelerators, in 100 cities across six continents. 
 <aside>
 ## What exactly is a [startup accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
