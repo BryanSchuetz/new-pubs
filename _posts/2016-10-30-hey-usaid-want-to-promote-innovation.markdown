@@ -72,4 +72,4 @@ Missions should be integrating with local innovation ecosystems (almost every me
 
 *This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, improve procurement processes,  and adjust monitoring and evaluation frameworks to be more agile, although I consider all of those to be important as well.*
 
-Do you have additional ideas of how USAID could support innovation? I’d love to hear them! Let me know on Twitter at @DAIGlobal.
+*Do you have additional ideas of how USAID could support innovation? I’d love to hear them! Let me know on Twitter at @DAIGlobal.*
