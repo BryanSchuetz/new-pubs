@@ -1,5 +1,5 @@
 ---
-title: Hey USAID, Want to Promote Innovation?
+title: Hey USAID, Want to Promote Innovation? Here’s how
 date: 2016-10-30 15:33:00 -04:00
 published: false
 tags:
