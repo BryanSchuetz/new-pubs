@@ -2,6 +2,9 @@
 title: Hey USAID, want to promote innovation?
 date: 2016-10-30 15:33:00 -04:00
 published: false
+tags:
+- Think Piece
+Author: Adam Fivenson
 ---
 
 Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) annual [Rally]( https://twitter.com/hashtag/ganrally) out in Denver. The Global Accelerator Network (GAN) includes 70 startup accelerators in 100 cities across six continents. 
@@ -40,7 +43,7 @@ Accelerators solve local problems by empowering entrepreneurs with the training 
 ## And yet, our worlds are not entirely distinct 
 There’s a strong trend among entrepreneurs to focus not just on opportunities to turn a profit, but opportunities to have social impact *and* turn a profit. This movement, called [social impact investing](https://thegiin.org/impact-investing/need-to-know/), “challenges the long-held views that social and environmental issues should be addressed only by philanthropic donations, and that market investments should focus exclusively on achieving financial returns.” The Global Impact Investor Network [reports in its 2016 Annual Impact Investor Survey](https://thegiin.org/assets/2016%20GIIN%20Annual%20Impact%20Investor%20Survey_Web.pdf) that more than $15 billion was invested in impact-oriented projects in 2015, with almost $18 billion planned for 2016.
 
-## Simultaneously
+## The Silicon Phenomenon
 There's a growing segment of the social sector that thinks of itself not as simple charity, but as market actors responding to market needs. And as the [Engine Room](https://www.theengineroom.org/disrupt-your-market) says:
 
 > “Foundations, funders, and nonprofits today increasingly talk about “investments” rather than grants. “Start-ups” and “ventures” receive “seed funding”, where new organizations once simply secured core funding. Executive Directors are becoming CEOs, and “capacity building” is now “incubation.”
