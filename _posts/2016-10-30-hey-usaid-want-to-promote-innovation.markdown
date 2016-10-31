@@ -13,7 +13,7 @@ Earlier this month I had the good fortune to attend the [Global Accelerator Netw
 
 It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6-10%) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
 
-## This year’s Rally 
+## This year’s Rally...
 ...brought together accelerators from all over the world, including:
 
 * [Carao Ventures in Costa Rica](http://www.caraov.com/)
