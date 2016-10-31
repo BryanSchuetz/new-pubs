@@ -60,6 +60,6 @@ Missions should be integrating with local startup ecosystems (almost every mediu
 
 2. **Include innovation funds in project RFPs.** DAI has had success in Cambodia through our [Development Innovations](http://www.development-innovations.org/success-stories/) project in using innovation grants, but this approach could be expanded significantly to prove incentives for local entrepreneurs. Also, instead of innovation grant funds, consider establishing an innovation venture fund, which would allow the project more flexibility in contracting methods and partners.
 
-3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB; USAID Missions must push the Agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The "Uber of civic engagement" might be out there, we just need to create the conditions for entrepreneurs to try (and fail) enough times until we figure it out! 
+3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB; USAID Missions must push the Agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The "Uber of civic engagement" might be out there, we just need to create the conditions for entrepreneurs to try (and fail) until we figure it out! 
 
 Do you have additional ideas of how USAID could support innovation? I'd love to hear them! 
