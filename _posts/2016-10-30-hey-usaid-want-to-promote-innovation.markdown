@@ -62,4 +62,4 @@ Missions should be integrating with local startup ecosystems (almost every mediu
 
 3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB; USAID Missions must push the Agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The "Uber of civic engagement" might be out there, we just need to create the conditions for entrepreneurs to try (and fail) until we figure it out! 
 
-Do you have additional ideas of how USAID could support innovation? I'd love to hear them! 
+Do you have additional ideas of how USAID could support innovation? I'd love to hear them! Let us know on Twitter @DAIGlobal.
