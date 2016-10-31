@@ -15,12 +15,12 @@ Earlier this month I had the good fortune to attend the [Global Accelerator Netw
 
 <!--more-->
 
-## What exactly is a [startup accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
+## What Exactly is a [Startup Accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
 
 It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6 to 10 percent) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
 
 
-## This year’s Rally...
+## This Year’s Rally...
 ...brought together accelerators from all over the world, including:
 
 * [Carao Ventures in Costa Rica](http://www.caraov.com/)
