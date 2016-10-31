@@ -8,7 +8,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) annual [Rally]( https://twitter.com/hashtag/ganrally) out in Denver. The Global Accelerator Network (GAN) includes 70 startup accelerators in 100 cities across six continents. 
+Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) (GAN) annual [Rally]( https://twitter.com/hashtag/ganrally) in Denver, Colorado. GAN includes 70 startup accelerators in 100 cities across six continents. 
 
 ![GAN stage.jpg](/uploads/GAN%20stage.jpg)
 `GAN CEO Patrick Riley and the MDs of startup accelerators during the GAN Summit 2016`
