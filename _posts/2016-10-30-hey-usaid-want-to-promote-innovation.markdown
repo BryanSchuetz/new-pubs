@@ -47,21 +47,22 @@ There's a growing segment of the social sector that thinks of itself not as simp
 2. Just like donor-funded development, start-up accelerators exist to help local people solve local problems. 
 3. Social impact investing is a growing area for venture capitalists with a social conscience, as the global startup ecosystem and the nonprofit sector start to converge. 
 4. There remain significant differences between the two particularly when it comes to incentives, as the [Engine Room rightly points out](https://www.theengineroom.org/disrupt-your-market/), but the unifying incentive is to solve people's problems, and to do so sustainably. 
-5. We should think of innovation not as a specific process, but as the act of looking for new solutions to old problems. 
 
 ## Hey USAID, want to promote innovation?
-Based on what we've discussed, here are a few ways to drive innovative problem solving in the countries where USAID operates. *It goes without saying that this is not an exhaustive list*: 
+Based on what we've discussed, here are a few ways to drive innovative problem solving in the countries where USAID operates. 
+*This list is brief and it doesn't tread into the ongoing discussion about how to better define innovation, improve procurement processes, shift risk calculations, and adjust M&E frameworks to be more agile, although I consider all of those to be important as well.*
 
 1. **Invest in startup ecosystems and the people driving them.** 
-Supporting 
+Missions should be integrating with local startup ecosystems (almost every medium to major city has one), helping accelerators grow, supporting events, investing in socially-focused concepts (which attracts more concepts), and pushing the local private sector to do the same. DAI has been actively involved with the innovation ecosystem in Colombia through the recent [NASA Space Apps Challenge](https://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html), in [El Salvador](https://dai-global-digital.com/innovation-and-entrepreneurship-in-el-salvador.html) via the Puentes al Empleo project, in Afghanistan where we've been [supporting the growth of Tech-for-Good](https://dai-global-digital.com/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html)
 
 
-Colombia, El Salvador
+, and in Cambodia through our Development Innovations 
 
 2. **Include innovation funds in project RFPs.** As opposed to grant funds, which are more restrictive. DAI has has success in Cambodia through our [Development Innovations]( project in using innovation grants, but grants are more limiting that contracts and 
 
-3. 
+3. **Challenges 
 
 **Explore new risk calculations.** Not every investment 
 
-This list is brief and it doesn't tread into the ongoing discussion about how to improve procurement or M&E frameworks. I'd love to hear from others 
+I'd love to hear from others what thoughts you may have on how the agency can promote innovation.
+
