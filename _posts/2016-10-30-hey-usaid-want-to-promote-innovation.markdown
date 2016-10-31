@@ -52,6 +52,8 @@ There’s a growing segment of the social sector that thinks of itself not as si
 
 > “Foundations, funders, and nonprofits today increasingly talk about “investments” rather than grants. “Startups” and “ventures” receive “seed funding”, where new organizations once simply secured core funding. Executive Directors are becoming CEOs, and “capacity building” is now “incubation.”
 
+The convergence of the innovation and philanthropic ecosystems presents major opportunities for those of us in the social sector. 
+
 ## To Review
 1. Startup acceleration has become a worldwide phenomenon, supporting the growth of innovation ecosystems in many of the countries where the U.S. Agency for International Development (USAID) works. Among those represented at the rally, the agency is working in Costa Rica, Mexico, Colombia, Peru, and Lebanon.
 2. Just like donor-funded development, startup accelerators exist to help local people solve local problems. 
