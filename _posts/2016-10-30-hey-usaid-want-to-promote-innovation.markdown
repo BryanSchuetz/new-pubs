@@ -58,7 +58,7 @@ There’s a growing segment of the social sector that thinks of itself not as si
 3. Social impact investing is a growing area for venture capitalists with a social conscience, as the global innovation ecosystem and the nonprofit sector start to converge. 
 4. There remain significant differences between the two particularly when it comes to incentives, as the [Engine Room rightly points out](https://www.theengineroom.org/disrupt-your-market/), but the unifying incentive is to solve people’s problems, and to do so sustainably. 
 
-**The takeaway is this: the startup
+**The takeaway is this: the innovation ecosystem is ripe for investment, both here at home and abroad, which brings us back to the title of this article:**
 
 ## Hey USAID, Want to Promote Innovation?
 Based on what we’ve discussed, here are a few ways to drive innovative, locally-led problem solving in the countries where USAID operates. 
