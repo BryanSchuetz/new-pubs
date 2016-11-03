@@ -38,8 +38,8 @@ It’s a mentorship program for budding entrepreneurs. Generally, after a compet
 
 ...all to discuss how to better support the stars of the startup world: [the founders](http://www.inc.com/young-entrepreneur-council/7-rockstar-female-founders-share-their-best-startup-advice.html). 
 
-## The Same Coin
-Throughout the week I heard a lot of great ideas about how to better support founders through startup mentorship, training opportunities, and access to venture capital, but my primary takeaway was that accelerators and development actors are two sides of the same coin: We’re both trying to help local people solve local problems, we’re just doing it in very different ways. 
+## Shared Goals
+Throughout the week I heard a lot of great ideas about how to better support founders through startup mentorship, training opportunities, and access to venture capital, but my primary takeaway was that accelerators and development actors share a common set of goals: We’re both trying to help local people solve local problems, we’re just doing it in very different ways. 
 
 What do I mean? Accelerators solve local problems by empowering entrepreneurs with the training and tools they need to achieve market sustainability; development organizations help solve local problems by empowering citizens, civil society organizations, and local governments with the training and tools they need to achieve sustainable social, economic, and political impact. 
 
