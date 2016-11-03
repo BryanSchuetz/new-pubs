@@ -16,8 +16,15 @@ Earlier this month I had the good fortune to attend the [Global Accelerator Netw
 
 ## What Exactly is a [Startup Accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
 
-It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6 to 10 percent) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
+It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
 
+This might sound like an incubator, but according to [Paul Miller](https://twitter.com/rellimluap) and [Kirsten Bound's](http://www.nesta.org.uk/users/kirsten-bound) study [The Startup Factories](http://www.nesta.org.uk/publications/startup-factories), the five key factors that differentiate accelerators from incubators are:
+
+>1. The application process is open to anyone, but highly competitive. Y Combinator and TechStars have application acceptance rates between 1% and 3%.
+>2. A seed investment in the startups is usually made, in exchange for equity. Typically, the investment is between US$20,000 and US$50,000.
+>3. The focus is on small teams, not on individual founders. Accelerators consider that one person is insufficient to handle all the work associated with a startup.
+>4. The startups must "graduate" by a given deadline, typically after 3 months. During this time, they receive intensive mentoring and training, and they are expected to iterate rapidly. Virtually all accelerators end their programs with a "Demo Day", where the startups present to investors.
+>5. Startups are accepted and supported in cohort batches or classes (the accelerator isn't an on-demand resource). The peer support and feedback that the classes provide is an important advantage. If the accelerator doesn't offer a common workspace, the teams will meet periodically.
 
 ## This Year’s Rally...
 ...brought together accelerators from all over the world, including:
