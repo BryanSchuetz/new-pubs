@@ -76,7 +76,9 @@ Innovation funds allow projects to operate like small scale accelerators, drawin
 
 Why? Looking back at the accelerator model, it's not just the funding that drives entrepreneurial success: it's the community, the mentorship, the networking, and the training. Those elements differentiate the good accelerators from the bad ones, and it's the same for innovation funds. The Development Innovations project has [had success](http://www.development-innovations.org/success-stories/) emulating an accelerator; drawing Cambodian innovators into the social space with small grants, and developing the innnovation ecosystem and community.
 
-3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB (or [NationBuilder](http://nationbuilder.com/) or [Platzi](https://courses.platzi.com/) or [Couchsurfing](https://www.couchsurfing.com), all [Omidyar](https://www.omidyar.com) investments; USAID missions must push the agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The “Uber of civic engagement” might be out there, we just need to create the conditions that allow entrepreneurs to try (and fail) until we figure it out! 
+3. **Reconsider risk calculations.** 
+
+Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB (or [NationBuilder](http://nationbuilder.com/) or [Platzi](https://courses.platzi.com/) or [Couchsurfing](https://www.couchsurfing.com), all [Omidyar](https://www.omidyar.com) investments; USAID missions must push the agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The “Uber of civic engagement” might be out there, we just need to create the conditions that allow entrepreneurs to try (and fail) until we figure it out! 
 
 *This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, innovate in procurement processes, and adjust monitoring and evaluation frameworks to be more agile*
 
