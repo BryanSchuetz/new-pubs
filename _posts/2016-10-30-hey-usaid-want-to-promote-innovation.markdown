@@ -80,4 +80,4 @@ Why? Looking back at the accelerator model; it's not just the funding that drive
 
 *This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, innovate in procurement processes, and adjust monitoring and evaluation frameworks to be more agile*
 
-*I'd love to hear others' thoughts on those topics, and other ideas you have on how USAID could support innovation. Let me know on Twitter at @DAIGlobal.*
+*I'd love to hear others' thoughts on those topics, and other ideas you have on how USAID could support innovation. Let me know on Twitter at [@DAIGlobal](https://twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
