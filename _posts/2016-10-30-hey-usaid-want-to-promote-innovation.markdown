@@ -93,6 +93,6 @@ And make no mistake, there's no PEPFAR for innovation (nor is there likely to be
 You might be thinking "we're already doing that!" And yes, I concede there are instances of USAID projects operating like accelerators (Development Innovations being a strong example), supporting the innovation ecosystem, and funding small entrepreneurs. But let's scale this up! I read a lot of USAID RFPs; there are still relatively few project designs that include innovation funds or mention the innovation ecosystem as a potential tool to leverage local design and problem solving capabilities. And make no mistake: contractors respond to what's in the RFP, so ask and ye shall receive! The potential to leverage the local innovation ecosystem is **HUGE**; we just need to fully recognize it and that starts with scaling up engagement and funding. 
 
 
-*This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, innovate in procurement processes, and adjust monitoring and evaluation frameworks to be more agile*
+*This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, encourage innovate in procurement processes, and adjust monitoring and evaluation frameworks to be more agile.*
 
 *I'd love to hear others' thoughts on those topics, and other ideas you have on how USAID could support innovation. Let me know on Twitter at [@DAIGlobal](https://twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
