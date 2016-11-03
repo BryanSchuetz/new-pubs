@@ -62,7 +62,7 @@ There’s a growing segment of the social sector that thinks of itself not as si
 ## Hey USAID, Want to Promote Innovation?
 Based on what we’ve discussed, here are a few ways to more effectively drive innovative, locally-led problem solving in the countries where USAID operates. 
 
-1. **Invest in innovation ecosystems and the people driving them.** 
+1. **Invest in innovation ecosystems and the people driving them** 
 
 Missions should be integrating with local innovation ecosystems (almost every medium to major city has one), helping accelerators grow, supporting events, investing in socially focused concepts (which attracts more concepts), and pushing the local private sector and venture community to do the same. 
 
@@ -70,13 +70,13 @@ DAI has been actively involved with the innovation ecosystem in Colombia through
 
 DAI, Montgomery County, Maryland, USAID, and GAN recently hosted the [$100,000 Innovation into Action Challenge](http://dai.com/news-publications/news/innovation-action-challenge-winners-chosen), and we’re now looking for ways of taking the same model to the places we work overseas. We see investing in innovation as an imperative and we're putting our money behind it and pushing our partners to do the same.
 
-2. **Include innovation funds in project design.** 
+2. **Include innovation funds in project design** 
 
 Innovation funds allow projects to operate like small scale accelerators, drawing entrepreneurs into the social space and supporting startups who are focused on challenges related to project goals. Projects that see innovation funds as more than renamed grant funds will have more success supporting innovation. 
 
 Why? Looking back at the accelerator model, it's not just the funding that drives entrepreneurial success: it's the community, the mentorship, the networking, and the training. Those elements differentiate the good accelerators from the bad ones, and it's the same for innovation funds. The Development Innovations project has [had success](http://www.development-innovations.org/success-stories/) emulating an accelerator; drawing Cambodian innovators into the social space with small grants, and developing the innnovation ecosystem and community.
 
-3. **Reconsider risk calculations.** 
+3. **Reconsider risk calculations** 
 
 Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB (or [NationBuilder](http://nationbuilder.com/) or [Platzi](https://courses.platzi.com/) or [Couchsurfing](https://www.couchsurfing.com), all [Omidyar](https://www.omidyar.com) investments; USAID missions must push the agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The “Uber of civic engagement” might be out there, we just need to create the conditions that allow entrepreneurs to try (and fail) until we figure it out! 
 
