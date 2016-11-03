@@ -43,7 +43,7 @@ Throughout the week I heard a lot of great ideas about how to better support fou
 
 What do I mean? Accelerators solve local problems by empowering entrepreneurs with the training and tools they need to achieve market sustainability; development organizations help solve local problems by empowering citizens, civil society organizations, and local governments with the training and tools they need to achieve sustainable social, economic, and political impact. 
 
-## And Yet, Our Worlds Are Not Entirely Distinct 
+## Separate Worlds, but Converging Rapidly
 There’s a strong trend among entrepreneurs to focus not just on opportunities to turn a profit, but opportunities to have social impact *and* turn a profit. This movement, called [social impact investing](https://thegiin.org/impact-investing/need-to-know/), “challenges the long-held views that social and environmental issues should be addressed only by philanthropic donations, and that market investments should focus exclusively on achieving financial returns.” The Global Impact Investor Network [reports in its 2016 Annual Impact Investor Survey](https://thegiin.org/assets/2016%20GIIN%20Annual%20Impact%20Investor%20Survey_Web.pdf) that more than $15 billion was invested in impact-oriented projects in 2015, with almost $18 billion planned for 2016.
 
 ## Meanwhile...
