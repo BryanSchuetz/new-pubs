@@ -80,6 +80,10 @@ Why? Looking back at the accelerator model, it's not just the funding that drive
 
 Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB (or [NationBuilder](http://nationbuilder.com/) or [Platzi](https://courses.platzi.com/) or [Couchsurfing](https://www.couchsurfing.com), all [Omidyar](https://www.omidyar.com) investments; USAID missions must push the agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The “Uber of civic engagement” might be out there, we just need to create the conditions that allow entrepreneurs to try (and fail) until we figure it out! 
 
+4. **Scale**
+
+You might be thinking "we're already doing that!" And yes, I concede there are instances of USAID projects operating like accelerators (Development Innovations being a strong example), supporting the innovation ecosystem, and funding small entrepreneurs. But let's scale this up! I read a lot of USAID RFPs; there are still relatively few project designs that include innovation funds or mention the innovation ecosystem as a potential tool to leverage local design and problem solving capabilities. And make no mistake: contractors respond to what's in the RFP, so ask and ye shall receive! 
+
 *This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, innovate in procurement processes, and adjust monitoring and evaluation frameworks to be more agile*
 
 *I'd love to hear others' thoughts on those topics, and other ideas you have on how USAID could support innovation. Let me know on Twitter at [@DAIGlobal](https://twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
