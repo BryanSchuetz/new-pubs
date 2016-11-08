@@ -7,15 +7,15 @@ tags:
 Author: Ben Mann
 ---
 
-*This is a guest post written by [Ben Mann](https://dai.com/who-we-are/our-team/ben-mann), a development specialist at DAI with a wide range of interests. He is a policy wonk, water, sanitation, and hygiene (WASH) technical expert, ICT enthusiast, and general advocate for improved use of data & visualizations. Follow Ben on twitter [@bhmann](https://twitter.com/bhmann)*
+*This is a guest post written by [Ben Mann](https://dai.com/who-we-are/our-team/ben-mann), a development specialist at DAI with a wide range of interests. He is a policy wonk; water, sanitation, and hygiene (WASH) technical expert; ICT enthusiast; and general advocate for improved use of data and visualizations. Follow Ben on twitter [@bhmann](https://twitter.com/bhmann)*
 
-One of the core functions of an effective monitoring and evaluation system is the ability to accurately count things. Depending on your M&E strategy, you may be counting the number of schools built in a district, number of boreholes functioning in a region, or the number of microloans given to farmers in a cluster of villages. From my experience in designing and operationalizing M&E plans for a range of private and bilaterally funded programs, counting people is by far the hardest and most complex to do- especially when you are trying to observe and record information on the same people over an extended period.
+One of the core functions of an effective monitoring and evaluation (M&E) system is the ability to accurately count things. Depending on your M&E strategy, you may be counting the number of schools built in a district, number of boreholes functioning in a region, or the number of microloans given to farmers in a cluster of villages. From my experience designing and operationalizing M&E plans for a range of private and bilaterally funded programs, counting people is by far the hardest and most complex to do—especially when you are trying to observe and record information on the same people over an extended time.
 
 <!--more-->
 
 Counting people can be an easy task, if you have a highly controlled setting with a small set of people to count. Imagine you are a teacher in a classroom setting, teaching a night course to twenty students. The students paid $100 each for the course and applied online for the class that will meet once a week for eight weeks. Tracking attendance is almost a mindless activity. Simple visual observations can let you know if any students are missing on a given evening and you can record attendance in less than a minute.
 
-This simple scenario can become dramatically more complex as we remove elements of control away from the teacher (or whomever is responsible for collecting data). What if instead of twenty, pre-registered and documented students we open the course to anyone in 25km radius of the school? The course is also now free and pre-registration is not required. On any given week, the class has 15 to 100 participants. Unless you have an eidetic memory and super-hero level M&E skills, visual observations and an attendance sheet are no longer the best option.
+This simple scenario can become dramatically more complex as we remove elements of control away from the teacher (or whomever is responsible for collecting data). What if instead of 20, pre-registered and documented students we open the course to anyone in 25-kilometer radius of the school? The course is also now free and pre-registration is not required. On any given week, the class has 15 to 100 participants. Unless you have an eidetic memory and super-hero level M&E skills, visual observations and an attendance sheet are no longer the best option.
 
 ## Real challenges to tracking beneficiaries
 
