@@ -1,5 +1,5 @@
 ---
-title: Biometrics Help Track Beneficiaries in the Field
+title: 'Counting People is Hard: Biometrics can Help'
 date: 2016-11-08 08:43:00 -05:00
 tags:
 - Data
