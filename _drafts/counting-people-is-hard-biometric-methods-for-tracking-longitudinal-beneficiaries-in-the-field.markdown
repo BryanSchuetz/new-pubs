@@ -1,5 +1,5 @@
 ---
-title: Biometrics Can Track Longitudinal Beneficiaries in the Field
+title: Biometrics Help Track Beneficiaries in the Field
 date: 2016-11-08 08:43:00 -05:00
 tags:
 - Data
