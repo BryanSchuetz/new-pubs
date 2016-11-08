@@ -1,6 +1,5 @@
 ---
-title: 'Counting people is hard: Biometric methods for tracking longitudinal beneficiaries
-  in the field'
+title: Biometrics Can Track Longitudinal Beneficiaries in the Field
 date: 2016-11-08 08:43:00 -05:00
 tags:
 - Data
@@ -8,7 +7,7 @@ tags:
 Author: Ben Mann
 ---
 
-*This is a guest post written by [Ben Mann](https://dai.com/who-we-are/our-team/ben-mann), a development specialist at DAI with a wide range of interests. He is a policy wonk, WASH technical expert, ICT enthusiast, and general advocate for improved use of data & visualizations. Follow Ben on twitter [@bhmann](https://twitter.com/bhmann)*
+*This is a guest post written by [Ben Mann](https://dai.com/who-we-are/our-team/ben-mann), a development specialist at DAI with a wide range of interests. He is a policy wonk, water, sanitation, and hygiene (WASH) technical expert, ICT enthusiast, and general advocate for improved use of data & visualizations. Follow Ben on twitter [@bhmann](https://twitter.com/bhmann)*
 
 One of the core functions of an effective monitoring and evaluation system is the ability to accurately count things. Depending on your M&E strategy, you may be counting the number of schools built in a district, number of boreholes functioning in a region, or the number of microloans given to farmers in a cluster of villages. From my experience in designing and operationalizing M&E plans for a range of private and bilaterally funded programs, counting people is by far the hardest and most complex to do- especially when you are trying to observe and record information on the same people over an extended period.
 
