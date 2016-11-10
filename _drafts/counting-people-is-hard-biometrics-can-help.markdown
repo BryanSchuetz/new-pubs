@@ -31,6 +31,8 @@ In Cambodia, [SeeSaw](http://www.greenseesaw.com/home) is using Android phones a
 **ICT Solution #2: Finger Print Scanning**
 On our [Promote Women In the Economy](http://dai.com/our-work/projects/afghanistan%E2%80%94promote-women-economy-wie) (WIE) program in Afghanistan, > [RSI Consulting](www.rsiafghanistan.com/index.php) is capturing unique identifiers for project beneficiaries through finger print scanners. As part of their holistic M&E system, RSI is integrating thumbprint scanning technology into digital surveys. Whenever a beneficiary takes part in a new activity, they scan a thumbprint and are automatically logged as a new or continuing participant in the program.
 
+![thumbprint (1).png](/uploads/thumbprint%20(1).png)
+
 Development partners aren’t the only ones utilizing biometrics for capturing information on beneficiaries or constituents. India’s [AADHAAR](http://www.innovationiseverywhere.com/this-is-aadhaar-indias-750-million-biometric-and-online-identity-database-and-its-future-as-an-ecosystem-of-innovation) program has registered more than 750 million voluntary participants since 2009 through both iris and fingerprint scanning as an alternative to traditional government issued identification cards. Technology firms have also recognized the benefits of capturing biometrics for identification, including the launch of Iris Recognition Technology on the Samsung Galaxy Tab or Apple’s Touch ID.
 
 ## Security is Key
