@@ -18,7 +18,8 @@ In talking with Phil and Jonathan, and the many other academics and researchers 
 ## ICT4D isn't just software
 Because I specialize in mobile for development, my ICT4D world is one of apps, value-added services, handsets and connectivity. Very few other people at TechCon cared about that stuff - and it worked out great. I set aside my [Appathon](https://dai-global-digital.com/tags/?tag=appathon-2016) obsession for a few days and was able to learn about new things: hydrogel desalination techniques and innovative packaging to prevent food loss and network mapping using predictive data flows. This type of mental de-boxing is vital to being a good employee, creative team member and flexible development practitioner. I was a full-on student again, and loved it.
 
-##  
+## We forget the resources we have
+I was asked a question on what advice I could give during my panel from a student at MIT. He specifically was asking about what he could do, as a student with limited resources, to become more experienced in international development, specifically in the [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) methodology I was speaking about. For so many, the barriers of travel and money preclude a career in international development. I thought back on my own career, and how I've been both lucky to get significant field-based work experience early on, but also how I just used the only unlimited resource I have - my own life. I would obsessively ask friends, family, taxi drivers, strangers on the subway about their phone habits and choices, and learned to identify patterns, refine my questions and seek nuanced insights through this entirely geeky but free pursuit. It gave me pause to think about how personal a lot of this work is - on both the academic and practitioner side - and how we all could stand to remember what sparked our passion.
 
 
 
