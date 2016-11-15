@@ -16,7 +16,9 @@ This struck me as I was sitting on a panel with two of them, [Jonathan Donner](h
 In talking with Phil and Jonathan, and the many other academics and researchers I met at TechCon, what struck me was that despite the differences in our mandates and passions, we're all working toward the same goal. It's as crucial to learn from the more slow-moving work of academics as it is for them to learn from the high-pressure scramble of development implementation. I'm not sure (still) how to seek out and keep track of ICT research (do those things get Tweeted?), but I will be making a conscious effort to keep tabs on the researchers I met at TechCon, their work and their findings.
 
 ## ICT4D isn't just software
-Because I specialize in mobile for development, my ICT4D world is one of apps, value-added services, handsets and connectivity. Very few other people at TechCon cared about that stuff - and it worked out great. I set aside my [Appathon](https://dai-global-digital.com/tags/?tag=appathon-2016) obsession for a few days and was able to learn about new things: hydrogel desalination techniques and innovative packaging to prevent food loss and network mapping using predictive data and 
+Because I specialize in mobile for development, my ICT4D world is one of apps, value-added services, handsets and connectivity. Very few other people at TechCon cared about that stuff - and it worked out great. I set aside my [Appathon](https://dai-global-digital.com/tags/?tag=appathon-2016) obsession for a few days and was able to learn about new things: hydrogel desalination techniques and innovative packaging to prevent food loss and network mapping using predictive data flows. This type of mental de-boxing is vital to being a good employee, creative team member and flexible development practitioner. I was a full-on student again, and loved it.
+
+##  
 
 
 
