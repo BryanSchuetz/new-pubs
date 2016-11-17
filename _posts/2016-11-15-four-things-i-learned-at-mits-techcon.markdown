@@ -8,6 +8,8 @@ Author: Kristen Roggemann
 
 This past week I attended [TechCon 2016](http://www.hesntechcon.com/), co-hosted this year by MIT and the U.S. Agency for International Development (USAID). TechCon is the annual gathering of the [Higher Education Solutions Network](https://www.usaid.gov/hesn), a partnership between USAID and top universities to harness the academic power, passion, and curiosity of students, researchers, and faculty to solve global development challenges. Spoiler alert: it was GREAT. It’s easy to forget in the day-in, day-out of ICT4D work that “technology” has a far broader remit than the work we as ICT4D practitioners do in it. Engaging with researchers and academics conducting research far outside my normal scope awakened a sense of real and joyful curiosity I hadn’t felt in awhile. So beyond this humble reminder, and that Boston in autumn is truly glorious, here’s a few other things I learned at TechCon.
 
+<!--more-->
+
 ## Academics and Practitioners Live on Different Planets
 
 I talk to people all the time. It’s part of my job. I talk to colleagues at DAI. I talk to vendors and partners in ICT4D. I talk to staff and partners on our projects. I talk to private sector firms, foundations, telecoms, regulatory authorities, and sometimes, every once in a while when I’m lucky, the actual humans we’re trying to serve.
