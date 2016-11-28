@@ -52,8 +52,8 @@ One of the most prominent facilitators of innovation through prize-based competi
 2. **Target Market Failures**\
    To really create scaled impact, XPrize focuses heavily on designing prize challenges that aim to create markets where there previously were none. An example of this is oil slick clean-up. After the notorious Deepwater Horizon oil spill in 2010, XPrize issued an Oil Cleanup challenge based on research that showed that surface oil cleanup technology had not advanced in terms of efficiency for some 30 years, resulting in a new skimmer technology 4 times as efficient as old technologies, unsurprisingly eliciting great interest from oil companies the world over.
 
-3. Clear (Quantitative) Requirements\
+3. **Clear (Quantitative) Requirements**\
    In order to both demonstrate effectiveness of designed solutions, it is necessary to ensure that results are measurable. This measurability of results should be embedded into the design of a challenge from the get-go, and also make the job of fund managers easier when it comes to assessing competing solutions. “Develop improved weather forecasting model based on open data sets” for example could read “Develop a weather forecasting model that predicts daily rainfall rates to within an accuracy of 95% in a 5km radius based on open data sources.”
 
-4. Be Solution – Agnostic\
+4. **Be Solution – Agnostic**\
    By clearly defining a challenge and some key parameters of a solution without being too prescriptive, providing pages and pages of technical requirements, funders of challenges allow for the organic growth and realization of ideas owned by challenge participants – those that will ultimately take their ideas forward into the marketplace.
