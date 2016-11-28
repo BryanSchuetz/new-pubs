@@ -6,7 +6,7 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-I apologize for using the word “innovation” in the title of this post. I know. I work in ICT4D and I’m supposed to be a champion for innovation in all its forms. The truth is, for me, the word has nearly lost all its meaning. Innovation is easily one of the most overused and least-understood words favored by businesses, academia, and yes, international development agencies. So instead of writing a post on how we can “promote innovation,” per se, I prefer to write about how we as development practitioners can use promising models to source, finance, and apply new solutions—be they digital technologies, products, or processes—to development problems based on open competition, collaboration, and evidence.
+I apologize for using the word “innovation” in the title of this post. I know... I work in ICT4D and I’m supposed to be a champion for innovation in all its forms. The truth is, for me, the word has nearly lost all its meaning. Innovation is easily one of the most overused and least-understood words favored by businesses, academia, and yes, international development agencies. So instead of writing a post on how we can “promote innovation,” per se, I prefer to write about how we as development practitioners can use promising models to source, finance, and apply new solutions—be they digital technologies, products, or processes—to development problems based on open competition, collaboration, and evidence.
 
 <!--more-->
 
