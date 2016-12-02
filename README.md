@@ -1,3 +1,5 @@
 Digital @ DAI
 
-Shh, secret stuff.
+The site for Digital@DAI
+
+Built with Jekyll + Siteleaf deployed to Cloudflare.
