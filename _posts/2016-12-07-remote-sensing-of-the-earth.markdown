@@ -65,3 +65,11 @@ Wow now the clouds are dark and there is a bright white circle of light in the c
 
 ![terrain](/uploads/terrain.jpg)
 
+Now let's play with another combination of bands, this one highlighting lush healthy vegetation.
+
+![drc](/uploads/drcrwanda.jpg)
+
+Here we compose an image using landsat bands that highlight healthly lush vegetation, and the tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
+
+There are infinitely more interesting things you can do with landsat and we will detail them in the rest of this remote sensing series. 
+
