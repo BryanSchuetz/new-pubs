@@ -5,7 +5,7 @@ published: false
 Author: John DeRiggi
 ---
 
-*This is the part 1 in a series of posts about remote sensing*
+*This is the part 1 in a series of posts about remote sensing. DAI is really excited about the upcoming [SatSummit ](https://satsummit.io/)at the end of January*
 
 <!--more --> 
 
