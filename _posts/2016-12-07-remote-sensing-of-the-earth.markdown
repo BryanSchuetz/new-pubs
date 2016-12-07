@@ -43,7 +43,7 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 ### Band Combinations and False Color Images
 The different bands picked up by landsat can be combined to create images. Here is the breakdown of the different bands:
 
-![bands](/uploads/_1_Wavelengths.jpg)
+![bands](/uploads/landsat8bands.JPG)
 
 ``` band combinations: source harris corporation```
 
