@@ -43,6 +43,7 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 The different bands picked up by landsat can be combined to create images. Here is the breakdown of the different bands:
 
 ![bands](/uploads/_1_Wavelengths.jpg)
+
 ``` band combinations: source harris corporation```
 
 Landsat data is provided to us in layers, for sections of the electromagenetic spectrum. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
