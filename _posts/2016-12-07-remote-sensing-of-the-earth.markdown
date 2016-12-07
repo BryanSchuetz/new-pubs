@@ -7,7 +7,7 @@ Author: John DeRiggi
 
 This 
 
-![header](/uploads/header.jpg)
+![header](/uploads/header-84f36d.jpg)
 
 
 
