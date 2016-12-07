@@ -22,6 +22,17 @@ Sir James discovered infrared light. Identifying for the first time a physical p
 
 ![em spectrum](/uploads/emspectrum.jpg)
 
+This understanding and analysis of the different properties of light at different wavelengths helped spawn a field of study involving studying the earth with satellite and sensor technology.
+
+
+### Remote Sensing
+Satellite programs today make tremendous use of this full spectrum of light to study the earth, and the area of study is referred to as remote sensing. Iain Woodhouse of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
+
+> Remote sensing is the science of measuring or inferring the physical properties of an object or medium using a sensor that is at some distance from the object or medium...
+
+Remote sensing is not confined to satellites but can also be conducted from an aircraft or handleld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>&mdash; Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
