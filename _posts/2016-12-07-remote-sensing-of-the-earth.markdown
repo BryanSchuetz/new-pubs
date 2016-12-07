@@ -43,4 +43,5 @@ Landsat data is provided to us in layers, for sections of the electromagenetic s
 
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
-!(true color)[/uploads/432image.jpg)
+![true color](/uploads/432image.jpg)
+
