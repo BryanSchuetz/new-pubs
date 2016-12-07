@@ -26,11 +26,14 @@ This understanding and analysis of the different properties of light at differen
 
 
 ### Remote Sensing
-Satellite programs today make tremendous use of this full spectrum of light to study the earth, and the area of study is referred to as remote sensing. Iain Woodhouse of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
+Satellite programs today make tremendous use of this full spectrum of light to study the earth, and the area of study is referred to as remote sensing. [Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
 
 > Remote sensing is the science of measuring or inferring the physical properties of an object or medium using a sensor that is at some distance from the object or medium...
 
 Remote sensing is not confined to satellites but can also be conducted from an aircraft or handleld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours
+
+### LandSat
+Landsat is a satellite program started in the 1970s operated by USGS and NASA collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat8 program in orbiting the earth  at an altitude of 705 kilometers (438 miles) orbiting every 99 minutes. We will have a subsequent post that goes into a bit more detail about the landsat program
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>&mdash; Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
