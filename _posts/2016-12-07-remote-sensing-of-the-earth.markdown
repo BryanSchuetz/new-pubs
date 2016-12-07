@@ -15,7 +15,6 @@ One day in 1800 German-born British citizen and musician-turned-astronomer, Sir 
  
 ![roygbiv](/uploads/roygbiv.jpg)
 
-
 Sir James then placed a thermometer underneath each color and took note of the difference in temperature. He put another thermometer to the left of the red light, outside the range of the colored light. That’s when something unexpected happened: the highest temperature was found there, left of the red area outside of the visible range! 
 
 Sir James discovered infrared light. Identifying for the first time a physical property of light that is most appropriately described by a cliche: there is more than meets the eye. While us humans can only see the light in the rainbow color spectrum, there is a far wider spectrum of light zipping through space, reflecting off things, revealing properties of the things it reflects against. This full spectrum of light comprising of both the colors visible to us humans and many other invisible bands is called the electromagnetic spectrum. It is hard to imagine invisible light but many of these invisible bands have familiar names like x-rays, microwaves, and radio waves. All of them are part of the same spectrum, just separated by the size of the wavelength.
@@ -24,7 +23,6 @@ Sir James discovered infrared light. Identifying for the first time a physical p
 
 This understanding and analysis of the different properties of light at different wavelengths helped spawn a field of study involving studying the earth with satellite and sensor technology.
 
-
 ### Remote Sensing
 Satellite programs today make tremendous use of this full spectrum of light to study the earth, and the area of study is referred to as remote sensing. [Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
 
@@ -32,10 +30,15 @@ Satellite programs today make tremendous use of this full spectrum of light to s
 
 Remote sensing is not confined to satellites but can also be conducted from an aircraft or handleld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours
 
-### LandSat
-Landsat is a satellite program started in the 1970s operated by USGS and NASA collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat8 program in orbiting the earth  at an altitude of 705 kilometers (438 miles) orbiting every 99 minutes. We will have a subsequent post that goes into a bit more detail about the landsat program
-
+### Landsat
+Landsat is a satellite program started in the 1970s and operated by USGS and NASA collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat8 program in orbiting the earth  at an altitude of 705 kilometers (438 miles) orbiting every 99 minutes. We will have a subsequent post that goes into a bit more detail about the landsat program
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>&mdash; Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Band Combinations and False Color Images
+Landsat data is provided to us in layers, for sections of the electromagenetic spectrum. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
+
+
+Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
