@@ -3,7 +3,6 @@ title: 'Mobile Data Collection:  A Sector in Flux'
 date: 2016-12-07 12:26:00 -05:00
 categories:
 - data
-Author: Anand Varghese
 ---
 
 In recent years, mobile surveys and data collection capabilities have increased alongside rapidly expanding mobile phone penetration in the developing world. And with this trend, there has been a proliferation of small firms that have entered this space. At DAI, we realize that by allowing us to quickly capture hard-to-gather data and conduct surveys across our portfolio, new tools can change the way we execute development projects as well as win new business.
