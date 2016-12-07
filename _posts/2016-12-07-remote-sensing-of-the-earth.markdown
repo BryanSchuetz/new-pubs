@@ -5,7 +5,7 @@ published: false
 Author: John DeRiggi
 ---
 
-This is the first in a series of posts about remote sensing
+*This is the part 1 in a series of posts about remote sensing*
 
 <!--more --> 
 
@@ -13,7 +13,7 @@ This is the first in a series of posts about remote sensing
 
 One day in 1800 German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy sunday afternoons. That’s right he was playing around with a prism, investigating the temperature differences between the bands of colorful light that refracts in different wavelengths and splays out in this familiar natural sequence
  
-
+![roygbiv](/uploads/roygbiv.jpg)
 
 
 
