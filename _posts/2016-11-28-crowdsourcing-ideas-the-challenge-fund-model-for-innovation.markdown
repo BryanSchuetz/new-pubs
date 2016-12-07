@@ -42,7 +42,7 @@ Earlier this year, John DeRiggi and I attended South by Southwest to take stock 
 
 4. **Multiplied Value:** This point is not to be underestimated. In line with creating a focus on a particular theme or issue, challenge funds tend to get a significant “bang for buck.” Opening up a challenge to the general public to develop and demonstrate a solution might lead to only one or a small handful of winners being awarded a prize, but even those competitors who do not win a given challenge create value through participation, developing alternative solutions that may still be viable and sustainable, offering a more diverse and dynamic solutions market.
 
-# Things to Think About when Designing a Challenge
+# Things to Think About When Designing a Challenge
 
 One of the most prominent facilitators of innovation through prize-based competition is [XPrize Foundation](http://www.xprize.org/), which was also present at South by Southwest. Senior Director of Visioneering Jordan Brown offered some good tips for designing a prize challenge for social impact:
 
