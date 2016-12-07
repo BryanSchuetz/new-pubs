@@ -25,7 +25,7 @@ Sir James discovered infrared light. Identifying for the first time a physical p
 ![em spectrum](/uploads/emspectrum.jpg)
 ```The electrogmagentic spectrum. The visible portion is tiny``
 
-This understanding and analysis of the different properties of light at different wavelengths helped spawn a field of study involving studying the earth with satellite and sensor technology.
+This understanding and analysis of the different properties of light at different wavelengths helped spawn a field of study in which we study the earth with satellites, planes, drones and sensor technology.
 
 ### Remote Sensing
 Satellite programs today make tremendous use of this full spectrum of light to study the earth, and the area of study is referred to as remote sensing. [Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
