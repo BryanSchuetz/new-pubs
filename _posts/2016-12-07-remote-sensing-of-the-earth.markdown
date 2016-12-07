@@ -52,7 +52,7 @@ Landsat data is provided to us in layers, for sections of the electromagenetic s
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
 ![true color](/uploads/432image.jpg)
-``` Approximately what the easter DRC looks like from a human eye in space
+```Approximately what the easter DRC looks like from a human eye in space```
 
 
 Not terribly exciting right? It is kind of hard to see what is on the ground, there are some very bright white clouds reflecting the full light of the sun back at your eye.
