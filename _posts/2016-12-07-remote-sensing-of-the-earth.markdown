@@ -16,7 +16,7 @@ Author: John DeRiggi
 One day in 1800 German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy sunday afternoons. That’s right he was playing around with a prism, investigating the temperature differences between the bands of colorful light that refracts in different wavelengths and splays out in this familiar natural sequence
  
 ![roygbiv](/uploads/roygbiv.jpg)
-``` the electromagnetic spectrum. The visible portion of the spectrum is tiny.
+``` the electromagnetic spectrum. The visible portion of the spectrum is tiny.```
 
 Sir James then placed a thermometer underneath each color and took note of the difference in temperature. He put another thermometer to the left of the red light, outside the range of the colored light. That’s when something unexpected happened: the highest temperature was found there, left of the red area outside of the visible range! 
 
