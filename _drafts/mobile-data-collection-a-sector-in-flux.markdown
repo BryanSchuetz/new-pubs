@@ -20,9 +20,9 @@ First, the mobile data collection sector represents a broad set of capabilities,
 
 ## The Sector is in Flux
 
-Second, this event left us with a lingering question about how stable these niches are likely to be in the long term. At the moment, this entire sector appears to be in flux. For example, we had initially invited HNI and VOTO as two separate organizations, but realized that they had recently merged their operations to form a to-be-named entity. Premise, who only half a year ago was pursuing a model that virtually mirrored Findyr’s, is now moving in the direction of mobile-based behavior change communications, especially in the public health sector.
+Second, this event left us with a lingering question about how stable these niches are likely to be in the long term. At the moment, this entire sector appears to be in flux. For example, we had initially invited Human Network International and VOTO as two separate organizations, but realized they had recently merged to form a yet-to-be-named new entity. Premise, which only half a year ago was pursuing a model that virtually mirrored Findyr’s, is now moving in the direction of mobile-based behavior change communications, specifically in public health.
  
-It’s hard to tell whether this sector will look the same in even a couple of years. Will there be more mergers between these companies? How will policy changes among donors and large implementers (like DAI) continue to influence this sector? How will they cope with shifts in the technology, both in terms of capabilities like machine learning, but also as access to internet expands in developing countries, providing millions with free access?
+It’s hard to tell whether this sector will look the same in even a couple of years. Will there be more mergers between these companies? How will policy changes among donors and large implementers (such as DAI) continue to influence this sector? How will they cope with shifts in the technology, both in terms of capabilities like machine learning, but also as access to internet expands in developing countries, providing millions with free access?
 
 ## The sector is driven by both profits and development impact
 
