@@ -41,6 +41,5 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 ### Band Combinations and False Color Images
 Landsat data is provided to us in layers, for sections of the electromagenetic spectrum. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
 
-
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
-
+!(true color)[/uploads/432image.jpg)
