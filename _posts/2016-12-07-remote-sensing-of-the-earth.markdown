@@ -49,7 +49,7 @@ Landsat8 sensors detect light at different sections of the electromagnetic spect
 
 Landsat data is available in raster format, with one raster for each band collected by the sensors. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum.
 
-Lets take an example of a visible color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
+Lets take an example of a visible color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye from 438 miles above the earth.
 
 ![true color](/uploads/432image.jpg)
 ```Approximately what the easter DRC looks like from a human eye in space```
