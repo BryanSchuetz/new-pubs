@@ -5,7 +5,7 @@ published: false
 Author: John DeRiggi
 ---
 
-*This is the part 1 in a series of posts about remote sensing. DAI is really excited about the upcoming [SatSummit ](https://satsummit.io/) on January 31st*
+*This is the part 1 in a series of posts about remote sensing. DAI is entering an orbit about the upcoming [SatSummit ](https://satsummit.io/) on January 31st*
 
 <!--more --> 
 
@@ -28,7 +28,7 @@ Sir James discovered infrared light. **Identifying for the first time a physical
 This understanding and analysis of the different properties of light at different wavelengths helped spawn a discipline called remote sensing, in which we study the earth with satellites, planes, drones and sensor technology.
 
 ### Remote Sensing
-[Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
+Let's put forward a definition of remote sensing. [Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
 
 > Remote sensing is the science of measuring or inferring the physical properties of an object or medium using a sensor that is at some distance from the object or medium...
 
