@@ -72,10 +72,10 @@ Now let's play with another combination of bands, this one highlighting lush hea
 
 Here we compose an image using landsat bands that highlight healthly lush vegetation, and the tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
 
-So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality.
+So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality. In this next image there are 
  
 ![ndvi_Change.jpg](/uploads/ndvi_Change.jpg)
-``` Change in vegetation health (NDVI) between 2008 and 2010 near Kigali, Rwanda```
+``` Change in vegetation health (NDVI) between 2008 and 2010 near Kigali, Rwanda. Red areas mean a decline in vegetation health, bright green is increased vegetation health, and black is no change```
 
 There are infinitely more interesting things you can do with landsat and we will detail them in the rest of this remote sensing series. 
 
