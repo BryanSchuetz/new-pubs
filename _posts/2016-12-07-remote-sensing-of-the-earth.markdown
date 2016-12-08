@@ -65,10 +65,12 @@ Now let’s sort of replicate James Herschel’s experiment and look at a warmer
 Wow now the clouds are dark and there is a small bright white circle of light in the center of the image. Thermal infrared is radiant heat so this image is telling us that us that something extermely hot is there nestled between those clouds. The clouds are dark because they are cool and not emanating much heat at all. Looking at this location on google maps we see that it is the Nyriangongo Volcano, home of the largest lava lake in the world. That explains the extreme heat!
 
 ![terrain](/uploads/terrain.jpg)
+``` A terrain image of the Nyriangongo volcano near Goma ```
 
 Now let's play with another combination of bands. Near infrared bands of the spectrum are heavily reflected by healthy vegetation. This image composition uses those bands and highlights lush healthy vegetation with deep blue colors.
 
 ![drc](/uploads/drcrwanda.jpg)
+``` Deep blues in the west reflect healthy vegetation. Greens in the east are signs of cultivated land ```
 
 Here we compose an image using landsat bands that highlight healthly lush vegetation, and the tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
 
