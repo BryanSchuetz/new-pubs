@@ -77,7 +77,7 @@ Here we compose an image using landsat bands that highlight healthly lush vegeta
 ![drcrwanda_labeled-2e2395.jpg](/uploads/drcrwanda_labeled-2e2395.jpg)
 ``` Labeled image composed of bands emphasizing healthy vegetation ```
 ### Remote Sensing Applications for Development
-So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality. In this next image we compose an image of vegetation health using data from 2008 and 2010. This image represents the change in vegetation health that occurred between those two years.
+So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality. In this next image we compose an image of vegetation health using data from 2008 and 2010. This image represents the change in vegetation health that occurred between those two years with red areas showing a decline in vegetation and bright green indicating a strengthening of healthy vegetation. Clearly the bright green areas are some kind of highly organized area for agriculture.
  
 ![ndvi_Change.jpg](/uploads/ndvi_Change.jpg)
 ``` Change in vegetation health (NDVI) between 2008 and 2010 near Kigali, Rwanda. Red areas mean a decline in vegetation health, bright green is increased vegetation health, and black is no change```
