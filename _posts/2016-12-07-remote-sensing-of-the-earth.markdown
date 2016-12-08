@@ -56,7 +56,7 @@ Lets take an example of a visible color image, this is pretty close to what it w
 
 Not terribly exciting right? It is kind of hard to see what is on the ground, there are some very bright white clouds reflecting the full light of the sun back at the sensor.
 
-Now let’s sort of replicate James Herschel’s experiment and look at a warmer edge of the spectrum, This is the thermal infrared layer from Landsat8. I also zoomed in a bit
+Now let’s sort of replicate James Herschel’s experiment and look at a warmer edge of the spectrum, This is the thermal infrared layer (band 11) from Landsat8. I also zoomed in a bit
 
 ![thermal](/uploads/thermal.jpg)
 
@@ -67,7 +67,7 @@ Wow now the clouds are dark and there is a small bright white circle of light in
 ![terrain](/uploads/terrain.jpg)
 ``` A terrain image of the Nyriangongo volcano near Goma ```
 
-Now let's play with another combination of bands. Near infrared bands of the spectrum are heavily reflected by healthy vegetation. This image composition uses those bands and highlights lush healthy vegetation with deep blue colors.
+Now let's play with another combination of bands. Near-infrared light (band 5) of the spectrum are heavily reflected by healthy vegetation. This image composition uses those bands and highlights lush healthy vegetation with deep blue colors. Technically this is a 7-6-5 image. 
 
 ![drc](/uploads/drcrwanda.jpg)
 ``` Deep blues in the west reflect healthy vegetation. Greens in the east are signs of cultivated land ```
