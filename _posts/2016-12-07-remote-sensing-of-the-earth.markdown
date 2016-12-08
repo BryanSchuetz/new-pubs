@@ -47,7 +47,7 @@ Landsat8 detects light at different sections of the electromagnetic spectrum. Ea
 
 ``` Landsat8 bands: source ESRI```
 
-Landsat data is available in raster format, with one raster for each band collected by the sensors. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
+Landsat data is available in raster format, with one raster for each band collected by the sensors. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum.
 
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
