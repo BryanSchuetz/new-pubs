@@ -25,14 +25,14 @@ Sir James discovered infrared light. **Identifying for the first time a physical
 ![em spectrum](/uploads/emspectrum.jpg)
 ```The electrogmagentic spectrum. The visible portion is tiny```
 
-This understanding and analysis of the different properties of light at different wavelengths helped spawn a field of study in which we study the earth with satellites, planes, drones and sensor technology.
+This understanding and analysis of the different properties of light at different wavelengths helped spawn a discipline called remote sensing, in which we study the earth with satellites, planes, drones and sensor technology.
 
 ### Remote Sensing
-Satellite programs today make tremendous use of this full spectrum of light to study the earth, and the area of study is referred to as remote sensing. [Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
+[Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way: 
 
 > Remote sensing is the science of measuring or inferring the physical properties of an object or medium using a sensor that is at some distance from the object or medium...
 
-Remote sensing is not confined to satellites but can also be conducted from an aircraft or handleld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours
+Remote sensing is not confined to satellites but can also be conducted from an aircraft or handleld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours. It is noteworthy that satellite collection has disadvantages too. White puffy clouds obscuring the earth is a big one.
 
 ### Landsat
 Landsat is a satellite program started in the 1970s and operated by USGS and NASA collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat8 program in orbiting the earth  at an altitude of 705 kilometers (438 miles) orbiting every 99 minutes. We will have a subsequent post that goes into a bit more detail about the landsat program
