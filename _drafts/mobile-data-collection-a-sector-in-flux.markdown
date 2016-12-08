@@ -1,8 +1,8 @@
 ---
 title: 'Mobile Data Collection:  A Sector in Flux'
 date: 2016-12-07 12:26:00 -05:00
-categories:
-- data
+tags:
+- Data
 Author: "[Anand Varghese](http://dai.com/who-we-are/our-team/anand-varghese) and [Ben
   Rinehart](http://dai.com/who-we-are/our-team/benjamin-rinehart) "
 ---
