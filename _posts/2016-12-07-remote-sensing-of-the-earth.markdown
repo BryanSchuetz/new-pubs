@@ -72,7 +72,7 @@ Now let's play with another combination of bands. Near-infrared light (band 5) o
 ![drc](/uploads/drcrwanda.jpg)
 ``` Deep blues in the west reflect healthy vegetation. Greens in the east are signs of cultivated land ```
 
-With this image, a tail of two countries appears. In the middle is Lake Kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
+With this image, a tail of two countries appears. In the middle is Lake Kivu, to the west is eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher population density in Rwanda
 
 ![drcrwanda_labeled-2e2395.jpg](/uploads/drcrwanda_labeled-2e2395.jpg)
 ``` Labeled image composed of bands emphasizing healthy vegetation ```
