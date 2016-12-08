@@ -66,7 +66,7 @@ Wow now the clouds are dark and there is a small bright white circle of light in
 
 ![terrain](/uploads/terrain.jpg)
 
-Now let's play with another combination of bands, this one highlighting lush healthy vegetation.
+Now let's play with another combination of bands, this one highlighting lush healthy vegetation with deep blue colors.
 
 ![drc](/uploads/drcrwanda.jpg)
 
