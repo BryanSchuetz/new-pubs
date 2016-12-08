@@ -13,7 +13,7 @@ Author: John DeRiggi
 
 ### Origins of Remote Sensing
 
-One day in 1800 German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy sunday afternoons. That’s right he was playing around with a prism, investigating the temperature differences between the bands of colorful light that refracts in different wavelengths and splays out in this familiar natural sequence
+One day in 1800 German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy sunday afternoons. That’s right he was playing around with a prism, investigating the temperature differences between the bands of colorful light that splay out in this familiar natural sequence
  
 ![roygbiv](/uploads/roygbiv.jpg)
 ``` Herschel placed a thermometer to the left of the red band and found invisible infrared light```
