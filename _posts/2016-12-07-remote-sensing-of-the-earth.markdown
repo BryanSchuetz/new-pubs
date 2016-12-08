@@ -54,7 +54,7 @@ Lets take an example of a visible color image, this is pretty close to what it w
 ![true color](/uploads/432image.jpg)
 ```Approximately what the easter DRC looks like from a human eye in space```
 
-Not terribly exciting right? It is kind of hard to see what is on the ground, there are some very bright white clouds reflecting the full light of the sun back at your eye.
+Not terribly exciting right? It is kind of hard to see what is on the ground, there are some very bright white clouds reflecting the full light of the sun back at the sensor.
 
 Now let’s sort of replicate James Herschel’s experiment and look at a warmer edge of the spectrum, This is the thermal infrared layer from Landsat8. I also zoomed in a bit
 
