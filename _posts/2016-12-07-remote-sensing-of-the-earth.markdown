@@ -5,7 +5,7 @@ published: false
 Author: John DeRiggi
 ---
 
-*This is the part 1 in a series of posts about remote sensing. DAI is entering an orbit about the upcoming [SatSummit ](https://satsummit.io/) on January 31st*
+*This is the part 1 in a series of posts about remote sensing. DAI is entering an orbit of excitement about the upcoming [SatSummit ](https://satsummit.io/) on January 31st*
 
 <!--more --> 
 
