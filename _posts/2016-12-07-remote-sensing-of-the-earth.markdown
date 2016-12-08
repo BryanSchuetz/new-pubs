@@ -40,8 +40,8 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>&mdash; Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Band range for Landsat8
-The different bands picked up by landsat can be combined to create images. Here is the breakdown of the different bands:
+### Bands and Landsat8
+Landsat8 detects light at different sections of the electromagnetic spectrum. Each section is referred to as a **band**. Here is the breakdown of the different bands:
 
 ![bands](/uploads/landsat8bands.JPG)
 
