@@ -62,7 +62,7 @@ Now let’s sort of replicate James Herschel’s experiment and look at a warmer
 
 ```a thermal image showing a very hot area on the map```
 
-Wow now the clouds are dark and there is a bright white circle of light in the center of the image. Thermal infrared is radiant heat so this image is telling us that us that something extermely hot is there nestled between those clouds. Looking at this location on google maps and we see that it is the Nyriangongo Volcano, home of the largest lava lake in the world. That explains the extreme heat!
+Wow now the clouds are dark and there is a small bright white circle of light in the center of the image. Thermal infrared is radiant heat so this image is telling us that us that something extermely hot is there nestled between those clouds. The clouds are dark because they are cool and not emanating much heat at all. Looking at this location on google maps we see that it is the Nyriangongo Volcano, home of the largest lava lake in the world. That explains the extreme heat!
 
 ![terrain](/uploads/terrain.jpg)
 
