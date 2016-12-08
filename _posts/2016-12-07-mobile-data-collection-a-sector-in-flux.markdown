@@ -9,6 +9,8 @@ Author: "[Anand Varghese](http://dai.com/who-we-are/our-team/anand-varghese) and
 
 In recent years, mobile surveys and data collection capabilities have increased alongside rapidly expanding mobile phone penetration in the developing world. And with this trend, there has been a proliferation of small firms that have entered this space. At DAI, we realize that by allowing us to quickly capture hard-to-gather data and conduct surveys across our portfolio, new tools can change the way we execute development projects as well as win new business.
 
+<!--more-->
+
 Our governance teams want to know whether ordinary citizens have access to basic services; our economic development staff want to monitor price fluctuations; our conflict stabilization experts want real-time data for early warnings; and our monitoring and evaluation teams need data that shows the results of our work in the field. Our clients are equally eager to embrace these new capabilities as well.
 
 In response to this growing enthusiasm, DAI hosted an event with experts from the most prominent data-collection platforms that cater to the international development sector: [Bamba Group](http://bambagroup.com/homepageV2.php), [VOTO Mobile](https://votomobile.org/), [Human Network International](http://hni.org/), [GeoPoll](https://research.geopoll.com/), [Premise](https://www.premise.com/), and [Findyr](https://www.findyr.com/). The aim was to introduce these firms to our colleagues and showcase their diverse capabilities and services that can be integrated into existing or upcoming projects.
