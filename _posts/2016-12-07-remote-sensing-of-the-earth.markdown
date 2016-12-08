@@ -41,7 +41,7 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Bands and Landsat8
-Landsat8 detects light at different sections of the electromagnetic spectrum. Each section is referred to as a **band**. Here is the breakdown of the different bands:
+Landsat8 sensors detect light at different sections of the electromagnetic spectrum. Each section is referred to as a **band**. Here is the breakdown of the different bands:
 
 ![bands](/uploads/landsat8bands.JPG)
 
