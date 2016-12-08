@@ -66,14 +66,14 @@ Wow now the clouds are dark and there is a small bright white circle of light in
 
 ![terrain](/uploads/terrain.jpg)
 
-Now let's play with another combination of bands, this one highlighting lush healthy vegetation with deep blue colors.
+Now let's play with another combination of bands. Near infrared bands of the spectrum are heavily reflected by healthy vegetation. This image composition uses those bands and highlights lush healthy vegetation with deep blue colors.
 
 ![drc](/uploads/drcrwanda.jpg)
 
 Here we compose an image using landsat bands that highlight healthly lush vegetation, and the tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
 
 ![drcrwanda_labeled-2e2395.jpg](/uploads/drcrwanda_labeled-2e2395.jpg)
-
+``` Labeled image composed of bands emphasizing healthy vegetation ```
 ### Remote Sensing Applications for Development
 So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality. In this next image we compose an image of vegetation health using data from 2008 and 2010. This image represents the change in vegetation health that occurred between those two years.
  
