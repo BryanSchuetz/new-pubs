@@ -12,7 +12,7 @@ Author: John DeRiggi
 
 ![header](/uploads/header-d3ef31.jpg)
 
-### Origins of Remote Sensing
+## Origins of Remote Sensing
 
 One day in 1800, German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy Sunday afternoons: he was playing around with a prism, investigating the temperature differences between the bands of colorful light that splay out in this familiar natural sequence:
 
@@ -30,7 +30,7 @@ Sir James discovered infrared light, identifying for the first time a physical p
 
 This understanding and analysis of the different properties of light at different wavelengths helped launch a discipline called remote sensing, in which we study the earth with satellites, planes, drones and sensor technology.
 
-### Remote Sensing
+## Remote Sensing
 
 Let's put forward a definition of remote sensing. [Iain Woodhouse](https://twitter.com/fortiain) of the University of Edinburgh is one of today’s great remote sensing minds and he defines the field in this way:
 
@@ -38,14 +38,14 @@ Let's put forward a definition of remote sensing. [Iain Woodhouse](https://twitt
 
 Remote sensing is not confined to satellites; it can also be conducted from an aircraft or handheld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours. 
 
-### Landsat
+## Landsat
 
 [Landsat](http://landsat.gsfc.nasa.gov/) is a satellite program started in the 1970s and operated by USGS and NASA to collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat program is orbiting the earth at an altitude of 705 kilometers (438 miles) and circling the globe every 99 minutes. We will have a subsequent post that goes into a bit more detail about Landsat and the new tools available for analysis.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>— Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Bands and Landsat8
+## Bands and Landsat8
 
 Landsat8 sensors detect light at different sections of the electromagnetic spectrum. Each section is referred to as a **band**. Here is the breakdown of the different bands:
 
@@ -83,7 +83,7 @@ With this image, a tail of two countries appears. In the middle is Lake Kivu, to
 ![drcrwanda_labeled-2e2395.jpg](/uploads/drcrwanda_labeled-2e2395.jpg)
 `Labeled image composed of bands emphasizing healthy vegetation`
 
-### Remote Sensing Applications for Development
+## Remote Sensing Applications for Development
 
 So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality. In this next image we compose an image of vegetation health using data from 2008 and 2010. This image represents the change in vegetation health that occurred between those two years with red areas showing a decline in vegetation and bright green indicating a strengthening of healthy vegetation. Clearly the bright green areas are some kind of highly organized area for agriculture.
 
