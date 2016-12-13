@@ -19,7 +19,7 @@ One day in 1800, German-born British citizen and musician-turned-astronomer, Sir
 ![roygbiv](/uploads/roygbiv.jpg)
 `Herschel placed a thermometer to the left of the red band and found invisible infrared light`
 
-<!--more -->
+<!--more-->
 
 Sir James then placed a thermometer underneath each color and took note of the difference in temperature. He put another thermometer to the left of the red light, outside the range of the colored light. That’s when something unexpected happened: the highest temperature was found there, left of the red area outside of the visible range!
 
