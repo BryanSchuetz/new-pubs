@@ -35,11 +35,11 @@ Let's put forward a definition of remote sensing. [Iain Woodhouse](https://twitt
 
 > Remote sensing is the science of measuring or inferring the physical properties of an object or medium using a sensor that is at some distance from the object or medium...
 
-Remote sensing is not confined to satellites but can also be conducted from an aircraft or handleld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours.
+Remote sensing is not confined to satellites; it can also be conducted from an aircraft or handheld device. A simple camera on a smartphone is a form of remote sensing. For this post we will focus on satellite collection of remotely sensed data because it has the advantage of covering huge spans of the globe in just days or hours. 
 
 ### Landsat
 
-Landsat is a satellite program started in the 1970s and operated by USGS and NASA to collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat program is orbiting the earth at an altitude of 705 kilometers (438 miles) and circling the globe every 99 minutes. We will have a subsequent post that goes into a bit more detail about Landsat and the new tools available for analysis.
+[Landsat](http://landsat.gsfc.nasa.gov/) is a satellite program started in the 1970s and operated by USGS and NASA to collect remotely sensed data. It is a tremendous source of free imagery and data, all provided to the world for free by the U.S. taxpayer. Today, the 8th incarnation of the Landsat program is orbiting the earth at an altitude of 705 kilometers (438 miles) and circling the globe every 99 minutes. We will have a subsequent post that goes into a bit more detail about Landsat and the new tools available for analysis.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>— Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -89,4 +89,4 @@ So how can we apply remote sensing to development? There are endless possibiliti
 ![ndvi_Change.jpg](/uploads/ndvi_Change.jpg)
 `Change in vegetation health (NDVI) between 2008 and 2010 near in Tanzania, just across the border from western Rwanda. Red areas show a decline in vegetation health, bright green represents an increase in healthy vegetation, and black is no change`
 
-There are infinitely more interesting things you can do with landsat and we will detail them in the rest of this remote sensing series.
+This type of analysis is just the beginning: there are infinite interesting things you can do with Landsat data and images.  Stay tuned for more details in the next post in the Remote Sensing series!
