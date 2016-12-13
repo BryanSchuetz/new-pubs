@@ -14,7 +14,7 @@ As development practitioners and ICT4D specialists, we on DAI’s ICT team are v
 
 The fact is that while it is invaluable to have a network of trusted partners, relying too heavily on these networks can blind us to the potential that companies outside of those networks bring to the table—not to mention the companies neither us nor anyone else in our business has heard of! We tend to wax poetic about all things “open”: Open source software, open data—the idea being to open up information and data for all to use in their own way. Why shouldn’t we extend this evangelism to partners and ideas?
 
-# The Challenge Model—Ideas from the Crowd
+## The Challenge Model—Ideas from the Crowd
 
 The challenge fund model is not new. It has been around for a long time in international development, and donors in particular have recognized its potential for sourcing “innovative” solutions to global problems in such a way that is open, inclusive, and not prohibitively prescriptive. The U.S. Agency for International Development, U.K. Department for International Development, Swedish International Development Cooperation Agency, Australian Department of Foreign Affairs and Trade, and other major international donors have all administered global challenges, and recognized the benefits of sourcing ideas from the public. The United Nations High Commissioner for Refugees (UNHCR)’s innovation team has even developed a platform called “[Ideas](http://innovation.unhcr.org/unhcr-ideas/)” in which ongoing challenges as defined by UNHCR continuously solicit ideas from their refugees, staff, and the broader public on how to best tackle said challenges. We at DAI have also institutionalized the model in the form of our [Innovation into Action Challenge](https://dai.forms.fm/innovation-into-action-challenge). At its core, the challenge fund model may be similar to but differs from other common financing mechanisms, and is defined by:
 
@@ -30,7 +30,7 @@ The challenge fund model is not new. It has been around for a long time in inter
 
 * Risk sharing: Implementation or partial implementation by competitors is aimed at demonstrating functionality and impact such that funders already have a sense of a solution’s effectiveness and viability when disbursing funds
 
-# That Challenge Model—So Hot Right Now
+## That Challenge Model—So Hot Right Now
 
 Earlier this year, John DeRiggi and I attended South by Southwest to take stock of major trends in technology and innovation (we even wrote about it [here](https://dai-global-digital.com/sxsw-tech-trends-2016.html)). The South by Good thematic track (focusing on social impact) featured presentations and panels about specific challenge funds and how challenge winners were tackling global development problems. So why is the challenge model for sourcing new approaches to old ideas so attractive to funders? Well, there are a whole host of reasons, but some top ones include:
 
@@ -42,7 +42,7 @@ Earlier this year, John DeRiggi and I attended South by Southwest to take stock 
 
 4. **Multiplied Value:** This point is not to be underestimated. In line with creating a focus on a particular theme or issue, challenge funds tend to get a significant “bang for buck.” Opening up a challenge to the general public to develop and demonstrate a solution might lead to only one or a small handful of winners being awarded a prize, but even those competitors who do not win a given challenge create value through participation, developing alternative solutions that may still be viable and sustainable, offering a more diverse and dynamic solutions market.
 
-# Things to Think About When Designing a Challenge
+## Things to Think About When Designing a Challenge
 
 One of the most prominent facilitators of innovation through prize-based competition is [XPrize Foundation](http://www.xprize.org/), which was also present at South by Southwest. Senior Director of Visioneering Jordan Brown offered some good tips for designing a prize challenge for social impact:
 
