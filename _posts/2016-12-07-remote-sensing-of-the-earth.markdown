@@ -1,7 +1,6 @@
 ---
 title: 'Part 1: The Foundations and Applications of Remote Sensing'
 date: 2016-12-07 14:56:00 -05:00
-published: false
 tags:
 - Data
 - Remote Sensing Series
