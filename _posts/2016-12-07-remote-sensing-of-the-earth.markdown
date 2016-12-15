@@ -80,7 +80,7 @@ Now let’s  play with another combination of bands. Near-infrared light (band 5
 
 With this image, a tale of two countries appears. In the middle is Lake Kivu, to the west is eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlights the thick forested region and the green areas in Rwanda show the intensity of agriculture in that area. This makes sense with a much higher population density in Rwanda.
 
-![drcrwanda_labeled-2e2395.jpg](/uploads/drcrwanda_labeled-2e2395.jpg)
+![drcrwanda_labeled-fae13d.jpg](/uploads/drcrwanda_labeled-fae13d.jpg)
 `Labeled image composed of bands emphasizing healthy vegetation.`
 
 ## Remote Sensing Applications for Development
