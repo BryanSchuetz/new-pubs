@@ -1,5 +1,5 @@
 ---
-title: 'Remote Sensing Series Part 1: Context and Current Tools in Remote Sensing'
+title: 'Part 1: Context and Current Tools in Remote Sensing'
 date: 2016-12-07 14:56:00 -05:00
 published: false
 tags:
