@@ -17,11 +17,12 @@ Back in late 2015, the [Nexos Locales](https://www.facebook.com/USAID.NexosLocal
 
 # Citizen-Centered Design
 
+After a few rounds of discussions, and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. Meaning that we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. If this sounds familiar, that’s because it's similar ground to what our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process covers. The primary difference was that the interviews were conducted by a partner: a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/). 
+
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
 `ADESJU conducting an interview with a Chiantleco in the municipality's periphery`
 
-After a few rounds of discussions, and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. This meant involving Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. If this sounds familiar, that’s because it’s similar to our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process, the primary difference being that 1) due to cost restrictions I trained the team via Skype, and 
-Working with a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/), we interviewed 100 citizens in the city center, periphery, and in the rural highlands. Half were men, half were women, and a wide range of ages was represented, from 16 to 70. 30 were part of the local municipal civil society advisory council.  Below is what we found, followed by some discussion of how it impacted our design process.
+They interviewed 100 citizens in the city center, periphery, and in the rural highlands. Half were men, half were women, and a wide range of ages was represented, from 16 to 70. 30 were part of the local municipal civil society advisory council.  Below is a sample of what we found, followed by some discussion of how it impacted our design process.
 
 <script id="infogram_0_77b964f2-843a-45a3-b683-b1ff4cae7418" title="Chiantla Citizen Survey" src="//e.infogr.am/js/dist/embed.js?38B" type="text/javascript"></script>
 
@@ -35,4 +36,7 @@ Working with a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3
 
 # Where to next? 
 
-After a lengthy procurement and contracting phase, we’re moving forward with a design team based in Guatemala City. They’re led by the very clever folks at [Explico Analytics](http://explicoanalytics.com/) and [Ludiverse](http://www.ludiverse.net/). At the moment, we’re planning a couple rounds of user testing in February, working with our partners in the municipality on a communications and outreach plan, and hoping to have the app fully launched by May. More soon!
+![Archivo_0011.jpeg](/uploads/Archivo_0011.jpeg)
+`Mayor Alvarado announces the app to the public at the lighting of Chiantla's Christmas tree on December 8th`
+
+Currently we’re moving forward with a design team based in Guatemala City. Originally I had hoped to find a design and development team in Chiantla, Huehuetenango, or Quetzaltenango (where Nexos is based), and while there are a few software developers in those areas of the Western Highlands, we ended up finding an excellent team with civic tech experience in Guatemala City. They’re led by the very clever folks at [Explico Analytics](http://explicoanalytics.com/) and [Ludiverse](http://www.ludiverse.net/). At the moment we're running a local contest to find an appropriate name for the app, planning a couple rounds of user testing in February, working with our partners in the municipality on a communications and outreach plan, and hoping to have the app fully launched by May. More soon!
