@@ -15,7 +15,7 @@ Back in late 2015, the [Nexos Locales](https://www.facebook.com/USAID.NexosLocal
 
 <!--more-->
 
-# Citizen-Centered Design
+# Our Citizen-Centered Design Process
 
 After a few rounds of discussions, and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. Meaning that we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. 
 
