@@ -17,7 +17,7 @@ Back in late 2015, the [Nexos Locales](https://www.facebook.com/USAID.NexosLocal
 
 # Our Citizen-Centered Design Process
 
-After a few rounds of discussions, and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. Meaning that we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. 
+After a few rounds of discussion and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. Meaning that we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. 
 
 If this sounds familiar, that’s because it's similar ground to what our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process covers. The primary difference was that the interviews were conducted by a partner: a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/). 
 
@@ -28,7 +28,7 @@ They interviewed 100 citizens in the city center, periphery, and in the rural hi
 
 <script id="infogram_0_77b964f2-843a-45a3-b683-b1ff4cae7418" title="Chiantla Citizen Survey" src="//e.infogr.am/js/dist/embed.js?38B" type="text/javascript"></script>
 
-# Key observations & discussion.
+# Key observations & discussion
 
 * There were a lot of smartphones. While this is not a scientifically representative sample, we were surprised that 58% of our interviewees had one. The smartphones skewed urban, likely due to cost and accessibility. This gives us confidence that there is a market for a tool accessible via smartphone. We chose to build an app over a mobile-first web page because data is at a premium and we wanted to limit the amount of data people needed to download each time they use the tool. Certainly there will be challenges (getting people to download it in the first place, ensuring they have enough space on their phones) but I’m confident that by working through our municipal and civil society partners, we can address these challenges. 
 
