@@ -17,7 +17,9 @@ Back in late 2015, the [Nexos Locales](https://www.facebook.com/USAID.NexosLocal
 
 # Citizen-Centered Design
 
-After a few rounds of discussions, and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. Meaning that we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. If this sounds familiar, that’s because it's similar ground to what our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process covers. The primary difference was that the interviews were conducted by a partner: a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/). 
+After a few rounds of discussions, and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. Meaning that we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as; access to mobile technology, information flows via traditional and new media, app choice and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access via the municipality. 
+
+If this sounds familiar, that’s because it's similar ground to what our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process covers. The primary difference was that the interviews were conducted by a partner: a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/). 
 
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
 `ADESJU conducting an interview with a Chiantleco in the municipality's periphery`
