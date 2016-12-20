@@ -1,5 +1,5 @@
 ---
-title: Citizen-Centered Design in Guatemala
+title: Citizen-Centered Design in Guatemala Takes Flight
 date: 2016-12-19 16:02:00 -05:00
 published: false
 tags:
