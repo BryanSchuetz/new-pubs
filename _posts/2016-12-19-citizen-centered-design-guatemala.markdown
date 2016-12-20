@@ -22,7 +22,7 @@ After a few rounds of discussion and consultation with the Nexos Locales project
 If this sounds familiar, that’s because it’s similar to what our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process covers. The primary difference was that the interviews were conducted by a partner, a local NGO called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
-`ADESJU conducts an interview with a Chiantleco in the municipality`’`s periphery.`
+`ADESJU conducts an interview with a Chiantleco in the municipality’s periphery.`
 
 They interviewed 100 citizens in the city center, periphery, and in the rural highlands. Half were men, half were women, and a wide range of ages was represented, from 16 to 70. Thirty were part of the local municipal civil society advisory council. Below is a sample of what we found, followed by some discussion of how it impacted our design process.
 
