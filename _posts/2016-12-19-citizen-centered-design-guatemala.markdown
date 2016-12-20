@@ -11,7 +11,7 @@ Author: Adam Fivenson
 Back in late 2015, the Feed the Future USAID Guatemala [Nexos Locales](https://www.facebook.com/USAID.NexosLocales/) project received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of [Chiantla](https://goo.gl/maps/5vfAjrmthUM2) (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had just been elected on a platform of budget transparency and social audit. He was part of a group of good governance reformers who swept into office on the heels of the [Línea](http://www.insightcrime.org/news-analysis/guatemala-s-government-corruption-scandals-explained) corruption scandal, which saw President Otto Perez Molina and Vice President Roxana Baldetti jailed. Alvarado requested that DAI create a mobile tool to give the citizens of Chiantla better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, making social audit easier and giving citizens the ability to monitor and critique. So, the project called me, and I called Alvarado.
 
 ![audit.jpg](/uploads/audit.jpg)
-`Mayor Carlos Alvarado`’`s Facebook banner image promotes the social audit. Text reads: A cordial invitation to participate in a social audit workshop. Because the resources are the community`’`s, we should audit them!`
+`Mayor Carlos Alvarado’s Facebook banner image promotes the social audit. Text reads: A cordial invitation to participate in a social audit workshop. Because the resources are the community’s, we should audit them!`
 
 <!--more-->
 
