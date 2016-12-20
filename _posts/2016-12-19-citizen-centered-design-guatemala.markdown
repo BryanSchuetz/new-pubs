@@ -41,4 +41,4 @@ They interviewed 100 citizens in the city center, periphery, and in the rural hi
 We’re moving forward with a design team in Guatemala City. I had originally hoped to find a design and development team in Chiantla, Huehuetenango, or Quetzaltenango (where Nexos is based), and while there are a few software developers in those areas of the Western Highlands, we ended up finding an excellent team with civic tech experience in Guatemala City. They’re led by the very clever folks at [Explico Analytics](http://explicoanalytics.com/) and [Ludiverse](http://www.ludiverse.net/). At the moment we're running a local contest to find an appropriate name for the app, planning a couple rounds of user testing in February, working with our partners in the municipality on a communications and outreach plan, and hoping to have the app fully launched by May. Stay tuned!
 
 ![Archivo_0011.jpeg](/uploads/Archivo_0011.jpeg)
-`Mayor Alvarado announces the app to the public at the lighting of Chiantla`’`s Christmas tree on December 8.`
+`Mayor Alvarado announces the app to the public at the lighting of Chiantla’s Christmas tree on December 8.`
