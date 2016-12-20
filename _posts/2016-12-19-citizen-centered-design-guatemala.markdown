@@ -1,5 +1,5 @@
 ---
-title: Citizen-Centered Design in Guatemala Takes Flight
+title: We're Putting Citizens at the Center of the Design Process in Guatemala
 date: 2016-12-19 16:02:00 -05:00
 published: false
 tags:
@@ -8,14 +8,14 @@ tags:
 Author: Adam Fivenson
 ---
 
-Back in late 2015, the [Feed the Future Guatemala Nexos Locales](http://dai.com/our-work/projects/guatemala%E2%80%94nexos-locales) project received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of [Chiantla](https://goo.gl/maps/5vfAjrmthUM2) (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had just been elected on a platform of budget transparency and social audit. He was part of a group of good governance reformers who swept into office on the heels of the [Línea](http://www.insightcrime.org/news-analysis/guatemala-s-government-corruption-scandals-explained) corruption scandal, which saw President Otto Perez Molina and Vice President Roxana Baldetti jailed. Alvarado requested that DAI create a mobile tool to give the citizens of Chiantla better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, making social audit easier and giving citizens the ability to monitor and critique. So, the project called me, and I called Alvarado.
+Back in late 2015, the [Nexos Locales](http://dai.com/our-work/projects/guatemala%E2%80%94nexos-locales) project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of [Chiantla](https://goo.gl/maps/5vfAjrmthUM2) (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Mayor Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the [Línea](http://www.insightcrime.org/news-analysis/guatemala-s-government-corruption-scandals-explained) corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. Mayor Alvarado requested that DAI design and develop a mobile tool to give the citizens of Chiantla better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called Mayor Alvarado.
 
 ![audit.jpg](/uploads/audit.jpg)
-`Mayor Carlos Alvarado’s Facebook banner image promotes the social audit. Text reads: A cordial invitation to participate in a social audit workshop. Because the resources are the community’s, we should audit them!`
+`Mayor Carlos Alvarado’s post-election Facebook banner image promoting social audit. Text reads: A cordial invitation to participate in a social audit workshop. The resources are the community’s, and we should audit them!`
 
 <!--more-->
 
-# Getting Citizens Involved
+# Citizen-Centered Design
 
 After a few rounds of discussion and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. So we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as access to mobile technology, information flows via traditional and new media, app choice, and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access.
 
