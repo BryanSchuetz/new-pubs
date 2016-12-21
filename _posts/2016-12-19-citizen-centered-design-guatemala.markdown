@@ -1,5 +1,5 @@
 ---
-title: We're Putting Citizens at the Center of the Design Process in Guatemala
+title: We’re Putting Citizens at the Center of the Design Process in Guatemala
 date: 2016-12-19 16:02:00 -05:00
 published: false
 tags:
