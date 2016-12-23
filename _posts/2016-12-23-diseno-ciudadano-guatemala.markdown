@@ -20,16 +20,16 @@ Alvarado buscaba la ayuda de DAI para diseñar y desarrollar una herramienta mó
 
 Después de unas cuantas rondas de discusión y consulta con el equipo del proyecto Nexos Locales, acordamos un proceso de diseño centrado en el ciudadano. Por lo tanto, involucramos a Chiantlecos en nuestro proceso de diseño de principio a fin, comenzando con entrevistas cara a cara sobre factores clave de diseño como acceso a tecnología móvil, flujos de información a través de medios tradicionales y nuevos, elección de aplicaciones y ecosistemas de medios sociales, opinión ciudadana Del desempeño y la transparencia del gobierno, ya qué servicios municipales les gustaría acceder.
 
-Si esto suena familiar, es porque es similar a lo que cubre nuestro recuento [Digital Insights] (https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia principal fue que las entrevistas fueron realizadas por un socio, una organización no gubernamental local llamada [ADESJU] (https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la- Juventud - 130288017040702 /).
+Si esto suena familiar, seria porque es parecido a lo que cubre [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia principal fue que las entrevistas fueron realizadas por una organizacion socio, el ONG [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
-! [WhatsApp-Image-20160618 (10) .jpeg] (/ uploads / WhatsApp-Image-20160618% 20 (10) .jpeg)
-`ADESJU realiza una entrevista con un Chiantleco en la periferia del municipio.»
+![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
+`ADESJU conducts an interview with a Chiantleco in the municipality’s periphery.`
 
-Se entrevistó a 100 ciudadanos en el centro de la ciudad, en la periferia y en las tierras altas rurales. La mitad eran hombres, la mitad eran mujeres y una amplia gama de edades estaba representada, de 16 a 70. Treinta eran parte del consejo consultivo local de la sociedad civil municipal. A continuación se muestra una muestra de lo que encontramos, seguido de alguna discusión de cómo afectó nuestro proceso de diseño.
+Se entrevistó a 100 ciudadanos en el centro de la ciudad, en la periferia y en las tierras altas rurales. La mitad eran hombres, la mitad eran mujeres y una amplia gama de edades estaba representada, de 16 a 70. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
 
-<Script id = "infogram_0_77b964f2-843a-45a3-b683-b1ff4cae7418" title = "Encuesta ciudadana de Chiantla" src = "// e.infogr.am/js/dist/embed.js?38B" type = "text / javascript" > </ Script>
+<script id="infogram_0_77b964f2-843a-45a3-b683-b1ff4cae7418" title="Chiantla Citizen Survey" src="//e.infogr.am/js/dist/embed.js?38B" type="text/javascript"></script>
 
-# Observaciones clave y discusión
+# Observaciones claves y discusión
 
 * Había una gran cantidad de teléfonos inteligentes. Si bien esto no es una muestra científicamente representativa, nos sorprendió que el 58 por ciento de nuestros entrevistados tuviera uno. Los teléfonos inteligentes sesgada urbanos, probablemente debido al costo y la accesibilidad. Esto nos da la confianza de que hay un mercado para una herramienta accesible a través de teléfonos inteligentes. Elegimos crear una aplicación a través de una página web móvil primero, porque los datos están en una prima y queríamos limitar la cantidad de datos que la gente necesitaba descargar cada vez que utilizaban la herramienta. Ciertamente habrá desafíos (conseguir que la gente lo descargue en primer lugar, asegurándose de que tengan suficiente espacio en sus teléfonos), pero estoy seguro de que trabajando con nuestros socios municipales y de la sociedad civil, podemos enfrentar estos desafíos.
 
