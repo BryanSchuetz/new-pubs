@@ -23,7 +23,7 @@ Después de unas cuantas rondas de discusión y consulta con el equipo del proye
 Si esto suena familiar, seria porque es parecido a lo que cubre [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia principal fue que las entrevistas fueron realizadas por una organizacion socio, el ONG [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
-`ADESJU conducts an interview with a Chiantleco in the municipality’s periphery.`
+`ADESJU hace una entrevista con Chiantleco en la periferia del municipio.`
 
 Se entrevistó a 100 ciudadanos en el centro de la ciudad, en la periferia y en las tierras altas rurales. La mitad eran hombres, la mitad eran mujeres y una amplia gama de edades estaba representada, de 16 a 70. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
 
