@@ -7,12 +7,12 @@ tags:
 Author: Adam Fivenson
 ---
 
-A finales de 2015, el proyecto [Nexos Locales](http://www.dai.com/our-work/projects/guatemala-nexos-locales) recibió una solicitud novedosa. Fue por Carlos Alvarado Figueroa, que acababa de ser elegido alcalde de [Chiantla](https://goo.gl/maps/5vfAjrmthUM2), un municipio de 75.000 habitantes en el altiplano occidental. Alvarado había sido elegido con una plataforma de transparencia presupuestaria y auditoría social y formó parte de una ola de reformadores de buena gobernabilidad que fueron electados despues de la revelación de la [Línea escandalo](http://www.insightcrime.org/news-analysis/), que envió a la cárcel el Presidente Otto Pérez Molina ya la Vicepresidenta Roxana Baldetti. 
+A finales de 2015, el proyecto [Nexos Locales](http://www.dai.com/our-work/projects/guatemala-nexos-locales) recibió una solicitud novedosa. Fue por Carlos Alvarado Figueroa, que acababa de ser elegido alcalde de [Chiantla](https://goo.gl/maps/5vfAjrmthUM2), un municipio de 75.000 habitantes en el altiplano occidental. Alvarado había sido elegido por su plataforma de transparencia presupuestaria y auditoría social y formó parte de una ola de reformadores de buena gobernabilidad que fueron electados despues de la revelación de la [Línea escandalo](http://www.insightcrime.org/news-analysis/), que envió a la cárcel el Presidente Otto Pérez Molina ya la Vicepresidenta Roxana Baldetti. 
 
 Alvarado buscaba la ayuda de DAI para diseñar y desarrollar una herramienta móvil para dar a los ciudadanos de Chiantla (Chiantlecos) un mejor acceso al gobierno municipal. En particular, quería dar a Chiantlecos una perspectiva fácil y transparente de cómo su gobierno estaba asignando y gastando dinero, facilitar la auditoría social y dar a los ciudadanos la capacidad de comunicarse más fácilmente con su administración. Entonces, el proyecto me llamó a mi, y yo llamé al alcalde.
 
 ![Audit.jpg](/uploads/audit.jpg)
-`El alcalde Carlos Alvarado post-elecciones Facebook bandera de la imagen de la promoción de auditoría social. El texto lee: Una invitación cordial a participar en un taller social de la fiscalización. ¡Los recursos son de la comunidad, y debemos auditarlos!
+`El alcalde Carlos Alvarado en Facebook`
 
 <!--more-->
 
