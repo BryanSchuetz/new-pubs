@@ -26,10 +26,11 @@ defaults:
     layout: author
     Job:
     Image:
-url: http://dai-global-digital.com
+url: https://dai-global-digital.com
 permalink: "/:title.html"
 gems:
 - jekyll-paginate
+- jekyll-sitemap
 paginate: 3
 paginate_path: "/page:num/"
 markdown: kramdown
