@@ -28,4 +28,4 @@ Happy reading, thank you for your support, and see you in 2017!
 
 4. [Digital Insights Palestine: E-Governance Readiness](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html)
 
-5. [Crowdsourcing Ideas—The Challenge Fund Model for Innovation](https://dai-global-digital.com/crowdsourcing-ideas-the-challenge-fund-model-for-innovation.html)
+5. [Mobile Data Collection: A Sector in Flux](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html)
