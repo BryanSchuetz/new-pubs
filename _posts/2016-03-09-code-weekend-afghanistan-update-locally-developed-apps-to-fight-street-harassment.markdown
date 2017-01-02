@@ -12,7 +12,7 @@ In February, I wrote a [piece](http://dai-global-digital.com/2016/02/23/sowing-t
 
 <!--more-->
 
-The three female coders from the winning teams—Fatima Shefaie and Alina Niko of Life Technology and Freshta Habibzay, a freelancer—will join forces to complete and deploy an app. It will have a number of features: crowdsourced maps and live notifications of areas where harassment is rampant, distress text alerts to friends and family, and tips on avoiding and handling incidents when they occur. The team has been given AFA 300,00 (around USD $4,500) to design the app.
+The three female coders from the winning teams—Fatima Shefaie and Alina Niko of Life Technology and Freshta Habibzay, a freelancer—will join forces to complete and deploy an app. It will have a number of features: crowdsourced maps and live notifications of areas where harassment is rampant, distress text alerts to friends and family, and tips on avoiding and handling incidents when they occur. The team has been given AFN 300,00 (around USD $4,500) to design the app.
 
 Says Jamshid Hashimi, Code Weekend’s founder:
 
