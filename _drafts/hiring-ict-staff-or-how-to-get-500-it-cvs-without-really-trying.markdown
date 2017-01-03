@@ -1,6 +1,9 @@
 ---
 title: 'Hiring ICT Staff: or, How to Get 500 IT CVs without Really Trying'
 date: 2017-01-03 15:34:00 -05:00
+tags:
+- Economic Growth
+- Think Piece
 ---
 
 ![hiring.sign.jpg](/uploads/hiring.sign.jpg)
