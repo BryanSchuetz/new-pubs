@@ -7,9 +7,9 @@ tags:
 Author: Kristen Roggemann
 ---
 
-![hiring.sign.jpg](/uploads/hiring.sign.jpg)
-
 Kabul, 2016. I'd been here before: a cold cup of Nescafe and stack of overly-formatted CVs on the table next to me, an over-worked HR officer slow-blinking at me from across the room in subtle panic. Of the 35 CVs in the stack, culled from hundreds submitted online, only two had any mention of ICT experience - the rest were full of network engineering degrees, Oracle and Microsoft certifications, and years and years of experience managing IT networks and project systems. If I had been looking to hire IT staff, I would have been spoiled for options; but I wasn't. I was trying to hire an ICT Officer, and it was almost impossible. Just as it had been in Cambodia, and Jordan, and Senegal. Why oh why was hiring ICT staff so hard, and what could we do about it?
+
+![hiring.sign.jpg](/uploads/hiring.sign.jpg)
 
 ## What's the difference between IT and ICT anyway?
 
@@ -24,4 +24,5 @@ Two of the key challenges in hiring for ICT in emerging markets are that a) the 
 We were finally able to narrow down our applicant list to two extremely strong candidates based off of digging deep into their experience during the interview process. Because there is somewhat of a mental block around ICT in the markets we work in, you have to work extra hard to surface experience candidates might have in it; we did this through scenario questioning, wherein I would describe a typical ICT scenario such as needing to get regulatory approval for a shortcode, and then ask the interviewee what they would do to solve the problem. Despite having zero mention of any such work on their CVs, both short-listed candidates had done extensive shortcode work in the past and were able to talk me through various approaches with great fluency. For those that hadn't done such work, it was obvious right at the beginning of their answer that they weren't the right fit for the role. By doing a few such scenarios, we were able to test candidates knowledge of typical ICT terms, skills and experience without going through their CV job-by-job; often, we set the CV aside entirely during the interview.
 
 ## Lessons learned: words matter
+
 While hiring for ICT staff is still a challenge, we've worked hard on the ICT Team at DAI to collate lessons learned across countries and projects and come up with guidelines and templates for projects to use in their hiring process. While these resources are still works in progress, as the market is changing rapidly as more digital jobs come online in emerging markets, these guidelines and sample job description templates have allowed projects to hire more efficiently for ICT positions, and ensured that projects with robust ICT components have the right people to manage them successfully.
