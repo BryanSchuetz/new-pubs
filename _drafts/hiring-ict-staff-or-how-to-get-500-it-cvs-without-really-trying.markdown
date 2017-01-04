@@ -7,11 +7,11 @@ tags:
 Author: Kristen Roggemann
 ---
 
-Kabul, 2016. I'd been here before: a cold cup of Nescafe and stack of overly-formatted CVs on the table next to me, an over-worked HR officer slow-blinking at me from across the room in subtle panic. Of the 35 CVs in the stack, culled from hundreds submitted online, only two had any mention of ICT experience - the rest were full of network engineering degrees, Oracle and Microsoft certifications, and years and years of experience managing IT networks and project systems. If I had been looking to hire IT staff, I would have been spoiled for options; but I wasn't. I was trying to hire an ICT Officer, and it was almost impossible. Just as it had been in Cambodia, and Jordan, and Senegal. Why oh why was hiring ICT staff so hard, and what could we do about it?
+Kabul, 2016. I’d been here before: a cold cup of Nescafe and stack of overly formatted CVs on the table next to me, an over-worked HR officer slow-blinking at me from across the room in subtle panic. Of the 35 CVs in the stack, culled from hundreds submitted online, only two had any mention of ICT experience—the rest were full of network engineering degrees, Oracle and Microsoft certifications, and years and years of experience managing IT networks and project systems. If I had been looking to hire IT staff, I would have been spoiled for options—but I wasn’t. I was trying to hire an ICT officer, and it was almost impossible. Just as it had been in Cambodia,  Jordan, and Senegal. Why, oh, why was hiring ICT staff so hard, and what could we do about it?
 
 ![hiring.sign.jpg](/uploads/hiring.sign.jpg)
 
-## What's the difference between IT and ICT anyway?
+## What’s the Difference Between IT and ICT Anyway?
 
 One of the main reasons for such staffing despair is that the difference between IT and ICT generally is both misunderstood and underestimated. Using definitions painted with the broadest brush possible, IT can be considered the "hard side" of technology - the  hardware, the code, the systems administration and server maintenance and generally thankless but crucial work that allows us all to use project IT assets like computers, web and servers; ICT is generally the 'soft side' of technology - designing and managing digital strategies, content and processes, integrating software and technology tools into project programming, working alongside software firms and project staff to customize tools to meet project needs. While one may think that being good at one of these naturally flows over to the other, they're actually quite discreet skill sets with significant differences between them. Much like being a good cook doesn't necessarily make one a good host, being great at IT often does not translate to the ICT realm, and vice-versa.
 
