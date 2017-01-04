@@ -1,5 +1,5 @@
 ---
-title: 'Hiring ICT Staff: or, How to Get 500 IT CVs without Really Trying'
+title: Hiring ICT Staff (Or, How to Get 500 IT CVs Without Really Trying)
 date: 2017-01-03 15:34:00 -05:00
 tags:
 - Economic Growth
