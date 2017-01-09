@@ -16,7 +16,7 @@ Back in late 2015, the [Nexos Locales](http://www.dai.com/our-work/projects/guat
 
 # Citizen-Centered Design
 
-After a few rounds of discussion and consultation with the Nexos Locales project team, we agreed to a citizen-centered design process. So we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as access to mobile technology, information flows via traditional and new media, app choice, and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access.
+After a few rounds of discussion and consultation with Mayor Alvarado and the Nexos Locales project team, we agreed to a citizen-centered design process. So we involved Chiantlecos in our design process from beginning to end, starting with face-to-face interviews on key design factors such as access to mobile technology, information flows via traditional and new media, app choice, and social media ecosystem, citizen opinion of government performance and transparency, and which municipal services they would like to access.
 
 If this sounds familiar, that’s because it’s similar to what our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) process covers. The primary difference was that the interviews were conducted by a partner, a local nongovernmental organization called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
