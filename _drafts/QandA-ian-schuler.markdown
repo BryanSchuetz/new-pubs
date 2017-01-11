@@ -7,7 +7,15 @@ tags:
 Author: Krista Baptista
 ---
 
-As a kick off to #Geekfest2017, a series of interviews with ICT4D thought leaders, meet [Ian Schuler](https://developmentseed.org/team/ian-schuler/), the CEO of [Development Seed](https://www.developmentseed.org/), one of the lead organizers and sponsors for the upcoming [SatSummit](https://satsummit.io/). From his early professional days at the U.S. Department of State to founding the ICT team at the National Democratic Institute and now as CEO at DevSeed, Ian is passionate about using the most appropriate technologies for pragmatic development activities and solutions. DevSeed’s 2016 highlights can be seen here in its [Annual Report](https://developmentseed.org/blog/2017/01/05/annual-report/).
+![GeekFest 2017 Logo.png](/uploads/GeekFest%202017%20Logo.png)
+
+As a kick off to #Geekfest2017, a series of interviews with ICT4D thought leaders, meet [Ian Schuler](https://developmentseed.org/team/ian-schuler/), the CEO of [Development Seed](https://www.developmentseed.org/), one of the lead organizers and sponsors for the upcoming [SatSummit](https://satsummit.io/). 
+
+
+
+![ian photo.jpg](/uploads/ian%20photo.jpg)
+
+From his early professional days at the U.S. Department of State to founding the ICT team at the National Democratic Institute and now as CEO at DevSeed, Ian is passionate about using the most appropriate technologies for pragmatic development activities and solutions. DevSeed’s 2016 highlights can be seen here in its [Annual Report](https://developmentseed.org/blog/2017/01/05/annual-report/).
 
 ### Q: As you prepare for SatSummit, what trends in satellite imagery, data, and international development are on your mind?
 
