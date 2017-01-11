@@ -7,9 +7,9 @@ tags:
 Author: Krista Baptista
 ---
 
-![GeekFest 2017 Logo.png](/uploads/GeekFest%202017%20Logo.png)
+![Geek Fest 2017 - small logo.png](/uploads/Geek%20Fest%202017%20-%20small%20logo.png)
 
-As a kick off to #Geekfest2017, a series of interviews with ICT4D thought leaders, meet [Ian Schuler](https://developmentseed.org/team/ian-schuler/), the CEO of [Development Seed](https://www.developmentseed.org/), one of the lead organizers and sponsors for the upcoming [SatSummit](https://satsummit.io/). 
+As a kick off to #Geekfest2017, a series of interviews with ICT4D thought leaders, meet [Ian Schuler](https://developmentseed.org/team/ian-schuler/), the CEO of [Development Seed](https://www.developmentseed.org/), one of the lead organizers and sponsors for the upcoming [SatSummit](https://satsummit.io/).
 
 <!--more-->
 
