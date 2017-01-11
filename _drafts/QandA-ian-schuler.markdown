@@ -21,7 +21,7 @@ In the past, we got lots of requests for data-dump dashboards. This “vomit” 
 
 ### Q. How is this year’s SatSummit distinct from last time?
 
-When we out together SatSummit Round 1, we were not sure that would be a Round 2.  People were so positive the day of the event and afterward and we knew it needed to be done again.  The goal of the last one was to get people together – some of whom had never been in the same room before.  It was all about making connections among those facing similar problems.  And then, to see how we could be doing better to help the industry based on available data.
+When we out together SatSummit Round 1, we were not sure that would be a Round 2. People were so positive the day of the event and afterward and we knew it needed to be done again. The goal of the last one was to get people together—some of whom had never been in the same room before. It was all about making connections among those facing similar problems.  And then, to see how we could be doing better to help the industry based on available data.
 
 This time, we’ll repeat some of the “state of play” presentations that people found most useful, and we’ve kept these and added more voices from open source data providers, people working in the field, and those working on specific technical problems – like sharing imagery for disaster response or mosquito mapping or using machine learning for human rights violations mapping -  that may only be of interest to a dozen or so attendees at a time. We’ve also incorporated the Sustainable Development Goals and the end users. And of course, we kept the networking happy hour afterwards.
 
