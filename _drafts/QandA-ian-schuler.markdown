@@ -17,7 +17,7 @@ The truth is that the potential is there for satellite imagery to make a huge di
 
 Now, with advancements and more common advanced graphics cards, the ability to view and use images has been unlocked for more people. And Amazon Web Services can host, process, and extract value from data.  Before, we had to call up imagery providers and get data downloaded and sent to us…via actual mail. We’ve come a long way in the last three years.
 
-In the past, we got lots of requests for data-dump dashboards. This “vomit” of data was practically useless. Now, there is so much more focus on the user as decision maker. And this—combined with advancements in availability and computer - has the potential to increase accessibility to relevant, useful data, and make data available for regular use.
+In the past, we got lots of requests for data-dump dashboards. This “vomit” of data was practically useless. Now, there is so much more focus on the user as decision maker. And this—combined with advancements in availability and computer—has the potential to increase accessibility to relevant, useful data, and make data available for regular use.
 
 ### Q. How is this year’s SatSummit distinct from last time?
 
