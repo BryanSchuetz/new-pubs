@@ -6,6 +6,7 @@ tags:
 - Data
 Author: Krista Baptista
 ---
+
 As a kick off to #Geekfest2017, a series of interviews with ICT4D thought leaders, meet [Ian Schuler](https://developmentseed.org/team/ian-schuler/), the CEO of [Development Seed](https://www.developmentseed.org/), one of the lead organizers and sponsors for the upcoming [SatSummit](https://satsummit.io/).
 
 <!--more-->
