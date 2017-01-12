@@ -7,7 +7,7 @@ tags:
 Author: Krista Baptista
 ---
 
-![geek fest smallest.jpg](/uploads/geek%20fest%20smallest.jpg)
+![geek fest smallest.jpg](/uploads/geek%20fest%20smallest.jpg =281x281)
 
 Welcome to Geekfest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the growth of the ICT4D community.
 
