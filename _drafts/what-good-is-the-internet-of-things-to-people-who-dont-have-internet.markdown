@@ -27,6 +27,6 @@ We adapted the hardware design to trigger a flow using the RESTful API of People
 
 We installed test units in Pursat and Kampot in September, and are using the output from these to further refine and iterate the design. The People In Need staff have been trained in building, repairing, and reprogramming the units, and we are currently working with them to integrate the units more seamlessly into their overall disaster information system. The system is entirely open source, with the code, fabrication files, and build instructions [available on Github](https://github.com/DAI-Maker-Lab/tepmachcha).
 
-[tepmachcha.JPG](/uploads/tepmachcha.JPG)`One of the Tepmachcha units.`
+[tepmachcha.JPG](/uploads/tepmachcha.JPG) `One of the Tepmachcha units.`
 
 When a phrase is as embraced as “Internet of Things”, it is tempting to stand cheerfully by while the buzz-merchants beat it to oblivion. But there is no denying the power of being able to use ubiquitous networks to connect, as in the case of Tepmachcha, real-world inputs – like rising water – to real world outputs, like a phone call, or a pump turning on downstream.
