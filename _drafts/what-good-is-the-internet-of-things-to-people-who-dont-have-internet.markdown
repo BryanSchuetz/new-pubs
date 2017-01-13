@@ -22,7 +22,7 @@ As it happened, we had already piloted a [sonar-based flood early warning system
 
 We adapted the hardware design to trigger a flow using the RESTful API of People In Need’s RapidPro IVR installation. The new unit, called Tepmachcha after a Hindu story immortalized in carvings at Angkor Wat about a fish that warns of a cataclysmic flood, thus can trigger a voice phone call to tens of thousands of area residents on detecting a flood condition, within a matter of minutes. No internet access is required to get the warning.
 
-[pursat.JPG](/uploads/pursat.JPG)
+[pursat.JPG](/uploads/pursat.JPG)`photo of a test unit being installed in Pursat, Cambodia`
 
 We installed test units in Pursat and Kampot in September, and are using the output from these to further refine and iterate the design. The People In Need staff have been trained in building, repairing, and reprogramming the units, and we are currently working with them to integrate the units more seamlessly into their overall disaster information system. The system is entirely open source, with the code, fabrication files, and build instructions [available on Github](https://github.com/DAI-Maker-Lab/tepmachcha).
 
