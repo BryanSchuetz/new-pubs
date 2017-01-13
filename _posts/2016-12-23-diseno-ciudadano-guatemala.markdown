@@ -1,5 +1,5 @@
 ---
-title: Situamos a la ciudadanía en el Centro del Proceso de Diseño en Guatemala
+title: Situamos a la Ciudadanía en el Centro del Proceso de Diseño en Guatemala
 date: 2016-12-23 16:28:00 -05:00
 published: false
 tags:
@@ -27,7 +27,8 @@ Esta lista de temas para investigación es parecida a nuestra metodología [Digi
 
 Se entrevistó a 100 ciudadanos en tres lugares: el centro de la ciudad, en la periferia, y en las tierras altas rurales. La mitad eran hombres, la otra mitad eran mujeres, y había una gama amplia de edades representadas, de 16 hasta 70 anos. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
 
-<script id="infogram_0_77b964f2-843a-45a3-b683-b1ff4cae7418" title="Chiantla Citizen Survey" src="//e.infogr.am/js/dist/embed.js?38B" type="text/javascript"></script>
+<script id="infogram_0_aa076f99-f27b-4ea9-92e6-8a109db3466d" title="Encuesta de Chiantla" src="//e.infogr.am/js/dist/embed.js?gon" type="text/javascript"></script>
+
 
 # Observaciones claves y discusión
 
