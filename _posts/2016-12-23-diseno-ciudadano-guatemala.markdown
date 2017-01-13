@@ -23,7 +23,7 @@ Después de unas cuantas rondas de discusión y consulta con el equipo del proye
 Esta lista de temas para investigación es parecida a nuestra metodología [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia es que las entrevistas que hicimos en Guatemala fueron realizadas por una organización socio, el ONG [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
-`ADESJU hace una entrevista con Chiantleco en la periferia del municipio.`
+`ADESJU hace una entrevista en la periferia del municipio.`
 
 Se entrevistó a 100 ciudadanos en tres lugares: el centro de la ciudad, en la periferia, y en las tierras altas rurales. La mitad eran hombres, la otra mitad eran mujeres, y había una gama amplia de edades representadas, de 16 hasta 70 anos. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
 
