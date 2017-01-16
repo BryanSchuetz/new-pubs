@@ -11,7 +11,7 @@ As I write this, the annual [Consumer Electronics Show](http://www.ces.tech/) ha
 
 ![internet-of-things-concept-illustration.jpg](/uploads/internet-of-things-concept-illustration.jpg)
 
-Following the release by Cisco and the ITU last year of [an important paper](https://www.itu.int/en/action/broadband/Documents/Harnessing-IoT-Global-Development.pdf) on the topic, a workshop was held in Washington to explore some of the opportunities that IoT may bring for solving development problems. Because development implementers are effectively jaded for a living, one of the questions raised was how we could talk about networking devices in the developing world when so many people remain unconnected. What good is the Internet of Things to people who don’t even have internet? It was a thoroughly rhetorical question that elicited the intended chuckles.
+Following the release by Cisco and the International Telecommunication Union (ITU) last year of [an important paper](https://www.itu.int/en/action/broadband/Documents/Harnessing-IoT-Global-Development.pdf) on the topic, a workshop was held in Washington to explore some of the opportunities that IoT may bring for solving development problems. Because development implementers are effectively jaded for a living, one of the questions raised was how we could talk about networking devices in the developing world when so many people remain unconnected. What good is the Internet of Things to people who don’t even have internet? It was a thoroughly rhetorical question that elicited the intended chuckles.
 
 Allow me nevertheless to offer one answer in the form of Tepmachcha, an IoT device designed specifically to benefit people who have no access to the internet.
 
