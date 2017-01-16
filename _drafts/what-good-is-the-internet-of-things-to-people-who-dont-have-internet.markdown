@@ -29,4 +29,4 @@ We installed test units in Pursat and Kampot in September, and are using the out
 
 [tepmachcha.JPG](/uploads/tepmachcha.JPG) `One of the Tepmachcha units.`
 
-When a phrase is as embraced as “Internet of Things”, it is tempting to stand cheerfully by while the buzz-merchants beat it to oblivion. But there is no denying the power of being able to use ubiquitous networks to connect, as in the case of Tepmachcha, real-world inputs – like rising water – to real world outputs, like a phone call, or a pump turning on downstream.
+When a phrase is as embraced as “Internet of Things,” it is tempting to stand cheerfully by while the buzz-merchants beat it to oblivion. But there is no denying the power of being able to use ubiquitous networks to connect, as in the case of Tepmachcha, real-world inputs—such as rising water—to real world outputs, like a phone call, or a pump turning on downstream.
