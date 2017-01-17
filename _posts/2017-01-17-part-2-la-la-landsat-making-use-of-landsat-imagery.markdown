@@ -5,6 +5,7 @@ published: false
 ---
 
 *DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington D.C.* 
+<!-- more -->
 
 Some incredible things were happening in the U.S in 1972: Bill Withers Lean on Me was the number one song, the first Godfather film was released, and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform, called the Earth Resources Technology Satellite or ERTS-1 was developed in partnership with USGS, who agreed to handle the storage and archiving and distribution of the data products. The second satellite, eventually renamed Landsat 2 launched in 1975, operating in parallel with ERTS-1 for a few years unti the original satellite was decommissioned in 1978.
  
