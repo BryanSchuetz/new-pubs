@@ -46,4 +46,4 @@ We’re moving forward with a design and development team in Guatemala City. I h
 ![Archivo_0011.jpeg](/uploads/Archivo_0011.jpeg)
 `Mayor Alvarado announces the app to the public at the lighting of Chiantla’s Christmas tree on December 8.`
 
-*Thoughts on the app or suggestions for next steps? Let me know on [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), and [Subscribe to our blog ](https://confirmsubscription.com/h/r/066AFBA15492935C)for more on DAI's digital work around the globe.*
+*Thoughts or ideas on our work in Chiantla? Let me know on [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), and [Subscribe to our blog ](https://confirmsubscription.com/h/r/066AFBA15492935C)for more on DAI's digital work around the globe.*
