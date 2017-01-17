@@ -1,7 +1,6 @@
 ---
 title: Situamos a la Ciudadanía en el Centro del Proceso de Diseño en Guatemala
 date: 2017-01-17 16:28:00 -05:00
-published: false
 tags:
 - Guatemala
 - Governance
