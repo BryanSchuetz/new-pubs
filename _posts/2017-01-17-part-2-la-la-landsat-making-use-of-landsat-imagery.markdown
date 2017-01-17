@@ -1,5 +1,5 @@
 ---
-title: 'Part 2: La La Landsat. Making Use of Landsat Imagery'
+title: 'Part 2: La La Landsat. Accessing Landsat Imagery'
 date: 2017-01-17 12:11:00 -05:00
 published: false
 ---
