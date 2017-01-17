@@ -50,7 +50,7 @@ En términos de desarrollo de la capacidad local, el Alcalde Alvarado contrató 
 
 *Ideason the app or suggestions for next steps? Let me know on [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), and [Subscribe to our blog ](https://confirmsubscription.com/h/r/066AFBA15492935C)for more on DAI's digital work around the globe.*
 
-*Pensamientos sobre la aplicación o sugerencias para próximos pasos? Hágame saber en [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), y [suscríbase a nuestro blog](https://confirmsubscription.com/h/r/066AFBA15492935C) para más información sobre el trabajo digital de DAI alrededor del mundo.*
+*Pensamientos o sugerencias sobre la aplicación? Hágame saber en [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), y [suscríbase a nuestro blog](https://confirmsubscription.com/h/r/066AFBA15492935C) para más información sobre el trabajo digital de DAI alrededor del mundo.*
 
 ¡Manténganse al tanto!
 
