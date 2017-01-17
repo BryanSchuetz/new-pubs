@@ -30,3 +30,4 @@ This humble site from the good people at wisconsinview.org is great because it s
 
 Landsat Live from Mapbox is a viewer that shows landsat images tiled across the earth with helpful attribute data for each image. Here is a look at a [scene from Dubai](https://www.mapbox.com/bites/00145/#11/25.0411/55.3546)
 
+We hope this peaks your interest in Landsat and helps you see how easy it is to start using the imagery to advance your project's work.
