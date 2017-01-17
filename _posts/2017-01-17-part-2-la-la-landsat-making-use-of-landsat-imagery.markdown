@@ -1,7 +1,9 @@
 ---
-title: 'Part 2: La La Landsat. Accessing Landsat Imagery'
+title: 'Remote Sensing Series Part 2: Accessing Landsat Imagery'
 date: 2017-01-17 12:11:00 -05:00
 published: false
+tags:
+- Remote Sensing Series
 ---
 
 *DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington D.C.* 
