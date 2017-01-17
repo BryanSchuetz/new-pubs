@@ -11,12 +11,12 @@ Author: Adam Fivenson
 
 A finales de 2015, el proyecto [USAID Nexos](http://www.dai.com/our-work/projects/guatemala-nexos-locales) [Locales](https://www.facebook.com/USAID.NexosLocales/) recibió una solicitud novedosa. Fue enviada por Carlos Alvarado Figueroa, que acababa de ser elegido alcalde de [Chiantla](https://goo.gl/maps/5vfAjrmthUM2), un municipio de 75.000 habitantes en el altiplano occidental de Guatemala. Alvarado había sido elegido por su plataforma de transparencia presupuestaria y auditoría social, y formó parte de una ola de reformadores de buena gobernabilidad que fueron eligidos después de la revelación del escándalo denominado [La Línea](http://www.insightcrime.org/news-analysis/), que envió a prisión el Ex Presidente Otto Pérez Molina y la Ex Vicepresidenta Roxana Baldetti. 
 
+<!--more-->
+
 Alvarado buscaba el apoyo de DAI para diseñar y desarrollar una herramienta móvil para brindar a los ciudadanos de Chiantla (Chiantlecos) mejor acceso al gobierno municipal. En particular, él quería ofrecerles una vista transparente de cómo su gobierno asigna y gasta el dinero del pueblo, pero también facilitar la auditoría social y darles la capacidad a comunicarse más fácilmente con su administración. Luego el proyecto me llamó a mí, y yo llamé al alcalde para conversar al respecto.
 
 ![Audit.jpg](/uploads/audit.jpg)
 `El alcalde Carlos Alvarado en Facebook`
-
-<!--more-->
 
 # Diseño Centrado en el Ciudadano
 
