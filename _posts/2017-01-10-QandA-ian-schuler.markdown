@@ -1,5 +1,5 @@
 ---
-title: 'Q&A: Ian Schuler, CEO of Development Seed'
+title: 'GeekFest 2017: Q&A with Ian Schuler, CEO of Development Seed'
 date: 2017-01-10 17:08:00 -05:00
 tags:
 - Geekfest 2017
