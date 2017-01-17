@@ -9,6 +9,8 @@ Author: Rob Ryan-Silva
 
 As I write this, the annual [Consumer Electronics Show](http://www.ces.tech/) has just wrapped up in Las Vegas, having introduced an allegedly eager public to [smartphone-enabled hairbrushes](http://www.bbc.com/news/technology-38503932), [Bluetooth-capable vibrating hotpants](http://www.spinali-design.com/pages/jeans-essentiel), and [refrigerators that tweet when you’re running low on soy milk](https://www.cnet.com/pictures/feast-your-eyes-on-the-fridges-of-ces-2017/). This is what marketing departments call the Internet of Things (IoT): devices that are networked for sensing, control, and/or coordination. Under the stifling blanket of hype, though, new platforms, network protocols, and data repositories really are enabling applications of value, in addition to the tweeting kitchen appliances which, one hopes, will stay in Vegas.
 
+<!--more-->
+
 ![internet-of-things-concept-illustration.jpg](/uploads/internet-of-things-concept-illustration.jpg)
 
 Following the release by Cisco and the International Telecommunication Union (ITU) last year of [an important paper](https://www.itu.int/en/action/broadband/Documents/Harnessing-IoT-Global-Development.pdf) on the topic, a workshop was held in Washington, D.C., to explore some of the opportunities that IoT may bring for solving development problems. Because development implementers are effectively jaded for a living, one of the questions raised was how we could talk about networking devices in the developing world when so many people remain unconnected. What good is the Internet of Things to people who don’t even have internet? It was a thoroughly rhetorical question that elicited the intended chuckles.
