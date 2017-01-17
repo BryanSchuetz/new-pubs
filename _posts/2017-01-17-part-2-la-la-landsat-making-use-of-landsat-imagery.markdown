@@ -1,6 +1,7 @@
 ---
 title: 'Part 2: La La Landsat. Making Use of Landsat Imagery'
 date: 2017-01-17 12:11:00 -05:00
+published: false
 ---
 
 *DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/).* 
