@@ -4,6 +4,8 @@ date: 2017-01-17 12:11:00 -05:00
 published: false
 tags:
 - Remote Sensing Series
+- Data
+Author: John DeRiggi
 ---
 
 *DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington D.C.*
