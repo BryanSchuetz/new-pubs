@@ -10,4 +10,9 @@ In the late 1980s, the program hit hard times, reporting few users of the data, 
 Today, Landsat8 and Landsat 7 are operating concurrently. Here is the mission schedule from USGS
 
 ![TimelineOnlyForWebRGB.jpg](/uploads/TimelineOnlyForWebRGB.jpg)
+``` Landsat Mission schedule. Image credit: USGS
+
+The great thing about this program is that it is free public data. One way to get access is through the traditional USGS Earth Explorer Site.   This is one of the main publicly operated distribution sites for Landsat data (and quite a few other programs). To get at the data, you simply select the point or area of interest and then click a button to query for all possible results. After selecting the imagery product you want to see, you can select a preview of the image to get a sense for the footprint. Here is a scene just west of Madison Wisconsin.
+
+![wisconsinusgs.png](/uploads/wisconsinusgs.png)
 
