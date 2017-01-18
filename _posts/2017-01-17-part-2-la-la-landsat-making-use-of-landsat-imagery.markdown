@@ -112,6 +112,6 @@ This [humble site](http://wisconsinview.org/imagery/viewer.php?products=lsat8-ll
 
 [Landsat Live ](https://www.mapbox.com/bites/00145/#8/39.996/25.131)from Mapbox is a viewer that shows Landsat images tiled across the earth with helpful attribute data for each image. Here is a look at a [scene from Dubai.](https://www.mapbox.com/bites/00145/#11/25.0411/55.3546)
 
-Another commercial option is [Google Earth Engine](https://explorer.earthengine.google.com/#workspace) which doesn't appear to let you download data but has an impressive set of processed imagery, like change in vegetation health. It also includes a scripting editor that lets you automate workflows within a remote sensing workspace.
+Another commercial option is [Google Earth Engine](https://explorer.earthengine.google.com/#workspace) has an impressive set of processed imagery, like change in vegetation health. It also includes a scripting editor that lets you automate workflows within a remote sensing workspace.
 
 We hope this piques your interest in Landsat and helps you see how easy it is to start using the imagery to advance your project's work.
