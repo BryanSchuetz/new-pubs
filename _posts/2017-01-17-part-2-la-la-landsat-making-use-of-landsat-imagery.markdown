@@ -34,7 +34,11 @@ As a registered user, when you download a scene you get the full stack of 11 ban
 
 As an alternative, you can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has hosted Landsat 8 data since 2015, once you know the scene number. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
-So what do you do with this data? Now you can construct false color images by layering together the bands. So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
+So what do you do with this data? Now you can construct false color images by layering together the bands. Here are a few common band combinations:
+[bandCombinationsLandsat.JPG](/uploads/bandCombinationsLandsat.JPG)
+```Common band combinations: source ESRI```
+
+So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
 
 # Other Landsat Tools
 
