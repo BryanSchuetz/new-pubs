@@ -35,11 +35,11 @@ As a registered user, when you download a scene you get 12 geo-referenced imager
 ![allBandsPlusdqa.JPG](/uploads/allBandsPlusdqa.JPG)
 `Each band for one scene downloaded from the USGS Earth Explorer Site`
 
-Private cloud companies are helping out with data distribution too. You can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has Landsat 8 imagery through 2015. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
+Private cloud companies are helping out with data distribution, too. You can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has Landsat 8 imagery through 2015. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
 # Image Composition
 
-So what do you do with this data? You can construct color composite images, or an image composed of any three arbitrary bands by layering them together. True color composite images are made with the bands visible to humans: red, green and blue or 4-3-2 for Landsat 8. You can also compose an image using any of the layers, creating what is known as a **false color composite**. Here are a few common band combinations:
+So what do you do with this data? You can construct color composite images, or an image composed of any three arbitrary bands by layering them together. True color composite images are made with the bands visible to humans: red, green, and blue or 4-3-2 for Landsat 8. You can also compose an image using any of the layers, creating what is known as a **false color composite**. Here are a few common band combinations:
 
 <table>
 <tr>
@@ -90,20 +90,20 @@ So what do you do with this data? You can construct color composite images, or a
 
 `Common band combinations: source ESRI`
 
-So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the individual bands and their combinations that might be useful.
+So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform GIS application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the individual bands and their combinations that might be useful.
 
 # A Practical Example
 
-Let's give this a try, examining the far western region of Nepal, where DAI implements an [integrated watershed management project called PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season as compared to a dry time of the year five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change.
+Let’s give this a try by examining the far western region of Nepal, where DAI implements an [integrated watershed management project called PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season as compared to a dry time of the year five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change.
 
 ![areaOfInterest.jpg](/uploads/areaOfInterest.jpg)
 `Here is the region in Nepal we are examining with remote sensing`
 
-Let's use data from August 2016, right after the rains. I downloaded the layers for this time period and combined them into a 5-6-2 image which highlights healthy vegetation in red. We see a fairly swollen Mahakali River and a fairly even spread of vegetation highlighted in red.
+Let’s use data from August 2016, right after the rains. I downloaded the layers for this time period and combined them into a 5-6-2 image which highlights healthy vegetation in red. We see a fairly swollen Mahakali River and a fairly even spread of vegetation highlighted in red.
 ![August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
 `A 5-6-2 image of western Nepal in August 2016, soon after monsoon season`
 
-Now let's look at a dry time of the year. Like right now for example, January 2017. In this image the river clearly has less volume and there is a larger contrast in vegetation health. The deep dark red appears to be slightly less healthy than the bright red areas closer to town. A reasonable guess is the bright red areas are being irrigated by farmers and the national park and mountain areas are left dry.
+Now let’s look at a dry time of the year. Like right now for example, January 2017. In this image the river clearly has less volume and there is a larger contrast in vegetation health. The deep dark red appears to be slightly less healthy than the bright red areas closer to town. A reasonable guess is the bright red areas are being irrigated by farmers and the national park and mountain areas are left dry.
 ![January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
 `A 5-6-2 image of western Nepal in January 2017, a dry time of the year`
 
