@@ -13,26 +13,26 @@ A finales de 2015, el proyecto [USAID Nexos](http://www.dai.com/our-work/project
 
 <!--more-->
 
-Alvarado buscaba el apoyo de DAI para diseñar y desarrollar una herramienta móvil para brindar a los ciudadanos de Chiantla (Chiantlecos) mejor acceso al gobierno municipal. En particular, él quería ofrecerles una vista transparente de cómo su gobierno asigna y gasta el dinero del pueblo, pero también facilitar la auditoría social y darles la capacidad a comunicarse más fácilmente con su administración. Luego el proyecto me llamó a mí, y yo llamé al alcalde para conversar al respecto.
+Alvarado buscaba el apoyo de DAI para diseñar y desarrollar una herramienta móvil para brindar a los ciudadanos de Chiantla (Chiantlecos) mejor acceso al gobierno municipal. En particular, él quería ofrecerles una vista transparente de cómo su gobierno asigna y gasta el dinero del pueblo, pero también facilitar la auditoría social y darles la capacidad de comunicarse más fácilmente con su administración. Luego el proyecto me llamó a mí, y yo llamé al alcalde para conversar al respecto.
 
 ![Audit.jpg](/uploads/audit.jpg)
 `El alcalde Carlos Alvarado en Facebook`
 
 # Diseño Centrado en el Ciudadano
 
-Después de unas cuantas rondas de discusión y consulta con el equipo del proyecto Nexos Locales, decidimos elabroar un proceso de diseño centrado en el ciudadano. Por lo tanto, involucramos a los Chiantlecos en nuestro proceso de diseño de inicio a fin, comenzando con entrevistas cara-a-cara sobre factores claves como el acceso del público a la tecnología móvil, flujos de información a través de los medios tradicionales y nuevos, selección de aplicaciones, ecosistemas de medios sociales, opinión ciudadana del desempeño y la transparencia del gobierno, y cuales servicios municipales les gustaría acceder.
+Después de unas cuantas rondas de discusión y consulta con el equipo del proyecto Nexos Locales, decidimos elaborar un proceso de diseño centrado en el ciudadano. Por lo tanto, involucramos a los Chiantlecos en nuestro proceso de diseño de inicio a fin, comenzando con entrevistas cara-a-cara sobre factores claves como el acceso del público a la tecnología móvil, flujos de información a través de los medios tradicionales y nuevos, selección de aplicaciones, ecosistemas de medios sociales, opinión ciudadana del desempeño y la transparencia del gobierno, y cuales servicios municipales les gustaría acceder.
 
-Esta lista de temas para investigación es parecida a nuestra metodología [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia es que las entrevistas que hicimos en Guatemala fueron realizadas por una organización socio, el ONG [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
+Esta lista de temas para investigación es parecida a nuestra metodología [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia es que las entrevistas que hicimos en Guatemala fueron realizadas por una organización socia, la ONG [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
 `ADESJU hace una entrevista en la periferia del municipio.`
 
-Se entrevistó a 100 ciudadanos en tres lugares: el centro de la ciudad, en la periferia, y en las tierras altas rurales. La mitad eran hombres, la otra mitad eran mujeres, y había una gama amplia de edades representadas, de 16 hasta 70 anos. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
+Se entrevistó a 100 ciudadanos en tres lugares: el centro de la ciudad, en la periferia, y en las tierras altas rurales. La mitad eran hombres, la otra mitad eran mujeres, y había una gama amplia de edades representadas, de 16 hasta 70 años. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
 
 <script id="infogram_0_aa076f99-f27b-4ea9-92e6-8a109db3466d" title="Encuesta de Chiantla" src="//e.infogr.am/js/dist/embed.js?gon" type="text/javascript"></script>
 
 
-# Observaciones claves y discusión
+# Observaciones principales y discusión
 
 * Había una gran cantidad de teléfonos inteligentes. Aunque esto no es una muestra científicamente representativa, nos sorprendió que el 58 por ciento de nuestros entrevistados tenían uno. Los teléfonos inteligentes eran más común en sectores urbanos, probablemente debido a su costo y la falta de accesibilidad en zonas rurales. Esto nos da la confianza que podemos para diseñar una herramienta móvil, accesible a través de teléfonos inteligentes. Elegimos crear una aplicación en vez de una página en web para móviles ("mobile-first web page" en inglés) porque los datos moviles son caros y queríamos limitar la cantidad de datos que los usuarios necesitaba descargar cada vez que utilicen la herramienta. Ciertamente habrá desafíos (asegurar que la gente lo descargue, asegurar que ellos tengan suficiente espacio de almacenamiento en sus teléfonos), pero estoy seguro que al trabajar con nuestros socios municipales y de la sociedad civil, podemos enfrentar estos desafíos.
 
