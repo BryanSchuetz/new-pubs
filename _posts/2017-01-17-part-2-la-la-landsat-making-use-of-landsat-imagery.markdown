@@ -82,7 +82,6 @@ So what do you do with this data? Now you can construct false color images by la
 
 </table>
 
-![bandCombinationsLandsat.JPG](/uploads/bandCombinationsLandsat.JPG)
 ```Common band combinations: source ESRI```
 
 So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
