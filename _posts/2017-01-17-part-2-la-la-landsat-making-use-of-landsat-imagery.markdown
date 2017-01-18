@@ -94,16 +94,16 @@ So, if you want to create a 5-4-3 image you need to combine layers (you guessed 
 
 # A Practical Example
 
-Let’s give this a try by examining the far western region of Nepal, where DAI implements an [integrated watershed management project called PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons, so we expect to see variation in vegetation health immediately after monsoon season as compared to five months later when it’s dry. Generally in June and July, the monsoon season is inching later in the year because of climate change.
+Let’s give this a try by examining the far western region of Nepal, where DAI implements an [integrated watershed management project called PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons, so we expect to see variation in vegetation health immediately after monsoon season as compared to five months later when it’s dry. Traditionally in June and July, the monsoon season is inching later in the year because of climate change.
 
 ![areaOfInterest.jpg](/uploads/areaOfInterest.jpg)
 `Here is the region in Nepal we are examining with remote sensing`
 
-Let’s use data from August 2016, right after the rains. I downloaded the layers for this time period and combined them into a 5-6-2 image which highlights healthy vegetation in red. We see a fairly swollen Mahakali River and a fairly even spread of vegetation highlighted in red.
+Let’s use data from August 2016, right after the rains. I downloaded the layers for this time period and combined them into a 5-6-2 image that highlights healthy vegetation in red. We see a fairly swollen Mahakali River and a fairly even spread of vegetation highlighted in red.
 ![August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
 `A 5-6-2 image of western Nepal in August 2016, soon after monsoon season`
 
-Now let’s look at a dry time of the year. Like right now for example, January 2017. In this image the river clearly has less volume and there is a larger contrast in vegetation health. The deep dark red appears to be slightly less healthy than the bright red areas closer to town. A reasonable guess is the bright red areas are being irrigated by farmers and the national park and mountain areas are left dry.
+Now let’s look at a dry time of the year. Like right now for example: January. In this image, the river clearly has less volume and there is a larger contrast in vegetation health. The deep dark red appears to be slightly less healthy than the bright red areas closer to town. A reasonable guess is the bright red areas are being irrigated by farmers and the national park and mountain areas are left dry.
 ![January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
 `A 5-6-2 image of western Nepal in January 2017, a dry time of the year`
 
