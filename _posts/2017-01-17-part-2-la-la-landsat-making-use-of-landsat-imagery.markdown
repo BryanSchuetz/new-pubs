@@ -30,7 +30,10 @@ Landsat data is free to the public. To get access to this treasure trove, you ca
 ![wisconsinusgs.png](/uploads/wisconsinusgs.png)
 `Screenshot from the Earth Explorer Site`
 
-As a registered user, when you download a scene you get the full stack of 11 bands plus the Quality Assessment Band which is an imagery layer that describes characteristics of the scene based on cloud cover, the presence of snow or ice, and several other indicators that could alter numeric calculations of the image.
+As a registered user, when you download a scene you get 12 geo-referenced imagery files - one for each of the eleven Landsat 8 bands plus one Quality Assessment Band (DQA). Georeferenced images have location information which means they can be used by  geographic information systems. The DQA layer describes characteristics of the scene based on cloud cover, the presence of snow or ice, and several other indicators that could alter numeric calculations of the image.
+
+![allBandsPlusdqa.JPG](/uploads/allBandsPlusdqa.JPG)
+```Each band for one scene downloaded from the USGS Earth Explorer Site```
 
 As an alternative, you can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has hosted Landsat 8 data since 2015, once you know the scene number. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
