@@ -86,6 +86,7 @@ So what do you do with this data? Now you can construct false color images by la
 
 So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
 
+# A Practical Example
 Let's give this a try, examining the far western region of Nepal, where DAI implements an integrated watershed management project called PANI. We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season compared to five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change.
 
 ![areaOfInterest.jpg](/uploads/areaOfInterest.jpg)
