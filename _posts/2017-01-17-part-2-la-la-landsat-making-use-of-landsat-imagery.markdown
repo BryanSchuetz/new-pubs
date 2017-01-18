@@ -91,12 +91,12 @@ Let's give this a try, examining the far western region of Nepal, where DAI impl
 ![areaOfInterest.jpg](/uploads/areaOfInterest.jpg)
 ```Here is the region in Nepal we are examining with remote sensing```
 
-
-
-Let's look at August 2016, right after the rains. I have downloaded the layers for this time period and combined them into a 5-6-2 image highlights healthy vegetation in red. We see a fairly swollen Mahakali River 
+Let's use data from August 2016, right after the rains. I downloaded the layers for this time period and combined them into a 5-6-2 image which highlights healthy vegetation in red. We see a fairly swollen Mahakali River and a fairly even spread of vegetation highlighted in red.
 ![August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
 ```A 5-6-2 image of western Nepal```
 
+Now let's look at a drier time of the year. Like right now for example, January 2017.
+[January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
 
 # Other Landsat Tools
 
