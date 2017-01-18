@@ -86,8 +86,10 @@ So what do you do with this data? Now you can construct false color images by la
 
 So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
 
-Let's give this a go, looking at the far western region of Nepal, where DAI implements an integrated watershed management project called PANI. I want to see where healthy vegetation is in two different times of the year. Nepal has monsoon seasons so I expect to see some differences in vegetation health immediately after monsoon season compared to five months after the end of monsoon season. Monsoon season is approximately June and July in Nepal, although it is inching later in the year thanks to climate change. Let's look at August 2016, right after the rains. I Ive downloaded the layers for this time period and combined them into a 5-6-2 image.
-[August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
+Let's give this a try, examining the far western region of Nepal, where DAI implements an integrated watershed management project called PANI. We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season compared to five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change. 
+
+Let's look at August 2016, right after the rains. I have downloaded the layers for this time period and combined them into a 5-6-2 image which should highlight healthy vegetation in red.
+![August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
 
 # Other Landsat Tools
 

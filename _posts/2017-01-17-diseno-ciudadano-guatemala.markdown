@@ -48,11 +48,7 @@ Estamos avanzando con un equipo de diseño técnico y desarrollo en la Ciudad de
 
 En términos de desarrollo de la capacidad local, el Alcalde Alvarado contrató a un estudiante de computación como nuestro contacto principal, y hemos estado trabajando con él para involucrar más la gente de Chiantla en el proceso de diseño. Actualmente él esta promoviendo una competencia para encontrar un nombre local para la aplicación (su título actual es MiMuni), planeando dos rondas de pruebas de usuarios en febrero, trabajando con nuestros socios en el municipio en un plan de comunicación y el lanzamiento de la app.
 
-*Ideason the app or suggestions for next steps? Let me know on [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), and [Subscribe to our blog ](https://confirmsubscription.com/h/r/066AFBA15492935C)for more on DAI's digital work around the globe.*
-
 *Pensamientos o sugerencias sobre la aplicación? Hágame saber en [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), y [suscríbase a nuestro blog](https://confirmsubscription.com/h/r/066AFBA15492935C) para más información sobre el trabajo digital de DAI alrededor del mundo.*
-
-¡Manténganse al tanto!
 
 ![Archivo_0011.jpeg](/uploads/Archivo_0011.jpeg)
 `Alcalde Alvarado anuncia la aplicación al público en la iluminación del árbol de Navidad de Chiantla el 8 de diciembre.`
