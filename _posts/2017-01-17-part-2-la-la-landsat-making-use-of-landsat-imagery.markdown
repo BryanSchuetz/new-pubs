@@ -61,10 +61,6 @@ So what do you do with this data? Now you can construct false color images by la
 </tr>
 
 <tr>
-<td>atmospheric penetration</td><td>7-6-5</td>
-</tr>
-
-<tr>
 <td>healthy vegetation</td><td>5-6-2</td>
 </tr>
 
