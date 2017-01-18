@@ -30,7 +30,7 @@ Landsat data is free to the public. To get access to this treasure trove, you ca
 ![wisconsinusgs.png](/uploads/wisconsinusgs.png)
 `Screenshot from the Earth Explorer Site`
 
-As a registered user, when you download a scene you get 12 geo-referenced imagery files—one for each of the 11 Landsat 8 bands, plus one Quality Assessment (QA) band. Geo-referenced images have location information, allowing them to be used by  geographic information systems (GIS). The DQA layer describes characteristics of the scene based on cloud cover, the presence of snow or ice, and several other indicators that could alter numeric calculations of the image.
+As a registered user, when you download a scene you get 12 geo-referenced imagery files—one for each of the 11 Landsat 8 bands, plus one Quality Assessment (QA) band. Geo-referenced images have location information, allowing them to be used by  geographic information systems (GIS). The QA band describes characteristics of the scene based on cloud cover, the presence of snow or ice, and several other indicators that could alter numeric calculations of the image.
 
 ![allBandsPlusdqa.JPG](/uploads/allBandsPlusdqa.JPG)
 `Each band for one scene downloaded from the USGS Earth Explorer Site`
