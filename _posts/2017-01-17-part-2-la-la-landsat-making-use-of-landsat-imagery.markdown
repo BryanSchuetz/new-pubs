@@ -37,19 +37,49 @@ As an alternative, you can download the data from [Amazon Web Services](https://
 So what do you do with this data? Now you can construct false color images by layering together the bands. Here are a few common band combinations:
 <table>
 <tr>
-
 <td>natural color</td><td>4-3-2</td>
+</tr>
+
+<tr>
 <td>false color (urban)</td><td>7-6-4</td>
+</tr>
+
+<tr>
 <td>color infrared (vegetation)</td><td>5-4-3</td>
+</tr>
+
+<tr>
 <td>agriulture</td><td>6-5-2</td>
+</tr>
+
+<tr>
 <td>atmospheric penetration</td><td>7-6-5</td>
+</tr>
+
+<tr>
 <td>atmospheric penetration</td><td>7-6-5</td>
+</tr>
+
+<tr>
 <td>healthy vegetation</td><td>5-6-2</td>
+</tr>
+
+<tr>
 <td>land and water</td><td>5-6-4</td>
+</tr>
+
+<tr>
 <td>natural with atmospheric removal</td><td>7-5-3</td>
+</tr>
+
+<tr>
 <td>shortwave infrared</td><td>7-5-4</td>
+</tr>
+
+<tr>
 <td>vegetation analysis</td><td>6-5-4</td>
 </tr>
+
 </table>
 
 ![bandCombinationsLandsat.JPG](/uploads/bandCombinationsLandsat.JPG)
