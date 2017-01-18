@@ -88,6 +88,8 @@ So, if you want to create a 5-4-3 image you need to combine layers (you guessed 
 
 Let's give this a try, examining the far western region of Nepal, where DAI implements an integrated watershed management project called PANI. We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season compared to five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change.
 
+![areaOfInterest.jpg](/uploads/areaOfInterest.jpg)
+
 Here is the region we are looking at in Nepal
 <iframe width="600" height="420" src="http://maps.stamen.com/terrain/embed#10/28.9529/80.2950"></iframe> 
 
