@@ -28,7 +28,7 @@ Here is the mission schedule from USGS:
 Landsat data is free to the public. To get access to this treasure trove, you can go through the traditional [USGS Earth Explorer Site](https://earthexplorer.usgs.gov/). This is one of the main publicly operated distribution sites for Landsat data (and quite a few other programs). To get at the data, you simply select the point or area of interest and then click a button to query for all possible results. After selecting the imagery you want to see, you can select a preview to get a sense for the footprint. Here is a scene just west of Madison, Wisconsin.
 
 ![wisconsinusgs.png](/uploads/wisconsinusgs.png)
-S`creenshot from the Earth Explorer Site`
+`Screenshot from the Earth Explorer Site`
 
 As a registered user, when you download a scene you get the full stack of 11 bands plus the Quality Assessment Band which is an imagery layer that describes characteristics of the scene based on cloud cover, the presence of snow or ice, and several other indicators that could alter numeric calculations of the image.
 
