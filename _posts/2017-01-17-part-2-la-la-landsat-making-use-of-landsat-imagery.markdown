@@ -1,6 +1,6 @@
 ---
-title: 'Remote Sensing Series Part 2: Landsat. Don''t Call it a Comeback Because It''s
-  Been Here For Years'
+title: 'Remote Sensing Series Part 2: Landsat is the Free Satellite Imagery Platform
+  You Can Always Lean On'
 date: 2017-01-17 12:11:00 -05:00
 published: false
 tags:
