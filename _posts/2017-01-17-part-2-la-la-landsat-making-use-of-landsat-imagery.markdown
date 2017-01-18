@@ -1,5 +1,6 @@
 ---
-title: 'Remote Sensing Series Part 2: Landsat Imagery Should be a Tool in Your Arsenal'
+title: 'Remote Sensing Series Part 2: Landsat. Don''t Call it a Comeback Because It''s
+  Been Here For Years'
 date: 2017-01-17 12:11:00 -05:00
 published: false
 tags:
