@@ -117,3 +117,5 @@ This [humble site](http://wisconsinview.org/imagery/viewer.php?products=lsat8-ll
 Another commercial option is [Google Earth Engine](https://explorer.earthengine.google.com/#workspace), which has an impressive set of processed imagery, like changes in vegetation health. It also includes a scripting editor that allows you to automate workflows within a remote sensing workspace.
 
 There are a lot of new exciting satellite programs just now getting off the ground. But Landsat has always been there for you to lean on, as Bill Withers would say. We hope this piques your interest in Landsat and helps you see how easy it is to start using the imagery to advance your project’s work.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEXQkrllGbA" frameborder="0" allowfullscreen></iframe>
