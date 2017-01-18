@@ -105,7 +105,7 @@ Let’s use data from August 2016, right after the rains. I downloaded the layer
 
 Now let’s look at a dry time of the year. Like right now for example: January. In this image, the river clearly has less volume and there is a larger contrast in vegetation health. The deep dark red appears to be slightly less healthy than the bright red areas closer to town. A reasonable guess is the bright red areas are being irrigated by farmers and the national park and mountain areas are left dry.
 ![January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
-`A 5-6-2 image of western Nepal in January 2017, a dry time of the year`
+`A 5-6-2 image of western Nepal in January, a dry time of the year`
 
 # Other Landsat Tools
 
@@ -113,6 +113,6 @@ This [humble site](http://wisconsinview.org/imagery/viewer.php?products=lsat8-ll
 
 [Landsat Live ](https://www.mapbox.com/bites/00145/#8/39.996/25.131)from Mapbox is a viewer that shows Landsat images tiled across the earth with helpful attribute data for each image. Here is a look at a [scene from Dubai.](https://www.mapbox.com/bites/00145/#11/25.0411/55.3546)
 
-Another commercial option is [Google Earth Engine](https://explorer.earthengine.google.com/#workspace) has an impressive set of processed imagery, like change in vegetation health. It also includes a scripting editor that lets you automate workflows within a remote sensing workspace.
+Another commercial option is [Google Earth Engine](https://explorer.earthengine.google.com/#workspace), which has an impressive set of processed imagery, like changes in vegetation health. It also includes a scripting editor that allows you to automate workflows within a remote sensing workspace.
 
-We hope this piques your interest in Landsat and helps you see how easy it is to start using the imagery to advance your project's work.
+We hope this piques your interest in Landsat and helps you see how easy it is to start using the imagery to advance your project’s work.
