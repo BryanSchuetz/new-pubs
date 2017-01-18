@@ -1,6 +1,5 @@
 ---
-title: 'Remote Sensing Series Part 2: Landsat is the Free Satellite Imagery Platform
-  You Can Lean On'
+title: 'Remote Sensing Series Part 2: Landsat. The Mainstay Satellite Imagery Platform'
 date: 2017-01-17 12:11:00 -05:00
 published: false
 tags:
