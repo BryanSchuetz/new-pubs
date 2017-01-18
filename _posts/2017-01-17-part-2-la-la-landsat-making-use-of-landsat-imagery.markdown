@@ -35,6 +35,12 @@ As a registered user, when you download a scene you get the full stack of 11 ban
 As an alternative, you can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has hosted Landsat 8 data since 2015, once you know the scene number. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
 So what do you do with this data? Now you can construct false color images by layering together the bands. Here are a few common band combinations:
+<table>
+<tr>
+<td>one</td><td>two</td>
+</tr>
+</table>
+
 ![bandCombinationsLandsat.JPG](/uploads/bandCombinationsLandsat.JPG)
 ```Common band combinations: source ESRI```
 
