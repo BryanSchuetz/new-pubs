@@ -36,7 +36,9 @@ As an alternative, you can download the data from [Amazon Web Services](https://
 
 So what do you do with this data? Now you can construct false color images by layering together the bands. Here are a few common band combinations:
 <table>
-<tr><thEmphasis</th> <th>Bands</th></tr>
+<tr>
+<th>Emphasis</th> <th>Bands</th>
+</tr>
 
 <tr>
 <td>natural color</td><td>4-3-2</td>
