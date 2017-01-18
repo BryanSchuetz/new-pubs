@@ -1,5 +1,5 @@
 ---
-title: 'Remote Sensing Series Part 2: Accessing Landsat Imagery'
+title: 'Remote Sensing Series Part 2: Landsat Imagery'
 date: 2017-01-17 12:11:00 -05:00
 published: false
 tags:
