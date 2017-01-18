@@ -96,7 +96,7 @@ Let's use data from August 2016, right after the rains. I downloaded the layers 
 ![August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
 ```A 5-6-2 image of western Nepal in August 2016, soon after monsoon season```
 
-Now let's look at a drier time of the year. Like right now for example, January 2017.
+Now let's look at a drier time of the year. Like right now for example, January 2017. In this image the river clearly has less volume and there is a larger contrast in vegetation health. The deep dark red appears to be slightly less healthy than the bright red areas closer to town. A reasonable guess is the bright red areas are being irrigated by farmers and the national park is left dry.
 ![January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
 ```A 5-6-2 image of western Nepal in January 2017, a dry time of the year```
 
