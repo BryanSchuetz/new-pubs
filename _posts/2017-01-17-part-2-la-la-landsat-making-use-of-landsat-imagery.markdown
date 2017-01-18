@@ -39,7 +39,7 @@ As a registered user, when you download a scene you get 12 geo-referenced imager
 Private cloud companies are helping out with data distribution too. You can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has Landsat 8 imagery through 2015. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
 # Image Composition
-So what do you do with this data? You can construct color composite images, or an image composed of any three arbitrary bands by layering them together. True color composite images are made with the bands visible to humuns, red, green and blue or 4-3-2 for Landsat. You can however compose an image using any of the layers, creating what is known as a false color composite. Here are a few common band combinations:
+So what do you do with this data? You can construct color composite images, or an image composed of any three arbitrary bands by layering them together. True color composite images are made with the bands visible to humans: red, green and blue or 4-3-2 for Landsat 8. You can also compose an image using any of the layers, creating what is known as a **false color composite**. Here are a few common band combinations:
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ So what do you do with this data? You can construct color composite images, or a
 </tr>
 
 <tr>
-<td>false color (urban)</td><td>7-6-4</td>
+<td>urban areas</td><td>7-6-4</td>
 </tr>
 
 <tr>
