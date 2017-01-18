@@ -45,6 +45,7 @@ So what do you do with this data? Now you can construct false color images by la
 <td>atmospheric penetration</td><td>7-6-5</td>
 <td>atmospheric penetration</td><td>7-6-5</td>
 <td>healthy vegetation</td><td>5-6-2</td>
+<td>land and water</td><td>5-6-4</td>
 
 </tr>
 </table>
