@@ -35,16 +35,18 @@ As a registered user, when you download a scene you get 12 geo-referenced imager
 ![allBandsPlusdqa.JPG](/uploads/allBandsPlusdqa.JPG)
 ```Each band for one scene downloaded from the USGS Earth Explorer Site```
 
-As an alternative, you can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has hosted Landsat 8 data since 2015, once you know the scene number. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
-So what do you do with this data? Now you can construct false color images by layering together the bands. Here are a few common band combinations:
+Private cloud companies are helping out with data distribution too. You can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has Landsat 8 imagery through 2015. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
+
+So what do you do with this data? You can construct color composite images, or an image composed of any three arbitrary bands by layering them together. True color composite images are made with the bands visible to humuns, red, green and blue or 4-3-2 for Landsat. You can however compose an image using any of the layers, creating what is known as a false color composite. Here are a few common band combinations:
+
 <table>
 <tr>
 <th>Emphasis</th> <th>Bands</th>
 </tr>
 
 <tr>
-<td>natural color</td><td>4-3-2</td>
+<td>natural color (true color)</td><td>4-3-2</td>
 </tr>
 
 <tr>
