@@ -47,43 +47,43 @@ So what do you do with this data? You can construct color composite images, or a
 </tr>
 
 <tr>
-<td>natural color (true color)</td><td>4-3-2</td>
+<td>Natural color (true color)</td><td>4-3-2</td>
 </tr>
 
 <tr>
-<td>urban areas</td><td>7-6-4</td>
+<td>Urban areas</td><td>7-6-4</td>
 </tr>
 
 <tr>
-<td>color infrared (vegetation)</td><td>5-4-3</td>
+<td>Color infrared (vegetation)</td><td>5-4-3</td>
 </tr>
 
 <tr>
-<td>agriulture</td><td>6-5-2</td>
+<td>Agriculture</td><td>6-5-2</td>
 </tr>
 
 <tr>
-<td>atmospheric penetration</td><td>7-6-5</td>
+<td>Atmospheric penetration</td><td>7-6-5</td>
 </tr>
 
 <tr>
-<td>healthy vegetation</td><td>5-6-2</td>
+<td>Healthy vegetation</td><td>5-6-2</td>
 </tr>
 
 <tr>
-<td>land and water</td><td>5-6-4</td>
+<td>Land and water</td><td>5-6-4</td>
 </tr>
 
 <tr>
-<td>natural with atmospheric removal</td><td>7-5-3</td>
+<td>Natural with atmospheric removal</td><td>7-5-3</td>
 </tr>
 
 <tr>
-<td>shortwave infrared</td><td>7-5-4</td>
+<td>Shortwave infrared</td><td>7-5-4</td>
 </tr>
 
 <tr>
-<td>vegetation analysis</td><td>6-5-4</td>
+<td>Vegetation analysis</td><td>6-5-4</td>
 </tr>
 
 </table>
