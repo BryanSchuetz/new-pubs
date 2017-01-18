@@ -14,7 +14,7 @@ Some incredible things were happening in the United States in 1972: Bill Withers
 
 In the late 1980s, the program hit hard times, with few people or organizations using the data and heightened scrutiny from Congress. It was saved only through direct intervention from Vice President Dan Quayle, who perhaps should be remembered more for saving Landsat than an unfortunate incident with a chalkboard and a root vegetable.
 
-Today, Landsat 8 and Landsat 7 are operating concurrently.
+Today, Landsat 8 and Landsat 7 operate concurrently.
 
 <!-- more -->
 
