@@ -16,7 +16,7 @@ In the late 1980s, the program hit hard times, with few people or organizations 
 
 Today, Landsat 8 and Landsat 7 operate concurrently.
 
-<!-- more -->
+<!--more-->
 
 ## Accessing Landsat Data
 
