@@ -1,5 +1,5 @@
 ---
-title: 'Remote Sensing Series Part 2: Landsat Is the Stalwart of Satellite Imagery
+title: 'Remote Sensing Series Part 2: Landsat is the Stalwart of Satellite Imagery
   Platforms (and it’s Free!)'
 date: 2017-01-18 12:11:00 -05:00
 tags:
