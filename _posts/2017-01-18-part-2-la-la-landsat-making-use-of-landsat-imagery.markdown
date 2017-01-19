@@ -8,7 +8,7 @@ tags:
 Author: John DeRiggi
 ---
 
-*DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington, D.C. [Part 1 of the remote sensing series is here](https://dai-global-digital.com/remote-sensing-of-the-earth.html)*
+*DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington, D.C. Part 1 of the remote sensing series can be read [here](https://dai-global-digital.com/remote-sensing-of-the-earth.html).*
 
 Some incredible things were happening in the United States in 1972: Bill Withers’ “Lean on Me” was the No. 1 song on the radio; the first “Godfather” film was released; and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform—the Earth Resources Technology Satellite or ERTS-1—was developed in partnership with [the U.S. Geological Survey (USGS)](https://www.usgs.gov/), which agreed to handle the storage, archiving, and distribution of the data products. The second satellite, eventually renamed Landsat 2, launched in 1975, operating in parallel with ERTS-1 for a few years until the original satellite was decommissioned in 1978.
 
