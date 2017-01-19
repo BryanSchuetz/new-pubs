@@ -48,7 +48,7 @@ Originalmente yo esperaba encontrar un equipo de desarrollo en Chiantla, Huehuet
 
 En términos de desarrollo de la capacidad local, el Alcalde Alvarado designó a un estudiante de computación--Erik Cifuentes Mérida--como nuestro contacto principal y hemos estado trabajando con él para involucrar más a la gente de Chiantla en el proceso de diseño. Actualmente Erik esta promoviendo una competencia en las escuelas para encontrar un nombre local para la aplicación (su título actual es MiMuni), planeando dos rondas de pruebas de usuarios en febrero y trabajando con nuestros socios en el municipio en un plan de comunicación para el lanzamiento de la app.
 
-*Pensamientos o sugerencias sobre la aplicación? Hágame saber en [Facebook!](https://www.facebook.com/DAIGlobal/posts/10154791483840797), y [suscríbase a nuestro blog](https://confirmsubscription.com/h/r/066AFBA15492935C) para más información sobre el trabajo digital de DAI alrededor del mundo.*
+*Pensamientos o sugerencias sobre la aplicación? Hágame saber en [Facebook](https://www.facebook.com/DAIGlobal/posts/10154791483840797), y [suscríbase a nuestro blog](https://confirmsubscription.com/h/r/066AFBA15492935C) para más información sobre el trabajo digital de DAI alrededor del mundo.*
 
 ![Archivo_0011.jpeg](/uploads/Archivo_0011.jpeg)
 `Alcalde Alvarado anuncia la aplicación al público en la iluminación del árbol de Navidad de Chiantla el 8 de diciembre.`
