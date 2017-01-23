@@ -16,3 +16,8 @@ Healthy basil is a luscious green color. **But why?** Plants absorb, rather than
 
 ![sunbeamsdownandreflects-028a2d.jpg](/uploads/sunbeamsdownandreflects-028a2d.jpg)
 ```Healthy vegetation absorbs he red and blue light for photosynthesis. Some of the green light and high percentage of the short wave infrared light is reflected off the leaves```
+
+# An Example From Western Nepal
+
+![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
+
