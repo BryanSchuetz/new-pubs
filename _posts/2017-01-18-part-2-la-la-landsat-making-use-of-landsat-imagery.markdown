@@ -37,7 +37,7 @@ As a registered user, when you download a scene you get 12 geo-referenced imager
 
 Private cloud companies are helping out with data distribution, too. You can download the data from [Amazon Web Services](https://pages.awscloud.com/public-data-sets-landsat.html), which has Landsat 8 imagery through 2015. Here is a [scene from the DRC.](http://landsat-pds.s3.amazonaws.com/L8/173/061/LC81730612016171LGN00/index.html)
 
-# Image Composition
+## Image Composition
 
 So what do you do with this data? You can construct color composite images, or an image composed of any three arbitrary bands by layering them together. True color composite images are made with the bands visible to humans: red, green, and blue or 4-3-2 for Landsat 8. You can also compose an image using any of the layers, creating what is known as a **false color composite**. Here are a few common band combinations:
 
@@ -92,7 +92,7 @@ So what do you do with this data? You can construct color composite images, or a
 
 So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform GIS application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the individual bands and their combinations that might be useful.
 
-# A Practical Example
+## A Practical Example
 
 Let’s give this a try by examining the far western region of Nepal, where DAI implements an [integrated watershed management project called PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons, so we expect to see variation in vegetation health immediately after monsoon season as compared to five months later when it’s dry. Traditionally in June and July, the monsoon season is inching later in the year because of climate change.
 
@@ -107,7 +107,7 @@ Now let’s look at a dry time of the year. Like right now for example: January.
 ![January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
 `A 5-6-2 image of western Nepal in January, a dry time of the year`
 
-# Other Landsat Tools
+## Other Landsat Tools
 
 This [humble site](http://wisconsinview.org/imagery/viewer.php?products=lsat8-llook-fc,wrs2-land.-44&timespan=-16d,-1d&timestep=1d) from the good people at wisconsinview.org is great because it shows the most recent orbital tracks for Landsat 8. This gives you a good view of the polar orbit (Landsat crosses the poles on every orbit) and also for the distortion in the projection at the northern and southern latitudes. You can see the fattening of the images around Canada and Antarctica. Right-clicking on a scene presents some raw data and also two options for downloading—one on the EarthExplorer site and another on Amazon Web Services. [Check it out!](http://wisconsinview.org/imagery/viewer.php?products=lsat8-llook-fc,wrs2-land.-44&timespan=-16d,-1d&timestep=1d)
 
