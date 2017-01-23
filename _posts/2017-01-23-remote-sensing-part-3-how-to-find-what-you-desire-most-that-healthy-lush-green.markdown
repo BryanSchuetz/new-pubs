@@ -1,5 +1,5 @@
 ---
-title: 'Remote Sensing Part 3: Identifying That Healthy. Lush. Green. Vegetation....From
+title: 'Remote Sensing Part 3: Identify That Healthy. Lush. Green. Vegetation....From
   Space!'
 date: 2017-01-23 17:37:00 -05:00
 published: false
