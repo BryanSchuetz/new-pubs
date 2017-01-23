@@ -1,19 +1,19 @@
 ---
-title: More Data, Less Risk - Innovators Charting a Path forward for Financial Inclusion
-  Through Mobile Data
+title: 'More Data, Less Risk: Innovators Charting a Path Forward for Financial Inclusion
+  Through Mobile Data'
 date: 2017-01-23 09:35:00 -05:00
 tags:
 - Innovation
 - Data
-- Financial Inclusion
+- Economic Growth
 Author: Karim Bin-Humam
 ---
 
 ## Vicious Cycles
 
-The phrase Catch-22 was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think for example about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. This somewhat absurd predicament is one that I was very familiar with some years ago. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, looking past the risk of hiring them and choosing to invest in their potential.
+The phrase Catch-22 was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think, for example, about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. This somewhat absurd predicament is one that I was very familiar with some years ago. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, looking past the risk of hiring them and choosing to invest in their potential.
 
-Unfortunately, when it comes to access to finance, there are also persistent Catch-22’s that directly affect the ability of some of the world’s poorest and most vulnerable populations - particularly rural communities - to improve their precarious positions and become more food secure. Perhaps this predicament sounds familiar: Rural farmers are unable to access loans from formal financial institutions because they do not have a credit history that would allow those institutions to effectively assess risk associated with such loans - yet farmers are unable to develop a credit history since they are unable to obtain a loan. This predicament can mean that farmers are unable to access better quality farm inputs to increase their yields and inputs. This predicament is compounded by geographical considerations: banking agent networks are often extremely poor in rural Africa for instance, and banks are often unwilling to invest in growing into those areas because of the lack of a strong business case based on reliable data.
+Unfortunately, when it comes to **access to finance**, there are also persistent Catch-22’s that directly affect the ability of some of the world’s poorest and most vulnerable populations - particularly rural communities - to improve their precarious position and become more food secure. Perhaps this predicament sounds familiar: Rural farmers are unable to access loans from formal financial institutions because they do not have a credit history that would allow those institutions to effectively assess risk associated with such loans - yet farmers are unable to develop a credit history since they are unable to obtain a loan. This predicament can mean that farmers are unable to access better quality farm inputs to increase their yields and inputs. This predicament is compounded by geographical considerations: banking agent networks are often extremely poor in rural Africa for instance, and banks are often unwilling to invest in growing into those areas because of the lack of a strong business case based on reliable data.
 
 This problem is not a new one, and many financial and organizational innovations have targeted the space to try to improve access to financial products for the rural poor. Microfinance institutions, Saving and Credit Cooperatives (SACCOs), and Village Savings and Loan Associations (VSLAs) are some of the most prevalent actors that are attempting to bridge the divide. Yet for all of the good work being done in the space, the direct linkages between banks and the rural poor in places such as sub-Saharan Africa remains weak.
 
@@ -26,7 +26,7 @@ More recently, the potential of mobile technologies is increasingly being harnes
 
 ### Making use of Existing Data to Generate New Financial Data
 
-While active mobile-based data collection appears to hold great promise in creating some form of credit profile for rural farmers, some organizations are beginning to skin the cat another way - with a smaller rural footprint and a greater reliance on big data and intelligent algorithms. Agent networks that actively use mobile platforms to profile individuals in rural and hard-to-reach locations generate a significant amount of data that can be used to assess an individual’s credit worthiness, but these data volumes are a drop in the bucket when compared to the data that is generated passively and collected by mobile network operators through the everyday activities of mobile phone users.
+While active mobile-based data collection appears to hold great promise in creating some form of credit profile for rural farmers, some organizations are beginning to tackle the problem another way - with a smaller rural footprint and a greater reliance on big data and intelligent algorithms. Agent networks that actively use mobile platforms to profile individuals in rural and hard-to-reach locations generate a significant amount of data that can be used to assess an individual’s credit worthiness, but these data volumes are a drop in the bucket when compared to the data that is generated passively and collected by mobile network operators through the everyday activities of mobile phone users.
 
 Gaining intelligent insight from this voluminous treasure trove of mobile data could offer new ways of assessing a person’s credit-worthiness that relies less on sector-specific information and less on intensive data collection efforts. To this end, innovations on the back-end of mobile technology and passive data collection are being experimented with. Shivani Siroya of InVenture’s recent Ted Talk illustrates how non-financial data collected via mobile phones can be used to create digital identities from which financial identities can be deduced.
 
