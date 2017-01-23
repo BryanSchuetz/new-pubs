@@ -2,7 +2,13 @@
 title: More Data, Less Risk - Innovators Charting a Path forward for Financial Inclusion
   Through Mobile Data
 date: 2017-01-23 09:35:00 -05:00
+tags:
+- Innovation
+- Data
+- Financial Inclusion
 ---
+
+## Vicious Cycles
 
 The phrase Catch-22 was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think for example about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. This somewhat absurd predicament is one that I was very familiar with some years ago. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, looking past the risk of hiring them and choosing to invest in their potential.
 
@@ -10,7 +16,11 @@ Unfortunately, when it comes to access to finance, there are also persistent Cat
 
 This problem is not a new one, and many financial and organizational innovations have targeted the space to try to improve access to financial products for the rural poor. Microfinance institutions, Saving and Credit Cooperatives (SACCOs), and Village Savings and Loan Associations (VSLAs) are some of the most prevalent actors that are attempting to bridge the divide. Yet for all of the good work being done in the space, the direct linkages between banks and the rural poor in places such as sub-Saharan Africa remains weak.
 
+## Enter the Innovators
+
 More recently, the potential of mobile technologies is increasingly being harnessed to try and help form a clearer picture of rural farming risk profiles for organizations offering financial services. Numerous actors are increasingly focusing on mobile technology-enabled farmer profiling (link). Using a village agent model pioneered by such organizations as the Grameen Foundation (link to village worker program), development actors are increasingly engaging in rural agents to regularly collect information from farmers via mobile technology that can be used by financial institutions to develop a better risk profile for clients in the sector. Yet from my experience exploring this space recently in Uganda, it appears that while formal commercial financial institutions are watching these activities closely, they remain apprehensive towards engaging directly, and questions about the long-term sustainability of the village agent model remain as long as private sector players such as major bank continue to observe from a distance.
+
+### Making use of Existing Data to Generate New Financial Data
 
 While active mobile-based data collection appears to hold great promise in creating some form of credit profile for rural farmers, some organizations are beginning to skin the cat another way - with a smaller rural footprint and a greater reliance on big data and intelligent algorithms. Agent networks that actively use mobile platforms to profile individuals in rural and hard-to-reach locations generate a significant amount of data that can be used to assess an individual’s credit worthiness, but these data volumes are a drop in the bucket when compared to the data that is generated passively and collected by mobile network operators through the everyday activities of mobile phone users.
 
