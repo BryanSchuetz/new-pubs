@@ -5,7 +5,7 @@ date: 2017-01-23 17:37:00 -05:00
 published: false
 ---
 
-Bold statement alert: Basil is green and snow is white. Now, you could live a perfectly fulfilled life taking that for granted, along with all the other beautiful natural colors in the world. However, as a general principle, asking the question, “But why?” usually reveals a new fascinating level of complexity, and this is especially true for the color of things.
+Bold statement alert: Basil is green and snow is white. Now, you could live a perfectly fulfilled life taking that for granted, along with all the other beautiful natural colors in the world. However, at DAI we like to ask, “But why?” because doing so ususally reveals a new fascinating level of complexity, and this is especially true for the color of things.
 
 The spectrum of visible colors, approximately, but not exclusively: red, orange, yellow, green, indigo, blue, and violet, are emitted from the sun along with all the invisible parts of the spectrum. Pure snow, (not that grey stuff that piles up at the parking lot at Walmart) is a bright white. You may recall having to wear sunglasses when the sun is out after a fresh snowfall because of the bright reflective white stuff layering the ground. **But why?** This is because snow reflects nearly all of the visible spectrum back to your eye, hence the white color. It has what remote sensing people call, high [albedo](https://en.wikipedia.org/wiki/Albedo).
 
