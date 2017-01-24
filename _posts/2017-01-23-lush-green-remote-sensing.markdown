@@ -22,11 +22,11 @@ Healthy leaves of basil are a luscious green. **But why?** Plants absorb, rather
 ![sunbeamsdownandreflects-028a2d.jpg](/uploads/sunbeamsdownandreflects-028a2d.jpg)
 `Healthy vegetation absorbs red and blue light for photosynthesis. Some of the green light and a high percentage of shortwave infrared light is reflected off the leaves.`
 
-What we don't see, however, is that healthy plants actually reflect more near infrared (short wavelength infrared) than visible green. That's right: healthy plant look more infrared than green. But we humans only see the green. When a plant becomes unhealthy, it reflects more of the visible red light and less of the invisible infrared. Think of a dry plant that needs watering, it might turn a reddish brown color as it dries up. This difference between the visible red and the invisible near infrared light is a good measure of plant health. The bigger difference between the two, the healthier the plant.
+What we don't see, however, is that healthy plants actually reflect more near infrared (short wavelength infrared) than visible green. That's right: healthy plants look more infrared than green. But we humans only see the green. When a plant becomes unhealthy, it reflects more of the visible red light and less of the invisible infrared. Think of a dry plant that needs watering, it might turn a reddish brown as it dries up. This difference between the visible red and the invisible near infrared light is a good measure of plant health. The bigger difference between the two, the healthier the plant.
 
 # An Index for Measuring Vegetation Health
 
-To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index, or NDVI.
+To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index (NDVI).
 
 `NDVI = (NIR - RED) / (NIR + RED)`
 
@@ -34,22 +34,22 @@ Where NIR is near infrared and RED is visible red. If you're the type to gloss o
 
 # An Example From Western Nepal
 
-DAI Implements an Integrated Watershed Management Project for USAID called [PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We can use an area of the western region where PANI operates to study the vegetation health with NDVI at two different times of the year: August 2016 just after the monsoons, and January 2017, a dry and cold period in Nepal's weather pattern.
+DAI implements an integrated watershed management project for the U.S. Agency for International Development called [Program for Aquatic and National Resources Improvement (PANI)](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We can use an area of the western region where PANI operates to study the vegetation health with NDVI at two different times of the year: August 2016 just after the monsoons, and January 2017, a dry and cold period in Nepal's weather pattern.
 
 ![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
 `Our study area in wesern Nepal`
 
-Let's look at a true color image of an area where our PANI project operates in western Nepal. You can see a few clouds and a river flowing full. This is from August of 2016 just after the monsoons.
+Let's look at a true color image of an area where our PANI project operates. You can see a few clouds and a river flowing full. This is from August of 2016 just after the monsoons.
 
 ![true_color_August_2016.JPG](/uploads/true_color_August_2016.JPG)
-`A true color image in western Nepal in August 2016 soon after the monsoon season. Notice the fat river`
+`A true color image in western Nepal in August 2016 soon after the monsoon season. Notice the fat river.`
 
-To calculate the NDVI I can use QGIS (a free desktop GIS) and open up the raster calculator to run the formula with the red band (4) and the short wave infrared band (5). To do this go to Raster > Raster Calculator and type in the equation into the calculator. Here are a few images from the NDVI calcaulations. We can see a broader area of healthy vegetation afer the monsoons in August. Then later in January of the following year, the only healthy vegetation are in the select areas being irrigated by local farmers, the lowland forest and the mountain areas have begun to dry out.
+To calculate the NDVI, I can use QGIS (a free desktop GIS application) and open up the raster calculator to run the formula with the red band (4) and the shortwave infrared band (5). To do this go to Raster > Raster Calculator and type in the equation into the calculator. Here are a few images from the NDVI calculations. We can see a broader area of healthy vegetation after the monsoons in August. Then later in January of this year, the only healthy vegetation is in the select areas being irrigated by local farmers. The lowland forest and the mountain areas have begun to dry out.
 
 ![august_2016.JPG](/uploads/august_2016.JPG)
-`NDVI just after the monsoon season in August 2016. On the ground we see a fairly even distribution of healthy green vegetation. The bright yellow blotches are clouds are scattered about in the scene`
+`NDVI just after the monsoon season in August 2016. On the ground we see a fairly even distribution of healthy green vegetation. The bright yellow blotches are clouds are scattered about in the scene.`
 
 ![january_2017.JPG](/uploads/january_2017.JPG)
-`NDVI for a dry day in early January 2017. We see healthy vegetation only in the irrigated farmland with the mountains and natural forest region drying out`
+`NDVI for a dry day in early January 2017. We see healthy vegetation only in the irrigated farmland, with the mountains and natural forest region drying out.`
 
-That's very satisfying to be able to see a changes in weather reflected in satellite imagery. Whats more, we did this all with free software and free imagery from Landsat 8! We're looking forwarding to using Landsat and NDVI to help share with the community in Nepal the freely available ways to monitor watershed health with remote sensing.
+It's very satisfying to be able to see a changes in weather reflected in satellite imagery. What's more, we did this all with free software and free imagery from Landsat 8! We're looking forwarding to using Landsat and NDVI to help share with the community in Nepal the freely available ways to monitor watershed health with remote sensing.
