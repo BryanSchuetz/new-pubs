@@ -1,7 +1,7 @@
 ---
 title: 'More Data, Less Risk: Innovators Charting a Path Forward for Financial Inclusion
   Through Mobile Data'
-date: 2016-01-23 09:35:00 -05:00
+date: 2017-01-23 09:35:00 -05:00
 tags:
 - Innovation
 - Data
