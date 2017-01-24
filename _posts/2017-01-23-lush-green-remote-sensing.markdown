@@ -30,7 +30,7 @@ To calculate the proportional difference in infrared light and visible red light
 
 `NDVI = (NIR - RED) / (NIR + RED)`
 
-If you're the type to gloss over equations, this one is simple! First off, this is just a ratio. In the case of NDVI it is the ratio of the elements\` difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED which means the maximum value for NDVI is 1. The range then for NDVI then is \+1 to -1. Being normalized on this range is great because it lets us compare different areas of vegetation around the world, whereas doing so with raw reflectance values of near-infrared would be inconclusive.
+If you're the type to gloss over equations, this one is simple! First off, this is just a ratio. In the case of NDVI it is the ratio of the element's difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED which means the maximum value for NDVI is 1. The range then for NDVI then is \+1 to -1. Being normalized on this range is great because it lets us compare different areas of vegetation around the world, whereas doing so with raw reflectance values of near-infrared would be inconclusive.
 
 # An Example From Western Nepal
 
