@@ -20,7 +20,7 @@ This problem is not a new one, and many financial and organizational innovations
 
 More recently, the potential of mobile technologies is being harnessed to help form a clearer picture of rural farming risk profiles for organizations offering financial services. Numerous actors are focusing on [mobile technology-enabled farmer profiling](http://akorion.com/services/digital-profiling-service/). Using a village agent model pioneered by such organizations as the Grameen Foundation through its [Community Knowledge Worker program](http://www.grameenfoundation.org/resource/lessons-learned-2009-2014-community-knowledge-worker-uganda-program), development actors are engaging in rural agents to regularly collect information from farmers via mobile technology that can be used by financial institutions to develop a better risk profile for clients. Yet from my experience exploring this space recently in Uganda, it appears that while formal commercial financial institutions are watching these activities closely, they remain apprehensive towards engaging directly, and questions about the long-term sustainability of the village agent model remain as long as private sector players such as major banks continue to observe from a distance.
 
-![20170123_162209.jpg](/uploads/20170123_162209.jpg)
+![DFSblog.jpg](/uploads/DFSblog.jpg)
 `A rural agent in Uganda demonstrates the mobile application used to collect information from farmers in his vicinity.`
 
 ### Making Use of Existing Data to Generate New Financial Data
