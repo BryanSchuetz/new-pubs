@@ -53,4 +53,4 @@ To calculate the NDVI I can use QGIS (a free desktop GIS) and open up the raster
 ```NDVI for a dry day in early January 2017. We see healthy vegetation only in the irrigated farmland with the mountains and natural forest region drying out```
 
 
-That's great. We're looknig forwarding to relying on Landsat and NDVI to help share with the community in Nepal the freely available ways to monitor watershed health 
+That's very satisfying to be able to see a change's in weather refleced in satellite imagery. Whats more, we did this all with free software and free imagery! We're looking forwarding to relying on Landsat and NDVI to help share with the community in Nepal the freely available ways to monitor watershed health 
