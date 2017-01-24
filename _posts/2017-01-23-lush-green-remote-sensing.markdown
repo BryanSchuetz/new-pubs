@@ -23,7 +23,7 @@ Healthy leaves of basil are a luscious green. **But why?** Plants absorb, rather
 
 What we don't see, however, is that healthy plants actually reflect more near infrared (short wavelength infrared) than visible green. That's right: healthy plants look more infrared than green. But we humans only see the green. When a plant becomes unhealthy, it reflects more of the visible red light and less of the invisible infrared. Think of a dry plant that needs watering, it might turn a reddish brown as it dries up. This difference between the visible red and the invisible near infrared light is a good measure of plant health. The bigger difference between the two, the healthier the plant.
 
-# An Index for Measuring Vegetation Health
+## An Index for Measuring Vegetation Health
 
 To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index (NDVI), where NIR is near infrared and RED is visible red.
 
@@ -31,7 +31,7 @@ To calculate the proportional difference in infrared light and visible red light
 
 If you're the type to gloss over equations, this one is simple! First off, this is just a ratio. In the case of NDVI it is the ratio of the element's difference to it's sum. When the plant is really healthy, it is reflecting a ton of NIR and very little RED which means the maximum value for NDVI is 1. The range then for NDVI then is \+1 to -1. Being normalized on this range is great because it lets us compare different areas of vegetation around the world, whereas doing so with raw reflectance values of near-infrared would be inconclusive.
 
-# An Example From Western Nepal
+## An Example From Western Nepal
 
 DAI implements an integrated watershed management project for the U.S. Agency for International Development called [Program for Aquatic and National Resources Improvement (PANI)](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We can use an area of the western region where PANI operates to study the vegetation health with NDVI at two different times of the year: August 2016 just after the monsoons, and January 2017, a dry and cold period in Nepal's weather pattern.
 
