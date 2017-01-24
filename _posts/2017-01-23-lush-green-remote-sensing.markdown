@@ -37,7 +37,7 @@ If you're the type to gloss over equations, this one is simple! First off, this 
 DAI implements an integrated watershed management project for the U.S. Agency for International Development called [Program for Aquatic and National Resources Improvement (PANI)](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We can use an area of the western region where PANI operates to study the vegetation health with NDVI at two different times of the year: August 2016 just after the monsoons, and January 2017, a dry and cold period in Nepal's weather pattern.
 
 ![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
-`Our study area in wesern Nepal`
+`Our study area in western Nepal.`
 
 Let's look at a true color image of an area where our PANI project operates. You can see a few clouds and a river flowing full. This is from August of 2016 just after the monsoons.
 
