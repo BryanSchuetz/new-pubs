@@ -2,6 +2,9 @@
 title: 'Remote Sensing Part 3: Identifying Healthy Vegetation From Space!'
 date: 2017-01-23 17:37:00 -05:00
 published: false
+tags:
+- Remote Sensing Series
+Author: John DeRiggi
 ---
 
 You could live a perfectly fulfilled life taking for granted all the colors that appear in nature. However, like many things, when you ask "why?", doing so usually reveals a new fascinating level of complexity, and this is especially true for the color of things.
