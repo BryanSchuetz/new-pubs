@@ -20,9 +20,9 @@ Healthy basil is a luscious green color. **But why?** Plants absorb, rather than
 
 To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index, or NDVI.
 
-`**NDVI = (NIR - RED) / (NIR + RED)**`
+`NDVI = (NIR - RED) / (NIR + RED)`
 
-Where NIR is near infrared and RED is visible red. If you're the type to gloss over equations, don't! First off, this is just a simple ratio. In the case of NDVI it is the ratio of the elements difference to it's sum.
+Where NIR is near infrared and RED is visible red. If you're the type to gloss over equations, don't! First off, this is just a simple ratio. In the case of NDVI it is the ratio of the elements difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED. The range then for NDVI is +1 to -1.
 
 # An Example From Western Nepal
 
@@ -31,9 +31,6 @@ Where NIR is near infrared and RED is visible red. If you're the type to gloss o
 
 ![true_color_August_2016.JPG](/uploads/true_color_August_2016.JPG)
 ``` A true color image in western Nepal in August 2016 soon after the monsoon season. Notice the fat river```
-
-![infrared_August_2016.JPG](/uploads/infrared_August_2016.JPG)
-```Infrared (5-4-3 combination) image highlighting healthy vegetation nearly everywhere```
 
 ![august_2016.JPG](/uploads/august_2016.JPG)
 ```NDVI just after the monsoon season in August 2016. On the ground we see a fairly even distribution of healthy green vegetation. The bright yellow blotches are clouds are scattered about in the scene```
