@@ -25,12 +25,16 @@ To calculate the proportional difference in infrared light and visible red light
 Where NIR is near infrared and RED is visible red. If you're the type to gloss over equations, don't! First off, this is just a simple ratio. In the case of NDVI it is the ratio of the elements difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED. The range then for NDVI is +1 to -1.
 
 # An Example From Western Nepal
+Let's look at a true color image of an area where our PANI project operates in western Nepal. You can see a few clouds and a river flowing full. This is from August of 2016 just after the monsoons.
 
 ![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
 ```Our study area in wesern Nepal```
 
 ![true_color_August_2016.JPG](/uploads/true_color_August_2016.JPG)
 ``` A true color image in western Nepal in August 2016 soon after the monsoon season. Notice the fat river```
+
+To calculated the NDVI I just have to use QGIS's (a free desktop GIS) and open up the raster calculator to run the formula with the red band (4) and the short wave infrared band (5). To do this go to Raster > Raster Calculator and type in the equation into the calculator.
+
 
 ![august_2016.JPG](/uploads/august_2016.JPG)
 ```NDVI just after the monsoon season in August 2016. On the ground we see a fairly even distribution of healthy green vegetation. The bright yellow blotches are clouds are scattered about in the scene```
