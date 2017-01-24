@@ -1,6 +1,5 @@
 ---
-title: 'Remote Sensing Part 3: Identify Healthy Vegetation From Space, Without Leaving
-  Your Desk'
+title: 'Remote Sensing Part 3: Identify Healthy Vegetation From Space'
 date: 2017-01-23 17:37:00 -05:00
 published: false
 tags:
