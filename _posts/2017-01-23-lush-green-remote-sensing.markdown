@@ -26,11 +26,11 @@ What we don't see, however, is that healthy plants actually reflect more near in
 
 # An Index for Measuring Vegetation Health
 
-To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index (NDVI).
+To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index (NDVI), where NIR is near infrared and RED is visible red.
 
 `NDVI = (NIR - RED) / (NIR + RED)`
 
-Where NIR is near infrared and RED is visible red. If you're the type to gloss over equations, this one is simple! First off, this is just a ratio. In the case of NDVI it is the ratio of the elements\` difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED which means the maximum value for NDVI is 1. The range then for NDVI then is \+1 to -1. Being normalized on this range is great because it lets us compare different areas of vegetation around the world, whereas doing so with raw reflectance values of near-infrared would be inconclusive.
+If you're the type to gloss over equations, this one is simple! First off, this is just a ratio. In the case of NDVI it is the ratio of the elements\` difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED which means the maximum value for NDVI is 1. The range then for NDVI then is \+1 to -1. Being normalized on this range is great because it lets us compare different areas of vegetation around the world, whereas doing so with raw reflectance values of near-infrared would be inconclusive.
 
 # An Example From Western Nepal
 
