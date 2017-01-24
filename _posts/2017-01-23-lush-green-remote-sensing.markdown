@@ -20,7 +20,7 @@ Healthy basil is a luscious green color. **But why?** Plants absorb, rather than
 
 To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index, or NDVI.
 
-`(NIR - RED) / (NIR + RED)`
+`**NDVI = (NIR - RED) / (NIR + RED)**`
 
 Where NIR is near infrared and RED is visible red. If you're the type to gloss over equations, don't! First off, this is just a simple ratio. In the case of NDVI it is the ratio of the elements difference to it's sum.
 
