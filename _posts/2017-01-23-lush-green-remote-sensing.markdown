@@ -34,10 +34,12 @@ To calculate the proportional difference in infrared light and visible red light
 Where NIR is near infrared and RED is visible red. If you're the type to gloss over equations, this one is simple! First off, this is just a ratio. In the case of NDVI it is the ratio of the elements` difference to it's sum. When the plant is really healthy it is reflecting a ton of NIR and very little RED. The range then for NDVI then is +1 to -1.
 
 # An Example From Western Nepal
-Let's look at a true color image of an area where our PANI project operates in western Nepal. You can see a few clouds and a river flowing full. This is from August of 2016 just after the monsoons.
+DAI Implements an Integrated Watershed Management Project for USAID called PANI. We can use an are of the western region, where PANI operates to study the vegetation health with NDVI at two different times of the year: August 2016 just after the monsoons, and January 2017: a dry and cold period in Nepal's weather pattern.
 
 ![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
 ```Our study area in wesern Nepal```
+
+Let's look at a true color image of an area where our PANI project operates in western Nepal. You can see a few clouds and a river flowing full. This is from August of 2016 just after the monsoons.
 
 ![true_color_August_2016.JPG](/uploads/true_color_August_2016.JPG)
 ``` A true color image in western Nepal in August 2016 soon after the monsoon season. Notice the fat river```
@@ -51,3 +53,4 @@ To calculate the NDVI I can use QGIS (a free desktop GIS) and open up the raster
 ```NDVI for a dry day in early January 2017. We see healthy vegetation only in the irrigated farmland with the mountains and natural forest region drying out```
 
 
+That's great. We're looknig forwarding to relying on Landsat and NDVI to help share with the community in Nepal the freely available ways to monitor watershed health 
