@@ -24,7 +24,7 @@ Healthy leaves of basil are a luscious green color. **But why?** Plants absorb, 
 
 What we don't see however is that healthy plants actually reflect more near infrared (short wavelength infrared) than visible green. That's right, plant's one could say are more infrared than they are green. But we humans only see the green. When a plant becomes unhealthy, it reflects more of the visible red light and less of the invisible infrared. Think of a dry plant that needs watering, it might turn a reddish brown color as it dries up. This difference between the visible red and the invisible near infrared light is a good measure of plant health. The bigger difference between the two, the healthier the plant. 
 
-# Vegetation Index
+# An Index for Measuring Vegetation Health
 
 To calculate the proportional difference in infrared light and visible red light, we can use the tried and true Normalized Difference Vegetation Index, or NDVI.
 
