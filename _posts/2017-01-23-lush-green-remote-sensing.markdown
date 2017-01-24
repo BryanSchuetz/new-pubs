@@ -22,6 +22,9 @@ Healthy basil is a luscious green color. **But why?** Plants absorb, rather than
 ![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
 ```Our study area in wesern Nepal```
 
+![true_color_August_2016.JPG](/uploads/true_color_August_2016.JPG)
+``` A true color image in western Nepal in August 2016 soon after the monsoon season. Notice the fat river```
+
 ![august_2016.JPG](/uploads/august_2016.JPG)
 ```NDVI just after the monsoon season in August 2016. On the ground we see a fairly even distribution of healthy green vegetation. The bright yellow blotches are clouds are scattered about in the scene```
 
