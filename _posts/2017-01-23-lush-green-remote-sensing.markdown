@@ -24,7 +24,7 @@ Healthy leaves of basil are a luscious green color. **But why?** Plants absorb, 
 ![sunbeamsdownandreflects-028a2d.jpg](/uploads/sunbeamsdownandreflects-028a2d.jpg)
 ```Healthy vegetation absorbs he red and blue light for photosynthesis. Some of the green light and high percentage of the short wave infrared light is reflected off the leaves```
 
-What we don't see however is that healthy plants actually reflect more near infrared (short wavelength infrared) than visible green. That's right, plant's one could say are more infrared than they are green. But we humans only see the green. When a plant becomes unhealthy, it reflects more of the visible red light and less of the invisible infrared. This difference between the visible red and the invisible near infrared light is a good measure of plant health. 
+What we don't see however is that healthy plants actually reflect more near infrared (short wavelength infrared) than visible green. That's right, plant's one could say are more infrared than they are green. But we humans only see the green. When a plant becomes unhealthy, it reflects more of the visible red light and less of the invisible infrared. Think of a dry plant that needs watering, it might turn a reddish brown color as it dries up. This difference between the visible red and the invisible near infrared light is a good measure of plant health. The bigger difference between the two, the healthier the plant. 
 
 # Vegetation Index
 
