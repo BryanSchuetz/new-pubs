@@ -17,7 +17,7 @@ You could live a perfectly fulfilled life while taking for granted all the color
 Healthy leaves of basil are a luscious green. **But why?** Plants absorb, rather than reflect, most of the red and blue light that hits the leaves. Absorption of light, after all, is part of the process of photosynthesis. It is also why trees are so vital to helping cool our planet—they absorb the energy from the sun instead of reflecting it back into our atmosphere. All of that results in basil leaves being deep green instead of white.
 
 ![sunbeamingdownlight.jpg](/uploads/sunbeamingdownlight.jpg)
-`The sun sends a full spectrum of light visible and invisible wavelengths of light to earth`
+`The sun sends a full spectrum of light—visible and invisible wavelengths—to earth.`
 
 ![sunbeamsdownandreflects-028a2d.jpg](/uploads/sunbeamsdownandreflects-028a2d.jpg)
 `Healthy vegetation absorbs red and blue light for photosynthesis. Some of the green light and a high percentage of shortwave infrared light is reflected off the leaves.`
