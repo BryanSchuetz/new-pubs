@@ -12,7 +12,7 @@ Author: Kristen Roggemann, Adam Fivenson, Anand Varghese
 
 <!--more-->
 
-![Whatsapp-for-PC.jpg](/uploads/Whatsapp-for-PC.jpg)
+![WhatsApp_Logo_1.png](/uploads/WhatsApp_Logo_1.png)
 
 **Key Functionalities**: Send and receive encrypted messages through mobile web (including low-bandwidth environments), create group chats (max 256 members) and a contact list, broadcast messages out to contacts who have your number in their contacts list, send video, photos, and audio messages, make voice calls
 
