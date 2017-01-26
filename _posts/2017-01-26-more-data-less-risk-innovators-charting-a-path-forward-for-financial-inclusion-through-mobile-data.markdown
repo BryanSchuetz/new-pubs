@@ -1,6 +1,6 @@
 ---
 title: 'More Data, Less Risk: Innovators Chart a Path to Financial Inclusion'
-date: 2017-01-23 09:35:00 -05:00
+date: 2017-01-26 09:35:00 -05:00
 tags:
 - Innovation
 - Data
