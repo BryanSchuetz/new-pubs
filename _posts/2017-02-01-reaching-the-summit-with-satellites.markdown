@@ -28,9 +28,16 @@ Planet Labs and Astro Digital are the small-sat companies playing the role of di
 
 But this incumbent being disrupted by an upstart innovator is actually an old story and incumbents have learned how to do small scale innovation (see Amazon and Alphabet). Don't count out Digital Globe, this is by no means the story of the begnning of the end of a corporate giant. Instead we will see new products from DG that are innovative derivatives of their existing product line
  
-
-
 # #FatData
 
 #FatData was another theme presented by Bronwin Agrios, making a subtle distinction from big data in that the smallest unit of data in remote sensing, say a 30 meter resolution image with its metadata is still big and we need great services to process these images. That is AstroDigital’s angle, relieving the user to download data and instead create a suite of APIs to help developers build things with code without necessarily needing to create their own fat data stores.
 
+# End User Capacity
+Another less obvious theme from the Summit related to end-users' ablity to make use of the data, especially the development community. Considering the expanding sources of imagery available to us consumers, we need to keep-up by ensuring we have the capacity to use the data to answer important questions relevant to our work in development. That seems to be the gap in the market now, with plenty of companies offering data and services but less clarity around how to work with the information.
+
+# Product Launches and Announcements
+State of the Map US is in [Boulder Colorado this year](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
+
+[Digital Globe has an Open Data Site](https://www.digitalglobe.com/opendata)
+
+[The Global Partnerships for Sustainable Development Data announced API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
