@@ -4,6 +4,7 @@ date: 2017-02-01 14:43:00 -05:00
 published: false
 ---
 
+# Thematic Hashtags
 #SATDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the SatSummit conference this week. These bold declarations were something new; a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers.
 #SatDiversity
 
@@ -11,7 +12,7 @@ Diversity is emerging in the tech space and it’s following the tried and true 
 
 > Generally, disruptive technologies underperform established products in mainstream markets. But they have other features that a few fringe (and generally new) customers value. Products based on disruptive technologies are typically cheaper, simpler, smaller, and, frequently, more convenient to use – Clayton Christensen
 
-# Textbook Disruption
+# Incumbency in Remote Sensing
 The quote is stunning in its nearly identical description of the strategy pursued by Planet Labs and Astro Digital. It is as if the CEOs read Clayton Christensen and the next day decided to make disruptive remote sensing companies. In this scenario, Digital Globe is the successful incumbent, launching just recently a top-of-the-line satellite called WorldView 4 estimated to cost over $600 milion . It is the Lexus of remotely sensed data capture satellites with multispectral images at sub-meter (31cm panchromatic images) resolution. This is the highest quality commercial grade imagery you can get. It is expensive to acquire because the high resolution imagery is so much more then pretty pictures. The multi-spectral part lets users to do amazing things like monitor specifically the crop health of a plantation, a critical tool for establishing alerts related to food security and other natural resources.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Spectral resolution reveals what the human eye cannot see. Watch our new video for more: <a href="https://t.co/7NeV7lcQUr">https://t.co/7NeV7lcQUr</a> <a href="https://t.co/YlxGVembem">pic.twitter.com/YlxGVembem</a></p>&mdash; DigitalGlobe (@DigitalGlobe) <a href="https://twitter.com/DigitalGlobe/status/826877814477578240">February 1, 2017</a></blockquote>
