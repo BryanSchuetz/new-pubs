@@ -1,6 +1,7 @@
 ---
 title: Reaching the Summit with Satellites
 date: 2017-02-01 14:43:00 -05:00
+published: false
 ---
 
 #SATDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the SatSummit conference this week. These bold declarations were something new; a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers.
