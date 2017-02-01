@@ -8,7 +8,9 @@ tags:
 Author: John DeRiggi
 ---
 
-#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit ](https://satsummit.io) conference this week. These bold declarations were something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here's some key takeaways from the event:
+#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit ](https://satsummit.io) conference this week. These bold declarations were something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here's some key takeaways from the event.
+
+<!--more-->
 
 ## #SatDiversity
 Diversity in product offerings is indeed taking shape in remote sensing and it’s following the tried and true form of innovation precisely as Clayton’s Christensen describes it in his seminal business strategy book, *The Innovator’s Dilemma*:
@@ -17,7 +19,6 @@ Diversity in product offerings is indeed taking shape in remote sensing and it�
 
 Essentially, the big incumbent company forges a path and then smaller, cheaper products emerge from new companies to fill niche consumer segments. 
 
-## Incumbency in Remote Sensing
 The quote is strikingly similar to the strategy pursued by [Planet Labs](https://www.planet.com/) and [Astro Digital](https://astrodigital.com/). It is as if the CEOs read Clayton Christensen and the next day decided to make disruptive remote sensing companies. In this scenario, Digital Globe is the successful incumbent, launching just recently a top-of-the-line satellite called WorldView 4 estimated to cost over $600 milion . It is the Lexus of commercial satellite platforms with multispectral images at sub-meter (31cm panchromatic images) resolution. This is the highest quality commercial grade imagery you can get. It is expensive to acquire because the high resolution imagery is so much more then pretty pictures. The multi-spectral part lets users to do amazing things like monitor specifically the crop health of a plantation, a critical tool for establishing alerts related to food security and other natural resources.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Spectral resolution reveals what the human eye cannot see. Watch our new video for more: <a href="https://t.co/7NeV7lcQUr">https://t.co/7NeV7lcQUr</a> <a href="https://t.co/YlxGVembem">pic.twitter.com/YlxGVembem</a></p>&mdash; DigitalGlobe (@DigitalGlobe) <a href="https://twitter.com/DigitalGlobe/status/826877814477578240">February 1, 2017</a></blockquote>
