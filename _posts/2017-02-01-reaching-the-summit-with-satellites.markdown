@@ -15,7 +15,7 @@ Diversity in product offerings is indeed taking shape in remote sensing and itâ€
 
 > Generally, disruptive technologies underperform established products in mainstream markets. But they have other features that a few fringe (and generally new) customers value. Products based on disruptive technologies are typically cheaper, simpler, smaller, and, frequently, more convenient to use â€“ Clayton Christensen
 
-Essentially, the big incumbent company forges a path and then smaller, cheaper products emerge to fill niche consumer segments. 
+Essentially, the big incumbent company forges a path and then smaller, cheaper products emerge from new companies to fill niche consumer segments. 
 
 # Incumbency in Remote Sensing
 The quote is strikingly similar to the strategy pursued by Planet Labs and Astro Digital. It is as if the CEOs read Clayton Christensen and the next day decided to make disruptive remote sensing companies. In this scenario, Digital Globe is the successful incumbent, launching just recently a top-of-the-line satellite called WorldView 4 estimated to cost over $600 milion . It is the Lexus of commercial satellite platforms with multispectral images at sub-meter (31cm panchromatic images) resolution. This is the highest quality commercial grade imagery you can get. It is expensive to acquire because the high resolution imagery is so much more then pretty pictures. The multi-spectral part lets users to do amazing things like monitor specifically the crop health of a plantation, a critical tool for establishing alerts related to food security and other natural resources.
