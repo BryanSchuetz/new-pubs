@@ -25,6 +25,7 @@ But this incumbent being disrupted by an upstart innovator is actually an old st
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty little satellites, all in a row. See the evolution of the Dove <a href="https://twitter.com/hashtag/satellite?src=hash">#satellite</a>&#39;s design over time: <a href="https://t.co/xGYvLdp6YP">pic.twitter.com/xGYvLdp6YP</a></p>&mdash; Planet (@planetlabs) <a href="https://twitter.com/planetlabs/status/826466171432022016">January 31, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#FatData
+# FatData
+
 #FatData was another theme presented by Bronwin Agrios, making a subtle distinction from big data in that the smallest unit of data in remote sensing, say a 30 meter resolution image with its metadata is still big and we need great services to process these images. That is AstroDigital’s angle, relieving the user to download data and instead create a suite of APIs to help developers build things with code without necessarily needing to create their own fat data stores.
 
