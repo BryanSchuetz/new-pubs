@@ -21,10 +21,12 @@ The quote is stunning in its nearly identical description of the strategy pursue
 # Sources of Disruption
 Planet and Astro Digital are playing the role of disruptors. They focus on a segment of customers that require good imagery of an area on regular basis and they do so at a small fraction of the cost of the high-end providers.  The imagery produced by small sat companies is by all measures of less quality than Digital Globe’s. The resolution is worse at 3-5 meters and they are without the multi-spectral bands that let you monitor vegetation quality, heat, dryness and all matter of other things. But here’s the thing. You can do a lot with 3 meter imagery, especially when it covers the entire globe a few times per day. Cargo ships for example are wider and longer than 3 meters so if you need to monitor the overall movement of ships in a port then Planet Labs might be the best option.
 
-But this incumbent being disrupted by an upstart innovator is actually an old story and incumbents have learned how to do small scale innovation (see Amazon and Alphabet). Don't count out Digital Globe, this is by no means the story of the begnning of the end of a corporate giant. Instead we will see new products from DG that are innovative derivatives of their existing product line
- 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty little satellites, all in a row. See the evolution of the Dove <a href="https://twitter.com/hashtag/satellite?src=hash">#satellite</a>&#39;s design over time: <a href="https://t.co/xGYvLdp6YP">pic.twitter.com/xGYvLdp6YP</a></p>&mdash; Planet (@planetlabs) <a href="https://twitter.com/planetlabs/status/826466171432022016">January 31, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+But this incumbent being disrupted by an upstart innovator is actually an old story and incumbents have learned how to do small scale innovation (see Amazon and Alphabet). Don't count out Digital Globe, this is by no means the story of the begnning of the end of a corporate giant. Instead we will see new products from DG that are innovative derivatives of their existing product line
+ 
+
 
 # #FatData
 
