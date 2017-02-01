@@ -41,3 +41,7 @@ State of the Map US is in [Boulder Colorado this year](https://openstreetmap.us/
 [Digital Globe has an Open Data Site](https://www.digitalglobe.com/opendata)
 
 [The Global Partnerships for Sustainable Development Data announced API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
+
+We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. Now let's have Dave set the mood on our way out...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GAamgBPebsk" frameborder="0" allowfullscreen></iframe>
