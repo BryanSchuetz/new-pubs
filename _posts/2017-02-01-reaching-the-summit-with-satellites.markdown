@@ -8,7 +8,7 @@ published: false
 #SATDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the SatSummit conference this week. These bold declarations were something new; a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers.
 #SatDiversity
 
-Diversity in product offerings is indeed taking shape in the tech space and it’s following the tried and true form of innovation precisely as describe in Clayton’s Christensen’s *Innovator’s Dilemma*, the legendary business strategy book in which he states:
+Diversity in product offerings is indeed taking shape in remote sensing and it’s following the tried and true form of innovation precisely as Clayton’s Christensen describes it in his seminal business strategy book, *The Innovator’s Dilemma*:
 
 > Generally, disruptive technologies underperform established products in mainstream markets. But they have other features that a few fringe (and generally new) customers value. Products based on disruptive technologies are typically cheaper, simpler, smaller, and, frequently, more convenient to use – Clayton Christensen
 
