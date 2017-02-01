@@ -1,5 +1,5 @@
 ---
-title: Reaching the Summit with Satellites
+title: 'The Everest of Satellite Conferences: SatSummit 2017'
 date: 2017-02-01 14:43:00 -05:00
 published: false
 ---
