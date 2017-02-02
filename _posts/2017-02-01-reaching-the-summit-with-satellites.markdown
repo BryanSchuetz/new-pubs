@@ -33,10 +33,9 @@ But this incumbent being disrupted by an upstart innovator is actually an old st
 
 #FatData was another theme presented by Bronwin Agrios, making a subtle distinction from big data in that the smallest unit of data in remote sensing, say a 30 meter resolution image with its metadata is still big and we need great services to process these images. That is AstroDigital’s angle, relieving the user to download data and instead create a suite of APIs to help developers build things with code without necessarily needing to create their own fat data stores.
 
-# End User Capacity
 Another less obvious theme from the Summit related to end-users' ablity to make use of the data, especially the development community. Considering the expanding sources of imagery available to us consumers, we need to keep-up by ensuring we have the capacity to use the data to answer important questions relevant to our work in development. That seems to be the gap in the market now, with plenty of companies offering data and services but less clarity around how to work with the information.
 
-# Product Launches and Announcements
+# Product Launches
 SatSummit did a great job of being a venue for product launches and announcements. Here are a few:
 State of the Map US is in [Boulder Colorado this year](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
 
