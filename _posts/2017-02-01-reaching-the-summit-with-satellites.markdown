@@ -7,7 +7,7 @@ tags:
 Author: John DeRiggi
 ---
 
-\#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit](https://satsummit.io) conference this week. These bold declarations were something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here’s some key takeaways from the event.
+\#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit](https://satsummit.io) conference this week. These bold declarations are something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here’s some key takeaways from the event.
 
 Diversity in product offerings is indeed taking shape in remote sensing and it’s following the tried and true form of innovation precisely as Clayton’s Christensen describes it in his seminal business strategy book, *The Innovator’s Dilemma*:
 
