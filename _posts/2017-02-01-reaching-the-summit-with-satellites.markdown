@@ -46,6 +46,6 @@ State of the Map US is in [Boulder Colorado this year](https://openstreetmap.us/
 
 We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. We hope you are too. 
 
-Welp, Valentine's Day is coming up and we've made it through the space-based small talk so let's cue Dave to set the mood.
+Welp, Valentine's Day is coming up and we've made it through the space-based small talk so let's cue Dave to set the tone on our way out...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAamgBPebsk" frameborder="0" allowfullscreen></iframe>
