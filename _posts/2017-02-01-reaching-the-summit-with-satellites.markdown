@@ -40,8 +40,8 @@ Another less obvious theme from the summit related to end-users’ ability to ma
 ## Product Launches
 
 SatSummit did a great job of being a venue for product launches and announcements. Here are a few:
-State of the Map US is in [Boulder, Colorado, this year.](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
 
+* State of the Map US is in [Boulder, Colorado, this year.](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
 * [Digital Globe has an Open Data Site](https://www.digitalglobe.com/opendata)
 * [The Global Partnerships for Sustainable Development Data announced API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
 
