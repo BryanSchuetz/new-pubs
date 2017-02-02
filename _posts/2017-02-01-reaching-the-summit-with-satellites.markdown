@@ -37,12 +37,13 @@ But this incumbent being disrupted by an upstart innovator is actually an old st
 Another less obvious theme from the Summit related to end-users' ablity to make use of the data, especially the development community. Considering the expanding sources of imagery available to us consumers, we need to keep-up by ensuring we have the capacity to use the data to answer important questions relevant to our work in development. That seems to be the gap in the market now, with plenty of companies offering data and services but less clarity around how to work with the information.
 
 # Product Launches and Announcements
+SatSummit did a great job of being a venue for product launches and announcements. Here are a few:
 State of the Map US is in [Boulder Colorado this year](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
 
 [Digital Globe has an Open Data Site](https://www.digitalglobe.com/opendata)
 
 [The Global Partnerships for Sustainable Development Data announced API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
 
-We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. Now let's have Dave set the mood on our way out...
+We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. Welp, Valentine's Day is coming up and we've made it through the space-based small talk so let's cue Dave to set the mood...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAamgBPebsk" frameborder="0" allowfullscreen></iframe>
