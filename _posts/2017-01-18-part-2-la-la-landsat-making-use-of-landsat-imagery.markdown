@@ -12,11 +12,11 @@ Author: John DeRiggi
 
 Some incredible things were happening in the United States in 1972: Bill Withers’ “Lean on Me” was the No. 1 song on the radio; the first “Godfather” film was released; and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform—the Earth Resources Technology Satellite or ERTS-1—was developed in partnership with [the U.S. Geological Survey (USGS)](https://www.usgs.gov/), which agreed to handle the storage, archiving, and distribution of the data products. The second satellite, eventually renamed Landsat 2, launched in 1975, operating in parallel with ERTS-1 for a few years until the original satellite was decommissioned in 1978.
 
+<!--more-->
+
 In the late 1980s, the program hit hard times, with few people or organizations using the data and heightened scrutiny from Congress. It was saved only through direct intervention from then-Vice President Dan Quayle, who perhaps should be remembered more for saving Landsat than an unfortunate incident with a chalkboard and a root vegetable.
 
 Today, Landsat 8 and Landsat 7 operate concurrently.
-
-<!--more-->
 
 ## Accessing Landsat Data
 
