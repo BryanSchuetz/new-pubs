@@ -44,8 +44,8 @@ State of the Map US is in [Boulder Colorado this year](https://openstreetmap.us/
 
 [The Global Partnerships for Sustainable Development Data announced API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
 
-We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. 
+We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. We hope you are too. 
 
-Welp, Valentine's Day is coming up and we've made it through the space-based small talk so let's cue Dave to set the mood...
+Welp, Valentine's Day is coming up and we've made it through the space-based small talk so let's cue Dave to set the mood.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAamgBPebsk" frameborder="0" allowfullscreen></iframe>
