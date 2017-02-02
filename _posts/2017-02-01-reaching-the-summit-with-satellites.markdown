@@ -41,9 +41,9 @@ Another less obvious theme from the summit related to end-users’ ability to ma
 
 SatSummit did a great job of being a venue for product launches and announcements. Here are a few:
 
-* State of the Map US is in [Boulder, Colorado, this year.](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
-* [Digital Globe has an Open Data Site](https://www.digitalglobe.com/opendata)
-* [The Global Partnerships for Sustainable Development Data announced API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
+* [State of the Map](https://openstreetmap.us/2017/01/sotmus-2017-announcement/) US is in Boulder, Colorado, this year.
+* Digital Globe has an [Open Data Site.](https://www.digitalglobe.com/opendata)
+* The Global Partnerships for Sustainable Development Data announced [API Highways](http://www.data4sdgs.org/master-blog/2017/1/31/beta-launch-of-the-data4sdgs-api-highways)
 
 We had a great time at SatSummit and are extra motivated to start crunching data with all these images that are available. We hope you are, too.
 
