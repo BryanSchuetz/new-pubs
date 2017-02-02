@@ -7,7 +7,9 @@ tags:
 Author: John DeRiggi
 ---
 
-\#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit](https://satsummit.io) conference this week. These bold declarations are something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here’s some key takeaways from the event.
+#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit](https://satsummit.io) conference this week. These bold declarations are something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here’s some key takeaways from the event.
+
+<!--more-->
 
 Diversity in product offerings is taking shape in remote sensing and it’s following the tried and true form of innovation precisely as Clayton Christensen describes it in his seminal business strategy book, *The Innovator’s Dilemma*:
 
@@ -29,13 +31,13 @@ Planet Labs and Astro Digital are the small-sat companies playing the role of di
 
 But this incumbent being disrupted by an upstart innovator is actually an old story and incumbents have learned how to do small-scale innovation (see Amazon and Alphabet). Don’t count out Digital Globe; this is by no means the story of the beginning of the end of a corporate giant. Instead we will see new products from Digital Globe that are innovative derivatives of its existing product line.
 
-# #FatData
+## #FatData
 
-\#FatData was another theme presented by Bronwin Agrios, making a subtle distinction from big data in that the smallest unit of data in remote sensing, say a 30-meter resolution image with its metadata is still big and we need great services to process these images. That is AstroDigital’s angle, relieving the user to download data and instead create a suite of APIs to help developers build things with code without necessarily needing to create their own fat data stores.
+#FatData was another theme presented by Bronwin Agrios, making a subtle distinction from big data in that the smallest unit of data in remote sensing, say a 30-meter resolution image with its metadata is still big and we need great services to process these images. That is AstroDigital’s angle, relieving the user to download data and instead create a suite of APIs to help developers build things with code without necessarily needing to create their own fat data stores.
 
 Another less obvious theme from the summit related to end-users’ ability to make use of the data, especially the international development community. Considering the expanding sources of imagery available to us consumers, we need to keep up by ensuring we have the capacity to use the data to answer important questions relevant to our work in development. That seems to be the gap in the market now, with plenty of companies offering data and services but less clarity around how to work with the information.
 
-# Product Launches
+## Product Launches
 
 SatSummit did a great job of being a venue for product launches and announcements. Here are a few:
 State of the Map US is in [Boulder, Colorado, this year.](https://openstreetmap.us/2017/01/sotmus-2017-announcement/)
