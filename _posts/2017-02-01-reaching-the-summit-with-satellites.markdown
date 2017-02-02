@@ -6,7 +6,7 @@ tags:
 Author: John DeRiggi
 ---
 
-*We finally reached the summit of satellite conferences this week. This is the fourth post in our remote sensing series. See [part 1](https://dai-global-digital.com/remote-sensing-of-the-earth.html), [part 2](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) and [part 3](https://dai-global-digital.com/lush-green-remote-sensing.html)*
+*We reached the [summit of satellite conferences](https://satsummit.io) this week. This is the fourth post in our remote sensing series. See [part 1](https://dai-global-digital.com/remote-sensing-of-the-earth.html), [part 2](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) and [part 3](https://dai-global-digital.com/lush-green-remote-sensing.html)*
 
 #SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the [SatSummit](https://satsummit.io) conference this week. These bold declarations are something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here’s some key takeaways from the event.
 
