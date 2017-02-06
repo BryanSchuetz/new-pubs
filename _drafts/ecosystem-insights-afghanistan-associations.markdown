@@ -1,5 +1,5 @@
 ---
-title: Ecosystem Insight - How Trade Associations in Afghanistan use Mobile Tech.
+title: Ecosystem Insight - How Trade Associations in Afghanistan use Mobile Tech
 date: 2017-02-03 16:08:00 -05:00
 ---
 
