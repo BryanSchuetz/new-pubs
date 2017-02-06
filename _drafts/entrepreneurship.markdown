@@ -12,13 +12,13 @@ Finally, a conference that wasn’t boring, cliché, or overly esoteric. The Inn
 
 <!--more-->
 
-**Entrepreneurship: A mindset, not a business model**
+## Entrepreneurship: A mindset, not a business model
 
 The [Entrepreneur Learning Initiative](https://elimindset.com/) (ELI) defines an entrepreneur as a person who asks: “What problem do I want to solve in the world?” For ELI, an entrepreneur is someone who doesn’t follow, but designs his or her own combination of processes, relationships, and situations to optimize their individual talent to introduce a new idea.
 
 Harvard Business School defines entrepreneurialism not as the act of owning a business but the forward thinking mentality, as a key workforce asset in the modern world. What often distinguishes successful entrepreneurs and employees is the ability to be process driven and to obsess over the problem they want to solve, rather than the solution.
 
-**What Does it Take: Emotional Intelligence 101**
+## What Does it Take: Emotional Intelligence 101
 
 According to ELI, 87 percent of employees are not engaged in their day-to-day work and 24 percent are actively disengaged. However, Gary Schoeniger, Founder and CEO of ELI, believes that people learn this behavior. So how do individuals, businesses, school systems, and countries *unlearn* this?
 
@@ -32,7 +32,7 @@ This unique set of panelists brought energy, emotion, and excitement into the IN
 
 ![IMG_1755.JPG](/uploads/IMG_1755.JPG)`Pitch competition sponsored by GAN`
 
-**Behind the Scenes Acceleration**
+## Behind the Scenes Acceleration
 
 If the entrepreneurial mindset is the skeleton, then mentoring is the backbone. SendGrid representative [Tony Blank](https://twitter.com/thetonyblank) recognizes that anyone can be a mentor, and that any interaction can be a mentoring opportunity. Tony’s perspective exemplifies how this drive for problem solving reframes the workday of an entrepreneur and incentivizes the constant need for explicit learning.
 
@@ -47,11 +47,9 @@ According to TechStars representative [Gus Alvarez](http://www.techstars.com/men
 Tips we provided:
 
 * Your pitch should be 13 slides maximum. Your first statement should be a one-line vision statement.
-
 * Tell us how you have a better understanding of “the problem” than your competitor. Define your market, market size, and identify your customers.
-
 * Explain your timeline with interim milestones and projected growth rates. Paint us a picture of the current state.
 
-**Why Should Development Practitioners Care?**
+## Why Should Development Practitioners Care?
 
 As the development community, it is our role to embody these principles of entrepreneurialism and break down the barriers that thwart basic human potential. As practitioners, it’s not only our job to host shark tank-style competitions, but to work with the “losers” of these fierce contests to further develop their entrepreneurial spirit. With limited viable employment opportunities, a large percentage of the next generation of professionals will not have to earn their next job, but they will have to create it. Our job is to facilitate that mind shift.
