@@ -1,6 +1,9 @@
 ---
 title: Entrepreneurship
 date: 2017-02-06 12:31:00 -05:00
+tags:
+- Entrepreneurship
+Author: Caity Campos
 ---
 
 **Unemployed? Stop Looking for a Job and Create One**
