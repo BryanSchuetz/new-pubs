@@ -6,7 +6,7 @@ tags:
 Author: Kelsey Stern Buchbinder
 ---
 
-*At the end of 2016, we published a [post](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html)on the digital data-collection sector. In 2017, we plan to delve deeper into this growing sub-field of ICT4D with interviews, technology reviews, and guest posts, and we’re kicking things off with a piece from our friends at [Findyr](https://www.findyr.com/). They specialize in gathering insights from emerging markets using mobile-enabled, trained data collectors from the field. [Kelsey Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/) is a Business Development Associate at Findyr.*
+*At the end of 2016, we published a [post](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html)on the digital data-collection sector. In 2017, we're delving deeper into this growing sub-field of ICT4D with interviews, technology reviews, and guest posts. We’re kicking things off with a piece from our friends at [Findyr](https://www.findyr.com/), who specialize in gathering insights from emerging markets using mobile-enabled, trained data collectors from the field. [Kelsey Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/) is a Business Development Associate at Findyr.*
 
 Data collection is an essential part of development research and practice. By going beyond desk research and delving deeper into local opinions, socio-political dynamics, and economic data, development professionals have an opportunity to analyze problems and make decisions that are informed by ‘ground truth’, not just intuition. But data-collection tools can also vary in their effectiveness and accuracy, making it very difficult for researchers who need to ensure that their decision-making is based on the most up-to-date and relevant data. Enter the power of ‘the crowd’.
 
@@ -20,7 +20,7 @@ Crowdsourcing for data collection is not a new concept—it has been utilized by
 
 In the field of transportation technology, [Waze ](https://www.waze.com/)has been extremely successful in using technology in crowdsourcing data to create a real-time traffic-based navigation tool. By allowing users to report incidents and their movements, Waze maps traffic trends and redirects traffic. This not only helps the individual user reach their destination more quickly but also alleviates congestion across major metropolitan areas.
 
-## Crowdsourced Data Collection Technology for Development
+## Crowdsourced Data Collection in ICT4D
 
 In the last few years, a number of technology-based crowdsourced data collection tools have emerged that allow development projects to reach people and places they hope to better understand. These tools are based on the assumption that the best data can to be gleaned from the source, by people who are out in the field, where one needs to be physically but can't.
 
