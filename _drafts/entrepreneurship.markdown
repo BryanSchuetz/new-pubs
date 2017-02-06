@@ -27,6 +27,8 @@ One female entrepreneur started a sorority for other female entrepreneurs to not
 
 This unique set of panelists brought energy, emotion, and excitement into the INC Mty conference and gave the audience practical skills, tools, and knowledge to create their entrepreneur trajectory.
 
+![IMG_1755.JPG](/uploads/IMG_1755.JPG)
+
 **Behind the Scenes Acceleration**
 
 If the entrepreneurial mindset is the skeleton, then mentoring is the backbone. SendGrid representative [Tony Blank](https://twitter.com/thetonyblank) recognizes that anyone can be a mentor, and that any interaction can be a mentoring opportunity. Tony’s perspective exemplifies how this drive for problem solving reframes the workday of an entrepreneur and incentivizes the constant need for explicit learning.
