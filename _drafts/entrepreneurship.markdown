@@ -30,7 +30,7 @@ One female entrepreneur started a sorority for other female entrepreneurs to not
 
 This unique set of panelists brought energy, emotion, and excitement into the INC Mty conference and gave the audience practical skills, tools, and knowledge to create their entrepreneur trajectory.
 
-![IMG_1755.JPG](/uploads/IMG_1755.JPG)'Pitch competition sponsored by GAN'
+![IMG_1755.JPG](/uploads/IMG_1755.JPG)`Pitch competition sponsored by GAN`
 
 **Behind the Scenes Acceleration**
 
