@@ -1,12 +1,10 @@
 ---
-title: Entrepreneurship
+title: Unemployed? Stop Looking for a Job and Create One - Insights from INC Monterrey
 date: 2017-02-06 12:31:00 -05:00
 tags:
 - Entrepreneurship
 Author: Caity Campos
 ---
-
-**Unemployed? Stop Looking for a Job and Create One**
 
 *Guest blogger Caity Campos heads up DAI’s youth programming. Here she reviews the recent [Innovate Network Create (INC) Monterrey](http://incmty.com/) conference, a gathering of global entrepreneurs from a variety of disciplines.*
 
