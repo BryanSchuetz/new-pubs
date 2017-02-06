@@ -5,6 +5,7 @@ date: 2017-02-03 16:08:00 -05:00
 tags:
 - Ecosystem Insights
 - Economic Growth
+Author: Kristen Roggemann
 ---
 
 We're pleased to be launching a new research product on the blog today: **Ecosystem Insights** (EI). EI seeks to understand *how key groups of stakeholders use digital tools to connect with each other and share information*, pushing beyond the individual personas of our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work to gain insights into how ecosystems of actors access and use ICT in both their personal and professional lives. We conducted this research alongside the star provincial teams of [CIPE](http://www.cipe.org/). Not surprisingly, even in rural Afghanistan, smartphone and social media penetration rates are *much* higher than currently published reports account for. These findings continue to prove that DAI's investment in this research is worthwhile: designing a sustainable and high-impact ICT intervention will always start with knowing the what, how and why of users' ICT habits.
