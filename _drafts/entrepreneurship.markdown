@@ -12,6 +12,8 @@ Author: Caity Campos
 
 Finally, a conference that wasn’t boring, cliché, or overly esoteric. The Innovate Network Create (INC) Monterrey, held from November 17-19thwas exciting, innovative, and inspiring. Lest you think I am full of hyberbole, let me share some conference highlights:
 
+<!--more-->
+
 **Entrepreneurship: A mindset, not a business model**
 
 The [Entrepreneur Learning Initiative](https://elimindset.com/) (ELI) defines an entrepreneur as a person who asks: “What problem do I want to solve in the world?” For ELI, an entrepreneur is someone who doesn’t follow, but designs his or her own combination of processes, relationships, and situations to optimize their individual talent to introduce a new idea.
