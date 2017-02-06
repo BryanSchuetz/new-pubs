@@ -1,5 +1,5 @@
 ---
-title: Unemployed? Stop Looking for a Job and Create One - Insights from INC Monterrey
+title: '"Unemployed? Stop Looking for a Job and Create One" - Insights from INC Monterrey'
 date: 2017-02-06 12:31:00 -05:00
 tags:
 - Entrepreneurship
