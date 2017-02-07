@@ -6,7 +6,7 @@ tags:
 Author: "[Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/)"
 ---
 
-*Guest blogger [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/) heads up DAI’s youth programming. Here she reviews the recent [Innovate Network Create (INC) Monterrey](http://incmty.com/) conference, a gathering of global entrepreneurs from a variety of disciplines.*
+*Guest blogger [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/) is a specialist in our youth and workforce development unit. Here she reviews the recent [Innovate Network Create (INC) Monterrey](http://incmty.com/) conference, a gathering of global entrepreneurs from a variety of disciplines.*
 
 Finally, a conference that wasn’t boring, cliché, or overly esoteric. The Innovate Network Create (INC) Monterrey, held in November was exciting, innovative, and inspiring. Lest you think I am being hyperbolic, let me share some conference highlights:
 
