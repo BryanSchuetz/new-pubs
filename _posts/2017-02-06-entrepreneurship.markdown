@@ -3,6 +3,7 @@ title: Unemployed? Stop Looking for a Job and Create One—Insights from INC Mon
 date: 2017-02-06 12:31:00 -05:00
 tags:
 - Entrepreneurship
+- Innovation
 Author: "[Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/)"
 ---
 
