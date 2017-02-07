@@ -1,5 +1,5 @@
 ---
-title: '"Unemployed? Stop Looking for a Job and Create One" - Insights from INC Monterrey'
+title: Unemployed? Stop Looking for a Job and Create One—Insights from INC Monterrey
 date: 2017-02-06 12:31:00 -05:00
 tags:
 - Entrepreneurship
@@ -8,7 +8,7 @@ Author: "[Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/)"
 
 *Guest blogger [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/) heads up DAI’s youth programming. Here she reviews the recent [Innovate Network Create (INC) Monterrey](http://incmty.com/) conference, a gathering of global entrepreneurs from a variety of disciplines.*
 
-Finally, a conference that wasn’t boring, cliché, or overly esoteric. The Innovate Network Create (INC) Monterrey, held from November 17-19thwas exciting, innovative, and inspiring. Lest you think I am full of hyberbole, let me share some conference highlights:
+Finally, a conference that wasn’t boring, cliché, or overly esoteric. The Innovate Network Create (INC) Monterrey, held in November was exciting, innovative, and inspiring. Lest you think I am being hyperbolic, let me share some conference highlights:
 
 <!--more-->
 
@@ -47,7 +47,9 @@ According to TechStars representative [Gus Alvarez](http://www.techstars.com/men
 Tips we provided:
 
 * Your pitch should be 13 slides maximum. Your first statement should be a one-line vision statement.
+
 * Tell us how you have a better understanding of “the problem” than your competitor. Define your market, market size, and identify your customers.
+
 * Explain your timeline with interim milestones and projected growth rates. Paint us a picture of the current state.
 
 ## Why Should Development Practitioners Care?
