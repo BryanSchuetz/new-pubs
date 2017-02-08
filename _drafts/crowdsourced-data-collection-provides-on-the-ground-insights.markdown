@@ -3,7 +3,7 @@ title: Crowdsourced Data Collection Provides On-the-Ground Insights
 date: 2017-02-06 10:35:00 -05:00
 tags:
 - data
-Author: Kelsey Stern Buchbinder
+Author: "[Kelsey Stern Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/)"
 ---
 
 *At the end of 2016, we published a [post](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html) on the digital data collection sector. In 2017, we're delving deeper into this growing sub-field of ICT4D with interviews, technology reviews, and guest posts. We’re kicking things off with a piece from our friends at [Findyr](https://www.findyr.com/) who specialize in gathering insights from emerging markets using mobile-enabled, trained data collectors from the field. [Kelsey Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/) is a Business Development Associate at Findyr.*
