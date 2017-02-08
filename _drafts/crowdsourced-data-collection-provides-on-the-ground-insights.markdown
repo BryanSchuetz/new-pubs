@@ -40,3 +40,5 @@ In addition to being a cost-effective means of accurate data collection, crowdso
 * Getting the jump on data collection in emerging markets
 * Minimizing travel time while still collecting data that can only be obtained in person
 * Services like Findyr collect hyper local data that is GPS-tracked and time/date stamped
+
+As the ‘crowd’ becomes more digitally connected and literate, even in the poorest emerging markets,  crowdsourced technology tools allow us to collect data more quickly and cheaply than ever before. But most importantly, it allows this crowd to play a central role in our development  decision-making, ensuring that it is rooted in the realities and needs of the people we serve.  
