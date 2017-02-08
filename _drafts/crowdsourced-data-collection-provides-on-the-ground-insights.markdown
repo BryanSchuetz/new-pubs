@@ -35,13 +35,8 @@ In the last few years, a number of technology-based crowdsourced data collection
 In addition to being a cost-effective means of accurate data collection, crowdsourced data collection offers several additional advantages and benefits, including:
 
 * Easily gain insight into specific local markets, including cities and neighborhoods, with near real-time information
-
 * Access to accurate data for marketing projects, strategies, and case studies
-
 * Verified data, to assist in managing risk and confirming events in locations all around the globe
-
 * Getting the jump on data collection in emerging markets
-
 * Minimizing travel time while still collecting data that can only be obtained in person
-
 * Services like Findyr collect hyper local data that is GPS-tracked and time/date stamped
