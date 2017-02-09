@@ -1,6 +1,6 @@
 ---
 title: Crowdsourced Data Collection Provides On-the-Ground Insights
-date: 2017-02-06 10:35:00 -05:00
+date: 2017-02-09 08:35:00 -05:00
 tags:
 - data
 Author: "[Kelsey Stern Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/)"
