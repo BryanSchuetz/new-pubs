@@ -60,6 +60,7 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 ## Relevance
 
-While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech use patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the upcoming years.
+Chatbots are a rapidly growing medium as companies, governments, CSOs, and businesses realize the opportunity they present. Meanwhile, citizens/customers/constituents are become more comfortable communicating with artificial intelligence. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/
+) for their overseas audiences.
 
-Chatbots are a rapidly growing medium as companies, governments, CSOs, and businesses realize the opportunity, and citizens/customers/constituents become more comfortable communicating with artificial intelligence.
+While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech use patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the upcoming years.
