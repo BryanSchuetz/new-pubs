@@ -9,7 +9,7 @@ I've been excited about using chatbots in our work since Facebook's [F8](https:/
 
 > [What is a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
-Why is this a big deal for international development? The answer to that question is one of the key takeaways of our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html): that Facebook and FB Messenger are hugely popular in the places we work, and among the people with whom we work. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was *95%*. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If our projects want to reach people with messages and services, we have to meet them where they already are: on Facebook. 
+Our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html) has shown that Facebook and FB Messenger are hugely popular in the places DAI works. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was **95%**. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If our projects want to reach people with messages and services, we have to meet them where they already are: on Facebook. 
 
 ![pixabey.PNG](/uploads/pixabey.PNG)
 
@@ -52,4 +52,6 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 ## Relevance
 
-While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech usage patterns and easy to design and update--that will likely dominate mobile development in upcoming years. 
+While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech use patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the upcoming years. 
+
+Chatbots are a rapidly growing medium as companies, governments, CSOs, and businesses realize the opportunity, and citizens/customers/constituents become more comfortable communicating with artificial intelligence.
