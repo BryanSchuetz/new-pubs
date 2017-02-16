@@ -66,4 +66,4 @@ Chatbots are a rapidly growing medium as companies, governments, CSOs, and busin
 
 While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech use patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the upcoming years.
 
-*Got an idea for a cool chatbot? Let us know on Twitter or Facebook*
+*Got an idea for a cool chatbot? Let us know on [Twitter](http://www.twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
