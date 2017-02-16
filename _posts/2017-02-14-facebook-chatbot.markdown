@@ -20,7 +20,7 @@ Our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights
 
 ## Why Chatbots?
 
-Chatbots present distinct advantages as an outreach and engagement tool:
+Chatbots present some distinct advantages as an outreach and engagement tool:
 
 1. As users move [from traditional broadcast social media to private messaging apps](http://www.businessinsider.com/the-messaging-app-report-2015-11), the challenge for the Facebooks of the world (OK, there's only one) is how to stay relevant in a Snapchat world. Facebook's answer, as of April 2014, was to grandfather Messenger in as a replacement to the traditional Facebook private messaging function on mobile phones, pushing users to download Messenger or miss messages. The result is that *a* *lot* of people got Messenger on their phones: more than a billion, in fact. Only WhatsApp rivals Messenger in terms of global uptake (Coincidentally, WhatsApp is also owned by Facebook).
 
@@ -38,9 +38,7 @@ Today, a year later, the situation is very different. [Chatfuel](http://www.chat
 
 ## Siti, Job Search Bot for Indonesia
 
-So what did I build? This chatbot uses natural language (OK it's English, not Bahasa) to make it easy for for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/) for jobs. It allows the user to enter a location and job type, which it turns into a Google query of the above-mentioned job sites. It presents the results in a
-
-Check it out:
+So what did I build? This chatbot uses natural language (OK it's English, not Bahasa) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/). It asks the user to enter a location and job interest, which it turns into a Google query of the above-mentioned job sites. It presents the results in order as a gallery of clickable sliders, which take the user directly to the job listing. Check it out:
 
 ## [Test Siti Live](https://www.messenger.com/t/1276881939061378)
 
@@ -63,7 +61,7 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 ## Relevance to ICT4D
 
-Chatbots are a rapidly growing medium as companies, governments, civil society organizations, and businesses realize the opportunity they present. Meanwhile, citizens/customers/constituents are become more comfortable communicating with artificial intelligence. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/) for their overseas audiences.
+Chatbots are a rapidly growing medium as companies, governments, civil society organizations, and businesses come to understand the their potential. Meanwhile, citizens/customers/constituents are becoming more comfortable communicating with the concept of chatbots through Facebook's active efforts to promote successful bots. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/) for their overseas audiences.
 
 While Siti is simplistic, it's a useful minimum viable product for the type of innovations—grounded in local tech use patterns and easy to design and update—that will likely dominate the nexus of technology and international development during the upcoming years.
 
