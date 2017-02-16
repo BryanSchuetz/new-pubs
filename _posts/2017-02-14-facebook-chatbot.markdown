@@ -9,31 +9,31 @@ I've been excited about using chatbots in our work since Facebook's [F8](https:/
 
 > [What's a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
-Why is this a big deal for international development? The answer to that question has been one of the key takeaways of our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html): that Facebook and Messenger are hugely popular in the places we work and among the people that we support. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was *95%*. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If our projects want to reach people with messages and services, we have to meet them where they already are: on Facebook. 
+Why is this a big deal for international development? The answer to that question is one of the key takeaways of our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html): that Facebook and Messenger are hugely popular in the places we work and among the people that we support. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was *95%*. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If our projects want to reach people with messages and services, we have to meet them where they already are: on Facebook. 
 
-Chatbots present an additional advantage as an outreach tool: they're generally lower bandwidth than loading a typical web page on your phone, and mobile data is expensive! According to [A4AI's 2015 Internet Affordability Report](http://a4ai.org/affordability-report/report/2015/#the_affordability_drivers_index_(adi)), people in some countries pay upwards of 40% of their income for mobile access! Every MB counts! 
+## Why Chatbots? 
+Chatbots present a few advantage as an outreach and engagement tool: 
 
-During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html), but it's Facebook Messenger, with more than a billion users around the world, that presents the most opportunities to connect. Immediately after the F8 announcement, I looked for an FB Messenger chatbot builder with a simple user interface and easy integration with Facebook, but quickly realized that the options available at the time still required some knowledge of code. This immediately excluded me, 
+1. As users move from traditional, broadcast social media to private messaging apps, the challenge for the Facebooks of the world has been how to stay relevant in what seems more-and-more like Snapchat's world. Facebook's answer, as of April 2014, was to grandfather Messenger in as a replacement to the typical Facebook private messaging function, pushing users to download Messenger or miss their messages. The result is that a *lot* of people got Facebook Messenger on their phones: over a billion, in fact. Only WhatsApp rivals Messenger in terms of global uptake. (Coincidentally, WhatsApp is also Facebook-owned).
 
+2. Chatbots generally require less bandwidth than loading a typical web page on your phone, and mobile data is expensive! According to [A4AI's 2015 Internet Affordability Report](http://a4ai.org/affordability-report/report/2015/#the_affordability_drivers_index_(adi)), people in some countries pay upwards of 40% of their income for mobile access! Every MB counts! Lighter data usage means that people can more cheaply, 
 
+3. If they're well designed, they can be a more intuitive form of interaction than a web page. From the perspective of a citizen, it's probably easier to chat in your native language with the municipality's chatbot to report a downed telephone pole than it is to visit the municipality, call, or email. From the perspective of a busy municipality, a chatbot would help answer citizens' questions and free up staff to focus on their work. 
 
+## Building the bot
+During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html). Immediately after the F8 announcement, I looked for an FB Messenger chatbot builder with a simple, graphical user interface and easy integration with Facebook. I quickly realized that the options available at the time required some knowledge of code. Needless to say, I didn't have that knowledge. 
 
-##Siti, your personal recruiter
+Today, the situation is somewhat different. My interest and excitement to design a Facebook chatbot for development was again stoked by an email from a Social Media Examiner, simply entitled [How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/). The article mentioned a number of purportedly functioning graphical user interface- (GUI) based options for designing including [Chatfuel](http://www.chatfuel.com), [https://botsify.com/], and [OnSequal](https://www.onsequel.com/). I chose Chatfuel because the tutorial presented in Social Media Examiner used Chatfuel, but I will eventually try the other two to have a comparison. 
 
-My chatbot is a job search assistant that 
+##Siti, Indonesia-based recruiter
+
+So what did I build and how did I do it? My chatbot is a job search assistant for Indonesians, based on 
+
+You can check it out here: 
+
+![Screenshot_20170216-005533.png](/uploads/Screenshot_20170216-005533.png)
 
 https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.ruim93qji
 
 https://www.messenger.com/t/1276881939061378
-
-
-Background on FB chatbots
--900 million+ using FB Messenger
--Pushing chatbots for commerce--
-
-Chatbot for Workforce Dev
--What should it do?
--What did I do? 
-
-Liveblogging it
 
