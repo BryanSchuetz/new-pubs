@@ -8,7 +8,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-I've been excited about using chatbots in our work since Facebook's F8(https://www.fbf8.com/) Developer conference back in April of 2016, when they announced that [Messenger would support chatbots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
+I've been excited about using chatbots in our work since Facebook's F8 Developer conference back in April 2016, when they announced that [Messenger would begin to support chatbots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
 
 > [What is a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
