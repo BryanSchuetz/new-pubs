@@ -5,20 +5,13 @@ published: false
 Author: Adam Fivenson
 ---
 
-I've been excited about using chatbots for development since April 16th, 2016. That day, at their at [F8](https://www.fbf8.com/) Facebook Developer Conference 2016, Facebook announced that [Messenger would support chatbots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
+I've been excited about using chatbots in our work since Facebook's [F8](https://www.fbf8.com/) Developer conference back in April of 2016, when they announced that [Messenger would support chatbots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
 
 > [What's a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
-Why is this a big deal for international development? The answer to that question has been one of the key takeaways of our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html): Facebook and Messenger are hugely popular in the places we work and among the people that we support. If we want to reach them with messaging and services, we have to meet them where they already are. 
+Why is this a big deal for international development? The answer to that question has been one of the key takeaways of our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html): that Facebook and Messenger are hugely popular in the places we work and among the people that we support. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was *95%*. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If our projects want to reach them with messaging and services, we have to meet them where they already are: on Facebook. 
 
-They love these platforms for the same reasons we do: they help to connect people with their distant friends and loved ones more consistently, more vividly, and more easily than the telephone, email, 
-
-Messenger, in particular 
-
-Chatbots an advantage because they're most likely lower bandwidth than loading an entire web page, and in the places where we work, every MB counts because unlimited data plans are extremely expensive. 
-
-
-  and they're convenient because they operate on technology people are more and more likely to have in hand (a smartphone) and tend to cost less bandwidth than browsing a typical web page. That's an important consideration when you're spending upwards of 
+Chatbots present an additional advantage as an outreach tool: they're generally lower bandwidth than loading a typical web page on your phone, and mobile data is expensive! According to (A4AI's 2015 Internet Affordability report](http://a4ai.org/affordability-report/report/2015/#the_affordability_drivers_index_(adi)), people in some countries pay upwards of 40% of their income 40% of your income for mobile access! Every MB counts!
 
 
 My chatbot is a job search assistant that 
