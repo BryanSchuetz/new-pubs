@@ -25,15 +25,14 @@ During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-
 
 Today, the situation is somewhat different. My interest and excitement to design a Facebook chatbot for development was again stoked by an email from a Social Media Examiner, simply entitled [How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/). The article mentioned a number of purportedly functioning graphical user interface- (GUI) based options for designing including [Chatfuel](http://www.chatfuel.com), [https://botsify.com/], and [OnSequal](https://www.onsequel.com/). I chose Chatfuel because the tutorial presented in Social Media Examiner used Chatfuel, but I will eventually try the other two to have a comparison. 
 
-##Siti, Indonesia-based recruiter
+##Siti, Job search bot for Indonesia
 
-So what did I build and how did I do it? My chatbot is a job search assistant for Indonesians, based on 
+So what did I build? This chatbot is a job search assistant for Indonesians, based on three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/). It allows the user to enter 
 
-You can check it out here: 
+Check it out:
+
+##[Siti](https://www.messenger.com/t/1276881939061378)
 
 ![Screenshot_20170216-005533.png](/uploads/Screenshot_20170216-005533.png)
 
-https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.ruim93qji
-
-https://www.messenger.com/t/1276881939061378
-
+How did I do it? It was surprisingly easy. 
