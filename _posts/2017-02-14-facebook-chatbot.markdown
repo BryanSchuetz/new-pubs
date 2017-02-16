@@ -39,10 +39,9 @@ Today, a year later, the situation is very different. [Chatfuel](http://www.chat
 ## Siti, Job Search Bot for Indonesia
 
 So what did I build? This chatbot uses natural language (OK it's English, not Bahasa) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/). It asks the user to enter a location and job interest, which it turns into a Google query of the above-mentioned job sites. It presents the results in order as a gallery of clickable sliders, which take the user directly to the job listing. Check it out:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 ## [Test Siti Live](https://www.messenger.com/t/1276881939061378)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 1. I linked \[Chatfuel\](http://www.chatfuel.com\] to my Facebook account.
