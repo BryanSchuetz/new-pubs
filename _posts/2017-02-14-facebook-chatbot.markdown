@@ -10,11 +10,10 @@ Author: Adam Fivenson
 
 I've been excited about using chatbots in our work since Facebook's F8 Developer conference back in April 2016, when they announced that [Messenger would beginsupport chatbots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
 
+![pixabey.PNG](/uploads/pixabey.PNG)
 > [What is a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
 Our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html) has shown that Facebook and FB Messenger are hugely popular in the places DAI works. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was **95%**. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If DAI-implemented projects want to reach people with messages and services, we must meet people where they already are: on Facebook (no, not exclusively and not always). Failing to do so when on-the-ground evidence shows it to be popular would be a major missed opportunity.
-
-![pixabey.PNG](/uploads/pixabey.PNG)
 
 <!--more-->
 
