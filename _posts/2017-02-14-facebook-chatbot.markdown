@@ -20,7 +20,7 @@ Our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-wh
 
 ## Why Chatbots?
 
-Chatbots present a number of distinct advantage as an outreach and engagement tool:
+Chatbots present a number of distinct advantages as an outreach and engagement tool:
 
 1. As users move from traditional, broadcast social media to private messaging apps, the challenge for the Facebooks of the world (OK, there's only one) is how to stay relevant in a Snapchat world. Facebook's answer, as of April 2014, was to grandfather Messenger in as a replacement to the traditional Facebook private messaging function on mobile phones, pushing users to download Messenger or miss their messages. The result is that a *lot* of people got Facebook Messenger on their phones: over a billion, in fact. Only WhatsApp rivals Messenger in terms of global uptake. (Coincidentally, WhatsApp is also Facebook-owned).
 
