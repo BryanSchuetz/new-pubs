@@ -45,9 +45,10 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 1. I linked [Chatfuel](http://www.chatfuel.com] to my Facebook account. 
 2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. 
-3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. 
-4. Then I did a little Google research to figure out which job sites were most popular in Indonesia
-5. 
+3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/).
+4. I checked Google to figure out which job sites were most popular in Indonesia
+5. I categorized the jobs and and selected the most popular locations based on what I found on the job sites. This became the job and location taxonomies, as they're presented in the app. I chose to provide categories instead of just leaving those questions open because I wanted popular searches to be easily replicable. I also wanted to ensure that the appropriate syntax was used so that the Google search resulting from the choices would be 
+6. 
 
 To do
 Present links to the job sites themselves to searchers can browse
