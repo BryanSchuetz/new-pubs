@@ -34,7 +34,7 @@ Chatbots present a number of distinct advantages as an outreach and engagement t
 
 During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html). Immediately after the F8 announcement, I looked for a way to build an FB Messenger chatbot via a simple, graphical user interface (GUI) and easy integration with Facebook. I soon realized that the options available at that time still required some coding ability. Lacking that, I was out of luck.
 
-Today, a year later, the situation is very different. [Chatfuel](http://www.chatfuel.com), [Botsify](https://botsify.com/), and [OnSequal](https://www.onsequel.com/) among others all make the process very simple for the code-challenged, as a recent posting in Social Media Examiner--[How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/)--showed. I chose Chatfuel because the tutorial in Social Media Examiner used Chatfuel, but I will eventually try the other two so I can compare.
+Today, a year later, the situation is very different. [Chatfuel](http://www.chatfuel.com), [Botsify](https://botsify.com/), and [OnSequal](https://www.onsequel.com/) among others, all make the process very simple for the code-challenged, as a recent posting in Social Media Examiner--[How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/)--showed. I chose Chatfuel because the tutorial in Social Media Examiner used Chatfuel, but I will eventually try the other two so I can compare.
 
 ## Siti, job search bot for Indonesia
 
