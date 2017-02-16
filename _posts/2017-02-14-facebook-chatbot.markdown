@@ -38,7 +38,7 @@ Today, a year later, the situation is very different. [Chatfuel](http://www.chat
 
 ## Siti, job search bot for Indonesia
 
-So what did I build? This chatbot uses natural language (OK it's English, not Bahasa) to make it easy for for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/) for jobs. It allows the user to enter a location and job type, which it turns into a Google querey of the above-mentioned job sites. It presents the results in a
+So what did I build? This chatbot uses natural language (OK it's English, not Bahasa) to make it easy for for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/) for jobs. It allows the user to enter a location and job type, which it turns into a Google querey of the above-mentioned job sites. It presents the results in a
 
 Check it out:
 
