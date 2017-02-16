@@ -52,7 +52,7 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/). It's a very easy system to learn once you start to play around a bit.
 
-4. I checked Google to figure out which job sites were most popular in Indonesia
+4. I checked Google to figure out which job sites were most popular in Indonesia and built them into my search engine (see step 7).
 
 5. I categorized the jobs and and selected the most popular locations based on what I found on the job sites. This became the job and location taxonomies, as they're presented in the app. I chose to provide categories instead of just leaving those questions open because I wanted popular searches to be easily replicable. I also wanted to ensure that the options' syntax (which becomes the Google search string) was consistent to what the job pages I included used.
 
