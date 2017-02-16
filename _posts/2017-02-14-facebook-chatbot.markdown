@@ -37,8 +37,7 @@ So what did I build? This chatbot uses natural language (OK it's English, not Bh
 
 Check it out:
 
-## [Siti](https://www.messenger.com/t/1276881939061378)
-
+## [Siti (direct link)](https://www.messenger.com/t/1276881939061378)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 
 How did I make Siti? It was surprisingly easy for a non-coder like myself. 
