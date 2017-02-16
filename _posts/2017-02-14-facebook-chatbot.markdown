@@ -31,7 +31,7 @@ During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-
 
 Today, a year later, the situation is very different. [Chatfuel](http://www.chatfuel.com), [Botsify](https://botsify.com/), and [OnSequal](https://www.onsequel.com/) among others all make the process very simple for the code-challenged, as a recent posting in Social Media Examiner--[How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/)--showed. I chose Chatfuel because the tutorial in Social Media Examiner used Chatfuel, but I will eventually try the other two so I can compare. 
 
-## Siti, Job search bot for Indonesia
+## Siti, job search bot for Indonesia
 
 So what did I build? This chatbot uses natural language (OK it's English, not Bhasa) to make it easy for for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/) for jobs. It allows the user to enter a location and job type, which it turns into a Google querey of the above-mentioned job sites. It presents the results in a 
 
@@ -39,7 +39,7 @@ Check it out:
 
 ## [Siti](https://www.messenger.com/t/1276881939061378)
 
-![Screenshot_20170216-005533.png](/uploads/Screenshot_20170216-005533.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 
 How did I do it? It was surprisingly easy for a non-coder like myself. In short, I followed 
 
