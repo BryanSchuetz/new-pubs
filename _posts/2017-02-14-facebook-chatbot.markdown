@@ -41,7 +41,7 @@ Check it out:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 
-How did I do it? It was surprisingly easy for a non-coder like myself. In short, I followed 
+How did I make Siti? It was surprisingly easy for a non-coder like myself. 
 
 1. I linked [Chatfuel](http://www.chatfuel.com] to my Facebook account. 
 2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. 
