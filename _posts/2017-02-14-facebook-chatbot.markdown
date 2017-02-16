@@ -27,7 +27,7 @@ Today, the situation is somewhat different. My interest and excitement to design
 
 ##Siti, Job search bot for Indonesia
 
-So what did I build? This chatbot is a job search assistant for Indonesians, based on three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/). It allows the user to enter 
+So what did I build? This chatbot is a job search assistant for Indonesians, based on three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/). It allows the user to choose or enter a location and job type, which it uses to perform a Google search of the above-mentioned job sites. 
 
 Check it out:
 
@@ -36,3 +36,8 @@ Check it out:
 ![Screenshot_20170216-005533.png](/uploads/Screenshot_20170216-005533.png)
 
 How did I do it? It was surprisingly easy. 
+
+
+To do
+Present links to the job sites themselves to searchers can browse
+Add links for training and 
