@@ -20,7 +20,7 @@ Chatbots present a number of distinct advantage as an outreach and engagement to
 
 1. As users move from traditional, broadcast social media to private messaging apps, the challenge for the Facebooks of the world (OK, there's only one) is how to stay relevant in a Snapchat world. Facebook's answer, as of April 2014, was to grandfather Messenger in as a replacement to the traditional Facebook private messaging function on mobile phones, pushing users to download Messenger or miss their messages. The result is that a *lot* of people got Facebook Messenger on their phones: over a billion, in fact. Only WhatsApp rivals Messenger in terms of global uptake. (Coincidentally, WhatsApp is also Facebook-owned). 
 
-2. As many app-makers have discovered, the need to download and install apps is a barrier to entry for many people who don't have the technical capability to do so (maybe their phone came pre-loaded with Facebook and Whatsapp, as it does in many places), access to mobile data, or storage space on the hard drive. Beyond Messenger itself, chatbots require no additional download.
+2. As many app-makers have discovered, the need to download and install apps is a barrier to entry for many people who don't have the technical capability to do so (maybe their phone came pre-loaded with Facebook and Whatsapp, as it does in many places), access to mobile data, or storage space on the hard drive. As The Economist points out, Beyond Messenger itself, chatbots require no additional download. 
 
 3. Chatbots generally require less bandwidth than loading a typical web page on your phone, and mobile data is expensive! According to [A4AI's 2015 Internet Affordability Report](http://a4ai.org/affordability-report/report/2015/#the_affordability_drivers_index_(adi)), people in some countries pay upwards of 40% of their income for mobile access! Every MB counts! Lighter data usage lowers the cost of finding critical health information, ordering goods, or  
 
@@ -45,11 +45,13 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 1. I linked [Chatfuel](http://www.chatfuel.com] to my Facebook account. 
 2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. 
-3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/).
+3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/). It's a very easy system to learn once you start to play around a bit.
 4. I checked Google to figure out which job sites were most popular in Indonesia
-5. I categorized the jobs and and selected the most popular locations based on what I found on the job sites. This became the job and location taxonomies, as they're presented in the app. I chose to provide categories instead of just leaving those questions open because I wanted popular searches to be easily replicable. I also wanted to ensure that the appropriate syntax was used so that the Google search resulting from the choices would be 
-6. 
+5. I categorized the jobs and and selected the most popular locations based on what I found on the job sites. This became the job and location taxonomies, as they're presented in the app. I chose to provide categories instead of just leaving those questions open because I wanted popular searches to be easily replicable. I also wanted to ensure that the options' syntax (which becomes the Google search string) was consistent to what the job pages I included used. 
+6. The most difficult part was setting up the Google search function within the chatbot. But, once again Chatfuel provided an [excellent tutorial](https://help.chatfuel.com/facebook-messenger/plugins/google-search/) on how to handle it. 
+7. Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results. 
 
-To do
-Present links to the job sites themselves to searchers can browse
-Add links for training and 
+## Relevance
+
+While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech--
+
