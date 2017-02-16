@@ -41,12 +41,13 @@ Check it out:
 
 ![Screenshot_20170216-005533.png](/uploads/Screenshot_20170216-005533.png)
 
-How did I do it? It was surprisingly easy for a non-coder like myself. 
+How did I do it? It was surprisingly easy for a non-coder like myself. In short, I followed 
 
 1. I linked [Chatfuel](http://www.chatfuel.com] to my Facebook account. 
 2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. 
-3. Then I did a little Google research to figure out which job sites were most popular 
-
+3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. 
+4. Then I did a little Google research to figure out which job sites were most popular in Indonesia
+5. 
 
 To do
 Present links to the job sites themselves to searchers can browse
