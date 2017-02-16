@@ -7,7 +7,7 @@ Author: Adam Fivenson
 
 I've been excited about using chatbots for development ever since Facebook announced that [Messenger would support them](https://techcrunch.com/2016/04/12/agents-on-messenger/) at [F8](https://www.fbf8.com/) 2016. 
 
->[What's a chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
+>[What's a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
 Why? One of the key takeaways from our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html] and [elsewhere](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html) is this: Facebook is hugely popular, and people are using it for everything. 
 
