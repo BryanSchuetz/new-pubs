@@ -13,7 +13,7 @@ I've been excited about using chatbots in our work since Facebook's F8 Developer
 ![pixabey.PNG](/uploads/pixabey.PNG)
 > [What is a Facebook chatbot?](https://blog.hubspot.com/marketing/facebook-bots-guide)
 
-Our [Digital Insights work in Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html) has shown that Facebook and FB Messenger are hugely popular in the places DAI works. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was **95%**. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If DAI-implemented projects want to reach people with messages and services, we must meet people where they already are: on Facebook (no, not exclusively and not always). Failing to do so when on-the-ground evidence shows it to be popular would be a major missed opportunity.
+Our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in [Indonesia](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), [Honduras](https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html), and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html) has shown that Facebook and FB Messenger are hugely popular in the places DAI works. In Indonesia, 77% of the people we interviewed said they used Facebook on their phone; in Palestine the number was **95%**. In Honduras, 80% of our respondents across urban and rural areas said they were Facebook users. If DAI-implemented projects want to reach people with messages and services, we must meet people where they already are: on Facebook (and no, not exclusively and not always - if you read our [Indonesia post](https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html), you'll find out a surprising fact about which messaging app is king there (bet you can't guess!). Failing to meet users where they are - in this case, on Facebook - when on-the-ground evidence shows it to be popular would be a major missed opportunity.
 
 <!--more-->
 
@@ -59,7 +59,7 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 7. Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results.
 
-## Relevance
+## Relevance to ICT4D
 
 Chatbots are a rapidly growing medium as companies, governments, CSOs, and businesses realize the opportunity they present. Meanwhile, citizens/customers/constituents are become more comfortable communicating with artificial intelligence. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/
 ) for their overseas audiences.
