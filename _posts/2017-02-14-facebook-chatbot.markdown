@@ -29,13 +29,11 @@ Chatbots present a number of distinct advantage as an outreach and engagement to
 ## Building a bot
 During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html). Immediately after the F8 announcement, I looked for an FB Messenger chatbot builder with a simple, graphical user interface (GUI) and easy integration with Facebook. I quickly realized that the options available at the time still required some coding ability. Lacking that, I was out of luck. 
 
-Today, a year later, the situation is different. There are many good 
-
-My interest and excitement to design a Facebook chatbot for development was again stoked by an email from a Social Media Examiner, simply entitled [How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/). The article mentioned a number of purportedly functioning GUI-based options for designing including [Chatfuel](http://www.chatfuel.com), [https://botsify.com/], and [OnSequal](https://www.onsequel.com/). I chose Chatfuel because the tutorial presented in Social Media Examiner used Chatfuel, but I will eventually try the other two to have a comparison. 
+Today, a year later, the situation is very different. [Chatfuel](http://www.chatfuel.com), [Botsify](https://botsify.com/), and [OnSequal](https://www.onsequel.com/) among others all make the process very simple for the code-challenged, as a recent posting in Social Media Examiner--[How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/)--showed. I chose Chatfuel because the tutorial in Social Media Examiner used Chatfuel, but I will eventually try the other two so I can compare. 
 
 ##Siti, Job search bot for Indonesia
 
-So what did I build? This chatbot is a job search assistant for Indonesians, based on three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/). It allows the user to choose or enter a location and job type, which it uses to perform a Google search of the above-mentioned job sites. 
+So what did I build? This chatbot uses natural language (OK it's English, not Bhasa) to make it easy for for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), [Jobs in Jakarta](http://www.jobsinjakarta), and [JobRank](http://www.jobrank.org/id/) for jobs. It allows the user to enter a location and job type, which it turns into a Google querey of the above-mentioned job sites. It presents the results in a 
 
 Check it out:
 
@@ -45,9 +43,9 @@ Check it out:
 
 How did I do it? It was surprisingly easy for a non-coder like myself. 
 
-1. I linked Chatfuel to my Facebook account. 
-2. Then I made a Facebook page for my chatbot. 
-3. Then I 
+1. I linked [Chatfuel](http://www.chatfuel.com] to my Facebook account. 
+2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. 
+3. Then I did a little Google research to figure out which job sites were most popular 
 
 
 To do
