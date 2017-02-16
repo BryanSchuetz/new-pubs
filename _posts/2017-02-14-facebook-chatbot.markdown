@@ -1,5 +1,5 @@
 ---
-title: I made a Facebook chatbot (and you can too)
+title: I Made a Facebook Chatbot (And You Can, Too!)
 date: 2017-02-14 14:46:00 -05:00
 published: false
 tags:
