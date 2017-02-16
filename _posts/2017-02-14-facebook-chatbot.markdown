@@ -27,7 +27,6 @@ Chatbots present a number of distinct advantage as an outreach and engagement to
 4. If they're well designed, they can be a more intuitive form of interaction than a web page. From the perspective of a citizen, it's probably easier to chat in your native language with the municipality's chatbot to report a downed telephone pole than it is to visit the municipality, call, or email. From the perspective of a busy municipality, a chatbot would help answer citizens' questions and free up staff to focus on their work. 
 
 ## Building a bot
-
 During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html). Immediately after the F8 announcement, I looked for an FB Messenger chatbot builder with a simple, graphical user interface (GUI) and easy integration with Facebook. I quickly realized that the options available at the time still required some coding ability. Lacking that, I was out of luck. 
 
 Today, a year later, the situation is very different. [Chatfuel](http://www.chatfuel.com), [Botsify](https://botsify.com/), and [OnSequal](https://www.onsequel.com/) among others all make the process very simple for the code-challenged, as a recent posting in Social Media Examiner--[How to Create Facebook Messenger Chatbots](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/)--showed. I chose Chatfuel because the tutorial in Social Media Examiner used Chatfuel, but I will eventually try the other two so I can compare. 
