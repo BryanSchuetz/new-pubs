@@ -47,7 +47,7 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot.
 
-3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/). The [Social Media Examiner](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/) article I posted above was also a useful guide. It's a relatively easy system to learn once you start to play around a bit.
+3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have [tutorials](https://help.chatfuel.com/facebook-messenger/) that walk you through the process step-by-step. It's a relatively easy system to learn once you start to play around a bit.
 
 4. I checked Google to figure out which job sites were most popular in Indonesia and built them into my search engine (see step 7).
 
