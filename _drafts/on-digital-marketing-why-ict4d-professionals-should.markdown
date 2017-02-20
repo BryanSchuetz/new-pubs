@@ -25,4 +25,4 @@ ICT4D professionals, and the development sector more generally, need to collapse
 
 5. [Razor Social](http://www.razorsocial.com/blog/): Well-known blog with great tips and tricks, tool reviews, and even tutorials.
 
-And because you’ve read this far, don’t miss this [excellent blog post](http://rebekahradice.com/social-media-strategy-ideas/)on truly best-in-class social media strategies to generate results. Happy reading!
+And because you’ve read this far, don’t miss this [excellent blog post ](http://rebekahradice.com/social-media-strategy-ideas/)on truly best-in-class social media strategies to generate results. Happy reading!
