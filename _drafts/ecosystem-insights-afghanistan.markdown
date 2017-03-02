@@ -1,7 +1,7 @@
 ---
 title: 'Ecosystem Insights: How Trade Associations in Rural Afghanistan use Mobile
   Tech'
-date: 2017-02-03 16:08:00 -05:00
+date: 2017-03-02 08:08:00 -05:00
 tags:
 - Ecosystem Insights
 - Economic Growth
