@@ -19,13 +19,13 @@ So, what did we learn?
 
 ## Young urban Bangladeshis are incredibly well-connected, digitally speaking
 
-[Image 2.tif](/uploads/Image%202.tif)
+[Image 2.JPG](/uploads/Image%202.JPG)
 
 As these statistics show, our sample revealed high levels of digital access among young Bangladeshis. Interestingly, these statistics remained consistent across genders and across different education and employment groups. As with other markets we’ve studied, the 3G data/ smartphone boom is largely responsible for this level of digital penetration. 
 
 ## Facebook and Facebook Messenger dominate this market
 
-[Image 3.PNG](/uploads/Image%203.PNG)
+[Image 3a.JPG](/uploads/Image%203a.JPG)
 
 Not only are Facebook and Facebook Messenger incredibly popular, but they easily outdo their competition in Bangladesh.  For example, in contrast to Facebook Messenger, only 61% of smartphone users reported using Whatsapp, and they only communicate with an average of 9 people on that platform per week. Only 42% reported using Viber, and 32% use Imo. 
 
@@ -43,7 +43,7 @@ We asked respondents what they did during their time on Facebook.  As expected, 
 While it was clear that Facebook dominates the digital market, it was also clear that digital tools haven’t replaced phone calls as the main means of communication. We asked our respondents how they keep in touch with friends, and almost 2:1, they mentioned phone calls over messaging apps. When talking to family, that ratio went up to 4:1. 
 
 ![Image 5.PNG](/uploads/Image%205.PNG)
-`How do you keep in touch with your friends?1
+`How do you keep in touch with your friends?`
 
 ![Image 6.PNG](/uploads/Image%206.PNG)
 `How do you keep in touch with your family?`
@@ -53,7 +53,7 @@ While it was clear that Facebook dominates the digital market, it was also clear
 When asked about their primary sources of international news, respondents overwhelmingly cited social networks as their main source of information. However, when we asked them an open-ended question about the source they trusted the most, they mentioned BBC (33 mentions) and CNN (19 mentions). In domestic news, the balance shifted slightly away from social networks in favor of print and TV media. 
 
 ![Image 7.PNG](/uploads/Image%207.PNG)
-'Sources of international news`
+`Sources of international news`
 
 ![Image 8.PNG](/uploads/Image%208.PNG)
 `Sources of Bangladeshi news`
