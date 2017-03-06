@@ -19,13 +19,13 @@ So, what did we learn?
 
 ## Young urban Bangladeshis are incredibly well-connected, digitally speaking
 
-[Image 2.JPG](/uploads/Image%202.JPG)
+![Image 2.JPG](/uploads/Image%202.JPG)
 
 As these statistics show, our sample revealed high levels of digital access among young Bangladeshis. Interestingly, these statistics remained consistent across genders and across different education and employment groups. As with other markets we’ve studied, the 3G data/ smartphone boom is largely responsible for this level of digital penetration. 
 
 ## Facebook and Facebook Messenger dominate this market
 
-[Image 3a.JPG](/uploads/Image%203a.JPG)
+![Image 3a.JPG](/uploads/Image%203a.JPG)
 
 Not only are Facebook and Facebook Messenger incredibly popular, but they easily outdo their competition in Bangladesh.  For example, in contrast to Facebook Messenger, only 61% of smartphone users reported using Whatsapp, and they only communicate with an average of 9 people on that platform per week. Only 42% reported using Viber, and 32% use Imo. 
 
