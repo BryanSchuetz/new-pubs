@@ -23,21 +23,21 @@ So, what did we learn?
 
 ![Image 2.JPG](/uploads/Image%202.JPG)
 
-As these statistics show, our sample revealed high levels of digital access among young Bangladeshis. Interestingly, these statistics remained consistent across genders and across different education and employment groups. As with other markets we’ve studied, the 3G data/ smartphone boom is largely responsible for this level of digital penetration.
+As these statistics show, our sample revealed high levels of digital access among young Bangladeshis. Interestingly, these statistics remained consistent across genders and across different education and employment groups. As with other markets we’ve studied, the 3G data/smartphone boom is largely responsible for this level of digital penetration.
 
-## Facebook and Facebook Messenger dominate this market
+## Facebook and Facebook Messenger Dominate
 
 ![Image 3a.JPG](/uploads/Image%203a.JPG)
 
-Not only are Facebook and Facebook Messenger incredibly popular, but they easily outdo their competition in Bangladesh.  For example, in contrast to Facebook Messenger, only 61% of smartphone users reported using Whatsapp, and they only communicate with an average of 9 people on that platform per week. Only 42% reported using Viber, and 32% use Imo.
+Not only are Facebook and Messenger incredibly popular, but they easily outdo their competition in Bangladesh. For example, in contrast to Messenger, only 61 percent of smartphone users report using WhatsApp, and they only communicate with an average of nine people on that platform per week. Only 42 percent report using Viber, and 32 percent use imo.
 
 One of our respondents spoke about the speed with which information about local events spreads on Facebook: “We are very active on Facebook these days. Our neighborhood information is known faster from Facebook than from local elites or neighbors.”
 
-We asked respondents what they did during their time on Facebook.  As expected, most of their Facebook activity centered on personal updates and sharing news (each of which got over 100 mentions), but curiously enough, only 20 people mentioned that they engage in debates on Facebook. I don’t know about you, but given the way my feed has looked over the last year or so, I’m ready to follow the Bangladeshis’ lead on this one.
+We asked respondents what they do on Facebook. As expected, most of their Facebook activity centers on personal updates and sharing news (each of which got more than 100 mentions), but curiously, only 20 people mentioned that they engage in debates on Facebook. I don’t know about you, but given the way my feed has looked over the last year or so, I’m ready to follow the Bangladeshis’ lead on this one.
 
-\[On a side note for browser geeks: a number of respondents mentioned that they really liked [UC Browser](https://play.google.com/store/apps/details?id=com.UCMobile.intl&hl=en), which I found odd but interesting. On further question, I realized that UC Browser’s popularity received a bump a couple of years ago when young Bangladeshi’s discovered that it allowed them to bypass a [brief government ban on Facebook](http://www.voanews.com/a/bangladesh-lifts-ban-facebook/3097865.html).\]
+\[A side note for browser geeks: a number of respondents mentioned that they really like [UC Browser](https://play.google.com/store/apps/details?id=com.UCMobile.intl&hl=en), which I found odd, but interesting. Upon further questioning, I realized that UC Browser’s popularity received a bump a couple of years ago when young Bangladeshis discovered that it allowed them to bypass a [brief government ban on Facebook](http://www.voanews.com/a/bangladesh-lifts-ban-facebook/3097865.html).\]
 
-## Despite Facebook’s dominance, it still doesn’t replace old school phone calls
+## acebook, it still doesn’t replace old school phone calls
 
 While it was clear that Facebook dominates the digital market, it was also clear that digital tools haven’t replaced phone calls as the main means of communication. We asked our respondents how they keep in touch with friends, and almost 2:1, they mentioned phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
 
