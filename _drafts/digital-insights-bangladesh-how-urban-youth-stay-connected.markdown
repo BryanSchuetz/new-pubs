@@ -37,7 +37,7 @@ We asked respondents what they do on Facebook. As expected, most of their Facebo
 
 \[A side note for browser geeks: a number of respondents mentioned that they really like [UC Browser](https://play.google.com/store/apps/details?id=com.UCMobile.intl&hl=en), which I found odd, but interesting. Upon further questioning, I realized that UC Browser’s popularity received a bump a couple of years ago when young Bangladeshis discovered that it allowed them to bypass a [brief government ban on Facebook](http://www.voanews.com/a/bangladesh-lifts-ban-facebook/3097865.html).\]
 
-## acebook, it still doesn’t replace old school phone calls
+## Facebook Doesn’t Replace Old-School Phone Calls
 
 While it was clear that Facebook dominates the digital market, it was also clear that digital tools haven’t replaced phone calls as the main means of communication. We asked our respondents how they keep in touch with friends, and almost 2:1, they mentioned phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
 
