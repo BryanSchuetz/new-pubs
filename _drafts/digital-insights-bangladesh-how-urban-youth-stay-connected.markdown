@@ -41,20 +41,20 @@ We asked respondents what they do on Facebook. As expected, most of their Facebo
 
 While it is clear that Facebook dominates the digital market, digital tools have not replaced phone calls as the main means of communication. When we asked our respondents how they keep in touch with friends, and almost 2:1 preferred phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
 
-!![Image 5c.jpg](/uploads/Image%205c.jpg)
+![Image 5c.jpg](/uploads/Image%205c.jpg)
 `How do you keep in touch with your friends?`
 
-!![Image 6c.jpg](/uploads/Image%206c.jpg)
+![Image 6c.jpg](/uploads/Image%206c.jpg)
 `How do you keep in touch with your family?`
 
 ## ‘Old Media’ Still Most Trusted
 
 When asked about their primary sources of international news, respondents overwhelmingly cited social networks as their main source of information. However, when we asked them an open-ended question about the source they trusted the most, they mentioned BBC (33 mentions) and CNN (19 mentions). In domestic news, the balance shifted slightly away from social networks in favor of print and TV media.
 
-!![Image 7c.jpg](/uploads/Image%207c.jpg)
+![Image 7c.jpg](/uploads/Image%207c.jpg)
 `Sources of international news`
 
-!![Image 8c.jpg](/uploads/Image%208c.jpg)
+![Image 8c.jpg](/uploads/Image%208c.jpg)
 `Sources of Bangladeshi news`
 
 In sum, Bangladesh’s digital usage, like much of South Asia’s, is a great mix of old and new. There’s room for new tools, but the old way of doing things, whether phoning a friend or sitting down with the newspaper, still has a strong foothold, even among millennials. Young Bangladeshis appear to have fully embraced the brave new digital world, but they haven’t let it get the better of them. Not yet, anyway.
