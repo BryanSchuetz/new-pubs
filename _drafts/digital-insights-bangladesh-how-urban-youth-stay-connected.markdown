@@ -6,20 +6,20 @@ tags:
 Author: Anand Varghese
 ---
 
-It’s late January in Dhaka, which means I’ve managed to avoid its usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar – the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics in the city and a seasoned data collector. He and he four of his classmates are DAI’s street team for our first ever [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) study in South Asia.
+It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and he four of his classmates are DAI’s street team for our first-ever [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) study in South Asia.
 
 ![Image 1.jpg](/uploads/Image%201.jpg)
 `Digital Insights data collectors gathering information from students in Mymensingh`
 
 <!--more-->
 
-Digital Insights is in-person, ethnographic research designed to draw out meaningful insights into the media consumption habits and lives of communities around the world. As with our Indonesian Digital Insights [study](https://dai-global-digital.com/indonesia-digital-insights.html), we’re focused in this Bangladesh research on urban youth – how do they connect? What sources of information do they trust? What are their favorite apps?
+Digital Insights is in-person, ethnographic research designed to draw out meaningful insights into the media consumption habits and lives of communities around the world. As with our Indonesian Digital Insights [study](https://dai-global-digital.com/indonesia-digital-insights.html), we are focusing in this Bangladesh research on urban youth: How do they connect? What sources of information do they trust? What are their favorite apps?
 
-To answer these questions, we talked to 123 people across two urban centers – Dhaka and Mymensingh, a smaller town around 4 hours’ drive north of the capital.  We were lucky to get a fairly even male-to-female ratio of respondents. All of our respondents were between 18 and 38, with an average age of 25 (which, incidentally, isn’t far off from Bangladesh’s median age of 26.9). Given our urban focus, our sample skewed heavily towards students, working professionals and other educated categories.
+To answer these questions, we talked to 123 people in two urban centers, Dhaka, and Mymensingh, a smaller town about a four-drive drive north of the capital. We were lucky to get a fairly even male-to-female ratio of respondents. All of our respondents were between 18 and 38, with an average age of 25 (which, incidentally, isn’t far off from Bangladesh’s median age of 26.9). Given our urban focus, our sample skewed heavily towards students, working professionals, and other educated people.
 
 So, what did we learn?
 
-## Young urban Bangladeshis are incredibly well-connected, digitally speaking
+## Young Urban Bangladeshis are Incredibly Well-Connected
 
 ![Image 2.JPG](/uploads/Image%202.JPG)
 
