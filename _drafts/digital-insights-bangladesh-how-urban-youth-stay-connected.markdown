@@ -39,7 +39,7 @@ We asked respondents what they do on Facebook. As expected, most of their Facebo
 
 ## Facebook Doesn’t Replace Old-School Phone Calls
 
-While it was clear that Facebook dominates the digital market, it was also clear that digital tools haven’t replaced phone calls as the main means of communication. We asked our respondents how they keep in touch with friends, and almost 2:1, they mentioned phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
+While it is clear that Facebook dominates the digital market, digital tools have not replaced phone calls as the main means of communication. When we asked our respondents how they keep in touch with friends, and almost 2:1 preferred phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
 
 ![Image 5.PNG](/uploads/Image%205.PNG)
 `How do you keep in touch with your friends?`
@@ -47,7 +47,7 @@ While it was clear that Facebook dominates the digital market, it was also clear
 ![Image 6.PNG](/uploads/Image%206.PNG)
 `How do you keep in touch with your family?`
 
-## Social media dominates as a source of news, but ‘old media’ are still the most trusted
+## ‘Old Media’ Still Most Trusted
 
 When asked about their primary sources of international news, respondents overwhelmingly cited social networks as their main source of information. However, when we asked them an open-ended question about the source they trusted the most, they mentioned BBC (33 mentions) and CNN (19 mentions). In domestic news, the balance shifted slightly away from social networks in favor of print and TV media.
 
@@ -57,4 +57,4 @@ When asked about their primary sources of international news, respondents overwh
 ![Image 8.PNG](/uploads/Image%208.PNG)
 `Sources of Bangladeshi news`
 
-In sum, Bangladesh’s digital usage, like much of South Asia, a great mix of old and new. There’s room for new tools, but the old way of doing things, whether that’s phoning up a friend or sitting down with the newspaper, still has a strong foothold even among millennials. Young Bangladeshis appear to have fully embraced the brave new digital world, but they haven’t let it get the better of them. Not yet, anyway
+In sum, Bangladesh’s digital usage, like much of South Asia, is a great mix of old and new. There’s room for new tools, but the old way of doing things, whether that’s phoning up a friend or sitting down with the newspaper, still has a strong foothold even among millennials. Young Bangladeshis appear to have fully embraced the brave new digital world, but they haven’t let it get the better of them. Not yet, anyway
