@@ -9,7 +9,7 @@ Author: Anand Varghese
 It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and he four of his classmates are DAI’s street team for our first-ever [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) study in South Asia.
 
 ![Image 1.jpg](/uploads/Image%201.jpg)
-`Digital Insights data collectors gathering information from students in Mymensingh`
+`Digital Insights data collectors gathering information from students in Mymensingh.`
 
 <!--more-->
 
