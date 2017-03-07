@@ -57,4 +57,4 @@ When asked about their primary sources of international news, respondents overwh
 ![Image 8.PNG](/uploads/Image%208.PNG)
 `Sources of Bangladeshi news`
 
-In sum, Bangladesh’s digital usage, like much of South Asia, is a great mix of old and new. There’s room for new tools, but the old way of doing things, whether that’s phoning up a friend or sitting down with the newspaper, still has a strong foothold even among millennials. Young Bangladeshis appear to have fully embraced the brave new digital world, but they haven’t let it get the better of them. Not yet, anyway
+In sum, Bangladesh’s digital usage, like much of South Asia’s, is a great mix of old and new. There’s room for new tools, but the old way of doing things, whether phoning a friend or sitting down with the newspaper, still has a strong foothold, even among millennials. Young Bangladeshis appear to have fully embraced the brave new digital world, but they haven’t let it get the better of them. Not yet, anyway.
