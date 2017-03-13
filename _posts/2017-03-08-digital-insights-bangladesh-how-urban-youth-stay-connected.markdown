@@ -6,7 +6,7 @@ tags:
 Author: Anand Varghese
 ---
 
-It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and he four of his classmates are DAI’s street team for our first-ever [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) study in South Asia.
+It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and four of his classmates are DAI’s street team for our first-ever [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) study in South Asia.
 
 ![Image 1.jpg](/uploads/Image%201.jpg)
 `Digital Insights data collectors gathering information from students in Mymensingh.`
@@ -15,11 +15,11 @@ It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid th
 
 Digital Insights is in-person, ethnographic research designed to draw out meaningful insights into the media consumption habits and lives of communities around the world. As with our Indonesian Digital Insights [study](https://dai-global-digital.com/indonesia-digital-insights.html), we are focusing in this Bangladesh research on urban youth: How do they connect? What sources of information do they trust? What are their favorite apps?
 
-To answer these questions, we talked to 123 people in two urban centers, Dhaka, and Mymensingh, a smaller town about a four-drive drive north of the capital. We were lucky to get a fairly even male-to-female ratio of respondents. All of our respondents were between 18 and 38, with an average age of 25 (which, incidentally, isn’t far off from Bangladesh’s median age of 26.9). Given our urban focus, our sample skewed heavily towards students, working professionals, and other educated people.
+To answer these questions, we talked to 123 people in two urban centers, Dhaka, and Mymensingh, a smaller town about a four-hour drive north of the capital. We were lucky to get a fairly even male-to-female ratio of respondents. All of our respondents were between 18 and 38, with an average age of 25 (which, incidentally, isn’t far off Bangladesh’s median age of 26.9). Given our urban focus, our sample skewed heavily toward students, working professionals, and other educated people.
 
 So, what did we learn?
 
-## Young Urban Bangladeshis are Incredibly Well-Connected
+## Young Urban Bangladeshis are Incredibly Well Connected
 
 ![Image 2c.JPG](/uploads/Image%202c.JPG)
 
@@ -33,13 +33,13 @@ Not only are Facebook and Messenger incredibly popular, but they easily outdo th
 
 One of our respondents spoke about the speed with which information about local events spreads on Facebook: “We are very active on Facebook these days. Our neighborhood information is known faster from Facebook than from local elites or neighbors.”
 
-We asked respondents what they do on Facebook. As expected, most of their Facebook activity centers on personal updates and sharing news (each of which got more than 100 mentions), but curiously, only 20 people mentioned that they engage in debates on Facebook. I don’t know about you, but given the way my feed has looked over the last year or so, I’m ready to follow the Bangladeshis’ lead on this one.
+We asked respondents what they do on Facebook. As expected, most of their Facebook activity centers on personal updates and sharing news (each of which got more than 100 mentions), but, curiously, only 20 people mentioned that they engage in debates on Facebook. I don’t know about you, but given the way my feed has looked over the past year or so, I’m ready to follow the Bangladeshis’ lead on this one.
 
 \[A side note for browser geeks: a number of respondents mentioned that they really like [UC Browser](https://play.google.com/store/apps/details?id=com.UCMobile.intl&hl=en), which I found odd, but interesting. Upon further questioning, I realized that UC Browser’s popularity received a bump a couple of years ago when young Bangladeshis discovered that it allowed them to bypass a [brief government ban on Facebook](http://www.voanews.com/a/bangladesh-lifts-ban-facebook/3097865.html).\]
 
 ## Facebook Doesn’t Replace Old-School Phone Calls
 
-While it is clear that Facebook dominates the digital market, digital tools have not replaced phone calls as the main means of communication. When we asked our respondents how they keep in touch with friends, and almost 2:1 preferred phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
+While it is clear that Facebook dominates the digital market, digital tools have not replaced phone calls as the main means of communication. When we asked our respondents how they keep in touch with friends, almost 2:1 preferred phone calls over messaging apps. When talking to family, that ratio went up to 4:1.
 
 ![Image 5e.jpg](/uploads/Image%205e.jpg)
 `How do you keep in touch with your friends?`
