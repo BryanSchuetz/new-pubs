@@ -27,7 +27,7 @@ As these statistics show, our sample revealed high levels of digital access amon
 
 ## Facebook and Facebook Messenger Dominate
 
-![Image 3c.JPG](/uploads/Image%203c.JPG)
+![Image 3f.JPG](/uploads/Image%203f.JPG)
 
 Not only are Facebook and Messenger incredibly popular, but they easily outdo their competition in Bangladesh. For example, in contrast to Messenger, only 61 percent of smartphone users report using WhatsApp, and they only communicate with an average of nine people on that platform per week. Only 42 percent report using Viber, and 32 percent use imo.
 
@@ -44,7 +44,7 @@ While it is clear that Facebook dominates the digital market, digital tools have
 ![Image 5e.jpg](/uploads/Image%205e.jpg)
 `How do you keep in touch with your friends?`
 
-![Image 6e.jpg](/uploads/Image%206e.jpg)
+![Image 6f.jpg](/uploads/Image%206f.jpg)
 `How do you keep in touch with your family?`
 
 ## ‘Old Media’ Still Most Trusted
