@@ -1,6 +1,6 @@
 ---
 title: 'Jhatkaa: Tech-enabled Citizen Advocacy in India'
-date: 2017-03-09 09:32:00 -05:00
+date: 2017-03-15 09:32:00 -04:00
 tags:
 - Governance
 - Innovation
