@@ -8,6 +8,8 @@ Author: Karim Bin-Humam
 
 Well, that time of year has come and gone again – The annual [South by Southwest Interactive Music and Film Festival](https://www.sxsw.com/) with all of its thought provoking panel discussions, workshops, keynote speakers and trade fair booths talking about and demonstrating the latest gizmos, gadgets, applications and trends has come and gone – and for the second year, I was in attendance to make some sense of it all.
 
+<!--more-->
+
 With hundreds of events over the span of over a week days in multiple locations within downtown Austin, Texas, SXSW’s technology-oriented Interactive Conference can not only be a nightmare to navigate, but also presents a challenge in terms of sifting through the noise and getting a broad picture for emerging trends. Some, such as Virtual- and Augmented Reality jump right out at you through ostentatious displays, while other, tech trends such as blockchain and crytpto-currencies are less obvious.
 
 Last year we wrote a [blog post](https://dai-global-digital.com/sxsw-tech-trends-2016.html) on some of the emerging trends that we noticed while attending SXSW 2016, so this year offered me a chance to compare how these trends have progressed, which have fallen off the map, and which new ones have appeared on the scene. Here are a few key observations:
