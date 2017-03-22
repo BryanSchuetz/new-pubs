@@ -8,7 +8,7 @@ Author: Karim Bin-Humam
 
 ![download (1).png](/uploads/download%20(1).png)
 
-Well, that time of year has come and gone again – The annual [South by Southwest Interactive Music and Film Festival](https://www.sxsw.com/) with all of its thought provoking panel discussions, workshops, keynote speakers and trade fair booths talking about and demonstrating the latest gizmos, gadgets, applications and trends has come and gone – and for the second year, I was in attendance to make some sense of it all.
+Well, that time of year has come and gone again. The annual [South by Southwest Interactive Music and Film Festival](https://www.sxsw.com/) with all of its thought provoking panel discussions, workshops, keynote speakers and trade fair booths talking about and demonstrating the latest gizmos, gadgets, applications and trends has come and gone – and for the second year, I was in attendance to make some sense of it all.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ A great deal of events at SXSW in 2016 focused on how the explosion of data from
 
 ## Smart Cities – Yes, the public sector is taking a walk on the cutting edge!
 
-I noticed quite an obvious uptick of discussions, demonstrations and presentations on the growth of Smart City initiatives at SXSW this year. From a fascinating keynote on how our cars in the future will use networked technology from networked sensors around cities to reduce traffic (i.e. time and money wasted) to the Smart Cities Meetup that offered lightning talks from both public sector representatives and private sector players on new partnerships being formed around the country to use Internet of Things technology to address public resource and city management, Smart Cities were everywhere at SXSW2017. It seems that in 2017, the public sector (in particular city governments) are chomping at the bit to partner with private sector network infrastructure and application companies to bring tech and IoT, Big Data and AI to bear on pressing public sector problems. Look out for the next Smart City design competition near you! 
+I noticed quite an obvious uptick of discussions, demonstrations and presentations on the growth of Smart City initiatives at SXSW this year. From a fascinating keynote on how our cars in the future will use networked technology from networked sensors around cities to reduce traffic (i.e. time and money wasted) to the Smart Cities Meetup that offered lightning talks from both public sector representatives and private sector players on new partnerships being formed around the country to use Internet of Things technology to address public resource and city management, Smart Cities were everywhere at SXSW2017. It seems that in 2017, the public sector (in particular city governments) are chomping at the bit to partner with private sector network infrastructure and application companies to bring tech and IoT, Big Data and AI to bear on pressing public sector problems. Look out for the next Smart City design competition near you!
 
 ## The elephant has grown up, and it’s getting too big for the room.
 
@@ -31,6 +31,3 @@ Remember last year when we mentioned the tech sector has a diversity problem tha
 ## What does it all mean for us?
 
 I'm excited to see how the rapid integration of "cutting edge" tech like Artificial Intelligence and IoT in the domestic private and public spheres translates over into international development, especially for easy-to-imagine applications such as urban planning and economic development. Our Maker Lab has been integrating IoT into our projects for a few years now, in a one-off demand-driven way. Perhaps a more integrated approach is just around the (Smart City-designed) corner?
-
-
-
