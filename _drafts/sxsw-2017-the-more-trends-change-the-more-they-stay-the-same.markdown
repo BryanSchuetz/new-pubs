@@ -13,7 +13,7 @@ The annual [South by Southwest Interactive Music and Film Festival](https://www.
 With hundreds of events over the span of a week in multiple locations in downtown Austin, Texas, SXSW’s Interactive Conference can not only be a nightmare to navigate, but also presents a challenge in terms of sifting through the noise to get a broad picture of emerging trends. Some trends, such as virtual and augmented reality, jump right out at you through ostentatious displays, while others, such as closing the gender gap in tech are less obvious.
 
 ![rsz_sxsw.jpg](/uploads/rsz_sxsw.jpg)
-`Your humble DAI cohort checking out all the latest trends at SXSW 2017.`
+`Your humble DAI cohort—from left, Karim, Dipika Chawla, and Kevin Carlucci—checking out all the latest trends at SXSW 2017.`
 
 Last year we wrote a [blog post](https://dai-global-digital.com/sxsw-tech-trends-2016.html) on some of the emerging trends from SXSW 2016, so this year offered me a chance to compare how those trends fared, and which new ones have appeared on the scene. Here are a few key observations:
 
