@@ -6,8 +6,6 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-![download (1).png](/uploads/download%20(1).png)
-
 The annual [South by Southwest Interactive Music and Film Festival](https://www.sxsw.com/) with all of its thought-provoking panels, workshops, keynote speakers, and booths demonstrating the latest gizmos, gadgets, applications, and trends has come and gone—and for the second year, I was in attendance to make some sense of it all.
 
 <!--more-->
