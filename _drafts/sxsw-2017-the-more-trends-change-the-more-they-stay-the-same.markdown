@@ -30,7 +30,7 @@ I noticed quite an uptick in the number of discussions, demonstrations, and pres
 
 ## The Elephant Has Grown Up, and It’s Getting Too Big for the Room
 
-Remember last year when we mentioned the tech sector has a not-so-secret diversity problem? Well, it’s still there, and by gosh it seems like we’re reaching a point where it can no longer be swept under the rug. As we continue to increasingly understand the benefits of digital technologies, we are also continuing to learn that the digital gender divide is becoming ever more important. I took a quick scroll through a page of the scheduled programming at SXSW 2017 before going and was immediately struck by how many event headlines included terms such as “inclusion,” “diversity,” and even “bro-culture.” Recognizing a problem is the first step to solving it, right?
+Remember last year when we mentioned the tech sector has a not-so-secret diversity problem? Well, [it’s still there](https://www.theatlantic.com/business/archive/2017/03/melinda-gates-tech/519762/), and by gosh it seems like we’re reaching a point where it can no longer be swept under the rug. As we continue to increasingly understand the benefits of digital technologies, we are also continuing to learn that the digital gender divide is becoming ever more important. I took a quick scroll through a page of the scheduled programming at SXSW 2017 before going and was immediately struck by how many event headlines included terms such as “inclusion,” “diversity,” and even “bro-culture.” Recognizing a problem is the first step to solving it, right?
 
 ## Reduced Presence of International Development Organizations
 
