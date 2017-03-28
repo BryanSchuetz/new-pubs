@@ -32,8 +32,7 @@ I noticed quite an uptick in the number of discussions, demonstrations, and pres
 
 Remember last year when we mentioned the tech sector has a not-so-secret diversity problem? Well, [it’s still there](https://www.theatlantic.com/business/archive/2017/03/melinda-gates-tech/519762/), and by gosh it seems like we’re reaching a point where it can no longer be swept under the rug. As we continue to increasingly understand the benefits of digital technologies, we are also continuing to learn that the digital gender divide is becoming ever more important. I took a quick scroll through a page of the scheduled programming at SXSW 2017 before going and was immediately struck by how many event headlines included terms such as “inclusion,” “diversity,” and even “bro-culture.” Recognizing a problem is the first step to solving it, right?
 
-## Reduced Presence of International Development Organizations
-
+## SXGood Goes Bad? 
 SXSW 2016 featured a programming track titled "SXGood," which exhibited social innovations from around the world. The track included an SXGood Hub, a creative content space sponsored by the United Nations Foundation that brought together attendees involved in innovating for social impact. The Hub featured presentations, exhibition stands, and workshops as well as a central space where, at any given time, those of us interested in international development would be certain to find something relevant to our work. This year that hub was noticeably missing, and along with it, many of the organizations that featured heavily in 2016. While this year's conference featured a social good track, much of the programming was focused on domestic impact, and left those of us who witnessed last year's hub wanting more.
 
 ## What Does it All Mean?
