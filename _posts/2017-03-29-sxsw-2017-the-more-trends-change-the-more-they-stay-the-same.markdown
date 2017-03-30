@@ -1,6 +1,6 @@
 ---
 title: 'SXSW 2017: The More Trends Change, the More They Stay the Same'
-date: 2017-03-22 10:39:00 -04:00
+date: 2017-03-29 10:39:00 -04:00
 tags:
 - Innovation
 Author: Karim Bin-Humam
