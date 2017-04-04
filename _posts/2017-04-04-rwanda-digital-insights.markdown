@@ -37,7 +37,7 @@ Since many people do not have electricity in their homes, they pay to charge the
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money-3979?src=embed" title="Mobile money" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
-All three of the most popular mobile carriers—MTN, Airtel, and TIGO—have mobile money systems that are exceptionally widely adopted and relatively easy to use. Rural savings and loan associations (SACCOs) and banks also offer this service. The people we interviewed used mobile money to send and receive money to and from friends and family, but also business clients and partners. They used it an average of 5 times per month. 
+All three of the most popular mobile carriers—MTN, Airtel, and TIGO—have mobile money systems that are exceptionally widely adopted and relatively easy to use. Rural savings and loan associations (SACCOs) and banks also offer this service. The people we interviewed used mobile money to send and receive money to and from friends and family, but also business clients and partners. 
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money_2-07?src=embed" title="Mobile money 2" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
