@@ -1,14 +1,16 @@
 ---
 title: 'Digital Insights Rwanda: Profiling Rural Youth Tech and Media'
 date: 2017-04-04 16:59:00 -04:00
+tags:
+- Digital Insights
+- Rwanda
+Author: Adam Fivenson
 ---
 
-
-Adoption
-By Adam Fivenson
-
-In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology. With the help of the [Rural Youth Agribusiness Forum]( https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages an hour or more outside the capital, Kigali. 
+In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology. With the help of the [Rural Youth Agribusiness Forum]( https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages an hour or more outside the capital, Kigali.
+ 
 [Header Image]
+
 In many ways, this process mirrored our Digital Insights work in Bangladesh and Palestine, but with some significant additions on the methodology; First, we asked them some key questions about their attitudes toward entrepreneurship. Second, building on Kristen Roggemann’s recent work with rural trade associations in Afghanistan and in addition to working with individuals to build a profile of a demographic segment, we also profiled rural financial institutions to get a sense of how they’re promoting their services. What we found out about how young, rural Rwandans are communicating, how they’re using technology, and how they interact with rural financial institutions has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the demographics: 
  [Infographic]
 116 people
