@@ -42,20 +42,18 @@ All three of the most popular mobile carriers—MTN, Airtel, and TIGO—have mob
 <iframe allowfullscreen src="//e.infogr.am/mobile_money_2-07?src=embed" title="Mobile money 2" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
 We asked people how they spent mobile money, and while the first choice—airtime—was no surprise, but the second most common answer was: grid electricity. Rwandan mobile operators offer the ability to make utility payments and school fees, and many of the people we interviewed mentioned that they paid their electricity, water, school, and TV service payments via mobile money. 
-[Infographic]
-Mobile Money expenditures graphic
 
-The path to entrepreneurship is not clear to young people in rural areas
+<iframe allowfullscreen src="//e.infogr.am/mobile_money_for_what?src=embed" title="Mobile money for what?" width="900" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
+*3. The path to starting a business is not clear to young people in rural areas.*
+
 While the percent of people who self-identified as employed is high, we’re always interested in the possibilities to support innovation and entrepreneurship in the places we work. We had relatively a high proportion of respondents who run their own business (52%), compared to other places. 
-We asked business owners how they raised capital to start their businesses, and we asked everyone else how they would get the money to pay for starting a business, and difference in the answers was surprising: non-business owners expected that they would access funding from their own savings & their family in addition to rural financial institutions (RFIs) like savings groups, banks, and SACCOs, but when we asked the business owners how they had actually accessed finance, the vast majority mentioned that they had worked to save or received money from their families. Very few mentioned any rural financial institution. Either there is an unrealistic expectation among non-business owners that RFIs are an easy source of funding, or things have changed significantly since these business owners started their work. I would lean toward the former, based on high interest rates (18-22% in some instances) and a general lack of awareness about RFIs, what they do, and how they operate among those we interviewed. 
+
+We asked business owners how they raised capital to start their businesses, and we asked everyone else how they would get the money to pay for starting a business, and difference in the answers was surprising: non-business owners expected that they would access funding from their own savings & their family in addition to rural financial institutions (RFIs) like savings groups, banks, and SACCOs, but when we asked the business owners how they had actually accessed finance, the vast majority mentioned that they had worked to save or received money from their families. Very few mentioned any rural financial institution. Either there is an unrealistic expectation among non-business owners that RFIs are an easy source of funding, or things have changed significantly since these business owners started their work. I would lean toward the former, due to a general lack of awareness about RFIs, what they do, and how they operate among those we interviewed. We'll dig into that dynamic in more depth in the follow-up to this blog post. 
+
 [Infographic]
 How did/would you access finance?
 
-That wraps up this first edition of Rwanda Digital Insights. We’ll be back next month with more from rural Rwanda, including more on what we found about the interaction between young, rural Rwandans and the rural financial institutions closest to them. 
+That wraps up this first edition of Rwanda Digital Insights. I’ll be back soon with more from rural Rwanda, including what we found about the interaction between young, rural Rwandans and the rural financial institutions closest to them. 
 
-Do you have any insights on how young people in rural Rwanda use technology? If so, share them in the comments on Facebook.  
-
- 
-
-
-[Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) 
+**Do you have any insights on how young people in rural Rwanda use technology? If so, share them in the comments on Facebook.**
