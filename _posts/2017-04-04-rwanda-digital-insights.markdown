@@ -30,14 +30,17 @@ Mobile phones take an out-sized role in rural Rwandan’s everyday lives. When w
 
 It was easy to figure out who was using smartphone and simple phones, but getting a read on feature phone adoption is more difficult, as most people don’t distinguish them from simple phones. We got around this by asking anyone who said they had a simple phone if they used it to access Facebook; those who said yes we identified as feature phone users. 
 Since many people do not have electricity in their homes, they pay to charge their phones in public spaces. 
-[Photo of many phones plugged into same power source]
 
-Mobile money is really popular.
-[Infographic]
-87% use mobile money; 13% do not
+![charger.png](/uploads/charger.png)
+
+*2. Mobile money is really popular.*
+
+<iframe allowfullscreen src="//e.infogr.am/mobile_money-3979?src=embed" title="Mobile money" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
 All three of the most popular mobile carriers—MTN, Airtel, and TIGO—have mobile money systems that are exceptionally widely adopted and relatively easy to use. Rural savings and loan associations (SACCOs) and banks also offer this service. The people we interviewed used mobile money to send and receive money to and from friends and family, but also business clients and partners. They used it an average of 5 times per month. 
-[Infographic] 
-Mobile money send/receive graphic
+
+<iframe allowfullscreen src="//e.infogr.am/mobile_money_2-07?src=embed" title="Mobile money 2" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
 We asked people how they spent mobile money, and while the first choice—airtime—was no surprise, but the second most common answer was: grid electricity. Rwandan mobile operators offer the ability to make utility payments and school fees, and many of the people we interviewed mentioned that they paid their electricity, water, school, and TV service payments via mobile money. 
 [Infographic]
 Mobile Money expenditures graphic
