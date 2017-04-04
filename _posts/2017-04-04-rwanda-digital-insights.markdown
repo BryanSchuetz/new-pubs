@@ -22,7 +22,7 @@ What we found out about how young, rural Rwandans are communicating, how they’
 
 And, what did we find?
 
-*1. There were a lot of mobile phones, but not an overwhelming number of smartphones.*
+## 1. There were a lot of mobile phones, but not an overwhelming number of smartphones.
 
 Mobile phones take an out-sized role in rural Rwandan’s everyday lives. When we asked how people heard about the news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use them throughout the day, but dedicate significant prime free time, between 5-9 PM, to their phones. 
 
@@ -33,7 +33,7 @@ Since many people do not have electricity in their homes, they pay to charge the
 
 ![charger.png](/uploads/charger.png)
 
-*2. Mobile money is really popular.*
+## 2. Mobile money is really popular.
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money-3979?src=embed" title="Mobile money" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
@@ -45,7 +45,7 @@ We asked people how they spent mobile money, and while the first choice—airtim
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money_for_what?src=embed" title="Mobile money for what?" width="900" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
-*3. The path to starting a business is not clear to young people in rural areas.*
+## 3. The path to starting a business is not clear to young people in rural areas.
 
 While the percent of people who self-identified as employed is high, we’re always interested in the possibilities to support innovation and entrepreneurship in the places we work. We had relatively a high proportion of respondents who run their own business (52%), compared to other places. 
 
