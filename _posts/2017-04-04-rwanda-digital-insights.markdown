@@ -1,5 +1,5 @@
 ---
-title: 'Digital Insights Rwanda: Profiling Rural Youth & RFIs'
+title: 'Digital Insights Rwanda: Profiling Rural Youth and RFIs'
 date: 2017-04-04 16:59:00 -04:00
 published: false
 tags:
