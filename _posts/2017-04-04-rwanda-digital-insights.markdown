@@ -48,7 +48,7 @@ We asked people how they spent mobile money, and while the first choice—airtim
 
 ## 3. The path to starting a business is not clear for young people in rural areas.
 
-While the percent of people who self-identified as employed is high, we’re always interested in the possibilities to support innovation and entrepreneurship in the places we work. We had relatively a high proportion of respondents who run their own business (52%), compared to other places. 
+While the percent of people who self-identified as employed is high, we’re always interested in the possibilities to support innovation and entrepreneurship in the places we work. We had a relatively high proportion of respondents who run their own business (52%), compared to other places. 
 
 ![20170304_093002.jpg](/uploads/20170304_093002.jpg)
 `A young Rwandan sells mobile credit on the outskirts out Kigali`
