@@ -18,7 +18,7 @@ What we found out about how young, rural Rwandans are communicating, how they’
 
 <iframe allowfullscreen src="//e.infogr.am/demo-653176855653?src=embed" title="Demo" width="550" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
-<iframe allowfullscreen src="//e.infogr.am/work_rwanda-79471?src=embed" title="Occupation 1" width="900" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
+<iframe allowfullscreen src="//e.infogr.am/work_rwanda-79471?src=embed" title="Occupation 1" width="900" height="200" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
 And, what did we find?
 
