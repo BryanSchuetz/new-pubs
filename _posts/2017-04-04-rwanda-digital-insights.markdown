@@ -15,13 +15,15 @@ In early March, I spent a week in Rwanda building a profile of how young people 
 In many ways, this process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in [Bangladesh](https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html) and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html), but with some significant additions on the methodology; First, we asked them some key questions about entrepreneurship. Second, building on Kristen Roggemann’s recent work with [rural trade associations in Afghanistan](https://dai-global-digital.com/ecosystem-insights-afghanistan.html) and in addition to working with individuals to build a profile of a demographic segment, we also profiled rural financial institutions to get a sense of how they’re promoting their services.
 
 What we found out about how young, rural Rwandans are communicating, how they’re using technology, and how they interact with rural financial institutions has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the demographics: 
- [Infographic]
-116 people
-Average age: 24
-22 different rural sectors across 8 districts 
-83% work; 8% work & study; 5% study; 4% did neither
+
+<iframe allowfullscreen src="//e.infogr.am/demo-653176855653?src=embed" title="Demo" width="550" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
+
+
 And, what did we find?
-There were a lot of mobile phones, but not an overwhelming number of smartphones. 
+
+*1. There were a lot of mobile phones, but not an overwhelming number of smartphones.*
+
 Mobile phones take an outsized role in rural Rwandan’s everyday lives. When we asked how people heard about the news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use them throughout the day, but dedicate significant prime free time, between 5-9 PM, to their phones. 
 [Infographic]
 91% have mobile phones; 9% do not. 
