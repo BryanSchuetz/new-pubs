@@ -8,11 +8,13 @@ tags:
 Author: Adam Fivenson
 ---
 
-In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology. With the help of the [Rural Youth Agribusiness Forum]( https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages an hour or more outside the capital, Kigali.
+In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology and interact with rural financial institutions (RFIs). With the help of the [Rural Youth Agribusiness Forum]( https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages an hour or more outside the capital, Kigali.
  
 [Header Image]
 
-In many ways, this process mirrored our Digital Insights work in Bangladesh and Palestine, but with some significant additions on the methodology; First, we asked them some key questions about their attitudes toward entrepreneurship. Second, building on Kristen Roggemann’s recent work with rural trade associations in Afghanistan and in addition to working with individuals to build a profile of a demographic segment, we also profiled rural financial institutions to get a sense of how they’re promoting their services. What we found out about how young, rural Rwandans are communicating, how they’re using technology, and how they interact with rural financial institutions has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the demographics: 
+In many ways, this process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in [Bangladesh](https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html) and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html), but with some significant additions on the methodology; First, we asked them some key questions about entrepreneurship. Second, building on Kristen Roggemann’s recent work with [rural trade associations in Afghanistan](https://dai-global-digital.com/ecosystem-insights-afghanistan.html) and in addition to working with individuals to build a profile of a demographic segment, we also profiled rural financial institutions to get a sense of how they’re promoting their services.
+
+What we found out about how young, rural Rwandans are communicating, how they’re using technology, and how they interact with rural financial institutions has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the demographics: 
  [Infographic]
 116 people
 Average age: 24
