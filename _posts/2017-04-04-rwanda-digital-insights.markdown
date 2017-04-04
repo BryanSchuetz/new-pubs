@@ -59,4 +59,4 @@ We asked business owners how they raised capital to start their businesses, and 
 
 That wraps up this first edition of Rwanda Digital Insights. I’ll be back soon with more from rural Rwanda, including what we found about the interaction between young, rural Rwandans and the rural financial institutions closest to them. 
 
-**Do you have any insights on how young people in rural Rwanda use technology? If so, share them in the comments on Facebook.**
+*Do you have any insights on how young people in other rural areas are using technology? If so, share them in the comments on [our Facebook page](https://www.facebook.com/DAIGlobal/).*
