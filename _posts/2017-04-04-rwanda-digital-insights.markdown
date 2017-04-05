@@ -21,7 +21,7 @@ What we found out about how young, rural Rwandans communicate, how they use tech
 
 We also asked about occupation: 
 
-<iframe allowfullscreen src="//e.infogr.am/work_rwanda-79471?src=embed" title="Occupation 1" width="100" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
+<iframe allowfullscreen src="//e.infogr.am/work_rwanda-79471?src=embed" title="Occupation 1" width="100" height="" scrolling="no" frameborder="1" style="border:none;"></iframe>
 
 And, what did we find?
 
