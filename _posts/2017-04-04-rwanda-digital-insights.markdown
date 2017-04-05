@@ -23,18 +23,19 @@ What we found out about how young, rural Rwandans communicate, how they use tech
 
 And, what did we find?
 
-## 1. There are a lot of mobile phones, but not an overwhelming number of smartphones.
+## 1. There are a lot of mobile phones, but not an overwhelming number of smartphones
 
-Mobile phones play an outsized role in rural Rwandan’s everyday lives. When we asked how people heard about the news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use them throughout the day, but dedicate significant prime free time, between 5-9 PM, to their phones. 
+Mobile phones play an outsized role in rural Rwandans everyday lives. When we asked how people heard about news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use mobiles throughout the day, but dedicate significant prime free time, between 5-9 p.m., to them. 
 
 <iframe allowfullscreen src="//e.infogr.am/phone_info-676983?src=embed" title="Phone info" width="900" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
 It was easy to figure out who was using smartphone and simple phones, but getting a read on feature phone adoption is more difficult, as most people don’t distinguish them from simple phones. We got around this by asking anyone who said they had a simple phone if they used it to access Facebook; those who said yes we identified as feature phone users. 
+
 Since many people do not have electricity in their homes, they pay to charge their phones in public spaces. 
 
 ![charger.png](/uploads/charger.png)
 
-## 2. Mobile money is really popular.
+## 2. Mobile money is really popular
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money-3979?src=embed" title="Mobile money" width="550" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
