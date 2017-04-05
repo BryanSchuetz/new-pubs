@@ -1,5 +1,5 @@
 ---
-title: 'Digital Insights Rwanda: Profiling Rural Youth and Financial Institutions'
+title: 'Digital Insights Rwanda: How Rural Young People Interact With Financial Institutions'
 date: 2017-04-04 16:59:00 -04:00
 published: false
 tags:
@@ -8,14 +8,14 @@ tags:
 Author: Adam Fivenson
 ---
 
-In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology and interact with rural financial institutions (RFIs). With the help of the [Rural Youth Agribusiness Forum]( https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages an hour or more outside the capital, Kigali.
+In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology and interact with rural financial institutions (RFIs). With the help of the [Rural Youth Agribusiness Forum]( https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages outside the capital, Kigali.
  
 ![header-5c6d35.jpg](/uploads/header-5c6d35.jpg)
 `A Digital Insights interview in a rural area outside Kigali`
 
-In many ways, this process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in [Bangladesh](https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html) and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html), but with some significant additions on the methodology; First, we asked them some key questions about entrepreneurship. Second, building on Kristen Roggemann’s recent work with [rural trade associations in Afghanistan](https://dai-global-digital.com/ecosystem-insights-afghanistan.html), we profiled RFIs to get a sense of how they’re promoting their services.
+In many ways, this process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in [Bangladesh](https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html) and [Palestine](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html), but with some significant additions on the methodology. First, we asked them some key questions about entrepreneurship. Second, building on Kristen Roggemann’s recent work with [rural trade associations in Afghanistan](https://dai-global-digital.com/ecosystem-insights-afghanistan.html), we profiled RFIs to get a sense of how they promote their services.
 
-What we found out about how young, rural Rwandans are communicating, how they’re using technology, and how they interact with RFIs has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the demographics: 
+What we found out about how young, rural Rwandans communicate, how they use technology, and how they interact with RFIs has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the demographics: 
 
 <iframe allowfullscreen src="//e.infogr.am/demo-653176855653?src=embed" title="Demo" width="550" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
@@ -23,9 +23,9 @@ What we found out about how young, rural Rwandans are communicating, how they’
 
 And, what did we find?
 
-## 1. There were a lot of mobile phones, but not an overwhelming number of smartphones.
+## 1. There are a lot of mobile phones, but not an overwhelming number of smartphones.
 
-Mobile phones take an out-sized role in rural Rwandan’s everyday lives. When we asked how people heard about the news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use them throughout the day, but dedicate significant prime free time, between 5-9 PM, to their phones. 
+Mobile phones play an outsized role in rural Rwandan’s everyday lives. When we asked how people heard about the news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use them throughout the day, but dedicate significant prime free time, between 5-9 PM, to their phones. 
 
 <iframe allowfullscreen src="//e.infogr.am/phone_info-676983?src=embed" title="Phone info" width="900" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
