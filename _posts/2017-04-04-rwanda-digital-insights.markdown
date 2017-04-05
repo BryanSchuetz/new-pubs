@@ -58,6 +58,6 @@ We asked business owners how they raise capital to start their businesses, and w
 
 <iframe allowfullscreen src="//e.infogr.am/finance-449936630?src=embed" title="finance" width="500" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
-That wraps up this first edition of Rwanda Digital Insights. I’ll be back soon with more from rural Rwanda, including what we found about the interaction between young, rural Rwandans and the rural financial institutions (RFIs) closest to them.
+That wraps up this first edition of Digital Insights Rwanda. I’ll be back soon with more, including what we found about the interaction between young, rural Rwandans and the RFIs closest to them.
 
 *Do you have any insights on how young people in other rural areas are using technology? If so, share them in the comments on [our Facebook page](https://www.facebook.com/DAIGlobal/).*
