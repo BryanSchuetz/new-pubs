@@ -19,7 +19,7 @@ In many ways, this process mirrored our [Digital Insights](https://dai-global-di
 
 What we found out about how young, rural Rwandans communicate, how they use technology, and how they interact with RFIs has had a big impact on our perceptions of this demographic and how we would plan to reach them in the context of a program. What do I mean? First, the numbers:
 
-<iframe allowfullscreen src="//e.infogr.am/demo-653176855653?src=embed" title="Demo" width="550" height="500" scrolling="no" frameborder="0" style="border:none;"></iframe>
+<iframe allowfullscreen src="//e.infogr.am/demo-653176855653?src=embed" title="Demo" width="550" height="374" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
 <iframe allowfullscreen src="//e.infogr.am/copy_occupation_1?src=embed" title="Copy: Occupation 1" width="600" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
