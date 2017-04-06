@@ -42,11 +42,11 @@ Since many people do not have electricity in their homes, they pay to charge the
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money-3979?src=embed" title="Mobile money" width="550" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
-All three of the most popular mobile carriers—MTN, Airtel, and TIGO—have mobile money systems that are exceptionally widely adopted and relatively easy to use. Rural savings and loan associations (SACCOs) and banks also offer this service. The people we interviewed use mobile money apps to send and receive money to and from friends and family, but also business clients and partners.
+All three of the most popular mobile carriers—MTN, Airtel, and TIGO—have mobile money systems that are exceptionally widely adopted and relatively easy to use. Rural savings and loan associations (SACCOs) and banks also offer this service. The people we interviewed use mobile money apps to send and receive money to and from friends and family, but also business clients and partners. 
 
-<iframe allowfullscreen src="//e.infogr.am/mobile_money_2-07?src=embed" title="Mobile money 2" width="550" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
+<script id="infogram_0_mobile_money-3979" title="Mobile money" src="//e.infogr.am/js/dist/embed.js?3NX" type="text/javascript"></script>
 
-We asked people how they spent mobile money, and while the first choice—airtime—was no surprise, but the second most common answer was: grid electricity. Rwandan mobile operators offer the ability to make utility payments and school fees, and many of the people we interviewed mentioned that they paid their electricity, water, school, and TV service payments via mobile money.
+We asked people how they spent mobile money, and while the first choice-—airtime-—was no surprise, but the second most common answer was: grid electricity. Rwandan mobile operators offer the ability to make utility payments and school fees, and many of the people we interviewed mentioned that they paid their electricity, water, school, and TV service payments via mobile money.
 
 <iframe allowfullscreen src="//e.infogr.am/mobile_money_for_what?src=embed" title="Mobile money for what?" width="900" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
