@@ -36,6 +36,7 @@ It was easy to figure out who was using smartphone and simple phones, but gettin
 Since many people do not have electricity in their homes, they pay to charge their phones in public spaces.
 
 ![charger.png](/uploads/charger.png)
+`A phone charging station in a town an hour to the west of Kigali`
 
 ## 2. Mobile money is really popular
 
