@@ -1,5 +1,5 @@
 ---
-title: 'Digital Insights Rwanda: How Rural Young People Interact With Financial Institutions'
+title: 'Digital Insights Rwanda: How Do Rural Youth Use New Technologies?'
 date: 2017-04-04 16:59:00 -04:00
 tags:
 - Digital Insights
