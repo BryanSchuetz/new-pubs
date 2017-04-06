@@ -27,9 +27,9 @@ So, what did we find?
 
 ## 1. There are a lot of mobile phones, but not an overwhelming number of smartphones
 
-Mobile phones play an outsized role in rural Rwandans everyday lives. When we asked how people heard about news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use mobiles throughout the day, but dedicate significant prime free time, between 5-9 p.m., to them.
+Mobile phones play an outsized role in rural Rwandans everyday lives. When we asked how people heard about news, social events, training opportunities, and jobs, phone calls were consistently one of the top four responses. They use mobiles throughout the day, but dedicate significant prime free time, between 5-9 p.m., to using them.
 
-<iframe allowfullscreen src="//e.infogr.am/phone_info-676983?src=embed" title="Phone info" width="900" height="" scrolling="no" frameborder="0" style="border:none;"></iframe>
+<script id="infogram_0_phone_info-676983" title="Phone info" src="//e.infogr.am/js/dist/embed.js?mW2" type="text/javascript"></script>
 
 It was easy to figure out who was using smartphone and simple phones, but getting a read on feature phone adoption is more difficult, as most people don’t distinguish them from simple phones. We got around this by asking anyone who said they had a simple phone if they used it to access Facebook; those who said yes we identified as feature phone users.
 
