@@ -1,7 +1,6 @@
 ---
 title: 'Digital Insights Rwanda: How Rural Young People Interact With Financial Institutions'
 date: 2017-04-04 16:59:00 -04:00
-published: false
 tags:
 - Digital Insights
 - Rwanda
