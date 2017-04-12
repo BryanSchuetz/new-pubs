@@ -34,4 +34,4 @@ Paulette is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowo
 
 Pedro Cerrato runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization based in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is passionate about helping budding entrepreneurs and is actively growing the CEmprende community by hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in the city.
 
-Now to go email this post to all the projects for a little innovation-incentivizing.
+If you work in Honduras, or would like to, and would like to get in touch with any of these entrepreneurs, 
