@@ -24,7 +24,7 @@ So, with no further adieu, our Honduran innovators:
 
 ## Paulette Talavera
 
-Paulette is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the 2 co-working spaces in Tegucigalpa. Connect Cowork provides a space for innovators and entrepreneurs to work, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal) like , and is centrally located a couple of blocks from the US Embassy. Paulette also launched SonoLabs\](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
+Paulette is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the 2 co-working spaces in Tegucigalpa. Connect Cowork provides a space for innovators and entrepreneurs to work, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal) like , and is centrally located a couple of blocks from the US Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
 
 ## Ricardo Irias
 
