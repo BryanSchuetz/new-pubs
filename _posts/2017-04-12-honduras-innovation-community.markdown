@@ -13,14 +13,15 @@ Back in December 2016, I spent the month in Honduras helping to launch the new [
 So, with no further adieu, our Honduran innovators:
 
 ## Honduras Startup team
-[Robert Lee Mudgett](https://www.linkedin.com/in/rmudgett/), [Manuel Bardales](https://www.linkedin.com/in/manuel-bardales-035b1745/), and [Cristian Espinoza](https://www.linkedin.com/in/crisgarner/) are the formidable team of entrepreneurs behind [Honduras Start-up](http://hondurastartup.com/), a government- and donor-sponsored startup accelerator that debuted during 2016, and 
+[Robert Lee Mudgett](https://www.linkedin.com/in/rmudgett/), [Manuel Bardales](https://www.linkedin.com/in/manuel-bardales-035b1745/), and [Cristian Garner](https://www.linkedin.com/in/crisgarner/) are the formidable team of entrepreneurs behind [Honduras Start-up](http://hondurastartup.com/), a government- and donor-sponsored startup accelerator that featured multiple rounds of selection and finished at the end of 2016. Honduras Startup featured a Startup Academy, which trained more than 200 teams of innovators in the basics of business management and entrepreneurship, as well as a live, national TV pitch for the 10 finalist groups. Among the top ten innovations are [EduBox](http://edu.boxhn.com/), an education management software company; [UniMed](https://www.facebook.com/unimedhn/), a telemedicine app; and AGRODETEC, an agricultural technology company. The team is currently preparing to launch Honduras Startup 2017.
 
 ## Paulette Talavera
+
 https://www.facebook.com/ConnectCowork/?ref=br_rs 
 https://twitter.com/MrsPola
 
 ## Ricardo Irias
-[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of the local [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a Professor of Entrepreneurship and Strategy at [UNITEC](http://www.unitec.edu/), Honduras's premier technical university, and the former CEO of Amazylia.com, an e-commerce start-up based in Honduras. Ricardo also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias
+[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of the Honduras [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a Professor of Entrepreneurship and Strategy at [UNITEC](http://www.unitec.edu/), Honduras's premier technical university, and the former CEO of Amazylia.com, an e-commerce start-up based in Honduras. Ricardo also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias
 ) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
 
 ## Pedro Cerrato
