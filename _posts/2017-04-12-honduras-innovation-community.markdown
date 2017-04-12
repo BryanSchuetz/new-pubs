@@ -12,8 +12,9 @@ Back in December 2016, I spent the month in Honduras helping to launch the new [
 
 So, with no further adieu, our Honduran innovators:
 
-## #1 Startup Honduras team 
-Robert Lee Mudget & team
+## #1 Startup Honduras team
+[Robert Lee Mudget](https://www.linkedin.com/in/rmudgett/), [Manuel Bardales](https://www.linkedin.com/in/manuel-bardales-035b1745/)
+
 http://hondurastartup.com/ 
 
 ## #2 Ricardo Irias
