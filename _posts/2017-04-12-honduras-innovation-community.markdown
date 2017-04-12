@@ -12,15 +12,20 @@ Back in December 2016, I spent the month in Honduras helping to launch the new [
 
 So, with no further adieu, our Honduran innovators:
 
-## #1 Ricardo Irias
-[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is an organizer of the local [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event and involved in various hackathons and innovation events around Honduras and elsewhere. Ricardo's most recent 
+## #1 Startup Honduras team 
+Robert Lee Mudget & team
+http://hondurastartup.com/ 
 
+## #2 Ricardo Irias
+[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of the local [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a professor Entrepreneurship and Strategy at [UNITEC](http://www.unitec.edu/), Honduras's premier technical university, and the former CEO of Amazylia.com
+
+
+Startup Weekend is a Techstars' program that aims to build entrepreneurship communities around the world. Currently more than 1,000 events are organized every year in more than 150 countries. 
+
+In Honduras I led the organization of the first Startup Weekend in the country and the first Startup Weekend Mega in Central America. I also facilitate Startup Weekend events in Honduras and LATAM.
 
 https://twitter.com/ricardo_irias
 
-## #2 Startup Honduras team 
-Robert Lee Mudget & team
-http://hondurastartup.com/ 
 
 ## #3 Paulette Talavera
 https://www.facebook.com/ConnectCowork/?ref=br_rs 
