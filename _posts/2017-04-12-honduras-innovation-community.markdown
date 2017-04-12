@@ -17,15 +17,8 @@ Robert Lee Mudget & team
 http://hondurastartup.com/ 
 
 ## #2 Ricardo Irias
-[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of the local [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a professor Entrepreneurship and Strategy at [UNITEC](http://www.unitec.edu/), Honduras's premier technical university, and the former CEO of Amazylia.com
-
-
-Startup Weekend is a Techstars' program that aims to build entrepreneurship communities around the world. Currently more than 1,000 events are organized every year in more than 150 countries. 
-
-In Honduras I led the organization of the first Startup Weekend in the country and the first Startup Weekend Mega in Central America. I also facilitate Startup Weekend events in Honduras and LATAM.
-
-https://twitter.com/ricardo_irias
-
+[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of the local [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a Professor of Entrepreneurship and Strategy at [UNITEC](http://www.unitec.edu/), Honduras's premier technical university, and the former CEO of Amazylia.com, an e-commerce start-up based in Honduras. Ricardo also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias
+) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
 
 ## #3 Paulette Talavera
 https://www.facebook.com/ConnectCowork/?ref=br_rs 
