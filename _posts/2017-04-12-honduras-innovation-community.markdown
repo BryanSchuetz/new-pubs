@@ -13,8 +13,9 @@ Back in December 2016, I spent the month in Honduras helping to launch the new [
 So, with no further adieu, our Honduran innovators:
 
 ## #1 Ricardo Irias
-Ricardo Irias
-https://www.linkedin.com/in/ricardo-irias-86602311/ 
+[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is an organizer of the local [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event. 
+
+
 https://twitter.com/ricardo_irias
 
 ## #2 Startup Honduras team 
