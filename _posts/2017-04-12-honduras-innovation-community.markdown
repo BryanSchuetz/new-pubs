@@ -8,13 +8,15 @@ tags:
 Author: Adam Fivenson
 ---
 
-In December 2016 I spent a month in Honduras helping launch the new [USAID Local Governance Activity](https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg) and, replicating some work I did in [El Salvador](https://dai-global-digital.com/innovation-and-entrepreneurship-in-el-salvador.html) last year, decided to get to know the innovation and technology community. 
+In December 2016 I spent a month in Honduras helping launch the new [USAID Local Governance Activity](https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg) and, replicating some work I did in [El Salvador](https://dai-global-digital.com/innovation-and-entrepreneurship-in-el-salvador.html) last year, decided to get to know the innovation and technology community.
 
-Why? 
+Why?
 
 DAI is actually launching *four* new USAID-funded projects in Honduras: Local Governance, a [Justice & Human Rights project](https://www.dai.com/our-work/projects/honduras-justice-human-rights-and-security-strengthening-activity-jhrss), [an environmental governance project](https://www.dai.com/our-work/projects/honduras-ProParque-GEMA) and the new School-Based Violence Prevention Activity. My goal in writing this piece is the same as it was when I wrote [Hey USAID, Want to Promote Innovation?](https://dai-global-digital.com/hey-usaid-want-to-promote-innovation.html): to get those new projects to think creatively about how to achieve their goals. With mobile phones flooding the Honduran market—as we found through our [Digital Insights](https://dai-global-digital.com/honduras-digital-insights.html) work there last year—the opportunity to reach people in both urban and rural areas through their phones (and other innovative, locally sourced methods) is particularly ripe Honduras and places like it. Beyond that, the process of prototyping through agile design can easily be applied to the social space, and we’re eager to pilot a number of solutions where that’s the case. In short: Top-down, proposal-defined, pre-proscribed solutions are out; co-created, tech-enabled, iterative solutions are in. The challenge is getting the client to agree to an agile process when all the typical reporting budgeting requirements remain in place, but utilizing the talents of Honduras’s technology & innovation community, we can and will find a middle ground, as we are doing in Guatemala with the development of the [mobile municipal transparency app](https://dai-global-digital.com/citizen-centered-design-guatemala.html).
 
 So, with no further adieu, our Honduran innovators:
+
+<!--more-->
 
 ## Honduras Startup team
 
@@ -31,3 +33,5 @@ Paulette is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowo
 ## Pedro Cerrato
 
 Pedro Cerrato runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization based in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is passionate about helping budding entrepreneurs and is actively growing the CEmprende community by hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in the city.
+
+Now to go email this post to all the projects for a little innovation-incentivizing.
