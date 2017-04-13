@@ -35,9 +35,9 @@ So, with no further adieu, our Honduran innovators:
 
 ## Ricardo Irias
 ![03.jpg](/uploads/03.jpg)
-`Ricardo presents on entrepreneurship at Connect Cowork`
+`Ricardo presents 'Aggarando Juevos', a lecture series on becoming an entrepreneur at Connect Cowork`
 
-[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of Honduras [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a weekend innovation and entrepreneurship conference that has helped hundreds of young Hondurans take a step toward running their own business (tech-based or otherwise). Ricardo is also professor of entrepreneurship and strategy at [UNITEC](http://www.unitec.edu/)-Honduras's premier technical university-and the former CEO of Amazylia, an e-commerce startup in Honduras. Ricardo also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
+[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of Honduras [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a weekend innovation and entrepreneurship conference that has helped hundreds of young Hondurans take a step toward running their own business (tech-based or otherwise). Ricardo is also professor of entrepreneurship and strategy at [UNITEC](http://www.unitec.edu/)-Honduras's premier technical university-and the former CEO of Amazylia, an e-commerce startup in Honduras. He also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
 
 ## Pedro Cerrato
 ![04b.jpg](/uploads/04b.jpg)
