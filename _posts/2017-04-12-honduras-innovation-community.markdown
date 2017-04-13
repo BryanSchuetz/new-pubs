@@ -1,7 +1,6 @@
 ---
 title: Honduras Innovation Community Report
 date: 2017-04-12 14:23:00 -04:00
-published: false
 tags:
 - Innovation
 - Honduras
