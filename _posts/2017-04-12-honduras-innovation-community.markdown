@@ -24,24 +24,24 @@ So, with no further adieu, our Honduran innovators:
 
 ## Honduras Startup team
 ![three.jpg](/uploads/three.jpg)
-`L to R: Cristian Garner, Robert Lee Mudgett, & Manuel Bardales`
+`L to R: Cristian Garner, Robert Lee Mudgett, & Manuel Bardales during Honduras Startup 2016`
 [Robert Lee Mudgett](https://www.linkedin.com/in/rmudgett/), [Manuel Bardales](https://www.linkedin.com/in/manuel-bardales-035b1745/), and [Cristian Garner](https://www.linkedin.com/in/crisgarner/) are the formidable team of entrepreneurs behind [Honduras Start-up](http://hondurastartup.com/), a government- and donor-sponsored startup accelerator that featured multiple rounds of selection and finished at the end of 2016. Honduras Startup featured a Startup Academy, which trained more than 200 teams of innovators in the basics of business management and entrepreneurship, as well as a live, national TV pitch for the 10 finalist groups. Among the top 10 innovations are [EduBox](http://edu.boxhn.com/), an education management software company; [UniMed](https://www.facebook.com/unimedhn/), a telemedicine app; and [Green Technology](http://greentechnologyhn.com/site/), an agricultural tech company. The team is preparing now to launch Honduras Startup 2017.
 
 ## Paulette Talavera
 ![02.jpg](/uploads/02.jpg)
-`Paulette presents Cowork Connect's payment options`
+`Paulette Talavera presents Cowork Connect's payment options`
 
 [Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for entrepreneurs and small firms to work, is a great place to meet innovators, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
 
 ## Ricardo Irias
 ![03.jpg](/uploads/03.jpg)
-`Ricardo presents 'Aggarando Juevos', a lecture series on becoming an entrepreneur at Connect Cowork`
+`Ricardo Irias, standing, presents 'Aggarando Juevos', a lecture series on becoming an entrepreneur at Connect Cowork`
 
 [Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of Honduras [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a weekend innovation and entrepreneurship conference that has helped hundreds of young Hondurans take a step toward running their own business (tech-based or otherwise). Ricardo is also professor of entrepreneurship and strategy at [UNITEC](http://www.unitec.edu/)-Honduras's premier technical university-and the former CEO of Amazylia, an e-commerce startup in Honduras. He also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
 
 ## Pedro Cerrato
 ![04b.jpg](/uploads/04b.jpg)
-`Pedro, standing, presents CEmprende Honduras to a crowd`
+`Pedro Cerrato, standing, presents CEmprende Honduras to a crowd`
 
 [Pedro](https://www.linkedin.com/in/pedromarcialcerrato/) runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is actively working with budding entrepreneurs to grow the CEmprende community and hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in Honduras.
 
