@@ -7,6 +7,9 @@ tags:
 Author: Adam Fivenson
 ---
 
+![01.JPG](/uploads/01.JPG)
+`Chronogram of the 2016 Honduras Startup accelerator from hondurastartup.com`
+
 In December 2016, I spent a month in Honduras helping launch the new [USAID Local Governance Activity](https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg) and, replicating some work I did in [El Salvador](https://dai-global-digital.com/innovation-and-entrepreneurship-in-el-salvador.html) last year, I decided to get to know the innovation and technology community. Why?
 
 DAI is currently launching *four* new USAID-funded projects in Honduras: local governance, a [justice & human rights project](https://www.dai.com/our-work/projects/honduras-justice-human-rights-and-security-strengthening-activity-jhrss), [an environmental governance project](https://www.dai.com/our-work/projects/honduras-ProParque-GEMA), and the new school-based violence prevention project. My goal in writing this piece is the same as it was when I wrote [Hey USAID, Want to Promote Innovation?](https://dai-global-digital.com/hey-usaid-want-to-promote-innovation.html): to get those new projects to think creatively about how to achieve their goals. 
@@ -20,9 +23,8 @@ In short: Top-down, proposal-defined, pre-proscribed solutions are out; co-creat
 So, with no further adieu, our Honduran innovators:
 
 ## Honduras Startup team
-![01.JPG](/uploads/01.JPG)
-`Chronogram of the 2016 Honduras Startup accelerator from hondurastartup.com`
-
+![three.jpg](/uploads/three.jpg)
+`L to R: Cristian Garner, Robert Lee Mudgett, & Manuel Bardales`
 [Robert Lee Mudgett](https://www.linkedin.com/in/rmudgett/), [Manuel Bardales](https://www.linkedin.com/in/manuel-bardales-035b1745/), and [Cristian Garner](https://www.linkedin.com/in/crisgarner/) are the formidable team of entrepreneurs behind [Honduras Start-up](http://hondurastartup.com/), a government- and donor-sponsored startup accelerator that featured multiple rounds of selection and finished at the end of 2016. Honduras Startup featured a Startup Academy, which trained more than 200 teams of innovators in the basics of business management and entrepreneurship, as well as a live, national TV pitch for the 10 finalist groups. Among the top 10 innovations are [EduBox](http://edu.boxhn.com/), an education management software company; [UniMed](https://www.facebook.com/unimedhn/), a telemedicine app; and [Green Technology](http://greentechnologyhn.com/site/), an agricultural tech company. The team is preparing now to launch Honduras Startup 2017.
 
 ## Paulette Talavera
