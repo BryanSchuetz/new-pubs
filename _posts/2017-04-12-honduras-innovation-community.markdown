@@ -1,6 +1,7 @@
 ---
 title: Honduras Innovation Community Report
 date: 2017-04-12 14:23:00 -04:00
+published: false
 tags:
 - Innovation
 - Honduras
@@ -27,7 +28,7 @@ So, with no further adieu, our Honduran innovators:
 ![02.jpg](/uploads/02.jpg)
 `Paulette presents Cowork Connect's payment options to a crowd.`
 
-Paulette is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for innovators and entrepreneurs to work, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located, just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
+[Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for innovators and entrepreneurs to work, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located, just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
 
 ## Ricardo Irias
 ![03.jpg](/uploads/03.jpg)
@@ -39,6 +40,6 @@ Paulette is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowo
 ![04b.jpg](/uploads/04b.jpg)
 `Pedro, standing, presents CEmprende Honduras to a crowd.`
 
-Pedro Cerrato runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is passionate about helping budding entrepreneurs and is actively growing the CEmprende community by hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in the city.
+[Pedro](https://www.linkedin.com/in/pedromarcialcerrato/) runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is passionate about helping budding entrepreneurs and is actively growing the CEmprende community by hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in the city.
 
 *If you work in Honduras, or would like to, and want to get in touch with any of these entrepreneurs, let us know at digital@dai.com or on [Facebook](http://www.facebook.com/DAIGlobal).*
