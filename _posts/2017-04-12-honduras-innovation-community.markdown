@@ -29,13 +29,13 @@ So, with no further adieu, our Honduran innovators:
 ![02.jpg](/uploads/02.jpg)
 `Paulette presents Cowork Connect's payment options`
 
-[Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for innovators and entrepreneurs to work, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located, just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
+[Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for innovators and entrepreneurs to work, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
 
 ## Ricardo Irias
 ![03.jpg](/uploads/03.jpg)
 `Ricardo presents on entrepreneurship at Connect Cowork`
 
-[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula entrepreneur who is the organizer and founder of the Honduras [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a professor of entrepreneurship and strategy at [UNITEC](http://www.unitec.edu/), Honduras's premier technical university, and the former CEO of Amazylia, an e-commerce startup in Honduras. Ricardo also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
+[Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer and founder of Honduras [Startup Weekend](https://www.facebook.com/SWSanPedroSula/) event, a weekend innovation and entrepreneurship conference that has helped hundreds of young Hondurans take a step toward running their own business (tech-based or otherwise). Ricardo is also professor of entrepreneurship and strategy at [UNITEC](http://www.unitec.edu/)-Honduras's premier technical university-and the former CEO of Amazylia, an e-commerce startup in Honduras. Ricardo also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
 
 ## Pedro Cerrato
 ![04b.jpg](/uploads/04b.jpg)
