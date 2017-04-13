@@ -34,7 +34,7 @@ So, with no further delay, our Honduran innovators:
 [Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for entrepreneurs and small firms to work, is a great place to meet innovators, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
 
 ## Ricardo Irias
-![rik2.jpg](/uploads/rik2.jpg)
+![03.jpg](/uploads/03.jpg)
 `Ricardo Irias (R) presents at the 2016 TIGO Business Forum in Honduras`
 
 [Ricardo](https://www.linkedin.com/in/ricardo-irias-86602311/) is a San Pedro Sula-based entrepreneur who is the organizer Honduras [Startup Weekend San Pedro Sula](https://www.facebook.com/SWSanPedroSula/) event, a weekend innovation and entrepreneurship conference that has helped hundreds of young Hondurans learn how to turn business ideas into real businesses. Ricardo is also professor of entrepreneurship and strategy at [UNITEC](http://www.unitec.edu/)-Honduras's premier technical university-and the co-founder of [sube.la](https://www.facebook.com/subelatam/), which is democratizing e-commerce in Latin America. He also speaks publicly on [entrepreneurship](https://www.linkedin.com/pulse/mi-charla-tedx-en-unitec-agrega-esto-tu-lista-my-talk-ricardo-irias) and [innovation](https://www.facebook.com/events/1660537300638878/permalink/1669352466424028/). 
