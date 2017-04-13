@@ -41,6 +41,6 @@ So, with no further adieu, our Honduran innovators:
 ![04b.jpg](/uploads/04b.jpg)
 `Pedro, standing, presents CEmprende Honduras to a crowd`
 
-[Pedro](https://www.linkedin.com/in/pedromarcialcerrato/) runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is passionate about helping budding entrepreneurs and is actively growing the CEmprende community by hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in the city.
+[Pedro](https://www.linkedin.com/in/pedromarcialcerrato/) runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is actively working with budding entrepreneurs to grow the CEmprende community and hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in Honduras.
 
 *If you work in Honduras, or would like to, and want to get in touch with any of these entrepreneurs, let us know at digital@dai.com or on [Facebook](http://www.facebook.com/DAIGlobal).*
