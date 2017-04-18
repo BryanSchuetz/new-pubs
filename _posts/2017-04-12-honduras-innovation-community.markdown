@@ -29,9 +29,9 @@ So, with no further delay, our Honduran innovators:
 
 ## Paulette Talavera
 ![02.jpg](/uploads/02.jpg)
-`Paulette Talavera presents Cowork Connect's payment options`
+`Paulette Talavera presents at Cowork Connect's`
 
-[Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for entrepreneurs and small firms to work, is a great place to meet innovators, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located just a couple of blocks from the U.S. Embassy. Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
+[Paulette](https://www.linkedin.com/in/paulette-talavera-8ab06a10/) is the founder of [Connect Cowork](https://www.facebook.com/ConnectCowork/), one of the two co-working spaces in Tegucigalpa. Connect Cowork provides a space for entrepreneurs and small firms to work, is a great place to meet innovators, hosts a ton of [events](https://www.facebook.com/pg/ConnectCowork/events/?ref=page_internal), and is centrally located just a couple of blocks from the U.S. Embassy. More than a few influential tech companies use Connect, including [Acklen Avenue](http://acklenavenue.com/), [Cinta-X](https://www.cinta-x.net/), and [No Somos Rockola](https://www.facebook.com/nosomosrockola/). Paulette also launched [SonoLabs](https://www.facebook.com/sonolabs/), a voice talent service, in 2005.
 
 ## Ricardo Irias
 ![03.jpg](/uploads/03.jpg)
@@ -43,6 +43,7 @@ So, with no further delay, our Honduran innovators:
 ![04b.jpg](/uploads/04b.jpg)
 `Pedro Cerrato, standing, presents CEmprende Honduras to a crowd`
 
-[Pedro](https://www.linkedin.com/in/pedromarcialcerrato/) runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), an Impact Hub candidate organization in Tegucigalpa. Pedro spent the last 20 years working overseas in the private sector, and is actively working with budding entrepreneurs to grow the CEmprende community and hosting monthly mixers at locations around the city. He also runs an active WhatsApp group focused on innovation and entrepreneurship in Honduras.
+[Pedro](https://www.linkedin.com/in/pedromarcialcerrato/), along side co-founders Catalina Mejía and Dina Nuñez runs [CEmprende Honduras](https://www.facebook.com/cemprendehn/), a collaborative community of entrepreneurs that encourages innovation and social entrepreneurship, particularly for rural areas and the agricultural sector. Pedro and the CEmprende team are actively working with budding entrepreneurs to grow the community and hosting monthly mixers around Tegucigalpa, and recently [won an award](https://www.fulbright-alumni.de/what-we-do/mulertaward/mulert-award-2017.html) from the German Fulbright Alumni Association. He also runs an active WhatsApp group focused on innovation and entrepreneurship, an outgrowth of the CEmprende project.
 
-*If you work in Honduras, or would like to, and want to get in touch with any of these innovators, let us know at digital@dai.com or on [Facebook](http://www.facebook.com/DAIGlobal).*
+
+*If you work in Honduras, or would like to, and want to get in touch with any of these innovators, let us know at digital@dai.com or on [Facebook](http://www.facebook.com/DAIGlobal). If you'd like more from Digital@DAI, [sign up](https://confirmsubscription.com/h/r/066AFBA15492935C) to get our blog in your inbox once a week.*
