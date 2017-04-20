@@ -7,7 +7,7 @@ Author: John DeRiggi
 
 ![thumbnails-054255.png](/uploads/thumbnails-054255.png)
 ``` Thumbnails of Sentinel Imagery from Planet's API```
-We love remote sensing here at DAI and luckily for us, satellite imagery API's are starting to pop up all over, like springtime flowers in DC. One of the most prominent imagery providers is [Planet](https://www.planet.com/), a small company with big lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. They provide access to imagery through a web platform, and they give developers access to their data through a web API.
+We love remote sensing here at DAI and as of late, satellite imagery APIs are starting to pop up all over, like springtime flowers in DC. One of the most prominent imagery providers is [Planet](https://www.planet.com/), a small company with big lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. They provide access to imagery through a web platform, and they give developers access to their data through a web API.
 
 We're really excited about the prospect of building custom apps to collect imagery for some of our project sites. The [API docs](https://www.planet.com/docs/) for Planet are thorough, letting you workout how to write a client of the API in the programming language of your choice. They have a few Python examples on the site but none for NodeJS in the latest version of the API - so let's make one! 
 
