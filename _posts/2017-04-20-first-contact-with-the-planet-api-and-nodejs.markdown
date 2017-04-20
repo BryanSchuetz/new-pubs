@@ -14,7 +14,12 @@ One of the apps we're cooking up here at DAI is something that helps us monitor 
 
 If you want to use the code you first need to [register as a developer with Planet](https://www.planet.com/explorer/) and get your API key. That is the only thing you need to change in the code before running it on your own machine.
 
-Here's the code!
+# Making a Request to the API
+Here's the code to make a request to the Planet API using NodeJS
 
 <script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
+
+# Reading the Response
+Our response comes back as a pageable list of responses with 250 records in each page! 
+<script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script>
  
