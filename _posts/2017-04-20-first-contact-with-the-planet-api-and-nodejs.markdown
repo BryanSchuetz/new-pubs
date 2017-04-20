@@ -20,6 +20,8 @@ Here's the code to make a request to the Planet API using NodeJS
 <script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
 
 # Reading the Response
-Our response comes back as a pageable list of responses with 250 records in each page. Here is a look at one of the response objects. It contains the coordinates for the perimeter of the tile, as well as a long list of useful parameters like cloud cover, sun angle, and image source. To actually download the imagery you would make another web request using the asset link that is part of each response object. 
+Our response comes back as a page-able list of responses with 250 records in each page. Here is a look at one of the response objects. It contains the coordinates for the perimeter of the tile, as well as a long list of useful parameters like cloud cover, sun angle, and image source. To actually download the imagery you would make another web request using the asset link that is part of each response object. 
 <script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script>
+
+This is a super simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
  
