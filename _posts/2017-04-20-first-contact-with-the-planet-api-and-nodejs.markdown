@@ -13,10 +13,8 @@ We're really excited about the prospect of building custom apps to collect image
 
 One of the apps we're cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: acquired any time since January 1st 2017, has downloadable assets, is an image with at least 85% actual imagery data data. The reason for that last criteria is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as [blackfill](https://www.planet.com/docs/glossary/) in the Planet glossary.
 
-If you want to use the code you first need to [register as a developer with Planet](https://www.planet.com/explorer/) and get your API key and replace it on line 44. That is the only change you need to make in the code before running it on your own machine.
-
 # Making a Request to the API
-Here's the code to make a request to the Planet API using NodeJS
+Here's the code to make a request to the Planet API using NodeJS. If you want to use the code you first need to [register as a developer with Planet](https://www.planet.com/explorer/) and get your API key and replace it on line 44. That is the only change you need to make in the code before running it on your own machine.
 
 <script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
 
