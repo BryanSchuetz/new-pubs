@@ -4,7 +4,7 @@ date: 2017-04-20 09:36:00 -04:00
 published: false
 ---
 
-![thumbnails.png](/uploads/thumbnails.png)
+![thumbnails-054255.png](/uploads/thumbnails-054255.png)
 ``` Thumbnails of Sentinel Imagery from Planet's API```
 We love remote sensing here at DAI and the new imagery API's are popping up all like springtime flowers in DC. Planet is a relatively small but lofty company that does many things: They build and launch small satellites that image the entire world every day, they provide access to the imagery through a web platform, and they provide access to their core data through an API.
 
