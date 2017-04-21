@@ -1,5 +1,5 @@
 ---
-title: First Contact with the Planet API with NodeJS
+title: First Contact with the Planet API and NodeJS
 date: 2017-04-20 09:36:00 -04:00
 published: false
 Author: John DeRiggi
