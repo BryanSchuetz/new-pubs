@@ -41,9 +41,9 @@ excerpt_separator: "<!--more-->"
 email: your-email@domain.com
 exclude:
 - ".gitignore"
-- "gulpfile.js"
-- "package.json"
-- "browser-sync.js"
+- gulpfile.js
+- package.json
+- browser-sync.js
 - ".jekyll-metadata"
 description: The Digital for Development field has enormous potential—and plenty of
   room for learning. We launched this blog as part of our own learning process, and
