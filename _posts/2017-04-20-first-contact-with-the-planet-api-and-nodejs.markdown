@@ -28,6 +28,6 @@ Our response comes back as a page-able list of responses with 250 records in eac
 <script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script>
 
 ![malibu_3-215f3c.png](/uploads/malibu_3-215f3c.png)
-```A thumbnail in the response of our API request for images near Malibu, CA```
+```Thumbnails in the response of our API request for images near Malibu, CA```
 This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
  
