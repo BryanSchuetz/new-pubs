@@ -1,0 +1,28 @@
+{
+  "name": "digital",
+  "version": "1.0.0",
+  "description": "Digital @ DAI",
+  "main": "gulpfile.js",
+  "scripts": {
+    "serve": "browser-sync start --config browser-sync.js",
+    "build":"bundle exec jekyll build --watch --incremental",
+    "jekyllfy": "npm run build & npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanSchuetz/digital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanSchuetz/digital/issues"
+  },
+  "homepage": "https://github.com/BryanSchuetz/digital#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.8"
+  },
+  "devDependencies": {
+
+  }
+}

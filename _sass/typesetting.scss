@@ -2,7 +2,7 @@
 
 body{
   visibility: hidden;
-  line-height: 1.8rem;
+  line-height: 1.5rem;
 }
 .wf-inactive body{
   visibility: visible;
@@ -99,12 +99,12 @@ a{
   color: $blue;
 }
 a:hover{
-  color: darken($blue, 10%);;
+  color: darken($blue, 10%);
 }
-a:not(.without-style, .post-details--byline a){
+a:not(.without-style){
   border-bottom: 2px solid $blue;
 }
-a:not(.without-style, .post-details--byline a):hover{
+a:not(.without-style):hover{
   border-bottom: 2px solid darken($blue, 10%);
 }
 

@@ -2,3 +2,6 @@
 .sass-cache
 build
 .jekyll-metadata
+node_modules/
+npm-debug.log
+browser-sync.js

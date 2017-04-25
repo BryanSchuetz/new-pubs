@@ -46,14 +46,14 @@
         {% endfor %}
       {% endif %}
     {% endif %}
-    {% if cap > 9 %}
+    {% if cap > 3 %}
       {% break %}
     {% endif %}
   {% endfor %}
   <!-- If there's no actually related content show recent stuff -->
   {% unless got_related == true %}
     {% assign new_posts = posts%}
-    {% for post in new_posts | limit: 9 %}
+    {% for post in new_posts | limit: 3 %}
       {% if post.url != page.url%}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
