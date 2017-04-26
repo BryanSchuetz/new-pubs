@@ -36,3 +36,5 @@ Here are some beautiful images of the southern Californian coastline that came b
 ![malibu_3-215f3c.png](/uploads/malibu_3-215f3c.png)
 `Thumbnails in the response of our API request for images near Malibu, California.`
 This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
+
+If you have any questions or if you spot any bugs in my code then get at me! [https://twitter.com/DeRiggible](https://twitter.com/DeRiggible)
