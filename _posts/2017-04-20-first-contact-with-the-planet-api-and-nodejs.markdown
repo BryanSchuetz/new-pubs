@@ -33,6 +33,7 @@ Our response comes back as a page-able list of responses with 250 records in eac
 # Images in the Response
 
 Here are some beautiful images of the southern Californian coastline that came back in our response. A useful parameter in the result set is cloud_cover. Filtering on images with low cloud_cover gives you crystal clear imagery.
+
 ![malibu_3-215f3c.png](/uploads/malibu_3-215f3c.png)
 `Thumbnails in the response of our API request for images near Malibu, California.`
 This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
