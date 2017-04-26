@@ -37,4 +37,4 @@ Here are some beautiful images of the southern Californian coastline that came b
 `Thumbnails in the response of our API request for images near Malibu, California.`
 This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
 
-If you have any questions or if you spot any bugs in my code then get at me! [John on Twitter](https://twitter.com/DeRiggible)
+If you have any questions or if you spot any bugs in my code then get at me! [@DeRiggible](https://twitter.com/DeRiggible)
