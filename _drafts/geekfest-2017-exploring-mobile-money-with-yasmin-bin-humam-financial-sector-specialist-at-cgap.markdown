@@ -2,6 +2,7 @@
 title: 'GeekFest 2017: Exploring Mobile Money and Wome''s Financial Inclusion with
   Yasmin Bin-Humam'
 date: 2017-04-26 12:55:00 -04:00
+Author: Karim Bin-Humam
 ---
 
 ![geek fest logo](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/geek%20fest%20smallest.jpg?download){:.float-left}
