@@ -15,6 +15,8 @@ Welcome to Geekfest 2017, a series of interviews featuring ICT4D thought leaders
 
 In this installment of Geekfest 2017, I'm picking the brain of my own sister, Yasmin Bin-Humam, Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is working to establishing a Community of Practice focusing on solutions improving women's access to financial services, including mobile and digital services.
 
+<!-- more -->
+
 ![yasmin.png](/uploads/yasmin.png)
 
 **Q:  Why is the development community excited about the potential for mobile money to be a game changer in women’s financial inclusion?**
