@@ -11,17 +11,17 @@ Author: Karim Bin-Humam
 
 ![geek fest logo](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/geek%20fest%20smallest.jpg?download){:.float-left}
 
-Welcome to Geekfest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the growth of the ICT4D community.
+Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the overall growth of the ICT4D community.
 
-In this installment of Geekfest 2017, I'm picking the brain of my own sister, Yasmin Bin-Humam, Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is working to establishing a Community of Practice focusing on solutions improving women's access to financial services, including mobile and digital services.
+In this installment of GeekFest 2017, I'm picking the brain of my own sister, Yasmin Bin-Humam, a Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is establishing a community of practice focusing on solutions to improve women's access to financial services, such as mobile and digital services.
 
 <!-- more -->
 
 ![yasmin.png](/uploads/yasmin.png)
 
-**Q:  Why is the development community excited about the potential for mobile money to be a game changer in women’s financial inclusion?**
+**Q: Why is the development community excited about the potential for mobile money to be a game changer in women’s financial inclusion?**
 
-A: Well, what we know for a fact is that women are in need of a game changer. Women earning less than $2/day are [28% less likely](http://www.worldbank.org/en/news/feature/2012/04/19/three-quarters-of-the-worlds-poor-are-unbanked) than men to have bank accounts. This is just access to accounts – when you look at usage of accounts, dormancy rates are much higher for women than for men so, the gap is in essence even higher! This is why practitioners need to come together with a focus on the women’s market segment, as they are doing in our newly formed community of practice on women’s financial inclusion.
+A: Well, what we know for a fact is that women are in need of a game changer. Women earning less than $2 a day are [28 percent less likely](http://www.worldbank.org/en/news/feature/2012/04/19/three-quarters-of-the-worlds-poor-are-unbanked) than men to have bank accounts. This is just access to accounts – when you look at usage of accounts, dormancy rates are much higher for women than for men so, the gap is in essence even higher! This is why practitioners need to come together with a focus on the women’s market segment, as they are doing in our newly formed community of practice on women’s financial inclusion.
 
 **Q: In a [recent blog post](http://www.cgap.org/blog/how-social-norms-affect-women%E2%80%99s-financial-inclusion), you highlighted how women face social norms that tend to restrict their financial inclusion. What is it about mobile money and digital financial services that makes people think it will be a game changer for women’s financial inclusion?**
 
