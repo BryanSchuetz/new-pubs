@@ -9,13 +9,13 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-![geek fest logo](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/geek%20fest%20smallest.jpg?download){:.float-left}
+![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
 
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the overall growth of the ICT4D community.
 
 In this installment of GeekFest 2017, I'm picking the brain of my own sister, Yasmin Bin-Humam, a Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is establishing a community of practice focusing on solutions to improve women's access to financial services, such as mobile and digital services.
 
-<!-- more -->
+<!--more-->
 
 ![yasmin.png](/uploads/yasmin.png)
 
