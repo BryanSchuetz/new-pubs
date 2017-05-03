@@ -8,6 +8,8 @@ Author: Kristen Roggemann
 
 F8, [Facebook's annual conference](https://www.fbf8.com/), was my first trip to Silicon Valley - I've been to the Silicon Wadi (Israel) and the Silicon Savannah (Kenya), but never had I stepped foot where the OG magic happens. It was the perfect sort of baptism by fire into the mentality and ethos of the place that brought us personal computing, smartphones and the internet: a gathering where the future is dreamed up by developers and defined by technology's limitless potential. It was wild.
 
+<!--more-->
+
 I'll outline below a few of the innovations that I think are particularly relevant to the work we do in ICT, and then make an argument for why the practice of ICT4D is more important than ever.
 
 ## Augmented Reality: Post-it notes 2.0
@@ -28,4 +30,4 @@ Among the thousands of true tech believers and their thousands upon thousands of
 
 Interested in thinking alongside us on these issues? Shoot us a Tweet (#DigitalDAI or to me directly, @kroggemann) so we can connect.
 
-\*Gift for if you've read this far: The last day there was a mind-blowing talk about how we can [hear through our skin](https://techcrunch.com/2017/04/19/facebook-brain-interface/) - no joke.  Totally worth your time: [Watch it here](https://developers.facebook.com/videos/f8-2017/f8-2017-keynote-day-2/)!\*
+*Gift for if you've read this far: The last day there was a mind-blowing talk about how we can [hear through our skin](https://techcrunch.com/2017/04/19/facebook-brain-interface/) - no joke.  Totally worth your time: [Watch it here](https://developers.facebook.com/videos/f8-2017/f8-2017-keynote-day-2/)!*
