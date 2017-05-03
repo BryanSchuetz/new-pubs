@@ -28,4 +28,4 @@ Among the thousands of true tech believers and their thousands upon thousands of
 
 Interested in thinking alongside us on these issues? Shoot us a Tweet (#DigitalDAI or to me directly, @kroggemann) so we can connect.
 
-Gift for if you've read this far: The last day there was a mind-blowing talk about how we can [hear through our skin](https://techcrunch.com/2017/04/19/facebook-brain-interface/) - no joke.  Totally worth your time: [Watch it here](https://developers.facebook.com/videos/f8-2017/f8-2017-keynote-day-2/)!
+\*Gift for if you've read this far: The last day there was a mind-blowing talk about how we can [hear through our skin](https://techcrunch.com/2017/04/19/facebook-brain-interface/) - no joke.  Totally worth your time: [Watch it here](https://developers.facebook.com/videos/f8-2017/f8-2017-keynote-day-2/)!\*
