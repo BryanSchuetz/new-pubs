@@ -10,6 +10,8 @@ F8, [Facebook's annual conference](https://www.fbf8.com/), was my first trip to 
 
 I’ll outline below a few of the innovations that are particularly relevant to the work we do, and then make an argument for why the practice of ICT4D is more important than ever.
 
+<!--more-->
+
 ## Augmented Reality: Post-it Notes 2.0
 
 ![f8.jpg](/uploads/f8.jpg)
