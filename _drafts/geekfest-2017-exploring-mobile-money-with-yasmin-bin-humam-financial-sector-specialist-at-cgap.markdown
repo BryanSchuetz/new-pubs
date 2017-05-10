@@ -11,7 +11,7 @@ Author: Karim Bin-Humam
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
 
-Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the overall growth of the ICT4D community.
+Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in conducting #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the overall growth of the ICT4D community.
 
 In this installment of GeekFest 2017, I'm picking the brain of my own sister, Yasmin Bin-Humam, a Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is establishing a community of practice focusing on solutions to improve women's access to financial services, such as mobile and digital services.
 
@@ -41,6 +41,4 @@ Many initiatives will be featured in the upcoming [Women’s Economic Empowermen
 
 **Q. So how can people get involved in the community of practice?**
 
-People are welcome to sign up for our [mailing list](http://eepurl.com/cBmYKj), or to join us on [LinkedIn](https://www.linkedin.com/groups/8602053)! 
-
-*Check out the [Community of Practice's website](https://www.microfinancegateway.org/organization/womens-financial-inclusion-community-practice) to stay up to date with its work.*
+People are welcome to sign up for our [mailing list](http://eepurl.com/cBmYKj), or to join us on [LinkedIn](https://www.linkedin.com/groups/8602053)! They can also check out the [Community of Practice's website](https://www.microfinancegateway.org/organization/womens-financial-inclusion-community-practice) to stay up to date with its work.
