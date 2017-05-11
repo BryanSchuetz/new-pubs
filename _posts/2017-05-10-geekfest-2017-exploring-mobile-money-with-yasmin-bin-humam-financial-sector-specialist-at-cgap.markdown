@@ -1,7 +1,7 @@
 ---
 title: 'GeekFest 2017: Exploring Mobile Money and Women’s Financial Inclusion with
   Yasmin Bin-Humam'
-date: 2017-04-26 12:55:00 -04:00
+date: 2017-05-10 12:55:00 -04:00
 tags:
 - Geekfest 2017
 - Digital Financial Services
