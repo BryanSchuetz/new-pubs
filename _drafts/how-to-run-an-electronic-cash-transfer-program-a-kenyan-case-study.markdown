@@ -4,10 +4,14 @@ date: 2017-05-15 10:21:00 -04:00
 tags:
 - Kenya
 - Electronic Cash Transfer
-Author: Anand Varghese
+Author: "[Karim Bin-Humam](/authors/karim-bin-humam/) and [Anand Varghese](/authors/anand-varghese/"
 ---
 
 Working on an ICT team can sometimes feel like being the [Morpheus](https://en.wikipedia.org/wiki/Morpheus_(The_Matrix)) of the development world -- all we want to do is show development projects that they possess immense potential that can be unleashed with digital tools. So we try our best sneak in ICT elements into projects in any way possible: short blurbs in project proposals, hastily-prepared ICT strategy documents while on technical assignments in the field, straight-up bribery. Whatever it takes to sugar-coat the red pill. So imagine our surprise when we were asked to meet with a DAI-led project that \*already \*has multiple ICT tools integrated into its workflow: the DFID-funded Kenya [Hunger Safety Net Programme (HSNP)](http://www.hsnp.or.ke/).
+
+![introphoto.png](/uploads/introphoto.png)
+
+<!--more-->
 
 While Kenya is well-known to be one of the most digital-forward countries in Sub-Saharan Africa, what makes HSNP unique as a technology-driven project is that it is focused squarely on the pastoral communities in the arid northern regions of Kenya - specifically those largely off-grid communities that have the least access to technology. HSNP focuses on providing up 10 100,000 households in four northern counties (Marsabit, Mandera, Turkana, and Wajir) with regular cash transfer payments every two months, and can scale up to provide emergency cash transfers based on prevailing drought conditions. The ultimate goal of these cash transfers is to reduce poverty, hunger, and vulnerability in the focus counties, resulting in better and more sustainable safety nets for poor and vulnerable households. In order to do this, HSNP has integrated a number of digital platforms into its work: (a) an e-payments system, (b) a remote sensed drought early warning system, (c) an SMS/IVR-based communications and case management system, and (d) a bot built on the popular messaging app [Telegram](https://telegram.org/), which we [reviewed](https://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html) as a part of [App-A-Thon 2016](https://dai-global-digital.com/tags/?tag=appathon-2016).
 
