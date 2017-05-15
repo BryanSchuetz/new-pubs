@@ -8,7 +8,7 @@ tags:
 Author: "[Karim Bin-Humam](/authors/karim-bin-humam/) and [Anand Varghese](/authors/anand-varghese/)"
 ---
 
-Working on an ICT team can sometimes feel like being the [Morpheus](https://en.wikipedia.org/wiki/Morpheus_(The_Matrix)) of the development world -- all we want to do is show development projects that they possess immense potential that can be unleashed with digital tools. So we try our best sneak in ICT elements into projects in any way possible: short blurbs in project proposals, hastily-prepared ICT strategy documents while on technical assignments in the field, straight-up bribery. Whatever it takes to sugar-coat the red pill. So imagine our surprise when we were asked to meet with a DAI-led project that \*already \*has multiple ICT tools integrated into its workflow: the DFID-funded Kenya [Hunger Safety Net Programme (HSNP)](http://www.hsnp.or.ke/).
+Working on an ICT team can sometimes feel like being the [Morpheus](https://en.wikipedia.org/wiki/Morpheus_(The_Matrix)) of the development world—all we want to do is show development project teams that digital tools can unleash immense potential. So we try our best to sneak ICT elements into projects in any way possible: short blurbs in project proposals, ICT strategy documents while on technical assignments in the field, or straight-up bribery. Whatever it takes to sugarcoat the red pill. So imagine our surprise when we were asked to meet with a DAI-led project that \*already \*has multiple ICT tools integrated into its workflow: the  Kenya [Hunger Safety Net II Programme (HSNP II)](http://www.hsnp.or.ke/), funded by the U.K. Department for International Development.
 
 ![introphoto.png](/uploads/introphoto.png)
 
