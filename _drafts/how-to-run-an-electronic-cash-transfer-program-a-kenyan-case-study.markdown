@@ -34,7 +34,7 @@ To help the HSNP2 project plan cash transfers—particularly emergency subsisten
 
 Since many of the project’s beneficiaries move from place to place, creating reliable channels of communication can be a challenge. So HSNP2 has set up a text and interactive voice response-based system for the project’s field representatives to collect and address complaints from beneficiaries. Not only will the system cover 50,000 beneficiaries across all local telecoms, it is also extremely cost-effective. It only costs the project 1 KSH (one cent USD) per text and 2 KSH per automated voice call (at a flat per-call rate, not per-minute). The system integrates via an API with HSNP2’s data management environment.
 
-##Telegram Bot
+## Telegram Bot
 
 ![Picture3.png](/uploads/Picture3.png)
 
