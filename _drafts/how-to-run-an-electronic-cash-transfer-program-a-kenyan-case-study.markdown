@@ -4,6 +4,7 @@ date: 2017-05-15 10:21:00 -04:00
 tags:
 - Kenya
 - Electronic Cash Transfer
+- Economic Growth
 Author: "[Karim Bin-Humam](/authors/karim-bin-humam/) and [Anand Varghese](/authors/anand-varghese/)"
 ---
 
