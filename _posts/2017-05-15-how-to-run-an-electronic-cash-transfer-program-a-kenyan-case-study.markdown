@@ -1,6 +1,9 @@
 ---
 title: 'How to run an electronic cash transfer program: A Kenyan case study'
 date: 2017-05-15 10:21:00 -04:00
+tags:
+- Kenya
+- Electronic Cash Transfer
 Author: Anand Varghese
 ---
 
