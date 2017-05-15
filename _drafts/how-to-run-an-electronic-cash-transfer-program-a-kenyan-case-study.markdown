@@ -15,28 +15,30 @@ Working on an ICT team can sometimes feel like being the [Morpheus](https://en.w
 
 While Kenya is well-known to be one of the most digital-forward countries in Sub-Saharan Africa, what makes HSNP unique as a technology-driven project is that it is focused squarely on the pastoral communities in the arid northern regions of Kenya - specifically those largely off-grid communities that have the least access to technology. HSNP focuses on providing up 10 100,000 households in four northern counties (Marsabit, Mandera, Turkana, and Wajir) with regular cash transfer payments every two months, and can scale up to provide emergency cash transfers based on prevailing drought conditions. The ultimate goal of these cash transfers is to reduce poverty, hunger, and vulnerability in the focus counties, resulting in better and more sustainable safety nets for poor and vulnerable households. In order to do this, HSNP has integrated a number of digital platforms into its work: (a) an e-payments system, (b) a remote sensed drought early warning system, (c) an SMS/IVR-based communications and case management system, and (d) a bot built on the popular messaging app [Telegram](https://telegram.org/), which we [reviewed](https://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html) as a part of [App-A-Thon 2016](https://dai-global-digital.com/tags/?tag=appathon-2016).
 
-**e-Payments system**
+## e-Payments system
 
 ![Picture1.png](/uploads/Picture1.png)
 
-The heart of the project lies in a cash-transfer system which uses fully functional bank accounts, and allows the project to centrally manage the disbursement of payments directly to beneficiary bank accounts. Setting up this system required significant footwork, reaching off-grid communities through rural agent networks, leveraging banking network agents, on-site program officers, and community leaders to set up beneficiaries with personal bank accounts and ATM cards linked to those accounts. Each qualifying beneficiary receives an ATM card with 2-Factor authentication security which can be used with a PIN number or biometric data. This card is then used to withdraw funds delivered by the project from payment agents, ATMs, or brick and mortar bank branches. SMS and IVR based communications platforms that inform beneficiaries that their bank account has received funds, and also inform them when and where they can use their cards to withdraw funds.
+The heart of the project lies in a cash-transfer system which uses fully functional bank accounts, and allows the project to centrally manage the disbursement of payments directly to beneficiary bank accounts. Setting up this system required significant footwork: reaching off-grid communities through rural agent networks and leveraging banking network agents, on-site program officers, and community leaders to set up beneficiaries with personal bank accounts and ATM cards linked to those accounts. Each qualifying beneficiary receives an ATM card with 2-Factor authentication security which can be used with a PIN number or biometric data. This card is then used to withdraw funds delivered by the project from payment agents, ATMs, or brick and mortar bank branches. SMS and IVR based communications platforms that inform beneficiaries that their bank account has received funds, and also inform them when and where they can use their cards to withdraw funds.
 
-**Satellite-powered drought early warning system**
+## Satellite-powered drought early warning system
 
 ![Picture4-dea765.png](/uploads/Picture4-dea765.png)
 
 To help the HSNP project plan cash transfers - particularly emergency subsistence support transfers - the project employs an automated satellite-based early warning system that monitors the area’s Vegetation Condition Index month by month, a measure of dryness and the availability of pasture for livestock. When these indices reach Severe or Extreme level thresholds at the sub-county level, the system automatically calculates a quota of households in those sub-counties that are to receive scaled up payments due to their increased drought exposure. This subsystem means that the project adapts payment schedules automatically based on up to date satellite data and ensures that those households in greatest need receive e-cash payments from an early stage in the drought cycle, helping mitigate adverse impacts felt at household level.
 
-**SMS and IVR-based communications and case management**
+## SMS and IVR-based communications and case management
 
 Since many of the project’s beneficiaries are itinerant, creating reliable channels of communication with them can be a challenge. So HSNP has set up an SMS and IVR-based system for the project’s field representatives (regional programme officers, chiefs, and assistant chiefs) to collect and address complaints from beneficiaries. Not only will the system cover 50,000 beneficiaries across all local telecoms, it is also extremely cost-effective. It only costs the project 1 KSH (one cent USD) per SMS and 2 KSH per IVR call (at a flat per-call rate, not per-minute). The system integrates via an API with HSNP’s data management environment.
 
-**Telegram bot**
+##Telegram bot
 
 ![Picture3.png](/uploads/Picture3.png)
 
 The project’s 124 field-based program officers were often having to sending in requests to the project’s central system to get up-to-date information on beneficiaries and their status. To automate this process, the project developed a bot on the popular messaging app Telegram (due to its open API). The bot’s current functionality is pretty basic -- it allows officers to send in beneficiaries’ ID numbers and returns whether they are currently part of project’s payroll system. But the project is building out new search criteria to help streamline and decentralize the officers’ workflow and reduce their day-to-day dependency on the project headquarters.
 
+## HNSP proves it can be done
+
 HSNP is a shining example of a project that has managed to integrate multiple technologies and communications channels to mesh into a coherent, centrally planned and managed system. It also demonstrates how these technologies can be seamlessly integrated into human-centric processes, enabling maximum efficiency in an environment that is extremely challenging. Getting cash to people in semi-arid areas in the North is cumbersome? No problem: set up a fast electronic transfer system. Our target population doesn’t have bank accounts? No problem: leverage local networks to register them. Our population is itinerant and hard to locate? No problem: go to them and set up a system that automatically lets them know where they can get service nearby. We need to be quick to react to changes in the climate? No problem: use satellite data and link it directly to our beneficiary database to let us know how much to pay whom when.
 
-Our take-away: if a project operating in such a digitally-constrained environment can do so much with technology, there’s no reason why any of our other projects should be apprehensive about using digital tools!
+**Our take-away**: if a project operating in such a digitally-constrained environment can do so much with technology, there’s no reason why any of our other projects should be apprehensive about using digital tools!
