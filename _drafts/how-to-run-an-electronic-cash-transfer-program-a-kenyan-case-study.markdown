@@ -36,9 +36,9 @@ Since many of the project’s beneficiaries move from place to place, creating r
 
 ## Telegram Bot
 
-![Picture3.png](/uploads/Picture3.png)
-
 The project’s 124 field-based program officers were often having to send in requests to the project’s central system to get up-to-date information on beneficiaries and their status. To automate this process, the project developed a bot on the popular messaging app Telegram (due to its open API). The bot’s current functionality is pretty basic—it allows officers to send in beneficiaries’ ID numbers and returns whether they are currently part of project’s payroll system. But the project is building out new search criteria to help streamline and decentralize the officers’ workflow and reduce their day-to-day dependency on the project headquarters.
+
+![Picture3.png](/uploads/Picture3.png)
 
 ## HNSP2 Proves It Can Be done
 
