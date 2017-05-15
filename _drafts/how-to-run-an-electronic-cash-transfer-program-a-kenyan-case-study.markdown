@@ -18,13 +18,13 @@ While Kenya is known as one of the most connected countries in sub-Saharan Afric
 
 The ultimate goal of these cash transfers is to reduce poverty, hunger, and vulnerability in the focus counties, resulting in better and more sustainable safety nets for poor and vulnerable households. To do this, HSNP2 has integrated a number of digital platforms into its work: (a) an e-payments system, (b) a remote sensed drought early warning system, (c) a text message/interactive voice response-based communications and case management system, and (d) a bot built on the popular messaging app [Telegram](https://telegram.org/), which we [reviewed](https://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html) as a part of [App-A-Thon 2016](https://dai-global-digital.com/tags/?tag=appathon-2016).
 
-## e-Payments system
+## e-Payments System
 
 ![Picture1.png](/uploads/Picture1.png)
 
 The heart of the project lies in a cash-transfer system that uses fully functional bank accounts, and allows the project to centrally manage the disbursement of payments directly to beneficiary bank accounts. Setting up this system required significant footwork: reaching off-grid communities through rural agent networks and leveraging banking network agents, on-site program officers, and community leaders to set up beneficiaries with personal bank accounts and ATM cards linked to those accounts. Each qualifying beneficiary receives an ATM card with 2-Factor authentication security that can be used with a personal identification number or biometric data. This card is then used to withdraw funds delivered by the project from payment agents, ATMs, or brick-and-mortar bank branches. Text messaging and interactive voice response-based communications platforms inform beneficiaries their bank account has received funds, and also when and where they can use their cards to withdraw funds.
 
-## Satellite-powered drought early warning system
+## Satellite-Powered Drought Early Warning System
 
 ![Picture4-dea765.png](/uploads/Picture4-dea765.png)
 
