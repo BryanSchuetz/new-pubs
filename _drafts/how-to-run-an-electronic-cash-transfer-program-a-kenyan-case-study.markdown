@@ -1,5 +1,5 @@
 ---
-title: 'How to run an electronic cash transfer program: A Kenyan case study'
+title: 'How to Run an Electronic Cash Transfer Program: A Kenyan Case Study'
 date: 2017-05-15 10:21:00 -04:00
 tags:
 - Kenya
