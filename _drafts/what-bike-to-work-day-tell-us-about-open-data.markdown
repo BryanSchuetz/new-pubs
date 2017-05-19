@@ -3,7 +3,7 @@ title: What Bike to Work Day Tell Us About Open Data
 date: 2017-05-19 12:34:00 -04:00
 tags:
 - Data
-Author: "[Josh Linden] (https://www.linkedin.com/in/josh-linden-9715391b/)"
+Author: "[Josh Linden](https://www.linkedin.com/in/josh-linden-9715391b/)"
 ---
 
 More than 17,000 DC-area residents are commuting by bicycle today, as part of the 17th annual [Bike to Work Day](https://www.biketoworkmetrodc.org/). The event’s rising popularity parallels the region’s growing investment in bicycle infrastructure and multimodal transportation. This is a positive trend, particularly for those of us who want cities and urban areas to provide safe, convenient, and diverse transportation options for all residents. But is there a larger message for international development? What can Bike to Work Day tell us about the importance of open data for civic engagement?
