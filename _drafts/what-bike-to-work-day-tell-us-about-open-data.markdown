@@ -16,7 +16,7 @@ Open data—in combination with interactive, online mapping platforms such as [C
 
 Since you would like to create your map using CARTO, you should download the data in KML format, a file type that contains geospatial information. Once you download the bicycle data from each portal, you can create a free account with CARTO and then upload your datasets. CARTO then allows you to merge the data as layers on a single map. In this case that means four stacked layers: (1) Arlington data; (2) D.C. data; (3) Montgomery County data; (4) Capital Bike Share data.
 
-![Bike Map](/uploads/bike-map.jpg)
+[![Bike Map](/uploads/bike-map.jpg)](https://daipubs.carto.com/builder/627b0b2e-3bce-11e7-9ee8-0ecd1babdde5/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B38.8930369656108%2C-77.08359718322755%5D%2C%22sw%22%3A%5B38.93317463740463%2C-76.99124336242677%5D%2C%22center%22%3A%5B38.91310863886364%2C-77.03742027282715%5D%2C%22zoom%22%3A14%7D%7D)
 
 Next, you can style these layers to facilitate a better understanding of the infrastructure landscape: coloring and sizing routes by type, creating some interactivity through pop-up information windows, etc. You can also change the basemap to a style that provides maximum clarity for your data layers. In this case, that may include choosing a basemap without much color and with limited labels. This will allow your data layers to stand out.
 
