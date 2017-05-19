@@ -18,7 +18,7 @@ Since you would like to create your map using CARTO, you should download the dat
 
 ![DMV bike routes - image 1-c81109.PNG](/uploads/DMV%20bike%20routes%20-%20image%201-c81109.PNG)
 
-Next, you can style these layers to facilitate a better understanding of the infrastructure landscape: coloring and sizing routes by type, creating some interactivity through pop-up information windows, etc. You can also change the basemap to a style that provides maximum clarity for your data layers. In this case, that may include choosing a basemap without much color and with limited labels. This will allow your data layers to stand out.
+Next, you can style these layers to facilitate a better understanding of the infrastructure landscape: coloring and sizing routes by type, creating some interactivity through pop-up information windows, etc. You can also change the basemap to a style that provides maximum clarity for your data layers. In this case, that may include choosing a basemap without much color and with limited labels. This will allow your data layers to stand out. Click on the map below to check out the final result.
 
 [![DMV bike routes - image 2-8f1899.PNG](/uploads/DMV%20bike%20routes%20-%20image%202-8f1899.PNG)](https://daipubs.carto.com/builder/627b0b2e-3bce-11e7-9ee8-0ecd1babdde5/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B38.10214399750345%2C-78.68133544921876%5D%2C%22sw%22%3A%5B39.945542175353026%2C-75.5804443359375%5D%2C%22center%22%3A%5B39.03091925576062%2C-77.13020324707036%5D%2C%22zoom%22%3A9%7D%7D)
 
