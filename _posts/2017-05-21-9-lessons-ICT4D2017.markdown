@@ -2,6 +2,8 @@
 title: 9 Lessons on Digital Design from ICT4D 2017 in Hyderabad
 date: 2017-05-21 07:00:00 -04:00
 published: false
+tags:
+- Digital Principles
 Author: Adam Fivenson
 ---
 
