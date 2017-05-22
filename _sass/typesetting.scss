@@ -30,6 +30,11 @@ blockquote{
     margin-bottom: 8px;
   }
 }
+.post-details--byline{
+  a{
+    border-bottom: 0px;
+  }
+}
 .wf-active body{
   visibility: visible;
   font-family: 'proxima-nova', Helvetica, sans-serif;
