@@ -9,6 +9,8 @@ Author: Adam Fivenson
 
 I spent the last week at the [ICT4D conference in Hyderabad](https://2017ict4dconference.sched.com/), a four-day feast of presentations, discussions, and panels on how international development organizations are using new technologies in their work overseas.
 
+<!--more-->
+
 ![yes.JPG](/uploads/yes.JPG)
 
 DAI hosted a trio of panels, the first on [mobile data collection](http://sched.co/AIQu), the second on [growing access to digital technologies](http://sched.co/AIRP) at the local level, and the third on [funding for social pitches](http://sched.co/AIUb), and attended at least a hundred panels between the four of us who went. My big takeaway was **the importance of good digital design in ICT for international development**, and thankfully there were a series of sessions that featured (either implicitly or explicitly) concrete lessons for designers. Here they are:
