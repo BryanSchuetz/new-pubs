@@ -25,6 +25,11 @@ blockquote{
   padding-left: 2rem;
   margin-left: 1rem;
 }
+.post-content{
+  li{
+    margin-bottom: 8px;
+  }
+}
 .wf-active body{
   visibility: visible;
   font-family: 'proxima-nova', Helvetica, sans-serif;
