@@ -17,23 +17,23 @@ Earlier this year, when KIC recruited its 2017 cohort of ‘agripreneurs,’ onl
 
 Winnie Akoko and Margaret Aoko form one half of Team Unlimited, which is developing a tech product for livestock management called Anitrack. Using RFID technology, Anitrack enables cattle farmers to monitor the location and health status of their herd and also connects them with veterinary services. Unlike most of their fellow competitors, Winnie and Margaret are Kenyan – they came to Accra last year to study at the Meltwater Entrepreneurial School of Technology (MEST). Formerly a financial advisor for Britam financial services group, Winnie is Team Unlimited’s business strategist, while Margaret leads on product development.
 
-##JLS Agric Services
+## JLS Agric Services
 
 Linda Jalley is the Marketing Director for JLS Agric Services, which seeks to address one of the most widely recognized problems for smallholder farmers around the world: access to finance. They are doing so by creating an alternative credit scoring system for smallholder farmers in Ghana that uses mobile phones to collect data on farmers and a proprietary algorithm to analyze their credit worthiness.
 
-##Complete Farmer
+## Complete Farmer
 
 As co-founders of Complete Farmer, Joyce Pobi and Nanette B. Johnson are developing a platform for white collar professionals who are new to agriculture and seeking to start a farming business as a source of secondary income. The platform aims to be a one-stop shop for their customers to access training services, agricultural experts, farm employees, and service providers. Nanette is an Agricultural Scientist, while Joyce leads Complete Farmer’s Marketing and Sales. 
 
-##QualiTrace
+## QualiTrace
 
 Jennifer Jayne Asante and Padiki Bukare are the female co-founders of QualiTrace, a team that is building a traceability system to tackle the chronic issues of fake agricultural inputs that plague Ghana’s small-holder farmers. Using technology that has been deployed in the pharmaceuticals sector, QualiTrace’s system allows farmers to text in codes to verify that they are buying quality fertilizers, pesticides, and other inputs. Jennifer, who has a background in media studies, is the team’s product lead and lead pitcher. Padiki, who has a degree in nutrition and food sciences, is in charge of customer relations.   
 
-##Farm IT
+## Farm IT
 
 Joyce Kobia is the chief operations officer (COO) at Farm IT. With a degree in agribusiness and agriculture, Joyce helps build the team’s data collection and consulting business focused on Ghana’s cocoa sector. These data services are intended to help aggregators and policy-makers in the cocoa sector improve decision-making and enterprise-level strategy. 
 
-##AgroSeal
+## AgroSeal
 
 Edna Sawe, who also trained at MEST, is the cohort’s only female software developer and is the CTO of AgroSeal. Edna and her team are using mobile tools to connect fruit and vegetable producers with local transport and packaging providers in order to reduce post-harvest losses. 
 
