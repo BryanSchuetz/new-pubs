@@ -24,7 +24,7 @@ Winnie Akoko and Margaret Aoko form one half of Team Unlimited, which is develop
 
 As co-founders of Complete Farmer, Joyce Pobi and Nanette B. Johnson are developing a platform for white collar professionals who are new to agriculture and seeking to start a farming business as a source of secondary income. The platform aims to be a one-stop shop for their customers to access training services, agricultural experts, farm employees, and service providers. Nanette is an Agricultural Scientist, while Joyce leads Complete Farmer’s Marketing and Sales. 
 
-> "One of the basic problems I face as a business woman in agriculture is dealing with men who just don't take my instructions seriously, even if I am paying them. I tell them, 'The money I pay you doesn't have a man's face or a woman's face on it.'" - Joyce Pobi, Complete Farmer
+> "One of the basic problems I face as a business woman in agriculture is dealing with men who just don't take my instructions seriously, even if I am paying them. I tell them, 'The money I pay you doesn't have a man's face or a woman's face on it. It's all the same money.'" - Joyce Pobi, Complete Farmer
 
 ## Farm IT
 
