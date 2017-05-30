@@ -38,7 +38,7 @@ As co-founders of Complete Farmer, Joyce Pobi and Nanette B. Johnson are develop
 
 Jennifer Jayne Asante and Padiki Bukare are the female co-founders of QualiTrace, a team that is building a traceability system to tackle the chronic issues of fake agricultural inputs that plague Ghana’s small-holder farmers. Using technology that has been deployed in the pharmaceuticals sector, QualiTrace’s system allows farmers to text in codes to verify that they are buying quality fertilizers, pesticides, and other inputs. Jennifer, who has a background in media studies, is the team’s product lead and lead pitcher. Padiki, who has a degree in nutrition and food sciences, is in charge of customer relations.   
 
-
+> "I like that this program isn't gender focused; it's competence focused." -- Jennifer Jayne Asante
 
 
 
