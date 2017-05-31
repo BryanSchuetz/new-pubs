@@ -9,30 +9,30 @@ The KIC works at the intersection of three fields traditionally dominated by men
 
 <!--more-->
 
-[Many ](https://www.ncwit.org/sites/default/files/resources/impactgenderdiversitytechbusinessperformance_print.pdf)[studies ](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)have shown that businesses with more gender-diverse teams, especially at the top management level, achieve higher financial returns, higher levels of innovation, and increased efficiency. However a 2017 [study ](https://techcrunch.com/2017/04/19/in-2017-only-17-of-startups-have-a-female-founder/)by TechCrunch found that only 17 percent of startups were founded by women. The ICT4D sector has begun to recognize that this a problem for our field as well -- last week’s [ICT4D conference](https://dai-global-digital.com/9-lessons-ICT4D2017.html) featured a [panel discussion](https://2017ict4dconference.sched.com/event/AIt4/agriculture-environment-track-panel-women-in-ict-and-ag) focused solely on tackling the issue of gender diversity in the ICT4Ag sector.
+[Many ](https://www.ncwit.org/sites/default/files/resources/impactgenderdiversitytechbusinessperformance_print.pdf)[studies ](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)have shown that businesses with more gender-diverse teams, especially at the top management level, achieve higher financial returns, higher levels of innovation, and increased efficiency. However, a 2017 [study ](https://techcrunch.com/2017/04/19/in-2017-only-17-of-startups-have-a-female-founder/)by TechCrunch found that only 17 percent of startups were founded by women. The ICT4D sector has begun to recognize that this a problem for our field as well—last week’s [ICT4D conference](https://dai-global-digital.com/9-lessons-ICT4D2017.html) featured a [panel discussion](https://2017ict4dconference.sched.com/event/AIt4/agriculture-environment-track-panel-women-in-ict-and-ag) focused solely on tackling the issue of gender diversity in the ICT4Ag sector.
 
 ![WhatsApp Image 2017-05-30 at 4.42.54 PM.jpeg](/uploads/WhatsApp%20Image%202017-05-30%20at%204.42.54%20PM.jpeg)
 `KIC Agripreneurs (from L to R): Nanette B. Johnson, Edna Sawe, Joyce Pobi, Padiki Bukare, Winnie Akoko and Margaret Aoko.`
 
-Earlier this year, when KIC recruited its 2017 cohort of ‘agripreneurs,’ only a handful of the 100 participants were women. But over the next few months, as teams developed business concepts, conducted research, and were eliminated in pitch competitions, the proportion of women in the cohort has steadily risen. As they go into their next pitch competition next week, here are profiles of the six of the remaining 11 teams and their female co-founders:
+Earlier this year, when the KIC recruited its 2017 cohort of ‘agripreneurs,’ only a handful of the 100 participants were women. But over the next few months, as teams developed business concepts, conducted research, and were eliminated in pitch competitions, the proportion of women in the cohort has steadily risen. As they go into their next pitch competition next week, here are profiles of the six of the remaining 11 teams and their female co-founders:
 
 ## Team Unlimited
 
-Winnie Akoko and Margaret Aoko form one half of Team Unlimited, which is developing a tech product for livestock management called Anitrack. Using RFID technology, Anitrack enables cattle farmers to monitor the location and health status of their herd and also connects them with veterinary services. Unlike most of their fellow competitors, Winnie and Margaret are Kenyan – they came to Accra last year to study at the Meltwater Entrepreneurial School of Technology (MEST). Formerly a financial adviser for Britam financial services group, Winnie is Team Unlimited’s business strategist, while Margaret leads on product development.
+Winnie Akoko and Margaret Aoko form one half of Team Unlimited, which is developing a tech product for livestock management called Anitrack. Using RFID technology, Anitrack enables cattle farmers to monitor the location and health status of their herd and also connects them with veterinary services. Unlike most of their fellow competitors, Winnie and Margaret are Kenyan—they came to Accra last year to study at the Meltwater Entrepreneurial School of Technology (MEST). Formerly a financial adviser for Britam financial services group, Winnie is Team Unlimited’s business strategist, while Margaret leads on product development.
 
 ## Complete Farmer
 
-As co-founders of Complete Farmer, Joyce Pobi and Nanette B. Johnson are developing a platform for white collar professionals who are new to agriculture and seeking to start a farming business as a source of secondary income. The platform aims to be a one-stop shop for their customers to access training services, agricultural experts, farm employees, and service providers. Nanette is an Agricultural Scientist, while Joyce leads Complete Farmer’s Marketing and Sales.
+As co-founders of Complete Farmer, Joyce Pobi and Nanette B. Johnson are developing a platform for white-collar professionals who are new to agriculture and seeking to start a farming business as a source of secondary income. The platform aims to be a one-stop shop for their customers to access training services, agricultural experts, farm employees, and service providers. Nanette is an Agricultural Scientist, while Joyce leads Complete Farmer’s Marketing and Sales.
 
 > "One of the basic problems I face as a business woman in agriculture is dealing with men who just don't take my instructions seriously, even if I am paying them. I tell them, 'The money I pay you doesn't have a man's face or a woman's face on it. It's all the same money.'" - Joyce Pobi, Complete Farmer
 
 ## Farm IT
 
-Joyce Kobia is the chief operations officer (COO) at Farm IT. With a degree in agribusiness and agriculture, Joyce helps build the team’s data collection and consulting business focused on Ghana’s cocoa sector. These data services are intended to help aggregators and policy-makers in the cocoa sector improve decision-making and enterprise-level strategy.
+Joyce Kobia is the chief operations officer at Farm IT. With a degree in agribusiness and agriculture, Joyce helps build the team’s data collection and consulting business focused on Ghana’s cocoa sector. These data services are intended to help aggregators and policy-makers in the cocoa sector improve decision-making and enterprise-level strategy.
 
 ## JLS Agric Services
 
-Linda Jalley is the Marketing Director for JLS Agric Services, which seeks to address one of the most widely recognized problems for smallholder farmers around the world: access to finance. They are doing so by creating an alternative credit scoring system for smallholder farmers in Ghana that uses mobile phones to collect data on farmers and a proprietary algorithm to analyze their credit worthiness.
+Linda Jalley is the Marketing Director for JLS Agric Services, which seeks to address one of the most widely recognized problems for smallholder farmers around the world: access to finance. It is doing so by creating an alternative credit scoring system for smallholder farmers in Ghana that uses mobile phones to collect data on farmers and a proprietary algorithm to analyze their credit worthiness.
 
 ## QualiTrace
 
