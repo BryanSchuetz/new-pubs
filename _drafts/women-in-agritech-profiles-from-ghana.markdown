@@ -42,7 +42,7 @@ Jennifer Jayne Asante and Padiki Bukare are the female co-founders of QualiTrace
 
 ## AgroSeal
 
-Edna Sawe, who also trained at MEST, is the cohort’s only female software developer and is the CTO of AgroSeal. Edna and her team are using mobile tools to connect fruit and vegetable producers with local transport and packaging providers in order to reduce post-harvest losses.
+Edna Sawe, who also trained at MEST, is the cohort’s only female software developer and is the Chief Technology Officer of AgroSeal. Edna and her team are using mobile tools to connect fruit and vegetable producers with local transport and packaging providers in order to reduce post-harvest losses.
 
 Female skills and business potential remain an under-exploited resource to drive economic growth around the world, from the least developed countries to the most advanced. At we’ve seen with Kosmos Innovation Center, women have a key role to play in solving problems in the commercial sector and leading their countries into the future. As Edna from team AgroSeal put it:
 
