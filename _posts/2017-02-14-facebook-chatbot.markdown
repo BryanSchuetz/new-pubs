@@ -31,7 +31,7 @@ Chatbots present some distinct advantages as an outreach and engagement tool:
 
 ## Building a Bot
 
-During App-a-Thon 2016 we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html). Immediately after the F8 announcement, I looked for a way to build an FB Messenger chatbot via a simple, graphical user interface (GUI) and easy integration with Facebook. I soon realized that the options available at that time still required some coding ability. Lacking that, I was out of luck.
+During [App-a-Thon 2016](https://dai-global-digital.com/tags/?tag=appathon-2016) we looked at how [Kik incorporates chatbots](https://dai-global-digital.com/appathon-2016-kik-for-development.html). Immediately after the F8 announcement, I looked for a way to build an FB Messenger chatbot via a simple, graphical user interface (GUI) and easy integration with Facebook. I soon realized that the options available at that time still required some coding ability. Lacking that, I was out of luck.
 
 Today, a year later, the situation is very different. [Chatfuel](http://www.chatfuel.com), [Botsify](https://botsify.com/), and [OnSequal](https://www.onsequel.com/) among others, all make the process of creating a chatbot very simple for the code-challenged, as a recent posting in Social Media Examiner—[How to Create Facebook Messenger Chatbots-](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/)showed. I chose Chatfuel because the tutorial in Social Media Examiner used Chatfuel, but I will eventually try the other two as well for comparison's sake. 
 
