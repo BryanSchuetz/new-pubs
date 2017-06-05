@@ -28,3 +28,5 @@ AVC's best in class digital channel work doesn't stop at just content - AVC acti
 ## Building on accidental success
 
 Cognizant of the demand for a wider Telegram presence, AVC seems their unexpectedly wildly-successful chat group as a perfect small-scale pilot to figure out their strategy to open up a Telegram channel - a publicly available content stream on the Telegram app. AVC is currently planning to launch this channel next year, after a full year of running the private chat group - enough time to put together a strong editorial calendar based on the content patterns they see in the chat group and in the reactions to their YouTube content. We will definitely be checking back in with them as that channel is launched!
+
+*Do you have a super cool tech project you think more people should know about? Drop us a line on Twitter via @DAIGlobal or @kroggemann or through the hashtag #DigitalDAI!*
