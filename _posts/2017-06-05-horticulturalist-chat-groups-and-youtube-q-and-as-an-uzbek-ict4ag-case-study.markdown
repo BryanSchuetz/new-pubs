@@ -2,17 +2,18 @@
 title: 'The accidental success of horticulturalist chat groups: an Uzbek ICT4Ag case
   study'
 date: 2017-06-05 13:01:00 -04:00
+published: false
 tags:
 - Agriculture
 - Economic Growth
 Author: Kristen Roggemann
 ---
 
-In the typical way things happen at large global firms with highly decentralized project management, I first learned about the exceptional digital work being done by DAI’s USAID-funded [Agricultural Value Chain Activity in Uzbekistan project](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) (AVC) via a printed out email referenced in a meeting about something totally different.  I took a photo of the email - true story, I even sent the shot to my colleagues I was so excited - followed up with the listed contacts, and two weeks later was  having a fascinating conversation with two dynamic Uzbek colleagues who run the project's digital initiatives as they told me all about the initiatives I detail below.
+In the typical way things happen at large global firms with highly decentralized project management, I first learned about the exceptional digital work being done by DAI’s USAID-funded [Agricultural Value Chain Activity in Uzbekistan project](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) (AVC) via a printed out email referenced in a meeting about something totally different.  I took a photo of the email - true story, I even sent the shot to my colleagues I was so excited - followed up with the listed contacts, and two weeks later was  having a fascinating conversation with the two dynamic Uzbek colleagues - Kamil Yakubov and Sardor Kadirov -  who run AVC's digital initiatives. 
 
 ## The unexpected folks watching Uzbek YouTube horticultural training videos
 
-As their first foray into digital tools,  AVC launched a YouTube channel last year with short training videos to teach farmers best practices around pruning and disease control. They advertise the channel on partners' Facebook pages and mine the comments for questions that will help them better tailor and target seasonal content. In addition, AVC tracks all views data - learning, for example, that viewers don't watch more than 2 minutes of content. The project YouTube page currently has 52,000 views since May of last year, with a rapidly growing subscriber base among both Uzbeks and the neighboring countries - 40% of viewers come from Russia, and 18% from Kazakhstan. The diaspora and export market viewership audience is strong. Given the crop similarities in the regional countries as well as large diaspora populations, these audience numbers are not surprising.
+As their first foray into digital tools,  AVC launched a YouTube channel last year with short training videos to teach farmers best practices around pruning and disease control. They advertise the channel on partners' Facebook pages and mine the comments for questions that will help them better tailor and target seasonal content. In addition, AVC tracks all viewing data - learning, for example, that viewers don't watch more than 2 minutes of content. The project YouTube page currently has 52,000 views since May of last year, with a rapidly growing subscriber base among both Uzbeks and the neighboring countries - 40% of viewers come from Russia, and 18% from Kazakhstan. The diaspora and export market viewership audience is strong. Given the crop similarities in the regional countries as well as large diaspora populations, these audience numbers are unexpected though not surprising.
 
 ## ICT: from social to the workplace
 
