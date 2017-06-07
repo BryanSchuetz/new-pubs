@@ -24,7 +24,7 @@ Three months ago, AVC in collaboration with their local program partners establi
 
 AVC's best in class digital channel work doesn't stop at just content - AVC actively seeks to cross-leverage channels to understand their end user needs better. For example, they share their YouTube videos in the Telegram group, to get reactions and learn real needs from a highly targeted and pioneering audience. The two currently active project channels - YouTube and the Telegram chat group - are related but not fully cross-referencing. AVC doesn't advertise their Telegram group in the YouTube channel as the small size of the group keeps it useful and focused for members; it also allows AVC to use the group to figure out a content strategy and identify data patterns to determine what time of year certain content is needed.
 
-## Building on accidental success
+## Building on initial success
 
 Cognizant of the demand for a wider Telegram presence, AVC sees their wildly-successful chat group as a perfect small-scale pilot to influence their strategy to open up a Telegram channel - a publicly available content stream on the Telegram app. AVC is currently planning to launch this channel next year, after a full year of running the private chat group - enough time to assemble a strong editorial calendar based on the content patterns revealed in the chat group and in the reactions to their YouTube content. We will definitely be checking back in with them as that channel is launched!
 
