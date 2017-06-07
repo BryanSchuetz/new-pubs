@@ -9,6 +9,8 @@ Author: Adam Fivenson
 
 *Esta entrada también está disponible en [español](http://dai-global-digital.com/diseno-ciudadano-guatemala.html).*
 
+*Update: [Somos Chiantla](https://bit.ly/Chiantla-App) is now available for download to Android devices.*
+
 Back in late 2015, the [Nexos Locales](http://www.dai.com/our-work/projects/guatemala-nexos-locales) project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of [Chiantla](https://goo.gl/maps/5vfAjrmthUM2) (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the [Línea](http://www.insightcrime.org/news-analysis/guatemala-la-linea-customs-scandal-explained) corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. He wanted DAI’s help to design and develop a mobile tool to give the citizens of Chiantla (Chiantlecos) better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called the Mayor.
 
 <!--more-->
