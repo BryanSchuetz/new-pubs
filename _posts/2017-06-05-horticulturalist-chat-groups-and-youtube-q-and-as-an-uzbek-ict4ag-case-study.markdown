@@ -8,7 +8,9 @@ tags:
 Author: Kristen Roggemann
 ---
 
-In the typical way things happen at large global firms with highly decentralized project management, I first learned about the exceptional digital work being done by DAI’s USAID-funded [Agricultural Value Chain Activity in Uzbekistan project](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) (AVC) via a printed out email referenced in a meeting about something totally different.  I took a photo of the email - true story, I even sent the shot to my colleagues I was so excited - followed up with the listed contacts, and two weeks later was  having a fascinating conversation with the two dynamic Uzbek colleagues - Kamil Yakubov and Sardor Kadirov -  who run AVC's digital initiatives. 
+In the typical way things happen at large global firms with highly decentralized project management, I first learned about the exceptional digital work being done by DAI’s USAID-funded [Agricultural Value Chain Activity in Uzbekistan project](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) (AVC) via a printed out email referenced in a meeting about something totally different. I took a photo of the email - true story, I even sent the shot to my colleagues I was so excited - followed up with the listed contacts, and two weeks later was  having a fascinating conversation with the two dynamic Uzbek colleagues - Kamil Yakubov and Sardor Kadirov -  who run AVC's digital initiatives.
+
+<!--more-->
 
 ## The numerous folks watching Uzbek YouTube horticultural training videos
 
