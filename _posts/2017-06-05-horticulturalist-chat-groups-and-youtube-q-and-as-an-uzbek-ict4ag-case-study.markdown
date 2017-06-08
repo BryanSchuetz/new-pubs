@@ -1,5 +1,5 @@
 ---
-title: 'The viral success of horticulturalist chat groups: an Uzbek ICT4Ag case study'
+title: 'The Viral Success of Horticulturalist Chat Groups: An Uzbek ICT4Ag Case Study'
 date: 2017-06-05 13:01:00 -04:00
 published: false
 tags:
