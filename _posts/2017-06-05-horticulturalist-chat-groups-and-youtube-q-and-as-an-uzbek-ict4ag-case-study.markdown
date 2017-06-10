@@ -16,6 +16,10 @@ In the typical way things happen at large global firms with highly decentralized
 
 After their earlier and successful foray into digital tools via the [MEVA app](http://southsouthworld.org/solution/view?id=1109) in 2014, the AVC  team helped to launch a YouTube channel last year with short training videos to teach farmers best practices around pruning and disease control. They advertise the channel on partners’ Facebook pages and mine the comments for questions that will help them better tailor and target seasonal content. In addition, AVC tracks all viewing data—learning, for example, that viewers don’t watch more than 2 minutes of content. The project YouTube page currently has had 55,000 views since May 2016, with a rapidly growing subscriber base among both Uzbekistan and the neighboring countries—40 percent of viewers come from Russia, and 18 percent from Kazakhstan. The diaspora and export market viewership audience is strong. Given the crop similarities in the regional countries as well as large diaspora populations, these audience numbers are growing though not surprising.
 
+![uzbek youtube.png](/uploads/uzbek%20youtube.png)
+
+
+
 ## ICT: From Social to the Workplace
 
 AVC works nationwide across Uzbekistan—no easy task in a large country with roughly 30 million people, especially in a project heavily focused on technical assistance training. Since the beginning of the technological era, Uzbekistan has adopted all the new technologies including trending messaging apps, with Telegram leading the pack as the most popular app in [Commonwealth of Independent State countries](http://www.cisstat.com/eng/cis.htm). Uzbeks like Telegram because it’s fast, doesn’t use a ton of data, doesn’t take up a lot of phone memory and works well on low bandwidth data. Plus, it has stickers (you can see our full review of Telegram from App-a-Thon 2016 [here](https://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html)).  Because the staff and partners of AVC used Telegram so much in their personal lives, it was a natural migration point to pivot to workplace conversations.
