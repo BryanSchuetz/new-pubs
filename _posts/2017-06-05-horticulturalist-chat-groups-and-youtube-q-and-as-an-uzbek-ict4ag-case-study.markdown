@@ -13,11 +13,9 @@ In the typical way things happen at large global firms with highly decentralized
 
 ## The Numerous Folks Watching Uzbek YouTube Horticultural Videos
 
-After their earlier and successful foray into digital tools via the [MEVA app](http://southsouthworld.org/solution/view?id=1109) in 2014, the AVC  team helped to launch a YouTube channel last year with short training videos to teach farmers best practices around pruning and disease control. They advertise the channel on partners’ Facebook pages and mine the comments for questions that will help them better tailor and target seasonal content. In addition, AVC tracks all viewing data—learning, for example, that viewers don’t watch more than 2 minutes of content. The project YouTube page currently has had 55,000 views since May 2016, with a rapidly growing subscriber base among both Uzbekistan and the neighboring countries—40 percent of viewers come from Russia, and 18 percent from Kazakhstan. The diaspora and export market viewership audience is strong. Given the crop similarities in the regional countries as well as large diaspora populations, these audience numbers are growing though not surprising.
+After their earlier and successful foray into digital tools via the [MEVA app](http://southsouthworld.org/solution/view?id=1109) in 2014, the AVC  team helped to launch a YouTube channel last year with short training videos to teach farmers best practices around pruning and disease control. They advertise the channel on partners’ Facebook pages and mine the comments for questions that will help them better tailor and target seasonal content. In addition, AVC tracks all viewing data—learning, for example, that viewers don’t watch more than 2 minutes of content. The project YouTube page currently has had 55,000 views since May 2016, with a rapidly growing subscriber base among both Uzbekistan and the neighboring countries—40 percent of viewers come from Russia, and 18 percent from Kazakhstan. The diaspora and export market viewership audience is strong. Given the crop similarities in the regional countries as well as large diaspora populations, that these audience numbers are growing though not surprising.
 
 ![uzbek youtube.png](/uploads/uzbek%20youtube.png)
-
-
 
 ## ICT: From Social to the Workplace
 
