@@ -48,4 +48,6 @@ From an operational standpoint, the Cambodian CSOs we interviewed used very basi
 
 <script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
 
+Over the coming months, I'll be working with the DI project and CCC to figure out how the results of the Member Insights process can inform the design of improved outreach to member CSOs, as well as new and individually-tailored training programs. 
+
 *Like what you see? Click the Subscribe link below to get Digital@DAI in your inbox once a week.*
