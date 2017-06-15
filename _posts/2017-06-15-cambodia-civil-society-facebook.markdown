@@ -34,7 +34,8 @@ We also asked **who** updates each, when they are updated.  Both were most commo
 
 <script id="infogram_0_who_updates_fb_page" title="Who updates fb page" src="//e.infogr.am/js/dist/embed.js?OzO" type="text/javascript"></script>
 
-## #3 Cambodian CSOs aren't using the newest and best
+## #3 Tech for operations is more basic
 
-From an operational standpoint, the Cambodian CSOs we interviewed used very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, and 70% use Outlook for email. Conversely, 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool. These observations highlight the opportunity to help these organizations improve the efficiency and effectiveness of their operations through the introduction of some basic tech tools, particularly in beneficiary and data management. 
+From an operational standpoint, the Cambodian CSOs we interviewed used very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
 
+<script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
