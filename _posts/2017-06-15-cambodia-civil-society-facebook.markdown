@@ -2,6 +2,9 @@
 title: Iterating Digital Insights with Cambodian CSOs
 date: 2017-06-15 18:02:00 -04:00
 published: false
+tags:
+- Digital Insights
+- Cambodia
 Author: Adam Fivenson
 ---
 
@@ -12,7 +15,7 @@ As Cambodia’s 2018 general elections draw closer, the critical social role of 
 
 Domestically, the [Cooperation Committee for Cambodia](http://www.ccc-cambodia.org/) (CCC) functions as a membership association for Cambodian civil society organizations (CSOs), and provides training, research, and technical assistance to roughly 170 members. From the international community, there is a wide range of donors, foundations, and non-governmental organizations (NGOs) that support Cambodian CSOs, including [USAID’s Development Innovations (DI)](https://www.facebook.com/DevInnoKH/) project. DI helps local CSOs, technology companies and social enterprises design and use new technologies to address Cambodia’s development challenges.
 
-<--!more-->
+<!--more-->
 
 I was in Phnom Penh for most of May, working with CCC and DI to carry out what we’re tentatively calling Member Insights. What is Member Insights? A modified version of our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) design research method that focuses on member CSOs in the CCC network. Just as Digital Insights is the first step in a process to design digital tools and engagement methods for individuals, Member Insights is the first step in a process to design improved engagement and training programs for organizations. It is a rapid, inexpensive research method designed to highlight how organizations use technology & communicate, exploring communications as an organizational practice, focusing on which platforms are most common for internal information flows and how organizations engage external audiences such as beneficiaries, prospective beneficiaries, and the general public. In this case, the focus was Cambodian CSOs, but as a methodology Member Insights can be applied to businesses, governmental units, and even families. So, what did we find? 
 
