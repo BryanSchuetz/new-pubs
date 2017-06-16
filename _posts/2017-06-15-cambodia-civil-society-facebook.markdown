@@ -20,7 +20,7 @@ Domestically, the [Cooperation Committee for Cambodia](http://www.ccc-cambodia.o
 I was in Phnom Penh for most of May, working with CCC and DI to carry out what we’re initially calling Member Insights. What is Member Insights? A modified version of our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) research method that focuses on member CSOs in the CCC network. Just as Digital Insights is the first step in a process to design digital tools and engagement methods for individuals, Member Insights is the first step in a process to design improved engagement and training programs for organizations. It is a rapid, inexpensive research method that highlights how organizations use technology and communicate, exploring communications as an organizational practice, focusing on which platforms are most common for internal information and how organizations engage external audiences such as beneficiaries, prospective beneficiaries, and the general public. In this case, the focus was Cambodian CSOs, but as a methodology Member Insights can be applied to businesses, governmental units, and even families. So, what did we find? 
 
 ## #1 Facebook Messenger is the Alpha and Omega
-All 48 CSO staffers we interviewed (across 20 CSOs) had FB Messenger installed on their phones (see graph below). Among messaging apps Skype and Line are also both popular, while WhatsApp was surprisingly unpopular. This was a surprise; in most places where we’ve done Digital Insights research, WhatsApp was far and away the market leader among messaging apps. 
+All 48 CSO staffers we interviewed (across 20 CSOs) had FB Messenger installed on their phones (see graph below). Among messaging apps Skype and Line are also both popular, while WhatsApp was surprisingly unpopular. This was a surprise; in most places we’ve done Digital Insights research, WhatsApp was far and away the market leader among messaging apps. 
 
 <script id="infogram_0_app_choice-483169" title="App Choice" src="//e.infogr.am/js/dist/embed.js?hoa" type="text/javascript"></script>
 
@@ -28,7 +28,7 @@ But having an app installed doesn’t necessarily correlate to actual usage. We 
 
 <script id="infogram_0_messages_per_day" title="Messages per day" src="//e.infogr.am/js/dist/embed.js?Vwd" type="text/javascript"></script>
 
-We also asked CSO staffers if they had used any chat apps for informal internal group messaging. 16 out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
+We also asked CSO staffers if they had used any chat apps for informal internal group messaging. Sixteen out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
 
 <script id="infogram_0_internal_comms_chat" title="Internal comms chat" src="//e.infogr.am/js/dist/embed.js?JCf" type="text/javascript"></script>
 
