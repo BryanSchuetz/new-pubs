@@ -1,5 +1,5 @@
 ---
-title: Iterating Digital Insights with Cambodian CSOs
+title: Iterating Digital Insights with Cambodian Civil Society Groups
 date: 2017-06-15 18:02:00 -04:00
 published: false
 tags:
