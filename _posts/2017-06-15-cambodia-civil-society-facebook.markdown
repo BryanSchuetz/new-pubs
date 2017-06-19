@@ -43,10 +43,10 @@ We also asked **who** updates each, when they are updated. Both are most commonl
 
 ## #3 Tech for Operations is More Basic
 
-From an operational standpoint, the Cambodian CSOs we interviewed use very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
+From an operational standpoint, the Cambodian CSOs we interviewed use very basic technology tools in support of their operations. Eighty percent say QuickBooks is their accounting software of choice, while 70 percent use Outlook for email (others used personal email or Gmail). Eighty percent say they use Excel to manage their beneficiary database, instead of a more customized client relationship management software. The same number, eighty percent, say they use paper as their primary data collection tool as opposed to a digital data collection tool. 
 
 <script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
 
-Over the coming months, I'll be working with the DI project and CCC to figure out how the results of the Member Insights process can inform the design of improved outreach to member CSOs, as well as new and individually-tailored training programs. 
+Over the coming months, I’ll be working with the DI project and CCC to figure out how the results of the Member Insights process can inform the design of improved outreach to member CSOs, as well as new and individually-tailored training programs. 
 
 *Like what you see? Click the Subscribe link below to get Digital@DAI in your inbox once a week.*
