@@ -31,7 +31,7 @@ We also asked CSO staffers if they had used any chat apps for informal internal 
 
 <script id="infogram_0_internal_comms_chat" title="Internal comms chat" src="//e.infogr.am/js/dist/embed.js?JCf" type="text/javascript"></script>
 
-## #2 Facebook is primary for public comms
+## #2 Facebook is Primary for Public Comms
 
 All 20 organizations had a web site, while only 90% had a Facebook page. Despite that, updates to Facebook pages happened with far more regularity than web sites. Most organizations said they updated their Facebook pages every week or every day, while most updated their web sites rarely or once per quarter. See the graphic below. 
 
