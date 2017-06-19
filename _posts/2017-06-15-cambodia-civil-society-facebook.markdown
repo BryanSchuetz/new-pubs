@@ -10,7 +10,7 @@ Author: Adam Fivenson
 Civil society organizations (CSOs) play a critical role in public life: understanding citizens’ daily challenges, providing services to address those challenges in the short-term, and pursuing long-term policy solutions. In Cambodia, there are hundreds of CSOs, but a wide variability in management capacity, technical capability, and staffing has given rise to domestic and international organizations that exist to help these CSOs carry out their important social role more effectively. 
 
 ![1small.JPG](/uploads/1small.JPG)
-`Interviewing the director of a Cambodian CSO for Member Insights`
+`Interviewing the director of a Cambodian CSO for Member Insights.`
 
 Domestically, the [Cooperation Committee for Cambodia](http://www.ccc-cambodia.org/) (CCC) functions as a membership association for Cambodian civil society organizations, and provides training, research, and technical assistance to roughly 170 member organizations. From the international community, there is a wide range of donors, foundations, and nongovernmental organizations (NGOs) that support Cambodian CSOs, including [USAID’s Development Innovations (DI)](https://www.facebook.com/DevInnoKH/) project. DI helps local CSOs, technology companies, and social enterprises design and use new technologies to address Cambodia’s development challenges.
 
