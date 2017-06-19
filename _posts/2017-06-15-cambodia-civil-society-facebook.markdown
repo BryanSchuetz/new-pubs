@@ -37,13 +37,13 @@ All 20 organizations have a website, while only 90 percent have a Facebook page.
 
 <script id="infogram_0_web_site_vs_facebook_page" title="Web site vs Facebook page" src="//e.infogr.am/js/dist/embed.js?2Bb" type="text/javascript"></script>
 
-We also asked **who** updates each, when they are updated.  Both were most commonly updated by CSO Executive Directors, but IT, Program, and Administrative staff were also commonly involved, as per the graphics below.  Surprisingly, only 15% of the organizations interviewed had their communications staff involved in updating their public presences. 
+We also asked **who** updates each, when they are updated. Both are most commonly updated by CSO executive directors, but IT, program, and administrative staff are also commonly involved, as per the graphics below. Surprisingly, only 15 percent of the organizations interviewed have their communications staff involved in updating their public presences. 
 
 <script id="infogram_0_who_updates_fb_page" title="Who updates fb page" src="//e.infogr.am/js/dist/embed.js?OzO" type="text/javascript"></script>
 
-## #3 Tech for operations is more basic
+## #3 Tech for Operations is More Basic
 
-From an operational standpoint, the Cambodian CSOs we interviewed used very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
+From an operational standpoint, the Cambodian CSOs we interviewed use very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
 
 <script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
 
