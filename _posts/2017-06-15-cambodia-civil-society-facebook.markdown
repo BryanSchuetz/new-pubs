@@ -23,11 +23,11 @@ All 48 CSO staffers we interviewed (across 20 CSOs) have FB Messenger installed 
 
 <script id="infogram_0_app_choice-483169" title="App Choice" src="//e.infogr.am/js/dist/embed.js?hoa" type="text/javascript"></script>
 
-But having an app installed doesn’t necessarily correlate to actual usage. We also asked CSO staffers how many messages they sent on each app (and via text) every day. FB Messenger really separates itself from the pack when measured this way, and based on direct observation, I’m willing to bet that the 15 messages per day average is a stark underestimate of actual usage. This might be the result of the presence of work colleagues in the focus groups. 
+But having an app installed doesn’t necessarily correlate to actual usage. We also asked CSO staffers how many messages they send on each app (and via text) every day. FB Messenger really separates itself from the pack when measured this way, and based on direct observation, I’m willing to bet that the 15 messages per day average is a stark underestimate of actual usage. This might be the result of the presence of work colleagues in the focus groups. 
 
 <script id="infogram_0_messages_per_day" title="Messages per day" src="//e.infogr.am/js/dist/embed.js?Vwd" type="text/javascript"></script>
 
-We also asked CSO staffers if they had used any chat apps for informal internal group messaging. Sixteen out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
+We also asked CSO staffers if they use any chat apps for informal internal group messaging. Sixteen out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
 
 <script id="infogram_0_internal_comms_chat" title="Internal comms chat" src="//e.infogr.am/js/dist/embed.js?JCf" type="text/javascript"></script>
 
