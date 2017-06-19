@@ -33,7 +33,7 @@ We also asked CSO staffers if they had used any chat apps for informal internal 
 
 ## #2 Facebook is Primary for Public Comms
 
-All 20 organizations had a web site, while only 90% had a Facebook page. Despite that, updates to Facebook pages happened with far more regularity than web sites. Most organizations said they updated their Facebook pages every week or every day, while most updated their web sites rarely or once per quarter. See the graphic below. 
+All 20 organizations have a website, while only 90 percent have a Facebook page. Despite that, updates to Facebook pages happened with far more regularity than web sites. Most organizations said they updated their Facebook pages every week or every day, while most updated their web sites rarely or once per quarter. See the graphic below. 
 
 <script id="infogram_0_web_site_vs_facebook_page" title="Web site vs Facebook page" src="//e.infogr.am/js/dist/embed.js?2Bb" type="text/javascript"></script>
 
