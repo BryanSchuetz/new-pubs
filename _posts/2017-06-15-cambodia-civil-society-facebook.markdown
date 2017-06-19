@@ -27,7 +27,7 @@ But having an app installed doesn’t necessarily correlate to actual usage. We 
 
 <script id="infogram_0_messages_per_day" title="Messages per day" src="//e.infogr.am/js/dist/embed.js?Vwd" type="text/javascript"></script>
 
-We also asked CSO staffers if they use any chat apps for informal internal group messaging. Sixteen out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
+We also asked CSO staffers if they use any chat apps for informal internal group messaging. Sixteen out of 20 say they use FB Messenger. The next most popular choice is Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
 
 <script id="infogram_0_internal_comms_chat" title="Internal comms chat" src="//e.infogr.am/js/dist/embed.js?JCf" type="text/javascript"></script>
 
