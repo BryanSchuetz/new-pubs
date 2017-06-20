@@ -2,6 +2,7 @@
 title: 'GeekFest 2017: Talking Open Source Design, Makerspaces, and Global Supply
   Chains with Jessica Berlin'
 date: 2017-06-19 17:03:00 -04:00
+published: false
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
