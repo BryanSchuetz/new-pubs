@@ -3,6 +3,10 @@ title: 'GeekFest 2017: Talking Open Source Design, Makerspaces, and Global Suppl
   Chains with Jessica Berlin'
 date: 2017-06-19 17:03:00 -04:00
 published: false
+tags:
+- Geekfest 2017
+- Innovation
+Author: Karim Bin-Humam
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
