@@ -6,9 +6,9 @@ date: 2017-06-19 17:03:00 -04:00
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
 
-Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
+Welcome to [GeekFest 2017](https://dai-global-digital.com/tags/?tag=geekfest-2017), a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
 \
-This week I’m speaking to, [Jessica Berlin](https://www.linkedin.com/in/berlinjessica/?ppe=1), Managing Director of CoStruct and founding partner of MakerNet based in – you guessed it – Berlin, Germany. Before taking the leap as an entrepreneur, Jessica worked for a number of German and US government organizations and development agencies as well as nonprofits in Afria, Asia, Europe and North America – an experience that inspired her to start her own initiative building public-private partnerships to create new systems around business and technology innovation in emerging economies.
+This week I’m speaking to, [Jessica Berlin](https://www.linkedin.com/in/berlinjessica/?ppe=1), Managing Director of CoStruct and founding partner of MakerNet based in – you guessed it – Berlin, Germany. Before taking the leap as an entrepreneur, Jessica worked for a number of German and US government organizations and development agencies as well as nonprofits in Africa, Asia, Europe and North America – an experience that inspired her to start her own initiative building public-private partnerships to create new systems around business and technology innovation in emerging economies.
 
 <!--more-->
 ![jessica berlin.jpg](/uploads/jessica%20berlin.jpg)
