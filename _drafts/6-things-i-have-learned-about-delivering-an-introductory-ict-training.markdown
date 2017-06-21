@@ -1,6 +1,7 @@
 ---
 title: 6 Things I have learned about delivering an introductory ICT training
 date: 2017-06-21 09:06:00 -04:00
+Author: Karim Bin-Humam
 ---
 
 As an ICT team, we wear many hats and have many responsibilities. We are technical specialists that support our projects in the design and use of digital solutions. We are also evangelists that sensitize our projects and others to the wonders of digital technologies. We are thought that ponder sometimes esoteric questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts. But another, less bright hat that we wear is as trainers: part of our responsibilities is to familiarize our projects and clients with the fundamentals of digital design and to impart practical knowledge upon staff on how to effectively integrate digital programming into their work so that they might design and implement their own digital programs.  Since joining the team some 19 months ago, I have had the chance to train over 100 people in fundamental digital design. Here are my biggest takeaways on how to ensure that trainees get the most out of your training.\
