@@ -34,6 +34,7 @@ On the ICT team we wear many hats and have many responsibilities. We are technic
 
 4. **Keep it interactive**
    Again, no one is thrilled to sit in a chair for an entire day straining their neck to look at slide after slide as a presenter’s voice seems to morph into a cartoonish mumble like the teacher in “Peanuts.” In all of our trainings, we have interactive sessions that break up each presentation content segment, during which participants apply lessons they have learned during the earlier presentations. These interactive sessions should foster discussion and teamwork. The interactive parts of our trainings consistently receive positive feedback, and it is common for participants to ask for more of them.
+
    ![index2.jpg](/uploads/index2.jpg)
 
 5. **Hand out printed materials**
