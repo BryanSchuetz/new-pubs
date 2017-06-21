@@ -1,6 +1,9 @@
 ---
-title: 6 Things I have learned about delivering an introductory ICT training
+title: 6 Things I have learned about delivering an introductory ICT4D Training
 date: 2017-06-21 09:06:00 -04:00
+tags:
+- Think Piece
+- Innovation
 Author: Karim Bin-Humam
 ---
 
