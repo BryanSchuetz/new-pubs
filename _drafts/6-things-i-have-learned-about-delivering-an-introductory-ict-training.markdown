@@ -1,5 +1,5 @@
 ---
-title: 6 Things I have learned about delivering an introductory ICT4D Training
+title: 6 Things I Have Learned About Delivering an Introductory ICT4D Training
 date: 2017-06-21 09:06:00 -04:00
 tags:
 - Think Piece
