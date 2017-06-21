@@ -8,6 +8,9 @@ Author: Karim Bin-Humam
 ---
 
 On the ICT team we wear many hats and have many responsibilities. We are technical specialists that support our projects in the design and use of digital solutions. We are evangelists that sensitize our projects and others to the potential of digital technologies to enhance and sustain the impact of development programming. We are thought leaders that answer strategic questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts. But another key hat that we wear is as trainers: part of our responsibilities is to familiarize our projects and clients with the fundamentals of digital design and to equip colleagues  with practical knowledge on how to effectively integrate digital programming into their work so that they can design and deliver their own digital programs.  Since joining the team some 19 months ago, I have had the chance to train 100\+ people in three countries on the fundamentals of digital development. Below are my biggest takeaways on how to ensure that participants get the most out of their training.\
+
+![index.jpg](/uploads/index.jpg)
+
 \
 <!--More-->
 
@@ -30,7 +33,8 @@ On the ICT team we wear many hats and have many responsibilities. We are technic
    Would you be surprised that when asked about what participants liked the most about a training session, the least likely answer you are going to get is “the presentation”? I didn’t think so. A presentation is a presentation is a presentation. But what we do hear a lot is what participants thing about the specific examples that we use during our presentations to illustrate how theory has been turned into practice. Make sure that you use examples and that those examples speak to the context and experience of your audience based on what the information you have collected during pre-training engagement.\\
 
 4. **Keep it interactive**
-   Again, no one is thrilled to sit in a chair for an entire day straining their neck to look at slide after slide as a presenter’s voice seems to morph into a cartoonish mumble like the teacher in the peanuts cartoons. In all of our trainings, we have interactive sessions that break up each presentation content segment, during which participants apply lessons that they have learned during the earlier presentations. These interactive sessions should foster discussion and teamwork. The interactive parts of our trainings consistently receive positive feedback, and it is common for participants to ask for more of them.\\
+   Again, no one is thrilled to sit in a chair for an entire day straining their neck to look at slide after slide as a presenter’s voice seems to morph into a cartoonish mumble like the teacher in the peanuts cartoons. In all of our trainings, we have interactive sessions that break up each presentation content segment, during which participants apply lessons that they have learned during the earlier presentations. These interactive sessions should foster discussion and teamwork. The interactive parts of our trainings consistently receive positive feedback, and it is common for participants to ask for more of them.\\\
+   ![index2.jpg](/uploads/index2.jpg)
 
 5. **Hand out printed materials**
    This point seems like it might not be as important, but the truth of the matter is that when we began handing out presentation context to participants so that they could follow along and take notes on printed slides, we were surprised by how useful they found this simple thing to be. Lets be honest – if you’re in a training session for an entire day, chances are that you won’t be sharp and attentive for 100% of the time. Every now and then you will zone out, or maybe the slide will change before you are able to grasp its content. Being able to refer to printed materials during and even more so after a training is very useful.\\
