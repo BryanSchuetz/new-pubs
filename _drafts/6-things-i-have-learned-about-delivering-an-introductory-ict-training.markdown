@@ -15,10 +15,10 @@ On the ICT team we wear many hats and have many responsibilities. We are technic
 <!--More-->
 
 1. **Pre-Training Engagement:**
-   I can’t stress this point enough. In fact, it is so important that I would divide it into 3 subpoints:
+   I can’t stress this point enough. In fact, it is so important that I would divide it into three subpoints:
    
    *a) Market the Training Early:*
-   It has happened in the past that someone has approached me to say “I heard about the training you ran, I was so disappointed that I wasn’t there”. Getting the word out about a planned training and using local networks that can spread the word early offers those that stand to gain the most and would be the most engaged the chance to find out about and plan to attend your training.
+   It has happened in the past that someone has approached me to say “I heard about the training you ran, I was so disappointed that I wasn’t there.” Getting the word out about a planned training and using local networks that can spread the word early offers those that stand to gain the most and would be the most engaged the chance to find out about and plan to attend your training.
 
    *b)  Get the right people in the room:*
    Of course, when offering an introductory training course on ICT4D, we want to be inclusive. After all, one of the things we stress in our trainings is that it is important for all project staff to understand how ICTs can benefit their projects, not just specialists. But being clear during pre-training engagement about what the training will cover and what it intends to accomplish will help ensure that attendees will have the right expectations and get what they are looking for from the training.
