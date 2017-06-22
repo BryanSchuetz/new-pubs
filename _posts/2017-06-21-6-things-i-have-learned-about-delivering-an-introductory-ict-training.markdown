@@ -7,16 +7,15 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-On the ICT team we wear many hats and have many responsibilities. We are technical specialists who support our company’s global development projects in the design and use of digital solutions. We are evangelists who teach others about the potential of digital technologies to enhance and sustain the impact of development programming. We are thought leaders who answer strategic questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts. But another hat we wear is as trainers: It is our responsibility to familiarize our projects and clients with the fundamentals of digital design and to equip colleagues with practical knowledge on how to effectively integrate digital programming into their work so they can design and deliver their own digital programs. Since joining the team some 19 months ago, I have had the chance to train 100+ people in three countries on the fundamentals of digital development. Below are my biggest takeaways on how to ensure that participants get the most out of their training.
+On the ICT team we wear many hats and have many responsibilities. We are technical specialists who support our company’s global development projects in the design and use of digital solutions. We are evangelists who teach others about the potential of digital technologies to enhance and sustain the impact of development programming. We are thought leaders who answer strategic questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts. But another hat we wear is as trainers: It is our responsibility to familiarize our projects and clients with the fundamentals of digital design and to equip colleagues with practical knowledge on how to effectively integrate digital programming into their work so they can design and deliver their own digital programs. Since joining the team some 19 months ago, I have had the chance to train 100\+ people in three countries on the fundamentals of digital development. Below are my biggest takeaways on how to ensure that participants get the most out of their training.
 
 ![index.jpg](/uploads/index.jpg)
 
-
-<!--More-->
+<!--more-->
 
 1. **Pre-Training Engagement:**
    I can’t stress this point enough. In fact, it is so important that I would divide it into three subpoints:
-   
+
    *a) Market the Training Early:*
    It has happened in the past that someone has approached me to say, “I heard about the training you ran, and I was so disappointed that I wasn’t there.” Getting the word out about a planned training and using local networks that can spread the word early offers those that stand to gain the most and would be the most engaged the chance to find out about and plan to attend your training.
 
