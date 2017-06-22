@@ -11,7 +11,9 @@ On the ICT team we wear many hats and have many responsibilities. We are technic
 
 ![index.jpg](/uploads/index.jpg)
 
+
 <!--more-->
+
 
 1. **Pre-Training Engagement:**
    I can’t stress this point enough. In fact, it is so important that I would divide it into three subpoints:
