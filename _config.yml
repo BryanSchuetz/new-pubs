@@ -19,6 +19,7 @@ defaults:
   values:
     Author: 
     layout: post
+    social-image: 
 - scope:
     path: ''
     type: authors
@@ -28,7 +29,7 @@ defaults:
     Image: 
 url: https://dai-global-digital.com
 permalink: "/:title.html"
-plugins:
+gems:
 - jekyll-paginate
 - jekyll-sitemap
 paginate: 3
