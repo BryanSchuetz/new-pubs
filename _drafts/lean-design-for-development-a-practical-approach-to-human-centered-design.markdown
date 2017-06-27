@@ -17,6 +17,7 @@ Bilateral donors and foundations continue to look to digital tools to innovate. 
 In the resource-limited world of international development, a “pure” HCD approach is often impossible: Projects simply do not have the time and resources to go through a full HCD process. In response, DAI has developed a “lean design” methodology, incorporating selective, tailored, and rapid iteration-focused aspects of HCD into our program design. Many of our digital projects are already incorporating elements of HCD using lean design approaches: 
 
 ![blog lean HCD.png](/uploads/blog%20lean%20HCD.png)
+`Design thinking workshop participants make boats to represent data flows`
 
 
 
