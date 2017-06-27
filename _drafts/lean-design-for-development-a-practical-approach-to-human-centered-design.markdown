@@ -10,7 +10,7 @@ Author: Krista Baptista
 
 Bilateral donors and foundations continue to look to digital tools to innovate. Why innovate? Given the intractable nature of many development problems, innovation speaks to the desire for different results, to try something new, or to apply something old in a new context or in a new way. Digital tools hold the promise that a program can leapfrog traditional development pathways, amplify impact, and create real game-changers in people’s lives. One way to increase the possibility of success in deploying any digital tool is to follow the principles for digital design - particularly design with the user. Human-centered design (HCD), and its close cousins, co-creation, design thinking, and lean startup methods, can serve not just as an activity but as a process for effective creation, iteration, and implementation.
 
-
+<!--more-->
 
 ## Why Lean Design?
 
