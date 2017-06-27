@@ -16,6 +16,10 @@ Bilateral donors and foundations continue to look to digital tools to innovate. 
 
 In the resource-limited world of international development, a “pure” HCD approach is often impossible: Projects simply do not have the time and resources to go through a full HCD process. In response, DAI has developed a “lean design” methodology, incorporating selective, tailored, and rapid iteration-focused aspects of HCD into our program design. Many of our digital projects are already incorporating elements of HCD using lean design approaches: 
 
+![blog lean HCD.png](/uploads/blog%20lean%20HCD.png)
+
+
+
 * In Central America, the U.S. Agency for International Development-funded CentroClima site and resilience-focused decision support tools were developed through an [extensive series of design thinking workshops](https://www.dai.com/news/space-apps-challenge-seeks-solutions-adaptation-climate-change or https://dai-global-digital.com/climate-change-and-technology-preparing-to-hack-the-problem.html) with people who care about this work—subject matter experts, stakeholders, and technologists. When we were having workshop participants create ships to symbolize how they could use the web-based tool for sharing large data sets, we weren’t just playing around: Generating real ideas from people takes creative approaches to facilitated activities, which is often at the heart of design thinking. 
 * The Ghana Kosmos Innovation Center program uses elements of co-creation and lean startup to match technologists with technical experts to mash up innovations that create [marketable products and services](https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html). 
 * In our Innovation into Action Challenge last year, we [matched new market entrants in international development with projects already operating in the field](https://www.dai.com/news/innovation-action-challenge-attracts-great-response?related-box)—thus introducing innovation sustainably and proactively into programs. 
