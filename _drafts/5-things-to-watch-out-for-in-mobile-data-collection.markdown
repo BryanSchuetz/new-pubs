@@ -14,7 +14,7 @@ Development organizations now have a [plethora ](https://dai-global-digital.com/
 
 ## 1. Sampling Technique
 
-Development organizations must ensure their sampling technique meet high quality standards.  When we refer to sampling, we mean ensuring that the target beneficiaries who are surveyed accurately represent the population as a whole. Market research teams often use these techniques, but those techniques also apply in the development aid world, especially in organizations conducting programing and research. Keep in mind that there is no such thing as a ‘perfect’ sample. Statistical sampling will always have a margin of error that can be minimized by increasing the sample size. 
+Development organizations must ensure their sampling technique meet high quality standards.  When we refer to sampling, we mean ensuring that the target beneficiaries who are surveyed accurately represent the population as a whole. Market research teams often use these techniques, but those techniques also apply in the development aid world, especially in organizations conducting programming and research. Keep in mind that there is no such thing as a ‘perfect’ sample. Statistical sampling will always have a margin of error that can be minimized by increasing the sample size. 
 
 Although a number of sampling techniques are available, the most commonly used technique is known as ‘random sampling’.  Other techniques include convenience sampling, cluster sampling, quota sampling, and systematic sampling. You can find additional pros and cons of these sampling methods [here](https://www.bl.uk/business-and-ip-centre/articles/effective-sampling-techniques-for-market-research.). 
 
@@ -34,6 +34,6 @@ In our work with multiple development clients, the subject of data fraud often a
 
 ## 5. Beneficiary Drop-off
 
-A final challenge that development organizations face is when conducting tracking studies (i.e. when the same beneficiary is surveyed more than once) is that the beneficiary is non-responsive the second time.  This is often handled by incentivizing the beneficiary through a number of mechanisms such as raffles, instant airtime, and instant cash, amongst other techniques. Various techniques from the market research world including gamification (using game techniques such as points and leaderboards) are being used increasingly more to incentivize participants during data collection. 
+A final challenge that development organizations face is when conducting tracking studies (i.e. when the same beneficiary is surveyed more than once) is that the beneficiary is non-responsive the second time.  This is often handled by incentivizing the beneficiary through a number of mechanisms such as raffles, instant airtime, and instant cash, among other techniques. Various techniques from the market research world including gamification (using game techniques such as points and leaderboards) are being used increasingly more to incentivize participants during data collection. 
 
 Ultimately with a strong data collection technology, effective sampling, and accounting for these challenges, a development aid organization will satisfy the growing demand for data-based metrics, while also keeping up with today’s technology revolution.  
