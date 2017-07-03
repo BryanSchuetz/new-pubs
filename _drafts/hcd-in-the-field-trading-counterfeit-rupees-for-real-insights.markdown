@@ -7,6 +7,7 @@ tags:
 - Innovation
 - Data
 Author: "[Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-01882236/)"
+social-image: "/uploads/photo%202%20meredith%20blog.jpg"
 ---
 
 *This is a guest post by [Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-01882236/), Innovation Specialist with DAI's [Center for Development Innovation project](https://www.dai.com/our-work/projects/worldwide-center-development-innovation-professional-management-services)*
