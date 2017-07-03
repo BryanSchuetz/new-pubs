@@ -35,4 +35,4 @@ After a flurry of questions and counterfeit Rupees changing hands, the haat baza
 
 The competitors would do well to keep this counsel in mind.  In the weeks following the workshop, they are required to test their solutions with smallholders.  Our judges will prioritize smallholder feedback on the solution’s usability and their willingness to pay in their assessments.  As a capstone, in early September 2017, DAI and Nesta will reconvene our 13 finalist teams in Nepal.  The teams will pitch their innovations to the judges and Feed the Future delegates, network with Nepali agriculture entrepreneurs and participate in a second, extended haat bazar.  Along the way, the teams will demonstrate the modifications they made to make their solutions more Nepali smallholder-appropriate.  But this time, instead of fake rupees, four winners will earn over US$300,000 in prize money.
 
-
+![photo 4 meredith blog.jpg](/uploads/photo%204%20meredith%20blog.jpg)'Data-Driven Farming Prize competitors, partners, and USAID at the close of the co-creation workshop, Kathmandu, 28 May 2017.  Photo by Kathaharu Studios.'
