@@ -1,5 +1,6 @@
 ---
-title: 'HCD in the Field: Trading Counterfeit Rupees for Real Insights in Nepal'
+title: 'HCD in the Field: Trading Counterfeit Rupees for Real Insights with Farmers
+  in Nepal'
 date: 2017-07-03 09:22:00 -04:00
 tags:
 - Human-centered design
