@@ -1,6 +1,10 @@
 ---
 title: 'HCD in the Field: Trading Counterfeit Rupees for Real Insights'
 date: 2017-07-03 09:22:00 -04:00
+tags:
+- Human-centered design
+- Innovation
+- Data
 ---
 
 My colleague pressed $1,000 in visibly fake Nepali rupees into the hands of each farmer, inputs dealer, and agricultural entrepreneur.   Then, she grandly opened the doors to our ersatz haat bazar (an outdoor, rural marketplace) and instructed them, “Pay what you would be willing to spend on the products.”  
