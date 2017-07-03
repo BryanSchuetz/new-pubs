@@ -10,7 +10,7 @@ Author: "[Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-018822
 social-image: "/uploads/photo%202%20meredith%20blog.jpg"
 ---
 
-*This is a guest post by [Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-01882236/), Innovation Specialist with DAI’s [Center for Development Innovation project](https://www.dai.com/our-work/projects/worldwide-center-development-innovation-professional-management-services)*
+*This is a guest post by [Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-01882236/), Innovation Specialist with DAI’s [Center for Development Innovation project](https://www.dai.com/our-work/projects/worldwide-center-development-innovation-professional-management-services).*
 
 My colleague pressed $1,000 in visibly fake Nepali rupees into the hands of each farmer, inputs dealer, and agricultural entrepreneur.   Then, she grandly opened the doors to our ersatz *haat* bazaar (an outdoor, rural marketplace) and instructed them to, “Pay what you would be willing to spend on the products.”  
 
