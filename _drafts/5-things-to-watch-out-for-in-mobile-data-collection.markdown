@@ -41,4 +41,6 @@ In our work with multiple development clients, the subject of data fraud often a
 
 A final challenge that development organizations face is when conducting tracking studies (i.e. when the same beneficiary is surveyed more than once) is that the beneficiary is non-responsive the second time.  This is often handled by incentivizing the beneficiary through a number of mechanisms such as raffles, instant airtime, and instant cash, among other techniques. Various techniques from the market research world including gamification (using game techniques such as points and leaderboards) are being used increasingly more to incentivize participants during data collection. 
 
-Ultimately with a strong data collection technology, effective sampling, and accounting for these challenges, a development aid organization will satisfy the growing demand for data-based metrics, while also keeping up with today’s technology revolution.  
+Ultimately with a strong data collection technology, effective sampling, and accounting for these challenges, a development aid organization will satisfy the growing demand for data-based metrics, while also keeping up with today’s technology revolution. 
+
+*Reader, do you work in mobile data collection and have great insights to share? Give us a shout at ict(at)dai(dot)com, we'd love to feature your guest post on our blog! 
