@@ -13,7 +13,7 @@ social-image: "/uploads/151014-M-XW591-468.JPG"
 Development organizations now have a [plethora ](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html)of mobile data collection tools at their disposal, and choosing between the various options available can often seem like a daunting task. But even after finding the right tool, it is imperative to think through and address the most common challenges that arise in the mobile data collection process. In the last 5 years of helping development actors integrate mobile phones into their data collection processes, we’ve identified five challenges that they run into most often. 
 
 ![151014-M-XW591-468.JPG](/uploads/151014-M-XW591-468.JPG)
-`Photo credit: Photo By: Lance Cpl. David Staten`
+`Photo credit: Photo By: David Staten`
 
 <!--more-->
 
