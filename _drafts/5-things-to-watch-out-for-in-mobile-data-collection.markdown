@@ -27,7 +27,7 @@ However, if you’re simply looking to reach specific beneficiaries (for example
 
 ## 2. Wide Geographic Span
 
-Many sampling techniques can often result in a wide geographic span of beneficiary locations.  The advantage of using mobile data collection tools is that they can often reduce the cost of reaching geographically dispersed sample populations.  However, it is important to ensure that your approach remains technology ‘agnostic’.  For example, some beneficiaries may be located in regions of a country that have no internet but have mobile reception.  Your data collection tool should then be able to use interactive voice response (IVR) (which is also highly effective for illiterate beneficiaries), SMS or USSD to gather the appropriate data.  In regions where no mobile coverage exists, beneficiaries can only be reached by deploying mobile-enabled field workers. 
+Many sampling techniques can often result in a wide geographic span of beneficiary locations. The advantage of using mobile data collection tools is that they can often reduce the cost of reaching geographically dispersed sample populations.  However, it is important to ensure that your approach remains technology ‘agnostic’.  For example, some beneficiaries may be located in regions of a country that have no internet but have mobile reception.  Your data collection tool should then be able to use interactive voice response (IVR) (which is also highly effective for illiterate beneficiaries), SMS or USSD to gather the appropriate data.  In regions where no mobile coverage exists, beneficiaries can only be reached by deploying mobile-enabled field workers. 
 
 ## 3. Many Languages / Dialects 
 
