@@ -31,7 +31,7 @@ Many sampling techniques can often result in a wide geographic span of beneficia
 
 ## 3. Many Languages / Dialects 
 
-Language is always a concern when collecting data remotely, since many languages and dialects must be accounted for.  Artificial intelligence is bringing a wave of affordable translation technology, such as Google Translate, to our fingertips. However, they have a long way to go before they can claim 100% accuracy, and moreover, they don’t cover many dialects.  It is important to select a data collection platform that can handle language translation.  Mobile data companies often accomplish translations via a hybrid of automated translation software and manual translation.
+Language is always a concern when collecting data remotely, since many languages and dialects must be accounted for. Artificial intelligence is bringing a wave of affordable translation technology, such as Google Translate, to our fingertips. However, they have a long way to go before they can claim 100 percent accuracy, and moreover, they don’t cover many dialects. It is important to select a data collection platform that can handle language translation.  Mobile data companies often accomplish translations via a hybrid of automated translation software and manual translation.
 
 ## 4. Fraudulent Data 
 
