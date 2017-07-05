@@ -43,4 +43,4 @@ A final challenge that development organizations face is when conducting trackin
 
 Ultimately with a strong data collection technology, effective sampling, and accounting for these challenges, a development organization will satisfy the growing demand for data-based metrics, while also keeping up with today’s technology revolution. 
 
-*Reader, do you work in mobile data collection and have great insights to share? Give us a shout at ict(at)dai(dot)com, we’d love to feature your guest post on our blog! 
+*Reader, do you work in mobile data collection and have great insights to share? Give us a shout at digital(at)dai(dot)com, we’d love to feature your guest post on our blog!*
