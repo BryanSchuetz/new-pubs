@@ -7,7 +7,8 @@ tags:
 Author: Adam Fivenson
 ---
 
-When I first heard that Facebook was introducing chatbots, 
+When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to 1994. I was in middle school and spending an inordinate amount of time in IRC chatrooms and AOL instant messenger chats, and 
+
 
 it made me think of two things. First, 
 
