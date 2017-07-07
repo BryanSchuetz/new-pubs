@@ -52,9 +52,9 @@ What did I build? My chatbot uses natural language (OK it's in English, my Bahas
 
 How did I make Siti? It was surprisingly easy.
 
-1. I linked my [Chatfuel](http://www.chatfuel.com) account to my Facebook account.
+1. I made a [Chatfuel](http://www.chatfuel.com) account and linked it to my Facebook account.
 
-2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. Frankly, no one will ever see it, so don't worry about what it looks like.
+2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. Frankly, it's not a landing page, and few people will ever see it, so I didn't worry about what it would look like.
 
 3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself (or the platform) by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have [tutorials](https://help.chatfuel.com/facebook-messenger/) that walk you through the process step-by-step. It's a relatively easy system to learn once you start to play around a bit. 
 
