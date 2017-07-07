@@ -45,19 +45,21 @@ What did I build? My chatbot uses natural language (OK it's in English, my Bahas
 
 How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
-1. I linked [Chatfuel](http://www.chatfuel.com) to my Facebook account.
+1. I linked my [Chatfuel](http://www.chatfuel.com) account to my Facebook account.
 
-2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot.
+2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot. Frankly, no one will ever see it, so don't worry about what it looks like.
 
-3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have [tutorials](https://help.chatfuel.com/facebook-messenger/) that walk you through the process step-by-step. It's a relatively easy system to learn once you start to play around a bit.
+3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself (or the platform) by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have [tutorials](https://help.chatfuel.com/facebook-messenger/) that walk you through the process step-by-step. It's a relatively easy system to learn once you start to play around a bit. 
 
 4. I checked Google to figure out which job sites were most popular in Indonesia and built them into my search engine (see step 7).
 
-5. I categorized the jobs and and selected the most popular locations based on what I found on the job sites. This became the job and location taxonomies, as they're presented in the app. I chose to provide categories instead of just leaving those questions open because I wanted popular searches to be easily replicable. I also wanted to ensure that the options' syntax (which becomes the Google search string) was consistent to what the job pages I included used.
+5. I looked through those job sites, categorized the jobs, selected the most popular locations and put them into the app's workflow as lists of choices (the app also allows the user to type in their location and preferred job if either is not on the list). I also wanted to ensure that the list options' syntax was consistent to what the job pages I included used, as the list options are what the bot uses to design the Google search string. 
 
 6. The most difficult part was setting up the Google search function within the chatbot. But, once again Chatfuel provided an [excellent tutorial](https://help.chatfuel.com/facebook-messenger/plugins/google-search/) on how to handle it.
 
 7. Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results. Finally, I finagled a few friends into trying it out, helping me suss out typos and non-natural language, and general errors in flow. 
+
+8. There are many more features and plugins that I haven't even tried yet in the Chatfuel platform, including the option to include natural language processing and machine learning. I haven't incorporated those features yet, but I'll be looking to do so with my next bot. 
 
 ## Relevance to ICT4D
 
