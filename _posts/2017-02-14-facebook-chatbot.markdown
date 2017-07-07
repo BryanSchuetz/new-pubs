@@ -65,6 +65,6 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 Chatbots are a rapidly growing medium as companies, governments, civil society organizations, and businesses come to understand the their potential. Meanwhile, citizens/customers/constituents are becoming more comfortable communicating with the concept of chatbots through Facebook's active efforts to promote successful bots. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/) for their overseas audiences.
 
-While Siti is simplistic, it's a useful minimum viable product for the type of innovations—grounded in local tech use patterns and easy to design and update—that will likely dominate the nexus of technology and international development during the upcoming years.
+While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech usage patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the coming years.
 
 *Got an idea for a cool chatbot for international development? Seen a cool chatbot in action? Let us know on [Twitter](http://www.twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
