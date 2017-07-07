@@ -7,7 +7,14 @@ tags:
 Author: Adam Fivenson
 ---
 
-I've been excited about experimenting with chatbots since Facebook's F8 Developer conference in April 2016, when they announced that [Messenger would begin to support bots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
+When I first heard that Facebook was introducing chatbots, 
+
+it made me think of two things. First, 
+
+
+Now, I'm the cautious type when it comes to chatbot hype. Like most people
+
+I've wanted to experiment with chatbots since Facebook's F8 Developer conference in April 2016, when they announced that [Messenger would begin to support bots](https://techcrunch.com/2016/04/12/agents-on-messenger/). 
 
 ![pixabey.PNG](/uploads/pixabey.PNG)
 
