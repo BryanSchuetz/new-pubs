@@ -7,21 +7,8 @@ tags:
 Author: Adam Fivenson
 ---
 
-When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to junior high summers. At the time I was spending most of my free time in my parents' basement on the computer--safe from harmful things like sunshine and other people--getting into flame wars with IRC chatbots, not knowing they were bots.  
+When I first heard that [Facebook Messenger was introducing](https://techcrunch.com/2016/04/12/agents-on-messenger/) chatbots, I immediately thought back to junior high summers. At the time I was spending a lot of time in my parents' basement on the computer--safe from harmful things like sunshine and other people--getting into flame wars with people on [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) that (more often than not) turned out to be chatbots. Not my greatest summer. Fast forward 13 years, and chatbots are a significantly different 
 
-thinking it was funny to get chatbots to say dirty words and 
-
-Fast forward 13 years and chatbots 
-
-What was I doing? 
-
-Mainly getting into flame wars with chatbots on IRC. 
-
-
-Fast forward 
-
-
-I've wanted to experiment with chatbots since Facebook's F8 Developer conference in April 2016, when they announced that [Messenger would begin to support bots](https://techcrunch.com/2016/04/12/agents-on-messenger/). 
 
 ![pixabey.PNG](/uploads/pixabey.PNG)
 
