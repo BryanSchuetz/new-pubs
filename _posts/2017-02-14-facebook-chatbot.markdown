@@ -7,7 +7,19 @@ tags:
 Author: Adam Fivenson
 ---
 
-When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to 1994. I was in middle school and spending an inordinate amount of time in IRC chatrooms and AOL instant messenger chats, mainly trolling people and trying to get chatbots to say ditry stuff. Fast forward 13 years and 
+When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to junior high summers. At the time I was spending most of my free time in my parents' basement on the computer--safe from harmful things like sunshine and other people--getting into flame wars with IRC chatbots, not knowing they were bots.  
+
+thinking it was funny to get chatbots to say dirty words and 
+
+Fast forward 13 years and chatbots 
+
+What was I doing? 
+
+Mainly getting into flame wars with chatbots on IRC. 
+
+
+Fast forward 
+
 
 I've wanted to experiment with chatbots since Facebook's F8 Developer conference in April 2016, when they announced that [Messenger would begin to support bots](https://techcrunch.com/2016/04/12/agents-on-messenger/). 
 
