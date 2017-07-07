@@ -46,7 +46,7 @@ What did I build? My chatbot uses natural language (yeah, it's in English; my Ba
 [<img src="/uploads/messenger_code_1276881939061378%20(1).png">](https://www.messenger.com/t/1276881939061378)
 
 2
-[![Foo](/uploads/messenger_code_1276881939061378%20(1).png)](https://www.messenger.com/t/1276881939061378)
+[![blue-button-hi2.png](/uploads/blue-button-hi2.png)](https://www.messenger.com/t/1276881939061378)
 
 How did I make Siti? It was surprisingly easy.
 
