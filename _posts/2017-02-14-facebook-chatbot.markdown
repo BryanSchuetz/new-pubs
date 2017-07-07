@@ -37,7 +37,8 @@ A chatbot presents some distinct advantages as an outreach and engagement tool:
 
 ## Siti, Job Search Bot for Indonesia
 
-What did I build? My chatbot uses natural language (yeah, it's in English; my Bahasa game is weak) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/) for jobs in their town. It asks the user to enter a location and job interest, which it turns into a Google query. The bot presents the results as a gallery of clickable sliders, which take the user directly to the job listing. Check it out:
+What did I build? My chatbot uses natural language (yeah, it's in English; my Bahasa game is weak) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/) for jobs in their town. It asks the user to enter a location and job interest, which it turns into a Google query. The bot presents the results as a gallery of clickable sliders, which take the user directly to the job listing. Check it out: [https://www.youtube.com/watch?v=LS32bAUT1CM](https://www.youtube.com/watch?v=LS32bAUT1CM)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 
 ## Now, Try Siti Live
