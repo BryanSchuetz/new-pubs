@@ -45,6 +45,8 @@ What did I build? My chatbot uses natural language (yeah, it's in English; my Ba
 
 [![blue-button-hi2.png](/uploads/blue-button-hi2.png)](https://www.messenger.com/t/1276881939061378)
 
+*Click the button or search for Siti in Messenger*
+
 How did I make this bot? It was surprisingly easy.
 
 1. I made a [Chatfuel](http://www.chatfuel.com) account and linked it to my Facebook account.
