@@ -50,7 +50,7 @@ What did I build? My chatbot uses natural language (OK it's in English, my Bahas
 2
 [![Foo](/uploads/messenger_code_1276881939061378%20(1).png)](https://www.messenger.com/t/1276881939061378)
 
-How did I make Siti? It was surprisingly easy for a non-coder like myself.
+How did I make Siti? It was surprisingly easy.
 
 1. I linked my [Chatfuel](http://www.chatfuel.com) account to my Facebook account.
 
