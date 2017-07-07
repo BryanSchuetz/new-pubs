@@ -40,15 +40,11 @@ A chatbot presents some distinct advantages as an outreach and engagement tool:
 What did I build? My chatbot uses natural language (yeah, it's in English; my Bahasa game is weak) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/) for jobs in their town. It asks the user to enter a location and job interest, which it turns into a Google query. The bot presents the results as a gallery of clickable sliders, which take the user directly to the job listing. Check it out:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
 
-## [Now, Try Siti Live](https://www.messenger.com/t/1276881939061378)
+## Now, Try Siti Live
 
-1
-[<img src="/uploads/messenger_code_1276881939061378%20(1).png">](https://www.messenger.com/t/1276881939061378)
-
-2
 [![blue-button-hi2.png](/uploads/blue-button-hi2.png)](https://www.messenger.com/t/1276881939061378)
 
-How did I make Siti? It was surprisingly easy.
+How did I make this bot? It was surprisingly easy.
 
 1. I made a [Chatfuel](http://www.chatfuel.com) account and linked it to my Facebook account.
 
@@ -64,11 +60,11 @@ How did I make Siti? It was surprisingly easy.
 
 7. Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results. Finally, I finagled a few friends into trying it out, helping me suss out typos and non-natural language, and general errors in flow. 
 
-8. There are many more features and plugins that I haven't even tried yet in the Chatfuel platform, including the option to include natural language processing and machine learning. I haven't incorporated those features yet, but I'll be looking to do so with my next bot. 
+8. There are many more features and plugins that I haven't even tried yet in the Chatfuel platform, including an option to include natural language processing and machine learning. I haven't incorporated those features yet, but I'll be looking to do so with my next bot. 
 
 ## Relevance to ICT4D
 
-Chatbots are a rapidly growing medium as companies, governments, civil society organizations, and businesses come to understand the their potential. Meanwhile, citizens/customers/constituents are becoming more comfortable communicating with the concept of chatbots through Facebook's active efforts to promote successful bots. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/) for their overseas audiences.
+Chatbots are a rapidly growing medium as businesses, governments, civil society organizations, and businesses come to understand the their potential. Meanwhile, citizens/customers/constituents are becoming more comfortable communicating with the concept of chatbots through Facebook's active efforts to promote successful bots. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are [taking risks and developing chatbots](http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/) for their overseas audiences.
 
 While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech usage patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the coming years.
 
