@@ -7,7 +7,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-I've been excited about experimenting with chatbots since Facebook's F8 Developer conference last April, when they announced that [Messenger would begin to support bots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
+I've been excited about experimenting with chatbots since Facebook's F8 Developer conference in April 2016, when they announced that [Messenger would begin to support bots](https://techcrunch.com/2016/04/12/agents-on-messenger/).
 
 ![pixabey.PNG](/uploads/pixabey.PNG)
 
@@ -41,7 +41,14 @@ A year later, the situation is very different. [Chatfuel](http://www.chatfuel.co
 
 What did I build? My chatbot uses natural language (OK it's in English, my Bahasa game is weak) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/) for jobs in their town or . It asks the user to enter a location and job interest, which it turns into a Google query of the above-mentioned job sites. It presents the results in order as a gallery of clickable sliders, which take the user directly to the job listing. Check it out:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
-## [Now, Try Siti Live (click here)](https://www.messenger.com/t/1276881939061378)
+
+## [Now, Try Siti Live](https://www.messenger.com/t/1276881939061378)
+
+1
+[<img src="/uploads/messenger_code_1276881939061378%20(1).png">](https://www.messenger.com/t/1276881939061378)
+
+2
+[![Foo](/uploads/messenger_code_1276881939061378%20(1).png)](https://www.messenger.com/t/1276881939061378)
 
 How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
