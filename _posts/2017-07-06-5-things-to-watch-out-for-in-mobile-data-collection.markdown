@@ -21,7 +21,7 @@ Development organizations now have a [plethora ](https://dai-global-digital.com/
 
 Development organizations must ensure their sampling techniques meet high quality standards. When we refer to sampling, we mean ensuring that the target beneficiaries who are surveyed accurately represent the population as a whole. Market research teams often use these techniques, but those techniques also apply in the development aid world, especially in organizations conducting programming and research. Keep in mind there is no such thing as a perfect sample. Statistical sampling will always have a margin of error that can be minimized by increasing the sample size. 
 
-Although a number of sampling techniques are available, the most commonly used is random sampling. Other sampling techniques include convenience, cluster, quota, and systematic. You can find additional pros and cons of these methods [here](https://www.bl.uk/business-and-ip-centre/articles/effective-sampling-techniques-for-market-research.). 
+Although a number of sampling techniques are available, the most commonly used is random sampling. Other sampling techniques include convenience, cluster, quota, and systematic. You can find additional pros and cons of these methods [here](https://www.bl.uk/business-and-ip-centre/articles/effective-sampling-techniques-for-market-research). 
 
 However, if you’re simply looking to reach specific beneficiaries (for example, beneficiaries who have received direct aid), then sampling methodologies do not need to be taken into account.
 
