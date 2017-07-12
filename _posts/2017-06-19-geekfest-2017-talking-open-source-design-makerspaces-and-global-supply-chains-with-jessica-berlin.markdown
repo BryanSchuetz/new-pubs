@@ -6,6 +6,7 @@ published: false
 tags:
 - Geekfest 2017
 - Innovation
+- Human-centered design
 Author: Karim Bin-Humam
 ---
 
