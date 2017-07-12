@@ -38,11 +38,20 @@ We also used open source designs for basic noninvasive medical devices to produc
 **Q: How do you envision the impact of MakerNet’s work?**
 
 The implications of this kind of work are boundless – from medical equipment to agricultural tools to school supplies, from village cooperatives to multilateral aid agencies, these technologies and business models have the potential to create jobs and businesses that help people get access to the stuff they need. 
+
 Beyond MakerNet and this work in the development sector, open source design is unto itself a democratizing force in global manufacturing. The same way that open source software has enabled anyone with the skills to contribute to software projects and adapt existing software to their needs, open source hardware designs – combined with makerspaces giving people access to prototyping and small-scale production facilities – allow skilled individuals and small businesses to become a part of supply chains that they previously could never access. This can be transformative on both sides – customers, whether private consumers and companies or aid and government agencies, will be able to source and customize hardware products faster, and makers and hardware companies will be better able to reach and serve new customers. So part of our aspiration is to help consumers and producers benefit from open source design.
 
 **Q: Where is MakerNet now that you’ve successfully completed the pilot?**
 
 We’re looking to apply the MakerNet approach in further sectors and countries, and to expand our partner network. Also, in order for this approach to commercialize and scale in the long term, we need to tackle some of the more systemic hurdles, such as regulatory frameworks for IP and quality control and assurance. Frameworks differ from country to country so we need to invest in the research of the regulatory environments, as well as in outreach to the respective authorities to make sure there’s an enabling policy environment for makers and these technologies.
 
-\
-*To find out more about Jessica’s work, check out the [MakerNet website](http://www.makernet.global/) as well as [Costruct’s website](http://www.costruct.co/).*
+For the pilot, we also developed a prototype open source design-sharing platform, [Makepedia.org](http://www.makepedia.org/), and are exploring how we can incentivize makers around the world to thoroughly document their designs and inventions so that they can be more easily shared, replicated, and adapted. We’ve begun bringing together other stakeholders such as technical universities and research programs focused on documentation methodologies for open source, as well as governments, donors, and international technology and manufacturing companies to explore opportunities for partnership. This pilot was just the beginning! We’re excited to keeping growing the MakerNet network and build on what we’ve started.
+
+
+
+*If you would like to find out more about MakerNet, CoStruct, and Jessica Berlin’s work check out:*
+
+*Jessica Berlin [www.jessica.berlin](http://www.jessica.berlin/), Twitter: @berlin_bridge* 
+*CoStruct [www.costruct.co](http://www.costruct.co/), Twitter @costruct*
+*MakerNet [www.makernet.global](http://www.makernet.global/)*
+ 
