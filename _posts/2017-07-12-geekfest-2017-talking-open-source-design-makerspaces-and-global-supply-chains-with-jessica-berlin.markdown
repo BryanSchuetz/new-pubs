@@ -49,6 +49,6 @@ For the pilot, we also developed a prototype open source design-sharing platform
 
 *If you would like to find out more about MakerNet, CoStruct, and Jessica Berlin’s work check out:*
 
-*Jessica Berlin [www.jessica.berlin](http://www.jessica.berlin/), Twitter: @berlin_bridge* 
-*CoStruct [www.costruct.co](http://www.costruct.co/), Twitter @costruct*
-*MakerNet [www.makernet.global](http://www.makernet.global/)*
+* *Jessica Berlin [www.jessica.berlin](http://www.jessica.berlin/), Twitter: @berlin_bridge* 
+* *CoStruct [www.costruct.co](http://www.costruct.co/), Twitter @costruct*
+* *MakerNet [www.makernet.global](http://www.makernet.global/)*
