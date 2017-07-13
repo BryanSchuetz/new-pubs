@@ -9,15 +9,12 @@ tags:
 Author: Karim Bin-Humam
 ---
 
-![iHub Presentation_JBerlin.png](/uploads/iHub%20Presentation_JBerlin.png)
-
 Welcome to [GeekFest 2017](https://dai-global-digital.com/tags/?tag=geekfest-2017), a series of interviews featuring ICT4D thought leaders. Our goals for #GeekFest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
 
 This week I’m speaking to [Jessica Berlin](http://www.jessica.berlin), the co-founder of the [MakerNet Consortium](http://www.makernet.global) and founder and Managing Director of [CoStruct](http://www.costruct.co) based in—you guessed it—Berlin, Germany. Before taking the leap as an entrepreneur, Jessica worked for a number of German and U.S. government organizations and development agencies as well as nonprofits in Africa, Asia, Europe, and North America—experiences that inspired her to start her own company to create new programs, provide innovation strategy consulting, and build public-private partnerships to advance business and tech innovation in emerging economies.
 
 <!--more-->
-![jessica berlin.jpg](/uploads/jessica%20berlin.jpg)
-
+![iHub Presentation_JBerlin.png](/uploads/iHub%20Presentation_JBerlin.png)
 
 **Q: Tell us about MakerNet and where you see its potential for transforming business as usual in development?**
 
