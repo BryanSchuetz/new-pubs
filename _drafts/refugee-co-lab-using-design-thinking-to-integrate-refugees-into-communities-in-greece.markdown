@@ -6,6 +6,7 @@ tags:
 - Human-centered design
 - Innovation
 Author: "[ting shih](http://clickmedix.com/about-us-3/)"
+social-image: "/uploads/jalal%20photo.jpg"
 ---
 
 * This is a guest post by Ting Shih, CEO and Founder of [ClickMedix](http://clickmedix.com/)*
