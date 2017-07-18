@@ -2,6 +2,9 @@
 title: 'Refugee Co-Lab: Using Design Thinking to Integrate Refugees into Communities
   in Greece'
 date: 2017-07-18 08:34:00 -04:00
+tags:
+- Human-centered design
+- Innovation
 Author: "[ting shih](http://clickmedix.com/about-us-3/)"
 ---
 
