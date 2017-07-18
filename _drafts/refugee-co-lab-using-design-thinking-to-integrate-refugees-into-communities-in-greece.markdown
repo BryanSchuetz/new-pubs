@@ -2,6 +2,7 @@
 title: 'Refugee Co-Lab: Using Design Thinking to Integrate Refugees into Communities
   in Greece'
 date: 2017-07-18 08:34:00 -04:00
+Author: "[ting shih](http://clickmedix.com/about-us-3/)"
 ---
 
 * This is a guest post by Ting Shih, CEO and Founder of [ClickMedix](http://clickmedix.com/)*
