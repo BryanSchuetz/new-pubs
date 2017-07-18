@@ -8,6 +8,8 @@ Jalal is one of the more than 800,000 refugees who came to the Island of Lesvos,
 
 On May 9, 2017 - Europe Day - I worked with Changemakers Lab, to launch its first co-lab initiative where refugees, students from a local university (University of Aegean), mentors from social businesses, leaders from NGOs and heads of local government worked together to chart the path of creating social enterprises with the refugees so they can use their skills and ideas to thrive within the Greek community while strengthening the economic growth of Lesvos. 
 
+<!--more-->
+
 ## Lean Start-Up for Refugees
 Teams of refugees and students were formed and participated in a Lean Startup week using design thinking processes. They were introduced to tools such as the business model canvas and business pitch templates to co-create solutions that would benefit the refugee communities using their combined skills and expertise. The teams came up with ideas such as mobile-phone fixing service to be run by one of the refugees who used to fix phones in his country. One other idea was to set up a Syrian-themed restaurant and catering business to attract Greeks and tourists interested in a new cuisine while satisfying refugees’ cravings for home-cooking.. The refugee who came up with the idea used to run a catering business with his wife back home. Another idea was using technology to screen for health risks and obtain medical advice for refugees working with ClickMedix platform, and local Greek medical specialists. At the end of the workshop, the teams pitched their ideas to mentors and leaders from local NGOs and potential funders. For most of the team members, it was the first time they have developed a social business pitch and implementation plan. 
 
