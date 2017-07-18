@@ -9,7 +9,7 @@ Author: "[ting shih](http://clickmedix.com/about-us-3/)"
 social-image: "/uploads/jalal%20photo.jpg"
 ---
 
-* This is a guest post by Ting Shih, CEO and Founder of [ClickMedix](http://clickmedix.com/)*
+*This is a guest post by Ting Shih, CEO and Founder of [ClickMedix](http://clickmedix.com/)*
 
 More than 800,000 refugees came to the Island of Lesvos, Greece, to seek safety and a new life. Many of them came from Syria, Afghanistan, Iraq, and other conflict-ridden countries. As the refugee crisis in Greece subsided, there are about 3,000 refugees who now remain there, anxious to find ways to integrate and contribute to Greek society. The refugees I met are educated and skilled and some used to run their own businesses. They’re not helpless, but they are constrained, in despair, and in a state of limbo as they await asylum. This state of boredom is especially challenging for refugees who were, until recently, productive members of the workforce. Our role is to help them understand their new pathway, by leveraging what they already know to do as well as provide new skills. 
 
