@@ -4,6 +4,8 @@ title: 'Refugee Co-Lab: Using Design Thinking to Integrate Refugees into Communi
 date: 2017-07-18 08:34:00 -04:00
 ---
 
+* This is a guest post by Ting Shih, CEO and Founder of [ClickMedix](http://clickmedix.com/)*
+
 Jalal is one of the more than 800,000 refugees who came to the Island of Lesvos, Greece to seek safety and a new life. Many of them came from Syria, Afghanistan, Iraq and other conflict-ridden countries. As the refugee crisis in Greece subsided, there are about 3,000 refugees who now remain in Greece, anxious to find ways to integrate and contribute to the Greek society. One of them is Jalal, just 22 years-old and full of energy and aspirations. He is building his own social enterprise to help fellow refugees and working as a translator at a local law firm. He even taught himself English during his stay in Greece by interacting with international volunteers and other aid workers. Is Jalal unique? Are there more budding entrepreneurs like him? Can we help them achieve their dreams? 
 
 On May 9, 2017 - Europe Day - I worked with Changemakers Lab, to launch its first co-lab initiative where refugees, students from a local university (University of Aegean), mentors from social businesses, leaders from NGOs and heads of local government worked together to chart the path of creating social enterprises with the refugees so they can use their skills and ideas to thrive within the Greek community while strengthening the economic growth of Lesvos. 
