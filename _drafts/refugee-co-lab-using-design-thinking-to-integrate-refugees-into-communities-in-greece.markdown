@@ -5,7 +5,7 @@ date: 2017-07-18 08:34:00 -04:00
 tags:
 - Human-centered design
 - Innovation
-Author: "[ting shih](http://clickmedix.com/about-us-3/)"
+Author: "[Ting Shih](http://clickmedix.com/about-us-3/)"
 social-image: "/uploads/jalal%20photo.jpg"
 ---
 
@@ -34,7 +34,5 @@ Despite being the first Lean Startup for refugees in Greece and having successfu
 
 ## Thinking On...
 * Funding gaps: Oftentimes, funding for innovations tend to be just enough to validate the problem and the solution concept, and acquiring the next stage of funding to build and pilot solutions requires different skillsets and funding paths. How can we help build a toolset or playbook to turn concepts into actual implementations? Do such resources already exist that we can tailor to the refugee context?
-
 * Economic Opportunities: How to turn “situations” into “opportunities”? Greek may have encountered a “refugee crisis”, but on the flip side, they have increased number of skilled workers. What can be done to empower the influx of migrant workforce into economic strengths?
-
 * Resource Pooling: Various solutions already exist, such as coding schools, innovation workshops, business plan competitions, funding organizations, etc., and many of them are being used duplicatively, causing resource waste without an increase in impact. What can be done in a resource pooling or a market-space manner to better match existing solutions to current issues? 
