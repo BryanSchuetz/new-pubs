@@ -5,6 +5,7 @@ tags:
 - Data
 - Open Source Series
 Author: Greg Maly
+social-image: "/uploads/open-source-software-.jpg"
 ---
 
 *This article is the first in a series of posts about open source software and open data for development.*
