@@ -5,7 +5,7 @@ tags:
 - Data
 - Open Source Series
 Author: Greg Maly
-social-image: "/uploads/open-source-software-.jpg"
+social-image: "/uploads/bart-simpson-generator.gif"
 ---
 
 *This article is the first in a series of posts about open source software and open data for development.*
@@ -16,7 +16,7 @@ Here at DAI we rely on software applications and data systems for our everyday w
 
 When faced with issues of licensing or a tight budget, open source tools have a key advantage over proprietary applications, and that’s purchase cost. While here at DAI we can afford the latest software applications, not all organizations are. In these cases, it is not uncommon to turn to open source technologies. 
 
-![open-source-software-.jpg](/uploads/open-source-software-.jpg)
+![open-source-software-.jpg](/uploads/bart-simpson-generator.jpg)
 
 ## What We Will Cover in this Series 
 
