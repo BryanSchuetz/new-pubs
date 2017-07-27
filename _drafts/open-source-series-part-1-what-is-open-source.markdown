@@ -45,4 +45,5 @@ Open source software is often predicated on users to contribute source code at n
 Open source software may not have a help desk to call. But what it does have is often a community of interested users online, working together on a collective professional development effort.  
 
 ## What’s next? 
-In our next post of Open we will discuss the GIS application QGIS. This is a personal favorite of mine, so keep an eye out for it! 
+
+In our next post we will discuss the GIS application QGIS. This is a personal favorite of mine, so keep an eye out for it! 
