@@ -38,7 +38,7 @@ Before we dig into specific software or data collection initiatives, we thought 
 
 ## The Hidden Costs of Open Source 
 
-While open source software is by definition “free,” that doesn’t mean there is no cost. Software requires staff who know how to set up and run it. This can mean hiring staff with technical expertise, or providing current staff with professional development opportunities. And while some learners have the time and technical background to read through software documentation, good education may require paying for classroom or online training. 
+While open source software is by definition “free,” that doesn’t mean there is no cost. Software requires staff who know how to set up and run it. This can mean hiring staff with technical expertise, or providing training for current staff. And while some learners have the time and technical background to read through software documentation, good education may require paying for classroom or online training. 
 
 Open source software is often predicated on users to contribute source code at no cost, or for users to donate money. This can mean delays in updates, or occasional downtime if you accidentally update the operating system on your phone, and an application hasn’t been updated to run.  Users are required to be more involved in the software, which can be both an advantage and a drawback. 
 
