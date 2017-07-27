@@ -14,6 +14,8 @@ Here at DAI we rely on both software applications and data systems for our every
 
 When faced with issues of licensing or a tight budget, open source tools have a key advantage over proprietary applications, and that’s purchase cost. While here at DAI we can afford the latest software applications, not all organizations are able to afford annual software updates. In these cases, it is not uncommon to turn to open source technologies. 
 
+<!--more-->
+
 ![open-source-software-.jpg](/uploads/open-source-software-.jpg)
 
 ## What We Will Cover in this Series 
