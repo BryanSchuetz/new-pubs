@@ -4,6 +4,7 @@ date: 2017-07-28 15:47:00 -04:00
 tags:
 - Human-centered design
 - Health
+Author: Talia Dweck
 social-image: "/uploads/HCD%20image%20(002).jpg"
 ---
 
