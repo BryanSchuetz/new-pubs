@@ -14,7 +14,7 @@ One of the largest barriers to improving health outcomes across the world is the
 
 Changing behavior is not easy, especially when it comes to health practices.  Imagine learning that something you have been doing for a lifetime to keep yourself healthy must change, but not fully understanding why or how to change it. This is where human-centered design (HCD) becomes critical in healthcare delivery. HCD is rooted in empathy and thus prioritizes a thorough understanding of the beneficiaries’ behaviors before attempting to change them. This understanding can help to inform the design of an advancement in healthcare, thus improving the chances of adoption.
 
-![HCD image (002).jpg](/uploads/HCD%20image%20(002).jpg)
+![HCD image](/uploads/HCD%20image%20(002).jpg)
 
 In a [recent blog post](https://www.usaid.gov/what-we-do/global-health/hiv-and-aids/information-center/hiv-and-aids-research-corner/human-centered-design-dapivirine) released by the USAID Bureau for Global Health, the authors discuss how a project used HCD to understand how to best encourage the use of the dapivirine ring – a monthly vaginal ring that releases dapivirine, an antiretroviral that prevents users from contracting HIV. Through a thorough HCD process in which potential users and various other stakeholders and influencers were interviewed, the team got to the heart of the uncertainty about the product. To view the results, [click here.](https://www.usaid.gov/what-we-do/global-health/hiv-and-aids/information-center/hiv-and-aids-research-corner/human-centered-design-dapivirine)
 
