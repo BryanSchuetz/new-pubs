@@ -21,9 +21,7 @@ In a [recent blog post](https://www.usaid.gov/what-we-do/global-health/hiv-and-a
 This project is a great example for how HCD can be an extremely useful tool for understanding behavior as it pertains to advances in healthcare products and practices. Because healthcare is a unique field, there are certain elements of the HCD method that should be at the forefront of implementation. A few are included below:
 
 * **Sensitivity is key:** How a person cares for him or herself is an extremely sensitive and personal topic. When using HCD, implementers must be aware of these sensitivities and frame discussions in a way that prioritizes creating a safe and comfortable environment for expression.
-
 * **Don’t rely on assumptions:** A key component of using HCD to understand health behavior is throwing assumptions out the window. Any preconceived notions can skew the implementers’ interpretations of the discussions, preventing them from fully understanding the root of behaviors.
-
 * **One size does not fit all:** It is important keep in mind that HCD users’ behaviors and reasoning can differ.  While separating by gender, age, healthcare condition (i.e. HIV positive or pregnant mother), etc.  enables one to focus on behavioral consistencies across subsets of the population, scaling a product based solely on one group can compromise long term success. Diversifying the users involved in the HCD process can improve the chances the product or service is widely adopted.
 
 As advances in healthcare are made, it is essential to engage potential users as soon as possible in the design process. This proactive approach will ensure that challenges with behavioral change are addressed early on in implementation.
