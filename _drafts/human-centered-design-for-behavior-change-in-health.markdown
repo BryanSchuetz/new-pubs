@@ -3,7 +3,7 @@ title: Human Centered Design for Behavior Change in Health
 date: 2017-07-28 15:47:00 -04:00
 tags:
 - Health
-- Human-Centered Design
+- Human-centered design
 Author: Talia Dweck
 social-image: "/uploads/HCD%20image%20(002).jpg"
 ---
