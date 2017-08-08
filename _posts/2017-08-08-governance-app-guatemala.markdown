@@ -16,13 +16,15 @@ On Thursday May 25th, Mayor Carlos Alvarado Figueroa stood on stage at the local
 
 <!--more-->
 
-![mayor budget.png](/uploads/mayor%20budget.png)
+![main menu.png](/uploads/main%20menu.png)
 
 Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla, drawing a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. Hearing the mayor link the app so closely to local, historical accountability practices sent a human-centered tear rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wv9UnOGiOnQ" frameborder="0" allowfullscreen></iframe> 
 
 ## The Budget Module
+
+![mayor budget.png](/uploads/mayor%20budget.png)
 
 Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module pulls financial data from Chiantla’s municipal budget system, SICOIN, through the Guatemalan Ministry of Finance’s Department for Municipal Finance, whose representatives established an Amazon Web Service specifically for Somos Chiantla (in the absence of a full public API) which pulls the data from SICOIN and makes it available for download to the app. 
 
