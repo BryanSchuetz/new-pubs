@@ -44,7 +44,7 @@ Beyond the budget module, Somos Chiantla includes a local issue reporting module
 
 ## Launch Training and Assistance
 
-To show Chiantlans how to use these features, the launch event featured an information and training booth in the public square outside the municipal theater to help local citizens download and learn how to use the app. The two photos below show a trainer working with some Chiantlan cowboys. 
+To show Chiantlans how to use these features, the launch event included a public information and training booth in the town square, just outside the municipal theater. The two photos below show a trainer working with a group of Chiantlan cowboys. 
 
 ![training](/uploads/WhatsApp%20Image%202017-05-25%20at%209.54.35%20PM%20(2).jpeg)
 
