@@ -60,13 +60,13 @@ Since the launch event, the app has been downloaded more than 500 times. Users s
 
 ## Next Steps
 
-Currently Nexos Locales is preparing a grant for a local civil society organization to conduct a series of design-thinking workshops with citizens, municipal employees, other civil society organizations, local journalists and lawyers, to get their feedback on what is now a live and active tool/service of the current municipal administration. Beyond that, we’re collecting user data to see what’s working and what isn’t, and will continue to engage the community of Chiantla as we better align Somos Chiantla to the needs of Chiantlans. 
+Currently Nexos Locales is preparing a grant for a local civil society organization to conduct a series of design-thinking workshops with citizens, municipal employees, other civil society organizations, local journalists and lawyers, to get their feedback on what is now a live and active tool/service of the current municipal administration. Beyond that, we’re collecting user data to see what’s working and what isn’t, and will continue to engage the community of Chiantla as we better align Somos Chiantla to its needs. 
 
-The search has begun for two additional municipalities with the right combination of political, social, and technological factors to successfully implement the design and operation of their own versions of Somos Chiantla.  
+The search has begun for two additional municipalities with the right combination of political, social, and technological factors to successfully implement the design and operation of their own versions of the app.  
 
-## "For Chiantla"
+## “For Chiantla”
 
-The municipality's slogan is "For Chiantla," and in that spirit, it's worth turning the spotlight back toward the people this app was created for and with. The launch event attracted folks from all over Chiantla, and the Nexos Locales team used a photo booth to snap and post photos of attendees directly to the [municipality's Facebook page](https://www.facebook.com/MuniChiantla/photos/?tab=album&album_id=1915829891995510). A select few are presented in GIF form below (it might take a few moments to download).
+The municipality’s slogan is “For Chiantla,” and in that spirit, it’s worth turning the spotlight back toward the people this app was created for and with. The launch event attracted folks from all over Chiantla, and the Nexos Locales team used a photo booth to snap and post photos of attendees directly to the [municipality’s Facebook page](https://www.facebook.com/MuniChiantla/photos/?tab=album&album_id=1915829891995510). A select few are presented in GIF form below (it might take a few moments to download).
 
 ![people 3.gif](/uploads/people%203.gif)
 
