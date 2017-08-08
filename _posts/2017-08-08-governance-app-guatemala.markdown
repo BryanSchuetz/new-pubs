@@ -12,13 +12,13 @@ tags:
 
 ![intro.png](/uploads/intro.png)
 
-On May 25, Mayor Carlos Alvarado Figueroa stood on stage at the local municipal theater and announced the launch of [‘Somos Chiantla’](http://bit.ly/Chiantla-App)—a mobile app for municipal budget transparency and citizen engagement for the citizens of Chiantla, a town in the Western Highlands of Guatemala and one of [Nexos Locales’s](https://www.dai.com/our-work/projects/guatemala-nexos-locales) partner municipalities.
+On May 25, Mayor Carlos Alvarado Figueroa stood on stage at the local municipal theater and announced the launch of [*Somos Chiantla*](http://bit.ly/Chiantla-App)—a mobile app for municipal budget transparency and citizen engagement for the citizens of Chiantla, a town in the Western Highlands of Guatemala and one of [Nexos Locales’s](https://www.dai.com/our-work/projects/guatemala-nexos-locales) partner municipalities.
 
 <!--more-->
 
 ![main menu.png](/uploads/main%20menu.png)
 
-Mayor Alvarado, channeling Steve Jobs with headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla. Doing so, he drew a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. 
+Mayor Alvarado, channeling Steve Jobs with a headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla. Doing so, he drew a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. 
 
 Hearing the mayor link the app so closely to local, historical accountability practices sent a little tear of joy rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
