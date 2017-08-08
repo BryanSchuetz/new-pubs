@@ -40,7 +40,7 @@ A few layers down, users reach actual budget line items. In the image below, the
 
 ## Beyond Budgets
 
-Beyond the budget module, Somos Chiantla includes a local issue reporting module, which allows citizens to request help for potholes, broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
+Beyond the budget module, Somos Chiantla includes a local issue reporting module, which allows citizens to request help for potholes, report broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
 
 ![reporting module.png](/uploads/reporting%20module.png)
 
