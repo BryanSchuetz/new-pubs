@@ -1,5 +1,5 @@
 ---
-title: "‘Somos Chiantla’ e-Governance App Launches in Guatemala"
+title: Somos Chiantla’ e-Governance App Launches in Guatemala
 date: 2017-08-08 09:43:00 -04:00
 published: false
 tags:
@@ -18,9 +18,9 @@ On May 25, Mayor Carlos Alvarado Figueroa stood on stage at the local municipal 
 
 ![main menu.png](/uploads/main%20menu.png)
 
-Mayor Alvarado, channeling Steve Jobs with a headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla. Doing so, he drew a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. 
+Mayor Alvarado, channeling Steve Jobs with a headset and jeans, described the history of public accountability or *rendición de cuentas* in Chiantla. Doing so, he drew a direct line from early methods—written documents from 1882—to Somos Chiantla, which gives citizens direct access to budget data, pulled from the municipality’s financial systems. 
 
-Hearing the mayor link the app so closely to local, historical accountability practices sent a little tear of joy rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
+Hearing the mayor link the app so closely to local, historical accountability practices sent a little tear of joy rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the three-minute version of the mayor’s speech embedded below, or view the entire event on [Chianta’s Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wv9UnOGiOnQ" frameborder="0" allowfullscreen></iframe> 
 
