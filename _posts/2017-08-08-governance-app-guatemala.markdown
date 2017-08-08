@@ -10,28 +10,29 @@ tags:
 
 *Note: this blog post is a follow-up to an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
 
+[Image]
+
 On Thursday May 25th, Mayor Carlos Alvarado Figueroa stood on stage in local the municipal theater and announced the launch of ‘Somos Chiantla’, a mobile app for municipal budget transparency and citizen engagement, designed with and for the citizens of Chiantla, a municipality in the Western Highlands of Guatemala and one of [Nexos Locales’s](https://www.dai.com/our-work/projects/guatemala-nexos-locales) focus municipalities.
 
 <--!more-->
 
-Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla, drawing a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. Hearing the mayor link the app so closely to local, historical accountability practices sent a human-centered tear rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing exosystemecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
+Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla, drawing a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. Hearing the mayor link the app so closely to local, historical accountability practices sent a human-centered tear rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing exosystemecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wv9UnOGiOnQ" frameborder="0" allowfullscreen></iframe> 
 
 ## The Budget Module
 
-Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module pulls financial data from Chiantla’s municipal budget system, SICOIN, through the Guatemalan Ministry of Finance’s Department for Municipal Finance, whose representatives established an Amazon Web Service specifically for Somos Chiantla (in the absence of a full public API) which pulls the data from SICOIN and makes it available for daily download to the app. 
+Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module pulls financial data from Chiantla’s municipal budget system, SICOIN, through the Guatemalan Ministry of Finance’s Department for Municipal Finance, whose representatives established an Amazon Web Service specifically for Somos Chiantla (in the absence of a full public API) which pulls the data from SICOIN and makes it available for download to the app. 
 
+[image]
+
+The module is divided into income (Ingresos) and expenditures (Gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into Own Income (Ingresos Propios) and Central Government Transfers (Transferences del Gobierno Central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
+
+[image]
  
+A few layers down, users reach actual budget line items. In the image below shows the sources of central government capital transfers, including the constitutional mandate (Situado Constitucional para Inversión), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
 
-The module is divided into income (ingresos) and expenditures (gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into Own Income (Ingresos Propios) and Central Government Transfers (Transferences del Gobierno Central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
-
- 
- 
-A few layers down, users reach actual budget line items. In the image below, the mayor reviews the sources of various central government capital transfers, such as the constitutional mandate (Situado Constitucional para Inversion), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
-
- 
-
+[image]
 
 ## Beyond Budgets
 
