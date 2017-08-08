@@ -18,7 +18,9 @@ On Thursday May 25th, Mayor Carlos Alvarado Figueroa stood on stage at the local
 
 ![main menu.png](/uploads/main%20menu.png)
 
-Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla. Doing so, he drew a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. Hearing the mayor link the app so closely to local, historical accountability practices sent a little tear of joy rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
+Mayor Alvarado, channeling Steve Jobs with headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla. Doing so, he drew a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. 
+
+Hearing the mayor link the app so closely to local, historical accountability practices sent a little tear of joy rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wv9UnOGiOnQ" frameborder="0" allowfullscreen></iframe> 
 
@@ -64,7 +66,7 @@ The search has begun for two additional municipalities with the right combinatio
 
 ## "For Chiantla"
 
-Before I close, it's worth turning the spotlight back toward the people this app was created for and with. The launch event attracted folks from all over Chiantla, and the Nexos Locales team used a Sharingbox to snap and post photos of them directly to the [municipality's Facebook page](https://www.facebook.com/MuniChiantla/photos/?tab=album&album_id=1915829891995510). A select few are presented in GIF form below (it might take a few moments to download).
+The municipality's slogan is "For Chiantla," and in that spirit, it's worth turning the spotlight back toward the people this app was created for and with. The launch event attracted folks from all over Chiantla, and the Nexos Locales team used a photo booth to snap and post photos of attendees directly to the [municipality's Facebook page](https://www.facebook.com/MuniChiantla/photos/?tab=album&album_id=1915829891995510). A select few are presented in GIF form below (it might take a few moments to download).
 
 ![people 3.gif](/uploads/people%203.gif)
 
