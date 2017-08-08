@@ -30,11 +30,11 @@ Somos Chiantla’s key feature is its budget transparency module, which the mayo
 
 The module is divided into income (Ingresos) and expenditures (Gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into Own Income (Ingresos Propios) and Central Government Transfers (Transferences del Gobierno Central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
 
-[image]
+[image]![budget 2.png](/uploads/budget%202.png)
  
 A few layers down, users reach actual budget line items. In the image below shows the sources of central government capital transfers, including the constitutional mandate (Situado Constitucional para Inversión), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
 
-[image]
+![mayor again.png](/uploads/mayor%20again.png)
 
 ## Beyond Budgets
 
