@@ -1,5 +1,5 @@
 ---
-title: Somos Chiantla’ e-Governance App Launches in Guatemala
+title: Governance App Launches in Guatemala
 date: 2017-08-08 09:43:00 -04:00
 published: false
 tags:
@@ -18,7 +18,7 @@ On May 25, Mayor Carlos Alvarado Figueroa stood on stage at the local municipal 
 
 ![main menu.png](/uploads/main%20menu.png)
 
-Mayor Alvarado, channeling Steve Jobs with a headset and jeans, described the history of public accountability or *rendición de cuentas* in Chiantla. Doing so, he drew a direct line from early methods—written documents from 1882—to Somos Chiantla, which gives citizens direct access to budget data, pulled from the municipality’s financial systems. 
+Mayor Alvarado, channeling Steve Jobs with a headset and jeans, described the history of public accountability or *rendición de cuentas* in Chiantla. Doing so, he drew a direct line from early methods—written documents from 1882—to Somos Chiantla (“We are Chiantla”), which gives citizens direct access to budget data, pulled from the municipality’s financial systems. 
 
 Hearing the mayor link the app so closely to local, historical accountability practices sent a little tear of joy rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing ecosystem, not just technological but also cultural. See the three-minute version of the mayor’s speech embedded below, or view the entire event on [Chianta’s Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
@@ -26,21 +26,21 @@ Hearing the mayor link the app so closely to local, historical accountability pr
 
 ## The Budget Module
 
-Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module's financial data comes directly from Chiantla’s municipal budgeting system, SICOIN, via an Amazon Web Service created specifically for Somos Chiantla (in the absence of a public API) by the Guatemalan Ministry of Finance’s Department for Municipal Finance. 
+Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his presentation (see image below). The module’s financial data comes directly from Chiantla’s municipal budgeting system, SICOIN, via an Amazon Web Service created specifically for Somos Chiantla (in the absence of a public API) by the Guatemalan Ministry of Finance’s Department for Municipal Finance. 
 
 ![mayor budget.png](/uploads/mayor%20budget.png)
 
-The module is divided into income (Ingresos) and expenditures (Gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into Own Income (Ingresos Propios) and Central Government Transfers (Transferences del Gobierno Central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
+The module is divided into income (ingresos) and expenditures (gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into own income (ingresos propios) and central government transfers (transferences del gobierno central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
 
 ![budget 2.png](/uploads/budget%202.png)
  
-A few layers down, users reach actual budget line items. In the image below, the sources of central government capital transfers, including the constitutional mandate (Situado Constitucional para Inversión), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
+A few layers down, users reach actual budget line items. In the image below, the sources of central government capital transfers, including the constitutional mandate (situado constitucional para inversión), oil tax (impuesto petrolero) and the vehicle tax (impuesto de circulacion de vehiculos). 
 
 ![mayor again.png](/uploads/mayor%20again.png)
 
 ## Beyond Budgets
 
-Beyond the budget module, Somos Chiantla includes a local issue reporting module, which gives citizens the ability to request help for potholes, broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
+Beyond the budget module, Somos Chiantla includes a local issue reporting module, which allows citizens to request help for potholes, broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
 
 ![reporting module.png](/uploads/reporting%20module.png)
 
