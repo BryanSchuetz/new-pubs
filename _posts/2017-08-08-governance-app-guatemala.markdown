@@ -52,7 +52,7 @@ To show Chiantlans how to use these features, the launch event included a public
 
 ## Uptake and Impact
 
-Since launch, the app has been downloaded more than 500 times. Users spend an average of 5 minutes and 21 seconds per session, and the reporting module has been active (see graphic below). Through that module, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, 6 are in process, and 3 are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area (almost 500 square kilometers), although they will need to act on the three pending reports.
+Since the launch, the app has been downloaded more than 500 times. Users spend an average of 5 minutes and 21 seconds per session, and the reporting module has been active (see graphic below). Through that module, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, 6 are in process, and 3 are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area (almost 500 square kilometers), although they will need to act on the three pending reports.
 
 <script id="infogram_0_3aca8aa1-fa15-4951-8611-f503fb2c7b8c" title="Chiantla reports" src="//e.infogram.com/js/dist/embed.js?UxY" type="text/javascript"></script>
 
