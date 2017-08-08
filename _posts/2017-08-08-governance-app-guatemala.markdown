@@ -38,7 +38,15 @@ A few layers down, users reach actual budget line items. In the image below show
 
 Beyond the budget module, Somos Chiantla includes a local issue reporting module, which gives citizens the ability to request help for potholes, broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
 
- 
+[image]
+
+Since launch, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, 6 are in process, and 3 are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area, although they will need to act on the three pending reports. 
+
+<script id="infogram_0_3aca8aa1-fa15-4951-8611-f503fb2c7b8c" title="Chiantla reports" src="//e.infogram.com/js/dist/embed.js?UxY" type="text/javascript"></script>
+
+## Local Impact
+
+While 
 
 ## Next Steps
 
