@@ -32,7 +32,7 @@ The module is divided into income (Ingresos) and expenditures (Gastos), both of 
 
 ![budget 2.png](/uploads/budget%202.png)
  
-A few layers down, users reach actual budget line items. In the image below shows the sources of central government capital transfers, including the constitutional mandate (Situado Constitucional para Inversión), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
+A few layers down, users reach actual budget line items. In the image below, the sources of central government capital transfers, including the constitutional mandate (Situado Constitucional para Inversión), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
 
 ![mayor again.png](/uploads/mayor%20again.png)
 
