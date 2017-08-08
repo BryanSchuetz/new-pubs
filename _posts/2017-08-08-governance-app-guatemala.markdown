@@ -14,7 +14,7 @@ tags:
 
 On Thursday May 25th, Mayor Carlos Alvarado Figueroa stood on stage in local the municipal theater and announced the launch of ‘Somos Chiantla’, a mobile app for municipal budget transparency and citizen engagement, designed with and for the citizens of Chiantla, a municipality in the Western Highlands of Guatemala and one of [Nexos Locales’s](https://www.dai.com/our-work/projects/guatemala-nexos-locales) focus municipalities.
 
-<--!more-->
+<!--more-->
 
 Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla, drawing a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. Hearing the mayor link the app so closely to local, historical accountability practices sent a human-centered tear rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing exosystemecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s offical Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
