@@ -6,6 +6,7 @@ tags:
 - Governance
 - Guatemala
 - Human-centered design
+Author: Adam Fivenson
 ---
 
 *Note: This blog post follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
