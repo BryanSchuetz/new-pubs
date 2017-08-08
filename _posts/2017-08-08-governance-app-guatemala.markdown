@@ -24,11 +24,9 @@ Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the 
 
 ## The Budget Module
 
-![mayor budget.png](/uploads/mayor%20budget.png)
-
 Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module pulls financial data from Chiantla’s municipal budget system, SICOIN, through the Guatemalan Ministry of Finance’s Department for Municipal Finance, whose representatives established an Amazon Web Service specifically for Somos Chiantla (in the absence of a full public API) which pulls the data from SICOIN and makes it available for download to the app. 
 
-[image]
+![mayor budget.png](/uploads/mayor%20budget.png)
 
 The module is divided into income (Ingresos) and expenditures (Gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into Own Income (Ingresos Propios) and Central Government Transfers (Transferences del Gobierno Central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
 
