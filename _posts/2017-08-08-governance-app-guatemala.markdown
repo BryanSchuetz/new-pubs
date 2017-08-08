@@ -10,7 +10,7 @@ tags:
 
 *Note: this blog post is a follow-up to an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
 
-[Image]
+![intro.png](/uploads/intro.png)
 
 On Thursday May 25th, Mayor Carlos Alvarado Figueroa stood on stage in local the municipal theater and announced the launch of ‘Somos Chiantla’, a mobile app for municipal budget transparency and citizen engagement, designed with and for the citizens of Chiantla, a municipality in the Western Highlands of Guatemala and one of [Nexos Locales’s](https://www.dai.com/our-work/projects/guatemala-nexos-locales) focus municipalities.
 
