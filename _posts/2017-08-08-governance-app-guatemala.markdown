@@ -8,7 +8,7 @@ tags:
 - Human-centered design
 ---
 
-*Note: this blog post is a follow-up to an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
+*Note: This blog post is a follow-up to an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
 
 ![intro.png](/uploads/intro.png)
 
