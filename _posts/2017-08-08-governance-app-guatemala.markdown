@@ -24,7 +24,7 @@ Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the 
 
 ## The Budget Module
 
-Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module pulls financial data from Chiantla’s municipal budget system, SICOIN, through the Guatemalan Ministry of Finance’s Department for Municipal Finance, whose representatives established an Amazon Web Service specifically for Somos Chiantla (in the absence of a full public API) which pulls the data from SICOIN and makes it available for download to the app. 
+Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module's financial data comes directly from Chiantla’s municipal budgeting system, SICOIN, via an Amazon Web Service created specifically for Somos Chiantla (in the absence of a public API) by the Guatemalan Ministry of Finance’s Department for Municipal Finance. 
 
 ![mayor budget.png](/uploads/mayor%20budget.png)
 
