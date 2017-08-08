@@ -2,5 +2,49 @@
 title: "‘Somos Chiantla’ e-Governance App Launches in Guatemala"
 date: 2017-08-08 09:43:00 -04:00
 published: false
+tags:
+- Governance
+- Guatemala
+- Human-centered design
 ---
 
+*Note: this blog post is a follow-up to an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
+
+On Thursday May 25th, Mayor Carlos Alvarado Figueroa stood on stage in local the municipal theater and announced the launch of ‘Somos Chiantla’, a mobile app for municipal budget transparency and citizen engagement, designed with and for the citizens of Chiantla, a municipality in the Western Highlands of Guatemala and one of [Nexos Locales’s](https://www.dai.com/our-work/projects/guatemala-nexos-locales) focus municipalities.
+
+<--!more-->
+
+Mayor Alvarado, channeling Steve Jobs with the headset and jeans, described the history of public accountability or "rendición de cuentas" in Chiantla, drawing a direct line from early methods--written documents from 1882--to Somos Chiantla, which gives citizens direct access to open budget data, pulled directly from the municipality’s financial systems. Hearing the mayor link the app so closely to local, historical accountability practices sent a human-centered tear rolling down my cheek; from a [design perspective](http://digitalprinciples.org/), it’s essential to build on the existing exosystemecosystem, not just technological but also cultural. See the 3-minute version of the mayor’s launch event speech embedded below, or view the entire launch event on [Chianta’s Facebook page](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wv9UnOGiOnQ" frameborder="0" allowfullscreen></iframe> 
+
+## The Budget Module
+
+Somos Chiantla’s key feature is its budget transparency module, which the mayor previewed during his launch presentation (see image below). The module pulls financial data from Chiantla’s municipal budget system, SICOIN, through the Guatemalan Ministry of Finance’s Department for Municipal Finance, whose representatives established an Amazon Web Service specifically for Somos Chiantla (in the absence of a full public API) which pulls the data from SICOIN and makes it available for daily download to the app. 
+
+ 
+
+The module is divided into income (ingresos) and expenditures (gastos), both of which are base blocks of much deeper hierarchies of budget information. Income is divided into Own Income (Ingresos Propios) and Central Government Transfers (Transferences del Gobierno Central) (see image below). This hierarchy is not native to the budget system, but was designed by the app’s developer, [Explico S.A.](http://explicoanalytics.com/), working closely with Karla Milian, Nexos Locales’s Municipal Public Finance Specialist. 
+
+ 
+ 
+A few layers down, users reach actual budget line items. In the image below, the mayor reviews the sources of various central government capital transfers, such as the constitutional mandate (Situado Constitucional para Inversion), oil tax (Impuesto Petrolero) and the vehicle tax (Impuesto de Circulacion de Vehiculos). 
+
+ 
+
+
+## Beyond Budgets
+
+Beyond the budget module, Somos Chiantla includes a local issue reporting module, which gives citizens the ability to request help for potholes, broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
+
+ 
+
+## Next Steps
+
+Currently Nexos Locales is preparing a grant for a local civil society organization to conduct a series of design thinking workshops with citizens, municipal employees, other civil society organizations, local journalists and lawyers, to get their feedback on what is now a live and active tool/service of the current municipal administration. Beyond that, we’re collecting user data to see what’s working and what isn’t, and will continue to engage the community of Chiantla as we better align Somos Chiantla to the needs of Chiantlans. 
+
+Beyond that, the search has begun for two additional municipalities with the right combination of political, social, and technological factors to successfully implement the design and operation of their own versions of Somos Chiantla.  
+
+More soon so stay tuned. 
+
+*Download Somos Chiantla on [Google Play](http://bit.ly/Chiantla-App).*
