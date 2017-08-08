@@ -54,5 +54,8 @@ Currently Nexos Locales is preparing a grant for a local civil society organizat
 
 Beyond that, the search has begun for two additional municipalities with the right combination of political, social, and technological factors to successfully implement the design and operation of their own versions of Somos Chiantla.  
 
+## 
+
 ![people.gif](/uploads/peopel.gif)
+
 *Download Somos Chiantla on [Google Play](http://bit.ly/Chiantla-App).*
