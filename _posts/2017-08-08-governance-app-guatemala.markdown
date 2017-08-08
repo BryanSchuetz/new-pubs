@@ -42,13 +42,11 @@ Beyond the budget module, Somos Chiantla includes a local issue reporting module
 
 ![reporting module.png](/uploads/reporting%20module.png)
 
-Since launch, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, 6 are in process, and 3 are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area, although they will need to act on the three pending reports. 
+#Uptake and Impact
+
+Since launch, the app has been downloaded more than 500 times. Users spend an average of 5 minutes and 21 seconds per session, and the reporting module has been active (see graphic below). Through that module, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, 6 are in process, and 3 are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area, although they will need to act on the three pending reports.
 
 <script id="infogram_0_3aca8aa1-fa15-4951-8611-f503fb2c7b8c" title="Chiantla reports" src="//e.infogram.com/js/dist/embed.js?UxY" type="text/javascript"></script>
-
-## Local Impact
-
-While 
 
 ## Next Steps
 
@@ -56,6 +54,5 @@ Currently Nexos Locales is preparing a grant for a local civil society organizat
 
 Beyond that, the search has begun for two additional municipalities with the right combination of political, social, and technological factors to successfully implement the design and operation of their own versions of Somos Chiantla.  
 
-More soon so stay tuned. 
-
+![people.gif](/uploads/peopel.gif)
 *Download Somos Chiantla on [Google Play](http://bit.ly/Chiantla-App).*
