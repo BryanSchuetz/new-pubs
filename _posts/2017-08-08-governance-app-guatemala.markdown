@@ -40,13 +40,13 @@ A few layers down, users reach actual budget line items. In the image below, the
 
 ## Beyond Budgets
 
-Beyond the budget module, Somos Chiantla includes a local issue reporting module, which allows citizens to request help for potholes, report broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., Received, In Progress, Resolved) to the submitter of the report.  
+Beyond the budget module, Somos Chiantla includes a local issue reporting module, which allows citizens to request help for potholes, report broken street lights, problems with water provision, and more. See the mayor debuting the module below. Reports are handled by the municipality’s app manager, who feeds them to the relevant department and provides status updates (e.g., received, in progress, resolved) to the submitter of the report.  
 
 ![reporting module.png](/uploads/reporting%20module.png)
 
 ## Launch Training and Assistance
 
-To show Chiantlans how to use these features, the launch event included a public information and training booth in the town square, just outside the municipal theater. The two photos below show a trainer working with a group of Chiantlan cowboys. 
+To show Chiantlans how to use these features, the launch event included a public information and training booth in the town square. The two photos below show a trainer working with a group of Chiantlan cowboys. 
 
 ![training](/uploads/WhatsApp%20Image%202017-05-25%20at%209.54.35%20PM%20(2).jpeg)
 
@@ -54,13 +54,13 @@ To show Chiantlans how to use these features, the launch event included a public
 
 ## Uptake and Impact
 
-Since the launch event, the app has been downloaded more than 500 times. Users spend an average of 5 minutes and 21 seconds per session, and the reporting module has been active (see graphic below). Through that module, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, 6 are in process, and 3 are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area (almost 500 square kilometers).
+Since the launch event, the app has been downloaded more than 500 times. Users spend an average of five minutes and 21 seconds per session, and the reporting module has been active (see graphic below). Through that module, the municipality has received 21 reports related to water provision, street lights, and roads, as well as a request for public information. Of those reports, 12 have been resolved, six are in process, and three are pending action. From a governance standpoint, this is a strong record of response from a local government with limited resources and a large geographic coverage area (almost 500 square kilometers).
 
 <script id="infogram_0_3aca8aa1-fa15-4951-8611-f503fb2c7b8c" title="Chiantla reports" src="//e.infogram.com/js/dist/embed.js?UxY" type="text/javascript"></script>
 
 ## Next Steps
 
-Currently Nexos Locales is preparing a grant for a local civil society organization to conduct a series of design thinking workshops with citizens, municipal employees, other civil society organizations, local journalists and lawyers, to get their feedback on what is now a live and active tool/service of the current municipal administration. Beyond that, we’re collecting user data to see what’s working and what isn’t, and will continue to engage the community of Chiantla as we better align Somos Chiantla to the needs of Chiantlans. 
+Currently Nexos Locales is preparing a grant for a local civil society organization to conduct a series of design-thinking workshops with citizens, municipal employees, other civil society organizations, local journalists and lawyers, to get their feedback on what is now a live and active tool/service of the current municipal administration. Beyond that, we’re collecting user data to see what’s working and what isn’t, and will continue to engage the community of Chiantla as we better align Somos Chiantla to the needs of Chiantlans. 
 
 The search has begun for two additional municipalities with the right combination of political, social, and technological factors to successfully implement the design and operation of their own versions of Somos Chiantla.  
 
