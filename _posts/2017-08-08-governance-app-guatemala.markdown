@@ -1,5 +1,5 @@
 ---
-title: Governance App Launches in Guatemala
+title: 'Results of HCD: Governance App Launches in Guatemala'
 date: 2017-08-08 09:43:00 -04:00
 tags:
 - Governance
