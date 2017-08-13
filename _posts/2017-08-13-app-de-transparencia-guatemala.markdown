@@ -10,6 +10,8 @@ Author: Adam Fivenson
 social-image: "/uploads/intro.png"
 ---
 
+*This post is also available in [English](https://dai-global-digital.com/governance-app-guatemala.html).*
+
 *Nota: Esta entrada sigue una [publicación](https://dai-global-digital.com/citizen-centered-design-guatemala.html) anterior que explica nuestra fase de diseño digital, lo que fue centrado en los ciudadanos de Chiantla.*
 
 ![intro.png](/uploads/intro.png)
