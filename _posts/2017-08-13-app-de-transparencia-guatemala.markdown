@@ -44,7 +44,7 @@ Unas cuantas capas adentro, los usuarios alcanzan las líneas presupuestarias. E
 
 ![mayor again.png](/uploads/mayor%20again.png)
 
-## Más allá de los presupuestos
+## Más allá de los Presupuestos
 
 Somos Chiantla también incluye un módulo de denuncias locales, que permite a la población solicitar arreglos de baches, reportar las luces publicas rotas y problemas con el suministro de agua y mucho más. Vea al alcalde estrenando el módulo abajo. Los reportes son recibidos por el administrador de aplicación en el municipio, que los comparte con el departamento correspondiente y quien proporciona actualizaciones de estado (por ejemplo: Recibido, En Proceso, Finalizado) al remitente del reporte.
 
