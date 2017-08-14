@@ -2,15 +2,25 @@
 title: Lanzamos ‘Somos Chiantla’, App de Transparencia, en Guatemala
 date: 2017-08-13 19:22:00 -04:00
 published: false
+tags:
+- Guatemala
+- Governance
+- Human-centered design
+Author: Adam Fivenson
+social-image: "/uploads/intro.png"
 ---
 
 *Nota: Esta entrada sigue una [publicación](https://dai-global-digital.com/citizen-centered-design-guatemala.html) anterior que explica nuestra fase de diseño digital, lo que fue centrado en los ciudadanos de Chiantla.*
+
 ![intro.png](/uploads/intro.png)
-El 25 de mayo, el Alcalde Carlos Alvarado Figueroa se presentó en el escenario del teatro municipal y anunció el lanzamiento de [*Somos Chiantla*](http://bit.ly/Chiantla-App), una aplicación móvil para la transparencia presupuestaria municipal y la participación ciudadana de Chiantla, uno de los municipios apoyados por [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales).
+
+El 25 de mayo, el Alcalde Carlos Alvarado Figueroa anunció desde el Teatro Municipal de Chiantla el lanzamiento de [*Somos Chiantla*](http://bit.ly/Chiantla-App), una aplicación móvil para la transparencia presupuestaria municipal y la participación ciudadana de Chiantla, uno de los municipios apoyados por [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales).
+
 <!--more-->
+
 ![main menu.png](/uploads/main%20menu.png)
-Alcalde Alvarado, canalizando a Steve Jobs con auricular y jeans, describió la historia de la rendición de cuentas en Chiantla, dibujando una línea directa desde los métodos tempranos—documentos escritos del año 1882—hasta Somos Chiantla, lo que brinda a los ciudadanos acceso directo a los datos presupuestarios, extraídos directamente del sistema financiera del municipio.
-Escuchar al alcalde vincular la aplicación tan directamente a las prácticas de rendición de cuentas locales e históricas envió un pequeño lagrima de alegría rodando por mi mejilla; desde el punto de vista del diseño digital, es esencial aprovechar del ecosistema existente, no sólo tecnológico sino también cultural. Vea la versión de tres minutos del discurso que dio el alcalde a continuación, o vea la versión completa en la página [de Facebook de Chianta](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
+
+Canalizando el look de Steve Jobs, con auricular y jeans, el alcalde Alvarado describió la historia de la rendición de cuentas en Chiantla, dibujando una línea directa desde los métodos utilizados en el año 1882--hasta Somos Chiantla, una aplicación que brinda a los ciudadanos acceso directo a los datos presupuestarios, extraídos directamente del sistema financiera del municipio. Escuchar al alcalde vincular la aplicación tan directamente a las prácticas de rendición de cuentas locales e históricas me causó una lágrima de alegría; desde el punto de vista del diseño digital, es esencial aprovechar del ecosistema existente, no sólo tecnológico sino también cultural. Vea la versión de tres minutos del discurso que dio el alcalde a continuación, o vea la versión completa en la página [de Facebook de Chianta](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xtgwg6Zrg3o" frameborder="0" allowfullscreen></iframe> 
 ## El módulo de presupuesto
 La función clave de Somos Chiantla es su módulo de transparencia presupuestaria, lo que el alcalde previó en su presentación (ver imagen abajo). Los datos financieros del módulo vienen directamente del sistema de presupuesto municipal de Chiantla, SICOIN, a través de un Amazon Web Service, creado específicamente para Somos Chiantla (dado la ausencia de una API pública) por la Dirección Administrativa de Finanzas Municipales (DAAFIM) del Ministerio de Finanzas Publicas de Guatemala.
