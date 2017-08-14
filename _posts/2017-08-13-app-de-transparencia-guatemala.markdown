@@ -10,7 +10,7 @@ Author: Adam Fivenson
 social-image: "/uploads/intro.png"
 ---
 
-*This post is also available in [English](http://bit.ly/transparency-app).*
+*Note: This post is also available in [English](http://bit.ly/transparency-app).*
 
 *Nota: Esta entrada sigue una [publicación](https://dai-global-digital.com/citizen-centered-design-guatemala.html) anterior que explica nuestra fase de diseño digital, lo que fue centrado en los ciudadanos de Chiantla.*
 
