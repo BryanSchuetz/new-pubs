@@ -62,7 +62,7 @@ Para mostrar a los Chiantlecos cómo utilizar estés módulos, el evento de lanz
 
 Desde el evento de lanzamiento, la aplicación se ha descargado más de 500 veces. Los usuarios dedican un promedio de 5 minutos y 21 segundos por sesión, y el módulo de informes ha estado activo (ver gráfico abajo). A través de ese módulo, el municipio ha recibido 21 informes relacionados con suministro de agua, alumbrado público, calles locales e información pública. De esos 21 reportes, 12 se han resuelto, 6 aún están en curso, y tres están pendientes de acción. Desde el punto de vista de la gobernabilidad, esto representa un fuerte registro de respuesta por un gobierno local con recursos limitados y una gran área de cobertura geográfica (casi 500 kilómetros cuadrados).
 
-<script id="infogram_0_3aca8aa1-fa15-4951-8611-f503fb2c7b8c" title="Chiantla reports" src="//e.infogram.com/js/dist/embed.js?UxY" type="text/javascript"></script>
+<script id="infogram_0_a60320c6-f5b4-40ca-9f0b-783498b0c47d" title="Chiantla Reportes" src="//e.infogram.com/js/dist/embed.js?Gry" type="text/javascript"></script>
 
 ## Próximos Pasos
 
