@@ -32,7 +32,7 @@ Vea la versión de tres minutos del discurso que dio el alcalde a continuación,
 
 ## El módulo de presupuesto
 
-La función clave de Somos Chiantla es su módulo de transparencia presupuestaria, lo que el alcalde previó en su presentación (ver imagen abajo). Los datos financieros del módulo vienen directamente del sistema de presupuesto municipal de Chiantla, SICOIN, a través de un Amazon Web Service, creado específicamente para Somos Chiantla (dado la ausencia de una API pública) por la Dirección Administrativa de Finanzas Municipales (DAAFIM) del Ministerio de Finanzas Publicas de Guatemala.
+La función clave de Somos Chiantla es su módulo de transparencia presupuestaria, la cual fue presentada por alcalde (ver imagen abajo). Los datos financieros del módulo vienen directamente del sistema de presupuesto municipal de Chiantla, SICOIN, a través de un Amazon Web Service, creado específicamente para Somos Chiantla (dado la ausencia de una API pública) por la Dirección Administrativa de Finanzas Municipales (DAAFIM) del Ministerio de Finanzas Publicas de Guatemala.
 
 ![mayor budget.png](/uploads/mayor%20budget.png)
 
@@ -44,13 +44,14 @@ Unas cuantas capas adentro, los usuarios alcanzan las líneas presupuestarias. E
 
 ![mayor again.png](/uploads/mayor%20again.png)
 
-## Más allá de Los Presupuestos
+## Más allá de los presupuestos
 
 Somos Chiantla también incluye un módulo de denuncias locales, que permite a los ciudadanos solicitar arreglos de baches, reportar las luces publicas rotas y problemas con el suministro de agua y mucho más. Vea el alcalde estrenando el módulo abajo. Los reportes son recibidos por el administrador de aplicación en el municipio, que los comparte con al departamento correspondiente y quien proporciona actualizaciones de estado (por ejemplo: Recibido, En Proceso, Finalizado) al remitente del reporte.
 
 ![reporting module.png](/uploads/reporting%20module.png)
 
 ## Capacitación y Asistencia al Ciudadano en el Lanzamiento
+
 Para mostrar a los Chiantlecos cómo utilizar estés módulos, el evento de lanzamiento incluyó una casilla de información pública y capacitación en la plaza al lado del teatro. Las dos fotos de abajo muestran a un entrenador trabajando con un grupo de vaqueros Chiantlecos.
 
 ![training](/uploads/WhatsApp%20Image%202017-05-25%20at%209.54.35%20PM%20(2).jpeg)
