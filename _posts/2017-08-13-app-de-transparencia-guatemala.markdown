@@ -12,17 +12,17 @@ social-image: "/uploads/intro.png"
 
 *Note: This post is also available in [English](http://bit.ly/transparency-app).*
 
-*Nota: Esta entrada sigue una [publicación](https://dai-global-digital.com/citizen-centered-design-guatemala.html) anterior que explica nuestra fase de diseño digital, lo que fue centrado en los ciudadanos de Chiantla.*
+*Nota: Esta entrada es la continuación de una [publicación](https://dai-global-digital.com/citizen-centered-design-guatemala.html) anterior que explica nuestra fase de diseño digital, que fue centrada en los ciudadanos de Chiantla.*
 
 ![intro.png](/uploads/intro.png)
 
-El 25 de mayo, el Alcalde Carlos Alvarado Figueroa anunció desde el Teatro Municipal de Chiantla el lanzamiento de [*Somos Chiantla*](http://bit.ly/Chiantla-App), una aplicación móvil para la transparencia presupuestaria municipal y la participación ciudadana de Chiantla, uno de los municipios apoyados por [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales).
+El 25 de mayo, el Alcalde Carlos Alvarado Figueroa anunció desde el Teatro Municipal de Chiantla el lanzamiento de [*Somos Chiantla*](http://bit.ly/Chiantla-App), una aplicación móvil para la transparencia presupuestaria municipal y la participación ciudadana de Chiantla, uno de los municipios apoyados por [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) y ubicado en el Departamento de Huehuetenango. 
 
 <!--more-->
 
 ![main menu.png](/uploads/main%20menu.png)
 
-Canalizando el look de Steve Jobs, con auricular y jeans, el alcalde Alvarado describió la historia de la rendición de cuentas en Chiantla, dibujando una línea directa desde los métodos utilizados en el año 1882--hasta Somos Chiantla, una aplicación que brinda a los ciudadanos acceso directo a los datos presupuestarios, extraídos directamente del sistema financiera del municipio. 
+Usando el estilo de Steve Jobs con auricular y jeans, el alcalde Alvarado describió la historia de la rendición de cuentas en Chiantla, dibujando una línea cronológica directa desde los métodos utilizados en el año 1882--hasta Somos Chiantla, una aplicación que brinda a los ciudadanos acceso directo a los datos presupuestarios, extraídos directamente del sistema financiera del municipio. 
 
 Escuchar al alcalde vincular la aplicación tan directamente a las prácticas de rendición de cuentas locales e históricas me causó una lágrima de alegría; desde el punto de vista del diseño digital, es esencial aprovechar del ecosistema existente, no sólo tecnológico sino también cultural. 
 
@@ -36,23 +36,23 @@ La función clave de Somos Chiantla es su módulo de transparencia presupuestari
 
 ![mayor budget.png](/uploads/mayor%20budget.png)
 
-El módulo se divide en ingresos y gastos, cada uno formando el bloque de base de una jerarquía más profunda de información presupuestaria. Los ingresos se dividen en ingresos propios y transferencias del gobierno central (ver imagen a continuación). Esta jerarquía no es nativa al SICOIN, sino fue diseñada por el desarrollador de la aplicación, [Explico S.A.](http://explicoanalytics.com/), trabajando en estrecha colaboración con Karla Milian, Especialista en Finanzas Públicas de Nexos Locales.
+El módulo se divide en ingresos y gastos, cada uno formando el bloque de base de una jerarquía más profunda de información presupuestaria. Los ingresos se dividen en ingresos propios y transferencias del gobierno central (ver imagen a continuación). Esta jerarquía no es originada por el SICOIN, sino fue diseñada por el desarrollador de la aplicación, [Explico S.A.](http://explicoanalytics.com/), trabajando en estrecha colaboración con Karla Milian, Especialista en Finanzas Públicas de Nexos Locales.
 
 ![budget 2.png](/uploads/budget%202.png)
 
-Unas cuantas capas adentro, los usuarios alcanzan las líneas presupuestarias. En la imagen de abajo, se encuentra las fuentes de las transferencias de capital del gobierno central, incluido el situado constitucional para inversión, el impuesto petrolero y el impuesto de circulación de vehículos.
+Unas cuantas capas adentro, los usuarios alcanzan las líneas presupuestarias. En la imagen de abajo, se encuentran las fuentes de las transferencias de capital del gobierno central, incluido el situado constitucional para inversión, el impuesto petrolero y el impuesto de circulación de vehículos.
 
 ![mayor again.png](/uploads/mayor%20again.png)
 
 ## Más allá de los presupuestos
 
-Somos Chiantla también incluye un módulo de denuncias locales, que permite a los ciudadanos solicitar arreglos de baches, reportar las luces publicas rotas y problemas con el suministro de agua y mucho más. Vea el alcalde estrenando el módulo abajo. Los reportes son recibidos por el administrador de aplicación en el municipio, que los comparte con al departamento correspondiente y quien proporciona actualizaciones de estado (por ejemplo: Recibido, En Proceso, Finalizado) al remitente del reporte.
+Somos Chiantla también incluye un módulo de denuncias locales, que permite a la población solicitar arreglos de baches, reportar las luces publicas rotas y problemas con el suministro de agua y mucho más. Vea al alcalde estrenando el módulo abajo. Los reportes son recibidos por el administrador de aplicación en el municipio, que los comparte con el departamento correspondiente y quien proporciona actualizaciones de estado (por ejemplo: Recibido, En Proceso, Finalizado) al remitente del reporte.
 
 ![reporting module.png](/uploads/reporting%20module.png)
 
 ## Capacitación y Asistencia al Ciudadano en el Lanzamiento
 
-Para mostrar a los Chiantlecos cómo utilizar estés módulos, el evento de lanzamiento incluyó una casilla de información pública y capacitación en la plaza al lado del teatro. Las dos fotos de abajo muestran a un entrenador trabajando con un grupo de vaqueros Chiantlecos.
+Para mostrar a los Chiantlecos cómo utilizar estés módulos, el evento de lanzamiento incluyó una casilla de información pública y capacitación en la plaza al lado del teatro (en dónde se realizó el Lanzamiento). Las dos fotos de abajo muestran a un entrenador trabajando con un grupo de Chiantlecos.
 
 ![training](/uploads/WhatsApp%20Image%202017-05-25%20at%209.54.35%20PM%20(2).jpeg)
 
@@ -66,7 +66,7 @@ Desde el evento de lanzamiento, la aplicación se ha descargado más de 500 vece
 
 ## Próximos Pasos
 
-Actualmente Nexos Locales está preparando una subvención para que una organización local de la sociedad civil realice una serie de talleres de diseño y retroalimentación con ciudadanos, empleados municipales, organizaciones de la sociedad civil, periodistas locales y abogados, para obtener sus comentarios e ideas sobre lo que ahora es un servicio activo de la administración municipal. Más allá, estamos recopilando datos de usuarios para ver cuales aspectos están funcionando y cuáles no, y seguiremos comprometiendo a la comunidad de Chiantla, para que podamos mejor alinear Somos Chiantla con sus necesidades.
+Actualmente Nexos Locales está preparando una subvención para que una organización local de la sociedad civil realice una serie de talleres de diseño y retroalimentación con ciudadanos, empleados municipales, organizaciones de la sociedad civil, periodistas locales y abogados, para obtener sus comentarios e ideas sobre lo que ahora es un servicio activo de la administración municipal. Más allá, estamos recopilando datos de usuarios para ver cuáles aspectos están funcionando y cuáles no, y seguiremos comprometiendo a la comunidad de Chiantla, para que podamos mejor alinear Somos Chiantla con sus necesidades.
 
 Además, la búsqueda ha comenzado para dos municipios adicionales con la combinación correcta de factores políticos, sociales y tecnológicos para implementar el proceso diseño y operación de sus propias versiones de la aplicación.
 
