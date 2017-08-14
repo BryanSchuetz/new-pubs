@@ -8,7 +8,7 @@ Author: Talia Dweck
 social-image: "/uploads/HCD%20image%20(002).jpg"
 ---
 
-One of the largest barriers to improving health outcomes across the world is the difficulty of changing behaviors. Building a stable health system that provides quality products and services to its beneficiaries can only go as far as the patients’ willingness to trust that system. There may be clinical evidence that proves the health benefits of a given drug or device, but can that evidence compete with history, cultural norms, stigma, trust, and many more behavioral and societal pressures that often preclude wide scale adoption?
+One of the largest barriers to improving health outcomes across the world is the difficulty of changing behaviors. Building a stable health system that provides quality products and services to its beneficiaries can only go as far as the patients’ willingness to trust that system. There may be clinical evidence that proves the health benefits of a given drug or device, but can that evidence compete with history, cultural norms, stigma, trust, and many more behavioral and societal pressures that often preclude widescale adoption?
 
 <!--more-->
 
