@@ -58,7 +58,7 @@ Para mostrar a los Chiantlecos cómo utilizar estés módulos, el evento de lanz
 
 ![training2](/uploads/WhatsApp%20Image%202017-05-25%20at%209.54.35%20PM%20(1).jpeg)
 
-## Captación e Impacto
+## Alcance e Impacto
 
 Desde el evento de lanzamiento, la aplicación se ha descargado más de 500 veces. Los usuarios dedican un promedio de 5 minutos y 21 segundos por sesión, y el módulo de informes ha estado activo (ver gráfico abajo). A través de ese módulo, el municipio ha recibido 21 informes relacionados con suministro de agua, alumbrado público, calles locales e información pública. De esos 21 reportes, 12 se han resuelto, 6 aún están en curso, y tres están pendientes de acción. Desde el punto de vista de la gobernabilidad, esto representa un fuerte registro de respuesta por un gobierno local con recursos limitados y una gran área de cobertura geográfica (casi 500 kilómetros cuadrados).
 
@@ -66,13 +66,13 @@ Desde el evento de lanzamiento, la aplicación se ha descargado más de 500 vece
 
 ## Próximos Pasos
 
-Actualmente Nexos Locales está preparando una subvención para que una organización local de la sociedad civil realice una serie de talleres de diseño y retroalimentación con ciudadanos, empleados municipales, organizaciones de la sociedad civil, periodistas locales y abogados, para obtener sus comentarios e ideas sobre lo que ahora es un servicio activo de la administración municipal. Más allá, estamos recopilando datos de usuarios para ver cuáles aspectos están funcionando y cuáles no, y seguiremos comprometiendo a la comunidad de Chiantla, para que podamos mejor alinear Somos Chiantla con sus necesidades.
+Actualmente, el pyorecto Nexos Locales está preparando una subvención para que una organización local de la sociedad civil realice una serie de talleres de diseño y retroalimentación con ciudadanos, empleados municipales, organizaciones de la sociedad civil, periodistas locales y abogados, para obtener sus comentarios e ideas sobre lo que ahora es un servicio activo de la administración municipal. Además, estamos recopilando datos de usuarios para ver cuáles aspectos están funcionando y cuáles no, y seguiremos comprometiendo a la comunidad de Chiantla, para que podamos ajustar mejor Somos Chiantla a sus necesidades.
 
-Además, la búsqueda ha comenzado para dos municipios adicionales con la combinación correcta de factores políticos, sociales y tecnológicos para implementar el proceso diseño y operación de sus propias versiones de la aplicación.
+También, ha comenzado la búsqueda de dos municipios adicionales que poseean la combinación correcta de factores políticos, sociales y tecnológicos para implementar el proceso de diseño y operación con sus propias versiones de la aplicación.
 
 ## "Para Chiantla"
 
-El eslogan del municipio es "Para Chiantla", y con ese espíritu, vale la pena devolver la atención hacia las personas con quien (y para quien) la aplicación fue creada. El evento de lanzamiento atrajo a gente de todas partes de Chiantla, y el equipo de Nexos Locales usó una cabina fotográfica para encajar y publicar fotos de los asistentes directamente a [la página de Facebook del municipio](https://www.facebook.com/MuniChiantla/photos/?tab=album&album_id=1915829891995510). Algunos pocos son presentados abajo en formato GIF (puede durar unos momentos para cargar). 
+El eslogan del municipio es "Para Chiantla", y con ese espíritu, vale la pena devolver la atención hacia las personas con quién (y para quién) la aplicación fue creada. El evento de lanzamiento atrajo a gente de todas partes de Chiantla, y el equipo de Nexos Locales usó una cabina fotográfica para encajar y publicar fotos de los asistentes directamente a [la página de Facebook del municipio](https://www.facebook.com/MuniChiantla/photos/?tab=album&album_id=1915829891995510). Algunas son presentadas abajo en formato GIF (puede durar unos momentos para cargar). 
 
 ![people 3.gif](/uploads/people%203.gif)
 
