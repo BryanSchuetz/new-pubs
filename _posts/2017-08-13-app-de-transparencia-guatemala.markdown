@@ -22,7 +22,11 @@ El 25 de mayo, el Alcalde Carlos Alvarado Figueroa anunció desde el Teatro Muni
 
 ![main menu.png](/uploads/main%20menu.png)
 
-Canalizando el look de Steve Jobs, con auricular y jeans, el alcalde Alvarado describió la historia de la rendición de cuentas en Chiantla, dibujando una línea directa desde los métodos utilizados en el año 1882--hasta Somos Chiantla, una aplicación que brinda a los ciudadanos acceso directo a los datos presupuestarios, extraídos directamente del sistema financiera del municipio. Escuchar al alcalde vincular la aplicación tan directamente a las prácticas de rendición de cuentas locales e históricas me causó una lágrima de alegría; desde el punto de vista del diseño digital, es esencial aprovechar del ecosistema existente, no sólo tecnológico sino también cultural. Vea la versión de tres minutos del discurso que dio el alcalde a continuación, o vea la versión completa en la página [de Facebook de Chianta](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
+Canalizando el look de Steve Jobs, con auricular y jeans, el alcalde Alvarado describió la historia de la rendición de cuentas en Chiantla, dibujando una línea directa desde los métodos utilizados en el año 1882--hasta Somos Chiantla, una aplicación que brinda a los ciudadanos acceso directo a los datos presupuestarios, extraídos directamente del sistema financiera del municipio. 
+
+Escuchar al alcalde vincular la aplicación tan directamente a las prácticas de rendición de cuentas locales e históricas me causó una lágrima de alegría; desde el punto de vista del diseño digital, es esencial aprovechar del ecosistema existente, no sólo tecnológico sino también cultural. 
+
+Vea la versión de tres minutos del discurso que dio el alcalde a continuación, o vea la versión completa en la página [de Facebook de Chianta](https://www.facebook.com/MuniChiantla/videos/1916059188639247/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xtgwg6Zrg3o" frameborder="0" allowfullscreen></iframe> 
 
