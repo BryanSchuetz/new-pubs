@@ -8,7 +8,7 @@ tags:
 Author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 ---
 
-*This is a guest post by Colleen Green, Senior Financial Sector Specialist at DAI and avid swimmer*
+*This is a guest post by [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green), Senior Financial Sector Specialist at DAI and avid swimmer*
 
 Blockchain technology has been in the news a lot this summer, and like the child standing at the edge of a swimming pool, the news is equal parts enthusiastic, cautious, and speculative about what lurks beneath. 
 
