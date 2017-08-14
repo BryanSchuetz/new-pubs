@@ -1,5 +1,5 @@
 ---
-title: 'Blockchain Summer News Round-Up:  A Cannonball Into the Pool or a Dip of the
+title: 'Blockchain Summer News Round-Up:  A Big Splash Into the Pool or a Dip of the
   Toe?'
 date: 2017-08-14 09:45:00 -04:00
 tags:
