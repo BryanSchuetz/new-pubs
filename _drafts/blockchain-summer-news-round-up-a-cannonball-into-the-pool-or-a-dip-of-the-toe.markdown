@@ -2,6 +2,10 @@
 title: 'Blockchain Summer News Round-Up:  A Cannonball into the Pool or a Dip of the
   Toe?'
 date: 2017-08-14 09:45:00 -04:00
+tags:
+- Innovation
+- Digital Financial Services
+Author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 ---
 
 *This is a guest post by Colleen Green, Senior Financial Sector Specialist at DAI and avid swimmer*
