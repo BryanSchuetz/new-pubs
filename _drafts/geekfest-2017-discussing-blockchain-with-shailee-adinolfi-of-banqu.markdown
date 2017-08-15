@@ -1,5 +1,6 @@
 ---
-title: 'GeekFest 2017: Discussing blockchain with Shailee Adinolfi of BanQu'
+title: 'GeekFest 2017: Discussing blockchain and Economic IDs with Shailee Adinolfi
+  of BanQu'
 date: 2017-08-15 12:50:00 -04:00
 tags:
 - Geekfest 2017
