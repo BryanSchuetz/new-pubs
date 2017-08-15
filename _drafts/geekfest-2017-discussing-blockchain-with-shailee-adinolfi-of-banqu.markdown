@@ -44,9 +44,9 @@ Countries with a risk-based approach to KYC policies have enabled our work, such
 
 **How and what areas is BanQu working with national governments around the development of economic or other forms of identity? Which governments have shown the most interests? What are the hurdles to using blockchain for identity?**
 
-We aren’t working with national governments at this point, but may do so in the future. Ukraine, UAE, US, Canada, Colombia, and many more have expressed an interest in this type of technology. Governments around the world are exploring whether blockchain can solve some of their challenges, whether they be with the provision of services, or the creation of internal operational efficiencies.
+We aren’t working with national governments at this point, but may do so in the future. Ukraine, United Arab Emirates, United States, Canada, Colombia, and many more have expressed an interest in this type of technology. Governments around the world are exploring whether blockchain can solve some of their challenges, whether they be with the provision of services, or the creation of internal operational efficiencies.
 
-**How secure is BanQu’s platform?  Can blockchain protect users from cybersecurity threats like the one faced by users, companies and the government in [Ukraine today](http://www.techrepublic.com/article/ukraine-is-a-test-bed-for-global-cyberattacks-that-will-target-major-infrastructure/)?**
+**How secure is BanQu’s platform? Can blockchain protect users from cybersecurity threats like the one faced by users, companies and the government in [Ukraine today](http://www.techrepublic.com/article/ukraine-is-a-test-bed-for-global-cyberattacks-that-will-target-major-infrastructure/)?**
 
 No technology is 100% secure. But at BanQu we have and continue to develop one of the most secure Blockchain platforms. Most of the successful blockchain hacks have been at the Wallet level (like the Parity hack) or through the intermediate database level (like MongoDB). BanQu's proprietary platform is a private, permission-based, blockchain platform that doesn't use a wallet or database. This insulates us from many threats. The core of our platform is the blocks, thus we have not been impacted by the hacks that you read about in the news. In addition, we have very robust checks and balances in place for assessing and preventing any attacks.
 
