@@ -1,7 +1,6 @@
 ---
 title: Lanzamos ‘Somos Chiantla’, App de Transparencia, en Guatemala
 date: 2017-08-13 19:22:00 -04:00
-published: false
 tags:
 - Guatemala
 - Governance
