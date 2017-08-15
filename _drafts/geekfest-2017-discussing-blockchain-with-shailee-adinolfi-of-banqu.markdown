@@ -5,6 +5,7 @@ tags:
 - Geekfest 2017
 - Digital Financial Services
 - Innovation
+Author: Krista Baptista
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
