@@ -16,11 +16,13 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
 
 This week I’m speaking with [Shailee Adinolfi](http://www.banquapp.com/about/team/), Vice President, Account Management and Marketing at [BanQu](http://www.banquapp.com/). We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading [this article](https://hbr.org/2017/01/the-truth-about-blockchain) in the Harvard Business Review.
 
-![Shailee-Adinolfi-350x350.jpg](/uploads/Shailee-Adinolfi-350x350.jpg)
+<!--more-->
 
 About BanQu:
 
 BanQu provides Economic IDs (patent pending) to people, assets, and organizations or businesses on an Ethereum platform (aka blockchain) linking them to the global economy. We bring together important information about a person or business to create a portable [Know Your Customer (KYC)](https://www.pwc.com/gx/en/financial-services/publications/assets/pwc-anti-money-laundering-2016.pdf), including financial transaction history, health records, trust networks, small business registration IDs, assets/collateral, etc. and stores them in a secure “locker”, which they can leverage for increased access to financial services, employment, health care, or other services.
+
+![Shailee-Adinolfi-350x350.jpg](/uploads/Shailee-Adinolfi-350x350.jpg)
 
 **What were the origins of BanQu? How did the organization get started?**
 
