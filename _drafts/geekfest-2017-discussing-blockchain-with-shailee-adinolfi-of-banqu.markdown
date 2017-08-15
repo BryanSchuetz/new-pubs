@@ -14,7 +14,7 @@ social-image: "/uploads/Geek%20Fest%202017%20-%20small%20logo-e0f536.png"
 
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
 
-This week I’m speaking with [Shailee Adinolfi](http://www.banquapp.com/about/team/), Vice President, Account Management and Marketing at [BanQu](http://www.banquapp.com/). We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading [this article](https://hbr.org/2017/01/the-truth-about-blockchain) in the Harvard Business Review.
+This week I’m speaking with [Shailee Adinolfi](http://www.banquapp.com/about/team/), Vice President, Account Management and Marketing at [BanQu](http://www.banquapp.com/). We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading [this article](https://hbr.org/2017/01/the-truth-about-blockchain) in the *Harvard Business Review*.
 
 <!--more-->
 
