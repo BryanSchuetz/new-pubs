@@ -76,4 +76,4 @@ ICTworks is publishing this post today, so I'm tracking usage of Siti. Each time
 
 <script id="infogram_0_8a7b2bcc-3012-4ed1-afd3-ccd9ff2fef29" title="Chatbot" src="//e.infogram.com/js/dist/embed.js?LoO" type="text/javascript"></script>
 
-*Got an idea for a cool chatbot for international development? Seen a cool chatbot in action? Let us know on [Twitter](http://www.twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
+*Do you have an idea for a cool chatbot for international development? Have you seen a good chatbot in action? Let us know on [Twitter](http://www.twitter.com/DAIGlobal) or [Facebook](https://www.facebook.com/DAIGlobal/).*
