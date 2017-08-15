@@ -76,3 +76,5 @@ While Siti is simplistic, it's a useful minimum viable product for the type of i
 **Live stats of chatbot use**
 
 <script id="infogram_0_8a7b2bcc-3012-4ed1-afd3-ccd9ff2fef29" title="Chatbot" src="//e.infogram.com/js/dist/embed.js?LoO" type="text/javascript"></script>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1F1oQ28ZOIY7YxZHGi0yjtUmKlf0E7dYGDpUiSwdRJmA/pubchart?oid=1332871697&amp;format=interactive"></iframe>
