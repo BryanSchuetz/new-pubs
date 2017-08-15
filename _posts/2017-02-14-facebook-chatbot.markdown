@@ -72,7 +72,7 @@ Chatbots are a rapidly growing medium as businesses, governments, civil society 
 While Siti is simplistic, it's a useful minimum viable product for the type of innovations--grounded in local tech usage patterns and easy to design and update--that will likely dominate the nexus of technology and international development during the coming years.
 
 ## Chatbot Live
-ICTworks is publishing this post today, so I'm tracking usage of Siti. Each time someone does a search, the bot pulls data on the job and location of the search as well as the user's gender, location, and timezone. No name or personally identifying information is collected. See the graphic below, updated every 5 minutes. 
+ICTworks is re-publishing this post, so I thought it would be interesting to track usage of Siti. Each time someone completes a job search, the bot pulls data on the job and location of the search as well as the user's gender, location, and timezone. No name or personally identifying information is collected. See the graphic below, updated every 5 minutes. 
 
 <script id="infogram_0_8a7b2bcc-3012-4ed1-afd3-ccd9ff2fef29" title="Chatbot" src="//e.infogram.com/js/dist/embed.js?LoO" type="text/javascript"></script>
 
