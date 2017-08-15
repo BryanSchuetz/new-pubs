@@ -8,7 +8,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-*Nota: Este publicación también está disponible en [español](http://dai-global-digital.com/app-de-transparencia-guatemala.html)*
+*Nota: Esta publicación también está disponible en [español](http://dai-global-digital.com/app-de-transparencia-guatemala.html)*
 
 *Note: This blog post follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-guatemala.html) which covers our pre-development human-centered design phase.*
 
