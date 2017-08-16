@@ -10,7 +10,7 @@ Author: Adam Fivenson
 
 *This post is also available in [English](https://dai-global-digital.com/citizen-centered-design-guatemala.html).*
 
-*Actualización: [Somos Chiantla](https://bit.ly/Chiantla-App) ahora esta disponible para descarga a dispositivos Android.*
+*Actualización: [Somos Chiantla](https://bit.ly/Chiantla-App) ahora esta disponible para descarga a dispositivos Android. Una nueva [publicación](https://dai-global-digital.com/app-de-transparencia-guatemala.html) cubre su lanzamiento.*
 
 A finales de 2015, el proyecto [USAID Nexos](http://www.dai.com/our-work/projects/guatemala-nexos-locales) [Locales](https://www.facebook.com/USAID.NexosLocales/) recibió una solicitud novedosa. Fue enviada por Carlos Alvarado Figueroa, que acababa de ser elegido alcalde de [Chiantla](https://goo.gl/maps/5vfAjrmthUM2), un municipio de 75.000 habitantes en el altiplano occidental de Guatemala. Alvarado había sido elegido por su plataforma de transparencia presupuestaria y auditoría social, y formó parte de una ola de reformadores de buena gobernabilidad que fueron elegidos después de la revelación del escándalo denominado [La Línea](https://www.plazapublica.com.gt/content/negocios-traiciones-y-la-voluntad-de-monopolizar-el-fraude), que envió a prisión el Ex Presidente Otto Pérez Molina y la Ex Vicepresidenta Roxana Baldetti. 
 
