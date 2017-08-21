@@ -1,6 +1,10 @@
 ---
 title: 'Open Source Series Part 2: Spatial Analysis with QGIS'
 date: 2017-08-21 10:46:00 -04:00
+tags:
+- GIS
+- Data Visualization
+- Web Mapping
 Author: Greg Maly
 ---
 
@@ -8,7 +12,7 @@ Author: Greg Maly
 
 *In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, and then talk about how it compares to proprietary software applications – particularly when being used by development and diplomatic focused organizations.*
 
-## Introduction
+## Part 1: Introduction
 
 There has been a buzz around the release of QGIS version 3.0 for a couple of years now. On a personal note - QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the QGIS LinkedIn user group with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.
 Part 1: What is QGIS?
@@ -71,14 +75,13 @@ To learn more about open source vs proprietary GIS, I reached out to three geogr
 
 * USAID – USAID GIS Professional
 
-**Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS? **
+\*\*Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS? \*\*
 
 JC: I don't have hard numbers, but I would estimate that QGIS is still a small percentage (maybe 10%) of the overall GIS market (at least in the United States). But that said, I'd also estimate that the growth rate is tremendous, with significant year over year growth. As QGIS matures, along with the rest of the open source geospatial ecosystem (mainly PostGIS), the interest and growth in its use is accelerating.  I just attended the Free and Open Source Software for Geospatial (FOSS4G) conference in Boston (http://2017.foss4g.org/), and a couple of trends stuck out. First, the size of the conference was over 1,100 people, with roughly a third of attendees from outside of the U.S. This is by far the largest in FOSS4G history, by comparison, my first one in 2007 had 600 attendees. Second, the conference dedicated a day to QGIS (http://2017.foss4g.org/program/), and many of the sessions were well attended. The State of QGIS talk, which outlines all the coming changes to QGIS 3.0 was particularly interesting as it is major refactoring with many performance improvements. QGIS is already near feature parity with proprietary desktop GIS applications, and the new version provides increased capabilities in the visualization and analysis functions where it is already strong.
 
 **Question 2: Why do you think people continue to rely on proprietary software applications like ArcGIS and Tableau given free alternatives?**
 
 JC: For ArcGIS, I believe training / experience and existing availability of software are the two reasons people continue to use them. Cost matters very little to analysts who are not responsible for paying the maintenance fees, so it is essentially "free" to them. I will say the learning curve is not a trivial issue. When I first learned QGIS I had 10 years of ESRI experience and thoroughly understood the "button-ology" of how to execute a given task. Relearning a new user interface required time and effort, but now that I have, I choose to use QGIS.
-
 
 **Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?**
 
@@ -92,7 +95,7 @@ Finally, don't underestimate the value of participating in an open source commun
 
 So, what do we at DAI’s ICT team recommend? It’s difficult to provide blanket guidance on software for institutions as complex as development organizations, but here are some general guidelines that we recommend you follow.
 
-**Use QGIS If: **
+\*\*Use QGIS If: \*\*
 
 * You need extended spatial analysis functionality on the desktop.
 
