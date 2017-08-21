@@ -119,4 +119,4 @@ So, what do we at DAI’s ICT team recommend? It’s difficult to provide blanke
 
 * You want to build online tools without hiring a web developer.
 
-* The USAID Mission has access to proprietary licenses and has asked you to use them.
+* You have been asked to work in a specific proprietary software application by a client/customer.
