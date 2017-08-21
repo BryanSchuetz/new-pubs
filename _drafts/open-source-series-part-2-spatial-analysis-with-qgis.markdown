@@ -26,6 +26,7 @@ The first thing I noticed was a redesigned Data Source Manager toolbar. The data
 The first thing I did was load up the Admin0 global dataset from the Global Administrative Areas website, and a .csv of child mortality rates by country over time from the World Bank’s Open Data portal.  A quick glance at the Attributes Table view showed a very similar interface. The Field Calculator and sorting functions were all familiar. Not much changed here.
 
 Opening the Layer Properties panel, I noticed a couple of new features, including a new “Information” page, improved access to meta data, and maybe most interestingly, a section on “Dependencies”, which enables the user to control how datasets interact when changes are made to the underlying data. I can see this being incredibly useful when joining multiple layers, or running spatial calculations across multiple layers. 
+![Data Source Manager.png](/uploads/Data%20Source%20Manager.png)
 
 The next thing I looked at was the Processing Toolbox, which includes a host of analytical functions. This interface had been totally overhauled from version 2.18, and is arguably where the power of GIS begins. I won’t go into much detail on these functions here, but will just complement the design team on making the section much more inviting. 
 
@@ -34,7 +35,8 @@ Back to the mapping…
 I quickly joined the World Bank data to the Global Boundaries, created a choropleth map based on 2015 child mortality projections using Equal Intervals as the color ramp mode, and rendered the polygons as a sphere using the Azimuthal Equidistant projection. 
 
 The whole process took no more than an hour (including poking around at the new buttons), and rendered the following map, which displays child mortality rates (under age 5) per 1,000 live births.  
-![Data Source Manager.png](/uploads/Data%20Source%20Manager.png)
+![Child Mortality Rates_2015.png](/uploads/Child%20Mortality%20Rates_2015.png)
+
 While there may be a package or function that already accomplishes this, I’d like to highlight that the histogram included in the map is a screen grab from the Properties - > Symbology box. As we increasingly see data visualization software like Tableau and PowerBI take root in offices around the world, I think it would be useful to integrate more accessible graphing/charting functionality. Maps are great, but in my experience they’re best explained when paired with another visual form.
 
 ## Part 3: Why QGIS? Strengths and Weaknesses
