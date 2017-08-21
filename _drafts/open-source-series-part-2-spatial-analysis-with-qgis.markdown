@@ -12,6 +12,8 @@ Author: Greg Maly
 
 *In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, and then talk about how it compares to proprietary software applications – particularly when being used by development and diplomatic focused organizations.*
 
+![QGIS new.jpg](/uploads/QGIS%20new.jpg)
+
 There has been a buzz around the release of QGIS version 3.0 for a couple of years now. On a personal note - QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the [QGIS LinkedIn user group](https://www.linkedin.com/groups/2290177) with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.
 
 ## Part 1: What is QGIS?
