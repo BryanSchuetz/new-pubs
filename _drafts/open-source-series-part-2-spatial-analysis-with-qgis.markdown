@@ -6,6 +6,7 @@ tags:
 - Data Visualization
 - Web Mapping
 Author: Greg Maly
+social-image: "/uploads/QGIS%20new.jpg"
 ---
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
