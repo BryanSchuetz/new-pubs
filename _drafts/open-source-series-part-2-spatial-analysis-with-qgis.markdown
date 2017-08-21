@@ -18,11 +18,11 @@ There has been a buzz around the release of QGIS version 3.0 for a couple of yea
 
 ## Part 1: What is QGIS?
 
-QGIS, formerly known as Quantum GIS, is a powerful desktop software application that puts spatial analysis and cartographic capabilities in the hands of anyone with a computer capable of rendering large files, and the willingness to learn. It is arguably the most powerful open source desktop GIS available today, is currently translated into over 40 languages, and is backed by some very dedicated developers. QGIS version 0.0.1 was original developed and released by Gary Sherman in July 2002, and was adopted as an incubator projected of the Open Source Geospatial Foundation in 2007.  Version 1.0, Kore, was released in early 2009.
+[QGIS](http://www.qgis.org/), formerly known as Quantum GIS, is a powerful desktop software application that puts spatial analysis and cartographic capabilities in the hands of anyone with a computer capable of rendering large files, and the willingness to learn. It is arguably the most powerful open source desktop GIS available today, is currently translated into over 40 languages, and is backed by some very dedicated developers. QGIS version 0.0.1 was original developed and released by Gary Sherman in July 2002, and was adopted as an incubator projected of the [Open Source Geospatial Foundation](http://www.osgeo.org/) in 2007.  Version 1.0, Kore, was released in early 2009.
 
-While I used the application throughout releases of version 1, Version 2.0, Dufour, is when I remember starting to rely on the software for every day GIS tasks. The application was capable of functions you could previously only expect to find in proprietary software. You can take a look at the change-logs here, but that new release introduced smarter labeling functions, improved heatmaps, a visual process modelling function, new features for raster analysis, a layer panel that was easier to navigate, a better print composer, and much more. Each new release along the 2.x series brought improvements, and new converts to the QGIS world. So, what can we expect in Version 3.0?
+While I used the application throughout releases of version 1, Version 2.0, Dufour, is when I remember starting to rely on the software for every day GIS tasks. The application was capable of functions you could previously only expect to find in proprietary software. You can take a look at the change-logs [here](http://www.qgis.org/en/site/forusers/visualchangelog200/index.html), but that new release introduced smarter labeling functions, improved heatmaps, a visual process modelling function, new features for raster analysis, a layer panel that was easier to navigate, a better print composer, and much more. Each new release along the 2.x series brought improvements, and new converts to the QGIS world. So, what can we expect in Version 3.0?
 
-Per the website GeoGeek, QGIS 3.0 includes access to the newest version of Qt and Python, a higher quality user interface, improved geometry editing and processor dialogs, new symbols, better search functions within layers, custom image sizes, and support for 3D analysis. That’s a lot. But what does that mean in practice? Let’s have a look.
+Per the website [GeoGeek](https://geogeek.xyz/), QGIS 3.0 includes access to the newest version of Qt and Python, a higher quality user interface, improved geometry editing and processor dialogs, new symbols, better search functions within layers, custom image sizes, and support for 3D analysis. That’s a lot. But what does that mean in practice? Let’s have a look.
 
 ## Part 2: Putting QGIS 3.0 to the test
 
@@ -30,16 +30,16 @@ With full recognition that the software is still in BETA, I booted up version 2.
 
 The first thing I noticed was a redesigned Data Source Manager toolbar. The data import and export function, which has always been one of QGIS’s greatest strengths, has been revamped. The software is prepared to ingest almost any kind of spatial data and database available today.
 
-The first thing I did was load up the Admin0 global dataset from the Global Administrative Areas website, and a .csv of child mortality rates by country over time from the World Bank’s Open Data portal.  A quick glance at the Attributes Table view showed a very similar interface. The Field Calculator and sorting functions were all familiar. Not much changed here.
+The first thing I did was load up the Admin0 global dataset from the [Global Administrative Areas website,](http://www.gadm.org/) and a .csv of child mortality rates by country over time from the [World Bank’s Open Data portal](http://data.worldbank.org/).  A quick glance at the Attributes Table view showed a very similar interface. The Field Calculator and sorting functions were all familiar. Not much changed here.
 
-Opening the Layer Properties panel, I noticed a couple of new features, including a new “Information” page, improved access to meta data, and maybe most interestingly, a section on “Dependencies”, which enables the user to control how datasets interact when changes are made to the underlying data. I can see this being incredibly useful when joining multiple layers, or running spatial calculations across multiple layers.
+Opening the Layer Properties panel, I noticed a couple of new features, including a new “Information” page, improved access to meta data, and maybe most interestingly, a section on “Dependencies”, which enables the user to control how data sets interact when changes are made to the underlying data. I can see this being incredibly useful when joining multiple layers, or running spatial calculations across multiple layers.
 ![Data Source Manager.png](/uploads/Data%20Source%20Manager.png)
 
 The next thing I looked at was the Processing Toolbox, which includes a host of analytical functions. This interface had been totally overhauled from version 2.18, and is arguably where the power of GIS begins. I won’t go into much detail on these functions here, but will just complement the design team on making the section much more inviting.
 
 Back to the mapping…
 
-I quickly joined the World Bank data to the Global Boundaries, created a choropleth map based on 2015 child mortality projections using Equal Intervals as the color ramp mode, and rendered the polygons as a sphere using the Azimuthal Equidistant projection.
+I quickly joined the World Bank data to the Global Boundaries, created a [choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) based on 2015 child mortality projections using Equal Intervals as the color ramp mode, and rendered the polygons as a sphere using the [Azimuthal Equidistant projection](https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection).
 
 The whole process took no more than an hour (including poking around at the new buttons), and rendered the following map, which displays child mortality rates (under age 5) per 1,000 live births.\
 ![Child Mortality Rates_2015.png](/uploads/Child%20Mortality%20Rates_2015.png)
@@ -50,11 +50,11 @@ While there may be a package or function that already accomplishes this, I’d l
 
 *In this section, I’ll compare using QGIS in professional organizations to the use of proprietary software. I’ve also reached out some a handful of GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments.*
 
-In the introduction to this series I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.
+In the [introduction to this series](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html) I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.
 
-What QGIS provides users is a suite of analytical tools to conduct spatial analysis on a desktop. If you want to host your data online you can use the QGIS cloud, and if you’d like to stay in the QGIS ecosystem to do data collection you could try QMap. There are many plugins and web services available to extend your QGIS usage, and developers are producing new tools all the time.
+What QGIS provides users is a suite of analytical tools to conduct spatial analysis on a desktop. If you want to host your data online you can use the [QGIS cloud](http://qgiscloud.com/), and if you’d like to stay in the QGIS ecosystem to do data collection you could try [QMap](http://nathanw2.github.io/qmap/). There are many plugins and web services available to extend your QGIS usage, and developers are producing new tools all the time.
 
-But it is not uncommon to find QGIS users straying from the branded ecosystem to manage data collection, run analysis, and create visualizations. If you want to do statistical analysis you may want to download a copy of Geoda. Open Data Kit is a great way to build field data collection into your project. And web mapping packages such as Leaflet.js, OpenLayers,  and tools provided by Mapbox help bring your data alive on the web. Or you could of course use the free tier of Carto, but now we’re getting outside of the open source realm.
+But it is not uncommon to find QGIS users straying from the branded ecosystem to manage data collection, run analysis, and create visualizations. If you want to do statistical analysis you may want to download a copy of [Geoda](http://geodacenter.github.io/). [Open Data Kit](https://opendatakit.org/) is a great way to build field data collection into your project. And web mapping packages such as[ Leaflet.js](http://leafletjs.com/), [OpenLayers](https://openlayers.org/),  and tools provided by [Mapbox](https://www.mapbox.com/) help bring your data alive on the web. Or you could of course use the free tier of [Carto](https://carto.com/), but now we’re getting outside of the open source realm.
 
 Exhausted yet?
 
@@ -64,7 +64,7 @@ For organizations seeking a one-stop-shop of desktop and web mapping needs, you 
 
 Software developer time can be expensive, and it would not be hard to make the case that buying into the ESRI ecosystem may save time and money. But it all depends on your needs.
 
-It’s also important to acknowledge the rise of business intelligence software such as Tableau, PowerBI, and Qlik. We’ll likely cover this ecosystem of software in another post, but business intelligence software increasingly enables the production of basic choropleth and point maps, and the integration of these visuals into interactive dashboards. Often this is all organizations seek to build, and deeper the analytical functions provided by a fully-fledged GIS may go unused.
+It’s also important to acknowledge the rise of business intelligence software such as [Tableau](https://www.tableau.com/), [PowerBI](https://powerbi.microsoft.com/en-us/), and [Qlik](http://www.qlik.com/us/). We’ll likely cover this ecosystem of software in another post, but business intelligence software increasingly enables the production of basic choropleth and point maps, and the integration of these visuals into interactive dashboards. Often this is all organizations seek to build, and deeper the analytical functions provided by a fully-fledged GIS may go unused.
 
 ## Part 4: GIS and Your Organization – A Q&A with Professionals
 
