@@ -4,16 +4,16 @@ date: 2017-08-21 10:46:00 -04:00
 tags:
 - GIS
 - Data Visualization
-- Web Mapping
+- Data
 Author: Greg Maly
 social-image: "/uploads/QGIS%20new.jpg"
 ---
 
-![QGIS new.jpg](/uploads/QGIS%20new.jpg)
-
-*In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, discuss about how it compares to proprietary software applications, interview three geographers with experience building GIS teams, and close with recommendations on open-source vs. proprietary applications for institutions wishing to grow their spatial analysis capabilities.*
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+*In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, and then talk about how it compares to proprietary software applications.*
+
+![QGIS new.jpg](/uploads/QGIS%20new.jpg)
 
 There has been a buzz around the release of QGIS version 3.0 for a couple of years now. On a personal note - QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the [QGIS LinkedIn user group](https://www.linkedin.com/groups/2290177) with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.
 
