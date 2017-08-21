@@ -8,7 +8,7 @@ tags:
 Author: Greg Maly
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 *In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, and then talk about how it compares to proprietary software applications – particularly when being used by development and diplomatic focused organizations.*
 
