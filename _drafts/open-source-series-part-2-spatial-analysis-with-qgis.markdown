@@ -7,6 +7,7 @@ date: 2017-08-21 10:46:00 -04:00
 
 *In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, and then talk about how it compares to proprietary software applications – particularly when being used by development and diplomatic focused organizations.*
 
+
 ## Introduction
 
 There has been a buzz around the release of QGIS version 3.0 for a couple of years now. On a personal note - QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the QGIS LinkedIn user group with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl. 
@@ -72,25 +73,28 @@ JC: I don't have hard numbers, but I would estimate that QGIS is still a small p
 JC: For ArcGIS, I believe training / experience and existing availability of software are the two reasons people continue to use them. Cost matters very little to analysts who are not responsible for paying the maintenance fees, so it is essentially "free" to them. I will say the learning curve is not a trivial issue. When I first learned QGIS I had 10 years of ESRI experience and thoroughly understood the "button-ology" of how to execute a given task. Relearning a new user interface required time and effort, but now that I have, I choose to use QGIS. 
 Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?
 JC: Look for easy wins and start with them. Try to find metrics that can be measured; this is often difficult, but look for proxies or even testimonials to demonstrate impact. A full-fledged "enterprise" adoption of anything is a scary proposition...but, a measured, intentional effort to switch out technologies, or include a new analytical method in a project, can be accomplished quickly, usually cheaply, and be used to demonstrate value. 
+
 While the acquisition cost of open source software is often used to justify its adoption, don't fall into the $0 price tag trap. As a friend said once, "open source is free like a puppy". There are care and feeding considerations you must include in your decision framework, and you must think in terms of "total cost of ownership". This will benefit your efforts in two ways, first, it means you will think through all the implications of a change (which your leadership will appreciate), and second, with a thorough understanding of your workflow, you'll likely uncover other ways that adopting open source will benefit your organization. 
 
 Finally, don't underestimate the value of participating in an open source community. The shared resource pool means that all benefit from the features funded and developed by a few. Additionally, developers often want to work on open source projects, and the ability to recruit and retain talent increases with developers want to work on your projects. 
 
-Part 5: Our Recommendation
+## Part 5: Our Recommendation
 
 So, what do we at DAI’s ICT team recommend? It’s difficult to provide blanket guidance on software for institutions as complex as development organizations, but here are some general guidelines that we recommend you follow.
-Use QGIS If: 
-•	You need extended spatial analysis functionality on the desktop.
-•	You’re just getting started with spatial analysis and want to test the water before spending money.
-•	You’re comfortable mixing multiple software applications for your analytical needs.
-•	You have or are willing to invest in web development to publish your maps online.
-•	You will be working with a local organization that would like to learn the software, but may not have the resources to purchase licenses.
-Use Proprietary Software If:
-•	You’re working in very large organizations with a dedicated mandate to spatial analysis.
-•	You were trained it in a specific software (like ArcGIS) and are most comfortable using it.
-•	You would rather purchase technical support outside of your office environment than hire dedicated internal staff.
-•	You want to build online tools without hiring a web developer.
-•	The USAID Mission has access to proprietary licenses and has asked you to use them.
+
+**Use QGIS If: **
+* You need extended spatial analysis functionality on the desktop.
+* You’re just getting started with spatial analysis and want to test the water before spending money.
+* You’re comfortable mixing multiple software applications for your analytical needs.
+* You have or are willing to invest in web development to publish your maps online.
+* You will be working with a local organization that would like to learn the software, but may not have the resources to purchase licenses.
+
+**Use Proprietary Software If:**
+* You’re working in very large organizations with a dedicated mandate to spatial analysis.
+* You were trained it in a specific software (like ArcGIS) and are most comfortable using it.
+* You would rather purchase technical support outside of your office environment than hire dedicated internal staff.
+* You want to build online tools without hiring a web developer.
+* The USAID Mission has access to proprietary licenses and has asked you to use them.
 
 
 
