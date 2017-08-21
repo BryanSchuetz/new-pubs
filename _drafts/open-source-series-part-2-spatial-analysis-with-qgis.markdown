@@ -96,7 +96,7 @@ Finally, don't underestimate the value of participating in an open source commun
 
 So, what do we at DAI’s ICT team recommend? It’s difficult to provide blanket guidance on software for institutions as complex as development organizations, but here are some general guidelines that we recommend you follow.
 
-\*\*Use QGIS If: \*\*
+**Use QGIS If: **
 
 * You need extended spatial analysis functionality on the desktop.
 
