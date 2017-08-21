@@ -11,7 +11,7 @@ social-image: "/uploads/QGIS%20new.jpg"
 
 ![QGIS new.jpg](/uploads/QGIS%20new.jpg)
 
-*In this article, we’ll explore the open source software package QGIS through a look at the history of the application, take a sneak peek into how the software functions, discuss how it compares to proprietary software applications, interview three geographers with experience building GIS teams, and close with recommendations on open-source vs. proprietary applications for institutions wishing to grow their spatial analysis capabilities.*
+*In this article, we’ll explore the open source geographic information system (GIS) software package, QGIS through a look at its history, take a sneak peek into how the software functions, discuss how it compares to proprietary software applications, interview three geographers with experience building GIS teams, and close with recommendations on open source vs. proprietary applications for institutions wishing to grow their spatial analysis capabilities.*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
