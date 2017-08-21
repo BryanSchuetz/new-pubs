@@ -77,7 +77,7 @@ To learn more about open source vs proprietary GIS, I reached out to three geogr
 
 * USAID – USAID GIS Professional
 
-\*\*Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS? \*\*
+**Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS?**
 
 > JC: I don't have hard numbers, but I would estimate that QGIS is still a small percentage (maybe 10%) of the overall GIS market (at least in the United States). But that said, I'd also estimate that the growth rate is tremendous, with significant year over year growth. As QGIS matures, along with the rest of the open source geospatial ecosystem (mainly PostGIS), the interest and growth in its use is accelerating.  I just attended the Free and Open Source Software for Geospatial (FOSS4G) conference in Boston (http://2017.foss4g.org/), and a couple of trends stuck out. First, the size of the conference was over 1,100 people, with roughly a third of attendees from outside of the U.S. This is by far the largest in FOSS4G history, by comparison, my first one in 2007 had 600 attendees. Second, the conference dedicated a day to QGIS (http://2017.foss4g.org/program/), and many of the sessions were well attended. The State of QGIS talk, which outlines all the coming changes to QGIS 3.0 was particularly interesting as it is major refactoring with many performance improvements. QGIS is already near feature parity with proprietary desktop GIS applications, and the new version provides increased capabilities in the visualization and analysis functions where it is already strong.
 
@@ -97,7 +97,7 @@ To learn more about open source vs proprietary GIS, I reached out to three geogr
 
 So, what do we at DAI’s ICT team recommend? It’s difficult to provide blanket guidance on software for institutions as complex as development organizations, but here are some general guidelines that we recommend you follow.
 
-**Use QGIS If: **
+**Use QGIS If:**
 
 * You need extended spatial analysis functionality on the desktop.
 
