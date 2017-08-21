@@ -14,7 +14,9 @@ There has been a buzz around the release of QGIS version 3.0 for a couple of yea
 Part 1: What is QGIS? 
  
 QGIS, formerly known as Quantum GIS, is a powerful desktop software application that puts spatial analysis and cartographic capabilities in the hands of anyone with a computer capable of rendering large files, and the willingness to learn. It is arguably the most powerful open source desktop GIS available today, is currently translated into over 40 languages, and is backed by some very dedicated developers. QGIS version 0.0.1 was original developed and released by Gary Sherman in July 2002, and was adopted as an incubator projected of the Open Source Geospatial Foundation in 2007.  Version 1.0, Kore, was released in early 2009. 
+
 While I used the application throughout releases of version 1, Version 2.0, Dufour, is when I remember starting to rely on the software for every day GIS tasks. The application was capable of functions you could previously only expect to find in proprietary software. You can take a look at the change-logs here, but that new release introduced smarter labeling functions, improved heatmaps, a visual process modelling function, new features for raster analysis, a layer panel that was easier to navigate, a better print composer, and much more. Each new release along the 2.x series brought improvements, and new converts to the QGIS world. So, what can we expect in Version 3.0?
+
 Per the website GeoGeek, QGIS 3.0 includes access to the newest version of Qt and Python, a higher quality user interface, improved geometry editing and processor dialogs, new symbols, better search functions within layers, custom image sizes, and support for 3D analysis. That’s a lot. But what does that mean in practice? Let’s have a look.
 
 ## Part 2: Putting QGIS 3.0 to the test
