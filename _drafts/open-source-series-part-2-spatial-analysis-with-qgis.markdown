@@ -33,7 +33,7 @@ The first thing I noticed was a redesigned Data Source Manager toolbar. The data
 
 The first thing I did was load up the Admin0 global dataset from the [Global Administrative Areas website,](http://www.gadm.org/) and a .csv of child mortality rates by country over time from the [World Bank’s Open Data portal](http://data.worldbank.org/). A quick glance at the Attributes Table view showed a very similar interface. The Field Calculator and sorting functions were all familiar. Not much changed here.
 
-Opening the Layer Properties panel, I noticed a couple of new features, including a new “Information” page, improved access to meta data, and maybe most interestingly, a section on “Dependencies”, which enables the user to control how data sets interact when changes are made to the underlying data. I can see this being incredibly useful when joining multiple layers, or running spatial calculations across multiple layers.
+Opening the Layer Properties panel, I noticed a couple of new features, including a new “Information” page, improved access to meta data, and maybe most interestingly, a section on “Dependencies,” which enables the user to control how data sets interact when changes are made to the underlying data. I can see this being incredibly useful when joining multiple layers, or running spatial calculations across multiple layers.
 ![Data Source Manager.png](/uploads/Data%20Source%20Manager.png)
 
 The next thing I looked at was the Processing Toolbox, which includes a host of analytical functions. This interface had been totally overhauled from version 2.18, and is arguably where the power of GIS begins. I won’t go into much detail on these functions here, but will just complement the design team on making the section much more inviting.
