@@ -1,6 +1,10 @@
 ---
 title: 'Open Source Series: Spatial Analysis with QGIS (Part 2)'
 date: 2017-08-22 10:04:00 -04:00
+tags:
+- GIS
+- Data Visualization
+- Web Mapping
 Author: Greg Maly
 ---
 
