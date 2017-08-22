@@ -11,7 +11,7 @@ social-image: "/uploads/QGIS%20new.jpg"
 
 ![QGIS new.jpg](/uploads/QGIS%20new.jpg)
 
-*In part one of this two part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek into how the software functions.*
+*In part one of this two part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.*
 
 There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the [QGIS LinkedIn user group](https://www.linkedin.com/groups/2290177) with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.
 
