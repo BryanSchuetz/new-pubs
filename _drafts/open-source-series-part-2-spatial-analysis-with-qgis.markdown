@@ -41,7 +41,8 @@ Back to the mapping…
 
 I quickly joined the World Bank data to the Global Boundaries, created a [choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) based on 2015 child mortality projections using Equal Intervals as the color ramp mode, and rendered the polygons as a sphere using the [Azimuthal Equidistant projection](https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection).
 
-The whole process took no more than an hour (including poking around at the new buttons), and rendered the following map, which displays child mortality rates (under age 5) per 1,000 live births.\
+The whole process took no more than an hour (including poking around at the new buttons), and rendered the following map, which displays child mortality rates (under age 5) per 1,000 live births.
+
 ![Child Mortality Rates_2015.png](/uploads/Child%20Mortality%20Rates_2015.png)
 
 While there may be a package or function that already accomplishes this, I’d like to highlight that the histogram included in the map is a screen grab from the Properties - > Symbology box. As we increasingly see data visualization software like Tableau and PowerBI take root in offices around the world, I think it would be useful to integrate more accessible graphing/charting functionality. Maps are great, but in my experience they’re best explained when paired with another visual form.
