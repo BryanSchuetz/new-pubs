@@ -6,9 +6,10 @@ tags:
 - Data Visualization
 - Web Mapping
 Author: Greg Maly
+social-image: "/uploads/logo_evolution.png"
 ---
 
-![QGIS new.jpg](/uploads/QGIS%20new.jpg)
+![logo_evolution.png](/uploads/logo_evolution.png)
 
 *In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of version 3.0. In this post, I’ll compare using QGIS in professional organizations to the use of proprietary software, and provide recommendations for organizations seeking to test the waters with spatial analysis. I’ve also reached out to three GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments, and shared their perspectives in a  Q&A section below.*
 
