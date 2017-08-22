@@ -11,9 +11,7 @@ social-image: "/uploads/QGIS%20new.jpg"
 
 ![QGIS new.jpg](/uploads/QGIS%20new.jpg)
 
-*In this article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, take a sneak peek into how the software functions, discuss how it compares to proprietary software applications, interview three geographers with experience building GIS teams, and close with recommendations on open source vs. proprietary applications for institutions wishing to grow their spatial analysis capabilities.*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+*In part one of this two part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek into how the software functions.*
 
 There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the [QGIS LinkedIn user group](https://www.linkedin.com/groups/2290177) with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.
 
@@ -46,3 +44,7 @@ The whole process took no more than an hour (including poking around at the new 
 ![Child Mortality Rates_2015.png](/uploads/Child%20Mortality%20Rates_2015.png)
 
 While there may be a package or function that already accomplishes this, I’d like to highlight that the histogram included in the map is a screen grab from the Properties - > Symbology box. As we increasingly see data visualization software like Tableau and PowerBI take root in offices around the world, I think it would be useful to integrate more accessible graphing/charting functionality. Maps are great, but in my experience they’re best explained when paired with another visual form.
+
+What we've done here is just scratch the surface of QGIS, but hopefully it provides a glimpse into the power of this tool, and may encourage you to try your hand using this free software. So what GIS tools do you use in your organization? We've love to hear from you. If you have 10 seconds, check out the survey below. If we get enough responses we'll report on them in the next post, where we'll compare QGIS to proprietary applications. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
