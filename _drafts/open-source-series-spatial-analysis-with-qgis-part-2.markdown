@@ -1,6 +1,7 @@
 ---
 title: 'Open Source Series: Spatial Analysis with QGIS (Part 2)'
 date: 2017-08-22 10:04:00 -04:00
+Author: Greg Maly
 ---
 
 ![QGIS new.jpg](/uploads/QGIS%20new.jpg)
