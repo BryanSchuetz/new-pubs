@@ -6,7 +6,7 @@ Author: Greg Maly
 
 ![QGIS new.jpg](/uploads/QGIS%20new.jpg)
 
-*In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of version 3.0. In this post, I’ll compare using QGIS in professional organizations to the use of proprietary software. I’ve also reached out some a handful of GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments.*
+*In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of version 3.0. In this post, I’ll compare using QGIS in professional organizations to the use of proprietary software, and provide recommendations for organizations seeking to test the waters with spatial analysis. I’ve also reached out some a handful of GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments.*
 
 ## Why QGIS? Strengths and Weaknesses
 
@@ -52,7 +52,7 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 >
 > Finally, don’t underestimate the value of participating in an open source community. The shared resource pool means that all benefit from the features funded and developed by a few. Additionally, developers often want to work on open source projects, and the ability to recruit and retain talent increases with developers want to work on your projects.
 
-## Part 5: Our Recommendation
+## Our Recommendation
 
 So, what do we at DAI’s ICT team recommend? It’s difficult to provide blanket guidance on software for institutions as complex as development organizations, but here are some general guidelines that we recommend you follow.
 
