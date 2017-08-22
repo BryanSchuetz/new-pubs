@@ -3,9 +3,11 @@ title: 'Open Source Series: Spatial Analysis with QGIS (Part 2)'
 date: 2017-08-22 10:04:00 -04:00
 ---
 
-## Part 2: Why QGIS? Strengths and Weaknesses
+![QGIS new.jpg](/uploads/QGIS%20new.jpg)
 
-*In this section, I’ll compare using QGIS in professional organizations to the use of proprietary software. I’ve also reached out some a handful of GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments.*
+*In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of version 3.0. In this post, I’ll compare using QGIS in professional organizations to the use of proprietary software. I’ve also reached out some a handful of GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments.*
+
+## Why QGIS? Strengths and Weaknesses
 
 In the [introduction to this series](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html) I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.
 
@@ -23,7 +25,7 @@ Software developer time can be expensive, and it would not be hard to make the c
 
 It’s also important to acknowledge the rise of business intelligence software such as [Tableau](https://www.tableau.com/), [PowerBI](https://powerbi.microsoft.com/en-us/), and [Qlik](http://www.qlik.com/us/). We’ll likely cover this ecosystem of software in another post, but business intelligence software increasingly enables the production of basic choropleth and point maps, and the integration of these visuals into interactive dashboards. Often this is all organizations seek to build, and deeper the analytical functions provided by a fully fledged GIS may go unused.
 
-## Part 4: GIS and Your Organization—A Q&A with Professionals
+## GIS and Your Organization—A Q&A with Professionals
 
 To learn more about open source vs. proprietary GIS, I reached out to three geographers: Joshua Campbell, CEO of SandHill Geographic, Susan Wolfinbarger, Geographer at the Bureau of Conflict and Stabilization Operations and former Director of the Office of Geospatial Technologies at the American Association for the Advancement of Science, and a professional GIS analyst at USAID who prefers to remain anonymous. Each has had experience building teams around spatial analysis needs, developing software, or providing training to others in development contexts. In doing so I asked three questions. They provided very diverse sets of answers, and I’ve quoted each of them below.
 
