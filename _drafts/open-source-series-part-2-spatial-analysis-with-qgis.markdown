@@ -6,10 +6,10 @@ tags:
 - Data Visualization
 - Web Mapping
 Author: Greg Maly
-social-image: "/uploads/QGIS%20new.jpg"
+social-image: "/uploads/logo_evolution.png"
 ---
 
-![QGIS new.jpg](/uploads/QGIS%20new.jpg)
+![logo_evolution.png](/uploads/logo_evolution.png)
 
 *In part one of this two part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.*
 
@@ -45,6 +45,6 @@ The whole process took no more than an hour (including poking around at the new 
 
 While there may be a package or function that already accomplishes this, I’d like to highlight that the histogram included in the map is a screen grab from the Properties - > Symbology box. As we increasingly see data visualization software like Tableau and PowerBI take root in offices around the world, I think it would be useful to integrate more accessible graphing/charting functionality. Maps are great, but in my experience they’re best explained when paired with another visual form.
 
-What we've done here is just scratch the surface of QGIS, but hopefully it provides a glimpse into the power of this tool, and may encourage you to try using this free software. So what GIS tools do you use in your organization? We'd love to hear from you. If you have 10 seconds, check out the survey below. If we get enough responses we'll report on them in the next post, where we'll compare QGIS to proprietary applications, and make recommendations on which is best suited for your organization. 
+What we've done here is just scratch the surface of QGIS, but hopefully it provides a glimpse into the power of this tool, and may encourage you to try using this free software. So what GIS tools do you use in your organization? We'd love to hear from you. If you have 10 seconds, check out the survey below. If we get enough responses we'll report on them in the next post, where we'll compare QGIS to proprietary applications, and make recommendations on which is best suited for your organization.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
