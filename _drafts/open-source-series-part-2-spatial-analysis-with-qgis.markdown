@@ -47,4 +47,4 @@ While there may be a package or function that already accomplishes this, I’d l
 
 What we've done here is just scratch the surface of QGIS, but hopefully it provides a glimpse into the power of this tool, and may encourage you to try using this free software. So what GIS tools do you use in your organization? We'd love to hear from you. If you have 10 seconds, check out the survey below. If we get enough responses we'll report on them in the next post, where we'll compare QGIS to proprietary applications, and make recommendations on which is best suited for your organization. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
