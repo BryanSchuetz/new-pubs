@@ -1,15 +1,18 @@
 ---
 title: 'Data Management Series: Planning and Collecting (Part 1)'
 date: 2017-08-23 06:27:00 -04:00
+Author: Karim Bin-Humam
 ---
 
 If you’ve been paying any attention to the so-called Data Revolution, you may have heard the expression “Data is the new oil”. The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: in the information age, data is an incredibly valuable “commodity”. The purpose of the analogy as originally made by Mathematician in Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down and analyzed in order for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations.
+
+<!--more-->
 
 At DAI, we produce a lot of data. It doesn't rival Big Data streams from commercial enterprises or user-based social media platforms in velocity, variety, or volume, but it is still enough that it causes headaches on a daily basis. Our data sets are wide reaching, from water utility technical performance specs to citizen perception reports for local governments to climate smart agriculture surveys of small scale farmers. We source primary data in many formats and utilize secondary data from partners. On our USAID portfolio alone, we have 60\+ different teams managing their own streams of data. It is an ever-evolving ecosystem. It can be overwhelming, and maximizing the value that we draw from all of this data can seem quite daunting.
 
 To better wrap our heads around activity, project, and institutional data, we structure our data management systems around a common framework—the Data Management Chain. Just like a value chain in any given market, it has different links that work together to take a raw product and turn it into a consumable good (think oil!). This isn't a DAI proprietary concept or idea, but it's one that we champion to ensure that our various teams have the best quality evidence to inform how they deliver project results.
 
-![](file:///C:/Users/KBIN-H\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+!\[\](file:///C:/Users/KBIN-H\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
 All along this chain, there are two types of resources that are critical to ensure that the final product is high quality, actionable knowledge: **human** and **technological. Fail to invest strategically in either one and you set up your data management system for failure. If you focus only on the human, you lose the ability to effectively refine the raw commodity at scale. If you focus solely on technology you will be refining a flawed raw commodity that limits the quality of your final product.**
 
