@@ -1,6 +1,6 @@
 ---
 title: 'Open Source Series: Spatial Analysis with QGIS (Part 1)'
-date: 2017-08-21 10:46:00 -04:00
+date: 2017-08-23 10:46:00 -04:00
 tags:
 - GIS
 - Data
