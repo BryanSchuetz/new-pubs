@@ -1,5 +1,5 @@
 ---
-title: 'Open Source Series: Spatial Analysis with QGIS (Part 1)'
+title: 'Open Source Series Part 2: Spatial Analysis with QGIS (Article 1)'
 date: 2017-08-23 10:46:00 -04:00
 tags:
 - GIS
