@@ -15,6 +15,8 @@ social-image: "/uploads/logo_evolution.png"
 
 There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the [QGIS LinkedIn user group](https://www.linkedin.com/groups/2290177) with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.
 
+<!--more-->
+
 ## What is QGIS?
 
 [QGIS](http://www.qgis.org/), formerly known as Quantum GIS, is a powerful desktop software application that puts spatial analysis and cartographic capabilities in the hands of anyone with a computer capable of rendering large files, and the willingness to learn. It is arguably the most powerful open source desktop GIS available today, is currently translated into more than 40 languages, and is backed by some very dedicated developers. QGIS version 0.0.1 was original developed and released by Gary Sherman in July 2002, and was adopted as an incubator projected of the [Open Source Geospatial Foundation](http://www.osgeo.org/) in 2007. Version 1.0, called Kore, was released in early 2009.
