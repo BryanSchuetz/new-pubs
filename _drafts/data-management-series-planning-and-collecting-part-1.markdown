@@ -33,8 +33,8 @@ Moving into **collection,** we begin to extract the raw commodity. The quality o
 
 On the technological side it means using the right digital data collection tool wherever possible with built-in functions that increase collection efficiency and reduce human-error and data inconsistencies. We generally categorize our tools into three categories: mobile-, web-, or browser-based, and mass enumeration. Mobile-based tools are apps for smartphones and tablets which aid in field surveying, like a household survey or institutional assessment checklist, such as Fulcrum or ODK. Browser-based solutions require internet access and are great ways to build a survey with high-levels of logic that can be deployed to a large sample population, such as Google Forms or Survey Monkey. Mass enumeration tools leverage text messages or interactive voice response (IVR) systems to conduct simple surveys in low-bandwidth settings where internet and smartphone penetration is low, such as Voto Mobile or Bamba.
 
-![slicksheets.jpg](/uploads/slicksheets.jpg)`Technical briefs that we provide to our projects to help them select the appropriate data collection tools`
+![slicksheets.jpg](/uploads/slicksheets.jpg)`Technical briefs that we provide to our projects to help them select the appropriate data collection tools.`
 
-Each of these categories of tools has a place in data collection. Like Batman's Utility Belt, it is our job to select the right solution for the right task and setting. Because no matter how strong your analytical capacity is, if your raw data is invalid, poorly structured, or missing, your final product will be inaccurate, incomplete, and irrelevant.
+Each of these categories of tools has a place in data collection. Like Batman’s Utility Belt, it is our job to select the right solution for the right task and setting. Because no matter how strong your analytical capacity is, if your raw data is invalid, poorly structured, or missing, your final product will be inaccurate, incomplete, and irrelevant.
 
 ***Tune in next week/Tuesday for our second post in this series: Data Storage.***
