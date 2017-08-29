@@ -35,6 +35,6 @@ On the technological side it means using the right digital data collection tool 
 
 ![slicksheets.jpg](/uploads/slicksheets.jpg)`Technical briefs that we provide to our projects to help them select the appropriate data collection tools.`
 
-Each of these categories of tools has a place in data collection. Like Batman’s Utility Belt, it is our job to select the right solution for the right task and setting. Because no matter how strong your analytical capacity is, if your raw data is invalid, poorly structured, or missing, your final product will be inaccurate, incomplete, and irrelevant.
+Each of these categories of tools has a place in data collection. Like Batman’s utility belt, it is our job to select the right solution for the right task and setting. Because no matter how strong your analytical capacity is, if your raw data is invalid, poorly structured, or missing, your final product will be inaccurate, incomplete, and irrelevant.
 
 ***Tune in next week/Tuesday for our second post in this series: Data Storage.***
