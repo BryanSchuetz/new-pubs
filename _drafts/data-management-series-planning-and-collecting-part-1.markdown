@@ -9,9 +9,9 @@ Author: "[Ben Mann](https://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd
 social-image: "/uploads/Data%20Chain.png"
 ---
 
-*This post is the first in a series of 3.*
+*This is the first post in a series on data management.*
 
-If you’ve been paying any attention to the so-called Data Revolution, you may have heard the expression “Data is the new oil”. The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: in the information age, data is an incredibly valuable “commodity”. The purpose of the analogy as originally made by Mathematician in Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down and analyzed in order for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations.
+If you’ve been paying any attention to the so-called Data Revolution, you may have heard the expression “Data is the new oil”. The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: in the information age, data is an incredibly valuable “commodity”. The purpose of the analogy as originally made by Mathematician Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down and analyzed in order for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations.
 
 <!--more-->
 
