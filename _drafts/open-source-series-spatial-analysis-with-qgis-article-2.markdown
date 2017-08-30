@@ -45,9 +45,9 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 
 > **JC:** I don’t have hard numbers, but I would estimate that QGIS is still a small percentage (maybe 10 percent) of the overall GIS market (at least in the United States). That said, I’d also estimate that the growth rate is tremendous, with significant year-over-year growth. As QGIS matures, along with the rest of the open source geospatial ecosystem (mainly PostGIS), the interest and growth in its use is accelerating. I just attended the Free and Open Source Software for Geospatial (FOSS4G) conference in Boston (http://2017.foss4g.org/), and a couple of trends stuck out. First, the size of the conference was 1,100+ people, with roughly a third of attendees from outside of the United States. This is by far the largest in FOSS4G history; by comparison, my first one in 2007 had 600 attendees. Second, the conference dedicated a day to QGIS (http://2017.foss4g.org/program/), and many of the sessions were well attended. The State of QGIS talk, which outlines all the coming changes to QGIS 3.0 was particularly interesting as it is major refactoring with many performance improvements. QGIS is already near feature parity with proprietary desktop GIS applications, and the new version provides increased capabilities in the visualization and analysis functions where it is already strong.
 >
-> **SW:** I think the vast majority of GIS professionals use ArcMap over open source software options like QGIS. The open source GIS software products I’ve used, including QGIS, don’t work well on iOS computers. So my advice to the open source software development community is to focus as much on Apple as Windows and Linux operating systems. That being said—I do used QGIS regularly on a Windows machine, and would use it for all of my extracurricular projects if the Mac version worked well. Anecdotally, every time I'm at a geography conference, everyone is using a MacBook Pro!
+> **SW:** I think the vast majority of GIS professionals use ArcMap over open source software options like QGIS. The open source GIS software products I’ve used, including QGIS, don’t work well on iOS computers. So my advice to the open source software development community is to focus as much on Apple as Windows and Linux operating systems. That being said—I do used QGIS regularly on a Windows machine, and would use it for all of my extracurricular projects if the Mac version worked well. Anecdotally, every time I’m at a geography conference, everyone is using a MacBook Pro!
 >
-> **USAID:** Most GIS professionals I know try to use both. Each platform has specific strengths and weaknesses that don't necessarily overlap. However, for smaller organizations or where cost is a barrier, most GIS professionals will defer to QGIS.
+> **USAID:** Most GIS professionals I know try to use both. Each platform has specific strengths and weaknesses that don’t necessarily overlap. However, for smaller organizations or where cost is a barrier, most GIS professionals will defer to QGIS.
 
 **Question 2: Why do you think people continue to rely on proprietary software applications like ArcGIS and Tableau given free alternatives?**
 
@@ -55,15 +55,15 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 >
 > **SW:** Typically, I think there are a few reasons why the GIS community continues to rely on proprietary software applications:
 >
-> * It is what they learned in school
+> * It is what they learned in school.
 >
-> * It has a guarantee of support that you don't receive via open source options
+> * It has a guarantee of support that you don’t receive via open source options.
 >
 > * There is typically a very large user community, backed by regular conferences and professional development.
 >
 > * Proprietary software fits into classic budgetary and technology approval processes.
 >
-> * The well thought out integration between functions. ArcGIS provides everything within their architecture, so it's easier to work with than cobbling together a variety of different solutions and having to deal with other structures, costs, and varied platforms. You just know how everything is going to work every time.
+> * The well thought-out integration between functions. ArcGIS provides everything within their architecture, so it’s easier to work with than cobbling together a variety of different solutions and having to deal with other structures, costs, and varied platforms. You just know how everything is going to work every time.
 >
 > **USAID:** Student licenses for the proprietary software are robust and widely available. The majority of higher ed institutions seem to instruct on the proprietary software, though this practice is changing. Most of the time a GIS professional will enter a position where proprietary licenses have already been purchased and thus do not need to seek out alternatives.
 
