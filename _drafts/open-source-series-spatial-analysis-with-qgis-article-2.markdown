@@ -66,9 +66,9 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 > * The well thought out integration between functions. ArcGIS provides everything within their architecture, so it's easier to work with than cobbling together a variety of different solutions and having to deal with other structures, costs, and varied platforms. You just know how everything is going to work every time.
 >
 > **USAID:** Student licenses for the proprietary software are robust and widely available. The majority of higher ed institutions seem to instruct on the proprietary software, though this practice is changing. Most of the time a GIS professional will enter a position where proprietary licenses have already been purchased and thus do not need to seek out alternatives.
->
+
 **Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?**
->
+
 > **SW:** I think that you have to have a champion in the organization who is willing to go the extra mile to demonstrate the power of spatial data and analysis. That's true with most new initiatives. With so many options for online training, there are a lot of great options for those newer to GIS to improve their skills.
 >
 > In terms of software, I think starting with open source makes a lot of sense. It lets an organization test out the capabilities and determine if a demand signal exists. I feel that once you start producing a fair amount of content that it makes sense to go proprietary if at all possible. There will be a lot more support for standing up a formal analysis workflow that can be used across multiple users over time. What may be most important is to communicate to leadership the investment required. Even if the organization is using all open source software, geospatial analysis takes a long time!
