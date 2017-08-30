@@ -53,7 +53,7 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 
 > **JC:** For ArcGIS, I believe training/experience and existing availability of software are the two reasons people continue to use them. Cost matters very little to analysts who are not responsible for paying the maintenance fees, so it is essentially “free” to them. I will say the learning curve is not a trivial issue. When I first learned QGIS I had 10 years of ESRI experience and thoroughly understood the “button-ology” of how to execute a given task. Relearning a new user interface required time and effort, but now that I have, I choose to use QGIS.
 >
-> **SW:** Typically, I think there are a few reasons that the GIS community continues to rely on proprietary software applications:
+> **SW:** Typically, I think there are a few reasons why the GIS community continues to rely on proprietary software applications:
 >
 > * It is what they learned in school
 >
