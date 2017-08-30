@@ -79,7 +79,7 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 >
 > Finally, don’t underestimate the value of participating in an open source community. The shared resource pool means that all benefit from the features funded and developed by a few. Additionally, developers often want to work on open source projects, and the ability to recruit and retain talent increases with developers want to work on your projects.
 >
-> **USAID:** Ensuring there is a clear business use case and defined analytical workflows that GIS can influence is key. The real power and value of GIS lies in it's analytical applications so making sure there are established data pipelines and areas for enhanced decision-making is crucial.
+> **USAID:** Ensuring there is a clear business use case and defined analytical workflows that GIS can influence is key. The real power and value of GIS lies in it’s analytical applications so making sure there are established data pipelines and areas for enhanced decision-making is crucial.
 
 ## Our Recommendation
 
@@ -100,11 +100,7 @@ So, what do we recommend? It’s difficult to provide blanket guidance on softwa
 **Use Proprietary Software If:**
 
 * You’re working in very large organizations with a dedicated mandate to spatial analysis.
-
 * You were trained it in a specific software (like ArcGIS) and are most comfortable using it.
-
 * You would rather purchase technical support outside of your office environment than hire dedicated internal staff.
-
 * You want to build online tools without hiring a web developer.
-
 * You have been asked to work in a specific proprietary software application by a client/customer.
