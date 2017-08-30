@@ -15,7 +15,7 @@ social-image: "/uploads/logo_evolution.png"
 
 ## Why QGIS? Strengths and Weaknesses
 
-In the [introduction to this series](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html) I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.
+In the [introduction to this series](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html), I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.
 
 What QGIS provides users is a suite of analytical tools to conduct spatial analysis on a desktop. If you want to host your data online you can use the [QGIS cloud](http://qgiscloud.com/), and if you’d like to stay in the QGIS ecosystem to do data collection you could try [QMap](http://nathanw2.github.io/qmap/). There are many plug-ins and web services available to extend your QGIS usage, and developers are producing new tools all the time.
 
@@ -29,7 +29,7 @@ For organizations seeking a one-stop shop of desktop and web-mapping needs, you 
 
 Software developer time can be expensive, and it would not be hard to make the case that buying into the ESRI ecosystem may save time and money. But it all depends on your needs.
 
-It’s also important to acknowledge the rise of business intelligence software such as [Tableau](https://www.tableau.com/), [PowerBI](https://powerbi.microsoft.com/en-us/), and [Qlik](http://www.qlik.com/us/). We’ll likely cover this ecosystem of software in another post, but business intelligence software increasingly enables the production of basic choropleth and point maps, and the integration of these visuals into interactive dashboards. Often this is all organizations seek to build, and deeper the analytical functions provided by a fully fledged GIS may go unused.
+It’s also important to acknowledge the rise of business intelligence software such as [Tableau](https://www.tableau.com/), [PowerBI](https://powerbi.microsoft.com/en-us/), and [Qlik](http://www.qlik.com/us/). We’ll likely cover this ecosystem of software in another post, but business intelligence software increasingly enables the production of basic choropleth, or shaded, and point maps, and the integration of these visuals into interactive dashboards. Often this is all organizations seek to build, and deeper analytical functions provided by a fully fledged GIS may go unused.
 
 ## GIS and Your Organization—A Q&A with Professionals
 
