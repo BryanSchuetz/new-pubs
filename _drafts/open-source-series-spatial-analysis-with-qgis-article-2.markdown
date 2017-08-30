@@ -67,7 +67,7 @@ To learn more about open source vs. proprietary GIS, I reached out to three geog
 >
 > **USAID:** Student licenses for the proprietary software are robust and widely available. The majority of higher ed institutions seem to instruct on the proprietary software, though this practice is changing. Most of the time a GIS professional will enter a position where proprietary licenses have already been purchased and thus do not need to seek out alternatives.
 >
-> **Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?**
+**Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?**
 >
 > **SW:** I think that you have to have a champion in the organization who is willing to go the extra mile to demonstrate the power of spatial data and analysis. That's true with most new initiatives. With so many options for online training, there are a lot of great options for those newer to GIS to improve their skills.
 >
