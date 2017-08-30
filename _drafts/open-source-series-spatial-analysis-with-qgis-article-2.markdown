@@ -33,7 +33,7 @@ It’s also important to acknowledge the rise of business intelligence software 
 
 ## GIS and Your Organization—A Q&A with Professionals
 
-To learn more about open source vs. proprietary GIS, I reached out to three geographers: Joshua Campbell, CEO of SandHill Geographic, Susan Wolfinbarger, Geographer at the Bureau of Conflict and Stabilization Operations and former Director of the Office of Geospatial Technologies at the American Association for the Advancement of Science, and a professional GIS analyst at USAID . Each has had experience building teams around spatial analysis needs, developing software, or providing training to others in development contexts. In doing so I asked three questions. They provided very diverse sets of answers, and I’ve quoted each of them below.
+To learn more about open source vs. proprietary GIS, I reached out to three geographers: [Dr. Joshua Campbell](https://twitter.com/disruptivegeo?lang=en), CEO of SandHill Geographic, [Dr. Susan Wolfinbarger](https://twitter.com/swolfinbarger?lang=en), Geographer at the Bureau of Conflict and Stabilization Operations and former Director of the Office of Geospatial Technologies at the American Association for the Advancement of Science, and a professional GIS analyst at USAID . Each has had experience building teams around spatial analysis needs, developing software, or providing training to others in development contexts. In doing so I asked three questions. They provided very diverse sets of answers, and I’ve quoted each of them below.
 
 * JC – Joshua Campbell
 
