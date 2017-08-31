@@ -1,7 +1,10 @@
 ---
 title: 'Data Management Series: Data Storage and Management (Part 2)'
 date: 2017-08-31 13:51:00 -04:00
-Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann)"
+tags:
+- Data Visualization
+- Data
+Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam)"
 ---
 
 *This is the second post in a series on data management.*
