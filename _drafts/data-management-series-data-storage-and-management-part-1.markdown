@@ -1,6 +1,7 @@
 ---
-title: 'Data Management Series: Data Storage and Management (Part 1)'
+title: 'Data Management Series: Data Storage and Management (Part 2)'
 date: 2017-08-31 13:51:00 -04:00
+Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann)"
 ---
 
 *This is the second post in a series on data management.*
@@ -8,6 +9,8 @@ date: 2017-08-31 13:51:00 -04:00
 So, after reading last week's blog, you've developed the world's most robust Monitoring, Evaluation, and Learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
 In the international development world, binders full of data (disaggregated by gender of course) on shelves in rural government offices are as common place as smiling children splashing in the crystal clear water of a newly constructed well. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to Excel or CSV files on an office laptop. While this may enable you to conduct the minimum analysis needed to satiate your donor in an annual report, does it really maximize the value of the data we collect?
+
+![r4dSkills_DataManagement.png](/uploads/r4dSkills_DataManagement.png)
 <!--more-->
 
 Along the Data Management Chain, all links are equal in importance. However, storage is often the weakest by far. Revisiting our commodity analogy from the first post in this series: would you rather put all of your oil in an array of small, paper cups with lots of holes or a large steel barrel with reinforced sides? A good data storage and management plan should enable you to do the following things:
@@ -32,7 +35,7 @@ One of the first decisions that has to be made regarding data storage is whether
 
 Ok so you know where you want to store your data, you should be all set to upload your data and get started with regression analysis, right? Wrong. You also have to consider what type of database you will be using since there are many. The main distinction here is between relational and non-relational databases. SQL and Oracle are relational databases and are characterized by multiple data ‘buckets’ that are linked to one another by relationships that require a link or a ‘key’. Non-relational databases such as MongoDB on the other hand store data without explicit structures and mechanisms to link data between buckets. While the pros and cons of both are many, this choice typically boils down to the fact that relational DBs make it easy to structure and combine datasets, but do not scale horizontally as well as non relational BDs.
 
-[![7e26d5c20f89e7dc217d3d83a1d89e06.jpg](/uploads/7e26d5c20f89e7dc217d3d83a1d89e06.jpg)](ak0.pinimg.com/originals/7e/26/d5/7e26d5c20f89e7dc217d3d83a1d89e06.jpg)`Relational (SQL) vs. Non Relational (NoSQL) databases, photo credit: [PACHOSTING Platform Aggregated Cloud](https://www.pachosting.hk/en/)`
+![7e26d5c20f89e7dc217d3d83a1d89e06.jpg](/uploads/7e26d5c20f89e7dc217d3d83a1d89e06.jpg)`Relational (SQL) vs. Non Relational (NoSQL) databases, photo credit: [PACHOSTING Platform Aggregated Cloud](https://www.pachosting.hk/en/)`
 
 **Cleaning:**
 
@@ -44,8 +47,8 @@ Encompassing all of the categories above, any data management plan must account 
 
 Data storage and maintenance can be the most complex element of the data management chain. Beyond these first categories lie a myriad of other considerations that should be planned for at the beginning and will influence your choices for database structures. For a deeper look at these important topics, check out these resources:
 
-- [ACID vs. BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
+* [ACID vs. BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 
-- [Creating a Data Model](http://www.bridging-the-gap.com/data-model-not-too-technical/)
+* [Creating a Data Model](http://www.bridging-the-gap.com/data-model-not-too-technical/)
 
-- [What is ETL and why does it matter?](https://www.sas.com/en_my/insights/data-management/what-is-etl.html)
+* [What is ETL and why does it matter?](https://www.sas.com/en_my/insights/data-management/what-is-etl.html)
