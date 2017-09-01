@@ -150,7 +150,7 @@ a.footer-subscribe:hover{
   height: .8rem;
   width: .8rem;
   position: relative;
-  top: .1rem;
+  top: .05rem;
   left: -.3rem;
 }
 .tag-archive--block{
@@ -281,4 +281,31 @@ p.subscribe{
       float: left;
       margin-right: $gutter;
   }
+}
+// 🎌Improvements🎌
+.post-content, .post{
+  position: relative;
+}
+.post-content img, .post img, .post-content code, .post code{
+  @include responsive(ultra-wide-screens){
+    width: 120%;
+    position: relative;
+    left: -10%;
+  }
+  // @include responsive(super-ultra-wide-screens){
+  //   width: 150%;
+  //   left: -25%;
+  // }
+}
+.post-content img.author-pic{
+  width: 25%;
+  float: left;
+  left: 0;
+  margin-right: 24px;
+}
+.post-content img.float-left, .post.grid-item img.float-left{
+  width: 25%;
+  float: left;
+  left: 0;
+  margin-right: 24px;
 }
