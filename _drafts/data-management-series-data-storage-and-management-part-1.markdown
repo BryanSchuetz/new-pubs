@@ -7,9 +7,9 @@ tags:
 Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam)"
 ---
 
-*This is the second post in a series on data management.*
+*This is the second post in a series on data management. You can read part one [here](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html)*
 
-So, after reading last week's blog, you've developed the world's most robust Monitoring, Evaluation, and Learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
+So, after reading [last week's blog](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html), you've developed the world's most robust Monitoring, Evaluation, and Learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
 In the international development world, binders full of data (disaggregated by gender of course) on shelves in rural government offices are as common place as smiling children splashing in the crystal clear water of a newly constructed well. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to Excel or CSV files on an office laptop. While this may enable you to conduct the minimum analysis needed to satiate your donor in an annual report, does it really maximize the value of the data we collect?
 
@@ -26,7 +26,7 @@ Along the Data Management Chain, all links are equal in importance. However, sto
 
 * Secure your data, without compromising flexibility
 
-* At DAI, we ensure that the systems we use to store and manage our data fulfil all of these criteria.
+* At DAI, we ensure that the systems we use to store and manage our data fulfill all of these criteria.
 
 When it comes to storage, the following considerations are essential when designing a broader data management system:
 
