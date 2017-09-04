@@ -36,21 +36,21 @@ Your data analysis could use any of these approaches or a mix of approaches, but
 
 * Network Analysis: for force directed graphs, node-network clustering, and social network mapping using ***[Gephi](https://gephi.org/)***[ ](https://gephi.org/)or ***[Centrifuge](http://centrifugesystems.com/)***
 
-## Data Visualization
+## Five Key Reminders for Data Visualization
 
 Data visualization can be considered the art to Data analysis’ science. This is where you get to get really creative in finding effective ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools like [RAWGraphs](http://rawgraphs.io/) .
 
 Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choice we at DAI recognize that when creating a compelling visual narrative, it is important for us to make sure we take into account the following:
 
-**Have a purpose for each visual** – Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.
+**1. Have a purpose for each visual** – Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.
 
-**Choose an appropriate chart**- If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.
+**2. Choose an appropriate chart**- If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.
 
-**Keep it simple** - A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.
+**3. Keep it simple** - A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.
 
-**Let the user explore**– When working with digital platforms as opposed to static pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.
+**4. Let the user explore**– When working with digital platforms as opposed to static pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.
 
-**Compare figures** – Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
+**5. Compare figures** – Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
 
 **What is Successful Data Management?**
 
