@@ -4,6 +4,7 @@ date: 2017-08-31 13:51:00 -04:00
 tags:
 - Data Visualization
 - Data
+- Data Management Series
 Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam)"
 ---
 
