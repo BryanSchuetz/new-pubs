@@ -8,13 +8,13 @@ Author: "[Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-hum
   [Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann)"
 ---
 
-Welcome back! After reading the previous 2 posts in this series, you’ve come a long way. You’ve devised a brilliant monitoring, evaluation and learning plan, you’ve set up your data storage and management infrastructure, and you’ve conducted your baseline data collection. Its finally time to get to the good stuff and dive into the data to make sense of it all with eye popping graphics worth of downtown billboards!
+Welcome back! After reading the previous 2 posts in this series, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It's finally time to get to the good stuff and dive into the data to make sense of it all - with eye popping graphics worth of downtown billboards!
 
 <!--more-->
 
 To begin, have a solid understanding of what type of data you have to analyze. Is it quantitative or qualitative? Do you have georeferenced data sets? Are your measuring integers, percentages, or scores? What units of measure are related to your various data points and are they easily related? This knowledge will make it easier to select the appropriate method of analysis and how to present your results.
 
-There are many different types of data analysis. Each of the main approaches to data analysis lends itself to specific applications and contexts that define why you are collecting data and what you want to use it for in the first place.
+There are many different approaches to data analysis. Each of these approaches lends itself to specific applications and contexts that define why you are collecting data and what you want to use it for in the first place:
 
 **Descriptive:** Summarizing quantitatively the main features of a collected dataset. This approach is typically employed across just about any data analysis application and if often the first kind of data analysis performed on large datasets like census data.
 
