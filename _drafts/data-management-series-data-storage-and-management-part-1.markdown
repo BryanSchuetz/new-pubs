@@ -9,32 +9,27 @@ Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bi
 social-image: "/uploads/r4dSkills_DataManagement-01b49a.png"
 ---
 
-*This is the second post in a series on data management. You can read part one [here](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html)*
+*This is the second post in a series on data management. You can read the first one [here](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html)*
 
-So, after reading [last week's blog](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html), you've developed the world's most robust Monitoring, Evaluation, and Learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
+So, after reading [last week's blog](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html), you've developed the world's most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
-In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to Excel or CSV files on an office laptop. While this may enable you to conduct the minimum analysis needed to satiate your donor in an annual report, does it really maximize the value of the data we collect?
+In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to Excel or csv files on a laptop. While this may enable you to conduct the minimum analysis needed to satisfy your donor in an annual report, does it really maximize the value of the data we collect?
 
 ![r4dSkills_DataManagement.png](/uploads/r4dSkills_DataManagement.png)
 <!--more-->
 
-Along the Data Management Chain, all links are equal in importance. However, storage is often the weakest by far. Revisiting our commodity analogy from the first post in this series: would you rather put all of your oil in an array of small, paper cups with lots of holes or a large steel barrel with reinforced sides? A good data storage and management plan should enable you to do the following things:
+Along the data management chain, all links are equal in importance. However, storage is often the weakest. Revisiting our commodity analogy from the first post in this series: Would you rather put all of your oil in an array of small, paper cups with lots of holes or a large steel barrel with reinforced sides? A good data storage and management plan should enable you to do the following things:
 
-* Store your data, without a fear of loss
-
-* Map your data model, without inaccurate or inconsistent relationships
-
-* Clean your data, without risk of versioning mishaps
-
-* Secure your data, without compromising flexibility
-
-* At DAI, we ensure that the systems we use to store and manage our data fulfill all of these criteria.
+* Store your data without fear of loss.
+* Map your data model without inaccurate or inconsistent relationships.
+* Clean your data without risk of versioning mishaps.
+* Secure your data without compromising flexibility.
 
 When it comes to storage, the following considerations are essential when designing a broader data management system:
 
 **Hosting: Local vs. Cloud:**
 
-One of the first decisions that has to be made regarding data storage is whether data is to be stored on local servers or on the cloud. Generally speaking, cloud storage tends to be more cost effective, requiring less up-front costs for equipment. It also requires less maintenance effort (or none at all) as all updates and security patches are handled by the service provider and are included in the cost of service. The cloud also offers major advantages for scalability (purchasing more storage space is simple) and security, as cloud storage providers often employ advanced, industry standard security protocols, and data is automatically backed up in the cloud. On the other hand, local storage offers the advantage of speed and uptime for projects working with poor internet infrastructure. Cloud storage certainly carries a lot of advantages, but the choice may be made for you if reliable cloud services aren’t offered in your locale.
+One of the first decisions that has to be made regarding data storage is whether data should be stored on local servers or in the cloud. Generally speaking, cloud storage tends to be more cost effective, requiring less up-front costs. It also requires less maintenance (or none at all) as all updates and security patches are handled by the service provider and are included in the cost of service. The cloud also offers major advantages for scalability (purchasing more storage space is simple) and security, as cloud storage providers often employ advanced, industry standard security protocols, and data is automatically backed up in the cloud. On the other hand, local storage offers the advantage of speed and uptime for projects working with poor internet infrastructure. Cloud storage certainly carries a lot of advantages, but the choice may be made for you if reliable cloud services aren’t offered in your locale.
 
 **Database Types:**
 
