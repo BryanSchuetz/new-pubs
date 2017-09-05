@@ -43,12 +43,10 @@ Anyone we know who has ever worked with moderately large datasets will almost ce
 
 **Security**
 
-Encompassing all of the categories above, any data management plan must account for security. This means server-side security to ensure that no one can access your data without permission. It means internal personal account security, for your system users and data subjects, so their personally identifiable information doesn’t leak into the wrong hands accidentally. There are many tools and approaches to tackle these issues, from data masking and user levels to high level, end-to-end encryption. One of the worst outcomes of any data management plan is compromised data from a malicious source—our plans always account for the resource costs needed to keep our systems and data safe and secure.
+Encompassing all of the categories above, any data management plan must account for security. This means you need server-side security to ensure that no one can access your data without permission. It means internal personal account security, for your system users and data subjects, so their personally identifiable information doesn’t leak into the wrong hands accidentally. There are many tools and approaches to tackle these issues, from data masking and user levels to high level, end-to-end encryption. One of the worst outcomes of any data management plan is compromised data from a malicious source—our plans always account for the resource costs needed to keep our systems and data safe and secure.
 
 Data storage and maintenance can be the most complex element of the data management chain. Beyond these first categories lie a myriad of other considerations that should be planned for at the beginning and will influence your choices for database structures. For a deeper look at these important topics, check out these resources:
 
 * [ACID vs. BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
-
 * [Creating a Data Model](http://www.bridging-the-gap.com/data-model-not-too-technical/)
-
 * [What is ETL and why does it matter?](https://www.sas.com/en_my/insights/data-management/what-is-etl.html)
