@@ -27,11 +27,11 @@ Along the data management chain, all links are equal in importance. However, sto
 
 When it comes to storage, the following considerations are essential when designing a broader data management system:
 
-**Hosting: Local vs. Cloud:**
+**Local vs. Cloud Hosting**
 
 One of the first decisions that has to be made regarding data storage is whether data should be stored on local servers or in the cloud. Generally speaking, cloud storage tends to be more cost effective, requiring less up-front costs. It also requires less maintenance (or none at all) as all updates and security patches are handled by the service provider and are included in the cost of service. The cloud also offers major advantages for scalability (purchasing more storage space is simple) and security, as cloud storage providers often employ advanced, industry standard security protocols, and data is automatically backed up in the cloud. On the other hand, local storage offers the advantage of speed and uptime for projects working with poor internet infrastructure. Cloud storage certainly carries a lot of advantages, but the choice may be made for you if reliable cloud services aren’t offered in your locale.
 
-**Database Types:**
+**Database Types**
 
 OK, so you know where you want to store your data, you should be all set to upload your data and get started with regression analysis, right? Wrong. You also have to consider what type of database you will be using. The main distinction here is between relational and non-relational databases. SQL and Oracle are relational databases and are characterized by multiple data ‘buckets’ that are linked to one another by relationships that require a link or a ‘key.’ Non-relational databases, such as MongoDB, store data without explicit structures and mechanisms to link data between buckets. While the pros and cons of both are many, this choice typically boils down to the fact that relational databases make it easy to structure and combine datasets, but do not scale horizontally as well as non-relational databases.
 
