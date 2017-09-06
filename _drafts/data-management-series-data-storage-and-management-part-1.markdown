@@ -1,5 +1,5 @@
 ---
-title: 'Data Management Series: Data Storage and Management (Part 2)'
+title: 'Data Management Series(Part 2): Don’t Let Your Data Get Dusty'
 date: 2017-08-31 13:51:00 -04:00
 tags:
 - Data Visualization
