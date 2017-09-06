@@ -1,5 +1,5 @@
 ---
-title: 'Data Management Series, Part 1: Planning and Collecting'
+title: 'Data Management Series Part 1: Planning and Collecting'
 date: 2017-08-30 06:27:00 -04:00
 tags:
 - Data Visualization
