@@ -35,7 +35,7 @@ One of the first decisions that has to be made regarding data storage is whether
 
 OK, so you know where you want to store your data, you should be all set to upload your data and get started with regression analysis, right? Wrong. You also have to consider what type of database you will be using. The main distinction here is between relational and non-relational databases. SQL and Oracle are relational databases and are characterized by multiple data ‘buckets’ that are linked to one another by relationships that require a link or a ‘key.’ Non-relational databases, such as MongoDB, store data without explicit structures and mechanisms to link data between buckets. While the pros and cons of both are many, this choice typically boils down to the fact that relational databases make it easy to structure and combine datasets, but do not scale horizontally as well as non-relational databases.
 
-![7e26d5c20f89e7dc217d3d83a1d89e06.jpg](/uploads/7e26d5c20f89e7dc217d3d83a1d89e06.jpg)`Relational (SQL) vs. Non-Relational (NoSQL) databases, photo credit: [PACHOSTING Platform Aggregated Cloud](http://https://www.pachosting.hk/en/)].`
+![7e26d5c20f89e7dc217d3d83a1d89e06.jpg](/uploads/7e26d5c20f89e7dc217d3d83a1d89e06.jpg)`Relational (SQL) vs. Non-Relational (NoSQL) databases, photo credit: PACHOSTING Platform Aggregated Cloud.`
 
 **Cleaning**
 
