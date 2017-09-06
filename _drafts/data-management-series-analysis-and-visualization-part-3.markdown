@@ -1,5 +1,5 @@
 ---
-title: 'Data Management Series: Analysis and Visualization (Part 3)'
+title: 'Data Management Series Part 3: Analysis and Visualization'
 date: 2017-09-04 12:15:00 -04:00
 tags:
 - data
