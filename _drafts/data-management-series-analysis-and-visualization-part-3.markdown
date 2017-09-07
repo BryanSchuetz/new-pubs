@@ -25,10 +25,10 @@ There are many different approaches to data analysis. Each of these approaches l
 
 Your data analysis could use any of these approaches or a mix of approaches, but the distinction is important because the different data types and tools for analysis at our disposal tend to lend themselves better to one or the other approach. At DAI we focus on using a mixture of versatile tools and platforms that can help us do more than one type of analysis. This mixture of tools tends to incorporate:
 
-* Geospatial analysis: ranging from simple heat maps to complex point-source-network analysis using [ArcGIS](http://www.arcgis.com/features/index.html) or [QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)
-* Statistical models: basic summary statistics, weighted averages, or Bayesian models using [SPSS](https://www.ibm.com/analytics/us/en/technology/spss/) or [R-Studio](https://www.rstudio.com/)
-* Machine learning: predictive analytics, natural language learning, or neural network trend analysis using [TensorFlow](https://www.tensorflow.org/) or [IBM Watson Knowledge Studio(https://www.ibm.com/watson/)
-* Network analysis: for force-directed graphs, node-network clustering, and social network mapping using [Gephi](https://gephi.org/) or [Centrifuge](http://centrifugesystems.com/)
+* **Geospatial analysis:** ranging from simple heat maps to complex point-source-network analysis using [ArcGIS](http://www.arcgis.com/features/index.html) or [QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)
+* **Statistical models:** basic summary statistics, weighted averages, or Bayesian models using [SPSS](https://www.ibm.com/analytics/us/en/technology/spss/) or [R-Studio](https://www.rstudio.com/)
+* **Machine learning:** predictive analytics, natural language learning, or neural network trend analysis using [TensorFlow](https://www.tensorflow.org/) or [IBM Watson Knowledge Studio(https://www.ibm.com/watson/)
+* **Network analysis:** for force-directed graphs, node-network clustering, and social network mapping using [Gephi](https://gephi.org/) or [Centrifuge](http://centrifugesystems.com/)
 
 ## Five Key Reminders for Data Visualization
 
