@@ -42,15 +42,15 @@ Data visualization can be considered the art to data analysis’ science. This i
 
 Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choices, we at DAI recognize that when creating a compelling visual narrative, it is important to make sure we take into account the following:
 
-**1. Have a purpose for each visual** Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.
+**1. Have a purpose for each visual.** Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.
 
-**2. Choose an appropriate chart** If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.
+**2. Choose an appropriate chart.** If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.
 
-**3. Keep it simple** A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.
+**3. Keep it simple.** A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.
 
-**4. Let the user explore** When working with digital platforms as opposed to static .pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.
+**4. Let the user explore.** When working with digital platforms as opposed to static .pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.
 
-**5. Compare figures** Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
+**5. Compare figures.** Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
 
 **What is Successful Data Management?**
 
