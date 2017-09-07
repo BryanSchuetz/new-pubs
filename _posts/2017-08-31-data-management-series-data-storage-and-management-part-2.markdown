@@ -9,7 +9,7 @@ Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bi
 social-image: "/uploads/r4dSkills_DataManagement-01b49a.png"
 ---
 
-*This is the second post in a series on data management. You can read the first one [here.](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html)*
+*This is the second post in a series on data management. You can read the first one [here.](/data-management-series-planning-and-collecting-part-1.html)*
 
 So, after reading [last week’s blog](dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html), you’ve developed the world’s most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
