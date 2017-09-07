@@ -38,28 +38,28 @@ Your data analysis could use any of these approaches or a mix of approaches, but
 
 ## Five Key Reminders for Data Visualization
 
-Data visualization can be considered the art to data analysis’ science. This is where you get to get really creative in finding effective ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools like [RAWGraphs](http://rawgraphs.io/) .
+Data visualization can be considered the art to data analysis’ science. This is where you get to be really creative in finding ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools such as [RAWGraphs](http://rawgraphs.io/) .
 
-Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choice we at DAI recognize that when creating a compelling visual narrative, it is important for us to make sure we take into account the following:
+Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choices, we at DAI recognize that when creating a compelling visual narrative, it is important to make sure we take into account the following:
 
-**1. Have a purpose for each visual** – Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.
+**1. Have a purpose for each visual** Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.
 
-**2. Choose an appropriate chart**- If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.
+**2. Choose an appropriate chart** If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.
 
-**3. Keep it simple** - A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.
+**3. Keep it simple** A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.
 
-**4. Let the user explore**– When working with digital platforms as opposed to static pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.
+**4. Let the user explore** When working with digital platforms as opposed to static .pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.
 
-**5. Compare figures** – Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
+**5. Compare figures** Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
 
 **What is Successful Data Management?**
 
-So we’ve covered all links in the data management chain that we introduced in the [first post in this series](https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html). From establishing a clear data management plan, through collection and storage all the way to analysis and visualization, what we are trying to communicate with this series of posts is that taking a holistic approach to the chain is the way to ensure that your organization will make the most of its data. With this approach, 2 things should happen:
+So we’ve covered all links in the data management chain that we introduced in the [first post in this series](https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html). From establishing a clear data management plan, through collection and storage all the way to analysis and visualization, what we are trying to communicate with this series of posts is that taking a holistic approach to the chain is the way to ensure your organization will make the most of its data. With this approach, two things should happen:
 
 1. **Every person directly involved in the chain understands how the system works:**\
-   M&E specialists, data collectors/enumerators, chiefs of party, and others will know what types of data need to be collected, how to ensure collected data is clean and where it has to be stored for analysts to access it and analyze it.\\
+   Monitoring and evaluation specialists, data collectors/enumerators, chiefs of party, and others will know what types of data need to be collected, how to ensure collected data is clean and where it has to be stored for analysts to access and analyze it.\\
 
 2. **Everyone else in the organization knows how to find the data they need:**\
-   Communications specialists, new business specialists, project backstoppers and others have quick and easy access to a variety of data across departments and geographies. Need to know how many grants your company has administered to private businesses across Latin America? No problem, this should take just a few minutes!
+   Communications specialists, new business specialists, project backstoppers, and others have quick and easy access to a variety of data across departments and geographies. Need to know how many grants your company has administered to private businesses across Latin America? No problem, this should take just a few minutes!
 
-As this year’s [MERLTech conference](http://merltech.org/) takes place, we will undoubtedly consistently be reminded of all the potential that data holds for improving development outcomes. But for all of the hype, one thing will remain unchanged: Data is just data – it is what we do with the data that defines its impact, and designing a management system that leverages it effectively is the difference between a bucket of crude and high octane jet fuel.
+As this year’s [MERLTech conference](http://merltech.org/) takes place, we will undoubtedly consistently be reminded of all the potential that data holds for improving development outcomes. But for all of the hype, one thing will remain unchanged: Data is just data—it is what we do with the data that defines its impact, and designing a management system that leverages it effectively is the difference between a bucket of crude and high octane jet fuel.
