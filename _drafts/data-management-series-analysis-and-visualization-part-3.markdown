@@ -52,7 +52,7 @@ Data can be represented in an infinite number of ways and the number is only inc
 
 **5. Compare figures.** Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.
 
-**What is Successful Data Management?**
+## What is Successful Data Management?
 
 So we’ve covered all links in the data management chain that we introduced in the [first post in this series](https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html). From establishing a clear data management plan, through collection and storage all the way to analysis and visualization, what we are trying to communicate with this series of posts is that taking a holistic approach to the chain is the way to ensure your organization will make the most of its data. With this approach, two things should happen:
 
