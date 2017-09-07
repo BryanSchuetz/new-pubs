@@ -16,15 +16,11 @@ To begin, have a solid understanding of what type of data you have to analyze. I
 
 There are many different approaches to data analysis. Each of these approaches lends themselves to specific applications and contexts that define why you are collecting data and what you want to use it for:
 
-**Descriptive:** Summarizing quantitatively the main features of a collected dataset. This approach is typically employed across just about any data analysis application and is often the first kind of data analysis performed on large datasets such as census data.
-
-**Exploratory:** An approach that seeks to utilize collected data to find embedded relationships hidden within the data. Exploratory analysis results in insights into correlations between data points (remember, correlation doesn’t mean causation!)
-
-**Inferential:** This approach tests theories by inferring conclusions about a broad population or other subject matter based on relatively small samples thereof. This is typically the goal of statistical models and brings with it additional analytical rigor required to calculate the uncertainty of inferences.
-
-**Predictive:** The predictive approach combines historical data with current data to identify trends and make forecasts about the future.
-
-**Causal:** A causal analysis takes the exploratory approach a step beyond identifying correlation between data points, and examining causation between them, and figuring out what happens to one variable when another is changed.
+* **Descriptive:** Summarizing quantitatively the main features of a collected dataset. This approach is typically employed across just about any data analysis application and is often the first kind of data analysis performed on large datasets such as census data.
+* **Exploratory:** An approach that seeks to utilize collected data to find embedded relationships hidden within the data. Exploratory analysis results in insights into correlations between data points (remember, correlation doesn’t mean causation!)
+* **Inferential:** This approach tests theories by inferring conclusions about a broad population or other subject matter based on relatively small samples thereof. This is typically the goal of statistical models and brings with it additional analytical rigor required to calculate the uncertainty of inferences.
+* **Predictive:** The predictive approach combines historical data with current data to identify trends and make forecasts about the future.
+* **Causal:** A causal analysis takes the exploratory approach a step beyond identifying correlation between data points, and examining causation between them, and figuring out what happens to one variable when another is changed.
 
 Your data analysis could use any of these approaches or a mix of approaches, but the distinction is important because the different data types and tools for analysis at our disposal tend to lend themselves better to one or the other approach. At DAI we focus on using a mixture of versatile tools and platforms that can help us do more than one type of analysis. This mixture of tools tends to incorporate:
 
