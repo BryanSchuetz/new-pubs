@@ -56,10 +56,10 @@ Data can be represented in an infinite number of ways and the number is only inc
 
 So we’ve covered all links in the data management chain that we introduced in the [first post in this series](https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html). From establishing a clear data management plan, through collection and storage all the way to analysis and visualization, what we are trying to communicate with this series of posts is that taking a holistic approach to the chain is the way to ensure your organization will make the most of its data. With this approach, two things should happen:
 
-1. **Every person directly involved in the chain understands how the system works:**\
+1. **Every person directly involved in the chain understands how the system works:**
    Monitoring and evaluation specialists, data collectors/enumerators, chiefs of party, and others will know what types of data need to be collected, how to ensure collected data is clean and where it has to be stored for analysts to access and analyze it.\\
 
-2. **Everyone else in the organization knows how to find the data they need:**\
+2. **Everyone else in the organization knows how to find the data they need:**
    Communications specialists, new business specialists, project backstoppers, and others have quick and easy access to a variety of data across departments and geographies. Need to know how many grants your company has administered to private businesses across Latin America? No problem, this should take just a few minutes!
 
 As this year’s [MERLTech conference](http://merltech.org/) takes place, we will undoubtedly consistently be reminded of all the potential that data holds for improving development outcomes. But for all of the hype, one thing will remain unchanged: Data is just data—it is what we do with the data that defines its impact, and designing a management system that leverages it effectively is the difference between a bucket of crude and high octane jet fuel.
