@@ -6,22 +6,19 @@ tags:
 - Data Visualization
 Author: "[Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam);
   [Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann)"
-social-image: "/uploads/160939707%20data%20visualisation-a9036f.jpg"
 ---
 
-Welcome back! After reading the [previous two posts in this series](https://dai-global-digital.com/tags/?tag=data-management-series), you’ve come a long way: you’ve devised a brilliant monitoring, evaluation and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!
-
-![160939707 data visualisation.jpg](/uploads/160939707%20data%20visualisation.jpg)
+Welcome back! After reading the [previous two posts in this series](https://dai-global-digital.com/tags/?tag=data-management-series), you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!
 
 <!--more-->
 
-To begin, have a solid understanding of what type of data you have to analyze. Is it quantitative or qualitative? Do you have georeferenced data sets? Are your measuring integers, percentages, or scores? What units of measure are related to your various data points and are they easily related? This knowledge will make it easier to select the appropriate method of analysis and how to present your results.
+To begin, have a solid understanding of what type of data you have to analyze. Is it quantitative or qualitative? Do you have georeferenced data sets? Are you measuring integers, percentages, or scores? What units of measure are related to your various data points and are they easily related? This knowledge will make it simpler to select the appropriate method of analysis and how to present your results.
 
-There are many different approaches to data analysis. Each of these approaches lends itself to specific applications and contexts that define why you are collecting data and what you want to use it for in the first place:
+There are many different approaches to data analysis. Each of these approaches lends themselves to specific applications and contexts that define why you are collecting data and what you want to use it for:
 
-**Descriptive:** Summarizing quantitatively the main features of a collected dataset. This approach is typically employed across just about any data analysis application and if often the first kind of data analysis performed on large datasets like census data.
+**Descriptive:** Summarizing quantitatively the main features of a collected dataset. This approach is typically employed across just about any data analysis application and is often the first kind of data analysis performed on large datasets such as census data.
 
-**Exploratory:** An approach that seeks to utilize collected data to find embedded relationships hidden within the data. Exploratory analysis results in insights into correlations between data points (remember, correlation doesn’t mean causation!!!)
+**Exploratory:** An approach that seeks to utilize collected data to find embedded relationships hidden within the data. Exploratory analysis results in insights into correlations between data points (remember, correlation doesn’t mean causation!)
 
 **Inferential:** This approach tests theories by inferring conclusions about a broad population or other subject matter based on relatively small samples thereof. This is typically the goal of statistical models and brings with it additional analytical rigor required to calculate the uncertainty of inferences.
 
@@ -31,17 +28,17 @@ There are many different approaches to data analysis. Each of these approaches l
 
 Your data analysis could use any of these approaches or a mix of approaches, but the distinction is important because the different data types and tools for analysis at our disposal tend to lend themselves better to one or the other approach. At DAI we focus on using a mixture of versatile tools and platforms that can help us do more than one type of analysis. This mixture of tools tends to incorporate:
 
-* \*\*Geospatial Analysis: \*\*ranging from simple heat maps to complex point-source-network analysis using ***[ArcGIS](http://www.arcgis.com/features/index.html)***[ ](http://www.arcgis.com/features/index.html)or ***[QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)***
+* \*\*Geospatial analysis: \*\*ranging from simple heat maps to complex point-source-network analysis using ***[ArcGIS](http://www.arcgis.com/features/index.html)***[ ](http://www.arcgis.com/features/index.html)or ***[QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)***
 
-* Statistical Models: basic summary statistics, weighted averages, or Bayesian models using ***[SPSS](https://www.ibm.com/analytics/us/en/technology/spss/)*** or ***[R-Studio](https://www.rstudio.com/)***
+* Statistical models: basic summary statistics, weighted averages, or Bayesian models using ***[SPSS](https://www.ibm.com/analytics/us/en/technology/spss/)*** or ***[R-Studio](https://www.rstudio.com/)***
 
-* Machine Learning: predictive analytics, natural language learning, or neural network trend analysis using **[TensorFlow](https://www.tensorflow.org/)** or ***[IBM Watson Knowledge Studio](https://www.ibm.com/watson/)***
+* Machine learning: predictive analytics, natural language learning, or neural network trend analysis using **[TensorFlow](https://www.tensorflow.org/)** or ***[IBM Watson Knowledge Studio](https://www.ibm.com/watson/)***
 
-* Network Analysis: for force directed graphs, node-network clustering, and social network mapping using ***[Gephi](https://gephi.org/)***[ ](https://gephi.org/)or ***[Centrifuge](http://centrifugesystems.com/)***
+* Network analysis: for force-directed graphs, node-network clustering, and social network mapping using ***[Gephi](https://gephi.org/)***[ ](https://gephi.org/)or ***[Centrifuge](http://centrifugesystems.com/)***
 
 ## Five Key Reminders for Data Visualization
 
-Data visualization can be considered the art to Data analysis’ science. This is where you get to get really creative in finding effective ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools like [RAWGraphs](http://rawgraphs.io/) .
+Data visualization can be considered the art to data analysis’ science. This is where you get to get really creative in finding effective ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools like [RAWGraphs](http://rawgraphs.io/) .
 
 Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choice we at DAI recognize that when creating a compelling visual narrative, it is important for us to make sure we take into account the following:
 
