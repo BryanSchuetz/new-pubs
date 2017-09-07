@@ -38,7 +38,7 @@ Your data analysis could use any of these approaches or a mix of approaches, but
 
 ## Five Key Reminders for Data Visualization
 
-Data visualization can be considered the art to data analysis’ science. This is where you get to be really creative in finding ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools such as [RAWGraphs](http://rawgraphs.io/) .
+Data visualization can be considered the art to data analysis’ science. This is where you get to be really creative in finding ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools such as [RAWGraphs](http://rawgraphs.io/).
 
 Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choices, we at DAI recognize that when creating a compelling visual narrative, it is important to make sure we take into account the following:
 
