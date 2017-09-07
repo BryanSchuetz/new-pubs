@@ -2,8 +2,9 @@
 title: 'Data Management Series Part 3: Analysis and Visualization'
 date: 2017-09-04 12:15:00 -04:00
 tags:
-- data
 - Data Visualization
+- Data
+- Data Management Series
 Author: "[Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam);
   [Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann)"
 ---
