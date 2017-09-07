@@ -6,9 +6,12 @@ tags:
 - Data Visualization
 Author: "[Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam);
   [Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann)"
+social-image: "/uploads/160939707%20data%20visualisation-a9036f.jpg"
 ---
 
 Welcome back! After reading the [previous two posts in this series](https://dai-global-digital.com/tags/?tag=data-management-series), you’ve come a long way: you’ve devised a brilliant monitoring, evaluation and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!
+
+![160939707 data visualisation.jpg](/uploads/160939707%20data%20visualisation.jpg)
 
 <!--more-->
 
