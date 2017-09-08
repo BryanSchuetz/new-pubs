@@ -12,7 +12,6 @@ Author: John DeRiggi
 thumbnail: "/uploads/shpmemoryplymer2.jpg"
 ---
 
-
 **Because who needs pharmaceutical drugs when you can just implant a shape-memory polymer with an embedded circuit to send neuro-signals to your faulty organs?**
 
 
