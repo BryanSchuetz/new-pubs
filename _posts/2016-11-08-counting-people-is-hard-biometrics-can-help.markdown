@@ -5,6 +5,7 @@ tags:
 - Data
 - Think Piece
 Author: Ben Mann
+thumbnail: "/uploads/thumbprint2.png"
 ---
 
 *This is a guest post written by [Ben Mann](https://dai.com/who-we-are/our-team/ben-mann), a development specialist at DAI with a wide range of interests. He is a policy wonk; water, sanitation, and hygiene (WASH) technical expert; ICT enthusiast; and general advocate for improved use of data and visualizations. Follow Ben on twitter [@bhmann](https://twitter.com/bhmann)*

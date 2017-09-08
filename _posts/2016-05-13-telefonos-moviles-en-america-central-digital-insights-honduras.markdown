@@ -7,6 +7,7 @@ tags:
 - Digital Insights
 - Honduras
 Author: Adam Fivenson
+thumbnail: "/uploads/IndonesiaCI.jpg"
 ---
 
 ![HondurasCI.jpg](/uploads/HondurasCI.jpg)

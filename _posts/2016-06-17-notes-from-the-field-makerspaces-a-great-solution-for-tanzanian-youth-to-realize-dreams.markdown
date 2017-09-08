@@ -6,6 +6,7 @@ tags:
 - Innovation
 - Sub-Saharan Africa
 Author: Caity Campos and Colleen Green
+thumbnail: "/uploads/avomeru_christmasfair.jpg"
 ---
 
 Meet Jesse, a university student and entrepreneur. Jesse grew up in Leguruki village in Meru District in Northern Tanzania where the majority of people farm avocados, including Jesse’s family members. Despite good markets for avocado, 98 percent of Leguruki avocados do not make it to the market; their thin skins make them susceptible to rot or damage during transport along Meru’s bumpy, unpaved roads.

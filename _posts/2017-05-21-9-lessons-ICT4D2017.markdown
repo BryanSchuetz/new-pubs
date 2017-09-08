@@ -4,6 +4,7 @@ date: 2017-05-21 07:00:00 -04:00
 tags:
 - Digital Principles
 Author: Adam Fivenson
+thumbnail: "/uploads/yes.JPG"
 ---
 
 I spent the last week at the [2017 ICT4D conference in Hyderabad](https://2017ict4dconference.sched.com/), a four-day feast of presentations, discussions, and panels on how international development organizations are using new technologies in their work overseas.

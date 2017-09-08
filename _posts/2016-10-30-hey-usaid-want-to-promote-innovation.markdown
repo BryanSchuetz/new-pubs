@@ -5,6 +5,7 @@ tags:
 - Think Piece
 - Innovation
 Author: Adam Fivenson
+thumbnail: "/uploads/GAN%20stage.jpg"
 ---
 
 Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) (GAN) annual [Rally]( https://twitter.com/hashtag/ganrally) in Denver, Colorado. GAN includes 70 startup accelerators in 100 cities across six continents. 

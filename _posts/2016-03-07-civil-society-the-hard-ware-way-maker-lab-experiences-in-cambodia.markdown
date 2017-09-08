@@ -6,6 +6,7 @@ tags:
 - Governance
 - Asia and the Pacific
 Author: Rob Ryan-Silva
+thumbnail: "/uploads/IMG_7780.JPG"
 ---
 
 *This is a guest post by [Rob Ryan-Silva](http://dai.com/who-we-are/our-team/robert-ryan-silva),  Director, [DAI Maker Lab](http://dai.com/makerlab)*

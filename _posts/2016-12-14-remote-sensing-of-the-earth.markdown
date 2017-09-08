@@ -5,6 +5,7 @@ tags:
 - Data
 - Remote Sensing Series
 Author: John DeRiggi
+thumbnail: "/uploads/header-d3ef31.jpg"
 ---
 
 *This is the first in a series of posts about remote sensing. DAI is entering an orbit of excitement about the upcoming [SatSummit ](https://satsummit.io/) on January 31!*

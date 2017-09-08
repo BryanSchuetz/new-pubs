@@ -6,6 +6,7 @@ tags:
 - European Union
 - Asia and the Pacific
 Author: Cari Wood
+thumbnail: "/uploads/south%20asia%20photo%201.jp"
 ---
 
 *This is a guest post by Cari Wood, Project Manager in DAI’s Europe office, and the Public Diplomacy and Outreach Project in India and SAARC team*

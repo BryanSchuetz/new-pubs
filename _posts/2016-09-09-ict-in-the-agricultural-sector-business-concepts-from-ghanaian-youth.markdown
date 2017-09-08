@@ -7,6 +7,7 @@ tags:
 - Economic Growth
 - Innovation
 Author: Anand Varghese
+thumbnail: "/uploads/Pic%201.jpg"
 ---
 
 Some of you may recall my [post ](http://dai-global-digital.com/ghana-agritech-exchange.html) from May when I wrote about the [Kosmos Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) and the exciting work it’s doing to bring young tech-savvy entrepreneurs into the agricultural sector in Ghana. Here’s a quick update and brief summary of the kinds of ideas that have emerged from the project so far.

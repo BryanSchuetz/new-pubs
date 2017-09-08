@@ -7,6 +7,7 @@ tags:
 - Innovation
 Author: "[Ting Shih](http://clickmedix.com/about-us-3/)"
 social-image: "/uploads/jalal%20photo.jpg"
+thumbnail: "/uploads/jalal%20photo.jpg"
 ---
 
 *This is a guest post by Ting Shih, CEO and Founder of [ClickMedix](http://clickmedix.com/)*

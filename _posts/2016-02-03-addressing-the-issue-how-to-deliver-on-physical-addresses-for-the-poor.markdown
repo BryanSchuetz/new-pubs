@@ -5,6 +5,7 @@ tags:
 - Entrepreneurship
 - Economic Growth
 Author: Karim Bin-Humam
+thumbnail: "/uploads/Addressing 11.jpg"
 ---
 
 Did you know that 4 billion people the world over make do every day without a physical address? Consider the last time you opened a bank account or applied for a loan—you were probably asked for a home address to verify your identity. Imagine calling an ambulance in an emergency situation and trying to explain where you were if your street had no name and your home had no number. How would you register to vote? How would you get supplies to and from your office?

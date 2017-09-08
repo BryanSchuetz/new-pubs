@@ -7,6 +7,7 @@ tags:
 - Open Source Series
 Author: Greg Maly
 social-image: "/uploads/logo_evolution.png"
+thumbnail: "/uploads/logo_evolution.png"
 ---
 
 *In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.*

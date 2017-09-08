@@ -6,6 +6,7 @@ tags:
 - Afghanistan
 - Data
 Author: John DeRiggi
+thumbnail: "uploads/iStock_15693853_SMALL.jpg"
 ---
 
 ![iStock_15693853_SMALL.jpg](/uploads/iStock_15693853_SMALL.jpg)

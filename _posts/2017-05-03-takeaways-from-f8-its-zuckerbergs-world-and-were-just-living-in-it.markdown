@@ -4,6 +4,7 @@ date: 2017-05-03 09:54:00 -04:00
 tags:
 - Innovation
 Author: Kristen Roggemann
+thumbnail: "/uploads/f8.jpg"
 ---
 
 F8, [Facebook's annual conference](https://www.fbf8.com/), was my first trip to Silicon Valley—I’ve been to the Silicon Wadi in Israel and the Silicon Savannah in Kenya, but never had I stepped foot where it all began. It was the perfect sort of baptism by fire into the ethos of the place that brought us semiconductors, personal computing and smartphones: a gathering where the future is dreamed up by developers and defined by technology’s limitless potential. It was wild.

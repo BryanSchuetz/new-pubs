@@ -4,6 +4,7 @@ date: 2016-10-13 09:19:00 -04:00
 tags:
 - Think Piece
 Author: Adam Fivenson
+thumbnail: "/uploads/binary-1695475_1920.jpg"
 ---
 
 *Update: Since I wrote this, Congress.gov removed the text of the bill. It's now pasted at the [bottom](#fulltext).*

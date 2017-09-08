@@ -5,6 +5,7 @@ tags:
 - Governance
 - Innovation
 Author: Anand Varghese
+thumbnail: "/uploads/Image%201.png"
 ---
 
 Our [top post of 2016](https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html) was my [interview](https://dai-global-digital.com/online-petitions-and-the-future-of-citizen-driven-advocacy-a-conversation-with-avijit-michael.html) with Avijit Michael, the director of Indian citizen advocacy organization [Jhatkaa](https://jhatkaa.org/). In his interview, Avijit mentioned they had created a tool for citizens to report local issues via WhatsApp. Needless to say, we were intrigued. So, in the spirit of investigative journalism, we sent one of our staff members to India to find out more.

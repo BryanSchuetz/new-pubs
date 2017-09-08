@@ -5,6 +5,7 @@ tags:
 - Innovation
 - Think Piece
 Author: Adam Fivenson
+thumbnail: "/uploads/pixabey.PNG"
 ---
 
 When I first heard that [Facebook Messenger was introducing](https://techcrunch.com/2016/04/12/agents-on-messenger/) chatbots, I immediately thought back to junior high summers. Back then I was spending a lot of time in my parents' basement on the computer--safe from harmful things like sunshine and other people--getting into flame wars with people on [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) that (more often than not) turned out to be chatbots. Not my greatest summer. Fast forward some 20 years, and chatbots are back with a vengence, this time with a significantly improved value proposition: (near) last mile access to native language information and services. 

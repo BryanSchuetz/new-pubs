@@ -6,6 +6,7 @@ tags:
 - El Salvador
 Author: Adam Fivenson
 layout: post
+thumbnail: "/uploads/chart.png"
 ---
 
 In October 2015, I was in El Salvador to help DAI launch the new U.S. Agency for International Development (USAID) Employment Training Project, which works to link at-risk Salvadoran youth to educational and employment opportunities, foster social inclusion, and reduce the space for gangs to influence and recruit young people. While I was there, I made a point to get a sense of the role mobile phones play in young peoples’ lives: do most youth have mobile phones? If so, are they smartphones or basic phones? Which apps do they use? This is the first of two blog posts I’m writing about my time in El Salvador. Find the second post here: [Innovation and Entrepreneurship in El Salvador](http://dai-global-digital.com/2016/03/17/innovation-and-entrepreneurship-in-el-salvador.html). This post is also part of a larger set of Digital Insights that DAI’s ICT team collects from various developing countries. You can find them [here](/tags/?tag=digital-insights).

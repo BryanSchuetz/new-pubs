@@ -4,6 +4,7 @@ date: 2017-03-29 10:39:00 -04:00
 tags:
 - Innovation
 Author: Karim Bin-Humam
+thumbnail: "/uploads/rsz_sxsw.jpg"
 ---
 
 The annual [South by Southwest Interactive Music and Film Festival](https://www.sxsw.com/) with all of its thought-provoking panels, workshops, keynote speakers, and booths demonstrating the latest gizmos, gadgets, applications, and trends has come and gone—and for the second year, I was in attendance to make some sense of it all.

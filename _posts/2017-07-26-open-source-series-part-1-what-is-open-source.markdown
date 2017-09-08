@@ -5,9 +5,8 @@ tags:
 - Data
 - Open Source Series
 Author: Greg Maly
-social-image:
-  Key: 
-Field name: 
+social-image: "/uploads/bart-simpson-generator-86e40a.gif"
+thumbnail: "/uploads/bart-simpson-generator-86e40a.gif"
 ---
 
 *This article is the first in a series of posts about open source software and open data for development.*

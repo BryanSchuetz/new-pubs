@@ -6,6 +6,7 @@ tags:
 - Innovation
 - Environment & Energy
 Author: Adam Fivenson
+thumbnail: "/uploads/Space%20Apps%20Bogota%CC%81-12.jpg"
 ---
 
 Which of Colombia’s highways faces the greatest risk of flood? Is there a causal link between changing climate conditions, increased air pollution, and poor health among Colombians? How can drones help us mitigate the effects of climate change? These are a few of the big questions that teams of young people confronted at the [2016 NASA Space Apps Challenge in Bogotá](http://www.javeriana.edu.co/spaceappsbogota/).

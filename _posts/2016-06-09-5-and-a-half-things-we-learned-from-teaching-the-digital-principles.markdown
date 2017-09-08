@@ -4,6 +4,7 @@ date: 2016-06-08 20:00:00 -04:00
 tags:
 - Digital Principles
 Author: Krista Baptista, Kristen Roggemann, Anand Varghese
+thumbnail: "/uploads/YZSNQ64.png"
 ---
 
 Over the last couple of years, DAI has developed the “[ICT Corps](http://www.ictworks.org/2016/03/30/ict-innovation-corps-teaching-digital-principles-to-non-techie-staff/)”—a series of in-house training sessions for our teams around the world on how to integrate ICT into development projects, from using mobile tools to engage communities to using ICT-enabled solutions to gather data for decision-making. One of these modules is devoted to teaching the nine [Principles for Digital Development](http://digitalprinciples.org/). DAI has endorsed the principles and regularly uses them to guide technology design, but in using them as a training tool, we learned a thing or five. 

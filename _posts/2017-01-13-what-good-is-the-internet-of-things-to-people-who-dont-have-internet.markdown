@@ -5,6 +5,7 @@ tags:
 - Innovation
 - Think Piece
 Author: "[Rob Ryan-Silva](https://www.dai.com/who-we-are/our-team/robert-ryan-silva)"
+thumbnail: "/uploads/internet-of-things-concept-illustration.jpg"
 ---
 
 As I write this, the annual [Consumer Electronics Show](http://www.ces.tech/) has just wrapped up in Las Vegas, having introduced an allegedly eager public to [smartphone-enabled hairbrushes](http://www.bbc.com/news/technology-38503932), [Bluetooth-capable vibrating hotpants](http://www.spinali-design.com/pages/jeans-essentiel), and [refrigerators that tweet when you’re running low on soy milk](https://www.cnet.com/pictures/feast-your-eyes-on-the-fridges-of-ces-2017/). This is what marketing departments call the Internet of Things (IoT): devices that are networked for sensing, control, and/or coordination. Under the stifling blanket of hype, though, new platforms, network protocols, and data repositories really are enabling applications of value, in addition to the tweeting kitchen appliances which, one hopes, will stay in Vegas.

@@ -5,6 +5,7 @@ tags:
 - Cambodia
 - Innovation
 Author: Kate Heuisler
+thumbnail: "/uploads/IMG_9662.jpg"
 ---
 
 *This is a guest post by [Kate Heuisler](http://dai.com/who-we-are/our-team/kate-heuisler), Chief of Party, USAID Development Innovations Cambodia*

@@ -7,6 +7,7 @@ tags:
 - Data
 Author: "[Karim Bin-Humam](http://dai-global-digital.com/authors/karim-bin-humam/)
   and [Alexander Hatzold](https://www.linkedin.com/in/alexander-hatzold-30392893)"
+thumbnail: "/uploads/Overview.png"
 ---
 
 By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement.

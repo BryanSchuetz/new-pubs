@@ -7,6 +7,7 @@ tags:
 - Human-centered design
 Author: Adam Fivenson
 social-image: "/uploads/intro.png"
+thumbnail: "/uploads/intro.png"
 ---
 
 *Note: This post is also available in [English](http://bit.ly/transparency-app).*

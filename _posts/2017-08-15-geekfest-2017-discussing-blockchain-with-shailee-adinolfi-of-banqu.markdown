@@ -8,6 +8,7 @@ tags:
 - Innovation
 Author: Krista Baptista
 social-image: "/uploads/Geek%20Fest%202017%20-%20small%20logo-e0f536.png"
+thumbnail: "/uploads/Geek%20Fest%202017%20-%20small%20logo-e0f536.png"
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}

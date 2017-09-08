@@ -6,6 +6,7 @@ tags:
 Author: "[Nafessa Kassim](https://www.linkedin.com/in/nafessa-kassim-4088482/) and
   [Al Ismaili](https://www.linkedin.com/in/al-ismaili-3616613/?ppe=1)"
 social-image: "/uploads/151014-M-XW591-468.JPG"
+thumbnail: "/uploads/151014-M-XW591-468.JPG"
 ---
 
 *This is a guest post by Nafessa Kassim, Director of Business Development, and Al Ismaili, CEO and Co-Founder of [Bamba](http://bambagroup.com/), a mobile data collection company in Nairobi, Kenya.* 

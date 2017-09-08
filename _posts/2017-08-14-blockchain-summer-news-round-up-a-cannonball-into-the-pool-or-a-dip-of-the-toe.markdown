@@ -7,6 +7,7 @@ tags:
 - Digital Financial Services
 Author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 social-image: "/uploads/Pool-photo.jpg"
+thumbnail: "/uploads/Pool-photo.jpg"
 ---
 
 *This is a guest post by [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green), Senior Financial Sector Specialist at DAI and avid swimmer.*

@@ -4,6 +4,7 @@ date: 2016-07-07 10:00:00 -04:00
 tags:
 - Think Piece
 Author: Adam Fivenson
+thumbnail: "/uploads/Controller%202.png"
 ---
 
 ![Controller 2.png](/uploads/Controller%202.png)

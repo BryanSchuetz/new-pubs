@@ -8,6 +8,7 @@ tags:
 - Indonesia
 - Digital Insights
 Author: Adam Fivenson
+thumbnail: "/uploads/IndonesiaCI2.jpg"
 ---
 
 ![IndonesiaCI2.jpg](/uploads/IndonesiaCI2.jpg)

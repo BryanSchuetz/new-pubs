@@ -5,6 +5,7 @@ tags:
 - Afghanistan
 - Economic Growth
 Author: Anand Varghese
+thumbnail: "/uploads/tfsg1.jpg"
 ---
 
 In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded under the U.S. Agency for International Development (USAID)’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners. 

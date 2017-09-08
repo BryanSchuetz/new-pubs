@@ -5,6 +5,7 @@ tags:
 - Economic Growth
 - Data
 Author: Karim Bin-Humam
+thumbnail: "/uploads/gsmamap-a48016.png"
 ---
 
 The end of 2015 saw 3.2 billion people connected to the internet. With rates continuing to rise steadily, people are plugging into online networks that foster social and economic development, empowering them with new tools for more effective communication and more efficient economic activity. As impressive as these figures are though, 4 billion people remain offline, without access to these opportunities. Bridging the digital divide is of paramount importance if the world’s most disadvantaged populations are to participate in the increasingly connected economy, and because people are [increasingly turning to mobile phones ](http://www.gsmamobileeconomy.com/GSMA_Global_Mobile_Economy_Report_2015.pdf)as their primary gateway to the mobile networks represent the linchpin to inclusive, ICT-enabled development.

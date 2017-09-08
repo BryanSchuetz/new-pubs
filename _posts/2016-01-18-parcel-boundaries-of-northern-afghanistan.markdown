@@ -7,6 +7,7 @@ tags:
 - Afghanistan
 - Data
 Author: John DeRiggi
+thumbnail: "/uploads/afghanparcelstitle_sm.png"
 ---
 
 ![Parcel Boundaries 1.jpg](/uploads/afghanparcelstitle_sm.png)

@@ -6,6 +6,7 @@ tags:
 - Electronic Cash Transfer
 - Economic Growth
 Author: "[Karim Bin-Humam](/authors/karim-bin-humam/) and [Anand Varghese](/authors/anand-varghese/)"
+thumbnail: "/uploads/introphoto.png"
 ---
 
 Working on an ICT team can sometimes feel like being the [Morpheus](https://en.wikipedia.org/wiki/Morpheus_(The_Matrix)) of the development world—all we want to do is show development project teams that digital tools can unleash immense potential. So we try our best to sneak ICT elements into projects in any way possible: short blurbs in project proposals, ICT strategy documents while on technical assignments in the field, or straight-up bribery. Whatever it takes to sugarcoat the red pill. So imagine our surprise when we were asked to meet with a DAI-led project that *already* has multiple ICT tools integrated into its workflow: the  Kenya [Hunger Safety Net Programme Phase 2 (HSNP2)](https://www.dai.com/our-work/projects/kenya-hunger-safety-net-programme-phase-2-hsnp2), funded by the U.K. Department for International Development.

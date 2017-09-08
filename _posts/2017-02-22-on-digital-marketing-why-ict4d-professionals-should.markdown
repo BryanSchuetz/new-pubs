@@ -5,6 +5,7 @@ tags:
 - Think Piece
 - Social Media
 Author: Kristen Roggemann
+thumbnail: "/uploads/social%20media%20marketing.png"
 ---
 
 ![social media marketing.png](/uploads/social%20media%20marketing.png)

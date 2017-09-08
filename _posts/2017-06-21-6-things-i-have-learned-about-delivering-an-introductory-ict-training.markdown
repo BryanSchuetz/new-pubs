@@ -6,6 +6,7 @@ tags:
 - Innovation
 Author: Karim Bin-Humam
 social-image: "/uploads/index.jpg"
+thumbnail: "/uploads/index.jpg"
 ---
 
 On the ICT team we wear many hats and have many responsibilities. We are technical specialists who support our company’s global development projects in the design and use of digital solutions. We are evangelists who teach others about the potential of digital technologies to enhance and sustain the impact of development programming. We are thought leaders who answer strategic questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts. 

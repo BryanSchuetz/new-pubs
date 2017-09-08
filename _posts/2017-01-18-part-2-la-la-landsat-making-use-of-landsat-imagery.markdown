@@ -6,6 +6,7 @@ tags:
 - Remote Sensing Series
 - Data
 Author: John DeRiggi
+thumbnail: "/uploads/TimelineOnlyForWebRGB.jpg"
 ---
 
 *DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington, D.C. **Part 1 of the remote sensing series can be read [here](https://dai-global-digital.com/remote-sensing-of-the-earth.html).***

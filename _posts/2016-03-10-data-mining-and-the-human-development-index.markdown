@@ -5,9 +5,10 @@ tags:
 - Data
 - Health
 Author: John DeRiggi
+thumbnail: "/uploads/header2.png"
 ---
 
-![header](/uploads/header2.png )
+![header](/uploads/header2.png)
 
 We love data mining at DAI and today we are going to mine a data set from the United Nations (UN). We are going to do so by first working through an illustrative four-wheeled example.
 

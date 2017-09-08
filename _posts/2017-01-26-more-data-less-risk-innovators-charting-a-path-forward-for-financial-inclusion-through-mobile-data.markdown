@@ -6,6 +6,7 @@ tags:
 - Data
 - Economic Growth
 Author: Karim Bin-Humam
+thumbnail: "/uploads/DFSblog.jpg"
 ---
 
 The phrase "Catch-22" was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think, for example, about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, and chooses to invest in their potential.

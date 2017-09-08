@@ -8,6 +8,7 @@ tags:
 Author: "[Ben Mann](https://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwil2ODsne3VAhXFQCYKHdunBcsQFggmMAA&url=https%3A%2F%2Fwww.dai.com%2Fwho-we-are%2Four-team%2Fben-mann&usg=AFQjCNEA2Qs8RHeA6a1do91Bn6lKVXVMUw)
   and [Karim Bin-Humam](/authors/karim-bin-humam/)"
 social-image: "/uploads/Data%20Chain.png"
+thumbnail: "/uploads/Data%20Chain.png"
 ---
 
 *This is the first post in a series on data management.*

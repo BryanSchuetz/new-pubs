@@ -5,6 +5,7 @@ tags:
 - Cambodia
 - Think Piece
 Author: Kristen Roggemann
+thumbnail: "/uploads/For%20DI%20tipping%20point%20blog%20-%20photo.jpg"
 ---
 
 Longstanding wisdom in the ICT4D community dictates that you need to conduct a hard sales job to convince more traditional communities and/or stakeholders to use ICT services. My current research in Cambodia is challenging this notion.

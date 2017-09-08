@@ -8,6 +8,7 @@ tags:
 - Think Piece
 - Appathon 2016
 Author: Kristen Roggemann
+thumbnail: "/uploads/2016-new-business-success-strategy-0021.jpg"
 ---
 
 That's a wrap for 2016, folks. We launched this blog in February with a sense of curiosity and caution, unsure who would read it—or if it would be read at all. Since then, we’ve grown steadily to more than 2,000 page views a month, collaborated with colleagues throughout the ICT4D ecosystem to host 12 guest author posts, and had the privilege of teammate [John DeRiggi](https://dai-global-digital.com/authors/john-deriggi/) being interviewed by the BBC’s program “[Click,](http://www.bbc.co.uk/programmes/b006m9ry)” about his post on [Machine Learning in Afghanistan](https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html).

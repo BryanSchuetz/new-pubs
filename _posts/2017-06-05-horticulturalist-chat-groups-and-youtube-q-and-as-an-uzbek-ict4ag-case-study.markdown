@@ -5,6 +5,7 @@ tags:
 - Agriculture
 - Economic Growth
 Author: Kristen Roggemann
+thumbnail: "/uploads/uzbek%20youtube.png"
 ---
 
 In the typical way things happen at large global firms with highly decentralized project management, I first learned about the exceptional digital work being done by DAI’s U.S. Agency for International Development-funded [Agricultural Value Chain Activity in Uzbekistan project](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) (AVC) through an email referenced in a meeting about something totally different. I took a photo of the email—true story, I even sent the shot to my colleagues I was so excited—followed up with the listed contacts, and two weeks later was  having a fascinating conversation with two dynamic Uzbek colleagues, Kamil Yakubov and Sardor Kadirov, who manage AVC’s digital initiatives.

@@ -6,6 +6,7 @@ tags:
 - Latin America and the Caribbean
 - Environment & Energy
 Author: Krista Baptista
+thumbnail: "/uploads/foro%202%20small.JPG"
 ---
 
 Colombia’s 2015 floods affected some 18,000 people. They destroyed homes and bridges, caused the suspension of water and sanitation services, and killed at least 83 people. The loss of life and millions of dollars in damage have re-emphasized the importance of confronting the effects of climate change in Colombia. 

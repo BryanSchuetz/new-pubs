@@ -7,6 +7,7 @@ tags:
 - Digital Insights
 - Latin America and the Caribbean
 Author: Adam Fivenson
+thumbnail: "/uploads/HondurasCI.jpg"
 ---
 
 ![HondurasCI.jpg](/uploads/HondurasCI.jpg)

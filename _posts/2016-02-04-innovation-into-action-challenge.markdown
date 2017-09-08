@@ -4,6 +4,7 @@ date: 2016-02-04 12:23:00 -05:00
 tags:
 - Innovation
 Author: Anand Varghese
+thumbnail: "/uploads/innovationchallenge1.jpg"
 ---
 
 Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in international development?

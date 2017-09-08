@@ -5,6 +5,7 @@ tags:
 - Remote Sensing Series
 - Data
 Author: John DeRiggi
+thumbnail: "/uploads/thumbnails-054255.png"
 ---
 
 We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is [Planet](https://www.planet.com/), a small company with lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. It provides access to that imagery through a web platform, and it gives developers access to its data through a web API.

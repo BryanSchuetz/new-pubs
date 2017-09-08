@@ -6,6 +6,7 @@ tags:
 - Governance
 - Human-centered design
 Author: Adam Fivenson
+thumbnail: "/uploads/audit.jpg"
 ---
 
 *This post is also available in [English](https://dai-global-digital.com/citizen-centered-design-guatemala.html).*

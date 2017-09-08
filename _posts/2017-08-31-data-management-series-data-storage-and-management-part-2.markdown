@@ -7,6 +7,7 @@ tags:
 - Data Management Series
 Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam)"
 social-image: "/uploads/r4dSkills_DataManagement-01b49a.png"
+thumbnail: "/uploads/r4dSkills_DataManagement-01b49a.png"
 ---
 
 *This is the second post in a series on data management. You can read the first one [here.](/data-management-series-planning-and-collecting-part-1.html)*

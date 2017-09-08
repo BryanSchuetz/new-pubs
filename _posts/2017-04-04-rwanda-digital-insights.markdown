@@ -5,6 +5,7 @@ tags:
 - Digital Insights
 - Rwanda
 Author: Adam Fivenson
+thumbnail: "/uploads/header-5c6d35.jpg"
 ---
 
 In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology and interact with rural financial institutions (RFIs). With the help of the [Rural Youth Agribusiness Forum](https://www.facebook.com/RYAF2016/) (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages outside the capital, Kigali.

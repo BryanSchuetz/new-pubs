@@ -4,6 +4,7 @@ date: 2016-04-12 16:51:00 -04:00
 tags:
 - Innovation
 Author: Karim Bin-Humam; John Deriggi
+thumbnail: "/uploads/sxsw.png"
 ---
 
 ![sxsw.png](/uploads/sxsw.png)

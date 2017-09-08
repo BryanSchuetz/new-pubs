@@ -5,6 +5,7 @@ tags:
 - Innovation
 - Honduras
 Author: Adam Fivenson
+thumbnail: "/uploads/01.JPG"
 ---
 
 ![01.JPG](/uploads/01.JPG)

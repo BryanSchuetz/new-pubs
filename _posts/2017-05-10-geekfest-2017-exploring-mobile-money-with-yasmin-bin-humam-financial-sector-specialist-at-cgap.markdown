@@ -7,6 +7,7 @@ tags:
 - Digital Financial Services
 - Economic Growth
 Author: Karim Bin-Humam
+thumbnail: "/uploads/yasmin.png"
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}

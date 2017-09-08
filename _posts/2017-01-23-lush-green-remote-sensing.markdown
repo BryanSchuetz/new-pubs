@@ -5,6 +5,7 @@ tags:
 - Remote Sensing Series
 - Data
 Author: John DeRiggi
+thumbnail: "/uploads/sunbeamingdownlight.jpg"
 ---
 
 *DAI's excitement about the upcoming [SatSummit](https://satsummit.io/) is approaching perigee levels, with the conference less than one week away! This is Part 3 of our **Remote Sensing Series**. In case you missed them, here's [Part 2](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) and [Part 1](https://dai-global-digital.com/remote-sensing-of-the-earth.html).*

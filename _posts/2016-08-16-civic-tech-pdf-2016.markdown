@@ -4,6 +4,7 @@ date: 2016-08-16 09:59:00 -04:00
 tags:
 - Governance
 Author: Adam Fivenson
+thumbnail: "/uploads/gonhim.jpg"
 ---
 
 The annual [Personal Democracy Forum](http://go.personaldemocracy.com/) (PDF) might best be described as “civic tech prom.” It’s that once-a-year time when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they’re using new technology for public good. What qualifies as civic tech in this crowd? If you’re starting discourse about important public issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, you would fit right in at PDF.

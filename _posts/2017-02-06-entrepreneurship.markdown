@@ -5,6 +5,7 @@ tags:
 - Entrepreneurship
 - Innovation
 Author: "[Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/)"
+thumbnail: "/uploads/IMG_1755.JPG"
 ---
 
 *Guest blogger [Caity Campos](https://www.linkedin.com/in/caity-campos-32235064/) is a specialist in our youth and workforce development unit. Here she reviews the recent [Innovate Network Create (INC) Monterrey](http://incmty.com/) conference, a gathering of global entrepreneurs from a variety of disciplines.*

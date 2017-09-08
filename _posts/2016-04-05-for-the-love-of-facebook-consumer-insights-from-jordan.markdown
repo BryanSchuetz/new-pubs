@@ -5,6 +5,7 @@ tags:
 - Digital Insights
 - Jordan
 Author: Kristen Roggemann
+thumbnail: "/uploads/sms-facebook-whatsapp.png"
 ---
 
 ![sms-facebook-whatsapp.png](/uploads/sms-facebook-whatsapp.png)

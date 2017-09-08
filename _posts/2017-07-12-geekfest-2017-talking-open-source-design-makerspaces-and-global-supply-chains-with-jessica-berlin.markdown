@@ -7,6 +7,7 @@ tags:
 - Innovation
 - Human-centered design
 Author: Karim Bin-Humam
+thumbnail: "/uploads/iHub%20Presentation_JBerlin.png"
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}

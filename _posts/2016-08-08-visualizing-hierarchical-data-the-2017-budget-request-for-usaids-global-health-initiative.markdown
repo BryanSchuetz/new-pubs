@@ -5,6 +5,7 @@ tags:
 - Health
 - Data
 Author: John DeRiggi
+thumbnail: "/uploads/Capture.PNG"
 ---
 
 ![Sunburst](/uploads/Capture.PNG)

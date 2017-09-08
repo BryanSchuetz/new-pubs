@@ -6,6 +6,7 @@ tags:
 - Cambodia
 - Ecosystem Insights
 Author: Adam Fivenson
+thumbnail: "/uploads/1small.JPG"
 ---
 
 Civil society organizations (CSOs) play a critical role in public life: understanding citizens’ daily challenges, providing services to address those challenges in the short-term, and pursuing long-term policy solutions. In Cambodia, there are hundreds of CSOs, but a wide variability in management capacity, technical capability, and staffing has given rise to domestic and international organizations that exist to help these CSOs carry out their important social role more effectively. 

@@ -9,6 +9,7 @@ tags:
 - Health
 - Innovation
 Author: John DeRiggi
+thumbnail: "/uploads/shpmemoryplymer2.jpg"
 ---
 
 

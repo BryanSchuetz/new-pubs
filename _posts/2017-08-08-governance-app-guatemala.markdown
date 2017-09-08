@@ -6,6 +6,7 @@ tags:
 - Guatemala
 - Human-centered design
 Author: Adam Fivenson
+thumbnail: "/uploads/intro.png"
 ---
 
 *Nota: Esta publicación también está disponible en [español](http://dai-global-digital.com/app-de-transparencia-guatemala.html)*

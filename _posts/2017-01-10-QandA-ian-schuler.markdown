@@ -5,6 +5,7 @@ tags:
 - Geekfest 2017
 - Data
 Author: Krista Baptista
+thumbnail: "/uploads/ian%20photo.jpg"
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg){:.float-left}

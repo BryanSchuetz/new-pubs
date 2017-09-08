@@ -309,3 +309,31 @@ p.subscribe{
   left: 0;
   margin-right: 24px;
 }
+
+.related-list-item{
+  display: block;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+}
+a.related-item-link{
+  background-color: white;
+  color: $theme-color;
+  padding: 0;
+}
+.related-item-text{
+  padding: 10px 15px;
+  display: block;
+  font-weight: bold;
+}
+.related-item-image{
+  width: 100%;
+  height: 150px;
+  background-position: center;
+  border-radius: 6px 6px 0px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  @include responsive(wide-screens){
+    background-size: cover;
+    background-position: top;
+  }
+}
