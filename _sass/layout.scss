@@ -337,3 +337,17 @@ a.related-item-link{
     background-position: top;
   }
 }
+.series-flag{
+  text-align: center;
+  padding: 2px;
+  color: white;
+  background-color: $theme-color;
+  a{
+    color: white;
+    font-weight: bold;
+    :hover{
+      color: white;
+      font-weight: bold;
+    }
+  }
+}
