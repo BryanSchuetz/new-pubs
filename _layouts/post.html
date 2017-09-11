@@ -11,7 +11,9 @@ layout: default
           {% assign series-tag = tag %}
         {% endif %}
       {% endfor %}
-      <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag={{ series-tag | slugify }}">series of posts</a> on {{ series-tag | remove: " Series" }}.</p>
+      {% if series-tag %}
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag={{ series-tag | slugify }}">series of posts</a> on {{ series-tag | remove: " Series" }}.</p>
+      {% endif %}
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
       {% for author in site.authors %}
