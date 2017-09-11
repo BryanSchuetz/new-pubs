@@ -8,9 +8,6 @@ Author: Greg Maly
 social-image: "/uploads/bart-simpson-generator-86e40a.gif"
 thumbnail: "/uploads/bart-simpson-generator-86e40a.gif"
 ---
-
-*This article is the first in a series of posts about open source software and open data for development.*
- 
 Here at DAI we rely on software applications and data systems for our everyday work. From internal chat applications, to business intelligence software, to online data collection platforms, technology systems enable us to do our work more efficiently and effectively. But when working on international development projects, we must consider other factors such as access to desktop versus mobile devices, computer processing power and storage, levels of technical acumen, and maybe most importantly, cost.  
 
 <!--more-->
