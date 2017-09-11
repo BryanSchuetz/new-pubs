@@ -9,6 +9,7 @@ Author: "[Ben Mann](https://www.dai.com/who-we-are/our-team/ben-mann); [Karim Bi
 social-image: "/uploads/r4dSkills_DataManagement-01b49a.png"
 thumbnail: "/uploads/r4dSkills_DataManagement-01b49a.png"
 ---
+
 So, after reading [last week’s blog](/data-management-series-planning-and-collecting-part-1.html), you’ve developed the world’s most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
 In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to .xlsx or .csv files on a laptop. While this may enable you to conduct the minimum analysis needed to satisfy your donor in an annual report, does it really maximize the value of the data we collect?
