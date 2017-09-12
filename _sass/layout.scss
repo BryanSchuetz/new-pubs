@@ -351,3 +351,18 @@ a.related-item-link{
     }
   }
 }
+input.search-field{
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 95%;
+  @include responsive(wide-screens){
+    width: 80%;
+  }
+}
+a.st-ui-stamp{
+  display: none !important;
+}
+a.st-ui-close-button:hover{
+  border-bottom: 0px !important;
+}
