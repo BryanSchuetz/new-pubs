@@ -13,6 +13,8 @@ social-image: "/uploads/logo_evolution.png"
 
 ![logo_evolution.png](/uploads/logo_evolution.png)
 
+<!--more-->
+
 ## Why QGIS? Strengths and Weaknesses
 
 In the [introduction to this series](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html), I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.
