@@ -12,12 +12,12 @@ Thumbnail:
 
 *This is the wrap-up piece for 2017 in our ongoing series about [Kosmos Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) Ghana and its annual AgriTech Challenge, which DAI supports and helps implement. We’ll pick this series back up again for KIC’s 2018 cohort, but in the meantime, browse our KIC archives [here](https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html), [here](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html), and [here](https://dai-global-digital.com/ghana-agritech-exchange.html).* 
 
+<!--more-->
+
 Over the last two years, KIC’s AgriTech Challenge has identified, nurtured, and funded some of the most promising youth-driven agritech startups in Ghana. Each year’s cohort receives extensive training and funded research tours as they build their business concepts, and ultimately, two out of the dozen-ish teams receive $50,000 worth of seed funding after a series of ‘pitch’ rounds. Winners then go into a year-long incubation program at the Meltwater Entrepreneurial School of Technology (MEST). But the 2017 KIC cohort defied all expectations—not only did we find two winners, but all six of the teams that made it to the final pitch round managed to create some kind of exit strategy to keep their business concepts alive. Here’s a quick rundown of each team’s business concepts and how they fared in the AgriTech Challenge. 
 
 ![All-teams-in-a-pose-31bc5a.jpg](/uploads/All-teams-in-a-pose-31bc5a.jpg)
-`KIC AgriTech Challenge entrepreneurs at the final pitch session in July 2017. Image courtesy KIC.`
-
-<!--more-->
+`KIC AgriTech Challenge entrepreneurs at the final pitch session in July. Image courtesy KIC.`
 
 **QualiTrace:** We met [QualiTrace](https://www.facebook.com/QualiTrace/) in our [‘Women in AgriTech’](https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html) piece a couple of months ago, and they ended the AgriTech Challenge as one of two winners that received KIC seed funding. QualiTrace has built a traceability and verification system for agricultural herbicide and pesticide suppliers, their target customers. Farmers who purchase these products then use a simple mobile interface (SMS or USSD) to verify the authenticity of chemicals.  
 
