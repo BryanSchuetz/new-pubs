@@ -38,9 +38,7 @@ It’s also important to acknowledge the rise of business intelligence software 
 To learn more about open source vs. proprietary GIS, I reached out to three geographers: [Dr. Joshua Campbell](https://twitter.com/disruptivegeo?lang=en), CEO of SandHill Geographic; [Dr. Susan Wolfinbarger](https://twitter.com/swolfinbarger?lang=en), geographer at the Bureau of Conflict and Stabilization Operations and former Director of the Office of Geospatial Technologies at the American Association for the Advancement of Science; and a professional GIS analyst at USAID. Each has experience building teams around spatial analysis needs, developing software, or providing training to others. I asked three questions. They provided very diverse answers, and I’ve quoted each of them below.
 
 * JC – Dr. Joshua Campbell
-
 * SW – Dr. Susan Wolfinbarger
-
 * USAID – Unnamed USAID GIS Professional
 
 **Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS?**
@@ -90,13 +88,9 @@ So, what do we recommend? It’s difficult to provide blanket guidance on softwa
 **Use QGIS If:**
 
 * You need extended spatial analysis functionality on the desktop.
-
 * You’re just getting started with spatial analysis and want to test the water before spending money.
-
 * You’re comfortable mixing multiple software applications for your analytical needs.
-
 * You have or are willing to invest in web development to publish your maps online.
-
 * You will be working with a local organization that would like to learn the software, but may not have the resources to purchase licenses.
 
 **Use Proprietary Software If:**
