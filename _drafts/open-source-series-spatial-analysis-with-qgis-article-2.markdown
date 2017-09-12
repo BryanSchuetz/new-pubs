@@ -99,7 +99,6 @@ So, what do we recommend? It’s difficult to provide blanket guidance on softwa
 
 **Use Proprietary Software If:**
 
-* You’re working in very large organizations with a dedicated mandate to spatial analysis.
 * You were trained it in a specific software (like ArcGIS) and are most comfortable using it.
 * You would rather purchase technical support outside of your office environment than hire dedicated internal staff.
 * You want to build online tools without hiring a web developer.
