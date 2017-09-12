@@ -6,7 +6,7 @@ tags:
 - Entrepreneurship
 Author: Anand Varghese
 social-image: "/uploads/All-teams-in-a-pose-31bc5a.jpg"
-Thumbnail: 
+thumbnail: "/uploads/All-teams-in-a-pose-31bc5a.jpg"
 ---
 
 *This is the wrap-up piece for 2017 in our ongoing series about [Kosmos Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) Ghana and its annual AgriTech Challenge, which DAI supports and helps implement. We’ll pick this series back up again for KIC’s 2018 cohort, but in the meantime, browse our KIC archives [here](https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html), [here](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html), and [here](https://dai-global-digital.com/ghana-agritech-exchange.html).*
