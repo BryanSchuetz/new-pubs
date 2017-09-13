@@ -29,8 +29,8 @@
         <div class="aside--logo"><a class="without-style" href="http://dai.com"><svg class="search" viewBox="0 0 996 255" preserveAspectRatio="xMinYMax meet"><use xlink:href="#dai-logo"></use></svg></a></div>
         <p><strong>DAI</strong> works on the frontlines of international development. Transforming ideas into action—action into impact. <a class="without-style" href="http://dai.com">We are committed to shaping a more livable world</a>.</p>
         <p class="related-links"><a class="without-style more-button related-link" href="/feed.xml"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#rss"></use></svg> RSS</a><a class="without-style more-button related-link" href="mailto:digital@dai.com"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#contact"></use></svg> CONTACT</a></p>
-        {% if page.url == "/" %}
         <input type="text" class="st-default-search-input search-field">
+        {% if page.url == "/" %}
         <h2>Filter Posts by Tag</h2>
         <div class="filter-button-group">
           <ul>
@@ -62,7 +62,6 @@
         </div>
         {% endif %}
         {% if page.layout == 'post' or page.layout == 'author'%}
-          <hr>
           {% include related.html %}
         {% endif %}
       </div>
