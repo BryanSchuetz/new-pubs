@@ -1,6 +1,6 @@
 ---
 title: Catalyzing Ghana’s Growing AgriTech Ecosystem
-date: 2017-09-11 14:12:00 -04:00
+date: 2017-09-14 02:12:00 -04:00
 tags:
 - Economic Growth
 - Entrepreneurship
