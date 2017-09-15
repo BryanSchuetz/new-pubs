@@ -13,7 +13,7 @@ Expanding internet access in ‘last-mile markets’ is a priority for developme
 
 <!--more-->
 
-![fake news.jpg](/uploads/fake%20news.jpg)
+![fake news.jpg](/uploads/fake%20news.jpg)'Photo by [Kenyan Daily Star](https://www.the-star.co.ke/news/2017/02/28/africa-has-long-history-of-fake-news-after-years-of-living-with-non_c1515160)'
 
 The global boom in internet access, especially in social media usage, parallels [an increase in social unrest tied to ever more extreme web content](http://knowledge.wharton.upenn.edu/article/how-social-media-leads-to-a-less-stable-world/). The web-as-organizing-tool moment of the Arab Spring seems quaint compared to the Wild Wild Web of 2016, with its targeted fake news and bot-driven content. It’s gotten to the point where some are advocating for a Chinese-style internet management system: a recent *Foreign Policy* analysis asserts that “[American Unrest Proves China Got the Internet Right](http://foreignpolicy.com/2017/03/15/american-unrest-proves-china-got-the-internet-right-beijing-great-firewall-censorship-trump/).”
 
