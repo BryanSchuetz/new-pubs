@@ -6,6 +6,7 @@ tags:
 - Think Piece
 - Digital Inclusion
 Author: Kristen Roggemann
+social-image: "/uploads/fake%20news.jpg"
 ---
 
 Expanding internet access in ‘last-mile markets’ is a priority for development agencies – and rightly so. The economic costs to countries that do not offer their populations internet access is high: [Studies](https://www.canback.com/files/2014_Offline_and_falling_behind_Barriers_to_Internet_adoption.pdf) have detailed the internet’s macroeconomic boost to GDP, the economic and employment benefits of the growth in the digital sector, and the impact of ICT on small business revenue and job creation. Internet access has also been shown to [improve learning and health outcomes](http://www.worldbank.org/en/publication/wdr2016) and [catalyze civic engagement](https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/TechnologyMediaCommunications/2014_uk_tmt_value_of_connectivity_deloitte_ireland.pdf). Reading these reports, it seems we’re in an all-hands-on-deck moment to get bandwidth into every last corner of the earth. But what about the risks?
