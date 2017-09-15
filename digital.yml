@@ -1,7 +1,7 @@
 ---
 ---
 
-{% for post in site.posts limit:30 %}
+{% for post in site.posts limit:20 %}
 - title: "{{ post.title }}"
   pub: "Digital"
   date: {{ post.date | date: "%F" }}
