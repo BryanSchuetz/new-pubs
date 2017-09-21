@@ -26,4 +26,4 @@ Beyond that, the Fund was a significant departure from the typical USAID sub-gra
 
 We’ll keep you updated on progress as the Second Chance Fund develops. 
 
-*This post is a follow-up to Digital@DAI’s post on [Member Insights Cambodia](XXXXX) from earlier in June.*
+*This post is a follow-up to Digital@DAI’s post on [Member Insights Cambodia](https://dai-global-digital.com/cambodia-civil-society-facebook.html) from earlier in June.*
