@@ -8,6 +8,9 @@ tags:
 Author: Adam Fivenson
 ---
 
+![IMG_0304-2.jpg](/uploads/IMG_0304-2.jpg)
+`A Second Chance Fund live presentation at the Development Innovations office in Phnom Penh, Cambodia`
+
 Any digital designer worth their salt will admit it: most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new web site (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money; Behavior change is difficult, and doubly-so when you’re designing across cultures. Why? A few reasons:
 
 <!--more-->
