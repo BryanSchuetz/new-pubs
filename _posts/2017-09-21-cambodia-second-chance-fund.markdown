@@ -8,7 +8,7 @@ Any digital designer worth their salt will admit it: most tech tools fail. At le
 
 <!--more-->
 
-1. Targeting your value proposition. It’s difficult to understand your tool’s [value proposition](XXXXXX) when you don’t fully understand your users’ challenges, motivations, and experience. Is it actually better than the other immediately available alternatives? 
+1. Targeting your value proposition. It’s difficult to understand your tool’s [value proposition](http://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples) when you don’t fully understand your users’ challenges, motivations, and experience. Is it actually better than the other immediately available alternatives? 
 
 2. Fear of change. Convincing people that your new way will lower their costs (time or money) and make their life easier or better isn’t easy, especially when they may not be accustomed to using their phones (for example) for anything other than calls and texts. 
 
