@@ -6,6 +6,8 @@ published: false
 
 Any digital designer worth their salt will admit it: most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new web site (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money; Behavior change is difficult, and doubly-so when you’re designing across cultures. Why? A few reasons: 
 
+<--more!-->
+
 1. Targeting your value proposition. It’s difficult to understand your tool’s [value proposition](XXXXXX) when you don’t fully understand your users’ challenges, motivations, and experience. Is it actually better than the other immediately available alternatives? 
 
 2. Fear of change. Convincing people that your new way will lower their costs (time or money) and make their life easier or better isn’t easy, especially when they may not be accustomed to using their phones (for example) for anything other than calls and texts. 
