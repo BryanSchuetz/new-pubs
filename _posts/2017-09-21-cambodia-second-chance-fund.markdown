@@ -8,20 +8,20 @@ tags:
 Author: Adam Fivenson
 ---
 
-Any honest digital designer will admit it: most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new web site (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money; Behavior change is difficult, and doubly-so when you’re designing across cultures. Why? A few reasons:
+Any honest digital designer will admit it: Most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new website (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money. Behavior change is difficult, and doubly so when you’re designing across cultures. Why? A few reasons:
 
 <!--more-->
 
-1. Targeting your value proposition. It’s difficult to understand your tool’s [value proposition](http://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples) when you don’t fully understand your users’ challenges, motivations, and experience. Is it actually better than the other immediately available alternatives? 
+1. Targeting your users. It’s difficult to understand your tool’s [value proposition](http://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples) when you don’t fully understand your users’ challenges, motivations, and experiences. Is it actually better than the other immediately available alternatives? 
 
-2. Fear of change. Convincing people that your new way will lower their costs (time or money) and make their life easier or better isn’t easy, especially when they may not be accustomed to using their phones (for example) for anything other than calls and texts. 
+2. Fear of change. Convincing people that your new way will lower their costs or time and make their life easier isn’t easy, especially when they may not be accustomed to using their phones, for example, for anything other than calls and texts. 
 
-3. User interface. It might make perfect sense to you that you just click this button, swipe left, and choose your favorite option, but each step toward [conversion](http://www.brickmarketing.com/define-conversion-rate.htm) isn’t 100% clear from the first instant; if the buttons are the too small, or the wrong shape, or there are too many steps in the process, your users will smile and thank you, and promptly forget your app. 
+3. User interface. It might make perfect sense to you that you just click this button, swipe left, and choose your favorite option, but each step toward [conversion](http://www.brickmarketing.com/define-conversion-rate.htm) isn’t 100 percent clear from the first instant. If the buttons are the too small, or the wrong shape, or there are too many steps in the process, your users will smile and thank you, and promptly forget your app. 
 
 ![IMG_0304-2.jpg](/uploads/IMG_0304-2.jpg)
 `A Second Chance Fund live presentation at the Development Innovations office in Phnom Penh, Cambodia.`
 
-The key lesson is that it’s difficult to gauge how your intended users will react to your tool until you have a prototype (or live version) to put in front of them. Acknowledging this is what separates the great products from the good ones, and the good ones from the… not-so-good ones. That’s why human-centered design, design thinking, and other user-centered design methods exist: to provide a road-map for designers to test assumptions about their tool before launch, to learn based on direct user experience, and to apply those learnings to new iterations of the tool. 
+The key lesson is that it’s difficult to gauge how your intended users will react to your tool until you have a prototype (or live version) to put in front of them. This is what separates the great products from the good ones, and the good ones from the not-so-good ones. That’s why human-centered design, design thinking, and other user-centered design methods exist: to provide a roadmap for designers to test assumptions about their tool before launching it, to learn based on direct user experience, and to apply those learnings to new iterations of the tool. 
 
 With learning and iteration in mind, the USAID Development Innovations (DI) project in Cambodia is running a “Second Chance Fund”; a small grant competition for local CSOs whose tech ideas didn’t pan out on the first try, but who have worked closely with their users to understand why not, learned what’s working and what’s not, and applied those learnings to a proposal for a new iteration of their concept. 
 
