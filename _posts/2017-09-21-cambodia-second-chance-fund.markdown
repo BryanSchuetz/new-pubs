@@ -8,9 +8,6 @@ tags:
 Author: Adam Fivenson
 ---
 
-![IMG_0304-2.jpg](/uploads/IMG_0304-2.jpg)
-`A Second Chance Fund live presentation at the Development Innovations office in Phnom Penh, Cambodia`
-
 Any honest digital designer will admit it: most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new web site (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money; Behavior change is difficult, and doubly-so when you’re designing across cultures. Why? A few reasons:
 
 <!--more-->
@@ -20,6 +17,9 @@ Any honest digital designer will admit it: most tech tools fail. At least the fi
 2. Fear of change. Convincing people that your new way will lower their costs (time or money) and make their life easier or better isn’t easy, especially when they may not be accustomed to using their phones (for example) for anything other than calls and texts. 
 
 3. User interface. It might make perfect sense to you that you just click this button, swipe left, and choose your favorite option, but each step toward [conversion](http://www.brickmarketing.com/define-conversion-rate.htm) isn’t 100% clear from the first instant; if the buttons are the too small, or the wrong shape, or there are too many steps in the process, your users will smile and thank you, and promptly forget your app. 
+
+![IMG_0304-2.jpg](/uploads/IMG_0304-2.jpg)
+`A Second Chance Fund live presentation at the Development Innovations office in Phnom Penh, Cambodia.`
 
 The key lesson is that it’s difficult to gauge how your intended users will react to your tool until you have a prototype (or live version) to put in front of them. Acknowledging this is what separates the great products from the good ones, and the good ones from the… not-so-good ones. That’s why human-centered design, design thinking, and other user-centered design methods exist: to provide a road-map for designers to test assumptions about their tool before launch, to learn based on direct user experience, and to apply those learnings to new iterations of the tool. 
 
