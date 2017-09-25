@@ -12,10 +12,10 @@ thumbnail: "/uploads/fake%20news.jpg"
 
 Expanding internet access in ‘last-mile markets’ is a priority for development agencies—and rightly so. The economic costs to countries that do not offer their populations internet access is high: [Studies](https://www.canback.com/files/2014_Offline_and_falling_behind_Barriers_to_Internet_adoption.pdf) have detailed the internet’s macroeconomic boost to GDP, the economic and employment benefits of the growth in the digital sector, and the impact of ICT on small business revenue and job creation. Internet access has also been shown to [improve learning and health](http://www.worldbank.org/en/publication/wdr2016) outcomes and [catalyze civic engagement](https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/TechnologyMediaCommunications/2014_uk_tmt_value_of_connectivity_deloitte_ireland.pdf). Reading these reports, it seems we’re in an all-hands-on-deck moment to get bandwidth into every last corner of the earth. But what about the risks?
 
-<!--more-->
-
 ![fake news.jpg](/uploads/fake%20news.jpg)
 `Photo from Kenyan Daily Star`
+
+<!--more-->
 
 The global boom in internet access, especially in social media usage, parallels an [increase in social unrest](http://knowledge.wharton.upenn.edu/article/how-social-media-leads-to-a-less-stable-world/) tied to ever more extreme web content. The web-as-organizing-tool moment of the Arab Spring seems quaint compared to the Wild Wild Web of 2016, with its targeted fake news and bot-driven content. It’s gotten to the point where some are advocating for a Chinese-style internet management system: a recent *Foreign Policy* analysis asserts that “[American Unrest Proves China Got the Internet Right](http://foreignpolicy.com/2017/03/15/american-unrest-proves-china-got-the-internet-right-beijing-great-firewall-censorship-trump/).”
 
