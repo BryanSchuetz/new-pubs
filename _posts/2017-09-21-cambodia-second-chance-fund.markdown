@@ -1,7 +1,6 @@
 ---
 title: 'The Second Chance Fund: Learning and Iteration with Tech in Cambodia'
 date: 2017-09-21 16:12:00 -04:00
-published: false
 tags:
 - Innovation
 - Cambodia
