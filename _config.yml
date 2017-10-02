@@ -1,7 +1,6 @@
 ---
 title: Digital@DAI
 timezone: America/New_York
-date: 2016-10-02 17:11:00.000000000 Z
 collections:
   authors:
     title: Authors
@@ -29,6 +28,7 @@ defaults:
     layout: author
     Job: 
     Image: 
+date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-digital.com
 permalink: "/:title.html"
 gems:
