@@ -3,7 +3,7 @@ title: 'The Second Chance Fund: Learning and Iteration with Tech in Cambodia'
 date: 2017-09-21 16:12:00 -04:00
 tags:
 - Innovation
-- Cambodia
+- Digital Inclusion
 Author: Adam Fivenson
 social-image: "/uploads/IMG_0304-2.jpg"
 thumbnail: "/uploads/IMG_0304-2.jpg"
