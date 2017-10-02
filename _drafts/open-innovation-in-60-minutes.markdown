@@ -5,6 +5,7 @@ tags:
 - Innovation
 - Health
 Author: Talia Dweck
+social-image: "/uploads/workshop.jpg"
 ---
 
 Can you teach a room full of people about why and when we use open innovation and then have enough time left over to try it out? When we talk about open innovation, we often speak of how essential it is to conduct an in-depth analysis to define the problem or the many steps involved in designing a prize or challenge that uses open innovation to source solutions. Can these learnings be conveyed in a short 60 minutes?![workshop.jpg](/uploads/workshop.jpg)
