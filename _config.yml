@@ -20,6 +20,7 @@ defaults:
     Author: 
     layout: post
     social-image: 
+    thumbnail: 800 x 400
 - scope:
     path: ''
     type: authors
