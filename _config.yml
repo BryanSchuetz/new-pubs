@@ -48,7 +48,6 @@ exclude:
 description: The Digital for Development field has enormous potential—and plenty of
   room for learning. We launched this blog as part of our own learning process, and
   we hope to engage the Digital for Development community as we find our way forward
-baseurl: 
 destination: "./build"
 sass:
   style: compressed
