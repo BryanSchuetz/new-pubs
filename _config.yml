@@ -51,3 +51,4 @@ description: The Digital for Development field has enormous potential—and plen
 destination: "./build"
 sass:
   style: compressed
+baseurl: "foo"
