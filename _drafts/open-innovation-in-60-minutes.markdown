@@ -12,7 +12,7 @@ When we talk about “open innovation,” we often speak of how essential it is 
 
 ![workshop.jpg](/uploads/workshop.jpg)
 
-(<!--more-->)
+<!--more-->
 
 At the recent [Triangle Global Health Conference](http://www.triangleglobalhealth.org/annual-conference), Director of Digital/ICT Krista Baptista and I tried our luck. We started our workshop by giving participants an overview of open innovation and when we use it. While we provided the concrete benefits of using open innovation to systematically source solutions from a variety of people and groups, the core part of the session was allowing the participants to test out the process themselves. But, instead of asking them to be the “innovators” we asked them to imagine being the individual or organization searching for external solutions. How do you ask others to provide solutions to problems that have, in this case, plagued the public health space for decades? Put simply, how do you draft a “Call?”
 
@@ -22,9 +22,9 @@ The Call is a key element of executing an open innovation competition. Its conte
 
 * A well-defined **problem**
 
-* The \*\*barriers \*\*that actors are most struggling to overcome and what change or impact may be critical in addressing the problem.
+* The **barriers** that actors are most struggling to overcome and what change or impact may be critical in addressing the problem.
 
-* A concise\*\* logic statement\*\*, such as: “We are seeking innovations that overcome, leapfrog, or circumvent X barrier to achieve Y outcome.”
+* A concise **logic statement**, such as: “We are seeking innovations that overcome, leapfrog, or circumvent X barrier to achieve Y outcome.”
 
 * The **criteria** that generally characterize what a successful innovation should achieve or can specifically define selection criteria to be used in the evaluation.
 
