@@ -19,13 +19,9 @@ At the recent [Triangle Global Health Conference](http://www.triangleglobalhealt
 ## What Is a Call?
 
 The Call is a key element of executing an open innovation competition. Its contents determine the types of solutions that will be provided and who will provide them. Using the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab/about)’s *Tools for Innovation Programming,* we outlined the basic components of a successful Call. They include:
-
 * A well-defined **problem**
-
 * The **barriers** that actors are most struggling to overcome and what change or impact may be critical in addressing the problem.
-
 * A concise **logic statement**, such as: “We are seeking innovations that overcome, leapfrog, or circumvent X barrier to achieve Y outcome.”
-
 * The **criteria** that generally characterize what a successful innovation should achieve or can specifically define selection criteria to be used in the evaluation.
 
 We then gave them a problem—lack of access to medical supplies in rural health clinics. This problem was intentionally vague, allowing participants to define the specifics based on their expertise. In a room full of public health practitioners and experts this was not too difficult. The only restriction was that they had to call for digital solutions.
