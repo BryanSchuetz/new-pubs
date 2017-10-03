@@ -8,7 +8,9 @@ Author: Talia Dweck
 social-image: "/uploads/workshop.jpg"
 ---
 
-When we talk about “open innovation,” we often speak of how essential it is to conduct an in-depth analysis to define the problem or the many steps involved in designing a prize or challenge that uses open innovation to source solutions. Can these learnings be conveyed in 60 minutes or less?[workshop.jpg](/uploads/workshop.jpg)
+When we talk about “open innovation,” we often speak of how essential it is to conduct an in-depth analysis to define the problem or the many steps involved in designing a prize or challenge that uses open innovation to source solutions. Can these learnings be conveyed in 60 minutes or less?
+
+![workshop.jpg](/uploads/workshop.jpg)
 
 (<!--more-->)
 
