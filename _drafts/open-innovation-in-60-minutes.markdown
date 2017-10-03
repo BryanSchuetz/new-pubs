@@ -40,4 +40,6 @@ After 30 minutes, we brought the groups back together to present their Calls. Th
 
 ![poster2 -2a221d.jpg](/uploads/poster2%20-2a221d.jpg)
 
+Open Innovation Call.
+
 Understanding open innovation and designing a competition to respond to a well-defined problem does take time, but a 60-minute workshop can illuminate the opportunity that open innovation presents, the typical problems we often face when using it, and how to get started drafting the Call.
