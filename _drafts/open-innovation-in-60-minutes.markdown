@@ -12,23 +12,23 @@ When we talk about “open innovation,” we often speak of how essential it is 
 
 (<!--more-->)
 
-In a recent workshop at the Triangle Global Health Conference, Director of Digital/ICT Krista Baptista and I tried our luck. We started by giving the participants an overview of open innovation and why and when we use it.  While we provided the concrete benefits of using open innovation to systematically source solutions from a variety of actors, the core part of the session was allowing the participants to test out the process for themselves. But, instead of asking them to be the “innovators” we asked them to imagine being the individual or organization searching for external solutions. How do you ask others to provide innovative solutions to problems that have, in this case, plagued the public health space for decades? Put simply, how do you draft a Call?
+At the recent [Triangle Global Health Conference](http://www.triangleglobalhealth.org/annual-conference), Director of Digital/ICT Krista Baptista and I tried our luck. We started our workshop by giving participants an overview of open innovation and when we use it. While we provided the concrete benefits of using open innovation to systematically source solutions from a variety of people and groups, the core part of the session was allowing the participants to test out the process themselves. But, instead of asking them to be the “innovators” we asked them to imagine being the individual or organization searching for external solutions. How do you ask others to provide solutions to problems that have, in this case, plagued the public health space for decades? Put simply, how do you draft a “Call?”
 
 ## What Is a Call?
 
-The Call is a key element of executing an open innovation competition as its contents determine the types of solutions that will be provided and the actors that will provide them. Using the U.S. Global Development Lab’s *Tools for Innovation Programming,* we outlined the basic components of a successful Call to the groups of participants. They include:
+The Call is a key element of executing an open innovation competition. Its contents determine the types of solutions that will be provided and who will provide them. Using the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab/about)’s *Tools for Innovation Programming,* we outlined the basic components of a successful Call. They include:
 
-* The well-defined **problem**
+* A well-defined **problem**
 
 * The \*\*barriers \*\*that actors are most struggling to overcome and what change or impact may be critical in addressing the problem.
 
 * A concise\*\* logic statement\*\*, such as: “We are seeking innovations that overcome, leapfrog, or circumvent X barrier to achieve Y outcome.”
 
-* The **criteria** for successful innovations that generally characterize what a successful innovation should achieve or can specifically define selection criteria to be used in the evaluation.
+* The **criteria** that generally characterize what a successful innovation should achieve or can specifically define selection criteria to be used in the evaluation.
 
-We then gave them a problem; access to medical supplies in rural health clinics. This problem was intentionally vague, allowing participants to define the specifics based on their expertise. In a room full of public health practitioners and experts this was not too difficult. The only restriction was that they had to call for digital solutions.
+We then gave them a problem—lack of access to medical supplies in rural health clinics. This problem was intentionally vague, allowing participants to define the specifics based on their expertise. In a room full of public health practitioners and experts this was not too difficult. The only restriction was that they had to call for digital solutions.
 
-Perhaps the most valuable part of the exercise was the time spent in groups brainstorming about and then drafting the Call. The participants each had different experiences with the problem and were able to amalgamate their perspectives into one concise call, thus allowing for open innovation and co-creation early on in the process.
+Perhaps the most valuable part of the exercise was the time spent in groups brainstorming about and then drafting the Call. The participants each had different experiences with the problem and were able to amalgamate their perspectives into one concise Call, thus allowing for open innovation and co-creation early on in the process.
 
 ## Common Challenges with Drafting Calls
 
