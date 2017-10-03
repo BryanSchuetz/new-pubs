@@ -39,7 +39,7 @@ kramdown:
   syntax_highlighter: rouge
 excerpt_separator: "<!--more-->"
 email: your-email@domain.com
-baseurl: "/"
+baseurl: "/foo"
 exclude:
 - ".gitignore"
 - gulpfile.js
