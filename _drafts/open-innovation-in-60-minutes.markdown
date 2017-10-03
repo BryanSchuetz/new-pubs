@@ -11,7 +11,7 @@ social-image: "/uploads/workshop.jpg"
 When we talk about “open innovation,” we often speak of how essential it is to conduct an in-depth analysis to define the problem or the many steps involved in designing a prize or challenge that uses open innovation to source solutions. Can these learnings be conveyed in 60 minutes or less?
 
 ![workshop-32517b.jpg](/uploads/workshop-32517b.jpg)
-'DAI facilitated workshop on open innovation at the Triangle Global Health Conference in Raleigh, North Carolina' 
+DAI facilitated workshop on open innovation at the Triangle Global Health Conference in Raleigh, North Carolina'
 
 <!--more-->
 
@@ -38,6 +38,6 @@ Perhaps the most valuable part of the exercise was the time spent in groups brai
 After 30 minutes, we brought the groups back together to present their Calls. The responses perfectly portrayed some of the issues involved in looking for external solutions to a problem that you know so well. For example, it is extremely difficult to stop thinking about the solutions and potential actors that could deliver them. One group suggested using drones to deliver medical supplies in their logic statement. Another group called on a partnership between Amazon and UPS to improve delivery to rural areas in the United States. By stating exactly what and who they were looking for, these groups counteracted the purpose of open innovation. Other groups, on the other hand, were able to draft the Call without steering potential respondents in a certain direction. We then had a panel of experts that included Intrahealth’s Director of Digital Health, [Wayan Vota](https://www.intrahealth.org/people/wayan-vota); North Carolina State’s Associate Dean for Research in the College of Natural Resources, [Marian McCord](https://cnr.ncsu.edu/directory/mmccord/); and DAI’s Global Health Practice Lead, [Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks), evaluate the groups to determine which one best addressed the components of an effective Call. The winning team’s Call is included here:
 
 ![poster2 -2a221d.jpg](/uploads/poster2%20-2a221d.jpg)
-'Open Innovation Call'
+Open Innovation Call
 
 Understanding open innovation and designing a competition to respond to a well-defined problem does take time, but a 60-minute workshop can illuminate the opportunity that open innovation presents, the typical problems we often face when using it, and how to get started drafting the Call.
