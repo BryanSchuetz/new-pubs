@@ -15,7 +15,7 @@ Any honest digital designer will admit it: Most tech tools fail. At least the fi
 
 1. Targeting your users. It’s difficult to understand your tool’s [value proposition](http://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples) when you don’t fully understand your users’ challenges, motivations, and experiences. Is it actually better than the other immediately available alternatives? 
 2. Fear of change. Convincing people that your new way will lower their costs or time and make their life easier isn’t easy, especially when they may not be accustomed to using their phones, for example, for anything other than calls and texts. 
-3. User interface. It might make perfect sense to you that you just click this button, swipe left, and choose your favorite option, but each step toward [conversion](http://www.brickmarketing.com/define-conversion-rate.htm) isn’t 100 percent clear from the first instant. If the buttons are the too small, or the wrong shape, or there are too many steps in the process, your users will smile and thank you, and promptly forget your app. 
+3. User interface. It might make perfect sense to you that you just click this button, swipe left, and choose your favorite option, but each step toward [conversion](http://www.brickmarketing.com/define-conversion-rate.htm) isn’t 100 percent clear from the first instant. If the buttons are too small, or the wrong shape, or there are too many steps in the process, your users will smile and thank you, and promptly forget your app. 
 
 ![IMG_0304-2.jpg](/uploads/IMG_0304-2.jpg)
 `A Second Chance Fund live presentation at the Development Innovations office in Phnom Penh, Cambodia.`
