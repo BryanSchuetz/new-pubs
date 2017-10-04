@@ -31,7 +31,7 @@ defaults:
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-digital.com
 permalink: "/:title.html"
-plugins:
+plugins: 
 markdown: kramdown
 kramdown:
   input: GFM
