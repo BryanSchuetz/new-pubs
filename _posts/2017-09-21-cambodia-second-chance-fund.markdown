@@ -9,7 +9,7 @@ social-image: "/uploads/IMG_0304-2.jpg"
 thumbnail: "/uploads/IMG_0304-2.jpg"
 ---
 
-Any honest digital designer will admit it: Most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new website (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money. Behavior change is difficult, and doubly so when you’re designing across cultures. Why? A few reasons:
+Any honest digital designer will admit it: Most tech tools fail. At least the first time around. Getting your users to drop the old way of doing things and use your new website (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money. Behavior change is difficult, and doubly so when you’re designing across cultures. Why? A few reasons:
 
 <!--more-->
 
