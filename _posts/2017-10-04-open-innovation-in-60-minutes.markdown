@@ -11,7 +11,7 @@ social-image: "/uploads/workshop.jpg"
 When we talk about “open innovation,” we often speak of how essential it is to conduct an in-depth analysis to define the problem or the many steps involved in designing a prize or challenge that uses open innovation to source solutions. Can these learnings be conveyed in 60 minutes or less?
 
 ![workshop-5df2eb.jpg](/uploads/workshop-5df2eb.jpg)
-`DAI facilitated workshop on open innovation at the Triangle Global Health Conference in Raleigh, North Carolina`
+`DAI facilitated workshop on open innovation at the Triangle Global Health Conference in Raleigh, North Carolina.`
 
 <!--more-->
 
@@ -19,7 +19,7 @@ At the recent [Triangle Global Health Conference](http://www.triangleglobalhealt
 
 ## What Is a Call?
 
-The Call is a key element of executing an open innovation competition. Its contents determine the types of solutions that will be provided and who will provide them. Using the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab/about)’s *Tools for Innovation Programming,* we outlined the basic components of a successful Call. They include:
+The Call is a key element of executing an open innovation competition. Its contents determine the types of solutions that will be provided and who will provide them. Using the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab/about)’s *[Tools for Innovation Programming](https://www.globalinnovationexchange.org/resources/tools-innovation-programming),* we outlined the basic components of a successful Call. They include:
 
 * A well-defined **problem**
 
