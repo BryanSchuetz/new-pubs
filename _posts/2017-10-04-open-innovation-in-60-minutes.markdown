@@ -1,6 +1,6 @@
 ---
 title: Open Innovation in 60 Minutes or Less
-date: 2017-10-02 16:14:00 -04:00
+date: 2017-10-04 16:14:00 -04:00
 tags:
 - Innovation
 - Health
