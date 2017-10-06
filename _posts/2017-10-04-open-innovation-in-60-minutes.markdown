@@ -21,7 +21,7 @@ At the recent [Triangle Global Health Conference](http://www.triangleglobalhealt
 
 The Call is a key element of an open innovation competition. Its contents determine the types of solutions that will be put forward and who will provide them. Using the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab/about)’s *[Tools for Innovation Programming](https://www.globalinnovationexchange.org/resources/tools-innovation-programming),* we outlined the basic components of a successful Call. They include:
 
-* A well-defined **problem**
+* A well-defined **problem.**
 
 * The **barriers** that actors are struggling to overcome and what change or impact may be critical in addressing the problem.
 
