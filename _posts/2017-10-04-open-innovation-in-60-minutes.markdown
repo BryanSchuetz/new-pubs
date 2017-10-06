@@ -8,7 +8,7 @@ Author: Talia Dweck
 social-image: "/uploads/workshop.jpg"
 ---
 
-When we talk about “open innovation,” we often speak of how essential it is to conduct an in-depth analysis to define the problem or the many steps involved in designing a prize or challenge that uses open innovation to source solutions. Can these learnings be conveyed in 60 minutes or less?
+When we do “open innovation,” it’s essential to define the problem we are trying to solve. And crucial to that process is crafting a good "Call."  Can this be done in 60 minutes or less?
 
 ![workshop-5df2eb.jpg](/uploads/workshop-5df2eb.jpg)
 `DAI facilitated workshop on open innovation at the Triangle Global Health Conference in Raleigh, North Carolina.`
