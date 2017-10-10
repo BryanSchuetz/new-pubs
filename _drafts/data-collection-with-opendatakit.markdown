@@ -32,11 +32,11 @@ So, what about the mobile app? If you want to administer surveys across a large 
 
 ![ODK Collect.JPG](/uploads/ODK%20Collect.JPG)
 
-I easily installed *Collect* via GooglePlay, logged into my Google Apps server, and could seamlessly access my forms. The mobile interface also looks a bit dated, but everything worked as promised. Offline form responses were hosted on the tablet until I turned the Wi-Fi back on, which pushed survey responses to the online database. So far so good.
+I easily installed *Collect* via GooglePlay, logged into my Google Apps server, and could seamlessly access my forms. The mobile interface also looks a bit dated, but everything worked as promised. Offline form responses were hosted on the tablet until I turned the Wifi back on, which pushed survey responses to the online database. So far so good.
 
 ## Analyzing and Visualizing Data
 
-Thinking back to the original criticisms of the application - I’ve found getting started with ODK to be straightforward, and the interface to be slightly dated, but what about the third criticism about poor data visualization and analytics? ODK provides the option of displaying data in bar charts, pie charts, or maps. And that’s about it at this point. The good news is that you can export your data in a variety of formats, or host it for access by other applications. This includes publishing a live feed of JSON, connecting to a REDcap server, or connecting directly with your GoogleSheets or FusionsTables. While this limitation may be seen as a gap to some, others will be happy to analyze and visualize data in a dedicated business intelligence application such as PowerBI or Tableau, or to develop custom applications in their programming language of choice.
+Thinking back to the original criticisms of the application—I’ve found getting started with ODK to be straightforward, and the interface to be slightly dated, but what about the third criticism about poor data visualization and analytics? ODK provides the option of displaying data in bar charts, pie charts, or maps. And that’s about it at this point. The good news is that you can export your data in a variety of formats, or host it for access by other applications. This includes publishing a live feed of JSON, connecting to a REDcap server, or connecting directly with your GoogleSheets or FusionsTables. While this limitation may be seen as a gap to some, others will be happy to analyze and visualize data in a dedicated business intelligence application such as PowerBI or Tableau, or to develop custom applications in their programming language of choice.
 
 ## Conclusions
 
