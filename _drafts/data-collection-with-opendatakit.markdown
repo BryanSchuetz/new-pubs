@@ -8,7 +8,9 @@ Author: Greg Maly
 social-image: "/uploads/ODK%20Collect.JPG"
 ---
 
-Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents. If you’re reading this article, it’s likely that you’ve used [googleforms](https://www.google.com/forms/about/) or [survey monkey](https://www.surveymonkey.com/) for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called [OpenDataKit](https://opendatakit.org/) (ODK), and we’ll be taking a look at how this technology works in this article.
+Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents. 
+
+If you’re reading this article, it’s likely that you’ve used [googleforms](https://www.google.com/forms/about/) or [survey monkey](https://www.surveymonkey.com/) for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called [OpenDataKit](https://opendatakit.org/) (ODK), and we’ll be taking a look at how this technology works in this article.
 
 <!--more-->
 
