@@ -1,5 +1,5 @@
 ---
-title: Data Collection with OpenDataKit
+title: Testing Data Collection with OpenDataKit
 date: 2017-10-10 13:52:00 -04:00
 tags:
 - Open Source Series
@@ -28,7 +28,7 @@ Booting up ODK for the first time, I decided to follow the recommended steps of 
 
 The next step was building a survey. The documentation walks new users through two primary mechanisms for survey building. The first is a drag-and-drop application called [Build](https://opendatakit.org/use/build/), which provides most survey tools, including open-ended and multiple choice question formats, GPS integration for geotagging, and the ability to take photos or scan barcodes. The second is a tool called [XLSForm](https://opendatakit.org/use/xlsform/), which is designed to convert excel tables into a form. *Build* strikes me as much more intuitive than XLSForm, though I can see cases where multiple people already comfortable with the technology may want to collaborate on the design of an extensive survey, and complex questions and responses are best managed in a shared excel file.
 
-So, what about the mobile app? If you want to administer surveys across a large team, the app needs be easy to use, and must accomplish the task of hosting data on a local offline device before pushing data to the central server. ODK’s mobile tool is called [Collect](http://docs.opendatakit.org/collect-guide/), and is designed for Android devices. There appears to be no simple solution for iPhone users, though the ODK site does reference a paid solution called [iFormBuilder](https://www.iformbuilder.com/login-redirect/).
+So, what about the mobile app? If you want to administer surveys across a large team, the app needs to be easy to use, and must accomplish the task of hosting data on a local offline device before pushing data to the central server. ODK’s mobile tool is called [Collect](http://docs.opendatakit.org/collect-guide/), and is designed for Android devices. There appears to be no simple solution for iPhone users, though the ODK site does reference a paid solution called [iFormBuilder](https://www.iformbuilder.com/login-redirect/).
 
 ![ODK Collect.JPG](/uploads/ODK%20Collect.JPG)
 
