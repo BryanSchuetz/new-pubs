@@ -5,7 +5,7 @@ tags:
 - Open Source Series
 - Data
 Author: Greg Maly
-social-image: "/uploads/ODK%20Collect.JPG"
+social-image: "/uploads/ODK%20Collect_small.jpg"
 thumbnail: "/uploads/ODK%20Collect.JPG"
 ---
 
@@ -31,7 +31,7 @@ The next step was building a survey. The documentation walks new users through t
 
 So, what about the mobile app? If you want to administer surveys across a large team, the app needs to be easy to use, and must accomplish the task of hosting data on a local offline device before pushing data to the central server. ODK’s mobile tool is called [Collect](http://docs.opendatakit.org/collect-guide/), and is designed for Android devices. There appears to be no simple solution for iPhone users, though the ODK site does reference a paid solution called [iFormBuilder](https://www.iformbuilder.com/login-redirect/).
 
-![ODK Collect.JPG](/uploads/ODK%20Collect.JPG)
+![ODK Collect_small.jpg](/uploads/ODK%20Collect_small.jpg)
 
 I easily installed *Collect* via GooglePlay, logged into my Google Apps server, and could seamlessly access my forms. The mobile interface also looks a bit dated, but everything worked as promised. Offline form responses were hosted on the tablet until I turned the Wifi back on, which pushed survey responses to the online database. So far so good.
 
