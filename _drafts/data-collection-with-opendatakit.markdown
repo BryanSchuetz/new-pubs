@@ -6,6 +6,7 @@ tags:
 - Data
 Author: Greg Maly
 social-image: "/uploads/ODK%20Collect.JPG"
+thumbnail: "/uploads/ODK%20Collect.JPG"
 ---
 
 Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents. 
