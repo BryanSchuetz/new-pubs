@@ -32,13 +32,13 @@ date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-digital.com
 permalink: "/:title.html"
 plugins:
- - algoliasearch-jekyll
+- algoliasearch-jekyll
 algolia:
-  application_id: 'R7MRY12BR6'
-  index_name:     'digital' 
+  application_id: R7MRY12BR6
+  index_name: digital
   excluded_files:
-    - index.html
-    - archive.html
+  - index.html
+  - archive.html
 markdown: kramdown
 kramdown:
   input: GFM
