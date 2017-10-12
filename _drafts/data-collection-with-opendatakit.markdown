@@ -9,7 +9,7 @@ social-image: "/uploads/ODK%20Collect.JPG"
 thumbnail: "/uploads/ODK%20Collect.JPG"
 ---
 
-Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents. 
+Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents.
 
 If you’re reading this article, it’s likely you’ve used [googleforms](https://www.google.com/forms/about/) or [survey monkey](https://www.surveymonkey.com/) for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called [OpenDataKit](https://opendatakit.org/) (ODK). Let’s take a look at how this technology works.
 
@@ -17,7 +17,7 @@ If you’re reading this article, it’s likely you’ve used [googleforms](http
 
 ## Getting Started with ODK
 
-I’m almost embarrassed to admit not having used ODK prior to writing this piece. I have, however, heard mixed reviews of the application. Anecdotally, I’ve heard it is a challenge to set up, the interface is hard to work with, and it lacks strong data visualization tools. But was any of this true? 
+I’m almost embarrassed to admit not having used ODK prior to writing this piece. I have, however, heard mixed reviews of the application. Anecdotally, I’ve heard it is a challenge to set up, the interface is hard to work with, and it lacks strong data visualization tools. But was any of this true?
 
 The [introductory video](https://www.youtube.com/watch?v=HqqUdfz9Uyc) to ODK lays out a set of tools designed to collect, aggregate, and author forms for collecting data. The toolkit is designed to run on a server of your choice, and thorough tutorials for setting up each are available via the [website’s documentation](http://docs.opendatakit.org/). The ODK team also highlights tight integration with Google fusion tables, Google earth, and Google maps. No surprise as ODK was largely funded by a [Google Focused Research Award](https://research.googleblog.com/2010/02/announcing-googles-focused-research.html) in 2010.
 
@@ -27,7 +27,7 @@ Booting up ODK for the first time, I decided to follow the recommended steps of 
 
 ## Designing a Survey
 
-The next step was building a survey. The documentation walks new users through two primary mechanisms for survey building. The first is a drag-and-drop application called [Build](https://opendatakit.org/use/build/), which provides most survey tools, including open-ended and multiple choice question formats, GPS integration for geotagging, and the ability to take photos or scan barcodes. The second is a tool called [XLSForm](https://opendatakit.org/use/xlsform/), which is designed to convert excel tables into a form. *Build* strikes me as much more intuitive than XLSForm, though I can see cases where multiple people already comfortable with the technology may want to collaborate on the design of an extensive survey, and complex questions and responses are best managed in a shared excel file.
+The next step was building a survey. The documentation walks new users through two primary mechanisms for survey building. The first is a drag-and-drop application called [Build](https://opendatakit.org/use/build/), which provides most survey tools, including open-ended and multiple choice question formats, GPS integration for geotagging, and the ability to take photos or scan barcodes. The second is a tool called [XLSForm](https://opendatakit.org/use/xlsform/), which is designed to convert excel tables into a form. *Build* strikes me as much more intuitive than *XLSForm*, though I can see instances where multiple people already comfortable with the technology may want to collaborate on the design of an extensive survey, or want to administer a copy of the same survey in multiple collections without rebuilding the question set every time. In these cases, complex questions and responses are best managed in a shared excel file.
 
 So, what about the mobile app? If you want to administer surveys across a large team, the app needs to be easy to use, and must accomplish the task of hosting data on a local offline device before pushing data to the central server. ODK’s mobile tool is called [Collect](http://docs.opendatakit.org/collect-guide/), and is designed for Android devices. There appears to be no simple solution for iPhone users, though the ODK site does reference a paid solution called [iFormBuilder](https://www.iformbuilder.com/login-redirect/).
 
