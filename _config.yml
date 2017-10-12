@@ -31,7 +31,14 @@ defaults:
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-digital.com
 permalink: "/:title.html"
-plugins: 
+plugins:
+ - algoliasearch-jekyll
+algolia:
+  application_id: 'R7MRY12BR6'
+  index_name:     'digital' 
+  excluded_files:
+    - index.html
+    - archive.html
 markdown: kramdown
 kramdown:
   input: GFM
@@ -45,6 +52,7 @@ exclude:
 - package.json
 - browser-sync.js
 - ".jekyll-metadata"
+- node_modules
 description: The Digital for Development field has enormous potential—and plenty of
   room for learning. We launched this blog as part of our own learning process, and
   we hope to engage the Digital for Development community as we find our way forward

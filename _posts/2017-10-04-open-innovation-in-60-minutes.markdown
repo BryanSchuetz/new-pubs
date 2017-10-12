@@ -6,6 +6,7 @@ tags:
 - Health
 Author: Talia Dweck
 social-image: "/uploads/workshop.jpg"
+thumbnail: "/uploads/workshop.jpg"
 ---
 
 When we do “open innovation,” it’s essential to define the problem we are trying to solve. And crucial to that process is crafting a good "Call."  Can this be done in 60 minutes or less?
