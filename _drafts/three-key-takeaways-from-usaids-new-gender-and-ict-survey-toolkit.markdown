@@ -5,9 +5,12 @@ tags:
 - Digital Insights
 - Data
 Author: Kristen Roggemann
+social-image: "/uploads/USAID_Gender-and-ICT-toolkit_Cover.png"
 ---
 
 This past week USAID's Global Development Lab and mStar released the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf). In an informative webinar (you can listen to the recording [here](http://solutionscenter.nethope.org/webinars/view/introducing-usaids-gender-and-ict-toolkit)), the team that produced the report discussed both the content and the context surrounding the genesis of the toolkit. I tuned in and spent the majority of the time silently cheering my computer screen, thrilled to hear USAID promoting research tactics and information needs that align with what we on DAI's ICT team are doing with our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work. In between cheers, I feverishly took notes to capture my three key takeaways below.
+
+![USAID_Gender-and-ICT-toolkit_Cover.png](/uploads/USAID_Gender-and-ICT-toolkit_Cover.png)
 
 **1. Qualitative *and* quantitative data are equally important**
 Long the red-headed stepchild of data in the international development world, qualitative data plays an especially important role when it comes to design work for digital initiatives - ticking a "uses Facebook" box on a survey doesn't get at the 'why' and 'how' to this usage that are the key elements of user-centered, high-impact design work. At DAI, we use our surveys as a conversational entry point to get at the deep, ethnographic-style qualitative data that gives us key design insights: for example, that the young rural women in Jordan we were working with [preferred Whatsapp ](https://dai-global-digital.com/for-the-love-of-facebook-consumer-insights-from-jordan.html)because of the privacy and ability to share siloed pieces of information with different friend and family groups. That importance of privacy and control was a significant driver behind our outreach campaign design towards women. By both stressing the value of qualitative and quantitative data, and producing an excellent toolkit that walks the user through both, the USAID Digital Inclusion team put a significant stake in the ground to direct the ICT4D community towards a more user-centered and design-oriented approach to digital development.  
