@@ -5,7 +5,7 @@ tags:
 - Digital Insights
 - Data
 Author: Kristen Roggemann
-social-image: "/uploads/USAID_Gender-and-ICT-toolkit_Cover.png"
+social-image: "/uploads/USAID_Gender-and-ICT-toolkit_Cover-7bd8ad.png"
 ---
 
 This past week USAID’s Global Development Lab and mStar project released the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf). In an informative webinar (you can listen to the recording [here](http://solutionscenter.nethope.org/webinars/view/introducing-usaids-gender-and-ict-toolkit)), the team that produced the report discussed both the content and the context surrounding the genesis of the toolkit. I tuned in and spent the majority of the time silently cheering, thrilled to hear USAID promoting research tactics and information needs that align with what we on DAI’s ICT team are doing with our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work. In between cheers, I feverishly took notes and captured these three key takeaways.
