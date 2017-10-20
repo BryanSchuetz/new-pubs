@@ -2,6 +2,10 @@
 title: 'GeekFest 2017: Delving into Public Access with Duduzile Mkhwanazi, Project
   Isizwe'
 date: 2017-10-20 11:25:00 -04:00
+tags:
+- Geekfest 2017
+- Digital Inclusion
+Author: Chloe Messenger
 ---
 
 ![geekfest-16b5bb.jpg](/uploads/geekfest-16b5bb.jpg)Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
