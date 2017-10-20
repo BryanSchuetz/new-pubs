@@ -6,6 +6,7 @@ tags:
 - Geekfest 2017
 - Digital Inclusion
 Author: Chloe Messenger
+social-image: "/uploads/geekfest-59fe5f.jpg"
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left} 
