@@ -11,6 +11,8 @@ At the recent [Practicing the Principles for Digital Development](https://www.ev
 
 The [Digital Impact Alliance](https://digitalimpactalliance.org/) (DIAL) and the [Human Development Innovation Fund Tanzania](http://www.hdif-tz.org/) (HDIF-UKAid) stewarded the event and were joined by leading organizations in endorsing the Digital Principles, including USAID. DAI is a [signatory to the Principles](https://digitalprinciples.org/endorse/endorsers/).
 
+<!--more-->
+
 The [Principles for Digital Development](https://digitalprinciples.org/) are nine living guidelines designed to help development practitioners integrate best practices into technology-enabled programs. These principles are:
 
 * Design with the User
@@ -33,7 +35,7 @@ The [Principles for Digital Development](https://digitalprinciples.org/) are nin
 
 ## Discussed Principles:
 
-Participants focused on three principles and will focus on three more on 7th December in Washington DC, USA while focusing on the final three in Asia at an event to be confirmed.  At the Dar event, they discussed the following:
+Participants focused on three principles and will focus on three more on 7th December in Washington DC, while focusing on the final three in Asia at an event to be confirmed. At the Dar event, they discussed the following:
 
 **1. Principle No. 9 - Be Collaborative:**
 
