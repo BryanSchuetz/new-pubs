@@ -2,6 +2,7 @@
 title: Practicing the Principles for Digital Development in East Africa
 date: 2017-10-23 11:46:00 -04:00
 Author: "[Gilead Mishaija](https://www.linkedin.com/in/gilead-mushaija-b015aa33/)"
+social-image: "/uploads/principles%20photo%202.png"
 ---
 
 *This is a guest post by Mustapha Issa, Field Manager and MAST Coordinator and Gilead Mushaija, GIS-Database Specialist, both from DAI's [Feed the Future Land Tenure Assistance project](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta)*
