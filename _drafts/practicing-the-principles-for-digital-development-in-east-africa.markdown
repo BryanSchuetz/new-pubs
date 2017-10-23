@@ -54,17 +54,4 @@ It has been noted that the combination of all of the principles for digital deve
 
 ![principles photo 2.png](/uploads/principles%20photo%202.png)`Participants discussing strategies for the future of Digital Development in East Africa`
 
-The [Digital Principles forum](http://forum.digitalprinciples.org) was launched to keep conversation going after the event; you can also logon to connect with fellow digital development practitioners through this interactive platform.
-
-
-
-Name: Mustapha Issa
-
-Tittle: Field Manager and MAST Coordinator
-
-Linkedin: [https://www.linkedin.com/in/mustapha-issa-93b3a014a/]()
-Gilead Mushaija
-
-Tittle: GIS-Database Specialist
-
-Linkedin: [https://www.linkedin.com/in/gilead-mushaija-b015aa33/](https://www.linkedin.com/in/gilead-mushaija-b015aa33/)
+The [Digital Principles forum](http://forum.digitalprinciples.org) was launched to keep conversation going after the event; you can also log on to connect with fellow digital development practitioners through this interactive platform.
