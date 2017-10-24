@@ -1,6 +1,9 @@
 ---
 title: Practicing the Principles for Digital Development in East Africa
 date: 2017-10-23 11:46:00 -04:00
+tags:
+- Digital Principles
+- Innovation
 Author: "[Gilead Mishaija](https://www.linkedin.com/in/gilead-mushaija-b015aa33/),
   [Mustapha Issa](https://www.linkedin.com/in/mustapha-issa-93b3a014a/)"
 social-image: "/uploads/principles%20photo%202.png"
