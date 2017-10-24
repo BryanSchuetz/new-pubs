@@ -17,6 +17,7 @@ This week we are focusing on public access as a solution to closing the Digital 
 We hear from Duduzile Mkhwanazi, CEO of [Project Isizwe](http://www.projectisizwe.org/)-an organization making great strides in providing free public wifi in South Africa, a country where inequality is rife and the affordability of mobile data is just out of reach for many, despite [99 percent 3G coverage](http://www.mobileconnectivityindex.com/#year=2016&zoneIsocode=ZAF).
 ![blog1.jpg](/uploads/blog1.jpg)
 
+
 <!--more-->
 
 **What is Project Isizwe?**
