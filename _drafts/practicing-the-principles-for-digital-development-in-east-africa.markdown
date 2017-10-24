@@ -17,21 +17,13 @@ The [Digital Impact Alliance](https://digitalimpactalliance.org/) (DIAL) and the
 The [Principles for Digital Development](https://digitalprinciples.org/) are nine living guidelines designed to help development practitioners integrate best practices into technology-enabled programs. These principles are:
 
 * Design with the user
-
 * Understanding the existing ecosystem
-
 * Design for scale
-
 * Build for sustainability
-
 * Be data-driven
-
 * Use open standards, open data, open source, and open innovation
-
 * Reuse and improve
-
 * Address privacy and security
-
 * Be collaborative
 
 ## Discussed Principles:
