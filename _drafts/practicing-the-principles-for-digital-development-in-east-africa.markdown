@@ -9,7 +9,7 @@ social-image: "/uploads/principles%20photo%202.png"
 
 At the recent [Practicing the Principles for Digital Development](https://www.eventbrite.com/e/practicing-the-principles-for-digital-development-in-east-africa-tickets-37822273438) event on October 12 in Dar es Salaam, Tanzania, 80 participants from organizations including DAI, the Ministry of Works, Transport, and Communications, and private organizations from Ethiopia, Kenya, Malawi, Rwanda, Tanzania, and Uganda attended.
 
-The [Digital Impact Alliance](https://digitalimpactalliance.org/) (DIAL) and the [Human Development Innovation Fund Tanzania](http://www.hdif-tz.org/) (HDIF-UKAid) stewarded the event and were joined by leading organizations in endorsing the Digital Principles, including USAID. DAI is a [signatory to the Principles](https://digitalprinciples.org/endorse/endorsers/).
+The [Digital Impact Alliance](https://digitalimpactalliance.org/) (DIAL) and the [Human Development Innovation Fund Tanzania](http://www.hdif-tz.org/) (HDIF-UKAid) stewarded the event and were joined by leading organizations in endorsing the Digital Principles. DAI is a [signatory to the Principles](https://digitalprinciples.org/endorse/endorsers/).
 
 <!--more-->
 
@@ -53,7 +53,7 @@ Understanding the existing ecosystem is critical to inform how digital developme
 
 ## What is the Future of Digital Development in East Africa?
 
-It has been noted that the combination of all of the principles for digital development’s implementation will accelerate the sustainable future of digital development in East Africa. A slogan used here is: “If you want to go fast, go alone; if you want to far, go together!” 
+It has been noted that the combination of all of the principles for digital development’s implementation will accelerate the sustainable future of digital development in East Africa. A slogan used here is: “If you want to go fast, go alone; if you want to far, go together!”
 
 In Tanzania, internet connectivity is at 40 percent and 80 percent of the population own mobile phones, both promising statistics. The process of moving from paper-based documentation to paperless documentation is ongoing on a fast rate. In the land sector, LTA is a valid example of this initiative of registration of land rights using mobile phones and having the information stored on a centralized database for future use. The scaling up of this project is expected to be adopted in the whole country for registration of land rights in rural areas at very reasonable costs.
 
