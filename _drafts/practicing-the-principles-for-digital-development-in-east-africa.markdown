@@ -55,8 +55,8 @@ Understanding the existing ecosystem is critical to inform how digital developme
 
 It has been noted that the combination of all of the principles for digital development’s implementation will accelerate the sustainable future of digital development in East Africa. A slogan used here is: “If you want to go fast, go alone; if you want to far, go together!” 
 
-In Tanzania, internet connectivity is at 40 percent and 80 percent of the population own mobile phones, both promising statistics. The process of moving from paper based documentation to paperless documentation is ongoing on a fast rate. In the land sector, LTA is a valid example of this initiative of registration of land rights using MAST software in mobile phones and having the information stored on a centralized database for future use of the country. The scaling up of this project is expected to be adopted in the whole country for registration of land rights in rural areas at very reasonable costs.
+In Tanzania, internet connectivity is at 40 percent and 80 percent of the population own mobile phones, both promising statistics. The process of moving from paper-based documentation to paperless documentation is ongoing on a fast rate. In the land sector, LTA is a valid example of this initiative of registration of land rights using mobile phones and having the information stored on a centralized database for future use. The scaling up of this project is expected to be adopted in the whole country for registration of land rights in rural areas at very reasonable costs.
 
-![principles photo 2.png](/uploads/principles%20photo%202.png) `Participants discussing strategies for the future of Digital Development in East Africa`
+![principles photo 2.png](/uploads/principles%20photo%202.png) `Participants discussing strategies for the future of Digital Development in East Africa.`
 
 The [Digital Principles forum](http://forum.digitalprinciples.org) was launched to keep conversation going after the event; you can also log on to connect with fellow digital development practitioners through this interactive platform.
