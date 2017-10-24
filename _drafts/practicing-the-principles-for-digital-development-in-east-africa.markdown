@@ -39,13 +39,13 @@ Participants focused on three principles and will focus on three more December 7
 
 **1. Principle No. 9—Be Collaborative:**
 
-A plenary discussion and interactive group session was done where all the participants had chance to discuss the challenges and successes of how to collaborate across the private and public sectors. Emphasis was on collaborating between donors and partners and the government institutions to be involved in projects so as to meet the desired goals as one team and addressing the challenges and their solutions.
+Participants discussed the challenges and successes of collaborating across the private and public sectors. Special emphasis was placed on collaboration between donors, partners, and government institutions to meet the desired goals as one team.
 
-![principles photo 1.png](/uploads/principles%20photo%201.png) `Be Collaborative Plenary Session panelists`
+![principles photo 1.png](/uploads/principles%20photo%201.png) `Be Collaborative Plenary Session panelists.`
 
-**2. Principle No. 1 - Design with the User:**
+**2. Principle No. 1—Design with the User:**
 
-This session included insightful lightning talks on how organizations have designed with the user in mind. It is crucial to design with the users before implementing programs so as to address the challenges before designing; practitioners must incorporate multiple user types and stakeholders in each phase of the project lifestyle. Examples discussed included land formalization projects like DAI’s USAID-funded [Land Tenure Assistance project](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) where information is being captured using MAST software in mobile phones. Another example was the World Bank’s mapping projects in Tanzania which are using Humanitarian Open Street Map. Our key takeaway was to embrace an iterative process that allows for incorporating feedback and adopting your solutions.
+This session included insightful lightning talks on how organizations design with the user in mind. It is crucial to design projects with the users before implementing programs so as to address the known challenges. Practitioners must incorporate multiple user types and stakeholders in each phase of the project life cycle. Examples discussed included land formalization projects such as DAI’s USAID-funded [Land Tenure Assistance project](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) where information is being captured using mobile phones. Another example was the World Bank’s mapping projects that use [Humanitarian Open Street Map](https://www.hotosm.org/). Our key takeaway was to embrace an iterative process that allows for incorporating feedback and adopting your solutions.
 
 **3. Principle No. 2: Understand the Ecosystem:**
 
