@@ -9,12 +9,12 @@ Author: Chloe Messenger
 social-image: "/uploads/geekfest-59fe5f.jpg"
 ---
 
-![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left} 
+![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
 
-This week we are focusing on Public Access as a solution to closing the Digital Divide. Being able to access free public Wi-Fi can be crucial for those who cannot afford internet subscriptions: it can mean the difference between finally finding that job, getting the training you need or linking up with a valuable investor for your new venture. The [2017 A4AI  Affordability Report](http://a4ai.org/affordability-report/report/2017/) noted the importance of public Wi-Fi for engendering use of the internet: researched showed public Wi-Fi as one of the most popular options for online access.
+This week we are focusing on public access as a solution to closing the Digital Divide. Being able to access free public Wi-Fi can be crucial for those who cannot afford internet subscriptions: it can mean the difference between finally finding that job, getting the training you need or linking up with a valuable investor for your new venture. The [2017 A4AI  Affordability Report](http://a4ai.org/affordability-report/report/2017/) noted the importance of public Wi-Fi for engendering use of the internet: researched showed public Wi-Fi as one of the most popular options for online access.
 
-We hear from Duduzile Mkhwanazi, CEO of [Project Isizwe](http://www.projectisizwe.org/)-  an organisation making great strides in providing free public WiFi in South Africa, a country where inequality is rife and the affordability of mobile data is just out of reach for many, despite [99% 3G coverage](http://www.mobileconnectivityindex.com/#year=2016&zoneIsocode=ZAF). 
+We hear from Duduzile Mkhwanazi, CEO of [Project Isizwe](http://www.projectisizwe.org/)-  an organisation making great strides in providing free public WiFi in South Africa, a country where inequality is rife and the affordability of mobile data is just out of reach for many, despite [99% 3G coverage](http://www.mobileconnectivityindex.com/#year=2016&zoneIsocode=ZAF).
 ![blog1.jpg](/uploads/blog1.jpg)
 
 <!--more-->
@@ -39,9 +39,8 @@ Our challenge is to show that free Wi-Fi can be financially self-sustaining. If 
 In our experience, inter-sector partnerships are vital to bringing connectivity to all. Private-public partnerships in the telecommunications industry have never been as important as they are today. By collaborating, it is possible to speed up the building of infrastructure, and to pool the vast knowledge and experience of public and private agencies: Telecommunications is a fast-paced and ever-changing industry and these partnerships make truly innovative public service projects viable. For our work in particular, municipalities have valuable assets in public locations, high sites and provision of power. They can trade these assets to ensure that free Wi-Fi goes to the citizens who need it the most.  We see municipalities as key stakeholders and beneficiaries but the best drivers to make it succeed are wireless Internet service providers.
 
 **Where is Project Isizwe now and what are your next steps?**
-Presently, we are responsible for the facilitation of the biggest municipal subsidised Wi-Fi network in Africa in the Capital City of South Africa (Tshwane). We have over 1050 hotspots and provide free Wi-Fi to well over a million South African citizens. We also have various smaller projects across South Africa, such as in the Western Cape in the township of Khayelitsha, in Limpopo and other provinces. 
+Presently, we are responsible for the facilitation of the biggest municipal subsidised Wi-Fi network in Africa in the Capital City of South Africa (Tshwane). We have over 1050 hotspots and provide free Wi-Fi to well over a million South African citizens. We also have various smaller projects across South Africa, such as in the Western Cape in the township of Khayelitsha, in Limpopo and other provinces.
 
 Going forward, Project Isizwe will continue to lobby and advocate for Free WiFi, ensuring that citizens living in low income communities across South Africa are not left behind.
 
 *Project Isizwe are running a conference in April 2018 in partnership with key South African government departments to pull municipalities and industry players together to answer ‘how do we sustain free Wi-Fi?’. Stay tuned for details: follow Project Isizwe on [Facebook](https://www.facebook.com/ProjectIsizwe/) or [Twitter](https://twitter.com/ProjectIsizwe)!*
-
