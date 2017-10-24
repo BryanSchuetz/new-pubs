@@ -44,6 +44,6 @@ For our work in particular, municipalities have valuable assets in public locati
 **What Are Your Next Steps?**
 Presently, we are responsible for the facilitation of the biggest municipal subsidised wifi network in Africa in the capital city of South Africa (Tshwane). We have more than 1,050 hotspots and provide free wifi to more than 1 million South African citizens. We also have various smaller projects across South Africa, such as in the Western Cape in the township of Khayelitsha, in Limpopo, and other provinces.
 
-Going forward, Project Isizwe will continue to lobby and advocate for Free WiFi, ensuring that citizens living in low income communities across South Africa are not left behind.
+Going forward, Project Isizwe will continue to lobby and advocate for free wifi, ensuring that citizens living in low income communities across South Africa are not left behind.
 
 *Project Isizwe are running a conference in April 2018 in partnership with key South African government departments to pull municipalities and industry players together to answer ‘how do we sustain free Wi-Fi?’. Stay tuned for details: follow Project Isizwe on [Facebook](https://www.facebook.com/ProjectIsizwe/) or [Twitter](https://twitter.com/ProjectIsizwe)!*
