@@ -37,17 +37,17 @@ The [Principles for Digital Development](https://digitalprinciples.org/) are nin
 
 Participants focused on three principles and will focus on three more December 7 in Washington D.C., while focusing on the final three in Asia at an event to be confirmed. At the Tanzania event, they discussed the following:
 
-**1. Principle No. 9—Be Collaborative**
+**Principle No. 9—Be Collaborative**
 
 Participants discussed the challenges and successes of collaborating across the private and public sectors. Special emphasis was placed on collaboration between donors, partners, and government institutions to meet the desired goals as one team.
 
 ![principles photo 1.png](/uploads/principles%20photo%201.png) `Be Collaborative Plenary Session panelists.`
 
-**2. Principle No. 1—Design with the User**
+**Principle No. 1—Design with the User**
 
 This session included insightful lightning talks on how organizations design with the user in mind. It is crucial to design projects with the users before implementing programs so as to address the known challenges. Practitioners must incorporate multiple user types and stakeholders in each phase of the project life cycle. Examples discussed included land formalization projects such as DAI’s USAID-funded [Land Tenure Assistance project](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) where information is being captured using mobile phones. Another example was the World Bank’s mapping projects that use [Humanitarian Open Street Map](https://www.hotosm.org/). Our key takeaway was to embrace an iterative process that allows for incorporating feedback and adaptation.
 
-**3. Principle No. 2—Understand the Ecosystem**
+**Principle No. 2—Understand the Ecosystem**
 
 Understanding the existing ecosystem is critical to inform how digital development programs are designed, implemented, and monitored. To understand stakeholders in digital ecosystems, we need to engage with target users to ensure that the proposed digital initiative aligns with the existing technological, legal, and regulatory policies. Involvement of community members, local, and central government, donors and other implementing organizations is equally crucial, as is continued monitoring of the ecosystem for changes.
 
