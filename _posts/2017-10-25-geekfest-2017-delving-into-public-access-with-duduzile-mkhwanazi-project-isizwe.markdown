@@ -14,7 +14,9 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
 
 This week we are focusing on public access as a solution to closing the Digital Divide. Being able to access free public wifi can be crucial for those who cannot afford internet subscriptions: It can be the difference between finally finding that job, getting the training you need or linking up with a valuable investor for your new venture. The [2017 A4AI  Affordability Report](http://a4ai.org/affordability-report/report/2017/) noted the importance of public wifi for engendering use of the internet: Research shows public wifi as one of the most popular options for online access.
 
-We sat down with Duduzile Mkhwanazi, CEO of [Project Isizwe](http://www.projectisizwe.org/)-an organization making great strides in providing free public wifi in South Africa, a country where inequality is rife and the affordability of mobile data is just out of reach for many, despite [99 percent 3G coverage](http://www.mobileconnectivityindex.com/#year=2016&zoneIsocode=ZAF).
+We sat down with Duduzile Mkhwanazi, CEO of [Project Isizwe](http://www.projectisizwe.org/)-an organization making great strides in providing free public wifi in South Africa, a country where inequality is rife and the affordability of mobile data is just out of reach for many, despite [99 percent 3G coverage]
+
+(http://www.mobileconnectivityindex.com/#year=2016&zoneIsocode=ZAF).
 ![blog1.jpg](/uploads/blog1.jpg)
 
 
