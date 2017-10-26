@@ -40,6 +40,7 @@ Project Isizwe doesn’t just offer free wifi but also has several value-added s
 **How Do You Ensure Sustainability?**
 Our challenge is to show that free wifi can be financially self-sustaining. If we can prove that our model works, then funders can be assured of ongoing impact and success. We are getting positive financial results using wifi advertising, the content portal, a micro job database subscription, and rental from co-hosting hot spots with LTE providers. Policymakers should stand up and notice the strides free public wifi has taken towards achieving the [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/infrastructure-industrialization/): Providing universal and affordable access to the internet. No one revenue stream will cover the costs of free wifi, but combining revenue streams from diverse sources has great potential.
 ![blog3.jpg](/uploads/blog3.jpg)
+
 **How Can Public-Private Partnerships Increase Impact of Digital Access Programs?**
 In our experience, inter-sector partnerships are vital to bringing connectivity to all. Private-public partnerships in the telecommunications industry have never been as important as they are today. By collaborating, it is possible to speed up the building of infrastructure, and to pool the vast knowledge and experience of public and private agencies. Telecommunications is a fast-paced and ever-changing industry and these partnerships make truly innovative public service projects viable. 
 
