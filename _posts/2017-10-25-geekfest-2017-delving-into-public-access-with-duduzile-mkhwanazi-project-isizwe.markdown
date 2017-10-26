@@ -37,7 +37,7 @@ Providing free wifi is crucial for those who cannot afford regular internet acce
 
 Project Isizwe doesn’t just offer free wifi but also has several value-added services to further the impact of connectivity and promote local content development. For instance, we have signed an Memorandum of Understanding with a school in Durban that is curating learning content for upload on the zero-rated portal. Learners across our network are able to download and use the “Online Peer2Peer Edu videos” for free to supplement their studies and improve skills.
 
-**How Can You Ensure Sustainability?**
+**How Do You Ensure Sustainability?**
 Our challenge is to show that free wifi can be financially self-sustaining. If we can prove that our model works, then project funders can be assured of ongoing impact and success. We are getting positive financial results around using wifi advertising, the content portal, a micro job database subscription, and rental from co-hosting hot spots with LTE providers. Policymakers should stand up and notice the strides free public wifi has taken towards achieving the [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/infrastructure-industrialization/): Providing universal and affordable access to the internet. No one revenue stream will cover the costs of free wifi, but combining revenue streams from diverse sources has great potential.
 ![blog3.jpg](/uploads/blog3.jpg)
 **How Can Public-Private Partnerships Increase Impact of Digital Access Programs?**
