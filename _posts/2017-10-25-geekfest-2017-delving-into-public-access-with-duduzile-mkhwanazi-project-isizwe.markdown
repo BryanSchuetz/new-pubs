@@ -26,7 +26,7 @@ We sat down with Duduzile Mkhwanazi, CEO of [Project Isizwe](http://www.projecti
 **What is Project Isizwe?**
 [Project Isizwe](http://www.mobileconnectivityindex.com/#year=2016&zoneIsocode=ZAF) (Xhosa/Zulu translation for ‘nation,’ ‘tribe,’ ‘people’) is an award-winning nonprofit organization that aims to bring sustainable internet access to people in South Africa, by facilitating the rollout of free wifi in public spaces in low-income communities. We work closely with both public and private sector in deploying high-quality, free wifi networks at the lowest possible cost.
 
-We believe that the best way of addressing the social, economic, and digital inequality is the deployment of wifi hotspots throughout public spaces in low-income communities. Internet access is key to bridging the digital divide and free wifi can go a long way in providing sustainable access is a country where 35 million have either no access or cannot afford access to the internet: That’s two out of every three people! We believe each citizen of Africa should be within a walking distance of free wifi.
+We believe that the best way of addressing social, economic, and digital inequality is the deployment of wifi hotspots throughout public spaces in low-income communities. Internet access is key to bridging the digital divide and free wifi can go a long way in providing sustainable access is a country where 35 million have either no access or cannot afford access to the internet: That’s two out of every three people! We believe each citizen of Africa should be within a walking distance of free wifi.
 ![blog2.jpg](/uploads/blog2.jpg){:.float-left}
 
 **Why is Access so Important?**
