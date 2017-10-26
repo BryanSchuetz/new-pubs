@@ -1,7 +1,7 @@
 ---
 title: 'GeekFest 2017: Delving into Public Access with Duduzile Mkhwanazi of Project
   Isizwe'
-date: 2017-10-20 11:25:00 -04:00
+date: 2017-10-25 11:25:00 -04:00
 tags:
 - Geekfest 2017
 - Digital Inclusion
