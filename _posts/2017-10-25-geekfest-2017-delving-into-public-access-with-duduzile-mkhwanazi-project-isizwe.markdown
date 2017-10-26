@@ -30,7 +30,7 @@ We believe that the best way of addressing social, economic, and digital inequal
 ![blog2.jpg](/uploads/blog2.jpg){:.float-left}
 
 **Why is Access so Important?**
-Let someone take away your smart phone and you fall off the grid for a month or two. How will that impact your personal economy and social inclusion? The world has changed in the advent of the smart phone. If you are not connected now you are trapped in poverty.
+Let someone take away your smart phone and you fall off the grid for a month or two. How will that impact your personal economy and social inclusion? The world has changed with the advent of the smart phone. If you are not connected now, you are trapped in poverty.
 
 **How Do You See Your Projects Having a Positive Economic Impact?**
 Providing free wifi is crucial for those who cannot afford regular internet access, giving them the opportunity to participate in society and improve their economic situation. We have amazing feedback from users relating to how our free wifi got them a job or helped them gain a qualification. Overall, the positive impact of free wifi is way beyond what we imagined. A recent impact study of TshWi-Fi (our initiative in the city of Tshwane) showed that only 28 percent of TshWi-Fi users are employed. Crucially, 73 percent of users said they have used TshWi-Fi to look for a job, and 76 percent have used TshWi-Fi to improve their employability through skills development, showing that free access to the internet is a valuable resource for job-seekers and entrepreneurs. For many, such as those living in temporary accommodation or who are only able to borrow mobiles from friends and relatives, free wifi is not just temporary, but forms a longer-term solution.
