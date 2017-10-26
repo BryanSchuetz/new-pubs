@@ -51,4 +51,4 @@ Presently, we are responsible for the facilitation of the biggest municipal subs
 
 Going forward, Project Isizwe will continue to lobby and advocate for free wifi, ensuring that citizens in low-income communities across South Africa are not left behind.
 
-*Project Isizwe is running a conference in April 2018 in partnership with key South African government departments to pull municipalities and industry players together to answer ‘how do we sustain free wifi?’. Follow Project Isizwe on [Facebook](https://www.facebook.com/ProjectIsizwe/) or [Twitter](https://twitter.com/ProjectIsizwe)!*
+*Project Isizwe is running a conference in April 2018 in partnership with key South African government departments to pull municipalities and industry players together to answer ‘how do we sustain free wifi?’ Follow Project Isizwe on [Facebook](https://www.facebook.com/ProjectIsizwe/) or [Twitter](https://twitter.com/ProjectIsizwe)!*
