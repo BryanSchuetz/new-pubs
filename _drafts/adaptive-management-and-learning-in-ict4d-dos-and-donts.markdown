@@ -20,9 +20,9 @@ Here are eight of our learnings:
 
 ## Don’t!
 
-· **Don’t try to engage audiences the same way.** If you are bringing together different stakeholders from, for example, the tech and NGO communities, you need to understand their habits, when they most want to meet, and how they do business. In Cambodia, most NGOs wanted to meet during the workday, but startups and students wanted to meet after work hours? Be sensitive to that and find a middle ground that works for most.
+· **Don’t try to engage different audiences the same way.** If you are bringing together different stakeholders from, for example, the tech and nongovernmental organization (NGO) communities, you need to understand their habits, when they most want to meet, and how they do business. In Cambodia, most NGOs want to meet during the workday, but startups and students want to meet after work hours. Be sensitive to those differing preferences and find a middle ground that works for most.
 
-· **Don't over-collaborate.** You can spend all your time in meetings, listening, but it is vital that your partners and beneficiaries see you take informed and practical steps to build trust with the people you are working with. If it takes you too long to make an informed decision, your findings may already be out of date.
+· **Don’t over-collaborate.** You can spend all your time in meetings, listening, but it is vital that your partners and beneficiaries see you take informed and practical steps to build trust with the people you are working with. If it takes you too long to make an informed decision, your findings may already be out of date.
 
 · **Don’t be intimidated by the words Collaborate, Learn and Adapt.** As one case competition winner this year said, you are likely already employing some of these processes in your everyday strategic planning and execution, you just might not call it that.
 
