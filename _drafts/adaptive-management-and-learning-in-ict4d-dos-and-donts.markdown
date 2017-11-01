@@ -7,7 +7,7 @@ date: 2017-11-01 10:15:00 -04:00
 
 We were recently selected as one of 10 winners of the [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia), run by USAID’s Learning Lab. Here are eight of our learnings:
 
-Don’t!
+## Don’t!
 
 · **Don’t try to engage audiences the same way.** If you are bringing together different stakeholders from, for example, the tech and NGO communities, you need to understand their habits, when they most want to meet, and how they do business. In Cambodia, most NGOs wanted to meet during the workday, but startups and students wanted to meet after work hours? Be sensitive to that and find a middle ground that works for most.
 
@@ -17,7 +17,7 @@ Don’t!
 
 · **Don’t overcomplicate your CLA processes.** Track learnings, communicate them back to your team and partners, and be honest about what is working and not working. We use a very simple set of questions to guide the discussion and hold a one hour after action review following each event or the end of each partnership. Ideally, we get a short glimpse of what fell apart and what exceeded our expectations. Make sure to bring everyone in on that conversation, not just managers. Sometimes you get the best insights from new staff, drivers on field trips, or partners that aren’t from the industry at all.
 
-Do!
+## Do!
 
 · **Communicate with purpose**. If you want people to collaborate and work with you, report out on what you are doing in a simple language. Today’s development projects must work with new media – not just the old way of putting out a success story once a quarter and never collecting insights about how people engaged with it. That means you can’t just use buzzwords to document your lessons or bring people along with your activities. We found a blog and nightly e newsletters very effective to reduce e waste (we only contact you once a month, but you can go back and look at archives). Understand the difference between your audiences and craft the right messages for each age group if you want it to stick with them.
 
