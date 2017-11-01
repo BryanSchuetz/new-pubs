@@ -15,7 +15,7 @@ thumbnail: "/uploads/DIblogimage%20resized.jpg"
 
 <!--more-->
 
-![DIblogimage resized.jpg](/uploads/DIblogimage%20resized.jpg)
+![DIblogimage resized.jpg](/uploads/DIblogimage%20resized.jpg)`Photo from Development Innovations Cambodia`
 
 Putting our flexibility to the test, we entered a USAID Learning Lab [Collaborate, Learn, Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia)—and were selected as one of 10 winners!
 
