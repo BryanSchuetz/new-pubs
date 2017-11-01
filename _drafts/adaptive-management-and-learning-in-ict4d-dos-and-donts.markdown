@@ -26,7 +26,7 @@ Here are eight of our learnings:
 
 · **Don’t be intimidated by the words collaborate, learn, and adapt (CLA).** As one case competition winner this year said, you are likely already employing some of these processes in your everyday strategic planning and execution, you just might not call it that.
 
-· **Don’t overcomplicate your CLA processes.** Track learnings, communicate them back to your team and partners, and be honest about what is working and not working. We use a very simple set of questions to guide the discussion and hold a one hour after action review following each event or the end of each partnership. Ideally, we get a short glimpse of what fell apart and what exceeded our expectations. Make sure to bring everyone in on that conversation, not just managers. Sometimes you get the best insights from new staff, drivers on field trips, or partners that aren’t from the industry at all.
+· **Don’t overcomplicate your CLA processes.** Track learnings, communicate them back to your team and partners, and be honest about what is working and not working. We use a very simple set of questions to guide the discussion and hold a one-hour, after-action review following each event or conclusion of partnerships. Ideally, we get a short glimpse of what fell apart and what exceeded our expectations. Make sure to bring everyone in on that conversation, not just managers. Sometimes you get the best insights from new staff, drivers on field trips, or partners that aren’t from the industry at all.
 
 ## Do!
 
