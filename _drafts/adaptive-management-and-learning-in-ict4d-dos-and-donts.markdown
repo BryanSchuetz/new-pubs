@@ -1,5 +1,5 @@
 ---
-title: Do’s and Don’ts in Adaptive Management and Learning in ICT4D
+title: 8 Do’s and Don’ts in Adaptive Management and Learning in ICT4D
 date: 2017-11-01 10:15:00 -04:00
 tags:
 - Innovation
@@ -14,7 +14,9 @@ social-image: "/uploads/DIblogimage%20resized.jpg"
 
 ![DIblogimage resized.jpg](/uploads/DIblogimage%20resized.jpg)
 
-Putting our learnings to the test, e were recently selected as one of 10 winners of the [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia), run by USAID’s Learning Lab. Here are eight of our learnings:
+Putting our flexibility to the test, we entered a USAID Learning Lab [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia)—and were recently selected as one of 10 winners! 
+
+Here are eight of our learnings:
 
 ## Don’t!
 
