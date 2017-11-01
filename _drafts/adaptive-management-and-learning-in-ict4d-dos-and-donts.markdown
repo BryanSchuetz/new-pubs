@@ -1,6 +1,9 @@
 ---
 title: Adaptive Management and Learning in ICT4D – Do’s and Don’ts
 date: 2017-11-01 10:15:00 -04:00
+tags:
+- Innovation
+- Data
 Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
 social-image: "/uploads/DIblogimage%20resized.jpg"
 ---
