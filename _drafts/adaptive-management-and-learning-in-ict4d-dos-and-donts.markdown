@@ -10,11 +10,11 @@ social-image: "/uploads/DIblogimage%20resized.jpg"
 
 *This is a guest post by [Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler), Chief of Party of DAI’s USAID-funded Cambodia Development Innovations project.*
 
-[Development Innovations](http://www.development-innovations.org/) supports innovators and boosts the use of information and communication technologies for the overall development of Cambodia. The project is structured to be flexible and adaptive—because we need to. Really, most creative development programs should build themselves to be learning organizations, to be ready for big pivots, regardless if you and your partners use digital innovations. The development world is regularly disrupted—by political changes, natural disasters, new technologies such as social media—and is no longer built for static, five-year plans. Donors and funders need partners that can learn by doing, and are not afraid to adapt strategies and implementation plans to continually improve.
+[Development Innovations](http://www.development-innovations.org/) supports innovators and boosts the use of information and communication technologies for the overall development of Cambodia. The project is structured to be flexible and adaptive—because we need to. Really, most creative development programs *should* build themselves to be learning organizations, to be ready for big pivots, regardless if you and your partners use digital innovations. The development world is regularly disrupted—by political changes, natural disasters, new technologies such as social media—and is no longer built for static, five-year plans. Donors and funders need partners that can learn by doing, and are not afraid to adapt strategies and implementation plans to continually improve.
 
 ![DIblogimage resized.jpg](/uploads/DIblogimage%20resized.jpg)
 
-Putting our flexibility to the test, we entered a USAID Learning Lab [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia)—and were recently selected as one of 10 winners! 
+Putting our flexibility to the test, we entered a USAID Learning Lab [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia)—and were recently selected as one of 10 winners!
 
 Here are eight of our learnings:
 
