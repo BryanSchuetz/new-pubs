@@ -14,7 +14,7 @@ social-image: "/uploads/DIblogimage%20resized.jpg"
 
 ![DIblogimage resized.jpg](/uploads/DIblogimage%20resized.jpg)
 
-Putting our flexibility to the test, we entered a USAID Learning Lab [Collaborate, Learn, Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia)—and were recently selected as one of 10 winners!
+Putting our flexibility to the test, we entered a USAID Learning Lab [Collaborate, Learn, Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia)—and were selected as one of 10 winners!
 
 Here are eight of our learnings:
 
