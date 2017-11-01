@@ -14,7 +14,7 @@ social-image: "/uploads/DIblogimage%20resized.jpg"
 
 ![DIblogimage resized.jpg](/uploads/DIblogimage%20resized.jpg)
 
-We were recently selected as one of 10 winners of the [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia), run by USAID’s Learning Lab. Here are eight of our learnings:
+Putting our learnings to the test, e were recently selected as one of 10 winners of the [Collaborate. Learn. Adapt Case Competition](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia), run by USAID’s Learning Lab. Here are eight of our learnings:
 
 ## Don’t!
 
