@@ -24,7 +24,7 @@ Here are eight of our learnings:
 
 · **Don’t over-collaborate.** You can spend all your time in meetings, listening, but it is vital that your partners and beneficiaries see you take informed and practical steps to build trust with the people you are working with. If it takes you too long to make an informed decision, your findings may already be out of date.
 
-· **Don’t be intimidated by the words collaborate, learn, and adapt.** As one case competition winner this year said, you are likely already employing some of these processes in your everyday strategic planning and execution, you just might not call it that.
+· **Don’t be intimidated by the words collaborate, learn, and adapt (CLA).** As one case competition winner this year said, you are likely already employing some of these processes in your everyday strategic planning and execution, you just might not call it that.
 
 · **Don’t overcomplicate your CLA processes.** Track learnings, communicate them back to your team and partners, and be honest about what is working and not working. We use a very simple set of questions to guide the discussion and hold a one hour after action review following each event or the end of each partnership. Ideally, we get a short glimpse of what fell apart and what exceeded our expectations. Make sure to bring everyone in on that conversation, not just managers. Sometimes you get the best insights from new staff, drivers on field trips, or partners that aren’t from the industry at all.
 
