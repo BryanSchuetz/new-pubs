@@ -1,5 +1,5 @@
 ---
-title: Adaptive Management and Learning in ICT4D – Do’s and Don’ts
+title: Do’s and Don’ts in Adaptive Management and Learning in ICT4D
 date: 2017-11-01 10:15:00 -04:00
 tags:
 - Innovation
@@ -8,7 +8,7 @@ Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
 social-image: "/uploads/DIblogimage%20resized.jpg"
 ---
 
-*This is a guest post by Kate Heuisler, Chief of Party of DAI's USAID-funded Development Innovations project*
+*This is a guest post by [Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler), Chief of Party of DAI’s USAID-funded Cambodia Development Innovations project.*
 
 [Development Innovations](http://www.development-innovations.org/) is a project working to support innovators and boost the use of information and communication technologies for the development of Cambodia. We are built to adapt, because we need to. In truth, most creative development programs should build themselves to be learning organizations and ready for big pivots, whether or not you and your partners use digital innovations. The development world is regularly disrupted – by political changes, by natural disasters, by the introduction of a new technology like social media – and is no longer built for static, five year plans. Donors and funders want partners that are built to learn by doing, and know how to adapt strategies and implementation plans to continually improve.
 
