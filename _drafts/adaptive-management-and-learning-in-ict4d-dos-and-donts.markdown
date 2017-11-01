@@ -30,7 +30,7 @@ Here are eight of our learnings:
 
 ## Do!
 
-· **Communicate with purpose**. If you want people to collaborate and work with you, report out on what you are doing in a simple language. Today’s development projects must work with new media – not just the old way of putting out a success story once a quarter and never collecting insights about how people engaged with it. That means you can’t just use buzzwords to document your lessons or bring people along with your activities. We found a blog and nightly e newsletters very effective to reduce e waste (we only contact you once a month, but you can go back and look at archives). Understand the difference between your audiences and craft the right messages for each age group if you want it to stick with them.
+· **Communicate with purpose**. If you want people to collaborate and work with you, report out on what you are doing in simple language. Today’s development projects must work with new media – not just the old way of putting out a success story once a quarter and never collecting insights about how people engaged with it. That means you can’t just use buzzwords to document your lessons or bring people along with your activities. We found a blog and nightly e newsletters very effective to reduce e waste (we only contact you once a month, but you can go back and look at archives). Understand the difference between your audiences and craft the right messages for each age group if you want it to stick with them.
 
 · **Listen – and study digital insights.** Be a marketer - put yourself in your client's or partner's shoes. What do they want to hear instead of what you want to tell them? Study their digital behavior with insight data and see how you can adapt and respond with new content.
 
