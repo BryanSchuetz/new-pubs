@@ -10,6 +10,10 @@ thumbnail: "/uploads/dashboards.png"
 
 I distinctly remember an early conversation with colleagues when I began working in digital development in which a peer dismissively waved his hand at the idea of implementing a live data dashboard, saying “A dashboard is a dashboard is a dashboard!”. The finality of that line stuck with me. I assumed that the dismissal from a place that was bored with dashboards, like a kid who opened his birthday present to find that it had received ANOTHER dashboard, just one that was different. Well, interactive data dashboards–just like automobile dashboards–may not be the newest, hottest, shiniest thing in the ICT4D toolbox, but they’re still important and their often hidden values go unappreciated by many.
 
+![dashboards-81776e.png](/uploads/dashboards-81776e.png)
+
+<!--more-->
+
 Everyone knows by now that data is the new oil (as we said in [our previous posts](https://dai-global-digital.com/tags/?tag=data-management-series)) – a resource of stupendous potential. Most of us have seen visualizations from the mundane to the eye-popping and have heard phrases like “bring your data to life” and “tell vivid stories”. But being able to SEE how many people attended trainings that we held in 2015 using bright colors is only the tip of the ice-berg when it comes to what dashboarding can do for a project. That’s why I thought I would sum up a few of the lesser known, behind-the-scenes benefits of building live data dashboards:
 
 1. **They force everyone to focus on a project’s data**
