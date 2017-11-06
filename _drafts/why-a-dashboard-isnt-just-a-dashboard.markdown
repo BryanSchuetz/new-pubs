@@ -8,7 +8,7 @@ social-image: "/uploads/dashboards.png"
 thumbnail: "/uploads/dashboards.png"
 ---
 
-I distinctly remember an early conversation with colleagues when I began working in digital development in which a peer dismissively waved his hand at the idea of implementing a live data dashboard, saying “A dashboard is a dashboard is a dashboard!”. The finality of that line stuck with me. I assumed that the dismissal from a place that was bored with dashboards, like a kid who opened his birthday present to find that it had received ANOTHER dashboard, just one that was different. Well, interactive data dashboards–just like automobile dashboards–may not be the newest, hottest, shiniest thing in the ICT4D toolbox, but they’re still important and their often hidden values go unappreciated by many.
+I distinctly remember an early conversation with colleagues when I began working in digital development in which a peer dismissively waved his hand at the idea of implementing a live data dashboard, saying “A dashboard is a dashboard is a dashboard!” The finality of that line stuck with me. I assumed that the dismissal came from a person who was bored with dashboards, like a kid who opens a birthday present to find he has received yet ANOTHER dashboard. Well, interactive data dashboards—just like automobile dashboards—may not be the newest, hottest, shiniest thing in the ICT4D toolbox, but they’re still important and their often hidden values go unappreciated by many.
 
 ![dashboards-81776e.png](/uploads/dashboards-81776e.png)
 
