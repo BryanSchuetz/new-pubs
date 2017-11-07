@@ -1,7 +1,7 @@
 ---
 title: Greg Maly
 date: 2017-07-12 15:00:00 -04:00
-Job: Data Scientist & Technical Solutions Engineer
+Job: Data Scientist
 Image: "/uploads/Bio%20Image.jpg"
 ---
 
