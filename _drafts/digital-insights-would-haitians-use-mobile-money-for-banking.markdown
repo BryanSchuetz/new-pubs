@@ -24,6 +24,11 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 1. People still rely largely on traditional media sources for their news (Radio and Television), but are active mobile phone users. 98% of all people owning a mobile phone, and 72% of them owning smartphones – a somewhat surprisingly high number. Haitian credit union customers also proved to be prolific messengers, sending an average of just under 80 messages using various platforms on their mobile phones per day, with Facebook and WhatsApp dominating the landscape of smartphone apps used for communication purposes.\
    \
    <script id="infogram_0_88ca6b05-89a9-4b1b-9c58-fbc6491168dc" title="Haiti Mobile Phone Data" src="https://e.infogram.com/js/dist/embed.js?hvq" type="text/javascript"></script>\
-   \
 
-2. 
+2. People have a high level of confidence in credit unions as trustworthy financial institutions and are happy with the services they offer, but are often frustrated with the perceived inefficiencies of some of those services. The services that people regularly visit their credit union branches for are overwhelmingly simple transactions that could be automated with mobile technology to eliminate the need to travel to credit union branches and wait in long lines. \
+   \
+   <script id="infogram_0_614957aa-23e0-4d92-83c4-939587fa0342" title="Haiti Credit Union Satisfaction" src="https://e.infogram.com/js/dist/embed.js?prM" type="text/javascript"></script>\
+   \
+   <script id="infogram_0_0d5cb8bc-b4a8-4ee9-814b-032632ada8b4" title="" src="https://e.infogram.com/js/dist/embed.js?Rsy" type="text/javascript"></script>\
+
+3. 
