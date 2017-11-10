@@ -43,10 +43,10 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
    It turns out that among the 68 percent of credit union customers that do not have their own mobile money account, the leading barriers to adoption are a lack of understanding of the products on the market, and a significant level of mistrust of mobile network operators.
 
-   <script id="infogram_0_3ed6d83e-8947-48ef-90a3-2d10d1481b6f" title="Why don&amp;#39;t you open a mobile money account?" src="https://e.infogram.com/js/dist/embed.js?2AM" type="text/javascript"></script>\\
+   <script id="infogram_0_3ed6d83e-8947-48ef-90a3-2d10d1481b6f" title="Why don&amp;#39;t you open a mobile money account?" src="https://e.infogram.com/js/dist/embed.js?2AM" type="text/javascript"></script>
 
-4. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications. questions.\
-   \
+4. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications. questions.
+
    <script id="infogram_0_668201ed-9d2a-4894-bee2-7be654a0c468" title="" src="https://e.infogram.com/js/dist/embed.js?x0N" type="text/javascript"></script>
 
    Overall, we learned Haitian credit union customers, despite being relatively technologically savvy, had a lack of understanding for mobile money products, the services they offer, and the way that they work that prevents them from making use of mobile money services. However attitudes towards such platforms overall were very positive and people were explicitly open to and often even excited about the prospect of using mobile money for financial transactions to avoid some of the inefficiencies and security concerns of banking in person. All this points to a conclusion that mobile money as a vehicle for credit union service offerings holds significant potential, but would likely only work with a fundamental digital literacy push among credit union customers to ensure that the platforms are used correctly and customers do not become disenchanted.
