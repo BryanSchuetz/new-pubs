@@ -39,15 +39,16 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
    \
    <script id="infogram_0_e405790f-0392-4bd8-99aa-4a699a10d021" title="Haiti Mobile Money Awareness" src="https://e.infogram.com/js/dist/embed.js?bpS" type="text/javascript"></script>\
    \
-   <script id="infogram_0_131e8712-e9bd-4e55-a63d-1109da8f756a" title="Haiti Mobile Money advantages" src="https://e.infogram.com/js/dist/embed.js?F75" type="text/javascript"></script>\
-   \
+   <script id="infogram_0_131e8712-e9bd-4e55-a63d-1109da8f756a" title="Haiti Mobile Money advantages" src="https://e.infogram.com/js/dist/embed.js?F75" type="text/javascript"></script>
+
    It turns out that among the 68 percent of credit union customers that do not have their own mobile money account, the leading barriers to adoption are a lack of understanding of the products on the market, and a significant level of mistrust of mobile network operators.\
    \
    <script id="infogram_0_3ed6d83e-8947-48ef-90a3-2d10d1481b6f" title="Why don&amp;#39;t you open a mobile money account?" src="https://e.infogram.com/js/dist/embed.js?2AM" type="text/javascript"></script>\\
 
 4. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications. questions.\
    \
-   <script id="infogram_0_668201ed-9d2a-4894-bee2-7be654a0c468" title="" src="https://e.infogram.com/js/dist/embed.js?x0N" type="text/javascript"></script>\
+   <script id="infogram_0_668201ed-9d2a-4894-bee2-7be654a0c468" title="" src="https://e.infogram.com/js/dist/embed.js?x0N" type="text/javascript"></script>
+
    Overall, we learned Haitian credit union customers, despite being relatively technologically savvy, had a lack of understanding for mobile money products, the services they offer, and the way that they work that prevents them from making use of mobile money services. However attitudes towards such platforms overall were very positive and people were explicitly open to and often even excited about the prospect of using mobile money for financial transactions to avoid some of the inefficiencies and security concerns of banking in person. All this points to a conclusion that mobile money as a vehicle for credit union service offerings holds significant potential, but would likely only work with a fundamental digital literacy push among credit union customers to ensure that the platforms are used correctly and customers do not become disenchanted.
 
    For a more detailed summary of results and an interactive dashboard encompassing all of the data collected during this digital insights exercise, please visit [this link](http://bit.ly/2hh1Xau) for our report and [this link ](https://app.powerbi.com/view?r=eyJrIjoiNTM4OTE5ODItZDc5Ny00NmFkLWE1ZWEtMjBiZmQ5NjRkMDE0IiwidCI6IjcxMDcxMTNkLWUyMGItNGMyMC1hNGNlLTU1M2NhYmJmNjg2ZCIsImMiOjN9)for web access to the interactive dashboard.
