@@ -25,24 +25,24 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
 ## The Findings:
 
-1. People still rely largely on traditional media sources for their news (Radio and Television), but are active mobile phone users. 98% of all people owning a mobile phone, and 72% of them owning smartphones – a somewhat surprisingly high number. Haitian credit union customers also proved to be prolific messengers, sending an average of just under 80 messages using various platforms on their mobile phones per day, with Facebook and WhatsApp dominating the landscape of smartphone apps used for communication purposes.\
-   \
+1. People still rely largely on traditional media sources for their news (Radio and Television), but are active mobile phone users. 98% of all people owning a mobile phone, and 72% of them owning smartphones – a somewhat surprisingly high number. Haitian credit union customers also proved to be prolific messengers, sending an average of just under 80 messages using various platforms on their mobile phones per day, with Facebook and WhatsApp dominating the landscape of smartphone apps used for communication purposes.
+
    <script id="infogram_0_88ca6b05-89a9-4b1b-9c58-fbc6491168dc" title="Haiti Mobile Phone Data" src="https://e.infogram.com/js/dist/embed.js?hvq" type="text/javascript"></script>\\
 
-2. People have a high level of confidence in credit unions as trustworthy financial institutions and are happy with the services they offer, but are often frustrated with the perceived inefficiencies of some of those services. The services that people regularly visit their credit union branches for are overwhelmingly simple transactions that could be automated with mobile technology to eliminate the need to travel to credit union branches and wait in long lines. \
-   \
-   <script id="infogram_0_614957aa-23e0-4d92-83c4-939587fa0342" title="Haiti Credit Union Satisfaction" src="https://e.infogram.com/js/dist/embed.js?prM" type="text/javascript"></script>\
-   \
+2. People have a high level of confidence in credit unions as trustworthy financial institutions and are happy with the services they offer, but are often frustrated with the perceived inefficiencies of some of those services. The services that people regularly visit their credit union branches for are overwhelmingly simple transactions that could be automated with mobile technology to eliminate the need to travel to credit union branches and wait in long lines
+
+   <script id="infogram_0_614957aa-23e0-4d92-83c4-939587fa0342" title="Haiti Credit Union Satisfaction" src="https://e.infogram.com/js/dist/embed.js?prM" type="text/javascript"></script>
+
    <script id="infogram_0_0d5cb8bc-b4a8-4ee9-814b-032632ada8b4" title="" src="https://e.infogram.com/js/dist/embed.js?Rsy" type="text/javascript"></script>\\
 
 3. People have a basic awareness of mobile money products available on the market and generally have a positive attitude towards the concept of mobile money as a service. However, their understanding of how mobile money works and how to use it is limited, and a general lack of trust of network operators hinders people in using mobile money by opening their own accounts. At first pass, it seemed that a significant number of people felt as though they didn’t see the value in having their own mobile money account, yet when we asked deeper questions, more often than not it turned out that people didn’t really understand what they could do with their own account. Some people even left after our interview only to come back minutes later saying they had given it some though and they would like us to help them open an account! Furthermore, the value of mobile money for executing remote transactions is undeniable, as we observed that among many of those who don’t have their own mobile money account, people simply used third parties as a workaround to transfer money using mobile wallets.\
    \
-   <script id="infogram_0_e405790f-0392-4bd8-99aa-4a699a10d021" title="Haiti Mobile Money Awareness" src="https://e.infogram.com/js/dist/embed.js?bpS" type="text/javascript"></script>\
-   \
+   <script id="infogram_0_e405790f-0392-4bd8-99aa-4a699a10d021" title="Haiti Mobile Money Awareness" src="https://e.infogram.com/js/dist/embed.js?bpS" type="text/javascript"></script>
+
    <script id="infogram_0_131e8712-e9bd-4e55-a63d-1109da8f756a" title="Haiti Mobile Money advantages" src="https://e.infogram.com/js/dist/embed.js?F75" type="text/javascript"></script>
 
-   It turns out that among the 68 percent of credit union customers that do not have their own mobile money account, the leading barriers to adoption are a lack of understanding of the products on the market, and a significant level of mistrust of mobile network operators.\
-   \
+   It turns out that among the 68 percent of credit union customers that do not have their own mobile money account, the leading barriers to adoption are a lack of understanding of the products on the market, and a significant level of mistrust of mobile network operators.
+
    <script id="infogram_0_3ed6d83e-8947-48ef-90a3-2d10d1481b6f" title="Why don&amp;#39;t you open a mobile money account?" src="https://e.infogram.com/js/dist/embed.js?2AM" type="text/javascript"></script>\\
 
 4. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications. questions.\
