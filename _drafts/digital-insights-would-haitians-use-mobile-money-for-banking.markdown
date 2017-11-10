@@ -16,3 +16,14 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 ## The numbers:
 
 ![numbers.png](/uploads/numbers.png)
+
+![avg age-57a6a6.png](/uploads/avg%20age-57a6a6.png)
+
+## The Findings:
+
+1. People still rely largely on traditional media sources for their news (Radio and Television), but are active mobile phone users. 98% of all people owning a mobile phone, and 72% of them owning smartphones – a somewhat surprisingly high number. Haitian credit union customers also proved to be prolific messengers, sending an average of just under 80 messages using various platforms on their mobile phones per day, with Facebook and WhatsApp dominating the landscape of smartphone apps used for communication purposes.\
+   \
+   <script id="infogram_0_88ca6b05-89a9-4b1b-9c58-fbc6491168dc" title="Haiti Mobile Phone Data" src="https://e.infogram.com/js/dist/embed.js?hvq" type="text/javascript"></script>\
+   \
+
+2. 
