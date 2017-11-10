@@ -10,3 +10,9 @@ In late September, I traveled to Haiti to develop a picture of how some Haitians
 ![photo.png](/uploads/photo.png)
 
 \`The DAI team interviewed 181 Haitian credit union customers in 9 different locations, meeting people were they were going about their business utilizing credit union services.\`
+
+The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in other countries, but focused specifically on exploring how mobile technology might play a role in overcoming some of the constraints that credit union customers are facing in accessing financial services. The goal was to determine whether mobile technology could be a viable instrument for financial service providers to better serve lower tier markets. To that end, we targeted credit union customers across multiple locations in Haiti to find out how they interact with financial institutions and mobile technology, and what their attitudes towards potential mobile banking products might be.
+
+## The numbers:
+
+![numbers.png](/uploads/numbers.png)
