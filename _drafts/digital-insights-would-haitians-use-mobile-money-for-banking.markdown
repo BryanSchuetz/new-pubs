@@ -7,15 +7,15 @@ Author: Karim Bin-Humam
 social-image: "/uploads/haiti.jpg"
 ---
 
-In late September, I traveled to Haiti to conduct research on how Haitians engage with financial institutions and mobile technology to explore the feasibility of introducing mobile money as an avenue for the provision of financial services. Together with the team from the [USAID/Haiti Finance Inclusive project](https://www.dai.com/our-work/projects/haiti-finance-inclusive-fininc), implemented by DAI, and with support from our sister USAID/Haiti project Finance Pour Tous and two key credit unions – [Caisse Populaire Fraternite (CPF)](https://www.facebook.com/CPFRATERNITE/) and Socolavim – I traveled to nine locations through the North and Central departments of the country to interview 181 credit union customers as they went about their business at credit union branches.
+In late September, I traveled to Haiti to conduct research on how Haitians engage with financial institutions and mobile technology to explore the feasibility of introducing mobile money as an avenue for the provision of financial services. Together with the team from the [USAID/Haiti Finance Inclusive project](https://www.dai.com/our-work/projects/haiti-finance-inclusive-fininc), implemented by DAI, and with support from our sister USAID/Haiti project Finance Pour Tous and two key credit unions—[Caisse Populaire Fraternite (CPF)](https://www.facebook.com/CPFRATERNITE/) and Socolavim—I visited nine locations through the northern and central provinces of the country to interview 181 credit union customers as they went about their business.
 
 <!--more-->
 
 ![photo.png](/uploads/photo.png)
 
-`The DAI team interviewed 181 Haitian credit union customers in 9 different locations, meeting people were they were going about their business utilizing credit union services.`
+`The DAI team interviewed 181 Haitian credit union customers in nine different locations.`
 
-The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in other countries, but focused specifically on exploring how mobile technology might play a role in overcoming some of the constraints that credit union customers are facing in accessing financial services. The goal was to determine whether mobile technology could be a viable instrument for financial service providers to better serve lower tier markets. To that end, we targeted credit union customers across multiple locations in Haiti to find out how they interact with financial institutions and mobile technology, and what their attitudes towards potential mobile banking products might be.
+The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in other countries, but focused specifically on exploring how mobile technology might play a role in overcoming some of the constraints credit union customers face in accessing financial services. The goal was to determine whether mobile technology could be a viable instrument for financial service providers to better serve lower-tier markets. To that end, we targeted credit union customers across multiple locations in Haiti to find out how they interact with financial institutions and mobile technology, and what their attitudes towards potential mobile banking products might be.
 
 ## The numbers:
 
@@ -25,17 +25,17 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
 ## The Findings:
 
-1. People still rely largely on traditional media sources for their news (radio and television), but are active mobile phone users. 98% of interviewees owned a mobile phone, and 72% of owned smartphones – a surprisingly high number. Haitian credit union customers also proved to be prolific messengers, sending an average of just under 80 messages using various platforms on their mobile phones per day, with Facebook and WhatsApp dominating the landscape of smartphone apps used for communication purposes.
+1. People still rely largely on traditional media sources (radio and television) for their news, but are active mobile phone users. Ninety-eight percent of interviewees own a mobile phone and 72 percent own smartphones—a surprisingly high number. Haitian credit union customers also proved to be prolific messengers, sending an average of nearly 80 messages using various platforms on their mobile phones per day, with Facebook and WhatsApp dominating the landscape of apps used to communicate.
 
    <script id="infogram_0_88ca6b05-89a9-4b1b-9c58-fbc6491168dc" title="Haiti Mobile Phone Data" src="https://e.infogram.com/js/dist/embed.js?hvq" type="text/javascript"></script>
 
-2. People have a high level of confidence in credit unions as trustworthy financial institutions and are happy with the services they offer, but are often frustrated with the perceived inefficiencies of some of those services. This offers a significant opportunity for services like mobile money to save them time: the services that people regularly visit their credit union branches for are overwhelmingly simple transactions that could be automated with mobile technology to eliminate the need to travel to credit union branches and wait in long lines.
+2. People have a high level of confidence in credit unions as trustworthy financial institutions and are happy with the services they offer, but are also often frustrated with the perceived inefficiencies of some of those services. This offers a significant opportunity for services such as mobile money to save time: the services that people regularly visit their credit union branches for are overwhelmingly simple transactions that could be automated with mobile technology to eliminate the need to travel to credit union branches and wait in long lines.
 
    <script id="infogram_0_614957aa-23e0-4d92-83c4-939587fa0342" title="Haiti Credit Union Satisfaction" src="https://e.infogram.com/js/dist/embed.js?prM" type="text/javascript"></script>
 
    <script id="infogram_0_0d5cb8bc-b4a8-4ee9-814b-032632ada8b4" title="" src="https://e.infogram.com/js/dist/embed.js?Rsy" type="text/javascript"></script>
 
-3. People have a basic awareness of mobile money products available on the market and generally have a positive attitude towards the concept of mobile money as a service. However, their understanding of how mobile money works and how to use it is limited, and a general lack of trust of network operators hinders people from opening mobile money accounts. At first pass, it seemed that a significant number of people felt as though they didn’t see the value in having their own mobile money account, yet when we dug into this specific issue, more often than not it turned out that people didn’t really understand what they could do with their own account. Some people even left after our interview only to come back minutes later saying they had given it some though and they would like us to help them open an account!
+3. People have a basic awareness of mobile money products and generally have a positive attitude towards the concept. However, their understanding of how mobile money works and how to use it is limited, and a general lack of trust of network operators hinders people from opening mobile money accounts. At first pass, it seemed that a significant number of people don’t see the value in having their own mobile money account. Yet, when we dug into this specific issue, more often than not it turned out that people didn’t really understand what they could do with their own account. Some people even left after our interview only to come back minutes later saying they had given it some thought and they would like us to help them open an account!
 
 Furthermore, the value of mobile money for executing remote transactions is undeniable, as we observed that among many of those who don’t have their own mobile money account, people simply used third parties as a workaround to transfer money using mobile wallets.
 
