@@ -33,12 +33,12 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
    <script id="infogram_0_614957aa-23e0-4d92-83c4-939587fa0342" title="Haiti Credit Union Satisfaction" src="https://e.infogram.com/js/dist/embed.js?prM" type="text/javascript"></script>
 
-   <script id="infogram_0_0d5cb8bc-b4a8-4ee9-814b-032632ada8b4" title="" src="https://e.infogram.com/js/dist/embed.js?Rsy" type="text/javascript"></script>\\
+   <script id="infogram_0_0d5cb8bc-b4a8-4ee9-814b-032632ada8b4" title="" src="https://e.infogram.com/js/dist/embed.js?Rsy" type="text/javascript"></script>
 
 3. People have a basic awareness of mobile money products available on the market and generally have a positive attitude towards the concept of mobile money as a service. However, their understanding of how mobile money works and how to use it is limited, and a general lack of trust of network operators hinders people from opening mobile money accounts. At first pass, it seemed that a significant number of people felt as though they didn’t see the value in having their own mobile money account, yet when we dug into this specific issue, more often than not it turned out that people didn’t really understand what they could do with their own account. Some people even left after our interview only to come back minutes later saying they had given it some though and they would like us to help them open an account!
 
-Furthermore, the value of mobile money for executing remote transactions is undeniable, as we observed that among many of those who don’t have their own mobile money account, people simply used third parties as a workaround to transfer money using mobile wallets.\
-\
+Furthermore, the value of mobile money for executing remote transactions is undeniable, as we observed that among many of those who don’t have their own mobile money account, people simply used third parties as a workaround to transfer money using mobile wallets.
+
 <script id="infogram_0_e405790f-0392-4bd8-99aa-4a699a10d021" title="Haiti Mobile Money Awareness" src="https://e.infogram.com/js/dist/embed.js?bpS" type="text/javascript"></script>
 
 <script id="infogram_0_131e8712-e9bd-4e55-a63d-1109da8f756a" title="Haiti Mobile Money advantages" src="https://e.infogram.com/js/dist/embed.js?F75" type="text/javascript"></script>
