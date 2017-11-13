@@ -3,6 +3,7 @@ title: 'Digital Insights: Would Haitians use Mobile Money for Banking?'
 date: 2017-11-10 09:21:00 -05:00
 tags:
 - Digital Insights
+- Digital Financial Services
 Author: Karim Bin-Humam
 social-image: "/uploads/haiti.jpg"
 ---
@@ -43,14 +44,14 @@ Furthermore, the value of mobile money for executing remote transactions is unde
 
 <script id="infogram_0_131e8712-e9bd-4e55-a63d-1109da8f756a" title="Haiti Mobile Money advantages" src="https://e.infogram.com/js/dist/embed.js?F75" type="text/javascript"></script>
 
-It turns out that among the 68 percent of credit union customers that do not have their own mobile money account, the leading barriers to adoption are a lack of understanding of the products on the market, and a significant level of mistrust of mobile network operators.
+It turns out that among the 68 percent of credit union customers who do not have their own mobile money account, the main barriers are a lack of understanding of the products on the market, and a significant level of mistrust of mobile network operators.
 
 <script id="infogram_0_3ed6d83e-8947-48ef-90a3-2d10d1481b6f" title="Why don't you open a mobile money account?" src="https://e.infogram.com/js/dist/embed.js?2AM" type="text/javascript"></script>
 
-1. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications.
+4. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications.
 
    <script id="infogram_0_668201ed-9d2a-4894-bee2-7be654a0c468" title="" src="https://e.infogram.com/js/dist/embed.js?x0N" type="text/javascript"></script>
 
-Overall, we learned that there are three main drivers preventing Haitian credit union customers from making use of mobile money services: (1) lack of understanding of mobile money products, (2) little clarity about the the services mobile money products offer, and (3) incomprehension of how mobile money functions. However, attitudes towards such platforms were generally very positive and people were explicitly open to and often even excited about the prospect of using mobile money for financial transactions to avoid some of the inefficiencies and security concerns of banking in person. These findings point to a conclusion that mobile money as a vehicle for credit union service offerings holds significant potential, but would likely only work with a fundamental digital literacy push among credit union customers to ensure that the platforms are used correctly and customers do not become disenchanted.
+Overall, we realized that attitudes towards such platforms are generally very positive and people are explicitly open to and often very excited about the prospect of using mobile money for financial transactions to avoid some of the inefficiencies and security concerns of banking in person. These findings point to a conclusion that mobile money as a vehicle for credit union service offerings holds significant potential, but would likely only work with a digital literacy push among credit union customers to ensure that the platforms are used correctly and customers do not become disenchanted.
 
 For a more detailed summary of results and an interactive dashboard encompassing all of the data collected during this digital insights exercise, please visit [this link](http://bit.ly/2hh1Xau) for our report and [this link ](https://app.powerbi.com/view?r=eyJrIjoiNTM4OTE5ODItZDc5Ny00NmFkLWE1ZWEtMjBiZmQ5NjRkMDE0IiwidCI6IjcxMDcxMTNkLWUyMGItNGMyMC1hNGNlLTU1M2NhYmJmNjg2ZCIsImMiOjN9)for web access to the interactive dashboard.
