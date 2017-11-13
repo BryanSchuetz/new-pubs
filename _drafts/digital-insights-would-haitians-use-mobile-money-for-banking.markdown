@@ -48,7 +48,7 @@ It turns out that among the 68 percent of credit union customers who do not have
 
 <script id="infogram_0_3ed6d83e-8947-48ef-90a3-2d10d1481b6f" title="Why don't you open a mobile money account?" src="https://e.infogram.com/js/dist/embed.js?2AM" type="text/javascript"></script>
 
-4. Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications.
+Finally, and perhaps most significantly, across the spectrum of potential mobile money applications in people’s daily lives, Haitian credit union customers are very open to the possibility of using mobile money, with the vast majority of those interviewed expressing openness to using their mobile phones for a variety of financial transaction applications.
 
    <script id="infogram_0_668201ed-9d2a-4894-bee2-7be654a0c468" title="" src="https://e.infogram.com/js/dist/embed.js?x0N" type="text/javascript"></script>
 
