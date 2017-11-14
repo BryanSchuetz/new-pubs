@@ -32,7 +32,8 @@ The podcasts below are all about people who know how to listen. They've expanded
 ## 99% Invisible
 ![99invis.jpg](/uploads/99invis.jpg)
 * **File Under:** Design history, physical spaces
-* **Why is it useful for HCD practitioners?** 
+* **Why is it useful for HCD practitioners?** Roman Mars presents famous 
+and intriguing design cases from the past and present and breaks down the "why." Looking at cases ranging from Antoni Gaudi's Sagrada Familia cathedral in Barcelona to the "Doll Houses" of St. Louis, Mars explores the design process as well as the social, political, and economic context that explain the problem, solution, or case. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/99-invisible/id394775318?mt=2), [Stitcher](https://www.stitcher.com/podcast/prx/99-invisible), [web site](https://99percentinvisible.org/)
 
 ## UX Podcast
