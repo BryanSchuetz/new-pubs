@@ -36,4 +36,4 @@ https://www.entrepreneur.com/article/292749
 **File under:** Incisive design talk from a European perspective
 **Why is it useful for HCD practitioners?**
 **Recommended episode:**
-**More:**
+**More:** [iTunes](https://itunes.apple.com/us/podcast/99-invisible/id394775318?mt=2), [Stitcher](https://www.stitcher.com/podcast/prx/99-invisible), [web site](https://99percentinvisible.org/)
