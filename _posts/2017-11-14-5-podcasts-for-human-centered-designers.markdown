@@ -26,9 +26,7 @@ The podcasts below are all about people who know how to listen. They've expanded
 ## The Tim Ferriss Show
 ![Ferriss.jpeg](/uploads/Ferriss.jpeg)
 * **File Under:** Deep interviews, tech heroes
-* **Why is it useful for HCD practitioners?** Ferris is the author of “The 4-Hour Work Week” and a serial entrepreneur. 
-
-He interviews A-List guests from the tech world and gets at how they came up with their ideas, how they failed early and succeeded in the long-game, and 
+* **Why is it useful for HCD practitioners?** Ferris is the author of “The 4-Hour Work Week” and a serial entrepreneur. On his podcast, Ferriss interviews A-List tech heroes and digs deep to understand who they were before they were successful designers, how they came up with their concept, how they tested it, and how they took it from idea to product. 
 * **More:** [iTunes](https://tim.blog/podcast/), [Stitcher](https://www.stitcher.com/podcast/tim-ferriss-show/the-tim-ferriss-show), [web site](https://tim.blog/podcast/)
  
 ## 99% Invisible
