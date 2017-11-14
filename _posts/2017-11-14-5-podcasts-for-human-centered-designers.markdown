@@ -12,7 +12,6 @@ In the international development space, good design requires all the same skills
 Millman is a graphic design veteran with credentials working for some of the biggest brands
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/design-matters-with-debbie-millman/id328074695?mt=2), [Stitcher](https://www.stitcher.com/podcast/design-matters-with-debbie-millman-20092011/design-matters-with-debbie-millman-20092013), [Facebook group](https://www.facebook.com/DesignMattersPodcast/)
-
  
 ## The Tim Ferriss Show
 **File Under:** Deep interviews
@@ -27,17 +26,14 @@ https://www.entrepreneur.com/article/292749
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2), [Stitcher](https://www.stitcher.com/podcast/stitcher/masters-of-scale), [web site](https://mastersofscale.com/)
 
-
 ## 99% Invisible
 **File Under:** 
 **Why is it useful for HCD practitioners?**
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/99-invisible/id394775318?mt=2), [Stitcher](https://www.stitcher.com/podcast/prx/99-invisible), [web site](https://99percentinvisible.org/)
-  
  
 ## UX Podcast
 **File under:** Incisive design talk from a European perspective
 **Why is it useful for HCD practitioners?**
 **Recommended episode:**
 **More:**
-
