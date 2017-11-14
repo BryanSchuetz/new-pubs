@@ -39,5 +39,5 @@ and intriguing design cases from the past and present and breaks down the "why."
 ## UX Podcast
 ![UX.jpg](/uploads/UX.jpg)
 * **File under:** User experience, Swedish perspective
-* **Why is it useful for HCD practitioners?** A 
+* **Why is it useful for HCD practitioners?** A more wry take on design from James Royal-Lawson and Per Axbom (his real name) primarily concerned with the nuts and bolts of digital design like user experience, user interface, but also broader takes on design, the tech business, and the distinctions between the American and Swedish approach to design. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2), [Stitcher](https://www.stitcher.com/podcast/ux-podcast), [web site](https://uxpodcast.com/)
