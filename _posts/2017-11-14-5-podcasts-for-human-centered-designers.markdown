@@ -34,7 +34,7 @@ In the international development space, human-centered design is centered on the
 ## Masters of Scale with Reid Hoffman
 ![Masters.jpeg](/uploads/Masters.jpeg)
 **File Under:** Deep interviews, tech heroes
-**Why is it useful?:** Reid Hoffman is the tech world’s closest thing to the Oracle of Delphi. As the COO at PayPal and then co-founded LinkedIn, Hoffman now advises other start-up founders on how to tackle the challenges of scaling up their concepts. His podcast is a chance to sit in on those conversations and understand how to tech concepts go from idea to start-up to scale-up. 
+**Why is it useful?:** Reid Hoffman is the tech world’s closest thing to the Oracle of Delphi. As the COO at PayPal and then co-founded LinkedIn, Hoffman now advises other start-up founders on how to tackle the challenges of scaling up their concepts. His podcast is a chance to sit in on those conversations and understand how to tech concepts go from idea to start-up to scale-up. Designers would do well to pay close attention to how Hoffman and his guests describe their thought processes around scale-up during the initial design phase, as most tech tools designed for the international development space are intended to be scaled-up. 
 https://www.entrepreneur.com/article/292749 
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2), [Stitcher](https://www.stitcher.com/podcast/stitcher/masters-of-scale), [web site](https://mastersofscale.com/)
