@@ -11,6 +11,7 @@ In the international development space, human-centered design is centered on the
 
 ## 99% Invisible
 ![99invis.jpg](/uploads/99invis.jpg)
+<img src="/uploads/99invis.jpg" width="100" height="100">
 **File Under:** 
 **Why is it useful for HCD practitioners?**
 **Recommended episode:**
@@ -26,7 +27,7 @@ In the international development space, human-centered design is centered on the
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg)
 **File Under:** Deep interviews, designer empathy
-**Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is like a psychologist with a patient on the couch, dissecting designers' thought processes and decision-making
+**Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is like a psychologist with a patient on the couch, dissecting designers' thought processes and decision-making 
 
 digs to the bottom 
 
