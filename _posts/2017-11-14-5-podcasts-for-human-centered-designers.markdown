@@ -27,7 +27,7 @@ In the international development space, human-centered design is centered on the
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg)
 **File Under:** Deep interviews, designer empathy
-**Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is a graphic designer who has worked for all the big names, but in her podcast she's a psychologist with her patient on the couch, dissecting designers' thought processes and decision-making. Designers will want to pay close attention to Millman's interview style and emulate her active listening style. 
+**Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is a graphic designer who has worked for all the big names, but in her podcast she's a psychologist with her patient on the couch, dissecting designers' thought processes and decision-making. Designers will want to pay close attention to Millman's interview style and emulate her active listening. 
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/design-matters-with-debbie-millman/id328074695?mt=2), [Stitcher](https://www.stitcher.com/podcast/design-matters-with-debbie-millman-20092011/design-matters-with-debbie-millman-20092013), [Facebook group](https://www.facebook.com/DesignMattersPodcast/)
  
