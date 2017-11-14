@@ -41,7 +41,7 @@ https://www.entrepreneur.com/article/292749
 
 ## UX Podcast
 ![UX.jpg](/uploads/UX.jpg)
-**File under:** User experience, a European perspective
+**File under:** User experience, Swedish perspective
 **Why is it useful for HCD practitioners?**
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2), [Stitcher](https://www.stitcher.com/podcast/ux-podcast), [web site](https://uxpodcast.com/)
