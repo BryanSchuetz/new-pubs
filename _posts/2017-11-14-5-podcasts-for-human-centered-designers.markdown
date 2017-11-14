@@ -13,16 +13,16 @@ In the international development space, human-centered design is centered on the
 ![99invis.jpg](/uploads/99invis.jpg)
 <img src="/uploads/99invis.jpg" width="100" height="100">
 **File Under:** 
-**Why is it useful for HCD practitioners?**
+**Why is it useful for HCD practitioners?** 
 **Recommended episode:**
 **More:** [iTunes](https://itunes.apple.com/us/podcast/99-invisible/id394775318?mt=2), [Stitcher](https://www.stitcher.com/podcast/prx/99-invisible), [web site](https://99percentinvisible.org/)
  
 ## The Tim Ferriss Show
 ![Ferriss.jpeg](/uploads/Ferriss.jpeg)
-**File Under:** Deep interviews, tech heroes 
-**Why is it useful for HCD practitioners?** Ferris is the author of “The Four Hour Work Week” and a serial entrepreneur
-**Recommended episode:**
-**More:** [iTunes](https://tim.blog/podcast/), [Stitcher](https://www.stitcher.com/podcast/tim-ferriss-show/the-tim-ferriss-show), [web site](https://tim.blog/podcast/), 
+* **File Under:** Deep interviews, tech heroes 
+* **Why is it useful for HCD practitioners?** Ferris is the author of “The Four Hour Work Week” and a serial entrepreneur
+* **Recommended episode:**
+* **More:** [iTunes](https://tim.blog/podcast/), [Stitcher](https://www.stitcher.com/podcast/tim-ferriss-show/the-tim-ferriss-show), [web site](https://tim.blog/podcast/), 
 
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg)
