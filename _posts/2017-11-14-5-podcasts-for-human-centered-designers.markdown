@@ -7,9 +7,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-In international development, human-centered design is predicated on a designer's ability to rapidly develop empathy with a population--and the cultural, political, and economic environment in which that population operates--and to parlay that understanding into a localized solution to a local problem. Doing so successfully requires one primary skill: listening. That can mean listening in the traditional sense, to an individual during a [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) field interview, but as a unified concept, listening for design--particularly in the international development space--means listening not just to an individual but to a culture. 
-
-The podcasts below are all about people who know how to listen. They've expanded my understanding of design and sharpened my understanding of how to listen and make decisions when I'm designing a solution. I hope they'll do the same for you. 
+In international development, human-centered design is predicated on a designer's ability to rapidly develop empathy with a population--especially the the cultural, political, and economic dynamics that affect them--and to parlay that understanding into a localized solution to a local problem. Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual during a [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) field interview, but more broadly, listening for design in the international development space means listening not just to an individual but listening to a population. The podcasts below are all about people who know how to listen. They've expanded my understanding of design and sharpened my understanding of how to listen and make decisions when I'm designing a solution. I hope they'll do the same for you. 
  
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg)
