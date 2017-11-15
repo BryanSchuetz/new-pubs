@@ -27,7 +27,7 @@ The podcasts below are all about people who know how to listen. They’ve expand
 ## Masters of Scale with Reid Hoffman
 ![Masters.jpeg](/uploads/Masters.jpeg){:.float-left}
 * **File Under:** Deep interviews, tech heroes
-* **Why is it useful?:** Reid Hoffman is the tech world’s closest thing to the Oracle of Delphi. As the Chief Operating Officer at PayPal and then co-founder of LinkedIn, Hoffman now advises other startup founders on how to tackle the challenges of scaling up their concepts. His podcast is a chance to sit in on those conversations and understand how to tech concepts go from idea to start-up to scale-up. Designers would do well to pay close attention to how Hoffman and his guests describe their thought processes around scale-up during the initial design phase, as most (all?) tech tools designed for the international development space are intended to be scaled-up. 
+* **Why is it useful?:** Reid Hoffman is the tech world’s closest thing to the Oracle of Delphi. As the Chief Operating Officer at PayPal and then co-founder of LinkedIn, Hoffman now advises other startup founders on how to tackle the challenges of scaling up their concepts. His podcast is a chance to sit in on those conversations and understand how to tech concepts go from idea to startup to scale-up. Designers would do well to pay close attention to how Hoffman and his guests describe their thought processes around scale-up during the initial design phase, as most (all?) tech tools designed for the international development space are intended to be scaled up. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2), [Stitcher](https://www.stitcher.com/podcast/stitcher/masters-of-scale), [web site](https://mastersofscale.com/)
 
 ## The Tim Ferriss Show
@@ -40,7 +40,7 @@ The podcasts below are all about people who know how to listen. They’ve expand
 ![99invis.jpg](/uploads/99invis.jpg){:.float-left}
 * **File Under:** Design history, physical spaces
 * **Why is it useful for HCD practitioners?** Roman Mars presents famous 
-and intriguing design cases from the past and present and breaks down the "why." Looking at cases ranging from Antoni Gaudi's Sagrada Familia cathedral in Barcelona to the "Doll Houses" of St. Louis, Mars explores the design process as well as the social, political, and economic context that explain the problem, solution, or case. 
+and intriguing design cases from the past and present and breaks down the “why.” Looking at cases ranging from Antoni Gaudi’s Sagrada Familia cathedral in Barcelona to the “Doll Houses” of St. Louis, Mars explores the design process as well as the social, political, and economic context that explain the problem, solution, or case. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/99-invisible/id394775318?mt=2), [Stitcher](https://www.stitcher.com/podcast/prx/99-invisible), [web site](https://99percentinvisible.org/)
 
 ## UX Podcast
