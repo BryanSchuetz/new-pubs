@@ -6,6 +6,7 @@ tags:
 - Human-centered design
 Author: Adam Fivenson
 social-image: "/uploads/headphones.jpg"
+thumbnail: "/uploads/headphones.jpg"
 ---
 
 In international development, human-centered designer (HCD) is charged with rapidly developing empathy with a specific, targeted marginalized population, a social challenge that group faces, and parlaying that understanding into a local solution. 
