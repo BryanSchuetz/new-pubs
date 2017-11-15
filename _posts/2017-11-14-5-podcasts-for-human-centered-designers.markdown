@@ -8,6 +8,8 @@ Author: Adam Fivenson
 social-image: "/uploads/headphones.jpg"
 ---
 
+![headphones.jpg](/uploads/headphones.jpg)
+
 In international development, human-centered design is predicated on a designer's ability to rapidly develop empathy with a specific, targeted marginalized population, a specific social challenge they face, and how to parlay that understanding into a localized solution. 
 
 Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work; but, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
