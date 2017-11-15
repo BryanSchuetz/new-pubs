@@ -8,26 +8,26 @@ Author: Adam Fivenson
 social-image: "/uploads/headphones.jpg"
 ---
 
-In international development, human-centered design is predicated on a designer's ability to rapidly develop empathy with a specific, targeted marginalized population, a specific social challenge they face, and how to parlay that understanding into a localized solution. 
+In international development, human-centered designer (HCD) is charged with rapidly developing empathy with a specific, targeted marginalized population, a social challenge that group faces, and parlaying that understanding into a local solution. 
 
 ![headphones.jpg](/uploads/headphones.jpg)
 
-Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work; but, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
+Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work. But, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
 
-The podcasts below are all about people who know how to listen. They've expanded my understanding of design and sharpened my understanding of how to listen closely and make decisions when I'm designing a solution. I hope they'll do the same for you, should you take the time to *listen.*
+The podcasts below are all about people who know how to listen. They’ve expanded my understanding of design and sharpened my ability to listen closely when I’m designing a solution. I hope they’ll do the same for you, should you take the time to *listen.*
 
 <!--more-->
 
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg){:.float-left}
 * **File Under:** Deep interviews, designer empathy
-* **Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is a graphic designer who has worked for all the big names, but in her podcast she's a psychologist with her patient on the couch, dissecting designers' thought processes and decision-making. Designers will want to pay close attention to Millman's interview style and emulate her active listening. 
+* **Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is a graphic designer who has worked for all the big names, but in her podcast she’s a psychologist with her patient on the couch, dissecting designers’ thought processes and decision-making. Designers will want to pay close attention to Millman’s interview style and emulate her active listening. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/design-matters-with-debbie-millman/id328074695?mt=2), [Stitcher](https://www.stitcher.com/podcast/design-matters-with-debbie-millman-20092011/design-matters-with-debbie-millman-20092013), [Facebook group](https://www.facebook.com/DesignMattersPodcast/)
 
 ## Masters of Scale with Reid Hoffman
 ![Masters.jpeg](/uploads/Masters.jpeg){:.float-left}
 * **File Under:** Deep interviews, tech heroes
-* **Why is it useful?:** Reid Hoffman is the tech world’s closest thing to the Oracle of Delphi. As the COO at PayPal and then co-founded LinkedIn, Hoffman now advises other start-up founders on how to tackle the challenges of scaling up their concepts. His podcast is a chance to sit in on those conversations and understand how to tech concepts go from idea to start-up to scale-up. Designers would do well to pay close attention to how Hoffman and his guests describe their thought processes around scale-up during the initial design phase, as most (all?) tech tools designed for the international development space are intended to be scaled-up. 
+* **Why is it useful?:** Reid Hoffman is the tech world’s closest thing to the Oracle of Delphi. As the Chief Operating Officer at PayPal and then co-founder of LinkedIn, Hoffman now advises other startup founders on how to tackle the challenges of scaling up their concepts. His podcast is a chance to sit in on those conversations and understand how to tech concepts go from idea to start-up to scale-up. Designers would do well to pay close attention to how Hoffman and his guests describe their thought processes around scale-up during the initial design phase, as most (all?) tech tools designed for the international development space are intended to be scaled-up. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2), [Stitcher](https://www.stitcher.com/podcast/stitcher/masters-of-scale), [web site](https://mastersofscale.com/)
 
 ## The Tim Ferriss Show
