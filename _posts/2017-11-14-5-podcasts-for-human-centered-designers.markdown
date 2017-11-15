@@ -15,7 +15,7 @@ The podcasts below are all about people who know how to listen. They've expanded
 
 ## Design Matters with Debbie Millman
 
-![DesignMatters.jpg](/uploads/DesignMatters.jpg)
+![DesignMatters.jpg](/uploads/DesignMatters.jpg){:.float-left}
 
 * **File Under:** Deep interviews, designer empathy
 
