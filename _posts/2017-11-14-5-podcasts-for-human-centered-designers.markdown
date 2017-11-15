@@ -15,14 +15,14 @@ In international development, human-centered design is predicated on a designer'
 Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work; but, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
 
 The podcasts below are all about people who know how to listen. They've expanded my understanding of design and sharpened my understanding of how to listen closely and make decisions when I'm designing a solution. I hope they'll do the same for you, should you take the time to *listen.*
- 
+
+<!--more-->
+
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg){:.float-right}
 * **File Under:** Deep interviews, designer empathy
 * **Why is it useful for HCD practitioners?** Great interviews with all types of designers. Millman is a graphic designer who has worked for all the big names, but in her podcast she's a psychologist with her patient on the couch, dissecting designers' thought processes and decision-making. Designers will want to pay close attention to Millman's interview style and emulate her active listening. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/design-matters-with-debbie-millman/id328074695?mt=2), [Stitcher](https://www.stitcher.com/podcast/design-matters-with-debbie-millman-20092011/design-matters-with-debbie-millman-20092013), [Facebook group](https://www.facebook.com/DesignMattersPodcast/)
-
-<!--more-->
 
 ## Masters of Scale with Reid Hoffman
 ![Masters.jpeg](/uploads/Masters.jpeg){:.float-right}
