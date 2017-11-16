@@ -1,7 +1,6 @@
 ---
 title: 5 Podcasts for Human-Centered Designers
 date: 2017-11-14 13:06:00 -05:00
-published: false
 tags:
 - Human-centered design
 Author: Adam Fivenson
