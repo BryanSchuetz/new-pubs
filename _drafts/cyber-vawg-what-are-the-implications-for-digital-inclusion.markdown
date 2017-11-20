@@ -12,4 +12,5 @@ It is well known that the internet is not a level playing field- women are still
 Recent news stories such as those from the [UK General Election](https://www.theguardian.com/politics/2017/sep/05/diane-abbott-more-abused-than-any-other-mps-during-election) have thrown the targeting of female politicians and journalists into the bright lights of public awareness; and high profile cases of cyber bullying of young girls have shocked people world over. Whilst we know well the veracity of online violence, a less prominent issue is how it can exacerbate levels of digital inclusion for already marginalised populations. In this blog we consider how online abuse of women and girls -or “cyber VAWG”- further impedes digital inclusion and prevents women and girls from enjoying digital dividends.
 
 ![Cambodia DI 1-b06ce7.jpg](/uploads/Cambodia%20DI%201-b06ce7.jpg)
+{: .caption}Photo from Development Innovations Cambodia
 
