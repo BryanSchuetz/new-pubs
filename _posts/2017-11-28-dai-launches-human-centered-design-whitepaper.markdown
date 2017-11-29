@@ -8,6 +8,8 @@ Author: Adam Fivenson
 
 ![HCD cover.jpg](/uploads/HCD%20cover.jpg)
 
-*Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala*
+**Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala**
+
+On 
 
 Download: http://www.dai.com/HCD.pdf
