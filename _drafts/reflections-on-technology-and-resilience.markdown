@@ -11,13 +11,13 @@ Author: Greg Maly
 
 FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this post, I'll look at some of the technologies showcased during the conference. But before doing so, let's define resilience. (<!--more-->)
 
-\*\*What Does Resilience Really Mean?\*\*
+# What Does Resilience Really Mean?
 
 The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundation.org/) definition of resilience as the cornerstone of the conference:
 
-> Resilience is the capacity of individuals, communities and systems to survive, adapt, and grow in the face of stress and shocks, and even transform when conditions require it.
+> Resilience is the capacity of individuals, communities, and systems to survive, adapt, and grow in the face of stress and shocks, and even transform when conditions require it.
 
-Supporting a resilience project, therefore, is the effort to promote tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, \[The Resilience Agenda: Measuring Resilience in USAID\](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives - with the overarching goal of increasing the resilience of chronically vulnerable populations.
+Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, [The Resilience Agenda: Measuring Resilience in USAID](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
 
 * **Objective 1:** Increased Sustainable Economic Well Bring
 
