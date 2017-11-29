@@ -35,7 +35,7 @@ Telenor Pakistan provided lessons from its work using robo-calls, text, and audi
 
 A second agriculture technology company, Colorado-based [aWhere](http://www.awhere.com/), leverage multiple sources of climate data to create crop-growth forecast models. And through their API, they enable farmers to make educated decisions on what crops are most likely to thrive on a given year.
 
-\*\*Strengthened Institutions and Governance\*\*\
+# Strengthened Institutions and Governance
 The second objective is that of good governance, which includes equitable management of natural and land resources, as well as effective coordination between local and national governments during times of emergency.
 
 \
