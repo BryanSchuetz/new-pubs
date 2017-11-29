@@ -27,16 +27,12 @@ Supporting a resilience project, therefore, means promoting tools or institution
 
 Let’s look at some of the technologies highlighted during the conference, and how they support these objectives
 
-# \
-Increased Sustainable Economic Well Being
+# Increased Sustainable Economic Well-Being
 
-\
 The first objective highlighted by USAID’s resilience work is that of economic development. The predominant economic development technologies showcased at the conference fell into the realm of agriculture.
 
-\
 Telenor Pakistan provided lessons from its work using robo-calls, SMS, and IVR to reach farmers and help prevent harvest loss in the face of a changing climate. Their work has helped farmers increase income, reduce water and pesticide usage, and reduce post-harvest losses.
 
-\
 A second agriculture technology company, Colorado-based [aWhere](http://www.awhere.com/), leverage multiple sources of climate data to create crop-growth forecast models. And through their API, they enable farmers to make educated decisions on what crops are most likely to thrive on a given year.
 
 \*\*Strengthened Institutions and Governance\*\*\
