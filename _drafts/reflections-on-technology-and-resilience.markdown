@@ -17,7 +17,7 @@ The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundati
 
 > Resilience is the capacity of individuals, communities, and systems to survive, adapt, and grow in the face of stress and shocks, and even transform when conditions require it.
 
-Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, [The Resilience Agenda: Measuring Resilience in USAID](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
+Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, \[The Resilience Agenda: Measuring Resilience in USAID\](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
 
 * **Objective 1:** Increased Sustainable Economic Well Bring
 
@@ -36,10 +36,10 @@ Telenor Pakistan provided lessons from its work using robo-calls, text, and audi
 A second agriculture technology company, Colorado-based [aWhere](http://www.awhere.com/), leverage multiple sources of climate data to create crop-growth forecast models. And through their API, they enable farmers to make educated decisions on what crops are most likely to thrive on a given year.
 
 # Strengthened Institutions and Governance
+
 The second objective is that of good governance, which includes equitable management of natural and land resources, as well as effective coordination between local and national governments during times of emergency.
 
-\
-At the conference, the [Cadasta Foundation](http://cadasta.org/) introduced its land tenures technologies, which aim to support the development of digitally documented land records, and in turn, land rights.  They argue that an estimated 70 percent of the property in emerging economies is undocumented, and that an estimated 25 percent of the world urban population live in owns with no record of legal ownership. Using a combination of aerial imagery collection, including satellite, drone, and GPS based spatial collection technologies, they help communities and institutions gather data on land, and manage data on their online mapping platform. This technology arguably also supports both economic well-being and governance issues.
+At the conference, the [Cadasta Foundation](http://cadasta.org/) introduced its land tenure technology, which aims to support the development of digitally documented land records, and in turn, land rights. They argue that an estimated 70 percent of the property in emerging economies is undocumented, and that an estimated 25 percent of the world urban population live in owns with no record of legal ownership. Using a combination of aerial imagery collection, including satellite, drone, and GPS based spatial collection technologies, they help communities and institutions gather data on land, and manage data on their online mapping platform. This technology arguably also supports both economic well-being and governance issues.
 
 With coordination in mind, the Humanitarian OpenStreetMap Team (HOT) and PetBencana presented their technologies, which include the development of community based maps for common situational awareness during disaster, and then the use of crowdsourced and government reporting on emergency events to improve response operations. Also present was the Nepal Flying Labs team, which used drones to collect data on damaged infrastructure after the 2015 earthquake for the purposes of search and rescue and cargo delivery.
 
