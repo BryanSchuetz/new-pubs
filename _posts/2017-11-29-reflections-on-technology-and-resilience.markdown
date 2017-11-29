@@ -1,6 +1,7 @@
 ---
 title: Reflections on Technology and Resilience
 date: 2017-11-29 13:29:00 -05:00
+published: false
 categories:
 - Resilience
 tags:
@@ -49,8 +50,8 @@ The last pillar highlighted in the USAID report is that of improved access to he
 
 Working to achieve [SDG 6.1](https://sustainabledevelopment.un.org/sdg6), “universal and equitable access to safe and affordable drinking water for all,” the company [SweetSense](http://www.sweetsensors.com/) develops affordable “sensors as a service” to improve water service delivery. Citing a 2013 Oxford University study on handpumps, it makes the case that GSM-enabled ‘smart handpumps,’ or ones that create a digital signal when they malfunction, improve the speed of maintenance, and in turn, increase access to a safe water supply. As a company, it creates the mobile sensors, dashboards, and operations support to improve city-level water pump functionality.
 
-Multiple health-based technologies were showcased during the conference, including [Medic Mobile](https://medicmobile.org/), and [BBC Media Actions Mobile Academy](http://www.bbc.co.uk/mediaaction/where-we-work/asia/india/sdp-ma-mk). The Medic Mobile toolkit is a set of mobile-first technologies for frontline care decision support, enabling health care workers to prioritize home visits, schedule follow-ups, message patients, and analyze data across patients and over time. Offering insights into best practices for scaling technologies to wide populations, BBC Media Action introduced Kilkari, their free maternal messaging service, which aims to increase the capacity of pregnant women, new mothers, and their families to adopt healthy behaviors through increased knowledge. They also provided and overview of their interactive voice response (IVR) based mobile academy, which aims to improve the quality of engagement between Community Health Workers and their clients through access to life saving preventative behavior.
-\
- 
-\
-Coming away from the conference, I was impressed with the number of projects taking place across the Asia Pacific that aimed to improve the quality of life through innovations in technology. And in many ways, the simplest projects were the ones with the greatest impact. We are grateful to FHI360 for their efforts to convene such a high-quality group of people, and look forward to following each of these groups as they continue to scale their projects, and support the development of resilient communities around the globe.
+Multiple health-based technologies were showcased during the conference, including [Medic Mobile](https://medicmobile.org/), and [BBC Media Actions Mobile Academy](http://www.bbc.co.uk/mediaaction/where-we-work/asia/india/sdp-ma-mk). The Medic Mobile toolkit is a set of mobile-first technologies for frontline care decision support, enabling health care workers to prioritize home visits, schedule follow-ups, message patients, and analyze data across patients and over time. Offering insights into best practices for scaling technologies to wide populations, BBC Media Action introduced [Kilkari](https://www.gsma.com/mobilefordevelopment/programme/mhealth/an-overview-of-kilkari-a-maternal-and-child-health-service-in-india), its free maternal messaging service, which aims to increase the capacity of pregnant women, new mothers, and their families to adopt healthy behaviors through increased knowledge. It also provided an overview of its interactive voice response (IVR)-based mobile academy, which aims to improve the quality of engagement between community health workers and their clients through access to life-saving preventative behavior.
+
+Coming away from the conference, I was impressed with the number of projects taking place across the Asia Pacific region that are improving the quality of life through innovations in technology. And in many ways, the simplest projects were the ones with the greatest impact. 
+
+We look forward to following each of these groups as they continue to scale their projects, and support the development of resilient communities around the globe.
