@@ -9,11 +9,11 @@ tags:
 Author: Greg Maly
 ---
 
-FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok on November 13 and 14. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this blog post, we will look at some of the technologies showcased during the conference. But before we do so, what do we mean by resilience? (<!--more-->)
+FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this post, I'll look at some of the technologies showcased during the conference. But before doing so, let's define resilience. (<!--more-->)
 
-\*\*Defining Resilience\*\*
+\*\*What Does Resilience Really Mean?\*\*
 
-The conference used[ Rockefeller Foundation’s](https://www.rockefellerfoundation.org/) definition of resilience as the cornerstone of the conference:
+The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundation.org/) definition of resilience as the cornerstone of the conference:
 
 > Resilience is the capacity of individuals, communities and systems to survive, adapt, and grow in the face of stress and shocks, and even transform when conditions require it.
 
@@ -47,7 +47,7 @@ At the conference, the [Cadasta Foundation](http://cadasta.org/) introduced its 
 
 With coordination in mind, the Humanitarian OpenStreetMap Team (HOT) and PetBencana presented their technologies, which include the development of community based maps for common situational awareness during disaster, and then the use of crowdsourced and government reporting on emergency events to improve response operations. Also present was the Nepal Flying Labs team, which used drones to collect data on damaged infrastructure after the 2015 earthquake for the purposes of search and rescue and cargo delivery.
 
-\*\*Improved Health and Nutrition\*\*\
+\*\*Improved Health and Nutrition\*\*\\
 
 The last pillar highlighted in the USAID report is that of improved access to health and nutrition, which encompasses everything from chronic disease prevention, to maternal and child health, to care for water and sanitation.
 
