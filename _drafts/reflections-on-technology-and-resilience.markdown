@@ -17,7 +17,7 @@ The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundati
 
 > Resilience is the capacity of individuals, communities, and systems to survive, adapt, and grow in the face of stress and shocks, and even transform when conditions require it.
 
-Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, \[The Resilience Agenda: Measuring Resilience in USAID\](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
+Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, [The Resilience Agenda: Measuring Resilience in USAID](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
 
 * **Objective 1:** Increased Sustainable Economic Well Bring
 
@@ -31,7 +31,7 @@ Let’s look at some of the technologies highlighted during the conference, and 
 
 The first objective highlighted by USAID’s resilience work is that of economic development. The predominant economic development technologies showcased at the conference fell into the realm of agriculture.
 
-Telenor Pakistan provided lessons from its work using robo-calls, text and audio messages to reach farmers and help prevent harvest loss in the face of a changing climate. Their work has helped farmers increase income, reduce water and pesticide usage, and reduce post-harvest losses.
+Telenor Pakistan provided lessons from its work using robo-calls, text, and audio messages to reach farmers and help prevent harvest loss in the face of a changing climate. Their work has helped farmers increase income, reduce water and pesticide usage, and reduce post-harvest losses.
 
 A second agriculture technology company, Colorado-based [aWhere](http://www.awhere.com/), leverage multiple sources of climate data to create crop-growth forecast models. And through their API, they enable farmers to make educated decisions on what crops are most likely to thrive on a given year.
 
