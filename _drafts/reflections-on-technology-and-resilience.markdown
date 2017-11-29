@@ -5,9 +5,7 @@ date: 2017-11-29 13:29:00 -05:00
 
 FHI360 hosted its annual technology for resilience workshop in Bangkok on November 13 and 14. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this blog post, we will look at some of the technologies showcased during the conference. But before we do so, what do we mean by resilience?
 
-\*\*Defining Resilience
-\
-\*\*
+\*\*Defining Resilience\*\*
 
 The conference used[ Rockefeller Foundation’s](https://www.rockefellerfoundation.org/) definition of resilience as the cornerstone of the conference:
 
