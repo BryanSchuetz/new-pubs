@@ -8,14 +8,10 @@ Author: Adam Fivenson
 
 Today DAI launches **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala.** 
 
-This whitepaper introduces the concept of Lean Human-Centered Design. 
+![HCD cover.jpg](/uploads/HCD%20cover.jpg)
 
-What do we mean by Lean HCD? Why is this a useful approach for digital designers who work in international development? How did we use Lean HCD to develop empathy with a distant population and use that empathy to design a tool. 
+What do we mean by Lean HCD? Why is this a useful approach for digital designers who work in international development? 
 
 http://www.dai.com/HCD.pdf
-
-Event tonight!
-
-![HCD cover.jpg](/uploads/HCD%20cover.jpg)
 
 
