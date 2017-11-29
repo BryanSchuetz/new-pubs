@@ -19,13 +19,10 @@ Supporting a resilience project, therefore, is the effort to promote tools or in
 
 * **Objective 3:** Improved Health and Nutrition Status
 
-
-
 Let’s look at some of the technologies highlighted during the conference, and how they support these objectives
 
 \
-\*\*Increased Sustainable Economic Well Being
-\*\*
+\*\*Increased Sustainable Economic Well Being\*\*
 
 \
 The first objective highlighted by USAID’s resilience work is that of economic development. The predominant economic development technologies showcased at the conference fell into the realm of agriculture.
@@ -35,26 +32,20 @@ Telenor Pakistan provided lessons from its work using robo-calls, SMS, and IVR t
 
 \
 A second agriculture technology company, Colorado-based [aWhere](http://www.awhere.com/), leverage multiple sources of climate data to create crop-growth forecast models. And through their API, they enable farmers to make educated decisions on what crops are most likely to thrive on a given year.
-\\
 
-\*\*Strengthened Institutions and Governance
-\*\*\
+\*\*Strengthened Institutions and Governance\*\*\
 The second objective is that of good governance, which includes equitable management of natural and land resources, as well as effective coordination between local and national governments during times of emergency.
 
 \
 At the conference, the [Cadasta Foundation](http://cadasta.org/) introduced its land tenures technologies, which aim to support the development of digitally documented land records, and in turn, land rights.  They argue that an estimated 70 percent of the property in emerging economies is undocumented, and that an estimated 25 percent of the world urban population live in owns with no record of legal ownership. Using a combination of aerial imagery collection, including satellite, drone, and GPS based spatial collection technologies, they help communities and institutions gather data on land, and manage data on their online mapping platform. This technology arguably also supports both economic well-being and governance issues.
-\\
 
 With coordination in mind, the Humanitarian OpenStreetMap Team (HOT) and PetBencana presented their technologies, which include the development of community based maps for common situational awareness during disaster, and then the use of crowdsourced and government reporting on emergency events to improve response operations. Also present was the Nepal Flying Labs tea, which used drones to collect data on damaged infrastructure after the 2015 earthquake for the purposes of search and rescue and cargo delivery.
-\\
 
-\*\*Improved Health and Nutrition
-\*\*\
+\*\*Improved Health and Nutrition\*\*\
+
 The last pillar highlighted in the USAID report is that of improved access to health and nutrition, which encompasses everything from chronic disease prevention, to maternal and child health, to care for water and sanitation.
-\\
 
 Working to achieve[ SDG 6.1](https://sustainabledevelopment.un.org/sdg6), “universal and equitable access to safe and affordable drinking water for all”, the company [SweetSense](http://www.sweetsensors.com/) develops affordable “sensors as a service” to improve water service delivery. Citing a 2013 Oxford study on handpumps, they make the case that GSM-enabled ‘smart handpumps’, or ones that create a digital signal during times of malfunction, improve the speed of maintenance, and in-turn increase access to a safe water supply. As a company, they both create the mobile sensors, dashboards, and operations support to improve city level water pump functionality.
-\\
 
 Multiple health-based technologies were showcased during the conference, including [Medic Mobile](https://medicmobile.org/), and [BBC Media Actions Mobile Academy](http://www.bbc.co.uk/mediaaction/where-we-work/asia/india/sdp-ma-mk). The Medic Mobile toolkit is a set of mobile-first technologies for frontline care decision support, enabling health care workers to prioritize home visits, schedule follow-ups, message patients, and analyze data across patients and over time. Offering insights into best practices for scaling technologies to wide populations, BBC Media Action introduced Kilkari, their free maternal messaging service, which aims to increase the capacity of pregnant women, new mothers, and their families to adopt healthy behaviors through increased knowledge. They also provided and overview of their interactive voice response (IVR) based mobile academy, which aims to improve the quality of engagement between Community Health Workers and their clients through access to life saving preventative behavior.
 \
