@@ -6,9 +6,11 @@ published: false
 Author: Adam Fivenson
 ---
 
-Today DAI launches **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala.** 
-
 ![HCD cover.jpg](/uploads/HCD%20cover.jpg)
+
+Today DAI launches:
+
+ **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala.** 
 
 What do we mean by Lean HCD? Why is this a useful approach for digital designers who work in international development? 
 
