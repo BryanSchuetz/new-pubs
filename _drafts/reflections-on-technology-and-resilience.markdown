@@ -17,7 +17,7 @@ The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundati
 
 > Resilience is the capacity of individuals, communities, and systems to survive, adapt, and grow in the face of stress and shocks, and even transform when conditions require it.
 
-Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, [The Resilience Agenda: Measuring Resilience in USAID](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
+Supporting a resilience project, therefore, means promoting tools or institutions that survive shocks such as natural disasters, the outbreak of disease, or event conflict. A 2013 USAID publication, \[The Resilience Agenda: Measuring Resilience in USAID\](https://www.usaid.gov/sites/default/files/documents/1866/Technical Note_Measuring Resilience in USAID_June 2013.pdf), provides a similarly worded definition of resilience, and highlights three objectives—with the overarching goal of increasing the resilience of chronically vulnerable populations.
 
 * **Objective 1:** Increased Sustainable Economic Well Bring
 
@@ -27,8 +27,8 @@ Supporting a resilience project, therefore, means promoting tools or institution
 
 Let’s look at some of the technologies highlighted during the conference, and how they support these objectives
 
-\
-\*\*Increased Sustainable Economic Well Being\*\*
+# \
+Increased Sustainable Economic Well Being
 
 \
 The first objective highlighted by USAID’s resilience work is that of economic development. The predominant economic development technologies showcased at the conference fell into the realm of agriculture.
