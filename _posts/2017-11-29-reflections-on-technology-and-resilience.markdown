@@ -1,7 +1,6 @@
 ---
 title: Reflections on Technology and Resilience
 date: 2017-11-29 13:29:00 -05:00
-published: false
 categories:
 - Resilience
 tags:
