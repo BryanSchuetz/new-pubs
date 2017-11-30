@@ -8,6 +8,7 @@ tags:
 - Guatemala
 Author: Adam Fivenson
 social-image: "/uploads/HCD%20cover.jpg"
+thumbnail: "/uploads/HCD%20cover.jpg"
 ---
 
 ![HCD cover.jpg](/uploads/HCD%20cover.jpg)
