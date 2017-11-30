@@ -12,7 +12,9 @@ Author: Greg Maly
 
 ![Tech for Resilience Poster.jpg](/uploads/Tech%20for%20Resilience%20Poster.jpg)
 
-FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this post, I’ll look at some of the technologies showcased during the conference. But before doing so, let’s define resilience. (<!--more-->)
+FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this post, I’ll look at some of the technologies showcased during the conference. But before doing so, let’s define resilience. 
+
+\(<!--more-->)
 
 # What Does Resilience Really Mean?
 
