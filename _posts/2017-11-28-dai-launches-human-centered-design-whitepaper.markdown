@@ -31,7 +31,7 @@ With the launch of **Lean HCD: A Case Study in Human-Centered Design in the High
 * How did we engage local civil society and other social institutions in the process?
 * How did we work with citizens to understand the challenges they face and propose solutions?
 * How did this information 
-* What role did [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) play in determining the platform, form, and function of the tool? 
+* What role did [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) (formerly Digital Insights) play in determining the platform, form, and function of the tool? 
 * Which tenets of HCD did we compromise on and which did we hold firm?
 * What tips do we have for other embarking on similarly complex design processes for international development projects? 
 
