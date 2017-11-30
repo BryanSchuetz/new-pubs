@@ -7,6 +7,7 @@ tags:
 - Think Piece
 - Guatemala
 Author: Adam Fivenson
+social-image: "/uploads/HCD%20cover.jpg"
 ---
 
 ![HCD cover.jpg](/uploads/HCD%20cover.jpg)
