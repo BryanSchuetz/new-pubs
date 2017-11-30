@@ -2,10 +2,9 @@
 title: 'DAI Launches ''Lean HCD: A Case Study in Human-Centered Design in the Highlands
   of Guatemala'''
 date: 2017-11-30 17:00:00 -05:00
-published: false
 tags:
-- Think Piece
-- Guatemala
+- Human-centered design
+- Digital Insights
 Author: Adam Fivenson
 social-image: "/uploads/HCD%20cover.jpg"
 thumbnail: "/uploads/HCD%20cover.jpg"
