@@ -1,5 +1,5 @@
 ---
-title: Cyber Violence Against Women and Girls Creates Digital Exclusion
+title: Cyber Violence Against Women and Girls Exacerbates Digital Exclusion
 date: 2017-11-20 06:18:00 -05:00
 tags:
 - Digital Inclusion
