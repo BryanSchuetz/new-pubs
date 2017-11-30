@@ -10,6 +10,8 @@ tags:
 Author: Greg Maly
 ---
 
+![Tech for Resilience Poster.jpg](/uploads/Tech%20for%20Resilience%20Poster.jpg)
+
 FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok. In doing so, conference organizers created an opportunity for technologists and development practitioners to learn from active technology projects that promote community resilience, and work together on innovative solutions to what are often seen as intractable problems. In this post, I’ll look at some of the technologies showcased during the conference. But before doing so, let’s define resilience. (<!--more-->)
 
 # What Does Resilience Really Mean?
@@ -27,6 +29,8 @@ Supporting a resilience project, therefore, means promoting tools or institution
 * **Objective 3:** Improved Health and Nutrition Status
 
 Let’s look at some of the technologies highlighted during the conference, and how they support these objectives
+
+![Tech for Resilience Participants.jpg](/uploads/Tech%20for%20Resilience%20Participants.jpg)
 
 # Increased Sustainable Economic Well-Being
 
@@ -52,6 +56,6 @@ Working to achieve [SDG 6.1](https://sustainabledevelopment.un.org/sdg6), “uni
 
 Multiple health-based technologies were showcased during the conference, including [Medic Mobile](https://medicmobile.org/), and [BBC Media Actions Mobile Academy](http://www.bbc.co.uk/mediaaction/where-we-work/asia/india/sdp-ma-mk). The Medic Mobile toolkit is a set of mobile-first technologies for frontline care decision support, enabling health care workers to prioritize home visits, schedule follow-ups, message patients, and analyze data across patients and over time. Offering insights into best practices for scaling technologies to wide populations, BBC Media Action introduced [Kilkari](https://www.gsma.com/mobilefordevelopment/programme/mhealth/an-overview-of-kilkari-a-maternal-and-child-health-service-in-india), its free maternal messaging service, which aims to increase the capacity of pregnant women, new mothers, and their families to adopt healthy behaviors through increased knowledge. It also provided an overview of its interactive voice response (IVR)-based mobile academy, which aims to improve the quality of engagement between community health workers and their clients through access to life-saving preventative behavior.
 
-Coming away from the conference, I was impressed with the number of projects taking place across the Asia Pacific region that are improving the quality of life through innovations in technology. And in many ways, the simplest projects were the ones with the greatest impact. 
+Coming away from the conference, I was impressed with the number of projects taking place across the Asia Pacific region that are improving the quality of life through innovations in technology. And in many ways, the simplest projects were the ones with the greatest impact.
 
 We look forward to following each of these groups as they continue to scale their projects, and support the development of resilient communities around the globe.
