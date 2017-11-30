@@ -12,7 +12,9 @@ Today DAI launches **Lean HCD: A Case Study in Human-Centered Design in the High
 
 Throughout this process, DAI worked closely with the municipality to 
 
-executed through the DAI-implemented [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project. 
+executed through the DAI-implemented 
+
+[USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project. 
 
 On 
 
