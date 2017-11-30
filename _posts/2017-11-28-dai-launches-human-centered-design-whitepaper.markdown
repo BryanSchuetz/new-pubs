@@ -14,8 +14,9 @@ social-image: "/uploads/HCD%20cover.jpg"
 
 Today DAI launches **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala**. This landmark report is the culmination of 18 months of close collaboration between DAI's ICT team, the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project, and the people of Chiantla, a municipality in the Western Highlands of Guatemala to design a tool for budget transparency and citizen engagement. 
 
-## [Download Report](https://www.dai.com/HCD.pdf){:.float-center}
-
+<p>
+<a href="https://www.dai.com/HCD.pdf"><p style="text-align:center">Download Report</a>
+</p>
 <!--more-->
 
 Throughout this process, DAI used a lean human-centered design (HCD) approach, balancing HCD best practices with programmatic realities to build empathy with the people of Chiantla; understand their daily challenges and expectations of their municipal government; and create a tool to that responds to those expectations by improving citizens' ability to hold their mayor and his administration accountable. 
