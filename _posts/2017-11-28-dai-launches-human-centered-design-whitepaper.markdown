@@ -1,7 +1,7 @@
 ---
 title: 'DAI Launches ''Lean HCD: A Case Study in Human-Centered Design in the Highlands
   of Guatemala'''
-date: 2017-11-30 17:00:00 -05:00
+date: 2017-11-28 15:03:00 -05:00
 tags:
 - Think Piece
 - Guatemala
@@ -36,8 +36,6 @@ With the launch of **Lean HCD: A Case Study in Human-Centered Design in the High
 * How did we engage local civil society and other social institutions in the process?
 
 * How did we work with citizens to understand the challenges they face and propose solutions?
-
-* How did this information
 
 * What role did [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) (formerly Digital Insights) play in determining the platform, form, and function of the tool?
 
