@@ -8,6 +8,7 @@ tags:
 - Think Piece
 Author: Greg Maly
 social-image: "/uploads/Tech%20for%20Resilience%20Poster.jpg"
+thumbnail: "/uploads/Tech%20for%20Resilience%20Poster.jpg"
 ---
 
 ![Tech for Resilience Poster.jpg](/uploads/Tech%20for%20Resilience%20Poster.jpg)
