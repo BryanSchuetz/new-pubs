@@ -35,6 +35,6 @@ With the launch of **Lean HCD: A Case Study in Human-Centered Design in the High
 * Which tenets of HCD did we compromise on and which did we hold firm?
 * What tips do we have for other embarking on similarly complex design processes for international development projects? 
 
-We look forward to your feedback, comments, and discussion about how lean human-centered design can be 
+We look forward to your feedback and comments on our approach, as well as discussion about how lean human-centered design can be applied to similar projects elsewhere. 
 
 ## [Download Report](https://www.dai.com/HCD.pdf){:.float-center}
