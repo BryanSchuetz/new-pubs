@@ -16,7 +16,7 @@ FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok.
 
 <!--more-->
 
-# What Does Resilience Really Mean?
+# What Does Resilience Mean?
 
 The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundation.org/) definition of resilience as the cornerstone of the conference:
 
