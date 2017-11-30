@@ -3,6 +3,9 @@ title: 'DAI Launches ''Lean HCD: A Case Study in Human-Centered Design in the Hi
   of Guatemala'''
 date: 2017-11-28 15:03:00 -05:00
 published: false
+tags:
+- Think Piece
+- Guatemala
 Author: Adam Fivenson
 ---
 
@@ -20,12 +23,13 @@ This process culminated on May 25th, 2017, when Mayor Carlos Alvarado Figueroa l
 `Mayor Alvarado launches Somos Chiantla'
 
 With the launch of **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala**, DAI answers the following questions:
-Where did the concept for Somos Chiantla come from?
-* How did DAI get buy-in from the municipal administration?
-* How did DAI work with civil society and citizens to understand the challenges they face and propose solutions?
-* What role did [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) play in this process?
+* Where did the concept for Somos Chiantla originate?
+* How did we get buy-in from the municipal administration?
+* How did we engage local civil society and other social institutions in the process?
+* How did we work with citizens to understand the challenges they face and propose solutions?
+* How did this information 
+* What role did [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) play in determining the platform, form, and function of the tool? 
 * Which tenets of HCD did we compromise on and which did we hold firm?
 * What tips do we have for other embarking on similarly complex design processes for international development projects? 
-
 
 Download: [https://www.dai.com/HCD.pdf](https://www.dai.com/HCD.pdf)
