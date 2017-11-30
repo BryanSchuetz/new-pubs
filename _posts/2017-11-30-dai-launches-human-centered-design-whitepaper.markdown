@@ -1,7 +1,8 @@
 ---
 title: 'DAI Launches ''Lean HCD: A Case Study in Human-Centered Design in the Highlands
   of Guatemala'''
-date: 2017-11-28 15:03:00 -05:00
+date: 2017-11-30 17:00:00 -05:00
+published: false
 tags:
 - Think Piece
 - Guatemala
@@ -13,6 +14,7 @@ thumbnail: "/uploads/HCD%20cover.jpg"
 ![HCD cover.jpg](/uploads/HCD%20cover.jpg)
 
 Today DAI launches **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala**. This landmark report is the culmination of 18 months of close collaboration between DAI's ICT team, the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project, and the people of Chiantla, a municipality in the Western Highlands of Guatemala to design a tool for budget transparency and citizen engagement.
+
 <p>
 <h2 style="text-align: center;"><a href="https://www.dai.com/HCD.pdf">Download Report</a></h2>
 </p>
@@ -35,6 +37,8 @@ With the launch of **Lean HCD: A Case Study in Human-Centered Design in the High
 * How did we engage local civil society and other social institutions in the process?
 
 * How did we work with citizens to understand the challenges they face and propose solutions?
+
+* How did this information
 
 * What role did [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) (formerly Digital Insights) play in determining the platform, form, and function of the tool?
 
