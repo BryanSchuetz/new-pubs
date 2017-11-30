@@ -37,4 +37,4 @@ With the launch of **Lean HCD: A Case Study in Human-Centered Design in the High
 
 We look forward to your feedback and comments on our approach, as well as discussion about how lean HCD can be an effective approach to similar projects elsewhere. 
 
-## [Download Report](https://www.dai.com/HCD.pdf){:.float-center}
+<h2 style="text-align: center;"><a href="https://www.dai.com/HCD.pdf">Download Report</a></h2>
