@@ -6,6 +6,7 @@ tags:
 - Think Piece
 Author: Chloe Messenger
 social-image: "/uploads/Cambodia%20DI%201.jpg"
+thumbnail: "/uploads/Cambodia%20DI%201.jpg"
 ---
 
 Raise your hand if you have experienced online harassment. I am sure the response is a virtual flurry. Although digital technologies have the ability to empower, connect, and liberalise, they can also serve as platforms for marginalisation and abuse.
