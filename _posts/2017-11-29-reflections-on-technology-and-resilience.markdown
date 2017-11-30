@@ -61,6 +61,8 @@ Multiple health-based technologies were showcased during the conference, includi
 
 Also noteworthy was the manufacturing work of [Field Ready](https://www.fieldready.org/), a company that uses 3D printing to develop supplies needed at the front lines of relief and recovery operations, as well as in support of health, water, and sanitation initiatives. Arguably their work also supports economic development, providing innovations in community-based manufacturing. 
 
+# Conclusions
+
 Coming away from the conference, I was impressed with the number of projects taking place across the Asia Pacific region that are improving the quality of life through innovations in technology. And in many ways, the simplest projects were the ones with the greatest impact.
 
 We look forward to following each of these groups as they continue to scale their projects, and support the development of resilient communities around the globe.
