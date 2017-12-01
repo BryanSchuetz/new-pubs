@@ -3,7 +3,8 @@ title: Frontiers in Digital Inclusion Event
 date: 2017-12-01 04:54:00 -05:00
 tags:
 - Digital Inclusion
-Author: "[Krista Baptista], [Chloe Messenger]"
+Author: "[Krista Baptista](https://dai-global-digital.com/authors/krista-baptista/),
+  [Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)"
 social-image: "/uploads/index-bd12e6.jpg"
 ---
 
