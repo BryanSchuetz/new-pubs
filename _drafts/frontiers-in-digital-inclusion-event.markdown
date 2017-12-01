@@ -4,6 +4,7 @@ date: 2017-12-01 04:54:00 -05:00
 tags:
 - Digital Inclusion
 Author: Krista Baptista
+social-image: "/uploads/index-bd12e6.jpg"
 ---
 
 Earlier this week, we were joined by [Alexandra Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/) of Panoply Digital , [Saloni Korlimarla](https://www.linkedin.com/in/saloni-korlimarla-5102685) of the Cherie Blair Foundation for Women , and [Guillaume Touchard](https://www.gsma.com/mobilefordevelopment/author/guillaume-touchard) from GSMAs Connected Society  Team at the delightful [Makers Academy](http://www.makersacademy.com/ ) space  in Shoreditch to discuss, debate and engage around the challenges and opportunities for increasing digital inclusion and access.  
