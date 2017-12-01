@@ -7,6 +7,7 @@ tags:
 Author: "[Gilead Mishaija](https://www.linkedin.com/in/gilead-mushaija-b015aa33/),
   [Mustapha Issa](https://www.linkedin.com/in/mustapha-issa-93b3a014a/)"
 social-image: "/uploads/principles%20photo%202.png"
+thumbnail: "/uploads/principles%20photo%202.png"
 ---
 
 *This is a guest post by Mustapha Issa, Field Manager and MAST Coordinator and Gilead Mushaija, GIS Database Specialist, both from DAI’s [Feed the Future Land Tenure Assistance project.](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta)*
