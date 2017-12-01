@@ -3,7 +3,7 @@ title: Frontiers in Digital Inclusion Event
 date: 2017-12-01 04:54:00 -05:00
 tags:
 - Digital Inclusion
-Author: Krista Baptista
+Author: Chloe Messenger
 social-image: "/uploads/index-bd12e6.jpg"
 ---
 
