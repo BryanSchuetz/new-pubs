@@ -17,7 +17,7 @@ FHI360 recently hosted its annual Technology for Resilience workshop in Bangkok.
 
 <!--more-->
 
-# What Does Resilience Mean?
+## What Does Resilience Mean?
 
 The conference used [Rockefeller Foundation’s](https://www.rockefellerfoundation.org/) definition of resilience as the cornerstone of the conference:
 
@@ -35,7 +35,7 @@ Let’s look at some of the technologies highlighted during the conference, and 
 
 ![Tech for Resilience Participants.jpg](/uploads/Tech%20for%20Resilience%20Participants.jpg)
 
-# Increased Sustainable Economic Well-Being
+## Increased Sustainable Economic Well-Being
 
 The first objective highlighted by USAID’s resilience work is that of economic development. The predominant economic development technologies showcased at the conference fell into the realm of agriculture.
 
@@ -43,7 +43,7 @@ Telenor Pakistan provided lessons from its work using robo-calls, text, and audi
 
 A second agriculture technology company, Colorado-based [aWhere](http://www.awhere.com/), leverage multiple sources of climate data to create crop-growth forecast models. And through their API, they enable farmers to make educated decisions on what crops are most likely to thrive on a given year.
 
-# Strengthened Institutions and Governance
+## Strengthened Institutions and Governance
 
 The second objective is that of good governance, which includes equitable management of natural and land resources, as well as effective coordination between local and national governments during times of emergency.
 
@@ -51,7 +51,7 @@ At the conference, the [Cadasta Foundation](http://cadasta.org/) introduced its 
 
 With coordination in mind, the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) and crowdsourcing platform [PetaBencana](https://info.petabencana.id/about/) presented their technologies, which include the development of community-based maps for common situational awareness during disaster, and then the use of crowdsourced and government reporting on emergency events to improve response operations. Also present was the [Nepal Flying Labs](http://nepal.werobotics.org/) team, which used drones to collect data on damaged infrastructure after the 2015 earthquake for the purposes of search and rescue and cargo delivery.
 
-# Improved Health and Nutrition
+## Improved Health and Nutrition
 
 The last pillar highlighted in the USAID report is that of improved access to health and nutrition, which encompasses everything from chronic disease prevention, to maternal and child health, to care for water and sanitation.
 
@@ -61,7 +61,7 @@ Multiple health-based technologies were showcased during the conference, includi
 
 Also noteworthy was the manufacturing work of [Field Ready](https://www.fieldready.org/), a company that uses 3D printing to develop supplies needed at the front lines of relief and recovery operations, as well as in support of health, water, and sanitation initiatives. Arguably their work also supports economic development, providing innovations in community-based manufacturing.
 
-# Conclusions
+## Takeaways
 
 Coming away from the conference, I was impressed with the number of projects taking place across the Asia Pacific region that are improving the quality of life through innovations in technology. And in many ways, the simplest projects were the ones with the greatest impact.
 
