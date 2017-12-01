@@ -1,5 +1,5 @@
 ---
-title: Reflections on Technology and Resilience
+title: Tailored Technology Enhances Resilience Programming
 date: 2017-11-30 10:00:00 -05:00
 categories:
 - Resilience
