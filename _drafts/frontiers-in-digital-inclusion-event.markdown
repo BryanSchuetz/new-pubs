@@ -6,7 +6,10 @@ tags:
 Author: Krista Baptista
 ---
 
-Earlier this week, we were joined by Alexandra Tyers of Panoply Digital , Saloni Korlimarla of the Cherie Blair Foundation for Women , and Guillaume Touchard from GSMAs Connected Society  Team at the delightful Makers Academy space  in Shoreditch to discuss, debate and engage around the challenges and opportunities for increasing digital inclusion and access.  
+Earlier this week, we were joined by [Alexandra Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/) of Panoply Digital , [Saloni Korlimarla](https://www.linkedin.com/in/saloni-korlimarla-5102685) of the Cherie Blair Foundation for Women , and [Guillaume Touchard](https://www.gsma.com/mobilefordevelopment/author/guillaume-touchard) from GSMAs Connected Society  Team at the delightful Makers Academy space  in Shoreditch to discuss, debate and engage around the challenges and opportunities for increasing digital inclusion and access.  
+
+![index-93222b.jpg](/uploads/index-93222b.jpg)
+
 Given that nearly 70 %  of people living below the poverty line in developing countries own a mobile phone, continuing to push for broader reach and inclusion presents a clear opportunity to reach new people with access to relevant services and content.  This is only possible with the foundation of infrastructure such as mobile broadband coverage and the associated policy and regulatory frameworks in place.  We talked a lot about how this can then result in women, youth, disabled, rural and other groups being included – as long as digital and traditional literacy are supported.  Data and evidence of impact are critical pieces of the inclusion puzzle as well.  
 
 The evening included participants from the existing ICT4D meet-up group as well as new participants who are interested in engaging in the international development and inclusion space.  If you were not able to make the event, we hope to see you in early 2018 at our next London Digital happening.  In the meantime, below are three key takeaways from the event.
