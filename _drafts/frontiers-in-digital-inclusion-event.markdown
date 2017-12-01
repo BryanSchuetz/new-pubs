@@ -1,5 +1,5 @@
 ---
-title: Frontiers in Digital Inclusion Event
+title: 3 Key Takeaways From Our London Digital Inclusion Event
 date: 2017-12-01 04:54:00 -05:00
 tags:
 - Digital Inclusion
@@ -25,7 +25,7 @@ The evening included participants from the existing ICT4D Meetup group as well a
 
 **2. Data and evidence—disaggregate, disaggregate, disaggregate:** We’ve got to push our partners, donors, and country governments to disaggregate their data by gender in order to really be able to assess the effectiveness of interventions, drill down into impacts, and demonstrate to the skeptics and new private sector partners where the opportunities and gaps are! Drawing on her work co-authoring the recent Gender and ICT Toolkit, Alex really honed in on the challenges of not having accurate data on women’s use of mobile phones by country and how it affects our ability to design activities and advocate for real change.
 
-3. Infra-sharing should be the future: Guillaume presented a compelling case to connect people based on the possibilities of economic gains. He also talked about the wasted investments (think multiple telecoms placing their own cell towers right next to one another). When companies come together, the net investment for each one is reduced and therefore the value proposition for extending access via cell towers goes up.
+**3. Infra-sharing should be the future:** Guillaume presented a compelling case to connect people based on the possibilities of economic gains. He also talked about the wasted investments (think multiple telecoms placing their own cell towers right next to one another). When companies come together, the net investment for each one is reduced and therefore the value proposition for extending access via cell towers goes up.
 
 ![9.jpg](/uploads/9.jpg)
 
