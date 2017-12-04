@@ -1,6 +1,8 @@
 ---
 title: 3 Key Takeaways From Our London Digital Inclusion Event
 date: 2017-12-04 04:54:00 -05:00
+categories:
+- Innovation
 tags:
 - Digital Inclusion
 Author: "[Krista Baptista](https://dai-global-digital.com/authors/krista-baptista/),
