@@ -13,9 +13,10 @@ social-image: "/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg"
 
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
 
+![Cassandra Mickish Gross Headshot.jpg](/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg){:.float-right}
 This week I’m speaking with [Cassandra Mickish Gross](https://www.k4health.org/blog/authors/cassandra-mickish) from the Johns Hopkins Center for Communication Programs to discuss the U.S. Agency for International Development (USAID)-funded [Knowledge for Health Project](https://www.k4health.org/). In this post Cassandra reflects on her experience developing a digital health platform. We explore the choice between an established solution with the potential to scale, versus one that has clear evidence of impact on health outcomes. During the interview, she reflects on the [Faster to Zero Initiative](https://www.k4health.org/projects/sub-saharan-africa), implemented in partnership with [HealthEnabled](http://healthenabled.org/wordpress/), that aims to support the Ministries of Health of South Africa and Uganda in the scale-up of digital health tools and accelerate the elimination of mother-to-child transmission of HIV.
 
-![Cassandra Mickish Gross Headshot.jpg](/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg){:.float-left}
+![Cassandra Mickish Gross Headshot.jpg](/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg){:.float-right}
 
 <!--more-->
 
