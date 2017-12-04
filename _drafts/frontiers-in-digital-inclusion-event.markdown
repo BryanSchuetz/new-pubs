@@ -29,4 +29,4 @@ The evening included participants from the [London ICT4D Meetup](https://www.mee
 
 ![9.jpg](/uploads/9.jpg)
 
-In the end, Saloni, Alex, and Guillaume each looked at inclusion from a different perspective. To increase inclusion, we need each of these perspectives as well as those of the people in the countries where we work, to truly change the story of who has access and who doesn’t.
+In the end, Saloni, Alex, and Guillaume each looked at inclusion from a different perspective. We need each of these perspectives as well as those of the people in the countries where we work, to truly change the story of who has access and who doesn’t.
