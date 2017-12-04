@@ -25,7 +25,7 @@ The evening included participants from the [London ICT4D Meetup](https://www.mee
 
 ![2-fa02df.jpg](/uploads/2-fa02df.jpg)
 
-`Saloni Korlimarla discusses her work at the Cherie Blair Foundation`
+`Saloni Korlimarla discusses her work at the Cherie Blair Foundation.`
 
 **2. Data and evidence—disaggregate, disaggregate, disaggregate:** We’ve got to push our partners, donors, and country governments to disaggregate their data by gender in order to really be able to assess the effectiveness of interventions, drill down into impacts, and demonstrate to the skeptics and new private sector partners where the opportunities and gaps are! Drawing on her work co-authoring the recent Gender and ICT Toolkit, Alex really honed in on the challenges of not having accurate data on women’s use of mobile phones by country and how it affects our ability to design activities and advocate for real change.
 
