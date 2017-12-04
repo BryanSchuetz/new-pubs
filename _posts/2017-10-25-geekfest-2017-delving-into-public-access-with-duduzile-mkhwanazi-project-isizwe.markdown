@@ -7,6 +7,7 @@ tags:
 - Digital Inclusion
 Author: Chloe Messenger
 social-image: "/uploads/geekfest-59fe5f.jpg"
+thumbnail: "/uploads/blog1.jpg"
 ---
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
