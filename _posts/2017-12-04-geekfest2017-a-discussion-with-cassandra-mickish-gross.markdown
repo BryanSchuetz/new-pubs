@@ -31,10 +31,10 @@ Unfortunately, the time and cost requirements were beyond the scope of our two-y
 
 Although it’s always great to have rigorous impact evaluation data, it’s not always feasible. For the national MomConnect program as a whole, we don’t have a formal impact evaluation report yet. If we had to wait for that before scaling up or expanding to MomConnect PMTCT, we would still be waiting.
 
-**Were there any challenges in using an existing platform as opposed to developing a new one?**
+**Question: Were there any challenges in using an existing platform as opposed to developing a new one?**
 
 The main challenge we faced when using an existing platform is that we did not have full control over the data that we wanted to gather to monitor the project. Since we did not design the platform from scratch, we had to work within the existing functionality and could not always use the platform to automatically collect the exact indicators we wanted. However, we determined that the advantages of choosing a more cost effective and sustainable solution backed by the government outweighed this challenge.
 
-**Does the project have plans to conduct an impact evaluation in the future?**
+**Question: Does the project have plans to conduct an impact evaluation in the future?**
 
 There is still limited evidence on the impact of mHealth initiatives on PMTCT. There is some evidence that sending reminders to take ARVs influences adherence, but there is still more to learn about how to use technology to most effectively to support mothers, families, and health care providers. Although we have not conducted a rigorous impact evaluation, the NDoH has already committed to scaling up MomConnect PMTCT nationwide as a fully integrated component of the overall MomConnect initiative. This is a huge success for our program in terms of sustainability but does make evaluating its impact more difficult. Once scaled nationally, MomConnect PMTCT will be the standard of care for pregnant women living with HIV, so identifying an appropriate comparison group will be challenging.
