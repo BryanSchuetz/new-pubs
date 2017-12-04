@@ -17,11 +17,15 @@ Given that [nearly 70 percent](http://www.itu.int/en/ITU-D/Statistics/Documents/
 
 ![1-1b1ed6.jpg](/uploads/1-1b1ed6.jpg)
 
+\`Panelists from left to right (Guillaume Touchard, Saloni Korlimarla, Alexandra Tyers, Krista Baptista)\`
+
 The evening included participants from the [London ICT4D Meetup](https://www.meetup.com/London-ICT4D/?_cookie-check=CIL_XX1NkchBCQnx) group as well as people interested in engaging in the international development and inclusion space. If you were not able to make the event, we hope to see you in early 2018 at the next London ICT4D happening. In the meantime, below are three key takeaways from the event.
 
 **1. Tailored solutions:** Saloni discussed the importance of matching needs, available technologies, and cultural issues when designing solutions—with a particular focus on women. Simple adjustments such as having women mobile phone agents at kiosks can exponentially increase uptake and digital literacy among women. Saloni gave an example from a CBF project in India, with the VodaPhone Foundation, where a network of rural saleswomen (*RudiBens*) were able to order stock via text message, generate reports on their simple feature phones, and access information essential to running their businesses, increasing revenue by up to three times. Knowing your audience and pushing to understand their motivations is critical to effective integration of digital tools.
 
 ![2-fa02df.jpg](/uploads/2-fa02df.jpg)
+
+\`Saloni Korlimarla discusses her work at the Cherie Blair Foundation\`
 
 **2. Data and evidence—disaggregate, disaggregate, disaggregate:** We’ve got to push our partners, donors, and country governments to disaggregate their data by gender in order to really be able to assess the effectiveness of interventions, drill down into impacts, and demonstrate to the skeptics and new private sector partners where the opportunities and gaps are! Drawing on her work co-authoring the recent Gender and ICT Toolkit, Alex really honed in on the challenges of not having accurate data on women’s use of mobile phones by country and how it affects our ability to design activities and advocate for real change.
 
