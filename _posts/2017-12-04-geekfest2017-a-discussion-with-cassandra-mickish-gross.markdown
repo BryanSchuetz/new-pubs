@@ -15,7 +15,7 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
 
 This week I’m speaking with [Cassandra Mickish Gross](https://www.k4health.org/blog/authors/cassandra-mickish) from the Johns Hopkins Center for Communication Programs to discuss the U.S. Agency for International Development (USAID)-funded [Knowledge for Health Project](https://www.k4health.org/). In this post Cassandra reflects on her experience developing a digital health platform. We explore the choice between an established solution with the potential to scale, versus one that has clear evidence of impact on health outcomes. During the interview, she reflects on the [Faster to Zero Initiative](https://www.k4health.org/projects/sub-saharan-africa), implemented in partnership with [HealthEnabled](http://healthenabled.org/wordpress/), that aims to support the Ministries of Health of South Africa and Uganda in the scale-up of digital health tools and accelerate the elimination of mother-to-child transmission of HIV.
 
-![Cassandra Mickish Gross Headshot.jpg](/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg)
+![Cassandra Mickish Gross Headshot.jpg](/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg){:.float-left}
 
 <!--more-->
 
@@ -25,7 +25,7 @@ When determining which platform to use there is always a question of whether to 
 
 **Question: Was your team apprehensive about adding another component to MomConnect without the evidence to prove that this component would prevent mother-to-child transmission (PMTCT)?**
 
-Although we designed for scale from the beginning of the project, we focused first on promoting and training on MomConnect PMTCT in five districts so that we could learn from a demonstration phase before rolling out nationwide. We wanted to do a rigorous evaluation of the MomConnect PMTCT component to determine if enrollment in the program affected whether women attended more appointments, were more likely to adhere to antiretrovirals (ARVs), were more likely to bring their babies for recommended HIV testing, and ultimately whether their babies were less likely to become infected with HIV. 
+Although we designed for scale from the beginning of the project, we focused first on promoting and training on MomConnect PMTCT in five districts so that we could learn from a demonstration phase before rolling out nationwide. We wanted to do a rigorous evaluation of the MomConnect PMTCT component to determine if enrollment in the program affected whether women attended more appointments, were more likely to adhere to antiretrovirals (ARVs), were more likely to bring their babies for recommended HIV testing, and ultimately whether their babies were less likely to become infected with HIV.
 
 Unfortunately, the time and cost requirements were beyond the scope of our two-year project. However, we have begun the process of conducting operations research by interviewing facility workers and participants to understand their experience with the new component of MomConnect. We will also conduct a brief survey of participants through their mobile phones. The lessons learned from this practical research will be used to improve the program and inform decisions for scale up.
 
