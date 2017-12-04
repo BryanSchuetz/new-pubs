@@ -17,7 +17,7 @@ Given that [nearly 70 percent](http://www.itu.int/en/ITU-D/Statistics/Documents/
 
 ![1-1b1ed6.jpg](/uploads/1-1b1ed6.jpg)
 
-`Panelists from left to right (Guillaume Touchard, Saloni Korlimarla, Alexandra Tyers, Krista Baptista)`
+`Panelists, from left, included Guillaume Touchard, Saloni Korlimarla, Alexandra Tyers, and Krista Baptista.`
 
 The evening included participants from the [London ICT4D Meetup](https://www.meetup.com/London-ICT4D/?_cookie-check=CIL_XX1NkchBCQnx) group as well as people interested in engaging in the international development and inclusion space. If you were not able to make the event, we hope to see you in early 2018 at the next London ICT4D happening. In the meantime, below are three key takeaways from the event.
 
