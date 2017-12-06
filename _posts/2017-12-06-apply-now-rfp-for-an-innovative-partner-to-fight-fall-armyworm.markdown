@@ -9,11 +9,11 @@ tags:
 Author: "[Yasmine Williams]"
 ---
 
-Today, DAI releases an RFP looking for a prize implementation partner to confront fall armyworm head on. This partner will join DAI and USAID in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa.
+Today, DAI releases a request for proposals for a prize implementation partner to confront fall armyworm head on. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa.
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 `A farmer in Ethiopia inspects his fall armyworm-infested maize. (Photo Credit: FAO/Tamiru Legesse)`
 
-**Backstory**
+**First, A Little Background**
 
 Right now, the fall armyworm is marching across the African continent, causing more than [$13 billion in crop losses](https://www.cabi.org/Uploads/isc/Dfid%20Faw%20Inception%20Report04may2017final.pdf). If left unchecked, this insect could continue to cost [$6 billion a year](https://www.theguardian.com/global-development/2017/oct/25/invasion-of-maize-eating-caterpillars-worsens-hunger-crisis-in-africa-fall-armyworm). What makes this pest so devastating to farmers across the region? First of all, it [not only eats the vegetative parts of the plants, but also consumes the reproductive portions](https://www.brookings.edu/blog/africa-in-focus/2017/06/07/fall-armyworm-outbreaks-in-the-sadc-region-how-to-respond/), completely destroying crops. Secondly, it can [fly up to 1,600 kilometers (nearly 1,000 miles)](https://www.brookings.edu/blog/africa-in-focus/2017/06/07/fall-armyworm-outbreaks-in-the-sadc-region-how-to-respond/), meaning it can easily migrate to surrounding farms and countries. Finally, the [insect attacks more than 80 plant species](http://www.cimmyt.org/press_release/multi-pronged-approach-key-for-effectively-defeating-fall-armyworm-in-africa/), including maize, which more than 200 million people across sub-Saharan Africa depend upon. Basically, this insect eats fast, travels far, and poses a critical threat to Africa’s food security.
 
