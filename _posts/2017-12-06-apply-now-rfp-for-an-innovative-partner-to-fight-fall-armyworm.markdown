@@ -7,6 +7,7 @@ categories:
 tags:
 - Agriculture
 Author: "[Yasmine Williams]"
+social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
 Today, DAI releases a request for proposals for a prize implementation partner to confront fall armyworm head on. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa.
