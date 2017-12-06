@@ -10,7 +10,7 @@ Author: "[Yasmine Williams]"
 
 Today, DAI releases an RFP looking for a prize implementation partner to confront fall armyworm head on. This partner will join DAI and USAID in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa.
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
-`A farmer in Ethiopia inspects his fall armyworm-infested maize. (Photo Credit: FAO/Tamiru Legesse`
+`A farmer in Ethiopia inspects his fall armyworm-infested maize. (Photo Credit: FAO/Tamiru Legesse)`
 
 **Backstory**
 
@@ -22,7 +22,7 @@ In response, USAID is launching a call for innovative, digital solutions to help
 
 **Prize launch:** Early 2018
 **Deadline for proposals:** January 5, 2018 at 5 PM EST
-**Contact: **DigitalFrontiers@dai.com
+\*\*Contact: \*\*DigitalFrontiers@dai.com
 **Estimated award:** $645,000 - $745,000
 Scope: See the full RFP\[LINK\].
 
