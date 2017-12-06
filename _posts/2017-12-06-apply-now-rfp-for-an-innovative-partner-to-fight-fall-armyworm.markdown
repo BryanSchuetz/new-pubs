@@ -1,5 +1,5 @@
 ---
-title: 'Apply Now: RFP for an Innovative Partner to Fight Fall Armyworm'
+title: Do You Have An Innovative Idea to Fight Fall Armyworm? Apply Now
 date: 2017-12-06 14:40:00 -05:00
 published: false
 categories:
