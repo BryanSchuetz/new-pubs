@@ -15,6 +15,8 @@ Today, DAI releases a request for proposals for a prize implementation partner t
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 `A farmer in Ethiopia inspects his fall armyworm-infested maize. (Photo Credit: FAO/Tamiru Legesse)`
 
+<!--more-->
+
 ## First, A Little Background
 
 Right now, the fall armyworm is marching across the African continent, causing more than [$13 billion](https://www.cabi.org/Uploads/isc/Dfid%20Faw%20Inception%20Report04may2017final.pdf) in crop losses. If left unchecked, this insect could continue to cost [$6 billion](https://www.theguardian.com/global-development/2017/oct/25/invasion-of-maize-eating-caterpillars-worsens-hunger-crisis-in-africa-fall-armyworm) a year. What makes this pest so devastating to farmers across the region? First of all, it not only [eats](https://www.brookings.edu/blog/africa-in-focus/2017/06/07/fall-armyworm-outbreaks-in-the-sadc-region-how-to-respond/) the vegetative parts of the plants, but also consumes the reproductive portions, completely destroying crops. Secondly, it can [fly](https://www.brookings.edu/blog/africa-in-focus/2017/06/07/fall-armyworm-outbreaks-in-the-sadc-region-how-to-respond/) up to 1,600 kilometers (nearly 1,000 miles), meaning it can easily migrate to surrounding farms and countries. Finally, the insect [attacks](http://www.cimmyt.org/press_release/multi-pronged-approach-key-for-effectively-defeating-fall-armyworm-in-africa/) more than 80 plant species, including maize, which more than 200 million people across sub-Saharan Africa depend upon. Basically, this insect eats fast, travels far, and poses a critical threat to Africa’s food security.
@@ -49,4 +51,4 @@ We’re looking for an experienced open innovation competition firm to run this 
 
 Read the [RFP](https://goo.gl/bdk9jR). Have the expertise we’re looking for? All applications are due January 5 at 5 p.m. EST.
 
-Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow [@FeedtheFuture](https://twitter.com/FeedtheFuture) for the latest updates.
+Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow @FeedtheFuture for the latest updates.
