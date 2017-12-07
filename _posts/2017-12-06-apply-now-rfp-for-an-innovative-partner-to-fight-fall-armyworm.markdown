@@ -6,7 +6,7 @@ categories:
 - Innovation
 tags:
 - Agriculture
-Author: "[Yasmine Williams]"
+Author: Yasmine Williams
 social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
