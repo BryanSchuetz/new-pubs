@@ -26,13 +26,9 @@ In response, USAID is launching a call for innovative, digital solutions to help
 ## What to Know
 
 * **Prize launch:** Early 2018
-
 * **Deadline for proposals:** January 5, 2018, at 5 p.m. EST
-
 * **Contact:** DigitalFrontiers@dai.com
-
 * **Estimated award:** Between $645,000 and $745,000
-
 * **Scope:** [See the full RFP](https://goo.gl/bdk9jR)
 
 ## Who Should Apply?
@@ -40,15 +36,12 @@ In response, USAID is launching a call for innovative, digital solutions to help
 We’re looking for an experienced open innovation competition firm to run this prize from start to finish. The ideal partner has wide range of experience, including:
 
 * Designing open innovation competitions with USAID
-
 * Working in developing country contexts
-
 * Designing and running a communications and outreach campaign
-
 * Managing events
 
 ## What Next?
 
 Read the [RFP](https://goo.gl/bdk9jR). Have the expertise we’re looking for? All applications are due January 5 at 5 p.m. EST.
 
-Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow @FeedtheFuture for the latest updates.
+Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow [@FeedtheFuture](https://twitter.com/FeedtheFuture) for the latest updates.
