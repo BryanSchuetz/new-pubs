@@ -1,7 +1,6 @@
 ---
 title: 'Apply Now: RFP for an Innovative Partner to Fight Fall Armyworm'
 date: 2017-12-07 14:40:00 -05:00
-published: false
 categories:
 - Innovation
 tags:
@@ -25,9 +24,13 @@ In response, USAID is launching a call for innovative, digital solutions to help
 ## What to Know
 
 * **Prize launch:** Early 2018
+
 * **Deadline for proposals:** January 5, 2018, at 5 p.m. EST
+
 * **Contact:** DigitalFrontiers@dai.com
+
 * **Estimated award:** Between $645,000 and $745,000
+
 * **Scope:** [See the full RFP](https://goo.gl/bdk9jR)
 
 ## Who Should Apply?
@@ -35,8 +38,11 @@ In response, USAID is launching a call for innovative, digital solutions to help
 We’re looking for an experienced open innovation competition firm to run this prize from start to finish. The ideal partner has wide range of experience, including:
 
 * Designing open innovation competitions with USAID
+
 * Working in developing country contexts
+
 * Designing and running a communications and outreach campaign
+
 * Managing events
 
 ## What Next?
