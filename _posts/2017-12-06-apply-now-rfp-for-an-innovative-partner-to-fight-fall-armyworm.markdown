@@ -23,11 +23,15 @@ In response, USAID is launching a call for innovative, digital solutions to help
 
 **What to Know**
 
-**Prize launch:** Early 2018
-**Deadline for proposals:** January 5, 2018, at 5 p.m. EST
-**Contact:** DigitalFrontiers@dai.com
-**Estimated award:** Between $645,000 and $745,000
-**Scope:** [See the full RFP](https://goo.gl/bdk9jR)
+* **Prize launch:** Early 2018
+
+* **Deadline for proposals:** January 5, 2018, at 5 p.m. EST
+
+* **Contact:** DigitalFrontiers@dai.com
+
+* **Estimated award:** Between $645,000 and $745,000
+
+* **Scope:** [See the full RFP](https://goo.gl/bdk9jR)
 
 **Who Should Apply?**
 
