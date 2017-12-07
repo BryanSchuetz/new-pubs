@@ -27,7 +27,7 @@ In response, USAID is launching a call for innovative, digital solutions to help
 **Deadline for proposals:** January 5, 2018, at 5 p.m. EST
 **Contact:** DigitalFrontiers@dai.com
 **Estimated award:** Between $645,000 and $745,000
-**Scope:** See the full RFP\[LINK\]
+**Scope:** [See the full RFP](https://goo.gl/bdk9jR)
 
 **Who Should Apply?**
 
@@ -43,6 +43,6 @@ We’re looking for an experienced open innovation competition firm to run this 
 
 **What Next?**
 
-Read the RFP\[LINK\]. Have the expertise we’re looking for? Apply now\[LINK\]! All applications are due January 5 at 5 p.m. EST.
+Read the [RFP](https://goo.gl/bdk9jR). Have the expertise we’re looking for? Apply now\[LINK\]! All applications are due January 5 at 5 p.m. EST.
 
-Looking for other ways to help us confront the fall armyworm threat head on? Please share the RFP\[LINK\] with your networks and encourage interested firms to apply. Also, make sure to follow @FeedtheFuture for the latest updates.
+Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow @FeedtheFuture for the latest updates.
