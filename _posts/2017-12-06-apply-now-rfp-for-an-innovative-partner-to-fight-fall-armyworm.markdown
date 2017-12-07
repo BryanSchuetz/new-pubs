@@ -6,7 +6,7 @@ categories:
 - Innovation
 tags:
 - Agriculture
-Author: '[Digital Frontiers]("https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df")'
+Author: Digital Frontiers
 social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
