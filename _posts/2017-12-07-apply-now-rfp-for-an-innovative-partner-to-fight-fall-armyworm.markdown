@@ -5,7 +5,7 @@ categories:
 - Innovation
 tags:
 - Agriculture
-Author: Digital Frontiers
+Author: "[Yasmine Williams](mailto:DigitalFrontiers@dai.com)"
 social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 thumbnail: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
