@@ -6,7 +6,7 @@ categories:
 - Innovation
 tags:
 - Agriculture
-Author: Yasmine Williams
+Author: '[Digital Frontiers]("https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df")'
 social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
@@ -47,6 +47,6 @@ We’re looking for an experienced open innovation competition firm to run this 
 
 **What Next?**
 
-Read the [RFP](https://goo.gl/bdk9jR). Have the expertise we’re looking for? [Apply now](https://goo.gl/bdk9jR)! All applications are due January 5 at 5 p.m. EST.
+Read the [RFP](https://goo.gl/bdk9jR). Have the expertise we’re looking for? All applications are due January 5 at 5 p.m. EST.
 
 Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow @FeedtheFuture for the latest updates.
