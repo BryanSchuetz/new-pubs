@@ -47,6 +47,5 @@ The quantitative and qualitative tools are broken into 6 modules such as mobile 
 Through this resource, we’re hoping to enable a more data-driven (and gender disaggregated data-driven) approach to ICT4D implementation, and in doing so, helping to close the digital gender divide.
 
 *To find out more about the work that Alex and Panoply Digital do, check out:*
-[www.panoplydigital.com](http://www.panoplydigital.com)
-@Panoply_Digital 
+[their website](http://www.panoplydigital.com) and Twitter @Panoply_Digital 
 @alex_tyers
