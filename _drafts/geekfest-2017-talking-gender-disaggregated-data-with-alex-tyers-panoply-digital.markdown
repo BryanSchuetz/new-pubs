@@ -41,7 +41,7 @@ Unfortunately not. There is a general lack of reliable gender disaggregated data
 
 **4. How can we go about getting this data then?**
 
-I’m glad you asked! USAID Digital Inclusion recently commissioned the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf), which I co-authored alongside Katie Highet and Hannah Skelly from [FHI360](https://www.fhi360.org/), in an effort to address this gap.
+I’m glad you asked! In an effort to address this gap USAID Digital Inclusion recently commissioned the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf), which I co-authored alongside Katie Highet and Hannah Skelly from [FHI360](https://www.fhi360.org/).
 
 [The Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) facilitates the collection of gender disaggregated information with a series of resources, including survey questions, focus group discussion guides, and technical competence tests, as well as instruction on research design and data sorting. It’s designed to be user-friendly, practical, and to be used by everyone - not just academics and M&E experts.
 
