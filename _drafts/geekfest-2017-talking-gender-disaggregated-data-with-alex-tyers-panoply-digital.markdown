@@ -12,12 +12,13 @@ social-image: "/uploads/geekfest-68336c.jpg"
 ![geekfest-d47647.jpg](/uploads/geekfest-d47647.jpg){:.float-left}
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
 
+![AlexTyers_Headshot_May2017.jpg](/uploads/AlexTyers_Headshot_May2017.jpg){:.float-right}
+`Alexandra Tyers, Panoply Digital`
 This week I chat with [Alexandra Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/), Co-Founder and Director at Panoply Digital. Alex is a M4D professional, specialising in M&E for innovation, mobile learning in emerging markets, and women’s mobile and ICT access and use. Alex recently spoke at our [Frontiers in Digital Inclusion Event](https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html) in London on the importance of gender disaggregated data for digital access and inclusion. We invited her to chat with us on the blog to delve into this topic further.
 
 <!--more-->
 
-![AlexTyers_Headshot_May2017.jpg](/uploads/AlexTyers_Headshot_May2017.jpg){:.float-right}
-`Alexandra Tyers, Panoply Digital`
+
 
 **1. Why does gender disaggregated data matter for digital access and inclusion?**
 
