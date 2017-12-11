@@ -19,7 +19,7 @@ This week I chat with [Alexandra (Alex) Tyers](https://www.panoplydigital.com/ou
 
 
 
-**1. Why does gender disaggregated data matter for digital access and inclusion?**
+##1. Why does gender disaggregated data matter for digital access and inclusion?
 
 Well, we know that there is global gendered inequality, and these gender inequalities in the physical world are being replicated in the digital world. Globally a woman is [14% less likely](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/02/GSM0001_03232015_GSMAReport_NEWGRAYS-Web.pdf) to own a mobile phone than a man, but this is much higher in certain regions: 38% in South Asia, 45% in countries like Niger. We also see similar trends in access to the internet: a woman is [50% less likely](http://webfoundation.org/docs/2015/10/womens-rights-online_Report.pdf) to be online than a man in the same education and income group. There is also a growing gender gap in usage: even if a woman does have access to a mobile or the internet, she tends to use them in different ways to men: less frequently, more use of basic services such as voice, much less use of more complex services such as mobile internet or mobile money.
 
@@ -27,7 +27,7 @@ With the development sector’s increasing use of mobile and ICT as a vehicle to
 
 The first step towards closing this gender digital divide is understanding it. We need more gender disaggregated data to help us get a better understanding of (and evidence of) women’s access to and use of ICTs in particular countries or regions. We can then use this data to identify where the gaps are and what the barriers to women’s access and use of ICT are, and then what the opportunities are for development programming.
 
-**2. How can gender-disaggregated data help us design better programmes?**
+##2. How can gender-disaggregated data help us design better programs?
 
 This gender data gap is an issue, and it does affect programme design if people don’t understand how women use and experience ICT from the beginning and at a community level.
 
@@ -37,11 +37,11 @@ But do we know how many women in the community actually have access to a mobile 
 
 We may know a little bit about the women in general, but if we don’t know about their mobile access and use, we run the risk of designing a digital component of a programme that doesn’t meet the needs of female users as well as men. Having this gender-disaggregated data and insights at a community or subnational level can help us anticipate the barriers that women in particular may face, and work towards overcoming them to ensure women are included in any digital component.
 
-**3. Is there a lot of gender disaggregated data out there?**
+##3. Is there a lot of gender disaggregated data out there?
 
 Unfortunately not. There is a general lack of reliable gender disaggregated data, a lack of standardised data, and the data sets that do exist are often fragmented. Although this is slowly changing- with excellent reports and data from people like the [Web Foundation](https://webfoundation.org/) and [GSMA Connected Women](https://www.gsma.com/mobilefordevelopment/programmes/connected-women)- it can be expensive to collect data, time-consuming, and a lot of the larger studies that have come out on this topic are already outdated.  In addition, the limited gender-disaggregated national statistics that do exist are not indicative of every community: we really do need to know how people, especially women,  interact with technology at a community level.
 
-**4. How can we go about getting this data then?**
+##4. How can we go about getting this data then?
 
 I’m glad you asked! Recognising the data gap, and to try and move this forward, USAID Digital Inclusion recently commissioned the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf), which I co-authored alongside Katie Highet and Hannah Skelly from [FHI360](https://www.fhi360.org/).
 
