@@ -16,7 +16,7 @@ This week I chat with [Alexandra Tyers](https://www.panoplydigital.com/our-team/
 
 <!--more-->
 
-![AlexTyers_Headshot_May2017.jpg](/uploads/AlexTyers_Headshot_May2017.jpg)
+![AlexTyers_Headshot_May2017.jpg](/uploads/AlexTyers_Headshot_May2017.jpg){:.float-right}
 `Alexandra Tyers, Panoply Digital`
 
 **1. Why does gender disaggregated data matter for digital access and inclusion?**
