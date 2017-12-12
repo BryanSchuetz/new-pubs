@@ -17,8 +17,6 @@ This week I chat with [Alexandra (Alex) Tyers](https://www.panoplydigital.com/ou
 
 <!--more-->
 
-
-
 **1. Why does gender disaggregated data matter for digital access and inclusion?**
 
 Well, we know that there is global gender inequality, and that inequalities in the physical world are being replicated in the digital world. Globally a woman is [14% less likely](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/02/GSM0001_03232015_GSMAReport_NEWGRAYS-Web.pdf) to own a mobile phone than a man, but this is much higher in certain regions: 38% in South Asia, 45% in countries like Niger. We also see similar trends in access to the internet. A woman is [50% less likely](http://webfoundation.org/docs/2015/10/womens-rights-online_Report.pdf) to be online than a man in the same education and income group. There is also a growing gender gap in usage. Even if a woman does have access to a mobile phone or the internet, she tends to use them in different ways to men - less frequently, more use of basic services such as voice, and less use of complex services such as mobile internet or mobile money.
@@ -44,8 +42,6 @@ Unfortunately not. There is a general lack of reliable gender disaggregated data
 I’m glad you asked! In an effort to address this gap USAID Digital Inclusion recently commissioned the [Gender and ICT Survey Toolkit](https://www.usaid.gov/sites/default/files/documents/15396/Gender_and_ICT_Toolkit.pdf), which I co-authored alongside Katie Highet and Hannah Skelly from [FHI360](https://www.fhi360.org/).
 
 [The Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) facilitates the collection of gender disaggregated information with a series of resources, including survey questions, focus group discussion guides, and technical competence tests, as well as instruction on research design and data sorting. It’s designed to be user-friendly, practical, and to be used by everyone - not just academics and M&E experts.
-
-The quantitative and qualitative tools are broken into six modules including mobile access, digital financial services, mAgri, technical proficiency, and demographic. You can pick and choose as you like, but we recommend using them in combination. You can break down your findings into key themes such as control, social norms and digital literacy, which should allow the user to understand the specific barriers at play at a sub-national level, and how to address them.
 
 Through this resource, we’re hoping to enable a more data-driven (and gender disaggregated data-driven) approach to ICT4D implementation, and in doing so, help to close the digital gender divide.
 
