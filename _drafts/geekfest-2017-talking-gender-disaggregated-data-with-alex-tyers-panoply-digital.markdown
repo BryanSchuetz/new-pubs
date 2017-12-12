@@ -1,5 +1,5 @@
 ---
-title: 'GeekFest 2017: Talking Gender Disaggregated Data with Alex Tyers, Panoply
+title: 'GeekFest 2017: Talking Gender-Disaggregated Data with Alex Tyers, Panoply
   Digital'
 date: 2017-12-14 09:00:00 -05:00
 tags:
@@ -13,13 +13,13 @@ social-image: "/uploads/geekfest-68336c.jpg"
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
 
 ![AlexTyers_Headshot_May2017.jpg](/uploads/AlexTyers_Headshot_May2017.jpg){:.float-right}
-This week I chat with [Alexandra (Alex) Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/), Co-Founder and Director at Panoply Digital. Alex is a M4D professional, specializing in M&E for innovation, mobile learning in emerging markets, and women’s mobile and ICT access and use. Alex recently spoke at our [Frontiers in Digital Inclusion Event](https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html) in London on the importance of gender disaggregated data for digital access and inclusion. We invited her to chat with us on the blog to delve into this topic further.
+This week I chat with [Alexandra "Alex" Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/), Co-Founder and Director at Panoply Digital. Alex is a mobiles for development (M4D) professional, specializing in monitoring and evaluation for innovation, mobile learning in emerging markets, and women’s mobile and ICT access and use. Alex recently spoke at our [Frontiers in Digital Inclusion Event](https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html) in London on the importance of gender-disaggregated data for digital access and inclusion. 
 
 <!--more-->
 
-**1. Why does gender disaggregated data matter for digital access and inclusion?**
+**1. Why does gender-disaggregated data matter?**
 
-Well, we know that there is global gender inequality, and that inequalities in the physical world are being replicated in the digital world. Globally a woman is [14% less likely](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/02/GSM0001_03232015_GSMAReport_NEWGRAYS-Web.pdf) to own a mobile phone than a man, but this is much higher in certain regions: 38% in South Asia, 45% in countries like Niger. We also see similar trends in access to the internet. A woman is [50% less likely](http://webfoundation.org/docs/2015/10/womens-rights-online_Report.pdf) to be online than a man in the same education and income group. There is also a growing gender gap in usage. Even if a woman does have access to a mobile phone or the internet, she tends to use them in different ways to men - less frequently, more use of basic services such as voice, and less use of complex services such as mobile internet or mobile money.
+Well, we all know that there is global gender inequality, and that inequalities in the physical world are being replicated in the digital world. Globally, a woman is [14 percent less likely](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2016/02/GSM0001_03232015_GSMAReport_NEWGRAYS-Web.pdf) to own a mobile phone than a man, but this is much higher in certain regions: 38 percent in South Asia, 45 percent in countries like Niger. We also see similar trends in access to the internet. A woman is [50 percent less likely](http://webfoundation.org/docs/2015/10/womens-rights-online_Report.pdf) to be online than a man in the same education and income group. There is also a growing gender gap in usage. Even if a woman does have access to a mobile phone or the internet, she tends to use them in different ways to men - less frequently, more use of basic services such as voice, and less use of complex services such as mobile internet or mobile money.
 
 With the international development sector’s increasing use of mobile and ICT as a vehicle to deliver services, we run the risk of exacerbating this global inequality, particularly if we use mobile services without understanding and addressing the digital gender divide.
 
