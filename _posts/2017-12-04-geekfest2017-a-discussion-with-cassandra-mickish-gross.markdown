@@ -8,6 +8,7 @@ tags:
 - Health
 Author: Talia Dweck
 social-image: "/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg"
+thumbnail: "/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg"
 ---
 
 Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
