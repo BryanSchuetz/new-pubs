@@ -7,6 +7,7 @@ tags:
 - Data
 Author: Chloe Messenger
 social-image: "/uploads/geekfest-68336c.jpg"
+thumbnail: "/uploads/AlexTyers_Headshot_May2017.jpg"
 ---
 
 ![geekfest-d47647.jpg](/uploads/geekfest-d47647.jpg){:.float-left}
