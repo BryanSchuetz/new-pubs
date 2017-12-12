@@ -1,7 +1,7 @@
 ---
 title: 'GeekFest 2017: Talking Gender Disaggregated Data with Alex Tyers, Panoply
   Digital'
-date: 2017-12-08 09:00:00 -05:00
+date: 2017-12-14 09:00:00 -05:00
 tags:
 - Geekfest 2017
 - Data
