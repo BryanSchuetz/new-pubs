@@ -51,7 +51,6 @@ We’re looking for an experienced open innovation competition firm to run this 
 
 Read the [RFP](https://goo.gl/bdk9jR). Have the expertise we’re looking for? All applications are due January 5 at 5 p.m. EST.
 
-Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow [@FeedtheFuture](https://twitter.com/FeedtheFuture) for the latest updates.
+Questions are due December 13, 2017, 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Answers will be posted December 18, 2017 by 5pm EST on the DAI Digital [blog](https://dai-global-digital.com/).
 
-*Reminder, questions are due December 13, 2017, 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
-Answers will be posted December 18, 2017 by 5pm EST on the DAI Digital blog*
+Looking for other ways to help us confront the fall armyworm threat head on? Please share [the RFP](https://goo.gl/bdk9jR) with your networks and encourage interested firms to apply. Also, make sure to follow [@FeedtheFuture](https://twitter.com/FeedtheFuture) for the latest updates.
