@@ -11,7 +11,7 @@ social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 thumbnail: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
-On December 7, DAI released a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below. 
+On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html) a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below. 
 
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 
