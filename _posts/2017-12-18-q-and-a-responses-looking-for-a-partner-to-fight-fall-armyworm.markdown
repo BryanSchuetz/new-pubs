@@ -5,9 +5,9 @@ published: false
 social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
-![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
+On December 7, DAI released a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below. 
 
-On December 7, DAI released a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have had a chance to review your questions, and have provided answers to each below.
+![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 
  1. **How much prize money is expected to be awarded?**
     USAID will contribute up to $400,000 in prize awards. Other partners may contribute additional funding or in-kind support.
