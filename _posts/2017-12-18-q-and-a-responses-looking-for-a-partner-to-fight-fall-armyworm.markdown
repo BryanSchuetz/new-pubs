@@ -2,7 +2,13 @@
 title: 'Q&A Responses: Looking For a Partner to Fight Fall Armyworm'
 date: 2017-12-18 14:44:00 -05:00
 published: false
+categories:
+- Innovation
+tags:
+- Agriculture
+Author: "[Yasmine Williams](mailto:DigitalFrontiers@dai.com)"
 social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
+thumbnail: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
 On December 7, DAI released a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below. 
