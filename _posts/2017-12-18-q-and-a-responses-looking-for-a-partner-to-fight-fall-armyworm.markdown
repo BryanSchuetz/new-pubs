@@ -33,14 +33,14 @@ On December 7, DAI released a request for proposals for a prize implementation p
  6. **What kinds of innovations or innovation categories are you seeking within the prize competition?**
     Any form of digital innovation that might enable farmers and those who support them to identify and intervene in incidence of fall armyworm. This can be apps, telephone call-in services, mobile-enabled trusted peer networks, audio recordings, etc. The critical ingredient is that the tool or approach include some digital component and demonstrates results in the course of the prize.
 
- 7. \*\*You list a desire to launch the challenge in early 2018. At the same time, you have launch listed as phase 2 of the project. Can you please confirm that early 2018 would be the time that the project is started?
-    \*\*Some early scoping and design is being conducted now (phase 1) to enable Digital Frontiers and the selected offeror to launch the prize in early 2018.
+ 7. **You list a desire to launch the challenge in early 2018. At the same time, you have launch listed as phase 2 of the project. Can you please confirm that early 2018 would be the time that the project is started?**
+    Some early scoping and design is being conducted now (phase 1) to enable Digital Frontiers and the selected offeror to launch the prize in early 2018.
 
  8. **Can you confirm if logistical costs for the convening are included or not included in the total value of the project?**
     See question 5.
 
- 9. \*\*Can you confirm that the prize purse for the challenge is included or not included in the total value of the project? Is there an expected value for the prize purse?
-    \*\*See questions 1-3.
+ 9. **Can you confirm that the prize purse for the challenge is included or not included in the total value of the project? Is there an expected value for the prize purse?**
+    See questions 1-3.
 
 10. **Can you confirm who would be expected to manage the prize purse for the challenge?**
     See question 3.
