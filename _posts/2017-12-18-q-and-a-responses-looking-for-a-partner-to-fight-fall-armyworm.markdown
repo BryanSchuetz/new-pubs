@@ -2,12 +2,15 @@
 title: 'Q&A Responses: Looking For a Partner to Fight Fall Armyworm'
 date: 2017-12-18 14:44:00 -05:00
 published: false
+social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
+
+![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 
 On December 7, DAI released a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have had a chance to review your questions, and have provided answers to each below.
 
- 1. **How much prize money is expected to be awarded?
-    **USAID will contribute up to $400,000 in prize awards. Other partners may contribute additional funding or in-kind support.
+ 1. **How much prize money is expected to be awarded?**
+    USAID will contribute up to $400,000 in prize awards. Other partners may contribute additional funding or in-kind support.
 
  2. **How many prizes are expected to be awarded?**
     Four.
@@ -24,14 +27,14 @@ On December 7, DAI released a request for proposals for a prize implementation p
  6. **What kinds of innovations or innovation categories are you seeking within the prize competition?**
     Any form of digital innovation that might enable farmers and those who support them to identify and intervene in incidence of fall armyworm. This can be apps, telephone call-in services, mobile-enabled trusted peer networks, audio recordings, etc. The critical ingredient is that the tool or approach include some digital component and demonstrates results in the course of the prize.
 
- 7. **You list a desire to launch the challenge in early 2018. At the same time, you have launch listed as phase 2 of the project. Can you please confirm that early 2018 would be the time that the project is started?
-    **Some early scoping and design is being conducted now (phase 1) to enable Digital Frontiers and the selected offeror to launch the prize in early 2018.
+ 7. \*\*You list a desire to launch the challenge in early 2018. At the same time, you have launch listed as phase 2 of the project. Can you please confirm that early 2018 would be the time that the project is started?
+    \*\*Some early scoping and design is being conducted now (phase 1) to enable Digital Frontiers and the selected offeror to launch the prize in early 2018.
 
  8. **Can you confirm if logistical costs for the convening are included or not included in the total value of the project?**
     See question 5.
 
- 9. **Can you confirm that the prize purse for the challenge is included or not included in the total value of the project? Is there an expected value for the prize purse?
-    **See questions 1-3.
+ 9. \*\*Can you confirm that the prize purse for the challenge is included or not included in the total value of the project? Is there an expected value for the prize purse?
+    \*\*See questions 1-3.
 
 10. **Can you confirm who would be expected to manage the prize purse for the challenge?**
     See question 3.
@@ -39,14 +42,14 @@ On December 7, DAI released a request for proposals for a prize implementation p
 11. **Is there a specified end date for the consultant's role on this project?**
     If you are asking about implementing the prize, November 2018.
 
-12. **Can you please confirm that the M&E plan component does not expect implementation of the M&E plan, or just design of the implementation plan?
-    **The selected firm is expected to develop an MEL plan with a Results Framework outlining the data they will be gathering and collect and report that data. The selected firm should also complete some survey/interviews of the “process” of the prize and share those results including a summary of what worked and what didn’t. The selected firm should also make recommendations of what data should be collected for the next 2-5 years on the development outcomes of the prize, but is not expected to implement that data collection under the scope and budget of this award.
+12. **Can you please confirm that the M&E plan component does not expect implementation of the M&E plan, or just design of the implementation plan?**
+    The selected firm is expected to develop an MEL plan with a Results Framework outlining the data they will be gathering and collect and report that data. The selected firm should also complete some survey/interviews of the “process” of the prize and share those results including a summary of what worked and what didn’t. The selected firm should also make recommendations of what data should be collected for the next 2-5 years on the development outcomes of the prize, but is not expected to implement that data collection under the scope and budget of this award.
 
 13. **Would you consider giving the forms expected to be submitted for the response that were included in pdf in a Word format instead?
     **Word versions of these documents will be downloadable via the DAI Digital blog.
 
-14. **We are considering submitting together with a partner organization. Will collaborative submissions be accepted?
-    **Yes, collaborative submissions will be accepted, but Digital Frontiers can only sign a contract with one organization. Therefore, if selected, one of the partners must be identified as the legal partner.
+14. **We are considering submitting together with a partner organization. Will collaborative submissions be accepted?**
+    Yes, collaborative submissions will be accepted, but Digital Frontiers can only sign a contract with one organization. Therefore, if selected, one of the partners must be identified as the legal partner.
 
 15. **Do you currently have a corporate-wide innovation tool and Program, or are you looking for a stand-alone solution for this initiative? Is the current application a packaged or custom developed solution? If packaged, what is the current product that is being used?
     **We do not have a corporate wide standard innovation tool. We will look to offerors to propose a stand-alone solution that they deem will best fit the activity.
@@ -75,26 +78,31 @@ On December 7, DAI released a request for proposals for a prize implementation p
     The selected offeror will implement the process under the oversight of the Digital Frontiers project manager. The judging panel will select which ideas and concepts should be developed.
 
 23. **When do you think you will come to a conclusion to select your innovation business partner?
-    **Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.
+    Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.**
 
 24. **On page 6, Evaluation Criteria, Technical Approach, C, it is stated that the offeror should describe an approach to “adopting a prize that has already been 80% designed”. DAI’s intent/request is unclear to the offeror. Kindly clarify the request.
     **With a view toward enabling USAID to issue this prize in early 2018, DAI staff will have conducted some preliminary research and partnership outreach. We anticipate producing or have produced the following materials:
-    - A draft communications and outreach strategy
-    - Early social media content
-    - A draft application questionnaire
-    - A draft prize fact sheet
-    - A draft prize handbook including an overview of the problem, the prize criteria, timeline and structure, terms, conditions, and sample application questions.
-    \
-    This content will reflect our early research as well as the preferences and clearance processes of USAID stakeholders. That said, we know the importance of the selected offeror owning and standing by the design choices and prize structure. We anticipate revisions to the prize design and associated supporting content that reflect the Offeror’s point of view, research, connections, and expertise. We have messaged the need for the selected Offeror to own the prize to the client and urged them not to be wedded to what DAI has produced. We will not take offense to changes, but we want to emphasize the need to meet USAID’s aggressive timeline.
+
+    * A draft communications and outreach strategy
+
+    * Early social media content
+
+    * A draft application questionnaire
+
+    * A draft prize fact sheet
+
+    * A draft prize handbook including an overview of the problem, the prize criteria, timeline and structure, terms, conditions, and sample application questions.
+      \
+      This content will reflect our early research as well as the preferences and clearance processes of USAID stakeholders. That said, we know the importance of the selected offeror owning and standing by the design choices and prize structure. We anticipate revisions to the prize design and associated supporting content that reflect the Offeror’s point of view, research, connections, and expertise. We have messaged the need for the selected Offeror to own the prize to the client and urged them not to be wedded to what DAI has produced. We will not take offense to changes, but we want to emphasize the need to meet USAID’s aggressive timeline.
 
 25. **On Page 7, Evaluation Criteria, Personnel Qualifications, C, it is stated that staff must have experience working directly with USAID. Is this a strict requirement?
     **See Question 17.
 
-26. **In terms of firm experience, is it most important to USAID that a bidder has had experience working with USAID directly, or is it sufficient for a firm to demonstrate experience leading prize projects of similar size and complexity?
-    **See Question 16.
+26. **In terms of firm experience, is it most important to USAID that a bidder has had experience working with USAID directly, or is it sufficient for a firm to demonstrate experience leading prize projects of similar size and complexity?**
+    See Question 16.
 
-27. **Can bidders submit teams that contain a mixture of staff and experienced contractors?
-    **Yes.
+27. **Can bidders submit teams that contain a mixture of staff and experienced contractors?**
+    Yes.
 
 28. **How many hours per week will the USAID project managers and communications officer be available to participate in the project? How many hours per week will an in-country consultant be available to participate in the project?
     **See Question 20.
@@ -116,28 +124,18 @@ On December 7, DAI released a request for proposals for a prize implementation p
 
 34. **What are expectations of on the ground time or teams in Africa?**\
     We anticipate the selected offeror to spend sufficient time in East and West Africa to accomplish the following:
-    \
     ● Validate any prize design choices with end-users and stakeholders.
-    \
     ● Design, coordinate and facilitate the co-creation workshops.
-    \
     ● Design, coordinate or manage any field testing, assessment, or end-user consultations (or, if they opt not to assign staff to perform this work, co-design and delegate this work to a selected, appropriate prize partner based in Africa)
-    \
     ● Design and host any prize launch or prize award events (if deemed relevant and cost-effective by the offeror).
-    \
     ● Conduct any scoped activities in the MEL plan.
 
 35. **What is the primary reason for the emphasis on previous work with USAID?**
     The emphasis on experience with USAID stems from the following reasons:
-    \
     ● A need for a short onboarding time.
-    \
     ● A preference for trust and a track record.
-    \
     ● A preference for awareness and adherence to USAID’s clearance regimes.
-    \
     ● A willingness to be flexible during a process that includes multiple stakeholders across multiple bureaus and timelines.
-    \
     ● An interest in drawing lessons from design and management approaches that have proven successful during previous competitions.
     \
     While we do not consider a lack of USAID experience insurmountable, possessing these strengths will certainly be advantageous.
@@ -153,11 +151,9 @@ On December 7, DAI released a request for proposals for a prize implementation p
 
 39. **Will the winning team be able to reference this work in future case studies, press releases, and client references?**
     Yes.
-    \
-    40\. How many bids does Digital Frontiers expect to receive?
-    \
+
+40. **How many bids does Digital Frontiers expect to receive?**
     As the RFP has been distributed publicly, it is not possible to anticipate the number of proposals we will receive.
-    \
-    41\. How many final prize award winners will be selected?
-    \
+
+41. **How many final prize award winners will be selected?**\
     See Question 2.
