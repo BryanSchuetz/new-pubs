@@ -51,7 +51,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 12. **Can you please confirm that the M&E plan component does not expect implementation of the M&E plan, or just design of the implementation plan?**
     The selected firm is expected to develop an MEL plan with a Results Framework outlining the data they will be gathering and collect and report that data. The selected firm should also complete some survey/interviews of the “process” of the prize and share those results including a summary of what worked and what didn’t. The selected firm should also make recommendations of what data should be collected for the next 2-5 years on the development outcomes of the prize, but is not expected to implement that data collection under the scope and budget of this award.
 
-13. **Would you consider giving the forms expected to be submitted for the response that were included in pdf in a Word format instead?** Word versions of these documents will be downloadable via the DAI Digital blog.
+13. **Would you consider giving the forms expected to be submitted for the response that were included in pdf in a Word format instead?** Word versions of these documents are available [here](https://drive.google.com/file/d/11e_1H6Q6t34fl7DkJr63WTwDM2Cbt62S/view?usp=sharing).
 
 14. **We are considering submitting together with a partner organization. Will collaborative submissions be accepted?**
     Yes, collaborative submissions will be accepted, but Digital Frontiers can only sign a contract with one organization. Therefore, if selected, one of the partners must be identified as the legal partner.
