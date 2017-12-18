@@ -56,8 +56,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 14. **We are considering submitting together with a partner organization. Will collaborative submissions be accepted?**
     Yes, collaborative submissions will be accepted, but Digital Frontiers can only sign a contract with one organization. Therefore, if selected, one of the partners must be identified as the legal partner.
 
-15. **Do you currently have a corporate-wide innovation tool and Program, or are you looking for a stand-alone solution for this initiative? Is the current application a packaged or custom developed solution? If packaged, what is the current product that is being used?
-    **We do not have a corporate wide standard innovation tool. We will look to offerors to propose a stand-alone solution that they deem will best fit the activity.
+15. **Do you currently have a corporate-wide innovation tool and Program, or are you looking for a stand-alone solution for this initiative? Is the current application a packaged or custom developed solution? If packaged, what is the current product that is being used?** We do not have a corporate wide standard innovation tool. We will look to offerors to propose a stand-alone solution that they deem will best fit the activity.
 
 16. **Are you only considering vendors, that have experience with DAI and USAID?**
     No, but we are operating under a tight timeframe and we seek to identify an offeror who can quickly build client trust and adapt to USAID processes to effectively launch and administer the prize.
@@ -82,8 +81,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 22. **Who will be the evaluation team to manage the process and seek which ideas and concepts should be developed?**
     The selected offeror will implement the process under the oversight of the Digital Frontiers project manager. The judging panel will select which ideas and concepts should be developed.
 
-23. **When do you think you will come to a conclusion to select your innovation business partner?
-    **Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.
+23. **When do you think you will come to a conclusion to select your innovation business partner?** Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.
 
 24. **On page 6, Evaluation Criteria, Technical Approach, C, it is stated that the offeror should describe an approach to “adopting a prize that has already been 80% designed”. DAI’s intent/request is unclear to the offeror. Kindly clarify the request.**
     With a view toward enabling USAID to issue this prize in early 2018, DAI staff will have conducted some preliminary research and partnership outreach. We anticipate producing or have produced the following materials:
@@ -160,5 +158,4 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 40. **How many bids does Digital Frontiers expect to receive?**
     As the RFP has been distributed publicly, it is not possible to anticipate the number of proposals we will receive.
 
-41. **How many final prize award winners will be selected?**\
-    See Question 2.
+41. **How many final prize award winners will be selected? **See Question 2.
