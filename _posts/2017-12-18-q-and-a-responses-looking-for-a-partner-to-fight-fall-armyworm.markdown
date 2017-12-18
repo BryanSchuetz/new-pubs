@@ -1,7 +1,6 @@
 ---
 title: 'Q&A Responses: Looking For a Partner to Fight Fall Armyworm'
 date: 2017-12-18 14:44:00 -05:00
-published: false
 categories:
 - Innovation
 tags:
