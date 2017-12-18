@@ -15,6 +15,8 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 
+<!--more-->
+
  1. **How much prize money is expected to be awarded?**
     USAID will contribute up to $400,000 in prize awards. Other partners may contribute additional funding or in-kind support.
 
@@ -126,21 +128,31 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 
 34. **What are expectations of on the ground time or teams in Africa?**\
     We anticipate the selected offeror to spend sufficient time in East and West Africa to accomplish the following:
-    - Validate any prize design choices with end-users and stakeholders.
-    - Design, coordinate and facilitate the co-creation workshops.
-    - Design, coordinate or manage any field testing, assessment, or end-user consultations (or, if they opt not to assign staff to perform this work, co-design and delegate this work to a selected, appropriate prize partner based in Africa)
-    - Design and host any prize launch or prize award events (if deemed relevant and cost-effective by the offeror).
-    - Conduct any scoped activities in the MEL plan.
+
+    * Validate any prize design choices with end-users and stakeholders.
+
+    * Design, coordinate and facilitate the co-creation workshops.
+
+    * Design, coordinate or manage any field testing, assessment, or end-user consultations (or, if they opt not to assign staff to perform this work, co-design and delegate this work to a selected, appropriate prize partner based in Africa)
+
+    * Design and host any prize launch or prize award events (if deemed relevant and cost-effective by the offeror).
+
+    * Conduct any scoped activities in the MEL plan.
 
 35. **What is the primary reason for the emphasis on previous work with USAID?**
     The emphasis on experience with USAID stems from the following reasons:
-    - A need for a short onboarding time.
-    - A preference for trust and a track record.
-    - A preference for awareness and adherence to USAID’s clearance regimes.
-    - A willingness to be flexible during a process that includes multiple stakeholders across multiple bureaus and timelines.
-    - An interest in drawing lessons from design and management approaches that have proven successful during previous competitions.
-    \
-    While we do not consider a lack of USAID experience insurmountable, possessing these strengths will certainly be advantageous.
+
+    * A need for a short onboarding time.
+
+    * A preference for trust and a track record.
+
+    * A preference for awareness and adherence to USAID’s clearance regimes.
+
+    * A willingness to be flexible during a process that includes multiple stakeholders across multiple bureaus and timelines.
+
+    * An interest in drawing lessons from design and management approaches that have proven successful during previous competitions.
+      \
+      While we do not consider a lack of USAID experience insurmountable, possessing these strengths will certainly be advantageous.
 
 36. **What organization (USAID, DAI, the implementer who wins the contract, or other) will be legally accountable for the prize money as well as hosting the prize and responsible for everything from website security, to liability for participation, etc?**
     The implementer of the contract will be legally responsible.
