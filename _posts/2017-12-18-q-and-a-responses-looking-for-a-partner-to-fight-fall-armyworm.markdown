@@ -11,7 +11,7 @@ social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 thumbnail: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
-On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html) a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below. 
+On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html) a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below.
 
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 
@@ -51,8 +51,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 12. **Can you please confirm that the M&E plan component does not expect implementation of the M&E plan, or just design of the implementation plan?**
     The selected firm is expected to develop an MEL plan with a Results Framework outlining the data they will be gathering and collect and report that data. The selected firm should also complete some survey/interviews of the “process” of the prize and share those results including a summary of what worked and what didn’t. The selected firm should also make recommendations of what data should be collected for the next 2-5 years on the development outcomes of the prize, but is not expected to implement that data collection under the scope and budget of this award.
 
-13. **Would you consider giving the forms expected to be submitted for the response that were included in pdf in a Word format instead?
-    **Word versions of these documents will be downloadable via the DAI Digital blog.
+13. **Would you consider giving the forms expected to be submitted for the response that were included in pdf in a Word format instead? **Word versions of these documents will be downloadable via the DAI Digital blog.
 
 14. **We are considering submitting together with a partner organization. Will collaborative submissions be accepted?**
     Yes, collaborative submissions will be accepted, but Digital Frontiers can only sign a contract with one organization. Therefore, if selected, one of the partners must be identified as the legal partner.
@@ -69,8 +68,8 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 18. **How many vendors have been invited to join the RFP?**
     The RFP has been sent to a list of potential providers compiled through market research, as well as posted on several public websites. Because of this wide distribution, it is not possible to know how many organizations have received the RFP.
 
-19. **What decision was led to making these vendors be part of the RFP, did you scan the market? Did you select vendors based on their ranking in a research analyst report, if so which ones were considered?
-    **We scanned the market and have an exhaustive list of potential offerors. The RFP was also posted on several public websites.
+19. **What decision was led to making these vendors be part of the RFP, did you scan the market? Did you select vendors based on their ranking in a research analyst report, if so which ones were considered?**
+    We scanned the market and have an exhaustive list of potential offerors. The RFP was also posted on several public websites.
 
 20. **Does the company have an internal innovation service team that supports the design, deployment and operation of its divisional innovation teams/initiatives? If so can you please describe this function with reference to the following elements (team size, skill set, dedicated or part-time, reporting chain, etc).**\
     The offeror can expect that Digital Frontiers will support the prize with staff including a project manager and a communications officer conversant in innovation methods. These staff will have \~25% of their time available to support the offeror and client. Two field-based project managers in the selected countries (30% time) will also be available to conduct outreach, stakeholder coordination and logistics. The offeror will report to the Digital Frontiers project manager.
@@ -84,10 +83,10 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
     The selected offeror will implement the process under the oversight of the Digital Frontiers project manager. The judging panel will select which ideas and concepts should be developed.
 
 23. **When do you think you will come to a conclusion to select your innovation business partner?
-    Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.**
+    **Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.
 
-24. **On page 6, Evaluation Criteria, Technical Approach, C, it is stated that the offeror should describe an approach to “adopting a prize that has already been 80% designed”. DAI’s intent/request is unclear to the offeror. Kindly clarify the request.
-    **With a view toward enabling USAID to issue this prize in early 2018, DAI staff will have conducted some preliminary research and partnership outreach. We anticipate producing or have produced the following materials:
+24. **On page 6, Evaluation Criteria, Technical Approach, C, it is stated that the offeror should describe an approach to “adopting a prize that has already been 80% designed”. DAI’s intent/request is unclear to the offeror. Kindly clarify the request.**
+    With a view toward enabling USAID to issue this prize in early 2018, DAI staff will have conducted some preliminary research and partnership outreach. We anticipate producing or have produced the following materials:
 
     * A draft communications and outreach strategy
 
@@ -101,8 +100,8 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
       \
       This content will reflect our early research as well as the preferences and clearance processes of USAID stakeholders. That said, we know the importance of the selected offeror owning and standing by the design choices and prize structure. We anticipate revisions to the prize design and associated supporting content that reflect the Offeror’s point of view, research, connections, and expertise. We have messaged the need for the selected Offeror to own the prize to the client and urged them not to be wedded to what DAI has produced. We will not take offense to changes, but we want to emphasize the need to meet USAID’s aggressive timeline.
 
-25. **On Page 7, Evaluation Criteria, Personnel Qualifications, C, it is stated that staff must have experience working directly with USAID. Is this a strict requirement?
-    **See Question 17.
+25. **On Page 7, Evaluation Criteria, Personnel Qualifications, C, it is stated that staff must have experience working directly with USAID. Is this a strict requirement?**
+    See Question 17.
 
 26. **In terms of firm experience, is it most important to USAID that a bidder has had experience working with USAID directly, or is it sufficient for a firm to demonstrate experience leading prize projects of similar size and complexity?**
     See Question 16.
@@ -110,14 +109,14 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 27. **Can bidders submit teams that contain a mixture of staff and experienced contractors?**
     Yes.
 
-28. **How many hours per week will the USAID project managers and communications officer be available to participate in the project? How many hours per week will an in-country consultant be available to participate in the project?
-    **See Question 20.
+28. **How many hours per week will the USAID project managers and communications officer be available to participate in the project? How many hours per week will an in-country consultant be available to participate in the project?**
+    See Question 20.
 
 29. **Does USAID have any preferences regarding the composition of the judging panel?**
     The judging panel typically includes a mix of partners, subject matter experts, and USAID staff.
 
-30. **What is the anticipated background and qualifications of the in-country consultants? Will the in-country consultants or regional DAI project managers have an existing network that can be utilized to disseminate information about the prize?
-    **The in-country consultants will bring a mix of outreach, logistics, and stakeholder partnership skills; however, this will not be a substitute for the Offeror’s own dissemination efforts.
+30. **What is the anticipated background and qualifications of the in-country consultants? Will the in-country consultants or regional DAI project managers have an existing network that can be utilized to disseminate information about the prize?**
+    The in-country consultants will bring a mix of outreach, logistics, and stakeholder partnership skills; however, this will not be a substitute for the Offeror’s own dissemination efforts.
 
 31. **Is the primary goal of the prize to increase awareness and participation in the field, source a broad base of solutions or identify a solution to a measurable problem?**\
     The primary goal of the prize is to identify a solution to a measurable problem. Secondarily, it is to inspire a range of solutions to fall armyworm.
@@ -146,8 +145,8 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
     \
     While we do not consider a lack of USAID experience insurmountable, possessing these strengths will certainly be advantageous.
 
-36. **What organization (USAID, DAI, the implementer who wins the contract, or other) will be legally accountable for the prize money as well as hosting the prize and responsible for everything from website security, to liability for participation, etc?
-    **The implementer of the contract will be legally responsible.
+36. **What organization (USAID, DAI, the implementer who wins the contract, or other) will be legally accountable for the prize money as well as hosting the prize and responsible for everything from website security, to liability for participation, etc?**
+    The implementer of the contract will be legally responsible.
 
 37. **What are examples of solutions you’d like to see?**
     See Question 6.
