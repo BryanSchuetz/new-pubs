@@ -57,7 +57,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 14. **We are considering submitting together with a partner organization. Will collaborative submissions be accepted?**
     Yes, collaborative submissions will be accepted, but Digital Frontiers can only sign a contract with one organization. Therefore, if selected, one of the partners must be identified as the legal partner.
 
-15. **Do you currently have a corporate-wide innovation tool and program, or are you looking for a stand-alone solution for this initiative? Is the current application a packaged or custom developed solution? If packaged, what is the current product that is being used?** We do not have a corporate wide standard innovation tool. We will look to offerors to propose a stand-alone solution that they deem will best fit the activity.
+15. **Do you currently have a corporate-wide innovation tool and program, or are you looking for a stand-alone solution for this initiative? Is the current application a packaged or custom developed solution? If packaged, what is the current product that is being used?** We do not have a corporate-wide standard innovation tool. We will look to offerors to propose a stand-alone solution that they deem will best fit the activity.
 
 16. **Are you only considering vendors, that have experience with DAI and USAID?**
     No, but we are operating under a tight timeframe and we seek to identify an offeror who can quickly build client trust and adapt to USAID processes to effectively launch and administer the prize.
