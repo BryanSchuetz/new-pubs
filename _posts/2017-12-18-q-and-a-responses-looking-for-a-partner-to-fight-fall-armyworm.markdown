@@ -110,7 +110,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
     The judging panel typically includes a mix of partners, subject matter experts, and USAID staff.
 
 30. **What is the anticipated background and qualifications of the in-country consultants? Will the in-country consultants or regional DAI project managers have an existing network that can be utilized to disseminate information about the prize?**
-    The in-country consultants will bring a mix of outreach, logistics, and stakeholder partnership skills; however, this will not be a substitute for the Offeror’s own dissemination efforts.
+    The in-country consultants will bring a mix of outreach, logistics, and stakeholder partnership skills; however, this will not be a substitute for the offeror’s own dissemination efforts.
 
 31. **Is the primary goal of the prize to increase awareness and participation in the field, source a broad base of solutions or identify a solution to a measurable problem?**\
     The primary goal of the prize is to identify a solution to a measurable problem. Secondarily, it is to inspire a range of solutions to fall armyworm.
