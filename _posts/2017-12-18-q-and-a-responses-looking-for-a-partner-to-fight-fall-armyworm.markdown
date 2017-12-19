@@ -68,7 +68,7 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 18. **How many vendors have been invited to join the RFP?**
     The RFP has been sent to a list of potential providers compiled through market research, as well as posted on several public websites. Because of this wide distribution, it is not possible to know how many organizations have received the RFP.
 
-19. **What decision was led to making these vendors be part of the RFP, did you scan the market? Did you select vendors based on their ranking in a research analyst report, if so which ones were considered?**
+19. **What decision was led to making these vendors be part of the RFP? Did you scan the market? Did you select vendors based on their ranking in a research analyst report, if so which ones were considered?**
     We scanned the market and have an exhaustive list of potential offerors. The RFP was also posted on several public websites.
 
 20. **Does the company have an internal innovation service team that supports the design, deployment and operation of its divisional innovation teams/initiatives? If so can you please describe this function with reference to the following elements (team size, skill set, dedicated or part-time, reporting chain, etc).** The offeror can expect that Digital Frontiers will support the prize with staff including a project manager and a communications officer conversant in innovation methods. These staff will have \~25% of their time available to support the offeror and client. Two field-based project managers in the selected countries (30% time) will also be available to conduct outreach, stakeholder coordination and logistics. The offeror will report to the Digital Frontiers project manager.
