@@ -10,7 +10,7 @@ social-image: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 thumbnail: "/uploads/34880771941_a99698095a_z-089e50.jpg"
 ---
 
-On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html) a request for proposals for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below.
+On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html) a request for proposals (RFP) for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below.
 
 ![34880771941_a99698095a_z-089e50.jpg](/uploads/34880771941_a99698095a_z-089e50.jpg)
 
@@ -23,18 +23,18 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
     Four.
 
  3. **Is prize money included in the fixed price contract?**
-    No, USAID will furnish the prize money and disburse the prize awards.
+    No. USAID will furnish the prize money and disburse the prize awards.
 
  4. **Is DAI open to co-funders or prize match funding from other organizations as part of partnership development?**
     Yes.
 
- 5. **Are events additional expense outside the fixed price contract or to be budgeted within it?**
-    They are to be budgeted within the fixed price contract. This includes travel funds (for innovators and facilitators), staff, venue rental, AV, meals, and associated event materials.
+ 5. **Are events an additional expense outside the fixed price contract or to be budgeted within it?**
+    They are to be budgeted within the fixed price contract. This includes travel funds (for innovators and facilitators), staff, venue rental, audio-visual, meals, and associated event materials.
 
  6. **What kinds of innovations or innovation categories are you seeking within the prize competition?**
-    Any form of digital innovation that might enable farmers and those who support them to identify and intervene in incidence of fall armyworm. This can be apps, telephone call-in services, mobile-enabled trusted peer networks, audio recordings, etc. The critical ingredient is that the tool or approach include some digital component and demonstrates results in the course of the prize.
+    Any form of digital innovation that might enable farmers and those who support them to identify and intervene in the incidence of fall armyworm. This can be apps, telephone call-in services, mobile-enabled trusted peer networks, audio recordings, etc. The critical ingredient is that the tool or approach include some digital component and demonstrates results in the course of the prize.
 
- 7. **You list a desire to launch the challenge in early 2018. At the same time, you have launch listed as phase 2 of the project. Can you please confirm that early 2018 would be the time that the project is started?**
+ 7. **You list a desire to launch the challenge in early 2018. At the same time, you have the launch listed as phase 2 of the project. Can you please confirm that early 2018 would be the time that the project is started?**
     Some early scoping and design is being conducted now (phase 1) to enable Digital Frontiers and the selected offeror to launch the prize in early 2018.
 
  8. **Can you confirm if logistical costs for the convening are included or not included in the total value of the project?**
@@ -46,11 +46,11 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 10. **Can you confirm who would be expected to manage the prize purse for the challenge?**
     See question 3.
 
-11. **Is there a specified end date for the consultant's role on this project?**
+11. **Is there a specified end date for the consultant role on this project?**
     If you are asking about implementing the prize, November 2018.
 
-12. **Can you please confirm that the M&E plan component does not expect implementation of the M&E plan, or just design of the implementation plan?**
-    The selected firm is expected to develop an MEL plan with a Results Framework outlining the data they will be gathering and collect and report that data. The selected firm should also complete some survey/interviews of the “process” of the prize and share those results including a summary of what worked and what didn’t. The selected firm should also make recommendations of what data should be collected for the next 2-5 years on the development outcomes of the prize, but is not expected to implement that data collection under the scope and budget of this award.
+12. **Can you please confirm that the monitoring and evaluation (M&E) plan component does not expect implementation of the M&E plan, or just design of the implementation plan?**
+    The selected firm is expected to develop a monitoring, evaluation and learning (MEL) plan with a Results Framework outlining the data it will be gathering and collecting and report that data. The selected firm should also complete some survey/interviews of the “process” of the prize and share those results, including a summary of what worked and what didn’t. The selected firm should also make recommendations of what data should be collected for the next two to five years on the development outcomes of the prize, but is not expected to implement that data collection under the scope and budget of this award.
 
 13. **Would you consider giving the forms expected to be submitted for the response that were included in pdf in a Word format instead?** Word versions of these documents are available [here](https://drive.google.com/file/d/11e_1H6Q6t34fl7DkJr63WTwDM2Cbt62S/view?usp=sharing).
 
