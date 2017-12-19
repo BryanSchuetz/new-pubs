@@ -81,21 +81,17 @@ On December 7, [DAI released](https://dai-global-digital.com/apply-now-rfp-for-a
 22. **Who will be the evaluation team to manage the process and seek which ideas and concepts should be developed?**
     The selected offeror will implement the process under the oversight of the Digital Frontiers project manager. The judging panel will select which ideas and concepts should be developed.
 
-23. **When do you think you will come to a conclusion to select your innovation business partner?** Digital Frontiers hopes to select a winning response to this RFP by mid January 2018.
+23. **When do you think you will come to a conclusion to select your innovation business partner?** Digital Frontiers hopes to select a winning response to this RFP by mid-January 2018.
 
-24. **On page 6, Evaluation Criteria, Technical Approach, C, it is stated that the offeror should describe an approach to “adopting a prize that has already been 80% designed”. DAI’s intent/request is unclear to the offeror. Kindly clarify the request.**
+24. **On page 6, Evaluation Criteria, Technical Approach, C, it is stated that the offeror should describe an approach to “adopting a prize that has already been 80 percent designed”. DAI’s intent/request is unclear to the offeror. Kindly clarify the request.**
     With a view toward enabling USAID to issue this prize in early 2018, DAI staff will have conducted some preliminary research and partnership outreach. We anticipate producing or have produced the following materials:
 
     * A draft communications and outreach strategy
-
     * Early social media content
-
     * A draft application questionnaire
-
     * A draft prize fact sheet
-
-    * A draft prize handbook including an overview of the problem, the prize criteria, timeline and structure, terms, conditions, and sample application questions.
-      \
+    * A draft prize handbook, including an overview of the problem, the prize criteria, timeline and structure, terms, conditions, and sample application questions.
+      
       This content will reflect our early research as well as the preferences and clearance processes of USAID stakeholders. That said, we know the importance of the selected offeror owning and standing by the design choices and prize structure. We anticipate revisions to the prize design and associated supporting content that reflect the Offeror’s point of view, research, connections, and expertise. We have messaged the need for the selected Offeror to own the prize to the client and urged them not to be wedded to what DAI has produced. We will not take offense to changes, but we want to emphasize the need to meet USAID’s aggressive timeline.
 
 25. **On Page 7, Evaluation Criteria, Personnel Qualifications, C, it is stated that staff must have experience working directly with USAID. Is this a strict requirement?**
