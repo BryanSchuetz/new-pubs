@@ -1,0 +1,29 @@
+---
+title: Lean HCD
+date: 2017-12-20 15:51:00 -05:00
+published: false
+---
+
+Back in late 2015, I landed a unique design gig. The job came via Nexos Locales, a USAID-funded project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly-elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity. 
+ 
+After calling the mayor, I sat down and put together an activity plan to propose to the project leadership team. The plan involved a DAI design team getting to know the people of Chiantla, how they seek and share information, and what their expectations were of their municipality, and ever faithful to human-centered design (HCD) best practice, it featured:
+•	frequent, extended field visits to learn about the community and map stakeholders; 
+•	multiple instances of creative empathy-building with citizens; 
+•	a fully engaged, multidisciplinary design team, and;
+•	multiple rounds of iterative development. 
+ 
+Sadly, my dream HCD activity plan quickly met the sharp end of the reality stick; the activity wasn’t in the project’s workplan or budget, two significant hurdles for a project already managing 60 technical activities across 30 municipalities. Still, the idea was grounded in local demand, directly aligned to Nexos’ project objectives, and represented a chance for the project to ride the rising wave of mobile and smartphone adoption across the region. So, the project team gave a tentative green light, provided I could do the work, carried through to the development and launch of the solution, on a shoestring and without travel. 
+ 
+To agree would to make a designer's Faustian bargain: direct contact with end-users is a core tenet of any HCD process, and attempting to design without it was possible, but was it worth the risk? How could we empathize with the people of Chiantla if we couldn’t meet them? How could we make key decisions about the product without first-hand experience with users? Should I have said no and leave the project to spend their limited resources elsewhere?  Enter lean HCD.
+ 
+Just like traditional HCD, lean HCD is all about developing empathy with users to gain an understanding of the political, economic, and social factors that guide their behavior and decision-making, but with greater methodological flexibility to permit greater engagement of local experts, organizations, and citizens. Lean HCD is characterized by its focus on: 
+•	Balancing the demands of international development programming with best practices in empathy-based strategy and decision-making 
+•	Engaging local organizations, institutions and individuals in data collection and decision-making up front based on remote training and frequent interaction
+•	Outsourcing aspects of the design research and product development to local firms and experts who are closer to users both physically and culturally 
+•	Drawing in local organizations, institutions and individuals throughout the iteration and development of the solution 
+
+The focus on flexibility highlight the key distinction between the use of HCD in the donor-funded development space and HCD for the commercial sector: with donor agencies stretched for funding and proposal budgets stripped to the bone in an industry space that’s more competitive than ever, the incentive is to build in methodological flexibility while still creating empathy-based solutions that work. This is what lean HCD is all about. 
+ 
+So what did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipal authorities? How did we choose the platform, form, and function of the solution? What did we build? Instead of giving our process the blog treatment, we wrote Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala, to detail what we did and why. We hope it will serve as a useful guide for others who are dealing with the same types of challenges in designing solutions for overseas development projects. 
+
+Have you tried your own version of lean HCD? Let us know what you did and how it went here: ___ We’ll publish a few stories we hear on the Digital@DAI blog. 
