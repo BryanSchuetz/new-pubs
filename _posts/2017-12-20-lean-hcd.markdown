@@ -7,6 +7,9 @@ Author: Adam Fivenson
 
 Back in late 2015, I landed a unique design gig. The job came via [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales), a USAID-funded project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly-elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity. 
 
+![USE.jpeg](/uploads/USE.jpeg)
+`An enumerator conducts design research in the hills above Chiantla`
+
 <--more!-->
  
 After calling the mayor, I put together an activity plan to propose to the project's leadership team. The plan involved a DAI design team getting to know the people of Chiantla, how they seek and share information, how they use (or don't use) technology, and what their expectations were of their municipality. Ever faithful to human-centered design (HCD) best practice, it featured:
@@ -27,6 +30,6 @@ Just like traditional HCD, lean HCD is all about developing empathy with users t
 
 The focus on flexibility highlights the key distinction between the use of HCD in the donor-funded development space and HCD for the commercial sector: with donor agencies stretched for funding and proposal budgets stripped to the bone in an industry space that’s more competitive than ever, the incentive is to build in methodological flexibility while still creating empathy-based solutions that work, obviating the need for the aforementioned Faustian bargain. 
  
-So what did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipal authorities? How did we choose the platform, form, and function of the solution? What did we build? Instead of giving our process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what we did and why. We hope it will serve as a useful guide for others who are dealing with the same types of challenges in designing solutions for overseas development projects. 
+So what did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipal authorities? How did we choose the platform, form, and function of the solution? What did we build? Instead of giving our process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what we did and why. Our goal was to provide a case stufy for others who are dealing with the same types of challenges in designing ICT solutions for overseas development projects. 
 
-Have you tried your own version of lean HCD? Let us know what you did and how it went here: <insert link> We’ll publish a stories we hear on the Digital@DAI blog. 
+*Have you tried your own version of lean HCD? Let us know what you did and how it went here: <insert link> We’ll publish a stories we hear on the Digital@DAI blog. 
