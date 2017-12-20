@@ -40,8 +40,8 @@ Just like traditional HCD, lean HCD is all about developing empathy with users t
 
 The focus on flexibility highlights the key distinction between the use of HCD in the donor-funded development space and HCD for the commercial sector: with donor agencies stretched for funding and proposal budgets stripped to the bone in an industry space that’s more competitive than ever, the incentive is to build in methodological flexibility while still creating empathy-based solutions that work, obviating the need for the aforementioned Faustian bargain. 
 
-## What did we actually do? 
+## So what did we actually do? 
  
-What did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipal authorities? How did we choose the platform, form, and function of the solution? What did we build? Instead of giving our process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what we did and why. Our goal was to provide a case stufy for others who are dealing with the same types of challenges in designing ICT solutions for overseas development projects. 
+What did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipal authorities? How did we choose the platform, form, and function of the solution? What did we build? Instead of giving our entire process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what we did and why. Our goal was to provide a case stufy for others who are dealing with the same types of challenges in designing ICT solutions for overseas development projects. 
 
 *Have you tried your own version of lean HCD? What did you do? How did it go? Let us know!*
