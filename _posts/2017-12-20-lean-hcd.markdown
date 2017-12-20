@@ -2,6 +2,9 @@
 title: 'Lean HCD: How to HCD when you can''t travel to the field'
 date: 2017-12-20 15:51:00 -05:00
 published: false
+tags:
+- Human-centered design
+- Digital Insights
 Author: Adam Fivenson
 ---
 
