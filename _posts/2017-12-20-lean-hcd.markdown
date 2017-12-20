@@ -2,6 +2,7 @@
 title: Lean HCD
 date: 2017-12-20 15:51:00 -05:00
 published: false
+Author: Adam Fivenson
 ---
 
 Back in late 2015, I landed a unique design gig. The job came via Nexos Locales, a USAID-funded project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly-elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity. 
@@ -12,7 +13,7 @@ After calling the mayor, I sat down and put together an activity plan to propose
 * a fully engaged, multidisciplinary design team, and;
 * multiple rounds of iterative development. 
  
-Sadly, my dream HCD activity plan quickly met the sharp end of the reality stick; the activity wasn’t in the project’s workplan or budget, two significant hurdles for a project already managing 60 technical activities across 30 municipalities. Still, the idea was grounded in local demand, directly aligned to Nexos’ project objectives, and represented a chance for the project to ride the rising wave of mobile and smartphone adoption across the region. So, the project team gave a tentative green light, provided I could do the work, carried through to the development and launch of the solution, on a shoestring and without travel. 
+Sadly, my dream HCD activity plan met the sharp end of the reality stick; the activity wasn’t in the project’s workplan or budget, two significant hurdles for a project already managing 60 technical activities across 30 municipalities. Still, the idea was grounded in local demand, directly aligned to Nexos’ project objectives, and represented a chance for the project to ride the rising wave of mobile and smartphone adoption across the region. So, the project team gave a tentative green light, provided I could do the work, carried through to the development and launch of the solution, on a shoestring and without travel. 
  
 To agree would to make a designer's Faustian bargain: direct contact with end-users is a core tenet of any HCD process, and attempting to design without it was possible, but was it worth the risk? How could we empathize with the people of Chiantla if we couldn’t meet them? How could we make key decisions about the product without first-hand experience with users? Should I have said no and leave the project to spend their limited resources elsewhere?  Enter lean HCD.
  
