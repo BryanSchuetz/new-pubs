@@ -17,7 +17,7 @@ Sadly, my dream HCD activity plan met the sharp end of the reality stick; the ac
  
 To agree would to make a designer's Faustian bargain: direct contact with end-users is a core tenet of any HCD process, and attempting to design without it was possible, but was it worth the risk? How could we empathize with the people of Chiantla if we couldn’t meet them? How could we make key decisions about the product without first-hand experience with users? Should I have said no and leave the project to spend their limited resources elsewhere?  Enter lean HCD.
  
-Just like traditional HCD, lean HCD is all about developing empathy with users to gain an understanding of the political, economic, and social factors that guide their behavior and decision-making, but with greater methodological flexibility to permit greater engagement of local experts, organizations, and citizens. Lean HCD is characterized by its focus on: 
+Just like traditional HCD, lean HCD is all about developing empathy with users to gain an understanding of the political, economic, and social factors that guide their behavior and decision-making, but with greater methodological flexibility to incorporate greater engagement of local experts, organizations, and citizens. Lean HCD is characterized by a focus on: 
 * Balancing the demands of international development programming with best practices in empathy-based strategy and decision-making 
 * Engaging local organizations, institutions and individuals in data collection and decision-making up front based on remote training and frequent interaction
 * Outsourcing aspects of the design research and product development to local firms and experts who are closer to users both physically and culturally 
