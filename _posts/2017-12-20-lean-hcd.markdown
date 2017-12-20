@@ -5,7 +5,7 @@ published: false
 Author: Adam Fivenson
 ---
 
-Back in late 2015, I landed a unique design gig. The job came via Nexos Locales, a USAID-funded project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly-elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity. 
+Back in late 2015, I landed a unique design gig. The job came via [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales), a USAID-funded project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly-elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity. 
  
 After calling the mayor, I put together an activity plan to propose to the project's leadership team. The plan involved a DAI design team getting to know the people of Chiantla, how they seek and share information, how they use (or don't use) technology, and what their expectations were of their municipality. Ever faithful to human-centered design (HCD) best practice, it featured:
 * frequent, extended field visits to learn about the community and map stakeholders; 
