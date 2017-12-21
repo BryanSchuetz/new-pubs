@@ -18,7 +18,7 @@ Back in late 2015, I landed a unique design gig. The job came via [Nexos Locales
 
 ## The Reality Stick
 
-After calling the mayor, I put together an activity plan to propose to the project’s leadership team. The plan involved a DAI design team getting to know the people of Chiantla: how they seek and share information, how they use (or don’t use) technology, and what their expectations were of their municipality. Ever faithful to human-centered design (HCD) best practices, the plan featured:
+After calling the mayor, I put together an activity plan to propose to the project’s leadership team. The plan centered around getting to know the people of Chiantla: how they seek and share information, how they use (or don’t use) technology, and what their expectations were of their municipality. Ever faithful to human-centered design (HCD) best practices, the plan featured:
 * Frequent, extended field visits to learn about the community and map stakeholders.
 * Multiple instances of creative empathy-building with citizens.
 * A fully engaged, multidisciplinary design team.
