@@ -44,6 +44,6 @@ The focus on flexibility highlights the key distinction between the use of HCD i
  
 What did lean HCD look like in Guatemala? How did we get to know the people of Chiantla, gain insight into how they use technology, and come to understand their relationship with their municipality? How did we choose the platform, form, and function of the solution? What did we build? 
 
-Instead of giving our entire process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what at each phase and why we did it. The report is a case study for others who are dealing with the same types of challenges in designing ICT solutions for overseas development projects.
+Instead of giving our entire process the blog treatment, we wrote [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](http://www.dai.com/hcd.pdf), to detail what at each phase and why we did it. We hope it will be a useful guide for other development professionals who are tasked with designing ICT solutions for overseas development projects.
 
 *Have you tried your own version of lean HCD? What did you do? How did it go? Let us know!*
