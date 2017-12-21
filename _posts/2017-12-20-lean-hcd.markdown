@@ -1,7 +1,6 @@
 ---
 title: 'Lean HCD: How to HCD When You Can’t Travel to the Field'
 date: 2017-12-20 15:51:00 -05:00
-published: false
 tags:
 - Human-centered design
 - Digital Insights
