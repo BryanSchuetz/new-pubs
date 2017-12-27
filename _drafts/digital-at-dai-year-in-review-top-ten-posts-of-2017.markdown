@@ -4,7 +4,6 @@ date: 2017-12-27 14:58:00 -05:00
 tags:
 - Digital Insights
 - Data
-- Remote Sensing Series
 - Agriculture
 - Social Media
 - Innovation
