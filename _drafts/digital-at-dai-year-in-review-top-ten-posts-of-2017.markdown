@@ -16,7 +16,7 @@ This year [Digital@DAI](https://dai-global-digital.com/) featured over 120 blogs
 
 We featured digital experts from Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to push on the potential of digital across sectors, geographies, clients, and constituents in the blog and in the work that we do. 
 
-In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html) of 2016 we reviewed the top five most read articles of the year. With our audience and total number of blog posts expanding, we'll look at our top ten of 2017, which highlight a broad range of topics, content, and writers.
+In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html) of 2016 we reviewed the top five most read articles of the year. With our audience and total number of blog posts expanding, we'll look at our top ten of 2017, which showcase a broad range of topics, content, and writers.
 
 1\. [Lush Green Remote Sensing:](https://dai-global-digital.com/lush-green-remote-sensing.html) In winter 2016-207 we wrote a series of blog posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
