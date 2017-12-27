@@ -5,9 +5,7 @@ date: 2017-12-27 14:58:00 -05:00
 
 This year [Digital@DAI](https://dai-global-digital.com/) featured over 120 blogs covering everything from our work in Human-Centered Design (HCD) to advances in remote sensing.
 
-We featured digital experts from Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. Last year, we were reflecting on our first 11 months, while this year we are looking to how we can grow our reach, keep the high-quality content going, and engage with subscribers who want to come back for more.
-
-We continue to push on the potential of digital across sectors, geographies, clients, and constituents in the blog and in the work that we do. Therefore, our top 10 blog posts highlight a broad range of topics, content, and writers.
+We featured digital experts from Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to push on the potential of digital across sectors, geographies, clients, and constituents in the blog and in the work that we do. Therefore, our top 10 blog posts highlight a broad range of topics, content, and writers.
 
 1\. [Lush Green Remote Sensing:](https://dai-global-digital.com/lush-green-remote-sensing.html) In winter 2016-207 we wrote a series of blog posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
@@ -23,11 +21,11 @@ We continue to push on the potential of digital across sectors, geographies, cli
 
 7\. [Meet Honduras’s Innovation Community](https://dai-global-digital.com/honduras-innovation-community.html) - Our team visited an innovation community meetup in Tegucigalpa. In this article, we showcase innovators and companies we met during our visit, and conclude that top-down, proposal-defined, pre-proscribed solutions are out; co-created, tech-enabled, iterative solutions are in.
 
-*8. *[Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html) - *In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of Version 3.0.*
+8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html) - *In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of Version 3.0.*
 
-*9. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) - The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.*
+9\. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) - The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.
 
-10\. *[5 Podcasts from Human-Centered Designers](https://dai-global-digital.com/5-podcasts-for-human-centered-designers.html) -n this article we shared five podcasts that shape our understanding of design. We hope you’ll take the time to give them a listen.*
+10\. [5 Podcasts from Human-Centered Designers](https://dai-global-digital.com/5-podcasts-for-human-centered-designers.html) - In this article we shared five podcasts that shape our understanding of design. We hope you’ll take the time to give them a listen.
 
 Stay tuned for what 2018 brings. In the past months we been researching the application of blockchain to some of our development projects, started to leverage new machine learning tools, and plan to unleash new products in the coming year. We look forward to continuing our use of this blog to talk with some of the fields foremost experts in digital technology, and to deliver innovative content to you on a weekly basis.
 
