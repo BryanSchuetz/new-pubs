@@ -1,6 +1,14 @@
 ---
 title: 'Digital@DAI Year in Review: Top Ten Posts of 2017'
 date: 2017-12-27 14:58:00 -05:00
+tags:
+- Digital Insights
+- Data
+- Remote Sensing Series
+- Agriculture
+- Social Media
+- Innovation
+- Human-centered design
 Author: Krista Baptista
 ---
 
@@ -10,7 +18,7 @@ We featured digital experts from Panoply, BanQu, Omelas, and Bamba, and had almo
 
 1\. [Lush Green Remote Sensing:](https://dai-global-digital.com/lush-green-remote-sensing.html) In winter 2016-207 we wrote a series of blog posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
-2\. [Digital Insights: Would Haitians use Mobile Money for Banking?](digital-insights-would-haitians-use-mobile-money-for-banking.html) - Using an HCD approach, our team investigated the digital financial sector in Haiti, wrote about our work to determine whether mobile technology could be a viable instrument for financial service providers across multiple demographic groups.
+2\. [Digital Insights: Would Haitians use Mobile Money for Banking?](https://dai-global-digital.com/digital-insights-would-haitians-use-mobile-money-for-banking.html) - Using an HCD approach, our team investigated the digital financial sector in Haiti, wrote about our work to determine whether mobile technology could be a viable instrument for financial service providers across multiple demographic groups.
 
 3\. [Digital Insights Bangladesh: How Urban Youth Stay Connected](https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html) - In another article on digital insights, we wrote about our Bangladesh research on urban youth: How do they connect? What sources of information do they trust? What are their favorite apps?
 
