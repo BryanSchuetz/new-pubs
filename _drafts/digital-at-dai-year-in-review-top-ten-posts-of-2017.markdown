@@ -9,6 +9,7 @@ tags:
 - Social Media
 - Innovation
 - Human-centered design
+- GIS
 Author: Krista Baptista
 ---
 
