@@ -1,6 +1,7 @@
 ---
 title: 'Digital@DAI Year in Review: Top Ten Posts of 2017'
 date: 2017-12-27 14:58:00 -05:00
+Author: Krista Baptista
 ---
 
 This year [Digital@DAI](https://dai-global-digital.com/) featured over 120 blogs covering everything from our work in Human-Centered Design (HCD) to advances in remote sensing.
