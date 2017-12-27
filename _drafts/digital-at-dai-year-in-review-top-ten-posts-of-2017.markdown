@@ -9,7 +9,7 @@ We featured digital experts from Panoply, BanQu, Omelas, and Bamba, and had almo
 
 1\. [Lush Green Remote Sensing:](https://dai-global-digital.com/lush-green-remote-sensing.html) In winter 2016-207 we wrote a series of blog posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
-2\. [Digital Insights: Would Haitians use Mobile Money for Banking?](digital-insights-would-haitians-use-mobile-money-for-banking.html) - Senior ICT Specialist Karim Bin-Humam wrote about his work to determine whether mobile technology could be a viable instrument for financial service providers to better serve lower-tier markets in Haiti.
+2\. [Digital Insights: Would Haitians use Mobile Money for Banking?](digital-insights-would-haitians-use-mobile-money-for-banking.html) - Using an HCD approach, our team investigated the digital financial sector in Haiti, wrote about our work to determine whether mobile technology could be a viable instrument for financial service providers across multiple demographic groups.
 
 3\. [Digital Insights Bangladesh: How Urban Youth Stay Connected](https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html) - In another article on digital insights, we wrote about our Bangladesh research on urban youth: How do they connect? What sources of information do they trust? What are their favorite apps?
 
@@ -17,17 +17,17 @@ We featured digital experts from Panoply, BanQu, Omelas, and Bamba, and had almo
 
 5\. [Open Source Series Part 1: What is Open Source?](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html) – In this introductory article to a series on open source technology, we explored the definition of open source as a concept, and discussed some of the pros and cons of relying on open source technology for professional work.
 
-6\. [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html) - In this article we discussed our efforts to build a Chatbot that integrates with Facebook Messenger, and its applications to the job application market in Indonesia.
+6\. [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html) - Have you considered building a chatbot to reach wider audiences? In this article we discussed our efforts to build a Chatbot that integrates with Facebook Messenger, and its applications to the job market in Indonesia.
 
-7\. [Meet Honduras’s Innovation Community](https://dai-global-digital.com/honduras-innovation-community.html) - Our team visited an innovation community meetup in Tegucigalpa. In this article, we showcase innovators and companies we met during our visit, and conclude that top-down, proposal-defined, pre-proscribed solutions are out; co-created, tech-enabled, iterative solutions are in.
+7\. [Meet Honduras’s Innovation Community](https://dai-global-digital.com/honduras-innovation-community.html) - During a trip to Honduras, our team visited an innovation community meetup in Tegucigalpa. In this article, we showcase innovators and companies we met during our visit, and conclude that top-down, proposal-defined, pre-proscribed solutions are out; while co-created, tech-enabled, iterative solutions are in.
 
-8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html) - *In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of Version 3.0.*
+8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html) - In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of Version 3.0.
 
 9\. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) - The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.
 
 10\. [5 Podcasts from Human-Centered Designers](https://dai-global-digital.com/5-podcasts-for-human-centered-designers.html) - In this article we shared five podcasts that shape our understanding of design. We hope you’ll take the time to give them a listen.
 
-Stay tuned for what 2018 brings. In the past months we been researching the application of blockchain to some of our development projects, started to leverage new machine learning tools, and plan to unleash new products in the coming year. We look forward to continuing our use of this blog to talk with some of the fields foremost experts in digital technology, and to deliver innovative content to you on a weekly basis.
+Stay tuned for what 2018 brings. In the past months we been researching the application of blockchain to some of our development projects, started to leverage new machine learning tools, and plan to unleash new products in the coming year. We will continue to use this blog to hold conversations with some of the fields foremost experts in digital technology, investigate emerging trends in digital technologies for global development, and to deliver innovative content to you on a weekly basis.
 
 Thank you for reading, and have a happy new year.
 
