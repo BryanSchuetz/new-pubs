@@ -1,6 +1,8 @@
 ---
 title: 'Digital@DAI Year in Review: Top 10 Posts of 2017'
-date: 2017-12-27 14:58:00 -05:00
+date: 2017-12-28 09:00:00 -05:00
+categories:
+- Innovation
 tags:
 - Digital Insights
 - Data
@@ -17,6 +19,8 @@ This year Digital@DAI published more than 120 posts, covering everything from ou
 We featured digital experts from organizations Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to explore the potential of digital technology across sectors, geographies, clients, and constituents in the blog and in the work that we do.
 
 In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html) of 2016 we reviewed the top five most read articles of the year. With our audience and total number of blog posts expanding, we’ll look at our top 10 of 2017, which showcase a broad range of topics, content, and writers.
+
+![2017 Year In Review.jpg](/uploads/2017%20Year%20In%20Review.jpg)
 
 1\. [Lush Green Remote Sensing](https://dai-global-digital.com/lush-green-remote-sensing.html)—Last winter, we wrote a series of posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
