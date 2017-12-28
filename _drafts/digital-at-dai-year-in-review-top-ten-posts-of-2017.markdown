@@ -18,7 +18,7 @@ thumbnail: "/uploads/2017%20Year%20in%20Review%20B.jpg"
 
 This year Digital@DAI published more than 120 posts, covering everything from our work in human-centered design (HCD) to advances in remote sensing.
 
-We featured digital experts from organizations Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to explore the potential of digital technology across sectors, geographies, clients, and constituents in the blog and in the work that we do.
+We featured digital experts from organizations such as Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to explore the potential of digital technology across sectors, geographies, clients, and constituents in the blog and in the work that we do.
 
 In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html) of 2016 we reviewed the top five most read articles of the year. With our audience and total number of blog posts expanding, we’ll look at our top 10 of 2017, which showcase a broad range of topics, content, and writers.
 
