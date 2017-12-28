@@ -34,7 +34,7 @@ In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review
 
 8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)—In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of version 3.0.
 
-9\. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) - The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.
+9\. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html)—The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.
 
 10\. [5 Podcasts from Human-Centered Designers](https://dai-global-digital.com/5-podcasts-for-human-centered-designers.html) - In this article we shared five podcasts that shape our understanding of design. We hope you’ll take the time to give them a listen.
 
