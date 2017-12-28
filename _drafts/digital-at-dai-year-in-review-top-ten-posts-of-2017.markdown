@@ -1,5 +1,5 @@
 ---
-title: 'Digital@DAI Year in Review: Top Ten Posts of 2017'
+title: 'Digital@DAI Year in Review: Top 10 Posts of 2017'
 date: 2017-12-27 14:58:00 -05:00
 tags:
 - Digital Insights
