@@ -28,9 +28,9 @@ In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review
 
 5\. [Open Source Series Part 1: What is Open Source?](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html)—In this introductory article to a series on open source technology, we explored the definition of open source as a concept, and discussed some of the pros and cons of relying on open source technology for professional work.
 
-6\. [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html)—Have you considered building a chatbot to reach wider audiences? In this article we discussed our efforts to build a Chatbot that integrates with Facebook Messenger, and its applications to the job market in Indonesia.
+6\. [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html)—Have you considered building a chatbot to reach wider audiences? In this article we discussed our efforts to build a chatbot that integrates with Facebook Messenger, and its applications to the job market in Indonesia.
 
-7\. [Meet Honduras’s Innovation Community](https://dai-global-digital.com/honduras-innovation-community.html) - During a trip to Honduras, our team visited an innovation community meetup in Tegucigalpa. In this article, we showcase innovators and companies we met during our visit, and conclude that top-down, proposal-defined, pre-proscribed solutions are out; while co-created, tech-enabled, iterative solutions are in.
+7\. [Meet Honduras’s Innovation Community](https://dai-global-digital.com/honduras-innovation-community.html)—During a trip to Honduras, our team visited an innovation community meetup in Tegucigalpa. In this article, we showcase the innovators and companies we met during our visit, and conclude that top-down, proposal-defined, pre-proscribed solutions are out; while co-created, tech-enabled, iterative solutions are in.
 
 8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html) - In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of Version 3.0.
 
