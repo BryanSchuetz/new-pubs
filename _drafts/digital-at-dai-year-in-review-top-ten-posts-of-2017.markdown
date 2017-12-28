@@ -32,7 +32,7 @@ In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review
 
 7\. [Meet Honduras’s Innovation Community](https://dai-global-digital.com/honduras-innovation-community.html)—During a trip to Honduras, our team visited an innovation community meetup in Tegucigalpa. In this article, we showcase the innovators and companies we met during our visit, and conclude that top-down, proposal-defined, pre-proscribed solutions are out; co-created, tech-enabled, iterative solutions are in.
 
-8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)—In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of Version 3.0.
+8\. [Open Source Series Part 2: Spatial Analysis with QGIS](https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html)—In part one of a two-part article, we explored the open source geographic information system (GIS) software package, QGIS, through a look at its history, and took a sneak peek at the upcoming release of version 3.0.
 
 9\. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html) - The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.
 
