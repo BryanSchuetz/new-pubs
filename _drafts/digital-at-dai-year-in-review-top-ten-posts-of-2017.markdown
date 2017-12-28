@@ -12,7 +12,7 @@ tags:
 Author: Krista Baptista
 ---
 
-This year [Digital@DAI](https://dai-global-digital.com/) published more than 120 posts, covering everything from our work in human-centered design (HCD) to advances in remote sensing.
+This year Digital@DAI published more than 120 posts, covering everything from our work in human-centered design (HCD) to advances in remote sensing.
 
 We featured digital experts from organizations Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to explore the potential of digital technology across sectors, geographies, clients, and constituents in the blog and in the work that we do. 
 
