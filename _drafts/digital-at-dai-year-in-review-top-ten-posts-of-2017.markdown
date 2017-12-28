@@ -36,7 +36,7 @@ In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review
 
 9\. [Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit](https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html)—The USAID Global Development Lab released the Gender and ICT Survey Toolkit this fall. In this article we discuss three major takeaways from the report.
 
-10\. [5 Podcasts from Human-Centered Designers](https://dai-global-digital.com/5-podcasts-for-human-centered-designers.html) - In this article we shared five podcasts that shape our understanding of design. We hope you’ll take the time to give them a listen.
+10\. [5 Podcasts from Human-Centered Designers](https://dai-global-digital.com/5-podcasts-for-human-centered-designers.html)—In this article we shared five podcasts that shape our understanding of design. We hope you’ll take the time to give them a listen.
 
 Stay tuned for what 2018 brings. In the past months we been researching the application of blockchain to some of our development projects, started to leverage new machine learning tools, and plan to unleash new products in the coming year. We will continue to use this blog to investigate emerging trends in digital technologies for global development, hold conversations with some of the fields foremost experts, and to deliver innovative content to you on a weekly basis.
 
