@@ -22,6 +22,8 @@ In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review
 
 ![2017 Year In Review.jpg](/uploads/2017%20Year%20In%20Review.jpg)
 
+<!--more-->
+
 1\. [Lush Green Remote Sensing](https://dai-global-digital.com/lush-green-remote-sensing.html)—Last winter, we wrote a series of posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
 2\. [Digital Insights: Would Haitians use Mobile Money for Banking?](https://dai-global-digital.com/digital-insights-would-haitians-use-mobile-money-for-banking.html)—Using HCD, our team investigated the digital financial sector in Haiti, wrote about our work to determine whether mobile technology could be a viable instrument for financial service providers across multiple demographic groups.
