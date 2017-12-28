@@ -26,7 +26,7 @@ In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review
 
 4\. [Women in Agritech: Profiles from Ghana](https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html)—In this blog, we wrote about the [Kosmos Innovation Center (KIC)](http://www.kosmosinnovationcenter.com/), a DAI-supported initiative that helps young entrepreneurs build tech startups that address challenges in Ghana’s agricultural industry. Find out more about this project in previous Digital@DAI posts [here ](https://dai-global-digital.com/ghana-agritech-exchange.html)and [here](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html).
 
-5\. [Open Source Series Part 1: What is Open Source?](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html) – In this introductory article to a series on open source technology, we explored the definition of open source as a concept, and discussed some of the pros and cons of relying on open source technology for professional work.
+5\. [Open Source Series Part 1: What is Open Source?](https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html)—In this introductory article to a series on open source technology, we explored the definition of open source as a concept, and discussed some of the pros and cons of relying on open source technology for professional work.
 
 6\. [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html) - Have you considered building a chatbot to reach wider audiences? In this article we discussed our efforts to build a Chatbot that integrates with Facebook Messenger, and its applications to the job market in Indonesia.
 
