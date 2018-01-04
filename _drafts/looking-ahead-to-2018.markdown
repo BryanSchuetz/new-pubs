@@ -9,6 +9,8 @@ tags:
 - Innovation
 - Think Piece
 Author: Krista Baptista
+social-image: "/uploads/Copy%20of%20Looking%20ahea%20to%202018%20Square.jpg"
+thumbnail: "/uploads/Copy%20of%20Looking%20ahea%20to%202018%20Square.jpg"
 ---
 
 The new year provides a great opportunity to think about priorities for year ahead. Last week we wrote a post highlighting the top [posts](https://dai-global-digital.com/digital-at-dai-year-in-review-top-ten-posts-of-2017.html) of 2017. The most-read articles covered a lot of ground—from reflections on specific projects, to advances in our thinking on best practices for human-centered design (HCD), to technology reviews. So, what’s on our minds for the year to come?
