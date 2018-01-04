@@ -15,23 +15,23 @@ The new year provides a great opportunity to think about priorities for year ahe
 
 <!--more-->
 
-## **Lean HCD**
+## Lean HCD
 
 As DAI’s Frontier (née Digital) Insights has shown, the growth in mobile technology adoption in marginalized communities around the globe has been astronomical in recent years. This presents major opportunities for social impact through technology via HCD and design thinking. At the same time, with donor budgets tightening, the appetite for full-fledged HCD processes, particularly those that involve travel-heavy field implementation is waning.
 
 Lean HCD is DAI’s approach to balancing the need for best practices (empathy derived from significant face-to-face experience with users/citizens/patients) with the realities of international development in 2018. At its core, the approach seeks to put data collection and decision-making into the hands of local actors, with DAI guiding the process and connecting the pieces along the way. DAI tested the Lean HCD approach in Guatemala by developing and launching a mobile application for local transparency and accountability. We recently shared a report describing how we did it, called [Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html).
 
-## **Advancing our Health Tech Partnerships**
+## Advancing our Health Tech Partnerships
 
 Over the past year, we have greatly expanded our global health technology portfolio. With active projects in Haiti and Indonesia, and new partnerships formed with [IntraHealth](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact) and [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment), we have increased our focus on the intersection of technology and health projects in lower- and middle-income countries. And with active partnerships with startups such as ClickMedix, [MobileODT](https://www.dai.com/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech), and [ThinkMD](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology), we will be rolling out innovations in patient diagnostics, human resource management, and health records management to create more efficient health systems.
 
-## **Locally Sourced Innovation & Entrepreneurship**
+## Locally Sourced Innovation & Entrepreneurship
 
 The past year was an important one for our work in Ghana with the [Kosmos Innovation Center (KIC)](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html). Not only did that experience generate some cool [stories](https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html) about young agritech entrepreneurs, it also helped formed the foundation for our thinking about where tech entrepreneurship fits into our overall approach to doing good digital-enabled development work.
 
 Fundamentally, we view tech-driven entrepreneurship as both (a) the natural evolution to ICT capacity building that DAI and others have done [around the world](https://dai-global-digital.com/6-things-i-have-learned-about-delivering-an-introductory-ict-training.html), and (b) a critical way to ensure that our investments are sustainable in the long-term. So, in addition to continuing our work in Ghana, we’re also looking to expand to new countries and new clients in early 2018. Stay tuned for more details!
 
-## **The Rise of Machine Learning**
+## The Rise of Machine Learning
 
 As machine-learning packages in programming languages R and Python improve at a rapid pace and software as a service (SAAS) solutions offered by IBM Bluemix and Microsoft Azure become increasingly powerful, we see great potential for international development applications. Last year we wrote about our machine-learning efforts for economic growth in Afghanistan. Expanding on this approach, we recently partnered with IBM Watson to further this initiative. Our IBM-powered solution currently supports our [Promote Women in Economy (WIE)](https://www.dai.com/our-work/projects/afghanistan-women-in-the-economy) project in Afghanistan by classifying thousands of resumes into potential job categories, and matching them with available job openings, saving time and money. And as DAI continues to collect structured and unstructured datasets at ever-increasing volumes, we will be looking to how some of these emerging data analysis methods can be used to add efficiencies to our work.
 
