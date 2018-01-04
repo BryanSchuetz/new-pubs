@@ -13,6 +13,8 @@ Author: Krista Baptista
 
 The new year provides a great opportunity to think about priorities for year ahead. Last week we wrote a post highlighting the top [posts](https://dai-global-digital.com/digital-at-dai-year-in-review-top-ten-posts-of-2017.html) of 2017. The most-read articles covered a lot of ground—from reflections on specific projects, to advances in our thinking on best practices for human-centered design (HCD), to technology reviews. So, what’s on our minds for the year to come?
 
+<!--more-->
+
 ## **Lean HCD**
 
 As DAI’s Frontier (née Digital) Insights has shown, the growth in mobile technology adoption in marginalized communities around the globe has been astronomical in recent years. This presents major opportunities for social impact through technology via HCD and design thinking. At the same time, with donor budgets tightening, the appetite for full-fledged HCD processes, particularly those that involve travel-heavy field implementation is waning.
