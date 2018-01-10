@@ -5,6 +5,8 @@ tags:
 - Entrepreneurship
 - Sub-Saharan Africa
 Author: Anand Varghese
+social-image: "/uploads/WhatsApp%20Image%202018-01-10%20at%203.34.06%20PM.jpeg"
+thumbnail: "/uploads/WhatsApp%20Image%202018-01-10%20at%203.34.06%20PM.jpeg"
 ---
 
 Regular readers of Digital @ DAI will know that we’ve been [supporting](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) Kosmos Energy’s [Innovation Center](http://www.kosmosinnovationcenter.com/) in Ghana for the last two years. KIC’s work with young tech entrepreneurs in the agricultural sector has garnered [awards ](http://www.kosmosinnovationcenter.com/2016-awards/)and plenty of media attention, and Kosmos is now looking to apply what it has learned to a new country in West Africa: Mauritania. Kosmos have had a good experiences doing business there and are now taking a rigorous approach to their social investments into the entrepreneurship sector there. So I recently joined the Kosmos team on a research trip to the capital Nouakchott to meet with local startup incubators and entrepreneurs and find out more about their successes and the challenges the sector faces today. What did we learn? Click the button below to find out.
