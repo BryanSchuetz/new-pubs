@@ -1,6 +1,9 @@
 ---
 title: KIC Expands its Support of Tech-Driven Entrepreneurship to Mauritania
 date: 2018-01-10 12:17:00 -05:00
+tags:
+- Entrepreneurship
+- Sub-Saharan Africa
 Author: Anand Varghese
 ---
 
