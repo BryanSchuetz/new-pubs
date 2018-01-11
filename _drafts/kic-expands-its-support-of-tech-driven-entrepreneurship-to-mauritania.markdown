@@ -18,23 +18,23 @@ Kosmos has had good experiences doing business there and is now taking a rigorou
 ![WhatsApp Image 2018-01-10 at 3.34.06 PM.jpeg](/uploads/WhatsApp%20Image%202018-01-10%20at%203.34.06%20PM.jpeg)
 `Young entrepreneurs and staff at Startup Mauritania in Nouakchott, Mauritania.`
 
-## **Youth-led Entrepreneurship is a Must in Mauritania**
+## Youth-led Entrepreneurship is a Must in Mauritania
 
 First off, both the Mauritanian government and the donor community see youth employment as a priority for the country. A 2016 estimate puts the country’s median age at 20.3 years (similar to Ghana’s 20.4). Youth between the ages of 15 and 25 comprise 20 percent of the population and are experiencing an unemployment rate of around 19 percent. Youth are seen as key drivers of social change in the country, but a lack of economic opportunities—partially due to population growth and urbanization—has also made them a vulnerable demographic. Tackling youth issues is also of geostrategic importance for Mauritania and its government given the relevance of this demographic to stability and inclusive socio-economic development.
 
-## **Nouakchott’s Incubators**
+## Nouakchott’s Incubators
 
 By all accounts, Mauritanian youth do not lack for entrepreneurial instincts. The traditionally trade-driven economy has led young entrepreneurs to seek opportunities to build more modern ‘value-added’ businesses. This goes for both professionally educated youth (many of whom are educated outside Mauritania) as well as those with vocational training. Our research team met with young entrepreneurs with both new innovations as well as local adaptations of business models that have been developed elsewhere.
 
 Nouakchott has a small but active group of incubators, and the research team met with four of them: [Startup Mauritania](http://www.startupmauritania.com/), [Hadina RIMTIC](http://www.hadinarimtic.org/), i-Lab Mauritania and Nouakchott Business Center. Most of these incubators were created in the last five years, and as you might expect, all of them provide youth-led startups with a mixture of training and capacity building to startups, working spaces, internet access, and—of course—caffeine. Some of them also supplement their income by offering consulting services to international donors. They also host coding challenges; Startup Mauritania hosts Startup Weekend once a year, and Hadina RIMTIC also hosted a mobile app development competition known as the Mauriapp challenge. It was clear, however, that compared to Ghana, Mauritania’s startup and incubator ecosystem is ready for the next stage in its development.
 
-## **Challenge 1: From Idea to Reality**
+## Challenge 1: From Idea to Reality
 
 With few exceptions, the young Mauritanian entrepreneurs we met have come up with a conceptual foundation for new businesses, but they soon run into trouble moving beyond the idea stage which requires building prototypes, creating viable business models, marketing their products, segmenting their customer groups, etc. In other startup ecosystems, the function of guiding startups beyond initial concepts towards mature businesses is played by a variety of actors—educational and research institutions, commercial associations, and startup incubators. Building such integrated networks that link young entrepreneurs’ ideas and energy with knowledge, technical expertise, funding and “big brother” mentoring is critical to success.
 
 In Mauritania, however, there is a critical gap in this regard. Incubators need to offer improved technical support on business process, sustainability, and management. Most incubators are funded by young Mauritanians who have a sense of social and civic obligation to promote youth-led enterprises. However, since few of the startups generate revenue, they aren’t yet able to pay for the services that incubators offer. Incubators are currently refining their internal business models to be able to support entrepreneurs in an sustainable way.
 
-## **Challenge 2: Meeting Startup Needs with  Traditional Banking**
+## Challenge 2: Meeting Startup Needs with  Traditional Banking
 
 The second structural challenge that limits the growth of the local startup ecosystem is the lack of access to finance, especially from the local banking sector. Mauritania has a large banking sector (relative to its population), with 22 banks that operate nationally. However, most of these banks lend money in a traditional banking fashion that does not meet the needs of the startup sector.
 
