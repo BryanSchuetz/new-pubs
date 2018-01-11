@@ -11,7 +11,7 @@ social-image: "/uploads/WhatsApp%20Image%202018-01-10%20at%203.34.06%20PM.jpeg"
 thumbnail: "/uploads/WhatsApp%20Image%202018-01-10%20at%203.34.06%20PM.jpeg"
 ---
 
-Regular readers of Digital@DAI will know that we’ve been [supporting](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) Kosmos Energy’s [Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) in Ghana for the last two years. KIC’s work with young tech entrepreneurs in the agricultural sector has garnered [awards ](http://www.kosmosinnovationcenter.com/2016-awards/)and plenty of media attention, and Kosmos is now looking to apply what it has learned to a new country: Mauritania. 
+Regular readers of Digital@DAI will know that we’ve been [supporting](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) Kosmos Energy’s [Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) in Ghana for the last two years. KIC’s work with young tech entrepreneurs in the agricultural sector has garnered [awards ](http://www.kosmosinnovationcenter.com/2016-awards/)and plenty of media attention, and Kosmos is now looking to apply what it has learned to a new country: Mauritania.
 
 <!--more-->
 
@@ -42,7 +42,7 @@ The second structural challenge that limits the growth of the local startup ecos
 
 First, banks provide relatively large loans, typically above USD$25,000. Most microfinance institutions targeting small poverty-reduction products provide loans less than USD$10,000. Startups usually fall within this ‘missing middle,’ and there are no financial products available in the market to meet their needs. Second, banks demand traditional collateral—land titles, security deposits, a minimum of five years of credit history, etc.—which the typical local startup cannot provide. Third, given very low banking rate (less than 10 percent of the population is banked), banks don’t have access to long-term resources and require fast repayment terms (the average is less than two years). Local startups cannot sustain this kind of repayment schedule. Finally, banks are accustomed to working with relatively large established players in traditional sectors such as import/export. They do not possess the expertise or the staff capacity to monitor the health of loans they might provide to new startups.
 
-## **Seizing Opportunities**
+## Seizing Opportunities
 
 Despite these two important structural limitations, there are important opportunities that Mauritania’s startup ecosystem can tap into. While many technically skilled youth would prefer to work in ‘stable’ government or private sector jobs, a number of young people from various walks of life—including a significant percentage of women—consider entrepreneurship to be a viable way for them to reach their goals and build financially independent lives. Government regulations also make it relatively easy to start new businesses. Strong family ties and networks create a kind of safety net that young businesses can use. Finally, there is a general feeling among entrepreneurs that Mauritania has immense economic opportunities that are yet to be tapped, especially in the services sector, local content that supplies extractives, livestock, agriculture, and fisheries.   
 
