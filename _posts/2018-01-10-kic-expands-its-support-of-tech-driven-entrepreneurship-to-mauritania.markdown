@@ -15,7 +15,7 @@ Regular readers of Digital@DAI will know that we’ve been [supporting](https://
 
 <!--more-->
 
-Kosmos has had good experiences doing business there and is now taking a rigorous approach to its social investments into entrepreneurship there. So I recently joined the Kosmos team on a research trip to the capital city of Nouakchott to meet with local startup incubators and entrepreneurs and find out more about their successes and the challenges the sector faces today. What did we learn? Click the button below to find out.
+Kosmos has had good experiences doing business there and is now taking a rigorous approach to its social investments into entrepreneurship there. So I recently joined the Kosmos team on a research trip to the capital city of Nouakchott to meet with local startup incubators and entrepreneurs and find out more about their successes and the challenges the sector faces today. What did we learn? 
 
 ![WhatsApp Image 2018-01-10 at 3.34.06 PM.jpeg](/uploads/WhatsApp%20Image%202018-01-10%20at%203.34.06%20PM.jpeg)
 `Young entrepreneurs and staff at Startup Mauritania in Nouakchott, Mauritania.`
