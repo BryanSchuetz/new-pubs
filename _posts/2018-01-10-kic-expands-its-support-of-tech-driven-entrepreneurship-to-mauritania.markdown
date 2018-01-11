@@ -1,6 +1,8 @@
 ---
 title: KIC Expands its Support of Tech-Driven Entrepreneurship to Mauritania
 date: 2018-01-10 12:17:00 -05:00
+categories:
+- Innovation
 tags:
 - Entrepreneurship
 - Sub-Saharan Africa
@@ -42,6 +44,6 @@ First, banks provide relatively large loans, typically above USD$25,000. Most mi
 
 ## **Seizing Opportunities**
 
-Despite these two important structural limitations, there are important opportunities that Mauritania’s startup ecosystem can tap into. While many technically skilled youth would prefer to work in ‘stable’ government or private sector jobs, a number of young people from various walks of life—including a significant percentage of women—consider entrepreneurship to be a viable way for them to reach their goals and build financially independent lives. Government regulations also make it relatively easy to start new businesses. Strong family ties and networks create a kind of safety net that young businesses can use. Finally, there is a general feeling among entrepreneurs that Mauritania has immense economic opportunities that are yet to be tapped, especially in the services sector, local content that supplies extractives, livestock, agriculture, and fisheries.  
+Despite these two important structural limitations, there are important opportunities that Mauritania’s startup ecosystem can tap into. While many technically skilled youth would prefer to work in ‘stable’ government or private sector jobs, a number of young people from various walks of life—including a significant percentage of women—consider entrepreneurship to be a viable way for them to reach their goals and build financially independent lives. Government regulations also make it relatively easy to start new businesses. Strong family ties and networks create a kind of safety net that young businesses can use. Finally, there is a general feeling among entrepreneurs that Mauritania has immense economic opportunities that are yet to be tapped, especially in the services sector, local content that supplies extractives, livestock, agriculture, and fisheries.   
 
 Stay tuned for more updates on how we help young entrepreneurs in Mauritania seize these opportunities in 2018!
