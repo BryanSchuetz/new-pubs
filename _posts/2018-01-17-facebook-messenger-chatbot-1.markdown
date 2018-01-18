@@ -9,7 +9,7 @@ Author: Adam Fivenson
 social-image: "/uploads/keyboard-1804325_640.jpg"
 ---
 
-Last year I wrote a post called ["I Made a Facebook Chatbot (And You Can, Too)"](https://dai-global-digital.com/facebook-chatbot.html) where I laid out the case for chatbots as an outreach and engagement tool in international development. To recap:
+Last year I wrote a post called [“I Made a Facebook Chatbot (And You Can, Too)”](https://dai-global-digital.com/facebook-chatbot.html) where I laid out the case for chatbots as an outreach and engagement tool in international development. To recap:
 
 <!--more-->
 
@@ -19,9 +19,9 @@ Last year I wrote a post called ["I Made a Facebook Chatbot (And You Can, Too)"]
 
 ![keyboard-1804325_640.jpg](/uploads/keyboard-1804325_640.jpg)
 
-3. Natural language and conversation may be easier for some people to use than a GUI interface (to take it a step further, this might be an argument in favor of IVR, but I digress).
+1. Natural language and conversation may be easier for some people to use than a GUI interface (to take it a step further, this might be an argument in favor of IVR, but I digress).
 
-4. This one is new, but maybe the most relevant to you if you're reading this: they're easy to build!
+2. This one is new, but maybe the most relevant to you if you're reading this: they're easy to build!
 
 I also featured [Siti](https://www.messenger.com/t/1276881939061378), a very simple Facebook Messenger chatbot bot I built using [Chatfuel](http://www.chatfuel.com), and gave readers some really bad directions for making their own bot. Since then I've upgraded my chatbot skills significantly: from Apprentice to Wizard, and I'm eager to share a bit of the magic with the world.
 
