@@ -38,8 +38,17 @@ You'll see a button in the upper right to 'Connect to Facebook'. Click it, then 
 ![test page.PNG](/uploads/test%20page.PNG)
 
 ## 4. Build your bot
-You'll see that the bot comes equipped with a sample Welcome Message, Default Answer, Sequence, and Group of Content Blocks. Look through each of them to get a sense of how they're built and how they're connected. 
+On the right you have a vertical menu of options. You'll only need 'Automate' to start. The left half of the screen includes your blocks, groups of blocks, and sequences. The right side is the content of the block or sequence. As of the writing of this post--January 17th, 2017--the bot comes equipped with a sample Welcome Message, Default Answer, Sequence, and Group of Content Blocks, but of course this will change over time as features evolve. 
+
+Look through each of the default blocks to get a sense of how they're built and how they're connected. Note that users of your bot will always begin wwork onith the Welcome Message, but unless you direct them back to this block, they'll never see it again, so don't put your main content here. Sequences are more complex, so initially stick with blocks (you can delete the default one). 
+
+If you choose the block you want to edit (Welcome Message, for example), you'll see at the bottom of the edit pane a series of options: Text, Typing, Quick Reply, Image, Gallery, Go To Block, 
+
+Text items in {{brackets}} are attributes which can be saved and recalled within the bot (in text or in a process), and 
+
+[ada a card.PNG](/uploads/ada%20a%20card.PNG)
 
 ## 5. Test your bot
 
+What will your bot do? That's up to you. Next time: connecting the bot to a database to 
 
