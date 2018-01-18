@@ -5,6 +5,7 @@ published: false
 tags:
 - Innovation
 - Social Media
+Author: Adam Fivenson
 ---
 
 Last year I wrote a blog post called [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html). Therein I laid out the case for chatbots as an outreach and engagement tool in international development, which--to recap--boils down to:
@@ -42,13 +43,9 @@ On the right you have a vertical menu of options. You'll only need 'Automate' to
 
 Look through each of the default blocks to get a sense of how they're built and how they're connected. Note that users of your bot will always begin with the Welcome Message, but unless you direct them back to this block, they'll never see it again, so don't put your main content here. Sequences are more complex, so initially stick with blocks (you can delete the default one). 
 
-If you choose the block you want to edit (Welcome Message, for example), you'll see at the bottom of the edit pane a series of options: Text, Typing, Quick Reply, Image, Gallery, Go To Block, 
+If you choose the block you want to edit (Welcome Message, for example), you'll see at the bottom of the edit pane a series of options: Text, Typing, Quick Reply, Image, Gallery, Go To Block, To Sequence, and a Plus sign to access other options. These are the basic components of the bot itself. Drag them into the edit pane of your blocks and edit them as appropriate. Be sure to link each block to another block so your users don't get stuck. 
 
 ![ada a card.PNG](/uploads/ada%20a%20card.PNG)
-
-You can add blocks by choosing the  Text items in {{brackets}} are attributes which can be saved and recalled within the bot (in text or in a process), and 
-
-![plus.PNG](/uploads/plus.PNG)
 
 ## 5. Test your bot
 Click the blue 'Test Bot' button in the upper right to try your bot out. Run through every block, menu, and option to make sure they're working and that your content is solid. 
