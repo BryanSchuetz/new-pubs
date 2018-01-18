@@ -7,6 +7,7 @@ tags:
 - Social Media
 Author: Adam Fivenson
 social-image: "/uploads/keyboard-1804325_640.jpg"
+thumbnail: "/uploads/keyboard-1804325_640.jpg"
 ---
 
 Last year I wrote a post called [“I Made a Facebook Chatbot (And You Can, Too)”](https://dai-global-digital.com/facebook-chatbot.html) where I laid out the case for chatbots as an outreach and engagement tool in international development. To recap, here’s why:
@@ -14,13 +15,11 @@ Last year I wrote a post called [“I Made a Facebook Chatbot (And You Can, Too)
 <!--more-->
 
 * [1.3 billion active users](https://venturebeat.com/2017/09/14/facebook-messenger-passes-1-3-billion-monthly-active-users/), including a large and growing number of whom are in developing countries, as DAI’s [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work has highlighted. That’s hard to ignore.
-
 * Low data usage puts the tool (and services riding on it) in a category of communication that’s even cheaper than texting in many instances, especially when users are connected to WiFi.
 
 ![keyboard-1804325_640.jpg](/uploads/keyboard-1804325_640.jpg)
 
 * Natural language and conversation may be easier for some people to use than a GUI interface (to take it a step further, this might be an argument in favor of IVR, but I digress).
-
 * This one is new, but maybe the most relevant to you if you’re reading this: they’re super easy to build!
 
 I also featured [Siti](https://www.messenger.com/t/1276881939061378), a very simple Facebook Messenger chatbot bot I built using [Chatfuel](http://www.chatfuel.com), and gave readers some really bad directions for making their own bot. Since then I’ve upgraded my chatbot skills significantly: from Apprentice to Wizard, and I’m eager to share a bit of the magic with the world.
