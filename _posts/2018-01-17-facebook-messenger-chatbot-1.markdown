@@ -6,6 +6,7 @@ tags:
 - Innovation
 - Social Media
 Author: Adam Fivenson
+social-image: "/uploads/keyboard-1804325_640.jpg"
 ---
 
 ![keyboard-1804325_640.jpg](/uploads/keyboard-1804325_640.jpg)
