@@ -14,7 +14,7 @@ Last year I wrote a blog post called [I Made a Facebook Chatbot (And You Can, To
 
 I also featured [Siti](https://www.messenger.com/t/1276881939061378), a very simple Facebook Messenger chatbot bot I built using [Chatfuel](http://www.chatfuel.com), and gave readers some really bad directions for making their own bot. Since then I've upgraded my chatbot skills significantly: from Apprentice to Wizard, and I'm eager to share a bit of the magic with the world. 
 
-So, here's how to make your own chatbot in five easy steps. Follow along and make your own; it's easier than 
+So, here's how to make your own chatbot in five easy steps. Follow along and make your own. 
 
 ## 1a. Have a Facebook account
 Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) of the 7.6 billion people on Earth actually have a Facebook account so if you're among the 27% that do, you've cleared the first hurdle. If you're among the 63% without one and want to change that, point your browser to [Facebook.com](http://www.facebook.com). Assuming you're among the 27%, the clock stays at 5:00 minutes.
@@ -25,9 +25,16 @@ Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/numbe
 ![siti.PNG](/uploads/siti.PNG)
 
 ## 2. Launch Chatfuel
-Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will open a new bot with a sample sequence. 
+Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will open a new bot with a sample sequence in place. 
 
 ![test.PNG](/uploads/test.PNG)
+
+## 3. Connect the bot to your Facebook page
+This gives the bot a home, and you can use the Facebook page, but you don't have to. A user can access your bot directly from Messenger, but your bot might be 
+
+![test page.PNG](/uploads/test%20page.PNG)
+
+
 
 Make a Facebook page
 Make a chatfuel account
