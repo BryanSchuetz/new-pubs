@@ -22,12 +22,12 @@ Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/numbe
 ## 1b. Make a Facebook Page to House Your Bot
 (This doesn't count as step 2 because it's just an extension of the previous step.) If you're on your newsfeed, see the 'Create:Page' button in the lower right, or just visit  [facebook.com/pages/create](http://www.facebook.com/pages/create). Choose a page type, give your page a name. Also, choose a featured photo It should only take about 30 seconds to get it up and running, so the clock's at 4:30.
 
-[siti.PNG](/uploads/siti.PNG)
+![siti.PNG](/uploads/siti.PNG)
 
 ## 2. Launch Chatfuel
-Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the 
+Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will take you to a  
 
-[test.PNG](/uploads/test.PNG)
+![test.PNG](/uploads/test.PNG)
 
 Make a Facebook page
 Make a chatfuel account
