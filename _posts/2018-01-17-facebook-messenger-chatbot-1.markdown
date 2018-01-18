@@ -38,17 +38,21 @@ You'll see a button in the upper right to 'Connect to Facebook'. Click it, then 
 ![test page.PNG](/uploads/test%20page.PNG)
 
 ## 4. Build your bot
-On the right you have a vertical menu of options. You'll only need 'Automate' to start. The left half of the screen includes your blocks, groups of blocks, and sequences. The right side is the content of the block or sequence. As of the writing of this post--January 17th, 2017--the bot comes equipped with a sample Welcome Message, Default Answer, Sequence, and Group of Content Blocks, but of course this will change over time as features evolve. 
+On the right you have a vertical menu of options. You'll only need 'Automate' to start. The left half of the screen includes your blocks, groups of blocks, and sequences. The right side is the edit pane for the content of the active block or sequence. As of the writing of this post--January 17th, 2017--the bot comes equipped with a sample Welcome Message, Default Answer, Sequence, and Group of Content Blocks, but of course this will change over time as features evolve. 
 
-Look through each of the default blocks to get a sense of how they're built and how they're connected. Note that users of your bot will always begin wwork onith the Welcome Message, but unless you direct them back to this block, they'll never see it again, so don't put your main content here. Sequences are more complex, so initially stick with blocks (you can delete the default one). 
+Look through each of the default blocks to get a sense of how they're built and how they're connected. Note that users of your bot will always begin with the Welcome Message, but unless you direct them back to this block, they'll never see it again, so don't put your main content here. Sequences are more complex, so initially stick with blocks (you can delete the default one). 
 
 If you choose the block you want to edit (Welcome Message, for example), you'll see at the bottom of the edit pane a series of options: Text, Typing, Quick Reply, Image, Gallery, Go To Block, 
 
-Text items in {{brackets}} are attributes which can be saved and recalled within the bot (in text or in a process), and 
+![ada a card.PNG](/uploads/ada%20a%20card.PNG)
 
-[ada a card.PNG](/uploads/ada%20a%20card.PNG)
+You can add blocks by choosing the  Text items in {{brackets}} are attributes which can be saved and recalled within the bot (in text or in a process), and 
+
+![plus.PNG](/uploads/plus.PNG)
 
 ## 5. Test your bot
+Click the blue 'Test Bot' button in the upper right to try your bot out. Run through every block, menu, and option to make sure they're working and that your content is solid. 
 
-What will your bot do? That's up to you. Next time: connecting the bot to a database to 
+Now that you know the basics, experiment with your bot and think about how this can be useful for your overseas project. What do you know about your users and their challenges? How can customized information provided by a bot help? Is a bot the right solution? Do they have mobile phones? Do they have Facebook Messenger? All good things to know as you think about how this tool useful in context. 
 
+What will your bot actually do? That's up to you. Next time: connecting the bot to a database. 
