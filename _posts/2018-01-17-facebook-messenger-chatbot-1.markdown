@@ -43,9 +43,9 @@ Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook accou
 
 ![test.PNG](/uploads/test.PNG)
 
-## 3. Connect the bot to your Facebook page
+## 3. Connect Bot to Your Facebook Page
 
-You’ll see a button in the upper right to ‘Connect to Facebook’. Click it, then select the page you just created. This gives the bot a home on Facebook, and you can use the Facebook page, but you don’t have to. Depending on how you’re using the bot, a user can access it directly from Messenger or through your new Facebook page. This probably takes 15 seconds, so there should still be about 3:45 on the clock.
+You’ll see a button in the upper right to ‘Connect to Facebook.’ Click it, then select the page you just created. This gives the bot a home on Facebook, and you can use the Facebook page, but you don’t have to. Depending on how you’re using the bot, a user can access it directly from Messenger or through your new Facebook page. This probably takes 15 seconds, so there should still be about 3:45 on the clock.
 
 ![test page.PNG](/uploads/test%20page.PNG)
 
