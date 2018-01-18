@@ -37,25 +37,9 @@ You'll see a button in the upper right to 'Connect to Facebook'. Click it, then 
 
 ![test page.PNG](/uploads/test%20page.PNG)
 
-## 4. 
+## 4. Build your bot
+You'll see that the bot comes equipped with a sample Welcome Message, Default Answer, Sequence, and Group of Content Blocks. Look through each of them to get a sense of how they're built and how they're connected. 
 
-Make a Facebook page
-Make a chatfuel account
-Link the two
-Build it
-Test it
+## 5. Test your bot
 
-Reference previous blog post and what has changed since then
-Why do i care about chat bots?
-What can chat bots do? 
-Examples of popular ones
-Legal bot
-Brazil benefits bot
-Weather bot
-Homework bot
 
- 
-
-Part 2
-Export data
-Reference data
