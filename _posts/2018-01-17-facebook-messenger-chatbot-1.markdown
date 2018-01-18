@@ -2,6 +2,9 @@
 title: Five Steps to Build a Facebook Messenger Chatbot in Five Minutes
 date: 2018-01-17 14:39:00 -05:00
 published: false
+tags:
+- Innovation
+- Social Media
 ---
 
 Last year I wrote a blog post called [I Made a Facebook Chatbot (And You Can, Too)](https://dai-global-digital.com/facebook-chatbot.html). Therein I laid out the case for chatbots as an outreach and engagement tool in international development, which--to recap--boils down to:
@@ -30,11 +33,11 @@ Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook accou
 ![test.PNG](/uploads/test.PNG)
 
 ## 3. Connect the bot to your Facebook page
-This gives the bot a home, and you can use the Facebook page, but you don't have to. A user can access your bot directly from Messenger, but your bot might be 
+You'll see a button in the upper right to 'Connect to Facebook'. Click it, then select the page you just created. This gives the bot a home on Facebook, and you can use the Facebook page, but you don't have to. Depending on how you're using the bot, a user can access it directly from Messenger or through your new Facebook page. 
 
 ![test page.PNG](/uploads/test%20page.PNG)
 
-
+## 4. 
 
 Make a Facebook page
 Make a chatfuel account
