@@ -29,12 +29,12 @@ Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/numbe
 ![siti.PNG](/uploads/siti.PNG)
 
 ## 2. Launch Chatfuel
-Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will open a new bot with a sample sequence in place. 
+Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will open a new bot with a sample sequence in place. This also should only take you about 30 seconds, so we're down to 4:00 on the clock. 
 
 ![test.PNG](/uploads/test.PNG)
 
 ## 3. Connect the bot to your Facebook page
-You'll see a button in the upper right to 'Connect to Facebook'. Click it, then select the page you just created. This gives the bot a home on Facebook, and you can use the Facebook page, but you don't have to. Depending on how you're using the bot, a user can access it directly from Messenger or through your new Facebook page. 
+You'll see a button in the upper right to 'Connect to Facebook'. Click it, then select the page you just created. This gives the bot a home on Facebook, and you can use the Facebook page, but you don't have to. Depending on how you're using the bot, a user can access it directly from Messenger or through your new Facebook page. This probably takes 15 seconds, so there should still be about 3:45 on the clock. 
 
 ![test page.PNG](/uploads/test%20page.PNG)
 
@@ -47,9 +47,11 @@ If you choose the block you want to edit (Welcome Message, for example), you'll 
 
 ![ada a card.PNG](/uploads/ada%20a%20card.PNG)
 
+Admittedly this step should take longer, but for the purposes of getting to the final step, only spend about 3 minutes on it for now, which brings you to 0:45 on the clock; just enough to customize the bot a bit and see how it looks once you've launched it in Messenger. 
+
 ## 5. Test your bot
-Click the blue 'Test Bot' button in the upper right to try your bot out. Run through every block, menu, and option to make sure they're working and that your content is solid. 
+Click the blue 'Test Bot' button in the upper right to try your bot out. Run through every block, menu, and option to make sure they're working and that your content is solid. If the bot is simple, it shouldn't take more than about 45 to get through it, but be aware that sometimes new blocks are a bit slow to load. 
 
-Now that you know the basics, experiment with your bot and think about how this can be useful for your overseas project. What do you know about your users and their challenges? How can customized information provided by a bot help? Is a bot the right solution? Do they have mobile phones? Do they have Facebook Messenger? All good things to know as you think about how this tool useful in context. 
+Now that you've spent 5 minutes getting to know the basics, experiment with your bot and think about how this can be useful for people in need. What do you know about your users and their challenges? How can customized information provided by a bot help? Is a bot the right solution? Do your users have mobile phones? Do they have Facebook Messenger? All good things to know as you think about how this tool useful in context. 
 
-What will your bot actually do? That's up to you. Next time: connecting the bot to a database. 
+*What will your bot actually do? That's up to you. Next time: connecting your bot to a database.*
