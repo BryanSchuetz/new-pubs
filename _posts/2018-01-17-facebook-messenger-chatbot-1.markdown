@@ -25,7 +25,7 @@ Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/numbe
 ![siti.PNG](/uploads/siti.PNG)
 
 ## 2. Launch Chatfuel
-Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will take you to a  
+Go to [Chafuel.com](http://www.chatfuel.com) and login using your Facebook account. Select the option to 'Create a new bot'. This will open a new bot with a sample sequence. 
 
 ![test.PNG](/uploads/test.PNG)
 
