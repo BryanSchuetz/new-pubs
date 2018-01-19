@@ -26,11 +26,11 @@ So, here’s how to make your own chatbot in five easy steps. Follow along and m
 
 ## 1a. Have a Facebook Account
 
-Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) of the 7.6 billion people on Earth actually have a Facebook account so if you’re among the 27 percent who do, you’ve cleared the first hurdle. If you’re among the 63 percent without one and want to change that, point your browser to [Facebook.com](http://www.facebook.com). Assuming you’re among the 27 percent, the clock stays at 5:00 minutes.
+Admittedly, only [2.06 billion](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) of the 7.6 billion people on Earth actually have a Facebook account so if you’re among the 27 percent who do, you’ve cleared the first hurdle. If you’re among the 63 percent without one and want to change that, point your browser to the following web site: [Facebook.com](http://www.facebook.com). Assuming you’re among the 27 percent, the clock stays at 5:00 minutes.
 
 ## 1b. Make a Facebook Page to House Your Bot
 
-\(This doesn’t count as step 2 because it’s just an extension of the previous step.) If you’re on your newsfeed, see the ‘Create:Page’ button in the lower right, or just visit  [facebook.com/pages/create](http://www.facebook.com/pages/create). Choose a page type, give your page a name. Also, choose a featured photo. It should only take about 30 seconds to get it up and running, so the clock’s at 4:30.
+(This doesn’t count as step 2 because it’s just an extension of the previous step.) If you’re on your newsfeed, see the ‘Create:Page’ button in the lower right, or just visit  [facebook.com/pages/create](http://www.facebook.com/pages/create). Choose a page type, give your page a name. Also, choose a featured photo. It should only take about 30 seconds to get it up and running, so the clock’s at 4:30.
 
 ![siti.PNG](/uploads/siti.PNG)
 
