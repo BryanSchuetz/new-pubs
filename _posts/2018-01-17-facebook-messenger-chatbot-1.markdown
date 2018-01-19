@@ -62,7 +62,7 @@ Admittedly this step should take longer, but for the purposes of getting to the 
 
 Click the blue ‘Test Bot’ button in the upper right to try your bot out. Run through every block, menu, and option to make sure they’re working and that your content is solid. If the bot is simple, it shouldn't take more than about 45 seconds to get through it, but be aware that sometimes new blocks are a bit slow to load.
 
-Now that you’ve spent 5 minutes getting to know the basics, experiment with your bot and think about how this can be useful for people in need. What do you know about your users and their challenges? How can customized information provided by a bot help? Is a bot the right solution? Do your users have mobile phones? Do they have Facebook Messenger? All good things to know as you think about how this tool useful in context.
+Now that you’ve spent 5 minutes getting to know the basics, experiment with your bot and think about how this can be useful for people in need. What do you know about your users and their challenges? How can customized information provided by a bot help? Is a bot the right solution? Do your users have mobile phones? Do they have Facebook Messenger? All good things to know as you think about how this tool can be useful in the context of a development project.
 
 What will your bot actually do? That’s up to you. Check out [WIRED’s Best Bots of 2017 for some ideas.](http://www.wired.co.uk/article/chatbot-list-2017)
 
