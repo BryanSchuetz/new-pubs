@@ -1,5 +1,5 @@
 ---
-title: Build a Facebook Messenger Chatbot in 5 Minutes in 5 Steps
+title: Build a Facebook Messenger Chatbot in 5 Minutes and 5 Steps
 date: 2018-01-17 14:39:00 -05:00
 tags:
 - Innovation
@@ -13,11 +13,10 @@ Last year I wrote a post called [“I Made a Facebook Chatbot (And You Can, Too)
 
 <!--more-->
 
-* [1.3 billion active users](https://venturebeat.com/2017/09/14/facebook-messenger-passes-1-3-billion-monthly-active-users/), including a large and growing number of whom are in developing countries, as DAI’s [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work has highlighted. That’s hard to ignore.
-* Low data usage puts the tool (and services riding on it) in a category of communication that’s even cheaper than texting in many instances, especially when users are connected to WiFi.
-
 ![keyboard-1804325_640.jpg](/uploads/keyboard-1804325_640.jpg)
 
+* [1.3 billion active users](https://venturebeat.com/2017/09/14/facebook-messenger-passes-1-3-billion-monthly-active-users/), including a large and growing number of whom are in developing countries, as DAI’s [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work has highlighted. That’s hard to ignore.
+* Low data usage puts the tool (and services riding on it) in a category of communication that’s even cheaper than texting in many instances, especially when users are connected to WiFi.
 * Natural language and conversation may be easier for some people to use than a GUI interface (to take it a step further, this might be an argument in favor of IVR, but I digress).
 * This one is new, but maybe the most relevant to you if you’re reading this: they’re super easy to build!
 
