@@ -66,4 +66,4 @@ Now that you’ve spent 5 minutes getting to know the basics, experiment with yo
 
 What will your bot actually do? That’s up to you. Check out [WIRED’s Best Bots of 2017 for some ideas.](http://www.wired.co.uk/article/chatbot-list-2017)
 
-*Next time: connecting your bot to a database.*
+*Next time: connecting your bot to a database so you can access & visualize data and tie in other web sites and web-based tools.*
