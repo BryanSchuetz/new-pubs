@@ -2,11 +2,8 @@
 title: We’ve figured out that we don’t need to reinvent the wheel, but it is time
   to invest in the roads and highways.
 date: 2018-01-24 09:26:00 -05:00
-Author: Dr. Alain Labrique, founding director of the Johns Hopkins University Global
-  mHealth Initiative.
+Author: Dr. Alain Labrique
 ---
-
-***Dr. Alain Labrique, founding director of the Johns Hopkins University [Global mHealth Initiative](http://www.jhumhealth.org/)***.
 
 ![AL headshot.jpg](/uploads/AL%20headshot.jpg){:.float-right}
 
@@ -27,3 +24,5 @@ A skilled and informed client, whether a large NGO or a Ministry of health, can 
 Successfully growing this field is a two-way street. While the global community can play a large role in making the above scenario a reality, MOHs must take the lead in setting the agenda for digital health investments and in developing the policies, human resources and infrastructure that enable an ecosystem which supports the use of digital health at scale.
 
 I leave you with a challenge - to focus on innovations and technologies that align with the capacity of Governments to scale and sustain, adhere to the Principles of Digital Development, and avoid wheel reinvention.
+
+***Dr. Alain Labrique, founding director of the Johns Hopkins University [Global mHealth Initiative](http://www.jhumhealth.org/)***.
