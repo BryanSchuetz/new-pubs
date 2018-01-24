@@ -1,6 +1,6 @@
 ---
-title: OK, We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and
-  Highways
+title: We’ve figured out that we don’t need to reinvent the wheel, but it is time
+  to invest in the roads and highways
 date: 2018-01-24 09:26:00 -05:00
 categories:
 - Health
@@ -40,7 +40,7 @@ A skilled and informed client, whether a large nongovernmental organization or a
 
 This chaos has, in the past, allowed many stakeholders to benefit without a view to the long-term challenges left in their wake. This will not be the case for much longer. We are nearing a stage of digital maturity in many markets, where ministries of health have clearly prioritized problems, are looking for strategies backed by evidence, have developed lucid implementation strategies which leverage digital resources to augment health system interventions, and have access to a library of demonstrated tools with clear cost-of-ownership data available.
 
-## Successfully growing this field is a two-way street.
+##Successfully growing this field is a two-way street.
 
 While the global community can play a large role in making the above scenario a reality, ministries must take the lead in setting the agenda for digital health investments and in developing the policies, human resources and infrastructure that enable an ecosystem that supports the use of digital health at scale.
 
