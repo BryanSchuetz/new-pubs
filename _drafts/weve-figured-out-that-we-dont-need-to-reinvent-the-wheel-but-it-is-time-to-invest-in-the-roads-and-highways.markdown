@@ -2,6 +2,9 @@
 title: We’ve figured out that we don’t need to reinvent the wheel, but it is time
   to invest in the roads and highways.
 date: 2018-01-24 09:26:00 -05:00
+tags:
+- Health
+- Digital Principles
 Author: Dr. Alain Labrique
 social-image: "/uploads/AL%20headshot.jpg"
 thumbnail: "/uploads/AL%20headshot.jpg"
