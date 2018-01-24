@@ -32,7 +32,7 @@ There are many examples across the landscape of the progress being made in think
 
 The reality is that building awareness of best practices and creating shared resources is no easy task, nor are the philosophical changes necessary to focus on keeping these newly created “global goods” current and useful. There are still discoordinated investments that are producing fragmented solutions. While many donors are well-intentioned, various drivers and incentives may force investments that do not follow a process of building upon the work of others, or even scanning the landscape for innovations that might be reused or repurposed to fit a new need. Such lapses in appropriate process, sadly, perpetuate the chaotic digital environment that we find ourselves in, making the long-term task of cleaning up after well-intentioned development agencies another headache for under-resourced ministries of health.
 
-**How do we, as a community, ensure that ministries of health have the tools at their disposal to make informed decisions about their digital health investments?** 
+**How do we, as a community, ensure that ministries of health have the tools at their disposal to make informed decisions about their digital health investments?**
 
 Guidance to facilitate the selection of appropriately skilled and experienced vendors, for example, may help to promote and sustain better long-term public-private partnerships where necessary. Technology checklists that require solution providers to demonstrate their software’s capacity for interoperability and extensibility may prevent costly repeat investments when requirements change a year or two into the program.
 
