@@ -25,4 +25,4 @@ Successfully growing this field is a two-way street. While the global community 
 
 I leave you with a challenge - to focus on innovations and technologies that align with the capacity of Governments to scale and sustain, adhere to the Principles of Digital Development, and avoid wheel reinvention.
 
-***Dr. Alain Labrique, founding director of the Johns Hopkins University [Global mHealth Initiative](http://www.jhumhealth.org/)***.
+***Dr. Alain Labrique is founding director of the Johns Hopkins University [Global mHealth Initiative](http://www.jhumhealth.org/)***.
