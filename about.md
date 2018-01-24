@@ -11,6 +11,6 @@ The scope of this blog is broad. We’ll bring you field insights from places as
 
 <iframe width="100%" height="520" frameborder="0" src="https://dai.carto.com/viz/3a293f34-edd3-4364-90ef-0418b960f7d5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-<iframe width="100%" height="520" frameborder="0" src="http://d28aeq3a71237q.cloudfront.net/"></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://d28aeq3a71237q.cloudfront.net/"></iframe>
 
 
