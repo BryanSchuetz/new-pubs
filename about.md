@@ -18,7 +18,6 @@ The scope of this blog is broad. We’ll bring you field insights from places as
     <script src="data.js"></script>
 </head>
 <body>
-<h1>This is the map</h1>
 <div id='map' style='width: 100%; height: 100%'></div>
 
 
