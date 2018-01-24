@@ -9,4 +9,4 @@ The field of Information and Communications Technology for International Develop
 
 The scope of this blog is broad. We’ll bring you field insights from places as diverse as Afghanistan and El Salvador, Haiti, and Indonesia. We’ll review new tools and reflect on global ICT4D events. We’ll ruminate on digitizing physical addresses, offer a lesson on data mining, and recount what we learned hanging out with smartphone-savvy twentysomethings in Kabul. And whatever we do, we’ll try to do it in a way that will bring you back for more.
 
-<iframe src="http://ictmap.s3-website-us-east-1.amazonaws.com/" height="200" width="300"></iframe>
+<iframe src="http://ictmap.s3-website-us-east-1.amazonaws.com/"></iframe>
