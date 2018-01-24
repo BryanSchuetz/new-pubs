@@ -12,19 +12,37 @@ The scope of this blog is broad. We’ll bring you field insights from places as
 <iframe src="http://ictmap.s3-website-us-east-1.amazonaws.com/"></iframe>
 
 <head>
-
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
-    <script src="data.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+	<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+	<script src="data.js" id=""></script>
 </head>
 <body>
-<div id='map' style='width: 100%; height: 100%'></div>
+	<div id='map' style='width: 100%; height: 100%'></div>
 
+	<script>
 
-<script>
+var cities = L.layerGroup();
 
+	L.marker([15.78, -90.25]).bindPopup('Guatemala.').addTo(cities),
+	L.marker([18.97, -72.28]).bindPopup('El Salvador.').addTo(cities),
+	L.marker([18.97, 72.28]).bindPopup('Haiti.').addTo(cities),
+	L.marker([18.73, -70.162]).bindPopup('The Dominican Republic').addTo(cities),
+	L.marker([14.49, -14.45]).bindPopup('Senegal').addTo(cities),
+	L.marker([6.428, -9.423]).bindPopup('Liberia').addTo(cities),
+	L.marker([7.94, -1.023]).bindPopup('Ghana').addTo(cities),
+	L.marker([-1.940, 29.87]).bindPopup('Rwanda').addTo(cities),
+	L.marker([0.023, 37.90]).bindPopup('Kenya').addTo(cities),
+	L.marker([5.15, 46.19]).bindPopup('Somalia').addTo(cities),
+	L.marker([12.86, 30.2176]).bindPopup('Sudan').addTo(cities),
+	L.marker([33.22, 43.67]).bindPopup('Iraq').addTo(cities),
+	L.marker([30.58, 36.23]).bindPopup('Jordan').addTo(cities),
+	L.marker([33.93, 67.71]).bindPopup('Afghanistan').addTo(cities),
+	L.marker([20.59, 78.96]).bindPopup('India').addTo(cities),
+	L.marker([12.56, 104.99]).bindPopup('Cambodia.').addTo(cities),
+	L.marker([0.789, 113.92]).bindPopup('Indonesia').addTo(cities),
+	L.marker([31.79, -7.092]).bindPopup('Morocco').addTo(cities),
+	L.marker([31.95, 35.23]).bindPopup('Palestine').addTo(cities);
 	
-
 	var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
 			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -34,46 +52,22 @@ The scope of this blog is broad. We’ll bring you field insights from places as
 		grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr});
 		
 
-	var map = L.map('map', {
-		center: [0, -0],
-		zoom: 2,
-		layers: [cities, streets]
-	});
-
 	var baseLayers = {
 		"Streets": streets,
 		"Grayscale": grayscale,
-	
 	};
 
 	var overlays = {
 		"Cities": cities
 	};
 
+var map = L.map('map', {
+		center: [0, -0],
+		zoom: 2,
+		layers: [cities, streets]
+	});
 
-var cities = L.layerGroup();
+	</script>
 
-	L.marker([15.78, -90.25]).bindPopup('Guatemala.').addTo(cities),
-	L.marker([18.97, -72.28]).bindPopup('El Salvador.').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Haiti.').addTo(cities),
-	L.marker([18.73, -70.162]).bindPopup('The Dominican Republic').addTo(cities),
-	L.marker([14.49, -14.45]).bindPopup('Senegal').addTo(cities),
-	L.marker([6.428, -9.423]).bindPopup('Liberia').addTo(cities),
-	L.marker([7.94, -1.023]).bindPopup('Ghana').addTo(cities),
-	L.marker([-1.940, 29.87]).bindPopup('Rwanda').addTo(cities),
-	L.marker([0.023, 37.90]).bindPopup('Kenya').addTo(cities),
-	L.marker([5.15, 46.19]).bindPopup('Somalia').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Sudan').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Iraq').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Jordan').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Afghanistan').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('India').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Cambodia.').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Indonesia').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Morocco').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('Palestine').addTo(cities);
-	
-</script>
 </body>
-
 
