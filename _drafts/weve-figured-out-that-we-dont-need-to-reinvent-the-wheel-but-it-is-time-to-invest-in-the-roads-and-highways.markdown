@@ -1,6 +1,6 @@
 ---
-title: We’ve figured out that we don’t need to reinvent the wheel, but it is time
-  to invest in the roads and highways.
+title: OK, We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and
+  Highways
 date: 2018-01-24 09:26:00 -05:00
 categories:
 - Health
@@ -14,7 +14,7 @@ thumbnail: "/uploads/AL%20headshot.jpg"
 
 ![AL headshot.jpg](/uploads/AL%20headshot.jpg){:.float-right}
 
-Here’s the good news: over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to yield limited, short-term and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national scale digital health projects to thrive. In the last 5 years especially, the development of shared values (some might say as lessons from dramatic and sometimes unexpected failures in ICT4D) has helped prevent the ‘wheel reinvention’ that characterized the early days of Digital Health. Recent exciting developments, will shepherd the construction of global goods and open-source or multi-purpose platforms which promise to further accelerate forward progress -- while allowing countries to leapfrog ahead without having to recreate the essential building blocks of digital systems every time.
+Here’s the good news: Over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to yield limited, short-term and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national scale digital health projects to thrive. In the last 5 years especially, the development of shared values (some might say as lessons from dramatic and sometimes unexpected failures in ICT4D) has helped prevent the ‘wheel reinvention’ that characterized the early days of Digital Health. Recent exciting developments, will shepherd the construction of global goods and open-source or multi-purpose platforms which promise to further accelerate forward progress -- while allowing countries to leapfrog ahead without having to recreate the essential building blocks of digital systems every time.
 
 These are steps in the right direction.
 
