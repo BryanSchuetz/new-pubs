@@ -11,8 +11,6 @@ social-image: "/uploads/1024px-PL_A2_Poznan_Komorniki.JPG"
 thumbnail: "/uploads/1024px-PL_A2_Poznan_Komorniki.JPG"
 ---
 
-![AL headshot.jpg](/uploads/AL%20headshot.jpg){:.float-right}
-
 Here’s the good news: Over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to produce limited, short-term, and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly, the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national-scale digital health projects to thrive.
 
 <!--more-->
@@ -51,4 +49,5 @@ While the global community can play a large role in making the above scenario a 
 
 I leave you with a challenge: to focus on innovations and technologies that align with the capacity of governments to scale and sustain, adhere to the Principles of Digital Development, and avoid wheel reinvention.
 
+![AL headshot.jpg](/uploads/AL%20headshot.jpg){:.float-right}
 ***Dr. Alain Labrique is founding director of the Johns Hopkins University [Global mHealth Initiative](http://www.jhumhealth.org/), and has a joint appointment in health sciences informatics at the Johns Hopkins University School of Medicine. He is an associate professor of international health and holds a joint appointment in epidemiology at the Johns Hopkins Bloomberg School of Public Health. His research focuses on infectious diseases.***
