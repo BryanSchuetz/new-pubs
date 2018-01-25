@@ -1,6 +1,5 @@
 ---
-title: We’ve figured out that we don’t need to reinvent the wheel, but it is time
-  to invest in the roads and highways
+title: We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways
 date: 2018-01-24 09:26:00 -05:00
 published: false
 categories:
