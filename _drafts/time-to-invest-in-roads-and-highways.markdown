@@ -7,7 +7,7 @@ categories:
 tags:
 - Health
 - Digital Principles
-Author: Dr. Alain Labrique
+Author: "[Dr. Alain Labrique](https://twitter.com/alabriqu)"
 social-image: "/uploads/AL%20headshot.jpg"
 thumbnail: "/uploads/AL%20headshot.jpg"
 ---
