@@ -22,7 +22,7 @@ In the last five years especially, the development of shared values (some might 
 
 Recent exciting developments will shepherd the construction of global goods and open-source or multi-purpose platforms that promise to further accelerate forward progress—while allowing countries to leapfrog ahead without having to recreate the essential building blocks of digital systems every time.
 
-## These are steps in the right direction.
+These are steps in the right direction.
 
 I recently returned from a workshop hosted by the World Health Organization (WHO) and the nonprofit PATH, with Ministry of Health staff from Kenya, Rwanda, Tanzania, and Uganda. The goal of the workshop was to test a systematic approach for articulating requirements for digital health registers, and other “building block” digital health systems. This was a great experience of working with multiple ministry stakeholders to focus attention on the macro layer of health system problems, thinking through the architecture and implementation team necessary to deploy, scale, and sustain a digital system at national scale.
 
