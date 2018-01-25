@@ -32,7 +32,7 @@ In addition to the very granular details of the system functions and workflows, 
 
 There are many examples across the landscape of the progress being made in thinking about digital health differently. Broad consensus around the shared values of digital development have been enshrined in the [Principles for Digital Development](https://digitalprinciples.org/). Guidance for large-scale implementation of digital solutions is becoming increasingly available—from the [WHO MAPS Toolkit](http://www.who.int/reproductivehealth/topics/mhealth/maps-toolkit/en/), to upcoming [guidance from the Digital Impact Alliance (DIAL)](https://digitalimpactalliance.org/digital-impact-alliance-taps-new-partners-inform-produce-scale-guidance-global-digital-deployments-2/) on how to maintain systems at a national scale. Interoperability backbones, such as [OpenHIE](https://ohie.org/architecture/), and other foundational building blocks such as master facility registries, health workforce registries, and technology to automatically match and de-duplicate patient records from multiple sources are being developed by members of the revitalized and highly collaborative digital health community of practice.
 
-## However, the problem persists.
+## Reality Check
 
 The reality is that building awareness of best practices and creating shared resources is no easy task, nor are the philosophical changes necessary to focus on keeping these newly created “global goods” current and useful. There are still discoordinated investments that are producing fragmented solutions. While many donors are well-intentioned, various drivers and incentives may force investments that do not follow a process of building upon the work of others, or even scanning the landscape for innovations that might be reused or repurposed to fit a new need. Such lapses in appropriate process, sadly, perpetuate the chaotic digital environment that we find ourselves in, making the long-term task of cleaning up after well-intentioned development agencies another headache for under-resourced ministries of health.
 
@@ -44,7 +44,7 @@ A skilled and informed client, whether a large nongovernmental organization or a
 
 This chaos has, in the past, allowed many stakeholders to benefit without a view to the long-term challenges left in their wake. This will not be the case for much longer. We are nearing a stage of digital maturity in many markets, where ministries of health have clearly prioritized problems, are looking for strategies backed by evidence, have developed lucid implementation strategies which leverage digital resources to augment health system interventions, and have access to a library of demonstrated tools with clear cost-of-ownership data available.
 
-## Successfully growing this field is a two-way street.
+## Two-way Street
 
 While the global community can play a large role in making the above scenario a reality, ministries must take the lead in setting the agenda for digital health investments and in developing the policies, human resources and infrastructure that enable an ecosystem that supports the use of digital health at scale.
 
