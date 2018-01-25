@@ -15,9 +15,9 @@ thumbnail: "/uploads/AL%20headshot.jpg"
 
 Here’s the good news: Over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to produce limited, short-term, and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly, the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national-scale digital health projects to thrive.
 
-![1024px-PL_A2_Poznan_Komorniki.JPG](/uploads/1024px-PL_A2_Poznan_Komorniki.JPG)
-
 <!--more-->
+
+![1024px-PL_A2_Poznan_Komorniki.JPG](/uploads/1024px-PL_A2_Poznan_Komorniki.JPG)
 
 In the last five years especially, the development of shared values (some might say as lessons from dramatic and sometimes unexpected failures in ICT4D) has helped prevent the “wheel reinvention” that characterized the early days of digital health.
 
