@@ -1,5 +1,5 @@
 ---
-title: 'Sit Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
+title: 'Site Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
 date: 2018-01-29 12:06:00 -05:00
 categories:
 - Data
