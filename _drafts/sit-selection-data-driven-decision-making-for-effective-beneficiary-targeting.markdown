@@ -1,11 +1,11 @@
 ---
-title: 'Sit Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
+title: 'Site Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
 date: 2018-01-29 12:06:00 -05:00
 categories:
 - Data
 tags:
 - Site Selection
-Author: Josh Linden
+Author: Karim Bin-Humam; Josh Linden
 social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 ---
 
@@ -42,10 +42,6 @@ Each of these individual criteria required that the project team gathered datase
 
 Aggregating the data and calculating a final score based on a distribution of variable weights (indicating importance) for each Iraqi province allows the site selection platform's user to draw insight out of the collected data, helping him or her to make prioritization decisions that are equally based on evidence as embodied by the datasets, and thematic priority as embodied by the weights distributed by the user.
 
-![Screen Shot 2018-01-29 at 12.37.56 PM.png](/uploads/Screen%20Shot%202018-01-29%20at%2012.37.56%20PM.png)
-
 The IGPA Site Selection platform can be seen at the link below. Feel free to visit, explore and consider how your projects might use data to target beneficiaries.
-
-[IGPA Site Selection Tool ](https://public.tableau.com/profile/josh.linden#!/vizhome/SiteSelectionTool/Story1?publish=yes)
 
 <div class='tableauPlaceholder' id='viz1516940166030' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https://public.tableau.com/static/images/Si/SiteSelectionTool/Story1/1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SiteSelectionTool/Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https://public.tableau.com/static/images/Si/SiteSelectionTool/Story1/1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1516940166030'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1400px';vizElement.style.height='1647px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
