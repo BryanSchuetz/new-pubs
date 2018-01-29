@@ -1,10 +1,17 @@
 ---
 title: 'Sit Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
 date: 2018-01-29 12:06:00 -05:00
+categories:
+- Data
+tags:
+- Site Selection
 Author: Josh Linden
+social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 ---
 
-Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck: ***How can we be certain that we are targeting the right communities with our work? ***You're a project looking to reduce violence in schools in Honduras - Which specific schools should you prioritize given that you can't work across all of them? You're a governance-strengthening project in Kosovo - Which localities should you work in where you can be most effective? Most importantly, what does a decision-making process based in evidence and aligned with donor priorities look like?
+Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck:*** How can we be certain that we are targeting the right communities with our work?***\
+\
+You're a project looking to reduce violence in schools in Honduras - Which specific schools should you prioritize given that you can't work across all of them? You're a governance-strengthening project in Kosovo - Which localities should you work in where you can be most effective? Most importantly, what does a decision-making process based in evidence and aligned with donor priorities look like?
 
 In an attempt to make sure that we are consistently able to answer these questions, we have developed a data driven methodology to targeting beneficiaries that we have called Site Selection. This structured process provides projects with up-front guidance on decision making, developing and applying a set of criteria for assessing a range of potential intervention sites or beneficiaries, enabling them to make evidence-based decisions and build a strong case for targeted interventions, and to date we have employed the Site Selection process successfully from Kosovo to Honduras to Iraq.
 
@@ -34,6 +41,8 @@ In December of 2017, one of our newest projects - the Iraq Governance and Perfor
 Each of these individual criteria required that the project team gathered datasets that allow for the quantification of that particular criterion. For example "Number of Active Civil Society Organizations (CSOs)" and "CSO's headed by women" as proxies for Citizen Participation, or "Operating Budget"  and "Capital Investment Budget" for Financial Resilience.
 
 Aggregating the data and calculating a final score based on a distribution of variable weights (indicating importance) for each Iraqi province allows the site selection platform's user to draw insight out of the collected data, helping him or her to make prioritization decisions that are equally based on evidence as embodied by the datasets, and thematic priority as embodied by the weights distributed by the user.
+
+![Screen Shot 2018-01-29 at 12.37.56 PM.png](/uploads/Screen%20Shot%202018-01-29%20at%2012.37.56%20PM.png)
 
 The IGPA Site Selection platform can be seen at the link below. Feel free to visit, explore and consider how your projects might use data to target beneficiaries.
 
