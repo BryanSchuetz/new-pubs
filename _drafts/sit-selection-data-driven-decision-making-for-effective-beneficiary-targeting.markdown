@@ -1,5 +1,5 @@
 ---
-title: 'Site Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
+title: 'Sit Selection: Data-Driven Decision Making for Effective Beneficiary Targeting'
 date: 2018-01-29 12:06:00 -05:00
 categories:
 - Data
@@ -9,7 +9,7 @@ Author: Josh Linden
 social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 ---
 
-Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck:*** How can we be certain that we are targeting the right communities with our work?***\
+Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck:\*\*\* How can we be certain that we are targeting the right communities with our work?\*\*\*\
 \
 You're a project looking to reduce violence in schools in Honduras - Which specific schools should you prioritize given that you can't work across all of them? You're a governance-strengthening project in Kosovo - Which localities should you work in where you can be most effective? Most importantly, what does a decision-making process based in evidence and aligned with donor priorities look like?
 
@@ -47,3 +47,5 @@ Aggregating the data and calculating a final score based on a distribution of va
 The IGPA Site Selection platform can be seen at the link below. Feel free to visit, explore and consider how your projects might use data to target beneficiaries.
 
 [IGPA Site Selection Tool ](https://public.tableau.com/profile/josh.linden#!/vizhome/SiteSelectionTool/Story1?publish=yes)
+
+<div class='tableauPlaceholder' id='viz1516940166030' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https://public.tableau.com/static/images/Si/SiteSelectionTool/Story1/1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SiteSelectionTool/Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https://public.tableau.com/static/images/Si/SiteSelectionTool/Story1/1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1516940166030'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1400px';vizElement.style.height='1647px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
