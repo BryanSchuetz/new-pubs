@@ -12,9 +12,13 @@ social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 
 Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck: ***How can we be certain that we are targeting the right communities with our work?***
 
+<!--more-->
+
 You're a project looking to reduce violence in schools in Honduras - Which specific schools should you prioritize given that you can't work across all of them? You're a governance-strengthening project in Kosovo - Which localities should you work in where you can be most effective? Most importantly, what does a decision-making process based in evidence and aligned with donor priorities look like?
 
 In an attempt to make sure that we are consistently able to answer these questions, we have developed a data driven methodology to identifying and engaging with beneficiaries that we have called the Site Selection System (S3). This structured process provides projects with up-front guidance on decision making, developing and applying a set of criteria for assessing a range of potential intervention sites or beneficiaries, enabling them to make evidence-based decisions and build a strong case for targeted interventions, and to date we have employed the Site Selection process successfully from Kosovo to Honduras to Iraq.
+
+![Screen Shot 2018-01-29 at 12.39.40 PM-28850b.png](/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM-28850b.png)
 
 # The Process:
 
