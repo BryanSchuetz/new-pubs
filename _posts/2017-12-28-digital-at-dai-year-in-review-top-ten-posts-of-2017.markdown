@@ -22,9 +22,9 @@ We featured digital experts from organizations such as Panoply, BanQu, Omelas, a
 
 In our [final blog](https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html) of 2016 we reviewed the top five most read articles of the year. With our audience and total number of blog posts expanding, we’ll look at our top 10 of 2017, which showcase a broad range of topics, content, and writers.
 
-![2017 Year in Review C.jpg](/uploads/2017%20Year%20in%20Review%20C.jpg)
-
 <!--more-->
+
+![2017 Year in Review C.jpg](/uploads/2017%20Year%20in%20Review%20C.jpg)
 
  1. [Lush Green Remote Sensing](https://dai-global-digital.com/lush-green-remote-sensing.html)—Last winter, we wrote a series of posts on remote sensing. This article looks at the method of using satellite imagery to identify healthy plant vegetation from space.
 
