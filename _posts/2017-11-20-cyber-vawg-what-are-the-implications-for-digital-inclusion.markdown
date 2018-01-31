@@ -11,11 +11,12 @@ thumbnail: "/uploads/Cambodia%20DI%201.jpg"
 
 Raise your hand if you have experienced online harassment. I am sure the response is a virtual flurry. Although digital technologies have the ability to empower, connect, and liberalise, they can also serve as platforms for marginalisation and abuse.
 
+<!--more-->
+
 Recent news stories such as those from the [UK General Election](https://www.theguardian.com/politics/2017/sep/05/diane-abbott-more-abused-than-any-other-mps-during-election) have shone a light on the targeting of female politicians and journalists and high-profile cases of cyber bullying of young girls have shocked people world over. Whilst we know well the veracity of online violence, a less prominent issue is how it can exacerbate levels of digital exclusion for already marginalised populations. Let's take a look at how online violence against women and girls—or “cyber VAWG”—further impedes digital inclusion and prevents women and girls from enjoying digital dividends.
 
 ![Cambodia DI 1-c83e49.jpg](/uploads/Cambodia%20DI%201-c83e49.jpg)
 `Photo from the USAID Development Innovations Cambodia project.`
-<!--more-->
 
 ## Why Are Women and Girls Targeted?
 
