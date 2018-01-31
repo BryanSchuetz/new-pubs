@@ -14,9 +14,9 @@ In international development, human-centered designer (HCD) is charged with rapi
 
 Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work. But, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
 
-The podcasts below are all about people who know how to listen. They’ve expanded my understanding of design and sharpened my ability to listen closely when I’m designing a solution. I hope they’ll do the same for you, should you take the time to *listen.*
-
 <!--more-->
+
+The podcasts below are all about people who know how to listen. They’ve expanded my understanding of design and sharpened my ability to listen closely when I’m designing a solution. I hope they’ll do the same for you, should you take the time to *listen.*
 
 ## Design Matters with Debbie Millman
 ![DesignMatters.jpg](/uploads/DesignMatters.jpg){:.float-right}
