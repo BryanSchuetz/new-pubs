@@ -32,7 +32,7 @@ In an attempt to make sure that we are consistently able to answer these questio
 
 ## Case Study: Prioritizing Iraqi Provinces for Improved Governance and Service Delivery
 
-As part of its ongoing transitional process, the Government of Iraq is working to decentralize many government functions to the provincial level in an effort to combat corruption and enhance responsiveness. DAI is supporting this transition through our new, USAID-funded Iraq Governance and Performance Accountability (IGPA/Takamul) project, addressing barriers to decentralization and working with provincial governments across the country to strengthen service delivery. However, in order to mobilize quickly, the project team needed to select 6 priority provinces for the first phase. In keeping with the Site Selection methodology described earlier, this required a set of criteria, a list of proxy variables for each criteria, a methodology for selection, and an interactive platform for displaying the results and collaborating with USAID to select the final provinces. The team defined a list of five criteria to determine the most compelling provincial environments:
+As part of its ongoing transitional process, the Government of Iraq is working to decentralize many government functions to the provincial level in an effort to combat corruption and enhance responsiveness. DAI is supporting this transition through our new [Iraq Governance and Performance Accountability (IGPA/Takamul](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project)) project, addressing barriers to decentralization and working with provincial governments across the country to strengthen service delivery. However, to mobilize quickly, the project team needed to select six priority provinces for the first phase. In keeping with the S3 methodology, this required a set of criteria, a list of proxy variables for each criteria, a methodology for selection, and an interactive platform for displaying the results and collaborating with USAID to select the final provinces. The team defined a list of five criteria to determine the most compelling provincial environments:
 
 1. Citizen Participation
 
@@ -44,7 +44,7 @@ As part of its ongoing transitional process, the Government of Iraq is working t
 
 5. Demography and Regional Representation
 
-For each of these individual criteria, the team defined a set of proxy indicators tied to quantitative data. For example, “Number of active Civil Society Organizations” represented a component of Citizen Participation, “Operating Budget” and “Budget Execution Rates” for Financial Resilience, and “Health Workers per Capita” and “Potable Water” for Service Delivery.
+For each of these criteria, the team defined a set of proxy indicators tied to quantitative data. For example, “Number of active civil society organizations” represented a component of citizen participation, “operating budget” and “budget execution rates” for financial resilience, and “health workers per capita” and “potable water” for service delivery.
 
 The methodology used a quintile scoring structure that graded performance relative to other provinces. High scores were defined as a more permissive operating environment, as it applied to each proxy indicator. The scoring model also included a weighting function to allow the project and USAID to collaboratively adjust the importance of specific criteria in order to recalibrate the preferred provincial characteristics.
 
