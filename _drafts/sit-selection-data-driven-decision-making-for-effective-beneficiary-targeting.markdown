@@ -6,7 +6,8 @@ categories:
 - Data
 tags:
 - Site Selection
-Author: Karim Bin-Humam; Josh Linden
+Author: "[Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam),
+  [Josh Linden](https://www.linkedin.com/in/josh-linden-9715391b/)"
 social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 ---
 
