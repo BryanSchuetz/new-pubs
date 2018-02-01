@@ -9,6 +9,7 @@ tags:
 Author: "[Karim Bin-Humam](https://www.dai.com/who-we-are/our-team/karim-bin-humam),[Josh
   Linden](https://twitter.com/jmatz1919)"
 social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
+thumbnail: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 ---
 
 Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck: ***How can we be certain that we are targeting the right communities with our work?***
