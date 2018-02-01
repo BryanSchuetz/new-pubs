@@ -22,26 +22,20 @@ In an attempt to make sure that we are consistently able to answer these questio
 
 ![Screen Shot 2018-01-29 at 12.39.40 PM-28850b.png](/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM-28850b.png)
 
-# The Process:
+## The Process:
 
 1. ***Constituent Consultation and Criteria Formulation:*** At the earliest possible stage, we consult with key project staff, technical experts, and client donor representatives to create a unified vision for priorities with regards to targeting beneficiaries. Together we develop a beneficiary profile from which priorities can be derived. Then we develop clear and measurable selection criteria based on the desired impact of the project.
-
 2. ***Data Surveying and Collection*** With a beneficiary profile and a set of measurable criteria in hand, we then work with projects to identify available datasets, or curate new ones, from which evidence of suitability of individual beneficiaries or geographic locations can be drawn. These can include national-level data such as school matriculation rates, or highly localized data such as crime rates in one municipality. Where necessary, we design data collection plans to supplement what is already available.
-
 3. ***Weighting and Scoring*** The next stage involves crunching the numbers: 1) determining a scoring algorithm that allows for beneficiary or site ranking according to the criteria set out, 2) applying this scoring algorithm to the data collected in the second step, 3) designing a weighting system to build flexibility into the system, allowing projects to adaptively apply weighting according to shifting priorities, and 4) developing an interactive visual to allow the project to apply weights dynamically and prioritize to inform and drive decisions.
 
-### Case Study: Prioritizing Iraqi Provinces for Improved Governance and Service Delivery
+## Case Study: Prioritizing Iraqi Provinces for Improved Governance and Service Delivery
 
 As part of its ongoing transitional process, the Government of Iraq is working to decentralize many government functions to the provincial level in an effort to combat corruption and enhance responsiveness. DAI is supporting this transition through our new [Iraq Governance and Performance Accountability (IGPA/Takamul](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project)) project, addressing barriers to decentralization and working with provincial governments across the country to strengthen service delivery. However, to mobilize quickly, the project team needed to select six priority provinces for the first phase. In keeping with the S3 methodology, this required a set of criteria, a list of proxy variables for each criteria, a methodology for selection, and an interactive platform for displaying the results and collaborating with USAID to select the final provinces. The team defined a list of five criteria to determine the most compelling provincial environments:
 
 1. Citizen Participation
-
 2. Financial Resilience
-
 3. Political Will
-
 4. Service Delivery
-
 5. Demography and Regional Representation
 
 For each of these criteria, the team defined a set of proxy indicators tied to quantitative data. For example, “Number of active civil society organizations” represented a component of citizen participation, “operating budget” and “budget execution rates” for financial resilience, and “health workers per capita” and “potable water” for service delivery.
