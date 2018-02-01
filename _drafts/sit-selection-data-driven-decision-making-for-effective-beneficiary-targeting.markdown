@@ -1,6 +1,6 @@
 ---
-title: '"S3" Site Selection System: Data-Driven Decision Making for Effective Beneficiary
-  Engagement'
+title: "“S3” Site Selection System: A Data-Driven Decision Making Tool for Effective
+  Engagement"
 date: 2018-01-29 12:06:00 -05:00
 categories:
 - Data
@@ -12,19 +12,19 @@ social-image: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 thumbnail: "/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM.png"
 ---
 
-Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren't targeting a specific set of rural communities. According to him, those communities are the ones that could really benefit from the type of work that we were doing. While we had good reason to work where we were working, the question stuck: ***How can we be certain that we are targeting the right communities with our work?***
+Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren’t targeting specific rural communities. According to him, those communities are the ones that could really benefit from the type of work we were doing. While we had good reason to work where we were working, the question stuck: ***How can we be certain that we are targeting the right communities?***
 
 <!--more-->
 
-You're a project looking to reduce violence in schools in Honduras - Which specific schools should you prioritize given that you can't work across all of them? You're a governance-strengthening project in Kosovo - Which localities should you work in where you can be most effective? Most importantly, what does a decision-making process based in evidence and aligned with donor priorities look like?
+You’re working on a project looking to reduce violence in schools in Honduras—which specific schools should you prioritize given that you can’t work across all of them? You’re working on a governance-strengthening project in Kosovo—in which localities will you be most effective? Most importantly, what does a decision-making process based in evidence and aligned with donor priorities look like?
 
-In an attempt to make sure that we are consistently able to answer these questions, we have developed a data driven methodology to identifying and engaging with beneficiaries that we have called the Site Selection System (S3). This structured process provides projects with up-front guidance on decision making, developing and applying a set of criteria for assessing a range of potential intervention sites or beneficiaries, enabling them to make evidence-based decisions and build a strong case for targeted interventions, and to date we have employed the Site Selection process successfully from Kosovo to Honduras to Iraq.
+In an attempt to make sure that we are consistently able to answer these questions, we have developed a data-driven methodology to identify and engage with beneficiaries that we call the Site Selection System (S3). This process provides projects with up-front guidance on decision making, developing and applying a set of criteria for assessing a range of potential intervention sites or beneficiaries, enabling them to make evidence-based decisions and build a strong case for targeted interventions. To date, we have successfully deployed S3 from Kosovo to Honduras to Iraq.
 
 ![Screen Shot 2018-01-29 at 12.39.40 PM-28850b.png](/uploads/Screen%20Shot%202018-01-29%20at%2012.39.40%20PM-28850b.png)
 
 # The Process:
 
-1. ***Constituent Consultation and Criteria Formulation:*** At the earliest possible stage, we consult with key project staff, technical experts and client donor representatives to create a unified vision for priorities with regards to targeting beneficiaries. Together we develop a beneficiary profile from which priorities can be derived, after which we develop clear and measurable selection criteria based on the desired impact of the project.
+1. ***Constituent Consultation and Criteria Formulation:*** At the earliest possible stage, we consult with key project staff, technical experts, and client donor representatives to create a unified vision for priorities with regards to targeting beneficiaries. Together we develop a beneficiary profile from which priorities can be derived, after which we develop clear and measurable selection criteria based on the desired impact of the project.
 
 2. ***Data Surveying and Collection*** With a beneficiary profile and a set of measurable criteria at hand, we then work with projects to identify available datasets, or curate new ones, from which evidence of suitability of individual beneficiaries or geographic locations can be drawn. These can include national level data such as school matriculation rates, or highly localized data such as sector crime rates in one municipality. Where necessary, we design data collection plans to supplement what is already available.
 
