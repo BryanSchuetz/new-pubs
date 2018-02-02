@@ -1,5 +1,5 @@
 ---
-title: "“S3” Site Selection System: A Data-Driven Decision Making Tool for Effective
+title: "“S3” Site Selection System: A Data-Driven Decision-Making Tool for Effective
   Engagement"
 date: 2018-01-29 12:06:00 -05:00
 categories:
