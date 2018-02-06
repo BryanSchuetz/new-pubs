@@ -3,7 +3,7 @@ title: Why is DAI Investing in a Coding School?
 date: 2018-02-06 10:52:00 -05:00
 tags:
 - ICT
-- coding
+- Coding
 Author: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) "
 social-image: "/uploads/Code%20Partners%20Logo%20Stacked.png"
 ---
