@@ -12,7 +12,7 @@ DAI and Rockville, Maryland-based United Solutions [recently launched](https://w
 
 <!--more-->
 
-Code Fellows, which started eight years ago, has a fantastic track record: 95 percent of graduates from its programmer's development course-including a high proportion of women-have been hired within three months, at excellent salaries. Demand in the D.C. area for entry-level programmers is strong.
+Code Fellows, which started eight years ago, has a fantastic track record: 95 percent of graduates from its programmer's development course—including a high proportion of women—have been hired within three months, at excellent salaries. Demand in the D.C. area for entry-level programmers is strong.
 But DAI is an international development firm, I hear you ask: what's your interest in a code academy? 
 
 First and foremost, Code Partners aligns perfectly with our development mission and our expertise in inclusive economic development. As Code Fellows' Vice President Mitch Robertson put it at our launch event last week, "Through the power of code education, we are able to offer the skills that give anyone the opportunity to find rewarding careers in technology regardless of race, gender, geography, or socioeconomic status, and Code Fellows is excited to be a part of this movement."
