@@ -6,6 +6,7 @@ tags:
 - Coding
 Author: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) "
 social-image: "/uploads/Code%20Partners%20Logo%20Stacked.png"
+thumbnail: "/uploads/Code%20Partners%20Logo%20Stacked.png"
 ---
 
 DAI and Rockville, Maryland-based United Solutions [recently launched](https://www.dai.com/news/dai-hosts-launch-of-new-coding-school-in-montgomery-county) a business called Code Partners to provide classroom instruction in software development. Code Partners will rely on the proven curriculum and teaching methods of Seattle-based [Code Fellows](https://www.codefellows.org/), starting with beginner-level courses in HTML, CSS, and JavaScript. 
