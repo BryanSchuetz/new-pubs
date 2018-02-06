@@ -9,6 +9,8 @@ Author: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jeffers
 
 DAI and Rockville, Maryland-based United Solutions [recently launched](https://www.dai.com/news/dai-hosts-launch-of-new-coding-school-in-montgomery-county) a business called Code Partners to provide classroom instruction in software development. Code Partners will rely on the proven curriculum and teaching methods of Seattle-based [Code Fellows](https://www.codefellows.org/), starting with beginner-level courses in HTML, CSS, and JavaScript. 
 
+<!--more-->
+
 Code Fellows, which started eight years ago, has a fantastic track record: 95 percent of graduates from its programmer's development course-including a high proportion of women-have been hired within three months, at excellent salaries. Demand in the D.C. area for entry-level programmers is strong.
 But DAI is an international development firm, I hear you ask: what's your interest in a code academy? 
 
