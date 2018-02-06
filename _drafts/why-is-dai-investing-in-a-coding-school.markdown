@@ -25,3 +25,6 @@ As the county's only coding bootcamp, Code Partners will perform an important se
 "Our goal is to change the face of coding by building a diversified group of programmers committed to innovation," Nguyen said.
 
 I can say from personal experience what a difference learning to code can make in your professional life. If you've ever been interested in coding, want to upgrade your resume, or set in motion a wholesale career change, consider signing up for the one-day intro workshop on [February 24](https://www.eventbrite.com/e/code-101-intro-to-software-development-careers-in-tech-tickets-42538303210?aff=efbeventtix) or [March 10](https://www.eventbrite.com/e/code-101-intro-to-software-development-careers-in-tech-tickets-42718463073?aff=daipromo).
+
+![mug.png](/uploads/mug.png){:.float-right}
+***Bobby Jefferson, a leader in the field of ICT4D, is working to expand DAI’s range of digital health services.***
