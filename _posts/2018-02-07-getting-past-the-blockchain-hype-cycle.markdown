@@ -20,7 +20,7 @@ This is of course a simplification of the many ways technologies proliferate thr
 
 I digress. Let’s look at a similar case study to blockchain.
 
-The Harvard Business Review article, *The Truth About Blockchain*, makes comparison to [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) – also boring, but oh so important for every transaction on the internet. Early uses of the TCP/IP enabled peer-to-peer messaging – hardly a novelty at the time – but thirty years later was the enabling technology for Amazon.com to essentially replace brick and mortar [bookstores](https://newrepublic.com/article/84531/end-bookstores-amazon-e-book-borders). Five to ten years into the implementation of TCP/IP, it would have hard to see it as a revolutionary technology that would change the future of digital communication.
+The Harvard Business Review article, *[The Truth About Blockchain](https://hbr.org/webinar/2017/02/the-truth-about-blockchain)*, makes comparison to [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite). Early uses of the TCP/IP enabled peer-to-peer messaging – hardly a novelty at the time – but thirty years later was the enabling technology for Amazon.com to essentially replace brick and mortar [bookstores](https://newrepublic.com/article/84531/end-bookstores-amazon-e-book-borders). Five to ten years into the implementation of TCP/IP, it would have hard to see it as a revolutionary technology that would change the future of digital communication.
 
 Is DLT the same…? We’re not sure yet.
 
@@ -30,6 +30,6 @@ As adherents to [human centered design](https://dai-global-digital.com/lean-desi
 
 While we don’t know what the future of distributed ledger technology will bring, what we do know is that it offers new solutions to old problems. [Land tenure](https://www.dai.com/our-work/solutions/environment-and-energy-solutions/land-tenure) and property rights, for example, are key to economic growth, and competition for land often leads to conflict. DLTs could play a role in creating a central location for land records management and transparent governance. [Supply chains](https://www.dai.com/our-work/solutions/corporate/local-content-and-supply-chain-management) rely on the trust between parties to care for goods between transactions, and to be honest about the origin of an item. DLTs can provide an immutable ledger than ensures that all parties have the same, unfalsifiable information about the history of items along the supply chain.
 
-These are just two of many examples that we are actively exploring. And as we look ahead to the rest of 2018, our plan is to take our technical learning and apply it to practical problems faced by our projects. So while we’re not sure that this technology is here to stay, it may prove helpful for very specific problems.
+These are just two of many examples that we are actively exploring. And as we look ahead to the rest of 2018, our plan is to take our technical learning and apply it to practical problems faced by our projects. We'll make sure to share what we're working on along the way. Stay tuned. 
 
 To learn more about blockchain for international development, we recommend signing for [TechChange’s course](https://course.tc/catalog/course/5b5f9e57-b013-4a6d-b696-3bce63b7f8be), TC116.
