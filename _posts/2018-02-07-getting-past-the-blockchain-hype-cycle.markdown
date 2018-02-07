@@ -1,11 +1,14 @@
 ---
 title: Getting Past the Blockchain Hype Cycle
 date: 2018-02-07 16:08:00 -05:00
+Author: Greg Maly
 ---
 
 Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. The most commonly discussed DLT applications are those that involve currencies. Fortune Magazine recently listed “The Fintech Renaissance” as the second most import technology trend of 2018, and with good reason. Last month Bitcoin saw over [400,000 transactions](https://blockchain.info/charts/n-transactions?timespan=all) per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore.
 
 But what about all of the other promises of DLTs? There are no shortage of articles written about their impact on data security, the value of smart contracts to create efficient online transactions, and the value of data democratization and transparency through shared ledgers. While there are case studies for each of these promising areas, distributed application developers are in short supply, and active implementations for global development projects are rare. As a result, I get the sense that blockchain may be entering peak hype cycle.
+
+<!--more-->
 
 **Peak Expectation**
 
