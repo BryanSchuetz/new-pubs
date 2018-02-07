@@ -1,6 +1,11 @@
 ---
 title: Getting Past the Blockchain Hype Cycle
 date: 2018-02-07 16:08:00 -05:00
+categories:
+- Data
+tags:
+- Innovation
+- Distributed Ledger Technology
 Author: Greg Maly
 ---
 
