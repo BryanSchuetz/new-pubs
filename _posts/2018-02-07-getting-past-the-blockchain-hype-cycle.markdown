@@ -7,6 +7,8 @@ tags:
 - Innovation
 - Distributed Ledger Technology
 Author: Greg Maly
+social-image: "/uploads/Tech%20Life%20Cycle.png"
+thumbnail: "/uploads/Tech%20Life%20Cycle.png"
 ---
 
 Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. And the most commonly discussed DLT applications are those that involve financial transactions with [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency). Fortune Magazine [recently listed](http://fortune.com/2017/12/26/4-technology-trends-2018/) “The Fintech Renaissance” as the second most import technology trend of 2018, and with good reason. Last month Bitcoin saw over [400,000 transactions](https://blockchain.info/charts/n-transactions?timespan=all) per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore.
