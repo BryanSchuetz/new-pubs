@@ -39,4 +39,4 @@ Applying this concept to global development challenges, a couple of project impl
 
 These are just two of many examples that we are actively exploring. And as we look ahead to the rest of 2018, our plan is to take our technical learning and apply it to practical problems faced by our projects. So while we don’t know what the future of distributed ledger technology will bring, what we do know is that it offers new solutions to old problems. And that isn't boring at all. I actually think it's very exciting.
 
-To learn more about blockchain for international development, we recommend signing for [TechChange’s course](https://course.tc/catalog/course/5b5f9e57-b013-4a6d-b696-3bce63b7f8be): TC116.
+*To learn more about blockchain for international development, we recommend signing for [TechChange’s course](https://course.tc/catalog/course/5b5f9e57-b013-4a6d-b696-3bce63b7f8be): TC116.*
