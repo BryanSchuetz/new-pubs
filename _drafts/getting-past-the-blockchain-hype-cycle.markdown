@@ -17,7 +17,7 @@ But what about all of the other promises of DLTs? There are no shortage of artic
 
 <!--more-->
 
-**Peak Expectation**
+# **Peak Expectation**
 
 As followers of technology trends, our ICT team is aware of the excitement that a new technology can bring. But we’re also aware that new technologies can lead to great disappointment when they fail to live up to expectations. One of my favorite representations of this idea can by described by *Amara’s Law*, which states that “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.” This can be seen in the curve referred to as the *Hype Cycle*, which begins with a trigger point for a new technology, soon after reaches a peak of inflated expectations, followed by a period of disillusionment, and finally an era of slow growth and adoption of the technology as it reaches sustainable productivity.
 
@@ -31,7 +31,7 @@ The Harvard Business Review article, *[The Truth About Blockchain](https://hbr.o
 
 Is DLT the same…? We’re not sure yet.
 
-**Getting Practical with DLTs**
+# **Getting Practical with DLTs**
 
 As adherents to [human centered design](https://dai-global-digital.com/lean-design-for-development-a-practical-approach-to-human-centered-design.html) principles, our team places great value on the need to understand culture and context before offering technology solutions. That being said, you can’t offer technology solutions if you don’t understand a technology. Therefore, our team has undertaken a series of R&D efforts to build blockchain applications in-house. Leveraging [Hyperledger Fabric](https://hyperledger.org/projects/fabric), one of the flagship blockchain technologies being developed by the [Hyperledger Foundation](https://www.hyperledger.org/), we have successfully developed a smart contract application and functional API that manages data on seating locations around the office, and even allows us to offer seats for sale to willing buyers! We haven’t yet discussed this with building management, but we have enjoyed the practical nuances of using the technology for our own R&D purposes. 
 
