@@ -23,7 +23,7 @@ As followers of technology trends, our ICT team is aware of the excitement that 
 
 ![Tech Life Cycle.png](/uploads/Tech%20Life%20Cycle.png)
 
-This is of course a simplification of the many ways technologies proliferate throughout society, but within the context of DLTs, I think that we may be entering the top end of our period of inflated expectations, and are beginning to see a blockchain backlash. Without sounding crass, I would argue that this is because distributed ledger technologies are still maturing, they can be theoretically complex, and even quite boring - But in a way that knowledge management is boring. You know - really crazy useful and even required for all of our technology to work - but boring. When was the last time you read an article about the way [SQL databases](https://en.wikipedia.org/wiki/SQL) are changing the world? Because they are….
+This is of course a simplification of the many ways technologies proliferate throughout society, but within the context of DLTs, I think that we may be entering the top end of our period of inflated expectations, and are beginning to see a blockchain backlash. I would argue that this is because distributed ledger technologies are still maturing, they can be theoretically complex, and even quite boring - but in a way that knowledge management is boring. You know - really crazy useful and even required for all of our technology to work - but boring. When was the last time you read an article about the way [SQL databases](https://en.wikipedia.org/wiki/SQL) are changing the world? Because they are….
 
 I digress. Let’s look at a similar case study to blockchain.
 
