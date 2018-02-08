@@ -37,6 +37,8 @@ As adherents to [human centered design](https://dai-global-digital.com/lean-desi
 
 Applying this concept to global development challenges, a couple of project implementations comes to mind. [Land tenure](https://www.dai.com/our-work/solutions/environment-and-energy-solutions/land-tenure) and property rights, for example, are key to economic growth, and competition for land often leads to conflict. DLTs could play a role in creating a central location for land records management and transparent governance, potentially decreasing the likelihood of violent disputes. Another example is that of s[upply chains](https://www.dai.com/our-work/solutions/corporate/local-content-and-supply-chain-management), which rely on trust between parties to care for goods between transactions, and to be honest about the origin of an item. DLTs can provide an immutable ledger than ensures that all parties have the same, unfalsifiable information about the history of items along the supply chain.
 
+# Looking Ahead
+
 These are just two of many examples that we are actively exploring. And as we look ahead to the rest of 2018, our plan is to take our technical learning and apply it to practical problems faced by our projects. So while we don’t know what the future of distributed ledger technology will bring, what we do know is that it offers new solutions to old problems, and that we plan to test the technology out over the coming year. 
 
 And that isn't boring at all. I actually think it's very exciting.
