@@ -19,7 +19,7 @@ But what about all of the other promises of DLTs? There are no shortage of artic
 
 # **Peak Expectation**
 
-As followers of technology trends, our ICT team is aware of the excitement that a new technology can bring. But we’re also aware that new technologies can lead to great disappointment when they fail to live up to expectations. One of my favorite representations of this idea can by described by *Amara’s Law*, which states that “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.” This can be seen in the curve referred to as the *Hype Cycle*, which begins with a trigger point for a new technology, soon after reaches a peak of inflated expectations, followed by a period of disillusionment, and finally an era of slow growth and adoption of the technology as it reaches sustainable productivity.
+As followers of technology trends, our ICT team is aware of the excitement a new technology can bring. But we’re also aware that new technologies can lead to great disappointment when they fail to live up to expectations. One of my favorite representations of this idea can by described by *Amara’s Law*, which states that “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.” This can be seen in the curve referred to as the *Hype Cycle*, which begins with a trigger point for a new technology, soon after reaches a peak of inflated expectations, followed by a period of disillusionment, and finally an era of slow growth and adoption of the technology as it reaches sustainable productivity.
 
 ![Tech Life Cycle.png](/uploads/Tech%20Life%20Cycle.png)
 
