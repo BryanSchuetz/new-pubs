@@ -5,7 +5,7 @@ categories:
 - Data
 tags:
 - Innovation
-- Distributed Ledger Technology
+- Think Piece
 Author: Greg Maly
 social-image: "/uploads/Tech%20Life%20Cycle.png"
 thumbnail: "/uploads/Tech%20Life%20Cycle.png"
