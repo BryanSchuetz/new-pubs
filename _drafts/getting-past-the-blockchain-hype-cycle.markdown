@@ -13,9 +13,9 @@ thumbnail: "/uploads/Tech%20Life%20Cycle.png"
 
 Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. And the most commonly discussed DLT applications are those that involve financial transactions with [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency). Fortune Magazine [recently listed](http://fortune.com/2017/12/26/4-technology-trends-2018/) “The Fintech Renaissance” as the second-most important technology trend of 2018, and with good reason. Last month Bitcoin saw more than [400,000 transactions](https://blockchain.info/charts/n-transactions?timespan=all) per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore.
 
-But what about all of the other promises of DLTs? There are no shortage of articles written about their impact on data security, the value of smart contracts to create efficient online transactions, and the value of data democratization and transparency through shared ledgers. While there are case studies for each of these promising areas, distributed application developers are in short supply, and active implementations for global development projects are rare. As a result, I get the sense that blockchain may be entering the peak if its hype cycle. 
-
 <!--more-->
+
+But what about all of the other promises of DLTs? There are no shortage of articles written about their impact on data security, the value of smart contracts to create efficient online transactions, and the value of data democratization and transparency through shared ledgers. While there are case studies for each of these promising areas, distributed application developers are in short supply, and active implementations for global development projects are rare. As a result, I get the sense that blockchain may be entering the peak if its hype cycle. 
 
 # **Peak Expectation**
 
