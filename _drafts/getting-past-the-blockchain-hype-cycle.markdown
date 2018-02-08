@@ -27,7 +27,7 @@ This is of course a simplification of the many ways technologies proliferate thr
 
 I digress. Let’s look at a similar case study to blockchain.
 
-The Harvard Business Review article, *[The Truth About Blockchain](https://hbr.org/webinar/2017/02/the-truth-about-blockchain)*, makes comparison to [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite). Early uses of the TCP/IP enabled peer-to-peer messaging – hardly a novelty at the time – but thirty years later was the enabling technology for Amazon.com to essentially replace brick and mortar [bookstores](https://newrepublic.com/article/84531/end-bookstores-amazon-e-book-borders). Five to ten years into the implementation of TCP/IP, it would have hard to see it as a revolutionary technology that would change the future of digital communication.
+The Harvard Business Review article, *[The Truth About Blockchain](https://hbr.org/webinar/2017/02/the-truth-about-blockchain)*, draws comparison to the development of Transmission Control Protocol, also referred to as [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite). Early uses of the TCP/IP enabled peer-to-peer messaging – hardly a novelty at the time – but thirty years later was the enabling technology for Amazon.com to essentially replace brick and mortar [bookstores](https://newrepublic.com/article/84531/end-bookstores-amazon-e-book-borders). Five to ten years into the implementation of TCP/IP, it would have hard to see it as a revolutionary technology that would change the future of digital communication.
 
 Is DLT the same…? We’re not sure yet.
 
