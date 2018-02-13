@@ -19,7 +19,7 @@ It is a question of culture. Donors and their implementing partners are rice far
 
 ![ChessSet.jpg](/uploads/ChessSet.jpg)
 
-Rice farming societies tend to organize themselves into well-defined, stratified roles to manage the infrastructure necessary to deliver their crop. Either the whole village eats or nobody eats, and so intricate social structures and networks emerge. The cadence of the agricultural calendar beats at the heart of it all, with clearly defined tasks, each depending on their own prerequisites, having a fixed place in a schedule that is implicit and understood by everyone involved.
+Rice-farming societies tend to organize themselves into well-defined, stratified roles to manage the infrastructure necessary to deliver their crop. Either the whole village eats or nobody eats, and so intricate social structures and networks emerge. The cadence of the agricultural calendar beats at the heart of it all, with clearly defined tasks, each depending on their own prerequisites, having a fixed place in a schedule that is implicit and understood by everyone involved.
 
 Hunter-gatherer societies are organized on different principles. Food is collected by individuals or small groups, not as a single event with many prerequisites but as a continuous flow of ad hoc, freestanding tasks. As such, hunter-gatherers tend to form less rigid hierarchies than rice farmers, allowing them more flexibility and personal latitude.
 
