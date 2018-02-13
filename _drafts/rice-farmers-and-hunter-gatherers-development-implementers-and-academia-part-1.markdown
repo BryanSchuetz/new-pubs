@@ -2,11 +2,22 @@
 title: 'Rice Farmers and Hunter Gatherers: Development Implementers and Academia,
   Part 1'
 date: 2018-02-13 14:41:00 -05:00
+categories:
+- Innovation
+tags:
+- Think Piece
+Author: "[Rob Ryan-Silva](https://www.dai.com/who-we-are/our-team/robert-ryan-silva)"
+social-image: "/uploads/ChessSet.jpg"
+thumbnail: "/uploads/ChessSet.jpg"
 ---
 
 Walk through most any office in the international development community and you’re likely to see bookshelves straining to hold the weight of insightful, data-rich academic research. But that research rarely finds application in program implementation. Why not? Academics and implementers share the same goals, so what disconnection keeps research from finding its way to application?
 
 It is a question of culture. Donors and their implementing partners are rice farmers, and academics are hunter-gatherers. The two are not naturally wired to work well together. 
+
+![ChessSet.jpg](/uploads/ChessSet.jpg)
+
+<!--more-->
 
 Rice farming societies tend to organize themselves into well-defined, stratified roles in order to manage the infrastructure necessary to deliver their crop. Either the whole village eats or nobody eats, and so intricate social structures and networks emerge. The cadence of the agricultural calendar beats at the heart of it all, with clearly defined tasks, each depending on their own prerequisites, having a fixed place in a schedule that is implicit and understood by everyone involved.
 
