@@ -15,9 +15,9 @@ Walk through most any office in the international development community and youâ
 
 It is a question of culture. Donors and their implementing partners are rice farmers, and academics are hunter-gatherers. The two are not naturally wired to work well together. 
 
-![ChessSet.jpg](/uploads/ChessSet.jpg)
-
 <!--more-->
+
+![ChessSet.jpg](/uploads/ChessSet.jpg)
 
 Rice farming societies tend to organize themselves into well-defined, stratified roles in order to manage the infrastructure necessary to deliver their crop. Either the whole village eats or nobody eats, and so intricate social structures and networks emerge. The cadence of the agricultural calendar beats at the heart of it all, with clearly defined tasks, each depending on their own prerequisites, having a fixed place in a schedule that is implicit and understood by everyone involved.
 
