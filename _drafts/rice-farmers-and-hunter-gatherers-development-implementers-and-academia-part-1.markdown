@@ -1,6 +1,6 @@
 ---
 title: 'A Tale of Two Cultures: Development Implementers and Academia, Part 1'
-date: 2018-02-13 14:41:00 -05:00
+date: 2018-02-14 14:41:00 -05:00
 categories:
 - Innovation
 tags:
