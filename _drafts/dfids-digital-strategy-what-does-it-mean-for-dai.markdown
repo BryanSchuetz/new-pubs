@@ -1,6 +1,9 @@
 ---
 title: 'DFID''s Digital Strategy: What does it mean for DAI?'
 date: 2018-02-14 09:09:00 -05:00
+categories:
+- Data
+- Innovation
 tags:
 - Digital Principles
 - Think Piece
