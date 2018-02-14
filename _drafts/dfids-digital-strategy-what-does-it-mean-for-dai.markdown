@@ -4,10 +4,13 @@ date: 2018-02-14 09:09:00 -05:00
 tags:
 - Digital Principles
 - Think Piece
+Author: Chloe Messenger
+social-image: "/uploads/dfid-1a1d8e.png"
 ---
 
 In January 2018, the UK Department for International Development (DFID) launched their much anticipated [Digital Strategy 2018-2020: Doing Development in a Digital World](https://www.gov.uk/government/publications/dfid-digital-strategy-2018-to-2020-doing-development-in-a-digital-world), outlining DFID’s vision and approach towards using technologies to have a bigger, faster and more cost effective impact on the lives of poor people: particularly those who are marginalised.
-![dfid.png](/uploads/dfid.png){:.float-right}
+
+![dfid-781d0f.png](/uploads/dfid-781d0f.png)
 The strategy represents an alignment of the development sector to the ever-changing world where digital technologies are rapidly spreading. It recognises that to have greater impact, we need to be innovating not only to take advantage of the new technologies out there, but also to make sure we are utilising the digital technologies our target audiences are already using.
 <!--more-->
 
