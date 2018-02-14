@@ -16,7 +16,7 @@ It is a question of culture. Donors and their implementing partners are rice far
 
 <!--more-->
 
-![ChessSet.jpg](/uploads/ChessSet.jpg)
+![Untitled drawing (3).jpg](/uploads/Untitled%20drawing%20(3).jpg)
 
 ## Rice Farmers and Hunter Gatherers
 
