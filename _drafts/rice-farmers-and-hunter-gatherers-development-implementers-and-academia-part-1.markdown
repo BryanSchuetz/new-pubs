@@ -6,8 +6,8 @@ categories:
 tags:
 - Think Piece
 Author: "[Rob Ryan-Silva](https://www.dai.com/who-we-are/our-team/robert-ryan-silva)"
-social-image: "/uploads/ChessSet.jpg"
-thumbnail: "/uploads/ChessSet.jpg"
+social-image: "/uploads/Untitled%20drawing%20(3).jpg"
+thumbnail: "/uploads/Untitled%20drawing%20(3).jpg"
 ---
 
 Walk through most any office in the international development community and you’re likely to see bookshelves straining to hold the weight of insightful, data-rich academic research. But that research rarely finds application in program implementation. Why not? Academics and implementers share the same goals, so what disconnection keeps research from finding its way to application?
