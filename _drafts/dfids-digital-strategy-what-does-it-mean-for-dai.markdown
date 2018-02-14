@@ -6,6 +6,7 @@ tags:
 - Think Piece
 Author: Chloe Messenger
 social-image: "/uploads/dfid-1a1d8e.png"
+thumbnail: "/uploads/dfid-1a1d8e.png"
 ---
 
 In January 2018, the UK Department for International Development (DFID) launched their much anticipated [Digital Strategy 2018-2020: Doing Development in a Digital World](https://www.gov.uk/government/publications/dfid-digital-strategy-2018-to-2020-doing-development-in-a-digital-world), outlining DFID’s vision and approach towards using technologies to have a bigger, faster and more cost effective impact on the lives of poor people: particularly those who are marginalised.
