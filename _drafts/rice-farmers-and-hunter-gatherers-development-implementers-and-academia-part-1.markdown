@@ -14,9 +14,9 @@ Walk through most any office in the international development community and youâ
 
 It is a question of culture. Donors and their implementing partners are rice farmers, and academics are hunter-gatherers. The two are not naturally wired to work well together.
 
-<!--more-->
-
 ![Untitled drawing (3).jpg](/uploads/Untitled%20drawing%20(3).jpg)
+
+<!--more-->
 
 ## Rice Farmers and Hunter Gatherers
 
