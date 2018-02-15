@@ -2,7 +2,12 @@
 title: 'ICTs for Citizen Engagement and Advocacy: Lessons learned from Mozambique
   DIÁLOGO'
 date: 2018-02-14 09:52:00 -05:00
+tags:
+- Governance
+- ICT
 Author: Chloe Messenger
+social-image: "/uploads/FUNC6366Carla-%20Radio.jpg"
+thumbnail: "/uploads/FUNC6366Carla-%20Radio.jpg"
 ---
 
 The DFID-funded [Mozambique Democratic Governance Program](https://www.dai.com/our-work/projects/mozambique-democratic-governance-support-programme-dgsp), DIÁLOGO, worked with citizens, civil society, the local media and municipal government to address and engage more effectively on local issues. DIÁLOGO supported innovative solutions, including mobile and web-based technologies, to amplify the voices of citizens and to enable governments to interact with them and respond more effectively to their demands. The programme ran from 2012 in the five urban municipalities of Mozambique - Nampula, Tete, Quelimane, Beira and Maputo, and recently ended in December 2017.
