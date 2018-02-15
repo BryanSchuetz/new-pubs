@@ -1,6 +1,6 @@
 ---
 title: Getting Past the Blockchain Hype Cycle
-date: 2018-02-15 16:08:00 -05:00
+date: 2018-02-15 09:00:00 -05:00
 categories:
 - Data
 tags:
