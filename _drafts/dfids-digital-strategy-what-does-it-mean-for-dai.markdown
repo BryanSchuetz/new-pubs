@@ -1,6 +1,6 @@
 ---
 title: 'DFID’s Digital Strategy: What Does it Mean for DAI?'
-date: 2018-02-21 12:00:00 -05:00
+date: 2018-02-22 09:00:00 -05:00
 categories:
 - Data
 - Innovation
