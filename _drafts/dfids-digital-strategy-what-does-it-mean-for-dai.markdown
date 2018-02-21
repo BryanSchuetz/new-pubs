@@ -1,5 +1,5 @@
 ---
-title: 'DFID''s Digital Strategy: What does it mean for DAI?'
+title: 'DFID’s Digital Strategy: What does it mean for DAI?'
 date: 2018-02-14 09:09:00 -05:00
 categories:
 - Data
@@ -12,11 +12,12 @@ social-image: "/uploads/dfid-1a1d8e.png"
 thumbnail: "/uploads/dfid-1a1d8e.png"
 ---
 
-In January 2018, the UK Department for International Development (DFID) launched their much anticipated [Digital Strategy 2018-2020: Doing Development in a Digital World](https://www.gov.uk/government/publications/dfid-digital-strategy-2018-to-2020-doing-development-in-a-digital-world), outlining DFID’s vision and approach towards using technologies to have a bigger, faster and more cost effective impact on the lives of poor people: particularly those who are marginalised.
+Last month, the U.K. Department for International Development (DFID) launched its much-anticipated [Digital Strategy 2018-2020: Doing Development in a Digital World](https://www.gov.uk/government/publications/dfid-digital-strategy-2018-to-2020-doing-development-in-a-digital-world), outlining its vision and approach towards using technology to have a bigger, faster, and more cost-effective impact on the lives of poor people—particularly those who are marginalised.
+
+<!--more-->
 
 ![dfid-781d0f.png](/uploads/dfid-781d0f.png){:.float-right}
-The strategy represents an alignment of the development sector to the ever-changing world where digital technologies are rapidly spreading. It recognises that to have greater impact, we need to be innovating not only to take advantage of the new technologies out there, but also to make sure we are utilising the digital technologies our target audiences are already using.
-<!--more-->
+The strategy represents an alignment of the international development sector to the ever-changing world where digital technology is rapidly spreading. The strategy recognises that to have greater impact, we need to be innovating not only to take advantage of the new technologies out there, but also to make sure we are utilising the ones our target audiences are already using.
 
 To explore the strategy further, we asked colleagues from projects in Pakistan and East Africa as well as Head Office staff for their thoughts on what the digital strategy means for DAI’s work and for international development as a practice.  Here is what they say.
 
