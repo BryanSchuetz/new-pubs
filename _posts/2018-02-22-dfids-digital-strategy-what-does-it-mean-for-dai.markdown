@@ -19,7 +19,7 @@ Last month, the U.K. Department for International Development (DFID) launched it
 ![dfid-781d0f.png](/uploads/dfid-781d0f.png){:.float-right}
 The strategy represents an alignment of the international development sector to the ever-changing world where digital technology is rapidly spreading. The strategy recognises that to have greater impact, we need to be innovating not only to take advantage of the new technologies out there, but also to make sure we are utilising the ones our target audiences are already using.
 
-To explore the strategy further, we asked colleagues from projects in Pakistan and East Africa, as well as our some of our corporate staffers, for their thoughts on what the digital strategy means for DAI’s work and for international development as a practice. Here is what they say.
+To explore the strategy further, we asked colleagues from projects in Pakistan and East Africa, as well as some of our corporate staffers, for their thoughts on what the digital strategy means for DAI’s work and for international development as a practice. Here is what they say.
 
 ## Imran Ghazili, Communications Manager, [Transforming Education in Pakistan](https://www.dai.com/our-work/projects/pakistan-transforming-education-pakistan-tep) programme
 
