@@ -1,7 +1,7 @@
 ---
 title: Talia Dweck
 date: 2017-08-01 14:10:00 -04:00
-position: 0
+position: 1
 Job: ICT Specialist
 Image: "/uploads/Talia%20head%20shot%202.jpg"
 ---

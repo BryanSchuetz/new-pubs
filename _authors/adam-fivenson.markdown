@@ -1,7 +1,7 @@
 ---
 title: Adam Fivenson
 date: 2016-01-07 16:49:00 -05:00
-position: 1
+position: 2
 Job: New Business Specialist, ICT
 Image: "/uploads/Adam%20inner.png"
 layout: author
