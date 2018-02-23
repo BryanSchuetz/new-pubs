@@ -2,6 +2,7 @@
 title: John DeRiggi
 date: 2016-02-04 09:50:00 -05:00
 published: false
+position: 3
 Job: Senior Geospatial Products Developer
 Image: "/uploads/DeRiggiInner.jpg"
 ---

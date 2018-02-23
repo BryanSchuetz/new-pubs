@@ -1,6 +1,7 @@
 ---
 title: Greg Maly
 date: 2017-07-12 15:00:00 -04:00
+position: 9
 Job: Data Scientist
 Image: "/uploads/greg_DAI_BioPhoto.jpg"
 ---
