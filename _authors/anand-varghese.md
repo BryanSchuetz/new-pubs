@@ -1,7 +1,7 @@
 ---
 title: Anand Varghese
 date: 2016-01-07 15:34:00 -05:00
-position: 1
+position: 10
 Job: Principal ICT Specialist
 Image: "/uploads/anand%20inner.jpg"
 layout: author

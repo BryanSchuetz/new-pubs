@@ -1,7 +1,7 @@
 ---
 title: Trevor Olexy
 date: 2018-02-23 09:45:00 -05:00
-position: 10
+position: 9
 Job: Software Developer
 Image: "/uploads/Trevor%20Olexy.jpg"
 ---
