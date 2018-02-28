@@ -1,6 +1,5 @@
 ---
-title: 'ICTs for Citizen Engagement and Advocacy: Lessons learned from Mozambique
-  DIÁLOGO'
+title: 'ICT for Citizen Engagement and Advocacy: Lessons Learned from Mozambique DIÁLOGO'
 date: 2018-02-14 09:52:00 -05:00
 tags:
 - Governance
