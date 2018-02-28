@@ -41,9 +41,9 @@ In Maputo, the project worked with female broadcasters at local station Radio Vo
 
 Through media outlets thousands of citizens are now better informed about municipal governance, while hundreds of people are using media to denounce corruption. All members of society, including municipal governments, can now debate and be represented in the media.
 
-**4. The use of media and social media seem to have improved engagement on the side of citizens, civil society and media. Did the use of new technologies also encourage conversation and transparency from the side of the governments?**
+**4. The use of media and social media seem to have improved engagement on the side of citizens, civil society, and media. Did the use of technology also encourage conversation and transparency from governments?**
 
-Selling good governance by showing the added value and positive implication of been transparent, accountable and responsive, was decisive for attracting government interest and confidence. DIÁLOGO worked with Municipal Governments to be more transparent, for instance, by adopting participatory budgeting: some 15% of municipal budgets become accessible to citizen’s, to decide on the best use of it and to monitor the use. Facebook is also now used by many municipalities to disseminate daily revenues and another key budget information.
+Selling good governance by showing the added value and positive implications of being transparent, accountable and responsive, was decisive for attracting government interest and confidence. DIÁLOGO worked with Municipal Governments to be more transparent, for instance, by adopting participatory budgeting: some 15% of municipal budgets become accessible to citizen’s, to decide on the best use of it and to monitor the use. Facebook is also now used by many municipalities to disseminate daily revenues and another key budget information.
 
 In Nampula, DIALOGO introduced the Municipal Council to a number of tools to increase transparency, including an open expenditure report, improvement of the Facebook page, YouTube and a radio programme “One look at the city of Nampula”. These tools allowed the council to properly explain and discuss issues of concern with citizens. As the Chief of Cabinet said, he was more confident in his job once he started to inform the community about public spending.
 
