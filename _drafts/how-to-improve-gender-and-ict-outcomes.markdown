@@ -1,5 +1,5 @@
 ---
-title: How to improve gender and ICT outcomes
+title: eLearning Course on Gender and ICT Outcomes
 date: 2018-03-07 11:00:00 -05:00
 ---
 
@@ -19,6 +19,8 @@ With the development sector’s increasing use of mobile and ICT as a vehicle to
 
 It’s crucial that development practitioners not only understand the barriers in women's access and adoption of digital tools, and the impact of the digital gender divide, but also understand how this affects their own work, and how they can ensure their digital programmes are gender sensitive.
 
+## Gender Inclusion eLearning Course
+
 With this in mind, USAID Digital Inclusion and mSTAR worked with [Panoply Digital](https://www.panoplydigital.com/), a London-based team of ICT4D, gender and edtech specialists, to create an online training course for USAID staff, implementing partners and other development practitioners. The course is designed to equip participants with an understanding of key gender and ICT considerations when designing and implementing projects and programs with digital components.
 
 The 60 minute course follows two women, Rasheda from Bangladesh and Mary from DRC, presenting gender and ICT issues from their eyes, using a persona-driven learning approach. There are four modules, focusing on:
@@ -32,6 +34,8 @@ The 60 minute course follows two women, Rasheda from Bangladesh and Mary from DR
 * practical and effective steps that development practitioners can take in their work to address these barriers, drawing on examples from other projects or programmes, including the need for more gender-disaggregated data through the [USAID Gender and ICT Survey Toolkit](https://www.usaid.gov/documents/15396/gender-and-ict-toolkit)
 
 The course includes interactive learning activities and quizzes, as well as bespoke whiteboard animations, visual designs and sound from communications and digital storyteller firm [Big Blue Communications.](http://www.bigbluecomms.com/)
+
+## Access the Course
 
 You can access the online course here: [https://www.panoplydigital.com/gender-and-ict-online-course/](https://www.panoplydigital.com/gender-and-ict-online-course/)
 
