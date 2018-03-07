@@ -11,6 +11,8 @@ Author: "[Katie Highet]( https://www.linkedin.com/in/catherine-highet-a924094/) 
 
 *March 8 is International Women’s Day! To celebrate, we’ll look at a course on women and ICT inclusion developed by USAID Digital Inclusion, mSTAR, and [Panoply Digital](https://www.panoplydigital.com/).  [Click here](https://www.panoplydigital.com/gender-and-ict-online-course/) to access the course.*
 
+![15464455376_75e38b92f5_z.jpg](/uploads/15464455376_75e38b92f5_z.jpg)
+
 <!--more-->
 
 ## Gender and ICT Use
@@ -30,8 +32,11 @@ With this in mind, USAID Digital Inclusion and mSTAR worked with [Panoply Digita
 The 60-minute course follows two women, Rasheda from Bangladesh and Mary from the Democratic Republic of Congo, presenting gender and ICT issues from their eyes, using a persona-driven learning approach. There are four modules, focusing on:
 
 * the economic and social opportunities that access to, and use of, ICTs can bring
+
 * the current state of the gender gap for women’s access and use of mobile and mobile internet
+
 * the reasons behind this gender gap in ICT and the barriers that women face in terms of access and usage
+
 * practical and effective steps that development practitioners can take in their work to address these barriers, drawing on examples from other projects, including the need for more gender-disaggregated data through the [USAID Gender and ICT Survey Toolkit](https://www.usaid.gov/documents/15396/gender-and-ict-toolkit)
 
 The course includes interactive learning activities and quizzes, as well as whiteboard animations, visual designs, and sound from communications and digital storytelling firm [Big Blue Communications.](http://www.bigbluecomms.com/)
