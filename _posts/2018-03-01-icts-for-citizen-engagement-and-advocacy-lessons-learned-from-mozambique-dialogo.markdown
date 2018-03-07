@@ -10,9 +10,10 @@ thumbnail: "/uploads/FUNC6366Carla-%20Radio.jpg"
 ---
 
 The [Mozambique Democratic Governance Programme](https://www.dai.com/our-work/projects/mozambique-democratic-governance-support-programme-dgsp), DIÁLOGO, funded by the U.K. Department for International Development, worked with citizens, civil society, local media, and municipal government to engage more effectively on local issues. DIÁLOGO supported innovative solutions, including mobile- and web-based technologies, to amplify the voices of citizens and help governments respond to their demands. The programme ran from 2012 in the five urban municipalities of Beira, Maputo, Nampula, Quelimane, and Tete, and ended last December.
-![SIlvestre.jpg](/uploads/SIlvestre.jpg){:.float-right}
 
 <!--more-->
+
+![SIlvestre.jpg](/uploads/SIlvestre.jpg){:.float-right}
 
 I spoke with Silvestre Baessa, Team Leader of DIÁLOGO, about how ICT helped expand the reach and impact of the programme, bringing together citizens and local government, and what lessons we can take away.
 
