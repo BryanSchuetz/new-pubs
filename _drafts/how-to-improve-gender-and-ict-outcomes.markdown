@@ -1,5 +1,5 @@
 ---
-title: Want to improve gender and ICT outcomes? Read below to learn how.
+title: Getting ICT Into the Hands of More Women
 date: 2018-03-07 11:00:00 -05:00
 categories:
 - Resilience
