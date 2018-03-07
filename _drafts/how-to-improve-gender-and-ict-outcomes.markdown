@@ -1,5 +1,5 @@
 ---
-title: eLearning Course on Gender and ICT Outcomes
+title: Gender Inclusion Course
 date: 2018-03-07 11:00:00 -05:00
 categories:
 - Resilience
@@ -9,17 +9,13 @@ Author: "[Katie Highet]( https://www.linkedin.com/in/catherine-highet-a924094/) 
   [Alex Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/)"
 ---
 
-**How to improve gender and ICT outcomes? Start with yourself.**
+*March 8th is International Women's Day! To celebrate the occasion, we'll look at a course on women and ICT inclusion developed by USAID Digital Inclusion, mSTAR, and [Panoply Digital](https://www.panoplydigital.com/).  [Click here](https://www.panoplydigital.com/gender-and-ict-online-course/) to access the course.*
 
-**Want to improve gender and ICT outcomes? Start with this course.**
-
-**Want to improve gender and ICT outcomes? Read below to learn how.**
-
-**This course will show you how to improve gender and ICT outcomes.**
+## Gender and ICT Use
 
 Mobile technologies are changing lives around the world, but not for everyone. Women are being excluded. There is a gender gap in women’s access to and use of information communication technologies (ICTs), preventing them and their communities from reaching their potential.
 
-## Gender and ICT Use
+<!--more-->
 
 [Globally a woman is 10% less likely to own a mobile phone than a man, ](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/GSMA_The_Mobile_Gender_Gap_Report_2018_Final_210218.pdf)but this is much higher in certain regions: 26% in South Asia, and 49% in rural areas in countries like[ ](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/GSMA_The_Mobile_Gender_Gap_Report_2018_Final_210218.pdf)Pakistan. We also see similar trends in access to the internet: globally, a woman is 26% less likely to use mobile internet than a man, [50% less likely to be online than a man in the same education and income grou](http://webfoundation.org/docs/2015/10/womens-rights-online_Report.pdf)p, and in countries like India only [8% of women use mobile internet.](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/GSMA_The_Mobile_Gender_Gap_Report_2018_Final_210218.pdf) There is also a growing gender gap in usage: even if a woman does have access to a mobile or the internet, she tends to use them in different ways to men: less frequently, more use of basic services such as voice, much less use of more complex services such as mobile internet or mobile money.
 
