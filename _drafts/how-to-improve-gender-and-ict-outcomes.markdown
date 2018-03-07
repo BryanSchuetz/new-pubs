@@ -36,8 +36,4 @@ The 60-minute course follows two women, Rasheda from Bangladesh and Mary from th
 
 The course includes interactive learning activities and quizzes, as well as whiteboard animations, visual designs, and sound from communications and digital storytelling firm [Big Blue Communications.](http://www.bigbluecomms.com/)
 
-## Access the Course
-
-You can access the online course here: [https://www.panoplydigital.com/gender-and-ict-online-course/](https://www.panoplydigital.com/gender-and-ict-online-course/)
-
 *This course was funded by USAID through FHI360/ mSTAR. More information on additional programs can be found on USAID’s [Digital Inclusion](http://inclusion.digitaldevelopment.org/digital-gender-divide) site, including USAID’s WomenConnect Challenge*
