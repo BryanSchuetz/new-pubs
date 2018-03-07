@@ -1,5 +1,5 @@
 ---
-title: Gender Inclusion Course
+title: How to Improve Gender and ICT Outcomes
 date: 2018-03-07 11:00:00 -05:00
 categories:
 - Resilience
