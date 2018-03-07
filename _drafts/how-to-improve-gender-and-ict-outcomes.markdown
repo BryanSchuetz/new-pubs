@@ -1,5 +1,5 @@
 ---
-title: How to Improve Gender and ICT Outcomes
+title: Want to improve gender and ICT outcomes? Read below to learn how.
 date: 2018-03-07 11:00:00 -05:00
 categories:
 - Resilience
