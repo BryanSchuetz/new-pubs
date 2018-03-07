@@ -5,6 +5,8 @@ categories:
 - Resilience
 tags:
 - Digital Inclusion
+Author: "[Katie Highet]( https://www.linkedin.com/in/catherine-highet-a924094/) &
+  [Alex Tyers](https://www.panoplydigital.com/our-team/#/alex-tyers-2/)"
 ---
 
 **How to improve gender and ICT outcomes? Start with yourself.**
