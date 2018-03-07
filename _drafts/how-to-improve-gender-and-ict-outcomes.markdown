@@ -1,6 +1,10 @@
 ---
 title: eLearning Course on Gender and ICT Outcomes
 date: 2018-03-07 11:00:00 -05:00
+categories:
+- Resilience
+tags:
+- Digital Inclusion
 ---
 
 **How to improve gender and ICT outcomes? Start with yourself.**
