@@ -1,6 +1,8 @@
 ---
 title: 'Playing The Right Role In Haiti''s Growing Mobile Sector: 4 Key Principles'
 date: 2018-03-12 13:50:00 -04:00
+tags:
+- Digital Financial Services
 ---
 
 *Digital financial services have been a robust part of the development sector for over a decade and their impact continues to grow. This blog post is part of a series produced by [mStar](https://mstarproject.wordpress.com/) that focuses on successful DFS projects that achieve results-driven impact in people’s lives. This post was originally published on the [mStar digital development blog](https://mstarproject.wordpress.com/2018/03/12/haitis-growing-mobile-sector/).*
