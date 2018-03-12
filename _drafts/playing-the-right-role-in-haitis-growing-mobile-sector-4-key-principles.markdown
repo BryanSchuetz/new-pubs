@@ -4,9 +4,12 @@ date: 2018-03-12 13:50:00 -04:00
 tags:
 - Digital Financial Services
 Author: "[John Jepsen](https://www.dai.com/who-we-are/our-team/john-jepsen)"
+social-image: "/uploads/rsz_haiti_dfs_photo.jpg"
 ---
 
 *Digital financial services have been a robust part of the development sector for over a decade and their impact continues to grow. This blog post is part of a series produced by [mStar](https://mstarproject.wordpress.com/) that focuses on successful projects that achieve results-driven impact in people’s lives. This post was originally published on the [mStar digital development blog](https://mstarproject.wordpress.com/2018/03/12/haitis-growing-mobile-sector/).*
+
+![rsz_haiti_dfs_photo.jpg](/uploads/rsz_haiti_dfs_photo.jpg)
 
 It’s an exciting time for mobile money expansion in Haiti. Digicel’s [MonCash](https://www.youtube.com/watch?v=bDQQFqoHzdo)—Haiti’s largest mobile money deployment—has reached nearly 1 million customers and $400 million in yearly transacted value in 2017. This customer base represents a \+1500 percent increase from 2015, the same year Digicel rebooted its strategy, marketing approach, product offering, and sales and training force.
 
