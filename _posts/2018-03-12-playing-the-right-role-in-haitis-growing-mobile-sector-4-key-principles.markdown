@@ -3,7 +3,8 @@ title: 'Playing The Right Role In Haiti’s Growing Mobile Sector: 4 Key Princip
 date: 2018-03-12 13:50:00 -04:00
 tags:
 - Digital Financial Services
-Author: "[John Jepsen](https://www.dai.com/who-we-are/our-team/john-jepsen)"
+Author: "[John Jepsen](https://www.dai.com/who-we-are/our-team/john-jepsen) and [Elodie
+  Manuel](https://www.linkedin.com/in/elodie-manuel-a751b768/)"
 social-image: "/uploads/rsz_haiti_dfs_photo.jpg"
 thumbnail: "/uploads/rsz_haiti_dfs_photo.jpg"
 ---
