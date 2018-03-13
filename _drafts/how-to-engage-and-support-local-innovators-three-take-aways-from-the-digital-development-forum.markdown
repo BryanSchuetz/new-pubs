@@ -11,7 +11,7 @@ social-image: "/uploads/Capture.JPG"
 
 On March 9, I moderated a workshop on ‘How to Engage and Support Local Innovators’ at the USAID [Digital Development Forum](http://www.digitaldevelopment.org/digital-development-forum-2018). I was joined by three expert panelists – [Danielle Dhillon ](https://www.linkedin.com/in/danielle-dhillon-a82a9859/)from the Digital Impact Alliance (DIAL) at the UN Foundation, [Toni Eliasz](https://www.linkedin.com/in/tonieliasz/) from the World Bank’s Digital Entrepreneurship Program, and [Tyler Radford](https://www.linkedin.com/in/tylerradford/) from the Humanitarian OpenStreetMap Team (HOT).  All three of them are focused on nurturing local technologists and innovators – Toni and Danielle support local startup ecosystems, and Tyler builds communities of volunteer mappers. What have they learned through these efforts? 
 
-[Capture.JPG](/uploads/Capture.JPG)
+![Capture.JPG](/uploads/Capture.JPG)
 
 <!--more-->
 
