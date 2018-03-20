@@ -23,7 +23,7 @@ Fast forward to the third month of the pilot. There is no doubt that progress ha
 
 But, with any future thinking comes challenges to solve, such as being able to track a patient across multiple health facilities. Time for another scenario.
 
-\# A Biometric Future 
+\# Biometrics: A Key Part of Haiti's Digital Future
 
 Imagine this: A patient goes into a facility and is diagnosed with TB in January. The health worker, trained in the new tracking system, diagnoses the patient, prescribes medications, inputs the patient’s information into the tracker, and records her biometrics. This way, when she comes back for a checkup, no matter the facility, the health worker can securely pull up her previous diagnosis and treatment to seamlessly provide the care she needs.
 
