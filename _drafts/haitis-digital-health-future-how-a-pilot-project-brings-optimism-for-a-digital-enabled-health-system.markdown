@@ -7,7 +7,7 @@ tags:
 Author: Atwood Raphael
 ---
 
-Last week I presented in a TechChange course entitled the Future of Digital Health. I was asked to discuss the implementation of the USAID-funded Haiti Strategic Health Information System (HIS) program, a 5-year program that works to consolidate and integrate Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year - the progress we have made, the challenges we have encountered and the future of digital health in Haiti.
+Last week I presented in a TechChange course entitled the Future of Digital Health. I was asked to discuss the implementation of the USAID-funded [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) (HIS) program, a 5-year program that works to consolidate and integrate Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year - the progress we have made, the challenges we have encountered and the future of digital health in Haiti.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Imagine a not too distant Digital Future of Haiti: A country where Ministry of H
 
 We are well on our way to reach such a vision. The future is now. The pilot that we are running is the first step. It enables the use of DHIS2 at the health facility level as a tracker to collect tuberculosis (TB) patient-level data, track patient progress, and feed the national health information system. The pilot runs from January – March 2018 and targets nine facilities and four departments (48% of all TB facilities). This may not seem like too big lift, but it is certainly a step in the right direction. If we can prove the efficiency and impact of collecting data at every level of the health system, we can actually start making crucial decisions based on accurate data.
 
-Fast forward to the third month of the pilot. There is no doubt that progress has been made. For all participating facilities, 52% of all expected TB cases during this quarter have been entered into the system. This number is only rising and we are hoping to reach our goal of 75% by the end of the month. We have also seen outstanding leadership by *System d’Information Sanitaire Nationale Unique (*SISNU) through the National Program to Fight Against Tuberculosis (PNLT) and the Unit for Studies and Programming (UEP), two entities within the MSPP.
+Fast forward to the third month of the pilot. There is no doubt that progress has been made. For all participating facilities, 52% of all expected TB cases during this quarter have been entered into the system. This number is only rising and we are hoping to reach our goal of 75% by the end of the month. We have also seen outstanding leadership by \*System d’Information Sanitaire Nationale Unique (\*SISNU) through the National Program to Fight Against Tuberculosis (PNLT) and the Unit for Studies and Programming (UEP), two entities within the MSPP.
 
 But, with any future thinking comes challenges to solve, such as being able to track a patient across multiple health facilities. Time for another scenario.
 
