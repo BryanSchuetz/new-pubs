@@ -25,12 +25,12 @@ For all participating facilities, 52 percent of all expected TB cases during thi
 
 But, with any future thinking comes challenges to solve, such as being able to track a patient across multiple health facilities. Time for another scenario.
 
-## Biometrics: A Key Part of Haiti's Digital Future
+## Biometrics: A Key Part of Haiti’s Digital Future
 
 Imagine this: A patient goes into a facility and is diagnosed with TB in January. The health worker, trained in the new tracking system, diagnoses the patient, prescribes medications, inputs the patient’s information into the tracker, and records her biometrics. This way, when she comes back for a checkup, no matter the facility, the health worker can securely pull up her previous diagnosis and treatment to seamlessly provide the care she needs.
 
-This is what we hope to achieve in the future using biometrics. It will serve as a means of providing patients with unique identifiers that can track them throughout the health system. This enables patients to have consistency in care if they switch facilities for whatever reason. Of course, this solution required patient consent along with adhering to patient’s right to protect his/her personal data. Another step forward toward the digital vision for Haiti.
+This is what we hope to achieve in the future using biometrics. It will serve as a means of providing patients with unique identifiers that can track them throughout the system. This enables patients to have consistency in care if they switch facilities for any reason. Of course, this solution requires patient consent along with adhering to the patient’s right to protect his or her personal data. Another step forward toward the digital vision for Haiti.
 
-I am incredibly optimistic about what these changes could bring. If we roll out the pilot and continue entering data at the facility level, the quality of the data will improve, allowing for the use of good data for decision making. But, more importantly, patient tracking of TB treatment and hopefully tracking of all patient-level health data will result in better, more targeted care. Both improvements will lead to improved health outcomes. This is our goal and I am looking forward to tackling the challenges along the way to achieve the Digital Future for Haiti.
+I am incredibly optimistic about what these changes could bring. If we continue entering data at the facility level, the quality of the data will improve, allowing for the use of good data for decision-making. But, more importantly, patient tracking of TB treatment and hopefully, tracking of all patient health data will result in better, more targeted care. Both improvements will lead to better health for all. This is our goal and I am looking forward to tackling the challenges along the way to achieve the digital future for Haiti.
 
-**Atwood Raphael is Deputy Chief of Party for DAI's Haiti Strategic Health Information System (HIS) Program**
+**Atwood Raphael is Deputy Chief of Party for DAI’s Haiti Strategic Health Information System (HIS) Program.**
