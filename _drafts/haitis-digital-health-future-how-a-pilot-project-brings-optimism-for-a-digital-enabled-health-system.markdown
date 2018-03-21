@@ -11,7 +11,7 @@ I recently presented during a TechChange course titled “The Future of Digital 
 
 <!--more-->
 
-![atwood.jpg](/uploads/atwood.jpg)
+![atwood.jpg](/uploads/atwood.jpg)`Atwood Raphael, Deputy Chief of Party for DAI’s Haiti Strategic Health Information System (HIS) Program`
 
 Before I dive into specifics, let me give you a scenario.
 
