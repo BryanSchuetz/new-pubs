@@ -5,22 +5,21 @@ tags:
 - Health
 Author: "[Atwood Raphael](https://www.linkedin.com/in/nernst-atwood-raphael-5a46ba6a/)"
 social-image: "/uploads/atwood-6b4414.jpg"
-thumbnail: "/uploads/atwood-6b4414.jpg"
 ---
 
-Last week I presented in a TechChange course entitled the Future of Digital Health. I was asked to discuss the implementation of the USAID-funded [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) (HIS) program, a 5-year program that works to consolidate and integrate Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year - the progress we have made, the challenges we have encountered and the future of digital health in Haiti.
-
-![atwood.jpg](/uploads/atwood.jpg)
+I recently presented during a TechChange course titled “The Future of Digital Health.” I was asked to discuss the implementation of the [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) (HIS) program, a five-year, U.S. Agency for International Development-funded initiative that is consolidating and integrating Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year—the progress we have made, the challenges we have encountered, and the future of digital health in Haiti.
 
 <!--more-->
 
-Before I dive into the specifics of the pilot that I presented, let me give you a scenario.
+![atwood.jpg](/uploads/atwood.jpg)
+
+Before I dive into specifics, let me give you a scenario.
 
 ## The Digital Future of Haiti
 
-Imagine a not too distant Digital Future of Haiti: A country where the Ministry of Health of Haiti (MSPP) has access to the entire health data spectrum for decision making. Where information is turned into knowledge, where data is collected and analyzed, aggregated in real-time, on mobile phones, at the touch of button. Imagine that department level decisions (Haiti is divided administratively into 10 departments) are guided by programs based on live streaming data, such as disease burden tracking data, costing information, and supply chain data. And, imagine if that data is instantly collected, curated and securely available. This is the image of health workers in a modern, paperless health facility.
+Imagine a not-too-distant digital future of Haiti: A country where the Ministry of Health of Haiti has access to all health data to ease decision-making. Information is turned into knowledge. Data is collected and analyzed, aggregated in real-time, on mobile phones, at the touch of button. Imagine that department-level decisions (Haiti is divided administratively into 10 departments) are guided by programs based on live data, such as active diseases, pricing, and supply chain data. And, imagine if that data is instantly collected, curated, and secure. This is the image of health care in a modern, paperless health facility.
 
-We are well on our way to reach such a vision. The future is now. The pilot that we are running is the first step. It enables the use of DHIS2 at the health facility level as a tracker to collect tuberculosis (TB) patient-level data, track patient progress, and feed the national health information system. The pilot runs from January – March 2018 and targets nine facilities and four departments (48% of all TB facilities). This may not seem like too big lift, but it is certainly a step in the right direction. If we can prove the efficiency and impact of collecting data at every level of the health system, we can actually start making crucial decisions based on accurate data.
+The future is now; we are well on our way. The pilot we are running is the first step. It enables the use of DHIS2 at the health facility level as a tracker to collect tuberculosis (TB) patient-level data, track patient progress, and feed the national health information system. The pilot runs from January – March 2018 and targets nine facilities and four departments (48% of all TB facilities). This may not seem like too big lift, but it is certainly a step in the right direction. If we can prove the efficiency and impact of collecting data at every level of the health system, we can actually start making crucial decisions based on accurate data.
 
 Fast forward to the third month of the pilot. There is no doubt that progress has been made. For all participating facilities, 52% of all expected TB cases during this quarter have been entered into the system. This number is only rising and we are hoping to reach our goal of 75% by the end of the month. We have also seen outstanding leadership by *System d’Information Sanitaire Nationale Unique (SISNU)* through the National Program to Fight Against Tuberculosis (PNLT) and the Unit for Studies and Programming (UEP), two entities within the MSPP.
 
