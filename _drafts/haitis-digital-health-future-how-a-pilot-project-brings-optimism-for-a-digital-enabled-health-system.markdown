@@ -1,6 +1,5 @@
 ---
-title: 'Haiti’s Digital Health Future: How a pilot project brings optimism for a digitally
-  enabled health system'
+title: How a Pilot Project in Haiti Brings Optimism for Digitally Enabled Health System
 date: 2018-03-20 13:50:00 -04:00
 tags:
 - Health
