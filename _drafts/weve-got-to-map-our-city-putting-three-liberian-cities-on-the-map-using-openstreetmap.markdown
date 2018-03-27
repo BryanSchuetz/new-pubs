@@ -1,6 +1,10 @@
 ---
 title: '"We''ve Got to Map Our City" - Putting Liberian Cities on the Map using OpenStreetMap'
 date: 2018-03-27 13:02:00 -04:00
+tags:
+- Data Visualization
+- Sub-Saharan Africa
+- Governance
 ---
 
 *A version of this piece originally appeared on the Humanitarian OpenStreetMap Team's (HOT) [blog ](https://www.hotosm.org/updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia). Allimages are courtesy HOT.* 
@@ -30,6 +34,7 @@ Street names are still not clearly defined in Gompa City. The problem being that
 ![04-436838.jpg](/uploads/04-436838.jpg)
 
 **Gbarnga** 
+
 Gbarnga was the last of the three cities to map in Liberia with DAI for the LEGIT Project. Gbarnga is the capital city of Bong County, Liberia, northeast of Monrovia. Despite the onset of the rainy season, volunteers were able to map the entire eight-mile radius of Gbarnga City. Volunteers walked through forests, wetlands, crossing rivers and creeks and even forging their own paths through the forest to get to these villages.
 
 In Gbarnga City, as with other parts of Liberia, there are still villages that are not accessible by road. Many of these villages are blocked by rivers and creeks that get very flooded during rainy seasons.  This situation makes it difficult for rural inhabitants to access basic medical care and markets for their agricultural products. On occasion, teams needed the help of community members to cross these flooded waterways - not using keno or boat, but rather, on pieces of log woods tied together. It was a difficult task mapping the rural reaches of Gbarnga City, but our strong volunteers made it to map those rural villages successfully.
