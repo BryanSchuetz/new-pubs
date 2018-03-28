@@ -5,6 +5,9 @@ tags:
 - Data Visualization
 - Sub-Saharan Africa
 - Governance
+Author: " Emmanuel Greene and Koakun Emmanuel Myers, with contributions from Tyler
+  Radford"
+social-image: "/uploads/02.png"
 ---
 
 *A version of this blog originally appeared on the Humanitarian OpenStreetMap Team’s (HOT) [blog ](https://www.hotosm.org/updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia). All images are courtesy of HOT.* 
