@@ -1,5 +1,5 @@
 ---
-title: '"We''ve Got to Map Our City" - Putting Liberian Cities on the Map using OpenStreetMap'
+title: Putting Liberian Cities on the Map With OpenStreetMap
 date: 2018-03-27 13:02:00 -04:00
 tags:
 - Data Visualization
