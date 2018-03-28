@@ -22,7 +22,8 @@ DAI collaborated with the Humanitarian OpenStreetMap Team (HOT) to support local
 
 ### Ganta City
 
-![01.png](/uploads/01.png)
+![01.png](/uploads/01.png) 
+`Ganta City`
 
 Ganta, which is interchangeably called Gompa meaning “man’s home” in the Mano dialect, is the fastest-growing and second-largest city in Liberia after Monrovia, owing to economic activities and its proximity to Guinea and Côte d’Ivoire. As such, volunteers had more commercial buildings and services to map compared to [Zwedru](https://www.hotosm.org/updates/2017-06-05_legit_team_completes_field_mapping_in_zwedru_city).
 
@@ -31,14 +32,17 @@ Prior to the mapping exercise, the Gompa City Corporation did not have updated n
 During the LEGIT mapping process, representatives from the City Corporation, and civil society and community based organizations were enthusiastic about being part of a process to map their city and communities. The administrative assistant of the Gompa City Corporation said, “We are very happy to be part of history making by mapping this great city of Gompa.”
 
 ![02.png](/uploads/02.png)
+`A mapping team strategies on how to map their task for the day`
 
 Following up the mobile data collection and mapping training, our volunteers were motivated to map the city and its surrounding villages within an eight-mile radius. With a passionate spirit and “we’ve got to map our city” attitude of our volunteers, we were able to cover a lot of ground in a short period. Despite the dense urban area, the mapping process in Ganta was completed in time, allowing volunteers time to participate in data cleaning and upload, as well as install mapping tools into their personal phones. 
 
 ![03.png](/uploads/03.png)
+`Volunteers participate in field data cleaning before upload to OSM`
 
 Street names are still not clearly defined in Gompa City. The problem is that the names used to name streets were not known to the city inhabitants, and therefore they did not use them. This was evidenced in the surveyor’s map from 1979 that was discovered in the possession of a local drafter. Upon close examination, the map was found to be largely inaccurate to the ground reality of present-day streets layouts, and names did not reflect current use. However, this map did provide interesting insight on how Ganta developed after Liberia’s civil wars disrupted city planning. In response to HOT’s mapping efforts, the City Corporation and the council members are assigning proper names to the streets, with justification for proper identification.
 
 ![04-436838.jpg](/uploads/04-436838.jpg)
+`One of the streets in Gompa City`
 
 ### Gbarnga
 
