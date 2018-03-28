@@ -49,6 +49,6 @@ During the mapping process, Jeremy Meadows, USAID Director of Democracy and Gove
 
 ### Next Steps
 
-After data cleaning and upload, the second phase of the project will focus on creating maps in QGIS with OSM data for stakeholders to use in development and planning. In the coming months, the HOT team will also provide QGIS and mapping training sessions for volunteers and stakeholders in the three project cities. Additionally, HOT will continue building the capacity of local stakeholders, CBOs, CSOs, OSM Liberia/Youth Mappers chapters and higher education institutions in Liberia to continue putting the country on the map.
+After data cleaning and upload, the second phase of the project will focus on creating maps in QGIS with OSM data for stakeholders to use in development and planning. In the coming months, the HOT team will also provide QGIS and mapping training sessions for volunteers and stakeholders in the three project cities. Additionally, HOT will continue building the capacity of local stakeholders, local organizations, OSM Liberia/Youth Mappers chapters, and higher education institutions in Liberia to continue putting the country on the map.
 
 The HOT team appreciates the support of our volunteers and tireless efforts of DAI-LEGIT for helping to put Zwedru, Ganta, and Gbarnga on the map. With such a strong team of mappers in these three cities, we are excited to see the OSM community grow in Liberia!
