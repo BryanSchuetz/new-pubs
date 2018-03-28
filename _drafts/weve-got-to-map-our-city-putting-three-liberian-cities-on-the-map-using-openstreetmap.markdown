@@ -17,7 +17,7 @@ As Liberia’s government moves to decentralize, data-driven governance of citie
 
 DAI collaborated with the Humanitarian OpenStreetMap Team (HOT) to support local government in building highly accurate, open data sets for Liberian cities using the OpenStreetMap platform. As mapping teams collected data in challenging and vulnerable locations using OpenMapKit, city officials witnessed the maps of their cities come to life. Roads, homes, schools, health facilities, shops, and houses of worship appeared on maps for the first time, enabling officials to identify spots where basic service improvements are needed. This is the story of how it all happened, using a participatory mapping process involving local residents, mobile technology, and a little bit of perseverance. For more about the methodology, visit [www.missingmaps.org](http://www.missingmaps.org/) 
 
-**Ganta City**
+### Ganta City
 
 ![01.png](/uploads/01.png)
 
@@ -37,9 +37,9 @@ Street names are still not clearly defined in Gompa City. The problem is that th
 
 ![04-436838.jpg](/uploads/04-436838.jpg)
 
-**Gbarnga** 
+### Gbarnga
 
-Gbarnga was the last of the three cities to map in Liberia with DAI for the LEGIT Project. Gbarnga is the capital city of Bong County, Liberia, northeast of Monrovia. Despite the onset of the rainy season, volunteers were able to map the entire eight-mile radius of Gbarnga City. Volunteers walked through forests, wetlands, crossing rivers and creeks and even forging their own paths through the forest to get to these villages.
+Gbarnga was the last of the three cities to map in Liberia with DAI for the LEGIT Project. Gbarnga is the capital city of Bong County, northeast of Monrovia. Despite the onset of the rainy season, volunteers were able to map the entire eight-mile radius of Gbarnga City. Volunteers walked through forests, wetlands, crossing rivers and creeks and even forging their own paths through the forest to get to these villages.
 
 In Gbarnga City, as with other parts of Liberia, there are still villages that are not accessible by road. Many of these villages are blocked by rivers and creeks that get very flooded during rainy seasons.  This situation makes it difficult for rural inhabitants to access basic medical care and markets for their agricultural products. On occasion, teams needed the help of community members to cross these flooded waterways - not using keno or boat, but rather, on pieces of log woods tied together. It was a difficult task mapping the rural reaches of Gbarnga City, but our strong volunteers made it to map those rural villages successfully.
 
