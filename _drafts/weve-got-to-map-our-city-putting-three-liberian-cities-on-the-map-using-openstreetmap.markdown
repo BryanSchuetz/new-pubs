@@ -29,7 +29,7 @@ During the LEGIT mapping process, representatives from the City Corporation, and
 
 ![02.png](/uploads/02.png)
 
-Following up the mobile data collection and mapping training, our volunteers were motivated to map the city and its surrounding villages within the eight-mile radius. With a passionate spirit and “we’ve got to map our city” attitude of our volunteers, we were able to cover a lot of ground in a short period of time. Despite the dense urban area, the mapping process in Ganta was completed in time, allowing volunteers time to participate in data cleaning and upload, as well as installing mapping tools into their personal phones. We were also able to conduct a short presentation on the iD editor with some training materials given out for study purposes.
+Following up the mobile data collection and mapping training, our volunteers were motivated to map the city and its surrounding villages within an eight-mile radius. With a passionate spirit and “we’ve got to map our city” attitude of our volunteers, we were able to cover a lot of ground in a short period. Despite the dense urban area, the mapping process in Ganta was completed in time, allowing volunteers time to participate in data cleaning and upload, as well as install mapping tools into their personal phones. 
 
 ![03.png](/uploads/03.png)
 
