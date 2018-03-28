@@ -10,7 +10,7 @@ Author: " Emmanuel Greene and Koakun Emmanuel Myers, with contributions from Tyl
 social-image: "/uploads/02.png"
 ---
 
-*A version of this blog originally appeared on the Humanitarian OpenStreetMap Team’s (HOT) [blog ](https://www.hotosm.org/updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia). All images are courtesy of HOT.* 
+*A version of this article originally appeared on the Humanitarian OpenStreetMap Team’s (HOT) [blog ](https://www.hotosm.org/updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia). All images are courtesy of HOT.* 
 
 As the world becomes more urbanized, data on cities and the residents who inhabit them is key to building and governing sustainable communities. Yet this data is simply not available for many rural and urban areas around the world. Many cities lack base data sets—such as accurate maps of their cities that identify key infrastructure, services, and human settlements. In some cases, these maps exist on paper, but in other cases, are only available in closed, proprietary systems or not at all. This was the case in the Liberian cities of Ganta, Gbarnga, and Zwedru. 
 
