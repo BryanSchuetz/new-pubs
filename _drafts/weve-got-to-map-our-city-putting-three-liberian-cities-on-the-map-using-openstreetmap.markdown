@@ -37,7 +37,7 @@ During the LEGIT mapping process, representatives from the City Corporation, and
 Following up the mobile data collection and mapping training, our volunteers were motivated to map the city and its surrounding villages within an eight-mile radius. With a passionate spirit and “we’ve got to map our city” attitude of our volunteers, we were able to cover a lot of ground in a short period. Despite the dense urban area, the mapping process in Ganta was completed in time, allowing volunteers time to participate in data cleaning and upload, as well as install mapping tools into their personal phones. 
 
 ![03.png](/uploads/03.png)
-`Volunteers participate in field data cleaning before upload to OSM`
+`Volunteers participate in data cleaning before uploading.`
 
 Street names are still not clearly defined in Gompa City. The problem is that the names used to name streets were not known to the city inhabitants, and therefore they did not use them. This was evidenced in the surveyor’s map from 1979 that was discovered in the possession of a local drafter. Upon close examination, the map was found to be largely inaccurate to the ground reality of present-day streets layouts, and names did not reflect current use. However, this map did provide interesting insight on how Ganta developed after Liberia’s civil wars disrupted city planning. In response to HOT’s mapping efforts, the City Corporation and the council members are assigning proper names to the streets, with justification for proper identification.
 
