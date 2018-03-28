@@ -32,7 +32,7 @@ Prior to the mapping exercise, the Gompa City Corporation did not have updated n
 During the LEGIT mapping process, representatives from the City Corporation, and civil society and community based organizations were enthusiastic about being part of a process to map their city and communities. The administrative assistant of the Gompa City Corporation said, “We are very happy to be part of history making by mapping this great city of Gompa.”
 
 ![02.png](/uploads/02.png)
-`A mapping team strategies on how to map their task for the day`
+`A mapping team strategizes how to map their task for the day.`
 
 Following up the mobile data collection and mapping training, our volunteers were motivated to map the city and its surrounding villages within an eight-mile radius. With a passionate spirit and “we’ve got to map our city” attitude of our volunteers, we were able to cover a lot of ground in a short period. Despite the dense urban area, the mapping process in Ganta was completed in time, allowing volunteers time to participate in data cleaning and upload, as well as install mapping tools into their personal phones. 
 
