@@ -9,9 +9,8 @@ tags:
 Author: " Emmanuel Greene and Koakun Emmanuel Myers, with contributions from Tyler
   Radford"
 social-image: "/uploads/02.png"
+thumbnail: "/uploads/02.png"
 ---
-
-*A version of this article originally appeared on the Humanitarian OpenStreetMap Team’s (HOT) [blog ](https://www.hotosm.org/updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia). All images are courtesy of HOT.* 
 
 As the world becomes more urbanized, data on cities and the residents who inhabit them is key to building and governing sustainable communities. Yet this data is simply not available for many rural and urban areas around the world. Many cities lack base data sets—such as accurate maps of their cities that identify key infrastructure, services, and human settlements. In some cases, these maps exist on paper, but in other cases, are only available in closed, proprietary systems or not at all. This was the case in the Liberian cities of Ganta, Gbarnga, and Zwedru. 
 
@@ -21,7 +20,7 @@ As Liberia’s government moves to decentralize, data-driven governance of citie
 
 DAI collaborated with the Humanitarian OpenStreetMap Team (HOT) to support local government in building highly accurate, open data sets for Liberian cities using the OpenStreetMap platform. As mapping teams collected data in challenging and vulnerable locations using OpenMapKit, city officials witnessed the maps of their cities come to life. Roads, homes, schools, health facilities, shops, and houses of worship appeared on maps for the first time, enabling officials to identify spots where basic service improvements are needed. This is the story of how it all happened, using a participatory mapping process involving local residents, mobile technology, and a little bit of perseverance. For more about the methodology, visit [www.missingmaps.org](http://www.missingmaps.org/) 
 
-### Ganta City
+## Ganta City
 
 ![01.png](/uploads/01.png) 
 `Ganta City`
@@ -45,7 +44,7 @@ Street names are still not clearly defined in Ganta. The problem is that the nam
 ![04-436838.jpg](/uploads/04-436838.jpg)
 `A street in Ganta.`
 
-### Gbarnga
+## Gbarnga
 
 Gbarnga was the last of the three cities to map in Liberia with DAI for the LEGIT Project. Gbarnga is the capital city of Bong County, northeast of Monrovia. Despite the onset of the rainy season, volunteers were able to map the entire eight-mile radius of Gbarnga. Volunteers walked through forests, wetlands, crossing rivers and creeks, even forging their own paths through the forest to get to these villages.
 
@@ -55,6 +54,8 @@ The importance of mapping was highlighted and appreciated during meetings with s
 
 During the mapping process, Jeremy Meadows, USAID Director of Democracy and Governance Office, visited the teams in Gbarnga to learn more about the process, how volunteers were performing, and how mapping will help the city and country at large. Guests received a short overview of the project and its activities and headed to the field to meet volunteers. The volunteers demonstrated field data collection with smartphones using different mapping tools on including Open Data Kit (ODK), OpenMapKit (OMK), and OSMAnd. 
 
-### Next Steps
+## Next Steps
 
 After data cleaning and upload, the second phase of the project will focus on creating maps in QGIS with map data for stakeholders to use in development and planning. In the coming months, the HOT team will also provide QGIS and mapping training sessions for volunteers and stakeholders in the three project cities. Additionally, HOT will continue building the capacity of local stakeholders, local organizations, OpenStreetMap Liberia/Youth Mappers chapters, and higher education institutions in Liberia to continue putting the country on the map.
+
+*A version of this article originally appeared on the Humanitarian OpenStreetMap Team’s (HOT) [blog ](https://www.hotosm.org/updates/2017-08-07_legit_completes_field_mapping_in_three_cities_in_liberia). All images are courtesy of HOT.* 
