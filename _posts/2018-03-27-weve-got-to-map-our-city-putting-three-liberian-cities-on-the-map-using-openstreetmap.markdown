@@ -1,7 +1,6 @@
 ---
 title: Putting Liberian Cities on the Map With OpenStreetMap
 date: 2018-03-27 13:02:00 -04:00
-published: false
 tags:
 - Data Visualization
 - Sub-Saharan Africa
