@@ -5,6 +5,7 @@ tags:
 - Health
 Author: "[Atwood Raphael](https://www.linkedin.com/in/nernst-atwood-raphael-5a46ba6a/)"
 social-image: "/uploads/atwood-6b4414.jpg"
+thumbnail: "/uploads/atwood-6b4414.jpg"
 ---
 
 I recently presented during a TechChange course titled “The Future of Digital Health.” I was asked to discuss the implementation of the [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) (HIS) program, a five-year, U.S. Agency for International Development-funded initiative that is consolidating and integrating Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year—the progress we have made, the challenges we have encountered, and the future of digital health in Haiti.
