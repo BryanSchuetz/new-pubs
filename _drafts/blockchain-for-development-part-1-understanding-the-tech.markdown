@@ -37,7 +37,7 @@ The complete blockchain is held on many nodes throughout the network. These node
 
 Since blockchain is so linked to Bitcoin in terminology and understanding, I will discuss three oft-mentioned characteristics of blockchain technology and theory to give you a better idea of what all these blockchain terms really mean in use across different applications and implementations. Think of this more as clarification rather than myth-busting.   
 
-**1) “Blockchains are secure and immutable” **
+** 1. “Blockchains are secure and immutable” **
 
 Well yes, mostly. I won’t go into the math or other circumstances around majority control of the blockchain network or quantum computing, but for most intents and purposes it is true that you cannot change the blockchain history. It is extremely computationally difficult and resource prohibitive to alter the information stored in a blockchain. This does not mean it is impossible, but really it is too difficult and would require too many computers to achieve. 
 
