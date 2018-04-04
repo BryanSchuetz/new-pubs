@@ -7,11 +7,11 @@ Author: Trevor Olexy
 social-image: "/uploads/Figure.png"
 ---
 
-Bitcoin has launched the term “blockchain” into the world's tech vernacular. Unfortunately for blockchain as a technology and a theory, it is often, for better or worse, synonymized with Bitcoin. Because of this, the ideas of public, transparent, and unchangeable information immediately come to mind as soon as someone mentions blockchain. While this is true for Bitcoin, this is not necessarily the case for all blockchains. 
-
-There is a significant gap in education when it comes to the fundamental core functionality and abilities of a blockchain. Notice the wording there; that it is 'a' blockchain, not 'the' blockchain. Bitcoin uses blockchain technology (sometimes called distributed ledger technology) in a specific, financially focused way, but there are myriad other ways in which to implement blockchain. 
+Bitcoin has launched the term “blockchain” into the world’s tech vernacular. Unfortunately for blockchain as a technology and a theory, it is often, for better or worse, synonymized with Bitcoin. Because of this, the ideas of public, transparent, and unchangeable information immediately come to mind as soon as someone mentions blockchain. While this is true for Bitcoin, this is not necessarily the case for all blockchains. 
 
 <!--more-->
+
+There is a significant gap in education when it comes to the fundamental core functionality and abilities of a blockchain. Notice the wording there; that it is ‘a’ blockchain, not ‘the’ blockchain. Bitcoin uses blockchain technology (sometimes called distributed ledger technology) in a specific, financial way, but there are myriad other ways in which to implement blockchain. 
 
 In Part 1 of this two-part series, I will present some high-level background to how the technology works. Part 2 will then provide examples where blockchain could be appropriate in an international development context and instances where its use may be a bit forced, symptomatic of a larger desire to fit a square technology into a round programmatic hole. 
 
