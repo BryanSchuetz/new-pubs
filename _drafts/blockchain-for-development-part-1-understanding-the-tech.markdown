@@ -45,7 +45,6 @@ Well yes, mostly. I won’t go into the math or other circumstances around major
 
 While Bitcoin does allow all users to remain anonymous and audit the transaction history stored on the blockchain, this is merely the method Bitcoin has used to implement its blockchain. Private blockchain networks exist in which access to the network is only provided to a select group of individuals or businesses. These rely on the same technology as Bitcoin, but permissions can be set so that one entity can control visibility of their information or transactions on the network. For example, company A can send money to company B, allow company C (oversight regulator for instance) to see the transaction, but disallow viewing by company D (a competitor). This example demonstrates the usefulness of blockchain in securing and selectively controlling access to information that is stored unchanged in the history of the blockchain. Generally, a private blockchain is likely the most appropriate implementation in a development context.
 
-
 **3. “Blockchain is only used for financial transactions”**
 
 While this is again tied to the Bitcoin implementation, it is important to note that blockchains can store any information. Some people have even tried to store images on the blockchain, though in the Bitcoin and Ethereum networks this can become very expensive as each transaction does have an associated cost. Just one of the many potential uses outside of financial transactions could be private storage of vaccination records.
