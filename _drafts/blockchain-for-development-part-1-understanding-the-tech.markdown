@@ -38,17 +38,17 @@ The complete block chain is held on many nodes throughout the network. These nod
 
 Since blockchain is so linked to Bitcoin in terminology and understanding, I will discuss three oft mentioned characteristics of blockchain technology and theory to give you a better idea of what all these blockchain terms really mean in use across different applications and implementations. Think of this more as clarification rather than myth-busting.   
 
-## 1) “Blockchains are secure and immutable” 
+**1) “Blockchains are secure and immutable” **
 
 Well yes, mostly. I won’t go into the math or other circumstances around majority control of the blockchain network or quantum computing, but for most intents and purposes it is true that you cannot change the blockchain history. It is extremely computationally difficult and resource prohibitive to alter the information stored in a blockchain. This does not mean it is impossible, but really it is too difficult and would require too many computers to achieve. 
 
 
-## 2) “Blockchains are public, transparent, and anonymous” 
+**2) “Blockchains are public, transparent, and anonymous” **
 
 While Bitcoin does allow all users to remain anonymous and audit the transaction history stored on the blockchain, this is merely the method Bitcoin has used to implement its blockchain. Private blockchain networks exist in which access to the network is only provided to a select group of individuals or businesses. These rely on the same technology as Bitcoin, but permissions can be set so that one entity can control visibility of their information or transactions on the network. For example, company A can send money to company B, allow company C (oversight regulator for instance) to see the transaction, but disallow viewing by company D (a competitor). This use-case demonstrates the usefulness of blockchain in securing and selectively controlling access to information that is stored unchanged in the history of the blockchain. Generally, a private blockchain is likely the most appropriate implementation in a development context.
 
 
-## 3) “Blockchain is only used for financial transactions” 
+**3) “Blockchain is only used for financial transactions” **
 
 While this is again tied to the Bitcoin implementation, it is important to note that blockchains can store any information. Some people have even tried to store images on the blockchain, though in the Bitcoin and Ethereum networks this can become very expensive as each transaction does have an associated cost. Just one of the many potential uses outside of financial transactions could be private storage of vaccination records.
 
