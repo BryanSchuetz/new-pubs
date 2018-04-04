@@ -35,7 +35,7 @@ The complete blockchain is held on many nodes throughout the network. These node
 
 ## Blockchain Detangled from Bitcoin
 
-Since blockchain is so linked to Bitcoin in terminology and understanding, I will discuss three oft mentioned characteristics of blockchain technology and theory to give you a better idea of what all these blockchain terms really mean in use across different applications and implementations. Think of this more as clarification rather than myth-busting.   
+Since blockchain is so linked to Bitcoin in terminology and understanding, I will discuss three oft-mentioned characteristics of blockchain technology and theory to give you a better idea of what all these blockchain terms really mean in use across different applications and implementations. Think of this more as clarification rather than myth-busting.   
 
 **1) “Blockchains are secure and immutable” **
 
