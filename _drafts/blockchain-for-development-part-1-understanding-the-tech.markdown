@@ -5,6 +5,7 @@ tags:
 - Digital Financial Services
 Author: Trevor Olexy
 social-image: "/uploads/Figure.png"
+thumbnail: "/uploads/Figure.png"
 ---
 
 Bitcoin has launched the term “blockchain” into the world’s tech vernacular. Unfortunately for blockchain as a technology and a theory, it is often, for better or worse, synonymized with Bitcoin. Because of this, the ideas of public, transparent, and unchangeable information immediately come to mind as soon as someone mentions blockchain. While this is true for Bitcoin, this is not necessarily the case for all blockchains. 
