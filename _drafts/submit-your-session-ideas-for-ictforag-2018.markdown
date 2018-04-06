@@ -6,6 +6,7 @@ tags:
 - Agriculture
 Author: Anand Varghese
 social-image: "/uploads/ICTforAg-2018.png"
+thumbnail: "/uploads/ICTforAg-2018.png"
 ---
 
 As in previous years, DAI is co-sponsoring this year's [ICTforAg](http://ictforag.org/) conference in Washington, D.C. The conference will happen on June 14th at [FHI 360's building](https://www.google.com/maps/place/FHI+360/@38.9151844,-77.0456242,15z/data=!4m5!3m4!1s0x0:0x96ade8a1ba6f2bc8!8m2!3d38.9151844!4d-77.0456242) on Connecticut Ave. The conference is currently accepting submissions for lightning talks and breakout sessions [here](http://ictforag.org/present/). The deadline for submission is **April 13th**. Use the guiding questions below to shape your session ideas, and see you all in June!
