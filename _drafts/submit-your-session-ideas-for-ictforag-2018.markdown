@@ -16,7 +16,7 @@ As in previous years, DAI is co-sponsoring this year's [ICTforAg](http://ictfora
 
 At ICTforAg 2018, we’ll seek answers to the real challenges faced by smallholder farmers, private sector actors, and government agricultural stakeholders in three focus areas:
 
-**Which Market Systems improve farmer livelihoods?**
+## Which Market Systems improve farmer livelihoods?
 
 * Who is succeeding with Digital Financial Services and what are they learning?
 * How can we support local innovators and entrepreneurs?
@@ -26,14 +26,16 @@ At ICTforAg 2018, we’ll seek answers to the real challenges faced by smallhold
 * How can we better address gender dynamics to improve farmer outcomes?
 * How can Technological Innovation change farming outcomes?
 
-**Which new tools allow farmers to access and understand big data?**
+## Which new tools allow farmers to access and understand big data?
+
 * How can digital identity systems increase farmers’ access to services?
 * When do farmers benefit from GIS and spatial data collected by others?
 * Where are the practical use cases for blockchain and machine learning?
 * Why and how does technology often exacerbate existing gender divides?
 * Where can Crisis Response processes and tools increase farmer resilience?
 
-**Where are the fragile environments, and how can farmers better assess risks**?
+## Where are the fragile environments, and how can farmers better assess risks?
+
 * When can technologies support farmer response to political instability and conflict?
 * Which innovations can reduce the impact of non-native pests?
 * How can new approaches accelerate climate change adaptation?
