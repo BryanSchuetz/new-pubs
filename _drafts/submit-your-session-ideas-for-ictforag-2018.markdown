@@ -33,9 +33,9 @@ At ICTforAg 2018, we’ll seek answers to the real challenges faced by smallhold
 * When do farmers benefit from GIS and spatial data collected by others?
 * Where are the practical use cases for blockchain and machine learning?
 * Why and how does technology often exacerbate existing gender divides?
-* Where can Crisis Response processes and tools increase farmer resilience?
+* Where can crisis response processes and tools increase farmer resilience?
 
-## Where are the fragile environments, and how can farmers better assess risks?
+## Where Are the Fragile Environments, and How Can Farmers Better Assess Risks?
 
 * When can technologies support farmer response to political instability and conflict?
 * Which innovations can reduce the impact of non-native pests?
