@@ -9,7 +9,7 @@ social-image: "/uploads/ICTforAg-2018.png"
 thumbnail: "/uploads/ICTforAg-2018.png"
 ---
 
-As in previous years, DAI is co-sponsoring this year's [ICTforAg](http://ictforag.org/) conference in Washington, D.C. The conference will happen on June 14th at [FHI 360's building](https://www.google.com/maps/place/FHI+360/@38.9151844,-77.0456242,15z/data=!4m5!3m4!1s0x0:0x96ade8a1ba6f2bc8!8m2!3d38.9151844!4d-77.0456242) on Connecticut Ave. The conference is currently accepting submissions for lightning talks and breakout sessions [here](http://ictforag.org/present/). The deadline for submission is **April 13th**. Use the guiding questions below to shape your session ideas, and see you all in June!
+As in previous years, DAI is co-sponsoring this year’s [ICTforAg](http://ictforag.org/) conference in Washington, D.C. The conference is on June 14 at [FHI 360’s building](https://www.google.com/maps/place/FHI+360/@38.9151844,-77.0456242,15z/data=!4m5!3m4!1s0x0:0x96ade8a1ba6f2bc8!8m2!3d38.9151844!4d-77.0456242). The conference is now accepting submissions for lightning talks and breakout sessions [here](http://ictforag.org/present/). The deadline for submission is **April 13**. Use the guiding questions below to shape your session ideas, and see you all in June!
 
 ![ICTforAg-2018.png](/uploads/ICTforAg-2018.png)
 
@@ -17,17 +17,17 @@ As in previous years, DAI is co-sponsoring this year's [ICTforAg](http://ictfora
 
 At ICTforAg 2018, we’ll seek answers to the real challenges faced by smallholder farmers, private sector actors, and government agricultural stakeholders in three focus areas:
 
-## Which Market Systems improve farmer livelihoods?
+## Which Market Systems Improve Farmer Livelihoods?
 
-* Who is succeeding with Digital Financial Services and what are they learning?
+* Who is succeeding with digital financial services and what are they learning?
 * How can we support local innovators and entrepreneurs?
 * Which approaches build trust between farmers and value chain actors?
 * When do market information systems increase farmer revenues?
 * Where can private sector actors add real social and economic value?
 * How can we better address gender dynamics to improve farmer outcomes?
-* How can Technological Innovation change farming outcomes?
+* How can technological innovation change farming outcomes?
 
-## Which new tools allow farmers to access and understand big data?
+## Which New Tools Allow Farmers to Access and Understand Big Data?
 
 * How can digital identity systems increase farmers’ access to services?
 * When do farmers benefit from GIS and spatial data collected by others?
