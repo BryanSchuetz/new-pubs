@@ -1,0 +1,40 @@
+---
+title: Submit Your Session Ideas for ICTforAg 2018
+date: 2018-04-06 11:41:00 -04:00
+tags:
+- Innovation
+- Agriculture
+Author: Anand Varghese
+social-image: "/uploads/ICTforAg-2018.png"
+---
+
+As in previous years, DAI is co-sponsoring this year's [ICTforAg](http://ictforag.org/) conference in Washington, D.C. The conference will happen on June 14th at [FHI 360's building](https://www.google.com/maps/place/FHI+360/@38.9151844,-77.0456242,15z/data=!4m5!3m4!1s0x0:0x96ade8a1ba6f2bc8!8m2!3d38.9151844!4d-77.0456242) on Connecticut Ave. The conference is currently accepting submissions for lightning talks and breakout sessions [here](http://ictforag.org/present/). The deadline for submission is April 13th! Use the guiding questions below to shape your session ideas, and see you all in June!
+
+![ICTforAg-2018.png](/uploads/ICTforAg-2018.png)
+
+<!--more-->
+
+At ICTforAg 2018, we’ll seek answers to the real challenges faced by smallholder farmers, private sector actors, and government agricultural stakeholders in three focus areas:
+
+**Which Market Systems improve farmer livelihoods?**
+
+* Who is succeeding with Digital Financial Services and what are they learning?
+* How can we support local innovators and entrepreneurs?
+* Which approaches build trust between farmers and value chain actors?
+* When do market information systems increase farmer revenues?
+* Where can private sector actors add real social and economic value?
+* How can we better address gender dynamics to improve farmer outcomes?
+* How can Technological Innovation change farming outcomes?
+
+**Which new tools allow farmers to access and understand big data?**
+* How can digital identity systems increase farmers’ access to services?
+* When do farmers benefit from GIS and spatial data collected by others?
+* Where are the practical use cases for blockchain and machine learning?
+* Why and how does technology often exacerbate existing gender divides?
+* Where can Crisis Response processes and tools increase farmer resilience?
+
+**Where are the fragile environments, and how can farmers better assess risks**?
+* When can technologies support farmer response to political instability and conflict?
+* Which innovations can reduce the impact of non-native pests?
+* How can new approaches accelerate climate change adaptation?
+* Who are the next generation of farmers, and how can we engage them?
