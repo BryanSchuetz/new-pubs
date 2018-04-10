@@ -8,17 +8,23 @@ As discussed in our Part 1 of this two part post on blockchain, "[Understanding 
 
 **Potential Use-cases**
 
-*Supply Chain *
+*Supply Chain*
+
 Currently, there are several companies implementing supply chain systems that are built on top of private blockchains. Value chain tracking and verification is one of the most promising areas for blockchain to operate and has potential applications for small holder farmers and farmer cooperatives. Since one of the primary advantages of blockchain technology is the removal of a necessary trusted third party to handle financial transactions, one can see the natural fit of blockchain in supply chain management or asset/goods/materials tracking. Digital representations of goods/assets and money can be automatically transferred between parties when both parties agree to predetermined conditions or product quality. If at some point in the physical world an asset is not as recorded on the blockchain, the blockchain can be audited and the source of the discrepancy can be isolated and investigated. This also opens avenues for the use sensors and the internet of things to track a product’s mass, temperature, or humidity, helping to ensure product quality from production to consumption. 
 
+![Blockchain Blog_Part2_pic.jpg](/uploads/Blockchain%20Blog_Part2_pic.jpg)
 *Medical Records*
+
 If I asked you where your medical records are at this very moment, unless you have been to the same doctor for most of your life or are part of a well-established electronic medical record (EMR) system, you may be unable to answer with confidence. Medical records can be stored securely, privately, and permanently in a private, permissioned blockchain. In this implementation, the owner of the record (the patient) can grant or revoke access to their medical records when and to whom they see fit. This is important because it maintains privacy, can become a system of record for patients with little confidence in their medical history, and returns control of personal data to the patient. Access to medical professionals can be infrequent in developing countries and although there are many organizations pushing to digitize medial records, this effort is often highly localized and can be difficult to implement at a national scale. Although there may be a heavy upfront lift in this case, blockchains can be considered somewhat autonomous upon creation, thus simultaneously increasing data integrity and reducing maintenance resources for large stores of patient data. 
  
 *Elections*
+
 Election tracking and verification is an interesting potential implementation of blockchain, particularly in countries where elections can be fraught with election officials and politicians of questionable integrity. The blockchain can track a constituent’s selections on a ballot, ownership of that ballot, aggregate data from polling stations, transfer the vote counts to the central election commission, and could do this all with little human intervention, or rather, interference. In a world where voting systems are constantly under intense scrutiny and doubt, securing the vote is vastly important to maintaining integrity of democratic systems. There are already companies doing their best to get the word out about the benefits of using blockchain for voting and one company has even utilized the platform at the 2016 Massachusetts Democratic Party State Convention. 
 
-**Challenges **
+**Challenges**
+
 *Technology Saturation*
+
 In a development context, the technological hurdles for projects with a digital component can often seem insurmountable, hardly a nurturing environment for a new technology that relies on distributed computing and a perpetually live network. Desktop computers and laptops are still not ubiquitous the world over due to any number of challenges from lack of funding and lack of regular access to electricity, to gaps in literacy.  For these reasons, mobile implementations of blockchain technology have the potential to make their way (albeit conscientiously) into the international development space. For example, a farmer with a mobile device could connect to a blockchain, submit a transaction such as the sale of produce to a wholesaler or exporter, and receive the money promptly in their digital wallet. This begs the question though, how wide is mobile network or data coverage where these farmers live? Coverage and reliability gaps can quickly restrict usage of a blockchain to areas with consistent data signal or a central hub with Wi-Fi. 
 
 *Data sovereignty*
