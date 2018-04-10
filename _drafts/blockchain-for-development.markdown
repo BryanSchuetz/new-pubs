@@ -1,6 +1,7 @@
 ---
 title: 'Blockchain for Development Part 2: Considerations for International Development'
 date: 2018-04-10 10:20:00 -04:00
+Author: Trevor Olexy
 ---
 
 The blockchain hype is pervasive, but blockchain does not deserve the apparent burden of “swiss army knife of new technology” label that has been thrust upon in recent years. While it is exciting and potentially very useful across quite a few sectors, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out Part 1 of this two-part article. In Part 2, I will give you a glimpse of some of the potential uses for blockchain in development, and some of the challenges faced when considering the use of this tech platform.
