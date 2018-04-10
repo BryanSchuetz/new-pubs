@@ -1,6 +1,16 @@
 ---
 title: 'Blockchain for Development Part 2: Considerations for International Development'
 date: 2018-04-10 10:20:00 -04:00
+categories:
+- Blockchain
+- Development
+tags:
+- blockchain
+- block chain
+- EMR
+- Agriculture
+- Innovation
+- Health
 Author: Trevor Olexy
 ---
 
@@ -10,7 +20,7 @@ As discussed in Part 1 of this two part post on blockchain, "[Understanding the 
 
 *Supply Chain*
 
-Currently, there are several companies ([IBM](https://www.ibm.com/blockchain/supply-chain/), [Provenance](https://www.provenance.org/)) implementing supply chain systems that are built on top of blockchain technology stacks. Value chain tracking and verification is one of the most promising areas for blockchain to operate and has potential applications for small holder farmers and farmer cooperatives. Since one of the primary advantages of blockchain technology is the removal of a necessary trusted third party to handle financial transactions, one can see the natural fit of blockchain in supply chain management or asset/goods/materials tracking. Digital representations of goods/assets and money can be automatically transferred between parties when both parties agree to predetermined conditions or product quality. If at some point in the physical world an asset is not as recorded on the blockchain, the blockchain can be audited and the source of the discrepancy can be isolated and investigated. This also opens avenues for the use sensors and the internet of things to track a product’s mass, temperature, or humidity, helping to ensure product quality from production to consumption.
+Currently, there are several companies ([IBM](https://www.ibm.com/blockchain/supply-chain/), [Provenance](https://www.provenance.org/)) implementing supply chain systems that are built on top of blockchain technology stacks. Value chain tracking and verification is one of the most promising areas for blockchain to operate and has potential applications for small holder farmers and farmer cooperatives. Since one of the primary advantages of blockchain technology is the removal of a necessary trusted third party to handle financial transactions, one can see the natural fit of blockchain in supply chain management or asset/goods/materials tracking. Digital representations of goods/assets and money can be automatically transferred between parties when both parties agree to predetermined conditions or product quality. If at some point in the physical world an asset is not as recorded on the blockchain, the blockchain can be audited and the source of the discrepancy can be isolated and investigated. This also opens avenues for the use sensors and the internet of things to track a product’s mass, temperature, or humidity, helping to ensure product quality from production to consumption. <!--more-->
 
 *Medical Records*
 
