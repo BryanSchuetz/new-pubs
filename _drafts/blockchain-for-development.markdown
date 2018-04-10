@@ -1,5 +1,5 @@
 ---
-title: 'Blockchain for Development Part 2: Considerations for International Development'
+title: 'Blockchain for Development Part 2: Considerations for Implementation'
 date: 2018-04-10 10:20:00 -04:00
 Author: Trevor Olexy
 ---
