@@ -17,7 +17,7 @@ social-image: "/uploads/Blockchain_Illustration_3.jpg"
 
 As discussed in Part 1 of this two part post on blockchain, "[Understanding the Tech](dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html)", the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it in recent years. While blockchain is exciting and potentially very useful across quite a few sectors, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out [Part 1](dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html) of this two-part article. In Part 2, I will give you a glimpse of some of the potential uses for blockchain in development, and some of the challenges faced when considering the use of this tech platform.
 
-**Potential Use-cases**
+## **Potential Use-cases**
 
 *Supply Chain*
 
@@ -26,13 +26,13 @@ Currently, there are several companies ([IBM](https://www.ibm.com/blockchain/sup
 *Medical Records*
 
 If I asked you where your medical records are at this very moment, unless you have been to the same doctor for most of your life or are part of a well-established electronic medical record (EMR) system, you may be unable to answer with confidence. Medical records can be stored securely, privately, and permanently in a private, permissioned blockchain. In this implementation, the owner of the record (the patient) can grant or revoke access to their medical records when and to whom they see fit. This is important because it maintains privacy, can become a system of record for patients with little confidence in their medical history, and returns control of personal data to the patient. Access to medical professionals can be infrequent in developing countries and although there are many organizations pushing to digitize medial records, this effort is often highly localized and can be difficult to implement at a national scale. Although there may be a heavy upfront lift in this case, blockchains can be considered somewhat autonomous upon creation, thus simultaneously increasing data integrity and reducing maintenance resources for large stores of patient data. There are not many (if any complete) examples of this yet, but check out MIT's [prototype ](https://medium.com/mit-media-lab-digital-currency-initiative/medrec-electronic-medical-records-on-the-blockchain-c2d7e1bc7d09)EMR.
-![Blockchain Blog_Part2_pic.jpg](/uploads/Blockchain%20Blog_Part2_pic.jpg)
+![Blockchain Blog_Part2_pic-fa8b9b.jpg](/uploads/Blockchain%20Blog_Part2_pic-fa8b9b.jpg)
 
 *Elections*
 
 Election tracking and verification is an interesting potential implementation of blockchain, particularly in countries where elections can be fraught with election officials and politicians of questionable integrity. The blockchain can track a constituent’s selections on a ballot, ownership of that ballot, aggregate data from polling stations, transfer the vote counts to the central election commission, and could do this all with little human intervention, or rather, interference. In a world where voting systems are constantly under intense scrutiny and doubt, securing the vote is vastly important to maintaining integrity of democratic systems. There are already companies doing their best to get the word out about the benefits of using blockchain for voting and one [company ](https://voatz.com/)has even utilized the platform at the 2016 Massachusetts Democratic Party State Convention.
 
-**Challenges**
+## **Challenges**
 
 *Technology Saturation*
 
