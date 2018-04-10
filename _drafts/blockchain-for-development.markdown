@@ -12,6 +12,7 @@ tags:
 - Innovation
 - Health
 Author: Trevor Olexy
+social-image: "/uploads/Blockchain_Illustration_3.jpg"
 ---
 
 As discussed in Part 1 of this two part post on blockchain, "[Understanding the Tech](dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html)", the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it in recent years. While blockchain is exciting and potentially very useful across quite a few sectors, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out [Part 1](dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html) of this two-part article. In Part 2, I will give you a glimpse of some of the potential uses for blockchain in development, and some of the challenges faced when considering the use of this tech platform.
