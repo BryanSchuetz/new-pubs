@@ -5,7 +5,7 @@ tags:
 - Agriculture
 - Innovation
 - Health
-- Blockshain Series
+- Blockchain Series
 Author: Trevor Olexy
 social-image: "/uploads/Blockchain_Illustration_3.jpg"
 thumbnail: "/uploads/Blockchain_Illustration_3.jpg"
