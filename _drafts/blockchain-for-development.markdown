@@ -2,10 +2,10 @@
 title: 'Blockchain for Development Part 2: Implementation Considerations'
 date: 2018-04-10 10:20:00 -04:00
 tags:
-- blockchain
 - Agriculture
 - Innovation
 - Health
+- Blockchain
 Author: Trevor Olexy
 social-image: "/uploads/Blockchain_Illustration_3.jpg"
 ---
