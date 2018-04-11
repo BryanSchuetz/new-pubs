@@ -46,4 +46,4 @@ Another important aspect of blockchain implementation is the sensitivity of the 
 
 Blockchain is still relatively new, generally misunderstood, and simultaneously simple and complicated. It is not appropriate for every situation. Simple databases provide similar functionality, and perhaps that is all that is needed in many cases. Throwing new technology at old problems is not always the best way to go. However, the world always needs pioneers to find solutions by different means. Blockchain developers and implementers looking to use distributed ledger technology to help solve problems need to be careful not to apply the theory for the sake of the tech, but for the improvement of processes and systems.
 
-More good reading, if you haven't had enough already, can be found [here](https://eng.paxos.com/blockchain-separating-hype-from-substance).
+More good reading, if you haven’t had enough already, can be found [here](https://eng.paxos.com/blockchain-separating-hype-from-substance).
