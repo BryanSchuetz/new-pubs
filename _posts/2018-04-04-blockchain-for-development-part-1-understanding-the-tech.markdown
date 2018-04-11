@@ -3,7 +3,7 @@ title: 'Blockchain for Development Part 1: Understanding the Tech'
 date: 2018-04-04 11:20:00 -04:00
 tags:
 - Digital Financial Services
-- Blockshain Series
+- Blockchain Series
 Author: Trevor Olexy
 social-image: "/uploads/Figure.png"
 thumbnail: "/uploads/Figure.png"
