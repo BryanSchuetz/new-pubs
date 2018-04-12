@@ -1,7 +1,6 @@
 ---
 title: Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable
 date: 2018-04-12 10:14:00 -04:00
-published: false
 tags:
 - Coding
 Author: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson)"
