@@ -1,6 +1,7 @@
 ---
 title: Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable
 date: 2018-04-12 10:14:00 -04:00
+published: false
 tags:
 - Coding
 Author: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson)"
@@ -9,6 +10,8 @@ thumbnail: "/uploads/BLOG3-b8317c.jpg"
 ---
 
 When someone needs a website or mobile app, they search for a coder. Almost anyone can be trained to write code and enter the digital workforce—once there, opportunities abound: from helping businesses, governments and other organizations build the websites and apps they need to supporting the digital systems that power economies worldwide.
+
+<!--more-->
 
 The cyber world is full of self-made successes who began with nothing but an enthusiasm for computers, and we want to help write more of those stories. [Code Partners](https://www.dai.com/news/dai-hosts-launch-of-new-coding-school-in-montgomery-county)—the only coding bootcamp in Montgomery County, Maryland—now offers **scholarships that will pay for up to 70 percent of tuition** for our [Code 201](https://www.codepartners.net/portal/customers/code/index.html#/courses/201) class. 
 
