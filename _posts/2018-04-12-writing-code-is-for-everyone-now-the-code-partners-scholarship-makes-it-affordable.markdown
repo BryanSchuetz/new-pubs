@@ -2,6 +2,8 @@
 title: Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable
 date: 2018-04-12 10:14:00 -04:00
 Author: "[Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson)"
+social-image: "/uploads/BLOG3-b8317c.jpg"
+thumbnail: "/uploads/BLOG3-b8317c.jpg"
 ---
 
 When someone needs a website or mobile app, they search for a coder. Almost anyone can be trained to write code and enter the digital workforce—once there, opportunities abound: from helping businesses, governments and other organizations build the websites and apps they need to supporting the digital systems that power economies worldwide.
@@ -21,6 +23,8 @@ We encourage anyone who wants to see “behind the computer curtain” to take t
 n Montgomery County and the greater D.C. area, many organizations are looking to hire people with software and web development skills. According to JobsEQ, in May 2017 there were more than 65,000 job openings for computer-related occupations in the Washington-Baltimore region. Of these, more than 10,000 were for software developers and 4,000 for web developers. Most of the software and web development positions were for entry- or mid-level, meaning that graduates of Code Fellows’ 201, [301](https://www.codepartners.net/portal/customers/code/index.html#/courses/301), and 401 [Full-Stack JavaScript](https://www.codepartners.net/portal/customers/code/index.html#/courses/401_JavaScript), [Mobile Applications](https://www.codepartners.net/portal/customers/code/index.html#/courses/401_MobileDev), and [Python](https://www.codepartners.net/portal/customers/code/index.html#/courses/401_Python) courses would be eligible candidates.
 
 DAI has embraced the Code Fellows model because our mission in developing countries includes helping to create long-term jobs. Information and communication technology (ICT) is a sector [ripe for job growth](https://www.ictworks.org/software-skills-pay-2018/#.Ws4uldPwZE4) around the globe. While Code Partners will help local people start their coding careers, we also hope to apply this model in developing countries. Why? Because a rich and effective ICT ecosystem better positions developing countries and their citizens to create jobs, drive economic growth, and increase self-reliance.
+
+![metro sign advertisement](/uploads/BLOG3-b8317c.jpg)
 
 Though “coding bootcamps” are relatively new, this much we know:
 
