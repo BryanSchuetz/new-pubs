@@ -39,4 +39,4 @@ Though “coding bootcamps” are relatively new, this much we know:
 * Coding students come from all walks of life—including from high schools, community colleges, entry-level jobs, the military, even mid-career positions—and include women and men of all ages; and
 * A degree from MIT or experience in Silicon Valley is not required to learn coding—only an interest in how computers work.
 
-If you have ever thought about a career in technology and you’re attracted by the idea of a skill that seems set to be in high demand for the long haul, we encourage you to learn more about Code Partners and the scholarships now available.
+If you have ever thought about a career in technology and you’re attracted by the idea of a skill that seems set to be in high demand for the long haul, we encourage you to [learn more about Code Partners and the scholarships now available](https://info.codepartners.net/scholarship-fund/?utm_source=digital&utm_medium=promo&utm_campagin=dai-blog).
