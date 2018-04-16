@@ -1,6 +1,9 @@
 ---
 title: 'Digital Insights Malawi: Communication Among Rural Communities'
 date: 2018-04-16 06:09:00 -04:00
+tags:
+- Digital Insights
+- Digital Inclusion
 Author: Chloe Messenger
 ---
 
