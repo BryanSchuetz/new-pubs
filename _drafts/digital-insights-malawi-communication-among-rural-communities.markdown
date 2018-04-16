@@ -7,7 +7,7 @@ tags:
 Author: Chloe Messenger
 ---
 
-Last month, I spent two weeks in Malawi trying to gain an understanding of technology use and media consumption habits of people in rural and marginalised communities. With a team of local enumerators, I spoke to 183 people (ages 14 to 80) in selected Traditional Authorities (TAs) in Northern, Central and Southern Malawi.
+Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. With a team of local enumerators, I spoke to 183 people (ages 14 to 80) in selected Traditional Authorities (TAs) in Northern, Central and Southern Malawi.
 
 [photo]
 
@@ -49,8 +49,7 @@ The disparity of phone ownership between males and females was most stark in Nor
 ### 4.	Radio is the star 
 <script id="infogram_0_1b27ce3a-a257-41b0-9fa3-cb3dada826e1" title="Information general Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?3Yi" type="text/javascript"></script>
 
-For receiving news and information, the real star of the show is Radio. When asked how they like to receive information about national and local goings on, and more informative topics just as their human rights, a clear majority said through the Radio, closely followed by phone calls. In general, people trust the radio because it shares differing opinions and they feel the information has been fact checked. 
-[photo]
+For receiving news and information, the real star of the show is Radio. When asked how they like to receive information about national and local goings on, and more informative topics just as their human rights, a clear majority said through the Radio. This was the only media source that was at all popular, with the main source of information otherwise being through people they are already in touch with my phone, in person or by WhatsApp. In general, people trust the radio because it shares differing opinions and they feel the information has been fact checked. 
 
 ## Conclusion
 There is real evidence of some of the issues of digital access and inclusion that we so often talk about: social control of women and girls’ technology use; poor signal; digital illiteracy; the high cost of mobile phone data and airtime. Despite this, most people rely on their phone for communication and are just careful when and how much they use it. The WhatsApp craze among the younger generation and commitment to buying data no matter what the cost, could see this change in the coming years, so I’d be keen to come back in a few years’ time.
