@@ -8,7 +8,9 @@ Author: Chloe Messenger
 ---
 
 Last month, I spent two weeks in Malawi trying to gain an understanding of technology use and media consumption habits of people in rural and marginalised communities. With a team of local enumerators, I spoke to 183 people (ages 14 to 80) in selected Traditional Authorities (TAs) in Northern, Central and Southern Malawi.
+
 [photo]
+
 <!--more-->
 Using Digital Insights methodology, we talked to people about how they receive information and what they trust the most; and how they prefer to communicate and why. Here I outline some key findings concerning digital access and inclusion among rural communities, but first, the numbers.
 
@@ -52,6 +54,7 @@ For receiving news and information, the real star of the show is Radio. When ask
 
 ## Conclusion
 There is real evidence of some of the issues of digital access and inclusion that we so often talk about: social control of women and girls’ technology use; poor signal; digital illiteracy; the high cost of mobile phone data and airtime. Despite this, most people rely on their phone for communication and are just careful when and how much they use it. The WhatsApp craze among the younger generation and commitment to buying data no matter what the cost, could see this change in the coming years, so I’d be keen to come back in a few years’ time.
+
 A special thank you to Alice Kaunda and our enumerators for their help on the trip!  
 
 
