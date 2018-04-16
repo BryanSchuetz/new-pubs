@@ -11,10 +11,15 @@
   <meta name="twitter:image" content="https://dai-global-digital.com{{ page.social-image | default: "/uploads/social-image.jpg" }}">
   <meta property="fb:app_id" content="166488866849393">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
+  
+  <!-- JS -->
+  <script defer="true" src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+  <script defer="true" src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js"></script>
+  <script type="text/javascript" src="/js/site.js" defer="true"></script>
+  
   <link rel="stylesheet" href="{{ "/css/main.css" }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
@@ -23,5 +28,4 @@
       window.location = "http://browsehappy.com/";
     </script>
   <![endif]-->
-{% include webfonts.html %}
 </head>

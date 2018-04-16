@@ -1,39 +1,5 @@
 <footer class="site-footer">
 <p class="subscribe"><a href="https://confirmsubscription.com/h/r/066AFBA15492935C" class="without-style more-button footer-subscribe"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#contact"></use></svg> SUBSCRIBE</a></p>
 <p class="colophon"><strong>DAI</strong><span></span> Shaping a more livable world.</p>
-<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
-<script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-73508500-1', 'auto');
-  ga('set', 'anonymizeIp', true);
-  ga('send', 'pageview');
-
-</script>
-<script>
-var client = algoliasearch("R7MRY12BR6", "31279e8ba1391f13b3bf55cd8eaea065");
-var index = client.initIndex('digital');
-//initialize autocomplete on search input (ID selector must match)
-autocomplete('#aa-search-input',
-{ hint: false, debug: true, autoselect: true, keyboardShortcuts: ['s', '/'] }, {
-    source: autocomplete.sources.hits(index, {hitsPerPage: 7}),
-    //value to be displayed in input control after user's suggestion selection
-    displayKey: 'my_attribute',
-    //hash of templates used when rendering dataset
-    templates: {
-        //'suggestion' templating function used to render a single suggestion
-        suggestion: function(suggestion) {
-          return '<span>' +
-            suggestion._highlightResult.title.value + '</span><span>';
-        }
-    }
-}).on('autocomplete:selected', function(event, suggestion, dataset) {
-    location.href = suggestion.url;
-  });
-</script>
  
 </footer>

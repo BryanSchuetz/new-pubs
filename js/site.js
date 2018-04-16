@@ -677,3 +677,74 @@ return t=a?function(t){return t&&a(r(t))}:function(t){return t&&r(t)}}function e
   }
 
 }(document, window, 0));
+
+var nav = responsiveNav(".nav-collapse", {
+  animate: true,
+  transition: 284,
+  label: "MENU",
+});
+
+$(window).load(function () {
+  $('.grid').isotope({
+    // options
+    itemSelector: '.grid-item',
+    layoutMode: 'vertical'
+  });
+  // init Isotope
+  var $grid = $('.grid').isotope({
+    // options
+  });
+  // filter items on button click
+  $('.filter-button-group').on('click', 'button', function () {
+    var filterValue = $(this).attr('data-filter');
+    $grid.isotope({ filter: filterValue });
+  });
+  // change is-checked class on buttons
+  $('.filter-button-group').each(function (i, buttonGroup) {
+    var $buttonGroup = $(buttonGroup);
+    $buttonGroup.on('click', 'button', function () {
+      $buttonGroup.find('.is-checked').removeClass('is-checked');
+      $(this).addClass('is-checked');
+    });
+  });
+})
+
+var client = algoliasearch("R7MRY12BR6", "31279e8ba1391f13b3bf55cd8eaea065");
+var index = client.initIndex('digital');
+//initialize autocomplete on search input (ID selector must match)
+autocomplete('#aa-search-input',
+  { hint: false, debug: true, autoselect: true, keyboardShortcuts: ['s', '/'] }, {
+    source: autocomplete.sources.hits(index, { hitsPerPage: 7 }),
+    //value to be displayed in input control after user's suggestion selection
+    displayKey: 'my_attribute',
+    //hash of templates used when rendering dataset
+    templates: {
+      //'suggestion' templating function used to render a single suggestion
+      suggestion: function (suggestion) {
+        return '<span>' +
+          suggestion._highlightResult.title.value + '</span><span>';
+      }
+    }
+  }).on('autocomplete:selected', function (event, suggestion, dataset) {
+    location.href = suggestion.url;
+  });
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+  (i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-73508500-1', 'auto');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+
+(function (d) {
+  var config = {
+    kitId: 'pzp7rci',
+    scriptTimeout: 3000,
+    async: true
+  },
+    h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
+})(document);

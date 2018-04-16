@@ -14,7 +14,6 @@
         <div class="page-content">
             <h1 class="page-title"><a class="site-title without-style" href="/"><svg class="svg-logo" viewBox="0 0 818 114"  preserveAspectRatio="xMinYMax meet"><use xlink:href="#svg-logo"></use></svg></a></h1>
           <div class="wrapper">
-            <script type="text/javascript" src="/js/site.js"></script>
             <!-- <script>(function(d, s, id) {
               var js, fjs = d.getElementsByTagName(s)[0];
               if (d.getElementById(id)) return;
@@ -72,39 +71,5 @@
       </div>
       {% include footer.html %}
     </div>
-      <script type="text/javascript">
-      $( window ).load(function() {
-        $('.grid').isotope({
-        // options
-        itemSelector: '.grid-item',
-        layoutMode: 'vertical'
-      });
-      // init Isotope
-      var $grid = $('.grid').isotope({
-        // options
-      });
-      // filter items on button click
-      $('.filter-button-group').on( 'click', 'button', function() {
-        var filterValue = $(this).attr('data-filter');
-        $grid.isotope({ filter: filterValue });
-      });
-      // change is-checked class on buttons
-      $('.filter-button-group').each( function( i, buttonGroup ) {
-        var $buttonGroup = $( buttonGroup );
-        $buttonGroup.on( 'click', 'button', function() {
-          $buttonGroup.find('.is-checked').removeClass('is-checked');
-          $( this ).addClass('is-checked');
-        });
-      });
-})
-      </script>
-      <script>
-  var nav = responsiveNav(".nav-collapse", {
-    animate: true,
-    transition: 284,
-    label: "MENU",
-  });
-</script>
   </body>
-
 </html>
