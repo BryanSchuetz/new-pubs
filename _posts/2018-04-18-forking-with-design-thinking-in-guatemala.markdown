@@ -59,19 +59,19 @@ Here’s what we did:
 
 ![001.jpeg](/uploads/001.jpeg)
 
-1. Starting with the budget module, we gave teams a series of tasks to complete that would require them to learn the tool’s basic functions and interface.
+2. Starting with the budget module, we gave teams a series of tasks to complete that would require them to learn the tool’s basic functions and interface.
 
 ![002.jpg](/uploads/002.jpg)
 
-1. To help guide participants' suggestions, we provided each team with a list of previously suggested ideas (the white sheet). To that list, each participant added their own ideas and suggestions for changes to the module (on the yellow sticky notes). Then, each group voted to prioritize the top three ideas in their group.
+3. To help guide participants' suggestions, we provided each team with a list of previously suggested ideas (the white sheet). To that list, each participant added their own ideas and suggestions for changes to the module (on the yellow sticky notes). Then, each group voted to prioritize the top three ideas in their group.
 
 ![003a.jpg](/uploads/003a.jpg)
 
-1. The group then wrote the top three ideas on large pieces of paper and presented them to the plenary group. Each group’s ideas were then taped to the wall.
+4. The group then wrote the top three ideas on large pieces of paper and presented them to the plenary group. Each group’s ideas were then taped to the wall.
 
 ![004plenary.jpeg](/uploads/004plenary.jpeg)
 
-1. The entire group then voted for the ideas they liked most, allowing us to prioritize the most appealing changes and updates for each module.
+5. The entire group then voted for the ideas they liked most, allowing us to prioritize the most appealing changes and updates for each module.
 
 ![005.jpeg](/uploads/005.jpeg)
 
