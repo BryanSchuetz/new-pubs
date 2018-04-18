@@ -8,13 +8,14 @@ tags:
 - Governace
 Author: Adam Fivenson
 social-image: "/uploads/005.jpeg"
+thumbnail: "/uploads/07%20Plenary%20voting.jpg\n"
 ---
 
-*Previously on Digital@DAI: Somos Chiantla (“We are Chiantla”) is a mobile app for budget transparency and citizen participation that DAI’s digital team developed with the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and the community of [Chiantla](https://goo.gl/maps/rz1w6hbbEwM2). Guatemala over the last two years. For more on how we used a lean human-centered design approach to align the tool’s form and function to local citizens’ technology habits and expectations of their local municipality see [We’re Putting Citizens at the Center of the Design Process in Guatemala](https://dai-global-digital.com/citizen-centered-design-guatemala.html). For details on the tool’s capabilities at launch, see [Results of HCD: Governance App Launches in Guatemala](https://dai-global-digital.com/governance-app-guatemala.html). We also published [Lean HCD: Human-Centered Design in the Highlands of Guatemala](https://dai-global-digital.com/lean-hcd.html), a white paper on the technical, political, and logistical challenges we faced in designing and developing *Somos Chiantla*, including a deeper dive into our localized approach to human-centered design, "Lean HCD." Lastly, you can download [*Somos Chiantla*](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en) on Google Play.*
-
-![07 Plenary voting.jpg](/uploads/07%20Plenary%20voting.jpg)
-
 This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate *Somos Chiantla*. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.
+
+<!--more-->
+
+<aside><p><em>Previously on Digital@DAI: Somos Chiantla (“We are Chiantla”) is a mobile app for budget transparency and citizen participation that DAI’s digital team developed with the <a href="https://www.dai.com/our-work/projects/guatemala-nexos-locales">USAID Nexos Locales</a> project and the community of <a href="https://goo.gl/maps/rz1w6hbbEwM2">Chiantla</a>. Guatemala over the last two years. For more on how we used a lean human-centered design approach to align the tool’s form and function to local citizens’ technology habits and expectations of their local municipality see <a href="https://dai-global-digital.com/citizen-centered-design-guatemala.html">We’re Putting Citizens at the Center of the Design Process in Guatemala</a>. For details on the tool’s capabilities at launch, see <a href="https://dai-global-digital.com/governance-app-guatemala.html">Results of HCD: Governance App Launches in Guatemala</a>. We also published <a href="https://dai-global-digital.com/lean-hcd.html">Lean HCD: Human-Centered Design in the Highlands of Guatemala</a>, a white paper on the technical, political, and logistical challenges we faced in designing and developing *Somos Chiantla</em>, including a deeper dive into our localized approach to human-centered design, “Lean HCD.” Lastly, you can download <a href="https://play.google.com/store/apps/details?id=gt.muni.chiantla&amp;hl=en"><em>Somos Chiantla</em></a> on Google Play.</p></aside>
 
 In thinking through how to design and structure our process for simultaneous improvement and expansion of this tool, we confronted some of difficult questions:
 
