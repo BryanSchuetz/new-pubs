@@ -15,7 +15,7 @@ Iterating Digital Insights
 
 [IMAGE]
 
-This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—-Sacapulas and San Rafael Pie de la Cuesta—-helping them create their own, personalized versions of the app. 
+This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—-Sacapulas and San Rafael Pie de la Cuesta—-helping them create their own, personalized, forked versions of the app. 
 In thinking through how to design and structure our process for simultaneous improvement and expansion of this tool, we confronted some of important questions: 
 
 * How should we select the two new municipalities? 
