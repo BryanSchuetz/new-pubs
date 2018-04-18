@@ -10,33 +10,29 @@ Author: Adam Fivenson
 social-image: "/uploads/005.jpeg"
 ---
 
-*Previously on Digital@DAI: Somos Chiantla (“We are Chiantla”) is a mobile app for budget transparency and citizen participation that DAI’s digital team developed with the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) and the community of [Chiantla](https://goo.gl/maps/rz1w6hbbEwM2). Guatemala over the last 2/+ years. For more on how we used a lean human-centered design approach to align the tool’s form and function to local citizens’ technology habits and expectations of their local municipality see the blog post [We’re Putting Citizens at the Center of the Design Process in Guatemala](https://dai-global-digital.com/citizen-centered-design-guatemala.html). For details on the tool’s capabilities at launch, see the blog post [Results of HCD: Governance App Launches in Guatemala](https://dai-global-digital.com/governance-app-guatemala.html). We also published [Lean HCD: Human-Centered Design in the Highlands of Guatemala](https://dai-global-digital.com/lean-hcd.html), a white paper on the technical, political, and logistical challenges we faced in designing and developing Somos Chiantla, including a deeper dive into our localized approach to human-centered design, "Lean HCD". Lastly, you can download [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en) on Google Play.*
+*Previously on Digital@DAI: Somos Chiantla (“We are Chiantla”) is a mobile app for budget transparency and citizen participation that DAI’s digital team developed with the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and the community of [Chiantla](https://goo.gl/maps/rz1w6hbbEwM2). Guatemala over the last two years. For more on how we used a lean human-centered design approach to align the tool’s form and function to local citizens’ technology habits and expectations of their local municipality see [We’re Putting Citizens at the Center of the Design Process in Guatemala](https://dai-global-digital.com/citizen-centered-design-guatemala.html). For details on the tool’s capabilities at launch, see [Results of HCD: Governance App Launches in Guatemala](https://dai-global-digital.com/governance-app-guatemala.html). We also published [Lean HCD: Human-Centered Design in the Highlands of Guatemala](https://dai-global-digital.com/lean-hcd.html), a white paper on the technical, political, and logistical challenges we faced in designing and developing Somos Chiantla, including a deeper dive into our localized approach to human-centered design, "Lean HCD." Lastly, you can download [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en) on Google Play.*
 
 ![07 Plenary voting.jpg](/uploads/07%20Plenary%20voting.jpg)
 
-This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—-Sacapulas and San Rafael Pie de la Cuesta—-helping them create their own, personalized, forked versions of the app.
+This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.
 
 In thinking through how to design and structure our process for simultaneous improvement and expansion of this tool, we confronted some of difficult questions:
 
 * How should we select the two new municipalities?
-
-* How were we to engage the two new communities in a rapid, yet meaningful design process?
-
+* How were we to engage the two new communities in a rapid, yet meaningful, design process?
 * How were we to ensure that the feedback process returned concrete, actionable ideas?
-
 * How were we to give citizens and municipal workers in the new municipalities a sense of how the tool worked and solicit their feedback and ideas on how to localize it for their community?
-
 * How were we to ensure that the feedback and ideas we received was feasible and not create false expectations?
 
 ## Roadmapping
 
-We carried out a competitive selection process to choose the two new communities. Then we would hold design thinking sessions in Chiantla and the two new communities to engage key stakeholders in the improvement (in the case of all three communities) and personalization (in the case of only the two new communities) of the app. With concrete ideas for improvement, we would update the tool in Chiantla, then personalize the updated version and launch in the two new communities.
+We carried out a competitive selection process to choose the two new communities. Then we held design-thinking sessions in Chiantla and the two new communities to engage key stakeholders in the improvement (in the case of all three communities) and personalization (in the case of only the two new communities) of the app. With concrete ideas for improvement, we would update the tool in Chiantla, then personalize the updated version and launch in the two new communities.
 
 ## Evaluation
 
 ![DSCN2832.JPG](/uploads/DSCN2832.JPG)
 
-A local non-profit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December of 2017. After a series of planning meetings (pictured above), ADESJU carried out 500 interviews in 35 communities throughout the municipality (urban, rural, and *really* rural, see photo below); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
+A local nonprofit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December 2017. After a series of planning meetings (pictured above), ADESJU carried out 500 interviews in 35 communities throughout the municipality (urban, rural, and *really* rural, see photo below); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
 
 ![WhatsApp Image 2017-10-26 at 7.17.06 PM.jpg](/uploads/WhatsApp%20Image%202017-10-26%20at%207.17.06%20PM.jpg)
 
@@ -44,7 +40,7 @@ Through the evaluation process we found a number of key areas for improvement. F
 
 ## Forking the Tool
 
-Our selection process for the two new municipalities began with ten municipalities, selected by Nexos Locales’ project staff for their forward-thinking mayors, and above-average adoption of smartphones. We narrowed those ten down to five municipalities, based on in-person visits by Julio Cancinos, a Guatmalan expert in citizen participation (see photo below). Those visits which included a rapid Frontier Insights-like survey of community members, and a written expression of interest from the municipality. Those municipalities completed written applications, detailing how they would engage their community in the design process, promote their app locally, and their thoughts on why transparency and accountability are important. The two winning municipalities—Sacapulas and San Rafael Pie de la Cuesta—were chosen by a technical review panel comprised of project staff, similar to how projects choose the winning bid for subgrants and contracts.
+Our selection process for the two new municipalities began with 10 municipalities, selected by Nexos Locales’ project staff for their forward-thinking mayors, and above-average adoption of smartphones. We narrowed those ten down to five municipalities, based on in-person visits by Julio Cancinos, a Guatmalan expert in citizen participation (see photo below). Those visits which included a rapid Frontier Insights-like survey of community members, and a written expression of interest from the municipality. Those municipalities completed written applications, detailing how they would engage their community in the design process, promote their app locally, and their thoughts on why transparency and accountability are important. The two winning municipalities—Sacapulas and San Rafael Pie de la Cuesta—were chosen by a technical review panel comprised of project staff, similar to how projects choose the winning bid for subgrants and contracts.
 
 ![WhatsApp Image 2017-08-08 at 3.34.37 PM (1).jpeg](/uploads/WhatsApp%20Image%202017-08-08%20at%203.34.37%20PM%20(1).jpeg)
 
