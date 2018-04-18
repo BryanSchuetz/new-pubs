@@ -31,7 +31,7 @@ We carried out a competitive selection process to choose the two new communities
 
 [DSCN2832.JPG](/uploads/DSCN2832.JPG)
 
-A local non-profit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December of 2017. After a series of planning meetings (pictured above), ADESJU carried out 500 interviews in 35 communities throughout the municipality (urban, rural, and *really* rural); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
+A local non-profit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December of 2017. After a series of planning meetings (pictured above), ADESJU carried out 500 interviews in 35 communities throughout the municipality (urban, rural, and *really* rural, see photo below); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
 
 ![WhatsApp Image 2017-10-26 at 7.17.06 PM.jpg](/uploads/WhatsApp%20Image%202017-10-26%20at%207.17.06%20PM.jpg)
 
@@ -39,11 +39,9 @@ Through the evaluation process we found a number of key areas for improvement. F
 
 ## Forking the Tool
 
-Our selection process for the two new municipalities began with ten municipalities, selected by Nexos Locales’ project staff for their forward-thinking mayors, and above-average adoption of smartphones. We narrowed those ten down to five municipalities, based on in-person visits that included a rapid Frontier Insights-like survey of community members, and a written expression of interest from the municipality. Those municipalities completed written applications, detailing how they would engage their community in the design process, promote their app locally, and their thoughts on why transparency and accountability are important. The two winning municipalities—Sacapulas and San Rafael Pie de la Cuesta—were chosen by a technical review panel comprised of project staff, similar to how projects choose the winning bid for subgrants and contracts. 
+Our selection process for the two new municipalities began with ten municipalities, selected by Nexos Locales’ project staff for their forward-thinking mayors, and above-average adoption of smartphones. We narrowed those ten down to five municipalities, based on in-person visits by Julio Cancinos, a Guatmalan expert in citizen participation (see photo below). Those visits which included a rapid Frontier Insights-like survey of community members, and a written expression of interest from the municipality. Those municipalities completed written applications, detailing how they would engage their community in the design process, promote their app locally, and their thoughts on why transparency and accountability are important. The two winning municipalities—Sacapulas and San Rafael Pie de la Cuesta—were chosen by a technical review panel comprised of project staff, similar to how projects choose the winning bid for subgrants and contracts. 
 
-[Image of Julio presenting the process to mayors]
-
-[Image of Sacapulas or San Rafael city centers] 
+![WhatsApp Image 2017-08-08 at 3.34.37 PM (1).jpeg](/uploads/WhatsApp%20Image%202017-08-08%20at%203.34.37%20PM%20(1).jpeg)
 
 ## Design Thinking
 
