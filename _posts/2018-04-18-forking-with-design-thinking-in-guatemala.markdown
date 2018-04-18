@@ -29,7 +29,7 @@ We carried out a competitive selection process to choose the two new communities
 
 ## Evaluation
 
-[DSCN2832.JPG](/uploads/DSCN2832.JPG)
+![DSCN2832.JPG](/uploads/DSCN2832.JPG)
 
 A local non-profit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December of 2017. After a series of planning meetings (pictured above), ADESJU carried out 500 interviews in 35 communities throughout the municipality (urban, rural, and *really* rural, see photo below); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
 
