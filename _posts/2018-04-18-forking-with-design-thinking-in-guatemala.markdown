@@ -11,7 +11,7 @@ Author: Adam Fivenson
 
 *Previously on Digital@DAI: Somos Chiantla (“We are Chiantla”) is a mobile app for budget transparency and citizen participation that DAI’s digital team developed with the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) and the community of [Chiantla, Guatemala](https://goo.gl/maps/rz1w6hbbEwM2) over the last two+ years. For more on how we used a lean human-centered design approach to align the tool’s form and function to local citizens’ technology habits and expectations of their local municipality see the blog post [We’re Putting Citizens at the Center of the Design Process in Guatemala](https://dai-global-digital.com/citizen-centered-design-guatemala.html). For an details on the tool’s capabilities at launch, see the blog post [Results of HCD: Governance App Launches in Guatemala](https://dai-global-digital.com/governance-app-guatemala.html). We also published [Lean HCD: Human-Centered Design in the Highlands of Guatemala](https://dai-global-digital.com/lean-hcd.html), a white paper on the technical, political, and logistical challenges we faced in designing and developing Somos Chiantla, including a deeper dive into our localized approach to human-centered design. Lastly, you can download [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en) on Google Play.*
 
-[IMAGE]
+![006a.jpeg](/uploads/006a.jpeg)
 
 This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—-Sacapulas and San Rafael Pie de la Cuesta—-helping them create their own, personalized, forked versions of the app. 
 
@@ -29,11 +29,11 @@ We carried out a competitive selection process to choose the two new communities
 
 ## Evaluation
 
-[Photos from planning inside ADESJU’s office]
+[DSCN2832.JPG](/uploads/DSCN2832.JPG)
 
-A local non-profit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December of 2017. It included of 500 interviews in 35+ communities throughout the municipality (urban, rural, and really rural); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
+A local non-profit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/) conducted the evaluation between September and December of 2017. After a series of planning meetings (pictured above), ADESJU carried out 500 interviews in 35 communities throughout the municipality (urban, rural, and *really* rural); nine focus groups with local journalists, the church, women’s groups, youth, and others; direct user testing with about 50 people; and an evaluation of usage data collected from the app’s Firebase back-end.
 
-[Photos from field surveys] 	
+![WhatsApp Image 2017-10-26 at 7.17.06 PM.jpg](/uploads/WhatsApp%20Image%202017-10-26%20at%207.17.06%20PM.jpg)
 
 Through the evaluation process we found a number of key areas for improvement. For example, outside of the city center, few citizens of Chiantla were aware of the tool, much less had downloaded it (as we knew, few citizens outside the city center had smartphones). Also, among those who had used the app, there were broad questions about the veracity of the tool’s budget data, which elevated the importance of educating users about the source and flow of the budget data. Finally, we discovered great interest in more context on the app’s budget data visualization. 
 
@@ -76,7 +76,5 @@ Here’s what we did:
 ## What’s next?
 
 After distilling the feedback from all three municipalities into a unified scope of work for our developer, we’re preparing to move forward building version 2.  
-
-
 
 *We’d love to hear what do you think of our process as described? What did we do right? What would you have done differently? Why?*
