@@ -9,14 +9,13 @@ tags:
 Author: Adam Fivenson
 ---
 
-Iterating Digital Insights
-
 *Previously on Digital@DAI: Somos Chiantla (“We are Chiantla”) is a mobile app for budget transparency and citizen participation that DAI’s digital team developed with the [USAID Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) and the community of [Chiantla, Guatemala](https://goo.gl/maps/rz1w6hbbEwM2) over the last two+ years. For more on how we used a lean human-centered design approach to align the tool’s form and function to local citizens’ technology habits and expectations of their local municipality see the blog post [We’re Putting Citizens at the Center of the Design Process in Guatemala](https://dai-global-digital.com/citizen-centered-design-guatemala.html). For an details on the tool’s capabilities at launch, see the blog post [Results of HCD: Governance App Launches in Guatemala](https://dai-global-digital.com/governance-app-guatemala.html). We also published [Lean HCD: Human-Centered Design in the Highlands of Guatemala](https://dai-global-digital.com/lean-hcd.html), a white paper on the technical, political, and logistical challenges we faced in designing and developing Somos Chiantla, including a deeper dive into our localized approach to human-centered design. Lastly, you can download [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en) on Google Play.*
 
 [IMAGE]
 
 This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—-Sacapulas and San Rafael Pie de la Cuesta—-helping them create their own, personalized, forked versions of the app. 
-In thinking through how to design and structure our process for simultaneous improvement and expansion of this tool, we confronted some of important questions: 
+
+In thinking through how to design and structure our process for simultaneous improvement and expansion of this tool, we confronted some of difficult questions: 
 
 * How should we select the two new municipalities? 
 * How were we to engage the two new communities in a rapid, yet meaningful design process?
@@ -48,31 +47,36 @@ Our selection process for the two new municipalities began with ten municipaliti
 
 ## Design Thinking
 
-Expanding Somos Chiantla from one to three municipalities was more complex than simply copying the source code (which, by the way, is open), slapping a new name on it, and calling it Somos Sacapulas. Engaging a community in the design process is imperative to the success of the tool, not only to answer design questions related to platform and function, but to gather new ideas, stamp out bugs, generate local ownership, kickstart promotion, and even gather requested content. 
-We decided that the best way to engage the two new communities was through design thinking sessions with municipal workers, civil society, and youth in each community. The challenge was figuring out how to balance the desire to incorporate local input and creativity and generate a sense of ownership among participants against the realities of a tight project budget and timeline, and the fact that we were bringing a pre-made tool to the community instead of a blank slate, open HCD process. Here’s what we did:
+Expanding Somos Chiantla from one to three municipalities was more complex than simply copying the source code (which, by the way, is [open](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla)), slapping a new name on it, and calling it *Somos Sacapulas*. Engaging a community in the design process is imperative to the success of the tool, not only to answer design questions related to platform and function, but to gather new ideas, stamp out bugs, generate local ownership, kickstart promotion, and gather requested content.
+ 
+We decided that the best way to engage the two new communities would be to run design thinking sessions with municipal workers, civil society, and youth in each community. The challenge was figuring out how to balance the desire to incorporate local input and creativity to generate a sense of ownership among participants against the realities of a tight project budget and timeline, and the fact that we were bringing a pre-made tool to the community instead of a blank slate, open design process. 
+
+Here’s what we did:
 
 1. We had our participants form groups of four, mixing men and women, young people and adults, municipal staff and civil society. 
 
-[Image at front of group]
+![001.jpeg](/uploads/001.jpeg)
 
 2. Starting with the budget module, we gave teams a series of tasks to complete that would require them to learn the tool’s basic functions and interface. 
 
-[Image]
+![002.jpg](/uploads/002.jpg)
 
-3. To help guide their own suggestions, we provided each team with a list of previously suggested ideas (the white sheet). To that list, each participant added their own ideas and suggestions for changes to the module (on the yellow sticky notes). Then, each group voted to prioritize the top three ideas in their group.
+3. To help guide participants' suggestions, we provided each team with a list of previously suggested ideas (the white sheet). To that list, each participant added their own ideas and suggestions for changes to the module (on the yellow sticky notes). Then, each group voted to prioritize the top three ideas in their group.
 
-[Image]
+![003a.jpg](/uploads/003a.jpg)
 
 4. The group then wrote the top three ideas on large pieces of paper and presented them to the plenary group. Each group’s ideas were then taped to the wall. 
 
-[Image]
+![004plenary.jpeg](/uploads/004plenary.jpeg)
 
 5. The entire group then voted for the ideas they liked most, allowing us to prioritize the most appealing changes and updates for each module. 
 
-[Image]
+![005.jpeg](/uploads/005.jpeg)
 
 ## What’s next?
 
 After distilling the feedback from all three municipalities into a unified scope of work for our developer, we’re preparing to move forward building version 2.  
+
+
 
 *We’d love to hear what do you think of our process as described? What did we do right? What would you have done differently? Why?*
