@@ -2,6 +2,10 @@
 title: Forking with Design Thinking in Guatemala
 date: 2018-04-18 02:14:00 -04:00
 published: false
+tags:
+- Human-centered design
+- Guatemala
+- Governace
 Author: Adam Fivenson
 ---
 
