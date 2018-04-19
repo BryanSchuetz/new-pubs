@@ -1,7 +1,6 @@
 ---
 title: Forking a Live Tool with Design Thinking in Guatemala
 date: 2018-04-18 02:14:00 -04:00
-published: false
 tags:
 - Human-centered design
 - Guatemala
@@ -53,27 +52,25 @@ Expanding *Somos Chiantla* from one to three municipalities was more complex tha
 
 We decided that the best way to engage the two new communities would be to run design-thinking sessions with municipal workers, civil society, and youth in each community. The challenge was figuring out how to balance the desire to incorporate local input and creativity to generate a sense of ownership among participants against the realities of a tight project budget and timeline, and the fact that we were bringing a pre-made tool to the community instead of a blank slate, open design process.
 
-Here’s what we did:
+### Here’s what we did:
 
-1) We had our participants form groups of four, mixing men and women, young people and adults, municipal staff and civil society.
+![001.jpeg](/uploads/001.jpeg)`1. We had our participants form groups of four, mixing men and women, young people and adults, municipal staff and civil society.`
 
-![001.jpeg](/uploads/001.jpeg)
+---
 
-2) Starting with the budget module, we gave teams a series of tasks to complete that would require them to learn the tool’s basic functions and interface.
+![002.jpg](/uploads/002.jpg)`2. Starting with the budget module, we gave teams a series of tasks to complete that would require them to learn the tool’s basic functions and interface.`
 
-![002.jpg](/uploads/002.jpg)
+---
 
-3) To help guide participants’ suggestions, we provided each team with a list of previously suggested ideas (the white sheet). To that list, each participant added their own ideas and suggestions for changes to the module (on the yellow sticky notes). Then, each group voted to prioritize the top three ideas in their group.
+![003a.jpg](/uploads/003a.jpg)`3. To help guide participants’ suggestions, we provided each team with a list of previously suggested ideas (the white sheet). To that list, each participant added their own ideas and suggestions for changes to the module (on the yellow sticky notes). Then, each group voted to prioritize the top three ideas in their group.`
 
-![003a.jpg](/uploads/003a.jpg)
+---
 
-4) The group then wrote the top three ideas on large pieces of paper and presented them to the plenary group. Each group’s ideas were then taped to the wall.
+![004plenary.jpeg](/uploads/004plenary.jpeg)`4. The group then wrote the top three ideas on large pieces of paper and presented them to the plenary group. Each group’s ideas were then taped to the wall.`
 
-![004plenary.jpeg](/uploads/004plenary.jpeg)
+---
 
-5) The entire group then voted for the ideas they liked most, allowing us to prioritize the most appealing changes and updates for each module.
-
-![005.jpeg](/uploads/005.jpeg)
+![005.jpeg](/uploads/005.jpeg)`5. The entire group then voted for the ideas they liked most, allowing us to prioritize the most appealing changes and updates for each module.`
 
 ## What’s next?
 
