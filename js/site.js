@@ -1,7 +1,6 @@
 ---
 ---
 
-{% include _jsmods/turbolinks.js %}
 {% include _jsmods/jquery.js %}
 {% include _jsmods/isotope.js %}
 {% include _jsmods/responsive-nav.js %}
