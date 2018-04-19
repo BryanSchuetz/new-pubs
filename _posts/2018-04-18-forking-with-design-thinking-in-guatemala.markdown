@@ -77,6 +77,6 @@ Here’s what we did:
 
 ## What’s next?
 
-After distilling the feedback from all three municipalities into a unified scope of work for our developer, we’re preparing to move forward building version 2.
+After distilling the feedback from all three municipalities into a unified scope of work for our developer, we’re preparing to move forward building version 2. Once we've got Chiantla's new version ready, we'll go about customizing it for Sacapulas and San Rafael Pie de la Cuesta, adjusting as per the feedback and suggestions from each community's design thinking session. We'll also be incorporating content that the participants themselves gathered and contributed. 
 
 *We’d love to hear what do you think of our process as described? What did we do right? What would you have done differently? Why?*
