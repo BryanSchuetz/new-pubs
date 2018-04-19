@@ -11,7 +11,7 @@ social-image: "/uploads/Blockchain_Illustration_3.jpg"
 thumbnail: "/uploads/Blockchain_Illustration_3.jpg"
 ---
 
-As discussed in Part 1 of this two-part post on blockchain, "[Understanding the Tech](dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html)," the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it. While blockchain is exciting and potentially very useful, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out [Part 1](dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html). Here I will give you a glimpse of some of the potential uses for blockchain in global development programming, and some of the challenges.
+As discussed in Part 1 of this two-part post on blockchain, "[Understanding the Tech](/blockchain-for-development-part-1-understanding-the-tech.html)," the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it. While blockchain is exciting and potentially very useful, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out [Part 1](/blockchain-for-development-part-1-understanding-the-tech.html). Here I will give you a glimpse of some of the potential uses for blockchain in global development programming, and some of the challenges.
 
 <!--more-->
 
