@@ -52,7 +52,7 @@ Expanding *Somos Chiantla* from one to three municipalities was more complex tha
 
 We decided that the best way to engage the two new communities would be to run design-thinking sessions with municipal workers, civil society, and youth in each community. The challenge was figuring out how to balance the desire to incorporate local input and creativity to generate a sense of ownership among participants against the realities of a tight project budget and timeline, and the fact that we were bringing a pre-made tool to the community instead of a blank slate, open design process.
 
-### Here’s what we did:
+## Here’s What We Did
 
 ![001.jpeg](/uploads/001.jpeg)`1. We had our participants form groups of four, mixing men and women, young people and adults, municipal staff and civil society.`
 
