@@ -75,6 +75,6 @@ We decided that the best way to engage the two new communities would be to run d
 
 ## What’s next?
 
-After distilling the feedback from all three municipalities into a unified scope of work for our developer, we’re preparing to move forward building version 2. Once we've got the Chiantla's new version ready, we'll fork that to the two new communities. Customized, and including the feedback and suggestions from each community's design thinking session. We'll also incorporate content that the participants themselves suggested and then gathered about local institutions, history, and culture. 
+After distilling the feedback from all three municipalities into a unified scope of work for our developer, we’re preparing to move forward building version 2. Once we've got the Chiantla's new version ready, we'll fork that to the two new communities. We'll also incorporate content that the participants themselves suggested and then gathered about local institutions, history, and culture. 
 
 *We’d love to hear what do you think of our process as described? What did we do right? What would you have done differently? Why?*
