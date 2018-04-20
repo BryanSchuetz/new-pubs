@@ -10,9 +10,10 @@ social-image: "/uploads/005.jpeg"
 thumbnail: "/uploads/07%20Plenary%20voting.jpg\n"
 ---
 
-This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate *Somos Chiantla*. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.
+This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate *Somos Chiantla*. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app. 
 
 ![07 Plenary voting.jpg](/uploads/07%20Plenary%20voting.jpg)
+`A participant in Sacapulas votes for the best ways to update Somos Chiantla`
 
 <!--more-->
 
