@@ -37,7 +37,7 @@ A local nonprofit called [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-
 
 ![DSCN2832.JPG](/uploads/DSCN2832.JPG)
 
-Through the evaluation process we found a number of key areas for improvement. For example, outside of the city center, few citizens of Chiantla were aware of the tool, much less had downloaded it (as we knew, few citizens outside the city center had smartphones). Also, among those who had used the app, there were broad questions about the veracity of the tool’s budget data, which elevated the importance of educating users about the source and flow of the budget data. Finally, we discovered great interest in more context on the app’s budget data visualization.
+Through the evaluation process we found a number of key areas for improvement. For example, outside of the city center, few citizens of Chiantla were aware of the tool, much less had downloaded it (as we knew, few citizens outside the city center had smartphones). Also, among those who had used the app, there were broad questions about the veracity of the tool’s budget data, which elevated the importance of educating users about the source and flow of the budget data. Finally, we found that people wanted more context on the app’s budget data visualization, especially how to find information about current infrastructure projects.
 
 ![WhatsApp Image 2017-10-26 at 7.17.06 PM.jpg](/uploads/WhatsApp%20Image%202017-10-26%20at%207.17.06%20PM.jpg)
 
