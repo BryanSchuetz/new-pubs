@@ -10,8 +10,7 @@ thumbnail: "/uploads/TicTec%20Logo.png"
 ---
 
 
-Last week I was at MySociety’s annual civic technology conference, [TicTec](http://tictec.mysociety.org/), in Lisbon. For anyone who couldn’t make it I unfortunately can’t share *all* the takeaways, like the delicious [Pastel de Nata](https://en.wikipedia.org/wiki/Pastel_de_nata), but here are a few treats for the mind.
-![TicTec Logo-57b487.png](/uploads/TicTec%20Logo-57b487.png){:.float-left}
+![TicTec Logo-57b487.png](/uploads/TicTec%20Logo-57b487.png){:.float-left}Last week I was at MySociety’s annual civic technology conference, [TicTec](http://tictec.mysociety.org/), in Lisbon. For anyone who couldn’t make it I unfortunately can’t share *all* the takeaways, like the delicious [Pastel de Nata](https://en.wikipedia.org/wiki/Pastel_de_nata), but here are a few treats for the mind.
 
 <!--more-->
 
