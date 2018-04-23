@@ -6,6 +6,7 @@ tags:
 - Governance
 Author: Chloe Messenger
 social-image: "/uploads/TicTec%20Logo.png"
+thumbnail: "/uploads/TicTec%20Logo.png"
 ---
 
 
