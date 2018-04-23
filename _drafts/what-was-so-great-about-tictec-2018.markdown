@@ -23,7 +23,7 @@ On Thursday, Nonso Jideofor from [the Engine Room](https://www.theengineroom.org
 In the session on “Assessing Civic tech”, several examples were given of failed civic tech initiatives- and what was common among them you ask? Poor design.  In an example from Nigeria, a lack of buy-in from the communities was a key set back, as well as design being too high-tech for the communities they were targeting. 
 
 
-![Tictec3.png](/uploads/Tictec3.png)
+![Tictec3.png](/uploads/Tictec3.png)`Practical Takeaways for Civic Tech panelists`
 
 ## Frontier Technologies
 
