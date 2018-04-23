@@ -11,10 +11,12 @@ social-image: "/uploads/TicTec%20Logo.png"
 
 Last week I was at MySociety’s annual civic technology conference, [TicTec](http://tictec.mysociety.org/), in Lisbon. For anyone that couldn’t make it, unfortunately I can’t share all the takeaways, like the delicious Pastel de Nata, but here are a few treats for the mind.
 
+<!--more-->
 
 ## Good Design
 Here at DAI we are real fans of good design but understand that the process is not always as simple as it may seem. A common theme throughout the various panels, whether talking about a success or a failure, were the merits of designing properly. 
 Perhaps unsurprisingly, there wasn’t too much differentiation between what people categorise as good design. Pretty much universally this meant, at least to some extent, designing with the user (or HCD). On Wednesday we heard from [MySociety](https://www.mysociety.org/) who outlined three key principles:  Know the Culture, Follow the Users, and Design for Multiple Devices. Basically, this means understanding what sort of ecosystem you are working within and what cultural sensitivities and practices there might be; go where the user is (like [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights)); and design for what devices people already have. This session was followed by a talk from John Buckley, [Frontend](http://www.frontend.com/), who spoke about the importance of building with the disenfranchised in mind to ensure success of the product but also retain credibility. On Thursday, Nonso Jideofor from [the Engine Room](https://www.theengineroom.org/) gave some interesting insights on hackathons vs design research: how Hackathons can be great for creating stakeholder buy-in, but design research brings us the ability to co-create; Hackathons can serve to stimulate the local tech ecosystem, whereas design research allows us to study the ecosystem in more detail.
+
 In the session on “Assessing Civic tech”, several examples were given of failed civic tech initiatives- and what was common among them you ask? Poor design.  In an example from Nigeria, a lack of buy-in from the communities was a key set back, as well as design being too high-tech for the communities they were targeting. 
 
 ## Frontier Technologies
