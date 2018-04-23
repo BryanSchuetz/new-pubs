@@ -9,14 +9,13 @@ social-image: "/uploads/TicTec%20Logo.png"
 thumbnail: "/uploads/TicTec%20Logo.png"
 ---
 
-
-![TicTec Logo-57b487.png](/uploads/TicTec%20Logo-57b487.png){:.float-left}Last week I was at MySociety’s annual civic technology conference, [TicTec](http://tictec.mysociety.org/), in Lisbon. For anyone who couldn’t make it I unfortunately can’t share *all* the takeaways, like the delicious [Pastel de Nata](https://en.wikipedia.org/wiki/Pastel_de_nata), but here are a few treats for the mind.
+Last week I was at MySociety’s annual civic technology conference, [TicTec](http://tictec.mysociety.org/), in Lisbon. For anyone who couldn’t make it I unfortunately can’t share *all* the takeaways, like the delicious [Pastel de Nata](https://en.wikipedia.org/wiki/Pastel_de_nata), but here are a few treats for the mind.
 
 <!--more-->
 
 ## Good Design
 
-Here at DAI we are real fans of [good design](https://www.dai.com/hcd.pdf), but we also understand that the design process is not always as straightforward as it may seem. A common theme throughout the various panels, whether talking about a success or a failure, was the merits of designing properly. There wasn’t too much differentiation between what speakers categorized as good design: pretty much universally this meant designing with the user. 
+Here at DAI we are real fans of [good design](https://www.dai.com/hcd.pdf), but we also understand that the design process is not always as straightforward as it may seem. A common theme throughout the various panels, whether talking about a success or a failure, was the merits of designing properly. There wasn’t too much differentiation between what speakers categorized as good design: pretty much universally this meant designing with the user. ![TicTec Logo-57b487.png](/uploads/TicTec%20Logo-57b487.png){:.float-left}
 
 On Wednesday we heard from [MySociety](https://www.mysociety.org/) who outlined three key principles: Know the Culture, Follow the Users, and Design for Multiple Devices. “Know the Culture” means understanding what sort of ecosystem you are working within and what cultural sensitivities and practices there might be; “Follow the Users” means go where the user is (like our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) research); and design for what devices people already have. This session was followed by a talk from John Buckley, [Frontend](http://www.frontend.com/), who spoke about the importance of building with the disenfranchised in mind to ensure success of the product but also retain credibility. 
 
