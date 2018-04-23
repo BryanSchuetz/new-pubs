@@ -1,5 +1,5 @@
 ---
-title: What was so great about TicTec 2018?
+title: 'TicTec 2018: Key Takeaways from the Impacts of Civic Technology Conference'
 date: 2018-04-23 05:21:00 -04:00
 tags:
 - Innovation
