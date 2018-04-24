@@ -9,7 +9,7 @@ Author: Chloe Messenger
 
 Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. With a team of local enumerators, I spoke to 183 people (ages 14 to 80) in selected Traditional Authorities (TAs) in Northern, Central and Southern Malawi.
 
-[photo]
+![009-MangochiTAMponda_approval.jpg](/uploads/009-MangochiTAMponda_approval.jpg)
 
 <!--more-->
 Using Digital Insights methodology, we talked to people about how they receive information and what they trust the most; and how they prefer to communicate and why. Here I outline some key findings concerning digital access and inclusion among rural communities, but first, the numbers.
