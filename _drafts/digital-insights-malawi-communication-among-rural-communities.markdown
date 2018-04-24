@@ -41,7 +41,7 @@ The least used forms of communication are internet-based apps- even in districts
 
 Of the handful that use the internet, all had WhatsApp. Most were under 30 and used the app in a social setting, sitting down with their friends after school to send messages. Many others mentioned they use WhatsApp on a friend or relatives phone when they needed to message someone abroad or find out some information.
 
-![032-MzimbaTAChindi.png](/uploads/032-MzimbaTAChindi.png) `Chindi, Mzimba, Nothern Malawi`
+![020-MangochiTANankumba_approval.png](/uploads/020-MangochiTANankumba_approval.png) `Omega conducting an interview in Nankumba, Mangochi `
 
 ### 3.  The digital gender divide is real
 
