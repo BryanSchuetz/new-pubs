@@ -9,7 +9,7 @@ Author: Chloe Messenger
 
 Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. With a team of local enumerators, I spoke to 183 people (ages 14 to 80) in selected Traditional Authorities (TAs) in Northern, Central and Southern Malawi.
 
-![009-MangochiTAMponda_approval.jpg](/uploads/009-MangochiTAMponda_approval.jpg)
+![009-MangochiTAMponda_approval.jpg](/uploads/009-MangochiTAMponda_approval.jpg) 'Alice talking tech in Mponda, Mangochi, Southern Malawi
 
 <!--more-->
 Using Digital Insights methodology, we talked to people about how they receive information and what they trust the most; and how they prefer to communicate and why. Here I outline some key findings concerning digital access and inclusion among rural communities, but first, the numbers.
@@ -39,7 +39,7 @@ The least used forms of communication are internet-based apps- even in districts
 
 Of the handful that use the internet, all had WhatsApp. Most were under 30 and used the app in a social setting, sitting down with their friends after school to send messages. Many others mentioned they use WhatsApp on a friend or relatives phone when they needed to message someone abroad or find out some information. 
 
-[photo]
+![032-MzimbaTAChindi.png](/uploads/032-MzimbaTAChindi.png) 'Chindi, Mzimba, Nothern Malawi
 
 
 ### 3.	The digital gender divide is real
