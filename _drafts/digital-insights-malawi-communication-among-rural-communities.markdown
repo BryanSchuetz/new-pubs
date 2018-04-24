@@ -27,7 +27,7 @@ A lot of country-level data takes an average of mobile phone penetration, but th
 
 Interestingly, in all districts mobile phones were widely shared among communities- between friends, family and neighbours. Whether they owned the phone and shared it with anyone that needed, shared ownership with a family member, or used their husband’s phone from time to time, 96% had some sort of regular access.
 
-![046-MzimbaTAChindi_villageheadapproval.png](/uploads/046-MzimbaTAChindi_villageheadapproval.png) `Chindi, Mzimba, Northern Malawi`
+![020-MangochiTANankumba_approval.png](/uploads/020-MangochiTANankumba_approval.png) `Omega conducting an interview in Nankumba, Mangochi `
 
 Perhaps it is there unsurprising that mobile phones are a vital tool of communication for most people: many preferring the speed and quick return of making a phone call. What is most interesting, is that a clear majority use their phone only late evening and during the night, as this is when the discount bundles are available and signal reportedly strongest.
 
@@ -41,7 +41,9 @@ The least used forms of communication are internet-based apps- even in districts
 
 Of the handful that use the internet, all had WhatsApp. Most were under 30 and used the app in a social setting, sitting down with their friends after school to send messages. Many others mentioned they use WhatsApp on a friend or relatives phone when they needed to message someone abroad or find out some information.
 
-![020-MangochiTANankumba_approval.png](/uploads/020-MangochiTANankumba_approval.png) `Omega conducting an interview in Nankumba, Mangochi `
+
+
+![046-MzimbaTAChindi_villageheadapproval.png](/uploads/046-MzimbaTAChindi_villageheadapproval.png) `Chindi, Mzimba, Northern Malawi`
 
 ### 3.  The digital gender divide is real
 
@@ -57,4 +59,4 @@ For receiving news and information, the real star of the show is Radio. When ask
 
 There is real evidence of some of the issues of digital access and inclusion that we so often talk about: social control of women and girls’ technology use; poor signal; digital illiteracy; the high cost of mobile phone data and airtime. Despite this, most people rely on their phone for communication and are just careful when and how much they use it. The WhatsApp craze among the younger generation and commitment to buying data no matter what the cost, could see this change in the coming years, so I’d be keen to come back in a few years’ time.
 
-A special thank you to Alice Kaunda and our enumerators for their help on the trip!
+*A special thank you to Alice Kaunda and our enumerators for their help on the trip!*
