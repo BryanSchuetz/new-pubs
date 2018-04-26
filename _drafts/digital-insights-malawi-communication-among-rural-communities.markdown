@@ -14,7 +14,7 @@ Last month, I spent two weeks in Malawi trying to gain a real understanding of t
 
 <!--more-->
 
-Using Digital Insights methodology, we talked to people about how they receive information and what they trust the most; how they prefer to communicate and why. Here I outline some key findings concerning digital access and inclusion among rural communities, but first, the numbers.
+Using Digital Insights methodology, we talked to people about how they receive information and what they trust the most; how they prefer to communicate and why. Here I outline some key findings concerning access and inclusion in rural communities, but first, the numbers.
 
 <script id="infogram_0_5ee7b3ea-aa02-492f-bf18-7b25c7ded435" title="Bio data Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?y68" type="text/javascript"></script>
 
@@ -40,7 +40,7 @@ For most, SMS was a last resort or a way of requesting a call-back, with many no
 
 The least used forms of communication are internet-based apps, even in districts where internet-enabled phones were owned by nearly fifty per cent of people. Among the reasons behind the low uptake are the cost of data and digital illiteracy: a few older people remarked that they did not know how to use the internet-enabled features of their phone so relied on younger relatives.
 
-Of the handful that use mobile data, all had WhatsApp. Most were under 30 and used the app in a social setting, sitting down with their friends after school to chat with other groups. Interestingly, a lot of people noted the absence of WhatApp- explaining that they could not afford the data or did not have an internet-enabled phone. They mentioned that they use WhatsApp on a friend or relatives phone when they needed to message someone abroad or find out some information. 
+Of the handful that use mobile data, all had WhatsApp. Most were under 30 and used the app in a social setting, sitting down with their friends after school to chat with other groups. Interestingly, a lot of people noted the absence of WhatApp- explaining that they could not afford the data or did not have an internet-enabled phone. They mentioned that they use WhatsApp on a friend or relatives phone when they needed to message someone abroad or find out some information.
 
 ![046-MzimbaTAChindi_villageheadapproval.png](/uploads/046-MzimbaTAChindi_villageheadapproval.png) `Chindi, Mzimba, Northern Malawi`
 
