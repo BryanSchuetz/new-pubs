@@ -64,4 +64,4 @@ For receiving news and information, the real star of the show is Radio. When ask
 
 There is real evidence of some of the issues of digital access and inclusion that we so often talk about: social control of women and girls’ technology use; poor signal; digital illiteracy; the high cost of mobile phone data and airtime. Despite this, most people rely on their phone for communication and are just careful when and how much they use it. Old school methods are still pertinent, with village messengers, letters and the Chief still being a vital source of information for most. The WhatsApp craze among the younger generation and commitment to buying data no matter what the cost could see the dynamics change in the coming years, so I’d be keen to come back in a few years’ time.
 
-*A special thank you to Alice Kaunda and our enumerators for their help on the trip!*
+*A special thank you to Alice Kaunda and all of the enumerators for their help.*
