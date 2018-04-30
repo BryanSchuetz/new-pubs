@@ -14,7 +14,7 @@ Last month, I spent two weeks in Malawi trying to gain a real understanding of t
 
 <!--more-->
 
-Using Digital Insights methodology, we talked to people about how they receive information and what they trust the most; how they prefer to communicate; and when and why these use these tools. Here I outline some key findings concerning digital access and inclusion in these rural areas, but first, the numbers.
+The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in other countries: Using DAI's Digital Insights methodology, we talked to people about how they receive information and what they trust the most; how they prefer to communicate; and when and why these use these tools. Here I outline some key findings concerning digital access and inclusion in these rural areas, but first, the numbers.
 
 <script id="infogram_0_5ee7b3ea-aa02-492f-bf18-7b25c7ded435" title="Bio data Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?y68" type="text/javascript"></script>
 
