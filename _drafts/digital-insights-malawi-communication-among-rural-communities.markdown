@@ -48,7 +48,7 @@ Of the handful who use mobile data, all have WhatsApp. Most are under 30 and use
 
 ![046-MzimbaTAChindi_villageheadapproval.png](/uploads/046-MzimbaTAChindi_villageheadapproval.png) `Chindi, Mzimba, Northern Malawi`
 
-### 3. Evidence of the digital gender divide in action
+### 3. Digital gender divide in action
 
 The disparity of phone ownership between males and females was most stark in northern and central Malawi: if we take the average of the three districts, the gender gap was at just under 40 per cent. Mobile phone sharing was where the gender digital divide came into the most light: Of the women and girls who do not own a phone, most report that they do not control when they use it; many sharing with their husband, father or mother-in-law. Men and boys, on the other hand, tend to share with other male relatives in a more equal agreement. Young women and girls are the most likely group to have no access at all.
 
