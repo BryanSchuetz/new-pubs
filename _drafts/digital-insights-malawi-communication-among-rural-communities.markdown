@@ -14,7 +14,7 @@ Last month, I spent two weeks in Malawi trying to gain a real understanding of t
 
 <!--more-->
 
-The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in other countries: using DAI's Digital Insights methodology, we talked to people about how they receive information and what they trust the most; how they prefer to communicate; and when and why these use these tools. Here I outline some key findings concerning digital access and inclusion in these rural areas, but first, the numbers.
+The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) work in other countries: using DAI’s Digital Insights methodology, we talked to people about how they receive information and what they trust the most; how they prefer to communicate; and when and why these use these tools. Here I outline some key findings concerning digital access and inclusion in these rural areas, but first, the numbers.
 
 <script id="infogram_0_5ee7b3ea-aa02-492f-bf18-7b25c7ded435" title="Bio data Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?y68" type="text/javascript"></script>
 
@@ -22,7 +22,7 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
 ### 1. Mobile phone penetration is high, but the average isn’t representative
 
-A lot of country-level data takes an average of mobile phone penetration, but this just isn’t representative or useful when designing targeted interventions. On average, just under 70% of those we interviewed have mobile phones, which may strike you as a high penetration for rural Malawi. However, once we drilled down our data by district, we found that the areas we visited in northern Malawi had a far lower penetration, at around forty per cent, compared to over eighty per cent in central and southern Malawi.  The disparity went the same way for type of phone ownership: In the northern district, less than 15% of people had a feature or smart phone, compared to nearly 50% in the other locations.
+A lot of country-level data takes an average of mobile phone penetration, but this just isn’t representative or useful when designing targeted interventions. On average, just under 70 percent of those we interviewed have mobile phones, which may strike you as a high penetration for rural Malawi. However, once we drilled down our data by district, we found that the areas we visited in northern Malawi had a far lower penetration, at around forty per cent, compared to over eighty per cent in central and southern Malawi.  The disparity went the same way for type of phone ownership: In the northern district, less than 15% of people had a feature or smart phone, compared to nearly 50% in the other locations.
 
 <script id="infogram_0_f47fe114-9d49-45f2-9347-fceebce12ff0" title="Mobile access and type Malawi Digital Insights" src="https://e.infogram.com/js/dist/embed.js?pel" type="text/javascript"></script>
 
