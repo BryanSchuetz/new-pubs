@@ -22,23 +22,23 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
 ### 1. Mobile phone penetration is high, but the average isn’t representative
 
-A lot of country-level data takes an average of mobile phone penetration, but this just isn’t representative or useful when designing targeted interventions. On average, just under 70 percent of those we interviewed have mobile phones, which may strike you as a high penetration for rural Malawi. However, once we drilled down our data by district, we found that the areas we visited in northern Malawi had a far lower penetration, at around forty per cent, compared to over eighty per cent in central and southern Malawi.  The disparity went the same way for type of phone ownership: In the northern district, less than 15% of people had a feature or smart phone, compared to nearly 50% in the other locations.
+A lot of country-level data takes an average of mobile phone penetration, but this just isn’t representative or useful when designing targeted interventions. On average, just under 70 percent of those we interviewed have mobile phones, which may strike you as a high penetration for rural Malawi. However, once we drilled down our data by district, we found that the areas we visited in northern Malawi had a far lower penetration, at around 40 percent, compared to more than 80 percent in central and southern Malawi. The disparity went the same way for type of phone ownership: In the northern district, less than 15 percent of people had a feature or smart phone, compared to nearly 50 percent in the other locations.
 
 <script id="infogram_0_f47fe114-9d49-45f2-9347-fceebce12ff0" title="Mobile access and type Malawi Digital Insights" src="https://e.infogram.com/js/dist/embed.js?pel" type="text/javascript"></script>
 
-Interestingly, in all districts mobile phones were widely shared among communities- between friends, family and neighbours. Whether they owned the phone and shared it with anyone that needed, shared ownership with a family member, or used their husband’s phone from time to time, 96 per cent had some sort of regular access.
+Interestingly, in all districts mobile phones were widely shared among communities—between friends, family, and neighbours. Whether they owned the phone and shared it with anyone who needed it, shared ownership with a family member, or used their husband’s phone from time to time, 96 percent had some sort of regular access.
 
-Those that did not have a phone or shared a friends noted expense of the airtime and data as a major barrier. Digital literacy was also a concern, particularly for the older generation.
+Those who did not have a phone or shared a friend’s cited expense of the airtime and data as a major barrier. Digital literacy was also a concern, particularly for the older generation.
 
 ![020-MangochiTANankumba_approval.png](/uploads/020-MangochiTANankumba_approval.png) `Omega conducting an interview in Nankumba, Mangochi`
 
-Perhaps it is therefore unsurprising that mobile phones are a vital tool of communication for most people: many choosing the speed and quick return of making a phone call. What is most interesting, is that a clear majority use their phone only late evening and during the night, as this is when the discount bundles are available and signal reportedly strongest.
+Perhaps it is therefore unsurprising that mobile phones are a vital tool of communication for most people: many choosing the speed and quick return of making a phone call. What is most interesting is that a clear majority use their phone only late evening and during the night, as this is when the discount bundles are available and signal reportedly strongest.
 
-For most, SMS was a last resort or a way of requesting a call-back, with many not trusting that the message will get there or concerned that the message remains on a person’s phone. Even those that do use SMS are not avid users- a vast majority send just one or two per day, mostly call-back requests.
+For most, text messaging was a last resort or a way of requesting a call-back, with many not trusting that the message will get there or concerned that the message remains on a person’s phone. Even those who do text are not avid users—a vast majority send just one or two per day, mostly call-back requests.
 
 <script id="infogram_0_793e2b8b-cdf6-443a-bdc4-2203d009119c" title="Communication Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?DZb" type="text/javascript"></script>
 
-### 2.  Very “Social” Media
+### 2. Very “Social” Media
 
 The least used forms of communication are internet-based apps, even in districts where internet-enabled phones were owned by nearly fifty per cent of people. Among the reasons behind the low uptake are the cost of data and digital illiteracy: a few older people remarked that they did not know how to use the internet-enabled features of their phone so relied on younger relatives.
 
