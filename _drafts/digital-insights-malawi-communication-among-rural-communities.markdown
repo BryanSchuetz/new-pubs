@@ -32,23 +32,23 @@ Those who did not have a phone or shared a friend’s cited expense of the airti
 
 ![020-MangochiTANankumba_approval.png](/uploads/020-MangochiTANankumba_approval.png) `Omega conducting an interview in Nankumba, Mangochi`
 
-Perhaps it is therefore unsurprising that mobile phones are a vital tool of communication for most people: many choosing the speed and quick return of making a phone call. What is most interesting is that a clear majority use their phone only late evening and during the night, as this is when the discount bundles are available and signal reportedly strongest.
+Perhaps it is therefore unsurprising that mobile phones are a vital tool of communication for most people: many choosing the speed and quick return of making a phone call. What is most interesting is that a clear majority use their phone only late evening and during the night, as this is when the discount bundles are available and service reportedly the strongest.
 
-For most, text messaging was a last resort or a way of requesting a call-back, with many not trusting that the message will get there or concerned that the message remains on a person’s phone. Even those who do text are not avid users—a vast majority send just one or two per day, mostly call-back requests.
+For most, text messaging is a last resort or a way of requesting a call-back, with many not trusting that the message will get there or concerned that the message remains on a person’s phone. Even those who do text are not avid users—a vast majority send just one or two per day, mostly call-back requests.
 
 <script id="infogram_0_793e2b8b-cdf6-443a-bdc4-2203d009119c" title="Communication Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?DZb" type="text/javascript"></script>
 
-### 2. Very “Social” Media
+### 2. Very “social” media
 
-The least used forms of communication are internet-based apps, even in districts where internet-enabled phones were owned by nearly fifty per cent of people. Among the reasons behind the low uptake are the cost of data and digital illiteracy: a few older people remarked that they did not know how to use the internet-enabled features of their phone so relied on younger relatives.
+The least used forms of communication are internet-based apps, even in districts where internet-enabled phones are owned by nearly 50 percent of people. Among the reasons behind the low uptake are the cost of data and digital illiteracy: A few older people remarked that they do not know how to use the internet-enabled features of their phones and instead rely on younger relatives.
 
-Facebook was only mentioned two people, both of whom were young men who used it as an information source but weren't prolific users. Access to the internet was purely mobile: No one that we spoke to used social media or the internet in an internet cafe, at school or at work.
+Facebook was only mentioned by two people, both of whom were young men who use it as an information source but are not prolific users. Access to the internet is purely mobile: No one we spoke with uses social media or the internet in an internet cafe, at school, or at work.
 
-Of the handful that use mobile data, all had WhatsApp. Most were under 30 and used the app in a social setting, sitting down with their friends after school to chat with other groups. Interestingly, a lot of people noted their own lack of WhatApp- explaining that they could not afford the data or did not have an internet-enabled phone. They mentioned that they use WhatsApp on a friend or relatives phone when they needed to message someone abroad or find out some information. WhatsApp is clearly a social tool; and one that younger people feel they are missing out on.
+Of the handful who use mobile data, all have WhatsApp. Most are under 30 and use the app in a social setting, sitting down with their friends after school, or to chat with other groups. Interestingly, a lot of people noted their own lack of WhatsApp, saying they could not afford the data or did not have an internet-enabled phone. They mentioned they use WhatsApp on a friend or relative’s phone when they need to message someone abroad or find some information. WhatsApp is clearly a social tool; and one that younger people feel they are missing out on.
 
 ![046-MzimbaTAChindi_villageheadapproval.png](/uploads/046-MzimbaTAChindi_villageheadapproval.png) `Chindi, Mzimba, Northern Malawi`
 
-### 3.  Evidence of the digital gender divide in action
+### 3. Evidence of the digital gender divide in action
 
 The disparity of phone ownership between males and females was most stark in northern and central Malawi: if we take the average of the three districts, the gender gap was at just under 40 per cent. Mobile phone sharing was where the gender digital divide came into the most light: Of the women and girls who do not own a phone, most report that they do not control when they use it; many sharing with their husband, father or mother-in-law. Men and boys, on the other hand, tend to share with other male relatives in a more equal agreement. Young women and girls are the most likely group to have no access at all.
 
