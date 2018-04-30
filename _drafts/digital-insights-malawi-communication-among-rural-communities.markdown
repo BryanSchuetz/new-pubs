@@ -8,9 +8,9 @@ Author: Chloe Messenger
 social-image: "/uploads/009-MangochiTAMponda_approval-f1b225.jpg"
 ---
 
-Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. Along with a team of enumerators, I spoke to a total of 183 women, men, girls and boys (ages 14 to 80) in different Traditional Authorities (TAs) in Northern, Central and Southern Malawi.
+Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. Along with a team of enumerators, I spoke to a 183 women, men, girls and boys (ages 14 to 80) in different traditional authorities (TAs) in Northern, Central and Southern Malawi.
 
-![009-MangochiTAMponda_approval.jpg](/uploads/009-MangochiTAMponda_approval.jpg) `Alice talking tech in Mponda, Mangochi, Southern Malawi`
+![009-MangochiTAMponda_approval.jpg](/uploads/009-MangochiTAMponda_approval.jpg) `Alice talking tech in Mponda, Mangochi, Southern Malawi.`
 
 <!--more-->
 
@@ -20,7 +20,7 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
 ## Key Findings
 
-### 1.  Mobile phone penetration is high, but the average isn’t representative
+### 1. Mobile phone penetration is high, but the average isn’t representative
 
 A lot of country-level data takes an average of mobile phone penetration, but this just isn’t representative or useful when designing targeted interventions. On average, just under 70% of those we interviewed have mobile phones, which may strike you as a high penetration for rural Malawi. However, once we drilled down our data by district, we found that the areas we visited in northern Malawi had a far lower penetration, at around forty per cent, compared to over eighty per cent in central and southern Malawi.  The disparity went the same way for type of phone ownership: In the northern district, less than 15% of people had a feature or smart phone, compared to nearly 50% in the other locations.
 
