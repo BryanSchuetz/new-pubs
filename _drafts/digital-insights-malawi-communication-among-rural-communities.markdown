@@ -30,7 +30,7 @@ Interestingly, in all districts mobile phones were widely shared among communiti
 
 Those who did not have a phone or shared a friend’s cited expense of the airtime and data as a major barrier. Digital literacy was also a concern, particularly for the older generation.
 
-![020-MangochiTANankumba_approval.png](/uploads/020-MangochiTANankumba_approval.png) `Omega conducting an interview in Nankumba, Mangochi`
+![020-MangochiTANankumba_approval.jpg](/uploads/020-MangochiTANankumba_approval.jpg) `Omega conducting an interview in Nankumba, Mangochi`
 
 Perhaps it is therefore unsurprising that mobile phones are a vital tool of communication for most people: many choosing the speed and quick return of making a phone call. What is most interesting is that a clear majority use their phone only late evening and during the night, as this is when the discount bundles are available and service reportedly the strongest.
 
