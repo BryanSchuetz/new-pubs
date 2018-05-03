@@ -1,6 +1,6 @@
 ---
 title: 'Digital Insights Malawi: Information and Communication in Rural Communities'
-date: 2018-05-03 06:09:00 -04:00
+date: 2018-05-02 06:09:00 -04:00
 tags:
 - Digital Insights
 - Digital Inclusion
