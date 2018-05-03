@@ -8,7 +8,7 @@ Author: Chloe Messenger
 social-image: "/uploads/009-MangochiTAMponda_approval-f1b225.jpg"
 ---
 
-Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. Along with a team of enumerators, I spoke to a 183 women, men, girls and boys (ages 14 to 80) in different traditional authorities (TAs) in Northern, Central and Southern Malawi.
+Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. Along with a team of enumerators, I spoke to 183 women, men, girls and boys (ages 14 to 80) in different traditional authorities (TAs) in Northern, Central and Southern Malawi.
 
 ![009-MangochiTAMponda_approval.jpg](/uploads/009-MangochiTAMponda_approval.jpg) `Alice talking tech in Mponda, Mangochi, Southern Malawi.`
 
