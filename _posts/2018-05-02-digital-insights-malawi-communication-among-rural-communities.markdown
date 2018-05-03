@@ -24,7 +24,7 @@ The process mirrored our [Digital Insights](https://dai-global-digital.com/tags/
 
 A lot of country-level data takes an average of mobile phone penetration, but this just isn’t representative or useful when designing targeted interventions. On average, just under 70 percent of those we interviewed have mobile phones, which may strike you as a high penetration for rural Malawi. However, once we drilled down our data by district, we found that the areas we visited in northern Malawi had a far lower penetration, at around 40 percent, compared to more than 80 percent in central and southern Malawi. The disparity went the same way for type of phone ownership: In the northern district, less than 15 percent of people had a feature or smart phone, compared to nearly 50 percent in the other locations.
 
-<script id="infogram_0_f47fe114-9d49-45f2-9347-fceebce12ff0" title="Mobile access and type Malawi Digital Insights" src="https://e.infogram.com/js/dist/embed.js?pel" type="text/javascript"></script>
+<script id="infogram_0_f47fe114-9d49-45f2-9347-fceebce12ff0" title="Mobile access and type Malawi Digital Insights" src="https://e.infogram.com/js/dist/embed.js?8rN" type="text/javascript"></script>
 
 Interestingly, in all districts mobile phones were widely shared among communities—between friends, family, and neighbours. Whether they owned the phone and shared it with anyone who needed it, shared ownership with a family member, or used their husband’s phone from time to time, 96 percent had some sort of regular access.
 
@@ -36,7 +36,7 @@ Perhaps it is therefore unsurprising that mobile phones are a vital tool of comm
 
 For most, text messaging is a last resort or a way of requesting a call-back, with many not trusting that the message will get there or concerned that the message remains on a person’s phone. Even those who do text are not avid users—a vast majority send just one or two per day, mostly call-back requests.
 
-<script id="infogram_0_793e2b8b-cdf6-443a-bdc4-2203d009119c" title="Communication Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?DZb" type="text/javascript"></script>
+<script id="infogram_0_793e2b8b-cdf6-443a-bdc4-2203d009119c" title="Communication Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?ZIH" type="text/javascript"></script>
 
 ### 2. Very “social” media
 
@@ -56,7 +56,7 @@ This social control is also reflected in the choice of radio programming. In Mch
 
 ### 4. Radio is the star of the show
 
-<script id="infogram_0_1b27ce3a-a257-41b0-9fa3-cb3dada826e1" title="Information general Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?3Yi" type="text/javascript"></script>
+<script id="infogram_0_1b27ce3a-a257-41b0-9fa3-cb3dada826e1" title="Information general Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?Cpi" type="text/javascript"></script>
 
 For receiving news and information, the real star of the show is radio. When asked how they like to receive information about both national and local goings on, and more informative topics such as their human rights, a clear majority said via radio. This is the only media source that is at all popular, with the main source of information otherwise being through people they are already in touch with by phone, in person, or through WhatsApp. In general, people trust the radio because it shares differing opinions; they feel the journalists have professional integrity; and that the information has been fact checked.
 
