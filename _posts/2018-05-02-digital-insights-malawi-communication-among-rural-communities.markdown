@@ -36,7 +36,7 @@ Perhaps it is therefore unsurprising that mobile phones are a vital tool of comm
 
 For most, text messaging is a last resort or a way of requesting a call-back, with many not trusting that the message will get there or concerned that the message remains on a person’s phone. Even those who do text are not avid users—a vast majority send just one or two per day, mostly call-back requests.
 
-<script id="infogram_0_793e2b8b-cdf6-443a-bdc4-2203d009119c" title="Communication Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?ZIH" type="text/javascript"></script>
+<script id="infogram_0_793e2b8b-cdf6-443a-bdc4-2203d009119c" title="Communication Malawi Insights" src="https://e.infogram.com/js/dist/embed.js?e97" type="text/javascript"></script>
 
 ### 2. Very “social” media
 
