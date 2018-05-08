@@ -1,5 +1,5 @@
 ---
-title: 'A Do No Harm Framework for ICT4D: Inspiration from Switchpoint 2018'
+title: 'A Do No Harm Framework for ICT4D: Inspiration from SwitchPoint 2018'
 date: 2018-05-08 11:04:00 -04:00
 tags:
 - Data
@@ -8,7 +8,7 @@ Author: Kristen Roggemann
 social-image: "/uploads/swplogo.png"
 ---
 
-[Switchpoint 2018](https://www.switchpointideas.com/2018) was an inspiring, passionate and delightful indulgence: spending two days in lush Saxapahaw, North Carolina thinking about big ideas and learning from leading experts in in-depth small group sessions in between performance art and live music shows felt like such a departure from Conference As Usual. I felt space opening up in my brain to start really processing what the speakers were saying – the real act and action of listening versus the usual ruse of secretly responding to emails on my phone while half paying attention and nodding at key pauses.
+[SwitchPoint 2018](https://www.switchpointideas.com/2018) was an inspiring, passionate, and delightful indulgence: Spending two days in lush Saxapahaw, North Carolina, thinking about big ideas and learning from leading experts in small group sessions in between performance art and live music shows felt like such a departure from Conference As Usual. I felt space opening up in my brain to start really processing what the speakers were saying—the real act and action of listening versus the usual ruse of secretly responding to emails on my phone while half paying attention and nodding at key pauses.
 
 ![swplogo.png](/uploads/swplogo.png)
 
