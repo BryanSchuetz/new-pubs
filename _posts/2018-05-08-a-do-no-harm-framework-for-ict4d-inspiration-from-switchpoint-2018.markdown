@@ -9,7 +9,7 @@ social-image: "/uploads/swplogo.png"
 thumbnail: "/uploads/swplogo.png"
 ---
 
-[SwitchPoint 2018](https://www.switchpointideas.com/2018) was an inspiring, passionate, and delightful indulgence: Spending two days in lush Saxapahaw, North Carolina, thinking about big ideas and learning from leading experts in small group sessions in between performance art and live music shows felt like such a departure from Conference As Usual. I felt space opening up in my brain to start really processing what the speakers were saying—the real act and action of listening versus the usual ruse of secretly responding to emails on my phone while half paying attention and nodding at key pauses.
+[SwitchPoint 2018](https://www.switchpointideas.com/2018) was an inspiring, passionate, and delightful indulgence: Spending two days in lush Saxapahaw, North Carolina, [thinking about big ideas](http://dai-global-developments.com/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/) and learning from leading experts in small group sessions in between performance art and live music shows felt like such a departure from Conference As Usual. I felt space opening up in my brain to start really processing what the speakers were saying—the real act and action of listening versus the usual ruse of secretly responding to emails on my phone while half paying attention and nodding at key pauses.
 
 <!--more-->
 
