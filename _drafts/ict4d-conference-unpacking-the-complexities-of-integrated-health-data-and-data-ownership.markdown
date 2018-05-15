@@ -13,26 +13,20 @@ Field name:
 
 <!--more-->
 
-At first, I was completely enthralled by the *kumbaya* nature of the conference. The conference brought together startups, tech companies, mobile network operators, governments, implementing organizations, faith-based groups, nongovernmental organizations, social enterprises, and students from around the world to discuss what we have achieved through ICT4D, what we can learn from others, and how we can look toward the future. But, the more time I spent, the more I wanted to get past the niceties. I’m less than a year into my job as an ICT Specialist at DAI’s newly launched [Center for Digital Acceleration ](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration)and I am already fully aware that ICT4D is not simple. While most actors share a common goal, the means of getting there has and will continue to create healthy disagreements, ones that should be unpacked in this kind of setting.
+At first, I was completely enthralled by the *kumbaya* nature of the conference. The conference brought together startups, tech companies, mobile network operators, governments, implementing organizations, faith-based groups, nongovernmental organizations, social enterprises, and students from around the world to discuss what we have achieved through ICT4D, what we can learn from others, and how we can look toward the future. But, the more time I spent, the more I wanted to get past the niceties. I’m less than a year into my job as an ICT Specialist at DAI’s newly launched [Center for Digital Acceleration ](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration)and I am already fully aware that ICT4D is not simple. While most actors share a common goal, the means of getting there has, and will continue to, create healthy disagreements, ones that should be unpacked in this kind of setting.
 
 ![ICT4D pic.jpg](/uploads/ICT4D%20pic.jpg)
 
 `Panelists from left to right: Virginia Simushi, Amy Paul, Rosemary Muliokela, and Derek Treatman.`
 
-The second day more than met my expectations, especially at the session on\* Integrated Health Data and the Challenges of Data Ownership. \* I am not just pointing out this session because it was moderated by DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints related to this topic. To provide a bit of context, the concept of health data ownership asks questions such as:
+The second day more than met my expectations, especially at the session on\* Integrated Health Data and the Challenges of Data Ownership. \* I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints related to this topic. To provide a bit of context, the concept of health data ownership asks questions such as:
 
 * If data is collecting by a variety of actors, who legally owns the data?
-
 * Who can access the data?
-
 * Where is the data stored?
-
 * Who is responsible for managing and securing the data?
-
 * Who can interpret the data and whose interpretation of the data is correct?
-
 * Who can use the data for decision-making?
-
 * And, how do we build systems that can communicate and share data with one another?
 
 These are not questions with easy answers, but they are questions that need to be answered if we want to we want to successfully use data to inform health programming and subsequently health outcomes. I have included a few of the points of contention that were brought up during this session below:
