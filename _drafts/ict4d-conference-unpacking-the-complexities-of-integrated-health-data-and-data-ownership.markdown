@@ -1,6 +1,6 @@
 ---
-title: 'ICT4D Conference: Unpacking the complexities of integrated health data and
-  data ownership'
+title: 'ICT4D Conference: Unpacking the Complexities of Integrated Health Data and
+  Data Ownership'
 date: 2018-05-15 12:17:00 -04:00
 Author: Talia Dweck
 ---
