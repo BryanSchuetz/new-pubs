@@ -2,6 +2,7 @@
 title: 'ICT4D Conference: Unpacking the complexities of integrated health data and
   data ownership'
 date: 2018-05-15 12:17:00 -04:00
+Author: Talia Dweck
 ---
 
 “We are at an inflection point in digital development” Lauren Woodman, CEO of NetHope boomed over the crowd of 750 plus participants the first day of the ICT4D Conference in Lusaka Zambia. She went on to say that we have become good at getting to average, but we need to figure out where we go from here. Chris Burns, Acting Deputy Executive Director, U.S. Global Development Lab and Director, Center for Digital Development, USAID, similarly questioned the audience. “How do we make the full range of digital tools available to all?” He went on to ask how we build self-reliance through digital and work ourselves out of a job? Throughout the week, the conference rightfully stressed the importance of collaboration, big and responsible data use, emerging technologies, an inclusive digital economy and much more.
