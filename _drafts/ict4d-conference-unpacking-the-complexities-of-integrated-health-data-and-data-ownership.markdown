@@ -25,7 +25,7 @@ The second day more than met my expectations, especially at the session called "
 * Who can use the data for decision-making?
 * And, how do we build systems that can communicate and share data with one another?
 
-These are not questions with easy answers., However, they are questions that need to be answered if we want to we want to successfully use data to inform health programming and subsequently health outcomes. A few points of contention that were brought up during this session were:
+These are not questions with easy answers. However, they are questions that need to be answered if we want to we want to successfully use data to inform health programming and subsequently health outcomes. A few points of contention that were brought up during this session were:
 
 **Data Storage**
 
