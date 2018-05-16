@@ -9,13 +9,13 @@ social-image: "/uploads/ict4d%20logo.png"
 Field name: 
 ---
 
-“We are at an inflection point in digital development!” [Lauren Woodman](https://nethope.org/staff/lauren-woodman/), CEO of NetHope, boomed over the crowd of 750-plus participants the first day of the recent [ICT4D Conference](https://www.ict4dconference.org/) in Lusaka, Zambia. Throughout the week, the conference stressed the importance of collaboration, responsible big data use, emerging technologies, and an inclusive digital economy. At first, I was completely enthralled by the *kumbaya* atmosphere, but the more time I spent there, the more I wanted to get past the niceties. I’m less than a year into my job as an ICT Specialist at DAI’s newly launched [Center for Digital Acceleration ](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration)and I am already fully aware that ICT4D is not simple. While most actors share a common goal, the means of getting there has, and will continue to, create healthy disagreements, ones that should be unpacked in this kind of setting.
+“We are at an inflection point in digital development!” [Lauren Woodman](https://nethope.org/staff/lauren-woodman/), CEO of NetHope, boomed over the crowd of 750-plus participants the first day of the recent [ICT4D Conference](https://www.ict4dconference.org/) in Lusaka, Zambia. We are all fully aware that ICT4D is not simple. While most actors share a common goal, the means of getting there has, and will continue to, create healthy disagreements, ones that should be unpacked in exactly the kind of setting the ICT4D Conference creates.
 
 <!--more-->
 
-`Panelists from left to right: Virginia Simushi, Amy Paul, Rosemary Muliokela, and Derek Treatman.`
+`Panelists, left, Virginia Simushi, Amy Paul, Rosemary Muliokela, and Derek Treatman.`
 
-The second day more than met my expectations, especially at the session called "Integrated Health Data and the Challenges of Data Ownership." I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints related to this topic. The concept of health data ownership asks questions such as:
+The second day of the conference was my favorite, especially the session called "Integrated Health Data and the Challenges of Data Ownership." I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints we should be hashing out. The concept of health data ownership raises questions such as:
 
 * If data is collecting by a variety of actors, who legally owns the data?
 * Who can access the data?
