@@ -19,17 +19,11 @@ Field name:
 A session called "Integrated Health Data and the Challenges of Data Ownership" during the second day of the conference offered up the perfect opportunity to debate those means of reaching success. I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints we should be hashing out. The concept of health data ownership raises questions such as:
 
 * If data is collecting by a variety of actors, who legally owns the data?
-
 * Who can access the data?
-
 * Where is the data stored?
-
 * Who is responsible for managing and securing the data?
-
 * Who can interpret the data and whose interpretation of the data is correct?
-
 * Who can use the data for decision-making?
-
 * And, how do we build systems that can communicate and share data with one another?
 
 These are not questions with easy answers. However, they are questions that need to be answered if we want to we want to successfully use data to inform health programming and subsequently health outcomes. A few points of contention that were brought up during this session were:
