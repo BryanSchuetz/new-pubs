@@ -20,18 +20,24 @@ Field name:
 A session called "Integrated Health Data and the Challenges of Data Ownership" during the second day of the conference offered up the perfect opportunity to debate those means of reaching success. I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints we should be hashing out. The concept of health data ownership raises questions such as:
 
 * If data is collecting by a variety of actors, who legally owns the data?
+
 * Who can access the data?
+
 * Where is the data stored?
+
 * Who is responsible for managing and securing the data?
+
 * Who can interpret the data and whose interpretation of the data is correct?
+
 * Who can use the data for decision-making?
+
 * And, how do we build systems that can communicate and share data with one another?
 
 These are not questions with easy answers. However, they are questions that need to be answered if we want to we want to successfully use data to inform health programming and subsequently health outcomes. A few points of contention that were brought up during this session were:
 
 **Data Storage**
 
-Many governments are now enacting laws that prohibit the storage of government health data in servers outside the country. Panelist Virginia Simushi, Principal ICT Officer at the [Zambia Ministry of Health](http://www.moh.gov.zm/), argued that although data is being collected by a variety of companies and individuals it should be stored in one central place: the Ministry of Health. As the Ministry owns the data and is responsible for its security, this makes sense, but [Derek Treatment](http://vitalwave.com/team/derek-treatman/), Director of Technology Solutions at [Vital Wave](http://vitalwave.com/) made the point that often times servers in-country are actually less secure, less reliable, and less affordable as cloud servers. Based on his experience working with the Ethiopia Ministry of Health, he suggests storing data in the cloud in the near term and transferring it to the national data system once effectively up and running. There is no blanket solution. In theory, as the government owns data, it makes sense to store it in-country, but whether this is the right approach is completely context-specific. The No. 1 priority should be data security. If cloud servers can provide this security while in-country servers are improved, we can avoid a gap in data collection and use.
+Many governments are now enacting laws that prohibit the storage of government health data in servers outside the country. Panelist Virginia Simushi, Principal ICT Officer at the [Zambia Ministry of Health](http://www.moh.gov.zm/), argued that although data is being collected by a variety of companies and individuals it should be stored in one central place: the Ministry of Health. As the Ministry owns the data and is responsible for its security, this makes sense, but [Derek Treatment](http://vitalwave.com/team/derek-treatman/), Director of Technology Solutions at [Vital Wave](http://vitalwave.com/) made the point that often times servers in-country are actually less secure, reliable, and affordable as cloud servers. Based on his experience working with the Ethiopia Ministry of Health, he suggests storing data in the cloud in the near term and transferring it to the national data system once effectively up and running. There is no blanket solution. In theory, as the government owns data, it makes sense to store it in-country, but whether this is the right approach is completely context-specific. Data security is a huge consideration in this decision. If cloud servers can provide this security while in-country servers are improved, we can avoid a gap in data collection and use.
 
 **Data Permission**
 
