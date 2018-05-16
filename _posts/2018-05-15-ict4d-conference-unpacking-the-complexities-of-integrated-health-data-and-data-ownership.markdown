@@ -16,7 +16,7 @@ Field name:
 
 ![ICT4D pic2.jpg](/uploads/ICT4D%20pic2.jpg)`Panelists, left, Virginia Simushi, Amy Paul, Rosemary Muliokela, and Derek Treatman.`
 
-The second day of the conference was my favorite, especially the session called "Integrated Health Data and the Challenges of Data Ownership." I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints we should be hashing out. The concept of health data ownership raises questions such as:
+A session during the second day of the conference—"Integrated Health Data and the Challenges of Data Ownership"—offered up the perfect opportunity to debate those means of reaching success. I am not just pointing out this session because it was moderated by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ Project Director Katie Shipley, but rather because it unearthed some of the conflicting viewpoints we should be hashing out. The concept of health data ownership raises questions such as:
 
 * If data is collecting by a variety of actors, who legally owns the data?
 * Who can access the data?
