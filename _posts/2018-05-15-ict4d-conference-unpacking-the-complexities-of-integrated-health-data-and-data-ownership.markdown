@@ -10,7 +10,7 @@ social-image: "/uploads/ict4d%20logo.png"
 Field name: 
 ---
 
-“We are at an inflection point in digital development!” [Lauren Woodman](https://nethope.org/staff/lauren-woodman/), CEO of NetHope, boomed over the crowd of 750-plus participants the first day of the recent [ICT4D Conference](https://www.ict4dconference.org/) in Lusaka, Zambia. We are all fully aware that ICT4D is not simple. While most actors share a common goal, the means of getting there has, and will continue to, create healthy disagreements, ones that should be unpacked in exactly the kind of setting the ICT4D Conference creates.
+“We are at an inflection point in digital development!” [Lauren Woodman](https://nethope.org/staff/lauren-woodman/), CEO of NetHope, boomed over the crowd of 750-plus participants the first day of the recent [ICT4D Conference](https://www.ict4dconference.org/) in Lusaka, Zambia. It may indeed be a critical time for technology, but the means of reaching our collective goals can create healthy disagreements, ones that should be unpacked in exactly the kind of setting the ICT4D Conference creates.
 
 <!--more-->
 
