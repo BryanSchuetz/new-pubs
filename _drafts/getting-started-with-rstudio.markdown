@@ -29,14 +29,17 @@ For this exercise, we’re going to be using the Googlesheets package for data a
 > install.packages("dplyr")
 > library(googlesheets)
 > library(dplyr)
+
+## Step 3: Access googlesheets
+
+The next thing we’re going to do is create a variable of the googlesheets URL we’re going to access, and then inspect that variable.
+
+> #Create Variable of dataset URL
+> WeatherDataURL <- gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
+> \#Inspect googlesheets tabs
+> gs_ws_ls(WeatherDataURL)
 > 
 
-Step 3: Access googlesheets
-The next thing we’re going to do is create a variable of the googlesheets URL we’re going to access, and then inspect that variable.
-\#Create Variable of dataset URL
-WeatherDataURL <- gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
-\#Inspect googlesheets tabs
-gs_ws_ls(WeatherDataURL)
 Step 4: Bring in and inspect data
 In the last step, your should have seen on the console the list of tabs in your google sheet. In our case, one tab titled “MayWeather.” So now let’s read that table into R as a dataframe, and inspect the structure of the data using the handy str() function.
 \#Create Dataframe from Sheet1
