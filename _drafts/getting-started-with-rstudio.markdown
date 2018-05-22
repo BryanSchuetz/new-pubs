@@ -51,7 +51,7 @@ In the last step, your should have seen on the console the list of tabs in your 
 
 > #Create Dataframe from Sheet1
 > AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
-> \#Inspect Dataframe Structure
+> #Inspect Dataframe Structure
 > str(AllWeatherData)
 
 **Step 5: Data transformations**
