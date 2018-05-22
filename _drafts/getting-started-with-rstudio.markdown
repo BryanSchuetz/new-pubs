@@ -38,17 +38,22 @@ The next thing we’re going to do is create a variable of the googlesheets URL 
 > WeatherDataURL <- gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
 > \#Inspect googlesheets tabs
 > gs_ws_ls(WeatherDataURL)
-> 
 
-Step 4: Bring in and inspect data
+**Step 4: Bring in and inspect data**
+
 In the last step, your should have seen on the console the list of tabs in your google sheet. In our case, one tab titled “MayWeather.” So now let’s read that table into R as a dataframe, and inspect the structure of the data using the handy str() function.
-\#Create Dataframe from Sheet1
-AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
-\#Inspect Dataframe Structure
-str(AllWeatherData)
-Step 5: Data transformations
+
+> #Create Dataframe from Sheet1
+> AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
+> \#Inspect Dataframe Structure
+> str(AllWeatherData)
+
+**Step 5: Data transformations**
 Looking at the data structure, you’ll likely notice that the Date column is bring read as characters, as opposed to into a useful data format. Let’s fix that using the as.Date() function, and then check to make sure that our conversions worked.
+
 AllWeatherData$Date <- as.Date(AllWeatherData$Date, "%m/%d/%Y")
 str(AllWeatherData)
-Step 6: Create line graph
-lines(AllWeatherData$`Precip. (in)`)
+
+## Step 6: Create line graph
+
+> lines(AllWeatherData$`Precip. (in)`)
