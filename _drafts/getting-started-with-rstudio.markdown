@@ -30,11 +30,11 @@ Before we get started, you’ll need to have R and RStudio installed on your com
 
 **Step 1: Create Dataset in GoogleSheets**
 
-For the sake of this exercise, I’ve created a dataset in googlesheets for us to work with. Looking back on the month of May in Washington, DC, one of the themes of the month was RAIN. Washington, DC experienced a record-breaking month of rain. So, I went ahead and pulled in some rainfall data from NOAA. You can see the dataset here.
+For the sake of this exercise, I’ve created a dataset in googlesheets for us to work with. Looking back on the month of May in Washington, DC, one of the themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). Washington, DC experienced a record-breaking month of rain. So, I went ahead and pulled in some rainfall data from NOAA. You can see the dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
 
 **Step 2: Install packages**
 
-For this exercise, we’re going to be using the Googlesheets package for data access, and plotly to create our graphs. And while we’re at it, let’s pull in dplyr. We won’t dive into the amazing power of dplyr here, but trust me…
+For this exercise, we’re going to be using the [Googlesheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs. 
 
 > install.packages("googlesheets")
 > install.packages("dplyr")
@@ -67,4 +67,4 @@ Looking at the data structure, you’ll likely notice that the Date column is br
 
 ## Step 6: Create line graph
 
-> lines(AllWeatherData$Precip.(in))
+> plot(AllWeatherData$Precip, type = "line")
