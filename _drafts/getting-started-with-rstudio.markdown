@@ -67,4 +67,4 @@ Looking at the data structure, you’ll likely notice that the Date column is br
 
 ## Step 6: Create line graph
 
-> lines(AllWeatherData$`Precip. (in)`)
+> lines(AllWeatherData$Precip.(in))
