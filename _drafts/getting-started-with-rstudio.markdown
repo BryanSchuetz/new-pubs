@@ -1,6 +1,11 @@
 ---
 title: Getting Started With RStudio
 date: 2018-05-22 10:50:00 -04:00
+categories:
+- Data
+tags:
+- Data
+- Coding
 ---
 
 This article is part one of two, as we explore the basics of building a web dashboard in R using R Shiny.
