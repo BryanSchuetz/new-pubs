@@ -74,7 +74,7 @@ Looking at the data structure, you’ll likely notice that the Date column is be
 
 ## Step 6: Create line graph
 
-Finally, we're to create a line graph using R's core library graphics engine. R has many additional libraries for graphing, including the famous ggplot2, but for the sake of this exercise we'll use the simplest option.
+Finally, we'll create a line graph using R's core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we'll use the simplest option: the plot() function.
 
 > plot(AllWeatherData$Precip, type = "line")
 
