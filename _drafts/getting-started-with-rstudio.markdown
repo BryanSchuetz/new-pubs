@@ -61,7 +61,7 @@ In the last step, your should have seen on the console the list of tabs in your 
 
 ## **Step 5: Data transformations**
 
-Looking at the data structure, you’ll likely notice that the Date column is bring read as characters, as opposed to into a useful data format. Let’s fix that using the as.Date() function, and then check to make sure that our conversions worked.
+Looking at the data structure, you’ll likely notice that the Date column is being read as characters, as opposed to into Date format. Let’s fix that using the as.Date() function, and then check to make sure that our conversion worked.
 
 > AllWeatherData$Date <- as.Date(AllWeatherData$Date, "%m/%d/%Y")
 > str(AllWeatherData)
