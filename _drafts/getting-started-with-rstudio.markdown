@@ -18,7 +18,7 @@ As a data scientist, I spend a lot of my time working in a programming language 
 
 <!--more-->
 
-In short, we're going to run a few lines of code that bring data into the programming environment from data in GoogleSheets, inspect that data to make sure it's of the appropriate data type/format, and then draws a line graph. You could of course accomplish this directly in GoogleSheets, but bringing the data into RStudio opens up a new world of analytical possibilities. So let’s get started.
+To get us started, we're going to run a few lines of code that bring data into the programming environment from data in GoogleSheets, then inspect that data to make sure it's of the appropriate data type/format, and then draw a line graph. You could of course accomplish this directly in GoogleSheets, but bringing the data into RStudio opens up a new world of analytical possibilities. So let’s get started.
 
 ## Step 0: Install R and RStudio
 
@@ -34,7 +34,7 @@ For the sake of this exercise, I’ve created a dataset in googlesheets for us t
 
 ## **Step 2: Install packages**
 
-For this exercise, we’re going to be using the [Googlesheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs. 
+For this exercise, we’re going to be using the [Googlesheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs.
 
 > install.packages("googlesheets")
 > install.packages("dplyr")
