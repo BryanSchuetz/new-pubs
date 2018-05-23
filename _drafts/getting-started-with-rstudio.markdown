@@ -70,4 +70,4 @@ Looking at the data structure, you’ll likely notice that the Date column is be
 
 > plot(AllWeatherData$Precip, type = "line")
 
-And there you have it! You've created your first graph in R using data from Googlesheets. In my next post, we'll integrate this code into an application that we deploy on the web. Stay tuned!
+And there you have it! You've created your first graph in R using data from Googlesheets, and seen just how much rain the Washington, DC area experienced over the past few weeks. In my next post, we'll integrate this code into an application that we deploy on the web. Stay tuned!
