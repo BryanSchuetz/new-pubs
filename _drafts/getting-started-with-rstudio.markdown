@@ -73,6 +73,8 @@ Looking at the data structure, you’ll likely notice that the Date column is be
 
 ## Step 6: Create line graph
 
+Finally, we're to create a line graph using R's core library graphics engine. R has many additional libraries for graphing, including the famous ggplot2, but for the sake of this exercise we'll use the simplest options.
+
 > plot(AllWeatherData$Precip, type = "line")
 
 And there you have it! You've created your first graph in R using data from Googlesheets, and seen just how much rain the Washington, DC area experienced over the past few weeks. In my next post, we'll integrate this code into an application that we deploy on the web. Stay tuned!
