@@ -47,6 +47,8 @@ The next thing we’re going to do is create a variable of the googlesheets URL 
 
 > #Create Variable of dataset URL
 > WeatherDataURL <- gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
+>
+> 
 > \#Inspect googlesheets tabs
 > gs_ws_ls(WeatherDataURL)
 
@@ -56,6 +58,7 @@ In the last step, your should have seen on the console the list of tabs in your 
 
 > #Create Dataframe from Sheet1
 > AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
+>
 > \#Inspect Dataframe Structure
 > str(AllWeatherData)
 
@@ -64,6 +67,8 @@ In the last step, your should have seen on the console the list of tabs in your 
 Looking at the data structure, you’ll likely notice that the Date column is being read as characters, as opposed to into Date format. Let’s fix that using the as.Date() function, and then check to make sure that our conversion worked.
 
 > AllWeatherData$Date <- as.Date(AllWeatherData$Date, "%m/%d/%Y")
+>
+> 
 > str(AllWeatherData)
 
 ## Step 6: Create line graph
