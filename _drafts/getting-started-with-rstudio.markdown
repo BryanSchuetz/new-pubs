@@ -33,27 +33,27 @@ For the sake of this exercise, I’ve created a dataset in Google Sheets to work
 
 ## Step 2: Install Packages
 
-For this exercise, we’re going to be using the [Googlesheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs.
+For this exercise, I’m going to use the [Google Sheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs.
 
 > install.packages("googlesheets")
 > install.packages("dplyr")
 > library(googlesheets)
 > library(dplyr)
 
-## Step 3: Access googlesheets
+## Step 3: Access Google Sheets
 
-The next thing we’re going to do is create a variable of the googlesheets URL we’re going to access, and then inspect that variable.
+The next thing I’m going to do is create a variable of the Google Sheets URL we’re going to access, and then inspect that variable.
 
 > #Create Variable of dataset URL
 > WeatherDataURL <- gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
 >
-> \#Inspect googlesheets tabs
+> \#Inspect Google Sheets tabs
 >
 > gs_ws_ls(WeatherDataURL)
 
-## **Step 4: Bring in and inspect data**
+## Step 4: Bring In and Inspect Data
 
-In the last step, your should have seen on the console the list of tabs in your google sheet. In our case, one tab titled “MayWeather.” So now let’s read that table into R as a dataframe, and inspect the structure of the data using the handy str() function.
+In the last step, you should have seen on the console the list of tabs in your Google Sheet. In our case, it’s just the one tab titled “MayWeather.” So now let’s read that table into R as a dataframe, and inspect the structure of the data using the handy str() function.
 
 > #Create Dataframe from Sheet1
 > AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
@@ -62,18 +62,18 @@ In the last step, your should have seen on the console the list of tabs in your 
 >
 > str(AllWeatherData)
 
-## **Step 5: Data transformations**
+## Step 5: Data Transformations
 
-Looking at the data structure, you’ll likely notice that the Date column is being read as characters, as opposed to into Date format. Let’s fix that using the as.Date() function, and then check to make sure that our conversion worked.
+Looking at the data structure, you’ll likely notice that the date column is being read as characters, as opposed to a date format. Let’s fix that using the as.Date() function, and then check to make sure that our conversion worked.
 
 > AllWeatherData$Date <- as.Date(AllWeatherData$Date, "%m/%d/%Y")
 >
 > str(AllWeatherData)
 
-## Step 6: Create line graph
+## Step 6: Create Line Graph
 
-Finally, we'll create a line graph using R's core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we'll use the simplest option: the plot() function.
+Finally, we’ll create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we’ll use the simplest option: the plot() function.
 
 > plot(AllWeatherData$Precip, type = "line")
 
-And there you have it! You've created your first graph in R using data from Googlesheets, and seen just how much rain the Washington, DC area experienced over the past few weeks. In my next post, we'll integrate this code into an application that we deploy on the web. Stay tuned!
+And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. In my next post, we’ll integrate this code into an application that we deploy on the web. Stay tuned!
