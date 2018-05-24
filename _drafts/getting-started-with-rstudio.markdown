@@ -25,14 +25,13 @@ To get started, let’s run a few lines of code that bring data into the program
 First, you’ll need to install R and RStudio on your computer. I’ve included some links below:
 
 * https://www.r-project.org/
-
 * https://www.rstudio.com/products/rstudio/
 
 ## Step 1: Create Dataset in Google Sheets
 
-For the sake of this exercise, I’ve created a dataset in Google Sheets for us to work with. Looking back on the month of May in Washington, DC, one of the themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). Washington, DC experienced a record-breaking month of rain. So, I went ahead and pulled in some rainfall data from NOAA. You can see the dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
+For the sake of this exercise, I’ve created a dataset in Google Sheets to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
 
-## **Step 2: Install packages**
+## Step 2: Install Packages
 
 For this exercise, we’re going to be using the [Googlesheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs.
 
