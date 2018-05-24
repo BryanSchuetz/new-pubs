@@ -100,7 +100,7 @@ We’re finally at the moment we’ve been waiting for. Let’s create a line gr
 
 > plot(x=AllWeatherData$Date, y=AllWeatherData$Precip, type="line")
 
-In this function we told the computer to do three things: 1) plot Date on the X Axis, 2) plot the rainfall precipitation amount on the Y Axis, and 3) draw the plot as a "line."
+In this function we told the computer to do three things: 1) plot date on the X axis, 2) plot the rainfall precipitation amount on the Y axis, and 3) draw the plot as a "line."
 
 ![GettingStarted_Step6.PNG](/uploads/GettingStarted_Step6.PNG)
 
