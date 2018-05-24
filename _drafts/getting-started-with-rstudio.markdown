@@ -26,7 +26,6 @@ In this exercise, we're going to execute the following commands: 1) install and 
 First, you’ll need to install R and RStudio on your computer. I’ve included some links below:
 
 * [https://www.r-project.org/](https://www.r-project.org/)
-
 * [https://www.rstudio.com/products/rstudio/](https://www.rstudio.com/products/rstudio/)
 
 Once you get your software installed and booted up, you should see something that looks approximately like the image below.
@@ -35,13 +34,13 @@ Once you get your software installed and booted up, you should see something tha
 
 ## Step 1: Identify a Data Set
 
-The next thing to do when getting started in R, is to identify a dataset you'd like to work with. You can of course build up a dataset directly in RStudio, but it's nice to have something to work with when first exploring the programming language. 
+The next thing to do when getting started in R, is to identify a dataset you’d like to work with. You can, of course, build up a dataset directly in RStudio, but it’s nice to have something to work with when first exploring the programming language. 
 
 For the sake of this exercise, I’ve created a dataset in Google Sheets for you to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
 
 Before we go on, I should note that you can import data into RStudio in many different ways. 
 
-## Step 2: Install GoogleSheets Package
+## Step 2: Install Google Sheets Package
 
 To get the googlesheets data into R, you need to import it. Fortunately, there is a handy [package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for googlesheets data access. Going through this step is also a useful introduction to the concept of packages, which are functions created by other members of the R programming community. To install this particular package, you execute the following lines of code:
 
