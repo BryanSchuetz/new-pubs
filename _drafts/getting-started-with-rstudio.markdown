@@ -78,7 +78,7 @@ In our last step, we prepared our connection with Google Sheets, and in this ste
 
 ![GettingStarted_Step4.PNG](/uploads/GettingStarted_Step4.PNG)
 
-You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the googlesheets file, and the other is the dataset itself. If you'd like, you can click on the AllWeatherData variable to see it as rows and columns. 
+You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the Google Sheets file, and the other is the dataset itself. If you’d like, you can click on the AllWeatherData variable to see it as rows and columns. 
 
 ## Step 5: Data Transformations
 
