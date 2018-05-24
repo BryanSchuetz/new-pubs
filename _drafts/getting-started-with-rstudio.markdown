@@ -66,7 +66,7 @@ Before we move on to the next step, let’s execute one more line of code, which
 
 > gs_ws_ls(WeatherDataURL)
 
-When you execute this command, you should see the word "MayWeather" printed out on the console, which is the box in the bottom left. This is the one tab in the googlesheet that contains the weather data for the month of May
+When you execute this command, you should see the word "MayWeather" printed out on the console, which is the box in the bottom left. This is the one tab in the Google Sheet that contains the weather data for the month of May.
 
 ## Step 4: Import Data Part 2
 
