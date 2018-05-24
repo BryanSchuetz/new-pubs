@@ -58,7 +58,7 @@ Now that you’ve installed the package, you can import the data. Enter the foll
 >
 > gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
 
-At this point you should see a new variable titled "WeatherDataURL" in the upper right hand box as can be see in the image below.
+At this point you should see a new variable titled "WeatherDataURL" in the upper righthand box, as can be seen in the image below.
 
 ![GettingStarted_Step3-ed0737.PNG](/uploads/GettingStarted_Step3-ed0737.PNG)
 
