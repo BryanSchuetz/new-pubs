@@ -13,20 +13,21 @@ thumbnail: "/uploads/RStudio.png"
 
 *This article is part 1 of 2, as we explore the basics of building a web dashboard in R using R Shiny.*
 
-As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce just a few lines of code to get you started on your journey into R.
+As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R. 
 
 <!--more-->
 
 ![RStudio-59a8d9.png](/uploads/RStudio-59a8d9.png)
 
-To get started, let’s run a few lines of code that bring data into the programming environment from Google Sheets, then inspect that data to make sure it’s of the appropriate data format, and then draw a line graph. You could, of course, accomplish this directly in Google Sheets, but bringing the data into RStudio opens up a new world of analytical possibilities. Let’s get started.
+In this exercise, we're going to execute the following commands: 1) install and start necessary packages, 2) bring a dataset into your work environment, 3) inspect your data to help you think about how it is structured, 4) convert your datatypes into useful data formats, 5) plot the data on a line graph. You could, of course, accomplish each of these tasks directly in Google Sheets, but bringing the data into RStudio opens up a new world of analytical possibilities. Let’s get started.
 
 ## Step 0: Install R and RStudio
 
 First, you’ll need to install R and RStudio on your computer. I’ve included some links below:
 
-* https://www.r-project.org/
-* https://www.rstudio.com/products/rstudio/
+* [https://www.r-project.org/](https://www.r-project.org/)
+
+* [https://www.rstudio.com/products/rstudio/](https://www.rstudio.com/products/rstudio/)
 
 ## Step 1: Create Dataset in Google Sheets
 
