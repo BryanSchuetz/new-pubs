@@ -13,7 +13,7 @@ thumbnail: "/uploads/RStudio.png"
 
 *This article is part 1 of 2, as we explore the basics of building a web dashboard in R using R Shiny.*
 
-As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R. 
+As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R.
 
 <!--more-->
 
@@ -26,6 +26,7 @@ In this exercise, we're going to execute the following commands: 1) install and 
 First, you’ll need to install R and RStudio on your computer. I’ve included some links below:
 
 * [https://www.r-project.org/](https://www.r-project.org/)
+
 * [https://www.rstudio.com/products/rstudio/](https://www.rstudio.com/products/rstudio/)
 
 Once you get your software installed and booted up, you should see something that looks approximately like the image below.
@@ -34,11 +35,11 @@ Once you get your software installed and booted up, you should see something tha
 
 ## Step 1: Identify a Data Set
 
-The next thing to do when getting started in R, is to identify a dataset you’d like to work with. You can, of course, build up a dataset directly in RStudio, but it’s nice to have something to work with when first exploring the programming language. 
+The next thing to do when getting started in R, is to identify a dataset you’d like to work with. You can, of course, build up a dataset directly in RStudio, but it’s nice to have something to work with when first exploring the programming language.
 
 For the sake of this exercise, I’ve created a dataset in Google Sheets for you to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
 
-Before we go on, I should note that you can import data into RStudio in many different ways. 
+Before we go on, I should note that you can import data into RStudio in many different ways.
 
 ## Step 2: Install Google Sheets Package
 
@@ -46,7 +47,6 @@ To get the googlesheets data into R, you need to import it. Fortunately, there i
 
 > install.packages("googlesheets")
 > library(googlesheets)
-> 
 
 The first line tells the computer to install the package titled "googlesheets," and the second line tells the computer to turn on the package, making it available for you to use.
 
@@ -54,7 +54,7 @@ The first line tells the computer to install the package titled "googlesheets," 
 
 Now that you’ve installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press ctrl\+enter to execute them.
 
-> WeatherDataURL <- 
+> WeatherDataURL <-
 >
 > gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
 
@@ -78,7 +78,7 @@ In our last step, we prepared our connection with Google Sheets, and in this ste
 
 ![GettingStarted_Step4.PNG](/uploads/GettingStarted_Step4.PNG)
 
-You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the Google Sheets file, and the other is the dataset itself. If you’d like, you can click on the AllWeatherData variable to see it as rows and columns. 
+You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the Google Sheets file, and the other is the dataset itself. If you’d like, you can click on the AllWeatherData variable to see it as rows and columns.
 
 ## Step 5: Data Transformations
 
@@ -106,6 +106,10 @@ In this function we told the computer to do three things: 1) plot date on the X 
 
 ## Wrapping Up
 
-And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. Hopefully you learned a few things along the way. Reflecting on this process, I'm reminded that most of the work that goes into data analysis is getting and cleaning data! We didn’t even get to the graph until the last step. For further analysis, we could look compare this data month to historical data. Can you now begin to think about how that might work using RStudio?
+And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. 
+
+<iframe src="http://gettingstartedrstudio.s3-website-us-east-1.amazonaws.com/"></iframe>
+
+Hopefully you learned a few things along the way. Reflecting on this process, I'm reminded that most of the work that goes into data analysis is getting and cleaning data! We didn’t even get to the graph until the last step. For further analysis, we could look compare this data month to historical data. Can you now begin to think about how that might work using RStudio?
 
 In my next post, we’ll explore this dataset further as we continue our journey into R and RStudio. Stay tuned!
