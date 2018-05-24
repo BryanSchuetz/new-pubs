@@ -70,7 +70,7 @@ When you execute this command, you should see the word "MayWeather" printed out 
 
 ## Step 4: Import Data, Part 2
 
-In our last step, we prepared our connection with GoogleSheets, and in this step we'll import the data. So now let’s read the "MayWeather" tab of the googlesheet into R as a [dataframe](https://www.rdocumentation.org/packages/base/versions/3.5.0/topics/data.frame), and inspect the structure of the data using the handy str() function. Copy the following lined of code into your R console, and execute them.
+In our last step, we prepared our connection with Google Sheets, and in this step, we’ll import the data. So now let’s read the "MayWeather" tab of the googlesheet into R as a [dataframe](https://www.rdocumentation.org/packages/base/versions/3.5.0/topics/data.frame), and inspect the structure of the data using the handy str() function. Copy the following lined of code into your R console, and execute them.
 
 > AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
 >
@@ -78,7 +78,7 @@ In our last step, we prepared our connection with GoogleSheets, and in this step
 
 ![GettingStarted_Step4.PNG](/uploads/GettingStarted_Step4.PNG)
 
-You'll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the googlesheets file, and the other is the dataset itself. If you'd like, you can click on the AllWeatherData variable to see it as rows and columns. 
+You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the googlesheets file, and the other is the dataset itself. If you'd like, you can click on the AllWeatherData variable to see it as rows and columns. 
 
 ## Step 5: Data Transformations
 
