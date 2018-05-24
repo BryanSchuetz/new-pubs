@@ -51,7 +51,7 @@ To get the googlesheets data into R, you need to import it. Fortunately, there i
 
 The first line tells the computer to install the package titled "googlesheets", and the second line tells the computer to turn on the package, making it available for you to use.
 
-## Step 3: Import Data
+## Step 3: Import Data Part 1
 
 Now that you've installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press Ctrl\+Enter to execute them
 
@@ -61,7 +61,7 @@ Now that you've installed the package, you can import the data. Enter the follow
 
 At this point you should see a new variable titled "WeatherDataURL" in the upper right hand box as can be see in the image below.
 
-![GettingStarted_Step3.PNG](/uploads/GettingStarted_Step3.PNG)
+![GettingStarted_Step3-ed0737.PNG](/uploads/GettingStarted_Step3-ed0737.PNG)
 
 Before we move on to the next step, let's execute one more line of code, which allows us to inspect our new variable called "WeatherDataURL"
 
@@ -69,16 +69,15 @@ Before we move on to the next step, let's execute one more line of code, which a
 
 When you execute this command, you should see the word "MayWeather" printed out on the console, which is the box in the bottom left. This is the one tab in the googlesheet that contains the weather data for the month of May
 
-## Step 4: Bring In and Inspect Data
+## Step 4: Import Data Part 2
 
-In the last step, you should have seen on the console the list of tabs in your Google Sheet. In our case, it’s just the one tab titled “MayWeather.” So now let’s read that table into R as a dataframe, and inspect the structure of the data using the handy str() function.
+In our last step, we prepared our connection with GoogleSheets, and in this step we'll import the data. So now let’s read the "MayWeather" tab of the googlesheet into R as a [dataframe](https://www.rdocumentation.org/packages/base/versions/3.5.0/topics/data.frame), and inspect the structure of the data using the handy str() function. Copy the following lined of code into your R console, and execute them.
 
-> #Create Dataframe from Sheet1
 > AllWeatherData <-  gs_read(ss=WeatherDataURL, ws = "MayWeather", skip = 0)
 >
-> \#Inspect Dataframe Structure
->
 > str(AllWeatherData)
+
+![GettingStarted_Step4.PNG](/uploads/GettingStarted_Step4.PNG)
 
 ## Step 5: Data Transformations
 
