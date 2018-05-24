@@ -79,20 +79,30 @@ In our last step, we prepared our connection with GoogleSheets, and in this step
 
 ![GettingStarted_Step4.PNG](/uploads/GettingStarted_Step4.PNG)
 
-You'll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the googlesheets, and the other is the dataset itself. If you'd like, you can click on the AllWeatherData variable to see it as rows and columns. 
+You'll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the googlesheets file, and the other is the dataset itself. If you'd like, you can click on the AllWeatherData variable to see it as rows and columns. 
 
 ## Step 5: Data Transformations
 
-Looking at the data structure, you’ll likely notice that the date column is being read as characters, as opposed to a date format. Let’s fix that using the as.Date() function, and then check to make sure that our conversion worked.
+Looking at the data structure printed out in the console in the last step, you’ll likely notice that the date column is being read as a Character (chr), as opposed to a date format. This is extremely important! Not all data is read into the computer the same way. Sometimes a computer may interpret a string of numbers as alphanumeric characters, as opposed to integers. In this case, the computer didn't recognize that the numbers in the Date column should be read as calendar dates. Fortunately R has a handy way to handle data transformations, so we'll use the as.Date() function on the variable, and then check to make sure that our conversion worked.
+
+Again, run the following lines of code:
 
 > AllWeatherData$Date <- as.Date(AllWeatherData$Date, "%m/%d/%Y")
 >
 > str(AllWeatherData)
 
+![GettingStarted_Step5.PNG](/uploads/GettingStarted_Step5.PNG)
+
+We can see that the Date column is now in a date format, which will allow us to create our graph. Let's move on!
+
 ## Step 6: Create Line Graph
 
-Finally, we’ll create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we’ll use the simplest option: the plot() function.
+We're finally the moment we've been waiting for. Let's create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we’ll use the simplest option: the plot() function.
 
-> plot(AllWeatherData$Precip, type = "line")
+> plot(x=AllWeatherData$Date, y=AllWeatherData$Precip, type="line")
+
+In this function we told the computer to do three things: 1) plot Date on the X Axis, 2) plot the rainfall precipitation amount on the Y Axis, and 3) draw the plot as a "line."
+
+![GettingStarted_Step6.PNG](/uploads/GettingStarted_Step6.PNG)
 
 And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. In my next post, we’ll integrate this code into an application that we deploy on the web. Stay tuned!
