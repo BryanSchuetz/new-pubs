@@ -68,6 +68,8 @@ Before we move on to the next step, let’s execute one more line of code, which
 
 When you execute this command, you should see the word "MayWeather" printed out on the console, which is the box in the bottom left. This is the one tab in the Google Sheet that contains the weather data for the month of May.
 
+![Step3B.PNG](/uploads/Step3B.PNG)
+
 ## Step 4: Import Data, Part 2
 
 In our last step, we prepared our connection with Google Sheets, and in this step, we’ll import the data. So now let’s read the "MayWeather" tab of the googlesheet into R as a [dataframe](https://www.rdocumentation.org/packages/base/versions/3.5.0/topics/data.frame), and inspect the structure of the data using the handy str() function. Copy the following lined of code into your R console, and execute them.
