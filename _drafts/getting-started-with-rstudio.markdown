@@ -1,5 +1,5 @@
 ---
-title: Getting Started With RStudio
+title: Getting Started With RStudio, Part 1
 date: 2018-05-22 10:50:00 -04:00
 categories:
 - Data
@@ -11,7 +11,7 @@ social-image: "/uploads/RStudio.png"
 thumbnail: "/uploads/RStudio.png"
 ---
 
-*This article is part one of two, as we explore the basics of building a web dashboard in R using R Shiny.*
+*This article is part 1 of 2, as we explore the basics of building a web dashboard in R using R Shiny.*
 ![RStudio-59a8d9.png](/uploads/RStudio-59a8d9.png)
 
 As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, we’re going to introduce just a few lines of code to get you started on your journey into R.
