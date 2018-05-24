@@ -1,6 +1,6 @@
 ---
 title: Getting Started With RStudio, Part 1
-date: 2018-05-22 10:50:00 -04:00
+date: 2018-05-24 10:50:00 -04:00
 categories:
 - Data
 tags:
