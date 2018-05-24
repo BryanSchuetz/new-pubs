@@ -105,4 +105,8 @@ In this function we told the computer to do three things: 1) plot Date on the X 
 
 ![GettingStarted_Step6.PNG](/uploads/GettingStarted_Step6.PNG)
 
-And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. In my next post, we’ll integrate this code into an application that we deploy on the web. Stay tuned!
+## Wrapping Up
+
+And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. Hopefully you learned a few things along the way. Reflecting on this process, I'm reminded that most of the work that goes into data analysis is getting and cleaning data! We didn't even get to the graph until the last step. For further analysis, we could look at how this rainfall amount compared to historical rainfall amounts. Can you now begin to think about how that might work using RStudio?
+
+In my next post, we’ll explore this dataset further as we continue our journey into R and RStudio. Stay tuned!
