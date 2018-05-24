@@ -82,7 +82,7 @@ You’ll notice that you now have two datasets in your global environment. One i
 
 ## Step 5: Data Transformations
 
-Looking at the data structure printed out in the console in the last step, you’ll likely notice that the date column is being read as a Character (chr), as opposed to a date format. This is extremely important! Not all data is read into the computer the same way. Sometimes a computer may interpret a string of numbers as alphanumeric characters, as opposed to integers. In this case, the computer didn't recognize that the numbers in the Date column should be read as calendar dates. Fortunately R has a handy way to handle data transformations, so we'll use the as.Date() function on the variable, and then check to make sure that our conversion worked.
+Looking at the data structure printed out in the console in the last step, you’ll likely notice that the date column is being read as a character (chr), as opposed to a date format. This is extremely important! Not all data is read into the computer the same way. Sometimes a computer may interpret a string of numbers as alphanumeric characters, as opposed to integers. In this case, the computer didn’t recognize that the numbers in the date column should be read as calendar dates. Fortunately R has a handy way to handle data transformations, so we’ll use the as.Date() function on the variable, and then check to make sure that our conversion worked.
 
 Again, run the following lines of code:
 
@@ -92,11 +92,11 @@ Again, run the following lines of code:
 
 ![GettingStarted_Step5.PNG](/uploads/GettingStarted_Step5.PNG)
 
-We can see that the Date column is now in a date format, which will allow us to create our graph. Let's move on!
+We can see that the date column is now in a date format, which will allow us to create our graph. Let's move on!
 
 ## Step 6: Create Line Graph
 
-We're finally the moment we've been waiting for. Let's create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we’ll use the simplest option: the plot() function.
+We’re finally at the moment we’ve been waiting for. Let’s create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous [ggplot2](http://ggplot2.tidyverse.org/), but for the sake of this exercise we’ll use the simplest option: the plot() function.
 
 > plot(x=AllWeatherData$Date, y=AllWeatherData$Precip, type="line")
 
