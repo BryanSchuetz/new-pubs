@@ -62,7 +62,7 @@ At this point you should see a new variable titled "WeatherDataURL" in the upper
 
 ![GettingStarted_Step3-ed0737.PNG](/uploads/GettingStarted_Step3-ed0737.PNG)
 
-Before we move on to the next step, let's execute one more line of code, which allows us to inspect our new variable called "WeatherDataURL"
+Before we move on to the next step, let’s execute one more line of code, which allows us to inspect our new variable called, "WeatherDataURL"
 
 > gs_ws_ls(WeatherDataURL)
 
