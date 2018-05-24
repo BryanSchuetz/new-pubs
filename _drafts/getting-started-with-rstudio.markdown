@@ -50,9 +50,9 @@ To get the googlesheets data into R, you need to import it. Fortunately, there i
 
 The first line tells the computer to install the package titled "googlesheets," and the second line tells the computer to turn on the package, making it available for you to use.
 
-## Step 3: Import Data Part 1
+## Step 3: Import Data, Part 1
 
-Now that you've installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press Ctrl\+Enter to execute them
+Now that you’ve installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press ctrl\+enter to execute them.
 
 > WeatherDataURL <- 
 >
