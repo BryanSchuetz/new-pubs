@@ -79,6 +79,8 @@ In our last step, we prepared our connection with GoogleSheets, and in this step
 
 ![GettingStarted_Step4.PNG](/uploads/GettingStarted_Step4.PNG)
 
+You'll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the googlesheets, and the other is the dataset itself. If you'd like, you can click on the AllWeatherData variable to see it as rows and columns. 
+
 ## Step 5: Data Transformations
 
 Looking at the data structure, you’ll likely notice that the date column is being read as characters, as opposed to a date format. Let’s fix that using the as.Date() function, and then check to make sure that our conversion worked.
