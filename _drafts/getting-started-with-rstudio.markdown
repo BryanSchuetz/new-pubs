@@ -33,7 +33,7 @@ Once you get your software installed and booted up, you should see something tha
 
 ![GettingStarted_NoCode.PNG](/uploads/GettingStarted_NoCode.PNG)
 
-## Step 1: Identify a Data set
+## Step 1: Identify a Data Set
 
 The next thing to do when getting started in R, is to identify a dataset you'd like to work with. You can of course build up a dataset directly in RStudio, but it's nice to have something to work with when first exploring the programming language. 
 
