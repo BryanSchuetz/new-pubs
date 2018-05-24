@@ -29,7 +29,11 @@ First, you’ll need to install R and RStudio on your computer. I’ve included 
 
 * [https://www.rstudio.com/products/rstudio/](https://www.rstudio.com/products/rstudio/)
 
-## Step 1: Create Dataset in Google Sheets
+Once you get your software installed and booted up, you should see something that looks approximately like the image below.
+
+![GettingStarted_NoCode.PNG](/uploads/GettingStarted_NoCode.PNG)
+
+## Step 1: Identify a Data set
 
 For the sake of this exercise, I’ve created a dataset in Google Sheets to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
 
