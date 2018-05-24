@@ -35,27 +35,33 @@ Once you get your software installed and booted up, you should see something tha
 
 ## Step 1: Identify a Data set
 
-For the sake of this exercise, I’ve created a dataset in Google Sheets to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
+The next thing to do when getting started in R, is to identify a dataset you'd like to work with. You can of course build up a dataset directly in RStudio, but it's nice to have something to work with when first exploring the programming language. 
 
-## Step 2: Install Packages
+For the sake of this exercise, I’ve created a dataset in Google Sheets for you to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was [RAIN](https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025). The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset [here](https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing).
 
-For this exercise, I’m going to use the [Google Sheets package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for data access, and base R to create our graphs.
+Before we go on, I should note that you can import data into RStudio in many different ways. 
+
+## Step 2: Install GoogleSheets Package
+
+To get the googlesheets data into R, you need to import it. Fortunately, there is a handy [package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for googlesheets data access. Going through this step is also a useful introduction to the concept of packages, which are functions created by other members of the R programming community. To install this particular package, you execute the following lines of code:
 
 > install.packages("googlesheets")
-> install.packages("dplyr")
 > library(googlesheets)
-> library(dplyr)
+> 
 
-## Step 3: Access Google Sheets
+The first line tells the computer to install the package titled "googlesheets", and the second line tells the computer to turn on the package, making it available for you to use.
 
-The next thing I’m going to do is create a variable of the Google Sheets URL we’re going to access, and then inspect that variable.
+## Step 3: Import Data
 
-> #Create Variable of dataset URL
-> WeatherDataURL <- gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
+Now that you've installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press Ctrl\+Enter to execute them
+
+> WeatherDataURL <- 
 >
-> \#Inspect Google Sheets tabs
->
-> gs_ws_ls(WeatherDataURL)
+> gs_url("https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing")
+
+At this point you should see a new variable titled "WeatherDataURL" in the upper right hand box as can be see in the image below.
+
+![GettingStarted_Step3.PNG](/uploads/GettingStarted_Step3.PNG)
 
 ## Step 4: Bring In and Inspect Data
 
