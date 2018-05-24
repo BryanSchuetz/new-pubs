@@ -63,6 +63,12 @@ At this point you should see a new variable titled "WeatherDataURL" in the upper
 
 ![GettingStarted_Step3.PNG](/uploads/GettingStarted_Step3.PNG)
 
+Before we move on to the next step, let's execute one more line of code, which allows us to inspect our new variable called "WeatherDataURL"
+
+> gs_ws_ls(WeatherDataURL)
+
+When you execute this command, you should see the word "MayWeather" printed out on the console, which is the box in the bottom left. This is the one tab in the googlesheet that contains the weather data for the month of May
+
 ## Step 4: Bring In and Inspect Data
 
 In the last step, you should have seen on the console the list of tabs in your Google Sheet. In our case, it’s just the one tab titled “MayWeather.” So now let’s read that table into R as a dataframe, and inspect the structure of the data using the handy str() function.
