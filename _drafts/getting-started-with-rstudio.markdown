@@ -42,7 +42,7 @@ Before we go on, I should note that you can import data into RStudio in many dif
 
 ## Step 2: Install Google Sheets Package
 
-To get the googlesheets data into R, you need to import it. Fortunately, there is a handy [package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for googlesheets data access. Going through this step is also a useful introduction to the concept of packages, which are functions created by other members of the R programming community. To install this particular package, you execute the following lines of code:
+To get the googlesheets data into R, you need to import it. Fortunately, there is a handy [package ](https://cran.r-project.org/web/packages/googlesheets/index.html)for Google Sheets data access. Going through this step is also a useful introduction to the concept of packages, which are functions created by other members of the R programming community. To install this particular package, you execute the following lines of code:
 
 > install.packages("googlesheets")
 > library(googlesheets)
