@@ -48,7 +48,7 @@ To get the googlesheets data into R, you need to import it. Fortunately, there i
 > library(googlesheets)
 > 
 
-The first line tells the computer to install the package titled "googlesheets", and the second line tells the computer to turn on the package, making it available for you to use.
+The first line tells the computer to install the package titled "googlesheets," and the second line tells the computer to turn on the package, making it available for you to use.
 
 ## Step 3: Import Data Part 1
 
