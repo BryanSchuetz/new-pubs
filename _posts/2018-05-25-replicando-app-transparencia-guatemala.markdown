@@ -2,6 +2,10 @@
 title: Replicando la App de Transparencia en Guatemala
 date: 2018-05-25 15:46:00 -04:00
 published: false
+tags:
+- Human-centered design
+- Guatemala
+- Governance
 Author: Adam Fivenson
 social-image: "/uploads/002.jpg"
 ---
