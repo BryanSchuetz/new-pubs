@@ -79,4 +79,4 @@ Después de analizar los comentarios de los tres municipios en un ámbito de tra
 
 *Nos encantaría saber qué piensa de nuestro proceso como se describe. ¿Qué hicimos bien? ¿Qué habrías hecho diferente? ¿Por qué?*
 
-*El autor agradece la ayuda de Julio Cancinos en la traducción de este blog post.*
+*El autor agradece la ayuda de Julio Cancinos para su fina ayuda en la traducción de este blog post.*
