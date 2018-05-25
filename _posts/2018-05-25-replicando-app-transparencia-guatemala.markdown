@@ -1,6 +1,9 @@
 ---
 title: Replicando la App de Transparencia en Guatemala
 date: 2018-05-25 15:46:00 -04:00
+published: false
+Author: Adam Fivenson
+social-image: "/uploads/002.jpg"
 ---
 
 El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada *Somos Chiantla*, que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango.  De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar la herramienta en estos municipios, con un enfoque eminentemente participativo y colaborativo, atendiendo propuestas de autoridades de gobierno local y representantes de sociedad civil para personalizar la aplicación atendiendo sus gustos y preferencias.  
