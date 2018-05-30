@@ -51,7 +51,7 @@ Con el fin de evaluar el funcionamiento de su primera versión APP Somos Chiantl
 
 A través del proceso de evaluación encontramos una serie de áreas clave para la mejora de la app. Por ejemplo, fuera del centro de la ciudad, pocos ciudadanos de Chiantla conocían la herramienta, y mucho menos la habían descargado (como sabíamos, pocos ciudadanos fuera del centro de la ciudad tenían teléfonos inteligentes). Además, entre los que habían usado la aplicación, había amplias preguntas sobre la veracidad de los datos presupuestarios de la herramienta, lo que elevó la importancia de educar a los usuarios sobre la fuente y el flujo de los datos presupuestarios. Finalmente, descubrimos que las personas querían más contexto en la visualización de datos de presupuesto de la aplicación, especialmente cómo encontrar información sobre proyectos de infraestructura actuales.
 
-![WhatsApp Image 2017-10-26 at 7.17.06 PM.jpg](/uploads/WhatsApp%20Image%202017-10-26%20at%207.17.06%20PM.jpg)`ADESJU lleva a cabo entrevistas en partes rurales de Chiantla sobre la comunicacion, la tecnologia y la app Somos Chiantla.`
+![WhatsApp Image 2017-10-26 at 7.17.06 PM.jpg](/uploads/WhatsApp%20Image%202017-10-26%20at%207.17.06%20PM.jpg)`ADESJU lleva a cabo entrevistas en partes rurales de Chiantla sobre la comunicacion, la tecnologia y la app Somos Chiantla`
 
 ## Diseño Centrado en el Ciudadano
 
