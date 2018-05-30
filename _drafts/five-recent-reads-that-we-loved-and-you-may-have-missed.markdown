@@ -1,10 +1,17 @@
 ---
 title: Five Recent Reads That We Loved (And You May Have Missed!)
 date: 2018-05-30 10:36:00 -04:00
+tags:
+- Digital Inclusion
+- Human-centered design
+- Digital Financial Services
 Author: Kristen Roggemann
+social-image: "/uploads/top%205%20news%20podcast%20logo_0.jpg"
 ---
 
 As our Center for Digital Development team grows, we are finding new ways to share knowledge beyond our epic WhatsApp group chat that grows more ridiculous and off-topic by the day. We have some voracious readers on the team, so in prep for this post I took a minute to poll them to find out what recent articles they read and found fascinating - and I had missed them all! Since I can't be the only one, I share them here to ensure these gems get as wide a readership as possible.
+
+![top 5 news podcast logo_0.jpg](/uploads/top%205%20news%20podcast%20logo_0.jpg)
 
 <!--more-->
 
