@@ -1,5 +1,5 @@
 ---
-title: Five Recent Reads That We Loved (And You May Have Missed!)
+title: 5 Recent Reads We Loved (And You May Have Missed!)
 date: 2018-05-30 10:36:00 -04:00
 tags:
 - Digital Inclusion
