@@ -1,6 +1,7 @@
 ---
 title: Five Recent Reads That We Loved (And You May Have Missed!)
 date: 2018-05-30 10:36:00 -04:00
+Author: Kristen Roggemann
 ---
 
 As our Center for Digital Development team grows, we are finding new ways to share knowledge beyond our epic WhatsApp group chat that grows more ridiculous and off-topic by the day. We have some voracious readers on the team, so in prep for this post I took a minute to poll them to find out what recent articles they read and found fascinating - and I had missed them all! Since I can't be the only one, I share them here to ensure these gems get as wide a readership as possible.
@@ -10,4 +11,8 @@ As our Center for Digital Development team grows, we are finding new ways to sha
 **2. When Passion and Technology Meet](https://mobile.nytimes.com/2018/05/24/technology/when-passion-and-technology-meet.html)** While this is a pretty standard 'check out these cool innovators' style piece, I hadn't heard of some of the featured innovators and many of them sit squarely in the ICT4D space - a reminder of the continued great divide between donor-funded innovation and private sector-driven innovation, and how we need to work harder to bridge that gap. This article is one way to start.
 
 **3. [Does Greater Financial Inclusion Lead to Financial Health?](https://nextbillion.net/does-greater-inclusion-lead-to-financial-health/)** While any American millennial could have told you the answer to this, these new findings from a large Gallup poll in emerging markets are pretty wild and pose some serious questions for the financial inclusion industry on the base assumption of their work. Spoiler ahead - people’s access to financial services appears to have little correlation with financial security. This article, and the full research linked to in it, are worth your read.
+
+**4. [No One's Ready for GDPR](https://www.theverge.com/2018/5/22/17378688/gdpr-general-data-protection-regulation-eu)** Have you noticed a spate of emails in your inbox about new terms and conditions for your data usage? I have too - thanks GDPR! The EU's General Data Protection Regulation is now in effect, but how ready are folks and how able are large organizations to meet the changes? 
+
+**5. [Signal Code: Ethical Obligations for Humanitarian Information Activities](https://hhi.harvard.edu/publications/signal-code-ethical-obligations-humanitarian-information-activities)** Hot off the presses, this work seeks to provide comprehensive ethical guidance for the usage of technology and data in humanitarian response. While humainstarian response and development are different, I still think this is KEY for all ICT4D practitioners - and wrote a recent blog post to that effect. It's a weighty read but, it should be.
 
