@@ -1,5 +1,5 @@
 ---
-title: 'Working with Tech Service Providers: Its about more than Tech.'
+title: 'Working With Tech Service Providers: It''s About More Than Tech'
 date: 2018-06-04 13:54:00 -04:00
 published: false
 tags:
@@ -8,22 +8,22 @@ Author: Karim Bin-Humam
 social-image: "/uploads/user%20testing.jpg"
 ---
 
-Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local government. Regardless what your mission is, it’s more than likely that technology can help you in new ways to deliver on your goals. From fundraising, public relations and communications, to engagement and impact assessment, ways in which myriad digital technologies can help you become more efficient and effective in your work is limitless. But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes.
+Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local government. No matter the objective, technology can both help you be more efficient internally and more impactful externally. The *idea* of tech is often easy - "oh, we'll just build an app for that!" But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes.
 
 ![user testing-0f2a04.jpg](/uploads/user%20testing-0f2a04.jpg)`Jason Steele of Explico Analytics working with DAI's Nexos Locales project to conduct in-person mobile app user testing and feedback`
 
 <!--more-->
 
-**Let's start with the good news:** The social sector recognizes the potential that digital technology offers and is increasinly keen to take advantage of it, building more and more tech-supported programming into their work.
+**Let's start with the good news:** The social sector recognizes the potential that digital technology offers and is increasingly keen to take advantage of it, building increasingly more tech-supported programming into their work.
 
-**Here’s the bad news:** Despite this appetite, nonprofits still struggle with developing and maintaining effective tech-enabled solutions, and many of these solutions end up buried in the social tech graveyard next to the infamous One Laptop Per Child.
+**Here’s the bad news:** Despite this appetite, nonprofits still struggle with developing and maintaining effective tech-enabled solutions, and many of these solutions end up buried in the social tech graveyard next to the infamous [One Laptop Per Child failure](https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now).
 
-The [Principles for Digital Development](https://digitalprinciples.org) were borne of the need to avoid failed designs that don't account for key considerations in appropriate solution design. We rightfully hear about failures to to design with the user (principle 1), understand the ecosystem (principle 2), and others. But something that the Digital Development community to stand to address is ***building a strong relationship with the right technology service provider***.
+The [Principles for Digital Development](https://digitalprinciples.org) were borne of the need to avoid failed designs that don't account for key considerations in appropriate solution design. We rightfully hear about failures to to design with the user (Principle 1), understand the ecosystem (Principle 2), and others. But something that the Digital Development community needs to also think about is ***building a strong relationship with the right technology service provider***.
 
 Here are three things that I have found to be critical when managing a relationship with a technology service provider:
 
 1. **Communication is key:**\
-   Development professionals on the one hand and technology professionals on the other often speak fundamentally different languages - this is particularly true of countries where civil society and the technology industry barely overlap. It is important that for your project, you work with a service provider that steps outside the boundaries of technical specifications and man-hours, and understands your organization and your mission (in essence: the big picture). Working with a service provider that takes the time to understand this (this is called 'being client-oriented' by the way), will ensure a more productive working relationsip.\\
+   Development professionals and technology professionals often speak fundamentally different languages - this is particularly true of countries where civil society and the technology industry barely overlap. It is important for your project that you work with a service provider that steps outside the boundaries of technical specifications and man-hours, and understands your organization and your mission (in essence: the big picture). Working with a service provider that takes the time to understand this will ensure a more productive working relationship.\\
 
 2. **This is a big one: Invest your own human capacity**\
    I cannot stress enough how important it is to retain and utilize appropriate human capacity to manage the relationship with the service provider. At the very least, every nonprofit's tech-based project needs a tech-whisperer of sorts - someone on staff that can understand basic fluency in tech-talk while also knowing the specific design challenges your organization faces that can manage the relationship. But knowledge isn't enough - time investment is key here as well. The more resources **both** parties dedicate to the joint initiative, the higher the chances of success.\\
