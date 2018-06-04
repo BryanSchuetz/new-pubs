@@ -1,5 +1,5 @@
 ---
-title: 'Working with Tech Service Providers: Its about more than Tech.'
+title: 'Working with Tech Service Providers: Its about more than Tech'
 date: 2018-06-04 13:54:00 -04:00
 published: false
 tags:
