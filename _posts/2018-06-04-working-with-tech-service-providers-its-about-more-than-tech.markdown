@@ -1,0 +1,33 @@
+---
+title: 'Working with Tech Service Providers: Its about more than Tech.'
+date: 2018-06-04 13:54:00 -04:00
+published: false
+tags:
+- Human-centered design
+Author: Karim Bin-Humam
+---
+
+Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local government. Regardless what your mission is, it’s more than likely that technology can help you in new ways to deliver on your goals. From fundraising, public relations and communications, to engagement and impact assessment, ways in which myriad digital technologies can help you become more efficient and effective in your work is limitless. But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes.
+
+<!--more-->
+
+**Let's start with the good news:** The social sector recognizes the potential that digital technology offers and is increasinly keen to take advantage of it, building more and more tech-supported programming into their work.
+
+**Here’s the bad news:** Despite this appetite, nonprofits still struggle with developing and maintaining effective tech-enabled solutions, and many of these solutions end up buried in the social tech graveyard next to the infamous One Laptop Per Child.
+
+The [Principles for Digital Development](https://digitalprinciples.org) were borne of the need to avoid failed designs that don't account for key considerations in appropriate solution design. We rightfully hear about failures to to design with the user (principle 1), understand the ecosystem (principle 2), and others. But something that the Digital Development community to stand to address is ***building a strong relationship with the right technology service provider***.
+
+Here are three things that I have found to be critical when managing a relationship with a technology service provider:
+
+1. **Communication is key:**\
+   Development professionals on the one hand and technology professionals on the other often speak fundamentally different languages - this is particularly true of countries where civil society and the technology industry barely overlap. It is important that for your project, you work with a service provider that steps outside the boundaries of technical specifications and man-hours, and understands your organization and your mission (in essence: the big picture). Working with a service provider that takes the time to understand this (this is called 'being client-oriented' by the way), will ensure a more productive working relationsip.\
+
+2. **This is a big one: Invest your own human capacity**\
+   I cannot stress enough how important it is to retain and utilize appropriate human capacity to manage the relationship with the service provider. At the very least, every nonprofit's tech-based project needs a tech-whisperer of sorts - someone on staff that can understand basic fluency in tech-talk while also knowing the specific design challenges your organization faces that can manage the relationship. But knowledge isn't enough - time investment is key here as well. The more resources **both** parties dedicate to the joint initiative, the higher the chances of success.\
+
+3. **Research,  Design, and Test Together!**\
+   Ever heard of a data collection app that was developed and couldn't be used because none of the areas where it was used had connectivity and the app didn't have offline capability? Believe me...it has happened. Many organizations think that if they have a rough idea of a technology solution, all they have to do is document it in a Scope of Work, a basic Requirements Document, put it out to tender and then sit back and watch as the service provider does its magic and produces a final solution that works like a charm. The truth is that successful interventions require a much more hands-on approach to collaboration. In practical terms, this means that everything from doing initial user research, to designing specific features, through to prototype testing in the field should be done together as opposed to having Service Provider staff isolated from these activities.
+
+Take these key considerations to heart and your organization is sure to be successful...
+
+...if you do everything else right too of course!
