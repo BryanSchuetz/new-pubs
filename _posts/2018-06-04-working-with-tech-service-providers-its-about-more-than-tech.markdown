@@ -26,7 +26,7 @@ The [Principles for Digital Development](https://digitalprinciples.org) were bor
 1. **Communication is key:**
 Development professionals and technology professionals often speak fundamentally different languages—this is particularly true of countries where civil society and the technology industry barely overlap. It is important for your project that you work with a service provider that steps outside the boundaries of technical specifications and man-hours, and understands your organization and your mission (in essence: the big picture). Working with a service provider that takes the time to understand this will ensure a more productive working relationship.
 
-2. **This is a big one: Invest your own human capacity**
+2. **This is a big one: Invest your own human capacity.**
 I cannot stress enough how important it is to retain and utilize appropriate human capacity to manage the relationship with the service provider. At the very least, every nonprofit’s tech-based project needs a tech-whisperer of sorts—someone on staff that can understand basic fluency in tech-talk while also knowing the specific design challenges your organization faces that can manage the relationship. But knowledge isn’t enough. Time investment is key here as well. The more resources **both** parties dedicate to the joint initiative, the higher the chances of success.
 
 3. **Research,  Design, and Test Together!**
