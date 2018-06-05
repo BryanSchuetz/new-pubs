@@ -26,7 +26,7 @@ Al pensar en cómo diseñar y estructurar nuestro proceso para la mejora y expan
 * ¿Cómo íbamos a involucrar a las dos nuevas comunidades en un proceso de diseño rápido pero que fuera significativo?
 * ¿Cómo nos podíamos asegurar de que el proceso de retroalimentación fuera a brindar ideas concretas y factibles?
 * ¿Cómo deberíamos explicar a los ciudadanos, funcionarios y trabajadores municipales de los municipios seleccionados, el funcionamiento de la herramienta, para poder a su vez solicitar sus comentarios sobre como personalizarla para su comunidad?
-* ¿Cómo asegurarnos de que los comentarios y las ideas recibidas fueran factibles de implementar en la app para evitar falsas expectativas?
+* ¿Cómo asegurarnos de que los comentarios y las ideas recibidas fueran factibles de implementar en la app para evitar así falsas expectativas?
 
 ## Planificación
 
@@ -78,7 +78,7 @@ Esto es lo que hicimos:
 
 ![005.jpeg](/uploads/005.jpeg)`5. Luego, todo el grupo votó por las ideas que más les gustaban, lo que nos permitió priorizar los cambios y actualizaciones más atractivos para cada módulo.`
 
-* ¿Qué sigue? 
+## ¿Qué sigue? 
 Después de analizar los comentarios de los tres municipios en un ámbito de trabajo unificado para nuestro desarrollador, se construyó un bosquejo preliminar para la nueva versión de la app, conteniendo los principales aportes de los grupos de trabajo. Una vez desarrollada la app, se someterá a consideración de grupos focales de usuarios en las comunidades, para hacer pruebas de usuarios.  
 
 *Nos encantaría saber qué piensa de nuestro proceso como se describe. ¿Qué hicimos bien? ¿Qué habrías hecho diferente? ¿Por qué?*
