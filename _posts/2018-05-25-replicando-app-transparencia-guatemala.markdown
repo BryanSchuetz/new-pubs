@@ -78,8 +78,8 @@ Esto es lo que hicimos:
 
 ![005.jpeg](/uploads/005.jpeg)`5. Luego, todo el grupo votó por las ideas que más les gustaban, lo que nos permitió priorizar los cambios y actualizaciones más atractivos para cada módulo.`
 
-¿Qué sigue? 
-Después de analizar los comentarios de los tres municipios en un ámbito de trabajo unificado para nuestro desarrollador, se construyó un bosquejo preliminar para la nueva versión de la app, conteniendo los principales aportes de los grupos de trabajo.  Una vez desarrollada la app, se someterá a consideración de grupos focales de usuarios en las comunidades, para hacer pruebas de usuarios.  
+* ¿Qué sigue? 
+Después de analizar los comentarios de los tres municipios en un ámbito de trabajo unificado para nuestro desarrollador, se construyó un bosquejo preliminar para la nueva versión de la app, conteniendo los principales aportes de los grupos de trabajo. Una vez desarrollada la app, se someterá a consideración de grupos focales de usuarios en las comunidades, para hacer pruebas de usuarios.  
 
 *Nos encantaría saber qué piensa de nuestro proceso como se describe. ¿Qué hicimos bien? ¿Qué habrías hecho diferente? ¿Por qué?*
 
