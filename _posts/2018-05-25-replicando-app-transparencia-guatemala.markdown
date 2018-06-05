@@ -30,7 +30,7 @@ Al pensar en cómo diseñar y estructurar nuestro proceso para la mejora y expan
 
 ## Planificación
 
-Se definieron los parámetros que regularan el proceso de mejora continua de la Aplicación en Chiantla, así como también, para el proceso de selección de los municipios donde se replicaría la misma, así como también se estableció un cronograma para definir las actividades, responsables, plazos e indicadores de ejecución.  
+Se definieron los parámetros para regular el proceso de mejora continua de la aplicación en Chiantla, así como, para la selección de los municipios donde se replicaría la misma, así como también se estableció un cronograma para definir las actividades, responsables, plazos e indicadores de ejecución.  
 
 ## Selección y Evaluación
 
