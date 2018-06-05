@@ -9,9 +9,9 @@ Author: Adam Fivenson
 social-image: "/uploads/002.jpg"
 ---
 
-*Nota: Esta publicación también está disponible en [ingles](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)*
+*Nota: Esta publicación también está disponible en [inglés](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)*
 
-El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada *Somos Chiantla,* que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar la herramienta en estos municipios, con un enfoque eminentemente participativo y colaborativo, atendiendo propuestas de autoridades de gobierno local y representantes de sociedad civil para personalizar la aplicación atendiendo sus gustos y preferencias.  
+El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada *Somos Chiantla,* que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar esta herramienta en estos dos municipios, con un enfoque eminentemente participativo y colaborativo, atendiendo propuestas de autoridades de gobierno local y representantes de sociedad civil para personalizar la aplicación atendiendo sus gustos y preferencias.  
 
 ![07 Plenary voting.jpg](/uploads/07%20Plenary%20voting.jpg)
 `Un participante en Sacapulas vota por las mejores formas de actualizar Somos Chiantla.`
