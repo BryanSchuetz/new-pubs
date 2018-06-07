@@ -3,6 +3,7 @@ title: 'Apply Now: Support USAID missions to improve broadband connectivity'
 date: 2018-06-07 17:13:00 -04:00
 tags:
 - Digital Inclusion
+Author: "[YasmineWilliams](mailto:digitalfrontiers@dai.com)"
 ---
 
 The rapid expansion of mobile and internet access in the developing world holds the promise of becoming a platform for resilient economic and social growth. However, the availability and cost of connectivity is becoming a significant barrier to fully realizing that vision.
