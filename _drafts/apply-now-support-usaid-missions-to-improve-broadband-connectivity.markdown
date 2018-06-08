@@ -1,5 +1,5 @@
 ---
-title: 'Apply Now: Support USAID missions to improve broadband connectivity'
+title: 'Apply Now: Support USAID Missions to Improve Broadband Connectivity'
 date: 2018-06-07 17:13:00 -04:00
 tags:
 - Digital Inclusion
