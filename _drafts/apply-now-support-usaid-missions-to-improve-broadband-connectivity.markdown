@@ -6,7 +6,7 @@ tags:
 Author: "[YasmineWilliams](mailto:digitalfrontiers@dai.com)"
 ---
 
-![16697496505_cc84b1017e_m.jpg](/uploads/16697496505_cc84b1017e_m.jpg)
+![16697496505_cc84b1017e_m.jpg](/uploads/16697496505_cc84b1017e_m.jpg)`Photo credit: Christopher Burns, USAID Digital Development`
 
 The rapid expansion of mobile and internet access in the developing world holds the promise of becoming a platform for resilient economic and social growth. However, the availability and cost of connectivity is becoming a significant barrier to fully realizing that vision.
 
