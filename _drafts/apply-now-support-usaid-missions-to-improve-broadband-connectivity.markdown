@@ -13,6 +13,8 @@ The rapid expansion of mobile and internet access in the developing world holds 
 
 To help address this challenge, USAID’s Center for Digital Development developed the [Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide)](https://www.usaid.gov/sites/default/files/documents/15396/Better_Connectivity_Better_Programs_April2018.pdf).
 
+<!--more-->
+
 Today, DAI’s USAID-funded Digital Frontiers project releases a request for proposals (RFP) for experienced organizations to help USAID implement the [Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide)](https://www.usaid.gov/sites/default/files/documents/15396/Better_Connectivity_Better_Programs_April2018.pdf). Selected organizations will support USAID missions to aggregate the internet, mobile, and telecommunications demand of their implementing partner programs. This will assist USAID’s implementing partners in obtaining improved broadband service in currently underserved areas and negotiating better price and service levels. DAI anticipates awarding this as an Indefinite Quantity Contract (IQC) with issuance of Cost Reimbursable (CR) or Time and Material (T&M) Task Orders.
 
 **Who Should Apply?**
