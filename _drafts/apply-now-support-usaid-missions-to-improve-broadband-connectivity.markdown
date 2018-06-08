@@ -4,6 +4,7 @@ date: 2018-06-07 17:13:00 -04:00
 tags:
 - Digital Inclusion
 Author: "[YasmineWilliams](mailto:digitalfrontiers@dai.com)"
+social-image: "/uploads/16697496505_cc84b1017e_m.jpg"
 ---
 
 ![16697496505_cc84b1017e_m.jpg](/uploads/16697496505_cc84b1017e_m.jpg)`Photo credit: Christopher Burns, USAID Digital Development`
