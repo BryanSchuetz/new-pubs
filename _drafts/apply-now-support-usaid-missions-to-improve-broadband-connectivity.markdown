@@ -6,6 +6,8 @@ tags:
 Author: "[YasmineWilliams](mailto:digitalfrontiers@dai.com)"
 ---
 
+![16697496505_cc84b1017e_m.jpg](/uploads/16697496505_cc84b1017e_m.jpg)
+
 The rapid expansion of mobile and internet access in the developing world holds the promise of becoming a platform for resilient economic and social growth. However, the availability and cost of connectivity is becoming a significant barrier to fully realizing that vision.
 
 To help address this challenge, USAID’s Center for Digital Development developed the [Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide)](https://www.usaid.gov/sites/default/files/documents/15396/Better_Connectivity_Better_Programs_April2018.pdf).
