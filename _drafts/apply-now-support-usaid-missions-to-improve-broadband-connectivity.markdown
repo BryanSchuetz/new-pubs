@@ -13,7 +13,7 @@ To help address this challenge, the U.S. Agency for International Development (U
 
 <!--more-->
 
-![16697496505_cc84b1017e_m.jpg](/uploads/16697496505_cc84b1017e_m.jpg)`Photo credit: Christopher Burns, USAID Digital Development.`
+![happy phone.jpg](/uploads/happy%20phone.jpg)`Photo credit: Christopher Burns, USAID Digital Development.`
 
 Today, DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project releases a request for proposals (RFP) for experienced organizations to help USAID implement the guide. Selected organizations will support USAID missions to aggregate the internet, mobile, and telecommunications demands of their implementing partner programs to improve broadband service in underserved areas and negotiate better prices and services. DAI anticipates awarding this opportunity as an indefinite quantity contract with issuance of cost-reimbursable or time-and-materials task orders.
 
