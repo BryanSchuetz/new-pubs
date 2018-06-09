@@ -10,6 +10,8 @@ social-image: "/uploads/005.jpeg"
 thumbnail: "/uploads/07%20Plenary%20voting.jpg\n"
 ---
 
+*Esta publicación también está disponible en [español](https://dai-global-digital.com/replicando-app-transparencia-guatemala.html)*
+
 This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate *Somos Chiantla*. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app. 
 
 ![07 Plenary voting.jpg](/uploads/07%20Plenary%20voting.jpg)
