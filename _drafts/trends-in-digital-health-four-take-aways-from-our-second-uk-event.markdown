@@ -1,5 +1,5 @@
 ---
-title: 'Trends in digital health: Four take-aways from our second UK event'
+title: 'Trends in Digital health: 4 Takeaways From our UK Event'
 date: 2018-06-11 14:00:00 -04:00
 categories:
 - Health
