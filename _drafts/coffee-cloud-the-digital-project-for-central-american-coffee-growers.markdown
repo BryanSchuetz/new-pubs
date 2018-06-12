@@ -7,7 +7,9 @@ Coffee once represented $3.5 billion dollars in annual export value across five 
 
 <!--more-->
 
-![picturename.jpg](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/pic.jpg?download)`quote quote quote quote`
+![Screen Shot 2018-06-12 at 1.48.35 PM.png](/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png)
+
+`The app was built using material design to make an intituive solution.`
 
 In response DAI partnered with the Tropical Agricultural Research and Higher Education Center (or CATIE \[KAH-t-yay\], for its Spanish acronym), a regional leader in agricultural research, and USAID, to help farmers and other key actors in the coffee value chain make better decisions about their farms and businesses using live climate data from across the region.
 
