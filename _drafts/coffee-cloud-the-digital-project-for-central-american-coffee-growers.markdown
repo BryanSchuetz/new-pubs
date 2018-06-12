@@ -1,6 +1,9 @@
 ---
 title: 'Coffee Cloud: The Digital Project for Central American Coffee Growers'
 date: 2018-06-12 08:13:00 -04:00
+Author: Alejandro Solis
+social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
+thumbnail: 800x400
 ---
 
 Coffee once represented $3.5 billion dollars in annual export value across five Central America countries: El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras. But between 2010 and 2014, production took a nosedive, dropping 55%, to $1.5 billion. During this time, thousands of farmers throughout the region confronted the *roya*, or coffee rust, a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant; coffee exports are the region’s largest source of foreign income and a vast value chain supporting dozens of up- and downstream industries.
