@@ -9,7 +9,7 @@ Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenge
 
 In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last ten years, and where is the digital health sector headed now? How can we build systems that integrate data from various independent actors across the health ecosystem? How can we use lessons learned to support new frontiers of innovation? How can we adapt to expanding digital access, and how can we support the growth of local capacity?
 
-![IMG_0953.jpg](/uploads/IMG_0953.jpg)
+![blog pic.jpg](/uploads/blog%20pic.jpg)
 `Paula Quigley (HPI), Andrew Toft (DFID), Nicolas Moreno de Palma (Simprints), Abi Gleek (Every1Mobile), and Chloe Messenger (DAI Europe).`
 
 <!--more-->
