@@ -9,6 +9,9 @@ Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenge
 
 In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last ten years, and where is the digital health sector headed now? How can we build systems that integrate data from various independent actors across the health ecosystem? How can we use lessons learned to support new frontiers of innovation? How can we adapt to expanding digital access, and how can we support the growth of local capacity?
 
+![IMG_0953.jpg](/uploads/IMG_0953.jpg)
+'Paula Quigley (HPI), Andrew Toft (DFID), Nicolas Moreno de Palma (Simprints), Abi Gleek (Every1Mobile), and Chloe Messenger (DAI Europe).'
+
 <!--more-->
 
 To address these questions, DAI hosted a panel discussion on ‘Digital Health in International Development: Current Realities and Future Trends’ as part of a series of UK-based events that we’ve been arranging around the launch of DAI’s new [Center for Digital Acceleration](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration) (CDA). [Chloe Messenger](https://www.linkedin.com/in/chloemessenger/), CDA’s UK Digital Fellow, moderated the discussion, which featured [Andrew Toft](https://www.linkedin.com/in/andrew-toft-87314597/) from DFID’s Digital Team, [Abi Gleek](https://www.linkedin.com/in/abigleek/) from [Every1Mobile](http://www.every1mobile.net/), [Nicolas Moreno de Palma](https://www.linkedin.com/in/nicolasmorenodepalma/) from biometrics non-profit > [Simprints](https://www.simprints.com/about/), and [Paula Quigley](http://healthpartners-int.co.uk/our-team/technical-team/paula-quigley/) from DAI-Health Partners International. Here’s a summary of the discussion: 
