@@ -26,7 +26,7 @@ Even though there were two other tools seeking to provide a solution for the imp
 
 From the beginning of our design process, we were focused on engaging regional coffee-promotion institutions like PROMECAFE, national-level institutions like ANACAFE in Guatemala, ICAFE in Costa Rica, and IHCAFE in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. As a result, we worked hard throughout the design process to think about the regional implications of the process, but while ensuring we were meeting the needs of each individual partner institution, promoting ownership over the process and product. To have the greatest economic impact as soon as possible, we prioritized Guatemala, Honduras and Costa Rica as the countries with the highest production.
 
-![Screen Shot 2018-06-12 at 1.48.35 PM.png](/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png)
+![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
 `The app was built using material design to make an intituive solution.`
 
 **Applying Human-Centered Design at the Institutional Level**
