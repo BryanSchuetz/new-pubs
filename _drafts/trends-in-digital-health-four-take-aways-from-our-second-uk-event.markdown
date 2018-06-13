@@ -8,16 +8,16 @@ Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenge
 social-image: "/uploads/blog%20pic.jpg"
 ---
 
-In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last ten years, and where is the digital health sector headed now? How can we build systems that integrate data from various independent actors across the health ecosystem? How can we use lessons learned to support new frontiers of innovation? How can we adapt to expanding digital access, and how can we support the growth of local capacity?
-
-![blog pic.jpg](/uploads/blog%20pic.jpg)
-`Paula Quigley (HPI), Andrew Toft (DFID), Nicolas Moreno de Palma (Simprints), Abi Gleek (Every1Mobile), and Chloe Messenger (DAI Europe).`
+In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last 10 years, and where are we heading? How can we build systems that integrate data from independent actors across the health ecosystem? How can we use lessons learned to support innovation? How can we adapt to expanding digital access and support the growth of local capacity?
 
 <!--more-->
 
-To address these questions, DAI hosted a panel discussion on ‘Digital Health in International Development: Current Realities and Future Trends’ as part of a series of UK-based events that we’ve been arranging around the launch of DAI’s new [Center for Digital Acceleration](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration) (CDA). [Chloe Messenger](https://www.linkedin.com/in/chloemessenger/), CDA’s UK Digital Fellow, moderated the discussion, which featured [Andrew Toft](https://www.linkedin.com/in/andrew-toft-87314597/) from DFID’s Digital Team, [Abi Gleek](https://www.linkedin.com/in/abigleek/) from [Every1Mobile](http://www.every1mobile.net/), [Nicolas Moreno de Palma](https://www.linkedin.com/in/nicolasmorenodepalma/) from biometrics non-profit > [Simprints](https://www.simprints.com/about/), and [Paula Quigley](http://healthpartners-int.co.uk/our-team/technical-team/paula-quigley/) from DAI-Health Partners International. Here’s a summary of the discussion:
+![blog pic.jpg](/uploads/blog%20pic.jpg)
+`Panelists included Paula Quigley of DAI’s Health Partners International (not pictured), Andrew Toft of the U.K. Department for International Development, Nicolas Moreno de Palma of Simprints, Abi Gleek of Every1Mobile, and Chloe Messenger of DAI.`
 
-## 1. We need data-driven systems, but we also need data-driven decision-makers
+To address these questions, DAI recently hosted a panel discussion called “Digital Health in International Development: Current Realities and Future Trends,” as part of a series of UK events we’ve been hosting around the launch of our [Center for Digital Acceleration](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration) (CDA). [Chloe Messenger](https://www.linkedin.com/in/chloemessenger/), CDA’s UK Digital Fellow, moderated the discussion, which featured [Andrew Toft](https://www.linkedin.com/in/andrew-toft-87314597/) from the U.K. Department for International Development’s Digital Team, [Abi Gleek](https://www.linkedin.com/in/abigleek/) from [Every1Mobile](http://www.every1mobile.net/), [Nicolas Moreno de Palma](https://www.linkedin.com/in/nicolasmorenodepalma/) from biometrics nonprofit > [Simprints](https://www.simprints.com/about/), and [Paula Quigley](http://healthpartners-int.co.uk/our-team/technical-team/paula-quigley/) from DAI’s Health Partners International. Here’s a summary of the discussion:
+
+## 1. We Need Data-Driven Systems, But Also Data-Driven Decision-Makers
 
 It is clear that national health systems need improved processes and systems that ensure clean, accurate, secure, and timely health data. But, while we build these systems, we also need to make sure that decision-makers have the capacity and incentive to act on this data. This will demand that we think beyond simply aggregating data into visualizations and dashboards – it requires building a data culture, not just within national and local governments, but also in development implementers and donors. It demands that we use data and evidence to coordinate donor efforts and avoid fragmentation, investing in data interoperability across donor projects, rather than building new systems.
 
