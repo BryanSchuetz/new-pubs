@@ -16,10 +16,7 @@ thumbnail: 600 x 350
 Coffee once represented $3.5 billion dollars in annual export value across five Central America countries: El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras. But between 2010 and 2014, production took a nosedive, dropping 55%, to $1.5 billion. During this time, thousands of farmers throughout the region confronted the *roya*, or coffee rust, a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant; coffee exports are the region’s largest source of foreign income and a vast value chain supporting dozens of up- and downstream industries.
 
 <!--more-->
-
-![Screen Shot 2018-06-12 at 1.48.35 PM.png](/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png)
-
-`The app was built using material design to make an intituive solution.`
+![chart-export.png](/uploads/chart-export.png)
 
 In response DAI partnered with the Tropical Agricultural Research and Higher Education Center (or CATIE \[KAH-t-yay\], for its Spanish acronym), a regional leader in agricultural research, and USAID, to help farmers and other key actors in the coffee value chain make better decisions about their farms and businesses using live climate data from across the region.
 
@@ -28,6 +25,9 @@ Even though there were two other tools seeking to provide a solution for the imp
 **Thinking Regionally, Working Locally**
 
 From the beginning of our design process, we were focused on engaging regional coffee-promotion institutions like PROMECAFE, national-level institutions like ANACAFE in Guatemala, ICAFE in Costa Rica, and IHCAFE in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. As a result, we worked hard throughout the design process to think about the regional implications of the process, but while ensuring we were meeting the needs of each individual partner institution, promoting ownership over the process and product. To have the greatest economic impact as soon as possible, we prioritized Guatemala, Honduras and Costa Rica as the countries with the highest production.
+
+![Screen Shot 2018-06-12 at 1.48.35 PM.png](/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png)
+`The app was built using material design to make an intituive solution.`
 
 **Applying Human-Centered Design at the Institutional Level**
 
