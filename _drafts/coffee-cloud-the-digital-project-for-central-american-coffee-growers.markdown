@@ -4,10 +4,10 @@ date: 2018-06-12 08:13:00 -04:00
 categories:
 - Innovation
 tags:
-- coffee
 - Digital Principles
-- central america
 - Human-centered design
+- Coffee
+- Central America
 Author: Alejandro Solis
 social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 thumbnail: 600 x 350
