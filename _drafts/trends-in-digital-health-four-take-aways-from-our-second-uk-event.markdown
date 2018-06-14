@@ -3,6 +3,10 @@ title: 'Trends in Digital Health: 4 Takeaways From Our UK Event'
 date: 2018-06-11 14:00:00 -04:00
 categories:
 - Health
+tags:
+- Digital Inclusion
+- Health
+- Human-centered design
 Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
   and [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/)"
 social-image: "/uploads/blog%20pic.jpg"
@@ -25,7 +29,7 @@ It is clear that national health systems need improved processes and systems tha
 
 It can be tempting for implementers and donors to think of expanding digital access in the Global South in a purely instrumental way, i.e. seeing mobile phones as either sources of health data or as channels for program outreach. But digital access is about so much more than simply sending or receiving information—it enables the creation and nurturing of local communities. This is the capability we should build on, whether to trigger behavior change such as handwashing and nutrition, or to track health outcomes.
 
-## 3. ‘Old’ Technologies are Just as Exciting as New Ones
+## 3. Old Technologies are Just as Exciting as New Ones
 
 It can be easy to get caught up in the hype of new technologies, but to innovate doesn’t just mean to create something new. We can use existing technologies in new and exciting ways, to drive more effective impact in the health sector and widen our reach. When the panelists were asked what technology they are most excited about, they all harked back to existing (and fairly well-established) technologies: clinical apps, where the opportunities for supporting community health workers are quickly evolving; systems to collect and process health data; open source data management platforms like [DHIS2](https://en.wikipedia.org/wiki/DHIS); and feature phones that help reach the ‘last mile’ of patients.
 
