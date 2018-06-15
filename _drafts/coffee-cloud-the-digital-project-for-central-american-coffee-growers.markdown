@@ -1,56 +1,58 @@
 ---
-title: 'Coffee Cloud: The Digital Project for Central American Coffee Growers'
+title: 'Coffee Cloud: The Digital Project for  Central American Coffee Growers'
 date: 2018-06-12 08:13:00 -04:00
 categories:
 - Innovation
 tags:
 - Digital Principles
 - Human-centered design
-- Coffee
 - Central America
+- Agriculture
 Author: Alejandro Solis
 social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 thumbnail: 600 x 350
 ---
 
-Coffee once represented $3.5 billion dollars in annual export value across five Central America countries: El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras. But between 2010 and 2014, production took a nosedive, dropping 55%, to $1.5 billion. During this time, thousands of farmers throughout the region confronted the *roya*, or coffee rust, a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant; coffee exports are the region’s largest source of foreign income and a vast value chain supporting dozens of up- and downstream industries.
+One of the world’s most loved consumer soft-drink faced a serious setback. Coffee is a major source of export revenue for El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras and in past few yeas, the export volume of coffee for these five countries has surpassed US $3.5 billion dollars. However, during 2010-2014, coffee crop suffered set back and it’s production and export reduced by 55%, to $1.5 billion. During this time, thousands of farmers, throughout the region confronted the **Roya**, or coffee rust. It a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant as coffee exports is the region’s largest source of foreign income and is a member of vast supply chain network supporting dozens of up- and downstream industries.
 
 <!--more-->
 ![chart-export.png](/uploads/chart-export.png)
 
-In response DAI partnered with the Tropical Agricultural Research and Higher Education Center (or CATIE \[KAH-t-yay\], for its Spanish acronym), a regional leader in agricultural research, and USAID, to help farmers and other key actors in the coffee value chain make better decisions about their farms and businesses using live climate data from across the region.
+In order to tackle the situation, DAI partnered with the Tropical Agricultural Research and Higher Education Center, a regional leader in agricultural research, and USAID, to help farmers and other key stakeholders. The idea was to help people linked with coffee value chain in making better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
+
+At the regional level, there were different tools that can be used for providing a solution for the improvement of coffee growers' conditions, however, in Guatemala, DAI opted for the Coffee Cloud. The reason for making this selection was the fact that Coffee Cloud is based on user centered design approach that was implemented in the project.
 
 Even though there were two other tools seeking to provide a solution for the improvement of coffee growers' conditions at the regional level, in Guatemala they opted for the Coffee Cloud not because of the tool itself, but because of the User Centered Design approach that was implement in the Project.
 
 **Thinking Regionally, Working Locally**
 
-From the beginning of our design process, we were focused on engaging regional coffee-promotion institutions like PROMECAFE, national-level institutions like ANACAFE in Guatemala, ICAFE in Costa Rica, and IHCAFE in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. As a result, we worked hard throughout the design process to think about the regional implications of the process, but while ensuring we were meeting the needs of each individual partner institution, promoting ownership over the process and product. To have the greatest economic impact as soon as possible, we prioritized Guatemala, Honduras and Costa Rica as the countries with the highest production.
+From the beginning of the design process, we were focused on engaging regional coffee-promotion institutions like [PROMECAFE](http://promecafe.net/), national-level institutions like [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. As a result of this, we worked hard throughout the design process and considered the regional implications of the process. The main purpose of this effort was to ensure that we were meeting the needs of each individual partner institution and were promoting ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras and Costa Rica might have highest economic impact from the project so gave these countries priority.
 
 ![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
 `The app was built using material design to make an intituive solution.`
 
 **Applying Human-Centered Design at the Institutional Level**
 
-With such diversity of actors and requirements, developing a tech tool that would satisfy the needs of all would be impossible. So, we approached the challenge through the framework of Design Thinking, hosting interaction design workshops with users from across our spectrum of actors, and made some useful insights:
+Diversity of actors and their requirements made it difficult for us to quickly develop and implement a tool that could meet the requirements of everyone. So, we approached the challenge through the framework of Design Thinking. Consequently, we invited users to attend our interaction design workshops. These workshops resulted in following useful insights:
 
 * Collecting data that’s granular enough to be useful for an individual farmer is a challenge. That’s why we made the famers themselves the data collectors. In short, we crowdsourced it.
 
-* Farmers’ access to smartphones is always a big question (what’s why we do Frontier Insights), but in our workshops, 8 out of 10 had one. In Guatemala, there are nearly two phones per person and the trend continues upwards.
+* Farmers’ access to smartphones has always been a big issue, but in our workshops, 8 out of 10 farmers had a smartphone. In Guatemala, there are nearly two phones per person and the penetration of smartphones is increasing.
 
-* Coffee rust can kill a crop in less than 8 days, so not only is a timely response to inputs the most important motivator for using the product; it’s the only way the tool can have impact.
+* Coffee rust can kill a crop in less than 8 days. This requires a timely response so that one can take a remedial action. A timely response may motivate users to use appropriate products which can minimize the impact.
 
-* The tool must be scalable. In addition to the Coffee Rust calculation, 5 other tools for the producer were added: agrochemicals dosage calculator, Ojo de Gallo test, Harvest Calculator, Weather and communication module.
+* The tool must be scalable. In addition to the Coffee Rust calculation, 5 other tools for the producer were added. These include agrochemicals dosage calculator, Ojo de Gallo test, Harvest Calculator, Weather and communication module.
 
-* We used open source projects and programming languages as well as cloud servers to ensure we didn’t create additional costs after USAID support ends.
+* We used open source projects and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
 
-* In Guatemala alone there are than 23 spoken languages, so the tool must be so intuitive and friendly that even without knowing how to read or write, a farmer can use it.
+* In Guatemala alone, there are more than 23 spoken languages. This required an intuitive and user-friendly tool so that a less-educated farmer may also use it.
 
 **The Result: Beyond an ICT solution we got a project appropriated by the regional entities**
 
-As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It currently has more than 1200 users in Guatemala and around 800 in Costa Rica, all of them coffee growers that collect data and receive feedback via mobile.
+As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It, currently, has more than 1200 users in Guatemala and around 800 in Costa Rica. All of these users, collect and share coffee data via mobile and also receive feedback through it.
 
-ANACAFE in Guatemala added Coffee Cloud to its biannual sustainability strategy, providing more than $200,000 for its sustainability and improvement. Their goal is to scale the project to more than 5000 users over the next year.
+ANACAFE in Guatemala added Coffee Cloud to its biannual sustainability strategy, providing more than $200,000 for its sustainability and improvement. The goal is to scale the project to more than 5,000 users over the next year.
 
-In Costa Rica, the Coffee Institute took the project and adapted it to their needs, using Coffee Cloud as their user interface on top of their national information database.
+In Costa Rica, the Coffee Institute took the project and adapted it to it’s needs. The respective institute decided to use Coffee Cloud as it’s user interface on the top of it’s national information database.
 
-Coffee Cloud is becoming to be an open project that other countries, development projects and local organizations are pointing to due its flexibility and versatility, a tool that was made to achieve the user requirements not achieving the problem solution only.
+Over the period of time, Coffee Cloud has become a project that other countries can also adopt. Owing to the benefits attached to it, other development projects and local organizations are recommending such adoption.
