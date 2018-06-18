@@ -1,7 +1,7 @@
 ---
 title: Alejandro Solis
 date: 2018-06-12 08:02:00 -04:00
-Job: ICT Specilalist LAC Region
+Job: ICT Specialist - LAC Region
 Image: "/uploads/ale.png"
 ---
 
