@@ -4,9 +4,7 @@ date: 2018-06-12 08:13:00 -04:00
 categories:
 - Innovation
 tags:
-- Digital Principles
 - Human-centered design
-- Central America
 - Agriculture
 Author: Alejandro Solis
 social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
@@ -18,9 +16,9 @@ One of the world’s most loved beverages faced a serious setback. During 2010-2
 <!--more-->
 ![chart-export.png](/uploads/chart-export.png)
 
-In order to tackle the situation, DAI partnered with the Tropical Agricultural Research and Higher Education Center, a regional leader in agricultural research, and USAID, to help farmers and other key stakeholders. The idea was to help people linked with coffee value chain in making better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
+To tackle the situation, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and USAID to help farmers and other key stakeholders. The idea was to help people linked with the coffee value chain in making better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
 
-At the regional level, there were different tools that can be used for providing a solution for the improvement of coffee growers' conditions, however, in Guatemala, DAI opted for the Coffee Cloud. The reason for making this selection was the fact that Coffee Cloud is based on user centered design approach that was implemented in the project.
+At the regional level, there are different tools to provide a solution for the improvement of coffee growers' conditions, however, in Guatemala, DAI opted for the Coffee Cloud. The reason for making this selection was the fact that Coffee Cloud is based on user centered design approach that was implemented in the project.
 
 Even though there were two other tools seeking to provide a solution for the improvement of coffee growers' conditions at the regional level, in Guatemala they opted for the Coffee Cloud not because of the tool itself, but because of the User Centered Design approach that was implement in the Project.
 
