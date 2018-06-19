@@ -11,16 +11,17 @@ social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 thumbnail: 600 x 350
 ---
 
-![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
-
 From 2010 to 2014, the Central American coffee bean suffered from disease. Exports declined by 55 percent, to US $1.5 billion, from XXXXXX. Thousands of farmers throughout the region were confronted by the **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee). Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on Central American economies was significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain network supporting dozens of adjacent industries.
 
 <!--more-->
+
 ![chart-export.png](/uploads/chart-export.png)
 
 To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development. The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
 
 At the regional level, there are different tools to provide a solution for the improvement of coffee growers' conditions, however none of them were designed with a human-centered approach and they are unweildy for farmers and other stakeholders to use with meaningful results.  Thus in Guatemala, DAI opted to design a new tool, **Coffee Cloud**, using a fully human-centered design approach.
+
+![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
 
 **Thinking Regionally, Working Locally**
 
