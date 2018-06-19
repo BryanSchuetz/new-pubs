@@ -34,7 +34,7 @@ From the beginning of the design process, we focused on engaging regional coffee
 
 The diversity of actors and their requirements made it difficult for us to quickly develop and implement a tool that could meet the requirements of everyone. So, we approached the challenge through the framework of design thinking, including inviting users to attend our interaction design workshops. These workshops resulted in following useful insights:
 
-* Collecting data that’s granular enough to be useful for an individual farmer is a challenge. That’s why we made the famers themselves the data collectors. In short, we crowdsourced it.
+* Collecting data that’s granular enough to be useful for an individual farmer is a challenge. That’s why we made the farmers themselves the data collectors. In short, we crowdsourced it.
 * Farmers’ access to smartphones has always been a big issue, but in our workshops, eight out of 10 farmers had a smartphone. In Guatemala, there are nearly two phones per person and the penetration of smartphones is increasing.
 * Coffee rust can kill a crop in less than eight days. A timely response to allow for remedial action was a must. A timely response may motivate users to use appropriate products which can minimize the disease’s impact.
 * The tool must be scalable. In addition to the coffee rust calculation, five other features were added. These include agrochemicals dosage calculator, Ojo de Gallo test, harvest calculator, weather, and communication module.
