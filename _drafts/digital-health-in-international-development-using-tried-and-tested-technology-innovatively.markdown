@@ -4,7 +4,7 @@ title: 'Digital Health in International Development: Using tried & tested techno
 date: 2018-06-19 07:42:00 -04:00
 ---
 
-![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  `Abi Gleek, Head of Programme Design at Every1Mobile `
+![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  `Abi Gleek, Head of Programme Design at Every1Mobile`
 I was recently invited to take part in the recent DAI panel discussion on “Digital Health in International Development: Current Realities and Future Trends” in London. It was an incredibly dynamic and passionate discussion, with fascinating perspectives from across the health, tech and development sectors.
 
 Following the event, I’d like to share some of the key points I shared during the discussion and hope to stimulate a continued conversation.
@@ -34,7 +34,7 @@ At Every1Mobile we have seen that the real value of building solutions centred o
 
 ![1.png](/uploads/1.png)
 
-Key Points in Action: the U Afya Programme
+## Key Points in Action: the U Afya Programme
 
 Here’s an example of these key points in action, which I shared during the panel discussion, from our U Afya programme in Nairobi (Afya means health in Kiswahili).
 
@@ -66,5 +66,6 @@ Mobile based e-learning  could be used for delivering professional development t
 
 Innovation doesn’t have to mean that we use brand new technology. We can build on the technology already embedded in communities, to deliver social impact in a much more sustainable and meaningful way.
 
-Abi Gleek is Head of Programme Design at Every1Mobile, a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, we work with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. Through our partnerships, we expand people’s knowledge, connect geographically dispersed communities and influence behaviour change.
-Connect with us @Every1Mobile @abi_gleek2
+*Abi Gleek is Head of Programme Design at Every1Mobile, a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, we work with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. Through our partnerships, we expand people’s knowledge, connect geographically dispersed communities and influence behaviour change.
+
+Connect with us @Every1Mobile @abi_gleek2*
