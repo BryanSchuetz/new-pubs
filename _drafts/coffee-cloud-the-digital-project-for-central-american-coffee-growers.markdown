@@ -25,10 +25,10 @@ At the regional level, there are different tools that provide solutions to impro
 
 ### Thinking Regionally, Working Locally
 
-From the beginning of the design process, we focused on engaging regional coffee-promotion institutions like [PROMECAFE](http://promecafe.net/), national-level institutions like [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. To fix the needs of this mix of actors, we worked hard throughout the design process and considered the regional implications of the process. The main purpose of this effort was to ensure that we were meeting the needs of each individual partner institution and were promoting ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras and Costa Rica might have highest economic impact from the project so gave these countries priority.
+From the beginning of the design process, we focused on engaging regional coffee-promotion institutions such as [PROMECAFE](http://promecafe.net/), national-level institutions such as [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations, and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. To fix the needs of this mix of actors, we worked hard throughout the design process and considered the regional implications of the process. The main purpose of this effort was to ensure that we were meeting the needs of each individual partner institution and were promoting ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras and Costa Rica might have highest economic impact from the project so gave these countries priority.
 
 ![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
-`The app was built using material design to make an intituive and easy to use solution.`
+`The app was built using material designed to produce an intuitive and simple solution.`
 
 **Applying Human-Centered Design at the Institutional Level**
 
