@@ -39,12 +39,11 @@ The diversity of actors and their requirements made it difficult for us to quick
 * Coffee rust can kill a crop in less than eight days. A timely response to allow for remedial action was a must. A timely response may motivate users to use appropriate products which can minimize the disease’s impact.
 * The tool must be scalable. In addition to the coffee rust calculation, five other features were added. These include agrochemicals dosage calculator, Ojo de Gallo test, harvest calculator, weather, and communication module.
 * We used open source projects and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
+* In Guatemala alone, there are more than 23 spoken languages. This required an intuitive and user-friendly tool so that less-educated farmers may also use it.
 
-* In Guatemala alone, there are more than 23 spoken languages. This required an intuitive and user-friendly tool so that a less-educated farmer may also use it.
+### The Result
 
-**The Result: Beyond an ICT solution we got a project appropriated by the regional entities**
-
-As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It currently has more than 1200 users in Guatemala and around 800 in Costa Rica. All of these users collect and share coffee data via mobile and also receive feedback through it.
+As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It currently has more than 1,200 users in Guatemala and around 800 in Costa Rica. All of these users collect and share coffee data via mobile and also receive feedback through it.
 
 ANACAFE in Guatemala added Coffee Cloud to its biannual sustainability strategy, providing more than $200,000 for its sustainability and improvement. The goal is to scale the project to more than 5,000 users over the next year.
 
