@@ -47,6 +47,6 @@ As a result of close engagement throughout the design process, Coffee Cloud was 
 
 ANACAFE in Guatemala added Coffee Cloud to its biannual sustainability strategy, providing more than $200,000 for its sustainability and improvement. The goal is to scale the project to more than 5,000 users over the next year.
 
-In Costa Rica, the Coffee Institute took the project and adapted it to its needs. The respective institute decided to use Coffee Cloud as the user interface of its national information database.
+In Costa Rica, the Coffee Institute took the project and adapted it to its needs. The institute decided to use Coffee Cloud as the user interface of its national information database.
 
 Coffee Cloud has become a project that other countries can also adopt. Owing to the benefits attached to it, other development projects and local organizations are recommending such adoption throughout the region.
