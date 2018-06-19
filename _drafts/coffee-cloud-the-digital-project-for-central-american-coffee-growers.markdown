@@ -23,7 +23,7 @@ At the regional level, there are different tools to provide a solution for the i
 
 ![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
 
-**Thinking Regionally, Working Locally**
+### Thinking Regionally, Working Locally
 
 From the beginning of the design process, we focused on engaging regional coffee-promotion institutions like [PROMECAFE](http://promecafe.net/), national-level institutions like [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. To fix the needs of this mix of actors, we worked hard throughout the design process and considered the regional implications of the process. The main purpose of this effort was to ensure that we were meeting the needs of each individual partner institution and were promoting ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras and Costa Rica might have highest economic impact from the project so gave these countries priority.
 
