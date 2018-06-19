@@ -19,7 +19,7 @@ From 2010 to 2014, the Central American coffee bean suffered from disease. Expor
 
 To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development. The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
 
-At the regional level, there are different tools to provide a solution for the improvement of coffee growers' conditions, however none of them were designed with a human-centered approach and they are unweildy for farmers and other stakeholders to use with meaningful results.  Thus in Guatemala, DAI opted to design a new tool, **Coffee Cloud**, using a fully human-centered design approach.
+At the regional level, there are different tools that provide solutions to improve coffee growing conditions, but none of them were designed with a human-centered approach. In Guatemala, DAI opted to create a new tool—**Coffee Cloud**—using a fully human-centered design approach.
 
 ![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
 
