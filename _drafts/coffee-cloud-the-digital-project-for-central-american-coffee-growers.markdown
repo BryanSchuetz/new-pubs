@@ -11,31 +11,33 @@ social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 thumbnail: 600 x 350
 ---
 
-One of the world’s most loved beverages faced a serious setback. During 2010-2014, the Central American coffee crop suffered and its production and export declined by 55%, to US $1.5 billion. Coffee is a major source of export revenue for El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras and in past few yeas, the export volume of coffee for these five countries has surpassed US $3.5 billion. What happened from 2010-2014 to cause such a decline in yield? Thousands of farmers throughout the region confronted the **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee). Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain network supporting dozens of up- and downstream industries.
+One of the world’s most loved beverages faced a serious setback. During 2010-2014, the Central American coffee crop suffered and its production and export declined by 55%, to US $1.5 billion. Coffee is a major source of export revenue for El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras and in the past few years, the export volume of coffee for these five countries surpassed US $3.5 billion. 
+
+What happened from 2010-2014 to cause such a decline in yield? Thousands of farmers throughout the region confronted the **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee). Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain network supporting dozens of up- and downstream industries.
 
 <!--more-->
 ![chart-export.png](/uploads/chart-export.png)
 
-To tackle the situation, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and USAID to help farmers and other key stakeholders. The idea was to help people linked with the coffee value chain in making better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
+To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and USAID. The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
 
-At the regional level, there are different tools to provide a solution for the improvement of coffee growers' conditions, however, in Guatemala, DAI opted for the Coffee Cloud. The reason for making this selection was the fact that Coffee Cloud is based on user centered design approach that was implemented in the project.
+At the regional level, there are different tools to provide a solution for the improvement of coffee growers' conditions, however none of them were designed with a human-centered approach and they are unweildy for farmers and other stakeholders to use with meaningful results.  Thus in Guatemala, DAI opted to design a new tool, **Coffee Cloud**, using a fully human-centered design approach.
 
 **Thinking Regionally, Working Locally**
 
-From the beginning of the design process, we focused on engaging regional coffee-promotion institutions like [PROMECAFE](http://promecafe.net/), national-level institutions like [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. As a result of this, we worked hard throughout the design process and considered the regional implications of the process. The main purpose of this effort was to ensure that we were meeting the needs of each individual partner institution and were promoting ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras and Costa Rica might have highest economic impact from the project so gave these countries priority.
+From the beginning of the design process, we focused on engaging regional coffee-promotion institutions like [PROMECAFE](http://promecafe.net/), national-level institutions like [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations and producers. Given the variety of actors involved, the same recipe wouldn’t have worked for everyone. To fix the needs of this mix of actors, we worked hard throughout the design process and considered the regional implications of the process. The main purpose of this effort was to ensure that we were meeting the needs of each individual partner institution and were promoting ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras and Costa Rica might have highest economic impact from the project so gave these countries priority.
 
 ![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
 `The app was built using material design to make an intituive and easy to use solution.`
 
 **Applying Human-Centered Design at the Institutional Level**
 
-Diversity of actors and their requirements made it difficult for us to quickly develop and implement a tool that could meet the requirements of everyone. So, we approached the challenge through the framework of Design Thinking. Consequently, we invited users to attend our interaction design workshops. These workshops resulted in following useful insights:
+Diversity of actors and their requirements made it difficult for us to quickly develop and implement a tool that could meet the requirements of everyone. So, we approached the challenge through the framework of Design Thinking, including inviting users to attend our interaction design workshops. These workshops resulted in following useful insights:
 
 * Collecting data that’s granular enough to be useful for an individual farmer is a challenge. That’s why we made the famers themselves the data collectors. In short, we crowdsourced it.
 
 * Farmers’ access to smartphones has always been a big issue, but in our workshops, 8 out of 10 farmers had a smartphone. In Guatemala, there are nearly two phones per person and the penetration of smartphones is increasing.
 
-* Coffee rust can kill a crop in less than 8 days. This requires a timely response so that one can take a remedial action. A timely response may motivate users to use appropriate products which can minimize the impact.
+* Coffee rust can kill a crop in less than 8 days. This requires a timely response so that one can take a remedial action. A timely response may motivate users to use appropriate products which can minimize the disease's impact.
 
 * The tool must be scalable. In addition to the Coffee Rust calculation, 5 other tools for the producer were added. These include agrochemicals dosage calculator, Ojo de Gallo test, Harvest Calculator, Weather and communication module.
 
@@ -45,10 +47,10 @@ Diversity of actors and their requirements made it difficult for us to quickly d
 
 **The Result: Beyond an ICT solution we got a project appropriated by the regional entities**
 
-As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It, currently, has more than 1200 users in Guatemala and around 800 in Costa Rica. All of these users, collect and share coffee data via mobile and also receive feedback through it.
+As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It currently has more than 1200 users in Guatemala and around 800 in Costa Rica. All of these users collect and share coffee data via mobile and also receive feedback through it.
 
 ANACAFE in Guatemala added Coffee Cloud to its biannual sustainability strategy, providing more than $200,000 for its sustainability and improvement. The goal is to scale the project to more than 5,000 users over the next year.
 
-In Costa Rica, the Coffee Institute took the project and adapted it to it’s needs. The respective institute decided to use Coffee Cloud as it’s user interface on the top of it’s national information database.
+In Costa Rica, the Coffee Institute took the project and adapted it to its needs. The respective institute decided to use Coffee Cloud as the user interface of its national information database.
 
-Over the period of time, Coffee Cloud has become a project that other countries can also adopt. Owing to the benefits attached to it, other development projects and local organizations are recommending such adoption.
+Coffee Cloud has become a project that other countries can also adopt. Owing to the benefits attached to it, other development projects and local organizations are recommending such adoption throughout the region.
