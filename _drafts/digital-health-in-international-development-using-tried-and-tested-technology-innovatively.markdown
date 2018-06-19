@@ -2,6 +2,7 @@
 title: 'Digital Health in International Development: Using tried & tested technology
   innovatively'
 date: 2018-06-19 07:42:00 -04:00
+social-image: "/uploads/Abi-8b868a.jpg"
 ---
 
 ![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  `Abi Gleek, Head of Programme Design at Every1Mobile`
