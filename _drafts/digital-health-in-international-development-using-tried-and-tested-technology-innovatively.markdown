@@ -12,7 +12,7 @@ Following the event, I’d like to share some of the key points I shared during 
 
 <!--more-->
 
-## Sometimes Tried and Tested is Best
+## 1. Sometimes Tried and Tested is Best
 
 When asked my opinion on the most promising piece of tech for the health sector, my response was
 mobile-based e-learning. It isn’t new, and it is easily overshadowed by the latest headline in digital
@@ -20,14 +20,14 @@ development. Yet its potential when used in innovative ways is ground-breaking.
 
 It’s easy to get carried away with the promise of the latest innovative technology, or dazzled by a flashy new app. Yet it’s important to remember that the majority of people in the low-income communities we serve have access only to a basic internet-enabled feature phone, if that. The most vulnerable, including women, adolescents, people living with disabilities and the very poor, are the least likely to have the means or digital literacy to benefit from a high-tech solution.
 
-## Delivering Genuine Human-Centred Design
+## 2. Delivering Genuine Human-Centred Design
 
 There is a lot of buzz in our sector for human-centred design (HCD), but this can be contradicted by the proliferation of shiny digital pilots, transplanted from a high-income context.
 
 I believe that to deliver genuine HCD, we need to design our solutions based on the tech that people
 in the communities we serve have in their hands. We need to work in close collaboration with them to understand the details of their mobile access, digital literacy, and data and connectivity constrictions, in the same way as we need to understand their needs, perspectives and values in relation to the development challenge we are aiming to address.
 
-## Technology as a Connector
+## 3. Technology as a Connector
 
 The technological constraints that people are facing don’t have to prevent innovative design. For too long mobile phones have been seen either to push messages out to communities, or to gather data from them. This misses the point of how people use phones in their daily lives - to connect and engage.
 
