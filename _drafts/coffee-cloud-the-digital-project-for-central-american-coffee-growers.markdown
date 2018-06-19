@@ -17,7 +17,7 @@ From 2010 to 2014, the Central American coffee bean suffered from disease and th
 
 ![chart-export.png](/uploads/chart-export.png)
 
-To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development (USAID). The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
+To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development (USAID). The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing live climate data collected from the region.
 
 At the regional level, there are different tools that provide solutions to improve coffee-growing conditions, but none of them were designed with farmers in mind. In Guatemala, DAI opted to create a new tool—**Coffee Cloud**—using a fully human-centered design approach.
 
