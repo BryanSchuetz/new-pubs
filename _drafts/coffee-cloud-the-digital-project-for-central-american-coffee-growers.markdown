@@ -11,6 +11,8 @@ social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 thumbnail: 600 x 350
 ---
 
+![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
+
 One of the world’s most loved beverages faced a serious setback. During 2010-2014, the Central American coffee crop suffered and its production and export declined by 55%, to US $1.5 billion. Coffee is a major source of export revenue for El Salvador, Nicaragua, Costa Rica, Guatemala, and Honduras and in the past few years, the export volume of coffee for these five countries surpassed US $3.5 billion. 
 
 What happened from 2010-2014 to cause such a decline in yield? Thousands of farmers throughout the region confronted the **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee). Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on these Central American countries’ economies has been significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain network supporting dozens of up- and downstream industries.
