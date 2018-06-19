@@ -41,7 +41,7 @@ The diversity of actors and their requirements made it difficult for us to quick
 * We used open source projects and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
 * In Guatemala alone, there are more than 23 spoken languages. This required an intuitive and user-friendly tool so that less-educated farmers may also use it.
 
-### The Result
+### The Result: Wide Adoption
 
 As a result of close engagement throughout the design process, Coffee Cloud was adopted by the Guatemalan and Costa Rican National Coffee Institutes. It currently has more than 1,200 users in Guatemala and around 800 in Costa Rica. All of these users collect and share coffee data via mobile and also receive feedback through it.
 
