@@ -28,7 +28,7 @@ At the regional level, there are different tools that provide solutions to impro
 From the beginning of the design process, we focused on engaging regional coffee-promotion institutions such as [PROMECAFE](http://promecafe.net/), national-level institutions such as [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations, and producers. Given the variety of actors involved, the same recipe wouldn’t work for everyone. To fix the needs of this mix of actors, we worked hard throughout the design process and considered the regional implications of the process. We wanted to ensure we were meeting the needs of each individual partner institution and promote ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras, and Costa Rica might have highest economic impact from the project so we prioritized these countries.
 
 ![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
-`The app was built using material designed to produce an intuitive and simple solution.`
+`The app was built to be an intuitive and simple solution.`
 
 ### Applying HCD at Institutional Level
 
