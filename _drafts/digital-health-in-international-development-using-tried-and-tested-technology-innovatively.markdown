@@ -52,10 +52,10 @@ We ran a pilot through WhatsApp (the technology most popular with the target gro
 
 I’ll share the insights again here:
 Engagement in the discussions was very high: 60% of users engaged in every session, and 84% in more than half.
-●   There were no significant knowledge gains, due largely to the high scores at pre- survey.
-●   Yet we saw a large shift in attitudes: an increase in self-confidence, increase in the perceived benefits of the behaviours, and a decrease in the perceived barriers.
-●   There was also a significant change in self-reported behaviour.
-●   Crucially, there was a strong link between engagement and behaviour change: with the desired behaviour more prominent for those women who actively engaged in sessions.
+* There were no significant knowledge gains, due largely to the high scores at pre- survey.
+* Yet we saw a large shift in attitudes: an increase in self-confidence, increase in the perceived benefits of the behaviours, and a decrease in the perceived barriers.
+* There was also a significant change in self-reported behaviour.
+* Crucially, there was a strong link between engagement and behaviour change: with the desired behaviour more prominent for those women who actively engaged in sessions.
 
 We are now in our improvement phase, taking learnings from the pilot to develop a full U Afya digital community. The community will allow women across low-income neighbourhoods of Nairobi to connect in a space designed for and with them, to engage with tailored learning, peer and expert support, confidence-building activities, and to purchase discounted health-related products.
 ![4-81ca41.jpg](/uploads/4-81ca41.jpg)
@@ -67,6 +67,6 @@ Mobile based e-learning  could be used for delivering professional development t
 
 Innovation doesn’t have to mean that we use brand new technology. We can build on the technology already embedded in communities, to deliver social impact in a much more sustainable and meaningful way.
 
-*Abi Gleek is Head of Programme Design at Every1Mobile, a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, we work with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. Through our partnerships, we expand people’s knowledge, connect geographically dispersed communities and influence behaviour change.
+*[Abi Gleek](https://www.linkedin.com/in/abigleek) is Head of Programme Design at [Every1Mobile](http://www.every1mobile.net/), a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, we work with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. Through our partnerships, we expand people’s knowledge, connect geographically dispersed communities and influence behaviour change.
 
 Connect with us @Every1Mobile @abi_gleek2*
