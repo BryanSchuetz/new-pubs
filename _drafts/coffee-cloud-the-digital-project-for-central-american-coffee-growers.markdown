@@ -17,7 +17,7 @@ From 2010 to 2014, the Central American coffee bean suffered from disease. Expor
 
 ![chart-export.png](/uploads/chart-export.png)
 
-To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development. The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
+To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development (USAID). The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing these stakeholders with live climate data collected from the region.
 
 At the regional level, there are different tools that provide solutions to improve coffee-growing conditions, but none of them were designed with farmers in mind. In Guatemala, DAI opted to create a new tool—**Coffee Cloud**—using a fully human-centered design approach.
 
@@ -38,7 +38,6 @@ The diversity of actors and their requirements made it difficult for us to quick
 * Farmers’ access to smartphones has always been a big issue, but in our workshops, eight out of 10 farmers had a smartphone. In Guatemala, there are nearly two phones per person and the penetration of smartphones is increasing.
 * Coffee rust can kill a crop in less than eight days. A timely response to allow for remedial action was a must. A timely response may motivate users to use appropriate products which can minimize the disease’s impact.
 * The tool must be scalable. In addition to the Coffee Rust calculation, 5 other tools for the producer were added. These include agrochemicals dosage calculator, Ojo de Gallo test, Harvest Calculator, Weather and communication module.
-
 * We used open source projects and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
 
 * In Guatemala alone, there are more than 23 spoken languages. This required an intuitive and user-friendly tool so that a less-educated farmer may also use it.
