@@ -6,7 +6,7 @@ social-image: "/uploads/Abi-8b868a.jpg"
 ---
 
 ![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  
-`Abi Gleek, Head of Programme Design at Every1Mobile`
+`Abi Gleek, Head of Programme Design at Every1Mobile`{:.float-left}
 I was recently invited to take part in the recent DAI panel discussion on “Digital Health in International Development: Current Realities and Future Trends” in London. It was an incredibly dynamic and passionate discussion, with fascinating perspectives from across the health, tech and development sectors.
 
 Following the event, I’d like to share some of the key points I shared during the discussion and hope to stimulate a continued conversation.
