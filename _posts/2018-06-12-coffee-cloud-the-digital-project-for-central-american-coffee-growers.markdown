@@ -28,21 +28,21 @@ At the regional level, there are different tools that provide solutions to impro
 
 ### Thinking Regionally, Working Locally
 
-From the beginning of the design process, we focused on engaging regional coffee-promotion institutions such as [PROMECAFE](http://promecafe.net/), national institutions such as [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations, and producers. Given the variety of actors involved, the same recipe wouldn’t work for everyone. To fix the needs of this mix of actors, we worked hard to consider the regional implications of the process. We wanted to ensure we were meeting the needs of each individual partner institution and promote ownership over the process and product. We observed that Guatemala, Honduras, and Costa Rica might have highest economic impact from the project so we prioritized these countries.
+From the beginning of the design process, we focused on engaging regional coffee-promotion institutions such as [PROMECAFE](http://promecafe.net/), national institutions such as [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations, and producers. Given the variety of actors involved, the same recipe wouldn’t work for everyone. To fix the needs of this mix of actors, we worked hard to consider the regional implications of the process. We wanted to ensure we were meeting the needs of each individual partner institution and promote ownership over the process and product. We observed that Guatemala, Honduras, and Costa Rica might derive the greatest economic benefit from the project, so we prioritized these countries.
 
 ![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
 `The app was built to be an intuitive and simple solution.`
 
-### Applying HCD at Institutional Level
+### Applying HCD at the Institutional Level
 
-The diversity of actors and their requirements made it difficult for us to quickly develop and implement a tool that could meet the requirements of everyone. So, we approached the challenge through the framework of design thinking, including inviting users to attend our interaction design workshops. These workshops resulted in following useful insights:
+The diversity of actors and their requirements made it difficult for us to quickly develop and implement a tool that could meet the requirements of everyone. So, we approached the challenge through the framework of design thinking, including inviting users to attend our interaction design workshops. These workshops resulted in the following insights:
 
 * Collecting data that’s granular enough to be useful for an individual farmer is a challenge. That’s why we made the farmers themselves the data collectors. In short, we crowdsourced it.
 * Farmers’ access to smartphones has always been a big issue, but in our workshops, eight out of 10 farmers had a smartphone. In Guatemala, there are nearly two phones per person and penetration is increasing.
 * Coffee rust can kill a crop in less than eight days. A timely response to allow for remedial action was a must. A timely response may motivate users to use appropriate products to minimize the disease’s impact.
 * The tool must be scalable. In addition to the coffee rust calculation, five other features were added: agrochemicals dosage calculator, Ojo de Gallo test, harvest calculator, weather, and communication module.
-* We used open source projects and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
-* In Guatemala alone, there are more than 23 spoken languages. This required an intuitive and user-friendly tool so that less-educated farmers may also use it.
+* We used open source data and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
+* In Guatemala alone, there are more than 20 spoken languages. We had to build an intuitive and user-friendly tool not dependent on sophisticated Spanish so that less-educated farmers can also use it.
 
 ### The Result: Wide Adoption
 
