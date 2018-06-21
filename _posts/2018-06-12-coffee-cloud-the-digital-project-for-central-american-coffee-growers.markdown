@@ -42,7 +42,7 @@ The diversity of actors and their requirements made it difficult for us to quick
 * Collecting data that’s granular enough to be useful for an individual farmer is a challenge. That’s why we made the farmers themselves the data collectors. In short, we crowdsourced it.
 * Farmers’ access to smartphones has always been a big issue, but in our workshops, eight out of 10 farmers had a smartphone. In Guatemala, there are nearly two phones per person and penetration is increasing.
 * Coffee rust can kill a crop in less than eight days. A timely response to allow for remedial action was a must. A timely response may motivate users to use appropriate products to minimize the disease’s impact.
-* The tool must be scalable. In addition to the coffee rust calculation, five other features were added: agrochemicals dosage calculator, Ojo de Gallo test, harvest calculator, weather, and communication module.
+* The tool must be scalable. In addition to the coffee rust calculation, five other features were added: agrochemicals dosage calculator, *ojo de gallo* (a fungus scientifically called mycena citricolor) test, harvest calculator, weather, and communication module.
 * We used open source data and programming languages as well as cloud servers to ensure that we didn’t add additional costs after USAID support ends.
 * In Guatemala alone, there are more than 20 spoken languages. We had to build an intuitive and user-friendly tool not dependent on sophisticated Spanish so that less-educated farmers can also use it.
 
