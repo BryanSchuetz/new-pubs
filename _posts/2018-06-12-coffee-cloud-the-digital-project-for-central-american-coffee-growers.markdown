@@ -11,7 +11,9 @@ social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 thumbnail: 600 x 350
 ---
 
-From 2010 to 2014, the Central American coffee bean suffered from a disease that rocked the economies of the region. Exports declined by 55 percent. From 2012 to 2013 some 374,000 jobs were lost—17 percent of the labor force. **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee) threatened the livelihoods of [nearly 2 million](https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/ib-coffee-rust-employment-collapse-central-america-140814-en.pdf). Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The impact on Central American economies was significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain network supporting dozens of adjacent industries.
+From 2010 to 2014, the Central American coffee bean suffered from a disease that rocked the economies of the region. Exports declined by 55 percent. From 2012 to 2013 some 374,000 jobs were lost—17 percent of the labor force. **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee) threatened the livelihoods of [nearly 2 million](https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/ib-coffee-rust-employment-collapse-central-america-140814-en.pdf). 
+
+Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The warmer, wetter conditions wrought by climate change creates a better ecosystem for the fungus to grow. Its impact on Central American economies is significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain, in turn supporting dozens of adjacent industries. 
 
 <!--more-->
 
@@ -19,14 +21,14 @@ From 2010 to 2014, the Central American coffee bean suffered from a disease that
 
 To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural Research and Higher Education Center](https://www.catie.ac.cr/en/), a regional leader in agricultural research, and the U.S. Agency for International Development (USAID). The goal was to help people linked with the coffee value chain make better decisions about their farms and businesses by providing live climate data collected from the region.
 
-At the regional level, there are different tools that provide solutions to improve coffee-growing conditions, but none of them were designed with farmers in mind. In Guatemala, DAI opted to create a new tool—**Coffee Cloud**—using a fully human-centered design (HCD) approach.
+At the regional level, there are different tools that provide solutions to improve coffee-growing conditions, but none of them was designed with farmers in mind. In Guatemala, DAI opted to create a new tool—**Coffee Cloud**—using a fully human-centered design (HCD) approach.
 
 ![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
 > The App is available in [Google Play](https://play.google.com/store/apps/details?id=com.coffee.cloud.anacaf&hl=es) and [Apple Store](https://itunes.apple.com/es/app/coffee-cloud-anacafe/id1242107621?mt=8).
 
 ### Thinking Regionally, Working Locally
 
-From the beginning of the design process, we focused on engaging regional coffee-promotion institutions such as [PROMECAFE](http://promecafe.net/), national-level institutions such as [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations, and producers. Given the variety of actors involved, the same recipe wouldn’t work for everyone. To fix the needs of this mix of actors, we worked hard throughout the design process and considered the regional implications of the process. We wanted to ensure we were meeting the needs of each individual partner institution and promote ownership over the process and product. During its planning and implementation, we observed that Guatemala, Honduras, and Costa Rica might have highest economic impact from the project so we prioritized these countries.
+From the beginning of the design process, we focused on engaging regional coffee-promotion institutions such as [PROMECAFE](http://promecafe.net/), national institutions such as [ANACAFE](http://www.anacafe.org) in Guatemala, [ICAFE](http://www.icafe.cr) in Costa Rica, and [IHCAFE](http://www.ihcafe.hn/) in Honduras, as well as cooperatives, associations, and producers. Given the variety of actors involved, the same recipe wouldn’t work for everyone. To fix the needs of this mix of actors, we worked hard to consider the regional implications of the process. We wanted to ensure we were meeting the needs of each individual partner institution and promote ownership over the process and product. We observed that Guatemala, Honduras, and Costa Rica might have highest economic impact from the project so we prioritized these countries.
 
 ![5b2023af0e6f1a4882993938.png](/uploads/5b2023af0e6f1a4882993938.png)
 `The app was built to be an intuitive and simple solution.`
