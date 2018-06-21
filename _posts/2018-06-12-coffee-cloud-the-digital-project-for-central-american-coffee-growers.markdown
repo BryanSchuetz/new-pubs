@@ -23,6 +23,8 @@ To tackle the coffee rust plague, DAI partnered with the [Tropical Agricultural 
 
 At the regional level, there are different tools that provide solutions to improve coffee-growing conditions, but none of them was designed with farmers in mind. In Guatemala, DAI opted to create a new tool—**Coffee Cloud**—using a fully human-centered design (HCD) approach.
 
+Coffee Cloud enables coffee growers to run offline crop tests in the field, based on methods approved by the regional agriculture ministries, and receive immediate recommendations on how to combat the rust based on the level of contagion and current weather conditions. The app tracks the levels of the disease in the crop and shows behavioral graphs. Using that data, the analysts send regional recommendations and specific interventions to avoid nationwide spread of the rust, which remains a constant threat.
+
 ![Screen Shot 2018-06-19 at 9.26.30 AM.png](/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png)
 > The App is available in [Google Play](https://play.google.com/store/apps/details?id=com.coffee.cloud.anacaf&hl=es) and [Apple Store](https://itunes.apple.com/es/app/coffee-cloud-anacafe/id1242107621?mt=8).
 
