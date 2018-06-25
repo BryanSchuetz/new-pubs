@@ -7,6 +7,7 @@ tags:
 - Digital Financial Services
 Author: Kristen Roggemann
 social-image: "/uploads/top%205%20news%20podcast%20logo_0.jpg"
+thumbnail: "/uploads/top%205%20news%20podcast%20logo_0.jpg"
 ---
 
 As our [Center for Digital Acceleration](https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration) team grows, we are finding new ways to share knowledge beyond our epic WhatsApp group chat that grows more ridiculous and off-topic by the day. We have some voracious readers on the team, so in prep for this post I took a minute to poll them to find out which recent articles they found fascinating—and I had missed them all! Since I can’t be the only one, I am sharing them with you to ensure these gems get as wide a readership as possible.
