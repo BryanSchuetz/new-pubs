@@ -8,7 +8,7 @@ tags:
 - Agriculture
 Author: Alejandro Solis
 social-image: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
-thumbnail: 600 x 350
+thumbnail: "/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png"
 ---
 
 From 2010 to 2014, the Central American coffee bean suffered from a disease that rocked the economies of the region. Exports declined by 55 percent. From 2012 to 2013 some 374,000 jobs were lost—17 percent of the labor force. **Roya**, or [coffee rust](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee) threatened the livelihoods of [nearly 2 million](https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/ib-coffee-rust-employment-collapse-central-america-140814-en.pdf). 
