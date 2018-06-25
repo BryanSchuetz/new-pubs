@@ -5,6 +5,7 @@ tags:
 - Digital Inclusion
 Author: "[Yasmine Williams](mailto:digitalfrontiers@dai.com)"
 social-image: "/uploads/happy%20phone-c06e04.jpg"
+thumbnail: "/uploads/happy%20phone-c06e04.jpg"
 ---
 
 The rapid expansion of mobile and internet access in the developing world holds the promise of catalyzing resilient economic and social growth. However, the availability and cost of connectivity is a significant barrier to fully realizing that vision.
