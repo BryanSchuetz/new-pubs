@@ -10,6 +10,7 @@ tags:
 Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
   and [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/)"
 social-image: "/uploads/blog%20pic.jpg"
+thumbnail: "/uploads/blog%20pic.jpg"
 ---
 
 In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last 10 years, and where are we heading? How can we build systems that integrate data from independent actors across the health ecosystem? How can we use lessons learned to support innovation? How can we adapt to expanding digital access and support the growth of local capacity?
