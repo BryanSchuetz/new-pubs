@@ -6,6 +6,7 @@ tags:
 - Digital Principles
 Author: Karim Bin-Humam
 social-image: "/uploads/user%20testing.jpg"
+thumbnail: "/uploads/user%20testing.jpg"
 ---
 
 Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local governments. No matter the objective, technology can both help you be more efficient internally and more impactful externally. The *idea* of tech is often easy: “Oh, we’ll just build an app for that!” But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes and derail even the best intentions.
