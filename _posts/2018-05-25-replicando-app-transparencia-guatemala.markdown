@@ -7,6 +7,7 @@ tags:
 - Governance
 Author: Adam Fivenson
 social-image: "/uploads/002.jpg"
+thumbnail: "/uploads/002.jpg"
 ---
 
 *Nota: Esta publicación también está disponible en [inglés](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)*
