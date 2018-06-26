@@ -2,6 +2,8 @@
 title: 'Deadline Extended! Apply Now: Support USAID Missions to Improve Broadband
   Connectivity'
 date: 2018-06-26 13:55:00 -04:00
+tags:
+- Digital Inclusion
 Author: "[Yasmine Williams](mailto:digitalfrontiers@dai.com]"
 social-image: "/uploads/happy%20phone-c06e04.jpg"
 ---
