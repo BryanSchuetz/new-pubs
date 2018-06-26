@@ -9,7 +9,7 @@ Author: Adam Fivenson
 social-image: "/uploads/TtTImage.jpg"
 ---
 
-Let me start by saying that Massachusetts Institute of Technology’s (MIT) Grand Hack is kind of a big deal. I don’t make the point as an affront to other hackathons--certainly not [DAI’s own](https://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html)--but not many other hackathons can claim to have generated more than $150 million in venture capital and spawned more than 40 viable companies. Those two facts qualify the Grand Hack for royalty status among hackathons, which makes it even more surprising that the event is run entirely by students: MIT's Hacking Health group. It’s also the reason why I was so excited to get a taste of MIT’s secret innovation sauce from the inside—as a mentor, alongside my colleague Kristen Roggemann. 
+Let me start by saying that Massachusetts Institute of Technology’s (MIT) Grand Hack is *kind of a big deal.* I don’t make the point as an affront to other hackathons--certainly not [DAI’s own](https://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html)--but not many other hackathons can claim to have generated more than $150 million in venture capital and spawned more than 40 viable companies. Those two facts qualify the Grand Hack for royalty status among hackathons, which makes it even more surprising that the event is run entirely by students: MIT's Hacking Health group. It’s also the reason why I was so excited to get a taste of MIT’s secret innovation sauce from the inside—as a mentor, alongside my colleague Kristen Roggemann. 
 
 <!--more-->
 
