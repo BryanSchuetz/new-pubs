@@ -17,7 +17,7 @@ One concept that caught our attention—as well as the judges’—was Sweet, a 
 
 With Sweet, the patient gets reminders to take their medicine and can track their dosage and compliance across time. Since the hackathon, the team is preparing to take their chatbot from wireframe concept to reality, using a graphical design system like Chatfuel. 
 
-DAI also caught up with the first prize winner, Tech-to-Town, which aims to solve the challenge of weak distribution networks and supply chains in developing countries. We caught up with Pelham Keahey, of Tech-to-Town, and learned a bit about how they developed their concept at the hackathon and ended up wining first prize in the Global Health track. 
+DAI also caught up with the first prize winner, Tech-to-Town, which aims to solve the challenge of weak distribution networks and supply chains in developing countries. We spoke with Pelham Keahey, group leader, and learned a bit about how they developed their concept at the hackathon and ended up wining first prize in the Global Health track. 
 
 ![TtTImage.jpg](/uploads/TtTImage.jpg)`Tech-to-Town presents their concept at the MIT Hacking Health Grand Hack`
 
