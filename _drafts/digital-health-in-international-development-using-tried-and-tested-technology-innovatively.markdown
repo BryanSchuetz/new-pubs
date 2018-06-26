@@ -1,6 +1,6 @@
 ---
-title: 'Digital Health in International Development: Using tried & tested technology
-  innovatively'
+title: 'Digital Health in International Development: Using Tried & Tested Technology
+  Innovatively'
 date: 2018-06-19 07:42:00 -04:00
 social-image: "/uploads/Abi-8b868a.jpg"
 ---
