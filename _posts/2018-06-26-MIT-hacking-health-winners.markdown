@@ -2,6 +2,7 @@
 title: Catching up with the Winners of the MIT’s Grand Hack for Health
 date: 2018-06-26 13:04:00 -04:00
 published: false
+Author: Adam Fivenson
 ---
 
 Let me start by saying that Massachusetts Institute of Technology’s (MIT) Grand Hack is kind of a big deal. I don’t say so as an affront to other hackathons (many of which are excellent)—certainly not [DAI’s own](https://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html)--but not many other hackathons can claim to have generated more than $150 million in venture capital and created more than 40 viable companies. Those two facts qualify the Grand Hack for royalty status among hackathons, which makes it even more surprising that the event is run entirely by a student group: MIT Hacking Health. It’s also the reason why I was so excited to get a taste of MIT’s secret innovation sauce from the inside—as a mentor, alongside my colleague Kristen Roggemann. 
