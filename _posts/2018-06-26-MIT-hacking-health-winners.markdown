@@ -7,6 +7,10 @@ Author: Adam Fivenson
 
 Let me start by saying that Massachusetts Institute of Technology’s (MIT) Grand Hack is kind of a big deal. I don’t say so as an affront to other hackathons--certainly not [DAI’s own](https://dai-global-digital.com/top-3-climate-change-concepts-from-the-2016-nasa-space-apps-challenge-bogota.html)--but not many other hackathons can claim to have generated more than $150 million in venture capital and spawned more than 40 viable companies. Those two facts qualify the Grand Hack for royalty status among hackathons, which makes it even more surprising that the event is run entirely by a student group: MIT Hacking Health. It’s also the reason why I was so excited to get a taste of MIT’s secret innovation sauce from the inside—as a mentor, alongside my colleague Kristen Roggemann. 
 
+![TtTImage.jpg](/uploads/TtTImage.jpg)
+
+<!--more-->
+
 One concept that caught our attention—as well as the judges’—was Sweet, a chatbot for people with diabetes that addresses one of the biggest challenges for patients: compliance. Sweet’s Ameer Farooq, a general surgery resident who is taking a year of educational-leave to get an MPH at the University of Alberta, explained that compliance with treatment regimens is one of the biggest challenges to successfully healing patients, and doctors often see it as one factor that’s outside their control. 
 
 With Sweet, the patient gets reminders to take their medicine and can track their dosage and compliance across time. Since the hackathon, the team is preparing to take their chatbot from wireframe concept to reality, using a graphical design system like Chatfuel. 
