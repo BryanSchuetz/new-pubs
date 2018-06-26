@@ -53,4 +53,6 @@ PK: We talked about how engineers and innovators make devices, but once the devi
 
 **PK:** We’ve had a few meetings and we’re doing some deep dives into the problem. As you can imagine, with only 48 hours to plan during the hackathon, there were a lot of additional questions that we never had time to address. We are working to better understand the market, and better develop our value proposition. Beyond that, building the platform and identifying a portfolio of devices to begin with are top priorities. 
 
-*Subscribe to [Digital@DAI]( for more from the world of global innovation and technology space**
+DAI congratulates Tech-to-Town on their win and looks forward to seeing the platform's progress from hackathon concept to impact platform. 
+
+*Subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C) for more from the world of global innovation and technology space**
