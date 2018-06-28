@@ -13,11 +13,11 @@ Let me start by saying that Massachusetts Institute of Technology’s (MIT) Gran
 
 <!--more-->
 
-One concept that caught our attention—as well as the judges’—was Sweet, a chatbot for people with diabetes that addresses one of the biggest challenges for patients: compliance. Sweet’s Ameer Farooq, a general surgery resident who is taking a year of educational-leave to get an MPH at the University of Alberta, explained that compliance with treatment regimens is one of the biggest challenges to successfully healing patients, and doctors often see it as one factor that’s outside their control. 
+One concept that caught our attention—as well as the judges’—was Sweet, a chatbot for people with diabetes that addresses one of the biggest challenges for patients: compliance. Sweet’s [Ameer Farooq](https://twitter.com/ameerfarooq), a general surgery resident who is taking a year of educational-leave to get an MPH at the University of Alberta, explained that compliance with treatment regimens is one of the biggest challenges to successfully healing patients, and doctors often see it as one factor that’s outside their control. 
 
 With Sweet, the patient gets reminders to take their medicine and can track their dosage and compliance across time. Since the hackathon, the team is preparing to take their chatbot from wireframe concept to reality, using a graphical design system like Chatfuel. 
 
-DAI also caught up with the first prize winner, Tech-to-Town, which aims to solve the challenge of weak distribution networks and supply chains in developing countries. We spoke with Pelham Keahey, group leader, and learned a bit about the origin of their concept and how it developed during the hackathon. 
+DAI also caught up with the first prize winner, Tech-to-Town, which aims to solve the challenge of weak distribution networks and supply chains in developing countries. We spoke with [Pelham Keahey](https://www.linkedin.com/in/pelham-keahey-70258020/), group leader, and learned a bit about the origin of their concept and how it developed during the hackathon. 
 
 ![TtTImage.jpg](/uploads/TtTImage.jpg)`Tech-to-Town presents their concept at the MIT Hacking Health Grand Hack`
 
@@ -55,4 +55,4 @@ PK: We talked about how engineers and innovators make devices, but once the devi
 
 DAI congratulates Tech-to-Town on their win and looks forward to seeing the platform's progress from hackathon concept to impact platform. 
 
-*Subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C) for more from the world of global innovation and technology space**
+*Subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C) for more from the world of global innovation and technology*
