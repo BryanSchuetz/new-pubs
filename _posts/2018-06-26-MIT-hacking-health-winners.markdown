@@ -24,7 +24,7 @@ DAI also caught up with the first prize winner, Tech-to-Town, which aims to solv
 
 **DAI: Hi Pelham, congrats on the big win! Tell us a little bit about yourself.**
 
-Keahey: I recently graduated with a PhD in Applied Physics from Rice University. My research focused on bioengineering, global health, and improving cancer detection. These days I’m a Postdoctoral Research Fellow at Massachusetts General Hospital working in medical imaging research, and I was introduced to Hacking Health by some colleagues. This was my first hackathon. 
+Keahey: I recently graduated with a PhD in applied physics from Rice University. My research focused on bioengineering, global health, and improving cancer detection. These days I’m a postdoctoral research fellow at Massachusetts General Hospital working in medical imaging research, and I was introduced to Hacking Health by some colleagues. This was my first hackathon. 
 
 **DAI: How the concept for Tech-to-Town come about?**
 
