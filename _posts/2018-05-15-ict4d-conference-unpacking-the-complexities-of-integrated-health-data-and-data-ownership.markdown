@@ -7,6 +7,7 @@ tags:
 - Health
 Author: Talia Dweck
 social-image: "/uploads/ict4d%20logo.png"
+thumbnail: "/uploads/ict4d%20logo.png"
 Field name: 
 ---
 
