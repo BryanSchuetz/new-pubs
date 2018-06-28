@@ -1,7 +1,6 @@
 ---
 title: Catching Up with the Winners of MIT’s Grand Hack for Health
 date: 2018-06-26 13:04:00 -04:00
-published: false
 tags:
 - Health
 - Innovation
