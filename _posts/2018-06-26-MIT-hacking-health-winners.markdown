@@ -32,28 +32,30 @@ Keahey: I recently graduated with a PhD in applied physics from Rice University.
 
 **DAI: What were some of the challenges your team faced during the conceptualization process?**
 
-**Keahey:** We went through a lot of ideas that didn’t hold up to scrutiny. The biggest challenge was how to leverage existing distribution networks more efficiently. One thing we considered was ‘how does Coca Cola do it?’ They’re the largest distributor in the world, and they’re famous for getting their products to the villages beyond the last mile. We even thought about ways of partnering with Coke, like medical devices in Coke cans, but ended up going in a different direction. We even talked to several hackathon advisors from MedTronic, a medical device company, about how they distribute their products around the globe. 
+**Keahey:** We went through a lot of ideas that didn’t hold up to scrutiny. The biggest challenge was how to leverage existing distribution networks more efficiently. One thing we considered was ‘How does Coca-Cola do it?’ They’re the largest distributor in the world, and they’re famous for getting their products to the villages beyond the last mile. We even thought about ways of partnering with Coke, like medical devices in Coke cans, but ended up going in a different direction. We talked to several hackathon advisors from MedTronic, a medical device company, about how they distribute their products around the globe. 
 
 In the end we decided to focus on the challenge in a different way, from the perspective of a procurement office or purchaser at a medical facility. Compared to the health facilities we know well, they order fewer devices and do so with less frequency, so clearly economies of scale would be difficult to achieve within a single facility. To avoid competing against local supply chains, we also had to think about how to be complementary instead of generating competition with local businesses. This was not an easy balance to achieve. 
 
 **DAI: What about domestic suppliers? Why are they falling short?**
 
-**PK:** Why they’re falling short is something we need to explore more deeply, but they do know the distribution networks and infrastructure already, so we hope to partner with them instead of competing with them. We also will focus initially on devices developed specifically for low-resource settings across a range of specialties, which we believe will be most useful immediately for medical facilities. We believe that by encouraging the pooling of these types of purchases across public and private facilities, we’ll be able to reduce overall cost and make it easier for facilities to purchase equipment.
+**Keahey:** Why they’re falling short is something we need to explore more deeply, but they do know the distribution networks and infrastructure already, so we hope to partner with them instead of competing with them. We also will focus initially on devices developed specifically for low-resource settings across a range of specialties, which we believe will be most useful immediately for medical facilities. We believe that by encouraging the pooling of these types of purchases across public and private facilities, we’ll be able to reduce overall cost and make it easier for facilities to purchase equipment.
  
 **DAI: It seems like pooling purchases might cause delays in delivery, how will you handle that?**
 
-**PK: Right, cost and time are our two key variables. By collecting enough orders, you can reduce the cost, but you have to be very strategic about it. We’ll have to monitor closely how much we can sell and how fast, which of course will depend on the type of demand we encounter. Of course we hope to aggregate demand for devices across multiple local facilities. **
+**Keahey: Right, cost and time are our two key variables. By collecting enough orders, you can reduce the cost, but you have to be very strategic about it. We’ll have to monitor closely how much we can sell and how fast, which will depend on the type of demand we encounter. Of course we hope to aggregate demand for devices across multiple local facilities. **
 
 **DAI: Long-term, how do you avoid the equipment graveyard?**
 
-**PK:** There are many organizations and companies designing new medical technologies which are designed specifically for resource limited settings.  We’re confident that if we focus on the right technologies, we can reduce equipment loss by tapping into current, real demand. We also plan to focus on the sustainability by training local staff. 
-DAI: Tell us about your pitch and why you think it helped you win
-PK: We talked about how engineers and innovators make devices, but once the device is created, it’s difficult to get them to the people who need them in a sustainable and commercially viable way. We talked about how distribution and infrastructure is so difficult in these regions, and how we think Tech-to-Town is a platform that will help local health facilities better utilize resources and provide better care. 
+**Keahey:** There are many organizations and companies designing new medical technologies designed specifically for resource limited settings. We’re confident that if we focus on the right technologies, we can reduce equipment loss by tapping into current, real demand. We also plan to focus on the sustainability by training local staff. 
 
-**DAI: So what’s next?**
+**DAI: Tell us about your pitch and why you think it helped you win.**
 
-**PK:** We’ve had a few meetings and we’re doing some deep dives into the problem. As you can imagine, with only 48 hours to plan during the hackathon, there were a lot of additional questions that we never had time to address. We are working to better understand the market, and better develop our value proposition. Beyond that, building the platform and identifying a portfolio of devices to begin with are top priorities. 
+**Keahey:** We talked about how engineers and innovators make devices, but once the device is created, it’s difficult to get them to the people who need them in a sustainable and commercially viable way. We talked about how distribution and infrastructure is so difficult in these regions, and how we think Tech-to-Town is a platform that will help local health facilities better utilize resources and provide better care. 
 
-DAI congratulates Tech-to-Town on their win and looks forward to seeing the platform's progress from hackathon concept to impact platform. 
+**DAI: What’s next?**
 
-*Subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C) for more from the world of global innovation and technology*
+**Keahey:** We’ve had a few meetings and we’re doing some deep dives into the problem. As you can imagine, with only 48 hours to plan during the hackathon, there were a lot of additional questions we never had time to address. We are working to better understand the market, and hone our value proposition. Beyond that, building the platform and identifying a portfolio of devices to begin with are top priorities. 
+
+DAI congratulates Tech-to-Town on their win and looks forward to seeing the platform’s progress from hackathon concept to impact platform. 
+
+*Subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C) for more from the world of global innovation and technology.*
