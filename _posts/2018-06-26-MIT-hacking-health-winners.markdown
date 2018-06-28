@@ -14,17 +14,17 @@ Let me start by saying that the Massachusetts Institute of Technology’s (MIT) 
 
 <!--more-->
 
-One concept that caught our attention—as well as the judges’—was Sweet, a chatbot for people with diabetes that addresses one of the biggest challenges for patients: compliance. Sweet’s [Ameer Farooq](https://twitter.com/ameerfarooq), a general surgery resident who is taking a year of educational leave to get an MPH at the University of Alberta, explained that compliance with treatment regimens is one of the biggest challenges to successfully healing patients, and doctors often see it as one factor that’s outside their control. 
+One concept that caught our attention—as well as the judges’—was Sweet, a chatbot for people with diabetes that addresses one of the biggest challenges for patients: compliance. Sweet’s [Ameer Farooq](https://twitter.com/ameerfarooq), a general surgery resident who is taking a year of educational leave to get an master’s degree in public health at the University of Alberta, explained that compliance with treatment regimens is one of the biggest challenges to successfully healing patients, and doctors often see it as one factor outside their control. 
 
-With Sweet, the patient gets reminders to take their medicine and can track their dosage and compliance across time. Since the hackathon, the team is preparing to take their chatbot from wireframe concept to reality, using a graphical design system like Chatfuel. 
+With Sweet, patients get reminders to take their medicine and they can track their dosage and compliance across time. Since the hackathon, the team is preparing to take the chatbot from wireframe concept to reality, using a graphical design system such as Chatfuel. 
 
-DAI also caught up with the first prize winner, Tech-to-Town, which aims to solve the challenge of weak distribution networks and supply chains in developing countries. We spoke with [Pelham Keahey](https://www.linkedin.com/in/pelham-keahey-70258020/), group leader, and learned a bit about the origin of their concept and how it developed during the hackathon. 
+DAI also caught up with the first prize winner, Tech-to-Town, which aims to solve the challenge of weak distribution networks and supply chains in developing countries. We spoke with group leader [Pelham Keahey](https://www.linkedin.com/in/pelham-keahey-70258020/) and learned a bit about the origin of the concept and how it developed during the hackathon. 
 
-![TtTImage.jpg](/uploads/TtTImage.jpg)`Tech-to-Town presents their concept at the MIT Hacking Health Grand Hack`
+![TtTImage.jpg](/uploads/TtTImage.jpg)`Tech-to-Town presents their concept at the MIT Hacking Health Grand Hack.`
 
 **DAI: Hi Pelham, congrats on the big win! Tell us a little bit about yourself.**
 
-Pelham Keahey: I recently graduated with a PhD in Applied Physics from Rice University. My research focused on bioengineering, global health, and improving cancer detection. These days I’m a Postdoctoral Research Fellow at Massachusetts General Hospital working in medical imaging research, and I was introduced to Hacking Health by some colleagues. This was my first hackathon. 
+Keahey: I recently graduated with a PhD in Applied Physics from Rice University. My research focused on bioengineering, global health, and improving cancer detection. These days I’m a Postdoctoral Research Fellow at Massachusetts General Hospital working in medical imaging research, and I was introduced to Hacking Health by some colleagues. This was my first hackathon. 
 
 **DAI: How the concept for Tech-to-Town come about?**
 
