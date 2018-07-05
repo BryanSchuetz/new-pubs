@@ -32,9 +32,9 @@ in the communities we serve have in their hands. We need to work closely with th
 
 ## 3. Technology as a Connector
 
-The technological constraints that people are facing don’t have to prevent innovative design. For too long mobile phones have been seen either to push messages out to communities, or to gather data from them. This misses the point of how people use phones in their daily lives - to connect and engage.
+The technological constraints that people are facing don’t have to prevent innovative design. For too long mobile phones have been seen either to push messages out to communities, or to gather data from them. This misses the point of how people use phones in their daily lives—to connect and engage.
 
-At Every1Mobile we have seen that the real value of building solutions centred on mobile technology comes from the power of digital communities to engage in a 3-way dialogue. Not simply communication “at” our target groups, or extracting data from them, but crucially facilitating intra-community engagement, sharing and discussion in safe spaces. This takes our community beyond a passive “audience” for our messaging, to being co-partners in the conversation, and active “users”.
+At Every1Mobile, we have seen that the real value of building solutions centred on mobile technology comes from the power of digital communities to engage in a three-way dialogue. Not simply communicating “at” our target groups, or extracting data from them, but crucially facilitating intra-community engagement, sharing, and discussion in safe spaces. This takes our community beyond a passive “audience” for our messaging, to being co-partners in the conversation, and active “users.”
 
 ![1.png](/uploads/1.png)
 
@@ -42,7 +42,7 @@ At Every1Mobile we have seen that the real value of building solutions centred o
 
 Here’s an example of these key points in action, which I shared during the panel discussion, from our U Afya programme in Nairobi (Afya means health in Kiswahili).
 
-I talked through the process of how we worked with mothers and mothers-to-be in informal-settlements around Nairobi to design a digital community that would support them in keeping themselves and their families healthy, using the technology they already have. One of the goals of the community is to drive behaviour change around health-seeking behaviours – specifically a healthy breakfast and hand washing.
+I talked through the process of how we worked with mothers and mothers-to-be in informal settlements around Nairobi, Kenya, to design a digital community that would support them in keeping themselves and their families healthy, using the technology they already have. One of the goals of the community is to drive behaviour change around health-seeking behaviours—specifically a healthy breakfast and hand washing.
 
 Our formative research showed that rather than poor knowledge, it was a lack of confidence that was a significant barrier to these behaviours. Simply sharing health messaging with this group was not going to have the impact needed.
 ![2-ae9268.jpg](/uploads/2-ae9268.jpg)
