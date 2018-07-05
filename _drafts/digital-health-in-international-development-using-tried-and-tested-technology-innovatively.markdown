@@ -73,6 +73,4 @@ Mobile based e-learning could be used for delivering professional development to
 
 Innovation doesn’t have to mean brand new technology. We can build on the technology already embedded in communities to deliver social impact in a much more sustainable and meaningful way.
 
-*[Abi Gleek](https://www.linkedin.com/in/abigleek) is Head of Programme Design at [Every1Mobile](http://www.every1mobile.net/), a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, Every1Mobile works with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. 
-
-Connect with us @Every1Mobile and @abi_gleek2*
+*[Abi Gleek](https://www.linkedin.com/in/abigleek) is Head of Programme Design at [Every1Mobile](http://www.every1mobile.net/), a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, Every1Mobile works with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. Connect with us @Every1Mobile and @abi_gleek2*
