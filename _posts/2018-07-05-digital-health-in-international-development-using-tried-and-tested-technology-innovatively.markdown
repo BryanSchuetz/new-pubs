@@ -37,7 +37,7 @@ At Every1Mobile, we have seen that the real value of building solutions centred 
 
 ## Key Points in Action: the U Afya Programme
 
-Here’s an example of these key points in action, which I shared during the panel discussion, from our U Afya programme in Nairobi (Afya means health in Kiswahili).
+Here’s an example of these key points in action, which I shared during the panel discussion, from our U Afya programme in Nairobi (*afya* means health in Kiswahili).
 
 I talked through the process of how we worked with mothers and mothers-to-be in informal settlements around Nairobi, Kenya, to design a digital community that would support them in keeping themselves and their families healthy, using the technology they already have. One of the goals of the community is to encourage healthy behaviours—specifically, eating a balanced breakfast and washing hands.
 
