@@ -11,7 +11,7 @@ social-image: "/uploads/Abi-8b868a.jpg"
 
 ![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  
 
-I was recently invited to take part in the recent DAI panel discussion on “Digital Health in International Development: Current Realities and Future Trends” in London. It was an incredibly dynamic and passionate discussion, with fascinating perspectives from across the health, tech and development sectors.
+I was recently invited to take part in the recent [DAI panel discussion](https://dai-global-digital.com/trends-in-digital-health-four-take-aways-from-our-second-uk-event.html) on “Digital Health in International Development: Current Realities and Future Trends” in London. It was an incredibly dynamic and passionate discussion, with fascinating perspectives from across the health, tech and development sectors.
 
 Following the event, I’d like to share some of the key points I shared during the discussion and hope to stimulate a continued conversation.
 
