@@ -24,7 +24,7 @@ It’s easy to get carried away with the promise of the latest innovative techno
 
 ## 2. Delivering Genuine Human-Centred Design
 
-There is a lot of buzz in our sector for human-centred design (HCD), but this can be contradicted by the proliferation of shiny digital pilots, transplanted from a high-income context.
+There is a lot of buzz in our sector for human-centred design (HCD), but this can be contradicted by the proliferation of shiny digital pilots transplanted from a high-income context.
 
 I believe that to deliver genuine HCD, we need to design our solutions based on the tech that people
 in the communities we serve have in their hands. We need to work closely with them to understand the details of their mobile access, digital literacy, and data and connectivity constrictions, in the same way as we need to understand their needs, perspectives, and values in relation to the development challenge we are aiming to address.
