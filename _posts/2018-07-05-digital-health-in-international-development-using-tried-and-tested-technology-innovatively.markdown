@@ -31,7 +31,7 @@ in the communities we serve have in their hands. We need to work closely with th
 
 ## 3. Technology as a Connector
 
-The technological constraints that people are facing don’t have to prevent innovative design. For too long mobile phones have been seen either to push messages out to communities, or to gather data from them. This misses the point of how people use phones in their daily lives—to connect and engage.
+The technological constraints that people are facing don’t have to prevent innovative design. For too long mobile phones have been seen either to push messages out to communities or to gather data from them. This misses the point of how people use phones in their daily lives—to connect and engage.
 
 At Every1Mobile, we have seen that the real value of building solutions centred on mobile technology comes from the power of digital communities to engage in a three-way dialogue. Not simply communicating “at” our target groups, or extracting data from them, but crucially facilitating intra-community engagement, sharing, and discussion in safe spaces. This takes our community beyond a passive “audience” for our messaging, to being co-partners in the conversation, and active “users.”
 
