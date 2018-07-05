@@ -41,9 +41,9 @@ Here’s an example of these key points in action, which I shared during the pan
 
 I talked through the process of how we worked with mothers and mothers-to-be in informal settlements around Nairobi, Kenya, to design a digital community that would support them in keeping themselves and their families healthy, using the technology they already have. One of the goals of the community is to encourage healthy behaviours—specifically, eating a balanced breakfast and washing hands.
 
-Our formative research showed that rather than poor knowledge, it was a lack of confidence that was a significant barrier to these behaviours. Simply sharing health messaging with this group was not going to have the impact needed.
+Our formative research showed that rather than poor knowledge, it was a lack of confidence that was a significant barrier to these healthy behaviours. Simply sharing health messaging with this group was not going to have the impact needed.
 
-![2-ae9268.jpg](/uploads/2-ae9268.jpg)`Photo: A beneficiary of the U Afya Programme, Kenya`
+![2-ae9268.jpg](/uploads/2-ae9268.jpg)`A beneficiary of the U Afya Programme, Kenya.`
 
 We structured a behaviour change strategy accordingly, using techniques that would leverage the power of a digital community to build confidence. This included supporting the women to set realistic goals related to the desired behaviour, close peer engagement and sharing, and rewarding positive behaviour change.
 
