@@ -69,10 +69,10 @@ We are now in our improvement phase, taking learnings from the pilot to develop 
 
 I see huge potential in this model of engaging mobile-based e-learning, and so many other applications for it across the health sector, and that is why I am most excited about this simple tech.
 
-Mobile based e-learning could be used for delivering professional development to health care workers, ranging from follow-up to face-to-face clinical skills sessions, to provision of more values-based training such as interpersonal skills training and rights-based family planning. It could also be used to support task shifting, for connecting cohorts of community health workers, for capacity building of health system administrators and data analysts or building capacity of health activists.
+Mobile based e-learning could be used for delivering professional development to health care workers, ranging from follow-up to face-to-face clinical skills sessions, to provision of more values-based training such as interpersonal skills training and rights-based family planning. It could also be used to support task shifting, for connecting cohorts of community health workers, for capacity building of health system administrators and data analysts, or building capacity of health activists.
 
-Innovation doesn’t have to mean that we use brand new technology. We can build on the technology already embedded in communities, to deliver social impact in a much more sustainable and meaningful way.
+Innovation doesn’t have to mean brand new technology. We can build on the technology already embedded in communities to deliver social impact in a much more sustainable and meaningful way.
 
-*[Abi Gleek](https://www.linkedin.com/in/abigleek) is Head of Programme Design at [Every1Mobile](http://www.every1mobile.net/), a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, we work with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. Through our partnerships, we expand people’s knowledge, connect geographically dispersed communities and influence behaviour change.
+*[Abi Gleek](https://www.linkedin.com/in/abigleek) is Head of Programme Design at [Every1Mobile](http://www.every1mobile.net/), a digital and mobile services provider committed to delivering social change in developing countries. Founded in 2010, Every1Mobile works with the public and private sectors to provide digital tools and services that facilitate economic empowerment, gender equality, improved health, strengthened livelihoods and learning. 
 
-Connect with us @Every1Mobile @abi_gleek2*
+Connect with us @Every1Mobile and @abi_gleek2*
