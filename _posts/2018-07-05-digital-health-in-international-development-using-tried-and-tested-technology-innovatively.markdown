@@ -35,7 +35,6 @@ The technological constraints that people are facing don’t have to prevent inn
 
 At Every1Mobile, we have seen that the real value of building solutions centred on mobile technology comes from the power of digital communities to engage in a three-way dialogue. Not simply communicating “at” our target groups, or extracting data from them, but crucially facilitating intra-community engagement, sharing, and discussion in safe spaces. This takes our community beyond a passive “audience” for our messaging, to being co-partners in the conversation, and active “users.”
 
-
 ## Key Points in Action: the U Afya Programme
 
 Here’s an example of these key points in action, which I shared during the panel discussion, from our U Afya programme in Nairobi (Afya means health in Kiswahili).
