@@ -37,7 +37,6 @@ The technological constraints that people are facing don’t have to prevent inn
 
 At Every1Mobile, we have seen that the real value of building solutions centred on mobile technology comes from the power of digital communities to engage in a three-way dialogue. Not simply communicating “at” our target groups, or extracting data from them, but crucially facilitating intra-community engagement, sharing, and discussion in safe spaces. This takes our community beyond a passive “audience” for our messaging, to being co-partners in the conversation, and active “users.”
 
-![1.png](/uploads/1.png)
 
 ## Key Points in Action: the U Afya Programme
 
@@ -47,13 +46,11 @@ I talked through the process of how we worked with mothers and mothers-to-be in 
 
 Our formative research showed that rather than poor knowledge, it was a lack of confidence that was a significant barrier to these behaviours. Simply sharing health messaging with this group was not going to have the impact needed.
 
-![2-ae9268.jpg](/uploads/2-ae9268.jpg)
+![2-ae9268.jpg](/uploads/2-ae9268.jpg)`Photo: A beneficiary of the U Afya Programme, Kenya`
 
 We structured a behaviour change strategy accordingly, using techniques that would leverage the power of a digital community to build confidence. This included supporting the women to set realistic goals related to the desired behaviour, close peer engagement and sharing, and rewarding positive behaviour change.
 
 We ran a pilot through WhatsApp (the communications technology most popular with the target group), to test our strategy. A local moderator facilitated structured discussions with 50 young mothers and mothers-to-be, around themes the women had identified as priorities. Each theme had a simple set of pre- and post-survey questions, using the Every1Mobile survey functionality, designed to measure knowledge, attitudes, and behaviour.
-
-![3-1868eb.png](/uploads/3-1868eb.png)
 
 I’ll share the insights here:
 
@@ -65,7 +62,7 @@ I’ll share the insights here:
 
 We are now in our improvement phase, taking learnings from the pilot to develop a full U Afya digital community. The community will allow women across low-income neighbourhoods of Nairobi to connect in a space designed for and with them, to engage with tailored learning, peer and expert support, confidence-building activities, and to purchase discounted health-related products.
 
-![4-81ca41.jpg](/uploads/4-81ca41.jpg)
+![4-81ca41.jpg](/uploads/4-81ca41.jpg)`The U Afya team are growing a digital community in Kenya`
 
 I see huge potential in this model of engaging mobile-based e-learning, and so many other applications for it across the health sector, and that is why I am most excited about this simple tech.
 
