@@ -20,7 +20,7 @@ I recently took part in the DAI panel discussion on “Digital Health in Interna
 
 When asked my opinion on the most promising piece of tech for the health sector, my response was mobile-based e-learning. It isn’t new; and it is easily overshadowed by the latest headline in digital development. Yet its potential when used in innovative ways is groundbreaking.
 
-It’s easy to get carried away with the promise of the latest innovative technology, or dazzled by a flashy new app. Yet it’s important to remember that the majority of people in the low-income communities we serve have access only to a basic internet-enabled feature phone—if that. The most vulnerable, including women, adolescents, people living with disabilities and the very poor, are the least likely to have the means or digital literacy to benefit from a high-tech solution.
+It’s easy to get carried away with the promise of the latest innovative technology or dazzled by a flashy new app. Yet it’s important to remember that the majority of people in the low-income communities we serve have access only to a basic internet-enabled feature phone—if that. The most vulnerable, including women, adolescents, people living with disabilities and the very poor, are the least likely to have the means or digital literacy to benefit from a high-tech solution.
 
 ## 2. Delivering Genuine Human-Centred Design
 
