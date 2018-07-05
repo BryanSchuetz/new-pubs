@@ -1,7 +1,7 @@
 ---
 title: 'Digital Health in International Development: Using Tried & Tested Technology
   Innovatively'
-date: 2018-06-19 07:42:00 -04:00
+date: 2018-07-05 13:00:00 -04:00
 tags:
 - Health
 - Innovation
