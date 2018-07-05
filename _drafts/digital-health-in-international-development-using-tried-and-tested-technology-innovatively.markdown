@@ -5,6 +5,7 @@ date: 2018-06-19 07:42:00 -04:00
 tags:
 - Health
 - Innovation
+- Human-centered design
 Author: Abi Gleek
 social-image: "/uploads/Abi-8b868a.jpg"
 ---
@@ -42,31 +43,33 @@ At Every1Mobile, we have seen that the real value of building solutions centred 
 
 Here’s an example of these key points in action, which I shared during the panel discussion, from our U Afya programme in Nairobi (Afya means health in Kiswahili).
 
-I talked through the process of how we worked with mothers and mothers-to-be in informal settlements around Nairobi, Kenya, to design a digital community that would support them in keeping themselves and their families healthy, using the technology they already have. One of the goals of the community is to drive behaviour change around health-seeking behaviours—specifically a healthy breakfast and hand washing.
+I talked through the process of how we worked with mothers and mothers-to-be in informal settlements around Nairobi, Kenya, to design a digital community that would support them in keeping themselves and their families healthy, using the technology they already have. One of the goals of the community is to encourage healthy behaviours—specifically, eating a balanced breakfast and washing hands.
 
 Our formative research showed that rather than poor knowledge, it was a lack of confidence that was a significant barrier to these behaviours. Simply sharing health messaging with this group was not going to have the impact needed.
+
 ![2-ae9268.jpg](/uploads/2-ae9268.jpg)
 
-We structured a behaviour change strategy accordingly, using techniques that would leverage the power of a digital community to build confidence. This included supporting the women to set
-realistic goals related to the desired behaviour, close peer engagement and sharing, and rewarding positive behaviour change.
+We structured a behaviour change strategy accordingly, using techniques that would leverage the power of a digital community to build confidence. This included supporting the women to set realistic goals related to the desired behaviour, close peer engagement and sharing, and rewarding positive behaviour change.
 
-We ran a pilot through WhatsApp (the technology most popular with the target group), to test out our strategy. A local moderator facilitated structured discussions with 50 young mothers and mothers-to-be, around a range of themes which the women had identified as their priority topics. Each theme had a simple set of pre and post survey questions, using the Every1Mobile survey functionality, designed to measure knowledge, attitudes and behaviour.
+We ran a pilot through WhatsApp (the communications technology most popular with the target group), to test our strategy. A local moderator facilitated structured discussions with 50 young mothers and mothers-to-be, around themes the women had identified as priorities. Each theme had a simple set of pre- and post-survey questions, using the Every1Mobile survey functionality, designed to measure knowledge, attitudes, and behaviour.
+
 ![3-1868eb.png](/uploads/3-1868eb.png)
 
-I’ll share the insights again here:
-Engagement in the discussions was very high: 60% of users engaged in every session, and 84% in more than half.
-* There were no significant knowledge gains, due largely to the high scores at pre- survey.
+I’ll share the insights here:
+
+* Engagement in the discussions was very high: 60 percent of users engaged in every session, and 84 percent in more than half.
+* There were no significant knowledge gains, due largely to the high scores at pre-survey.
 * Yet we saw a large shift in attitudes: an increase in self-confidence, increase in the perceived benefits of the behaviours, and a decrease in the perceived barriers.
 * There was also a significant change in self-reported behaviour.
 * Crucially, there was a strong link between engagement and behaviour change: with the desired behaviour more prominent for those women who actively engaged in sessions.
 
 We are now in our improvement phase, taking learnings from the pilot to develop a full U Afya digital community. The community will allow women across low-income neighbourhoods of Nairobi to connect in a space designed for and with them, to engage with tailored learning, peer and expert support, confidence-building activities, and to purchase discounted health-related products.
+
 ![4-81ca41.jpg](/uploads/4-81ca41.jpg)
 
-I see huge potential in this model of engaging mobile-based e-learning, and so many other
-applications for it across the health sector, and that is why I am most excited about this simple tech.
+I see huge potential in this model of engaging mobile-based e-learning, and so many other applications for it across the health sector, and that is why I am most excited about this simple tech.
 
-Mobile based e-learning  could be used for delivering professional development to health care workers, ranging from follow up to face-to-face clinical skills sessions, to provision of more values-based training such as interpersonal skills training and rights-based family-planning. It could also be used to support task shifting, for connecting cohorts of community health workers, for capacity building of health system administrators and data analysts or building capacity of health activists.
+Mobile based e-learning could be used for delivering professional development to health care workers, ranging from follow up to face-to-face clinical skills sessions, to provision of more values-based training such as interpersonal skills training and rights-based family-planning. It could also be used to support task shifting, for connecting cohorts of community health workers, for capacity building of health system administrators and data analysts or building capacity of health activists.
 
 Innovation doesn’t have to mean that we use brand new technology. We can build on the technology already embedded in communities, to deliver social impact in a much more sustainable and meaningful way.
 
