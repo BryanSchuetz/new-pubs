@@ -69,7 +69,7 @@ We are now in our improvement phase, taking learnings from the pilot to develop 
 
 I see huge potential in this model of engaging mobile-based e-learning, and so many other applications for it across the health sector, and that is why I am most excited about this simple tech.
 
-Mobile based e-learning could be used for delivering professional development to health care workers, ranging from follow up to face-to-face clinical skills sessions, to provision of more values-based training such as interpersonal skills training and rights-based family-planning. It could also be used to support task shifting, for connecting cohorts of community health workers, for capacity building of health system administrators and data analysts or building capacity of health activists.
+Mobile based e-learning could be used for delivering professional development to health care workers, ranging from follow-up to face-to-face clinical skills sessions, to provision of more values-based training such as interpersonal skills training and rights-based family planning. It could also be used to support task shifting, for connecting cohorts of community health workers, for capacity building of health system administrators and data analysts or building capacity of health activists.
 
 Innovation doesn’t have to mean that we use brand new technology. We can build on the technology already embedded in communities, to deliver social impact in a much more sustainable and meaningful way.
 
