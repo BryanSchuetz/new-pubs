@@ -7,7 +7,7 @@ tags:
 - Innovation
 - Human-centered design
 Author: Abi Gleek
-social-image: "/uploads/Abi-8b868a.jpg"
+social-image: "/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png"
 ---
 
 ![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  
@@ -59,7 +59,7 @@ I’ll share the insights here:
 
 We are now in our improvement phase, taking learnings from the pilot to develop a full U Afya digital community. The community will allow women across low-income neighbourhoods of Nairobi to connect in a space designed for and with them, to engage with tailored learning, peer and expert support, confidence-building activities, and to purchase discounted health-related products.
 
-![4-81ca41.jpg](/uploads/4-81ca41.jpg)`The U Afya team are growing a digital community in Kenya`
+![4-81ca41.jpg](/uploads/4-81ca41.jpg)`The U Afya team are growing a digital community in Kenya.`
 
 I see huge potential in this model of engaging mobile-based e-learning, and so many other applications for it across the health sector, and that is why I am most excited about this simple tech.
 
