@@ -1,5 +1,5 @@
 ---
-title: DAI featured on 'This is HCD' podcast
+title: DAI Center for Digital Acceleration Featured on 'This is HCD' podcast
 date: 2018-07-06 18:46:00 -04:00
 published: false
 ---
