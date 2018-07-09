@@ -1,7 +1,6 @@
 ---
 title: DAI’s Center for Digital Acceleration Featured on Podcast
 date: 2018-07-06 18:46:00 -04:00
-published: false
 tags:
 - Human-centered design
 - Think Piece
