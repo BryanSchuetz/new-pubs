@@ -17,11 +17,12 @@ The discussion covers:
 *What does inclusive design really mean and how can designers practice it?
 *Is it enough to have good intentions?
 *How does one land design gigs in the foreign aid space?
-*How can HCD help mitigate political and design  risk?
+*How can HCD help mitigate political and design risk?
 
-# [Listen Now](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/)
+<p>
+<h2 style="text-align: center;"><a href="https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/">Listen Now</a></h2>
+</p>
 
-A big thank you to hosts [Gerry Scullion](https://www.linkedin.com/in/gerryscullion/
+*A big thank you to hosts [Gerry Scullion](https://www.linkedin.com/in/gerryscullion/
 ) and [Chirryl-Lee Ryan](https://www.linkedin.com/in/chirrylleeryan/
-) for the invitation!
-
+) for the invitation!*
