@@ -8,7 +8,7 @@ Author: Adam Fivenson
 [This is HCD](http://www.thsishcd.com/)--a podcast that explores what human-centered design (HCD) looks like in practice--featured The Center for Digital Acceleration's work in Guatemala on their [most recent episode](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/
 ). 
 
-![blog header.PNG](/uploads/blog%20header.PNG)
+[![blog header.PNG](/uploads/blog%20header.PNG)](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs)
 
 <!--more-->
 
