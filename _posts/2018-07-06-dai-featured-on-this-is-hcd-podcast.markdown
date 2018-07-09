@@ -6,6 +6,8 @@ tags:
 - Human-centered design
 - Think Piece
 Author: Adam Fivenson
+social-image: "/uploads/blog%20header.PNG"
+thumbnail: "/uploads/blog%20header.PNG"
 ---
 
 [This is HCD](http://www.thsishcd.com/)—a podcast that explores what human-centered design (HCD) looks like in practice—featured DAI’s Center for Digital Acceleration work in Guatemala on its [most recent episode](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/
