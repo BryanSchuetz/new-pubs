@@ -13,11 +13,11 @@ Author: Adam Fivenson
 <!--more-->
 
 The discussion covers: 
-*What does HCD look like in the context of foreign aid?
-*What does inclusive design really mean and how can designers practice it?
-*Is it enough to have good intentions?
-*How does one land design gigs in the foreign aid space?
-*How can HCD help mitigate political and design risk?
+* What does HCD look like in the context of foreign aid?
+* What does inclusive design really mean and how can designers practice it?
+* Is it enough to have good intentions?
+* How does one land design gigs in the foreign aid space?
+* How can HCD help mitigate political and design risk?
 
 <p>
 <h2 style="text-align: center;"><a href="https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/">Listen Now</a></h2>
