@@ -16,10 +16,10 @@ Author: Adam Fivenson
 <!--more-->
 
 The discussion covers: 
-* What does HCD look like in the context of foreign aid?
+* What does HCD look like in the context of USAID programs?
 * What does inclusive design really mean and how can designers practice it?
 * Is it enough to have good intentions?
-* How does one land design gigs in the foreign aid space?
+* How does one land design gigs in the USAID space?
 * How can HCD help mitigate political and design risk?
 
 <p>
