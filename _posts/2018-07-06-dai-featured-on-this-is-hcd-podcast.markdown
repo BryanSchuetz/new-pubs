@@ -1,5 +1,5 @@
 ---
-title: DAI's Center for Digital Acceleration Featured on 'This is HCD' podcast
+title: DAI’s Center for Digital Acceleration Featured on Podcast
 date: 2018-07-06 18:46:00 -04:00
 published: false
 tags:
@@ -8,7 +8,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-[This is HCD](http://www.thsishcd.com/)--a podcast that explores what human-centered design (HCD) looks like in practice--featured The Center for Digital Acceleration's work in Guatemala on their [most recent episode](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/
+[This is HCD](http://www.thsishcd.com/)—a podcast that explores what human-centered design (HCD) looks like in practice—featured DAI’s Center for Digital Acceleration work in Guatemala on its [most recent episode](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/
 ). 
 
 [![blog header.PNG](/uploads/blog%20header.PNG)](https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs)
@@ -16,10 +16,10 @@ Author: Adam Fivenson
 <!--more-->
 
 The discussion covers: 
-* What does HCD look like in the context of USAID programs?
+* What does HCD look like in the context of U.S. government-funded programs?
 * What does inclusive design really mean and how can designers practice it?
 * Is it enough to have good intentions?
-* How does one land design gigs in the USAID space?
+* How does one land design gigs in this space?
 * How can HCD help mitigate political and design risk?
 
 <p>
