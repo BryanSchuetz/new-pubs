@@ -4,6 +4,7 @@ date: 2018-07-11 09:27:00 -04:00
 tags:
 - Think Piece
 - Digital Inclusion
+Author: Rachel Clad
 social-image: "/uploads/Bomb-attack-Addis-Ababa.jpg"
 ---
 
