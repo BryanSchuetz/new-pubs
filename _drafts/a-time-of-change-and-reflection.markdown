@@ -9,7 +9,7 @@ social-image: "/uploads/Bomb-attack-Addis-Ababa.jpg"
 thumbnail: "/uploads/Bomb-attack-Addis-Ababa.jpg"
 ---
 
-I can’t remember exactly what I was doing when the grenade went off up the street — probably brushing my teeth or something mundane like that. I was halfway through my two-week visit to Ethiopia and looking forward to getting out in the field. I was also completely unaware of what had just happened. It was a sobering day. I spent the afternoon watching the news. First one person confirmed dead, then two. [150 or so wounded](https://www.npr.org/2018/06/23/622855931/grenade-attack-tears-through-rally-for-ethiopian-prime-minister). Fear on the faces of a populace that had recently been so full of hope. 
+I can’t remember exactly what I was doing when the grenade went off up the street—probably brushing my teeth or something mundane like that. I was halfway through my two-week visit to Ethiopia and looking forward to getting out in the field. I was also completely unaware of what had just happened. It was a sobering day. I spent the afternoon watching the news. First one person confirmed dead, then two. [150 or so wounded](https://www.npr.org/2018/06/23/622855931/grenade-attack-tears-through-rally-for-ethiopian-prime-minister). Fear on the faces of a populace that had recently been so full of hope. 
 ![Bomb-attack-Addis-Ababa.jpg](/uploads/Bomb-attack-Addis-Ababa.jpg)`Image credit: AddisBiz.com`
 
 <!--more-->
