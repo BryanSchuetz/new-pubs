@@ -6,9 +6,12 @@ tags:
 - Digital Inclusion
 Author: Rachel Clad
 social-image: "/uploads/Bomb-attack-Addis-Ababa.jpg"
+thumbnail: "/uploads/Bomb-attack-Addis-Ababa.jpg"
 ---
 
 I can’t remember exactly what I was doing when the grenade went off up the street — probably brushing my teeth or something mundane like that. I was halfway through my two-week visit to Ethiopia and looking forward to getting out in the field. I was also completely unaware of what had just happened. It was a sobering day. I spent the afternoon watching the news. First one person confirmed dead, then two. [150 or so wounded](https://www.npr.org/2018/06/23/622855931/grenade-attack-tears-through-rally-for-ethiopian-prime-minister). Fear on the faces of a populace that had recently been so full of hope. 
+
+<!--more-->
 
 Ethiopia is undergoing major changes. The former prime minster unexpectedly resigned in February, prompting a state of emergency in a country already experiencing years of unrest. In April, a new prime minster rose to the top, one representing the marginalized Oromia majority: Mr. Abiy Ahmed. Young, vibrant and spreading a [unifying and hopeful message](https://mobile.twitter.com/PM_AbiyAhmed), Prime Minister Ahmed has already made several impactful, peace-promoting decisions, including the release of political prisoners and pushing forward a long-languishing peace agreement with Eritrea. In the week prior, multiple strangers had expressed to me their excitement about the changes afoot. “He’s bringing peace to our country. We are now safe and free to express our political beliefs,” said the gentleman escorting me to my meeting with Ministry staff. The joy was palpable. 
 
