@@ -1,5 +1,5 @@
 ---
-title: A time of change. And reflection.
+title: A Time of Change. And Reflection.
 date: 2018-07-11 09:27:00 -04:00
 tags:
 - Think Piece
