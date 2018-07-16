@@ -1,6 +1,10 @@
 ---
 title: 'Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation'
 date: 2018-07-16 15:34:00 -04:00
+tags:
+- Co-creation
+- Fall Armyworm
+- ICT
 Author: Talia Dweck
 social-image:
 - "/uploads/FAW_img1.png"
