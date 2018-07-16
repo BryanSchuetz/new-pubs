@@ -34,6 +34,6 @@ Together these examples embody the key to a successful co-creation: **Give peopl
 
 In her closing remarks at the co-creation workshop, Executive Director of FFAR, Dr. Sally Rockey
 \(pictured above), rightly quoted Dr. Norman Borlaug’s last words: “Take it to the farmer.” This sentiment illustrated the outcome of this workshop as competitors looked past the prize to focus on helping farmers across Africa manage this pest.
-<br>
+<br><br>
 ![FAW_img2.png](/uploads/FAW_img2.png)
 Photo Credit: Addmaya
