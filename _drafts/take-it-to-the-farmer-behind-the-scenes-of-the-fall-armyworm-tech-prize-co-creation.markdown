@@ -3,8 +3,13 @@ title: "“Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Pr
   Co-Creation"
 date: 2018-07-16 15:34:00 -04:00
 Author: Talia Dweck
+social-image:
+- "/uploads/FAW_img1.png"
+- 
 ---
 
+![FAW_img1.png](/uploads/FAW_img1.png)
+Photo Credit: DAI
 Co-creation, along with human-centered design and lean startup, are innovative approaches that have risen to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without fully understanding what it means, simply assuming it is an event that brings  various partners together to brainstorm ideas to solve a problem. Only when I attended the Fall Armyworm Tech Prize co-creation workshop from June 26 to 29, 2018 in Kampala, Uganda, did I fully grasp the nuances of co-creation, and realize the significant benefits it holds for end users of the co-created products.  
 
 Seeking Innovators
@@ -28,4 +33,6 @@ Finally, on the last day, one of the innovators collected the phone numbers of a
 Together these examples embody the key to a successful co-creation: Give people the space and time to go beyond the program’s structure and work together in their own way to achieve a common goal. As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
 In her closing remarks at the co-creation workshop, Executive Director of FFAR, Dr. Sally Rockey 
-(pictured above), rightly quoted Dr. Norman Borlaug’s last words: “Take it to the farmer.” This sentiment illustrated the outcome of this workshop as competitors looked past the prize to focus on helping farmers across Africa manage this pest. 
+(pictured above), rightly quoted Dr. Norman Borlaug’s last words: “Take it to the farmer.” This sentiment illustrated the outcome of this workshop as competitors looked past the prize to focus on helping farmers across Africa manage this pest.
+![FAW_img2.png](/uploads/FAW_img2.png)
+Photo Credit: Addmaya 
