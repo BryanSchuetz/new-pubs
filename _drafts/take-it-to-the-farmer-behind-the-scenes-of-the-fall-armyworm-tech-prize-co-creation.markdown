@@ -1,15 +1,15 @@
 ---
-title: "“Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize
-  Co-Creation"
+title: 'Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation'
 date: 2018-07-16 15:34:00 -04:00
 Author: Talia Dweck
 social-image:
 - "/uploads/FAW_img1.png"
-- 
+- "/uploads/FAW_img1.png"
 ---
 
 ![FAW_img1.png](/uploads/FAW_img1.png)
 Photo Credit: DAI
+<br>
 Co-creation, along with human-centered design and lean startup, are innovative approaches that have risen to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without fully understanding what it means, simply assuming it is an event that brings  various partners together to brainstorm ideas to solve a problem. Only when I attended the Fall Armyworm Tech Prize co-creation workshop from June 26 to 29, 2018 in Kampala, Uganda, did I fully grasp the nuances of co-creation, and realize the significant benefits it holds for end users of the co-created products.  
 
 Seeking Innovators
