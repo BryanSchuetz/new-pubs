@@ -39,8 +39,7 @@ A few of my favorite examples:
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond the program’s structure and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
-In her closing remarks at the co-creation workshop, Executive Director of FFAR, Dr. Sally Rockey
-\(pictured above), rightly quoted Dr. Norman Borlaug’s last words: “Take it to the farmer.” This sentiment illustrated the outcome of this workshop as competitors looked past the prize to focus on helping farmers across Africa manage this pest.
+In her closing remarks at the co-creation workshop, FFAR Executive Director Dr. Sally Rockey (pictured above) rightly quoted Dr. Norman Borlaug’s last words: “Take it to the farmer.” This sentiment illustrated the outcome of the workshop as competitors looked past the prize to focus on helping farmers across Africa address this serious problem.
 <br><br>
 ![FAW_img2.png](/uploads/FAW_img2.png)
 Photo Credit: Addmaya
