@@ -8,7 +8,7 @@ social-image: "/uploads/headphones.jpg"
 thumbnail: "/uploads/headphones.jpg"
 ---
 
-<aside><p><em>Note: Digital@DAI thanks <a href="http://www.thisishcd.com/">This is HCD</a> for featuring the Center for Digital Acceleration in a recent episode covering [human-centered design for foreign aid programs](https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html).</aside></p></em>
+<aside><p><em>Note: Digital@DAI thanks <a href="http://www.thisishcd.com/">This is HCD</a> for featuring the Center for Digital Acceleration in a recent episode covering <a href="https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html">human-centered design for foreign aid programs</a></aside></p></em>
 
 In international development, human-centered designer (HCD) is charged with rapidly developing empathy with a specific, targeted marginalized population, a social challenge that group faces, and parlaying that understanding into a local solution. 
 
