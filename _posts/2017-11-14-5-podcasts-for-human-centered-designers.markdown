@@ -8,6 +8,8 @@ social-image: "/uploads/headphones.jpg"
 thumbnail: "/uploads/headphones.jpg"
 ---
 
+*Note: Digital@DAI thanks [This is HCD](http://www.thisishcd.com/) for featuring the Center for Digital Acceleration in a recent episode covering [human-centered design for foreign aid programs](https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html).*
+
 In international development, human-centered designer (HCD) is charged with rapidly developing empathy with a specific, targeted marginalized population, a social challenge that group faces, and parlaying that understanding into a local solution. 
 
 ![headphones.jpg](/uploads/headphones.jpg)
@@ -54,5 +56,3 @@ and intriguing design cases from the past and present and breaks down the “why
 * **File under:** User experience, designer empathy, global perspective
 * **Why is it useful for HCD practitioners?** This is HCD is hosted Gerry Scullion and Chirryl-Lee Ryan, two designers with as much wry wit as design experience (that is to say, a lot!). Gerry and Chirryl-Lee seek to answer the question "What is HCD?" by exploring the practice and its core components through the lens of practicing designers. Previous episodes cover [ethnographic thinking in design](https://www.thisishcd.com/episodes/19-jay-hasbrouck-the-power-of-ethnographic-thinking-in-design/), [stakeholder engagement within large organizations](https://www.thisishcd.com/episodes/9-cyril-secourgeon-the-secrets-of-successful-stakeholder-engagement-in-large-organisations/) and [the intersection of Service Design and User Experience Design](https://www.thisishcd.com/episodes/11-eduardo-kranz-the-intersect-of-service-design-and-user-experience-design/). 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/this-is-hcd-human-centered-design-podcast/id1238981415?mt=2), [Stitcher](https://www.stitcher.com/podcast/gerry-scullion/this-is-hcd), [website](http://www.thisishcd.com/)
-
-*Digital@DAI thanks This is HCD for featuring the Center for Digital Acceleration in a recent episode covering [human-centered design for foreign aid programs](https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html).*
