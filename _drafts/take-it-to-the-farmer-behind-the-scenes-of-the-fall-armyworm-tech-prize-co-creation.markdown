@@ -12,7 +12,7 @@ social-image:
 - "/uploads/FAW_img1_SM.png"
 ---
 
-![FAW_img1_SM-b1d586.png](/uploads/FAW_img1_SM-b1d586.png)
+![FAW_img1_SM.png](/uploads/FAW_img1_SM.png)
 Photo Credit: DAI
 <br><br>
 Co-creation, along with human-centered design and lean startup, are innovative approaches that have risen to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without fully understanding what it means, simply assuming it is an event that brings  various partners together to brainstorm ideas to solve a problem. Only when I attended the [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/) co-creation workshop from June 26 to 29, 2018 in Kampala, Uganda, did I fully grasp the nuances of co-creation, and realize the significant benefits it holds for end users of the co-created products.
