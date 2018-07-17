@@ -12,7 +12,7 @@ In the field of international development, human-centered designers (HCD) are ch
 
 ![headphones.jpg](/uploads/headphones.jpg)
 
-Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work. But, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
+Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work. But, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them and perpetuate the problem. 
 
 <aside><p>Note: Digital@DAI thanks <a href="http://www.thisishcd.com">This is HCD</a> for featuring the Center for Digital Acceleration in a recent episode covering <a href="https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html">human-centered design for foreign aid programs</a></aside></p>
 
