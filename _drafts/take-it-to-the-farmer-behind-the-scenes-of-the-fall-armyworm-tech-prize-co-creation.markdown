@@ -12,7 +12,7 @@ social-image:
 - "/uploads/FAW_img1_SM.png"
 ---
 
-![FAW_img1.png](/uploads/FAW_img1_SM.png)
+![FAW_img1_SM-b1d586.png](/uploads/FAW_img1_SM-b1d586.png)
 Photo Credit: DAI
 <br><br>
 Co-creation, along with human-centered design and lean startup, are innovative approaches that have risen to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without fully understanding what it means, simply assuming it is an event that brings  various partners together to brainstorm ideas to solve a problem. Only when I attended the [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/) co-creation workshop from June 26 to 29, 2018 in Kampala, Uganda, did I fully grasp the nuances of co-creation, and realize the significant benefits it holds for end users of the co-created products.
@@ -32,7 +32,9 @@ The co-creation process creates an environment that unites competitors. The thre
 A few of my favorite examples of the spirit of co-creation:
 
 * Several finalists proposed digital tools that use machine learning to help farmers and extension workers identify the pest. Early on, they realized that there was a dearth of images of fall armyworm. In response, those innovators met over dinner to brainstorm how to create an image bank to train their classification models. Whether or not these finalists win, this effort will prove extremely beneficial to the fight against fall armyworm.<br><br>
+
 * On the second day there was a Marketplace, similar to an exhibition, where innovators pitched their ideas to partners, potential investors, and farmers. Many finalists used this opportunity to have farmers test their digital tools and solicit feedback on how to make them more user friendly and helpful, given their technological constraints. This farmer interaction was continual throughout the workshop, allowing participants to further understand the needs of farmers as they built and iterated on their tools.<br><br>
+
 * Finally, on the last day, one of the innovators collected the phone numbers of all the other finalists and created a WhatsApp group for them to bounce ideas off one another and share approaches during the remainder of the prize process.<br>
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond the program’s structure and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
