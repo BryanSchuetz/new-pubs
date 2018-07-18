@@ -28,9 +28,9 @@ Twenty [finalists](https://fallarmywormtech.challenges.org/finalists-2/)—out o
 
 My rudimentary understanding of co-creation within the prize process wrongfully pushed me to assume that although co-creation encourages collaboration, at its core this prize is a *competition*, and with five prizes totaling $400,000 on the line, the idea of *co*-creating could only be taken so far. I was very wrong.
 
-Co-creation creates an environment that *unites* competitors. Our three-and-a-half days were filled with sessions that unpacked the problem of fall armyworm, incorporated human-centered design in prototype development, developed business plans (including fundraising, costing models, and communications), considered ways to measure impact, and hosted sales pitches. 
+Co-creation creates an environment that *unites* competitors. Our three-and-a-half days were filled with sessions that unpacked the problem of fall armyworm, incorporated human-centered design in prototype development, developed business plans (including fundraising, costing models, and communications), considered ways to measure impact, and hosted practice sales pitches. 
 
-These sessions helped the finalists understand how to improve their ideas, but what happened behind the scenes was where the spirit of co-creation really took flight. It seemed that competition was replaced by a strong focus on *collaboration* to solve this endemic problem. It might have been a coffee break where someone recommended an data analytics tool to integrate into a potential solution, or a lunch where two finalist groups decided to join forces—the heartbeat of co-creation happened when I least expected it.
+These sessions helped the finalists understand how to improve their ideas, but what happened behind the scenes was where the spirit of co-creation really took flight. It seemed that competition was replaced by a strong focus on *collaboration* to solve an endemic problem. This might be at a coffee break where someone recommended a data analytics tool to integrate into a potential solution, or at a lunch where two finalist groups decided to join forces—the heartbeat of co-creation happened when I least expected it.
 
 A few examples:
 
