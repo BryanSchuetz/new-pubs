@@ -13,17 +13,19 @@ social-image:
 ---
 
 ![FAW_img1_SM.png](/uploads/FAW_img1_SM.png)
-Photo Credit: DAI
-<br><br>
+`Photo Credit: DAI`
+
 Along with human-centered design and lean startup, co-creation is an approach arising to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without  understanding what it means, simply assuming it was an event that brings together a variety of partners to brainstorm ideas to solve a problem. Only when I attended the [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/) co-creation workshop June 26–29 in Kampala, Uganda, did I grasp the nuances of co-creation and realize the significant benefits it holds for the end users of co-created products.
 
-## **Seeking Innovators**
+
+
+## Seeking Innovators
 
 Fall armyworm is a [devastating pest](http://www.fao.org/food-chain-crisis/how-we-work/plant-protection/fallarmyworm/en/) that can destroy potentially millions of tons of crop yield across Africa, drastically reducing the incomes of smallholder farmers and those who rely on these crops for their livelihoods. In response to the 2016 fall armyworm outbreak, Feed the Future and  partners [Land O’Lakes International Development](https://www.landolakes.org/) and [Foundation for Food and Agriculture Research](https://foundationfar.org/) (FFAR), created the [Fall Armyworm Tech Prize](https://www.usaid.gov/what-we-do/agriculture-and-food-security/increasing-food-security-through-feed-future/fall-armyworm) competition to draw out digital tools and approaches that could provide timely, context-specific information that smallholder farmers and others could use to identify, treat, and track incidence of fall armyworm.
 
 Twenty [finalists](https://fallarmywormtech.challenges.org/finalists-2/)—out of 228 applicants—were selected to attend a co-creation workshop, participate in interactive feedback sessions about their prototypes, and further develop these for the next phase of the competition. The workshop also convened partners from the private sector and government; experts and mentors in agriculture, technology, and business development; and, most importantly, the future users of these new tools and approaches—the farmers.
 
-## **Collaboration Overtakes Competition**
+## Collaboration Overtakes Competition
 
 My rudimentary understanding of co-creation within the prize process wrongfully pushed me to assume that although co-creation encourages collaboration, at its core this prize is a *competition*, and with five prizes totaling $400,000 on the line, the idea of *co*-creating could only be taken so far. I was very wrong.
 
@@ -38,8 +40,6 @@ A few examples:
 * On Day 2, finalists pitched their ideas to partners, potential investors, and farmers at an exhibition-like  Marketplace. Many finalists used this opportunity to have farmers test their digital tools and provide feedback on how to make them more user friendly and helpful given farmers' technological constraints. Continual interaction with farmers during the workshop allowed participants to appreciate farmers' needs as they built and iterated their tools.<br><br>
 
 * Finally, on the last day, one of the finalists collected the phone numbers of the others and created a WhatsApp group for all to bounce ideas off one another and share approaches during the remainder of the prize process, which concludes in mid-November when our five winners are announced.
-
-.<br>
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond a structured program and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
