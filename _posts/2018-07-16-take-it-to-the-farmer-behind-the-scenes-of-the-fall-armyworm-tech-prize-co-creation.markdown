@@ -1,6 +1,7 @@
 ---
 title: 'Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation'
 date: 2018-07-16 15:34:00 -04:00
+published: false
 tags:
 - Co-creation
 - Fall Armyworm
