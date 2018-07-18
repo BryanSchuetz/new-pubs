@@ -14,10 +14,10 @@ social-image:
 
 Along with human-centered design and lean startup, co-creation is an approach arising to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without  understanding what it means, simply assuming it was an event that brings together a variety of partners to brainstorm ideas to solve a problem. Only when I attended the [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/) co-creation workshop June 26–29 in Kampala, Uganda, did I grasp the nuances of co-creation and realize the significant benefits it holds for the end users of co-created products.
 
+
+
 ![FAW_img1_SM.png](/uploads/FAW_img1_SM.png)
 `Photo Credit: DAI`
-
-
 
 ## Seeking Innovators
 
