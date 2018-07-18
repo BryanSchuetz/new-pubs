@@ -31,7 +31,7 @@ Co-creation creates an environment that *unites* competitors. Our three-and-a-ha
 
 These sessions helped the finalists understand how to improve their ideas, but what happened behind the scenes was where the spirit of co-creation really took flight. It seemed that competition was replaced by a strong focus on *collaboration* to solve this endemic problem. It might have been a coffee break where someone recommended an data analytics tool to integrate into a potential solution, or a lunch where two finalist groups decided to join forces—the heartbeat of co-creation happened when I least expected it.
 
-A few of my favorite examples:
+A few examples:
 
 * Several finalists proposed digital tools that use machine learning to help farmers and extension workers identify the pest. Early on, they realized that there was a dearth of images of fall armyworm. In response, those innovators met over dinner to brainstorm how to create an image bank to train their classification models. Whether or not these finalists win, this effort will prove extremely beneficial to the fight against this invasive species.<br><br>
 
