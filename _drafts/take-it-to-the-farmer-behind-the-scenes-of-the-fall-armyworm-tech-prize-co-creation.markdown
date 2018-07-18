@@ -41,7 +41,7 @@ A few examples:
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond the program’s structure and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
-Moreover, FFAR Executive Director Dr. Sally Rockey (pictured above) closed the workshop by quoting agricultural development pioneer Dr. Norman Borlaug: “Take it to the farmer.” This sentiment illustrated the outcome of the workshop as competitors looked past the prize to focus on helping farmers across Africa address this serious problem.
+FFAR Executive Director Dr. Sally Rockey (pictured above) closed the workshop by quoting agricultural development pioneer Dr. Norman Borlaug's plea to developers of technology: “Take it to the farmer.” This sentiment was taken to heart by the Fall Armyworm Tech Prize finalists as they looked past the prize money to focus on co-creating solutions with farmers to address farming challenges.
 <br><br>
 ![FAW_img2.png](/uploads/FAW_img2.png)
 Photo Credit: Addmaya
