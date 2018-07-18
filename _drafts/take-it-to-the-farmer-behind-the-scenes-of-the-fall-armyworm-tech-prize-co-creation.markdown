@@ -35,15 +35,13 @@ These sessions helped the finalists understand how to improve their ideas, but w
 
 A few examples:
 
-* Several finalists proposed digital tools that use machine learning to help farmers and extension workers identify the pest. Early on, they realized their tools lacked ample imagery of fall armyworm. In response, those innovators brainstormed over dinner how to create an image bank to train their classification models. These finalists might not win the top prize, but this co-creative effort could ultimately result in a tool that decreases or prevents damage to farm yields.<br><br>
-
-* On Day 2, finalists pitched their ideas to partners, potential investors, and farmers at an exhibition-like  Marketplace. Many finalists used this opportunity to have farmers test their digital tools and provide feedback on how to make them more user friendly and helpful given farmers' technological constraints. Continual interaction with farmers during the workshop allowed participants to appreciate farmers' needs as they built and iterated their tools.<br><br>
-
+* Several finalists proposed digital tools that use machine learning to help farmers and extension workers identify the pest. Early on, they realized their tools lacked ample imagery of fall armyworm. In response, those innovators brainstormed over dinner how to create an image bank to train their classification models. These finalists might not win the top prize, but this co-creative effort could ultimately result in a tool that decreases or prevents damage to farm yields.
+* On Day 2, finalists pitched their ideas to partners, potential investors, and farmers at an exhibition-like  Marketplace. Many finalists used this opportunity to have farmers test their digital tools and provide feedback on how to make them more user friendly and helpful given farmers' technological constraints. Continual interaction with farmers during the workshop allowed participants to appreciate farmers' needs as they built and iterated their tools.
 * Finally, on the last day, one of the finalists collected the phone numbers of the others and created a WhatsApp group for all to bounce ideas off one another and share approaches during the remainder of the prize process, which concludes in mid-November when our five winners will be announced.
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond a structured program and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
 Before he died at age 95, agricultural development pioneer Dr. Norman Borlaug made a request to developers of technology: “Take it to the farmer.” FFAR Executive Director Dr. Sally Rockey (pictured above) cited this quote in her closing remarks. This sentiment was taken to heart by the Fall Armyworm Tech Prize finalists, who looked past the prize money to focus on co-creating solutions alongside some of the very farmers who need their help.
-<br><br>
+
 ![FAW_img2.png](/uploads/FAW_img2.png)
-Photo Credit: Addmaya
+`Photo Credit: Addmaya`
