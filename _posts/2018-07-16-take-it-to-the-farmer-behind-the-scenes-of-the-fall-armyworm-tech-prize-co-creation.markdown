@@ -23,7 +23,7 @@ Fall armyworm is a [devastating pest](http://www.fao.org/food-chain-crisis/how-w
 
 Twenty [finalists](https://fallarmywormtech.challenges.org/finalists-2/)—out of 228 applicants—were selected to attend a co-creation workshop and participate in interactive sessions to give and take feedback on their prototypes and further develop these for the next phase of the competition. In addition to the finalists, the workshop convened private sector and government partners; experts and mentors in agriculture, technology, and business development; and, most importantly, the future users of these new tools and approaches—the farmers.
 
-## **Collaboration, Not Competition**
+## **Collaboration Overtakes Competition**
 
 My rudimentary understanding of co-creation within the prize process wrongfully pushed me to assume that although co-creation encourages collaboration, at its core this prize is a *competition*, and with five prizes totaling $400,000 on the line, the idea of *co*-creating could only be taken so far. I was very wrong.
 
