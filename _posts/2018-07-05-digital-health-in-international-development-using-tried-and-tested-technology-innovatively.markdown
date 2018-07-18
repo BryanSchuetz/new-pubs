@@ -8,6 +8,7 @@ tags:
 - Human-centered design
 Author: Abi Gleek
 social-image: "/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png"
+thumbnail: "/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png"
 ---
 
 ![Abi-7981e9.jpg](/uploads/Abi-7981e9.jpg){:.float-left}  
