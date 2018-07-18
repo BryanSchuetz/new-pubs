@@ -33,11 +33,11 @@ These sessions helped the finalists understand how to improve their ideas, but w
 
 A few examples:
 
-* Several finalists proposed digital tools that use machine learning to help farmers and extension workers identify the pest. Early on, they realized that there was a dearth of images of fall armyworm. In response, those innovators met over dinner to brainstorm how to create an image bank to train their classification models. Whether or not these finalists win, this effort will prove extremely beneficial to the fight against this invasive species.<br><br>
+* Several finalists proposed digital tools that use machine learning to help farmers and extension workers identify the pest. Early on, they realized that their tools lacked ample imagery of fall armyworm. In response, those innovators brainstormed over dinner how to create an image bank to train their classification models. Regardless if these finalists win the top prize, this co-creative effort could ultimately help decrease or prevent damage to farm yields.<br><br>
 
-* On the second day, there was a Marketplace—similar to an exhibition—where finalists pitched their ideas to partners, potential investors, and farmers. Many finalists used this opportunity to have farmers test their digital tools and solicit feedback on how to make them more user friendly and helpful, given their technological constraints. Interacting with farmers was continual throughout the workshop, allowing participants to further understand the needs of farmers as they built and iterated their tools.<br><br>
+* On Day 2, finalists pitched their ideas to partners, potential investors, and farmers at an exhibition-like  Marketplace. Many finalists used this opportunity to have farmers test their digital tools and provide feedback on how to make them more user friendly and helpful given farmers' technological constraints. Continual interaction with farmers during the workshop allowed participants to appreciate the needs of farmers as they built and iterated their tools.<br><br>
 
-* Finally, on the last day, one of the innovators collected the phone numbers of all the other finalists and created a WhatsApp group for them to bounce ideas off one another and share approaches during the remainder of the prize process.<br>
+* Finally, on the last day, one of the finalists collected the phone numbers of the others and created a WhatsApp group for them to bounce ideas off one another and share approaches during the remainder of the prize process.<br>
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond the program’s structure and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
