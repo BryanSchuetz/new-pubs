@@ -19,6 +19,10 @@ Along with human-centered design and lean startup, co-creation is an approach ar
 ![FAW_img1_SM.png](/uploads/FAW_img1_SM.png)
 `Photo Credit: DAI`
 
+
+
+
+
 ## Seeking Innovators
 
 Fall armyworm is a [devastating pest](http://www.fao.org/food-chain-crisis/how-we-work/plant-protection/fallarmyworm/en/) that can destroy potentially millions of tons of crop yield across Africa, drastically reducing the incomes of smallholder farmers and those who rely on crops for their livelihoods. In response to the 2016 fall armyworm outbreak, Feed the Future and partners [Land O’Lakes International Development](https://www.landolakes.org/) and the [Foundation for Food and Agriculture Research (FFAR)](https://foundationfar.org/), created the [Fall Armyworm Tech Prize](https://www.usaid.gov/what-we-do/agriculture-and-food-security/increasing-food-security-through-feed-future/fall-armyworm) competition. This open event has attracted developers of digital tools and approaches from across Africa and beyond, each vying to provide the best solution for procuring timely, targeted information that smallholder farmers can use to identify, remedy, and track incidence of fall armyworm.
