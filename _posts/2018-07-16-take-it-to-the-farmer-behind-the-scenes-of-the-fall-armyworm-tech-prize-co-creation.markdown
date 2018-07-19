@@ -19,9 +19,7 @@ Along with human-centered design and lean startup, co-creation is an approach ar
 ![FAW_img1_SM.png](/uploads/FAW_img1_SM.png)
 `Photo Credit: DAI`
 
-
-
-
+<!--more-->
 
 ## Seeking Innovators
 
