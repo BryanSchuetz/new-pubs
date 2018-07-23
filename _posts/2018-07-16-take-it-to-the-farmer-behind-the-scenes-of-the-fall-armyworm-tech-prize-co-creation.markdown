@@ -41,7 +41,7 @@ A few examples:
 
 Together these examples embody the key to a successful co-creation: **Give people the space and time to go beyond a structured program and work together in their own way to achieve a common goal.** As we move toward the next phase of the prize process, I look forward to seeing how the solutions are fueled by this collaboration and farmer engagement.
 
-Before he died at age 95, agricultural development pioneer Dr. Norman Borlaug made a request to developers of technology: “Take it to the farmer.” FFAR Executive Director Dr. Sally Rockey (pictured above) cited this quote in her closing remarks. This sentiment was taken to heart by the Fall Armyworm Tech Prize finalists, who looked past the prize money to focus on co-creating solutions alongside some of the very farmers who need their help.
+Before he died at age 95, agricultural development pioneer Dr. Norman Borlaug made a request to developers of technology: “Take it to the farmer.” FFAR Executive Director Dr. Sally Rockey (pictured up top) cited this quote in her closing remarks. This sentiment was taken to heart by the Fall Armyworm Tech Prize finalists, who looked past the prize money to focus on co-creating solutions alongside some of the very farmers who need their help.
 
 ![FAW_img2.png](/uploads/FAW_img2.png)
 `Photo Credit: Addmaya`
