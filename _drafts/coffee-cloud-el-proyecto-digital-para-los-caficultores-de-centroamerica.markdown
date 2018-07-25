@@ -1,6 +1,8 @@
 ---
 title: 'Coffee Cloud: El proyecto digital para los caficultores de Centroamérica'
 date: 2018-07-25 16:14:00 -04:00
+categories:
+- Innovation
 tags:
 - diseño centrado en el humano
 - agricultura
