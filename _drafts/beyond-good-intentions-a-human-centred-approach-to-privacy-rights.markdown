@@ -1,7 +1,11 @@
 ---
 title: 'Beyond good intentions: a human-centred approach to privacy rights'
 date: 2018-07-31 09:45:00 -04:00
+Author: "[Sebastian Manhart](https://www.linkedin.com/in/sebastianmanhart/?authType=NAME_SEARCH&authToken=SL9Z&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91202623%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1446396352955%2Ctas%3Aseb)
+  and [Christine Kim](https://www.linkedin.com/in/christineminjukim/?authType=NAME_SEARCH&authToken=Y5N2&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91601827%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1477946298677%2Ctas%3Achristine%20kim)"
 ---
+
+*This is a guest post written by [Sebastian Manhart](https://www.linkedin.com/in/sebastianmanhart/?authType=NAME_SEARCH&authToken=SL9Z&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91202623%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1446396352955%2Ctas%3Aseb) and [Christine Kim](https://www.linkedin.com/in/christineminjukim/?authType=NAME_SEARCH&authToken=Y5N2&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91601827%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1477946298677%2Ctas%3Achristine%20kim) of [Simprints](https://www.simprints.com/)*
 
 We’ve probably all read the headlines: large-scale breaches of highly sensitive information in the [US](https://www.wired.com/2015/09/opm-now-admits-5-6m-feds-fingerprints-stolen-hackers/), in the [Philippines](http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/), in [Nigeria](https://www.devex.com/news/new-security-concerns-raised-for-redrose-digital-payment-systems-91619), in [India](https://www.theguardian.com/world/2018/jan/04/india-national-id-database-data-leak-bought-online-aadhaar)...the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the [General Data Protection Regulations](https://www.eugdpr.org/) (GDPR), the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start (we’re in the age of blockchain and AI; you tell me how to exercise right to erasure here).
 
@@ -9,7 +13,7 @@ But for those of us in international development, the challenges of GDPR are mor
 
 Fair enough. And yet, technology will always penetrate a market before the regulations catch up. While “move fast and break things” might work in Silicon Valley, in the space in which we operate, the “things” we risk breaking are human lives. Do we then dismiss regulations like GDPR and instead rely on our own good intentions to Do No Harm? Maybe my faith in our sector is too optimistic, but I seriously doubt that malicious neglect was to blame for these data breaches. No, it came entirely from good intentions with zero accountability to protocols that mitigate against exactly what happened: security hacks that exposed the personal data of thousands of people.
 
-GDPR isn’t perfectly applicable to international development contexts. But it is the strictest privacy standard in the world, and by applying its principles to your operations worldwide, it can serve as a fantastic tool to improve the quality of your work, while preserving the privacy of your beneficiaries. 
+GDPR isn’t perfectly applicable to international development contexts. But it is the strictest privacy standard in the world, and by applying its principles to your operations worldwide, it can serve as a fantastic tool to improve the quality of your work, while preserving the privacy of your beneficiaries.
 
 ## Here are 5 measures that any organisation, no matter how small, can implement:
 
