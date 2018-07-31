@@ -15,7 +15,7 @@ Fair enough. And yet, technology will always penetrate a market before the regul
 
 GDPR isn’t perfectly applicable to international development contexts. But it is the strictest privacy standard in the world, and by applying its principles to your operations worldwide, it can serve as a fantastic tool to improve the quality of your work, while preserving the privacy of your beneficiaries.
 
-## Here are 5 measures that any organisation, no matter how small, can implement:
+## Here are 5 privacy measures that any organisation, no matter how small, can implement:
 
 **#1: Carry out an internal data audit.** Understand where data is held in your organisation, in what platforms, who has access to it, and what you are doing with it. Keep it simple. Tap a point person for each department, share a simple spreadsheet to fill out, and make sure these key questions are answered:
 
