@@ -1,5 +1,5 @@
 ---
-title: 'Beyond good intentions: a human-centered approach to privacy rights'
+title: 'Beyond good intentions: a human-centred approach to privacy rights'
 date: 2018-07-31 09:45:00 -04:00
 ---
 
