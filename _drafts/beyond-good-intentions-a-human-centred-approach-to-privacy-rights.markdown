@@ -3,10 +3,11 @@ title: 'Essential Actions: A Human-Centred, Global Approach to Privacy Rights'
 date: 2018-07-31 09:45:00 -04:00
 tags:
 - Data
-- Digital Principles
 - Human-centered design
 Author: "[Sebastian Manhart](https://www.linkedin.com/in/sebastianmanhart/?authType=NAME_SEARCH&authToken=SL9Z&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91202623%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1446396352955%2Ctas%3Aseb)
   and [Christine Kim](https://www.linkedin.com/in/christineminjukim/?authType=NAME_SEARCH&authToken=Y5N2&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91601827%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1477946298677%2Ctas%3Achristine%20kim)"
+social-image: "/uploads/Simprints1-copy.jpg"
+thumbnail: "/uploads/Simprints1-copy.jpg"
 ---
 
 *This is a guest post written by [Sebastian Manhart](https://www.linkedin.com/in/sebastianmanhart/?authType=NAME_SEARCH&authToken=SL9Z&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91202623%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1446396352955%2Ctas%3Aseb) and [Christine Kim](https://www.linkedin.com/in/christineminjukim/?authType=NAME_SEARCH&authToken=Y5N2&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91601827%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1477946298677%2Ctas%3Achristine%20kim) of [Simprints](https://www.simprints.com/)*
