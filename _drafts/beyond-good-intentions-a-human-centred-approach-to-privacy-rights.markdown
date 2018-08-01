@@ -27,21 +27,13 @@ GDPR isn’t perfectly applicable to international development contexts. But it 
 **1. Carry out an internal data audit.** Understand where personal data is held in your organisation, in what platforms, who has access to it, and what you are doing with it. Keep it simple. Tap a point person for each department, share a simple spreadsheet to fill out, and make sure these key questions are answered:
 
 * What personal data do we collect?
-
 * From whom do we collect this data?
-
 * Why do we collect this data?
-
 * Do we really need this data?
-
 * Would we ever need this data for a different purpose?
-
 * Who has access to the data?
-
 * Do we share the data with anyone external or another data processor (tool)? If so, who?
-
 * Where is the data stored/held (physically)?
-
 * How long will we retain the data?
 
 *Bonus points:* Turn it into a higher-level data inventory that can be shared (confidentially) with key partners and regulators. For the adrenaline junkies, I guarantee this one will be a terrifying—and enlightening—experience that exposes all your vulnerabilities and gives you a steer on where to focus your mitigating efforts.
@@ -51,7 +43,6 @@ GDPR isn’t perfectly applicable to international development contexts. But it 
 **3. Implement prioritized [data subject rights](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).** By data subject, we mean the people you’re trying to serve. This is the most difficult to implement, as the rights were designed for literate, tech-savvy consumers with direct access to, say, a smartphone. For example, you can’t realistically be expected to fully apply the [right to data portability](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability/) in your projects. However, implementing these rights will significantly improve the privacy of your beneficiaries. What you *can* do is:
 
 * Prioritise which rights are fundamentally important, irrespective of how hard they might be to implement (e.g., the right to withdraw consent, if consent is used as the lawful base for processing).
-
 * Work with your relevant departments to implement short-term wins, such as a person designated for beneficiaries to contact to have their data deleted, and long-term robust changes, such as building training for frontline operators around privacy being a key human right.
 
 *Bonus points:* Be public about the successes and failures of operationalizing privacy rights. Share key insights with the industry; we’re all facing the same challenges, and your learnings can help us—and by extension, our beneficiaries—avoid the same pains.
@@ -59,7 +50,6 @@ GDPR isn’t perfectly applicable to international development contexts. But it 
 **4. Train your employees.** Privacy cannot be a top-down mandate, or one that sits siloed away with your monitoring and evaluation team. It must be regarded in the same way good human resources practices are—a shared awareness and responsibility embedded across the entire organisation that no employee can fail to meet. To start:
 
 * Tap strong decentralised “privacy leaders” and train them to champion privacy protocols in their departments.
-
 * Make sure every single employee gets a proper privacy training. By proper, we mean a training curriculum that doesn’t simply check the minimum-requirement box, but rather articulates *why* this privacy focus is of paramount importance for your company. This is one instance where “drinking the Kool Aid” is a good thing.
 
 *Bonus points:* Create a support structure for privacy leaders—for example, regular check-in meetings when they can voice concerns or share learnings across the company.
