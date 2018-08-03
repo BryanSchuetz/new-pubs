@@ -10,7 +10,7 @@ social-image: "/uploads/Simprints1-copy.jpg"
 thumbnail: "/uploads/Simprints1-copy.jpg"
 ---
 
-We’ve read the headlines: large-scale breaches of highly sensitive information in the [United States](https://www.wired.com/2015/09/opm-now-admits-5-6m-feds-fingerprints-stolen-hackers/), in the [Philippines](http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/), in [Nigeria](https://www.devex.com/news/new-security-concerns-raised-for-redrose-digital-payment-systems-91619), in [India](https://www.theguardian.com/world/2018/jan/04/india-national-id-database-data-leak-bought-online-aadhaar) ... the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the [General Data Protection Regulations (GDPR)](https://www.eugdpr.org/), the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We're in the age of blockchain and AI; you tell me how to exercise [right to erasure](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/) here.) Either way, GDPR concepts are useful to international development contexts. 
+We’ve read the headlines: large-scale breaches of highly sensitive information in the [United States](https://www.wired.com/2015/09/opm-now-admits-5-6m-feds-fingerprints-stolen-hackers/), in the [Philippines](http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/), in [Nigeria](https://www.devex.com/news/new-security-concerns-raised-for-redrose-digital-payment-systems-91619), in [India](https://www.theguardian.com/world/2018/jan/04/india-national-id-database-data-leak-bought-online-aadhaar) ... the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the [General Data Protection Regulations (GDPR)](https://www.eugdpr.org/), the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We're in the age of blockchain and AI; you tell me how to exercise [right to erasure](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/) here.) Either way, GDPR concepts are useful to international development contexts.
 
 ![Simprints1-copy.jpg](/uploads/Simprints1-copy.jpg)
 
@@ -27,31 +27,41 @@ While GDPR isn’t perfect, it is the strictest privacy standard in the world, a
 **1. Carry out an internal data audit.** Understand where personal data is held in your organisation, in what platforms, who has access to it, and what you are doing with it. Keep it simple. Tap a point person for each department, share a simple spreadsheet to fill out, and make sure these key questions are answered:
 
 * What personal data do we collect?
+
 * From whom do we collect this data?
+
 * Why do we collect this data?
+
 * Do we really need this data?
+
 * Would we ever need this data for a different purpose?
+
 * Who has access to the data?
+
 * Do we share the data with anyone external or another data processor (tool)? If so, who?
+
 * Where is the data stored/held (physically)?
+
 * How long will we retain the data?
 
 *Bonus points:* Turn it into a higher-level data inventory that can be shared (confidentially) with key partners and regulators. For the adrenaline junkies, I guarantee this one will be a terrifying—and enlightening—experience that exposes all your vulnerabilities and gives you a steer on where to focus your mitigating efforts.
 
-**2. Conduct data privacy impact assessments (DPIAs) for your projects.** A DPIA is a useful tool for uncovering the key risks specific to any new project, as well as compelling your team to critically think about the justification behind collecting and using data—what the GDPR calls “the lawful base for processing.” A good DPIA will require you to ask and answer dozens of questions, before moving your key risks and mitigations into a clear report. Here’s a [basic template](https://ico.org.uk/media/about-the-ico/consultations/2258461/dpia-template-v04-post-comms-review-20180308.pdf) to get you started. 
+**2. Conduct data privacy impact assessments (DPIAs) for your projects.** A DPIA is a useful tool for uncovering the key risks specific to any new project, as well as compelling your team to critically think about the justification behind collecting and using data—what the GDPR calls “the lawful base for processing.” A good DPIA will require you to ask and answer dozens of questions, before moving your key risks and mitigations into a clear report. Here’s a [basic template](https://ico.org.uk/media/about-the-ico/consultations/2258461/dpia-template-v04-post-comms-review-20180308.pdf) to get you started.
 
 *Bonus points:* Publish them publicly on your company website.
 
-**3. Implement prioritized [data subject rights](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).** By data subject, we mean the people you’re trying to serve. This is the most difficult to implement, as the rights were designed for literate, tech-savvy consumers with direct access to, say, a smartphone. For example, you can’t realistically be expected to fully apply the [right to data portability](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability/) in your projects. However, implementing these rights will significantly improve the privacy of your beneficiaries. What you *can* do is:
+**3. Implement prioritised [data subject rights](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).** By data subject, we mean the people you’re trying to serve. This is the most difficult to implement, as the rights were designed for literate, tech-savvy consumers with direct access to, say, a smartphone. For example, you can’t realistically be expected to fully apply the [right to data portability](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability/) in your projects. However, implementing these rights will significantly improve the privacy of your beneficiaries. What you *can* do is:
 
 * Prioritise which rights are fundamentally important, irrespective of how hard they might be to implement (e.g., the right to withdraw consent, if consent is used as the lawful base for processing).
+
 * Work with your relevant departments to implement short-term wins, such as a person designated for beneficiaries to contact to have their data deleted, and long-term robust changes, such as building training for frontline operators around privacy being a key human right.
 
-*Bonus points:* Be public about the successes and failures of operationalizing privacy rights. Share key insights with the industry; we’re all facing the same challenges, and your learnings can help us—and by extension, our beneficiaries—avoid the same pains.
+*Bonus points:* Be public about the successes and failures of operationalising privacy rights. Share key insights with the industry; we’re all facing the same challenges, and your learnings can help us—and by extension, our beneficiaries—avoid the same pains.
 
 **4. Train your employees.** Privacy cannot be a top-down mandate, or one that sits siloed away with your monitoring and evaluation team. It must be regarded in the same way good human resources practices are—a shared awareness and responsibility embedded across the entire organisation that no employee can fail to meet. To start:
 
 * Tap strong decentralised “privacy leaders” and train them to champion privacy protocols in their departments.
+
 * Make sure every single employee gets a proper privacy training. By proper, we mean a training curriculum that doesn’t simply check the minimum-requirement box, but rather articulates *why* this privacy focus is of paramount importance for your company. This is one instance where “drinking the Kool Aid” is a good thing.
 
 *Bonus points:* Create a support structure for privacy leaders—for example, regular check-in meetings when they can voice concerns or share learnings across the company.
