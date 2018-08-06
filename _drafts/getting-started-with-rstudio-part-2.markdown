@@ -1,6 +1,9 @@
 ---
 title: Getting Started with RStudio, Part 2
 date: 2018-08-06 16:22:00 -04:00
+tags:
+- Open Source Series
+- Coding
 ---
 
 In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) we introduced the R programming language, RStudio as a development environment, and we examined rainfall data for the month of May. The data we analyzed was stored in googledocs, we used some simple R functions to pull the data into our work environment, and display the data in a line graph over time. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way that we access weather data.
