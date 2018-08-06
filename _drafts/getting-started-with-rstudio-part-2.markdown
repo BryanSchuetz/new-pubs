@@ -6,6 +6,8 @@ tags:
 - Coding
 ---
 
+*This article is part 2 of a series as we explore the basics of importing and analyzing data in RStudio.*
+
 In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) we introduced the R programming language, RStudio as a development environment, and we examined rainfall data for the month of May. The data we analyzed was stored in googledocs, we used some simple R functions to pull the data into our work environment, and display the data in a line graph over time. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way that we access weather data.
 
 **Using Data APIs**
@@ -16,7 +18,7 @@ Weather data is collected by many organizations around the world, and there are 
 
 **The Power of Libraries**
 
-To access this API, we’re going to use a library, or package, similar to the one we used to access googlesheets. If you review the last post, you’ll remember the point at which we “installed” something using the command “Install.packages()”. In this case, we’re going to install a library called “RWunderground”, which is a way to connect your RStudio environment to the Weather Underground data.
+To access this API, we’re going to use a library, or package, similar to the one we used to access googlesheets. If you review the last post, you’ll remember the point at which we “installed” something using the command “Install.packages()”. In this case, we’re going to install a library called “RWunderground”, which is a way to connect your RStudio environment to the [Weather Underground](https://www.wunderground.com/) data.
 
 > Install.packages(“rwunderground”)
 
