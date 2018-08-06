@@ -55,4 +55,6 @@ Much Better! Notice how we replaced the start and end dates with our new variabl
 
 Voila! We now have a dataframe with seven days’ worth of weather data broken down by the hour! Now we can create graphs that update on their own, showing the last weeks’ worth of weather. Let’s use the same plot function we used in the last post and see how much rain Washington DC has experienced over the past week.
 
+> plot(Week$precip, x = Week$date, xlab = "Date", ylab = "Rainfall/hour (Inches)", type = "l", main = "Rainfall in Washington DC", col = "Blue")
+
 ![RainGraphAugust2018.png](/uploads/RainGraphAugust2018.png)
