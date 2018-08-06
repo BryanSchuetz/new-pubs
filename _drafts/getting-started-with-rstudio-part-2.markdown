@@ -15,13 +15,13 @@ In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio
 
 ![RStudio-59a8d9.png](/uploads/RStudio-59a8d9.png)
 
-**Using Data APIs**
+## **Using Data APIs**
 
 Arguably, the most critical step to analyzing data is getting data! To conduct analysis in our previous post, I found some data online, manually entered it into a spreadsheet in googledocs, and then used R to access the data for analysis. This is a useful method to understand, as sometimes a googledoc can be a quick and simple way to store and manage data. But is this really practical for our use case? Probably not.
 
 Weather data is collected by many organizations around the world, and there are a handful of useful ways to access this data. One of the most common ways to access data collected and managed by someone else is through something called an Application Programming Interface, or an API. APIs actually do many things, offering a whole host of services to developers, but in this case, we’re going to use an API that serves data.
 
-**The Power of Libraries**
+## **The Power of Libraries**
 
 To access this API, we’re going to use a library, or package, similar to the one we used to access googlesheets. If you review the last post, you’ll remember the point at which we “installed” something using the command “Install.packages()”. In this case, we’re going to install a library called “RWunderground”, which is a way to connect your RStudio environment to the [Weather Underground](https://www.wunderground.com/) data.
 
@@ -51,7 +51,7 @@ Much Better! Notice how we replaced the start and end dates with our new variabl
 
 > Week
 
-**Wrapping Up**
+## **Wrapping Up**
 
 Voila! We now have a dataframe with seven days’ worth of weather data broken down by the hour! Now we can create graphs that update on their own, showing the last weeks’ worth of weather. Let’s use the same plot function we used in the last post and see how much rain Washington DC has experienced over the past week.
 
