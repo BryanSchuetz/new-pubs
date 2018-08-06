@@ -30,21 +30,21 @@ Now that you have this installed, let’s look at the [documentation](https://cr
 
 Before we move forward, let’s look at this code. The weather API first asked us to define a location, so we defined a variable called “WashingtonDC” using the “set_location()” function. Then we created a new variable called “Week”, and asked the API to send us data from a seven-day range, starting on July 30, 2018, and ending on August 6, 2018.
 
-This works, but there’s one slight problem. Every time we run this function, it will show us the same week time span. What if we wanted to create a function that ALWAYS shows us the past week. To do that, we eed to create two new variables: 1) Today, 2) seven days ago.
+This works, but there’s one slight problem. Every time we run this function, it will show us the same week time span. What if we wanted to create a function that ALWAYS shows us the past week? To do that, we need to create two new variables: 1) today, and 2) seven days ago.
 
 > Today <- sys.date
 >
 > LastWeek <- sys.date() – 6
 
-The code about uses the “sys.date” command in R, which returns today’s date, to create a variable called Today. Then we created a variable called LastWeek using the same command, minus six days.
+The code above uses the “sys.date” command in R, which returns today’s date, to create a variable called "Today". Then we created a variable called "LastWeek" using the same command, minus six days.
 
 Now we can re-write our Week function to include these new variables. Let’s rewrite our API call and run it.
 
 > Week <- history_range(WashingtonDC, date_start = LastWeek, date_end = Today)
 
-Much Better! Now we can take a look at our data.
+Much Better! Notice how we replaced the start and end dates with our new variables? Now we can take a look at our data.
 
-Week
+> Week
 
 **Wrapping Up**
 
