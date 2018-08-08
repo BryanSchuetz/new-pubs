@@ -11,15 +11,15 @@ thumbnail: "/uploads/RStudio-59a8d9.png"
 
 *This article is part 2 of a series as we explore the basics of importing and analyzing data in RStudio.*
 
-In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) we introduced the R programming language, RStudio as a development environment, and we examined rainfall data for the month of May. The data we analyzed was stored in googledocs, we used some simple R functions to pull the data into our work environment, and display the data in a line graph over time. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way that we access weather data.
+In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) we introduced the R programming language, RStudio as a development environment, and examined rainfall data for the month of May. The data we analyzed was stored in googledocs, we used some  functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way that we access weather data.
 
 ![RStudio-59a8d9.png](/uploads/RStudio-59a8d9.png)
 
 ## **Using Data APIs**
 
-Arguably, the most critical step to analyzing data is getting data! To conduct analysis in our previous post, I found some data online, manually entered it into a spreadsheet in googledocs, and then used R to access the data for analysis. This is a useful method to understand, as sometimes a googledoc can be a quick and simple way to store and manage data. But is this really practical for our use case? Probably not.
+Arguably, the most critical step to analyzing data is getting data! To conduct analysis in our previous post, I found some data online, manually entered it into a spreadsheet in googledocs, and then used R to access the data for analysis. This is a useful method to understand, as sometimes a googledoc can be a quick and simple way to store and manage data. But is this really practical for our use case? Probably not. That's actually quite inefficient!
 
-Weather data is collected by many organizations around the world, and there are a handful of useful ways to access this data. One of the most common ways to access data collected and managed by someone else is through something called an Application Programming Interface, or an API. APIs actually do many things, offering a whole host of services to developers, but in this case, we’re going to use an API that serves data.
+Weather data is collected by many organizations around the world, and there are a handful of useful ways to access it. One of the most common ways to access data collected and managed by someone else is through something called an Application Programming Interface, or an API. APIs actually do many things, offering a whole host of services to developers, but in this case, we’re going to use an API that serves data.
 
 ## **The Power of Libraries**
 
@@ -41,13 +41,11 @@ This works, but there’s one slight problem. Every time we run this function, i
 >
 > LastWeek <- sys.date() – 6
 
-The code above uses the “sys.date” command in R, which returns today’s date, to create a variable called "Today". Then we created a variable called "LastWeek" using the same command, minus six days.
-
-Now we can re-write our Week function to include these new variables. Let’s rewrite our API call and run it.
+The code above uses the “sys.date” command in R, which returns today’s date, to create a variable called "Today". Then we created a variable called "LastWeek" using the same command, minus six days. Now we can re-write our "Week" function to include these new variables. Let’s rewrite our API call and run it.
 
 > Week <- history_range(WashingtonDC, date_start = LastWeek, date_end = Today)
 
-Much Better! Notice how we replaced the start and end dates with our new variables? Now we can take a look at our data.
+Much Better! Notice how we replaced the start and end dates with our new variables? Now we can take a look at our data. 
 
 > Week
 
@@ -58,3 +56,7 @@ Voila! We now have a dataframe with seven days’ worth of weather data broken d
 > plot(Week$precip, x = Week$date, xlab = "Date", ylab = "Rainfall/hour (Inches)", type = "l", main = "Rainfall in Washington DC", col = "Blue")
 
 ![RainGraphAugust2018.png](/uploads/RainGraphAugust2018.png)
+
+If you compare this graph to the one we made last time, you may notice a few differences. We've improved our titles, and added some color.  
+
+What we've done is some nice descriptive analysis. Now that you know how to access historical weather data, how would you compare total rainfall this month to last month, or even last year? Maybe give it a try!
