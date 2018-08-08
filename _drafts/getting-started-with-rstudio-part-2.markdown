@@ -13,6 +13,8 @@ thumbnail: "/uploads/RStudio-59a8d9.png"
 
 In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) we introduced the R programming language, RStudio as a development environment, and examined rainfall data for the month of May. The data we analyzed was stored in googledocs, we used some  functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way that we access weather data.
 
+<!--more-->
+
 ![RStudio-59a8d9.png](/uploads/RStudio-59a8d9.png)
 
 ## **Using Data APIs**
