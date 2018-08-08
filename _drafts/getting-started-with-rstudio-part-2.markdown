@@ -19,7 +19,7 @@ In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio
 
 ## **Using Data APIs**
 
-Arguably, the most critical step to analyzing data is getting data! To conduct analysis in our previous post, I found some data online, manually entered it into a spreadsheet in googledocs, and then used R to access the data for analysis. This is a useful method to understand, as sometimes a googledoc can be a quick and simple way to store and manage data. But is this really practical for our use case? Probably not. That's actually quite inefficient!
+Arguably, the most critical step to analyzing data is getting data! To conduct analysis in our previous post, I found some data online, manually entered it into a spreadsheet in Google Docs, and then used R to access the data for analysis. This is a useful method to understand, as sometimes a doc can be a quick and simple way to store and manage data. But is this really practical for our use case? Probably not. That's actually quite inefficient!
 
 Weather data is collected by many organizations around the world, and there are a handful of useful ways to access it. One of the most common ways to access data collected and managed by someone else is through something called an Application Programming Interface, or an API. APIs actually do many things, offering a whole host of services to developers, but in this case, we’re going to use an API that serves data.
 
