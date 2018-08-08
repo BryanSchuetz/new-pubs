@@ -9,7 +9,7 @@ social-image: "/uploads/RStudio-59a8d9.png"
 thumbnail: "/uploads/RStudio-59a8d9.png"
 ---
 
-*This article is part 2 of a series as we explore the basics of importing and analyzing data in RStudio.*
+*This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.*
 
 In a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) we introduced the R programming language, RStudio as a development environment, and examined rainfall data for the month of May. The data we analyzed was stored in googledocs, we used some  functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way that we access weather data.
 
