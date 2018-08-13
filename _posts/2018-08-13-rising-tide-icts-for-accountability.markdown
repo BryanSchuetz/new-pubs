@@ -18,7 +18,7 @@ A tectonic shift is taking place in commerce, and we’re all a part of it. At i
 
 Take Facebook, for example, the leader in social media, boasting nearly 2 billion users. In July, the company saw nearly a [fifth of its value](https://www.msn.com/en-us/money/topstocks/why-facebook-inc-stock-dropped-112percent-in-july/ar-BBLHLym) evaporate in a single day, in the wake of a quarterly report detailing a 50% increase in operating expenses; a major hit to profitability. Is Facebook’s market position secure enough—-and are their competitors distant enough in the rear view mirror--that they can afford to go full *Wolf of Wall Street*?
 
-![AL-292d88.PNG](/uploads/AL-292d88.PNG)
+![wws2.gif](/uploads/wws2.gif)
 
 Of course not! Like any business, Facebook balances competing priorities with scarce resources; such massive voluntary cost increases represent a huge dent in the company’s bottom line and increased risk of a now-realized investor backlash. So what’s going on? On the heels of a hit parade of data-related scandals, the company has now significantly upped their investment in user privacy and security. If Mark Zuckerberg and company didn’t recognize the tenuousness of their position in the social media market—wherein their competitors’ products are merely a few clicks away—they would be running as lean as they did in previous quarters. That’s accountability at work, urged by the specter of the nosedive into irrelevance of competitors such as MySpace and more recently, SnapChat. 
 
