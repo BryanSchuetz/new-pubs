@@ -11,6 +11,8 @@ social-image: "/uploads/Ray.png"
 
 A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the delicate touch of the sledgehammer falling upon formerly protected industries. Customers in the many B2C verticals ([admittedly not all](https://www.washingtonpost.com/news/theworldpost/wp/2018/08/13/middle-class/?hpid=hp_no-name_opinion-card-f-2%3Ahomepage%2Fstory)) have more bargaining power than ever before, and can hold businesses accountable for poor performance with a few simple by downloading a competitor’s solution with a few simple clicks in the app store.
 
+<!--more-->
+
 ## Facebook: Too Big for Accountability?
 
 Take Facebook, for example, the leader in social media, boasting nearly 2 billion users. In July, the company saw nearly a [fifth of its value](https://www.msn.com/en-us/money/topstocks/why-facebook-inc-stock-dropped-112percent-in-july/ar-BBLHLym) evaporate in a single day, in the wake of a quarterly report detailing a 50% increase in operating expenses; a major hit to profitability. Is Facebook’s market position secure enough—-and are their competitors distant enough in the rear view mirror--that they can afford to go full *Wolf of Wall Street*?
