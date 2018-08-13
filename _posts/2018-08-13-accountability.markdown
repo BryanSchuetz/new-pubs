@@ -3,6 +3,7 @@ title: Accountability
 date: 2018-08-13 16:04:00 -04:00
 published: false
 Author: Adam Fivenson
+social-image: "/uploads/Ray.png"
 ---
 
 A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the delicate touch of the sledgehammer falling upon formerly protected industries. Customers in the many B2C verticals ([though not all](https://www.washingtonpost.com/news/theworldpost/wp/2018/08/13/middle-class/?hpid=hp_no-name_opinion-card-f-2%3Ahomepage%2Fstory)) have more bargaining power than ever before, and can hold businesses accountable for poor performance with a few simple by downloading a competitor’s solution with a few simple clicks in the app store.
