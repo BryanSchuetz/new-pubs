@@ -26,8 +26,9 @@ Of course not! Like any business, Facebook balances competing priorities with sc
 
 Why hasn’t the dynamic between citizens and government undergone a similar revolution in bottom-up accountability? First of all, it’s worth noting that governments are investing in IT systems to improve efficiency, but that high regulatory barriers make this process slow and less efficient than it is for companies. Secondly, accountability to citizens is a different than a business’s accountability to its customers; both are service providers, but if a business can’t solve a problem in a suitable way and at palatable cost, in most markets, a customer has the option to go back to the market and find another provider. However, if a citizen has a bad experience at the Department of Motor Vehicles, there’s no other DMV; how can there be accountability when there’s no competition? In response, technologists, hackers and internal advocates in government around the globe are banding together to create [“civic technologies“](https://en.wikipedia.org/wiki/Civic_technology) which enable citizens to access and visualize government data, report on service delivery, claim their rights, and to hold their governments accountable for their actions and inactions. Four active DAI projects developing civic tech projects that give citizens the power to hold their governments accountable. 
 
-![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
 ## Malawi 
+![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
+`A flow chart showing how Mzinda works`
 In Malawi, the USAID Local Government Accountability and Performance (LGAP) project partnered with mHub to develop an SMS-based accountability system for market vendors and other citizens to report poor service delivery to local District Councils. This system, called Mzinda, is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. 
 [More on Mzinda.](http://mzinda.com/home)
 
