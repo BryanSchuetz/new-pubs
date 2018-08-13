@@ -38,4 +38,4 @@ In Guatemala, the Nexos Locales project and DAI’s Center for Digital Accelerat
 The USAID- Liberia Accountability and Voice Initiative project is supporting Liberia’s new Accountability Lab, an “innovation campus” which will work closely with local entrepreneurs, technologists, government officials, and non-profits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. 
 [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
 
-*For more on systems of 
+*For more on systems of accountability--both private and public--keep an eye on Digital@DAI*
