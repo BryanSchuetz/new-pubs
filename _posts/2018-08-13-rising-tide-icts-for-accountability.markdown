@@ -29,7 +29,7 @@ Why hasn’t the dynamic between citizens and government undergone a similar rev
 
 ## Malawi 
 ![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
-`A flow chart showing how Mzinda works`
+`Flow chart showing how Mzinda works`
 In Malawi, the USAID Local Government Accountability and Performance (LGAP) project partnered with mHub to develop an SMS-based accountability system for market vendors and other citizens to report poor service delivery to local District Councils. This system, called Mzinda, is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. 
 [More on Mzinda.](http://mzinda.com/home)
 
@@ -48,7 +48,7 @@ In Guatemala, the Nexos Locales project and DAI’s Center for Digital Accelerat
 
 ## Liberia
 ![AL.PNG](/uploads/AL.PNG)
-`The Accountability Lab Facebook page featuring the team`
+`The Accountability Lab Facebook page featuring the Lab's team`
 The USAID- Liberia Accountability and Voice Initiative project is supporting Liberia’s new Accountability Lab, an “innovation campus” which will work closely with local entrepreneurs, technologists, government officials, and non-profits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. 
 [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
 
