@@ -31,7 +31,7 @@ Why hasn’t the dynamic between citizens and government undergone a similar rev
 In Malawi, the USAID Local Government Accountability and Performance (LGAP) project partnered with mHub to develop an SMS-based accountability system for market vendors and other citizens to report poor service delivery to local District Councils. This system, called Mzinda, is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. 
 [More on Mzinda.](http://mzinda.com/home)
 
-![Ray-f5fdf8.png](/uploads/Ray-f5fdf8.png){:.float-left}
+![Ray-f5fdf8.png](/uploads/Ray-f5fdf8.png){:.size-small}
 ## Pakistan 
 The Khyber Pakhtunkhwa Governance Program (KPG) in Pakistan recently debuted the Raye-o-Rah tool, which is designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition in the form of a race-to-the-top among municipalities for responsiveness and accountability. 
 [More on Raye-o-Rah.](www.rayeorah.comz) 
