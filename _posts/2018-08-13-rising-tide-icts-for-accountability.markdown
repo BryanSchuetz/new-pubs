@@ -41,7 +41,7 @@ The Khyber Pakhtunkhwa Governance Program (KPG) in Pakistan recently debuted the
 In Guatemala, the Nexos Locales project and DAI’s Center for Digital Acceleration are currently in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. 
 [More on Somos Chiantla.]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)
 
-[AL.PNG](/uploads/AL.PNG)
+![AL.PNG](/uploads/AL.PNG)
 ## Liberia
 The USAID- Liberia Accountability and Voice Initiative project is supporting Liberia’s new Accountability Lab, an “innovation campus” which will work closely with local entrepreneurs, technologists, government officials, and non-profits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. 
 [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
