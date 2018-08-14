@@ -16,7 +16,7 @@ A tectonic shift is taking place in commerce, and we’re all a part of it. At i
 
 ## Facebook: Too Big for Accountability?
 
-Take Facebook, the leader in social media boasting more than 2 billion monthly users. In July, the company saw nearly a [fifth of its value](https://www.msn.com/en-us/money/topstocks/why-facebook-inc-stock-dropped-112percent-in-july/ar-BBLHLym) evaporate in a single day, in the wake of a quarterly report detailing a 50% increase in operating expenses; a major hit to profitability. Is Facebook’s market position secure enough—and are their competitors distant enough in the rear view mirror—that they can afford to go full *Wolf of Wall Street*?
+Take Facebook, the leader in social media boasting more than 2 billion monthly users. In July, the company saw nearly a [fifth of its value](https://www.msn.com/en-us/money/topstocks/why-facebook-inc-stock-dropped-112percent-in-july/ar-BBLHLym) evaporate in a single day, in the wake of a quarterly report detailing a 50 percent increase in operating expenses; a major hit to profitability. Is Facebook’s market position secure enough—and are their competitors distant enough in the rear view mirror—that they can afford to go full *Wolf of Wall Street*?
 
 ![wws2.gif](/uploads/wws2.gif)
 `Wolf of Wall Street ©2013 Red Granite Pictures`
