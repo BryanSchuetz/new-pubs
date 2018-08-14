@@ -25,32 +25,29 @@ Of course not! Like any business, Facebook balances competing priorities with sc
 
 ## Accountability Absent Market Pressure?
 
-Why hasn’t the dynamic between citizens and government undergone a similar revolution in bottom-up accountability? First of all, it’s worth noting that governments are investing in IT systems to improve efficiency, but that high regulatory barriers make this process slow and less efficient than it is for companies. Secondly, accountability to citizens is a different than a business’s accountability to its customers; both are service providers, but if a business can’t solve a problem in a suitable way and at palatable cost, in most markets, a customer has the option to go back to the market and find another provider. However, if a citizen has a bad experience at the Department of Motor Vehicles, there’s no other DMV; how can there be accountability when there’s no competition? In response, technologists, hackers and internal advocates in government around the globe are banding together to create [“civic technologies”](https://en.wikipedia.org/wiki/Civic_technology) which enable citizens to access and visualize government data, report on service delivery, claim their rights, and to hold their governments accountable for their actions and inactions. 
+Why hasn’t the dynamic between citizens and government undergone a similar revolution in bottom-up accountability? First of all, it’s worth noting that governments are investing in IT systems to improve efficiency, but regulatory barriers make this process slow and less efficient than it is for companies. Secondly, accountability to citizens is a different than a business’s accountability to its customers; both are service providers, but if a business can’t solve a problem in a suitable way and at palatable cost, in most markets, a customer has the option to go find another provider. However, if a citizen has a bad experience at the Department of Motor Vehicles, there’s no other DMV; how can there be accountability when there’s no competition? In response, technologists, hackers, and internal advocates in government around the globe are banding together to create [“civic technologies”](https://en.wikipedia.org/wiki/Civic_technology) that enable citizens to access and visualize government data, report on service delivery, claim their rights, and to hold their governments accountable for actions and inactions. 
 
-Four active DAI projects developing civic tech projects that give citizens the power to hold their governments accountable. 
+Four DAI-led projects are developing civic tech projects that give citizens the power to hold their governments accountable:
 
 ## Malawi 
 ![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
-`Flow chart showing how Mzinda works`
-In Malawi, the USAID Local Government Accountability and Performance (LGAP) project partnered with mHub to develop an SMS-based accountability system for market vendors and other citizens to report poor service delivery to local District Councils. This system, called Mzinda, is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. 
-[More on Mzinda.](http://mzinda.com/home)
+`Flow chart showing how Mzinda works.`
+In Malawi, the [Local Government Accountability and Performance](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) project partnered with mHub to develop a text message-based accountability system for market vendors and other citizens to report poor service delivery to local district councils. This system—called Mzinda—is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. [More on Mzinda.](http://mzinda.com/home)
 
 ## Pakistan 
 ![RR.PNG](/uploads/RR.PNG)
-`Raye-o-Rah trainees receive their diplomas`
-The Khyber Pakhtunkhwa Governance Program (KPG) in Pakistan recently debuted the Raye-o-Rah tool, which is designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition in the form of a race-to-the-top among municipalities for responsiveness and accountability. 
-[More on Raye-o-Rah.](www.rayeorah.comz) 
+`Raye-o-Rah trainees receive their diplomas.`
+The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition in the form of a race-to-the-top among municipalities for responsiveness and accountability. [More on Raye-o-Rah.](www.rayeorah.comz) 
 
 ## Guatemala 
 ![main menu.png](/uploads/main%20menu.png)
-`Mayor Carlos Alvarado launches Somos Chiantla in May of 2017`
-In Guatemala, the Nexos Locales project and DAI’s Center for Digital Acceleration are currently in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. 
-[More on Somos Chiantla.]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)
+`Mayor Carlos Alvarado launches Somos Chiantla in May 2017.`
+In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and DAI’s Center for Digital Acceleration are in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. [More on Somos Chiantla.]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)
 
 ## Liberia
 ![AL.PNG](/uploads/AL.PNG)
-`The Accountability Lab Facebook page featuring the Lab's team`
-The USAID- Liberia Accountability and Voice Initiative project is supporting Liberia’s new Accountability Lab, an “innovation campus” which will work closely with local entrepreneurs, technologists, government officials, and non-profits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. 
+`The Accountability Lab Facebook page featuring the Lab’s team.`
+The [Liberia Accountability and Voice Initiative](https://www.dai.com/our-work/projects/liberia-accountability-and-voice-initiative-lavi) project is supporting Liberia’s new Accountability Lab, an “innovation campus” working closely with local entrepreneurs, technologists, government officials, and nonprofits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. 
 [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
 
 *For more on ICT systems for accountability—both private and public—keep an eye on Digital@DAI*
