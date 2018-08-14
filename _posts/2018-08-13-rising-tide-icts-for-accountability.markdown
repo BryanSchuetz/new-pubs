@@ -32,16 +32,19 @@ Four DAI-led projects are developing civic tech projects that give citizens the 
 ## Malawi 
 ![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
 `Flow chart showing how Mzinda works.`
+
 In Malawi, the [Local Government Accountability and Performance](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) project partnered with mHub to develop a text message-based accountability system for market vendors and other citizens to report poor service delivery to local district councils. This system—called Mzinda—is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. [More on Mzinda.](http://mzinda.com/home)
 
 ## Pakistan 
 ![RR.PNG](/uploads/RR.PNG)
 `Raye-o-Rah trainees receive their diplomas.`
+
 The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition in the form of a race-to-the-top among municipalities for responsiveness and accountability. [More on Raye-o-Rah.](www.rayeorah.comz) 
 
 ## Guatemala 
 ![main menu.png](/uploads/main%20menu.png)
 `Mayor Carlos Alvarado launches Somos Chiantla in May 2017.`
+
 In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and DAI’s Center for Digital Acceleration are in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. [More on Somos Chiantla.]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)
 
 ## Liberia
