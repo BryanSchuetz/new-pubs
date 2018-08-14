@@ -49,4 +49,4 @@ In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemal
 `The Accountability Lab Facebook page featuring the Lab’s team.`
 The [Liberia Accountability and Voice Initiative](https://www.dai.com/our-work/projects/liberia-accountability-and-voice-initiative-lavi) project is supporting Liberia’s new Accountability Lab, an “innovation campus” working closely with local entrepreneurs, technologists, government officials, and nonprofits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
 
-*For more on ICT systems for accountability—both private and public—keep an eye on Digital@DAI*
+*For more on ICT systems for accountability—both private and public—keep an eye on Digital@DAI.*
