@@ -28,9 +28,9 @@ Four DAI-led projects are developing civic tech projects that give citizens the 
 
 ## Malawi 
 ![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
-`Flow chart showing how Mzinda works.`
+`The Mzinda user journey`
 
-In Malawi, the [Local Government Accountability and Performance](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) project partnered with mHub to develop a text message-based accountability system for market vendors and other citizens to report poor service delivery to local district councils. This system—called Mzinda—is live in 64 markets around Malawi and has seen more than 2,500 reports sent, better connecting citizens and their local governments. [More on Mzinda.](http://mzinda.com/home)
+In Malawi, the [USAID Local Government Accountability and Performance](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) (LGAP) project partnered with mHub, and Airtel Malawi to develop an revenue collection, transparency, and accountability platform for improved revenue collection via mobile money. The platform also includes an SMS-based tool, called Mzinda (meaning "my town"), for market vendors and other citizens to report poor service delivery to their District Councils. The system launched as a pilot earlier this year and in its first five months of operation has facilitated more than $60,000 in mobile tax payments, transmitted 40 monthly district revenue reports to over 2,600 taxpayers, and transmitted more than 160 reports from citizens to local governments. 
 
 ## Pakistan 
 ![RR.PNG](/uploads/RR.PNG)
