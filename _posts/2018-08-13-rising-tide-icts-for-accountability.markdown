@@ -16,9 +16,9 @@ A tectonic shift is taking place in commerce, and we’re all a part of it. At i
 
 ## Facebook: Too Big for Accountability?
 
-Take Facebook, the leader in social media boasting more than 2 billion monthly users. In July, the company saw nearly a [fifth of its value](https://www.msn.com/en-us/money/topstocks/why-facebook-inc-stock-dropped-112percent-in-july/ar-BBLHLym) evaporate in a single day on the heels of a quarterly report showing a 50% increase in cost. Is Facebook’s market position secure enough—and is its competitors distant enough in the rear view mirror—that it can afford to 
+Take Facebook, the leader in social media boasting more than 2 billion monthly users. In July, the company saw nearly a [fifth of its value](https://www.msn.com/en-us/money/topstocks/why-facebook-inc-stock-dropped-112percent-in-july/ar-BBLHLym) evaporate in a single day on the heels of a quarterly report showing a 50% increase in cost. Is Facebook’s market position secure enough—and is its competitors distant enough in the rear view mirror—that it can afford to go full spendthrift? No! Like any business, Facebook balances competing priorities with scarce resources; such massive increases in expenditures represent a huge dent in the company’s bottom line and significantly increased the risk of investor backlash (which was then realized). 
 
-Of course not! Like any business, Facebook balances competing priorities with scarce resources; such massive voluntary cost increases represent a huge dent in the company’s bottom line and increased risk of (since realized) investor backlash. So what’s going on? On the heels of a hit parade of data scandals, the company has now significantly upped its investment in user privacy and security. If Mark Zuckerberg and company didn’t recognize the tenuousness of their position in the social media market—wherein competitors’ products are merely a few clicks away—they would be running as lean as they did in previous quarters. That’s accountability at work, urged by the specter of the nosedive into irrelevance of competitors such as MySpace and more recently, SnapChat. 
+So what’s going on? On the heels of a hit parade of data scandals, the company has upped its investment in user privacy and security. If Mark Zuckerberg and company didn’t recognize the tenuousness of their position in the social media market—wherein competitors’ products are merely a few clicks away—they would be running as lean as they did in previous quarters. That’s accountability at work, urged by the specter of the nosedive into irrelevance faced by competitors such as MySpace and Orkut.
 
 ## Accountability Absent Market Pressure?
 
@@ -47,6 +47,7 @@ In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemal
 ## Liberia
 ![AL.PNG](/uploads/AL.PNG)
 `The Accountability Lab Facebook page featuring the Lab’s team.`
+
 The [Liberia Accountability and Voice Initiative](https://www.dai.com/our-work/projects/liberia-accountability-and-voice-initiative-lavi) project is supporting Liberia’s new Accountability Lab, an “innovation campus” working closely with local entrepreneurs, technologists, government officials, and nonprofits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
 
 *For more on ICT systems for accountability—both private and public—keep an eye on Digital@DAI.*
