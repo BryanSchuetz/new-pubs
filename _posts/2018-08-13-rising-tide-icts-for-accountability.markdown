@@ -30,24 +30,24 @@ Four DAI-led projects are developing civic tech projects that give citizens the 
 ![LGAP graphic.PNG](/uploads/LGAP%20graphic.PNG)
 `The Mzinda user journey`
 
-In Malawi, the [USAID Local Government Accountability and Performance](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) (LGAP) project partnered with mHub, and Airtel Malawi to develop an revenue collection, transparency, and accountability platform for improved revenue collection via mobile money. The platform also includes an SMS-based tool, called Mzinda (meaning "my town"), for market vendors and other citizens to report poor service delivery to their District Councils. The system launched as a pilot earlier this year and in its first five months of operation has facilitated more than $60,000 in mobile tax payments, transmitted 40 monthly district revenue reports to over 2,600 taxpayers, and transmitted more than 160 reports from citizens to local governments. 
+In Malawi, the [USAID Local Government Accountability and Performance](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) (LGAP) project partnered with mHub, and Airtel Malawi to develop an revenue collection, transparency, and accountability platform for improved revenue collection via mobile money. The platform also includes an SMS-based tool, called Mzinda (meaning "my town"), for market vendors and other citizens to report poor service delivery to their District Councils. The system launched as a pilot earlier this year and in its first five months of operation has facilitated more than $60,000 in mobile tax payments, transmitted 40 monthly district revenue reports to over 2,600 taxpayers, and transmitted more than 160 reports from citizens to local governments. [More on the platform](https://www.facebook.com/lgapmalawi/videos/1689194944493843/).
 
 ## Pakistan 
 ![RR.PNG](/uploads/RR.PNG)
 `Raye-o-Rah trainees receive their diplomas.`
 
-The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition among municipalities for responsiveness and accountability. [More on Raye-o-Rah.](www.rayeorah.comz) 
+The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition among municipalities for responsiveness and accountability. [More on Raye-o-Rah](www.rayeorah.comz).
 
 ## Guatemala 
 ![main menu.png](/uploads/main%20menu.png)
 `Mayor Carlos Alvarado launches Somos Chiantla in May 2017.`
 
-In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and DAI’s Center for Digital Acceleration are in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. [More on Somos Chiantla.]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)
+In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and DAI’s Center for Digital Acceleration are in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. [More on Somos Chiantla]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html).
 
 ## Liberia
 ![AL.PNG](/uploads/AL.PNG)
 `The Accountability Lab Facebook page featuring the Lab’s team.`
 
-The [Liberia Accountability and Voice Initiative](https://www.dai.com/our-work/projects/liberia-accountability-and-voice-initiative-lavi) project is supporting Liberia’s new Accountability Lab, an “innovation campus” working closely with local entrepreneurs, technologists, government officials, and nonprofits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. [More on Accountability Lab.](https://www.facebook.com/accountabilitylab) 
+The [Liberia Accountability and Voice Initiative](https://www.dai.com/our-work/projects/liberia-accountability-and-voice-initiative-lavi) project is supporting Liberia’s new Accountability Lab, an “innovation campus” working closely with local entrepreneurs, technologists, government officials, and nonprofits to design and develop tools to push public institutions toward accountability, good governance, and proper service delivery in Liberia. [More on Accountability Lab](https://www.facebook.com/accountabilitylab).
 
 *For more on ICT systems for accountability—both private and public—keep an eye on Digital@DAI.*
