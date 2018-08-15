@@ -34,7 +34,7 @@ In Malawi, the [USAID Local Government Accountability and Performance](https://w
 
 ## Pakistan 
 ![RR.PNG](/uploads/RR.PNG)
-`Raye-o-Rah trainees receive their diplomas.`
+`Community members trained to evaluate their local governments evaluation using Raye-o-Rah`
 
 The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition among municipalities for responsiveness and accountability. [More on Raye-o-Rah](www.rayeorah.comz).
 
