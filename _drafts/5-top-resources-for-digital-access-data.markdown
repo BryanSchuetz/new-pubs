@@ -27,19 +27,16 @@ The data goes back to 2014, which allows for handy comparison. You are also able
 
 ![a4ai.jpg](/uploads/a4ai.jpg)
 
-This is a great resource for overarching, high-level data on the connectivity ecosystem in which you are or will be working. It can provide an overview of how affordable the internet is in Nigeria, compared to other Sub-Saharan African countries, or give an insight into how poor electrification rates in Malawi could be a factor in internet uptake. However, data is not aggregated by gender, rural vs urban, or other factors and so cannot provide the detailed analysis needed to truly understand the ecosystem and design with the users in mind.
+This is a great resource for overarching, high-level data on the connectivity ecosystem in which you are or will be working. It can provide an overview of how affordable the internet is in Nigeria, compared to other sub-Saharan African countries, or provide insight into how poor electrification rates in Malawi could be a factor in internet uptake. However, data is not aggregated by gender, rural vs. urban, or other factors and so cannot provide the detailed analysis needed to truly understand the ecosystem and design with the users in mind.
 
-**2. Economist Intelligence Unit (2018)**
+## 2. Economist Intelligence Unit (2018)
 
 The [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) uses quantitative indicators such as network coverage and pricing, and qualitative measure such as e-inclusion policies and local content to assess a country’s performance. It ranks 86 countries on four criteria:
 
-1. Availability – quality and breadth of infrastructure required
-
-2. Affordability – cost of access relevant to income and levels of market competition
-
-3. Relevance – the existence of relevant local content
-
-4. Readiness – capacity to access the internet, including skills, cultural acceptance and supporting policy
+1. Availability: quality and breadth of infrastructure required
+2. Affordability: cost of access relevant to income and levels of market competition
+3. Relevance: the existence of relevant local content
+4. Readiness: capacity to access the internet, including skills, cultural acceptance and supporting policy
 
 The index offers a lot more detail than the other resources here- not just providing a ranking for each of the areas, but providing details of particular policies, broadband operators’ market share, and trust in online privacy, for instance. Importantly, under the “availability” criteria, the EIU has collected data on the gender gap in internet and mobile phone access for each of the 86 countries. The tool also allows you to select more than one country and brings the data side by side for comparison across all sub-areas- a really useful tool for regional analysis.
 
