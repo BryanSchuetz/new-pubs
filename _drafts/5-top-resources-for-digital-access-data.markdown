@@ -44,14 +44,14 @@ Updated in February, this is the most recent source of data and provides a solid
 
 ## 3. ITU Interactive Transmission Map (2018)
 
-OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualizes the internet connectivity of the world. Using existing public data and partnering with local and regional organizations, the ITU have created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
+OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualizes the internet connectivity of the world. Using existing public data and partnering with local and regional organizations, the ITU has created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
 
 Yes, this doesn’t give us a picture of how connected people in a country really are, but it is handy for anyone working on higher level infrastructure or policy.
 
 ![ITU.jpg](/uploads/ITU.jpg)
 
-**5. DAI Frontier Insights**
+## 5. DAI Frontier Insights
 
 The above resources outline how we can understand the ecosystem, but this country-level data can’t always help us to understand the users and their own personal context. This last point is a nod to doing your own research, working to understand the users, and designing the tools that work for them, with them.
 
-We have featured various iterations of Frontier Insights on the blog, each bringing out an interesting insight into the lives of the people we are working with. It has helped us understand [how young people in Palestine ](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html)tend to own two phones; [young Malawians ](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html)love to huddle together and chat with friends on WhatsApp; and a majority of people in [Haiti ](https://dai-global-digital.com/digital-insights-would-haitians-use-mobile-money-for-banking.html)don’t use mobile money due to a lack of trust mobile network operators.
+We have featured various iterations of Frontier Insights on the blog, each bringing out an interesting insight into the lives of the people with whom we work. It has helped us understand [how young people in Palestine ](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html)tend to own two phones, [young Malawians ](https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html)love to huddle together and chat with friends on WhatsApp, and a majority of people in [Haiti ](https://dai-global-digital.com/digital-insights-would-haitians-use-mobile-money-for-banking.html)don’t use mobile money due to a lack of trust mobile network operators.
