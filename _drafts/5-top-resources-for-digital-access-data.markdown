@@ -21,9 +21,9 @@ Below are a few resources for data on digital access and inclusion, ranging from
 
 ## 1. A4AI Affordability Report (2017)
 
-The Alliance for Affordable Internet “[Affordability Drivers Index](http://a4ai.org/affordability-report/data/?_year=2017&indicator=INDEX)” assesses the extent to which countries have implemented a number of factors that can lower the overall cost structure for broadband (i.e., affordability drivers). The basis for the index is to assess the different factors that can lower the overall cost structure for broadband, rather than just looking at broadband price. Countries are scored across two main policy groups, Infrastructure and Access, and ranked relatively to one another. The data has shown a correlation between this score and the price of a 1GB prepaid data plan.
+The Alliance for Affordable Internet “[Affordability Drivers Index](http://a4ai.org/affordability-report/data/?_year=2017&indicator=INDEX)” assesses the extent to which countries have implemented a number of factors that can lower the overall cost structure for broadband (i.e., affordability drivers). Countries are scored across two main policy groups—infrastructure and access—and ranked relatively to one another. The data has shown a correlation between this score and the price of a 1GB prepaid data plan.
 
-The data goes back to 2014, 2016 and 2017, which allows for handy comparison. You are also able to compare the 58 countries across communications infrastructure and access, and a number of sub-factors under these. Under infrastructure, for instance, you can find out a country’s electrification rate, percentage of the population covered by the mobile cellular network, and the speed of broadband.
+The data goes back to 2014, which allows for handy comparison. You are also able to compare the 58 countries across communications infrastructure and access, and a number of subfactors. Under infrastructure, for instance, you can find out a country’s electrification rate, percentage of the population covered by the mobile cellular network, and the speed of broadband.
 
 ![a4ai.jpg](/uploads/a4ai.jpg)
 
