@@ -15,7 +15,7 @@ The global community has recognized the importance of digital equality—afforda
 
 <!--more-->
 
-The [Principles for Digital Development](https://digitalprinciples.org/), endorsed by a number of organizations ([including](https://digitalprinciples.org/endorse/endorsers/ DAI), aim to guide practitioners in applying digital technology to development in a way that is specific to the environment in which they are working. But how do we get the data to understand the ecosystem we will be working in?
+The [Principles for Digital Development](https://digitalprinciples.org/), endorsed by a number of organizations ([including DAI](https://digitalprinciples.org/endorse/endorsers/), aim to guide practitioners in applying digital technology to development in a way that is specific to the environment in which they are working. But how do we get the data to understand the ecosystem we will be working in?
 
 Below are a few resources for data on digital access and inclusion, ranging from policy and regulation data, affordability stats, and gender-disaggregated data. The resources are from the past couple of years and while the digital world moves at lightening speed, these are still valuable sources of global information.
 
