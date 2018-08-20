@@ -8,7 +8,7 @@ Author: Chloe Messenger
 social-image: "/uploads/top%205-6b4a86.jpg"
 ---
 
-![top 5-15f83c.jpg](/uploads/top%205-15f83c.jpg){:.float-left}
+![top 5-ed0419.jpg](/uploads/top%205-ed0419.jpg){:.float-left}
 
 The global community have recognized the importance of digital equality - laying out affordable, universal internet access as one of the Sustainable Development Goals. When we are implementing digital programs, access and inclusion are key concerns: we don’t want to leave anyone behind.
 
