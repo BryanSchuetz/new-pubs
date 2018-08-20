@@ -12,7 +12,7 @@ social-image: "/uploads/top%205-6b4a86.jpg"
 
 The global community have recognized the importance of digital equality - laying out affordable, universal internet access as one of the Sustainable Development Goals. When we are implementing digital programs, access and inclusion are key concerns: we don’t want to leave anyone behind.
 
-The Principles for Digital Development, endorsed by a number of organizations, aim to guide practitioners in applying digital technologies to development in a way that is specific to the context or environment in which they are working. But how do we get the data to understand the ecosystem we will be working in?
+The [Principles for Digital Development](https://digitalprinciples.org/), endorsed by a number of organizations ([including](https://digitalprinciples.org/endorse/endorsers/) DAI), aim to guide practitioners in applying digital technologies to development in a way that is specific to the context or environment in which they are working. But how do we get the data to understand the ecosystem we will be working in?
 
 Below I outline a few resources for data on digital access and inclusion, ranging from policy & regulation data, affordability stats and gender-disaggregated data. The resources are from the past couple of years and whilst the digital world moves at lightening speed, these are still valuable sources of global information.
 
