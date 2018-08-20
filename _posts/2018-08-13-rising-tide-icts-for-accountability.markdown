@@ -35,13 +35,13 @@ In Malawi, the [USAID Local Government Accountability and Performance](https://w
 ![RR.PNG](/uploads/RR.PNG)
 `Community members trained to evaluate their local governments evaluation using Raye-o-Rah`
 
-The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition among municipalities for responsiveness and accountability. [More on Raye-o-Rah](www.rayeorah.com).
+The [Khyber Pakhtunkhwa Governance Program](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-governance-program-kpg) in Pakistan recently debuted the Raye-o-Rah tool, designed to collect citizen inputs related to municipal performance for the Local Government Good Governance Index (LGGGI). LGGGI is indexed monthly and aims to generate competition among municipalities for responsiveness and accountability. [More on Raye-o-Rah](http://www.rayeorah.com).
 
 ## Guatemala 
 ![main menu.png](/uploads/main%20menu.png)
 `Mayor Carlos Alvarado launches Somos Chiantla in May 2017.`
 
-In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and DAI’s Center for Digital Acceleration are in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. [More on Somos Chiantla]( https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html).
+In Guatemala, the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) project and DAI’s Center for Digital Acceleration are in preparations for the release of version 2 of Somos Chiantla, a transparency-based accountability tool that gives citizens direct access to live budget data, direct from their municipal finance office, as well as the ability to report local issues such as potholes and broken street lights. [More on Somos Chiantla](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html).
 
 ## Liberia
 ![AL.PNG](/uploads/AL.PNG)
