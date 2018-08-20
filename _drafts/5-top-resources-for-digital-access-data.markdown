@@ -38,11 +38,11 @@ The [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) uses quant
 3. Relevance: the existence of relevant local content
 4. Readiness: capacity to access the internet, including skills, cultural acceptance, and supporting policies
 
-The index offers a lot more detail than the other resources here- not just providing a ranking for each of the areas, but providing details of particular policies, broadband operators’ market share, and trust in online privacy, for instance. Importantly, under the “availability” criteria, the EIU has collected data on the gender gap in internet and mobile phone access for each of the 86 countries. The tool also allows you to select more than one country and brings the data side by side for comparison across all sub-areas- a really useful tool for regional analysis.
+The index offers a lot more detail than the other resources—not just providing a ranking for each of the areas, but providing details of particular policies, broadband operators’ market share, and trust in online privacy, for instance. Importantly, under the “availability” criteria, the EIU has collected data on the gender gap in internet and mobile phone access for each of the 86 countries. The tool also allows you to select more than one country and brings the data side by side for comparison across all sub-areas—a really useful tool for regional analysis.
 
-Updated in February 2018, this is the most recent source of data and provides a solid basis for any desk research prior to digital development design. With the amount of detail here you could spend hours (and many an hour I have spent) clicking through the four sections and numerous levels within.
+Updated in February, this is the most recent source of data and provides a solid basis for any desk research prior to digital development design. With the amount of detail here, you could spend hours (and many an hour I have spent) clicking through the four sections and numerous levels within.
 
-**3. ITU Interactive Transmission Map (2018)**
+## 3. ITU Interactive Transmission Map (2018)
 
 OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualizes the internet connectivity of the world. Using existing public data and partnering with local and regional organizations, the ITU have created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
 
