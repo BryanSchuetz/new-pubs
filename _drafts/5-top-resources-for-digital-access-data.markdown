@@ -31,12 +31,12 @@ This is a great resource for overarching, high-level data on the connectivity ec
 
 ## 2. Economist Intelligence Unit (2018)
 
-The [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) uses quantitative indicators such as network coverage and pricing, and qualitative measure such as e-inclusion policies and local content to assess a country’s performance. It ranks 86 countries on four criteria:
+The [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) uses quantitative indicators such as network coverage and pricing, and qualitative measures such as electronic inclusion policies and local content to assess a country’s performance. It ranks 86 countries on four criteria:
 
 1. Availability: quality and breadth of infrastructure required
 2. Affordability: cost of access relevant to income and levels of market competition
 3. Relevance: the existence of relevant local content
-4. Readiness: capacity to access the internet, including skills, cultural acceptance and supporting policy
+4. Readiness: capacity to access the internet, including skills, cultural acceptance, and supporting policies
 
 The index offers a lot more detail than the other resources here- not just providing a ranking for each of the areas, but providing details of particular policies, broadband operators’ market share, and trust in online privacy, for instance. Importantly, under the “availability” criteria, the EIU has collected data on the gender gap in internet and mobile phone access for each of the 86 countries. The tool also allows you to select more than one country and brings the data side by side for comparison across all sub-areas- a really useful tool for regional analysis.
 
