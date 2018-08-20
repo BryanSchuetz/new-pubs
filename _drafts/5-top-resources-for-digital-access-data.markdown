@@ -5,11 +5,14 @@ tags:
 - Digital Inclusion
 - Digital Principles
 Author: Chloe Messenger
+social-image: "/uploads/top%205-6b4a86.jpg"
 ---
 
-The global community have recognised the importance of digital equality - laying out affordable, universal internet access as one of the Sustainable Development Goals. When we are implementing digital programmes, access and inclusion are key concerns: we don’t want to leave anyone behind.
+![top 5-15f83c.jpg](/uploads/top%205-15f83c.jpg){:.float-left}
 
-The Principles for Digital Development, endorsed by a number of organisations, aim to guide practitioners in applying digital technologies to development in a way that is specific to the context or environment in which they are working. But how do we get the data to understand the ecosystem we will be working in?
+The global community have recognized the importance of digital equality - laying out affordable, universal internet access as one of the Sustainable Development Goals. When we are implementing digital programs, access and inclusion are key concerns: we don’t want to leave anyone behind.
+
+The Principles for Digital Development, endorsed by a number of organizations, aim to guide practitioners in applying digital technologies to development in a way that is specific to the context or environment in which they are working. But how do we get the data to understand the ecosystem we will be working in?
 
 Below I outline a few resources for data on digital access and inclusion, ranging from policy & regulation data, affordability stats and gender-disaggregated data. The resources are from the past couple of years and whilst the digital world moves at lightening speed, these are still valuable sources of global information.
 
@@ -41,7 +44,7 @@ Updated in February 2018, this is the most recent source of data and provides a 
 
 **3. ITU Interactive Transmission Map (2018)**
 
-OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualises the internet connectivity of the world. Using existing public data and partnering with local and regional organisations, the ITU have created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
+OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualizes the internet connectivity of the world. Using existing public data and partnering with local and regional organizations, the ITU have created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
 
 Yes, this doesn’t give us a picture of how connected people in a country really are, but it is handy for anyone working on higher level infrastructure or policy.
 
