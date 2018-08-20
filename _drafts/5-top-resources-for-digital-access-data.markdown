@@ -6,6 +6,7 @@ tags:
 - Digital Principles
 Author: Chloe Messenger
 social-image: "/uploads/top%205-6b4a86.jpg"
+thumbnail: "/uploads/top%205-6b4a86.jpg"
 ---
 
 ![top 5-ed0419.jpg](/uploads/top%205-ed0419.jpg){:.float-left}
