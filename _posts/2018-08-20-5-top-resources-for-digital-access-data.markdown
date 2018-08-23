@@ -44,7 +44,7 @@ Updated in February, this is the most recent source of data and provides a solid
 
 ## 3. ITU Interactive Transmission Map (2018)
 
-OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualizes the internet connectivity of the world. Using existing public data and partnering with local and regional organizations, the ITU has created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
+OK, so this is perhaps a bit of a weird one, but one I find interesting all the same. [This map](https://www.itu.int/itu-d/tnd-map-public/) visualizes the internet connectivity of the world. Using existing public data and partnering with local and regional organizations, the United Nations' ICT agency, International Telecommunication Union (ITU), has created a map of Submarine Cables, Internet Exchange Points, and World Transmission Links.
 
 Yes, this doesn’t give us a picture of how connected people in a country really are, but it is handy for anyone working on higher level infrastructure or policy.
 
