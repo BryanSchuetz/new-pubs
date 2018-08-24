@@ -10,7 +10,7 @@ social-image: "/uploads/002.jpg"
 thumbnail: "/uploads/002.jpg"
 ---
 
-*Nota: Esta publicación también está disponible en [inglés](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)*
+*Note this post is also available in [English](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html)*
 
 El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada *Somos Chiantla,* que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar esta herramienta en estos dos municipios, con un enfoque eminentemente participativo y colaborativo, considerando propuestas de autoridades de gobierno local y representantes de la sociedad civil para personalizar la aplicación atendiendo a sus gustos y preferencias.  
 
