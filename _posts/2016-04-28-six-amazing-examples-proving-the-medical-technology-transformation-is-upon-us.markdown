@@ -3,10 +3,10 @@ title: 6 Amazing Examples Proving that the Medical Technology Transformation is 
   Us
 date: 2016-04-28 04:18:00 -04:00
 categories:
-- Health
+- Global Health
 - Innovation
 tags:
-- Health
+- Global Health
 - Innovation
 Author: John DeRiggi
 thumbnail: "/uploads/shpmemoryplymer2.jpg"

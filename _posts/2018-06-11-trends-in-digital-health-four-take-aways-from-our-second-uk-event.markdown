@@ -2,10 +2,10 @@
 title: 'Trends in Digital Health: 4 Takeaways From Our UK Event'
 date: 2018-06-11 14:00:00 -04:00
 categories:
-- Health
+- Global Health
 tags:
 - Digital Inclusion
-- Health
+- Global Health
 - Human-centered design
 Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
   and [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/)"

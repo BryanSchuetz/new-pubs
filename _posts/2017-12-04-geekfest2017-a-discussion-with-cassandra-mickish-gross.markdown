@@ -2,10 +2,10 @@
 title: 'GeekFest2017: A Discussion with Cassandra Mickish Gross'
 date: 2017-12-04 14:19:00 -05:00
 categories:
-- Health
+- Global Health
 tags:
 - Geekfest 2017
-- Health
+- Global Health
 Author: Talia Dweck
 social-image: "/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg"
 thumbnail: "/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg"

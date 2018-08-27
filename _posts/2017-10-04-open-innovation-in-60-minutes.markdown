@@ -3,7 +3,7 @@ title: Open Innovation in 60 Minutes or Less
 date: 2017-10-04 16:14:00 -04:00
 tags:
 - Innovation
-- Health
+- Global Health
 Author: Talia Dweck
 social-image: "/uploads/workshop.jpg"
 thumbnail: "/uploads/workshop.jpg"

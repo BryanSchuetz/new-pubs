@@ -3,7 +3,7 @@ title: 'Digital Health in International Development: Using Tried & Tested Techno
   Innovatively'
 date: 2018-07-05 13:00:00 -04:00
 tags:
-- Health
+- Global Health
 - Innovation
 - Human-centered design
 Author: Abi Gleek

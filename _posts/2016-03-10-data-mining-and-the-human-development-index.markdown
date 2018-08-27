@@ -3,7 +3,7 @@ title: Data Mining and the Human Development Index
 date: 2016-03-09 23:00:00 -05:00
 tags:
 - Data
-- Health
+- Global Health
 Author: John DeRiggi
 thumbnail: "/uploads/header2.png"
 ---

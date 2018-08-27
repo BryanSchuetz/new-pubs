@@ -2,7 +2,7 @@
 title: How a Pilot Project in Haiti Brings Optimism for Digitally Enabled Health System
 date: 2018-03-20 13:50:00 -04:00
 tags:
-- Health
+- Global Health
 Author: "[Atwood Raphael](https://www.linkedin.com/in/nernst-atwood-raphael-5a46ba6a/)"
 social-image: "/uploads/atwood-6b4414.jpg"
 thumbnail: "/uploads/atwood-6b4414.jpg"

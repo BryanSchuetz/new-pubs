@@ -3,7 +3,7 @@ title: Looking Ahead to 2018
 date: 2018-01-04 12:55:00 -05:00
 categories:
 - Digital Insights
-- Health
+- Global Health
 - Innovation
 tags:
 - Innovation

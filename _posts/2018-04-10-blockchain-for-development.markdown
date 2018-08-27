@@ -4,7 +4,7 @@ date: 2018-04-10 10:20:00 -04:00
 tags:
 - Agriculture
 - Innovation
-- Health
+- Global Health
 - Blockchain Series
 Author: Trevor Olexy
 social-image: "/uploads/Blockchain_Illustration_3.jpg"

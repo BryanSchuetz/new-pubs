@@ -4,7 +4,7 @@ title: 'ICT4D Conference: Unpacking the Complexities of Integrated Health Data a
 date: 2018-05-15 12:17:00 -04:00
 tags:
 - Think Piece
-- Health
+- Global Health
 Author: Talia Dweck
 social-image: "/uploads/ict4d%20logo.png"
 thumbnail: "/uploads/ict4d%20logo.png"

@@ -3,7 +3,7 @@ title: 'Engaging the Private Sector: Lessons from Digital Health'
 date: 2016-03-30 01:27:00 -04:00
 tags:
 - Kenya
-- Health
+- Global Health
 Author: Anand Varghese
 ---
 

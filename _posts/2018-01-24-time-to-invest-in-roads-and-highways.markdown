@@ -2,9 +2,9 @@
 title: We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways
 date: 2018-01-24 09:26:00 -05:00
 categories:
-- Health
+- Global Health
 tags:
-- Health
+- Global Health
 - Digital Principles
 Author: "[Dr. Alain Labrique](https://twitter.com/alabriqu)"
 social-image: "/uploads/1024px-PL_A2_Poznan_Komorniki.JPG"
