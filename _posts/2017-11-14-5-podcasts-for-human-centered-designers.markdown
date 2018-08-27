@@ -8,11 +8,14 @@ social-image: "/uploads/headphones.jpg"
 thumbnail: "/uploads/headphones.jpg"
 ---
 
-In international development, human-centered designer (HCD) is charged with rapidly developing empathy with a specific, targeted marginalized population, a social challenge that group faces, and parlaying that understanding into a local solution. 
+In the field of international development, human-centered designers (HCD) are charged with rapidly developing empathy with a specific, targeted, marginalized population, diving into a social challenge which that group faces, and parlaying that understanding and access into a locally-tailored solution. 
 
 ![headphones.jpg](/uploads/headphones.jpg)
 
-Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work. But, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them. 
+Doing so successfully requires one primary skill: **listening.** That means listening in the traditional sense: to an individual, as DAI does in our [Digital Insights](https://dai-global-digital.com/rwanda-digital-insights.html) work. But, more broadly, listening for design in the international development space means listening to an entire population to identify social challenges as well as the cultural, political, and economic dynamics that affect them and perpetuate the problem. 
+
+<aside><p>Note: Digital@DAI thanks <a href="http://www.thisishcd.com">This is HCD</a> for featuring the Center for Digital Acceleration in a recent episode covering <a href="https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html">human-centered design for foreign aid programs</a>
+</p></aside>
 
 <!--more-->
 
@@ -48,3 +51,9 @@ and intriguing design cases from the past and present and breaks down the “why
 * **File under:** User experience, Swedish perspective
 * **Why is it useful for HCD practitioners?** A more wry take on design from James Royal-Lawson and Per Axbom (his real name) primarily concerned with the nuts and bolts of digital design like user experience, user interface, but also broader takes on design, the tech business, and the distinctions between the American and Swedish approach to design. 
 * **More:** [iTunes](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2), [Stitcher](https://www.stitcher.com/podcast/ux-podcast), [website](https://uxpodcast.com/)
+
+## Bonus: This is HCD
+![thisishcd.jpg](/uploads/thisishcd.jpg){:.float-right}
+* **File under:** User experience, designer empathy, global perspective
+* **Why is it useful for HCD practitioners?** This is HCD is hosted Gerry Scullion and Chirryl-Lee Ryan, two designers with as much wry wit as design experience (that is to say, a lot!). Gerry and Chirryl-Lee seek to answer the question "What is HCD?" by exploring the practice and its core components through the lens of practicing designers. Previous episodes cover [ethnographic thinking in design](https://www.thisishcd.com/episodes/19-jay-hasbrouck-the-power-of-ethnographic-thinking-in-design/), [stakeholder engagement within large organizations](https://www.thisishcd.com/episodes/9-cyril-secourgeon-the-secrets-of-successful-stakeholder-engagement-in-large-organisations/) and [the intersection of Service Design and User Experience Design](https://www.thisishcd.com/episodes/11-eduardo-kranz-the-intersect-of-service-design-and-user-experience-design/). 
+* **More:** [iTunes](https://itunes.apple.com/us/podcast/this-is-hcd-human-centered-design-podcast/id1238981415?mt=2), [Stitcher](https://www.stitcher.com/podcast/gerry-scullion/this-is-hcd), [website](http://www.thisishcd.com/)
