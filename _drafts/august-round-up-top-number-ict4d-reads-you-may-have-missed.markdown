@@ -9,4 +9,4 @@ Ah, the [dog days](https://en.wikipedia.org/wiki/Dog_days) of summer. Usually a 
 
 2. ECCN, USAID and INEE's [Checklist for Information and Communications Technologies (ICT) Interventions to Support Education in Crisis and Conflict Settings](https://eccnetwork.net/wp-content/uploads/ICT-Interventions-Checklist.pdf): I'm always a big fan of usable, pragmatic tools that make implementing digital services easier and better. This is one of them. 
 
- 
+ 3. 
