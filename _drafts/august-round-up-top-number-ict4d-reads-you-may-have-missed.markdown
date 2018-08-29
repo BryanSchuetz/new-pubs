@@ -1,6 +1,7 @@
 ---
 title: 'August Round-Up: Top #ICT4D Reads You May Have Missed'
 date: 2018-08-29 10:30:00 -04:00
+Author: Kristen Roggemann
 ---
 
 Ah, the [dog days](https://en.wikipedia.org/wiki/Dog_days) of summer. Usually a slow time for work, that means there's extra time to sit at your computer looking for good stuff to read, struggling with either being uncomfortably warm from the summer heat or excruciatingly cold from over-aggressive office air-conditioning. We get it. We got you. Fresh ICT4D reads from our August Round Up below!
