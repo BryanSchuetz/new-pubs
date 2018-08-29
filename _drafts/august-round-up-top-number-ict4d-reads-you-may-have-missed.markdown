@@ -13,4 +13,4 @@ Ah, the [dog days](https://en.wikipedia.org/wiki/Dog_days) of summer. Usually a 
 
 > The role of social media is significant. Facebook has been a useful instrument for those seeking to spread hate, in a context where for most users Facebook is the Internet. Although improved in recent months, Facebook’s response has been slow and ineffective. The extent to which Facebook posts and messages have led to real-world discrimination and violence must be independently and thoroughly examined.
 
-Did I think five years ago I'd *ever* see a UN report cite Facebook as a key actor in genocide? Nope. Where do we go from here, and how do we do more to push for protection? The stakes are so high.
+Did I think five years ago I'd *ever* see a UN report cite Facebook as a key actor in genocide? Nope. Where do we go from here, and how do we do more to push for protection? The stakes are so high. These are questions I will continue to look for answers for as the consequences of the report unfold.
