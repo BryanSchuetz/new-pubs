@@ -1,5 +1,6 @@
 ---
-title: 'August Round-Up: Top #ICT4D Reads You May Have Missed'
+title: 'August Round-Up: Leapfrogging Technology, ICT4E in Conflict and Facebook in
+  Myanmar'
 date: 2018-08-29 10:30:00 -04:00
 Author: Kristen Roggemann
 ---
