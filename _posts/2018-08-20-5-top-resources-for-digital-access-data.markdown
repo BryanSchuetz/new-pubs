@@ -50,6 +50,15 @@ Yes, this doesn’t give us a picture of how connected people in a country reall
 
 ![ITU.jpg](/uploads/ITU.jpg)
 
+## 4. GSMA Mobile Economy 
+
+The [Mobile Economy series](https://www.gsma.com/mobileeconomy/ ) provides insights into the state of the mobile industry worldwide. The data dashboard and accompanying report provides current data on mobile penetration and success of the market, as well as projections and major milestones to 2025.
+
+The dashboard, split by region, allows you to see how many mobile subscribers there are in Europe; what percentage of people in Sub-Saharan Africa have 2G, 3G and 4G; and how much the mobile industry contributes to GDP.  The Mobile Economy Report has some handy (downloadable) infographics outlining subscriber numbers, percentage of people that have smartphones, and penetration of “the G’s”.
+
+Although most of the data is regional, some of the key data points are disaggregated by country, for instance, you can see unique mobile subscribers for the 10 largest countries in the world.
+
+
 ## 5. DAI Frontier Insights
 
 The above resources outline how we can understand the ecosystem, but this country-level data can’t always help us to understand the users and their own personal context. This last point is a nod to doing your own research, working to understand the users, and designing the tools that work for them, with them.
