@@ -13,7 +13,7 @@ Ah, the [dog days](https://en.wikipedia.org/wiki/Dog_days) of summer. Usually a 
 
 <!--more-->
 
-1. [African Economy: The Limit of Leapfrogging](https://www.ft.com/content/052b0a34-9b1b-11e8-9702-5946bae86e6d?sharetype=blocked): This is a really excellent piece that digs into the realities of the leapfrog phenomenon in Africa, taking examples from ICT4Ag and mHealth to reality check the technology “solutionism.” Super engaging, definitely worth your read.
+1. [African Economy: The Limit of Leapfrogging](https://www.ft.com/content/052b0a34-9b1b-11e8-9702-5946bae86e6d?sharetype=blocked): This is a really excellent piece that digs into the realities of the leapfrog phenomenon in Africa, taking examples from ICT4Ag and mHealth to reality check the technology “solutionism.” Super engaging, definitely worth your read—though please note that a *Financial Times* subscription is required.
 
 2. Check out the [Checklist for Information and Communications Technologies (ICT) Interventions to Support Education in Crisis and Conflict Settings](https://eccnetwork.net/wp-content/uploads/ICT-Interventions-Checklist.pdf), created by the U.S. Agency for International Development, Education in Crisis and Conflict Network, and the International Network for Education
 in Emergencies: I’m always a big fan of usable, pragmatic tools that make implementing digital services easier and better. This is one of them. 
