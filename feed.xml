@@ -14,7 +14,7 @@ layout:
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
       <item>
-        <media:content url="https://dai-global-digital.com{{ post.social-image }}" medium="image"> 
+        <media:content url="https://dai-global-digital.com{{ post.social-image }}" medium="image" /> 
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.excerpt | xml_escape | replace:'&lt;p&gt;&lt;img src=&quot;','&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com' }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
