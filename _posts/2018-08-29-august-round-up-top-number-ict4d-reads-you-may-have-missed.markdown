@@ -2,6 +2,8 @@
 title: 'August Roundup: Leapfrogging Technology, ICT4E in Conflict, and Facebook in
   Myanmar'
 date: 2018-08-29 10:30:00 -04:00
+tags:
+- ICT
 Author: Kristen Roggemann
 social-image: "/uploads/summer-reads1.jpg"
 thumbnail: "/uploads/summer-reads1.jpg"
