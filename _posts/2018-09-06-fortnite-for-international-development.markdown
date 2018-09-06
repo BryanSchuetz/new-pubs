@@ -7,6 +7,8 @@ categories:
 tags:
 - Think Piece
 Author: Adam Fivenson
+social-image: "/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg"
+thumbnail: "/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg"
 ---
 
 Fortnite—a free, online multiplayer video game—has amassed more than [125 million players](https://www.epicgames.com/fortnite/en-US/news/announcing-2018-2019-fortnite-competitive-season) worldwide during the mere 14 months since it debuted in July 2017. The game features a fast-paced, *Hunger Games*-inspired format mixed with community, celebrity, and story, and so far it’s working. Everyone from [athletes](https://ftw.usatoday.com/2018/03/fortnite-is-taking-over-the-sports-world) to [musicians](https://www.theverge.com/2018/3/15/17123424/ninja-drake-fortnite-twitch-stream-record-travis-scott-juju) are going public with their fandom and some parents are [shelling out $35/hour]( https://www.sfgate.com/technology/businessinsider/article/Parents-are-paying-as-much-as-35-an-hour-for-13123982.php) for a Fortnite coach for their kids. 
