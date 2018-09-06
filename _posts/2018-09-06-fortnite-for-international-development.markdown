@@ -39,4 +39,4 @@ Epic Games has hosted a series of live events to build excitement around the gam
 
 When will we be using Fortnite for international development? It’s difficult to say, but what’s clear is that the game has captured the attention of a huge number of the people around the world incredibly quickly. Taking note of that rapid rise, and thinking about how we can use it and other cultural phenomena in our work as development professionals can only make us more effective. 
 
-For more on the nexus of culture and international development, subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C).
+*For more on the nexus of culture and international development, subscribe to [Digital@DAI](https://confirmsubscription.com/h/r/066AFBA15492935C).*
