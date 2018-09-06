@@ -1,5 +1,5 @@
 ---
-title: Fortnite for International Development
+title: Fortnite for International Development?
 date: 2018-09-06 10:36:00 -04:00
 published: false
 categories:
@@ -9,15 +9,15 @@ tags:
 Author: Adam Fivenson
 ---
 
+Fortnite—a free, online multiplayer video game--has amassed more than [125 million players](https://www.epicgames.com/fortnite/en-US/news/announcing-2018-2019-fortnite-competitive-season) worldwide during the mere 14 months since it debuted in July 2017. The game features a fast-paced, Hunger Games-inspired format mixed with community, celebrity, and story, and so far it's working; Everyone from [athletes](https://ftw.usatoday.com/2018/03/fortnite-is-taking-over-the-sports-world) to [musicians](https://www.theverge.com/2018/3/15/17123424/ninja-drake-fortnite-twitch-stream-record-travis-scott-juju) are going public with their fandom and some parents are [shelling out $35/hour]( https://www.sfgate.com/technology/businessinsider/article/Parents-are-paying-as-much-as-35-an-hour-for-13123982.php) for a Fortnite coach for their kids. 
 
 ![fortnite-superhero-art-01-ps4-us-27apr18.jpg](/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg)`Image © 2018, Epic Games`
 
-Fortnite--a free, online multiplayer video game--has amassed more than [125 million players](https://www.epicgames.com/fortnite/en-US/news/announcing-2018-2019-fortnite-competitive-season) worldwide during the mere 14 months since it debuted in July 2017. The game features a fast-paced, Hunger Games-inspired format mixed with community, celebrity, and story, and so far it's working; Everyone from [athletes](https://ftw.usatoday.com/2018/03/fortnite-is-taking-over-the-sports-world) to [musicians](https://www.theverge.com/2018/3/15/17123424/ninja-drake-fortnite-twitch-stream-record-travis-scott-juju) are going public with their fandom and some parents are [shelling out $35/hour]( https://www.sfgate.com/technology/businessinsider/article/Parents-are-paying-as-much-as-35-an-hour-for-13123982.php) for a Fortnite coach for their kids. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/84EjlkrtnQ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!--more-->
 
 Given the game’s [Kool-Aid man-like](https://www.youtube.com/watch?v=_fjEViOF4JE) explosion into the popular conscience, development practitioners--especially those whose work involves awareness or behavior change, which I suspect is most of us--should be paying close attention. 125 million people—the vast majority [between the ages of 18-24](https://www.vertoanalytics.com/chart-week-deep-dive-fortnite/)—are now spending significant time in Fortnite world, when a few months ago they had probably never heard of it. Not only does the game represent competition for their [attention at school](https://www.nbcnews.com/tech/video-games/parents-work-put-boundaries-fortnite-during-school-year-n904516), it’s competition for their attention to the apps, websites, workshops, campaigns, and digital tools that development projects spend thousands putting together! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/84EjlkrtnQ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Now, let’s face it: we’re never going to beat the Fortnites and Facebooks of the world for people’s attention. They’re built on [cognitive addiction research](http://www.slate.com/articles/technology/technology/2017/11/facebook_was_designed_to_be_addictive_does_that_make_it_evil.html) and have that massive budgets that allow them to collect user feedback, iterate and rapidly improve. But, we can ensure our messaging stays relevant and “meets them where they are,” by thinking about how to use these platforms to our advantage.
  
