@@ -2,10 +2,9 @@
 title: Fortnite for International Development?
 date: 2018-09-06 10:36:00 -04:00
 published: false
-categories:
-- Innovation
 tags:
 - Think Piece
+- Innovation
 Author: Adam Fivenson
 social-image: "/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg"
 thumbnail: "/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg"
