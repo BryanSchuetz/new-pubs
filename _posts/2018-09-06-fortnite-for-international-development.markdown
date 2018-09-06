@@ -35,7 +35,8 @@ This is often the easiest, most accessible and least risky of all options. The c
 
 ## 4. Host live Fortnite Tournaments featuring key social messages
 
-![FN2.jpg](/uploads/FN2.jpg)`Photo Christian Petersen/Getty Images
+![tournament.jpg](/uploads/tournament.jpg)`Photo by Nick Statt / The Verge`
+
 Epic Games has hosted a series of live events to build excitement around the game. The [Fortnite Pro Am  2018](https://www.epicgames.com/fortnite/en-US/pro-am2018) featured 50 professional Fortnite players, matched up with 50 celebrity games, and was held at a 22,000 person open-air stadium in Los Angeles. The event also raised $3 million for charity, though it hasn’t been made clear in the aftermath exactly which charities or causes received that funding and from whom. There are also dozens of smaller-scale Fortnite tournaments happening around the world, so why not host a Fortnite tournament and include key messages about environmental protection or sexual health? It’s not a bad idea, but of course there are some challenges. Events are expensive, and they require logistical coordination and lots of promotion; generally it’s best if a local organization or university handles those aspects. Still, as with the Fortnite Pro Am, it’s easy for key development messages to get lost in the din, especially when the din is Fortnite, so figuring out the right message and delivery is key. 
 
 When will we be using Fortnite for international development? It’s difficult to say, but what’s clear is that the game has captured the attention of a huge number of the people around the world incredibly quickly. Taking note of that rapid rise, and thinking about how we can use it and other cultural phenomena in our work as development professionals can only make us more effective. 
