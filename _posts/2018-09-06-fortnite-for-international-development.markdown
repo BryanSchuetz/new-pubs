@@ -14,7 +14,7 @@ Fortnite--a free, online multiplayer video game-- has amassed more than [125 mil
 ![fortnite-superhero-art-01-ps4-us-27apr18.jpg](/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg)
 `Image © 2018, Epic Games`
 
-The game features a clever mixture of fast-paced, survival game play with community, celebrity, and story; everyone from [athletes](https://ftw.usatoday.com/2018/03/fortnite-is-taking-over-the-sports-world) to [pop stars](https://www.theverge.com/2018/3/15/17123424/ninja-drake-fortnite-twitch-stream-record-travis-scott-juju) are going public with their fandom and some parents are [shelling out $35/hour]( https://www.sfgate.com/technology/businessinsider/article/Parents-are-paying-as-much-as-35-an-hour-for-13123982.php) for a Fortnite coach for their kids. 
+The game features a fast-paced, Hunger Games-inspired format mixed with community, celebrity, and story; everyone from [athletes](https://ftw.usatoday.com/2018/03/fortnite-is-taking-over-the-sports-world) to [musicians](https://www.theverge.com/2018/3/15/17123424/ninja-drake-fortnite-twitch-stream-record-travis-scott-juju) are going public with their fandom and some parents are [shelling out $35/hour]( https://www.sfgate.com/technology/businessinsider/article/Parents-are-paying-as-much-as-35-an-hour-for-13123982.php) for a Fortnite coach for their kids. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/84EjlkrtnQ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 `French player Antoine Greizman celebrates a goal during World Cup 2018 with a Fortnite dance`
