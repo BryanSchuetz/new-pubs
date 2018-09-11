@@ -49,7 +49,7 @@ This isn’t the platform to dive deep into each psychological or perceptual mec
  9. People Create Mental Models
 
 10. People Understand Visual Systems
-
+![business design.jpg](/uploads/business%20design.jpg)
 ## Human-Centered Design for Apps is Still Lacking
 
 The consideration of users in the design process has definitely increased in the design discipline, but personally, the more I use mobile apps, the less I want to use mobile technology at all. I am human, where is the human centered design for apps?
