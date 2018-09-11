@@ -3,7 +3,7 @@ title: 'Thinking About the User: Design Considerations for Mobile Apps'
 date: 2018-09-11 09:56:00 -04:00
 tags:
 - Human-centered design
-- UI/UX
+- UI/UX series
 Author: Trevor Olexy
 social-image: "/uploads/ux_ui.jpg"
 thumbnail: https://img.siteleaf.com/LcDnJ17m4T4_21aUu34mI5Hvims=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/568d4cf73aaede128400000b/assets/5b981cda694f05475242e92b.jpg
@@ -13,11 +13,11 @@ Think back to the last time you used a mobile app(lication) with unwieldy menu p
 
 ![business design.jpg](/uploads/business%20design.jpg)
 
-I think fast, I click fast, and I want my app to move fast too. I want to go where I want as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense or are placed in a location on the screen that is not necessarily intuitive. [UXdesign.cc](https://uxdesign.cc/) has wonderful articles about user experience (UX)/user interface (UI) design that are worth reading over if you are curious about some case studies in UI design (here's one of my [favorites](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly research into the psychology of human interactions with technology.
+I think fast, I click fast, and I want my app to move fast too. I want to go where I want as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense or are placed in a location on the screen that is not necessarily intuitive. [UXdesign.cc](https://uxdesign.cc/) has wonderful articles about user experience (UX) and user interface (UI) design that are worth reading over if you are curious about UI design (here's one of my [favorite case studies](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly research into the psychology of human interactions with technology.
 
 ## Researching the human-technology interaction
 
-Humans vary vastly -even though our DNA doesn’t. What I expect from an app can and likely will be be worlds apart from what the next user wants from an app, and different from the next user, and the next. However, there are also ways, by virtue of human physiology, that we users are very much alike. Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process. By utilizing behavioral research, designers can hone in on aspects of the human-technology interaction that neither designers nor users would ever have expected to affect their decisions. This facilitates designing to target specific aspects of the user’s attention, tailored to what the app has to offer.
+Humans vary vastly - even though our DNA doesn’t. What I expect from an app can and likely will be be worlds apart from what the next user wants from an app, and different from the next user, and the next. However, there are also ways, by virtue of human physiology, that we users are very much alike. Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process. By utilizing behavioral research, designers can hone in on aspects of the human-technology interaction that neither designers nor users would ever have expected to affect their decisions. This facilitates designing to target specific aspects of the user’s attention, tailored to what the app has to offer.
 
 This isn’t the platform to dive deep into each psychological or perceptual mechanism that well thought out UI can address, but check out the list of high-level considerations below, borrowed from a [well-written article](http://www.methodsandtools.com/archive/archive.php?id=126) about psychology and UX:
 
@@ -55,4 +55,4 @@ To be fair, I would venture to say that all app designers think about the usabil
 
 If we as designers and programmers can remove ourselves from the internal plumbing of applications and come face to face with the user-facing, we just may be able to create more inclusive and useful applications. Thankfully an ever-increasing number of designers are focused on this. Not all achieve perfect UI (is that possible?) but we are on the right track. Unfortunately, I come across apps with lacking UI more often than I think I should.
 
-Part two of this series will have a few examples of my (very subjective) opinion on well-designed apps and those that I often - or always- get hung up using. Stay tuned!!
+Part two of this series will have a few examples of my (very subjective) opinion on well-designed apps and those that I often - or always- get hung up using. Stay tuned.
