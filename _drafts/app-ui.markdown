@@ -19,7 +19,7 @@ Author: Trevor Olexy
 ---
 
 Think back to the last time you used a mobile app(lication) with less-than-ideal menu placement, less-than-decipherable icons, less-than-ideal user-configurable options. These may seem like minor nuisances in the everyday life of mobile device interaction, and frankly, most users probably never notice (maybe don’t know that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based technologies. 
-[ux_ui.jpg](/uploads/ux_ui.jpg)
+![ux_ui.jpg](/uploads/ux_ui.jpg)
 I think fast, I click fast, and I want my app to move fast too. I want to go where I want to go as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense (to me) or are placed in a location on the screen that is not necessarily intuitive. [UXdesign.cc](https://uxdesign.cc/) has wonderful articles about user experience (UX)/user interface (UI) design that are worth reading over if you are curious about some case studies in UI design (here's one of my [favorites](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly research into the psychology of human interactions with technology.
 
 ## Researching the human-technology interaction
