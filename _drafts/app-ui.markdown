@@ -16,10 +16,13 @@ tags:
 - User
 - Experience
 Author: Trevor Olexy
+social-image: "/uploads/ux_ui.jpg"
 ---
 
-Think back to the last time you used a mobile app(lication) with less-than-ideal menu placement, less-than-decipherable icons, less-than-ideal user-configurable options. These may seem like minor nuisances in the everyday life of mobile device interaction, and frankly, most users probably never notice (maybe don’t know that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based technologies. 
-![ux_ui.jpg](/uploads/ux_ui.jpg)
+Think back to the last time you used a mobile app(lication) with less-than-ideal menu placement, less-than-decipherable icons, less-than-ideal user-configurable options. These may seem like minor nuisances in the everyday life of mobile device interaction, and frankly, most users probably never notice (maybe don’t know that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based technologies.
+
+![business design.jpg](/uploads/business%20design.jpg)
+
 I think fast, I click fast, and I want my app to move fast too. I want to go where I want to go as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense (to me) or are placed in a location on the screen that is not necessarily intuitive. [UXdesign.cc](https://uxdesign.cc/) has wonderful articles about user experience (UX)/user interface (UI) design that are worth reading over if you are curious about some case studies in UI design (here's one of my [favorites](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly research into the psychology of human interactions with technology.
 
 ## Researching the human-technology interaction
@@ -49,7 +52,8 @@ This isn’t the platform to dive deep into each psychological or perceptual mec
  9. People Create Mental Models
 
 10. People Understand Visual Systems
-![business design.jpg](/uploads/business%20design.jpg)
+    
+
 ## Human-Centered Design for Apps is Still Lacking
 
 The consideration of users in the design process has definitely increased in the design discipline, but personally, the more I use mobile apps, the less I want to use mobile technology at all. I am human, where is the human centered design for apps?
@@ -58,7 +62,7 @@ This is largely reactionary and comes from my own previous experiences and refle
 
 ## The Insider Perspective
 
-To be fair, I would venture to say that all app designers think about the usability of their apps, but few achieve ideal and smooth operation. Enter graphic designers and UI experts. I can build web applications all day long, but I (really 'we,' as in our dev-team) always iteratively refer out to users for feedback on design, because once you are on the inside of project, it can be difficult to isolate your intimate knowledge of a platform from the idea that a first-time user may have no idea what they are looking at despite your best efforts. The need for this exercise in humility and human-centered design cannot be understated. 
+To be fair, I would venture to say that all app designers think about the usability of their apps, but few achieve ideal and smooth operation. Enter graphic designers and UI experts. I can build web applications all day long, but I (really 'we,' as in our dev-team) always iteratively refer out to users for feedback on design, because once you are on the inside of project, it can be difficult to isolate your intimate knowledge of a platform from the idea that a first-time user may have no idea what they are looking at despite your best efforts. The need for this exercise in humility and human-centered design cannot be understated.
 
 If we as designers and programmers can remove ourselves from the internal plumbing of applications and come face to face with the user-facing, we just may be able to create more inclusive and useful applications. Thankfully an ever-increasing number of designers are focused on this. Not all achieve perfect UI (is that possible?) but we are on the right track. Unfortunately, I come across apps with lacking UI more often than I think I should.
 
