@@ -24,23 +24,14 @@ This isn’t the platform to dive deep into each psychological or perceptual mec
 ## 10 Things to About Human Psychology That Should Inform UX Design:
 
  1. People Don't Want to Work or Think More Than They Have To
-
  2. People Have Limitations
-
  3. People Make Mistakes
-
  4. Human Memory is Complicated
-
  5. People are Social
-
  6. People are Easily Distracted
-
  7. People Crave Information
-
  8. Most Mental Processing is Unconscious
-
  9. People Create Mental Models
-
 10. People Understand Visual Systems
 
 ## Human-Centered Design for Apps is Still Lacking
