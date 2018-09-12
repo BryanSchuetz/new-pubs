@@ -12,7 +12,6 @@ thumbnail: 800 x 400
 
 The Center for Digital Acceleration has participated in August 6th- 10th in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil, sharing the experiences on how DAI has develop platforms and tools for decision making in Central America.
 
-
 ![Screen Shot 2018-09-12 at 2.14.19 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png)
 
 > *Alejandro Solis, ICT Specialist of the Center for Digital Acceleration shared the DAI’s experience developing Climate Information platforms and tools in Central America.*
@@ -38,6 +37,8 @@ With over 344.000 datasets, 37 organizations and 40 working groups, and a catalo
 * [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) 2 (NDVI): Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. This Imagery Layer is sourced from the Sentinel-2 on AWS collections and is updated daily with new imagery.
 
 * Imagery – [Landsat8](https://landsat.usgs.gov/landsat-8): The most recent imagery from Landsat 8. This band combination (6 5 2) is good for agricultural studies, as healthy vegetation will appear bright green.
+
+![Screen Shot 2018-09-12 at 2.58.24 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.58.24%20PM.png)
 
 Most of this information can be used directly in the navigator tool and / or download it for other purposes, and the best… is free.
 
