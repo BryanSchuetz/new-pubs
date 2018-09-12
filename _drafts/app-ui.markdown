@@ -6,7 +6,7 @@ tags:
 - UI/UX series
 Author: Trevor Olexy
 social-image: "/uploads/ux_ui.jpg"
-thumbnail: https://img.siteleaf.com/LcDnJ17m4T4_21aUu34mI5Hvims=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/568d4cf73aaede128400000b/assets/5b981cda694f05475242e92b.jpg
+thumbnail: "/uploads/ux_ui.jpg"
 ---
 
 Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of mobile app interaction, and frankly, most users probably never notice (or maybe don't realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies.
