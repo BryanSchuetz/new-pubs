@@ -9,17 +9,19 @@ social-image: "/uploads/ux_ui.jpg"
 thumbnail: "/uploads/ux_ui.jpg"
 ---
 
-Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of mobile app interaction, and frankly, most users probably never notice (or maybe don't realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies.
+Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of app interaction, and frankly, most users probably never notice (or maybe don’t realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies.
 
 <!--more-->
 
 ![business design.jpg](/uploads/business%20design.jpg)
 
-I think fast, I click fast, and I want my app to move fast too. I want to go where I want as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense or are placed in a location on the screen that is not necessarily intuitive. [UXdesign.cc](https://uxdesign.cc/) has wonderful articles about user experience (UX) and user interface (UI) design that are worth reading over if you are curious about UI design (here's one of my [favorite case studies](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly research into the psychology of human interactions with technology.
+I think fast, I click fast, and I want my app to move fast, too. I want to go where I want as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense or are placed in a location on the screen that is not necessarily intuitive. 
 
-## Researching the human-technology interaction
+[UXdesign.cc](https://uxdesign.cc/) has wonderful articles about user experience (UX) and user interface (UI) design that are worth reading if you are curious about UI design (here’s one of my [favorite case studies](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly into the psychology of human interactions with technology.
 
-Humans vary vastly - even though our DNA doesn’t. What I expect from an app can and likely will be be worlds apart from what the next user wants from an app, and different from the next user, and the next. However, there are also ways, by virtue of human physiology, that we users are very much alike. Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process. By utilizing behavioral research, designers can hone in on aspects of the human-technology interaction that neither designers nor users would ever have expected to affect their decisions. This facilitates designing to target specific aspects of the user’s attention, tailored to what the app has to offer.
+## Human-Technology Interaction
+
+Humans vary greatly—even though our DNA doesn’t. What I expect from an app can, and likely will, be worlds apart from what the next user wants from an app, and different from the next user, and the next, and so on. However, there are also ways, by virtue of human physiology, that users are very much alike. By utilizing behavioral research, designers can hone in on aspects of the human-technology interaction that neither designers nor users would ever have expected to affect their decisions. This facilitates designing to target specific aspects of the user’s attention, tailored to what the app has to offer.
 
 This isn’t the platform to dive deep into each psychological or perceptual mechanism that well thought out UI can address, but check out the list of high-level considerations below, borrowed from a [well-written article](http://www.methodsandtools.com/archive/archive.php?id=126) about psychology and UX:
 
