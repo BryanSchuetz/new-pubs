@@ -23,20 +23,20 @@ I think fast, I click fast, and I want my app to move fast, too. I want to go wh
 
 Humans vary greatly—even though our DNA doesn’t. What I expect from an app can, and likely will, be worlds apart from what the next user wants from an app, and different from the next user, and the next, and so on. However, there are also ways, by virtue of human physiology, that users are very much alike. By utilizing behavioral research, designers can hone in on aspects of the human-technology interaction that neither designers nor users would ever have expected to affect their decisions. This facilitates designing to target specific aspects of the user’s attention, tailored to what the app has to offer.
 
-This isn’t the platform to dive deep into each psychological or perceptual mechanism that well thought out UI can address, but check out the list of high-level considerations below, borrowed from a [well-written article](http://www.methodsandtools.com/archive/archive.php?id=126) about psychology and UX:
+This isn’t the platform to dive deep into each psychological or perceptual mechanism that well-thought-out UI can address, but check out the list of high-level considerations below, borrowed from a [well-written article](http://www.methodsandtools.com/archive/archive.php?id=126) about psychology and UX:
 
 ## 10 Things to About Human Psychology That Should Inform UX Design:
 
- 1. People Don't Want to Work or Think More Than They Have To
- 2. People Have Limitations
- 3. People Make Mistakes
- 4. Human Memory is Complicated
- 5. People are Social
- 6. People are Easily Distracted
- 7. People Crave Information
- 8. Most Mental Processing is Unconscious
- 9. People Create Mental Models
-10. People Understand Visual Systems
+ 1. People don’t want to work or think more than they have to.
+ 2. People have limitations.
+ 3. People make mistakes.
+ 4. Human memory is complicated.
+ 5. People are social.
+ 6. People are easily distracted.
+ 7. People crave information.
+ 8. Most mental processing is unconscious.
+ 9. People create mental models.
+10. People understand visual systems.
 
 ## Human-Centered Design for Apps is Still Lacking
 
