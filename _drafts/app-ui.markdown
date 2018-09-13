@@ -50,4 +50,4 @@ To be fair, I would venture to say that all app designers think about the usabil
 
 If we as designers and programmers can remove ourselves from the internal plumbing of applications and come face to face with the user experience, we just may be able to create more inclusive and useful applications. Thankfully, an ever-increasing number of designers are focused on this. Not all achieve perfect UI (is that possible?) but we are on the right track. Unfortunately, I come across apps with lacking UI more often than I should.
 
-Part two of this series will have a few examples of my (very subjective) opinion on well-designed apps and those that I often—or always—get hung up using. Stay tuned.
+Part two of this post will have a few examples of my (very subjective) opinion on well-designed apps and those that I often—or always—get hung up using. Stay tuned.
