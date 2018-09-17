@@ -7,6 +7,7 @@ tags:
 - knowledge management
 - geospatial
 Author: Alejandro Solis
+social-image: "/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png"
 thumbnail: 800 x 400
 ---
 
