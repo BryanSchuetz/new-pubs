@@ -2,6 +2,8 @@
 title: The Americas' Effort to Integrate, Distribute and Use Open Data for Decision
   Making
 date: 2018-09-12 16:11:00 -04:00
+categories:
+- Data
 tags:
 - open data
 - knowledge management
