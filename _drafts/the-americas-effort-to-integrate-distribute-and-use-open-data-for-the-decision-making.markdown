@@ -1,6 +1,6 @@
 ---
-title: The Americas' effort to integrate, distribute and use open data for the decision
-  making
+title: The Americas' Effort to Integrate, Distribute and Use Open Data for Decision
+  Making
 date: 2018-09-12 16:11:00 -04:00
 tags:
 - open data
