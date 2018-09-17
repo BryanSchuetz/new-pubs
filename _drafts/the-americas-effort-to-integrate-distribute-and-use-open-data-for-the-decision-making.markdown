@@ -15,7 +15,7 @@ The Center for Digital Acceleration participated August 6th-10th in the [AmeriGE
 
 ![Screen Shot 2018-09-12 at 2.14.19 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png)
 
-> *Alejandro Solis, ICT Specialist for the Center for Digital Acceleration, shared DAI’s experience developing Climate Information platforms and tools in Central America.*
+`Alejandro Solis, ICT Specialist for the Center for Digital Acceleration, shared DAI’s experience developing Climate Information platforms and tools in Central America.`
 
 [AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [GEO members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information”.
 
