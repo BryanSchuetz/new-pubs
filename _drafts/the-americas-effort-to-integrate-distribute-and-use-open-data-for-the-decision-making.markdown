@@ -26,7 +26,7 @@ The group found that the amount of data that the AmeriGEOSS members produce was 
 
 With this datahub they support the AmeriGEOSS framework that seeks to promote collaboration and coordination among the GEO members in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information.” **Certainly this is where the good intentions and technology meets to make things happen.**
 
-## **Open Data, Open Government, the connection with the Americas**
+## **Open Data, Open Government, the Connection with the Americas**
 
 With over 344.000 datasets, 37 organizations and 40 working groups, and a catalogue of maps, tools and applications for the decision making, the AmeriGEOSS Datahub presents itself as a good effort for data and geospatial information source for the Americas. Some of the applications available are:
 
@@ -44,8 +44,8 @@ Most of this information can be used directly in the navigator tool and / or dow
 
 The countries had uploaded a wide range of information in the platform for different sector purposes, that goes from risk management, health, cartography, transportation and many other. Many of the information available came from the current countries “open-data” efforts.
 
-## **The challenge: create community and engage the users**
+## **The challenge: Create Community and Engage the Users**
 
-The technology allow us to integrate information and data form multiple sources and dispose it and distribute it to a different channels (data visualization, Artificial Intelligence, , apps, maps, alerts, etc). The knowledge management and learning process represent a challenge to whom manage this platforms and this engagement will happen when we meet the user’s requirements, definitely AmeriGEOSS is going in the right direction but more efforts and interactions with the national and regional organizations have to happen.
+The the AmeriGEOSS  technology allow us to integrate information and data form multiple sources and distribute it via different channels (data visualization, artificial intelligence, apps, maps, alerts, etc). The knowledge management and learning process represent a challenge to those who manage these platforms. Better user engagement, and real user benefit, will happen when we meet the user’s requirements; definitely AmeriGEOSS is going in the right direction but more efforts and interactions with national and regional organizations have to happen in order to fully reap the technology's benefits at the human level.
 
-Few days ago, Google launch the [Google Dataset Search (Beta)](https://toolbox.google.com/datasetsearch) an interface that enables users to find datasets stored across thousands of repositories on the Web, making these datasets universally accessible and useful,  the contents in the AmeriGEOSS Datahub are already indexed, this will make sure the hub will be available to connect with the user in need of this information.
+A few days ago, Google launch the [Google Dataset Search (Beta), ](https://toolbox.google.com/datasetsearch)an interface that enables users to find datasets stored across thousands of repositories on the Web, making these datasets universally accessible and useful. The contents in the AmeriGEOSS Datahub are already indexed; the Google interface will make sure the hub is available to connect with the user in need of this information.
