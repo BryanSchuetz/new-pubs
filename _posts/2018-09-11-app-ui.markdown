@@ -1,6 +1,6 @@
 ---
 title: 'Thinking About the User Part I: Design Considerations for Mobile Apps'
-date: 2018-09-14 09:56:00 -04:00
+date: 2018-09-11 09:56:00 -04:00
 tags:
 - Human-centered design
 - UI/UX series
