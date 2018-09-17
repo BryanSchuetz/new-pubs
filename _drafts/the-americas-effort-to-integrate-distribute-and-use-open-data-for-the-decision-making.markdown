@@ -10,17 +10,17 @@ Author: Alejandro Solis
 thumbnail: 800 x 400
 ---
 
-The Center for Digital Acceleration has participated in August 6th- 10th in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil, sharing the experiences on how DAI has develop platforms and tools for decision making in Central America.
+The Center for Digital Acceleration participated August 6th-10th in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil, sharing the experiences on how DAI has develop platforms and tools for decision making in Central America.
 
 ![Screen Shot 2018-09-12 at 2.14.19 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png)
 
-> *Alejandro Solis, ICT Specialist of the Center for Digital Acceleration shared the DAI’s experience developing Climate Information platforms and tools in Central America.*
+> *Alejandro Solis, ICT Specialist for the Center for Digital Acceleration, shared DAI’s experience developing Climate Information platforms and tools in Central America.*
 
-[AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the GEO members in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information”.
+[AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [GEO members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information”.
 
-This group had met during in August at the [INPE (Brazilian Institute for the Space Research)](http://www.inpe.br), and had present the datahub and a large amount of data that had collected and shared through the [Datahub](https://data.amerigeoss.org).
+This group met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and presented the [Datahub](https://data.amerigeoss.org).
 
-## **Good starting point: Not starting from scratch**
+## **A Good Starting Point: Not Starting From Scratch**
 
 The group found that the amount of data that the AmeriGEOSS members produce was huge and requires an open storage and distribution tool. They choose [CKAN (Comprehensive Knowledge Archive Network)](https://ckan.org),  a web-based open source management system for the storage and distribution of open data. Being initially inspired by the package management capabilities of Debian Linux, CKAN has developed into a powerful data catalogue system that is mainly used by public institutions seeking to share their data with the general public.
 
