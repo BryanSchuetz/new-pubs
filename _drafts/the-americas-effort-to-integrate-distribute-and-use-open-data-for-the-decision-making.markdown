@@ -13,17 +13,15 @@ social-image: "/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png"
 thumbnail: 800 x 400/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png
 ---
 
-The Center for Digital Acceleration participated August 6th-10th in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil, sharing the experiences on how DAI has develop platforms and tools for decision making in Central America.
+I was happy to represent DAI's Center for Digital Acceleration in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil in August, sharing experiences of how DAI has develop platforms and tools for decision making in Central America.
 
 ![Screen Shot 2018-09-12 at 2.14.19 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png)
-
-`Alejandro Solis, ICT Specialist for the Center for Digital Acceleration, shared DAI’s experience developing Climate Information platforms and tools in Central America.`
 
 [AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [GEO members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information”.
 
 <!--more-->
 
-This group met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and presented the [Datahub](https://data.amerigeoss.org).
+We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and the AmeriGEOSS team presented the [Datahub](https://data.amerigeoss.org).
 
 ## **A Good Starting Point: Not Starting From Scratch**
 
