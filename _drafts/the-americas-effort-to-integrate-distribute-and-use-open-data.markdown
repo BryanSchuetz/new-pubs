@@ -24,7 +24,7 @@ We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.in
 
 ## A Good Starting Point: Not Starting From Scratch
 
-The group found that the amount of data that the AmeriGEOSS members produce was huge and requires an open storage and distribution tool. They choose [CKAN (Comprehensive Knowledge Archive Network)](https://ckan.org),  a web-based open source management system for the storage and distribution of open data. Being initially inspired by the package management capabilities of Debian Linux, CKAN has developed into a powerful data catalogue system that is mainly used by public institutions seeking to share their data with the general public.
+The group found that the amount of data that the AmeriGEOSS members produce was huge and requires an open storage and distribution tool. It chose the [Comprehensive Knowledge Archive Network (CKAN)](https://ckan.org), a web-based, open-source management system for the storage and distribution of open data. Being initially inspired by the package management capabilities of Debian Linux, CKAN has developed into a powerful data catalogue system that is mainly used by public institutions that share their data with the general public.
 
 With this datahub they support the AmeriGEOSS framework that seeks to promote collaboration and coordination among the GEO members in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information.” **Certainly this is where the good intentions and technology meets to make things happen.**
 
