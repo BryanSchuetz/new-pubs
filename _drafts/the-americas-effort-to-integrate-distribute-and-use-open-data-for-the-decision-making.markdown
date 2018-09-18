@@ -21,6 +21,8 @@ The Center for Digital Acceleration participated August 6th-10th in the [AmeriGE
 
 [AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [GEO members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information”.
 
+<!--more-->
+
 This group met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and presented the [Datahub](https://data.amerigeoss.org).
 
 ## **A Good Starting Point: Not Starting From Scratch**
