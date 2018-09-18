@@ -12,17 +12,17 @@ social-image: "/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png"
 thumbnail: 800 x 400/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png
 ---
 
-I was happy to represent DAI’s Center for Digital Acceleration in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil in August, sharing experiences of how DAI has develop platforms and tools for decision making in Central America.
+I was happy to represent DAI’s Center for Digital Acceleration in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) recently in Brazil, sharing experiences of how DAI has developed platforms and tools for decision-making in Central America.
 
 ![Screen Shot 2018-09-12 at 2.14.19 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png)
 
-[AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [GEO members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive and sustained Earth observations and information”.
-
 <!--more-->
+
+[AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [Group on Earth Observations (GEO) members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive, and sustained Earth observations and information.”
 
 We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and the AmeriGEOSS team presented the [Datahub](https://data.amerigeoss.org).
 
-## **A Good Starting Point: Not Starting From Scratch**
+## A Good Starting Point: Not Starting From Scratch
 
 The group found that the amount of data that the AmeriGEOSS members produce was huge and requires an open storage and distribution tool. They choose [CKAN (Comprehensive Knowledge Archive Network)](https://ckan.org),  a web-based open source management system for the storage and distribution of open data. Being initially inspired by the package management capabilities of Debian Linux, CKAN has developed into a powerful data catalogue system that is mainly used by public institutions seeking to share their data with the general public.
 
