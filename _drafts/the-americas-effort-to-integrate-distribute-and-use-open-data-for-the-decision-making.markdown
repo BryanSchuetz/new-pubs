@@ -10,7 +10,7 @@ tags:
 - geospatial
 Author: Alejandro Solis
 social-image: "/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png"
-thumbnail: 800 x 400
+thumbnail: 800 x 400/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png
 ---
 
 The Center for Digital Acceleration participated August 6th-10th in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) in Brazil, sharing the experiences on how DAI has develop platforms and tools for decision making in Central America.
