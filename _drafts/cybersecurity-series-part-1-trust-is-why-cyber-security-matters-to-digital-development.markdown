@@ -10,7 +10,7 @@ social-image: "/uploads/Cybersecurity.jpg"
 thumbnail: "/uploads/Cybersecurity.jpg"
 ---
 
-### *We're launching one of our final series for 2018, on cyber security, with this post on why it matters to development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!*
+We're launching one of our final series for 2018, on cyber security, with this post on why it matters to development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!
 
 ![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the [ABA Journal] (http://www.abajournal.com/news/article/97_of_cybersecurity_leaders_are_evaluating_vendor_security)
 
