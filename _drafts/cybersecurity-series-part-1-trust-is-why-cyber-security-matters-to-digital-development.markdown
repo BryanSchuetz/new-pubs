@@ -1,5 +1,5 @@
 ---
-title: 'Cybersecurity Series Part 1: Trust is Why Cyber Security Matters to Digital
+title: 'Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital
   Development'
 date: 2018-09-19 15:15:00 -04:00
 ---
@@ -11,6 +11,8 @@ But should we assume trust?
 The response following the misuse of personal data by [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html) or the hacking of [Equifax](https://money.cnn.com/2018/02/09/pf/equifax-hack-senate-disclosure/index.html), demonstrate that trust can be broken and doubt in digital tools can be proliferate.
 
 As development professionals committed to leveraging digital access and tools that provide services globally, we must take securing trust in digital tools more seriously. This will require us to focus on cyber security.
+
+<!--more-->
 
 Cyber security sounds daunting, particularly for people who associate the profession with dark rooms, humming computers, and coding expertise. This false impression, in my experience, stems from two misconceptions.
 
