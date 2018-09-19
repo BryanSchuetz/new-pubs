@@ -2,6 +2,7 @@
 title: 'Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital
   Development'
 date: 2018-09-19 15:15:00 -04:00
+Author: Galia Nurko
 ---
 
 *We're launching one of our final series for 2018, on cyber security, with this post on why it matters to development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!*
