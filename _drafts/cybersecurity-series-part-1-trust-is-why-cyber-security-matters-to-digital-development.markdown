@@ -1,6 +1,6 @@
 ---
-title: 'Cybersecurity Series Part 1: Trust is Why Cyber Security Matters to digital
-  development'
+title: 'Cybersecurity Series Part 1: Trust is Why Cyber Security Matters to Digital
+  Development'
 date: 2018-09-19 15:15:00 -04:00
 ---
 
