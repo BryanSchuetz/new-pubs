@@ -16,19 +16,19 @@ As development professionals committed to leveraging digital access and tools th
 
 Cyber security sounds daunting, particularly for people who associate the profession with dark rooms, humming computers, and coding expertise. This false impression, in my experience, stems from two misconceptions.
 
-First, is the assumption that cyber security is too technical and therefore too difficult for non-techy’s to understand. Second, is the misunderstanding that cyber security is too difficult or costly to address when thinking about development initiatives. Both are false. But before getting into why they are false, lets zoom out and start with the basics.
+First is the assumption that cyber security is too technical and therefore too difficult for non-techy’s to understand. Second is the misunderstanding that cyber security is too difficult or costly to address when thinking about development initiatives. Both are false. But before getting into why they are false, lets zoom out and start with the basics.
 
-To get to the heart of the matter, I spent an afternoon talking to Zach Gieske [\[GN1\]](#_msocom_1) a cyber security consultant to give me a rundown on the subject.
+To get to the heart of the matter, I spent an afternoon talking to [Zach Gieske](https://www.linkedin.com/in/zachgieske/), a cyber security consultant to give me a rundown on the subject.
 
-We started with the most basic of questions. *What is cybersecurity? *Zach defines cyber security as “the protection of information from misuse and unauthorized access in the digital space, given that today most information is in digital form.” The definition is comparable to that of the[ Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/cybersecurity). Yet, to the average person working in development, what does this definition really mean for their day-today activities?
+We started with the most basic of questions. *What is cybersecurity?* Zach defines cyber security as “the protection of information from misuse and unauthorized access in the digital space, given that today most information is in digital form.” The definition is comparable to that of the[ Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/cybersecurity). Yet, to the average person working in development, what does this definition really mean for their day-today activities?
 
 To understand that thread, Zach spent some time breaking down cyber security into its separate components. The exercise demonstrated to me what it actually means at a practical level and where there are opportunities to make a difference. Here is what I understood.
 
 Cyber security breaks down into two specific components:
 
-1) Access
+**1) Access**
 
-2) Storage
+**2) Storage**
 
 Access, in this case, is different than how we in the digital development community[ understand it](https://www.igi-global.com/dictionary/beyond-digital-divide/7557). When we are thinking about access for cyber security, it specifically means how do people get the data they are seeking.
 
@@ -44,4 +44,4 @@ Adding resiliency measures to that design process can come at no added significa
 
 By investing in these capacity building and governance measures surrounding the use and access of digital tools, we as digital development professionals can ensure that we do not inadvertently erode trust in the tools we believe have the potential to increase access to critical services for more people globally.
 
-Part 2 of this mini-series will delve into the cyber security topic further.
+Part 2 of this mini-series will delve into the cyber security topic further, looking at the implications of cyber security on digital infrastructure.
