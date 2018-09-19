@@ -4,6 +4,7 @@ title: 'Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Dig
 date: 2018-09-19 15:15:00 -04:00
 ---
 
+*We're launching one of our final series for 2018, on cyber security, with this post on why it matters to development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!*
 At the heart of the Center for Digital Acceleration is a fundamental belief that digital tools can increase access to services for underserved communities around the world. Coupled with that aspiration is our investment in human-centered design, ecosystem mapping, and an assumption that trust in digital tools is a given.
 
 But should we assume trust?
