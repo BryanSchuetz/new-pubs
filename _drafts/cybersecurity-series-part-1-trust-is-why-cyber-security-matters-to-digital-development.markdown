@@ -12,9 +12,9 @@ thumbnail: "/uploads/Cybersecurity.jpg"
 
 We're launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!
 
-![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the [ABA Journal] (http://www.abajournal.com/news/article/97_of_cybersecurity_leaders_are_evaluating_vendor_security)
+![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the [ABA Journal.] (http://www.abajournal.com/news/article/97_of_cybersecurity_leaders_are_evaluating_vendor_security)
 
-At the heart of the Center for Digital Acceleration is a fundamental belief that digital tools can increase access to services for underserved communities around the world. Coupled with that aspiration is our investment in human-centered design, ecosystem mapping, and an assumption that trust in digital tools is a given.
+At the heart of DAI's Center for Digital Acceleration is a fundamental belief that digital tools can increase access to services for underserved communities around the world. Coupled with that aspiration is our investment in human-centered design, ecosystem mapping, and an assumption that trust in digital tools is a given.
 
 But should we assume trust?
 
