@@ -10,13 +10,13 @@ social-image: "/uploads/Cybersecurity.jpg"
 thumbnail: "/uploads/Cybersecurity.jpg"
 ---
 
-We're launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!
+We’re launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!
 
 ![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the [ABA Journal.] (http://www.abajournal.com/news/article/97_of_cybersecurity_leaders_are_evaluating_vendor_security)
 
 <!--more-->
 
-At the heart of DAI's Center for Digital Acceleration is a fundamental belief that digital tools can increase access to services for underserved communities around the world. Coupled with that aspiration is our investment in human-centered design, ecosystem mapping, and an assumption that trust in digital tools is a given.
+At the heart of DAI’s Center for Digital Acceleration is a fundamental belief that digital tools can increase access to services for underserved communities around the world. Coupled with that aspiration is our investment in human-centered design, ecosystem mapping, and an assumption that trust in digital tools is a given.
 
 But should we assume trust?
 
@@ -45,7 +45,7 @@ Access, in this case, is different than how we in the digital development commun
 
 Storage, then, refers to the back-end of these systems, where the data we are sharing or the data we are requesting is being warehoused.
 
-We interact with these components of cyber security every day. Think of your morning routine at work. You walk into the office and almost immediately login to your computer. Why? Because the computer is the portal to all the relevant information you might need to complete your tasks. You’re granted access to this, by providing your key- your login and password.
+We interact with these components of cyber security every day. Think of your morning routine at work. You walk into the office and almost immediately login to your computer. Why? Because the computer is the portal to all the relevant information you might need to complete your tasks. You’re granted access to this, by providing your login and password.
 
 Once you’ve entered that information, you automatically trust that the information you are requesting or the people you are communicating with via email are the individuals they say they are. We trust that the system is protected.
 
