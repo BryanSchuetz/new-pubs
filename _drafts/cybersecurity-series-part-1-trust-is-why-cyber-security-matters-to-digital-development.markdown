@@ -37,9 +37,8 @@ To understand, Zach spent some time breaking down cyber security into its separa
 
 Cyber security breaks down into two specific components:
 
-**1) Access**
-
-**2) Storage**
+1) Access
+2) Storage
 
 Access, in this case, is different than how we in the digital development community [understand it](https://www.igi-global.com/dictionary/beyond-digital-divide/7557). When we are thinking about access for cyber security, it specifically means how do people get the data they are seeking.
 
