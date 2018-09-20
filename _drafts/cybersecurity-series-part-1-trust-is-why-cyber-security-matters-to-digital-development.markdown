@@ -12,7 +12,7 @@ thumbnail: "/uploads/Cybersecurity.jpg"
 
 We’re launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and [subscribe to our newsletter](https://confirmsubscription.com/h/r/066AFBA15492935C) if this topic interests you!
 
-![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the ABA Journal.
+![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the ABA Journal.`
 
 <!--more-->
 
