@@ -14,25 +14,26 @@ We're launching one of our final series for 2018 on cyber security with this pos
 
 ![Cybersecurity.jpg](/uploads/Cybersecurity.jpg)`Photo from the [ABA Journal.] (http://www.abajournal.com/news/article/97_of_cybersecurity_leaders_are_evaluating_vendor_security)
 
+<!--more-->
+
 At the heart of DAI's Center for Digital Acceleration is a fundamental belief that digital tools can increase access to services for underserved communities around the world. Coupled with that aspiration is our investment in human-centered design, ecosystem mapping, and an assumption that trust in digital tools is a given.
 
 But should we assume trust?
 
-The response following the misuse of personal data by [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html) or the hacking of [Equifax](https://money.cnn.com/2018/02/09/pf/equifax-hack-senate-disclosure/index.html), demonstrate that trust can be broken and doubt in digital tools can be proliferate.
+The response following the misuse of personal data by [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html) or the hacking of [Equifax](https://money.cnn.com/2018/02/09/pf/equifax-hack-senate-disclosure/index.html), demonstrate that trust can be broken and doubt in digital tools can proliferate.
 
-As development professionals committed to leveraging digital access and tools that provide services globally, we must take securing trust in digital tools more seriously. This will require us to focus on cyber security.
+As development professionals committed to leveraging digital access and tools that provide services globally, we must take the concept of securing trust more seriously. This will require us to focus on cyber security.
 
-<!--more-->
 
 Cyber security sounds daunting, particularly for people who associate the profession with dark rooms, humming computers, and coding expertise. This false impression, in my experience, stems from two misconceptions.
 
-First is the assumption that cyber security is too technical and therefore too difficult for non-techy’s to understand. Second is the misunderstanding that cyber security is too difficult or costly to address when thinking about development initiatives. Both are false. But before getting into why they are false, lets zoom out and start with the basics.
+First is the assumption that cyber security is too technical and therefore too difficult for nontechies to understand. Second is the misunderstanding that cyber security is too costly to address when thinking about development initiatives. Both misperceptions are false. But before getting into why, let's zoom out and start with the basics.
 
-To get to the heart of the matter, I spent an afternoon talking to [Zach Gieske](https://www.linkedin.com/in/zachgieske/), a cyber security consultant to give me a rundown on the subject.
+To get to the heart of the matter, I spent an afternoon talking to [Zach Gieske](https://www.linkedin.com/in/zachgieske/), a cyber security consultant.
 
-We started with the most basic of questions. *What is cybersecurity?* Zach defines cyber security as “the protection of information from misuse and unauthorized access in the digital space, given that today most information is in digital form.” The definition is comparable to that of the[ Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/cybersecurity). Yet, to the average person working in development, what does this definition really mean for their day-today activities?
+We started with the most basic of questions. *What is cybersecurity?* Zach defines cyber security as “the protection of information from misuse and unauthorized access in the digital space, given that today most information is in digital form.” The definition is comparable to that of the[ Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/cybersecurity). Yet, to the average person working in international development, what does this definition really mean for their day-to-day activities?
 
-To understand that thread, Zach spent some time breaking down cyber security into its separate components. The exercise demonstrated to me what it actually means at a practical level and where there are opportunities to make a difference. Here is what I understood.
+To understand, Zach spent some time breaking down cyber security into its separate components. The exercise demonstrated to me what it actually means at a practical level and where there are opportunities to make a difference. Here is what I understood:
 
 Cyber security breaks down into two specific components:
 
@@ -40,9 +41,9 @@ Cyber security breaks down into two specific components:
 
 **2) Storage**
 
-Access, in this case, is different than how we in the digital development community[ understand it](https://www.igi-global.com/dictionary/beyond-digital-divide/7557). When we are thinking about access for cyber security, it specifically means how do people get the data they are seeking.
+Access, in this case, is different than how we in the digital development community [understand it](https://www.igi-global.com/dictionary/beyond-digital-divide/7557). When we are thinking about access for cyber security, it specifically means how do people get the data they are seeking.
 
-Storage, then refers to the back-end of these systems, where the data we are sharing or the data we are requesting is being warehoused.
+Storage, then, refers to the back-end of these systems, where the data we are sharing or the data we are requesting is being warehoused.
 
 We interact with these components of cyber security every day. Think of your morning routine at work. You walk into the office and almost immediately login to your computer. Why? Because the computer is the portal to all the relevant information you might need to complete your tasks. You’re granted access to this, by providing your key- your login and password.
 
