@@ -9,7 +9,7 @@ social-image: "/uploads/concordia.jpeg"
 thumbnail: "/uploads/concordia.jpeg"
 ---
 
-We’re so excited to announce that [Kosmos Innovation Center Ghana](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) -- the Kosmos Energy-funded project that DAI helps implement – was [announced the winner](https://wirenews.org/press-release/kosmos-innovation-center-wins-2018-p3-impact-award/) of the 2018 P3 Impact Award at the annual Concordia Summit in New York. 
+We’re so excited to announce that [Kosmos Innovation Center Ghana](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) -- the Kosmos Energy-funded project that DAI helps implement – was [announced the winner](https://wirenews.org/press-release/kosmos-innovation-center-wins-2018-p3-impact-award/) of the 2018 P3 Impact Award at the annual [Concordia Summit](/uploads/concordia.jpeg) in New York. 
 
 ![concordia.jpeg](/uploads/concordia.jpeg)
 
