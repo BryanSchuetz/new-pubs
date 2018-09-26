@@ -1,6 +1,7 @@
 ---
 title: Kosmos Innovation Center wins 2018 P3 Impact Award
 date: 2018-09-26 11:46:00 -04:00
+published: false
 tags:
 - Agriculture
 - Entrepreneurship
