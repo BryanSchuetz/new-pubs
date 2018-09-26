@@ -9,7 +9,7 @@ social-image: "/uploads/concordia.jpeg"
 thumbnail: "/uploads/concordia.jpeg"
 ---
 
-We’re so excited that the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic)—the Kosmos Energy-funded project DAI helps implement in Ghana—was [announced the winner](https://www.state.gov/r/pa/prs/ps/2018/09/286218.htm) of the 2018 P3 Impact Award at the annual [Concordia Summit](/uploads/concordia.jpeg) in New York. 
+We’re so excited that the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic)—the Kosmos Energy-funded project DAI helps implement in Ghana—was [announced the winner](https://www.state.gov/r/pa/prs/ps/2018/09/286218.htm) of the 2018 P3 Impact Award at the annual [Concordia Summit](https://www.concordia.net/annualsummit/2018annualsummit/) in New York, that takes place alongside the United Nations General Assembly.
 
 ![concordia.jpeg](/uploads/concordia.jpeg)`Representatives of KIC at the Concordia Summit in New York. From left, Lauren Berry, Director of Social Performance at Kosmos Energy, George Sarpong, Director of the KIC, and Dipika Chawla, Principal Specialist in corporate social investment at DAI.`
 
