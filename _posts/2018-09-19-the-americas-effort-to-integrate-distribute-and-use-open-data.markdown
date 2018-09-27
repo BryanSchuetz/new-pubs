@@ -31,12 +31,12 @@ With more than 344,000 datasets, 37 organizations and 40 working groups, and a c
 
 * [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) Explorer: An application demonstrating analysis of Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. The imagery is sourced from Sentinel-2 on AWS. This application is in beta release.
 
-* [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) 2 (NDVI): Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. This Imagery Layer is sourced from the Sentinel-2 on AWS collections and is updated daily with new imagery.
+* [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) 2 (NDVI): Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. This imagery is sourced from the Sentinel-2 and is updated daily.
 
-* Imagery – [Landsat8](https://landsat.usgs.gov/landsat-8): The most recent imagery from Landsat 8. This band combination (6 5 2) is good for agricultural studies, as healthy vegetation will appear bright green.
+* Imagery – [Landsat8](https://landsat.usgs.gov/landsat-8): The most recent imagery from Landsat 8. This band combination (6 5 2) is good for agricultural studies, as healthy vegetation appears bright green.
 
 ![Screen Shot 2018-09-12 at 2.58.24 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.58.24%20PM.png)
-`The hub has more than 344 thousand datasets, which are included by GEO members.`
+`The Datahub has more than 344,000 datasets.`
 
 Most of this information can be used directly in the navigator tool and / or download it for other purposes, and the best… is free.
 
