@@ -19,7 +19,7 @@ I was happy to represent DAI’s Center for Digital Acceleration at [AmeriGEOSS 
 
 We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and the AmeriGEOSS team presented its [Datahub](https://data.amerigeoss.org).
 
-## A Good Starting Point: Not Starting From Scratch
+## A Good Starting Point
 
 The group found that the amount of data that the AmeriGEOSS members produce was huge and requires an open storage and distribution tool. It chose the [Comprehensive Knowledge Archive Network (CKAN)](https://ckan.org), a web-based, open-source management system for the storage and distribution of open data. Being initially inspired by the package management capabilities of Debian Linux, CKAN has developed into a powerful data catalogue system that is mainly used by public institutions that share their data with the general public.
 
