@@ -1,12 +1,8 @@
 ---
 title: The Americas’ Effort to Integrate, Distribute, and Use Open Data to Make Decisions
 date: 2018-09-19 16:11:00 -04:00
-categories:
-- Data
 tags:
-- open data
-- knowledge management
-- geospatial
+- Data
 Author: Alejandro Solis
 social-image: "/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png"
 thumbnail: 800 x 400/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png
