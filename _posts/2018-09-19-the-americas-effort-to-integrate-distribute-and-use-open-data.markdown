@@ -45,5 +45,3 @@ Most of this information can be used directly in the navigator tool or downloade
 The AmeriGEOSS technology allow us to integrate information and data from multiple sources and distribute it via different channels (data visualization, artificial intelligence, apps, maps, alerts, etc). The knowledge management and learning process represent a challenge to those who manage these platforms. Better user engagement, and real user benefit, will happen when we meet the user’s requirements. 
 
 AmeriGEOSS is heading in the right direction but more efforts and interactions with national and regional organizations must happen for humans to fully reap the technology's benefits.
-
-A few days ago, Google launch the [Google Dataset Search (Beta), ](https://toolbox.google.com/datasetsearch)an interface that enables users to find datasets stored across thousands of repositories on the Web, making these datasets universally accessible and useful. The contents in the AmeriGEOSS Datahub are already indexed; the Google interface will make sure the hub is available to connect with the user in need of this information.
