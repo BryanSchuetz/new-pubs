@@ -9,7 +9,7 @@ social-image: "/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png"
 thumbnail: 800 x 400/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png
 ---
 
-I was happy to represent DAI’s Center for Digital Acceleration in the [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) recently in Brazil, sharing experiences of how DAI has developed platforms and tools for decision-making in Central America.
+I was happy to represent DAI’s Center for Digital Acceleration at [AmeriGEOSS week](https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html) recently in Brazil, sharing experiences of how DAI has developed platforms and tools for decision-making in Central America.
 
 ![Screen Shot 2018-09-12 at 2.14.19 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png)
 
