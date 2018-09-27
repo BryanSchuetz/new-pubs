@@ -38,7 +38,7 @@ With more than 344,000 datasets, 37 organizations and 40 working groups, and a c
 ![Screen Shot 2018-09-12 at 2.58.24 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.58.24%20PM.png)
 `The Datahub has more than 344,000 datasets.`
 
-Most of this information can be used directly in the navigator tool and / or download it for other purposes, and the best… is free.
+Most of this information can be used directly in the navigator tool or downloaded for other purposes, and the best… is free.
 
 The countries had uploaded a wide range of information in the platform for different sector purposes, that goes from risk management, health, cartography, transportation and many other. Many of the information available came from the current countries “open-data” efforts.
 
