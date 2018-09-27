@@ -25,11 +25,11 @@ The group found that the amount of data that AmeriGEOSS members produce was mass
 
 ## Open Data, Open Government, the Connection with the Americas
 
-With more than 344,000 datasets, 37 organizations and 40 working groups, and a catalogue of maps, tools, and applications for decision-making, the AmeriGEOSS Datahub is a good effort for data and geospatial information source for the Americas. Its applications include:
+With more than 344,000 datasets, 37 organizations, 40 working groups, and a catalogue of maps, tools, and applications for decision-making, the AmeriGEOSS Datahub is a good effort for data and geospatial information source for the Americas. Its applications include:
 
 * EcoExplorer: A web application that allows you to explore the data underlying the World Ecophysiography Map.
 
-* [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) Explorer: An application demonstrating analysis of Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. The imagery is sourced from Sentinel-2 on AWS. This application is in beta release.
+* [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) Explorer: An application demonstrating analysis of Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. The imagery is sourced from Sentinel-2. This application is in beta release.
 
 * [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) 2 (NDVI): Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. This imagery is sourced from the Sentinel-2 and is updated daily.
 
