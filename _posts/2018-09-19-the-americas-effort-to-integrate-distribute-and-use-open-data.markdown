@@ -23,9 +23,9 @@ We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.in
 
 The group found that the amount of data that AmeriGEOSS members produce was massive and required an open storage and distribution tool. It chose the [Comprehensive Knowledge Archive Network (CKAN)](https://ckan.org), a web-based, open-source management system for storing and distributing open data. Being initially inspired by the package management capabilities of Debian Linux, CKAN has developed into a powerful data catalogue system that is mainly used by public institutions that share their data with the general public.
 
-## **Open Data, Open Government, the Connection with the Americas**
+## Open Data, Open Government, the Connection with the Americas
 
-With over 344.000 datasets, 37 organizations and 40 working groups, and a catalogue of maps, tools and applications for the decision making, the AmeriGEOSS Datahub presents itself as a good effort for data and geospatial information source for the Americas. Some of the applications available are:
+With more than 344,000 datasets, 37 organizations and 40 working groups, and a catalogue of maps, tools and applications for the decision making, the AmeriGEOSS Datahub presents itself as a good effort for data and geospatial information source for the Americas. Some of the applications available are:
 
 * EcoExplorer: A web application that allows you to explore the data underlying the World Ecophysiography Map.
 
