@@ -33,7 +33,7 @@ With more than 344,000 datasets, 37 organizations, 40 working groups, and a cata
 
 * [Sentinel](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2) 2 (NDVI): Sentinel-2, 10m Multispectral, Multitemporal, 13-band images with visual renderings and indices. This imagery is sourced from the Sentinel-2 and is updated daily.
 
-* Imagery – [Landsat8](https://landsat.usgs.gov/landsat-8): The most recent imagery from Landsat 8. This band combination (6 5 2) is good for agricultural studies, as healthy vegetation appears bright green.
+* Imagery—[Landsat8](https://landsat.usgs.gov/landsat-8): The most recent imagery from Landsat 8. This band combination (6-5-2) is good for agricultural studies, as healthy vegetation appears bright green.
 
 ![Screen Shot 2018-09-12 at 2.58.24 PM.png](/uploads/Screen%20Shot%202018-09-12%20at%202.58.24%20PM.png)
 `The Datahub has more than 344,000 datasets.`
