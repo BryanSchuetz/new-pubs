@@ -25,7 +25,7 @@ The group found that the amount of data that AmeriGEOSS members produce was mass
 
 ## Open Data, Open Government, the Connection with the Americas
 
-With more than 344,000 datasets, 37 organizations and 40 working groups, and a catalogue of maps, tools, and applications for decision-making, the AmeriGEOSS Datahub is a good effort for data and geospatial information source for the Americas. Some of its applications inlcude:
+With more than 344,000 datasets, 37 organizations and 40 working groups, and a catalogue of maps, tools, and applications for decision-making, the AmeriGEOSS Datahub is a good effort for data and geospatial information source for the Americas. Its applications include:
 
 * EcoExplorer: A web application that allows you to explore the data underlying the World Ecophysiography Map.
 
