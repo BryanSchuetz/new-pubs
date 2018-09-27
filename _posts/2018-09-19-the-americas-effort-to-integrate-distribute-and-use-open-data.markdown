@@ -17,7 +17,7 @@ I was happy to represent DAI’s Center for Digital Acceleration at [AmeriGEOSS 
 
 [AmeriGEOSS](https://www.amerigeoss.org/amerigeoss/index_html) is a framework that seeks to promote collaboration and coordination among the [Group on Earth Observations (GEO) members](https://www.earthobservations.org/members.php) in the American continent, “to realize a future wherein decisions and actions, for the benefit of the region, are informed by coordinated, comprehensive, and sustained Earth observations and information.”
 
-We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and the AmeriGEOSS team presented the [Datahub](https://data.amerigeoss.org).
+We met at the [INPE (Brazilian Institute for the Space Research) ](http://www.inpe.br)and the AmeriGEOSS team presented its [Datahub](https://data.amerigeoss.org).
 
 ## A Good Starting Point: Not Starting From Scratch
 
