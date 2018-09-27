@@ -40,9 +40,7 @@ With more than 344,000 datasets, 37 organizations and 40 working groups, and a c
 
 Most of this information can be used directly in the navigator tool or downloaded for other purposes, and the best… is free.
 
-The countries had uploaded a wide range of information in the platform for different sector purposes, that goes from risk management, health, cartography, transportation and many other. Many of the information available came from the current countries “open-data” efforts.
-
-## **The challenge: Create Community and Engage the Users**
+## The challenge: Create Community and Engage the Users
 
 The the AmeriGEOSS  technology allow us to integrate information and data form multiple sources and distribute it via different channels (data visualization, artificial intelligence, apps, maps, alerts, etc). The knowledge management and learning process represent a challenge to those who manage these platforms. Better user engagement, and real user benefit, will happen when we meet the user’s requirements; definitely AmeriGEOSS is going in the right direction but more efforts and interactions with national and regional organizations have to happen in order to fully reap the technology's benefits at the human level.
 
