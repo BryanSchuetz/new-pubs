@@ -12,6 +12,8 @@ social-image: "/uploads/Screen%20Shot%202018-06-19%20at%209.26.30%20AM.png"
 
 Del 2010 al 2014, el grano de café de América Central sufrió una enfermedad que sacudió las economías de la región. Las exportaciones disminuyeron en un 55 por ciento. De 2012 a 2013, se perdieron 374,000 empleos correspondiente al 17 por ciento de la fuerza de trabajo.  **La Roya**, o [roya del café](http://www.bbc.com/future/story/20171106-the-disease-that-could-change-how-we-drink-coffee), amenazaba los medios de subsistencia de [casi 2 millones](https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/ib-coffee-rust-employment-collapse-central-america-140814-en.pdf).
 
+<!--more-->
+
 La roya del café es una enfermedad fúngica que cubre las hojas y evita la fotosíntesis, limitando lentamente la capacidad de las plantas para procesar la luz solar, reduciendo el rendimiento del grano y finalmente matando de hambre a la planta. Las condiciones más cálidas y húmedas causadas por el cambio climático crean un mejor ecosistema para que crezca el hongo. Su impacto en las economías centroamericanas es significativo ya que las exportaciones de café son la mayor fuente de ingresos de la región y el café beneficia a una vasta cadena de suministros que a su vez apoya a docenas de industrias adyacentes.
 
 ![chart-export.png](/uploads/chart-export.png)
