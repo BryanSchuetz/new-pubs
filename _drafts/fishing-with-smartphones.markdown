@@ -15,6 +15,7 @@ Much has been written about the digital divide and the failure of ICT to meet th
 In Central America, some of those ‘left behind’ include more than 135,000 fishermen. Without access to vital information about how climate change affects fishing, their very livelihoods are under threat. [$625 million in losses](https://www.nacion.com/ciencia/medio-ambiente/cambio-climatico-golpea-pesca-artesanal-en-litorales-centroamericanos/PMD2I4PAQRAJVPHFR6MCYBDDCY/story/).
 
 ![blog.PNG](/uploads/blog.PNG)
+`Clima Pesca started as a PDF file and now is a multi-channel solution.`
 
 As part of the team on the [USAID Central America Regional Climate Change Program](https://www.dai.com/our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de), DAI set about to give these fishermen a digital boost and provide them with climate information to make better decisions about their livelihoods.
 
@@ -31,6 +32,7 @@ The top priority was not creating a new app for the sake of something new, but r
 The Central America Fisheries and Aquaculture Organization (OSPESCA) led efforts to generate information for fishermen back in 2013 by creating the Clima Pesca newsletter, sent via email. While the newsletter had excellent content and used appropriate language for fishermen, it was not reaching them; most likely, few of them had email accounts.
 
 ![pantalla.PNG](/uploads/pantalla.PNG)
+`The app tours were animated this helps the fisherman and fisherwoman to understand climate data. `
 
 DAI initiated an interactive design process, in which we discovered most users had mobile phones and could readily access information via the phone or websites. Those original 2,700 email subscribers leapt to more than 8,000 interactions per month by users through multiple, more accessible channels.
 
