@@ -8,6 +8,7 @@ tags:
 - Data Visualization
 - Fisheries
 Author: Alejandro Solis
+social-image: "/uploads/blog.PNG"
 ---
 
 Much has been written about the digital divide and the failure of ICT to meet the needs of the poorest users. As World Bank President [Jim Kim says](https://www.worldbank.org/en/news/speech/2018/02/26/speech-by-world-bank-group-president-jim-yong-kim-at-the-gsma-2018-mobile-world-congress), “We must continue to connect all people so that no one is left behind … because the loss of opportunities has a very high cost.”
