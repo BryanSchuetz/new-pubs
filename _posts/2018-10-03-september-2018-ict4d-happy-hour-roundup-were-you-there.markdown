@@ -36,13 +36,13 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ## Human-Centered Design for Development (HCD4D)
 
-![Image from iOS (14).jpg](/uploads/Image%20from%20iOS%20(14).jpg)
+![Image from iOS (14).jpg](/uploads/Image%20from%20iOS%20(14).jpg)`(L to R) Gina Assaf from Souktel, Priyanka Pathak from Dalberg, and Ayan Kishore from Creative Associates presenting to the group`
 
 **What’s the general concept?** HCD4D is the newest of DC’s ICT4D happy hours. It’s run by a group of designers and aims to elevate the practice of human-centered design in the international development space. The founders believe that good design hinges on a deep understanding of how a specific population uses technology, sees itself, and sees its social context, and the happy hour is focused on learning and best practices. 
 
 **What was this one about?** The inaugural event was a discussion of what the distinctions are between designing for domestic or commercial clients, and designing for international development programs. 
 
-**Who was there?** [Souktel](http://www.souktel.org/), [Creative Associates](https://www.creativeassociatesinternational.com/), [Dalberg](https://www.dalberg.com/), IREX, DAI, as well as designers from a variety of local tech companies and government agencies.
+**Who was there?** [Souktel](http://www.souktel.org/), [Creative Associates](https://www.creativeassociatesinternational.com/), [Dalberg](https://www.dalberg.com/), [Forum One](https://forumone.com/), IREX, DAI, as well as designers from a variety of tech companies and government agencies.
 
 **Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
