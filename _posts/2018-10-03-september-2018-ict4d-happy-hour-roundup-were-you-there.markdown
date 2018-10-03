@@ -7,9 +7,6 @@ tags:
 Author: Adam Fivenson
 ---
 
-![ict4drinks.jpg](/uploads/ict4drinks.jpg)
-`The crowd at September's ICT4Drinks`
-
 Happy hours are the sinew of the ICT4D community: they’re how we connect. For a few hours each month, we put aside the titles, the affiliations, the competition, and enjoy each other’s company and a few drinks. 
 
 September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened; Hopefully you’ll join us for the next one! 
@@ -17,6 +14,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 ## ICT4Drinks
 
 **What’s the general concept?** Imagine Facebook, but instead of everyone meeting in a virtual space when it’s convenient for them, everyone meets in a physical space at the same time! (Strange concept—I know—but stick with me.) That’s ICT4Drinks for the DC ICT4D community; everyone’s there! TechChange’s Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next. It’s also the place to let it be known that the latest ICT4D buzz concept is obviously [horse puckey](https://www.urbandictionary.com/define.php?term=horse-puckey); why implementer Y shouldn’t have won that grant (and why you should have); and what the tea leaves say about donor X’s funding priorities next year.
+
 **What was this one about?** TechChange and DAI co-hosted the September event, which focused on next generation development professionals, as per the [recent article by Devex](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) on the same subject. 
 
 **Who was there?** A broad cross section of people representing implementers, donors, ICT4D Specialists, aspiring ICT4D professionals, students, and this all-star crew:
@@ -48,4 +46,5 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
-**Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of DC? [Let me know!](mailto:adam_fivenson@dai.com)**
+
+*Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of DC? [Let me know!](mailto:adam_fivenson@dai.com)*
