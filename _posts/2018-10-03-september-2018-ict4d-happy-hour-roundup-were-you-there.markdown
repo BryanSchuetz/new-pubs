@@ -8,6 +8,7 @@ Author: Adam Fivenson
 ---
 
 ![ict4drinks.jpg](/uploads/ict4drinks.jpg)
+`The crowd at September's ICT4Drinks`
 
 Happy hours are the sinew of the ICT4D community: they’re how we connect. For a few hours each month, we put aside the titles, the affiliations, the competition, and enjoy each other’s company and a few drinks. 
 
