@@ -47,4 +47,4 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
-**Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of DC? Let me know!**
+**Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of DC? [Let me know!](mailto:adam_fivenson@dai.com)**
