@@ -9,7 +9,9 @@ Author: Adam Fivenson
 
 ![ict4drinks.jpg](/uploads/ict4drinks.jpg)
 
-Happy hours are the sinew of the ICT4D community: they’re how we connect. For a few hours each month, we put aside the titles, the affiliations, the competition, and enjoy each other’s company and a few drinks. September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened; Hopefully you’ll join us for the next one! 
+Happy hours are the sinew of the ICT4D community: they’re how we connect. For a few hours each month, we put aside the titles, the affiliations, the competition, and enjoy each other’s company and a few drinks. 
+
+September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened; Hopefully you’ll join us for the next one! 
 
 ## ICT4Drinks
 
