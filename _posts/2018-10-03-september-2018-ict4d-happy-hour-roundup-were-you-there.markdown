@@ -22,14 +22,14 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ![ict4drinks2.jpg](/uploads/ict4drinks2.jpg) `(L to R) Talia Dweck, Adam Fivenson, Krista Baptista, Karim Bin-Humam, and Greg Maly, part of DAI’s Center for Digital Acceleration`
 
-**Sign up for the next one:** http://ict4drinks.com/ 
+**Sign up for the next one:** [Join the email list](http://ict4drinks.com/)
 
 ## Technology for Democracy (tech4dem)
 
-![tech4dem.jpeg](/uploads/tech4dem.jpeg)
-
 **What’s the general concept?** Technology for Democracy is a bi-monthly gathering of technologists who are working with governments, activists, businesses, and multilaterals to improve the quality of representative government around the world. It’s a more niche audience, as compared to the ICT4Drinks crew, and is centered around a brief technical presentation from an expert, as well as a brief Q&A. 
 **What was this one about?** tech4dem hosted Julio Herrera, the Director of [Red Ciudadana](http://redciudadana.org/) (Human Network), a Guatemalan non-profit that uses open data and web apps to engage the public around critical issues of governance, transparency and accountability. 
+
+![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana's open data work in Guatemala`
 
 **Who was there?** Technology for Democracy is popular with the National Endowment for Democracy organizations, which include the National Democratic Institute, the International Republican Institute (both sponsors), the Center for International Private Enterprise, the Center for International Media Assistance, as well as IREX and DAI (the other two sponsoring organizations), as well as a wide range of free press and good governance-oriented organizations, consultants, and experts. 
 
@@ -40,9 +40,11 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 ![Image from iOS (14).jpg](/uploads/Image%20from%20iOS%20(14).jpg)
 
 **What’s the general concept?** HCD4D is the newest of DC’s ICT4D happy hours. It’s run by a group of designers and aims to elevate the practice of human-centered design in the international development space. The founders believe that good design hinges on a deep understanding of how a specific population uses technology, sees itself, and sees its social context, and the happy hour is focused on learning and best practices. 
+
 **What was this one about?** The inaugural event was a discussion of what the distinctions are between designing for domestic or commercial clients, and designing for international development programs. 
+
 **Who was there?** Souktel, Creative Associates, Dalberg Associates, IREX, DAI, as well as designers from a variety of local tech companies and government agencies.  
 
-**Sign up for the next one:** [Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
+**Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
 **Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of DC? Let me know!**
