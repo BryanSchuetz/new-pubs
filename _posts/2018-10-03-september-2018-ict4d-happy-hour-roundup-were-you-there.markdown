@@ -13,7 +13,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ## ICT4Drinks
 
-**What’s the general concept?** Imagine Facebook, but instead of everyone meeting in a virtual space when it’s convenient for them, everyone meets in a physical space at the same time! (Strange concept—I know—but stick with me.) That’s ICT4Drinks for the DC ICT4D community; everyone’s there! TechChange’s Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next. It’s also the place to let it be known that the latest ICT4D buzz concept is obviously [horse puckey](https://www.urbandictionary.com/define.php?term=horse-puckey); why implementer Y shouldn’t have won that grant (and why you should have); and what the tea leaves say about donor X’s funding priorities next year.
+**What’s the general concept?** Imagine Facebook, but instead of everyone meeting in a virtual space when it’s convenient for them, everyone meets in a physical space at the same time! (Strange concept—I know—but stick with me.) That’s ICT4Drinks for the DC ICT4D community; everyone’s there! [TechChange’s](https://www.techchange.org/) Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next. It’s also the place to let it be known that the latest ICT4D buzz concept is obviously [horse puckey](https://www.urbandictionary.com/define.php?term=horse-puckey); why implementer Y shouldn’t have won that grant (and why you should have); and what the tea leaves say about donor X’s funding priorities next year.
 
 **What was this one about?** TechChange and DAI co-hosted the September event, which focused on next generation development professionals, as per the [recent article by Devex](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) on the same subject. 
 
@@ -30,7 +30,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana's open data work in Guatemala`
 
-**Who was there?** Technology for Democracy is popular with the National Endowment for Democracy organizations, which include the National Democratic Institute, the International Republican Institute (both sponsors), the Center for International Private Enterprise, the Center for International Media Assistance, as well as IREX and DAI (the other two sponsoring organizations), as well as a wide range of free press and good governance-oriented organizations, consultants, and experts. 
+**Who was there?** Technology for Democracy is popular with the [National Endowment for Democracy](https://www.ned.org/) organizations, which include the [National Democratic Institute](https://www.ndi.org/), the [International Republican Institute](https://www.iri.org/) (both co-sponsors), the [Center for International Private Enterprise](https://www.cipe.org/), the [Center for International Media Assistance](https://www.cima.ned.org/), as well as [IREX](https://www.irex.org/) and DAI (the other two sponsoring organizations). Beyond that, a wide range of free press and good governance-oriented organizations, consultants, and experts are regulars. 
 
 **Sign up for the next one:** [Join the email list](http://bit.ly/tech4dem-dc) and check out Tech4Dem on [Facebook](http://www.Facebook.com/tech4dem)
 
@@ -42,7 +42,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **What was this one about?** The inaugural event was a discussion of what the distinctions are between designing for domestic or commercial clients, and designing for international development programs. 
 
-**Who was there?** Souktel, Creative Associates, Dalberg Associates, IREX, DAI, as well as designers from a variety of local tech companies and government agencies.  
+**Who was there?** [Souktel](http://www.souktel.org/), [Creative Associates](https://www.creativeassociatesinternational.com/), [Dalberg](https://www.dalberg.com/), IREX, DAI, as well as designers from a variety of local tech companies and government agencies.
 
 **Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
