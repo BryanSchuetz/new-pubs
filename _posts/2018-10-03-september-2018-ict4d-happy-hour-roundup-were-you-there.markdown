@@ -41,11 +41,10 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **What’s the general concept?** HCD4D is the newest ICT4D happy hour. It’s run by a group of designers and aims to elevate the practice of human-centered design in the international development space. The founders believe that for technology to facilitate impact, it must be well-designed, and that good design hinges on a deep understanding of how a specific population uses technology, sees itself, and sees its social context. The happy hour is focused on sharing best practices and elevating the discussion about design among global development implementers. 
 
-**What was this one about?** The inaugural event was a discussion of what the distinctions are between designing for domestic or commercial clients, and designing for international development programs. 
+**What was this one about?** The inaugural event was a discussion of the distinctions between designing for domestic or commercial clients and designing for international development programs. 
 
 **Who was there?** [Souktel](http://www.souktel.org/), [Creative Associates](https://www.creativeassociatesinternational.com/), [Dalberg](https://www.dalberg.com/), [Forum One](https://forumone.com/), IREX, DAI, as well as designers from a variety of tech companies and government agencies.
 
 **Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
-
-*Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of DC? [Let me know!](mailto:adam_fivenson@dai.com)*
+*Did I miss your favorite ICT4D happy hour? Is there an amazing ICT4D happy hour outside of D.C.? [Let me know!](mailto:adam_fivenson@dai.com)*
