@@ -7,15 +7,15 @@ tags:
 Author: Adam Fivenson
 ---
 
-Happy hours are the sinew of the ICT4D community: they’re how we connect. For a few hours each month, we put aside the titles, the affiliations, the competition, and enjoy each other’s company and a few drinks. 
+Happy hours are the sinew of the ICT4D community: They are how we connect. For a few hours each month, we put aside the titles, affiliations, competition, and enjoy each other’s company over a few drinks. 
 
-September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened; Hopefully you’ll join us for the next one! 
+September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened. Hopefully, you’ll join us for the next one! 
 
 ## ICT4Drinks
 
-**What’s the general concept?** ICT4Drinks is the Facebook of the DC ICT4D community; everyone’s there! [TechChange’s](https://www.techchange.org/) Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next in ICT4D. 
+**What’s the general concept?** ICT4Drinks is the Facebook of the Washington, D.C., ICT4D community; everyone’s there! [TechChange’s](https://www.techchange.org/) Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next in ICT4D. 
 
-**What was this one about?** TechChange and DAI co-hosted the September event, which focused on next generation development professionals, as per the [recent article by Devex](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) on the same subject. 
+**What was this one about?** TechChange and DAI co-hosted the September event, which focused on next generation development professionals, as per the [recent research](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) by DAI, the U.S. Agency for International Development, and Devex on the same subject. 
 
 **Who was there?** A broad cross section of people representing implementers, donors, ICT4D Specialists, aspiring ICT4D professionals, students, and this all-star crew:
 
