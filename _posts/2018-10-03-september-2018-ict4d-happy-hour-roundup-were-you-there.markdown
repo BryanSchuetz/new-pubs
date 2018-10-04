@@ -17,15 +17,15 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **What was this one about?** TechChange and DAI co-hosted the September event, which focused on next generation development professionals, as per the [recent research](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) by DAI, the U.S. Agency for International Development, and Devex on the same subject. 
 
-**Who was there?** A broad cross section of people representing implementers, donors, ICT4D Specialists, aspiring ICT4D professionals, students, and this all-star crew:
+**Who was there?** A broad cross section of folks representing implementers, donors, ICT4D specialists, aspiring ICT4D professionals, students, and this all-star crew:
 
-![ict4drinks2.jpg](/uploads/ict4drinks2.jpg) `(L to R) Talia Dweck, your humble author, Krista Baptista, Karim Bin-Humam, and Greg Maly, all from DAI’s Center for Digital Acceleration`
+![ict4drinks2.jpg](/uploads/ict4drinks2.jpg) `Talia Dweck, from left, your humble author, Krista Baptista, Karim Bin-Humam, and Greg Maly, all from DAI’s Center for Digital Acceleration.`
 
 **Sign up for the next one:** [Join the email list](http://ict4drinks.com/)
 
 ## Technology for Democracy (tech4dem)
 
-**What’s the general concept?** Technology for Democracy is a bi-monthly gathering of technologists who are working with governments, activists, businesses, and multilaterals to improve the quality of representative government around the world. It’s a more niche audience, as compared to the ICT4Drinks crew, and is centered around a brief technical presentation from an expert, as well as a brief Q&A. 
+**What’s the general concept?** Technology for Democracy is a bi-monthly gathering of technologists who work with governments, activists, businesses, and multilaterals to improve the quality of representative government around the world. It’s a more niche audience, as compared to the ICT4Drinks crew, and is centered around a brief technical presentation from an expert, as well as a brief Q&A. 
 
 **What was this one about?** tech4dem hosted Julio Herrera, the Director of [Red Ciudadana](http://redciudadana.org/) (Human Network), a Guatemalan non-profit that uses open data and web apps to engage the public around critical issues of governance, transparency and accountability. 
 
