@@ -25,13 +25,13 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ## Technology for Democracy (tech4dem)
 
-**What’s the general concept?** Technology for Democracy is a bi-monthly gathering of technologists who work with governments, activists, businesses, and multilaterals to improve the quality of representative government around the world. It’s a more niche audience, as compared to the ICT4Drinks crew, and is centered around a brief technical presentation from an expert, as well as a brief Q&A. 
+**What’s the general concept?** Technology for Democracy is a bi-monthly gathering of technologists who work with governments, activists, businesses, and multilaterals to improve the quality of representative government around the world. It’s a more niche audience than the ICT4Drinks crew, and is centered around a brief technical presentation from an expert, as well as a brief Q&A. 
 
-**What was this one about?** tech4dem hosted Julio Herrera, the Director of [Red Ciudadana](http://redciudadana.org/) (Human Network), a Guatemalan non-profit that uses open data and web apps to engage the public around critical issues of governance, transparency and accountability. 
+**What was this one about?** tech4dem hosted Julio Herrera, the Director of [Red Ciudadana](http://redciudadana.org/) (Human Network), a Guatemalan nonprofit that uses open data and web apps to engage the public around critical issues of governance, transparency, and accountability. 
 
-![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana's open data work in Guatemala`
+![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana’s open data work in Guatemala.`
 
-**Who was there?** Technology for Democracy is popular with the [National Endowment for Democracy](https://www.ned.org/) organizations, which include the [National Democratic Institute](https://www.ndi.org/), the [International Republican Institute](https://www.iri.org/) (both co-sponsors), the [Center for International Private Enterprise](https://www.cipe.org/), the [Center for International Media Assistance](https://www.cima.ned.org/), as well as [IREX](https://www.irex.org/) and DAI (the other two sponsoring organizations). Beyond that, a wide range of free press and good governance-oriented organizations, consultants, and experts are regulars. 
+**Who was there?** tech4dem is popular with the [National Endowment for Democracy](https://www.ned.org/) organizations, which include the [National Democratic Institute](https://www.ndi.org/), the [International Republican Institute](https://www.iri.org/) (both co-sponsors), the [Center for International Private Enterprise](https://www.cipe.org/), the [Center for International Media Assistance](https://www.cima.ned.org/), as well as [IREX](https://www.irex.org/) and DAI (the other two sponsoring organizations). Beyond that, a wide range of free press and good governance-oriented organizations, consultants, and experts are regulars. 
 
 **Sign up for the next one:** [Join the email list](http://bit.ly/tech4dem-DC) and check out Tech4Dem on [Facebook](http://www.Facebook.com/tech4dem)
 
