@@ -29,21 +29,21 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **What was this one about?** Tech4Dem hosted Julio Herrera, the Director of [Red Ciudadana](http://redciudadana.org/) (Human Network), a Guatemalan nonprofit that uses open data and web apps to engage the public around critical issues of governance, transparency, and accountability. 
 
-![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana’s open data work in Guatemala.`
-
 **Who was there?** Tech4Dem is popular with the [National Endowment for Democracy](https://www.ned.org/) organizations, which include the [National Democratic Institute](https://www.ndi.org/), the [International Republican Institute](https://www.iri.org/) (both co-sponsors), the [Center for International Private Enterprise](https://www.cipe.org/), the [Center for International Media Assistance](https://www.cima.ned.org/), as well as [IREX](https://www.irex.org/) and DAI (the other two sponsoring organizations). Beyond that, a wide range of free press and good governance-oriented organizations, consultants, and experts are regulars. 
+
+![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana’s open data work in Guatemala.`
 
 **Sign up for the next one:** [Join the email list](http://bit.ly/tech4dem-DC) and check out Tech4Dem on [Facebook](http://www.Facebook.com/tech4dem)
 
 ## Human-Centered Design for Development (HCD4D)
-
-![Image from iOS (14).jpg](/uploads/Image%20from%20iOS%20(14).jpg)`Gina Assaf from Souktel, from left, Priyanka Pathak from Dalberg, and Ayan Kishore from Creative Associates presenting.`
 
 **What’s the general concept?** HCD4D is the newest ICT4D happy hour. It’s run by a group of designers and aims to elevate the practice of human-centered design in the international development space. The founders believe that for technology to facilitate impact, it must be well-designed, and that good design hinges on a deep understanding of how a specific population uses technology, sees itself, and sees its social context. The happy hour is focused on sharing best practices and elevating the discussion about design among global development implementers. 
 
 **What was this one about?** The inaugural event was a discussion of the distinctions between designing for domestic or commercial clients and designing for international development programs. 
 
 **Who was there?** [Souktel](http://www.souktel.org/), [Creative Associates](https://www.creativeassociatesinternational.com/), [Dalberg](https://www.dalberg.com/), [Forum One](https://forumone.com/), IREX, DAI, as well as designers from a variety of tech companies and government agencies.
+
+![Image from iOS (14).jpg](/uploads/Image%20from%20iOS%20(14).jpg)`Gina Assaf from Souktel, from left, Priyanka Pathak from Dalberg, and Ayan Kishore from Creative Associates presenting.`
 
 **Sign up for the next one:** [Join the Meet-up](https://www.meetup.com/HCD4D-Designing-Tech-for-International-Aid-Development/)
 
