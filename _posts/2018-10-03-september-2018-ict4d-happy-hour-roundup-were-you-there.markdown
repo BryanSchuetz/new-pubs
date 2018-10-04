@@ -26,6 +26,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 ## Technology for Democracy (tech4dem)
 
 **What’s the general concept?** Technology for Democracy is a bi-monthly gathering of technologists who are working with governments, activists, businesses, and multilaterals to improve the quality of representative government around the world. It’s a more niche audience, as compared to the ICT4Drinks crew, and is centered around a brief technical presentation from an expert, as well as a brief Q&A. 
+
 **What was this one about?** tech4dem hosted Julio Herrera, the Director of [Red Ciudadana](http://redciudadana.org/) (Human Network), a Guatemalan non-profit that uses open data and web apps to engage the public around critical issues of governance, transparency and accountability. 
 
 ![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana's open data work in Guatemala`
@@ -38,7 +39,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ![Image from iOS (14).jpg](/uploads/Image%20from%20iOS%20(14).jpg)`(L to R) Gina Assaf from Souktel, Priyanka Pathak from Dalberg, and Ayan Kishore from Creative Associates presenting`
 
-**What’s the general concept?** HCD4D is the newest of DC’s ICT4D happy hours. It’s run by a group of designers and aims to elevate the practice of human-centered design in the international development space. The founders believe that good design hinges on a deep understanding of how a specific population uses technology, sees itself, and sees its social context, and the happy hour is focused on learning and best practices. 
+**What’s the general concept?** HCD4D is the newest of DC’s ICT4D happy hours. It’s run by a group of designers and aims to elevate the practice of human-centered design in the international development space. The founders believe that for technology to facilitate impact, it must be well-designed, and that good design hinges on a deep understanding of how a specific population uses technology, sees itself, and sees its social context. The happy hour is focused on sharing learning and best practices, and elevating the discussion about design among global development implementers. 
 
 **What was this one about?** The inaugural event was a discussion of what the distinctions are between designing for domestic or commercial clients, and designing for international development programs. 
 
