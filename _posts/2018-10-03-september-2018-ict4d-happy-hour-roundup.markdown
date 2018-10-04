@@ -12,6 +12,8 @@ Happy hours are the sinew of the ICT4D community: They are how we connect. For a
 
 September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened. Hopefully, you’ll join us for the next one! 
 
+<!--more-->
+
 ## ICT4Drinks
 
 **What’s the general concept?** ICT4Drinks is the Facebook of the Washington, D.C., ICT4D community; everyone’s there! [TechChange’s](https://www.techchange.org/) Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next in ICT4D. 
