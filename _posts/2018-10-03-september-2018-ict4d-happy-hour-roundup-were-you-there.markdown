@@ -1,7 +1,6 @@
 ---
 title: 'September 2018 ICT4D Happy Hour Roundup: Were You There?'
 date: 2018-10-03 18:14:00 -04:00
-published: false
 tags:
 - ICT
 Author: Adam Fivenson
