@@ -35,7 +35,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ![tech4dem.jpeg](/uploads/tech4dem.jpeg)`Julio Herrera presents on Red Ciudadana’s open data work in Guatemala.`
 
-**Sign up for the next one:** [Join the email list](http://bit.ly/tech4dem-DC) and check out Tech4Dem on [Facebook](http://www.Facebook.com/tech4dem)
+**Sign up for the next one:** [Join the email list](http://bit.ly/tech4dem-list) and check out Tech4Dem on [Facebook](http://www.Facebook.com/tech4dem)
 
 ## Human-Centered Design for Development (HCD4D)
 
