@@ -19,7 +19,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 **Who was there?** A broad cross section of people representing implementers, donors, ICT4D Specialists, aspiring ICT4D professionals, students, and this all-star crew:
 
-![ict4drinks2.jpg](/uploads/ict4drinks2.jpg) `(L to R) Talia Dweck, Adam Fivenson, Krista Baptista, Karim Bin-Humam, and Greg Maly, part of DAI’s Center for Digital Acceleration`
+![ict4drinks2.jpg](/uploads/ict4drinks2.jpg) `(L to R) Talia Dweck, your humble author, Krista Baptista, Karim Bin-Humam, and Greg Maly, all from DAI’s Center for Digital Acceleration`
 
 **Sign up for the next one:** [Join the email list](http://ict4drinks.com/)
 
