@@ -13,7 +13,7 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
 
 ## ICT4Drinks
 
-**What’s the general concept?** Imagine Facebook, but instead of everyone meeting in a virtual space when it’s convenient for them, everyone meets in a physical space at the same time! (Strange concept—I know—but stick with me.) That’s ICT4Drinks for the DC ICT4D community; everyone’s there! [TechChange’s](https://www.techchange.org/) Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next. It’s also the place to let it be known that the latest ICT4D buzz concept is obviously [horse puckey](https://www.urbandictionary.com/define.php?term=horse-puckey); why implementer Y shouldn’t have won that grant (and why you should have); and what the tea leaves say about donor X’s funding priorities next year.
+**What’s the general concept?** ICT4Drinks is the Facebook of the DC ICT4D community; everyone’s there! [TechChange’s](https://www.techchange.org/) Nick Martin and Chris Neu play host, greeting at the door and passing out drink tickets over the din of a crowd that generally reaches 100+. ICT4Drinks is the place to find out who’s hiring, who’s funding what and why, and what’s coming next in ICT4D. 
 
 **What was this one about?** TechChange and DAI co-hosted the September event, which focused on next generation development professionals, as per the [recent article by Devex](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) on the same subject. 
 
