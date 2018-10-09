@@ -5,9 +5,13 @@ date: 2018-10-09 12:16:00 -04:00
 tags:
 - Cyber Security
 Author: Galia Nurko
+social-image: "/uploads/Puzzle%20Cyber.jpg"
+thumbnail: "/uploads/Puzzle%20Cyber.jpg"
 ---
 
 *In our [first post](https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box) in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. The second blog in the series will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development.*
+
+![Puzzle Cyber.jpg](/uploads/Puzzle%20Cyber.jpg)
 
 A major challenge in low and middle-income countries is limited access to services for the entire population. In many underdeveloped countries, populations living outside of city-centers lack access to basic services at a greater scale than those living in more urban areas. For development practitioners, digital tools and services increasingly present an attractive way to bridge the divide between these populations.
 
