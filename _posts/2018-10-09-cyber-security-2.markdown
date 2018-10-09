@@ -24,7 +24,7 @@ The success of these investments depends greatly on the emphasis on analog compl
 
 The World Bank’s 2016 World Development Report titled, *[Digital Dividends](http://documents.worldbank.org/curated/en/896971468194972881/pdf/102725-PUB-Replacement-PUBLIC.pdf)*, highlighted three main analog variables that help build a strong foundation for adoption of digital tools: regulations, skills, and institutions. Although the report did not focus specifically on cyber security, I’d argue that investment in the same analog complements is critical for the successful integration of information security in the digital transformation of state and public services across an economy.
 
-## Regulations for cyber security
+## Regulations for Cyber Security
 
 The promotion and scale-up of the [Aadhaar](https://uidai.gov.in/about-uidai/about-uidai.html), the country’s digital identification system, provides one example as to why regulation and governance protocols is critical to protecting digital tools. The best way to understand governance protocols is to think of a schedule of authority. In the case of cyber security, this protocol would answer questions like who has access to what information and when, who a data breach should be reported to, and who has the authority to respond to a breach.
 
