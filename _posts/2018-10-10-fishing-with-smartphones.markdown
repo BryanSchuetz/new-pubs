@@ -1,12 +1,9 @@
 ---
 title: Fishing with Smartphones
 date: 2018-10-10 04:00:00 -04:00
-categories:
-- Innovation
 tags:
 - Human-centered design
 - Data Visualization
-- Fisheries
 Author: Alejandro Solis
 social-image: "/uploads/blog.PNG"
 thumbnail: "/uploads/blog.PNG"
