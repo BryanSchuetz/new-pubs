@@ -17,7 +17,7 @@ Over the last few weeks, DAI’s Center for Digital Acceleration (CDA) have been
 ![trevor 1.jpg](/uploads/trevor%201.jpg)
 `CDA’s Trevor Olexy giving a demo of sensor tech from the Maker Lab`
 
-## A challenging technology environment
+## Malawi: A Challenging Technology Environment
 
 By most measures, Malawi has a long way to go in creating the kind of technology access and infrastructure needed to support a vibrant digital development sector. Despite being geographically located amongst some of the fastest growing digital markets in the world, Malawi lags behind its peers with one of the lowest levels of connectivity, affordability and usage of the internet and mobile. Available internet connectivity indexes consistently rank Malawi poorly on internet access, affordability, and inclusion. For instance, the most recent data available from the Economist Intelligence Unit (EIU) “Inclusive Internet Index” – assessing countries on availability, affordability, relevance and readiness – ranks Malawi 85th of 86 countries, surpassing only by the Democratic Republic of the Congo.
 
@@ -29,7 +29,7 @@ Malawi’s infrastructure challenges pose a significant barrier to connectivity.
 
 However, despite these significant barriers to digital access, Malawi can boast some important breakthroughs. Malawi has the world’s [largest](http://unicefstories.org/drones/malawi/) dedicated humanitarian drone corridor, which has created the foundation for a number of drone-based businesses who are experimenting with everything from transporting blood samples to mapping out geospatial agriculture and climate data. Further, Malawi recently launched a nation-wide [biometric identity](http://www.mw.one.un.org/malawis-national-id-project-praised-at-africas-largest-forum-on-digital-identity/) for its citizens. In our work, we encountered a number of digitally-driven organizations built and managed by local technologists. The Malawi Digital Development Forum was DFID’s attempt at creating a way for these organizations to come together, learn from each other, and deepen their networks within the development community in Malawi.
 
-## Demo-ing local tech and brainstorming local solutions
+## Demo-ing Local Tech and Brainstorming Local Solutions
 
 We began the event with a demo of a number of technology innovations being deployed in Malawi. We welcomed tech initiatives from [UNICEF](https://www.unicef.org.uk/), [mHub](http://www.mhubmw.com/), [VSO](https://www.vsointernational.org/fighting-poverty/where-we-fight-poverty/malawi), [Angle Dimension](https://twitter.com/AngleDimension), [Girl Effect](https://www.girleffect.org/), [Baobab Health Trust](http://baobabhealth.org/), [Precision](http://www.precision.mw/), the [DAI Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab), [Farm Radio](http://www.farmradio.org/), and [ShiftIT](https://www.shiftit.co.za/). Development implementers, government decision-makers, and DFID staff heard how Precision are using drones for mapping out Lilongwe; how VSO are utilizing tablets for literacy and numeracy learning in schools; and how mHub are gathering data from citizens to improve election violence reporting. This first session opened the eyes of attendees to what is already going on with technology in Malawi, while creating the basis for the next stage of the event.
 
