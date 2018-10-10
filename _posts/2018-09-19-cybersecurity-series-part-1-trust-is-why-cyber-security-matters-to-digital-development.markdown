@@ -3,8 +3,8 @@ title: 'Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Dig
   Development'
 date: 2018-09-19 15:15:00 -04:00
 tags:
-- Cyber Security
 - Digital Inclusion
+- Cyber Security Series
 Author: Galia Nurko
 social-image: "/uploads/Cybersecurity.jpg"
 thumbnail: "/uploads/Cybersecurity.jpg"
