@@ -39,6 +39,6 @@ We then moved on to a problem-definition session, led by technical leads from DF
 
 These problems then morphed into concepts. For the afternoon session, mixed groups of techies and development practitioners thought through how technology could address each problem. What would a technology solution to this look like? Who is our key audience? Which stakeholders would we need to get on board? Concepts included data tools to increase government transparency, ways to improve the ability of persons with disabilities to access equipment, and drone technology for mapping and reporting deforestation.
 
-While we are still thinking through how we might put these concepts into action, there is no doubt about the eagerness among Malawi’s digital providers and development practitioners to embrace the new digital opportunities. Watch this space for more updates in the coming months!
+While we are still thinking through how we might put these concepts into action, there is no doubt about the eagerness amongst Malawi’s digital providers and development practitioners to embrace the new digital opportunities. Watch this space for more updates in the coming months!
 
 ![blog 12.jpg](/uploads/blog%2012.jpg)`The teams begin brainstorming possible tech solutions for development challenges`
