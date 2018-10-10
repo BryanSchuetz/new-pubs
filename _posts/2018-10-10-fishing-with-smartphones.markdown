@@ -22,7 +22,7 @@ In Central America, some of those ‘left behind’ include more than 135,000 fi
 
 As part of the team on the [USAID Central America Regional Climate Change Program](https://www.dai.com/our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de), DAI set about to give these fishermen a digital boost and provide them with climate information to make better decisions about their livelihoods.
 
-The ensuing tool—Clima Pesca—is now in the hands of 7,000 (and growing!) fishermen who are using the mobile app on a daily basis to check the surface temperature of the sea; the direction of the wind; the production of algae, tides, hurricanes; and more.
+The ensuing tool—Clima Pesca—is now in the hands of 7,000 (and growing!) fishermen who are using the mobile app on a daily basis to check the surface temperature of the sea; the direction of the wind; the production of algae, tides, and hurricanes; and more.
 
 **Building the Tool**
 
