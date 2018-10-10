@@ -8,6 +8,8 @@ tags:
 
 Over the last few weeks, DAI’s Center for Digital Acceleration (CDA) have been working closely with DFID’s Malawi office to conduct a ‘digital scoping study’ of its portfolio. Building on some of the [user research](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) we’ve conducted in Malawi, we’re identifying areas where DFID can make small, focused investments in digital innovations to improve the impact of its programs. And we’re also helping the team build relationships with the small but growing group of Malawian technologists who are tackling development challenges with digital tools. As part of this effort, we put together DFID’s first ever ‘Malawi Digital Development Forum’ last week, which brought together local technologists, development implementers, government decision-makers, and DFID staff for a day-long technology exchange.
 
+<!--more-->
+
 ![trevor 1.jpg](/uploads/trevor%201.jpg)
 `CDA’s Trevor Olexy giving a demo of sensor tech from the Maker Lab`
 
