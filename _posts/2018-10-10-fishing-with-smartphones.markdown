@@ -15,6 +15,8 @@ Much has been written about the digital divide and the failure of ICT to meet th
 
 In Central America, some of those ‘left behind’ include more than 135,000 fishermen. Without access to vital information about how climate change affects fishing, their very livelihoods are under threat. [$625 million in losses](https://www.nacion.com/ciencia/medio-ambiente/cambio-climatico-golpea-pesca-artesanal-en-litorales-centroamericanos/PMD2I4PAQRAJVPHFR6MCYBDDCY/story/).
 
+<!--more-->
+
 ![blog.PNG](/uploads/blog.PNG)
 `Clima Pesca started as a PDF file and now is a multi-channel solution.`
 
