@@ -18,7 +18,7 @@ In Central America, some of those ‘left behind’ include more than 135,000 fi
 <!--more-->
 
 ![blog.PNG](/uploads/blog.PNG)
-`Clima Pesca started as a PDF file and now is a multi-channel solution.`
+`Clima Pesca started as a simple .pdf newsletter and now is a multi-channel solution.`
 
 As part of the team on the [USAID Central America Regional Climate Change Program](https://www.dai.com/our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de), DAI set about to give these fishermen a digital boost and provide them with climate information to make better decisions about their livelihoods.
 
