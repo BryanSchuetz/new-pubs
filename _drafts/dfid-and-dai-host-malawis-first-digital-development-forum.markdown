@@ -41,4 +41,4 @@ These problems then morphed into concepts. For the afternoon session, mixed grou
 
 While we are still thinking through how we might put these concepts into action, there is no doubt about the eagerness amongst Malawi’s digital providers and development practitioners to embrace the new digital opportunities. Watch this space for more updates in the coming months!
 
-![blog 12.jpg](/uploads/blog%2012.jpg)`The teams begin brainstorming possible tech solutions for development challenges`
+![blog 12.jpg](/uploads/blog%2012.jpg)`The teams begin brainstorming possible tech solutions for development challenges.`
