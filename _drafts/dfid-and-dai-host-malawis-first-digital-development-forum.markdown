@@ -8,9 +8,8 @@ tags:
 
 Over the last few weeks, DAI’s Center for Digital Acceleration (CDA) have been working closely with DFID’s Malawi office to conduct a ‘digital scoping study’ of its portfolio. Building on some of the [user research](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) we’ve conducted in Malawi, we’re identifying areas where DFID can make small, focused investments in digital innovations to improve the impact of its programs. And we’re also helping the team build relationships with the small but growing group of Malawian technologists who are tackling development challenges with digital tools. As part of this effort, we put together DFID’s first ever ‘Malawi Digital Development Forum’ last week, which brought together local technologists, development implementers, government decision-makers, and DFID staff for a day-long technology exchange.
 
-*![](file:///C:/Users/KROGGE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)*
-
-*\[CDA’s Trevor Olexy giving a demo of sensor tech from the Maker Lab\]*
+![trevor 1.jpg](/uploads/trevor%201.jpg)
+`CDA’s Trevor Olexy giving a demo of sensor tech from the Maker Lab`
 
 **A challenging technology environment**
 
@@ -28,7 +27,7 @@ However, despite these significant barriers to digital access, Malawi can boast 
 
 We began the event with a demo of a number of technology innovations being deployed in Malawi. We welcomed tech initiatives from [UNICEF](https://www.unicef.org.uk/), [mHub](http://www.mhubmw.com/), [VSO](https://www.vsointernational.org/fighting-poverty/where-we-fight-poverty/malawi), [Angle Dimension](https://twitter.com/AngleDimension), [Girl Effect](https://www.girleffect.org/), [Baobab Health Trust](http://baobabhealth.org/), [Precision](http://www.precision.mw/), the [DAI Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab), [Farm Radio](http://www.farmradio.org/), and [ShiftIT](https://www.shiftit.co.za/). Development implementers, government decision-makers, and DFID staff heard how Precision are using drones for mapping out Lilongwe; how VSO are utilizing tablets for literacy and numeracy learning in schools; and how mHub are gathering data from citizens to improve election violence reporting. This first session opened the eyes of attendees to what is already going on with technology in Malawi, while creating the basis for the next stage of the event.
 
-*![](file:///C:/Users/KROGGE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)*
+*!\[\](file:///C:/Users/KROGGE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)*
 
 *\[Owen Cardew, Precision talks through the possibilities and limitations of drone tecnology\]*
 
@@ -38,6 +37,6 @@ These problems then morphed into concepts. For the afternoon session, mixed grou
 
 While we are still thinking through how we might put these concepts into action, there is no doubt about the eagerness among Malawi’s digital providers and development practitioners to embrace the new digital opportunities. Watch this space for more updates in the coming months!
 
-![](file:///C:/Users/KROGGE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+!\[\](file:///C:/Users/KROGGE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
 
 *\[The teams begin brainstorming possible tech solutions for development challenges\]*
