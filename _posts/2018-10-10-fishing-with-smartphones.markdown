@@ -35,7 +35,7 @@ The top priority was not creating a new app for the sake of something new, but r
 The Central America Fisheries and Aquaculture Organization (OSPESCA) led efforts to generate information for fishermen back in 2013 by creating the Clima Pesca newsletter, sent via email. While the newsletter had excellent content and used appropriate language for fishermen, it was not reaching them; most likely, few of them had email accounts.
 
 ![pantalla.PNG](/uploads/pantalla.PNG)
-`The app tours were animated this helps the fisherman and fisherwoman to understand climate data. `
+`The app tours were animated this helps the fisherman and fisherwoman to understand climate data. Illustration by Jonathan Mariño `
 
 DAI initiated an interactive design process, in which we discovered most users had mobile phones and could readily access information via the phone or websites. Those original 2,700 email subscribers leapt to more than 8,000 interactions per month by users through multiple, more accessible channels.
 
