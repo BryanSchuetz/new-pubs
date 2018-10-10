@@ -1,6 +1,6 @@
 ---
 title: Fishing with Smartphones
-date: 2018-10-01 16:00:00 -04:00
+date: 2018-10-10 04:00:00 -04:00
 categories:
 - Innovation
 tags:
