@@ -4,6 +4,8 @@ date: 2018-10-10 10:39:00 -04:00
 tags:
 - Innovation
 - Digital Inclusion
+Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
+  and [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/)"
 social-image: "/uploads/trevor%201.jpg"
 thumbnail: "/uploads/trevor%201.jpg"
 ---
