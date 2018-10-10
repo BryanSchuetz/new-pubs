@@ -41,10 +41,10 @@ DAI initiated an interactive design process, in which we discovered most users h
 
 ### 5 Lessons Learned
 
-* Identify the essentials: When the use of a digital tool impacts the quality of life of a user, not only is a project objective achieved, but it also achieves ownership. Learning and a discovery process is initiated by a user thirsty for information.
-* Self-explained: Any information in an app should be self-explanatory. A bad app design is like a bad joke—when the user interface is so bad that you need to explain what it means.
-* Smartphones everywhere: Do an initial assessment about the digital literacy of the users. We learned that fishermen use smartphones not only to communicate but also for its apps such as GPS and more.
-* Learn from them: The empirical science of fishing can sometimes provide you with breathtaking insights for building a great tool.
-* If it’s regional, it should be simpler: Given the infrastructure, language, or connectivity differences between countries, the best approach is to keep it simple.
+* **Identify the essentials:** When the use of a digital tool impacts the quality of life of a user, not only is a project objective achieved, but it also achieves ownership. Learning and a discovery process is initiated by a user thirsty for information.
+* **Self-explained:** Any information in an app should be self-explanatory. A bad app design is like a bad joke—when the user interface is so bad that you need to explain what it means.
+* **Smartphones are everywhere:** Do an initial assessment about the digital literacy of the users. We learned that fishermen use smartphones not only to communicate but also for its apps such as GPS and more.
+* **Learn from your users:** The empirical science of fishing can sometimes provide you with breathtaking insights for building a great tool.
+* **If it’s regional, go simple:** Given the infrastructure, language, or connectivity differences between countries, the best approach is to keep it simple.
 
 Clima Pesca is available at [www.climapesca.org](http://www.climapesca.org), [Google Play](https://play.google.com/store/apps/details?id=org.climapesca.app), and [Apple Store](https://itunes.apple.com/cr/app/clima-pesca-digital/id1384684221?mt=8).
