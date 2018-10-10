@@ -10,15 +10,17 @@ social-image: "/uploads/Puzzle%20Cyber.jpg"
 thumbnail: "/uploads/Puzzle%20Cyber.jpg"
 ---
 
-*In our [first post](https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box) in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development.*
+In our [first post](https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box) in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development.
 
-![Puzzle Cyber.jpg](/uploads/Puzzle%20Cyber.jpg)
+<!--more-->
 
 A major challenge in low and middle-income countries is limited access to services for the entire population. In many underdeveloped countries, populations living outside of cities lack access to basic services at a greater scale than those living in more urban areas. For development practitioners, digital tools and services increasingly present an attractive way to bridge the divide between these populations.
 
 As a result, donors and companies with a social impact bottomline are increasingly promoting the digitization of services across markets. On the surface, the idea seems like the ultimate silver bullet for combating many countries’ greatest ails, such as lack of access to health care, limited access to energy, or minimal participation in financial services.
 
 [Estonia’s](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic) adoption and integration of digital tools and services provides a concrete example of how and why digitization benefits an entire population. For example, by digitizing all state and public services, Estonia saved at least [2 percent of GDP](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic) in salaries and other expenses in 2017. Estonia, in many respects, offers a model for what other countries might aspire to become in this digital age. We already see adoption of digitization in countries such as India, Kenya, and Ukraine.
+
+![Puzzle Cyber.jpg](/uploads/Puzzle%20Cyber.jpg)
 
 The success of these investments depends greatly on the emphasis on analog complements to not only scale these digital services, but also secure the data stored across the platform. We can point to Estonia as a model for what technology assets could be deployed to mitigate the likelihood of data breaches, but if we are to truly support low- and middle-income countries to successfully adopt secure digitization platforms, the analog complements of systematic chance cannot be ignored.
 
