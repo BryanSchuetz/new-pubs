@@ -1,7 +1,7 @@
 ---
 title: 'Cyber Security Series Part 2: Understanding Cyber Security as Part of the
   Digital Development Conversation'
-date: 2018-10-09 12:16:00 -04:00
+date: 2018-10-12 12:16:00 -04:00
 tags:
 - Cyber Security Series
 Author: Galia Nurko
