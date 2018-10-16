@@ -29,5 +29,5 @@ Agro Sourcing: Agro Sourcing uses an online database to connect agricultural was
 
 [Farm Cure](http://farmcuregh.com/): Farm Cure has developed an environmentally-friendly pest trap solution. Their associated mobile app analyzes the traps and suggests appropriate pesticide amounts, ensuring that farmers do no over-use pesticides, a widespread problem in Ghana.
 
-Two of these teams will receive $50,000 in seed funding from Kosmos and a year’s worth of incubation at the Melwater Entrepreneurship School of Technology(MEST), a local startup incubator. In previous years, other external funders have provided matching funds as well, so we’re keeping our fingers crossed that more than two teams can move forward with this process. Stay tuned for our announcement of the winners of the 2018 competition in the coming weeks!
+Two of these teams will receive $50,000 in seed funding from Kosmos and a year’s worth of business incubation at a local startup hub. In previous years, other external funders have provided matching funds as well, so we’re keeping our fingers crossed that more than two teams can move forward with this process. Stay tuned for our announcement of the winners of the 2018 competition in the coming weeks!
 
