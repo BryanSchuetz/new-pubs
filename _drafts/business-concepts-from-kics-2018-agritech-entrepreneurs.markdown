@@ -5,6 +5,7 @@ tags:
 - Entrepreneurship
 - Economic Growth
 Author: Anand Varghese
+social-image: "/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG"
 ---
 
 The [award-winning](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) Kosmos Innovation Center Ghana has completed its final round of pitches for its 2018 cohort, and as with [previous years](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html), the program’s (very) early-stage young entrepreneurs continue to impress. Unlike previous years, the eight finalists in this year’s competition were given six weeks and a small stipend to develop their minimum viable products (MVP), in addition to 9 months of KIC-funded capacity building and market research. This meant that each team had the chance to meet with end-users, tweak their revenue models and designs, and even raise revenue to demonstrate proof-of-concept. As a result, I found that this year’s teams were well ahead of their 2017 and 2016 counterparts – their pitches were more compelling, they were more confident in their ability to answer judges’ questions, and their nose for entrepreneurship opportunities was keener. 
@@ -12,6 +13,7 @@ The [award-winning](https://dai-global-digital.com/kosmos-innovation-center-wins
 Here’s a run-down of each team and their business concepts for technology-driven Ghanaian agribusinesses. 
 
 <!--more-->
+[Team TechShelta Demonstrating how their product works.JPG](/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG)`Team TechShelta demonstrate their automated greenhouse mister system.`
 
 [TechShelta](http://greenginie.com/): TechShelta is developing internet-of-things (IoT) devices and online agronomic support for greenhouse farmers in Ghana, allowing them to optimize their production and even connect to markets for their products. 
 
