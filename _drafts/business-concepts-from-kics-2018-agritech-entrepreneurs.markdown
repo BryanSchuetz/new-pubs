@@ -9,16 +9,17 @@ social-image: "/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20produc
 thumbnail: "/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG"
 ---
 
-The [award-winning](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) Kosmos Innovation Center in Ghana has completed its final round of pitches for its 2018 cohort, and as with [previous years](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html), the program’s (very) early-stage young entrepreneurs continue to impress. Unlike previous years, the eight finalists in this year’s competition were given six weeks and a small stipend to develop their minimum viable products (MVP), in addition to 9 months of KIC-funded capacity building and market research. This meant that each team had the chance to meet with end-users, tweak their revenue models and designs, and even raise revenue to demonstrate proof-of-concept. As a result, I found that this year’s teams were well ahead of their 2017 and 2016 counterparts – their pitches were more compelling, they were more confident in their ability to answer judges’ questions, and their nose for entrepreneurship opportunities was keener. 
+The [award-winning](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) Kosmos Innovation Center in Ghana has completed its final round of pitches for the 2018 cohort, and as with [previous years](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html), the program’s (very) early-stage young entrepreneurs continue to impress. Unlike previous years, the eight finalists this year were given six weeks and a small stipend to develop their minimum viable products (MVP), in addition to nine months of KIC-funded capacity building and market research. This meant that each team had the chance to meet with users, tweak their revenue models and designs, and even raise revenue to demonstrate proof-of-concept. As a result, I found that this year’s teams were well ahead of their 2017 and 2016 counterparts—their pitches were more compelling; they were more confident in their ability to answer judges’ questions; and their nose for entrepreneurship opportunities was keener. 
 
-Here’s a run-down of each team and their business concepts for technology-driven Ghanaian agribusinesses. 
+Here’s a run-down of each team’s business concepts for technology-driven Ghanaian agribusinesses. 
 
 <!--more-->
-[Team TechShelta Demonstrating how their product works.JPG](/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG)`Team TechShelta demonstrate their automated greenhouse mister system.`
 
 [TechShelta](http://greenginie.com/): TechShelta is developing internet-of-things (IoT) devices and online agronomic support for greenhouse farmers in Ghana, allowing them to optimize their production and even connect to markets for their products. 
 
-[ProFish](https://lojaanor.com/): ProFish is developing “Lojaanor”, a product that uses web and mobile-based systems to connects bulk purchasers of fish such as eateries, fish retailers etc. to fish suppliers, while also improving storage and delivery systems. During their six-week MVP testing phase, ProFish fulfilled an impressive 51 orders, delivering 4 tons of fish and raking in profits of over 20%. 
+[Team TechShelta Demonstrating how their product works.JPG](/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG)`Team TechShelta demonstrates their automated greenhouse-mister system.`
+
+[ProFish](https://lojaanor.com/): ProFish is developing “Lojaanor,” a product that uses web and mobile-based systems to connects bulk purchasers of fish such as eateries, fish retailers etc. to fish suppliers, while also improving storage and delivery systems. During their six-week MVP testing phase, ProFish fulfilled an impressive 51 orders, delivering 4 tons of fish and raking in profits of over 20%. 
 
 Soil Solutions: Soil Solutions has developed a “do it yourself” soil test kit for commercial and smallholder farmers. Their kits help farmers determine exact soil nutrient deficiencies (by testing their levels of pH, nitrogen, potassium, and phosphorous). The team’s mobile services then make suggestions on fertilization and crop type.
 
