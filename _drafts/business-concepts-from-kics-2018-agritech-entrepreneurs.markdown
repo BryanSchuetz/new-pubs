@@ -19,19 +19,18 @@ Here’s a run-down of each team’s business concepts for technology-driven Gha
 
 [Team TechShelta Demonstrating how their product works.JPG](/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG)`Team TechShelta demonstrates their automated greenhouse-mister system.`
 
-[ProFish](https://lojaanor.com/): ProFish is developing “Lojaanor,” a product that uses web and mobile-based systems to connects bulk purchasers of fish such as eateries, fish retailers etc. to fish suppliers, while also improving storage and delivery systems. During their six-week MVP testing phase, ProFish fulfilled an impressive 51 orders, delivering 4 tons of fish and raking in profits of over 20%. 
+[ProFish](https://lojaanor.com/): ProFish is developing “Lojaanor,” a product that uses web and mobile-based systems to connect bulk purchasers of fish such as eateries, fish retailers, etc., to fish suppliers, while also improving storage and delivery systems. During its six-week MVP testing phase, ProFish fulfilled an impressive 51 orders, delivering 4 tons of fish and raking in profits of more than 20 percent. 
 
-Soil Solutions: Soil Solutions has developed a “do it yourself” soil test kit for commercial and smallholder farmers. Their kits help farmers determine exact soil nutrient deficiencies (by testing their levels of pH, nitrogen, potassium, and phosphorous). The team’s mobile services then make suggestions on fertilization and crop type.
+Soil Solutions: Soil Solutions has developed a do-it-yourself soil testing kit for commercial and smallholder farmers to determine exact soil nutrient deficiencies (by testing levels of pH, nitrogen, potassium, and phosphorous). The team’s mobile services then suggests fertilization and crop type.
 
 Kwidex: Kwidex is tackling the age-old problem of farmers’ lack of access to finance by creating a crowdfunding platform. The platform allows individuals to make small investments in farmers who can buy inputs, plant their crops, and then repay their loans (with interest) after the growing season. 
 
 Agro Sourcing: Agro Sourcing uses an online database to connect agricultural waste generators (e.g. cocoa, coconuts, etc.) to industries that use these waste as raw materials. 
 
-[Ag Temp](http://www.agtemp.com/): Ag Temp has developed a labor rotation system for farmers and agribusinesses that seek to hire farmhands and technical personnel. The system gives farmers access to on-demand labor, and ensure that’s laborers get year-round employment. 
+[Ag Temp](http://www.agtemp.com/): Ag Temp has developed a labor rotation system for farmers and agribusinesses that seek to hire farmhands and technical personnel. The system gives farmers access to on-demand labor, and ensures that laborers get year-round employment. 
 
-[Growth Factor](http://www.nvoicia.com/): Growth Factor is developing “nvoicia”, an online marketplace that allows agribusinesses to get early payments on their invoices (within 48 hours). These invoices are currently paid 30-90 days after contract completion, which limits cash flow and stunts growth.
+[Growth Factor](http://www.nvoicia.com/): Growth Factor is developing “nvoicia,” an online marketplace that allows agribusinesses to get early payments on their invoices (within 48 hours). These invoices are currently paid 30 to 90 days after contract completion, which limits cash flow and stunts growth.
 
-[Farm Cure](http://farmcuregh.com/): Farm Cure has developed an environmentally-friendly pest trap solution. Their associated mobile app analyzes the traps and suggests appropriate pesticide amounts, ensuring that farmers do no over-use pesticides, a widespread problem in Ghana.
+[Farm Cure](http://farmcuregh.com/): Farm Cure has developed an environmentally friendly pest trap solution. Its associated mobile app analyzes the traps and suggests appropriate pesticide amounts, ensuring that farmers do no over-use pesticides, a widespread problem in Ghana.
 
-Two of these teams will receive $50,000 in seed funding from Kosmos and a year’s worth of business incubation at a local startup hub. In previous years, other external funders have provided matching funds as well, so we’re keeping our fingers crossed that more than two teams can move forward with this process. Stay tuned for our announcement of the winners of the 2018 competition in the coming weeks!
-
+Two of these teams will receive $50,000 in seed funding from Kosmos and a year’s worth of business incubation at a local startup hub. In previous years, other external funders have provided matching funds as well, so we’re keeping our fingers crossed that more than two teams will move forward with this process. Stay tuned for our announcement of the winners of the 2018 competition in the coming weeks!
