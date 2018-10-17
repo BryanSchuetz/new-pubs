@@ -17,7 +17,7 @@ Here’s a run-down of each team’s business concepts for technology-driven Gha
 
 [TechShelta](http://greenginie.com/): TechShelta is developing internet-of-things (IoT) devices and online agronomic support for greenhouse farmers in Ghana, allowing them to optimize their production and even connect to markets for their products. 
 
-[Team TechShelta Demonstrating how their product works.JPG](/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG)`Team TechShelta demonstrates their automated greenhouse-mister system.`
+![Team TechShelta Demonstrating how their product works.JPG](/uploads/Team%20TechShelta%20Demonstrating%20how%20their%20product%20works.JPG)`Team TechShelta demonstrates their automated greenhouse-mister system.`
 
 [ProFish](https://lojaanor.com/): ProFish is developing “Lojaanor,” a product that uses web and mobile-based systems to connect bulk purchasers of fish such as eateries, fish retailers, etc., to fish suppliers, while also improving storage and delivery systems. During its six-week MVP testing phase, ProFish fulfilled an impressive 51 orders, delivering 4 tons of fish and raking in profits of more than 20 percent. 
 
