@@ -1,5 +1,5 @@
 ---
-title: 'Financial Sector Deepening Mozambique: The Regulatory Sandox Start-Ups'
+title: 'Financial Sector Deepening Mozambique: The Regulatory Sandbox Start-Ups'
 date: 2018-10-23 11:16:00 -04:00
 tags:
 - Digital Financial Services
