@@ -11,7 +11,9 @@ thumbnail: "/uploads/FinancialInclusion.jpg"
 
 World over, digital tools are creating opportunities for the unbanked, and expanding the array of financial services on offer.
 
-![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)Mozambique is no exception – whilst literacy rates are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13%](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
+![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)
+
+Mozambique is no exception – whilst literacy rates are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13%](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
 
 <!--more-->
 
@@ -20,8 +22,6 @@ Enter the [Financial Sector Deepening Programme](https://www.dai.com/our-work/pr
 Initial scoping research conducted at the start of the programme revealed that, despite the relative newness of the Mozambican FinTech industry, much of the growth in FinTech is supported by development funding national and international competitions and a commercial bank incubator initiative. There was a clear gap to be filled not just in the provision of FinTech, but in its funding and development.
 
 To provide much needed support and funding for FinTech, the Mozambique Sandbox – the 3rd regulatory sandbox in Africa after Zambia (Information and Communication Technology Authority) and Sierra Leona – was launched by the Central Bank Governor in May 2018.
-
-<break>
 
 The Sandbox, located in Maputo, is currently incubating five FinTech start-ups, selected through [a fintech challenge](http://fsdmoc.com/fsdmoc-addressing-financial-sector-regulation-challenges-regulatory-sandbox-story/). The incubator provides a valuable opportunity for these FinTech start-ups to interact with Central Bank and creates opportunities for development, testing and demonstration of products; and opportunities for FinTechs and the Central Bank to learn from one another and share innovative ideas.
 
