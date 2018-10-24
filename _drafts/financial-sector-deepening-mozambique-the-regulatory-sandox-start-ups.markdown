@@ -1,5 +1,5 @@
 ---
-title: 'Financial Sector Deepening Mozambique: The Regulatory Sandbox Start-Ups'
+title: 'Financial Sector Deepening Mozambique: The Regulatory Sandbox Startups'
 date: 2018-10-23 11:16:00 -04:00
 tags:
 - Digital Financial Services
@@ -10,11 +10,11 @@ social-image: "/uploads/FinancialInclusion.jpg"
 thumbnail: "/uploads/FinancialInclusion.jpg"
 ---
 
-World over, digital tools are creating opportunities for the unbanked, and expanding the array of financial services on offer.
+All over the world, digital tools are creating opportunities for the those without bank accounts and expanding the array of financial services.
 
-![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)`FSD Mozambique is working to increase financial inclusion in Mozambique`
+![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)`The Financial Sector Deepening project is increasing financial inclusion in Mozambique.`
 
-Mozambique is no exception – whilst literacy rates are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13%](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
+Mozambique is no exception—whilst literacy rates are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13%](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
 
 <!--more-->
 
