@@ -4,14 +4,15 @@ date: 2018-10-23 11:16:00 -04:00
 tags:
 - Digital Financial Services
 - Innovation
-Author: Chloe Messenger
+Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
+  and [Carlos Valente Mondle](http://fsdmoc.com/team/carlos-valente-mondle/)"
 social-image: "/uploads/FinancialInclusion.jpg"
 thumbnail: "/uploads/FinancialInclusion.jpg"
 ---
 
 World over, digital tools are creating opportunities for the unbanked, and expanding the array of financial services on offer.
 
-![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)
+![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)`FSD Mozambique is working to increase financial inclusion in Mozambique`
 
 Mozambique is no exception – whilst literacy rates are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13%](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
 
@@ -25,7 +26,7 @@ To provide much needed support and funding for FinTech, the Mozambique Sandbox �
 
 The Sandbox, located in Maputo, is currently incubating five FinTech start-ups, selected through [a fintech challenge](http://fsdmoc.com/fsdmoc-addressing-financial-sector-regulation-challenges-regulatory-sandbox-story/). The incubator provides a valuable opportunity for these FinTech start-ups to interact with Central Bank and creates opportunities for development, testing and demonstration of products; and opportunities for FinTechs and the Central Bank to learn from one another and share innovative ideas.
 
-![phone-9b944e.jpg](/uploads/phone-9b944e.jpg)
+![phone-9b944e.jpg](/uploads/phone-9b944e.jpg)`Digital financial services are on the rise in Mozambique`
 
 Here we give an introduction to the start-ups, selected through the challenge, what they are developing and how they are addressing the issue of financial exclusion in Mozambique. They are creating and testing a variety of solutions, from developing local and cross border remittance services to testing alternative payment systems. And now on to the introductions!
 
