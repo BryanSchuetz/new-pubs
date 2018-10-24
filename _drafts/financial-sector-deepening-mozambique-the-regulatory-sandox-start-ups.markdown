@@ -42,7 +42,7 @@ Robobo Incorporated Ltd is a Mozambican ICT development agency, with headquarter
 
 ## PAYTEK
 
-[PAYTEK](http://paytek-africa.com) is a new Mozambican fintech that operates as a payment services aggregator provider. It provides payment integration services, application interfaces, and access channels for companies and individuals to perform all kinds of digital financial services. Their e-wallet will allow end-users to continue to use their bank accounts and mobile wallets to carry out the payment of services and purchases but in a more intuitive, comprehensive and conscious way. They are designing new systems for low-value payments such as transport, public service taxes, and show entrance fees. They hope that by streamlining the digital finance process, they can promote among fellow Mozambicans a sustained habit of making electronic payments, instead of using physical money.
+[PAYTEK](http://paytek-africa.com) is a new Mozambican fintech that operates as a payment services aggregator provider. It provides payment integration services, application interfaces, and access channels for companies and individuals to perform all kinds of digital financial services. Its e-wallet will allow users to continue to use their bank accounts and mobile wallets to carry out payment of services but in a more intuitive, comprehensive, and conscious way. It is designing new systems for low-value payments such as transport, public service taxes, and show entrance fees. The firm hopes that by streamlining the digital finance process, it can promote among fellow Mozambicans a sustained habit of making electronic payments, instead of using physical money.
 
 ## Zoona and Socremo
 
