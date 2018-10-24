@@ -12,7 +12,7 @@ thumbnail: "/uploads/FinancialInclusion.jpg"
 
 All over the world, digital tools are creating opportunities for the those without bank accounts and expanding the array of financial services, known as fintech.
 
-![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)`The Financial Sector Deepening project is increasing financial inclusion in Mozambique.`
+![fsd moz logo.jpg](/uploads/fsd%20moz%20logo.jpg)`The Financial Sector Deepening project is increasing financial inclusion in Mozambique.`
 
 Mozambique is no exception—whilst literacy rates there are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13 percent](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
 
@@ -56,4 +56,4 @@ Robobo Incorporated Ltd is a Mozambican ICT development agency, with headquarter
 
 Working with the Sandbox has increased both the Central Bank’s understanding of the fintech sector, and the startups’ understanding of the requirements of the Central Bank, allowing them to garner much-needed buy-in.  FSDMoç will continue to support the five startups, and we look forward to hearing more about their products and how they are working towards a more financially inclusive Mozambique.
 
-_Interested in digital financial inclusion? Want to hear more about FSDMoç? Follow us on Twitter [@FSDmoc](https://twitter.com/fsdmoc_?lang=en) and keep an eye on our own [blog](http://fsdmoc.com/blog/) for more._
+*Interested in digital financial inclusion? Want to hear more about FSDMoç? Follow us on Twitter [@FSDmoc](https://twitter.com/fsdmoc_?lang=en) and keep an eye on our own [blog](http://fsdmoc.com/blog/) for more.*
