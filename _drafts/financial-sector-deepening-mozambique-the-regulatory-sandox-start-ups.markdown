@@ -56,4 +56,4 @@ Robobo Incorporated Ltd is a Mozambican ICT development agency, with headquarter
 
 Working with the Sandbox has increased both the Central Bank’s understanding of the fintech sector, and the startups’ understanding of the requirements of the Central Bank, allowing them to garner much-needed buy-in.  FSDMoç will continue to support the five startups, and we look forward to hearing more about their products and how they are working towards a more financially inclusive Mozambique.
 
-### *Interested in digital financial inclusion? Want to hear more about FSDMoç? Follow us on Twitter [@FSDmoc](https://twitter.com/fsdmoc_?lang=en) and keep an eye on our own [blog](http://fsdmoc.com/blog/) for more.*
+_Interested in digital financial inclusion? Want to hear more about FSDMoç? Follow us on Twitter [@FSDmoc](https://twitter.com/fsdmoc_?lang=en) and keep an eye on our own [blog](http://fsdmoc.com/blog/) for more._
