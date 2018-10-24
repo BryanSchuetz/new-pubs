@@ -10,7 +10,7 @@ social-image: "/uploads/FinancialInclusion.jpg"
 thumbnail: "/uploads/FinancialInclusion.jpg"
 ---
 
-All over the world, digital tools are creating opportunities for the those without bank accounts and expanding the array of financial services.
+All over the world, digital tools are creating opportunities for the those without bank accounts and expanding the array of financial services, known as fintech.
 
 ![FSDM-08280e.jpg](/uploads/FSDM-08280e.jpg)`The Financial Sector Deepening project is increasing financial inclusion in Mozambique.`
 
@@ -20,25 +20,25 @@ Mozambique is no exception—whilst literacy rates there are low, and the ICT in
 
 Enter the [Financial Sector Deepening project (FSDMoç)](https://www.dai.com/our-work/projects/mozambique-financial-sector-deepening-fsdmoc). Funded by the U.K. Department for International Development and Swedish International Development Cooperation Agency, FSDMoç is a facility for financial sector development with a focus on expanding financial inclusion for marginalised populations, or htose not currently served by formal financial institutions. The project’s innovative investments aim to address constraints in the financial market, helping to diversify the economy and bring prosperity and economic resilience to Mozambique’s people.
 
-Initial scoping research conducted at the start of FSDMoç revealed that, despite the relative newness of the Mozambican financial tech industry, much of the growth was supported by the international development community funding competitions and commercial bank incubator initiatives. There was a clear gap to be filled not just in the provision of financial tech services, but in its funding and development.
+Initial scoping research conducted at the start of FSDMoç revealed that, despite the relative newness of the Mozambican fintech industry, much of the growth was supported by the international development community funding competitions and commercial bank incubator initiatives. There was a clear gap to be filled not just in the provision of financial tech services, but in its funding and development.
 
-To do that, the project team joined up with The Bank of Mozambique to launch the Sandbox Incubator project for financial technology. The incubator is in Maputo and designed to create conditions of interaction between the regulator (Central Bank) and financial technology service providers as well as opportunities for development, testing, and demonstration of products.
+To do that, the project team joined up with The Bank of Mozambique to launch the Sandbox Incubator project for fintech. The incubator is in Maputo and designed to create conditions of interaction between the regulator (Central Bank) and fintech service providers as well as opportunities for development, testing, and demonstration of products.
 
 The Sandbox is currently incubating five startups, selected through [a fintech challenge](http://fsdmoc.com/fsdmoc-addressing-financial-sector-regulation-challenges-regulatory-sandbox-story/).
 
 ![phone-9b944e.jpg](/uploads/phone-9b944e.jpg)`Digital financial services are on the rise in Mozambique.`
 
-Let’s meet these startups, selected through the challenge, see what they are developing, and how they are addressing the issue of financial exclusion in Mozambique.
+Let’s meet these fintech startups, selected through the challenge, see what they are developing, and how they are addressing the issue of financial exclusion in Mozambique.
 
 ## Quick-e-Pay
 
-In response to the growing use of mobile wallets and need for the ability to pay for goods and services online, tech company *Ekutiva* are creating an online payment aggregator system—[Quick-e-Pay](http://www.quickepay.co.mz)—which is currently being built and developed under the supervision of the Central Bank.
+In response to the growing use of mobile wallets and need for the ability to pay for goods and services online, tech company Ekutiva is creating an online payment aggregator system—[Quick-e-Pay](http://www.quickepay.co.mz)—which is currently being built and developed under the supervision of the Central Bank.
 
-Their solution aims to change the local financial market by increasing digitalisation of transactions in local currency. The Ekuvita team hope that Quick-e-Pay ​can improve financial inclusion by leveraging free online payments for goods and services, integrating e-finance into the Mozambican ecosystem, and opening up e-finance opportunities for all Mozambicans. They envisage a local farmer using their platform to sell vegetables to a nearby city supermarket; a food delivery company that can offer food online with payment confirmation.
+Its solution aims to change the local financial market by increasing digitalisation of transactions in local currency. The Ekuvita team hopes that Quick-e-Pay ​can improve financial inclusion by leveraging free online payments for goods and services, integrating e-finance into the Mozambican ecosystem, and opening up e-finance opportunities for all. It envisages a local farmer using the platform to sell vegetables to a nearby city supermarket or a food delivery company that can offer food online with payment confirmation.
 
 ## PagaLu
 
-Robobo Incorporated Ltd is a Mozambican ICT development agency, with headquarters in Maputo. Robobo has recently been developing a FinTech solution known as PagaLu, which is a payment aggregator service that enables payments between mobile wallets, bank accounts and other methods. PagaLu is aimed at startups, entrepreneurs, content creators, and all who wish to monetize or accept payments from the majority of the commonly used means of transaction. Currently the solution is in a pilot phase with companies in the news subscriptions market and is expecting to manage over ten thousand daily transactions at start. Robobo’s vision is to grow the FinTech sector in Mozambique, expanding opportunities for small businesses.
+Robobo Incorporated Ltd is a Mozambican ICT development agency, with headquarters in Maputo. Robobo has recently been developing a solution known as PagaLu, a payment aggregator service that enables payments between mobile wallets, bank accounts, and other methods. PagaLu is aimed at startups, entrepreneurs, content creators, and all who wish to monetize or accept payments from the majority of the commonly used means of transaction. Currently the solution is in a pilot phase with companies in the news subscriptions market and is expecting to manage more than 10,000 daily transactions at start. Robobo’s vision is to grow the FinTech sector in Mozambique, expanding opportunities for small businesses.
 
 ## PAYTEK
 
