@@ -22,17 +22,17 @@ Enter the [Financial Sector Deepening project (FSDMoç)](https://www.dai.com/our
 
 Initial scoping research conducted at the start of FSDMoç revealed that, despite the relative newness of the Mozambican financial tech industry, much of the growth was supported by the international development community funding competitions and commercial bank incubator initiatives. There was a clear gap to be filled not just in the provision of financial tech services, but in its funding and development.
 
-To do that, the Mozambique Sandbox, the 3rd regulatory sandbox in Africa after Zambia (Information and Communication Technology Authority) and Sierra Leona – was launched by the Central Bank Governor in May 2018.
+To do that, the project team joined up with The Bank of Mozambique to launch the Sandbox Incubator project for financial technology. The incubator is in Maputo and designed to create conditions of interaction between the regulator (Central Bank) and financial technology service providers as well as opportunities for development, testing, and demonstration of products.
 
-The Sandbox, located in Maputo, is currently incubating five FinTech start-ups, selected through [a fintech challenge](http://fsdmoc.com/fsdmoc-addressing-financial-sector-regulation-challenges-regulatory-sandbox-story/). The incubator provides a valuable opportunity for these FinTech start-ups to interact with Central Bank and creates opportunities for development, testing and demonstration of products; and opportunities for FinTechs and the Central Bank to learn from one another and share innovative ideas.
+The Sandbox is currently incubating five startups, selected through [a fintech challenge](http://fsdmoc.com/fsdmoc-addressing-financial-sector-regulation-challenges-regulatory-sandbox-story/).
 
-![phone-9b944e.jpg](/uploads/phone-9b944e.jpg)`Digital financial services are on the rise in Mozambique`
+![phone-9b944e.jpg](/uploads/phone-9b944e.jpg)`Digital financial services are on the rise in Mozambique.`
 
-Here we give an introduction to the start-ups, selected through the challenge, what they are developing and how they are addressing the issue of financial exclusion in Mozambique. They are creating and testing a variety of solutions, from developing local and cross border remittance services to testing alternative payment systems. And now on to the introductions!
+Let’s meet these startups, selected through the challenge, see what they are developing, and how they are addressing the issue of financial exclusion in Mozambique.
 
 ## Quick-e-Pay
 
-In response to the growing use of mobile wallets and need for the ability to pay for goods and services online, tech company *Ekutiva* are creating an online payment aggregator system - [Quick-e-Pay](http://www.quickepay.co.mz) - which is currently being built and developed under the supervision of the Central Bank.
+In response to the growing use of mobile wallets and need for the ability to pay for goods and services online, tech company *Ekutiva* are creating an online payment aggregator system—[Quick-e-Pay](http://www.quickepay.co.mz)—which is currently being built and developed under the supervision of the Central Bank.
 
 Their solution aims to change the local financial market by increasing digitalisation of transactions in local currency. The Ekuvita team hope that Quick-e-Pay ​can improve financial inclusion by leveraging free online payments for goods and services, integrating e-finance into the Mozambican ecosystem, and opening up e-finance opportunities for all Mozambicans. They envisage a local farmer using their platform to sell vegetables to a nearby city supermarket; a food delivery company that can offer food online with payment confirmation.
 
