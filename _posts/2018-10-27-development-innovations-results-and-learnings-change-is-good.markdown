@@ -1,7 +1,11 @@
 ---
 title: Development Innovations Results & Learnings – Change is Good!
 date: 2018-10-27 08:32:00 -04:00
+published: false
+tags:
+- Innovation
 Author: Karim Bin-Humam
+social-image: "/uploads/sotheavy.jpg"
 ---
 
 Innovation is a nebulous term. But you  already knew that. It’s even more nebulous in donor-funded development, where the flexible, instinctive nature of innovation often seems to clash with the structured, accountability focused logical frameworks of donor-funded projects. In development programming, we don’t tend to approach change constructively. We usually see changing course as the failure of the old course rather than a successful manifestation of learning. But can we do things differently and still provide tangible outcomes? Is it possible for us to approach our work as equal parts learning and doing? Can the learning inform our doing in real time? The answer is yes – under the right conditions.
