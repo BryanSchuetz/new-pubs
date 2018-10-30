@@ -1,0 +1,36 @@
+---
+title: Getting the Basics Right
+date: 2018-10-30 14:19:00 -04:00
+---
+
+There’s a tendency in any field to focus on the newest, shiniest, objects. Just like obsession over the release of the latest iPad, the ICT4D community holds a special place in its heart for the newest technology offerings. Machine Learning, Blockchain, and the Internet of Things (IoT) come to mind today, whereas in years past we focused on crowdsourcing, social media, or mobile phones.
+
+This focus on new technology is very useful to our field, ensuring proper integration of technologies as they are released, as opposed to waiting years before effective adoption. That being said, I do worry that a focus on the newest technology can be detrimental to effective use of what may be considered legacy methods.
+
+**Getting Basic Data Right**
+
+One example of this is in the field of data science. Machine learning (ML) methods have gained a lot of attention in recent years, and for good reason. Our [team has used](https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html) ML for some very discrete but powerful purposes, and created efficiencies in our organization where they would not have previously been possible. However, effective machine learning use requires a large amount of training data – something not all international development organizations are likely to have. Fortunately, there are a lot of non-machine learning analytical functions that are equally, if not more urgent for organizations to tackle.
+
+Descriptive statistics about core business operations such as program expenditure can be critical to a programs ability to make agile decisions. Programs also rely on knowledge of country demographics, economics, agricultural production levels, or political sentiment to develop theories of change. Our team has a method called [site selection](https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html), which we use for decision-support at DAI. But most high quality data is available only at the country level, as opposed to broken out by sub-region. And this type of data management is a lot of work, requiring both an in-depth understanding of the thematic area of focus, as well as the ways data and technology can be leveraged to develop new insights.
+
+Fortunately, there are some very promising initiatives that are bringing the fundamentals of data analysis into focus.
+
+**Growing number of ways to learn data analysis and technology**
+
+First, it is easier than ever to learn data analysis skills. Online learning makes access to both content and subject matter expertise easier than ever. If you want to learn statistics, go on over to [datacamp](https://www.datacamp.com/). Want a great overview of data collection technologies? [TechChange](https://www.techchange.org/) has a great [four-week course](https://course.tc/catalog/course/tc211-technology-for-data-collection-and-management) for that. Want to learn some web development? Khan academy has some great free [introductory courses](https://www.khanacademy.org/computing/computer-programming/html-css), which will set you up for more in-depth offerings by sites such as [codeacademy](https://www.codecademy.com/) or [team treehouse](https://teamtreehouse.com/).
+
+Universities and bootcamps are also catching on to this need, and focusing on mid-career professionals. Code Partners, a new coding academy based in Montgomery County, MD, launched this past year, and offers a 20-week fast track educational environment for aspiring developers. While some may argue that there’s no replacement for a computer science or statistics degree, the barrier to data analysis and technology knowledge is lower than ever.
+
+**Big orgs are taking data seriously**
+
+Second, major development organizations are taking data analysis seriously. Whether that be through the development of embedded analytics teams, or by funding the development of public good datasets, both private and public sector organizations increasingly invest in or hire staff dedicated to quality data analysis. At DAI we have a growing cadre of programmers and data analysts, whether that be within our Center for Digital Acceleration, or within DAI’s monitoring evaluation and learning (MEL) practice - Managing for Development Results (MfDR).
+
+Government organizations are taking data public good data analysis seriously too. The State Department’s [Mapgive](https://mapgive.state.gov/) program launched in 2014, and continues to coordinate efforts around OpenSteetMap, and offer free satellite imagery to humanitarian agencies in response to humanitarian emergencies through its [Imagery to the Crowd](https://mapgive.state.gov/ittc/) (IttC) initiative. These initiatives stand in parallel to the USAID funded [Youth Mappers](https://www.youthmappers.org/) project, which organizes a global community of learners, researchers, educators, and scholars to create and use geographic data that addresses locally defined development challenges worldwide.”
+
+**Professional Data Use Policies**
+
+In addition to developing programs, USAID is taking data to the policy level. This summer USAID released [ADS579](https://www.usaid.gov/ads/policy/500/579), which “provides guidance for complying with USAID’s evaluation policy. It states that ‘all quantitative data collected by USAID or one of the Agency’s contractors… must be uploaded and stored in a central database.” The policy and its addendums goes on to detail the way data should be structured, offering clear data management guidance, and a vision for how the data can be used to support policy and program decision-making. While this may be seen by some as another bureaucratic box to check, I see this as a commitment to using data for decision-making.
+
+**The Rise of BI tools**
+
+The last major innovation bringing data analysis capabilities to major international organization is the rise of Business Intelligence (BI) applications such as Tableau and PowerBI, and the many open source JavaScript data visualization libraries that power dashboards across the internet. However, the rise of BI tools brings both risks and rewards, as they open the door for non-programmers or database managers to get involved in descriptive data analysis. One word of caution is that BI tools can almost make data analysis too easy, allowing users to explore data without much structure, possible causing inference about correlation where no relationship exists.
