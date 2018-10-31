@@ -14,7 +14,7 @@ There’s a tendency in any field of business (and life!) to focus on the newest
 
 <!--more-->
 
-This focus on new technology is very useful to international development, ensuring proper integration of technologies as they are released, as opposed to waiting years before effective adoption. That being said, I do worry that a focus on the newest technology can be detrimental to effective use of what may be considered legacy methods.
+This focus on new technology is very useful to international development, ensuring proper integration of technologies as they are released, as opposed to waiting years before effective adoption. That being said, I do worry that a focus on the latest and greatest can be detrimental to effective use of what may be considered legacy methods.
 
 ## **Getting Basic Data Right**
 
