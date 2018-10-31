@@ -1,5 +1,5 @@
 ---
-title: Getting the Basics Right
+title: Getting the Basics of ICT4D Right
 date: 2018-10-30 14:19:00 -04:00
 categories:
 - Data
