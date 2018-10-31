@@ -11,6 +11,7 @@ Author: Greg Maly
 There’s a tendency in any field to focus on the newest, shiniest, objects. Just like obsession over the release of the latest iPad, the ICT4D community holds a special place in its heart for the newest technology offerings. Machine Learning, Blockchain, and the Internet of Things (IoT) come to mind today, whereas in years past we focused on crowdsourcing, social media, or mobile phones.
 
 This focus on new technology is very useful to our field, ensuring proper integration of technologies as they are released, as opposed to waiting years before effective adoption. That being said, I do worry that a focus on the newest technology can be detrimental to effective use of what may be considered legacy methods.
+<!--more-->
 
 **Getting Basic Data Right**
 
