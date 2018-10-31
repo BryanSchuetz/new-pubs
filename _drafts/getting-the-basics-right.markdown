@@ -24,9 +24,9 @@ Descriptive statistics about core business operations such as program expenditur
 
 Fortunately, there are some very promising initiatives that are bringing the fundamentals of data analysis into focus.
 
-## **Growing Your Skills**
+## **Building Your Skills**
 
-First, it is easier than ever to learn data analysis skills. Online learning makes access to both content and subject matter expertise easier than ever. If you want to learn statistics, go on over to [datacamp](https://www.datacamp.com/). Want a great overview of data collection technologies? [TechChange](https://www.techchange.org/) has a great [four-week course](https://course.tc/catalog/course/tc211-technology-for-data-collection-and-management) for that. Want to learn some web development? Khan academy has some great free [introductory courses](https://www.khanacademy.org/computing/computer-programming/html-css), which will set you up for more in-depth offerings by sites such as [codeacademy](https://www.codecademy.com/) or [team treehouse](https://teamtreehouse.com/).
+First, it is easier than ever to learn data analysis skills. Online learning makes access to both content and subject matter expertise easier than ever. If you want to learn statistics, go on over to [datacamp](https://www.datacamp.com/). Want a great overview of data collection technologies? [TechChange](https://www.techchange.org/) has a great [four-week course](https://course.tc/catalog/course/tc211-technology-for-data-collection-and-management) for that. Want to learn web development? Khan Academy has great free [introductory courses](https://www.khanacademy.org/computing/computer-programming/html-css) that will set you up for more in-depth offerings by sites such as [codeacademy](https://www.codecademy.com/) or [team treehouse](https://teamtreehouse.com/).
 
 Universities and bootcamps are also catching on to this need, and focusing on mid-career professionals. [Code Partners](https://www.codepartners.net/), a new coding academy based in Montgomery County, MD, launched this past year, and offers a 20-week fast track educational environment for aspiring developers. While some may argue that there’s no replacement for a computer science or statistics degree, the barrier to data analysis and technology knowledge is lower than ever.
 
