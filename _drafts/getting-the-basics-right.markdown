@@ -43,4 +43,4 @@ The last major innovation bringing data analysis capabilities to major internati
 
 ## Moving Forward
 
-The ICT4D field will continue to explore the latest technologies, working to bring innovations into our practice
+The ICT4D field will continue to explore the latest technologies, working to bring innovations into our practice in both ethical and (hopefully) efficient ways. But as we continue to do so, I'm hopeful that we will continue to put energy into ensuring that fundamental data and technology capabilities continue to mature in ways that strengthen projects and policies geared toward development and diplomacy efforts around the globe.  
