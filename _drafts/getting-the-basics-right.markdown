@@ -42,7 +42,7 @@ Government organizations are taking data public good data analysis seriously, to
 
 In addition to developing programs, USAID is taking data to the policy level. This summer USAID released [ADS 579](https://www.usaid.gov/ads/policy/500/579), which provides guidance for complying with USAID’s evaluation policy. It states that “all quantitative data collected by USAID or one of the Agency’s contractors… must be uploaded and stored in a central database.” The policy and its addenda detail the way data should be structured, offering clear data management guidance, and a vision for how the data can be used to support policy and program decision-making. While this may be seen by some as another bureaucratic box to check, I see this as a commitment to using data for decision-making.
 
-## **The Rise of Business Intelligence Tools**
+## The Rise of Business Intelligence Tools
 
 The last major innovation bringing data analysis capabilities to international development organizations is the rise of business intelligence applications such as Tableau and PowerBI, and the many open source JavaScript data visualization libraries that power dashboards across the internet. 
 
