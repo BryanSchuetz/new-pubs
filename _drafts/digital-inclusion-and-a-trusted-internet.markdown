@@ -8,7 +8,7 @@ Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
 social-image: "/uploads/Cybersecurity%20paper.jpg"
 ---
 
-*This is a guest post written by Jonathan Dolan. Jonathan is currently an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development and led the Center's Digital Inclusion Practice from 2014-2018.* 
+*This is a guest post written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/). Jonathan is currently an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development and led the Center's Digital Inclusion Practice from 2014-2018.* 
 
 In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training:  On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the least prepared to respond to cyber threats,  potentially putting at greater risk the very populations that internet access programs seek to connect.
 
