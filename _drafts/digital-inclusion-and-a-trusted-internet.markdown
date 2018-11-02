@@ -8,7 +8,7 @@ Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
 social-image: "/uploads/Cybersecurity%20paper.jpg"
 ---
 
-*This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led the Center’s Digital Inclusion Practice from 2014 to 2018.*
+*This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led its Digital Inclusion Practice from 2014 to 2018.*
 
 Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.
 
