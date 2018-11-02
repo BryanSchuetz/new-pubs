@@ -8,17 +8,17 @@ Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
 social-image: "/uploads/Cybersecurity%20paper.jpg"
 ---
 
-*This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development and led the Center’s Digital Inclusion Practice from 2014 to 2018.*
+*This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led the Center’s Digital Inclusion Practice from 2014 to 2018.*
 
-Back in 2014, when I was leading the U.S. Agency for International Development’s (USAID) Digital Inclusion Practice, I was invited to present on the importance of Information and Communication technologies (ICTs) in driving economic growth as part of a U.S Department of State Cyber training.  The training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.
+Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.
 
 <!--more-->
 
-My presentation was followed immediately by one on cybercrime, delivered by a high-ranking military officer who drew on recent headline-making cyber attacks—such as the 2012–2013 [Operation Ababil](https://en.wikipedia.org/wiki/Operation_Ababil), which targeted U.S. financial institutions with distributed-denial-of-service attacks—to paint a dire picture of escalating risks in the virtual world. That presentation was followed by others on cyber warfare, online fraud, the use of online platforms for state-sponsored surveillance, and other nefarious activities of the digital age.
+My presentation was followed immediately by one on cyber crime, delivered by a high-ranking military officer who drew on recent headline-making cyber attacks—such as the 2012–2013 [Operation Ababil](https://en.wikipedia.org/wiki/Operation_Ababil) that targeted U.S. financial institutions with distributed-denial-of-service attacks—to paint a dire picture of escalating risks in the virtual world. That presentation was followed by others on cyber warfare, online fraud, the use of online platforms for state-sponsored surveillance, and other nefarious activities of the digital age.
 
 By the end of the training, it was clear to me that the message of digital risk had resonated with participants far more than the message of digital opportunity. At best, the policies for promoting digital access and the policies for preventing cyber risk appeared as disconnected issues and, at worst, as fundamentally at odds.
 
-## Digital Risk vs. Digital Opportunity: Where Are We Today?
+## Digital Risk vs. Digital Opportunity
 
 In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training:  On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the \[least prepared to respond to cyber threats\](https://www.itu.int/dms_pub/itu-d/opb/ str/D-STR-GC/I.01-2017-R1-PDF-E.pdf),  potentially putting at greater risk the very populations that internet access programs seek to connect.
 
