@@ -1,6 +1,11 @@
 ---
 title: Digital Inclusion and a Trusted Internet
 date: 2018-11-02 10:46:00 -04:00
+tags:
+- Cyber Security
+- Privacy
+Author: Jonathan Dolan
+social-image: "/uploads/Cybersecurity%20paper.jpg"
 ---
 
 In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training:  On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the least prepared to respond to cyber threats,  potentially putting at greater risk the very populations that internet access programs seek to connect.
