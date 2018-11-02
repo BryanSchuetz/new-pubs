@@ -29,17 +29,17 @@ With this tension in mind, it was helpful to see Sir Tim Berners-Lee pose two fr
 
 There’s a lot packed into each of those questions—from technology considerations to concerns about advertising-based business models, the power dynamics of who mediates content, and how the internet is perceived by those coming online for the first time today—but the frankness of the questions was illuminating to me in a fundamental way:
 
-The international development community is tackling Sir Tim’s first question head-on, having fully embraced the digital revolution both as an enabler of traditional development outcomes in health, education, agriculture and as a development objective in its own right. Universal access to the internet has become the focus of numerous international efforts—such as the World Economic Forum’s Internet for All project—and is enshrined in the Sustainable Development Goal 9.C.
+The international development community is tackling Sir Tim’s first question head-on, having fully embraced the digital revolution both as an enabler of traditional development outcomes in health, education, agriculture and as a development objective in its own right. Universal access to the internet has become the focus of numerous international efforts—such as the World Economic Forum’s Internet for All project—and is enshrined in the [Sustainable Development Goal 9C](https://sustainabledevelopment.un.org/sdg9).
 
-We, the development community, therefore have an increasingly large role in shaping the nature of the networked society in emerging markets where many people are coming online for the first time.  Yet, as a community, we have not addressed in any systematic way Sir Tim’s second question.
+We, the development community, therefore have an increasingly large role in shaping the nature of the networked society in emerging markets. Yet, as a community, we have not addressed in any systematic way Sir Tim’s second question.
 
-I’ve spent the last few months thinking about Sir Tim’s second question, in hopes of kick-starting this conversation on the international development stage. My thoughts, culminated in the publication of a report commissioned by DAI’s Center for Digital Acceleration. I’ve summarized some of my thoughts here, and hope you find the full report thought provoking.
+I’ve spent the last few months thinking about the second question, in hopes of kick-starting this conversation on the international development stage. My thoughts, culminated in the publication of a report commissioned by DAI’s Center for Digital Acceleration. I’ve summarized some of my thoughts here, and hope you find the full report thought-provoking.
 
 \[ADD BUTTON TO DOWNLOAD REPORT\]
 
-## The Importance of Focusing on Trust
+## Focusing on Trust
 
-There is increasing urgency for the international development community to play an active role in shaping the kind of internet people experience when they come online for the first time.  With cybercrime growing exponentially and the internet increasingly becoming a platform for spreading misinformation, inciting hatred, and exerting control, we see a significant erosion of trust online globally and people are starting to change when and how they engage online.
+There is increasing urgency for the international development community to play an active role in shaping the kind of internet people experience when they go online for the first time. With cyber crime growing exponentially and the internet becoming a platform for spreading misinformation, inciting hatred, and exerting control, we see a significant erosion of trust online globally and people are starting to change how they engage online.
 
 Ultimately, the development goals of inclusive economic growth and expanded access to information are best served by an open and inclusive internet. Achieving this vision should remain the objective of the development community, but it must take seriously the risks presented by expanded access. Getting the cybersecurity environment right will require collaboration among different communities—law enforcement, defense, intelligence, diplomatic, and others. But the development community should exert its interests and resist pressure to adopt an entirely risk-averse position that prioritizes security over inclusion.
 
