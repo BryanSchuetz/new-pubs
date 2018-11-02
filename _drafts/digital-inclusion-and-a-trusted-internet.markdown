@@ -8,7 +8,7 @@ Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
 social-image: "/uploads/Cybersecurity%20paper.jpg"
 ---
 
-*This is a guest post written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/). Jonathan is currently an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development and led the Center's Digital Inclusion Practice from 2014-2018.* 
+*This is a guest post written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/). Jonathan is currently an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development and led the Center's Digital Inclusion Practice from 2014-2018.*
 
 In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training:  On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the least prepared to respond to cyber threats,  potentially putting at greater risk the very populations that internet access programs seek to connect.
 
@@ -22,7 +22,7 @@ By the end of the training, it was clear to me that the message of digital risk 
 
 ## Digital Risk vs. Digital Opportunity: Where Are We Today?
 
-In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training:  On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the [least prepared to respond to cyber threats](https://www.itu.int/dms_pub/itu-d/opb/ str/D-STR-GC/I.01-2017-R1-PDF-E.pdf),  potentially putting at greater risk the very populations that internet access programs seek to connect.
+In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training:  On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the \[least prepared to respond to cyber threats\](https://www.itu.int/dms_pub/itu-d/opb/ str/D-STR-GC/I.01-2017-R1-PDF-E.pdf),  potentially putting at greater risk the very populations that internet access programs seek to connect.
 
 With this tension in mind, it was helpful to see Sir Tim Berners-Lee pose two frank questions about his creation in a letter he published on the World Wide Web’s 29th birthday earlier this year:
 
@@ -48,7 +48,7 @@ Ultimately, the development goals of inclusive economic growth and expanded acce
 
 Instead, development programs, particularly those investing in expanded internet access, must start to take a more intentional approach to building trust in the internet while also bringing more people online.  In doing so, the development community can ensure the internet remains a force for positive socioeconomic development while also contributing to the overall security environment.
 
-## What Donors Can Do?
+## What Can Donors Do?
 
 Fortunately, international development donors already have tools and models for cultivating trust in digital inclusion programs but they must be deployed with a more intentional focus in three areas:
 
