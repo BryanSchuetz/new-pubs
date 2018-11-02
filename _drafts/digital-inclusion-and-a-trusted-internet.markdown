@@ -43,22 +43,14 @@ There is increasing urgency for the international development community to play 
 
 Ultimately, the development goals of inclusive economic growth and expanded access to information are best served by an open and inclusive internet. Achieving this vision should remain the objective of the development community, but it must take seriously the risks presented by expanded access. Getting the cybersecurity environment right will require collaboration among different communities—law enforcement, defense, intelligence, diplomatic, and others. But the development community should exert its interests and resist pressure to adopt an entirely risk-averse position that prioritizes security over inclusion.
 
-Instead, development programs, particularly those investing in expanded internet access, must start to take a more intentional approach to building trust in the internet while also bringing more people online.  In doing so, the development community can ensure the internet remains a force for positive socioeconomic development while also contributing to the overall security environment.
+Instead, development programs, particularly those investing in expanded internet access, must start to take a more intentional approach to building trust in the internet while also bringing more people online. In doing so, the development community can ensure the internet remains a force for positive socioeconomic development while also contributing to the overall security environment.
 
 ## What Can Donors Do?
 
 Fortunately, international development donors already have tools and models for cultivating trust in digital inclusion programs but they must be deployed with a more intentional focus in three areas:
 
-1. Empowering users to be dynamic participants in the digital space by ensuring they have a clearer understanding of their privacy and consumer rights, greater ability to assess online risks and identify misinformation and efforts to manipulate, and more agency in their lives online.
+* Empowering users to be dynamic participants in the digital space by ensuring they have a clearer understanding of their privacy and consumer rights, greater ability to assess online risks, identify misinformation and efforts to manipulate, and more agency in their online lives.
+* Supporting governments’ capacity to develop and implement integrated national digital strategies that balance access and security based on local needs. By focusing on standardization of capacity-building programs and local ownership, the development community can help establish parameters that underpin a free and open internet while building a more trusted digital ecosystem that responds to local context.
+* De-risking digital inclusion investment in emerging markets to catalyze innovation and competition to build an ecosystem with a greater number of trusted partners.
 
-2. Supporting governments’ capacity to develop and implement integrated national digital strategies that balance access and security based on local needs. By focusing on standardization of capacity-building programs and local ownership, the development community can help establish parameters that underpin a free and open internet while building a more trusted digital ecosystem that responds to local context.
-
-3. De-risking digital inclusion investment in emerging markets to catalyze innovation and competition in order to build an ecosystem with a greater number of trusted partners
-
-\[ADD BUTTON TO DOWNLOAD REPORT\]
-
-*If you’re interested in learning more about the report, it is not too late to register to our two launch events in London and Washington, DC.*
-
-Register [here](https://www.eventbrite.com.au/e/digital-inclusion-and-a-trusted-internet-tickets-51137643067) for the London event on Thursday, November 8, 2018 at 3:30pm.
-
-Register [here](https://www.eventbrite.com/e/digital-inclusion-and-a-trusted-internet-registration-51338122707) for the DC event on Thursday, November 15, 2018 at 4:00pm.
+*If you’re interested in learning more about the report, it is not too late to register to for [November 8 event](https://www.eventbrite.com.au/e/digital-inclusion-and-a-trusted-internet-tickets-51137643067) in London and [November 15 event](https://www.eventbrite.com/e/digital-inclusion-and-a-trusted-internet-registration-51338122707) in Washington, D.C.*
