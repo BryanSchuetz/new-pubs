@@ -4,7 +4,7 @@ date: 2018-11-02 10:46:00 -04:00
 tags:
 - Cyber Security
 - Privacy
-Author: Jonathan Dolan
+Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
 social-image: "/uploads/Cybersecurity%20paper.jpg"
 ---
 
