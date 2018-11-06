@@ -2,8 +2,8 @@
 title: Digital Inclusion and a Trusted Internet
 date: 2018-11-06 08:00:00 -05:00
 tags:
-- Cyber Security
 - Privacy
+- Cybersecurity
 Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
 social-image: "/uploads/ReportCover.PNG"
 thumbnail: "/uploads/ReportCover.PNG"
@@ -20,7 +20,7 @@ By the end of the training, it was clear to me that the message of digital risk 
 
 ## Digital Risk vs. Digital Opportunity
 
-In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training: On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the \[least prepared to respond to cyber threats\](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2017-PDF-E.pdf),  potentially putting at greater risk the very populations that internet access programs seek to connect.
+In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training: On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the [least prepared to respond to cyber threats](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2017-PDF-E.pdf),  potentially putting at greater risk the very populations that internet access programs seek to connect.
 
 With this tension in mind, it was helpful to see Sir Tim Berners-Lee pose two frank questions about his creation in a letter he published on the World Wide Web’s 29th birthday earlier this year:
 
