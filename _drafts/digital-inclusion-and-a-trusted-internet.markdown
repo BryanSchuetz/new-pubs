@@ -20,7 +20,7 @@ By the end of the training, it was clear to me that the message of digital risk 
 
 ## Digital Risk vs. Digital Opportunity
 
-In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training: On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the [least prepared to respond to cyber threats](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GC/I.01-2017-R1-PDF-E.pdf),  potentially putting at greater risk the very populations that internet access programs seek to connect.
+In the years since that experience, I have grappled—personally and professionally—with the tension I observed during the training: On one hand, nearly half the world’s population remains offline—a status quo that should be unacceptable to anyone concerned with supporting economic growth, social inclusion, and new opportunities for historically marginalized populations. On the other hand, low-income countries, where most offline populations are found, are the [least prepared](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GC/I.01-2017-R1-PDF-E.pdf) to respond to cyber threats, potentially putting at greater risk the very populations that internet access programs seek to connect.
 
 With this tension in mind, it was helpful to see Sir Tim Berners-Lee pose two frank questions about his creation in a letter he published on the World Wide Web’s 29th birthday earlier this year:
 
