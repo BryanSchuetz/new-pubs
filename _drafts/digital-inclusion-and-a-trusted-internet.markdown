@@ -9,13 +9,8 @@ social-image: "/uploads/ReportCover.PNG"
 thumbnail: "/uploads/ReportCover.PNG"
 ---
 
-![ReportCover-d03d70.PNG](/uploads/ReportCover-d03d70.PNG)
+![ReportCover-d03d70.PNG](/uploads/ReportCover-d03d70.PNG){:.float-right} Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.
 
-`This photograph was taken by Gaganjit Singh and published by UN Women.`
-
-*This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led its Digital Inclusion Practice.*
-
-Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.
 
 <!--more-->
 
@@ -60,11 +55,11 @@ Instead, development programs, particularly those investing in expanded internet
 Fortunately, international development donors already have tools and models for cultivating trust in digital inclusion programs but they must be deployed with a more intentional focus in three areas:
 
 * Empowering users to be dynamic participants in the digital space by ensuring they have a clearer understanding of their privacy and consumer rights, greater ability to assess online risks, identify misinformation and efforts to manipulate, and more agency in their online lives.
-
 * Supporting governments’ capacity to develop and implement integrated national digital strategies that balance access and security based on local needs. By focusing on standardization of capacity-building programs and local ownership, the development community can help establish parameters that underpin a free and open internet while building a more trusted digital ecosystem that responds to local context.
-
 * De-risking digital inclusion investment in emerging markets to catalyze innovation and competition to build an ecosystem with a greater number of trusted partners.
 
 *If you’re interested in learning more about the report, it is not too late to register to for [November 8 event](https://www.eventbrite.com.au/e/digital-inclusion-and-a-trusted-internet-tickets-51137643067) in London and [November 15 event](https://www.eventbrite.com/e/digital-inclusion-and-a-trusted-internet-registration-51338122707) in Washington, D.C.*
 
 *Download the 'Digital Inclusion and a Trusted Internet' [report](https://www.dai.com/cda-cybersecurity.pdf).*
+
+*This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led its Digital Inclusion Practice.*
