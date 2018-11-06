@@ -1,6 +1,7 @@
 ---
 title: Digital Inclusion and a Trusted Internet
 date: 2018-11-07 08:00:00 -05:00
+published: false
 tags:
 - Privacy
 - Cybersecurity
@@ -45,9 +46,7 @@ Ultimately, the development goals of inclusive economic growth and expanded acce
 
 Instead, development programs, particularly those investing in expanded internet access, must start to take a more intentional approach to building trust in the internet while also bringing more people online. In doing so, the development community can ensure the internet remains a force for positive socioeconomic development while also contributing to the overall security environment.
 
-![DigitalInclusionRecommendations.PNG](/uploads/DigitalInclusionRecommendations.PNG)
-
-`This graphic is from the 'Digital Inclusion and a Trusted Internet' report.`
+![DigitalInclusionRecommendations.PNG](/uploads/DigitalInclusionRecommendations.PNG)`From the 'Digital Inclusion and a Trusted Internet' report.`
 
 ## What Can Donors Do?
 
