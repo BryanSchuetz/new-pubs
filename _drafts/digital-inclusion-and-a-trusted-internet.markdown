@@ -35,7 +35,7 @@ We, the development community, therefore have an increasingly large role in shap
 
 I’ve spent the last few months thinking about the second question, in hopes of kick-starting this conversation on the international development stage. My thoughts, culminated in the publication of a report commissioned by DAI’s Center for Digital Acceleration. I’ve summarized some of my thoughts here, and hope you find the full report thought-provoking.
 
-<aside><p><em>Download the ‘Digital Inclusion and a Trusted Internet’ <a href="https://www.dai.com/cda-cybersecurity.pdf">report</a>.</em></p></aside>
+<aside><p><strong>Download the ‘Digital Inclusion and a Trusted Internet’ <a href="https://www.dai.com/cda-cybersecurity.pdf">report</a>.</strong></p></aside>
 
 ## Focusing on Trust
 
@@ -59,6 +59,6 @@ Fortunately, international development donors already have tools and models for 
 
 *If you’re interested in learning more about the report, it is not too late to register to for [November 8 event](https://www.eventbrite.com.au/e/digital-inclusion-and-a-trusted-internet-tickets-51137643067) in London and [November 15 event](https://www.eventbrite.com/e/digital-inclusion-and-a-trusted-internet-registration-51338122707) in Washington, D.C.*
 
-<aside><p><em>Download the ‘Digital Inclusion and a Trusted Internet’ <a href="https://www.dai.com/cda-cybersecurity.pdf">report</a>.</em></p></aside>
+<aside><p><strong>Download the ‘Digital Inclusion and a Trusted Internet’ <a href="https://www.dai.com/cda-cybersecurity.pdf">report</a>.</strong></p></aside>
 
 *This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led its Digital Inclusion Practice.*
