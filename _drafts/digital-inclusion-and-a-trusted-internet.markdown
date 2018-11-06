@@ -41,7 +41,7 @@ We, the development community, therefore have an increasingly large role in shap
 
 I’ve spent the last few months thinking about the second question, in hopes of kick-starting this conversation on the international development stage. My thoughts, culminated in the publication of a report commissioned by DAI’s Center for Digital Acceleration. I’ve summarized some of my thoughts here, and hope you find the full report thought-provoking.
 
-\*Download the 'Digital Inclusion and a Trusted Internet' [report](https://www.dai.com/cda-cybersecurity.pdf). \*
+*Download the 'Digital Inclusion and a Trusted Internet' [report](https://www.dai.com/cda-cybersecurity.pdf).* 
 
 ## Focusing on Trust
 
@@ -67,4 +67,4 @@ Fortunately, international development donors already have tools and models for 
 
 *If you’re interested in learning more about the report, it is not too late to register to for [November 8 event](https://www.eventbrite.com.au/e/digital-inclusion-and-a-trusted-internet-tickets-51137643067) in London and [November 15 event](https://www.eventbrite.com/e/digital-inclusion-and-a-trusted-internet-registration-51338122707) in Washington, D.C.*
 
-\*Download the 'Digital Inclusion and a Trusted Internet' [report](https://www.dai.com/cda-cybersecurity.pdf). \*
+*Download the 'Digital Inclusion and a Trusted Internet' [report](https://www.dai.com/cda-cybersecurity.pdf).* 
