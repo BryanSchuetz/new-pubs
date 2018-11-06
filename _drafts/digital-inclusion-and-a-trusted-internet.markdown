@@ -5,7 +5,8 @@ tags:
 - Cyber Security
 - Privacy
 Author: "[Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan)"
-social-image: "/uploads/Cybersecurity%20paper.jpg"
+social-image: "/uploads/ReportCover.PNG"
+thumbnail: "/uploads/ReportCover.PNG"
 ---
 
 *This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led its Digital Inclusion Practice.*
