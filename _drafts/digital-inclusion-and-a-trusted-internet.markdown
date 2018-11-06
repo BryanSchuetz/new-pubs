@@ -25,7 +25,6 @@ In the years since that experience, I have grappled—personally and professiona
 With this tension in mind, it was helpful to see Sir Tim Berners-Lee pose two frank questions about his creation in a letter he published on the World Wide Web’s 29th birthday earlier this year:
 
 * How do we get the other half of the world connected?
-
 * Are we sure the rest of the world wants to connect to the web we have [today](https://webfoundation.org/2018/03/web-birthday-29/)?
 
 There’s a lot packed into each of those questions—from technology considerations to concerns about advertising-based business models, the power dynamics of who mediates content, and how the internet is perceived by those coming online for the first time today—but the frankness of the questions was illuminating to me in a fundamental way:
@@ -36,7 +35,7 @@ We, the development community, therefore have an increasingly large role in shap
 
 I’ve spent the last few months thinking about the second question, in hopes of kick-starting this conversation on the international development stage. My thoughts, culminated in the publication of a report commissioned by DAI’s Center for Digital Acceleration. I’ve summarized some of my thoughts here, and hope you find the full report thought-provoking.
 
-*Download the 'Digital Inclusion and a Trusted Internet' [report](https://www.dai.com/cda-cybersecurity.pdf).*
+<aside><p><em>Download the ‘Digital Inclusion and a Trusted Internet’ <a href="https://www.dai.com/cda-cybersecurity.pdf">report</a>.</em></p></aside>
 
 ## Focusing on Trust
 
