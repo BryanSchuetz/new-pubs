@@ -11,7 +11,7 @@ thumbnail: "/uploads/ReportCover.PNG"
 
 ![ReportCover-d03d70.PNG](/uploads/ReportCover-d03d70.PNG)
 
-`This photograph was taken by Gaganjit Singh and published by UN Women`
+`This photograph was taken by Gaganjit Singh and published by UN Women.`
 
 *This guest post was written by [Jonathan Dolan](https://www.linkedin.com/in/jonathanjdolan/), an independent consultant and a New America Cybersecurity Policy Fellow specializing in digital inclusion and data governance. Jonathan co-founded the Center for Digital Development at the U.S. Agency for International Development (USAID) and led its Digital Inclusion Practice.*
 
