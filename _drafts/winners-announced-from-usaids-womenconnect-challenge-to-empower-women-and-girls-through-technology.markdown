@@ -2,9 +2,11 @@
 title: Winners Announced from USAID’s WomenConnect Challenge to Empower Women and
   Girls Through Technology
 date: 2018-11-07 15:45:00 -05:00
+tags:
+- Digital Inclusion
 ---
 
-![WomenConnect.jpg](/uploads/WomenConnect.jpg)
+![WomenConnectSmall.jpg](/uploads/WomenConnectSmall.jpg)
 
 On October 3, 2018, USAID’s Senior Deputy Assistant Administrator Michelle Bekkering announced the nine winners of the WomenConnect Challenge at the W20 Summit. The WomenConnect Challenge aims to improve women’s participation in everyday life by meaningfully changing the ways women and girls access and use technology.
 
