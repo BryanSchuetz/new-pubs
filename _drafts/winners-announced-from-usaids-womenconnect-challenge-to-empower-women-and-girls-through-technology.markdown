@@ -6,6 +6,8 @@ date: 2018-11-07 15:45:00 -05:00
 
 On October 3, 2018, USAID’s Senior Deputy Assistant Administrator Michelle Bekkering announced the nine winners of the WomenConnect Challenge at the W20 Summit. The WomenConnect Challenge aims to improve women’s participation in everyday life by meaningfully changing the ways women and girls access and use technology.
 
+<!--more-->
+
 DAI’s Digital Frontiers project, a five-year cooperative agreement administered by USAID’s Center for Digital Development, has managed the WomenConnect Challenge since it was launched by Advisor to the President, Ivanka Trump and USAID Administrator Mark Green on International Women’s Day in March 2018. We received more than 500 applications from 89 countries and hosted a Solver Symposium in June to provide capacity building support and peer learning opportunities to our semi-finalists. We are now proud to announce the nine challenge winners who will work across 13 countries. Their solutions will empower women and girls, via access to, and the use of, digital technology to drive positive health, education, and livelihood outcomes for themselves and their families.
 
 **Here’s a rundown of the nine winners and their solutions for bridging the gender digital divide:**
