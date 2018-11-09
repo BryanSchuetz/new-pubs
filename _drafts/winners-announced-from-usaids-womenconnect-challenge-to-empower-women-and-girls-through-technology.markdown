@@ -15,19 +15,19 @@ Choosing just nine shining examples from more than 500 applicants of the U.S. Ag
 
 <!--more-->
 
-The results blew our minds. These nine winners have solutions in health care, education, and more.
+The results blew our minds. These nine winners have solutions in health care, humanitarian mapping, internet access, and more.
 
-## Let’s meet our winners and their solutions for bridging the gender digital divide:
+## Let’s meet our winners:
 
 [AFCHIX:](http://www.afchix.org/) AFCHIX creates entrepreneurial opportunities for rural women in Senegal, Morocco, Kenya, and Namibia to run local internet service providers and work as network engineers. This initiative contributes to improving connectivity and building the capacity of communities to establish and maintain telecommunications infrastructure. The entrepreneurial and empowerment program helps women establish their own companies, provides important community services, and positions these individuals as role models.
 
-[Equal Access International:](http://www.equalaccess.org/) Millions of Nigerian women do not have access to the Internet or smartphones due to cultural restraints. Equal Access International works with communities to address the barriers that women and girls face to access and use technology at the community level, including working with men and boys to support women’s use of phones. The program will improve the conditions for women to use technology and benefit from digital information.
+[Equal Access International:](http://www.equalaccess.org/) Millions of Nigerian women do not have access to the internet or smartphones due to cultural restraints. Equal Access International works with communities to address the barriers that women and girls face to access and use technology at the community level, including working with men and boys to support women’s use of phones. The program will improve the conditions for women to use technology and benefit from digital information.
 
 [Gram Vaani:](http://www.gramvaani.org/) In Northern India, low-income urban and rural women are limited in their ability to use cell phones. Gram Vaani uses community radio and interactive voice technologies to create a media platform that fosters peer learning and collective action among women users, and facilitates a safe forum to discuss issues which can alter social norms and strengthen local governance.
 
 [Humanitarian OpenStreetMap Team:](https://www.hotosm.org/) Humanitarian OpenStreetMap Team is a global community of 130,000 people worldwide who create free, open source map data for humanitarian and development purposes. The team will work with young women in Tanzania, Zambia, and Paraguay to use mobile-based mapping platforms and crowdsourcing to determine the issues that are preventing them from reaching their full potential, such as gender-based violence, lack of access to education, or lack of economic opportunities. This mapping process empowers women to address these challenges.
 
-[Innovations for Poverty Action:](https://www.poverty-action.org/) In the Dominican Republic, low-income women disproportionately lack access to credit because they lack credit histories, property rights, and formal earnings. The Innovations for Poverty Action program uses proxies from mobile phone data to uncover gender biases in the credit market in the Dominican Republic, making it possible for women to gain a credit score in order to start new businesses. Women’s access to technology is used as a means to increase access to credit and financial inclusion.
+[Innovations for Poverty Action:](https://www.poverty-action.org/) In the Dominican Republic, low-income women disproportionately lack access to credit because they don’t typically have credit histories, property rights, and formal earnings. The Innovations for Poverty Action program uses proxies from mobile phone data to uncover gender biases in the credit market, making it possible for women to gain a credit score they need to start new businesses. Women’s increased access to technology leads to increased access to credit and financial inclusion.
 
 [Institute for Financial Management and Research:](http://ifmr.ac.in/) Evidence for Policy Design India at the Institute for Financial Management and Research will develop an innovative phone-based, push-pull information delivery service that provides women with mobile messages about government programs and benefits they can use. It also requests feedback about their experiences with the use of the technology as well as how to improve services that benefit them.
 
