@@ -1,20 +1,23 @@
 ---
-title: Winners Announced from USAID’s WomenConnect Challenge to Empower Women and
-  Girls Through Technology
-date: 2018-11-07 15:45:00 -05:00
+title: Meet the 9 WomenConnect Winners Who Are Using Tech for Good
+date: 2018-11-13 00:00:00 -05:00
 tags:
 - Digital Inclusion
+- Entrepreneurship
+Author: "[Komal Bazaz](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/)"
+social-image: "/uploads/WomenConnectSmall-e39657.jpg"
+thumbnail: "/uploads/WomenConnectSmall-e39657.jpg"
 ---
 
-![WomenConnectSmall.jpg](/uploads/WomenConnectSmall.jpg)
+Choosing just nine shining examples from more than 500 applicants of the U.S. Agency for International Development (USAID)-funded [WomenConnect Challenge](https://www.usaid.gov/wcc) was no easy task. The global call—put out in March by Ivanka Trump and USAID Administrator Mark Green—sought examples of the changing ways in which women and girls access and use technology. 
 
-On October 3, 2018, USAID’s Senior Deputy Assistant Administrator Michelle Bekkering announced the nine winners of the WomenConnect Challenge at the W20 Summit. The WomenConnect Challenge aims to improve women’s participation in everyday life by meaningfully changing the ways women and girls access and use technology.
+![8223644611_82458aa076_o.jpg](/uploads/8223644611_82458aa076_o.jpg)
 
 <!--more-->
 
-DAI’s Digital Frontiers project, a five-year cooperative agreement administered by USAID’s Center for Digital Development, has managed the WomenConnect Challenge since it was launched by Advisor to the President, Ivanka Trump and USAID Administrator Mark Green on International Women’s Day in March 2018. We received more than 500 applications from 89 countries and hosted a Solver Symposium in June to provide capacity building support and peer learning opportunities to our semi-finalists. We are now proud to announce the nine challenge winners who will work across 13 countries. Their solutions will empower women and girls, via access to, and the use of, digital technology to drive positive health, education, and livelihood outcomes for themselves and their families.
+The results blew our minds. These nine winners have solutions in health care, education, and more.
 
-**Here’s a rundown of the nine winners and their solutions for bridging the gender digital divide:**
+## Let’s meet our winners and their solutions for bridging the gender digital divide:
 
 [AFCHIX:](http://www.afchix.org/) AFCHIX creates entrepreneurial opportunities for rural women in Senegal, Morocco, Kenya, and Namibia to run local internet service providers and work as network engineers. This initiative contributes to improving connectivity and building the capacity of communities to establish and maintain telecommunications infrastructure. The entrepreneurial and empowerment program helps women establish their own companies, provides important community services, and positions these individuals as role models.
 
@@ -36,4 +39,4 @@ DAI’s Digital Frontiers project, a five-year cooperative agreement administere
 
 *Stay tuned for future WomenConnect blogs as we follow our winners’ progress over the course of their grants and look at lessons learned from the field!*
 
-*If you have questions about the WomenConnect Challenge or the winners, contact Komal Bazaz Smith at Komal_BazazSmith@dai.com.*
+*This guest blog post was written by [Komal Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/), the Director of Learning and Adaptive Management for DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) team, supporting USAID's Global Development Lab and managing the WomenConnect Challenge. If you have questions about the WomenConnect Challenge or the winners, email Komal_BazazSmith@dai.com.* 
