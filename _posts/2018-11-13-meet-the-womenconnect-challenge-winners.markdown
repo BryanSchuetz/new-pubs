@@ -10,7 +10,7 @@ social-image: "/uploads/WomenConnectSmall-e39657.jpg"
 thumbnail: "/uploads/WomenConnectSmall-e39657.jpg"
 ---
 
-Choosing just nine shining examples from more than 500 applicants of the U.S. Agency for International Development (USAID)-funded [WomenConnect Challenge](https://www.usaid.gov/wcc) was no easy task. The global call—put out in March by Ivanka Trump and USAID Administrator Mark Green—sought examples of the changing ways in which women and girls access and use technology. 
+Choosing just nine shining examples from more than 500 applicants of the U.S. Agency for International Development (USAID)-funded [WomenConnect Challenge](https://www.usaid.gov/wcc) was no easy task. The global call—put out in March by Ivanka Trump and USAID Administrator Mark Green—sought examples of the changing ways in which women and girls’ access and use of technology help drive quality health, better education, and improved livelihoods for themselves and their families. 
 
 ![8223644611_82458aa076_o.jpg](/uploads/8223644611_82458aa076_o.jpg)
 
