@@ -16,7 +16,7 @@ Choosing just nine shining examples from more than 500 applicants of the U.S. Ag
 
 <!--more-->
 
-The results blew our minds. These nine winners have solutions in health care, humanitarian mapping, internet access, and more. Over the next 18 months or so, USAID will test the promising pilot approaches, support their development through technical assistance and financial support, and finally, scale proven solutions with grant funding for maximum reach and result. 
+The results blew our minds. These nine winners have solutions in health care, humanitarian mapping, internet access, and more. Over the next 18 months or so, USAID will test the promising solutions and will capture evidence of their effectiveness. In the following phase of this Challenge, we plan to scale proven solutions with grant funding for maximum reach and results.
 
 ## Let’s meet our winners:
 
