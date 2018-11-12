@@ -5,7 +5,7 @@ published: false
 tags:
 - Digital Inclusion
 - Entrepreneurship
-Author: "[Komal Bazaz](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/)"
+Author: "[Komal Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/)"
 social-image: "/uploads/WomenConnectSmall-e39657.jpg"
 thumbnail: "/uploads/WomenConnectSmall-e39657.jpg"
 ---
