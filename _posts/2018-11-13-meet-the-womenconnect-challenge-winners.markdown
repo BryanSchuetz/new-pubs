@@ -1,7 +1,6 @@
 ---
 title: Meet the 9 WomenConnect Winners Who Are Using Tech for Good
 date: 2018-11-13 00:00:00 -05:00
-published: false
 tags:
 - Digital Inclusion
 - Entrepreneurship
