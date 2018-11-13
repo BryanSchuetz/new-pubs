@@ -1,6 +1,7 @@
 ---
 title: Meet the 9 WomenConnect Winners Who Are Using Tech for Good
 date: 2018-11-13 00:00:00 -05:00
+published: false
 tags:
 - Digital Inclusion
 - Entrepreneurship
@@ -41,4 +42,4 @@ In the Malian slum Sabalibougou, where women do not have the means to access qua
 
 *Stay tuned for future WomenConnect blogs as we follow our winners’ progress over the course of their grants and look at lessons learned from the field!*
 
-*This guest blog post was written by [Komal Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/), the Director of Learning and Adaptive Management for DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) team. Digital Frontiers supports USAID’s Center for Digital Development to identify successful and sustainable digital approaches to scale their impact globally. The team has managed the WomenConnect Challenge since its launch in March 2018.  If you have questions about the WomenConnect Challenge or the winners, email Komal_BazazSmith@dai.com.*
+*This guest blog post was written by [Komal Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/), the Director of Learning and Adaptive Management for DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) team. Digital Frontiers supports USAID’s Center for Digital Development to identify successful and sustainable digital approaches and scale their impact globally. The team has managed the WomenConnect Challenge since its launch in March 2018.  If you have questions about the WomenConnect Challenge or the winners, email Komal_BazazSmith@dai.com.*
