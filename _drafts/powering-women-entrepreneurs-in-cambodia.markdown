@@ -1,11 +1,15 @@
 ---
 title: Powering Women Entrepreneurs in Cambodia
 date: 2018-11-15 14:47:00 -05:00
+Author: Adam Fivenson
 ---
 
 Meet Lida.
+
 [Image of Lida]
+
 She might look like a typical 20-something Cambodian, but she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a local social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (out of 10).
+
 [Image of Lida with women entrepreneurs]
 
 ##The Challenge
