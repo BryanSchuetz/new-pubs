@@ -18,14 +18,14 @@ She might look like a typical 20-something Cambodian, but she’s anything but. 
 
 ![lida 2.PNG](/uploads/lida%202.PNG)`Lida with SHE Investments trainees`
 
-##The Challenge
+## The Challenge
 Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run about 65% of all Cambodian businesses, but only about 2% of formal businesses. This lack of formal ownership makes it harder to claim profits, hire employees, access scale-up, and harder to protect intellectual property. To solve these problems and secure women’s stake in their own businesses, SHE runs incubation and acceleration services, mentorship programs, leadership and management training, conferences and events, and financing for women entrepreneurs and their businesses. And they’re good at it. Really good. SHE’s programs have resulted in some impressive gains for the women they support: 
 
 -155%: the average increase in monthly business revenue for a SHE graduate
 -130% the average decrease in debt across all SHE graduate businesses
 -70%: the average increase in household savings for a SHE graduate
 
-##Easy Easy
+## Easy Easy
 
 ![ngeay.PNG](/uploads/ngeay.PNG)
 
@@ -33,7 +33,7 @@ One of SHE’s most popular services is [Ngeay Ngeay](http://ngeayngeay.co/), wh
 
 As a result of the portal’s popularity, SHE is preparing scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and which will improve the long-term sustainability of the service. The DI project will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale-Up Grant Fund, which was open to Cambodian CSOs and businesses and prioritized projects that had already shown some level of success, had conducted user testing, and proposed a scale-up plan based on the feedback from their users. 
 
-##Beyond SHE
+## Beyond SHE
 
 ![Cambodia technovation.jpg](/uploads/Cambodia%20technovation.jpg)`A Technovation pitch in 20181`
 
