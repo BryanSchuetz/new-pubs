@@ -42,6 +42,8 @@ In 2017, a group of Cambodian girls--all 11- and 12-years-old--was chosen as one
 
 [![video link.PNG](/uploads/video%20link.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)`Team Cambodia Identity Product's pitch in San Francisco`
 
-The Development Innovations project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F&show_text=1&width=560" width="560" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-*For more on women's economic empowerment, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI*
+The Development Innovations project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. For more on what the project is doing today, and how you can be a part of it, check them out on [Facebook](https://www.facebook.com/DevInnoKH/) or join their [email list](https://us3.list-manage.com/subscribe?u=eafe5ec46ecedb90b797eaa84&id=ee4ebac9e9).
+
+*For more on women's economic empowerment around the globe, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI*
