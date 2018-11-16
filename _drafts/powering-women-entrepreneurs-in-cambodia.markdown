@@ -42,6 +42,6 @@ In 2017, a group of Cambodian girls —all 11 and 12-years-old—was chosen as a
 
 [![video link.PNG](/uploads/video%20link.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)`Team Cambodia Identity Product's pitch in San Francisco`
 
-The goal of running the Technovation program in a place like Cambodia is to elevate role models 
+The Development Innovations project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. 
 
-The Development Innovations project runs through August 2019 and continues to empower women like Lida 
+*For more on women's economic empowerment, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI*
