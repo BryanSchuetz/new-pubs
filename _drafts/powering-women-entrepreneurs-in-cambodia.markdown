@@ -23,16 +23,17 @@ Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run 
 
 ##Easy Easy
 
-[Image of web site]
+![ngeay.PNG](/uploads/ngeay.PNG)
 
-One of SHE’s newest and most popular services is [Ngeay Ngeay](http://ngeayngeay.co/), which means “easy easy” in Khmer, the local language. Ngeay Ngeay is a free web portal that helps informal businesses run by women get registered. The [USAID Development Innovations](https://www.dai.com/our-work/projects/cambodia-development-innovations) (DI) project, implemented by DAI, supported the initial development of Ngeay Ngeay with an innovation grant in 2017, and the site launched in August of the same year. Since then, the site has seen more than 60,000 page views and 13,000 unique visitors, and a deluge of direct requests from women entrepreneurs for deeper assistance with registration. 
+One of SHE’s most popular services is [Ngeay Ngeay](http://ngeayngeay.co/), which means “easy easy” in Khmer, the language spoken by most Cambodians. Ngeay Ngeay is a free web portal that helps informal businesses run by women get registered. The [USAID Development Innovations](https://www.dai.com/our-work/projects/cambodia-development-innovations) (DI) project, implemented by DAI, supported the creation of Ngeay Ngeay with an innovation grant in 2017, and the site launched in August of the same year. Since then, the site has seen more than 60,000 page views and 13,000 unique visitors, and a deluge of direct requests from women entrepreneurs for deeper assistance with registration. 
 
-As a result of the portal’s popularity, SHE is preparing scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and will promote the long-term sustainability of the service. DI will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale Up Grant Fund, which was open to Cambodian CSOs and businesses. Winners had an active ICT for good pilot project, some measure of success to date, directed effort at user research and feedback, and a scale-up plan that clearly dovetails with the results of that user research. 
+As a result of the portal’s popularity, SHE is preparing scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and which will improve the long-term sustainability of the service. The DI project will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale-Up Grant Fund, which was open to Cambodian CSOs and businesses and prioritized projects that had already shown some level of success, had conducted user testing, and proposed a scale-up plan based on the feedback from their users. 
 
 ##Beyond SHE
-[Technovation Image]
 
-Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations is running other women’s economic empowerment programs in Cambodia. One of the most successful has been the [Technovation Challenge](https://technovationchallenge.org/), which was launched by Google in 2009 and helps girls, aged 10-18, learn business and leadership skills as well as basic coding. DI launched Technovation in Cambodia in 2014, and since then, has trained more than 400 girls to solve problems in their communities through a 12 week curriculum and national pitch competition. 
+![Cambodia technovation.jpg](/uploads/Cambodia%20technovation.jpg)`A Technovation pitch in 20181`
+
+Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations is also running one of Cambodia's most successful women’s economic empowerment programs in Cambodia: the [Technovation Challenge](https://technovationchallenge.org/). Technovation was launched by Google in 2009 to helps girls around the world, aged 10-18, learn business and leadership skills and equip them with basic coding skills. The competition is run annually around the globe, and was launched in Cambodia by the DI project team in 2014. Since then, Technovation Cambodia has trained more than 400 girls to solve problems in their communities through a 12 week curriculum and national pitch competition. 
 
 [Image 2]
 
