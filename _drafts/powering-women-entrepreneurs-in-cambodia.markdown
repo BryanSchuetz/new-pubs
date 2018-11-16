@@ -4,6 +4,8 @@ date: 2018-11-15 14:47:00 -05:00
 categories:
 - Innovation
 Author: Adam Fivenson
+social-image: "/uploads/lida%202.PNG"
+thumbnail: "/uploads/lida%202.PNG"
 ---
 
 Meet Lida.
@@ -11,6 +13,8 @@ Meet Lida.
 ![lida.jpg](/uploads/lida.jpg)`Lida Loem/SHE Investments`
 
 She might look like a typical 20-something Cambodian, but she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).
+
+<!--more-->
 
 ![lida 2.PNG](/uploads/lida%202.PNG)`Lida with SHE Investments trainees`
 
@@ -35,12 +39,8 @@ As a result of the portal’s popularity, SHE is preparing scale-up the platform
 
 Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations is also running one of Cambodia's most successful women’s economic empowerment programs in Cambodia: the [Technovation Challenge](https://technovationchallenge.org/). Technovation was launched by Google in 2009 to helps girls around the world, aged 10-18, learn business and leadership skills and equip them with basic coding skills. The competition is run annually around the globe, and was launched in Cambodia by the DI project team in 2014. Since then, Technovation Cambodia has trained more than 400 girls to solve problems in their communities through a 12 week curriculum and national pitch competition. 
 
-[Image 2]
-
 In 2017, a group of Cambodian girls —all 11 and 12-years-old—was chosen as a finalist from a pool of more than 1000 teams around the world, and traveled to Silicon Valley to pitch their concept, [Cambodia Identity Product](http://geeksincambodia.com/cambodia-identity-product-the-cambodian-team-that-made-it-to-the-technovation-world-pitch-in-silicon-valley/).
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F&show_text=1&width=560" width="560" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe> 
-
-https://www.facebook.com/USAIDCambodia/videos/688060878056331/ 
+[![video link.PNG](/uploads/video%20link.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)`Team Cambodia Identity Product's pitch in San Francisco`
 
 [Wrap up closing paragraph] 
