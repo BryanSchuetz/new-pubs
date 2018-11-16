@@ -1,6 +1,8 @@
 ---
 title: Powering Women Entrepreneurs in Cambodia
 date: 2018-11-15 14:47:00 -05:00
+categories:
+- Innovation
 Author: Adam Fivenson
 ---
 
