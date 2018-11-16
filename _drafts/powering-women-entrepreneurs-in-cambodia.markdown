@@ -40,8 +40,6 @@ Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations i
 
 In 2017, a group of Cambodian girls —all 11 and 12-years-old—was chosen as a finalist from a pool of more than 1000 teams around the world, and traveled to Silicon Valley to pitch their concept, [Cambodia Identity Product](http://geeksincambodia.com/cambodia-identity-product-the-cambodian-team-that-made-it-to-the-technovation-world-pitch-in-silicon-valley/).
 
-[![video link.PNG](/uploads/video%20link.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)`Team Cambodia Identity Product's pitch in San Francisco`
-
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F&show_text=1&width=560" width="560" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 The Development Innovations project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. 
