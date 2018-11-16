@@ -1,5 +1,5 @@
 ---
-title: Powering Women Entrepreneurs in Cambodia
+title: Powering Women's Entrepreneurship in Cambodia
 date: 2018-11-15 14:47:00 -05:00
 tags:
 - Cambodia
@@ -42,3 +42,6 @@ In 2017, a group of Cambodian girls —all 11 and 12-years-old—was chosen as a
 
 [![video link.PNG](/uploads/video%20link.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)`Team Cambodia Identity Product's pitch in San Francisco`
 
+The goal of running the Technovation program in a place like Cambodia is to elevate role models 
+
+The Development Innovations project runs through August 2019 and continues to empower women like Lida 
