@@ -3,7 +3,7 @@ title: Powering Women Entrepreneurs in Cambodia
 date: 2018-11-15 14:47:00 -05:00
 tags:
 - Cambodia
-- WEE
+- Digital Inclusion
 Author: Adam Fivenson
 social-image: "/uploads/lida%202.PNG"
 thumbnail: "/uploads/lida%202.PNG"
