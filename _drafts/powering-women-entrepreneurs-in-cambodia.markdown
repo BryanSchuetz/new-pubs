@@ -26,9 +26,9 @@ Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run 
 
 ## Easy Easy
 
-![ngeay.PNG](/uploads/ngeay.PNG)
-
 One of SHE’s most popular services is [Ngeay Ngeay](http://ngeayngeay.co/), which means “easy easy” in Khmer, the language spoken by most Cambodians. Ngeay Ngeay is a free web portal that helps informal businesses run by women get registered. The [USAID Development Innovations](https://www.dai.com/our-work/projects/cambodia-development-innovations) (DI) project, implemented by DAI, supported the creation of Ngeay Ngeay with an innovation grant in 2017, and the site launched in August of the same year. Since then, the site has seen more than 60,000 page views and 13,000 unique visitors, and a deluge of direct requests from women entrepreneurs for deeper assistance with registration. 
+
+![ngeay.PNG](/uploads/ngeay.PNG)`The Ngeay Ngeay web site`
 
 As a result of the portal’s popularity, SHE is preparing scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and which will improve the long-term sustainability of the service. The DI project will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale-Up Grant Fund, which was open to Cambodian CSOs and businesses and prioritized projects that had already shown some level of success, had conducted user testing, and proposed a scale-up plan based on the feedback from their users. 
 
@@ -41,5 +41,4 @@ Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations i
 In 2017, a group of Cambodian girls —all 11 and 12-years-old—was chosen as a finalist from a pool of more than 1000 teams around the world, and traveled to Silicon Valley to pitch their concept, [Cambodia Identity Product](http://geeksincambodia.com/cambodia-identity-product-the-cambodian-team-that-made-it-to-the-technovation-world-pitch-in-silicon-valley/).
 
 [![video link.PNG](/uploads/video%20link.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)`Team Cambodia Identity Product's pitch in San Francisco`
-
 
