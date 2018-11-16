@@ -8,18 +8,17 @@ Author: Adam Fivenson
 
 Meet Lida.
 
-[Image of Lida]
+![lida.jpg](/uploads/lida.jpg)`Lida Loem/SHE Investments`
 
-She might look like a typical 20-something Cambodian, but she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a local social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (out of 10).
+She might look like a typical 20-something Cambodian, but she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).
 
-[Image of Lida with women entrepreneurs]
+![lida 2.PNG](/uploads/lida%202.PNG)`Lida with SHE Investments trainees`
 
 ##The Challenge
-Why do women entrepreneurs need Lida and SHE Investments? Cambodian women run about 65% of Cambodian businesses, but only about 2% of formal businesses. This lack of formal ownership makes it harder to claim profits, harder to hire employees, harder to access finance to scale-up, and harder to protect intellectual property. To solve this problem, and secure women’s stake in their own businesses, SHE does incubation and acceleration services, mentorship programs, leadership and management training, conferences and events, and financing for women entrepreneurs and their businesses. 
-And they’re good at it. Really good. SHE’s programs have resulted in some impressive gains for the women they support: 
+Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run about 65% of all Cambodian businesses, but only about 2% of formal businesses. This lack of formal ownership makes it harder to claim profits, hire employees, access scale-up, and harder to protect intellectual property. To solve these problems and secure women’s stake in their own businesses, SHE runs incubation and acceleration services, mentorship programs, leadership and management training, conferences and events, and financing for women entrepreneurs and their businesses. And they’re good at it. Really good. SHE’s programs have resulted in some impressive gains for the women they support: 
 
--130% the average decrease in debt across all SHE graduate businesses
 -155%: the average increase in monthly business revenue for a SHE graduate
+-130% the average decrease in debt across all SHE graduate businesses
 -70%: the average increase in household savings for a SHE graduate
 
 ##Easy Easy
