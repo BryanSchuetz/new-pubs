@@ -34,7 +34,7 @@ As a result of the portal’s popularity, SHE is preparing scale-up the platform
 
 ## Beyond SHE
 
-![Cambodia technovation.jpg](/uploads/Cambodia%20technovation.jpg)`A Technovation pitch in 2018`
+![Cambodia technovation.jpg](/uploads/Cambodia%20technovation.jpg)`A pitch from the Technovation 2018 competition in Cambodia`
 
 Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations is also running one of Cambodia's most successful women’s economic empowerment programs in Cambodia: the [Technovation Challenge](https://technovationchallenge.org/). Technovation was launched by Google in 2009 to helps girls around the world, aged 10-18, learn business and leadership skills and equip them with basic coding skills. The competition is run annually around the globe, and was launched in Cambodia by the DI project team in 2014. Since then, Technovation Cambodia has trained more than 400 girls to solve problems in their communities through a 12 week curriculum and national pitch competition.
 
