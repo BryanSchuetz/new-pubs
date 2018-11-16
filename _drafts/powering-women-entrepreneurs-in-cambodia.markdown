@@ -21,9 +21,7 @@ She might look like a typical 20-something Cambodian, but she’s anything but. 
 ## The Challenge
 Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run about 65% of all Cambodian businesses, but only about 2% of formal businesses. This lack of formal ownership makes it harder to claim profits, hire employees, access scale-up, and harder to protect intellectual property. To solve these problems and secure women’s stake in their own businesses, SHE runs incubation and acceleration services, mentorship programs, leadership and management training, conferences and events, and financing for women entrepreneurs and their businesses. And they’re good at it. Really good. SHE’s programs have resulted in some impressive gains for the women they support: 
 
--155%: the average increase in monthly business revenue for a SHE graduate
--130% the average decrease in debt across all SHE graduate businesses
--70%: the average increase in household savings for a SHE graduate
+<script id="infogram_0_6eb0600a-ef99-4cab-9bf4-d821350eac62" title="Cambodia WEE" src="https://e.infogram.com/js/dist/embed.js?rqB" type="text/javascript"></script>
 
 ## Easy Easy
 
