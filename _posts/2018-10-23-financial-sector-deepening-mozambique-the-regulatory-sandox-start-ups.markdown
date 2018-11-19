@@ -14,7 +14,7 @@ All over the world, digital tools are creating opportunities for the those witho
 
 ![fsd moz logo.jpg](/uploads/fsd%20moz%20logo.jpg)`The Financial Sector Deepening project is increasing financial inclusion in Mozambique.`
 
-Mozambique is no exception—whilst literacy rates there are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is a rather low [13 percent](https://uncdf-cdn.azureedge.net/media-manager/86055?sv=2016-05-31&sr=b&sig=aUjmuD2ZtJsftoK7ZR4O1JULKqqAETmoMlyw6sGwZAo%3D&se=2018-10-20T16%3A34%3A14Z&sp=r) in Mozambique and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
+Mozambique is no exception—whilst literacy rates there are low, and the ICT infrastructure and regulatory framework are underdeveloped, traditional banking is still not serving people’s needs. The financial inclusion rate is at [42% (Work Bank Findex 2017)](http://microdata.worldbank.org/index.php/catalog/3324) and there is a clear need for financial services to be available for poorer, more rural and marginalised populations.
 
 <!--more-->
 
