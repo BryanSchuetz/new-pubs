@@ -16,13 +16,13 @@ Human-centered design (HCD) is a central focus of DAI’s. We’ve written exten
 
 As part of our continued commitment to the approach, [Karim Bin-Humam](https://dai-global-digital.com/authors/) and I recently traveled to Ghana to run a workshop on HCD for the [Sustainable Smallholder Agribusiness Programme (SSAB),](https://www.ssab-africa.net/) implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
-This was lean HCD on a whole new level: We asked participants to produce a HCD roadmap in just one day.
+This was lean HCD on steroids: We asked participants to produce a HCD roadmap in just one day.
 
 ![GIZ blog 1.jfif](/uploads/GIZ%20blog%201.jfif)`Participants chose their methods from the ideo.org design kit.`
 
 <!--more-->
 
-**What is SSAB?**
+## What is SSAB?
 
 The Sustainable Smallholder Agribusiness programme (SSAB) is commissioned by the Federal Ministry of Economic Cooperation and Development of Germany (BMZ) and implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. The objective is to help West and Central African smallholders mainly in cocoa production zones of Nigeria, Cameroon, Cote d’Ivoire, Ghana and Togo to increase their income and food supply from diversified production in a sustainable manner. Part of the programme is the sustainable scaling up of the [Farmer Business School (FBS) approach,](https://www.ssab-africa.net/imglib/downloads/FBS%20A%20guideline%20for%20introduction%20and%20management-Selected%20Pages.pdf) which was developed in 2010 by BMZ and partners. The FBS approach aims to promote the entrepreneurship and business skills of smallholder farmers through a five-day training.
 
