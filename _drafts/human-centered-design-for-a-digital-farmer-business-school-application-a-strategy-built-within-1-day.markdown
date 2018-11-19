@@ -20,7 +20,7 @@ This was lean HCD in a whole other meaning: we aimed for the participants to pro
 
 ![GIZ blog 1.jfif](/uploads/GIZ%20blog%201.jfif)
 
-\`Participants chose their methods from the ideo.org design kit\`
+`Participants chose their methods from the ideo.org design kit`
 
 <!--more-->
 
@@ -38,13 +38,13 @@ After a full day of explaining HCD and going through some methods that can be us
 
 ![GIZ blog 2-f5059e.jpg](/uploads/GIZ%20blog%202-f5059e.jpg)
 
-\`One team present back their HCD process map\`
+`A team present back their HCD process map`
 
 Methods were plotted along a HCD process map and teams were asked to come up and describe why each was selected and how the different methods tied in to one another to create the outcomes they required for project design and implementation. We had other team members play “bad cop” to criticise their logic, find holes in their process, and make sure they had thought through each method in enough detail.
 
 ![GIZ blog 3-d31a4d.jpg](/uploads/GIZ%20blog%203-d31a4d.jpg)
 
-\`Our "Bad Cop" hears a team's HCD process pitch\`
+`Our "bad cop" hears a team's process pitch`
 
 **So, did it work?**
 
