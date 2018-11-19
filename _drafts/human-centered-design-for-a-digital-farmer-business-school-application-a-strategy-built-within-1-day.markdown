@@ -42,16 +42,12 @@ Methods were plotted along a HCD process map and teams were asked to describe wh
 
 ## So, did it work?
 
-As we expected, the teams did not come up with a set in stone process, but we were impressed with the detail with which they thought about each stage of their HCD journey. The roadmaps produced by each team were very different, each having a differing idea of which methods would help them achieve their end goal.
+As we expected, the teams did not come up with a concrete process, but we were impressed with the detail with which they thought about each stage of their HCD journey. The roadmaps produced by each team were unique, each having a differing idea of which methods would help them achieve their goal.
 
-Participants got out what we hoped for the two days: namely a more concrete understanding of HCD and a plan of how it can be applied to a near-term, real-life design scenario. A few factors contributed to the success of these roadmaps:
+Participants got out what we hoped for the two days: namely, a clear understanding of HCD and a plan of how it can be applied to a near-term, real-life design scenario. A few factors contributed to the success of these roadmaps:
 
-* **A good understanding of the different user groups**: On day one we had developed user personas, and it was clear that the group understood who their target audience were. This meant they were able to keep the user in mind during the planning, understanding what activities might best work for farmers, how to best reach them, and how to maintain these relationships.
+* **A good understanding of the different user groups:** On day one we had developed user personas, and it was clear that the group understood their target audience. This meant they were able to keep users in mind during the planning, understanding what activities might best work for farmers, how to best reach them, and maintain these relationships.
+* **A good understanding of the technology and what would be needed to design it:** Teams were split to ensure that someone from Agro Innova was in each group. They were able to provide vital insight into how prototyping works, the different design options, and information a tech entrepreneur needs.
+* **Different stakeholders in the room:** This is the pivotal success factor. Participants of the workshop included the tech start-up, members of the Ghana Cocoa Board, staff of the Ghana Ministry of Food and Agriculture (MOFA) and GIZ staff of different projects. The diversity of participants was vital to the development of effective HCD plans, as each brought a different insight into the information needed from the process, who the key stakeholders are and whose responsibility each stage of the process was. This reflects the importance of involving disparate stakeholders in the human-centered design process itself.
 
-
-* **A good understanding of the technology and what would be needed to design it**: Teams were split to ensure that someone from Agro Innova was in each group. They were able to provide vital insight into how prototyping works, what the different design options are, and what sort of information a tech entrepreneur needs.
-
-
-* **Different stakeholders in the room**: This is the pivotal success factor. Participants of the workshop included the tech start-up, members of the Ghana Cocoa Board, staff of the Ghana Ministry of Food and Agriculture (MOFA) and GIZ staff of different projects. The diversity of participants was vital to the development of effective HCD plans, as each brought a different insight into the information needed from the process, who the key stakeholders are and whose responsibility each stage of the process was. This reflects the importance of involving disparate stakeholders in the human-centered design process itself.
-
-Based on some of the ideas generated at the workshop, Agro Innova have commenced design of the FBS app and continue to develop their HCD approach in collaboration with DAI. We look forward to following their journey with GIZ and the FBS Advisory Facility of the Sustainable Smallholder Agribusiness Programme.
+Based on some of the ideas generated at the workshop, Agro Innova has commenced design of the FBS app and continues to develop their HCD approach in collaboration with DAI. 
