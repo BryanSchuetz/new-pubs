@@ -12,15 +12,13 @@ thumbnail:
 - 
 ---
 
-Human-centered design (HCD) is a central focus of this blog. We've written about how we work with our partners to follow this complex and time-consuming (but very important) process and even came up with a more concise, budget friendly [Lean HCD approach.](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html)
+Human-centered design (HCD) is a central focus of DAI’s. We’ve written extensively about how we work with our partners to follow this complex and time-consuming (but very important) process and even came up with a more concise, budget-friendly [Lean HCD approach.](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html)
 
-As part of our continued commitment to HCD,  [Karim](https://dai-global-digital.com/authors/) and I recently traveled to Ghana to run a workshop on HCD for the [Sustainable Smallholder Agribusiness Programme (SSAB),](https://www.ssab-africa.net/) implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+As part of our continued commitment to the approach, [Karim Bin-Humam](https://dai-global-digital.com/authors/) and I recently traveled to Ghana to run a workshop on HCD for the [Sustainable Smallholder Agribusiness Programme (SSAB),](https://www.ssab-africa.net/) implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
-This was lean HCD on a whole new level: we aimed for the participants to produce a HCD roadmap in just one day.
+This was lean HCD on a whole new level: We asked participants to produce a HCD roadmap in just one day.
 
-![GIZ blog 1.jfif](/uploads/GIZ%20blog%201.jfif)
-
-`Participants chose their methods from the ideo.org design kit`
+![GIZ blog 1.jfif](/uploads/GIZ%20blog%201.jfif)`Participants chose their methods from the ideo.org design kit.`
 
 <!--more-->
 
