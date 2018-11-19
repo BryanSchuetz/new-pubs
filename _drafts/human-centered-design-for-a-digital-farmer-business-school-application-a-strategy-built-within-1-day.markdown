@@ -1,6 +1,6 @@
 ---
-title: Human-Centered-Design for a Digital Farmer Business School Application – A
-  One Day Roadmap
+title: 'Human-Centered Design for a Digital Farmer Business School Application: A
+  One-Day Roadmap'
 date: 2018-11-19 09:36:00 -05:00
 tags:
 - Human-centered design
