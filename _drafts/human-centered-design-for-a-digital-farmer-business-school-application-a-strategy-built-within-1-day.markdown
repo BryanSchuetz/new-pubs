@@ -2,6 +2,10 @@
 title: Human-Centered-Design for a digital Farmer Business School application – A
   strategy built within 1 day!
 date: 2018-11-19 09:36:00 -05:00
+Author: Chloe Messenger
+social-image: "/uploads/Group%20Photo%20GIZ.jpg"
+thumbnail:
+- 
 ---
 
 We have talked a lot about human-centered design (HCD) on this blog - about how we work with our partners to follow this complex and time-consuming (but very important) process. We even came up with a more concise, budget friendly [Lean HCD approach.](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html)
