@@ -32,11 +32,9 @@ After being selected through an open competition, Ghanaian startup firm [Agro In
 
 The goal of the training was to give participants a one-day overview of the approach. By the end of day two, participants were expected to have come up with a concrete approach of how the app development process would follow the HCD approach. Anyone savvy in user-centered design knows that deciding on the process can take weeks or months to map out, but we wanted participants to come away with practical next steps to adopting a human-centered approach.
 
-After a full day of explaining HCD and going through some methods that can be used, we asked for each team to pick which methods they think would work for the FBS app HCD process, using the [ideo.org design kit.](http://www.designkit.org/) For each method, they carved out who the stakeholders are; resources they will need; number of users involved; and answered a dozen other questions. We encouraged this level of detail, to ensure that teams were thinking through  how each method would work for them and what outcomes it would bring for the development of the app.
+After a full day of explaining HCD and going through some methods that can be used, we asked for each team to pick which methods they think would work for the FBS app HCD process, using the [ideo.org design kit.](http://www.designkit.org/) For each method, they carved out who the stakeholders are; resources they will need; number of users involved; and answered a dozen other questions. We encouraged this level of detail, to ensure that teams were thinking through how each method would work for them and what outcomes it would bring for the app development.
 
-![GIZ blog 2-f5059e.jpg](/uploads/GIZ%20blog%202-f5059e.jpg)
-
-`A team present back their HCD process map`
+![GIZ blog 2-f5059e.jpg](/uploads/GIZ%20blog%202-f5059e.jpg)`A team presents their HCD process map.`
 
 Methods were plotted along a HCD process map and teams were asked to come up and describe why each was selected and how the different methods tied in to one another to create the outcomes required for project design and implementation. We had other team members play “bad cop” to constructively criticise their logic, find holes in their process, and make sure they had thought through each method in enough detail.
 
