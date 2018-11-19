@@ -1,6 +1,6 @@
 ---
-title: Human-Centered-Design for a digital Farmer Business School application – A
-  strategy built within 1 day!
+title: Human-Centered-Design for a Digital Farmer Business School Application – A
+  One Day Roadmap
 date: 2018-11-19 09:36:00 -05:00
 tags:
 - Human-centered design
@@ -14,7 +14,7 @@ thumbnail:
 
 Human-centered design (HCD) is a central focus of this blog. We've written about how we work with our partners to follow this complex and time-consuming (but very important) process and even came up with a more concise, budget friendly [Lean HCD approach.](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html)
 
-As part of our continued commitment to the HCD approach,  [Karim](https://dai-global-digital.com/authors/) and I recently traveled to Ghana to run a workshop on HCD for the [Sustainable Smallholder Agribusiness Programme (SSAB),](https://www.ssab-africa.net/) implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+As part of our continued commitment to HCD,  [Karim](https://dai-global-digital.com/authors/) and I recently traveled to Ghana to run a workshop on HCD for the [Sustainable Smallholder Agribusiness Programme (SSAB),](https://www.ssab-africa.net/) implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
 This was lean HCD on a whole new level: we aimed for the participants to produce a HCD roadmap in just one day.
 
@@ -32,9 +32,9 @@ After being selected through an open competition, Ghanaian start-up firm [Agro I
 
 **The HCD Training**
 
-The aims of the HCD training were to give participants a 1-day overview of the approach. By the end of day two, participants were expected to have come up with a concrete approach of how the app development process would follow the HCD approach. Anyone savvy in user-centred design knows that deciding on the process can take weeks or months to map out, but we wanted participants to come away with practical next steps to adopting a human-centred approach.
+The aim of the HCD training was to give participants a 1-day overview of the approach. By the end of day two, participants were expected to have come up with a concrete approach of how the app development process would follow the HCD approach. Anyone savvy in user-centred design knows that deciding on the process can take weeks or months to map out, but we wanted participants to come away with practical next steps to adopting a human-centred approach.
 
-After a full day of explaining HCD and going through some methods that can be used, we asked, on day 2, for each team to pick which methods they think would work for the FBS app HCD process, using the [ideo.org design kit.](http://www.designkit.org/) For each method, they carved out who the stakeholders are; what resources they will need; how many users will be involved; and answered a dozen other questions. We encouraged this level of detail, to ensure that teams were thinking through  how each method would work for them and what outcomes it would bring for the development of the app.
+After a full day of explaining HCD and going through some methods that can be used, we asked, on day two, for each team to pick which methods they think would work for the FBS app HCD process, using the [ideo.org design kit.](http://www.designkit.org/) For each method, they carved out who the stakeholders are; what resources they will need; how many users will be involved; and answered a dozen other questions. We encouraged this level of detail, to ensure that teams were thinking through  how each method would work for them and what outcomes it would bring for the development of the app.
 
 ![GIZ blog 2-f5059e.jpg](/uploads/GIZ%20blog%202-f5059e.jpg)
 
@@ -52,12 +52,12 @@ As we expected, the teams did not come up with a set in stone process , but we w
 
 Participants got out what we hoped for the two days: namely a more concrete understanding of HCD and a plan of how it can be applied to a near-term, real-life design scenario. A few factors contributed to the success of these roadmaps:
 
-* *A good understanding of the different user groups*: On day one we had developed user personas, and it was clear that the group understood who their target audience were. This meant they were able to keep the user in mind during the planning, understanding what activities might best work for farmers, how to best reach them, and how to maintain these relationships.
+* **A good understanding of the different user groups**: On day one we had developed user personas, and it was clear that the group understood who their target audience were. This meant they were able to keep the user in mind during the planning, understanding what activities might best work for farmers, how to best reach them, and how to maintain these relationships.
 
 
-* *A good understanding of the technology and what would be needed to design it*: Teams were split to ensure that someone from Agro Innova was in each group. They were able to provide vital insight into how prototyping works, what the different design options are, and what sort of information a tech entrepreneur needs.
+* **A good understanding of the technology and what would be needed to design it**: Teams were split to ensure that someone from Agro Innova was in each group. They were able to provide vital insight into how prototyping works, what the different design options are, and what sort of information a tech entrepreneur needs.
 
 
-* *Different stakeholders in the room*: This is the pivotal success factor. Participants of the workshop included the tech start-up, members of the Ghana Cocoa Board, staff of the Ghana Ministry of Food and Agriculture (MOFA) and GIZ staff of different projects. The diversity of participants was vital to the development of effective HCD plans, as each brought a different insight into the information needed from the process, who the key stakeholders are and whose responsibility each stage of the process was. This reflects the importance of involving disparate stakeholders in the human-centered design process itself.
+* **Different stakeholders in the room**: This is the pivotal success factor. Participants of the workshop included the tech start-up, members of the Ghana Cocoa Board, staff of the Ghana Ministry of Food and Agriculture (MOFA) and GIZ staff of different projects. The diversity of participants was vital to the development of effective HCD plans, as each brought a different insight into the information needed from the process, who the key stakeholders are and whose responsibility each stage of the process was. This reflects the importance of involving disparate stakeholders in the human-centered design process itself.
 
 Based on some of the ideas generated at the workshop, Agro Innova have commenced design of the FBS app and continue to develop their HCD approach in collaboration with DAI. We look forward to following their journey with GIZ and the FBS Advisory Facility of the Sustainable Smallholder Agribusiness Programme.
