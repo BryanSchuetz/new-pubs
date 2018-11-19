@@ -2,6 +2,10 @@
 title: Human-Centered-Design for a digital Farmer Business School application – A
   strategy built within 1 day!
 date: 2018-11-19 09:36:00 -05:00
+tags:
+- Human-centered design
+- Sub-Saharan Africa
+- Innovation
 Author: Chloe Messenger
 social-image: "/uploads/Group%20Photo%20GIZ.jpg"
 thumbnail:
