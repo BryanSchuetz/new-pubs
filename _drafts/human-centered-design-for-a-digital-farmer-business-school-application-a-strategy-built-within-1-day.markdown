@@ -8,9 +8,9 @@ We have talked a lot about human-centered design (HCD) on this blog - about how 
 
 As part of the continuation of preaching the HCD approach to our development partners, [Karim](https://dai-global-digital.com/authors/) and I recently travelled to Ghana to run a workshop on HCD for the [Sustainable Smallholder Agribusiness Programme (SSAB),](https://www.ssab-africa.net/) implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
-This was lean HCD is a whole other meaning: we aimed for the participants to produce a HCD roadmap in just one day.
+This was lean HCD in a whole other meaning: we aimed for the participants to produce a HCD roadmap in just one day.
 
-![9a1f8b12-2c0c-4087-8b67-2de45ef92815.jpg](/uploads/9a1f8b12-2c0c-4087-8b67-2de45ef92815.jpg)
+![GIZ blog 1.jfif](/uploads/GIZ%20blog%201.jfif)
 
 Caption \`Participants chose their methods from the ideo.org design kit\`
 
@@ -28,13 +28,13 @@ The aims of the HCD training were to give participants a 1-day overview of the a
 
 After a full day of explaining HCD and going through some methods that can be used, on day 2 we asked each team to decide on the methods they think would work for the FBS app HCD process, using the [ideo.org design kit.](http://www.designkit.org/) For each method, they carved out who the stakeholders are; what resources they will need; how many users will be involved; and answered a dozen other questions. We wanted such level of detail, to ensure that teams were thinking through properly how each method would work for them and what outcomes it would bring for the development of the app.
 
-![GIZ blog 2.jpg](/uploads/GIZ%20blog%202.jpg)
+![GIZ blog 2-f5059e.jpg](/uploads/GIZ%20blog%202-f5059e.jpg)
 
 Caption \`One team present back their HCD process map\`
 
 Methods were plotted along a HCD process map and teams were asked to come up and describe why each was selected and how the different methods tied in to one another to create the outcomes they required for project design and implementation. We had other team members play “bad cop” to criticise their logic, find holes in their process, and make sure they had thought through each method in enough detail.
 
-![GIZ blog 3.jpg](/uploads/GIZ%20blog%203.jpg)
+![GIZ blog 3-d31a4d.jpg](/uploads/GIZ%20blog%203-d31a4d.jpg)
 
 Caption \`Our "Bad Cop" hears a team's HCD process pitch\`
 
