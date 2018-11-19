@@ -36,15 +36,13 @@ After a full day of explaining HCD and going through some methods that can be us
 
 ![GIZ blog 2-f5059e.jpg](/uploads/GIZ%20blog%202-f5059e.jpg)`A team presents their HCD process map.`
 
-Methods were plotted along a HCD process map and teams were asked to come up and describe why each was selected and how the different methods tied in to one another to create the outcomes required for project design and implementation. We had other team members play “bad cop” to constructively criticise their logic, find holes in their process, and make sure they had thought through each method in enough detail.
+Methods were plotted along a HCD process map and teams were asked to describe why each was selected and how the different methods tied into one another to create the outcomes required for project design and implementation. We had other team members play “bad cop” to constructively criticize their logic, find holes in their process, and make sure they had thought through each detail.
 
-![GIZ blog 3-d31a4d.jpg](/uploads/GIZ%20blog%203-d31a4d.jpg)
+![GIZ blog 3-d31a4d.jpg](/uploads/GIZ%20blog%203-d31a4d.jpg)`Our “bad cop” hears a team’s process pitch.`
 
-`Our "bad cop" hears a team's process pitch`
+## So, did it work?
 
-**So, did it work?**
-
-As we expected, the teams did not come up with a set in stone process , but we were impressed with the detail with which they thought about each stage of their HCD journey. The roadmaps produced by each team were very different, each having a differing idea of which methods would help them achieve their end goal.
+As we expected, the teams did not come up with a set in stone process, but we were impressed with the detail with which they thought about each stage of their HCD journey. The roadmaps produced by each team were very different, each having a differing idea of which methods would help them achieve their end goal.
 
 Participants got out what we hoped for the two days: namely a more concrete understanding of HCD and a plan of how it can be applied to a near-term, real-life design scenario. A few factors contributed to the success of these roadmaps:
 
