@@ -40,7 +40,7 @@ Methods were plotted along a HCD process map and teams were asked to describe wh
 
 ![GIZ blog 3-d31a4d.jpg](/uploads/GIZ%20blog%203-d31a4d.jpg)`Our “bad cop” hears a team’s process pitch.`
 
-## So, did it work?
+## So, Did It Work?
 
 As we expected, the teams did not come up with a concrete process, but we were impressed with the detail with which they thought about each stage of their HCD journey. The roadmaps produced by each team were unique, each having a differing idea of which methods would help them achieve their goal.
 
