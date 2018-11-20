@@ -32,6 +32,8 @@ One of SHE’s most popular services is [Ngeay Ngeay](http://ngeayngeay.co/), wh
 
 As a result of the portal’s popularity, SHE is preparing to scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and which will improve the long-term sustainability of the service. The DI project will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale-Up Grant Fund, which was open to Cambodian CSOs and businesses and prioritized projects that had already shown some level of success, had conducted user testing, and proposed a scale-up plan based on the feedback from their users. 
 
+In addition to e-learning and registration consulting, the improvements to Ngeay Ngeay will allow SHE to introduce an aspect of direct tech advisory for their clients, helping them improve their business operations and communications capability. According to Celia Boyd, Lida’s co-founder at SHE Investments, “Introducing business owners to tools and technology that is actually relevant for them and tailored to their unique systems will ensure that appropriate tech is incorporated into their business environment.” Two examples of this type of direct advisory support are 1) and introduction to [Bahnji](https://banhji.com/), an ultra-simple accounting tool developed for small businesses in Cambodia. Another would be basic social media training for entrepreneurs in a country where Facebook is the most widely used communication tool. 
+
 ## Beyond SHE
 
 ![Cambodia technovation.jpg](/uploads/Cambodia%20technovation.jpg)`A pitch from the Technovation 2018 competition in Cambodia`
@@ -43,6 +45,12 @@ In 2017, a group of Cambodian girls--all 11- and 12-years-old--was chosen as one
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F&show_text=1&width=560" width="560" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 `Team Cambodia Identity Product's pitch in San Francisco.`
 
-The Development Innovations project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. For more on what the project is doing today, and how you can be a part of it, check them out on [Facebook](https://www.facebook.com/DevInnoKH/) or join their [email list](https://us3.list-manage.com/subscribe?u=eafe5ec46ecedb90b797eaa84&id=ee4ebac9e9).
+To build on the success of Team Cambodia Identity Product during Technovation 2017, and to elevate science, technology engineering and math (STEM) subjects in the minds of Cambodian girls Development Innovations introduced the ['I Am Rachana' campaign](https://www.facebook.com/iamrachanatech/) in time for Technovation 2018. Originally developed as a hologram avatar by by one of DI’s own Young Innovators, Rachana promotes the idea that science and technology are girls' realm and normalizes the idea of girls participation in STEM careers. 
 
-*For more on women's economic empowerment around the globe, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI*
+She "lives" on Facebook and Twitter who lives on social media and has garnered a following of over 900 young women interested in tech, STEM subjects and building a career in those areas. 
+
+Since being introduced, Rachana has proved an effective way to connect Cambodian girls to their “tech idols” and to opportunities in Cambodia’s tech space and beyond.
+
+The Development Innovations project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. For more on what the project is doing today, and how you can be a part of it, check out the project's [Facebook](https://www.facebook.com/DevInnoKH/) page or join their [email list](https://us3.list-manage.com/subscribe?u=eafe5ec46ecedb90b797eaa84&id=ee4ebac9e9).
+
+*For more on women's economic empowerment & ICT4D around the globe, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI*
