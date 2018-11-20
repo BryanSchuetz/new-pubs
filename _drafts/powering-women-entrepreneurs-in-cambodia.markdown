@@ -45,9 +45,7 @@ In 2017, a group of Cambodian girls--all 11- and 12-years-old--was chosen as one
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F&show_text=1&width=560" width="560" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 `Team Cambodia Identity Product's pitch in San Francisco.`
 
-To build on the success of Team Cambodia Identity Product during Technovation 2017, and to elevate science, technology engineering and math (STEM) subjects in the minds of Cambodian girls Development Innovations introduced the ['I Am Rachana' campaign](https://www.facebook.com/iamrachanatech/) in time for Technovation 2018. Originally developed as a hologram avatar by by one of DI’s own Young Innovators, Rachana promotes the idea that science and technology are girls' realm and normalizes the idea of girls participation in STEM careers. 
-
-She "lives" on Facebook and Twitter who lives on social media and has garnered a following of over 900 young women interested in tech, STEM subjects and building a career in those areas. 
+To build on the success of Team Cambodia Identity Product during Technovation 2017, and to elevate science, technology, engineering and math (STEM) subjects in the minds of Cambodian girls, Development Innovations introduced the ['I Am Rachana' campaign](https://www.facebook.com/iamrachanatech/) in time for Technovation 2018. Originally developed as an exercise in building a [hologram avatar](https://www.development-innovations.org/blog/make-your-own-hologram-bring-iamrachana-to-life/), Rachana "lives" on social media and normalizes the idea of girls' participation in STEM-related events, education, and careers by highlighting 
 
 Since being introduced, Rachana has proved an effective way to connect Cambodian girls to their “tech idols” and to opportunities in Cambodia’s tech space and beyond.
 
