@@ -30,7 +30,7 @@ One of SHE’s most popular services is [Ngeay Ngeay](http://ngeayngeay.co/), wh
 
 ![ngeay.PNG](/uploads/ngeay.PNG)`The Ngeay Ngeay web site`
 
-As a result of the portal’s popularity, SHE is preparing scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and which will improve the long-term sustainability of the service. The DI project will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale-Up Grant Fund, which was open to Cambodian CSOs and businesses and prioritized projects that had already shown some level of success, had conducted user testing, and proposed a scale-up plan based on the feedback from their users. 
+As a result of the portal’s popularity, SHE is preparing to scale-up the platform to include an e-learning component and full-service registration consulting, two additions that respond to direct user feedback and which will improve the long-term sustainability of the service. The DI project will support the development of these new service lines via its 2018 innovation grant program, the ICT Project Scale-Up Grant Fund, which was open to Cambodian CSOs and businesses and prioritized projects that had already shown some level of success, had conducted user testing, and proposed a scale-up plan based on the feedback from their users. 
 
 ## Beyond SHE
 
