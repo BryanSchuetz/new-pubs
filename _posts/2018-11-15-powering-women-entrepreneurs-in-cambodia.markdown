@@ -3,8 +3,8 @@ title: Powering Women's Entrepreneurship in Cambodia
 date: 2018-11-15 14:47:00 -05:00
 published: false
 tags:
-- Cambodia
 - Digital Inclusion
+- Entrepreneurship
 Author: Adam Fivenson
 social-image: "/uploads/lida%202.PNG"
 thumbnail: "/uploads/lida%202.PNG"
