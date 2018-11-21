@@ -14,7 +14,7 @@ thumbnail: "/uploads/lida%202.PNG"
 
 ![lida.jpg](/uploads/lida.jpg)`Lida Loem/SHE Investments`
 
-She might look like a typical 20-something year old Cambodian; however, she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).
+She might look like a typical 20-something year old; however, she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).
 
 <!--more-->
 
@@ -40,9 +40,9 @@ In addition to e-learning and registration consulting, the improvements to Ngeay
 
 ![Cambodia technovation.jpg](/uploads/Cambodia%20technovation.jpg)`A pitch from the Technovation 2018 competition in Cambodia`
 
-Beyond the SHE Investments and the Ngeay Ngeay portal, Development Innovations is also running one of Cambodia's most successful women’s economic empowerment programs in Cambodia: the [Technovation Challenge](https://technovationchallenge.org/). Technovation was launched by Google in 2009 to help girls around the world, aged 10-18, learn business, leadership and basic coding skills. The competition is run annually around the globe and was launched in Cambodia by the DI project team in 2014. Since then, Technovation Cambodia has trained more than 400 girls to solve problems in their communities through a 12 week curriculum and national pitch competition.
+Beyond SHE Investments and the Ngeay Ngeay portal, Development Innovations is also running one of Cambodia's most successful women’s economic empowerment programs in Cambodia: the [Technovation Challenge](https://technovationchallenge.org/). Technovation was launched by Google in 2009 to help girls around the world, aged 10-18, learn business, leadership and basic coding skills. The competition is run annually and was launched in Cambodia by the DI project team in 2014. Since then, Technovation Cambodia has trained more than 400 girls to solve problems in their communities through a 12 week curriculum and national pitch competition.
 
-In 2017, a group of Cambodian girls—all 11- and 12-years-old—was chosen as one of six finalists from a pool of more than 1,000 teams around the world. They then traveled to Silicon Valley to pitch their concept, [Cambodia Identity Product](http://geeksincambodia.com/cambodia-identity-product-the-cambodian-team-that-made-it-to-the-technovation-world-pitch-in-silicon-valley/). The experience was valuable for the team as aspiring techies and entrepreneurs, but also an example to other young girls, in Cambodia, of what's possible if you work hard and challenge yourself, even if you're only 11 or 12 years old.
+In 2017, a group of Cambodian girls—all 11- and 12-years-old—was chosen as one of six finalists from a pool of more than 1,000 teams around the world. They then traveled to Silicon Valley to pitch their concept, [Cambodia Identity Product](http://geeksincambodia.com/cambodia-identity-product-the-cambodian-team-that-made-it-to-the-technovation-world-pitch-in-silicon-valley/). The experience not only was valuable for the team as aspiring techies and entrepreneurs, but also they became an example to other young girls, in Cambodia, of what's possible if you work hard and challenge yourself, even if you're only 11 or 12 years old.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F&show_text=1&width=560" width="560" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 `Team Cambodia Identity Product's pitch in San Francisco.`
