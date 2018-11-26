@@ -44,4 +44,4 @@ To build on the success of Team Cambodia Identity Product during Technovation 20
 
 The DI project runs through August 2019 and continues to empower women like Lida, her clients, and the Cambodia Identity Product team to build businesses and tech tools to solve problems in their communities. For more on what the project is doing today, and how you can be a part of it, check out the project’s [Facebook](https://www.facebook.com/DevInnoKH/) page or join their [email list](https://us3.list-manage.com/subscribe?u=eafe5ec46ecedb90b797eaa84&id=ee4ebac9e9).
 
-*For more on women’s economic empowerment and ICT4D around the globe, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI*
+*For more on women’s economic empowerment and ICT4D around the globe, [subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to Digital@DAI.*
