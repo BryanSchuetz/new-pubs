@@ -14,7 +14,7 @@ thumbnail: "/uploads/lida%202.PNG"
 
 <!--more-->
 
-![lida 2.PNG](/uploads/lida%202.PNG)`Lida with SHE Investments trainees.`
+![lida 2.PNG](/uploads/lida%202.PNG)`Lida, far left, with SHE Investments trainees.`
 
 ## The Challenge
 
