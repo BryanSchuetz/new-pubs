@@ -1,5 +1,5 @@
 ---
-title: Powering Women's Entrepreneurship in Cambodia
+title: Powering Women’s Entrepreneurship in Cambodia
 date: 2018-11-15 14:47:00 -05:00
 published: false
 tags:
@@ -14,15 +14,15 @@ thumbnail: "/uploads/lida%202.PNG"
 
 ![lida.jpg](/uploads/lida.jpg)`Lida Loem/SHE Investments`
 
-She might look like a typical 20-something year old; however, she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).
+She might look like a typical 20-something year old; however, she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise helping Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).
 
 <!--more-->
 
-![lida 2.PNG](/uploads/lida%202.PNG)`Lida with SHE Investments trainees`
+![lida 2.PNG](/uploads/lida%202.PNG)`Lida with SHE Investments trainees.`
 
 ## The Challenge
 
-Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run about 65% of all Cambodian businesses, but only about 2% of formal businesses. This lack of formal ownership makes it harder to claim profits, hire employees, scale-up, and protect intellectual property. To solve these problems and secure women’s stake in their own businesses, SHE runs incubation and acceleration services, mentorship programs, leadership and management trainings, conferences and events, and financing for women entrepreneurs and their businesses. And they’re good at it. Really good. SHE’s programs have resulted in some impressive gains for the women they support:
+Why do women entrepreneurs in Cambodia need Lida and SHE Investments? Women run about 65 percent of all Cambodian businesses, but only about 2 percent of formal, registered businesses. This lack of official ownership makes it harder to claim profits, hire employees, obtain finance to expand, and protect intellectual property. To solve these problems and secure women’s stakes in their own businesses, SHE runs incubation and acceleration services, mentorship programs, leadership and management trainings, conferences and events, and financing for women entrepreneurs and their businesses. And they’re good at it. Really good. SHE’s programs have resulted in some impressive gains for the women they support:
 
 <script id="infogram_0_6eb0600a-ef99-4cab-9bf4-d821350eac62" title="Cambodia WEE" src="https://e.infogram.com/js/dist/embed.js?rqB" type="text/javascript"></script>
 
