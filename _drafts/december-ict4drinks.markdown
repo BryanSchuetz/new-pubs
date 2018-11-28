@@ -9,9 +9,9 @@ thumbnail: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_origi
 ![gdaaa.jpg](/uploads/gdaaa.jpg)`Image credit: Global Digital Health Forum`
 
 Look for us at the [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1)! 
-* Bobby Jefferson will be moderating *Electronic Medical Records* and speaking on the *Making the business case for digital health* panel
-* Krista Baptista will be moderating *Digital Solutions and Medical Vendors: Improving Health Outcomes through Market-Based Approaches*
-* Trevor Olexy will be presenting at the "Appy Hour" (pun intended)
+* Bobby Jefferson will be moderating **Electronic Medical Records** and speaking on the **Making the Business Case for Digital Health** panel on Tuesday
+* Krista Baptista will be moderating **Digital Solutions and Medical Vendors: Improving Health Outcomes through Market-Based Approaches**, both on Tuesday
+* Trevor Olexy will be presenting at the "Appy Hour" (pun intended) Monday night
 
 ![https _cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png](/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png)`Image credit: TechChange`
 
