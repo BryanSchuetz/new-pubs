@@ -22,6 +22,6 @@ Look for us at the [Global Digital Health Forum](http://www.cvent.com/events/201
 
 ![https _cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png](/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png)`Image credit: TechChange`
 
-The Center for Digital Acceleration is also co-hosting an ICT4Drinks happy hour with TechChange, Vital Wave, and the Digital Impact Alliance! We'll be at Local 16 on U Street from 5:30 to 8:30 PM. [RSVP now](https://www.eventbrite.com/e/december-ict4drinks-tickets-52533689680) and join us to discuss big ideas on little napkins.
+The Center for Digital Acceleration is also co-hosting an ICT4Drinks happy hour with TechChange, Vital Wave, and the Digital Impact Alliance! We'll be at Local 16 on U Street from 5:30 to 8:30 PM on December 11. [RSVP now](https://www.eventbrite.com/e/december-ict4drinks-tickets-52533689680) and join us to discuss big ideas on little napkins.
 
 *First drink's on us!*
