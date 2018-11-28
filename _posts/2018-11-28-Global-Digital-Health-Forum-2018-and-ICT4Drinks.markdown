@@ -2,6 +2,9 @@
 title: 'Coming soon: Global Digital Health Forum 2018 & ICT4Drinks'
 date: 2018-11-28 13:25:00 -05:00
 published: false
+tags:
+- Events
+- Global Health
 Author: Adam Fivenson
 social-image: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png"
 thumbnail: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png"
