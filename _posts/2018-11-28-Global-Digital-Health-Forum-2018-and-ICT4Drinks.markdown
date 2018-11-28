@@ -1,5 +1,5 @@
 ---
-title: December ICT4D Events!
+title: 'Coming soon: Global Digital Health Forum 2018 & ICT4Drinks'
 date: 2018-11-28 13:25:00 -05:00
 published: false
 Author: Adam Fivenson
