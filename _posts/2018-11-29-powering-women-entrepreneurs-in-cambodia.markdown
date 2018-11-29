@@ -42,7 +42,7 @@ Beyond SHE Investments and the Ngeay Ngeay portal, DI is also running one of Cam
 
 In 2017, a group of Cambodian 11- and 12-year-old girls was chosen as one of six finalist groups from a pool of more than 1,000 around the world. The group traveled to Silicon Valley to pitch their concept, [Cambodia Identity Product](http://geeksincambodia.com/cambodia-identity-product-the-cambodian-team-that-made-it-to-the-technovation-world-pitch-in-silicon-valley/). The experience not only was valuable for the team members as aspiring techies and entrepreneurs, but also they became an example to other young girls of what’s possible if you work hard and challenge yourself.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUSAIDCambodia%2Fvideos%2F688060878056331%2F" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+[![Team Cambodia Identity Product](/uploads/video%20play.PNG)](https://www.facebook.com/USAIDCambodia/videos/688060878056331/)
 
 To build on the success of Team Cambodia Identity Product during Technovation 2017, and to elevate science, technology, engineering, and math (STEM) subjects in the minds of Cambodian girls, DI introduced the [‘I Am Rachana’ campaign](https://www.facebook.com/iamrachanatech/) in time for Technovation 2018. Originally developed as an exercise in building a [hologram avatar](https://www.development-innovations.org/blog/make-your-own-hologram-bring-iamrachana-to-life/), Rachana “lives” on social media and promotes girls’ participation in STEM-related events, education, and careers by highlighting women entrepreneurs, scientists, and engineers as role models.
 
