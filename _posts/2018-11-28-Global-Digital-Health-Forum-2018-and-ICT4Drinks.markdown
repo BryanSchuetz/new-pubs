@@ -1,5 +1,5 @@
 ---
-title: 'Coming soon: Global Digital Health Forum 2018 & ICT4Drinks'
+title: 'Coming Soon: Global Digital Health Forum 2018 & ICT4Drinks'
 date: 2018-11-28 13:25:00 -05:00
 published: false
 tags:
@@ -10,9 +10,10 @@ social-image: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_or
 thumbnail: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png"
 ---
 
-![gdaaa.jpg](/uploads/gdaaa.jpg)`Image credit: Global Digital Health Forum`
-
 Look for us at the [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1), December 10-11th! 
+
+![gdaaa.jpg](/uploads/gdaaa.jpg)
+
 
 * Trevor Olexy will be presenting on blockchain for vaccine tracking at the "Appy Hour" (pun intended)  on Monday, December 10th in the evening.
 
