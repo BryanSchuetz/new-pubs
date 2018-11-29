@@ -11,9 +11,11 @@ thumbnail: "/uploads/lida%202.PNG"
 ---
 
 ![lida.jpg](/uploads/lida.jpg){:.float-right} 
-Meet Lida Loem. She might look like a typical 20-something year old; however, she’s anything but. Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10) with training, mentorship and networking. 
+Meet Lida Loem. She might look like a typical 20-something; however, she’s anything but. 
 
-SHE's vision is a world where investment into women in developing countries is seen as opportunity, not charity. They see themselves as a catalyst for income generation and employment, improving the local economy and bridging Cambodia's gender gap in business and entrepreneurship. 
+Lida is the co-founder of [SHE Investments](https://www.sheinvestments.com/), a social enterprise that helps Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10) with training, mentorship and networking. 
+
+SHE's vision is a world where investment into women in developing countries is seen as opportunity, not charity. Organizationally, they see themselves as a catalyst for income generation and employment, improving the local economy and bridging Cambodia's gender gap in business and entrepreneurship. 
 
 <!--more-->
 
