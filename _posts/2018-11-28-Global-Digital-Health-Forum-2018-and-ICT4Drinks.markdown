@@ -10,7 +10,9 @@ social-image: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_or
 thumbnail: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png"
 ---
 
-Look for the DAI ICT4D team at the [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1), December 10-11!
+The [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1)--an annual meeting of health-focused government stakeholders, technologists, researchers, and donors from across the globe--is coming up December 10-11! 
+
+Three of the DAI Center for Digital Acceleration's experts will be featured at four separate events, so come find us! Full list below:
 
 ![gdaaa.jpg](/uploads/gdaaa.jpg)
 
