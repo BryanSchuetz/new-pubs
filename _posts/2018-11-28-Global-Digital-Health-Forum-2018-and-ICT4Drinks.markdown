@@ -10,14 +10,16 @@ social-image: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_or
 thumbnail: "/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png"
 ---
 
-Look for the DAI ICT4D team at the [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1), December 10-11! 
+Look for the DAI ICT4D team at the [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1), December 10-11!
 
 ![gdaaa.jpg](/uploads/gdaaa.jpg)
 
 <!--more-->
 
 * [Trevor Olexy](https://www.dai.com/who-we-are/our-team/trevor-oxley) will present on blockchain for vaccine tracking at the “Appy Hour” (pun intended) on Monday, December 10, in the evening.
-* [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) will moderate “Electronic Medical Records” and speak on the “Making the Business Case for Digital Health” panel on Tuesday, December 11. 
+
+* [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) will moderate “Electronic Medical Records” and speak on the “Making the Business Case for Digital Health” panel on Tuesday, December 11.
+
 * [Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista) will moderate “Digital Solutions and Medical Vendors: Improving Health Outcomes through Market-Based Approaches,” both on Tuesday, December 11.
 
 ![https _cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png](/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png)
