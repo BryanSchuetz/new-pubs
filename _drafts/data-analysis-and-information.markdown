@@ -7,7 +7,6 @@ categories:
 tags:
 - Data Management Series
 - Digital Principles
-- GIS
 Author: Trevor Olexy
 social-image: "/uploads/headData.jpg"
 thumbnail: "/uploads/headData.jpg"
