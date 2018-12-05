@@ -16,7 +16,7 @@ thumbnail: "/uploads/headData.jpg"
 
 If you aren’t excited by the headline—you should be! In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, but this blog is simply an opportunity for me to share my own thoughts. After all, what are we as good data stewards and scientists without proper debate?
 
-![headData.jpg](/uploads/headData.jpg)
+![headData.jpg](/uploads/headData.jpg){:.float-left style="width: 35%;"}
 
 <!--more-->
 
