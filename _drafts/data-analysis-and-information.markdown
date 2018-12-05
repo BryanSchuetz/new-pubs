@@ -24,13 +24,13 @@ If you aren’t excited by the headline—you should be! In this blog I will hig
 
 I would (very generally) characterize data as methodically collected quantitative or qualitative observations of the natural world, or the organisms in it. Processing or analysis of this data merely means taking previously methodically collected data and transforming, reorganizing, cleaning it. In terms of this blog, it means mathematically testing data for relationships between variables. The results of this analysis can be summarized in reports that highlight insights from the data. Insights themselves are information, not data, a misconception I have personally come across quite often with regular commiseration from peers in fields who also work with quantitative data.
 
-There are entire books probably written on data and data collection, all discussing the merits and pitfalls of numerous methodologies, but I want to keep this slightly more high level. Now that we got some basic definitions out of the way, let’s jump right in to some common misconceptions and problems that often arise in the data-processing-insights life cycle.
+There are entire books written on data and data collection, all discussing the merits and pitfalls of numerous methodologies, but I want to keep this slightly more high level. Now that we got some basic definitions out of the way, let’s jump right into some common misconceptions and problems that often arise in the data-processing-insights life cycle.
 
 ![brainData.jpg](/uploads/brainData.jpg)`Image courtesy of Mentalfloss`
 
-## Analysis May Not Mean What You Think it Means
+## Analysis May Not Mean What You Think It Means
 
-Sometimes, analysis and “processing” are done in people’s heads. This is especially true in the field I studied, Geography and GIS, where it can often be difficult or impossible to know how end-users will interpret any given data on a map,no matter how intelligent they are how well-designed the map is. Processing and analyzing data consists of systematically testing the data for relationships within itself and even against external variables and datasets. Even descriptive statistics of a dataset is processing and analysis and can reveal meaningful insights!
+Sometimes, analysis and “processing” are done in people’s heads. This is especially true in the field I studied, geography and GIS, where it can often be difficult or impossible to know how users will interpret any given data on a map, no matter how intelligent they are or how well designed the map is. Processing and analyzing data consists of systematically testing the data for relationships within itself and even against external variables and datasets. Even descriptive statistics of a dataset is processing and analysis and can reveal meaningful insights!
 
 Unfortunately, I would venture to say that most of our minds are not as adept at picking out patterns and trends in data as say, the machine I used to produce this article, or the device you are using to read it. Even more troubling, I have encountered more times than I care to count  are those who 1) believe they can best computers at trend analysis, 2) base their “analysis” on “data” but fundamentally mischaracterize information and insights as data.
 
