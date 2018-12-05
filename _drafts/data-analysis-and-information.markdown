@@ -1,5 +1,5 @@
 ---
-title: Data, Analysis, and Information
+title: Data, Analysis, and Information (Not as Boring as It Sounds)
 date: 2018-12-05 10:50:00 -05:00
 categories:
 - Data Analysis
