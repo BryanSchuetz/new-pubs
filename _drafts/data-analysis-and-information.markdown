@@ -26,8 +26,7 @@ I would (very generally) characterize data as methodically collected quantitativ
 
 There are entire books probably written on data and data collection, all discussing the merits and pitfalls of numerous methodologies, but I want to keep this slightly more high level. Now that we got some basic definitions out of the way, let’s jump right in to some common misconceptions and problems that often arise in the data-processing-insights life cycle.
 
-![brainData.jpg](/uploads/brainData.jpg)
-Image courtesy of Mentalfloss
+![brainData.jpg](/uploads/brainData.jpg)`Image courtesy of Mentalfloss`
 
 ## Analysis May Not Mean What You Think it Means
 
