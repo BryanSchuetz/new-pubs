@@ -1,7 +1,6 @@
 ---
 title: 'Coming Soon: Global Digital Health Forum 2018 & ICT4Drinks'
 date: 2018-12-04 09:00:00 -05:00
-published: false
 tags:
 - Events
 - Global Health
