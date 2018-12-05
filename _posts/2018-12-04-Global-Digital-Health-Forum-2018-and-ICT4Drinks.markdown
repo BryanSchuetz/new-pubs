@@ -1,6 +1,7 @@
 ---
 title: 'Coming Soon: Global Digital Health Forum 2018 & ICT4Drinks'
 date: 2018-12-04 09:00:00 -05:00
+published: false
 tags:
 - Events
 - Global Health
@@ -18,8 +19,10 @@ Three experts from DAI's Center for Digital Acceleration will be featured at fou
 <!--more-->
 
 * [Trevor Olexy](https://www.dai.com/who-we-are/our-team/trevor-oxley) will present on blockchain for vaccine tracking at the “Appy Hour” (pun intended) on Monday, December 10, in the evening.
+
+* [Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista) will participate on a panel discussing responsible data use on Monday, December 10 and will moderate “Digital Solutions and Medical Vendors: Improving Health Outcomes through Market-Based Approaches,” on Tuesday, December 11.
+
 * [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) will moderate “Electronic Medical Records” and speak on the “Making the Business Case for Digital Health” panel on Tuesday, December 11.
-* [Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista) will moderate “Digital Solutions and Medical Vendors: Improving Health Outcomes through Market-Based Approaches,” both on Tuesday, December 11.
 
 ![https _cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png](/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png)
 
