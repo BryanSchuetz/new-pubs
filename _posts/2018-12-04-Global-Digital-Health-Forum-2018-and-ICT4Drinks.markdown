@@ -13,7 +13,7 @@ The [Global Digital Health Forum](http://www.cvent.com/events/2018-global-digita
 
 ![gdaaa.jpg](/uploads/gdaaa.jpg)
 
-Three experts from DAI's Center for Digital Acceleration will be featured at four separate events, so come find us! Full list below:
+Three experts from DAI's Center for Digital Acceleration will be featured at five separate events, so come find us! Full list below:
 
 <!--more-->
 
