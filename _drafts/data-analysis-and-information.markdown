@@ -14,7 +14,7 @@ social-image: "/uploads/headData.jpg"
 thumbnail: "/uploads/headData.jpg"
 ---
 
-If you aren’t excited by the headline already, you should be, or you regularly work with data and most likely have an inkling of what I am about to discuss. In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions over the past several years. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, this blog is simly an opportunity for me to share my own thoughts, because what are we as good data stewards and scientists without proper debate?
+If you aren’t excited by the headline—you should be! In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, this blog is simply an opportunity for me to share my own thoughts, because what are we as good data stewards and scientists without proper debate?
 
 ![headData.jpg](/uploads/headData.jpg)
 
