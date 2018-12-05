@@ -14,13 +14,14 @@ social-image: "/uploads/headData.jpg"
 thumbnail: "/uploads/headData.jpg"
 ---
 
-**# Analysis, Data, and Information**
+If you aren’t excited by the headline already, you should be, or you regularly work with data and most likely have an inkling of what I am about to discuss. In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions over the past several years. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, this blog is simly an opportunity for me to share my own thoughts, because what are we as good data stewards and scientists without proper debate?
+
 ![headData.jpg](/uploads/headData.jpg)
-If you aren’t excited by this title already, you should be, or you regularly work with data and most likely have an inkling of what I am about to discuss. In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions over the past several years. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, this blog is simly an opportunity for me to share my own thoughts, because what are we as good data stewards and scientists without proper debate?
 
 <!--more-->
 
-**### Data (\+Collection) -> Processing \+ Analysis -> Insights & Reports**
+### Data (\+Collection) -> Processing \+ Analysis -> Insights & Reports
+
 I would (very generally) characterize data as methodically collected quantitative or qualitative observations of the natural world, or the organisms in it. Processing or analysis of this data merely means taking previously methodically collected data and transforming, reorganizing, cleaning it. In terms of this article, it means mathematically testing data for relationships between variables. The results of this analysis can be summarized in reports that highlight insights from the data. Insights themselves are information, not data, a misconception I have personally come across quite often with regular commiseration from peers in fields that also work with quantitative data.
 
 There are entire books probably written on data and data collection, all discussing the merits and pitfalls of numerous methodologies, but I want to keep this slightly more high level. Now that we got some basic definitions out of the way, let’s jump right in to some common misconceptions and problems that often arise in the data-processing-insights life cycle.
