@@ -15,13 +15,13 @@ thumbnail: "/uploads/headData.jpg"
 
 If you aren’t excited by the headline—you should be! In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, but this blog is simply an opportunity for me to share my own thoughts. After all, what are we as good data stewards and scientists without proper debate?
 
-![headData.jpg](/uploads/headData.jpg){:.float-left style="width: 35%;"}
-
 <!--more-->
 
 ## Data (\+Collection) -> Processing \+ Analysis -> Insights & Reports
 
 I would (very generally) characterize data as methodically collected quantitative or qualitative observations of the natural world, or the organisms in it. Processing or analysis of this data merely means taking previously methodically collected data and transforming, reorganizing, cleaning it. In terms of this blog, it means mathematically testing data for relationships between variables. The results of this analysis can be summarized in reports that highlight insights from the data. Insights themselves are information, not data, a misconception I have personally come across quite often with regular commiseration from peers in fields who also work with quantitative data.
+
+![headData.jpg](/uploads/headData.jpg){:.float-left style="width: 35%;"}
 
 There are entire books written on data and data collection, all discussing the merits and pitfalls of numerous methodologies, but I want to keep this slightly more high level. Now that we got some basic definitions out of the way, let’s jump right into some common misconceptions and problems that often arise in the data-processing-insights life cycle.
 
