@@ -14,33 +14,30 @@ social-image: "/uploads/headData.jpg"
 thumbnail: "/uploads/headData.jpg"
 ---
 
-Analysis, Data, and Information
- 
+**# Analysis, Data, and Information**
+ ![headData.jpg](/uploads/headData.jpg)
 If you aren’t excited by this title already, you should be, or you regularly work with data and most likely have an inkling of what I am about to discuss. I will highlight just a few issues I have run across when discussing projects and planning data analytics solutions over the past several years. Going into all of them would take quite some time so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -> analytics -> insights/information flow, this on is simply my own and open to discussion, because what are we as good data stewards and scientists without proper debate?
 
-Data (+Collection) -> Processing + Analysis -> Insights & Reports
+**### Data (+Collection) -> Processing + Analysis -> Insights & Reports**
 I would (very generally) characterize data as methodically collected quantitative or qualitative observations of the natural world, or the organisms in it. Processing or analysis of this data merely means taking previously methodically collected data and transforming, reorganizing, cleaning, and in terms of this article, mathematically testing data for relationships between variables. The results of this analysis can be summarized in reports that highlight insights from the data. These insights are themselves information, not data, a misconception I have personally come across quite often with regular commiseration from peers in fields that also work with quantitative data. 
 There are entire books probably written on data and data collection, all discussing the merits and pitfalls of numerous methodologies, but I want to keep this slightly more high level, s now that we’ve got some basic definitions out of the way, let’s jump right in to some common misconceptions and problems that often arise in the data-processing-insights life cycle. 
 
 
 
 
-
-
-
-Analysis May Not Mean What You Think it Means
- 
-Mentalfloss
-
+![brainData.jpg](/uploads/brainData.jpg)
+Image courtesy of Mentalfloss
+### **Analysis May Not Mean What You Think it Means**
 Sometimes, analysis and “processing” are done in people’s heads. This is especially true in the field I studied, Geography and GIS, where it can often be difficult or impossible to know how end-users-no matter how intelligent- will interpret any given data on a map – no matter how well-designed. Processing and analyzing data consists of systematically testing the data for relationships within itself and even among external variables and datasets. Even descriptive statistics of a dataset is processing and analysis and can reveal meaningful insights!
 Unfortunately, I would venture to say that most of our minds are not as adept at picking out patterns and trends in data as say, the machine I used to produce this article, or the device you are using to read it. Even more troubling, I have encountered more times than I care to count those who 1) believe they can best computers at trend analysis, 2) base their “analysis” on “data” but fundamentally mischaracterize information and insights as data. 
 
-Insights and Reports are Not Data
-
+### **Insights and Reports are Not Data**
 This section title is an admittedly strong statement that openly does not factor in insights and reports as qualitative analysis, mostly because those who are professionally involved in qualitative research absolutely collect data, process and analyze it, and gain insight from the research. I find roadblocks present themselves when professionals have not yet come to terms with the difference between qualitative and quantitative data and reports/insights.  
 Take the following (not-so)-hypothetical, a colleague waltzes, or perhaps allemandes, into your office and asks that you quantitatively test the relationship between x and y (I know this is level of preparedness is often a stretch too), you naturally ask if they have any data. Your colleague says “yes!” and rushes off to email you their “data.” Minutes pass as you think about their “research question” or what factors and data you might want to test for this case, when the email from your well-intentioned colleague drops into your inbox. Gleefully you open it to find it full of PDF reports with a happy message of “here’s the data.” Now best (still not terribly good) case is this is a PDF of data tables or some other organized set of data points that have been methodically collected or collated. Worst case….well somewhere someone once said, “the plural of anecdote is not “data.” 
 
-“We need a data hub where everyone can share and access all data!” 
+![dataocean.jpg](/uploads/dataocean.jpg)
+Image courtesy  bigcloud.io
+### **“We need a data hub where everyone can share and access all data!” **
 “Why won’t that researcher share their data?” These are dangerous sentences. To be fair, I see the benefit of and benefit from sharing data widely, perhaps because I understand its uses as well as its – and my own – limits. The most important part of that last sentence is my own limitations. What happens when a scientist’s climate change data is shared with the wider world web? It can be used to verify results, but give that data to a clinical psychologist or political scientist and who knows if and what conclusions they would come to. My point is, externally available data sounds good, but I can understand the reticence of researchers to share their raw data with scientists who may not want it to fall in to the wrong hands risking misinterpretation, misrepresentation, or worse, seeing it deliberately mischaracterized to support decisions that may be dangerously contrary to the original intent of the research. 
 
 
