@@ -5,7 +5,6 @@ categories:
 - Data Analysis
 - Information
 tags:
-- Data
 - Data Management Series
 - Digital Principles
 - GIS
