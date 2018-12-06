@@ -16,9 +16,9 @@ If you aren’t excited by the headline—you should be! In this blog I will hig
 
 <!--more-->
 
-## Data (\+Collection) -> Processing \+ Analysis -> Insights & Reports
-
 ![headData.jpg](/uploads/headData.jpg)`Image courtesy of SMIaware`
+
+## Data (\+Collection) -> Processing \+ Analysis -> Insights & Reports
 
 I would (very generally) characterize data as methodically collected quantitative or qualitative observations of the natural world, or the organisms in it. Processing or analysis of this data merely means taking previously methodically collected data and transforming, reorganizing, cleaning it. In terms of this blog, it means mathematically testing data for relationships between variables. The results of this analysis can be summarized in reports that highlight insights from the data. Insights themselves are information, not data, a misconception I have personally come across quite often with regular commiseration from peers in fields who also work with quantitative data.
 
