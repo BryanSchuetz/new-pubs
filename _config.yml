@@ -1,11 +1,7 @@
 ---
-title: Digital@DAI
+title: Publications
 timezone: America/New_York
 collections:
-  authors:
-    title: Authors
-    output: true
-    permalink: "/authors/:path/"
   posts:
     title: Posts
     output: true
@@ -21,21 +17,14 @@ defaults:
     layout: post
     social-image: 
     thumbnail: 800 x 400
-- scope:
-    path: ''
-    type: authors
-  values:
-    layout: author
-    Job: 
-    Image: 
 date: 2016-10-02 17:11:00.000000000 Z
-url: https://dai-global-digital.com
+url: https://dai-global-developments.com
 permalink: "/:title.html"
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-excerpt_separator: "<!--more-->"
+excerpt_separator: "\n\n\n"
 email: your-email@domain.com
 baseurl: "/foo"
 exclude:
@@ -45,9 +34,7 @@ exclude:
 - browser-sync.js
 - ".jekyll-metadata"
 - node_modules
-description: The Digital for Development field has enormous potential—and plenty of
-  room for learning. We launched this blog as part of our own learning process, and
-  we hope to engage the Digital for Development community as we find our way forward
+description: By freely sharing what we learn, we have built a reputation as thought leaders who translate ideas into action and action into results.
 destination: "./build"
 sass:
   style: compressed

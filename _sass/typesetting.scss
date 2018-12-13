@@ -49,6 +49,12 @@ blockquote{
 h1, h2, h3, h4{
   line-height: 2.3rem;
 }
+.masthead-title-developments{
+  font-weight: 900;
+  a{
+    color: $black;
+  }
+}
 .page-title span{
   position: relative;
   top: -.1rem;
