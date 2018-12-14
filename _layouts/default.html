@@ -12,13 +12,13 @@
     <div class="big-wrap">
       {% include header.html %}
         <div class="page-content">
-            <h1 class="page-title"><a class="site-title without-style" href="/" data-turbolinks="false"><svg class="svg-logo" viewBox="0 0 818 114"  preserveAspectRatio="xMinYMax meet"><use xlink:href="#svg-logo"></use></svg></a></h1>
+            <h1 class="page-title masthead-title-developments"><a class="pub-title site-title without-style" href="/" data-turbolinks="false">DEVELOPMENTS</a></h1>
           <div class="wrapper">
             {{ content }}
           </div>
         </div>
       <div class="aside-related cf">
-        <div class="aside--logo"><a class="without-style" href="http://dai.com"><h1 class="masthead-title--developments">DEVELOPMENTS</h1></a></div>
+        <div class="aside--logo"><a class="without-style" href="http://dai.com"><svg class="search" viewBox="0 0 996 255" preserveAspectRatio="xMinYMax meet"><use xlink:href="#dai-logo"></use></svg></a></div>
         <p><strong>DAI</strong> works on the frontlines of international development. Transforming ideas into action—action into impact. <a class="without-style" href="http://dai.com">We are committed to shaping a more livable world</a>.</p>
         <p class="related-links"><a data-turbolinks="false" class="without-style more-button related-link" href="/feed.xml"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#rss"></use></svg> RSS</a><a data-turbolinks="false" class="without-style more-button related-link" href="mailto:digital@dai.com"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#contact"></use></svg> CONTACT</a></p>
         <div class="aa-input-container" id="aa-input-container">
@@ -32,28 +32,19 @@
         <div class="filter-button-group">
           <ul>
             {% for tag in site.tags %}
-            {% if tag[0] == 'Corporate Services' %}<li><button data-filter=".corporate-services" class="without-style more-button tag-filter">Corporate Services</button></li>{% endif %}
+            {% if tag[0] == 'Digital Acceleration' %}<li><button data-filter=".corporate-services" class="without-style more-button tag-filter">Digital Acceleration</button></li>{% endif %}
 
-            {% if tag[0] == 'Think Piece' %}<li><button data-filter=".think-piece" class="without-style more-button tag-filter">Think Piece</button></li>{% endif %}
+            {% if tag[0] == 'Economic Growth' %}<li><button data-filter=".think-piece" class="without-style more-button tag-filter">Economic Growth</button></li>{% endif %}
 
-            {% if tag[0] == 'Data' %}<li><button data-filter=".data" class="without-style more-button tag-filter">Data</button></li>{% endif %}
+            {% if tag[0] == 'Environment & Energy' %}<li><button data-filter=".data" class="without-style more-button tag-filter">Environment & Energy</button></li>{% endif %}
 
-            {% if tag[0] == 'Innovation' %}<li><button data-filter=".innovation" class="without-style more-button tag-filter">Innovation</button></li>{% endif %}
+            {% if tag[0] == 'Fragile States' %}<li><button data-filter=".innovation" class="without-style more-button tag-filter">Fragile States</button></li>{% endif %}
 
-            {% if tag[0] == 'Digital Insights' %}<li><button data-filter=".digital-insights" class="without-style more-button tag-filter">Digital Insights</button></li>{% endif %}
+            {% if tag[0] == 'Global Health' %}<li><button data-filter=".digital-insights" class="without-style more-button tag-filter">Global Health</button></li>{% endif %}
 
-            {% if tag[0] == 'Appathon 2016' %}<li><button data-filter=".appathon-2016" class="without-style more-button tag-filter">Appathon 2016</button></li>{% endif %}
+            {% if tag[0] == 'Governance' %}<li><button data-filter=".appathon-2016" class="without-style more-button tag-filter">Governance</button></li>{% endif %}
 
-            {% if tag[0] =='Economic Growth' %}<li><button data-filter=".economic-growth" class="without-style more-button tag-filter">Economic Growth</button></li>{% endif %}
-
-            {% if tag[0] == 'Environment & Energy' %}<li><button data-filter=".environment-energy" class="without-style more-button tag-filter">Environment & Energy</button></li>{% endif %}
-
-            {% if tag[0] == 'Governance' %}<li><button data-filter=".governance" class="without-style more-button tag-filter">Governance</button></li>{% endif %}
-
-            {% if tag[0] == 'Health' %}<li><button data-filter=".health" class="without-style more-button tag-filter">Health</button></li>{% endif %}
-
-            {% if tag[0] == 'Stability' %}<li><button data-filter=".stability" class="without-style more-button tag-filter">Stability</button></li>{% endif %}
-
+            {% if tag[0] =='Sustainable Business' %}<li><button data-filter=".economic-growth" class="without-style more-button tag-filter">Sustainable Business</button></li>{% endif %}
             {% endfor %}
           </ul>
         </div>

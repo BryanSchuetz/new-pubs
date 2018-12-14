@@ -16,13 +16,7 @@ layout: default
       {% endif %}
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
-      {% for author in site.authors %}
-        {% if author.title == page.Author %}
-          {% assign author_link = author.url %}
-        {% endif %}
-      {% endfor %}
-      {% assign author_slug = page.Author | slugify %}
-      <p class="post-details--byline">By {% if author_link contains author_slug %}<a href="/authors/{{ page.Author | downcase | split: ' ' | join: '-'  }}/" class="without-style">{% endif %}{% if page.Author %}{{ page.Author | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}{% if author_link contains author_slug %}</a>{% endif %}</p>
+      <p class="post-details--byline">By {{post.author}}</p>
       <p class="post-details--tags">Tags: {% for tag in page.tags %}<span class="post-topic"><a href="/tags/?tag={{ tag | downcase | split:' ' | join: '-'}}" class="without-style">{{ tag }}</a></span>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
     </div>
   </header>

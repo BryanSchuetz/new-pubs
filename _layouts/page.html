@@ -9,18 +9,7 @@ layout: default
   </header>
   <article class="post-content">
     {{ content }}
-    {% if page.title == "Authors" %}
-    {% assign sorted_authors = site.authors | sort: "title" %}
-      {% for author in sorted_authors %}
-      <div class="author-block">
-          <h2>{{ author.title }}</h2>
-          <img src="{{ author.Image }}" alt="" class="author-pic"/>
-          <p>{{ author.excerpt }}</p>
-          <p class="more"><a class="without-style more-button" href="{{ author.url }}"><svg class="svg-more" viewBox="0 0 157 157" preserveAspectRatio="xMinYMax meet"><use xlink:href="#more"></use></svg>READ MORE</a></p>
-      </div>
-        {% unless forloop.last %}<hr>{% endunless %}
-      {% endfor %}
-    {% endif %}
+    
   </article>
 
 </div>
