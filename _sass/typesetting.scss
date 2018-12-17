@@ -11,6 +11,7 @@ body{
     font-family: 'proxima-nova', Helvetica, sans-serif;
     font-weight: 600;
     font-size: 5rem;
+    color: $black;
     text-align: center;
     a{
       color: $blue;
@@ -33,6 +34,7 @@ blockquote{
 .wf-active body{
   visibility: visible;
   font-family: 'proxima-nova', Helvetica, sans-serif;
+  color: $black;
   .page-title{
     font-family: 'proxima-nova', Helvetica, sans-serif;
     font-size: 2rem;

@@ -16,7 +16,7 @@ layout: default
       {% endif %}
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
-      <p class="post-details--byline">By {{post.author}}</p>
+      <p class="post-details--byline">By {{page.author}}</p>
       <p class="post-details--tags">Tags: {% for tag in page.tags %}<span class="post-topic"><a href="/tags/?tag={{ tag | downcase | split:' ' | join: '-'}}" class="without-style">{{ tag }}</a></span>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
     </div>
   </header>

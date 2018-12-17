@@ -38,3 +38,6 @@ description: By freely sharing what we learn, we have built a reputation as thou
 destination: "./build"
 sass:
   style: compressed
+algolia:
+  application_id: R7MRY12BR6
+  index_name: Publications
