@@ -10,7 +10,7 @@ featured?: 'yes'
 assets:
 - path: "/uploads/risen.jpg"
 tags:
-- health
+- global-health
 - stability
 ---
 

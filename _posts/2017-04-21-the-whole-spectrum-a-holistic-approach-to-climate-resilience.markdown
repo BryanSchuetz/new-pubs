@@ -12,7 +12,7 @@ assets:
 - path: "/uploads/randall picture devs.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - resilience
 ---
 

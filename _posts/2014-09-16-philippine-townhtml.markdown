@@ -9,7 +9,7 @@ author-bio: "[John Jepsen](http://dai.com/who-we-are/our-team/john-jepsen) is DA
   Chief of Party."
 tags:
 - economic-growth
-- ict
+- digital-acceleration
 ---
 
 <p>Most Filipino households and small businesses operate in a cash economy. Because many lack access to banks or formal financial services, they face a major barrier to economic advancement.</p>

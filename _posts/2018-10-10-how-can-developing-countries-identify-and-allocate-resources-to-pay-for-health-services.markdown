@@ -25,7 +25,7 @@ assets:
 tags:
 - governance
 - public-financial-management
-- health
+- global-health
 ---
 
 Governments in many low- and middle-income countries have committed to provide affordable and high-quality health services to their citizens. To make good on these promises, they need to identify more money for health expenditure and need to invest it more wisely. Our recent policy paper—[Financial Management Mechanisms to Support Increased Government Spending on Health](https://www.hfgproject.org/financial-management-mechanisms-to-support-increased-government-spending-on-health/)—provides some guidance on how they might do that.

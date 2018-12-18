@@ -18,7 +18,7 @@ assets:
 tags:
 - governance
 - economic-growth
-- ict
+- digital-acceleration
 - public-financial-management
 ---
 

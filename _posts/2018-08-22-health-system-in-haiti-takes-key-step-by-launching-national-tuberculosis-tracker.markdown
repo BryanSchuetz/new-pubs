@@ -15,9 +15,9 @@ assets:
 - path: "/uploads/Devs----Haiti-TB-2.jpg"
   name: Devs----Haiti-TB-2
 tags:
-- health
+- global-health
 - governance
-- ict
+- digital-acceleration
 ---
 
 Haiti’s government this year launched a national electronic platform for reporting and tracking tuberculosis (TB), a key step in its efforts to capture, monitor, and report all patient-level data across the country. Information on cases of TB—a contagious and often deadly disease plaguing the Caribbean nation—is being prepared for aggregation into the System d’Information Sanitaire Nationale Unique, or SISNU, which uses the [DHIS2](http://www.hisp.org/aboutus/) open-source software platform for reporting, analyzing, and disseminating national health data.

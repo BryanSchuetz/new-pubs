@@ -20,7 +20,7 @@ assets:
 - path: "/uploads/ProParque_Results.jpg"
   name: ProParque_Results
 tags:
-- environment-&-energy
+- environment-energy
 - renewables
 - energy-and-resources
 ---

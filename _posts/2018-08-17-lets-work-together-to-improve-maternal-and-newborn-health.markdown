@@ -16,7 +16,7 @@ assets:
 - path: "/uploads/ibubayi.jpg"
   name: ibubayi
 tags:
-- health
+- global-health
 ---
 
 *This opinion piece was first published in the [Jakarta Post](http://www.thejakartapost.com/) on August 15, 2018.* 

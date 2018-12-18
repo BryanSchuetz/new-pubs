@@ -28,7 +28,7 @@ assets:
   name: Devs----FSDMoz-2
 tags:
 - economic-growth
-- ict
+- digital-acceleration
 - stability
 ---
 

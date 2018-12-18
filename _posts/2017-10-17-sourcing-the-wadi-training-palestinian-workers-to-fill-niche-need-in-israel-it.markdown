@@ -19,7 +19,7 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-- ict
+- digital-acceleration
 ---
 
 The Middle East hosts one of the fastest-growing high-tech industries in the world: Israel’s [Silicon Wadi](https://www.cnbc.com/2017/05/15/israels-high-tech-sector-is-thriving-and-now-china-wants-in-on-the-action.html). But the very speed of this growth means Israel’s tech sector also faces a shortage of skilled engineers. To deal with this shortage, Israel has turned largely to Eastern Europe as a source for IT workers. Though there is plenty of talent in Eastern Europe, the time difference is not ideal for collaborating and that talent is becoming costlier as global demand increases. This combination of circumstances means opportunities for Palestinians.

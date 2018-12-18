@@ -23,7 +23,7 @@ assets:
 - path: "/uploads/Jepsen,-John.jpg"
   author?: 'yes'
 tags:
-- ict
+- digital-acceleration
 - innovation
 - economic-growth
 ---

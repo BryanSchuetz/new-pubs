@@ -23,7 +23,7 @@ assets:
 - path: "/uploads/Devs----Donald-Lunan-mug.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - governance
 ---
 

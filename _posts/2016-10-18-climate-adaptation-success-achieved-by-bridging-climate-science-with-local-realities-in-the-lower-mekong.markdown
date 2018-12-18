@@ -35,7 +35,7 @@ assets:
   author?: 'yes'
 tags:
 - resilience
-- environment-&-energy
+- environment-energy
 - agriculture
 ---
 

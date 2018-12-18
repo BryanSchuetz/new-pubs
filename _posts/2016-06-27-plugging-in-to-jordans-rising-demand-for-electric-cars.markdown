@@ -25,7 +25,7 @@ assets:
 - path: "/uploads/Devs----Shada-El-Sharif-mug.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - governance
 ---
 

@@ -11,7 +11,7 @@ assets:
 - path: "/uploads/PolSEFF-pic-1.jpg"
 - path: "/uploads/polseff-pic-4.jpg"
 tags:
-- environment-&-energy
+- environment-energy
 - economic-growth
 ---
 

@@ -33,7 +33,7 @@ assets:
   name: Evidence brief FINAL
 tags:
 - governance
-- health
+- global-health
 ---
 
 Thousands of infants and children in rural Zambia suffer or die unnecessarily from malaria each year because they lack access to high-quality medicines and proper medical care. But a recent pilot program shows how trained local volunteers administering crucial medicine can keep a child well enough to be transported to a health care facility for further, potentially lifesaving treatment.

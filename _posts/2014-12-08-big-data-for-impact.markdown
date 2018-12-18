@@ -15,7 +15,7 @@ assets:
   author?: 'yes'
 tags:
 - innovation
-- ict
+- digital-acceleration
 ---
 
 <p>Food-related conversations on Twitter have shown strong correlations with food price inflation. Patterns of mobile phone usage are being analysed to predict the magnitude of a disease outbreak. When airtime top-off amounts shrink in a certain region, it tends to indicate a loss of income in that population.

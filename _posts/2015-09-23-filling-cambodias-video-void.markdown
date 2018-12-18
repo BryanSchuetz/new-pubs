@@ -19,7 +19,7 @@ assets:
 - path: "/uploads/Heuisler_Inner.jpg"
   author?: 'yes'
 tags:
-- ict
+- digital-acceleration
 - governance
 ---
 

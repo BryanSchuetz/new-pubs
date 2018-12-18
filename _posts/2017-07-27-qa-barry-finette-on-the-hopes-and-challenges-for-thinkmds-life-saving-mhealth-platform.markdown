@@ -19,9 +19,9 @@ assets:
 - path: "/uploads/Devs----Finette-QA-4.jpg"
   name: Devs----Finette-QA-4
 tags:
-- health
+- global-health
 - innovation
-- ict
+- digital-acceleration
 ---
 
 DAI and THINKMD connected in 2016 through DAI’s [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-begin-implement-their-solutions-field). Our strategic partnership will leverage DAI’s international development network to bring THINKMD’s digital health products to new markets, while THINKMD’s technology will enhance DAI’s global health toolkit. As part of this partnership, [DAI led THINKMD’s latest financing round](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology).

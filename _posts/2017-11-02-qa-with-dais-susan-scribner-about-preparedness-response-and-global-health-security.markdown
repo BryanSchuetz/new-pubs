@@ -18,7 +18,7 @@ assets:
 - path: "/uploads/Devs----Scribner-pic-1.jpg"
   name: Devs----Scribner-pic-1
 tags:
-- health
+- global-health
 - governance
 ---
 

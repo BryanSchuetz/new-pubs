@@ -14,7 +14,7 @@ assets:
 - path: "/uploads/pubs-story-11.jpg"
 tags:
 - innovation
-- ict
+- digital-acceleration
 ---
 
 Following the Fukushima nuclear accident, many Japanese people were concerned about radioactive contamination in their environment. Radiation data from the government and the private sector were out of date and widely viewed with skepticism. Were citizens safe in their homes, schools, and offices? Was the clean up effort effective?

@@ -16,7 +16,7 @@ assets:
   name: mapping in field 1-1
 tags:
 - governance
-- environment-&-energy
+- environment-energy
 - land
 ---
 

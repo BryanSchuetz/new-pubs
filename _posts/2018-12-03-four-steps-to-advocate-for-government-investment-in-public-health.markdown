@@ -17,7 +17,7 @@ assets:
 - path: "/uploads/Devs----Blessing-Stephen-Nigeria-UNITED.jpg"
   author?: 'yes'
 tags:
-- health
+- global-health
 - governance
 ---
 

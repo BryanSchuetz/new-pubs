@@ -12,7 +12,7 @@ assets:
 - path: "/uploads/Devs----Brian-McMahon-mug.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - governance
 ---
 

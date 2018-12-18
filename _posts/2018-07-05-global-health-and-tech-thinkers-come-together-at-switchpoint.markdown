@@ -37,9 +37,9 @@ assets:
 - path: "/uploads/Devs----SwitchPoint-14.jpg"
   name: Devs----SwitchPoint-14
 tags:
-- ict
+- digital-acceleration
 - innovation
-- health
+- global-health
 ---
 
 At [SwitchPoint](https://event.switchpointideas.com/), a two-day conference organized by Intrahealth International—a DAI [strategic affiliate](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact)—400 global health and technology devotees came together in the North Carolina countryside to share ideas and seed partnerships for solving global health challenges, especially by using technology. The seventh annual event, held April 26–27, featured 30-plus stage speakers and 20-plus microlabs.

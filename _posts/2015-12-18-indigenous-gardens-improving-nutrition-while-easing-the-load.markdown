@@ -18,7 +18,7 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-- health
+- global-health
 - agriculture
 ---
 

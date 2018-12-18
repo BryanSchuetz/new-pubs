@@ -22,7 +22,7 @@ assets:
 tags:
 - agriculture
 - climate change
-- environment-&-energy
+- environment-energy
 - finance
 ---
 

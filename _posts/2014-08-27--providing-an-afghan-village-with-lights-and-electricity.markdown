@@ -10,7 +10,7 @@ author-bio: "**Dana Kenney** served as a senior development specialist in DAI’
 assets:
 - path: "/uploads/hydro1.jpg"
 tags:
-- environment-&-energy
+- environment-energy
 - stability
 ---
 

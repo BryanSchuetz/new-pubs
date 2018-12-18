@@ -20,7 +20,7 @@ assets:
 tags:
 - agriculture
 - economic-growth
-- health
+- global-health
 ---
 
 Small-scale farmers in Rwanda struggle to capture the full value of their maize harvests. Farmers typically process their maize manually or using basic tools. With limited infrastructure available for threshing, cleaning, and drying, the full harvest and post-harvest process takes six weeks, on average. Apart from being burdensome for farm families, the lengthy process exposes their maize to rotting, pest infestation, and mould. As a result, the farmers lose an estimated 30 percent of their yields, and traders capture much of the profit generated.

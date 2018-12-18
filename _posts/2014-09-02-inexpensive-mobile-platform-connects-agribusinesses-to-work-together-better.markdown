@@ -13,7 +13,7 @@ assets:
 - path: "/uploads/farmer1.jpg"
 - path: "/uploads/farmer2.jpg"
 tags:
-- ict
+- digital-acceleration
 - economic-growth
 ---
 

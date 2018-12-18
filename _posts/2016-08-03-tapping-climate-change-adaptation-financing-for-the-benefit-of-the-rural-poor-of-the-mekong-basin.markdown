@@ -28,7 +28,7 @@ assets:
 - path: "/uploads/Devs----Ornasaran-Manuamorn-mug-.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - governance
 - resilience
 ---

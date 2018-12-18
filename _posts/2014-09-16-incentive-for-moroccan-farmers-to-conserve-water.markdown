@@ -15,7 +15,7 @@ assets:
 - path: "/uploads/conservation2.jpg"
 tags:
 - economic-growth
-- environment-&-energy
+- environment-energy
 ---
 
 <p>While the full implications of global climate change on rainfall and the world’s water supply are still largely speculative, the day that demand for water outstrips supply has already arrived in Morocco.</p>

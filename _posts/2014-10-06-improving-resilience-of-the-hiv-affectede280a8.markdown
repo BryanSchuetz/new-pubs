@@ -13,7 +13,7 @@ assets:
 - path: "/uploads/hiv-2.jpg"
 tags:
 - resilience
-- health
+- global-health
 ---
 
 <p>Resilience has been defined as the ability to mitigate, adapt, absorb, and recover from hazards, shocks, and stresses in a manner that reduces chronic vulnerabilities. Vulnerability is a good starting point for any analysis of resilience; understanding chronic vulnerability can inform development programming to enhance resilience in various areas, whether in health, economic growth, climate change, or HIV mitigation.</p>

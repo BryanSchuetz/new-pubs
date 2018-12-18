@@ -20,7 +20,7 @@ assets:
 - path: "/uploads/Devs----Zika-2.jpg"
   name: Devs----Zika-2
 tags:
-- health
+- global-health
 - governance
 ---
 

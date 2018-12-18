@@ -27,8 +27,8 @@ assets:
 - path: "/uploads/Devs----IUWASH-pic-4.jpg"
   name: Devs----IUWASH-pic-4
 tags:
-- health
-- environment-&-energy
+- global-health
+- environment-energy
 ---
 
 Despite gains elsewhere in the country, urban Indonesia suffers from the lowest rate of access to improved sanitation and the second lowest rate of access to safe water among all ASEAN member nations. Only 32 percent of Indonesia’s urban population has access to piped water and only 73 percent to basic sanitation, which translates into higher rates of waterborne diseases, particularly among the most vulnerable: children and the poor. 

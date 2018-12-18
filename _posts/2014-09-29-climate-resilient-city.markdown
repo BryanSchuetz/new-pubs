@@ -14,7 +14,7 @@ assets:
 - path: "/uploads/city-1.jpg"
 tags:
 - resilience
-- environment-&-energy
+- environment-energy
 ---
 
 <p>Using public-private partnerships (PPPs) to develop infrastructure that will enhance urban resilience to climate change is a promising option for countries affected by increasingly intense droughts, severe floods, and other environmental factors. Countries such as Mozambique and Vietnam are now piloting aspects of this approach, but we must address various weaknesses in it if we are to come up with a “climate-smart PPP” program.</p>

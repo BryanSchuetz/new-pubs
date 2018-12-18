@@ -18,7 +18,7 @@ assets:
 - path: "/uploads/Legislators.jpg"
   name: Legislators
 tags:
-- health
+- global-health
 ---
 
 This year’s [World Health Day](http://www.who.int/campaigns/world-health-day/2018/en/) theme is Universal Health Coverage. It’s an apt rallying cry, particularly for those working in our [Women for Health (W4H) programme](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) in Northern Nigeria, where a [2013 study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069569) showed that 94 percent of live births lacked any medical personnel presence, resulting in one of the highest maternal mortality rates in the world.

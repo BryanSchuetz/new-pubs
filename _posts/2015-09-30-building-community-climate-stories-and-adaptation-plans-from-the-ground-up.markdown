@@ -30,7 +30,7 @@ assets:
 - path: "/uploads/Devs----Paul-Hartman.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - resilience
 ---
 

@@ -21,7 +21,7 @@ assets:
 tags:
 - economic-growth
 - finance
-- environment-&-energy
+- environment-energy
 ---
 
 While Poland’s private sector grew steadily in the post-Soviet era, its reliance on old energy equipment and poorly insulated facilities contributed to the country becoming one of the highest energy consumers in Europe. In 2010, when the European Bank for Reconstruction and Development (EBRD) launched the [Polish Sustainable Energy Financing Facility ](https://www.dai.com/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)(PolSEFF), few business owners had invested in energy efficiency measures compared with the European Union average, and Polish lending institutions were not prepared to finance these types of upgrades. As a result, business owners continued to pay unnecessarily high energy bills and emit unnecessarily high amounts of carbon.

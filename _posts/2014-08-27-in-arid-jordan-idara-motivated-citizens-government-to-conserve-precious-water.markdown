@@ -13,7 +13,7 @@ assets:
 - path: "/uploads/ia1.jpg"
 - path: "/uploads/ia2.jpg"
 tags:
-- environment-&-energy
+- environment-energy
 - governance
 ---
 

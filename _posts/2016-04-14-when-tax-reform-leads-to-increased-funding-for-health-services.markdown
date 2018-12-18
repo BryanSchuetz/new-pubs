@@ -23,7 +23,7 @@ assets:
 - path: "/uploads/Devs-Eunice-mug-new.jpg"
   author?: 'yes'
 tags:
-- health
+- global-health
 - governance
 - public-financial-management
 ---

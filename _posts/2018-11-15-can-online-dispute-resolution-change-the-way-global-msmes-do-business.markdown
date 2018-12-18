@@ -19,7 +19,7 @@ tags:
 - governance
 - trade
 - investment
-- ict
+- digital-acceleration
 - innovation
 ---
 

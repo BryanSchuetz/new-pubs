@@ -19,7 +19,7 @@ assets:
 tags:
 - resilience
 - agriculture
-- health
+- global-health
 ---
 
 Severe food insecurity and a lack of diversified farming systems present serious challenges to Malawi’s government and development community. One great obstacle is misinformation. Many Malawians hold deep misconceptions about food—for example, that eating oranges or other citrus will shrivel a mother’s breasts. This misinformation works against a population whose rates of malnutrition and stunting—while declining in recent years—remain alarmingly high at nearly 50 percent.

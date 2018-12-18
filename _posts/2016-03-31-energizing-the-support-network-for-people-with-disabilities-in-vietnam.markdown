@@ -19,7 +19,7 @@ assets:
 - path: "/uploads/Devs----Mark-Rasmuson-new.jpg"
   author?: 'yes'
 tags:
-- health
+- global-health
 - governance
 ---
 

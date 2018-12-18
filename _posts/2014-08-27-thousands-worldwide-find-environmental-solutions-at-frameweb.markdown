@@ -12,7 +12,7 @@ assets:
   author?: 'yes'
 - path: "/uploads/fw1.jpg"
 tags:
-- environment-&-energy
+- environment-energy
 ---
 
 <p>Biogas projects in Africa have a worthy goal—to cheaply convert waste into fuel—but a discouraging record of failure. Reliable biogas operations require specific conditions and careful maintenance. So when Alvaro Gutierrez from Colombia set out to launch a biogas program in Kenya, he reached out for advice and found it, for free, from colleagues all over the world.</p>

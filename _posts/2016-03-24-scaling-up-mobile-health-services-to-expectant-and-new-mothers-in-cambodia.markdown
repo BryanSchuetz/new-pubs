@@ -17,8 +17,8 @@ assets:
 - path: "/uploads/Devs----Cambodia-mHealth-1.jpg"
   name: Devs----Cambodia-mHealth-1
 tags:
-- ict
-- health
+- digital-acceleration
+- global-health
 - innovation
 ---
 

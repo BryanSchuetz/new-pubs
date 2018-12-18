@@ -22,7 +22,7 @@ assets:
 - path: "/uploads/Devs----Warwick-mug.jpg"
   author?: 'yes'
 tags:
-- environment-&-energy
+- environment-energy
 - economic-growth
 - energy-and-resources
 - sustainable-business

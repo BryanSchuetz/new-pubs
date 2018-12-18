@@ -3,7 +3,7 @@ title: DEVELOPMENTS
 layout: default
 ---
 <div class="home grid">
-  {% assign currentPosts = site.posts | where_exp: "post", "post.date > site.date " %}
+  {% assign currentPosts = site.posts | where_exp: "post", "post.publication == 'Developments'" %}
   {% assign posts = currentPosts | sort: 'date' | reverse %}
   {% for post in posts %}
   <div class="post grid-item {% for tag in post.tags %}{{ tag | slugify }} {% endfor %}">
@@ -22,7 +22,6 @@ layout: default
   {% endfor %}
   <hr>
 </div>
-<p class="archive-link">View <a href="/archive">archived posts</a>.</p>
 
 <script>
   $(window).load(function () {

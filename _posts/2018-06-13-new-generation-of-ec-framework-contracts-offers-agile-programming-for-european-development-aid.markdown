@@ -16,7 +16,7 @@ assets:
   author?: 'Yes'
 tags:
 - economic-growth
-- environment-&-energy
+- environment-energy
 - governance
 - DAI
 - European Commission

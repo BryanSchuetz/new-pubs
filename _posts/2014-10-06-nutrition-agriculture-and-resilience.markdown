@@ -15,7 +15,7 @@ assets:
   author?: 'yes'
 tags:
 - resilience
-- health
+- global-health
 ---
 
 <p>The critical “1,000 days” window for child development, spanning gestation to the second birthday, is a key period for building nutritional resilience. Investments in establishing child health and good nutrition in this period pay lifelong dividends. In this period, children’s still-developing immune systems make them highly vulnerable to disease. Their high and very specific nutrient needs and the limited quantity they can eat at any single meal place them at risk of poor growth outcomes. Research shows that nutrition deficits suffered during this period lead to lifetime lags in growth and development, even if health and food intake subsequently improve.</p>

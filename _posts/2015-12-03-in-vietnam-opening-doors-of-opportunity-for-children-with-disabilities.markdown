@@ -17,7 +17,7 @@ assets:
 - path: "/uploads/Devs----PDSP-pic.jpg"
   name: Devs----PDSP-pic
 tags:
-- health
+- global-health
 - governance
 ---
 

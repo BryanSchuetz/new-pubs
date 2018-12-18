@@ -21,7 +21,7 @@ assets:
 - path: "/uploads/Devs----Khmer-keyboard-launch-party.jpg"
   name: Devs----Khmer-keyboard-launch-party
 tags:
-- ict
+- digital-acceleration
 - innovation
 ---
 

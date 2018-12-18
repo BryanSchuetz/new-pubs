@@ -15,7 +15,7 @@ assets:
   name: Devs----Technovation-2
 tags:
 - gender
-- ict
+- digital-acceleration
 ---
 
 Women are far underrepresented in the tech world globally from bottom to top. The all-encompassing industry is looking into the mirror and seeing  men and boys dominating technology jobs, classrooms, and expert panels, a bias now widely noticed.
