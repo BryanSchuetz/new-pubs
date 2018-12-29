@@ -56,13 +56,22 @@ blockquote{
 h1, h2, h3, h4{
   line-height: 2.3rem;
 }
-h1.masthead-title-developments{
-  font-weight: 900;
+h1.masthead-title{
   a.pub-title{
     color: $black;
   }
   &:hover{
     color: $black;
+  }
+  &.developments{
+    font-weight: 900;
+  }
+  &.dai-publications{
+    font-weight: 400;
+  }
+  &.developing-alternatives{
+    font-weight: 300;
+    line-height: 3.5rem;
   }
 }
 .page-title span{
@@ -95,12 +104,13 @@ nav a:hover{
 
 hr{
   border: none;
-  border-bottom: 1px solid $blue;
+  border-bottom: 1px solid lighten($gray, 10%);
+  &.pubs{
+    margin-bottom: 2rem;
+  }
 }
 .lead-in{
-  font-size: .96rem;
-  line-height: 1.3rem;
-  font-style: italic;
+
 }
 // 🎌Navigational Links🎌
 .more a{
