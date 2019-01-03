@@ -9,9 +9,11 @@ featured?:
 tags:
 - stability
 - environment-energy
+thumbnail-image: /uploads/IraqIMRP.jpg
+social-image: /uploads/IraqIMRP.jpg
 ---
 
-Driven from their land by a despot bent on retaliation, the Marsh Arabs of Iraq had little choice but to abandon the wetlands that were once home to billions of birds, a source of fish and dairy products for much of the country, and a natural filter for the waters of the Persian Gulf.
+Driven from their land by a despot bent on retaliation, the Marsh Arabs of Iraq had little choice but to abandon the wetlands that were once home to billions of birds, a source of fish and dairy products for much of the country, and a natural filter for the waters of the Persian Gulf. 
 
 
 
@@ -52,5 +54,5 @@ The indigenous marsh dwellers, the Ma'dan, popularly called the Marsh Arabs, hav
 
 They killed tens—maybe hundreds—of thousands of Marsh Arabs and forcibly moved the survivors from site to site. Many ﬂed to Iran and Saudi Arabia, and although nearly all returned to Iraq in fall 2003, the population in the marshlands today is probably no more than 150,000.
 
-[1]: http://dai-global.com/our-work/projects/iraq-marshlands-restoration-project
-[2]: http://dai-global.com/sites/default/files/stories/IraqMarshlands.jpg
+[1]: https://www.dai.com/our-work/projects/iraq-marshlands-restoration-project-imrp
+[2]: /uploads/IraqIMRP.jpg

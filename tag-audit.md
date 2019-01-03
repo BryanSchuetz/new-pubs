@@ -14,8 +14,8 @@ Here are all the tags currently being used on the site:
 
 Here are the tags being used to connect content across the Pubs/Digital/dai.com sites:
 <ul>
-  <li><strong>Corporate Services</strong></li>
-  <li><strong>Digital</strong></li>
+  <li><strong>Sustainable Business</strong></li>
+  <li><strong>Digital Acceleration</strong></li>
   <li><strong>Economic Growth</strong></li>
   <li><strong>Environment & Energy</strong></li>
   <li><strong>Governance</strong></li>

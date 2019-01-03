@@ -25,7 +25,7 @@
         {% comment %} <!-- If the posts author is the author being shown --> {% endcomment %}
         {% if post.Author == page.title %}
           {% comment %} <!-- Show the post details --> {% endcomment %}
-          <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+          <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
           {% assign cap = cap | plus: 1 %}
           {% assign got_related = true%}
         {% endif %}
@@ -37,7 +37,7 @@
           {% if post.tags contains tag %}
             {% assign got_related = true%}
             {% comment %} <!-- Show tags that match --> {% endcomment %}
-            <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
             {% assign cap = cap | plus: 1 %}
             {% comment %} <!-- If one tag in a post matches a tag on the page, stop --> {% endcomment %}
             {% break %}
@@ -54,7 +54,7 @@
     {% assign new_posts = posts%}
     {% for post in new_posts | limit: 3 %}
       {% if post.url != page.url%}
-        <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+        <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
       {% endif %}
     {% endfor %}
   {% endunless %}
