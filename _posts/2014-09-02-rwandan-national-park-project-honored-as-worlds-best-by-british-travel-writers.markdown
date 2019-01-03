@@ -15,6 +15,8 @@ assets:
 tags:
 - environment-energy
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>The Nyungwe Nziza project in Rwanda has been named winner of the prestigious British Guild of Travel Writers’ Best Overseas and Best Global Project Awards. At the recent annual awards dinner at the Savoy Hotel in London, Guild Chair Roger Bray said: “Nyungwe Nziza is a model tourism project for developing countries.”</p>

@@ -21,6 +21,8 @@ assets:
 tags:
 - land
 - governance
+thumbnail-image:
+social-image:
 ---
 
 Mozambique is widely regarded as having a modern and progressive land tenure framework, following the enactment of the 1997 Land Law. However, in its implementation, the law has not always lived up to its promise. Twenty years of experience reveals a number of areas in which the legal framework would benefit from revision and better serve its primary aims of promoting productive land use while protecting legitimate customary and smallholder land rights.  

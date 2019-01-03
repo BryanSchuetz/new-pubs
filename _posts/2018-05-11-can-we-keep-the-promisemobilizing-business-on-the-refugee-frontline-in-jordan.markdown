@@ -18,6 +18,8 @@ tags:
 - fragile-states
 - resilience
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 In recent years, lower- and middle-income countries have borne the brunt of the global refugee crisis, currently hosting more than 80 percent of the world’s refugees. But some host countries, like [Jordan](http://dai-global-developments.com/articles/calculating-syrian-refugee-crisis-fiscal-crisis/), are taking important steps to seize what opportunities they can in this situation, supporting refugee self-reliance and at the same time boosting their own economy by issuing work permits to refugees and connecting multinational companies to business opportunities with local firms and displaced people.

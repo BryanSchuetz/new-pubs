@@ -20,6 +20,8 @@ tags:
 - digital-acceleration
 - global-health
 - innovation
+thumbnail-image:
+social-image:
 ---
 
 Working in Cambodia, the Czech organization People in Need (PIN) had already produced a pilot maternal health product. Its mobile phone-based service—named Baby Care Village—was reaching select mothers and caregivers with messages on how to care for newborns. While the new service proved valuable, surveys indicated its messages were meeting just a fraction of the demand.

@@ -16,6 +16,8 @@ tags:
 - economic-growth
 - energy-and-resources
 - sustainable-business
+thumbnail-image:
+social-image:
 ---
 
 <p>The old corporate social responsibility (CSR) model typically offered one-time, discrete infrastructure grants or programs aimed at assuaging local demands to “share the wealth.”</p>

@@ -15,6 +15,8 @@ assets:
 tags:
 - economic-growth
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p>From 2008 to 2012, a small team of legal generalists from the DAI-led Cambodia Micro Small and Medium Enterprise (MSME) project worked to improve that country’s uneven business enabling environment.</p>

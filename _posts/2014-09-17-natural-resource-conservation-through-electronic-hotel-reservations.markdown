@@ -12,6 +12,8 @@ assets:
 tags:
 - environment-energy
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>When Gabriel Lopez rented out two rooms in his apartment in 2004 to earn income while working on his MBA, he never intended to become a small-business owner.</p>

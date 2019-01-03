@@ -14,6 +14,8 @@ assets:
 tags:
 - resilience
 - governance
+thumbnail-image:
+social-image:
 ---
 
 The traditional pastoralists of northern Kenya are increasingly challenged by the changing climate.

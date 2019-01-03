@@ -21,6 +21,8 @@ assets:
   name: Why Trade Shows May 2015
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 Seven years ago, DAI began implementing the value chain portion of Southern Africa Trade Hub (SATH), a project funded by the U.S. Agency for International Development (USAID). SATH's goal was to promote economic growth by fostering intraregional trade between select member states of the Southern African Development Community (SADC).

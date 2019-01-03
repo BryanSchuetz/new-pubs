@@ -14,6 +14,8 @@ tags:
 - governance
 - gender
 - global-health
+thumbnail-image:
+social-image:
 ---
 
 Despite significant improvements in the delivery of statutory justice services, most rural people in Sierra Leone lack the time, money, or literacy needed to access [formal justice structures](http://dai.com/our-work/solutions/law-and-justice) such as police, courts, or legal services. Instead, they rely on traditional mechanisms such as the Chiefdom structure, which are perceived as quicker, less expensive (in time and money), and more accessible.

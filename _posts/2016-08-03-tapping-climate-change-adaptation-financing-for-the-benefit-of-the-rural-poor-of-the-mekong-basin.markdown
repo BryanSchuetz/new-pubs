@@ -31,6 +31,8 @@ tags:
 - environment-energy
 - governance
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 Over the past few years, farmers in the Lower Mekong Basin have had to change how they win their livelihoods: diversifying crops, reconfiguring livestock husbandry practices, addressing water quality and quantity, even moving their planting schedules. Utilizing local knowledge and experience, these farmers and communities are adapting to the changing climate; they also mark the beginning of a movement.

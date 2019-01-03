@@ -14,6 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Beginning in 2001, with funding from U.K. Department for International Development (DFID), DAI designed the Lesotho Garment Industry Strategy, which was adopted by the Government of Lesotho with buy-in from the private sector and the labor unions. Implementation of the strategy, with support from DAI’s DFID-funded ComMark Program, doubled the size of the industry in three years. The industry now employs more than 40,000 people, the largest block of formal employment in the country.</p>

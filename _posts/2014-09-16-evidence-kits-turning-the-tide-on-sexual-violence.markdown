@@ -12,6 +12,8 @@ assets:
 tags:
 - global-health
 - stability
+thumbnail-image:
+social-image:
 ---
 
 <p>The rape kit–or forensic evidence collection kit, to use its sanitized title–is something people in the West might take for granted. Not so in Sri Lanka where, until the advent of the sexual assault forensic examination (SAFE) program, there were no readily available rape kits. Instead, perpetrators of sexual violence acted with impunity.</p>

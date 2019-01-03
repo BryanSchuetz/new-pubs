@@ -23,6 +23,8 @@ assets:
   name: Devs----Nebil-4
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 Just over 100 years ago, Henry Ford and other industrialists revolutionised manufacturing by introducing the assembly line. They built consumer goods at unprecedented scale and cost, creating millions of jobs and bringing down the price of goods to levels that workers could afford. It was so productive that Ford could double the minimum wage and shorten the working day for his workers.

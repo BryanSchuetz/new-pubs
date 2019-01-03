@@ -14,6 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Soya production in Mozambique has been increasing in response to the rapid growth of the poultry industry. Donor programs to promote soya production for Mozambican smallholder farmers have encouraged thousands of farmers to enter the sector. But their productivity was low, limiting their competitiveness. A 2011 analysis by the Swiss Agency for Development and Cooperation-funded InovAgro project showed that poor seed quality was the critical constraint to increasing productivity, exacerbated by farmers’ failure to observe good agricultural practices. </p>

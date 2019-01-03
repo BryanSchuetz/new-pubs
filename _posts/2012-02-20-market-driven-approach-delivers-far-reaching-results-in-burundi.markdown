@@ -14,6 +14,8 @@ tags:
 - gender
 - economic-growth
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 At the beginning of the [Burundi Agribusiness Program (BAP)](https://www.dai.com/our-work/projects/burundi-agribusiness-program-bap), women participants would stand in the back of training sessions and remain quiet. But as time went on, they gradually began moving to the front. By the end of the program, they felt empowered to speak on issues without permission from men.

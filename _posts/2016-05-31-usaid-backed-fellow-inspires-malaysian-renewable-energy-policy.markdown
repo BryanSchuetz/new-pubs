@@ -14,6 +14,8 @@ assets:
 tags:
 - environment-energy
 - governance
+thumbnail-image:
+social-image:
 ---
 
 When people think of solar energy, they often envision banks of solar panels producing electricity that powers lights and household appliances. While the use of photovoltaic cells to convert sunlight into electricity can contribute to reducing carbon emissions, another important and simpler use of the sun’s rays often goes overlooked: the generation of usable heat.

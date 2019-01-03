@@ -26,6 +26,8 @@ tags:
 - Nigeria
 - economic-growth
 - value chain and market systems development
+thumbnail-image:
+social-image:
 ---
 
 Despite having the largest economy in Africa, around half of Nigeria’s population still lives in extreme poverty. A few hundred miles east of the new skyscrapers and shopping malls of Nigeria’s commercial capital of Lagos, the Niger Delta—made up of nine oil-producing states and home to more than 31 million people—defines the country’s stark contrast in living conditions. Even though it is a major oil-producing region, much of the Delta’s population lives in remote villages and survives on subsistence farming. Exacerbating this poverty is a lack of modern agricultural equipment and supplies that farmers need to improve crop yields, as well as limited access to markets in which to sell their harvests.

@@ -26,6 +26,8 @@ tags:
 - governance
 - fragile-states
 - public-financial-management
+thumbnail-image:
+social-image:
 ---
 
 The long-running conflicts in Afghanistan have threatened to reduce its municipalities to mere clusters of people rather than organized cities operating for the local good. But this is changing. Many municipalities are now gaining strength, establishing financial systems, increasing revenues, and improving service delivery by virtue of technical assistance funded by the U.S. Agency for International Development (USAID).

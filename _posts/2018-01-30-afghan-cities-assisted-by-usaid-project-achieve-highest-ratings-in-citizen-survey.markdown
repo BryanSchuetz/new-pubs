@@ -23,6 +23,8 @@ tags:
 - stability
 - governance
 - fragile-states
+thumbnail-image:
+social-image:
 ---
 
 In a citizen assessment of government services in nine Afghan municipalities, the four that ranked the highest—Chaharikar, Hirat, Mazar-e-Sharif, and Jalalabad—are all partners with a U.S. Agency for International Development (USAID) project working to improve the capacity of Afghan municipal officials to meet citizen priorities and service delivery needs. 

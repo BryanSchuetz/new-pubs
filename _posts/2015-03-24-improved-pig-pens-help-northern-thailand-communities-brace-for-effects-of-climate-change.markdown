@@ -13,6 +13,8 @@ assets:
 tags:
 - agriculture
 - environment-energy
+thumbnail-image:
+social-image:
 ---
 
 For villagers in northern Thailand's Hae Ko hill tribe community, raising pigs is an integral part of their lives. Not only do the livestock serve as a critical protein source for the community and provide supplementary income, they are also culturally important as ceremonial gifts.

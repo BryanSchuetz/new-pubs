@@ -20,6 +20,8 @@ tags:
 - economic-growth
 - global-health
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 When the villagers of Makhoyo in southern Malawi were introduced to the concept of backyard gardens, few of them gave it much thought. Residents had farmed soy and groundnuts for generations in this area. It seemed too simple to be true: to grow vegetables easily at home, especially during the dry offseason.

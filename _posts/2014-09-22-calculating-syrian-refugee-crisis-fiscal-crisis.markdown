@@ -15,6 +15,8 @@ assets:
 tags:
 - economic-growth
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p>Since 2011, the Syrian conflict has killed more than 100,000 people and destroyed countless homes and businesses, forcing Syrians by the thousands to seek refuge in the region. Jordan generously opened its borders to these refugees, who settled in camps established by the United Nations and in northern cities such as Irbid, Ramtha, and Mafraq, resulting in a rapid, nearly 10 percent increase in the population.</p>

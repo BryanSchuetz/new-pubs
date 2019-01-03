@@ -18,6 +18,8 @@ tags:
 - governance
 - environment-energy
 - land
+thumbnail-image:
+social-image:
 ---
 
 The challenge was steep but straightforward. Survey, collect, and clarify information for all land parcels in Rwanda—an estimated 7.9 million plots that eventually turned out to be millions more—and provide lease certificates to all rightful claimants. Never before attempted in Rwanda, yet alone accomplished, this feat had to be executed in line with Rwanda’s land law, completed in less than five years, and delivered “affordably.”

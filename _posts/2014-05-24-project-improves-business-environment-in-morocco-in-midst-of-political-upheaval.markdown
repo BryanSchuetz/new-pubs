@@ -13,6 +13,8 @@ assets:
 tags:
 - agriculture
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 In just three and a half years, the [Morocco Economic Competitiveness (MEC)][1] program accomplished an ambitious scope of work: reducing barriers to trade and investment in two rural regions at a time when economic turmoil—particularly in Europe—and political change across the Middle East and North Africa had a profound impact on Morocco.

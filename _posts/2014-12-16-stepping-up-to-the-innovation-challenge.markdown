@@ -11,6 +11,8 @@ assets:
 tags:
 - innovation
 - dai
+thumbnail-image:
+social-image:
 ---
 
 On the morning of October 29, a panel of distinguished judges gathered in Bethesda, Maryland, to hear the final pitches from five DAI projects competing for the title of DAI “Innovation of the Year.”

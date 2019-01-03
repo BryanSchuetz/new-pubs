@@ -16,6 +16,8 @@ assets:
 tags:
 - innovation
 - digital-acceleration
+thumbnail-image:
+social-image:
 ---
 
 Recent advances in drone technology have come in tandem with advances in artificial intelligence. These converging technologies will give rise to fully autonomous drones that could play an important role in a host of applications, from commercial delivery systems to municipal governance–and quite possibly in international development activities.

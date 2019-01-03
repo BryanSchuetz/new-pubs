@@ -25,6 +25,8 @@ assets:
 tags:
 - environment-energy
 - governance
+thumbnail-image:
+social-image:
 ---
 
 The economies of Eastern Europe have grown in recent decades largely on the backs of heavy industry, mechanisation, and agriculture. In many countries, this has led to significant greenhouse gas emissions, a reliance on inefficient technologies, and a policy environment that did not support green growth. As part of their commitments to global climate change agreements, signatory countries pledged to reduce emissions. After committing to cleaner ways, however, these countries faced a common challenge: where to start?

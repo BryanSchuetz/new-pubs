@@ -28,6 +28,8 @@ tags:
 - fragile-states
 - stability
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 An estimated 75 million children cannot go to school because they have been driven from their homes by war, crisis, and natural disaster. This deprivation in turn destabilizes vulnerable regions because uneducated children grow into at-risk teenagers and young adults.

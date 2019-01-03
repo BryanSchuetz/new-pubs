@@ -22,6 +22,8 @@ assets:
 tags:
 - economic-growth
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 For generations, Afghanistan’s commercial farmers and agribusinesses had no way to borrow money to invest in their businesses. In 2010, the U.S. Agency for International Development (USAID), in partnership with the Afghanistan Ministry for Agriculture, Irrigation, and Livestock (MAIL), established the Agricultural Development Fund (ADF). USAID’s initial fund contribution of $100 million would be complemented by a technical assistance contract—the [Agricultural Credit Enhancement Program](https://www.dai.com/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace)—awarded to DAI.

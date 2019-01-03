@@ -17,6 +17,8 @@ assets:
 tags:
 - economic-growth
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 Fifty-four months. That’s how long it took to conceive, launch, and hand over the Agricultural Development Fund (ADF) in Afghanistan.

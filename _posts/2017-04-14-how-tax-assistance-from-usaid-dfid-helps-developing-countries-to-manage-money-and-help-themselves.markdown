@@ -30,6 +30,8 @@ assets:
 tags:
 - governance
 - finance
+thumbnail-image:
+social-image:
 ---
 
 In the United States, April brings warm weather, budding flowers, baseball season and … Tax Day. While not a joyful occasion for most, it is an opportune moment to reaffirm the value of assisting developing countries to improve their tax systems.

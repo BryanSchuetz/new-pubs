@@ -26,6 +26,8 @@ tags:
 - governance
 - economic-growth
 - stability
+thumbnail-image:
+social-image:
 ---
 
 Nigeria is well known for its glaring inequalities, particularly the disparity between the impoverished northern states and its oil-rich south. This disparity covers more than just wealth and economic growth, as large segments of the country’s 185 million people want for simple stability and basic public services. But just as Nigeria’s economy is powered by more than oil, so the country’s inequities stem from more than just the so-called “resource curse.”

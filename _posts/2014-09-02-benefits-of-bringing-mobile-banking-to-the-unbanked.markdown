@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/nicholbrummer.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>There is no doubting the growth in popularity of mobile banking. According to Juniper Research, the market for mobile payments is expected to reach more than $600 billon (£393 billion) globally this year–double the figure of February 2011. And many development organisations are riding that telecom wave to reach people who don't have access to financial institutions. </p>

@@ -14,6 +14,8 @@ assets:
 tags:
 - economic-growth
 - digital-acceleration
+thumbnail-image:
+social-image:
 ---
 
 <p>The city of Valenzuela, Philippines, has embarked on a program to promote the use of mobile money for payment of government services.</p>

@@ -13,6 +13,8 @@ assets:
 - path: "/uploads/mozam-1.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Mozambique’s recent discoveries of coal and gas make it a resource-rich country and potential world player. But it remains one of the world’s poorest countries as reflected by global indices such as the UN Human Development Index.</p>

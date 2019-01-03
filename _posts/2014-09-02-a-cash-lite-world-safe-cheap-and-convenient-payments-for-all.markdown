@@ -12,6 +12,8 @@ assets:
 - path: "/uploads/kiwanja.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>In the past two decades, the world's information grid has expanded massively. Digital signals are all around us. In developed markets, many of these digital exchanges involve electronic payments, but most people in developing countries are still stuck moving paper. Financial transactions lie at the heart of doing commerce, selling goods and services, managing a business, and taking care of one's family. Making these transactions safer, cheaper, and more convenient should be on the development agenda of every developing country. Yet building a digital payments fabric linking all citizens and businesses in a country is rarely a development priority, in part because the benefits are intangible and diverse.</p>

@@ -23,6 +23,8 @@ tags:
 - environment-energy
 - renewables
 - energy-and-resources
+thumbnail-image:
+social-image:
 ---
 
 In 2009, in rural Pennsylvania, as head of the Renewable Energy Center, I attended a community meeting with the Army Corps of Engineers about a proposed wind farm in Ogletown, in Somerset County. I was told that previous meetings on the topic had been heated enough that a police presence was necessary—and welcomed. 

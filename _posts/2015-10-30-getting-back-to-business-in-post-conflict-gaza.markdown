@@ -22,6 +22,8 @@ assets:
 tags:
 - economic-growth
 - stability
+thumbnail-image:
+social-image:
 ---
 
 When a business is put out of commission by war, it can take only a small investment—done rapidly in a post-conflict environment—to put it back on its feet, creating employment and making sales.

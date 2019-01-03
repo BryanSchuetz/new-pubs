@@ -16,6 +16,8 @@ assets:
 tags:
 - economic-growth
 - digital-acceleration
+thumbnail-image:
+social-image:
 ---
 
 *For prevention of weeds (Shen Guli), cut stems of weeds before producing seeds and put salty solution on cut stems. Abdul, Jalalabad, 0700555555*

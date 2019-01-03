@@ -14,6 +14,8 @@ assets:
 tags:
 - economic-growth
 - governance
+thumbnail-image:
+social-image:
 ---
 
 A DAI-led project in Vietnam that touched the lives of 60,000 private businesspeople, partnered with five government entities, and many more institutions and groups has come to a close after 10 years.

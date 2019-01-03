@@ -27,6 +27,8 @@ tags:
 - economic-growth
 - finance
 - sustainable-business
+thumbnail-image:
+social-image:
 ---
 
 Investment opportunities in manufacturing, agriculture, and health are as abundant globally as the capital to fund them, but investors in these and other sectors are rightly cautious about entering new countries and taking risks on small and growing businesses and productive infrastructure. Fortunately, there are many examples in these teeming markets of how capital supported by local development expertise and entrepreneurial energy has generated both financial returns and development results.

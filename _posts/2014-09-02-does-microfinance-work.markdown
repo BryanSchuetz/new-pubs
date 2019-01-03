@@ -11,6 +11,8 @@ assets:
 - path: "/uploads/noramorgan-1.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Does microfinance work? This question has been intensively researched and hotly debated in the development community over the past few years. The answer depends on what you mean by the words 'microfinance' and 'works.' I'll explain more, but in a nutshell, if your answer is probably not, you're likely using a narrow definition of microfinance and a specific notion of what's meant by 'works.'  Getting to yes involves a broader definition of microfinance and a more holistic interpretation of what constitutes success, and you need to draw on several strands of research. </p>

@@ -27,6 +27,8 @@ tags:
 - economic-growth
 - agriculture
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 Bangladesh’s Southern Delta—home to 30 million people—is afflicted by inefficient farming, persistent poverty, and poor nutrition. But a market systems approach applied by the U.S. Agency for International Development (USAID)’s [Agricultural Value Chains Program](http://dai.com/our-work/projects/bangladesh%E2%80%94agricultural-value-chains-avc-program) (AVC), a Feed the Future initiative, is beginning to show great promise for the region.

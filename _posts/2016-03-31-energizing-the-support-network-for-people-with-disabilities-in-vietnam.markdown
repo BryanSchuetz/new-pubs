@@ -21,6 +21,8 @@ assets:
 tags:
 - global-health
 - governance
+thumbnail-image:
+social-image:
 ---
 
 As in most countries, people with disabilities in Vietnam lead disadvantaged lives. Their plight has been exacerbated by the facts that until recently Vietnam was a very poor country without strong government social services, and the wars from the 1940s through the 1970s left many victims, adding substantially to the disability burden.  The legacy of what the Vietnamese call the American War includes large numbers of unexploded ordnance and dioxin contamination where Agent Orange was sprayed or spilled that continue to affect lives and relations between the two countries today. There are an estimated 12 million people and families in Vietnam affected by disabilities.  

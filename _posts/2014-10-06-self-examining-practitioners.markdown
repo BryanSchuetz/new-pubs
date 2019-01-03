@@ -15,6 +15,8 @@ assets:
 - path: "/uploads/authors.jpg"
 tags:
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 Resilience is the capacity to adapt successfully in the face of stress, threats, or disaster. Among the earliest efforts to incorporate resilience in a theory of social change is a model debated in the 1970s and operationalized in the 1990s: positive deviance. Jerry and Monique Sternin developed this concept to explain why, in a Vietnamese village with high rates of malnutrition, some children thrived. 

@@ -16,6 +16,8 @@ assets:
 - path: "/uploads/libya-vote.jpg"
 tags:
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 <p>Given widespread regime collapse in the Middle East, a financial crisis hangover affecting much of the international economy, the dislocating effects of global climate change, and other fundamentally destabilizing trends, one might argue that state fragility and failure—not resilience—ought to be the focus of the development community in 2013. Under these trying circumstances resilience can seem like a less-than-urgent extravagance, a concept for the salad days of politico-economic cycles when storms subside and hatches are un-battened.</p>

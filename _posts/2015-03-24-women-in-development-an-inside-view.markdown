@@ -12,6 +12,8 @@ assets:
   author?: 'yes'
 tags:
 - dai
+thumbnail-image:
+social-image:
 ---
 
 In international development, one thing that everyone seems to agree on is that increasing women’s engagement in society has diverse and wide-reaching development benefits. Many people are familiar with some version of the adage: “If you educate a boy, you train a man. If you educate a girl, you train a village.” Expanding opportunities for women’s education, access to health services, economic participation, and leadership can have ripple effects that spur economic growth, promote political stability and peace, and improve public health.

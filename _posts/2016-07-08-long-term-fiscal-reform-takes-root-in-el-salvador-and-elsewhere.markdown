@@ -19,6 +19,8 @@ assets:
 tags:
 - governance
 - public-financial-management
+thumbnail-image:
+social-image:
 ---
 
 An encouraging trend in development is gaining speed: more  countries want to do more to fund their own development, and donors are on board. At the July 2015 Third International Conference on Financing for Development in Addis Ababa, Ethiopia, attended by more than 110 heads of state, ministers, and officials from 38 countries, donors pledged a doubling of assistance by 2020 for programs to increase domestic resource mobilization.

@@ -13,6 +13,8 @@ assets:
 - path: "/uploads/rainfall.jpg"
 tags:
 - environment-energy
+thumbnail-image:
+social-image:
 ---
 
 <p>Awareness of our changing climate has steadily grown over the past decade, but its impacts are viewed as intermittent and fleeting: a big flood or the doubling of the price of rice. News reports and climate change studies suggest widespread threats to our health and socioeconomic wellbeing, but often fail to explain how to adapt to the nuances of a shifting climate. </p>

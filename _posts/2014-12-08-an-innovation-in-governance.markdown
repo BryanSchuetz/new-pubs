@@ -13,6 +13,8 @@ assets:
 tags:
 - innovation
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p><a href="http://promujer.org/how-we-do-it/">Pro Mujer</a> is a nonprofit organisation serving communities in Argentina, Bolivia, Mexico, Nicaragua, and Peru. It delivers an integrated package of financial services, business, and empowerment training through its communal banks, which are groups of 20-30 women who receive small business loans through Pro Mujer.

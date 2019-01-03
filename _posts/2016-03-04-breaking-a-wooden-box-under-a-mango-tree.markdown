@@ -21,6 +21,8 @@ tags:
 - agriculture
 - resilience
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 Dressed in the splendour of her finest cotton capulana, Angira and her friends sit in the 40-degree heat, shaded by the leafy branches of an old mango tree. Together, they eagerly await the arrival of the village leader so they can proceed to unlock a wooden box containing their seasonal accrual of cash savings.

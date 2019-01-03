@@ -15,6 +15,8 @@ assets:
 tags:
 - digital-acceleration
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>For more than 10 years, DAI has been integrating information, communication, and geospatial technology into our work around the globe.</p>

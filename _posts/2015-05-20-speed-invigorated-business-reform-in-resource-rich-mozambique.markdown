@@ -21,6 +21,8 @@ tags:
 - economic-growth
 - energy-and-resources
 - sustainable-business
+thumbnail-image:
+social-image:
 ---
 
 When the Support Program for Economic and Enterprise Development (SPEED) was launched, Mozambique was at a crossroads: it was one of the poorest countries in the world, but about to realize a multibillion-dollar boom from oil and natural gas.

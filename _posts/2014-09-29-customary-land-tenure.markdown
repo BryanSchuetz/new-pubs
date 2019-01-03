@@ -15,6 +15,8 @@ assets:
 tags:
 - resilience
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p>There is good reason to believe that customary tenure arrangements are conducive to community and household resilience in Sub-Saharan Africa. Without landed property of any kind, poor communities and households are less able to absorb shocks associated with loss of livelihood in the formal and informal wage economies through which rural households augment their modest farming incomes. Communal area homesteads are a means for investing in housing and livestock assets that constitute important forms of savings, particularly in times of financial and environmental stress. The ability to accumulate these and other assets, and to transfer them intergenerationally, would be diminished for many poor families if land could only be secured through purchase.</p>

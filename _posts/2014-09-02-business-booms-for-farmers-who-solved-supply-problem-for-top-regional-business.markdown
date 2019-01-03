@@ -15,6 +15,8 @@ assets:
 tags:
 - economic-growth
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 <p>The hillsides of Gurue District in northern Mozambique should be perfect for farming, but it takes hard work, know-how, and resources to turn land into farmland, farmland into crops, and crops into cash.</p>

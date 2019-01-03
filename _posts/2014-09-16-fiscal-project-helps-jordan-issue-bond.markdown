@@ -13,6 +13,8 @@ assets:
 tags:
 - economic-growth
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p>On October 31, the Hashemite Kingdom of Jordan closed on its offering of a $1.25 billion sovereign bond issuance guaranteed by the United States.</p>

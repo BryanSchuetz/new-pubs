@@ -24,6 +24,8 @@ tags:
 - economic-growth
 - agriculture
 - environment-energy
+thumbnail-image:
+social-image:
 ---
 
 Tajikistan’s rugged alpine mountain ranges hold many glaciers; these feed hundreds of streams that flow down to the fertile river valleys, where many people work on farms. Despite this pretty picture, Tajikistan is severely food challenged. The poorest country in Central Asia, Tajikistan imports more than half its food. Many of its most vulnerable families go all day without eating.

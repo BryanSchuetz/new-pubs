@@ -17,6 +17,8 @@ tags:
 - economic-growth
 - energy-and-resources
 - sustainable-business
+thumbnail-image:
+social-image:
 ---
 
 <p>Mozambique finds itself at a critical juncture in its economic development. New gas deposits found offshore could bring the country significant revenue through natural gas extraction and export. This discovery will add to the ongoing heavy investments from abroad aimed at extracting and exporting Mozambique’s coal and other precious metals.</p>

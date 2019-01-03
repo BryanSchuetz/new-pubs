@@ -11,6 +11,8 @@ assets:
   author?: 'yes'
 tags:
 - governance
+thumbnail-image:
+social-image:
 ---
 
 A film documenting an annual pilgrimage in Sri Lanka shows the promise of peace for an island too long torn apart by war. The film was produced by the DAI-led [Reintegration and Stabilization in the East and North (RISEN)](https://www.dai.com/our-work/projects/sri-lanka-reintegration-and-stabilization-east-and-north-risen) project, which is funded by the U.S. Agency for International Development's Office of Transition Initiatives (OTI).

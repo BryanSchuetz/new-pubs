@@ -17,6 +17,8 @@ tags:
 - economic-growth
 - stability
 - public-financial-management
+thumbnail-image:
+social-image:
 ---
 
 Much ink has been spilt by academics, analysts, diplomats, and the military regarding the causes of instability. But a broad consensus holds that environments with scant economic opportunities are fertile grounds for recruiting alienated and aggrieved young people to the cause of violent extremism. Taking that as a premise, it makes sense to pursue programming that bolsters economic resilience as part of an integrated strategy to counter extremism. In Jordan, we have an example where macroeconomic assistance—in particular, fiscal reform—has played an important role in sustaining the stability of a country at the heart of one of the world’s most volatile regions.

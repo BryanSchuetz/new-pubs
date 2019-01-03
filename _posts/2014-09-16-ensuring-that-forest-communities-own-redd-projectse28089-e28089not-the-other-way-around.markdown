@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/redd.jpg"
 tags:
 - environment-energy
+thumbnail-image:
+social-image:
 ---
 
 <p>Forests and climate change have never been more closely entwined in global climate policy discussions, and for good reason: the more forest, the less climate disruption. Reducing Emissions from Deforestation and Degradation + Conservation (REDD+) initiatives aim to reward communities in and around forests for not converting forests to other land uses, and millions of dollars have been invested to this end. Done well, REDD+ projects can reduce greenhouse gas (GHG) emissions from the clearing or burning of forests, promote development in communities around forests, strengthen land tenure, conserve carbon-storing forests, and safeguard biodiversity. Done poorly, these projects can increase emissions through meaningless offsets, boost deforestation in adjacent areas, and displace indigenous people.</p>

@@ -14,6 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>In the Niger Delta, the critical problem we identified in the aquaculture sector was poor farm productivity, leading to low profits. Analysis showed that farmers could significantly increase their profits if they applied better production techniques, monitored their expenses through simple management tools, ensured better water quality, and—most importantly—used the right quality of fish feed.</p> 

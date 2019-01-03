@@ -14,6 +14,8 @@ assets:
 tags:
 - digital-acceleration
 - global-health
+thumbnail-image:
+social-image:
 ---
 
 <p>In March 2013, mobile phone subscriptions in Indonesia—a country of approximately 245 million people—topped 285 million. That’s a penetration rate of 117 percent—higher than in China, India, or even Japan. As the cost of phones and service plans dropped, social networks and community media grew enormously, fueled by texting and phone-enabled video.</p>

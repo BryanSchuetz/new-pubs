@@ -14,6 +14,8 @@ assets:
 tags:
 - stability
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>It was just a generation ago that many women in Afghanistan thrived in academia and the professional workplace. Their standing in society, like that of less privileged Afghan women, has since been destroyed.</p>

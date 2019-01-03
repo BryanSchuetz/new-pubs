@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/diagram.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Providing mobile financial services to improve <a href="http://dai.com/financial-inclusion?utm_source=guardian">financial inclusion</a> is an exciting proposition. Banks and non-banks alike see enormous promise in the ubiquitous mobile phone.</p>

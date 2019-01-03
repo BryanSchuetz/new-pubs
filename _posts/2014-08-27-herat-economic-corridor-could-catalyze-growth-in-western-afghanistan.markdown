@@ -15,6 +15,8 @@ assets:
 tags:
 - economic-growth
 - stability
+thumbnail-image:
+social-image:
 ---
 
 <p>Doing business in Afghanistan is tough. The last 30 years of conflict aside, private-sector growth is obstructed by perpetual mistrust, poor transportation and energy infrastructure, a lack of market information, and a business disabling environment. Infrastructure has been destroyed, investment discouraged, and industrial capacity depleted. Many professionals have left the country, while labor forces have been displaced or are untrained.</p>

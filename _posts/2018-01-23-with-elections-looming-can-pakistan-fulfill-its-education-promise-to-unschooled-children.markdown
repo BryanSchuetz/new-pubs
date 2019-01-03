@@ -34,6 +34,8 @@ assets:
 tags:
 - stability
 - governance
+thumbnail-image:
+social-image:
 ---
 
 More than 23 million children in Pakistan do not attend school. More than half of children who start at government schools drop out before completing primary school. These stark facts are harming a rising generation of Pakistanis already vulnerable to unemployment, instability, and extremism. And while upper-class Pakistanis enjoy excellent private schools and universities, much of the rest of the country has become resigned to derelict classrooms and substandard government-provided education.

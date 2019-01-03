@@ -26,6 +26,8 @@ tags:
 - global-health
 - governance
 - public-financial-management
+thumbnail-image:
+social-image:
 ---
 
 For people across El Salvador, it can be difficult to find medical treatment. Local health facilities in marginalized and rural areas often run short of basic medicines such as antibiotics. A doctor or nurse—if available—might have difficulty locating supplies and tools such as syringes and stethoscopes. But this scenario is brightening.

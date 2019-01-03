@@ -12,6 +12,8 @@ assets:
 - path: "/uploads/aawaz-2-1.jpg"
 tags:
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p>Danish Bibi was to be married off illiterate and homebound to a husband not of her choosing. Usman Ghani saw neighborhood children routinely die for lack of health services. Brothers Ishaq and Saleem feuded for years over the same plot of land.</p>

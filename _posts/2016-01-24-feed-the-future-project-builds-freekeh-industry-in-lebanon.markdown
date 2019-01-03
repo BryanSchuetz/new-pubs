@@ -13,6 +13,8 @@ assets:
 tags:
 - agriculture
 - gender
+thumbnail-image:
+social-image:
 ---
 
 Quinoa can be hard to pronounce but has won the hearts of health-conscious consumers in international food markets. Supporters hope one day to say the same for the middle-eastern grain, freekeh. This ancient whole grain is made from green wheat that is then roasted. In foodie circles, it is gaining in popularity alongside millet, farro, and [others][1].

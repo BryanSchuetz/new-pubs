@@ -16,6 +16,8 @@ assets:
 tags:
 - stability
 - governance
+thumbnail-image:
+social-image:
 ---
 
 The nexus of social media, Internet access, and smartphone technology has spawned a revolution in political activism. Ordinary people using new technology and digital media platforms—people whose voices would otherwise be drowned out by dominant political forces—are now contributing to or joining political debates. And their price for admission is almost zero.

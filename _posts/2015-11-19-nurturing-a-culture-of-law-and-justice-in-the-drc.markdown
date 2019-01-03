@@ -22,6 +22,8 @@ assets:
 tags:
 - governance
 - stability
+thumbnail-image:
+social-image:
 ---
 
 Decades of war and political unrest in the Democratic Republic of the Congo (DRC) left a void of law and justice for Congolese citizens. Too often, security and police forces are part of the problem rather than the solution, operating in a culture of impunity and self-enrichment enabled by the absence of judicial and public oversight. Citizens in the DRC have limited understanding of the role of the police as public servants, or of how police and citizens should interact in a democracy.

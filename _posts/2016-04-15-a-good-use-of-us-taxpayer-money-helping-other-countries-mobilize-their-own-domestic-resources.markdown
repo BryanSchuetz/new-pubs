@@ -21,6 +21,8 @@ tags:
 - governance
 - economic-growth
 - public-financial-management
+thumbnail-image:
+social-image:
 ---
 
 Tax Day—April 18 this year in the United States—is a day that sparks controversy for many constituencies. For tax opponents, it is a reminder of the burdens borne by the taxpayer. For foreign aid skeptics, it is an opportunity to bemoan the sums spent on international development. For aid advocates, it is a moment to point out how tiny those sums are in the big picture of government expenditures.

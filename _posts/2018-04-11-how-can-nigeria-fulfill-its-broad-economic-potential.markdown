@@ -30,6 +30,8 @@ tags:
 - investment
 - finance
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 Nigeria is the economic heavyweight of West Africa, but it faces challenges. Approximately [two-thirds](https://www.today.ng/news/nigeria/67-percent-nigerians-live-poverty-presidency-62856) of its people live in poverty and its economy suffers from low productivity and an uneven climate for trade and investment. Until recently, oil-rich Nigeria has not been a good place to make products or grow crops because it didn’t have to be—the country simply imported what it needed. But times are changing for Africa’s most populous nation.

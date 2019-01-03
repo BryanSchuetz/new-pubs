@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/egypt.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 Political crisis or no, Egypt’s government cannot afford to keep ignoring the issues that sparked two popular revolts in as many years. Issue number one for most Egyptians, especially young Egyptians, is employment. To meet the need for jobs, policy makers must do more to improve Egypt’s business enabling environment (BEE), not only at the national level, but also in the local administration trenches.

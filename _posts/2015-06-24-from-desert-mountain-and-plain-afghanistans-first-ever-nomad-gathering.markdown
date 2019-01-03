@@ -9,6 +9,8 @@ author: Brad Becker
 featured?: 
 tags:
 - governance
+thumbnail-image:
+social-image:
 ---
 
 Known collectively as "Kuchi," the nomadic peoples of Afghanistan recently convened in Kabul for a historic assembly to address longstanding issues specific to their community.

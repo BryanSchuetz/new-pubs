@@ -27,6 +27,8 @@ assets:
 tags:
 - environment-energy
 - governance
+thumbnail-image:
+social-image:
 ---
 
 More than eight years ago, DAI staff tromped through the Batang Toru forest of North Sumatra, Indonesia, counting nests, observing behavior, and collecting field evidence on one of the oldest members of the great ape family—the orangutan. What they did not realize was that this group of orangutans was an entirely unrecognized species—the Tapanuli orangutan—that we now know is endemic to 475 square miles of upland forest in the Batang Toru Ecosystem south of Lake Toba.

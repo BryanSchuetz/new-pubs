@@ -30,6 +30,8 @@ tags:
 - economic-growth
 - digital-acceleration
 - stability
+thumbnail-image:
+social-image:
 ---
 
 While Mozambique’s economy is emerging—notably through the extractives sector—most Mozambicans remain very poor. Eighty percent still make a living from subsistence farming. One cause for their marginalization is that most have no connection to the wider economy or to basic financial services such as saving, borrowing, and electronic payments. This limits the ability of Mozambique’s 12 million rural poor to grow their livelihoods and perpetuates their isolation and poverty.

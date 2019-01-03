@@ -20,6 +20,8 @@ assets:
 tags:
 - environment-energy
 - global-health
+thumbnail-image:
+social-image:
 ---
 
 The audacity of United Nations Sustainable Development Goal No. 6—to ensure clean water and sanitation for all by 2030—is balanced by a few encouraging realities: there are myriad ways to attack the goal collectively, there is real clout behind global water initiatives, and—most promisingly—the world has already achieved notable results in water development. Since 1990, for example, more than 1.9 billion people have gained access to piped drinking water and 2.1 billion to improved sanitation, according to the UN.

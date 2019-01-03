@@ -12,6 +12,8 @@ assets:
 - path: "/uploads/fed_conference.jpg"
 tags:
 - agriculture
+thumbnail-image:
+social-image:
 ---
 
 <p>When the 300 farmers at the Fuamah District Multipurpose Cooperative reviewed results from the rice farm’s trials using a new fertilization method, the farmers sang and danced in celebration. Plots using this method—where briquettes of fertilizer are buried in the ground next to rice seedlings—returned 17 percent higher rice yields than simply throwing fertilizer granules onto the field and 30 percent higher yields than sites using no fertilizer at all.</p>

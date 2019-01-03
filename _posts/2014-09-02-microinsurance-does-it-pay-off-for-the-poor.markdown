@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/90412460@N00.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Microinsurance, much like microcredit, seeks to bring financial products and services typically reserved for middle and upper classes to the poor. Its particular promise is to offer low-income consumers protection from financial shocks more effectively than existing coping mechanisms such as credit, savings, pooling of community resources, public sector support, or asset sales.</p>

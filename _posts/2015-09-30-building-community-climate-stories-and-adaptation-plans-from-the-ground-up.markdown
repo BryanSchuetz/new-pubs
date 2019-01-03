@@ -32,6 +32,8 @@ assets:
 tags:
 - environment-energy
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 A complex web of ecosystems, the Lower Mekong Basin (LMB) is acutely sensitive to climate change. More than 60 million people depend on this vast interconnected system to support their livelihoods. While there is an urgent need for these communities to begin adapting to rising temperatures, heavier precipitation, and more frequent flooding, residents of the Basin—mostly people connected to rice, livestock, and fish farming—do not have the knowledge, tools, or resources to better prepare themselves for the future climate.

@@ -27,6 +27,8 @@ assets:
 tags:
 - economic-growth
 - gender
+thumbnail-image:
+social-image:
 ---
 
 It is hard to believe in the wake of the past few decades that 1960s and ’70s Afghanistan was relatively progressive for women, with many women and girls freely attending school, working professionally, and dressing fashionably. Since the 1990s, warlords and, later, the conquering Taliban subjugated females—forbidding girls from going to school and women from working.

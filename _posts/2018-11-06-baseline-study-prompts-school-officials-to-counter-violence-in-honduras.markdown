@@ -20,6 +20,8 @@ tags:
 - governance
 - education
 - stability
+thumbnail-image:
+social-image:
 ---
 
 Too often, in our experience as development professionals, baseline surveys can seem like proforma exercises—dry, mechanical constructs conducted at the beginning of a project, shelved almost as soon as they are done, then dusted off for the midline survey. By the time we conduct the endline, the project is closing. Baseline findings don’t drive programming.

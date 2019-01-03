@@ -28,6 +28,8 @@ assets:
 tags:
 - Land
 - governance
+thumbnail-image:
+social-image:
 ---
 
 “In the 21st century,” as I write with my co-authors in the [companion piece to this article](http://dai-global-developments.com/articles/from-land-tenure-regularisation-to-a-sustainable-land-register/), “land administration systems will nearly always be developed using digital systems. Assuming they are well designed, then they are more secure, more efficient, more transparent, and more accessible.”

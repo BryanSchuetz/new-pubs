@@ -9,6 +9,8 @@ featured?:
 tags:
 - agriculture
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 A wide-ranging project aimed at improving Haiti's natural resource management and the lives of hillside farmers marked its close last month with a number of major successes—including higher incomes for farmers and the formation of a regional forum to carry on improving farm production while protecting natural resources.

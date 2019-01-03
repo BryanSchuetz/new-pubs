@@ -17,6 +17,8 @@ assets:
 tags:
 - digital-acceleration
 - global-health
+thumbnail-image:
+social-image:
 ---
 
 <p>In Tanzania, the health and development challenges are chronic and widespread. The country has been hit hard by the HIV/AIDS pandemic, and 15 million people (one third of the population) live below the poverty line, making them particularly vulnerable. While there are no simple solutions to Tanzania’s problems, a household survey implemented by DAI promises to shed new light on interventions to assist these HIV-vulnerable populations.</p>

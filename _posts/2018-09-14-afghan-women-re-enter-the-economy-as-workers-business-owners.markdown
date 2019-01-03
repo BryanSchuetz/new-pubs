@@ -34,6 +34,8 @@ tags:
 - economic-growth
 - gender
 - finance
+thumbnail-image:
+social-image:
 ---
 
 As Afghanistan transitions toward a market-driven economy and away from one supported by foreign assistance, jobs will inevitably be lost. The Afghan Ministry of Labor, Social Affairs, Martyred, and Disabled predicts that 4 million jobs will be needed over the next five years to replace lost jobs and absorb the rising generation of graduates.

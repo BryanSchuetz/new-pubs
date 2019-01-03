@@ -15,6 +15,8 @@ assets:
 tags:
 - economic-growth
 - gender
+thumbnail-image:
+social-image:
 ---
 
 Not long ago, Aynalem Gebryes had nowhere to turn to borrow money, despite having a steady income from fattening cattle, producing milk, growing potatoes, and selling directly to local hotels and restaurants.

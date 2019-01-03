@@ -15,6 +15,8 @@ assets:
 - path: "/uploads/34639780@N07.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>The term 'financial inclusion' has rapidly entered the mainstream policy discourse in the past seven years. Outside of its natural home in the development community and the financial sector, it now features regularly even in tightly worded G20 Summit communiques.</p>

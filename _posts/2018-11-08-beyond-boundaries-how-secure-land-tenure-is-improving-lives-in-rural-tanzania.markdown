@@ -24,6 +24,8 @@ tags:
 - Land rights
 - economic-growth
 - gender
+thumbnail-image:
+social-image:
 ---
 
 After Monika Lalika’s husband passed away, her in-laws did not allow her to use the land he had left her and she used to worry that they would one day claim the property for themselves. For Martha Paulo Mwilongo, a land dispute with her neighbor kept her from selling or renting part of her 11 acres to pay her children’s school fees. Joti Kihongo wanted to expand his general store, but could not get a large enough loan because banks would not recognize his undocumented land as collateral.

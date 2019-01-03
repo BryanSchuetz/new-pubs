@@ -9,6 +9,8 @@ assets:
 - path: "/uploads/barry.jpg"
 tags:
 - dai
+thumbnail-image:
+social-image:
 ---
 
 <p>Army Special Forces Colonel (Retired) Barry Shapiro joined DAI in 2009 after a distinguished military career specializing in training and liaising with the security forces of Central Asian and Southeast Asian countries. He has extensive experience training local police, special, and military forces in countries such as Afghanistan, Cambodia, Pakistan, and Thailand.<!--more--> As DAI’s Vice President of Global Security, Barry ensures DAI project teams worldwide can mitigate the risks associated with working in many of our locations and integrates security into all aspects of corporate operations and planning. He recently shared some thoughts with Developments about building the capacity of local security forces.</p>

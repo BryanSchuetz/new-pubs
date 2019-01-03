@@ -14,6 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - dai
+thumbnail-image:
+social-image:
 ---
 
 <p>Here in South Africa, the recently approved merger between Walmart and local retailer Massmart has made supplier development a hot topic. Opponents of the merger argue that it will hurt small suppliers by denying them access to the combined company’s supply chain. But the sobering truth is that even before the merger, small companies—particularly black companies—had little chance of penetrating the supply chains of most large South African corporates. International consolidation is a red herring; the more pressing problem is the structural exclusion of nearly 6 million small businesses in the local market.</p>

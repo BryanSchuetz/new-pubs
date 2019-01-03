@@ -15,6 +15,8 @@ assets:
   author?: 'yes'
 tags:
 - governance
+thumbnail-image:
+social-image:
 ---
 
 Thailand enjoyed strong economic gains through the 1980s and 1990s, but political crises and civil unrest that have escalated since 2005 have damaged the country domestically. The prolonged constitutional crisis—culminating in the May 2014 military coup d’etat—has punished Thailand’s 67 million citizens by diminishing governance and public services. Civic pride, engagement, and trust in government are at historic lows, with ordinary people taking to the streets in protest and riot.

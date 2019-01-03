@@ -20,6 +20,8 @@ tags:
 - economic-growth
 - digital-acceleration
 - public-financial-management
+thumbnail-image:
+social-image:
 ---
 
 Despite the Philippines being among the first countries to introduce electronic tax filing opportunities more than 15 years ago, only 8 percent of its tax returns in 2013 were e-filed. By comparison, e-filing rates in peer countries range from 70 to 100 percent. But the Philippines is catching up.

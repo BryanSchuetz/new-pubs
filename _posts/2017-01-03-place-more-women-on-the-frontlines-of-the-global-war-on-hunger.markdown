@@ -28,6 +28,8 @@ tags:
 - economic-growth
 - agriculture
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 In developing countries, something is missing in the war on hunger: an equal voice for women.

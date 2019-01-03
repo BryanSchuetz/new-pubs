@@ -41,3 +41,14 @@ sass:
 algolia:
   application_id: R7MRY12BR6
   index_name: Publications
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      publication:
+      author:
+      thumbnail-image:
+      social-image:
+      
+

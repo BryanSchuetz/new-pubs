@@ -14,6 +14,8 @@ assets:
 tags:
 - energy-and-resources
 - sustainable-business
+thumbnail-image:
+social-image:
 ---
 
 A typical mining operation lasts 30 years or more. As a result, mining companies are accustomed to becoming long-term fixtures in the communities where they work, and local stakeholders have increasingly high expectations for company contributions to community welfare. Local content development is one tool mining companies have used to foster local economic growth and social license. 

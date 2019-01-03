@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/india.jpg"
 tags:
 - global-health
+thumbnail-image:
+social-image:
 ---
 
 <p>Long before any popular environmental movement existed, Mahatma Ghandhi said, “The earth, the air, the land, and the water are not an inheritance from our forefathers but on loan from our children.” Today, India faces many challenges, few of them more fundamental to long-term development than fresh water availability. The centrality of water to human health, agriculture, manufacturing, and ecosystems makes it imperative that India’s decision makers improve the stewardship of water resources.</p>

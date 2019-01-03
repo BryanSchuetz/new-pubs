@@ -14,6 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - Innovation
+thumbnail-image:
+social-image:
 ---
 
 <p>As the current Ebola outbreak vividly illustrates, the ability of developing countries to detect and contain outbreaks of infectious disease is a matter of concern to us all. That ability depends upon capacities across a wide variety of areas. Among these is the capacity of laboratories to quickly and accurately perform modern diagnostic tests — and that requires equipment.

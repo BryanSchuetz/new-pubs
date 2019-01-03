@@ -37,6 +37,8 @@ tags:
 - governance
 - economic-growth
 - fragile-states
+thumbnail-image:
+social-image:
 ---
 
 Some people might be surprised to know that most of the migrants trying to cross the U.S. southern border come not from Mexico but from countries to Mexico’s south.

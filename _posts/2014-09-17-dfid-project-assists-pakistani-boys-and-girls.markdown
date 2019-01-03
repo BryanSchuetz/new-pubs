@@ -15,6 +15,8 @@ assets:
 - path: "/uploads/dfid-2.jpg"
 tags:
 - governance
+thumbnail-image:
+social-image:
 ---
 
 <p>In Pakistan, the constitution makes education for all children age 5-16 compulsory and requires that the state provide that education for free. Yet more than 9 million Pakistani boys and girls do not go to school. Even though this crisis feeds unemployment, poverty, and extremism, the Pakistani government is not giving it due attention.</p>

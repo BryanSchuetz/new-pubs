@@ -30,6 +30,8 @@ tags:
 - agriculture
 - global-health
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 As in many developing countries, mothers and children in rural Afghanistan suffer from chronic undernutrition, often because they lack knowledge. Thousands of families in northern Afghanistan are now enjoying improved nutrition and food security thanks to work by a U.S. Agency for International Development (USAID) economic growth program.

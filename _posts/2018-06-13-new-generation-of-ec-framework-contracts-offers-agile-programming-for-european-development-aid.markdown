@@ -20,6 +20,8 @@ tags:
 - governance
 - DAI
 - European Commission
+thumbnail-image:
+social-image:
 ---
 
 We are proud to announce that DAI has once again been named one of the main implementing partners for the European Commission (EC) 2018–2022 Frameworks contracts for international development assistance. 

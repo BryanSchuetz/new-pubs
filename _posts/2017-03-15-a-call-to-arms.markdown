@@ -23,6 +23,8 @@ assets:
   name: PakistanPLSP
 tags:
 - governance
+thumbnail-image:
+social-image:
 ---
 
 While adaptive programming is at the forefront of development programming, its basic tenets are not new. As the name suggests, this approach implies adapting a programme to the specific circumstances in which it will be implemented and to the needs of those it targets, as they evolve. Adaptive programming means that the programme’s purpose, structure, and expected outcomes are rooted in a comprehensive study of the context in which it will operate and an understanding of the problem that it will try to solve, developed in close cooperation with those key actors who will be involved in bringing about change.

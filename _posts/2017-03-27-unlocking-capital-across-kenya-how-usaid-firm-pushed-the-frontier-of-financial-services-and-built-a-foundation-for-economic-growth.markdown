@@ -31,6 +31,8 @@ tags:
 - economic-growth
 - agriculture
 - finance
+thumbnail-image:
+social-image:
 ---
 
 In 2010, as part of the U.S. Government’s Feed the Future initiative, the U.S. Agency for International Development (USAID) designed the [Kenya Financial Inclusion for Rural Microenterprises](https://www.dai.com/our-work/projects/kenya-financial-inclusion-rural-microenterprises-firm) (FIRM) project. FIRM aimed to push the frontier of financial services into the agricultural sector where smallholder farmers—the bulk of Kenya’s 45 million people—were mired in poverty.

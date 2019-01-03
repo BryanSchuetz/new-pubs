@@ -10,6 +10,8 @@ author: Victor Tanner
 featured?: 
 tags:
 - resilience
+thumbnail-image:
+social-image:
 ---
 
 <p>Resilience—the ability of individuals, households, communities, institutions, nations, or even value chains and ecosystems, to withstand crises, recover from them, and adapt so as to better withstand them—has become an increasingly important concept for the international development community. The focus of donors on resilience has led their main counterparts—local groups, governments in recipient countries, and international nongovernmental organizations and development firms—to integrate the concept into programming.</p>

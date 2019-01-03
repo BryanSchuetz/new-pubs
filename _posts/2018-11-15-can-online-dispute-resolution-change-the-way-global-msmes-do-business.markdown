@@ -21,6 +21,8 @@ tags:
 - investment
 - digital-acceleration
 - innovation
+thumbnail-image:
+social-image:
 ---
 
 As a grad student in London in the 1990s, I earned a bit of extra money sourcing and exporting handcrafted furniture from India to the United States for interior designers. My U.S. customers were small businesses, but I was even smaller, so if I wanted to sell to them I had to take on most of the risk. On school breaks I would travel to India, find what my customers were looking for, purchase it, accompany it to the port, and—when I could—watch as it was loaded onto a ship. 

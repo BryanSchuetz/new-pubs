@@ -24,6 +24,8 @@ tags:
 - climate change
 - environment-energy
 - finance
+thumbnail-image:
+social-image:
 ---
 
 The effects of climate change in the already arid lands of Kenya are particularly tough on its economy. Think: tourism, arable agriculture, horticulture, floriculture, and livestock—all vulnerable to extreme changes in weather.

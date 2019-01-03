@@ -14,6 +14,8 @@ assets:
 - path: "/uploads/mckaysavage.jpg"
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Financial education is often touted as being essential for low-income people. But traditional financial education in both poor and rich contexts too often takes a didactic, classroom-based approach to conveying analytical financial concepts such as budgeting, saving, managing debt, and calculating interest rates. We need to re-think the process of financial education to merge it with product marketing, thereby making it more relevant for customers and more cost-effective for financial institutions.</p>

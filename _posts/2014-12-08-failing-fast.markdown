@@ -14,6 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - innovation
+thumbnail-image:
+social-image:
 ---
 
 <p>“Fail fast” is a mantra in Silicon Valley. While the development sector is starting to accept more failure—through “Fail Fairs” and reports centred around learning from failure—it is still far from achieving the speed of failure practiced in, for instance, the tech sector. Most development programmes don’t know if their program is failing months or even years after launch, whereas tech ideas can recognise failure within days. Can the development sector catch up?

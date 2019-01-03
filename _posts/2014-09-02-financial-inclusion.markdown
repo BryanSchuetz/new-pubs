@@ -15,6 +15,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>  The Financial Inclusion Series—convened by DAI and originally published on the <a href="http://www.guardian.co.uk/global-development-professionals-network/dai-partner-zone">Guardian Development Professionals Network</a>—has explored various themes in the “financial inclusion” agenda, from mobile money and poor people’s financial capabilities to innovative supply models and agricultural finance, among others. The range of subject matter and diversity of authors testify to the breadth of the field and the need to pull from different disciplines and perspectives if we are to meet the challenge of financial inclusion.</p>

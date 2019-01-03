@@ -23,6 +23,8 @@ tags:
 - governance
 - land
 - gender
+thumbnail-image:
+social-image:
 ---
 
 Around 70 percent of Sierra Leoneans live in rural areas, the large majority of them depending on agriculture for their livelihoods. Issues of land ownership, tenure, and inheritance rights are therefore crucial to virtually every rural household. But these issues are bound up in a system of customary law that in turn reflects endemic gender discrimination. One of the most vexing problems facing women and girls, for example, is the dispossession of their land in the event that a husband dies without the customary marriage being formally registered. It’s a problem that has drawn the attention of the U.K. Department for International Development (DFID), and one where DFID’s [Access to Security and Justice Programme (ASJP)](https://www.dai.com/our-work/projects/sierra-leone-access-security-and-justice-programme-asjp) made substantial headway.

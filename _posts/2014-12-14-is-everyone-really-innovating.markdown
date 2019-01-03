@@ -17,6 +17,8 @@ assets:
 - path: "/uploads/pubs-story-13.jpg"
 tags:
 - innovation
+thumbnail-image:
+social-image:
 ---
 
 Innovation seems to be ubiquitous—or, at least, talk about innovation. A 2012 *Wall Street Journal* [review](http://www.wsj.com/news/articles/SB10001424052702304791704577418250902309914?mg=reno64-wsj) of reports filed with the Securities and Exchange Commission shows companies used some form of the word "innovation" 33,528 times in 2011, a 64 percent increase from five years before. At the same time, one doesn’t have to look hard to find growing cynicism regarding over use of the concept.

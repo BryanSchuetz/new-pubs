@@ -16,6 +16,8 @@ assets:
 tags:
 - resilience
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 Urbanization, globalization, and structural changes in the economies of many developing countries have contributed to the rapid growth of informal urban economies. In some Sub-Saharan countries, for example, up to 90 percent of nonagricultural employment is informal. 

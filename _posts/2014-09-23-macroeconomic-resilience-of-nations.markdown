@@ -15,6 +15,8 @@ assets:
 tags:
 - resilience
 - economic-growth
+thumbnail-image:
+social-image:
 ---
 
 <p>Macroeconomic resilience is a country’s ability to weather economic shocks. This article presents a practical tool—composed of a set of indicators and a means to visualize them—for measuring the macroeconomic resilience of nations. These indicators are based on the widely but loosely used term “fiscal space” and the innovative concept of “monetary space.” <a href="http://dai.com/our-work/projects/worldwide—fiscal-reform-and-economic-governance">The tool helped the U.S. Agency for International Development (USAID) determine which countries needed additional assistance during the financial crisis in 2009</a>, and it has been applied in countries as diverse as Bangladesh, Jordan, Moldova, and Vietnam.</p>
