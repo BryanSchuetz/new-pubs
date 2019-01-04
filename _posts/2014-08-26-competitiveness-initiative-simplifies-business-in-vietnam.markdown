@@ -14,8 +14,8 @@ assets:
 tags:
 - governance
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/vnci1.jpg
+social-image: /uploads/vnci1.jpg
 ---
 
 <p>As <a href="http://dai.com/our-work/projects/vietnam%E2%80%94support-trade-acceleration-project-star-i-ii-plus" target="blank">USAID STAR</a> helped open doors for Vietnam to global trade, another project is helping the country cut red tape across its 63 provinces so its citizens can transact business more smoothly. The <a href="http://dai.com/our-work/projects/vietnam%E2%80%94competitiveness-initiative-vnci" target="blank">USAID Vietnam Competitiveness Initiative (USAID VNCI)</a>, also implemented by DAI, supports the government’s Project 30 reforms.</p>

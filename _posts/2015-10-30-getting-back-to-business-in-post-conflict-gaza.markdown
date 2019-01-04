@@ -22,8 +22,8 @@ assets:
 tags:
 - economic-growth
 - stability
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg
+social-image: /uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg
 ---
 
 When a business is put out of commission by war, it can take only a small investment—done rapidly in a post-conflict environment—to put it back on its feet, creating employment and making sales.

@@ -16,8 +16,8 @@ assets:
   author?: 
 tags:
 - innovation
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/pubs-story-2.jpg
+social-image: /uploads/pubs-story-2.jpg
 ---
 
 Innovation is “in.” In 2014, the U.S. Agency for International Development and U.K. Department for International Development have both launched sizable initiatives: the U.S. Global Development Lab and the Global Innovation Fund, respectively. Innovation hubs, incubators, and accelerators are popping up like mushrooms. Partnerships—especially with the private sector—are widely seen as essential to the innovation of solutions with scale.

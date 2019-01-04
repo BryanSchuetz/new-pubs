@@ -18,8 +18,8 @@ assets:
 tags:
 - governance
 - stability
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/ym1.jpg
+social-image: /uploads/ym1.jpg
 ---
 
 <p>In many emerging democracies, youth are absent from the political stage and civil society. Last year’s “Arab Spring” proved a promising exception, demonstrating the power of youth to galvanize popular demand and help redefine their political landscape. Sub-Saharan populations, many being immediate neighbors of Tunisia, Libya, and Egypt, followed these dramatic events with fascination and some envy.</p>

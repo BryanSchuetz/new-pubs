@@ -21,8 +21,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/context.jpg
+social-image: /uploads/context.jpg
 ---
 
 *Ending extreme poverty*. The goal could hardly be more ambitious—or more challenging. International donors have rallied around it, and are united in their belief that broad-based economic growth is essential to achieving their vision. The key, though, is that term “broad-based.” How do we ensure that economic growth programming is benefitting the very poor? And at a scale that really makes a difference? Increasingly, the answer lies in an approach called market systems development.

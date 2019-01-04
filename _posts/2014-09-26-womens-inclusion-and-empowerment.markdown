@@ -13,8 +13,8 @@ assets:
 tags:
 - resilience
 - gender
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/benton-2.jpg
+social-image: /uploads/benton-2.jpg
 ---
 
 <p>Just as it is clear that resilience programming will benefit from a “whole-of-development” approach that ties together complementary technical sectors and different phases of assistance—from emergency relief to long-term capacity building—so it is clear from our experience that a “whole-of-community” approach is critical to resilience. Put simply, any resilience program that does not give due consideration to the role of women will not achieve its full potential and runs the risk of failure.t But we would do well to remind ourselves of the fundamental preconditions that must be in place for women to play their essential role: legal equality, economic empowerment, participation in decision making, and educational opportunity.</p>

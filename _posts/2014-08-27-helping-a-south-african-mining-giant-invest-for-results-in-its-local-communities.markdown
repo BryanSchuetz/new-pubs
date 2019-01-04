@@ -14,8 +14,8 @@ tags:
 - economic-growth
 - energy-and-resources
 - sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/ha1.jpg
+social-image: /uploads/ha1.jpg
 ---
 
 <p>The Sishen Iron Ore Company Community Development Trust faced a fabulous opportunity—and a daunting challenge. A beneficiary of mining giant Anglo American’s Kumba Iron Ore Company, the trust recently came into a sooner-than-expected windfall of dividend income. This annuity could continue for 20 years or more, depending on the life of the company assets, efficient operation of the mine, and global demand for iron ore.</p>

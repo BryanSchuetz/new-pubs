@@ -24,8 +24,8 @@ assets:
 tags:
 - governance
 - fragile-states
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Sri-Lanka-4.jpg
+social-image: /uploads/Devs----Sri-Lanka-4.jpg
 ---
 
 By 2014, DAI was winding down the [Reintegration and Stabilization in the East and North](http://dai.com/our-work/projects/sri-lanka%E2%80%94reintegration-and-stabilization-east-and-north-risen) (RISEN) program in Sri Lanka on behalf of the U.S. Agency for International Development (USAID)’s Office of Transition Initiatives. Over more than four years of operations, the program worked locally with people in civil society and government, implementing grants totaling $14 million to restore communities and support reconciliation between the majority Sinhalese and the minority Tamil populations following 26 years of destructive war.

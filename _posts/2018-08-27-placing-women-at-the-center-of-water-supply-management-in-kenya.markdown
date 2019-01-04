@@ -27,8 +27,8 @@ tags:
 - environment-energy
 - global-health
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----KIWASH-Women-4.jpg
+social-image: /uploads/Devs----KIWASH-Women-4.jpg
 ---
 
 As Christine Kanini checks water meters on her weekly rounds, she recalls that 18 months earlier she could not aspire to this job. “We had mainly male meter readers,” Kanini said. “Then I was promoted to this position from gate keeping. I am happy with the work.” Over the past year, the Wote Water and Sewerage Company (WOWASCO), which serves the small city of Wote in south-central Kenya, has opened up opportunities for women such as Kanini in fields that were previously deemed suited for men only.

@@ -14,8 +14,8 @@ assets:
 - path: "/uploads/jimw.jpg"
 tags:
 - dai
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/jimw.jpg
+social-image: /uploads/jimw.jpg
 ---
 
 <p>In January 2013, DAI launched a new corporate structure designed to optimize the firm’s deployment of technical and operational expertise across the world. The restructured organization includes a new Solutions team, led by Jim Packard Winkler and staffed by 40 of the firm’s leading technical specialists. A former Chief of Party for U.S. Agency for International Development (USAID) projects based in Bangkok, Hanoi, Jerusalem, and Zagreb, Jim was tapped to lead Solutions following five years at the helm of the USAID/Vietnam Competitiveness Initiative. Developments asked Jim to discuss the thinking behind Solutions and the lessons learned in its first year or so of work.</p>

@@ -23,8 +23,8 @@ tags:
 - economic-growth
 - finance
 - sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Ddvs----Essor-2-1.jpg  
+social-image: /uploads/Ddvs----Essor-2-1.jpg
 ---
 
 Leasing equipment—instead of finding the cash to buy it—is fundamental to the growth of small and growing businesses, yet small-business owners in Sub-Saharan Africa’s largest nation have been unable to do so, because the regulatory framework that underpins leasing transactions didn’t exist. Until now.

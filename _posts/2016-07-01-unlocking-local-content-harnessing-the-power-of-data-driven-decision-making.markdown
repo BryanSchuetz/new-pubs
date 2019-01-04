@@ -26,8 +26,8 @@ tags:
 - economic-growth
 - energy-and-resources
 - sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----DAIdeas-pic-2.jpg
+social-image: /uploads/Devs----DAIdeas-pic-2.jpg
 ---
 
 As new reserves of oil, gas, minerals, and other natural resources crop up around the world, multinational companies are seeking to enter new markets and invest in establishing supply chains. Increasingly, developing local content has become a popular means of maximizing supply chain resilience, lowering costs, reducing risks, and building relationships with key local actors. At the same time, policy makers in both new and mature markets are advocating for local content as a way of generating further benefits from extractive industry operations to the local economy.

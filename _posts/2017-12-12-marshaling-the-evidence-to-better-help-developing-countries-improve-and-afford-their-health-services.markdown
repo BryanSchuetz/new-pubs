@@ -24,8 +24,8 @@ tags:
 - governance
 - global-health
 - finance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----DRM-Health-3.jpg
+social-image: /uploads/Devs----DRM-Health-3.jpg
 ---
 
 Two key areas of development assistance have been merging quickly: health care and domestic resource mobilization. The goal is to help developing countries *afford* to invest in their national health systems and institutions and do so wisely. Many countries [want to do more](http://dai-global-developments.com/articles/long-term-fiscal-reform-takes-root-in-el-salvador-and-elsewhere/) to fund their own development, and donors are on board to assist. But there is little evidence on how to do so effectively in the pursuit of greater health security.

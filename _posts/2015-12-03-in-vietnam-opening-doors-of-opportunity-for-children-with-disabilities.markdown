@@ -19,8 +19,8 @@ assets:
 tags:
 - global-health
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----PDSP-pic-2-classroom.jpg
+social-image: /uploads/Devs----PDSP-pic-2-classroom.jpg
 ---
 
 Even though their right to an education is mandated by law, thousands of school-age children in Vietnam stay at home or sit uninvolved in classrooms because they have disabilities. Helping these children has been a priority of the U.S. Agency for International Development’s disability program in Vietnam, including its [Persons with Disabilities Support Program](http://dai.com/our-work/projects/vietnam%E2%80%94usaid-program-comprehensive-and-integrated-support-people-disabilities) (PDSP), launched in 2012 and led by DAI.

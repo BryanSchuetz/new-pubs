@@ -23,8 +23,8 @@ assets:
 tags:
 - digital-acceleration
 - innovation
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Khmer-keyboard-pic.jpg
+social-image: /uploads/Devs----Khmer-keyboard-pic.jpg
 ---
 
 By 2013, smartphone usage among Cambodia’s young people was booming in urban areas. Many users, however, could not text or express themselves in Khmer, Cambodia’s most widely spoken language. Their smartphone software did not readily support the Khmer alphabet, and the few add-on apps available were hard to use and unreliable.

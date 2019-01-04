@@ -20,8 +20,8 @@ tags:
 - finance
 - governance
 - public-financial-management
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----FPI-e-filing-v-tax-revenue.jpg
+social-image: /uploads/Devs----FPI-e-filing-v-tax-revenue.jpg
 ---
 
 What would you do with an extra $1.1 billion? That amount represents the additional taxes collected by the Philippines government during the first quarter of 2017 versus the same period in 2016. This 12.2 percent increase—during the country's tax-collecting season—followed the rapid adoption by taxpayers of an electronic tax-filing system introduced by the U.S. Agency for International Development (USAID)’s [Facilitating Public Investment](https://www.dai.com/our-work/projects/philippines-facilitating-public-investment-fpi) (FPI) program, implemented by DAI.

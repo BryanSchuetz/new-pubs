@@ -21,8 +21,8 @@ assets:
 tags:
 - Land rights
 - value chain and market systems development
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/bare.jpg
+social-image: /uploads/bare.jpg
 ---
 
 Funded by the U.K. Department for International Development (DFID), the [Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) project works to raise incomes for poor and vulnerable populations in Ethiopia and to enhance economic growth through second-level land certification and improved rural land administration. 

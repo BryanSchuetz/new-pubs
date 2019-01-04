@@ -20,8 +20,8 @@ assets:
 tags:
 - stability
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Jordan-WFD1.jpg
+social-image: /uploads/Jordan-WFD1.jpg
 ---
 
 Jordan is a relative bastion of stability in the Middle East but is struggling with an unemployment problem. More than 700,000 of its young people—[36 percent](https://data.worldbank.org/indicator/ SL.UEM.1524.ZS) of the [available labor force](http://databank.worldbank.org/data/Views/Metadata/MetadataWidget.aspx?Name=Labor%20force%20participation%20rate,%20total%20(%25%20of%20total%20population%20ages%2015+)%20(national%20estimate)&Code=SL.TLF.CACT.NE.ZS&Type=S&ReqType=Metadata&ddlSelecte) ages 15–24—are without a job. This percentage is double that of Afghanistan and triple that of Bangladesh, even though those countries register poverty levels far worse than Jordan’s. The problem has intensified since 2011 with the influx of hundreds of thousands of refugees following the Syrian crisis.

@@ -25,8 +25,8 @@ tags:
 - economic-growth
 - agriculture
 - fragile-states
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----LIVCD-Honey-pic-3.jpg
+social-image: /uploads/Devs----LIVCD-Honey-pic-3.jpg
 ---
 
 Even before more than 1 million Syrian refugees crossed into Lebanon, the nation’s agriculture sector was struggling to serve its 4.5 million citizens.

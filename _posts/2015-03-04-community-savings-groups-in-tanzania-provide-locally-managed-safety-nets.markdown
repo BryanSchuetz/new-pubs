@@ -21,8 +21,8 @@ tags:
 - economic-growth
 - global-health
 - resilience
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/IMARISHA-1.jpg
+social-image: /uploads/IMARISHA-1.jpg
 ---
 
 Fifty years after independence, Tanzania still struggles to secure a resilient future. HIV/AIDS compounds the problems caused by poverty and scarcity, creating deep fissures in the national and local economies and leaving HIV-affected households highly vulnerable in the face of rising costs for food, schooling, and medical care.

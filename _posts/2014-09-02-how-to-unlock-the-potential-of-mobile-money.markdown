@@ -14,8 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/mckaysavage-1.jpg
+social-image: /uploads/mckaysavage-1.jpg
 ---
 
 <p>It's hard to imagine a more explosive, transformative, and empowering trend than the growth of the mobile phone sector in Africa. In 1998 there were fewer than 4 million phones on the continent; today there are around 800 million—a whopping 80 percent penetration. Compare this to the meager 24 percent of African adults with bank accounts. Experts expect there will be around 1.1 billion mobile phone subscribers by 2017. </p>

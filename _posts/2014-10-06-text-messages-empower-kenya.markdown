@@ -15,8 +15,8 @@ assets:
 tags:
 - resilience
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/heinzelman-graphic.jpg
+social-image: /uploads/heinzelman-graphic.jpg
 ---
 
 A mobile phone can be used to destabilize communities by spreading fear and misinformation — or it can be a force for good, used to quell rumors and discourage fear mongering. It can be used to organize arms distribution or to inform peace actors. In short, technology is neutral; it is the content and credibility of the information shared over the mobile channel that determines its effect. DAI is looking at new models to support community resilience—the ability of communities to recover, persist, and thrive in the face of conflict, to borrow Andrew Zolli’s and Ann Marie Healy’s formulation of the concept—and we have found that strategic messaging via mobile devices can be of great benefit to peace advocates seeking to promote stability[^1].

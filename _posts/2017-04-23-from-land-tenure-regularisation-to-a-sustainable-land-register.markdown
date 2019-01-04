@@ -29,8 +29,8 @@ assets:
 tags:
 - land
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Picture1.png
+social-image: /uploads/Picture1.png
 ---
 
 The evidence is clear: property rights are essential foundations for poverty alleviation and economic development. In Africa, it is less clear as to what may be the most effective way of establishing and especially maintaining those rights, with formal and customary tenure systems both offering degrees of security but radically different development possibilities.

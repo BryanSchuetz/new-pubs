@@ -24,8 +24,8 @@ tags:
 - governance
 - land
 - gender
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/LIFT 1.jpg
+social-image: /uploads/LIFT 1.jpg
 ---
 
 Large-scale land registration programmes such as the U.K. for International Development (DFID)-funded [Rwanda Land Tenure Regularisation Programme](http://dai-global-developments.com/articles/delivering-large-scale-land-certification-programmes-lessons-from-rwanda/) have demonstrated that it is possible to roll out land registration programmes quickly and cheaply, on a national scale. Now, a similar but even more ambitious U.K. initiative in Ethiopia—the [Land Investment for Transformation Programme (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift)—is beginning to gain traction. Building on the lessons learned in Rwanda, LIFT is working to keep the momentum going, ensure the programme is financially sustainable, and begin to realize the development benefits of expanded land titling.

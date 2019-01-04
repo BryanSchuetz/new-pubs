@@ -13,8 +13,8 @@ assets:
   author?: 'yes'
 tags:
 - stability
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/asym1.jpg
+social-image: /uploads/asym1.jpg
 ---
 
 <p>Since the terror attacks of September 11, 2001, perhaps the greatest—and least understood—security threats faced by countries are asymmetric, not force on force.</p>

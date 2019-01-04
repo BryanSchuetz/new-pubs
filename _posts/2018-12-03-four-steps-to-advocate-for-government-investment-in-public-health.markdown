@@ -19,8 +19,8 @@ assets:
 tags:
 - global-health
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----new-pic-UNITED.jpg
+social-image: /uploads/Devs----new-pic-UNITED.jpg
 ---
 
 In Nigeria, as in many countries, the government faces practical hurdles to funding health systems adequately and preventing sickness and disease among its most susceptible citizens. As Health Systems Advisor for [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) on the [Integrated Approach to Neglected Tropical Diseases (UNITED)](https://www.dai.com/our-work/projects/nigeria-integrated-approach-to-neglected-tropical-diseases-united) programme, I advocate for increased, cost-effective health funding in Nigeria so more people can benefit from health services.

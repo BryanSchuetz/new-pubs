@@ -18,8 +18,8 @@ tags:
 - governance
 - energy-and-resources
 - sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----NDPI-side-1.jpg
+social-image: /uploads/Devs----NDPI-side-1.jpg
 ---
 
 When the Foundation for Partnership Initiatives in the Niger Delta (PIND) was launched with Chevron’s backing in 2010, it also meant that a time would come to assess whether the team was achieving its goals—primarily, to open doors for broad-based economic opportunity in the conflict-affected Delta.

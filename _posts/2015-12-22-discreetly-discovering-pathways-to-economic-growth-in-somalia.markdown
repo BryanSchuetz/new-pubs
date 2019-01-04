@@ -21,8 +21,8 @@ assets:
 tags:
 - economic-growth
 - fragile-states
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs -- Naughton 1.jpg
+social-image: /uploads/Devs -- Naughton 1.jpg
 ---
 
 Somalis have suffered through a generation of conflict and political instability, with no formal national government since the outbreak of civil war in 1991. An estimated 500,000 Somalis died during the conflict, which left Somalia unable to support its people and an economy in dire straits. Yet following the formation in 2012 of the first federal national government since the war began, signs of progress have begun to emerge. A more settled political landscape and improving security—thanks to continuing action against Al-Shabaab—have seen Somalia graduate from a failed to a fragile state.

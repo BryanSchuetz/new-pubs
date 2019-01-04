@@ -18,8 +18,8 @@ assets:
 tags:
 - resilience
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/rackley-1.jpg
+social-image: /uploads/rackley-1.jpg
 ---
 
 <p>How do we revitalize critical public services when a national government is in the throes of crisis management or distracted by the protracted after-effects of conflict or natural disaster? Solving this conundrum is crucial to making the transition from humanitarian to development assistance. Restarting basic public services is also key to rekindling a state’s credibility with its citizens, and the first step on the path from fragile to stable governance. The case of Serbia, where DAI worked for seven years on a <a href="http://dai.com/our-work/projects/serbia—preparedness-planning-and-economic-security-program-ppes">U.S. Agency for International Development (USAID) program</a> to build disaster response capacity, suggests that supporting state disaster management institutions can be a powerful engine of resilience in fragile states.</p>

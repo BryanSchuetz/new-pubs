@@ -22,8 +22,8 @@ assets:
 tags:
 - global-health
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Zika-Thai.jpg
+social-image: /uploads/Devs----Zika-Thai.jpg
 ---
 
 More than 30 countries in the Americas have reported Zika virus infections, with up to 4 million people projected to be infected in 2016. The mosquito-borne virus has now also been linked to sexual transmission, causing public health experts to predict that the virus could spread locally in the United States and elsewhere. U.S. agencies are responding quickly, prompted by the Level 1 alert issued by the Centers for Disease Control and Prevention’s emergency control unit. 

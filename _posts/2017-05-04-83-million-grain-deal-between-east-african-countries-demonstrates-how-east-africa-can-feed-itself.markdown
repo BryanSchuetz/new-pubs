@@ -18,8 +18,8 @@ assets:
 tags:
 - economic-growth
 - agriculture
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----EATIH-grain-2.jpg
+social-image: /uploads/Devs----EATIH-grain-2.jpg
 ---
 
 If East Africa grows enough food to feed itself, which it generally does, why are so many of its people going hungry? This question lies at the nexus of two of Africa’s key development challenges—food security and trade—where a recent milestone event may signal a massive change in fortunes for one of the most food insecure regions of the world.

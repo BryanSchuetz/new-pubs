@@ -15,8 +15,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/us1.jpg
+social-image: /uploads/us1.jpg
 ---
 
 <p>In 2000, Vietnam was anxious to pump life into its economy. Less than a generation removed from a crippling war, the country faced challenges such as reducing poverty and creating enough jobs to absorb some 1.5 million people entering the labor force each year.</p>

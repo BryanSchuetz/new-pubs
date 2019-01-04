@@ -14,8 +14,8 @@ assets:
 - path: "/uploads/building_back_better.jpg"
 tags:
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/building_back_better.jpg
+social-image: /uploads/building_back_better.jpg
 ---
 
 <p>On November 7, typhoon Haiyan tore through the central Philippines. While rescue and relief personnel have worked valiantly to meet the most urgent needs of the estimated 4.3 million people displaced, full recovery will take years and test the substance of the Philippines national and local governments and the international development community. The estimated impacts of this storm are huge, particularly in Leyte Province:</p>

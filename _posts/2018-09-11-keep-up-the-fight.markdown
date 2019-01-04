@@ -21,8 +21,8 @@ assets:
 tags:
 - governance
 - education
-thumbnail-image:
-social-image:
+thumbnail-image: uploads/Devs----TEP-2-1.jpg
+social-image: uploads/Devs----TEP-2-1.jpg
 ---
 
 After more than five years of campaigning for the right of every Pakistani child to receive a quality education, *Alif Ailaan* ended on August 31. Before we go, we should explain why the campaign is ending, and more importantly, we should thank the people that made this campaign as effective as it was.

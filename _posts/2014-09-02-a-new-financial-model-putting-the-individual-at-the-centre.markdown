@@ -14,8 +14,8 @@ assets:
 - path: "/uploads/noramorgan.jpg"
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/fish-farming.jpg
+social-image: /uploads/fish-farming.jpg
 ---
 
 <p>Ten years ago, a low-income Filipina woman described her life to me as "one long risk." Today, I suspect her life is little different. For all the successes of the microcredit experiment, we have yet to take full account of the individual experience at the center of a life lived in poverty—a life where medical crises, theft, crop losses, or any one of innumerable random shocks can readily erode the hard-won gains of saving, building assets, and participation in the financial system.</p>

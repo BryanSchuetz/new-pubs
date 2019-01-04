@@ -15,8 +15,8 @@ assets:
 tags:
 - environment-energy
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/ia1.jpg
+social-image: /uploads/ia1.jpg
 ---
 
 <p>Five years ago, the Kingdom of Jordan took a critically important step to conserve its scarce water resources by approving a Water Demand Management (WDM) Policy. While many middle-income and advanced economies have overemphasized supply-side solutions—a costly, myopic, and ultimately inadequate response–water-starved Jordan is beginning to see the benefits of a more balanced strategy.</p>

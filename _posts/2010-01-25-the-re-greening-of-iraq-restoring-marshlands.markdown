@@ -11,8 +11,6 @@ tags:
 - environment-energy
 thumbnail-image: /uploads/IraqIMRP.jpg
 social-image: /uploads/IraqIMRP.jpg
-thumbnail-image:
-social-image:
 ---
 
 Driven from their land by a despot bent on retaliation, the Marsh Arabs of Iraq had little choice but to abandon the wetlands that were once home to billions of birds, a source of fish and dairy products for much of the country, and a natural filter for the waters of the Persian Gulf. 

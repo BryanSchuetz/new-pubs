@@ -18,8 +18,8 @@ assets:
 tags:
 - resilience
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/cows.jpg
+social-image: /uploads/cows.jpg
 ---
 
 <p>Like everyone else, poor people depend on markets. They depend on markets to sell what they produce and to purchase goods in time of need. They operate in labor and land markets — formal or informal — and are affected by government policies and regulations. They require a wide range of services. Many of the markets they participate in are highly dynamic, especially those linked to global markets. In such markets, technological changes and price fluctuations occur in ways that poor people cannot hope to influence.</p>

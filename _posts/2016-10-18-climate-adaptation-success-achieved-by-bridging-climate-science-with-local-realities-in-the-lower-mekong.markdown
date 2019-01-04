@@ -37,8 +37,8 @@ tags:
 - resilience
 - environment-energy
 - agriculture
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Mekong-ARCC-closedown-4.jpg
+social-image: /uploads/Devs----Mekong-ARCC-closedown-4.jpg
 ---
 
 Countries in the Lower Mekong Basin (LMB)—Cambodia, Lao PDR, Thailand, and Vietnam—are home to rural populations that are chronically poor or vulnerable. Many of these families still produce much of their own food and are acutely sensitive to weather events such as floods, droughts, and extreme storms that cause crop failures and serious hardships. In recent years, rural communities in the LMB have experienced their share of extreme weather.

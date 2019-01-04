@@ -19,8 +19,8 @@ assets:
   name: Devs----Tilitonse-1
 tags:
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Alice-Kaunda----Tilitonse.jpg
+social-image: /uploads/Alice-Kaunda----Tilitonse.jpg
 ---
 
 In the 2007 case of Kafantayeni and Others v. Attorney General, the Malawi High Court invalidated the mandatory death penalty and ruled that all prisoners given these sentences were entitled to a new sentence hearing. In November 2010, the Malawi Supreme Court of Appeal confirmed this right. But by 2013, none of the affected death-row prisoners—188 men and four women—had received their hearing.

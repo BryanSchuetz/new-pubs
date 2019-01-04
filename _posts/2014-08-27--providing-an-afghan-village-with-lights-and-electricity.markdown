@@ -12,8 +12,8 @@ assets:
 tags:
 - environment-energy
 - stability
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/hydro1.jpg
+social-image: /uploads/hydro1.jpg
 ---
 
 <p>Imagine the difference electricity would make to a village where every night the street and homes go dark because there is no choice.</p>

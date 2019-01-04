@@ -17,8 +17,8 @@ assets:
 tags:
 - economic-growth
 - environment-energy
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/pic1.jpg
+social-image: /uploads/pic1.jpg
 ---
 
 For many of the world’s poor, usable land is in short supply. In Africa, for example, more than 90 percent of rural land is undocumented and vulnerable to land-grabbing and expropriation. This leaves smallholder farmers and pastoralists—people trying to eke out an existence—vulnerable, especially in countries where land governance is weak.

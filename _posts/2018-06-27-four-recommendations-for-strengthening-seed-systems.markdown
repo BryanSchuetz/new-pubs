@@ -29,8 +29,8 @@ tags:
 - economic-growth
 - agriculture
 - resilience
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Seed-1.jpg
+social-image: /uploads/Devs----Seed-1.jpg
 ---
 
 Most people living in rural communities in developing countries depend on crops. While donor-funded seed development programs for staple crops have improved the capacity of seed companies, as well as their market connections and distribution systems, high-quality seeds of improved varieties are simply not reaching enough smallholder farmers.

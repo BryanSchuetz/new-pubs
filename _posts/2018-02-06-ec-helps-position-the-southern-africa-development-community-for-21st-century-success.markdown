@@ -16,8 +16,8 @@ tags:
 - public-financial-management
 - governance
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----SADC-1.jpg
+social-image: /uploads/Devs----SADC-1.jpg
 ---
 
 Launched in 1992, the Southern Africa Development Community (SADC) was based more on ideals than economics. Born of the anti-Apartheid movement, the SADC aimed to help Southern Africa countries build economic ties and reduce dependence on the Republic of South Africa. As the region changed, the SADC’s membership grew and the organization adopted lofty goals. But the SADC’s outmoded inner workings did not meet the needs of its escalating staff and ambitions.

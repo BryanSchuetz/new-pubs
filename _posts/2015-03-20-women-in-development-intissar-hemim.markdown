@@ -15,8 +15,8 @@ assets:
 - path: "/uploads/Devs-Intissar-2.jpg"
 tags:
 - dai
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs-Intissar-2.jpg
+social-image: /uploads/Devs-Intissar-2.jpg
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*

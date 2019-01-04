@@ -31,8 +31,6 @@ tags:
 - gender
 thumbnail-image: /uploads/Devs----Musharikat-1.jpg
 social-image: /uploads/Devs----Musharikat-1.jpg
-thumbnail-image:
-social-image:
 ---
 
 Girls and women in Afghanistan are transitioning away from Taliban-era oppression to attend school, [get jobs](http://dai-global-developments.com/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/), and fully participate in mainstream life. Afghan leaders and politicians have enacted national laws to support this movement, but the reality in Afghanistan’s 34 provinces is another matter. Girls and women in too many locales routinely endure child/forced marriage, domestic assault, and injustice, and female leaders become targeted for reprisals. In the space between the national law and local reality, various groups are working to preserve hard-earned gains and advocate for Afghan women. This is the space where the Musharikat program works.

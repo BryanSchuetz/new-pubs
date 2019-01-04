@@ -16,8 +16,8 @@ assets:
 tags:
 - environment-energy
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----SERVIR-Nepal----.jpg
+social-image: /uploads/Devs----SERVIR-Nepal----.jpg
 ---
 
 Alerting rural villages to floods, detecting remote forest fires, and monitoring greenhouse gas emissions are some of the capabilities of SERVIR Global, a collaboration between NASA and the U.S. Agency for International Development (USAID). SERVIR integrates imagery and data from Earth-observing satellites and geospatial technologies to give policy makers around the world critical information on climate-sensitive topics such as natural disasters, agriculture, water, ecosystems, and land use. While the technology from space that SERVIR relies on is impressive, its greatest potential might lie in facilitating human connections down on earth.

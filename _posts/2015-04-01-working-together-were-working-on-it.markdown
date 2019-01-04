@@ -13,8 +13,8 @@ assets:
 - path: "/uploads/Devs-Helmstadter-graphic-1.jpg"
 tags:
 - dai
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs-Helmstadter-graphic-1.jpg
+social-image: /uploads/Devs-Helmstadter-graphic-1.jpg
 ---
 
 For DAI, one of the great advantages of implementing an extensive and diverse group of projects is the opportunity it affords us to learn and collaborate across a multiclient portfolio—to bring insights from U.K Department for International Development (DFID) programming into our U.S. Agency for International Development (USAID) work, for example, and vice versa; or to coordinate mutually beneficial activities that cross project and client lines.

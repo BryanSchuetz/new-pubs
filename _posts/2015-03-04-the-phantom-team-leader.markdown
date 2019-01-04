@@ -13,8 +13,8 @@ assets:
 - path: "/uploads/chart.jpg"
 tags:
 - leadership
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/chart.jpg
+social-image: /uploads/chart.jpg
 ---
 
 Most industry observers believe the leaders of increasingly complex development projects must combine subject matter expertise with strong executive skills—a rare combination. Do the leaders we are searching for exist?

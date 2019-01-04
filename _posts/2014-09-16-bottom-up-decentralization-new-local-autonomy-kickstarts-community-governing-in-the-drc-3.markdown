@@ -12,8 +12,8 @@ assets:
 - path: "/uploads/map.jpg"
 tags:
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/congoinner.jpg
+social-image: /uploads/congoinner.jpg
 ---
 
 <p>When the new constitution for the Democratic Republic of the Congo (DRC) was written, its main aim was to resolve the conflicts between warring factions that had brought the country to its knees. In the peace talks of 2002 and 2003, convened to assuage the demands of multiple interest and ethnic groups, it was agreed that the DRC would adopt something approaching a federal model. Each province would have its own government, elected assembly, revenue-raising powers, and a governor appointed by the provincial assembly. The existing 11 provinces were to be subdivided to make 26. These agreements were all incorporated in the final constitution of 2006.</p>

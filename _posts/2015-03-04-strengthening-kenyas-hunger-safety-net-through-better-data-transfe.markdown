@@ -14,8 +14,8 @@ assets:
 tags:
 - resilience
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Naughton-HSNP-screenshot.jpg
+social-image: /uploads/Naughton-HSNP-screenshot.jpg
 ---
 
 The traditional pastoralists of northern Kenya are increasingly challenged by the changing climate.

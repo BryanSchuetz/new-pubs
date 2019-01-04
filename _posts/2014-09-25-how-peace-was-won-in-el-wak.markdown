@@ -13,8 +13,8 @@ assets:
 tags:
 - resilience
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/vishalini-map.jpg
+social-image: /uploads/vishalini-map.jpg
 ---
 
 <p>Strategic and targeted interventions aimed at incremental trust building can play an important role in strengthening a community’s ability to bounce back from violent conflict or systemic government collapse. One such example is found in the town of El Wak — a remarkably adaptive community that has transcended an age-old conflict between two rival clans. In 10 years, this community in the Gedo region of Southern Somalia has moved through three stages of conflict: periods of recurring, inter-clan violence; a period of growing stability as the parties negotiated power-sharing agreements leading to better governance; and the present, a hopeful prospect of hard-earned peace and sustainable stability. </p>

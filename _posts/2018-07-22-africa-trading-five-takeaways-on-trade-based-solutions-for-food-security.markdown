@@ -19,8 +19,8 @@ tags:
 - agriculture
 - trade
 - resilience
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/DAI-News----EATIH-grain-pic-3.jpg
+social-image: /uploads/DAI-News----EATIH-grain-pic-3.jpg
 ---
 
 When we harness market forces in developing countries, great things can happen—such as countries with surplus food selling to countries that need food. Over the past 15 months, teams from the U.S. Agency for International Development (USAID) [East Africa](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) and [Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-and-investment-hub) Trade and Investment Hubs together facilitated three regional trade forums—in Ethiopia, Rwanda, and Zambia. This convening of sellers and buyers generated impressive results: signed contracts to sell 1.21 million metric tons of staple grains, with an estimated value of $402 million. When delivered, the grains will be enough to feed 14.4 million people for 12 months.

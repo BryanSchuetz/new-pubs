@@ -25,8 +25,8 @@ assets:
 tags:
 - economic-growth
 - resilience
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Jepsen-Savings-Groups-4.jpg
+social-image: /uploads/Devs----Jepsen-Savings-Groups-4.jpg
 ---
 
 In November, DAI inclusive economic growth specialists [Colleen Green](http://dai.com/who-we-are/our-team/colleen-green) and [Kirsten Weeks](http://dai.com/who-we-are/our-team/kirsten-weeks) attended the SG2015 Savings Groups Conference in Lusaka, Zambia, where approximately 350 practitioners from 44 countries shared experiences and opinions. Green and Weeks recently discussed savings groups and how DAI uses them across its programming with John Jepsen, DAI’s Global Practice Lead for financial services.

@@ -12,8 +12,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/msme.jpg
+social-image: /uploads/msme.jpg
 ---
 
 <p>One of DAI’s most wide-reaching economic growth projects marked its close at the end of 2012 with a remarkable tally of results that speak to the success of an approach based on unleashing the technical knowhow and market linkages already latent in the Cambodian economy.</p>

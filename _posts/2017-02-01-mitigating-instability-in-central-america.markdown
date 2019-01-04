@@ -37,8 +37,8 @@ tags:
 - governance
 - economic-growth
 - fragile-states
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Country-of-Origin-of-Children.jpg
+social-image: /uploads/Country-of-Origin-of-Children.jpg
 ---
 
 Some people might be surprised to know that most of the migrants trying to cross the U.S. southern border come not from Mexico but from countries to Mexico’s south.

@@ -23,8 +23,8 @@ tags:
 - finance
 - trade
 - investment
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/twiga.jpg
+social-image: /uploads/twiga.jpg
 ---
 
 Earlier this spring, the [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) achieved a major milestone by surpassing the $100-million mark in commercial investment catalyzed into the region. This investment would not have found its way to these markets without the approximately $4 million nudge offered by the Hub, a U.S. Agency for International Development (USAID) initiative implemented by DAI. Given the potential impact of the investee companies, this project shows how a donor like USAID can leverage its relatively scarce capital to crowd in more plentiful commercial funds—a process known as blended finance. The leverage factor is almost 25x.

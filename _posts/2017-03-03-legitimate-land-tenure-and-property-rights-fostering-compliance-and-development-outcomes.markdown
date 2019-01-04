@@ -23,8 +23,8 @@ assets:
 tags:
 - governance
 - land
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Land mapping.jpg
+social-image: /uploads/Land mapping.jpg
 ---
 
 At the request of the U.K. Department for International Development, DAI recently undertook [structured research](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/471197/land-tenure.pdf) into the following question: What policies and interventions or approaches have been successful in fostering compliance with legitimate land tenure rights and what impact have these strategies had on development outcomes? The research team was led by Geoffrey Payne and included James Mitchell, Luke Kozumbo, Clive English, and Richard Baldwin, using [Rapid Evidence Assessment (REA)](https://www.gov.uk/government/collections/rapid-evidence-assessments), a methodology that uses a structured approach to identify relevant literature and then assess the robustness of the evidence presented.

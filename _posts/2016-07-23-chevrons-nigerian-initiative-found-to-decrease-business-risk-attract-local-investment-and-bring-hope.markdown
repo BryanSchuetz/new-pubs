@@ -26,8 +26,8 @@ tags:
 - energy-and-resources
 - fragile-states
 - sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----NDPI-5.jpg
+social-image: /uploads/Devs----NDPI-5.jpg
 ---
 
 When Chevron launched the Niger Delta Partnership Initiatives (NDPI) Foundation in 2010, it knew there were no easy solutions to the instability felt by Nigeria’s youth, poor, and unemployed. Ethnic and religious conflicts had long festered and flared, including in the Niger Delta, where Chevron has extensive oil and gas operations. Taking a regional approach while still complementing other Chevron Nigeria social investments such as the Global Memorandum of Understanding (GMOU), the company sought to address the fundamental issues confronting local communities: the struggle for economic opportunity, the sources of the underlying conflict, and the capacity shortfalls constraining the Delta’s development.

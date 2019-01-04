@@ -15,8 +15,8 @@ assets:
 tags:
 - innovation
 - dai
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/pubs-story.jpg
+social-image: /uploads/pubs-story.jpg
 ---
 
 International development donors are increasingly asking their partners for more than just “good development.” Inspired in part by the example of the information and communications technology sector, they want new thinking and better approaches to address global poverty, poor governance, climate change, environmental degradation, and inadequate health care. They want solutions that are transformative (vs. incremental), scalable, more efficient, and cost-effective. They want, in a word, innovation. 

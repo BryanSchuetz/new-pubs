@@ -15,8 +15,8 @@ assets:
 tags:
 - resilience
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/jepsen-1.jpg
+social-image: /uploads/jepsen-1.jpg
 ---
 
 <p>Poor households, smallholder farmers, and small and medium-sized enterprises require a range of financial services to stabilize income, plan for the future, respond to shocks, and invest in their households, communities, and businesses. For example, savings allow households to smooth income when an unexpected cost hits home. Insurance provides a safety mechanism to cover losses after a severe weather incident, death, or other trauma. Credit supports re-investment after a disaster or steadies seasonal cash crunches. Financial services are, in short, critical to individual, household, and community resiliency.</p>

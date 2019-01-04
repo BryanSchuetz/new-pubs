@@ -15,8 +15,8 @@ assets:
 - path: "/uploads/chadskeers.jpg"
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/landscapes.jpg
+social-image: /uploads/landscapes.jpg
 ---
 
 <p>Delivering on the promises of economic, social, and cultural rights set out in international covenants is difficult for many developing countries given their lack of wealth and high levels of poverty.</p>

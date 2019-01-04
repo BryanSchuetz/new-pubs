@@ -18,8 +18,8 @@ assets:
 tags:
 - governance
 - finance
-thumbnail-image:
-social-image:
+thumbnail-image: uploads/philippines.jpg
+social-image: uploads/philippines.jpg
 ---
 
 It has been more than 15 years since the Government of the Philippines undertook its last comprehensive tax policy reform. Over that period, tax revenues have seen a steady decline, from a high of nearly 17 percent of GDP in 1997 to only [13.6 percent in 2016](https://data.worldbank.org/indicator/GC.TAX.TOTL.GD.ZS?locations=PH). This decline can be attributed to both domestic and external factors. On the international front, the Asian financial crisis of 1997–1998 and the global recession of 2008–2009 certainly contributed to sharp drop-offs. But the Government of the Philippines’ limited ability to enforce fiscal discipline also was a factor, allowing special interests to introduce loopholes, weaken tax laws, and chip away at previous reforms. These factors were compounded by lower import duties (motivated by the prospect of improving trade) and flaws in the 1997 excise tax reform.

@@ -26,8 +26,8 @@ tags:
 - digital-acceleration
 - innovation
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Helms-1.jpg
+social-image: /uploads/Devs----Helms-1.jpg
 ---
 
 Brigit Helms, who leads the U.S. Agency for International Development’s [Support Program for Economic and Enterprise Development](http://dai.com/our-work/projects/mozambique%E2%80%94support-program-economic-and-enterprise-development-speed) in Mozambique, is a thought leader on extending financial services to poor households and small businesses in developing countries. Helms recently spoke with John Jepsen, DAI’s Global Practice Leader for Financial Services, about trends and opportunities in digital financial services.

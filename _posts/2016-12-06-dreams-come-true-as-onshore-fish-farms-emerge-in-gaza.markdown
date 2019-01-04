@@ -36,8 +36,8 @@ tags:
 - economic-growth
 - resilience
 - agriculture
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Gaza-fish-3jpg.jpg
+social-image: /uploads/Devs----Gaza-fish-3jpg.jpg
 ---
 
 In less than a year, an onshore fish farm in Gaza has more than tripled the amount of fish it grows and sells by applying technology and assistance from [The Compete Project](http://dai.com/our-work/projects/palestine%E2%80%94-compete-project) (Compete), a U.S. Agency for International Development (USAID) program implemented by DAI. 

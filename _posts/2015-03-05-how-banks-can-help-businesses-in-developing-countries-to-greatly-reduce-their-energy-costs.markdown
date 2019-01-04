@@ -13,8 +13,8 @@ assets:
 tags:
 - environment-energy
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/PolSEFF-pic-1.jpg
+social-image: /uploads/PolSEFF-pic-1.jpg
 ---
 
 Energy consumption can account for up to half the cost of doing business for small and medium-sized enterprises (SMEs). These businesses of 250 or fewer employees make up 95 percent of enterprises across the world; they also account for approximately 60 percent of all private sector employment. Globally, there is great potential to reduce their energy costs and carbon emissions.

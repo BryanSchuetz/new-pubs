@@ -15,9 +15,9 @@ assets:
 - path: "/uploads/cpars_guidance.pdf"
 tags:
 - innovation
-thumbnail-image:
-social-image:
----
+thumbnail-image: /uploads/pubs-story-15.jpg 
+social-image: /uploads/pubs-story-15.jpg
+--- 
 
 In the critically acclaimed film, *The Spanish Prisoner*, Steve Martin plays a confidence man trying to swindle an unsuspecting engineer out of “the process,” a super-secret industrial formula that generates boatloads of cash. Martin and his co-conspirators are sent away in handcuffs with the process safe and sound as the credits roll. What remains mysteriously unresolved is how the process works and what makes it so lucrative.
 

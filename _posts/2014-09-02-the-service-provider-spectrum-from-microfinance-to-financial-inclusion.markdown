@@ -14,8 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/mckaysavage1.jpg"
+social-image: /uploads/mckaysavage1.jpg"
 ---
 
 <p>The microfinance industry has come under withering attack in recent years, pilloried among other things for its high interest rates and its coverage, which is often estimated to reach less than 10 percent of the population. But practitioners, the media, and the public should understand that microfinance is a broad term for a highly differentiated financial sector that is not without its successes. Each type of provider—from banks to savings groups—plays a particular role in providing the continuum of services typically needed to promote "financial inclusion" in underserved areas.</p>

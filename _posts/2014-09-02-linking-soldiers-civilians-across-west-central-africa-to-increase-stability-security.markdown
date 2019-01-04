@@ -15,8 +15,8 @@ assets:
 tags:
 - stability
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/tss1.jpg
+social-image: /uploads/tss1.jpg
 ---
 
 <p>Chad’s desert expanse—nearly twice the size of Texas—presents enormous challenges to its government.</p>

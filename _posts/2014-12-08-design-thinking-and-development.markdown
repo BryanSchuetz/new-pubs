@@ -13,8 +13,8 @@ assets:
 tags:
 - innovation
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/pubs-story-8.jpg
+social-image: /uploads/pubs-story-8.jpg
 ---
 
 <p>DAI’s Jessica Heinzelman recently sat down with Mike Rios of 17 Triggers to discuss how we can make development projects more 'delightful'.

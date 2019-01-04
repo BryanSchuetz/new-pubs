@@ -15,8 +15,8 @@ assets:
 - path: "/uploads/mckaysavage-2.jpg"
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/womensworldbanking-1.jpg
+social-image: /uploads/womensworldbanking-1.jpg
 ---
 
 <p>In villages across Africa, Asia, and Latin America, millions of people are meeting regularly in groups of 10 to 30 people to save and borrow small amounts of money, and provide each other with the moral support needed to meet each member's individual financial goals.</p>

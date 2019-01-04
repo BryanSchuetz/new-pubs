@@ -14,8 +14,8 @@ assets:
   author?: 'yes'
 tags:
 - dai
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/jimb.jpg
+social-image: /uploads/jimb.jpg
 ---
 
 <p>In February of this year, I had the honor of being appointed to the <a href="http://www.usaid.gov/who-we-are/organization/advisory-committee">Advisory Committee on Voluntary Foreign Aid</a>. ACVFA was established after World War II as a link between the U.S. Government and private organizations active in humanitarian and development work overseas.</p>

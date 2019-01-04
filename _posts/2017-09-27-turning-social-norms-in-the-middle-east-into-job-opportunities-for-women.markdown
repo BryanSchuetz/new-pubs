@@ -23,8 +23,8 @@ tags:
 - gender
 - resilience
 - agriculture
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/IMG_8165.JPG
+social-image: /uploads/IMG_8165.JPG
 ---
 
 When deep-rooted social norms appear to limit the roles of women, one of the best tactics we can take in development assistance is to look for opportunities to turn those norms to women's advantage.

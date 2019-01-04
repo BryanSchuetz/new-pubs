@@ -11,8 +11,8 @@ assets:
   name: Devs----Jean-Gilson-large
 tags:
 - innovation
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Jean-Gilson-large.jpg
+social-image: /uploads/Devs----Jean-Gilson-large.jpg
 ---
 
 Innovation has been a core DAI principle since our founding 45 years ago. The firm’s very name, Development Alternatives, speaks to the company’s fundamental aspiration to provide customers with solutions that push the boundaries of the discipline. At DAI, we define innovation as the combination of products, services, processes, and business models that collectively create a new growth trajectory for the company. For DAI, innovation must yield value.

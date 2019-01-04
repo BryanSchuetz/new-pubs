@@ -16,8 +16,8 @@ assets:
 tags:
 - innovation
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/pubs-story-5.jpg
+social-image: /uploads/pubs-story-5.jpg
 ---
 
 Microcredit was a business model disruption in the banking sector. Today, to offer the full range of high-quality financial services required by the majority of the world's people, we need to find the next major business model to disrupt microcredit.

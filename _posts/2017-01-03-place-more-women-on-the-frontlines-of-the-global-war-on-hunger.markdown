@@ -28,8 +28,8 @@ tags:
 - economic-growth
 - agriculture
 - resilience
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Afshar-Women-in-Ag-1.jpg
+social-image: /uploads/Devs----Afshar-Women-in-Ag-1.jpg
 ---
 
 In developing countries, something is missing in the war on hunger: an equal voice for women.

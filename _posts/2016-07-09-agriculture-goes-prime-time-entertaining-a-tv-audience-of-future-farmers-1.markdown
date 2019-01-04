@@ -22,8 +22,8 @@ tags:
 - agriculture
 - economic-growth
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----ALII-TV-pic-3.jpg
+social-image: /uploads/Devs----ALII-TV-pic-3.jpg
 ---
 
 Each Wednesday night, up to 11 million viewers tune into  *Makutano Junction*, a hit TV series that airs on Citizen Television in Kenya, Tanzania, and Uganda. It is the most-watched locally produced program in Kenya, but *Makutano Junction* is not just any soap opera. Africa Lead II, a Feed the Future program of the U.S. Agency for International Development (USAID), is helping fund production and craft scripts that deliver a much-needed message: agriculture is cool.

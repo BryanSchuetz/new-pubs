@@ -16,8 +16,8 @@ assets:
 tags:
 - gender
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Technovation-2.jpg
+social-image: /uploads/Devs----Technovation-2.jpg
 ---
 
 Women are far underrepresented in the tech world globally from bottom to top. The all-encompassing industry is looking into the mirror and seeing  men and boys dominating technology jobs, classrooms, and expert panels, a bias now widely noticed.

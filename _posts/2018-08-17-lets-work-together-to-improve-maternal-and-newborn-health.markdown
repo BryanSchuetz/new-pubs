@@ -17,8 +17,8 @@ assets:
   name: ibubayi
 tags:
 - global-health
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/ibubayi.jpg
+social-image: /uploads/ibubayi.jpg
 ---
 
 *This opinion piece was first published in the [Jakarta Post](http://www.thejakartapost.com/) on August 15, 2018.* 

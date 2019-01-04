@@ -20,8 +20,8 @@ assets:
 tags:
 - economic-growth
 - agriculture
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Uzbek-cold-chain-3.jpg
+social-image: /uploads/Devs----Uzbek-cold-chain-3.jpg
 ---
 
 We were amazed to see a packed audience in 2010 when our team from the Global Cold Chain Alliance (GCCA) traveled to Tashkent, Uzbekistan. Our Uzbek trainees came from many backgrounds—teachers, builders, businessmen—eager to learn about this vital link in the agricultural value chain. Most did not have experience in the cold chain, let alone a refrigeration facility to manage, yet they soon formed the foundation for the country’s remarkable cold chain development.

@@ -15,8 +15,8 @@ assets:
 tags:
 - innovation
 - digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/figure_1.jpg
+social-image: /uploads/figure_1.jpg
 ---
 
 Despite the advances in human development in the 20th century, humanitarian aid remains as relevant as ever. While our ability to respond to disaster has improved, factors such as climate change and the burgeoning global population mean that the number and severity of disasters have also increased. Could “big data” help humanitarian relief actors keep up with this escalating challenge?

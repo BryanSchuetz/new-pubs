@@ -30,8 +30,8 @@ assets:
 tags:
 - economic-growth
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/SIMM-pic-3-1.jpg
+social-image: /uploads/SIMM-pic-3-1.jpg
 ---
 
 The market systems approach to economic development has gained prominence within development work that prioritizes *inclusive* economic growth. Donors such as the U.S. Agency for International Development (USAID), U.K. Department for International Development (DFID), and Swiss Agency for Development and Cooperation (SDC) have endorsed market systems development as a way to help large numbers of poor people achieve sustainable increases in income, opportunities, and resilience. In 2013, these donors [formalized their agreement](https://www.microlinks.org/learning-marketplace/news/usaid-dfid-and-sdc-explore-collaboration-inclusive-markets) and pledged to work together on related research and learning.

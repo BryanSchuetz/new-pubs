@@ -22,8 +22,8 @@ assets:
 tags:
 - governance
 - environment-energy
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Rapier-Water-pic-3.jpg
+social-image: /uploads/Devs----Rapier-Water-pic-3.jpg
 ---
 
 In 1990, the East African nation of Ethiopia stood among the nations in most dire need of water development. Seventeen years of war had left its government and systems in disarray. Only 11 percent of its more than 48 million people had access to piped or other improved water sources; the rest used unimproved sources such as unprotected wells and carted drums. Predictably, Ethiopia and countries in similar straits suffered through high rates of communicable, pandemic, and vector-borne disease, child mortality, and other challenges tied to water, sanitation, and hygiene.

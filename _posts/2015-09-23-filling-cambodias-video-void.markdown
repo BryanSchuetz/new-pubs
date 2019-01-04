@@ -21,8 +21,8 @@ assets:
 tags:
 - digital-acceleration
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs----Low-Fuss-Media-pic-2.jpg
+social-image: /uploads/Devs----Low-Fuss-Media-pic-2.jpg
 ---
 
 When Australian-Cambodian videographer Bunhom Chhorn returned to his native Cambodia in the early 2000s, he found the country nearly stripped of basic video expertise. There were no facilities, instruction, or equipment available to most people. Cambodian media overall had been greatly diminished by years of poverty and instability.

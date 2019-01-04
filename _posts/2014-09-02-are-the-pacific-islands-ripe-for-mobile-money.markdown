@@ -12,8 +12,8 @@ assets:
 - path: "/uploads/whiteafrican-1.jpg"
 tags:
 - economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/kiwanja-1.jpg
+social-image: /uploads/kiwanja-1.jpg
 ---
 
 <p>Characterised by a young, poor, and isolated population with a strong need for basic financial services and fast-growing usage of mobile phones, the Pacific island countries-14 islands spread over 30 million square kilometres-seemed to be a perfect place to develop mobile financial services when the <a href="http://www.pfip.org/">Pacific Financial Inclusion programme</a> (PFIP) started in 2008. Successive assessments found that:</p>

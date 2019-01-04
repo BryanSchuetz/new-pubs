@@ -18,8 +18,8 @@ assets:
 - path: "/uploads/audience.jpg"
 tags:
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/training.jpg
+social-image: /uploads/training.jpg
 ---
 
 <p>Amidst the development aid community’s many shifting enthusiasms, few concepts have as powerful and enduring appeal as the need to support citizen participation. Participation has featured prominently in assistance debates since the 1950s, losing attention in some periods but then reliably reemerging as an apparent panacea to the shortcomings of top-down approaches.</p>

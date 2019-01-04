@@ -18,8 +18,8 @@ assets:
 tags:
 - governance
 - stability
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg
+social-image: /uploads/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg
 ---
 
 Somalia has one of the most insecure, complicated, and harsh operating environments in the world. Much of the country is in ruins, with conflict between rival clans, continued attacks by Al Shabaab, and violent power struggles amplifying humanitarian disasters such as refugee crises, famine, and poverty. In the past two decades, millions of dollars in international aid directed to Somalia has had mixed results, with many Somalis believing that well intentioned assistance has exacerbated conflict and increased corruption.

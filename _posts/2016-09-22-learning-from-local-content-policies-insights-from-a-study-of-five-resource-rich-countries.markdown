@@ -20,8 +20,8 @@ tags:
 - governance
 - energy-and-resources
 - sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/DAIdeas-Emily-Foster-3.jpg
+social-image: /uploads/DAIdeas-Emily-Foster-3.jpg
 ---
 
 Since the 1970s, dozens of countries have enacted local content requirements in an effort to translate foreign direct investment, particularly in extractive industries, into local economic development. These policies require multinational companies to source local goods, services, and labor in a wide range of sectors, from civil works to transportation services. Yet the outcomes of these policies have been checkered—some approaches have strengthened local industries while others have been ineffectual or even counterproductive. As local content policies continue to expand in resource-rich countries around the world, policymakers should learn from these experiences when designing their own approaches.

@@ -16,8 +16,8 @@ assets:
 - path: "/uploads/pwrf_chart.jpg"
 tags:
 - governance
-thumbnail-image:
-social-image:
+thumbnail-image: /uploads/pwrf_fountain.jpg
+social-image: /uploads/pwrf_fountain.jpg
 ---
 
 <p>More than a decade ago, the Philippine Government committed to achieving Millennium Development Goals for water supply by expanding access to safe water to 16 million Filipinos—about one-fifth of the country’s population. This expansion would require an annual investment of PhP6-7 billion (US$150-$175 million); however, public sector financing remained stuck at PhP3-4 billion per year with no increase in sight. The only way to achieve the goal would be to mobilize private sector financing and investment. But how?</p>
