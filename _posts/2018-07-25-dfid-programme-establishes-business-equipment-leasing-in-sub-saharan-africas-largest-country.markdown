@@ -23,7 +23,7 @@ tags:
 - economic-growth
 - finance
 - sustainable-business
-thumbnail-image: /uploads/Ddvs----Essor-2-1.jpg  
+thumbnail-image: /uploads/Ddvs----Essor-2-1.jpg%20%20
 social-image: /uploads/Ddvs----Essor-2-1.jpg
 ---
 

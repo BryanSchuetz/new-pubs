@@ -14,8 +14,8 @@ tags:
 - governance
 - Land rights
 - value chain and market systems development
-thumbnail-image: /uploads/LIFT 1-1.jpg
-social-image: /uploads/LIFT 1-1.jpg
+thumbnail-image: /uploads/LIFT%201-1.jpg
+social-image: /uploads/LIFT%201-1.jpg
 ---
 
 While still one of the poorest countries in the world, Ethiopia has made major advances in reducing poverty and increasing agricultural production in recent years. However, the pace of progress is constrained by inefficiencies in the rural land sector, including weak documentation and management of land rights. 

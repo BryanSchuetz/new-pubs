@@ -14,7 +14,7 @@ assets:
 - path: "/uploads/nicholbrummer.jpg"
 tags:
 - economic-growth
-thumbnail-image: /uploads/nicholbrummer.jpg 
+thumbnail-image: /uploads/nicholbrummer.jpg%20
 social-image: /uploads/nicholbrummer.jpg
 ---  
 

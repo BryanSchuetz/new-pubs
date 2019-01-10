@@ -23,8 +23,8 @@ assets:
 tags:
 - governance
 - land
-thumbnail-image: /uploads/ABSL 1.JPG
-social-image: /uploads/ABSL 1.JPG
+thumbnail-image: /uploads/ABSL%201.JPG
+social-image: /uploads/ABSL%201.JPG
 ---
 
 Much has been written about the impacts of long-term land-based investments on local land rights, development, and livelihood opportunities—and much of the commentary, driven by notable controversies, has been hostile to the land investor. But while investors now have a plethora of guidelines and principles to follow in implementing their projects, they still confront a dearth of hard information and statistics based on actual experience. 

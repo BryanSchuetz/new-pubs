@@ -15,8 +15,9 @@ defaults:
   values:
     Author: 
     layout: post
-    social-image: 
-    thumbnail: 800 x 400
+    thumbnail-image:
+    social-image:
+    publications: 
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-developments.com
 permalink: "/:title.html"
@@ -41,14 +42,5 @@ sass:
 algolia:
   application_id: R7MRY12BR6
   index_name: Publications
-defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      publication:
-      author:
-      thumbnail-image:
-      social-image:
       
 

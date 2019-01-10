@@ -15,7 +15,7 @@ assets:
 - path: "/uploads/cpars_guidance.pdf"
 tags:
 - innovation
-thumbnail-image: /uploads/pubs-story-15.jpg 
+thumbnail-image: /uploads/pubs-story-15.jpg%20
 social-image: /uploads/pubs-story-15.jpg
 --- 
 

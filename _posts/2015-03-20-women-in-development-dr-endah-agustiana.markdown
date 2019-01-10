@@ -15,8 +15,8 @@ assets:
   author?: 'yes'
 tags:
 - dai
-thumbnail-image: /uploads/Devs eAugustiana 1.jpg
-social-image: /uploads/Devs eAugustiana 1.jpg
+thumbnail-image: /uploads/Devs%20eAugustiana%201.jpg
+social-image: /uploads/Devs%20eAugustiana%201.jpg
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*
