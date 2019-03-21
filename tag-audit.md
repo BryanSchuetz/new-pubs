@@ -1,11 +1,10 @@
 ---
 title: Tag Audit
 permalink: "/tag-audit/"
-published: false
 layout: tags
 ---
 
-Here are all the tags currently being used on the site:
+Here's all the tags currently being used on the site:  
 <ul>
 {% for tag in site.tags %}
   <li><a href="/tags/?tag={{ tag[0] | slugify}}">{{ tag[0] }}</a> <em>{% if tag[1].size == 1 %}<strong>(being used on {{ tag.[1]size }} posts)</strong>{% else %}(being used on {{ tag.[1]size }} posts){% endif %}</em></li>

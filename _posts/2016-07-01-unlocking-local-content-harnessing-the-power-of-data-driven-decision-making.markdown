@@ -22,9 +22,9 @@ assets:
 - path: "/uploads/Devs----Warwick-mug.jpg"
   author?: 'yes'
 tags:
-- environment-energy
+- environment-and-energy
 - economic-growth
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/Devs----DAIdeas-pic-2.jpg
 social-image: /uploads/Devs----DAIdeas-pic-2.jpg

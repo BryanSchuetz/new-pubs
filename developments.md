@@ -1,6 +1,6 @@
 ---
 title: DEVELOPMENTS
-publication: DEVELOPMENTS
+publication: Developments
 layout: default
 ---
 <div class="home grid">

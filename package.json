@@ -1,11 +1,11 @@
 {
-  "name": "digital",
+  "name": "newpubs",
   "version": "1.0.0",
-  "description": "Digital @ DAI",
+  "description": "DAI Publications",
   "main": "gulpfile.js",
   "scripts": {
     "serve": "browser-sync start --config browser-sync.js",
-    "build":"bundle exec jekyll build --watch --incremental",
+    "build": "bundle exec jekyll build --incremental --watch",
     "jekyllfy": "npm run build & npm run serve"
   },
   "repository": {

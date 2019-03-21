@@ -16,7 +16,7 @@ assets:
   name: mapping in field 1-1
 tags:
 - governance
-- environment-energy
+- environment-and-energy
 - land
 thumbnail-image: /uploads/mapping%20in%20field%201-1.jpg
 social-image: /uploads/mapping%20in%20field%201-1.jpg

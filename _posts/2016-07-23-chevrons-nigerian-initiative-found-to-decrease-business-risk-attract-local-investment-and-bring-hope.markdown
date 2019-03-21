@@ -22,8 +22,8 @@ assets:
   name: Devs----NDPI-3
 tags:
 - economic-growth
-- Innovation
-- energy-and-resources
+- innovation
+- environment-and-energy
 - fragile-states
 - sustainable-business
 thumbnail-image: /uploads/Devs----NDPI-5.jpg

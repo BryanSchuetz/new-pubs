@@ -13,7 +13,7 @@
       {% include header.html %}
         <div class="page-content">
             <h1 class="page-title masthead-title {{page.publication | slugify}}">{%- if page.publication == 'Developments' -%}
-              <a class="without-style site-title pub-title" href="/developments">{{page.publication | upcase }}</a>{%- else -%}{{page.publication | upcase }}{%-endif-%}</h1>
+              <a class="without-style site-title pub-title" href="/developments">{{page.publication | upcase }}</a>{%- elsif page.publication == 'Developing Alternatives' -%}<a class="without-style site-title pub-title" href="/developing-alternatives">{{page.publication | upcase }}</a>{%-endif-%}</h1>
           <div class="wrapper">
             {{ content }}
           </div>
@@ -34,7 +34,7 @@
           <ul>
             <li><button data-filter=".digital-acceleration" class="without-style more-button tag-filter">Digital Acceleration</button></li>
             <li><button data-filter=".economic-growth" class="without-style more-button tag-filter">Economic Growth</button></li>
-            <li><button data-filter=".environment-energy" class="without-style more-button tag-filter">Environment & Energy</button></li>
+            <li><button data-filter=".environment-and-energy" class="without-style more-button tag-filter">Environment & Energy</button></li>
             <li><button data-filter=".fragile-states" class="without-style more-button tag-filter">Fragile States</button></li>
             <li><button data-filter=".global-health" class="without-style more-button tag-filter">Global Health</button></li>
             <li><button data-filter=".governance" class="without-style more-button tag-filter">Governance</button></li>

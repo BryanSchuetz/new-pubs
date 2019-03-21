@@ -12,8 +12,8 @@ assets:
   name: LIFT 1-1
 tags:
 - governance
-- Land rights
-- value chain and market systems development
+- land
+- market-systems-development
 thumbnail-image: /uploads/LIFT%201-1.jpg
 social-image: /uploads/LIFT%201-1.jpg
 ---

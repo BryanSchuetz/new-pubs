@@ -12,7 +12,7 @@ assets:
 - path: "/uploads/ha1.jpg"
 tags:
 - economic-growth
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/ha1.jpg
 social-image: /uploads/ha1.jpg

@@ -14,7 +14,7 @@ assets:
 - path: "/uploads/Devs----SERVIR-Bolden.jpg"
   name: Devs----SERVIR-Bolden
 tags:
-- environment-energy
+- environment-and-energy
 - digital-acceleration
 thumbnail-image: /uploads/Devs----SERVIR-Nepal----.jpg
 social-image: /uploads/Devs----SERVIR-Nepal----.jpg

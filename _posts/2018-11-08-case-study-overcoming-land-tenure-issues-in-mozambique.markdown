@@ -18,8 +18,8 @@ assets:
 - path: "/uploads/seed store.jpg"
   name: seed store
 tags:
-- Land rights
-- value chain and market systems development
+- land
+- market-systems-development
 thumbnail-image: /uploads/seed%20store.jpg
 social-image: /uploads/seed%20store.jpg
 ---

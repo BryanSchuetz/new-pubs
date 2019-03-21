@@ -14,7 +14,7 @@ assets:
 - path: "/uploads/ideas5.jpg"
 tags:
 - economic-growth
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/ideas4.jpg
 social-image: /uploads/ideas4.jpg

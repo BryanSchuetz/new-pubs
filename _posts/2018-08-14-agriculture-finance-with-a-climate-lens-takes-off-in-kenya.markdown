@@ -21,8 +21,7 @@ assets:
   author?: 'Yes'
 tags:
 - agriculture
-- climate change
-- environment-energy
+- environment-and-energy
 - finance
 thumbnail-image: /uploads/Working%20biogas%20unit.jpg
 social-image: /uploads/Working%20biogas%20unit.jpg

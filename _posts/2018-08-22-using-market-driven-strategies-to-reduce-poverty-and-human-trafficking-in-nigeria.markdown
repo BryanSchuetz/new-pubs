@@ -23,9 +23,8 @@ assets:
 - path: "/uploads/Dr.-Joe-Abah-3.jpg"
   author?: 'yes'
 tags:
-- Nigeria
 - economic-growth
-- value chain and market systems development
+- market-systems-development
 thumbnail-image: /uploads/MADE_article_2-1.jpg
 social-image: /uploads/MADE_article_2-1.jpg
 ---

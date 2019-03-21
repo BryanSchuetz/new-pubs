@@ -28,7 +28,7 @@ assets:
   name: Devs----IUWASH-pic-4
 tags:
 - global-health
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/Devs----IUWASH-4.jpg
 social-image: /uploads/Devs----IUWASH-4.jpg
 ---

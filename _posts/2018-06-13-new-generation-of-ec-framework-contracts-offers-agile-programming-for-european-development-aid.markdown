@@ -16,10 +16,9 @@ assets:
   author?: 'Yes'
 tags:
 - economic-growth
-- environment-energy
+- environment-and-energy
 - governance
-- DAI
-- European Commission
+- dai
 thumbnail-image: /uploads/Estonia-1.jpg
 social-image: /uploads/Estonia-1.jpg
 ---

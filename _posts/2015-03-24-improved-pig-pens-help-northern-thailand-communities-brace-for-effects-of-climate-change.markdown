@@ -12,7 +12,7 @@ assets:
   author?: 'yes'
 tags:
 - agriculture
-- environment-energy
+- environment-and-energy
 thumbnail-image:
 social-image:
 ---

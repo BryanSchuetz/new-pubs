@@ -19,7 +19,7 @@ assets:
   name: DEVS-SPEED-Rosario-pic
 tags:
 - economic-growth
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/Devs-SPEED-pic-1.jpg
 social-image: /uploads/Devs-SPEED-pic-1.jpg

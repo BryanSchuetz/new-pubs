@@ -18,7 +18,7 @@ assets:
 - path: "/uploads/Devs----water-1.jpg"
   name: Devs----water-1
 tags:
-- environment-energy
+- environment-and-energy
 - global-health
 thumbnail-image: /uploads/Devs----water-2.jpg
 social-image: /uploads/Devs----water-2.jpg

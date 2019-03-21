@@ -15,7 +15,7 @@ assets:
 - path: "/uploads/conservation2.jpg"
 tags:
 - economic-growth
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/conservation.jpg
 social-image: /uploads/conservation.jpg
 ---

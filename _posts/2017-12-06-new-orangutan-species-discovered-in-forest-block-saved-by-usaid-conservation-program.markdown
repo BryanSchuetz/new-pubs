@@ -25,7 +25,7 @@ assets:
 - path: "/uploads/Devs----Kevin-Carlucci-mug.jpg"
   author?: 'yes'
 tags:
-- environment-energy
+- environment-and-energy
 - governance
 thumbnail-image: /uploads/Devs----OCSP-4-closeup.jpg
 social-image: /uploads/Devs----OCSP-4-closeup.jpg

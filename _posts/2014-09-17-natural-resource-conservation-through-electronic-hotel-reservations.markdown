@@ -10,7 +10,7 @@ assets:
 - path: "/uploads/gabriel.jpg"
 - path: "/uploads/planturismo.jpg"
 tags:
-- environment-energy
+- environment-and-energy
 - economic-growth
 thumbnail-image: /uploads/planturismo.jpg
 social-image: /uploads/planturismo.jpg

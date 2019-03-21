@@ -16,10 +16,10 @@ assets:
 - path: "/uploads/nephas copy.png"
   author?: 'yes'
 tags:
-- Land rights
-- value chain and market systems development
-thumbnail-image:
-social-image:
+- land
+- market-systems-development
+thumbnail-image: /uploads/m4p.jpg
+social-image: /uploads/m4p.jpg
 ---
 
 What is a land title worth? The prevailing assumption in development circles is that helping smallholders acquire formal title to the land they farm will help them integrate into formal economic channels, invest more in their property, and access loan financing. But in practice most land titling programs have focused on the process of delivering titles and left the assumption of economic benefits as exactly that—an assumption. 

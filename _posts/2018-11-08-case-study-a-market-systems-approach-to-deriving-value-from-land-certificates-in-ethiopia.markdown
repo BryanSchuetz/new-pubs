@@ -19,8 +19,8 @@ assets:
 - path: "/uploads/nephas copy-1.png"
   author?: 'yes'
 tags:
-- Land rights
-- value chain and market systems development
+- land
+- market-systems-development
 thumbnail-image: /uploads/bare.jpg
 social-image: /uploads/bare.jpg
 ---

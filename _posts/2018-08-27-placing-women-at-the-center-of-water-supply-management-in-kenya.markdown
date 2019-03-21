@@ -24,7 +24,7 @@ assets:
 - path: "/uploads/Devs----KIWASH-Women-2.jpg"
   name: Devs----KIWASH-Women-2
 tags:
-- environment-energy
+- environment-and-energy
 - global-health
 - economic-growth
 thumbnail-image: /uploads/Devs----KIWASH-Women-4.jpg

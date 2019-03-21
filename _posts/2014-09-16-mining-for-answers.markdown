@@ -15,7 +15,7 @@ assets:
 - path: "/uploads/mining-3.jpg"
 tags:
 - economic-growth
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/mining-2.jpg
 social-image: /uploads/mining-2.jpg

@@ -12,7 +12,7 @@ assets:
   author?: 'yes'
 - path: "/uploads/chart.jpg"
 tags:
-- leadership
+- dai
 thumbnail-image: /uploads/chart.jpg
 social-image: /uploads/chart.jpg
 ---

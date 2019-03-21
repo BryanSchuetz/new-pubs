@@ -16,7 +16,7 @@ assets:
 - path: "/uploads/pic2.jpg"
 tags:
 - economic-growth
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/pic1.jpg
 social-image: /uploads/pic1.jpg
 ---

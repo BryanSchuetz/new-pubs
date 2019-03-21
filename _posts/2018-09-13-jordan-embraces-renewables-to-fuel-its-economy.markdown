@@ -25,8 +25,7 @@ assets:
   name: 1. USAID JCP Competitiveness Brief - Building a New Electric Vehicle Industry
     - FINAL (Branded)[1]
 tags:
-- environment-energy
-- renewables
+- environment-and-energy
 - economic-growth
 thumbnail-image: /uploads/Devs----Jordan-Energy-1.jpg
 social-image: /uploads/Devs----Jordan-Energy-1.jpg

@@ -35,7 +35,7 @@ assets:
   author?: 'yes'
 tags:
 - resilience
-- environment-energy
+- environment-and-energy
 - agriculture
 thumbnail-image: /uploads/Devs----Mekong-ARCC-closedown-4.jpg
 social-image: /uploads/Devs----Mekong-ARCC-closedown-4.jpg

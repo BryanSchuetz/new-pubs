@@ -26,7 +26,7 @@ assets:
 - path: "/uploads/ID (1).jpg"
   name: ID (1)
 tags:
-- Land
+- land
 - governance
 thumbnail-image: /uploads/DSCN0568.JPG
 social-image: /uploads/DSCN0568.JPG

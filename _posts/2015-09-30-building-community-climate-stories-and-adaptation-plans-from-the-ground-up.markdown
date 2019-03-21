@@ -30,7 +30,7 @@ assets:
 - path: "/uploads/Devs----Paul-Hartman.jpg"
   author?: 'yes'
 tags:
-- environment-energy
+- environment-and-energy
 - resilience
 thumbnail-image: /uploads/Devs----Mekong-ARCC-pic-6.jpg
 social-image: /uploads/Devs----Mekong-ARCC-pic-6.jpg

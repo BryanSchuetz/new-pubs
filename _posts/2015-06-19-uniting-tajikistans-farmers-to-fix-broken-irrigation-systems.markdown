@@ -23,7 +23,7 @@ assets:
 tags:
 - economic-growth
 - agriculture
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/Tajik-FFP-4.jpg
 social-image: /uploads/Tajik-FFP-4.jpg
 ---

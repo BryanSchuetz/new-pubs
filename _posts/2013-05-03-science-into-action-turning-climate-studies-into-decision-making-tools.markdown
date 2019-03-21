@@ -12,7 +12,7 @@ assets:
 - path: "/uploads/zone-chart.jpg"
 - path: "/uploads/rainfall.jpg"
 tags:
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/hotspotmap.jpg
 social-image: /uploads/hotspotmap.jpg
 ---

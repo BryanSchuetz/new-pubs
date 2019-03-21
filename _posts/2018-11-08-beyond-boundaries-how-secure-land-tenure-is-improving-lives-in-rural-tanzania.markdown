@@ -21,7 +21,7 @@ assets:
   name: Devs----Brian-McMahon-mug-(1)-1
   author?: 'yes'
 tags:
-- Land rights
+- land
 - economic-growth
 - gender
 thumbnail-image: /uploads/parasurveyor.jpg

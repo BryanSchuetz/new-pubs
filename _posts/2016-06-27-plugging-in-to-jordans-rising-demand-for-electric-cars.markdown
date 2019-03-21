@@ -25,7 +25,7 @@ assets:
 - path: "/uploads/Devs----Shada-El-Sharif-mug.jpg"
   author?: 'yes'
 tags:
-- environment-energy
+- environment-and-energy
 - governance
 thumbnail-image: /uploads/Devs----JCP-cars-8.jpg
 social-image: /uploads/Devs----JCP-cars-8.jpg

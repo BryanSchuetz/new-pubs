@@ -16,7 +16,7 @@ tags:
 - innovation
 - economic-growth
 - governance
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/Devs----NDPI-side-1.jpg
 social-image: /uploads/Devs----NDPI-side-1.jpg

@@ -13,7 +13,7 @@ assets:
   name: pubs-author-4
   author?: 'yes'
 tags:
-- Innovation
+- innovation
 thumbnail-image: /uploads/pubs-story-10.jpg
 social-image: /uploads/pubs-story-10.jpg
 ---

@@ -18,7 +18,7 @@ assets:
 tags:
 - economic-growth
 - governance
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/DAIdeas-Emily-Foster-3.jpg
 social-image: /uploads/DAIdeas-Emily-Foster-3.jpg

@@ -14,7 +14,7 @@ assets:
 - path: "/uploads/city-1.jpg"
 tags:
 - resilience
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/city.jpg
 social-image: /uploads/city.jpg
 ---

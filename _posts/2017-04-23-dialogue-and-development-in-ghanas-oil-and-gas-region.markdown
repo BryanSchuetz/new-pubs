@@ -20,7 +20,7 @@ assets:
 tags:
 - land
 - governance
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image: /uploads/Ghana%20DevAlts.jpg
 social-image: /uploads/Ghana%20DevAlts.jpg

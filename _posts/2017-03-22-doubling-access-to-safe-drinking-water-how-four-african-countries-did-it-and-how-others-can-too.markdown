@@ -21,7 +21,7 @@ assets:
   author?: 'yes'
 tags:
 - governance
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/Devs----Rapier-Water-pic-3.jpg
 social-image: /uploads/Devs----Rapier-Water-pic-3.jpg
 ---

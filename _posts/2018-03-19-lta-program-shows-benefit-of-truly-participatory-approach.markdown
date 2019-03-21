@@ -14,7 +14,7 @@ assets:
 tags:
 - land
 - governance
-- Land rights
+- land
 thumbnail-image: /uploads/DSCN8551.JPG
 social-image: /uploads/DSCN8551.JPG
 ---

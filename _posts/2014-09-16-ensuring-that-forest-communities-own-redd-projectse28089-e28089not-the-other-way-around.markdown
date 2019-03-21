@@ -13,7 +13,7 @@ assets:
   author?: 'yes'
 - path: "/uploads/redd.jpg"
 tags:
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/redd.jpg
 social-image: /uploads/redd.jpg
 ---

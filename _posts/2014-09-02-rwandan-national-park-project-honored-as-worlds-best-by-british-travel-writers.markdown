@@ -13,7 +13,7 @@ assets:
   name: seyler
   author?: 'yes'
 tags:
-- environment-energy
+- environment-and-energy
 - economic-growth
 thumbnail-image: /uploads/park.jpg
 social-image: /uploads/park.jpg

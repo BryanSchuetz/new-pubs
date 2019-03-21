@@ -12,7 +12,7 @@ assets:
 - path: "/uploads/Warwick-Strong-devs-pic.jpg"
   author?: 'yes'
 tags:
-- energy-and-resources
+- environment-and-energy
 - sustainable-business
 thumbnail-image:
 social-image:

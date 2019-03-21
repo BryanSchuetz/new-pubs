@@ -21,7 +21,7 @@ assets:
 tags:
 - economic-growth
 - finance
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/PolSEFF_award.jpg
 social-image: /uploads/PolSEFF_award.jpg
 ---

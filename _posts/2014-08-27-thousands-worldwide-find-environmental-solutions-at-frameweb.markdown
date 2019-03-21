@@ -12,7 +12,7 @@ assets:
   author?: 'yes'
 - path: "/uploads/fw1.jpg"
 tags:
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/fw1.jpg
 social-image: /uploads/fw1.jpg
 ---

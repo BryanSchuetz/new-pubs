@@ -8,7 +8,7 @@ author: Peter Reiss
 featured?: 
 tags:
 - stability
-- environment-energy
+- environment-and-energy
 thumbnail-image: /uploads/IraqIMRP.jpg
 social-image: /uploads/IraqIMRP.jpg
 ---
