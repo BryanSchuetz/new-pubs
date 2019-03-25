@@ -1,6 +1,8 @@
 ---
 title: Collaboration is Essential to Improving Maternal and Newborn Health in Indonesia
-date: 2018-08-17 14:45:00 Z
+date: 2018-08-17 10:45:00 -04:00
+tags:
+- global-health
 publication: Developments
 issue: Fall 2018
 author-bio: "[Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks)
@@ -15,10 +17,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/ibubayi.jpg"
   name: ibubayi
-tags:
-- global-health
-thumbnail-image: /uploads/ibubayi.jpg
-social-image: /uploads/ibubayi.jpg
+thumbnail-image: "/uploads/ibubayi.jpg"
+social-image: "/uploads/ibubayi.jpg"
 ---
 
 *This opinion piece was first published in the [Jakarta Post](http://www.thejakartapost.com/) on August 15, 2018.* 

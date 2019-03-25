@@ -1,7 +1,9 @@
 ---
 title: 'Bottom-Up Decentralization: New Local Autonomy Kickstarts Community Governing
   in the DRC'
-date: 2014-09-16 17:55:00 Z
+date: 2014-09-16 13:55:00 -04:00
+tags:
+- governance
 publication: Developments
 author: Richard Martin
 issue: Summer 2013
@@ -10,10 +12,8 @@ author-bio: "**Richard Martin** served as the Decentralization Advisor to the Pr
 assets:
 - path: "/uploads/congoinner.jpg"
 - path: "/uploads/map.jpg"
-tags:
-- governance
-thumbnail-image: /uploads/congoinner.jpg
-social-image: /uploads/congoinner.jpg
+thumbnail-image: "/uploads/congoinner.jpg"
+social-image: "/uploads/congoinner.jpg"
 ---
 
 <p>When the new constitution for the Democratic Republic of the Congo (DRC) was written, its main aim was to resolve the conflicts between warring factions that had brought the country to its knees. In the peace talks of 2002 and 2003, convened to assuage the demands of multiple interest and ethnic groups, it was agreed that the DRC would adopt something approaching a federal model. Each province would have its own government, elected assembly, revenue-raising powers, and a governor appointed by the provincial assembly. The existing 11 provinces were to be subdivided to make 26. These agreements were all incorporated in the final constitution of 2006.</p>

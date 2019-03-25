@@ -1,7 +1,11 @@
 ---
 title: DFID Programme Helps Establish Business Equipment Leasing in Sub-Saharan Africa’s
   Largest Country
-date: 2018-07-25 22:52:00 Z
+date: 2018-07-25 18:52:00 -04:00
+tags:
+- economic-growth
+- finance
+- sustainable-business
 publication: Developments
 issue: Fall 2018
 author-bio: Bertrand Moulin, left, is the Essor Access to Finance Workstream Lead;
@@ -19,12 +23,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Stephen-Strauss-mug.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- finance
-- sustainable-business
-thumbnail-image: /uploads/Ddvs----Essor-2-1.jpg%20%20
-social-image: /uploads/Ddvs----Essor-2-1.jpg
+thumbnail-image: "/uploads/Ddvs----Essor-2-1.jpg%20%20"
+social-image: "/uploads/Ddvs----Essor-2-1.jpg"
 ---
 
 Leasing equipment—instead of finding the cash to buy it—is fundamental to the growth of small and growing businesses, yet small-business owners in Sub-Saharan Africa’s largest nation have been unable to do so, because the regulatory framework that underpins leasing transactions didn’t exist. Until now.

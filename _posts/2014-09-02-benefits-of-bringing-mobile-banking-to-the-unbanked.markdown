@@ -1,6 +1,8 @@
 ---
 title: Benefits of Bringing Mobile Banking to the Unbanked
-date: 2014-09-02 18:11:00 Z
+date: 2014-09-02 14:11:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Brigit Helms
 issue: Financial Inclusion
@@ -12,11 +14,9 @@ assets:
   author?: 'yes'
 - path: "/uploads/whiteafrican-2.jpg"
 - path: "/uploads/nicholbrummer.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/nicholbrummer.jpg%20
-social-image: /uploads/nicholbrummer.jpg
----  
+thumbnail-image: "/uploads/nicholbrummer.jpg%20"
+social-image: "/uploads/nicholbrummer.jpg"
+---
 
 <p>There is no doubting the growth in popularity of mobile banking. According to Juniper Research, the market for mobile payments is expected to reach more than $600 billon (£393 billion) globally this year–double the figure of February 2011. And many development organisations are riding that telecom wave to reach people who don't have access to financial institutions. </p>
 

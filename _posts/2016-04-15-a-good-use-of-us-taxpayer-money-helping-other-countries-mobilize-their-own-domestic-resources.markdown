@@ -1,6 +1,10 @@
 ---
 title: 'A Good Use of U.S. Taxpayer Money: Helping Countries Mobilize Domestic Resources'
-date: 2016-04-15 15:52:00 Z
+date: 2016-04-15 11:52:00 -04:00
+tags:
+- governance
+- economic-growth
+- public-financial-management
 publication: Developments
 issue: Summer 2016
 author-bio: "[Stephen Carpenter](http://dai.com/who-we-are/our-team/stephen-carpenter)
@@ -17,12 +21,8 @@ assets:
 - path: "/uploads/stephen.jpg"
   name: stephen
   author?: 'yes'
-tags:
-- governance
-- economic-growth
-- public-financial-management
-thumbnail-image: /uploads/taxes_2.jpg
-social-image: /uploads/taxes_2.jpg
+thumbnail-image: "/uploads/taxes_2.jpg"
+social-image: "/uploads/taxes_2.jpg"
 ---
 
 Tax Day—April 18 this year in the United States—is a day that sparks controversy for many constituencies. For tax opponents, it is a reminder of the burdens borne by the taxpayer. For foreign aid skeptics, it is an opportunity to bemoan the sums spent on international development. For aid advocates, it is a moment to point out how tiny those sums are in the big picture of government expenditures.

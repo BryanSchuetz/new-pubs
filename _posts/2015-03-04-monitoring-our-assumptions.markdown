@@ -1,6 +1,9 @@
 ---
 title: Monitoring Our Assumptions
-date: 2015-03-04 09:00:00 Z
+date: 2015-03-04 04:00:00 -05:00
+tags:
+- economic-growth
+- environment-and-energy
 publication: Developments
 issue: Spring 2015
 author-bio: "[Daniel Ticehurst](http://dai.com/who-we-are/our-team/daniel-ticehurst)
@@ -14,11 +17,8 @@ assets:
   name: ticehurst
   author?: 'yes'
 - path: "/uploads/pic2.jpg"
-tags:
-- economic-growth
-- environment-and-energy
-thumbnail-image: /uploads/pic1.jpg
-social-image: /uploads/pic1.jpg
+thumbnail-image: "/uploads/pic1.jpg"
+social-image: "/uploads/pic1.jpg"
 ---
 
 For many of the world’s poor, usable land is in short supply. In Africa, for example, more than 90 percent of rural land is undocumented and vulnerable to land-grabbing and expropriation. This leaves smallholder farmers and pastoralists—people trying to eke out an existence—vulnerable, especially in countries where land governance is weak.

@@ -1,6 +1,8 @@
 ---
 title: 'Market Systems Development: A Primer on Pro-Poor Programming'
-date: 2015-07-13 15:58:00 Z
+date: 2015-07-13 11:58:00 -04:00
+tags:
+- economic-growth
 publication: DAIdeas
 issue: 
 author-bio: "[Bill Grant](http://dai.com/who-we-are/our-team/bill-grant) is DAI's
@@ -19,10 +21,8 @@ assets:
 - path: "/uploads/newbilly-3.jpg"
   name: newbilly-3
   author?: 'yes'
-tags:
-- economic-growth
-thumbnail-image: /uploads/context.jpg
-social-image: /uploads/context.jpg
+thumbnail-image: "/uploads/context.jpg"
+social-image: "/uploads/context.jpg"
 ---
 
 *Ending extreme poverty*. The goal could hardly be more ambitious—or more challenging. International donors have rallied around it, and are united in their belief that broad-based economic growth is essential to achieving their vision. The key, though, is that term “broad-based.” How do we ensure that economic growth programming is benefitting the very poor? And at a scale that really makes a difference? Increasingly, the answer lies in an approach called market systems development.

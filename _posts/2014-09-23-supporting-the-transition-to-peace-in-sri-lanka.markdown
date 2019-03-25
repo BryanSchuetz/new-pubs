@@ -1,6 +1,8 @@
 ---
 title: Supporting the Transition to Peace in Sri Lanka
-date: 2014-09-23 13:13:00 Z
+date: 2014-09-23 09:13:00 -04:00
+tags:
+- governance
 publication: Developments
 issue: Summer 2014
 author-bio: "**Christy Martins** was a Deputy Chief of Party for RISEN in its final
@@ -10,10 +12,8 @@ author: Christy Martins and Keith Doxtater
 featured?: 
 assets:
 - path: "/uploads/sri_lanka.jpg"
-tags:
-- governance
-thumbnail-image: /uploads/sri_lanka.jpg
-social-image: /uploads/sri_lanka.jpg
+thumbnail-image: "/uploads/sri_lanka.jpg"
+social-image: "/uploads/sri_lanka.jpg"
 ---
 
 <p>When armed conflict in eastern Sri Lanka ended in 2007, the Government of Sri Lanka was afforded an opportunity to begin repairing the damage. Two years later when the government captured the last-remaining stronghold of the Liberation Tigers of Tamil Eelam in the north, the 26-year civil war finally ended, promising better days ahead and the hope for lasting peace. Shortly thereafter, the U.S. Agency for International Development (USAID) launched the Reintegration and Stabilization in the East (RISE) project to prepare communities in the most conflict-affected areas in the east for the changes peace would bring, including the eventual reintegration of former combatants back into their villages.  </p>

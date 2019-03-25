@@ -1,6 +1,9 @@
 ---
 title: Feed the Future Project Builds Freekeh Industry in Lebanon
-date: 2016-01-24 19:06:00 Z
+date: 2016-01-24 14:06:00 -05:00
+tags:
+- agriculture
+- gender
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Manager at DAI and a former
@@ -10,11 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs.jpg"
   author?: 'yes'
-tags:
-- agriculture
-- gender
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 Quinoa can be hard to pronounce but has won the hearts of health-conscious consumers in international food markets. Supporters hope one day to say the same for the middle-eastern grain, freekeh. This ancient whole grain is made from green wheat that is then roasted. In foodie circles, it is gaining in popularity alongside millet, farro, and [others][1].

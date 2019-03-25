@@ -1,6 +1,9 @@
 ---
 title: Will Feminized Parliaments Mean More Gender-Friendly Policies?
-date: 2019-02-13 20:41:00 Z
+date: 2019-02-13 15:41:00 -05:00
+tags:
+- gender
+- governance
 publication: Developments
 issue: 
 author-bio: "[Carmen Lane Conley](https://www.dai.com/who-we-are/our-team/carmen-conley)
@@ -16,11 +19,8 @@ assets:
   name: Devs----Carmen-Conley-2
 - path: "/uploads/Devs----Carmen-Parliament-3.jpg"
   name: Devs----Carmen-Parliament-3
-tags:
-- gender
-- governance
-thumbnail-image: /uploads/Devs----Carmen-Parliament-3.jpg
-social-image: /uploads/Devs----Carmen-Parliament-3.jpg
+thumbnail-image: "/uploads/Devs----Carmen-Parliament-3.jpg"
+social-image: "/uploads/Devs----Carmen-Parliament-3.jpg"
 ---
 
 On January 3, 2019, a new U.S. House of Representatives was sworn in with 102 women members—a record number for the United States. All told, 127 women are serving between House and Senate, a 20 percent increase in the number of women over the previous Congress.

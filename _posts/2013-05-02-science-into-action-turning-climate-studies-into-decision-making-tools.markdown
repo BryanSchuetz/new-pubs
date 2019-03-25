@@ -1,6 +1,8 @@
 ---
 title: 'Science into Action: Turning Climate Studies into Decision-Making Tools'
-date: 2013-05-03 00:00:00 Z
+date: 2013-05-02 20:00:00 -04:00
+tags:
+- environment-and-energy
 publication: DAIdeas
 author: Kevin Carlucci and Del McCluskey
 issue: 
@@ -11,10 +13,8 @@ assets:
 - path: "/uploads/hotspotmap.jpg"
 - path: "/uploads/zone-chart.jpg"
 - path: "/uploads/rainfall.jpg"
-tags:
-- environment-and-energy
-thumbnail-image: /uploads/hotspotmap.jpg
-social-image: /uploads/hotspotmap.jpg
+thumbnail-image: "/uploads/hotspotmap.jpg"
+social-image: "/uploads/hotspotmap.jpg"
 ---
 
 <p>Awareness of our changing climate has steadily grown over the past decade, but its impacts are viewed as intermittent and fleeting: a big flood or the doubling of the price of rice. News reports and climate change studies suggest widespread threats to our health and socioeconomic wellbeing, but often fail to explain how to adapt to the nuances of a shifting climate. </p>

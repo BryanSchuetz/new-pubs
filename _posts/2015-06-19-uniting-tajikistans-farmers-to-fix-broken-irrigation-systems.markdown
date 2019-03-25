@@ -1,6 +1,10 @@
 ---
 title: Uniting Tajikistan’s Farmers to Fix Broken Irrigation Systems
-date: 2015-06-19 14:13:00 Z
+date: 2015-06-19 10:13:00 -04:00
+tags:
+- economic-growth
+- agriculture
+- environment-and-energy
 publication: Developments
 issue: Summer 2015
 author-bio: James Campbell served as Chief of Party for DAI on the USAID Family Farming
@@ -20,12 +24,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs-Tajik-Karchner-pic-2.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-- environment-and-energy
-thumbnail-image: /uploads/Tajik-FFP-4.jpg
-social-image: /uploads/Tajik-FFP-4.jpg
+thumbnail-image: "/uploads/Tajik-FFP-4.jpg"
+social-image: "/uploads/Tajik-FFP-4.jpg"
 ---
 
 Tajikistan’s rugged alpine mountain ranges hold many glaciers; these feed hundreds of streams that flow down to the fertile river valleys, where many people work on farms. Despite this pretty picture, Tajikistan is severely food challenged. The poorest country in Central Asia, Tajikistan imports more than half its food. Many of its most vulnerable families go all day without eating.

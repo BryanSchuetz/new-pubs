@@ -1,6 +1,10 @@
 ---
 title: Helping a South African Mining Giant Invest for Results in its Local Communities
-date: 2014-08-27 14:54:00 Z
+date: 2014-08-27 10:54:00 -04:00
+tags:
+- economic-growth
+- environment-and-energy
+- sustainable-business
 publication: Developments
 author: Sagay Moodliar
 issue: Summer 2012
@@ -10,12 +14,8 @@ assets:
   name: moodilar
   author?: 'yes'
 - path: "/uploads/ha1.jpg"
-tags:
-- economic-growth
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/ha1.jpg
-social-image: /uploads/ha1.jpg
+thumbnail-image: "/uploads/ha1.jpg"
+social-image: "/uploads/ha1.jpg"
 ---
 
 <p>The Sishen Iron Ore Company Community Development Trust faced a fabulous opportunity—and a daunting challenge. A beneficiary of mining giant Anglo American’s Kumba Iron Ore Company, the trust recently came into a sooner-than-expected windfall of dividend income. This annuity could continue for 20 years or more, depending on the life of the company assets, efficient operation of the mine, and global demand for iron ore.</p>

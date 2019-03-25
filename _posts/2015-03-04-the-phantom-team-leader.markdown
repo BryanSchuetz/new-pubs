@@ -1,6 +1,8 @@
 ---
 title: The Phantom Team Leader
-date: 2015-03-04 07:00:00 Z
+date: 2015-03-04 02:00:00 -05:00
+tags:
+- dai
 publication: Developments
 issue: Spring 2015
 author-bio: Jeson Ingraham is a Senior Manager for Strategic Planning at DAI.
@@ -11,10 +13,8 @@ assets:
   name: pubs-author-8-1
   author?: 'yes'
 - path: "/uploads/chart.jpg"
-tags:
-- dai
-thumbnail-image: /uploads/chart.jpg
-social-image: /uploads/chart.jpg
+thumbnail-image: "/uploads/chart.jpg"
+social-image: "/uploads/chart.jpg"
 ---
 
 Most industry observers believe the leaders of increasingly complex development projects must combine subject matter expertise with strong executive skills—a rare combination. Do the leaders we are searching for exist?

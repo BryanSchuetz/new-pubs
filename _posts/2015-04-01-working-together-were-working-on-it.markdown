@@ -1,6 +1,8 @@
 ---
 title: Working Together? We’re Working On It
-date: 2015-04-01 15:42:00 Z
+date: 2015-04-01 11:42:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: Summer 2015
 author-bio: "**Sarah Helmstadter** manages DAI’s portfolio of U.S. Government-funded
@@ -11,10 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Devs-Helmstadter-pic-1.jpg"
 - path: "/uploads/Devs-Helmstadter-graphic-1.jpg"
-tags:
-- dai
-thumbnail-image: /uploads/Devs-Helmstadter-graphic-1.jpg
-social-image: /uploads/Devs-Helmstadter-graphic-1.jpg
+thumbnail-image: "/uploads/Devs-Helmstadter-graphic-1.jpg"
+social-image: "/uploads/Devs-Helmstadter-graphic-1.jpg"
 ---
 
 For DAI, one of the great advantages of implementing an extensive and diverse group of projects is the opportunity it affords us to learn and collaborate across a multiclient portfolio—to bring insights from U.K Department for International Development (DFID) programming into our U.S. Agency for International Development (USAID) work, for example, and vice versa; or to coordinate mutually beneficial activities that cross project and client lines.

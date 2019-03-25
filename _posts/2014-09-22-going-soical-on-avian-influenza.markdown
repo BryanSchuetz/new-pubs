@@ -1,6 +1,9 @@
 ---
 title: Going Social on Avian Influenza
-date: 2014-09-22 14:38:00 Z
+date: 2014-09-22 10:38:00 -04:00
+tags:
+- digital-acceleration
+- global-health
 publication: Developments
 issue: Summer 2014
 author-bio: "**Maria Busquets** was Chief of Party for the Indonesia SAFE Program."
@@ -11,11 +14,8 @@ assets:
   name: busquets
   author?: 'yes'
 - path: "/uploads/safe-1.jpg"
-tags:
-- digital-acceleration
-- global-health
-thumbnail-image: /uploads/safe-1.jpg
-social-image: /uploads/safe-1.jpg
+thumbnail-image: "/uploads/safe-1.jpg"
+social-image: "/uploads/safe-1.jpg"
 ---
 
 <p>In March 2013, mobile phone subscriptions in Indonesia—a country of approximately 245 million people—topped 285 million. That’s a penetration rate of 117 percent—higher than in China, India, or even Japan. As the cost of phones and service plans dropped, social networks and community media grew enormously, fueled by texting and phone-enabled video.</p>

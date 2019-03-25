@@ -1,6 +1,8 @@
 ---
 title: Great Expectations
-date: 2014-09-02 14:50:00 Z
+date: 2014-09-02 10:50:00 -04:00
+tags:
+- dai
 publication: Developments
 author: Julian Lob-Levyt
 issue: Spring 2013
@@ -11,10 +13,8 @@ assets:
 - path: "/uploads/julian.jpg"
   name: julian
   author?: 'yes'
-tags:
-- dai
-thumbnail-image: /uploads/julian1.jpg
-social-image: /uploads/julian1.jpg
+thumbnail-image: "/uploads/julian1.jpg"
+social-image: "/uploads/julian1.jpg"
 ---
 
 <p>In recent years, DAI has made a conscious recommitment to serve the U.K. Department for International Development (DFID). As a result, after a lot of hard work and significant investment, we are beginning to establish ourselves as one of the department’s leading implementing partners. We currently manage 10 major projects on DFID’s behalf, including education initiatives, governance projects covering the spectrum of work from voice and accountability to security sector and justice reform, and several economic growth assignments in Africa.</p>

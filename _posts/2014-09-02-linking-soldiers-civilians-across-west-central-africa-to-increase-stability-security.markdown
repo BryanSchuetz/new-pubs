@@ -1,7 +1,10 @@
 ---
 title: Linking Soldiers, Civilians Across West-Central Africa to Increase Stability,
   Security
-date: 2014-09-02 15:05:00 Z
+date: 2014-09-02 11:05:00 -04:00
+tags:
+- stability
+- governance
 publication: Developments
 author: David Sardi
 issue: Spring 2013
@@ -12,11 +15,8 @@ assets:
 - path: "/uploads/david.jpg"
   name: david
   author?: 'yes'
-tags:
-- stability
-- governance
-thumbnail-image: /uploads/tss1.jpg
-social-image: /uploads/tss1.jpg
+thumbnail-image: "/uploads/tss1.jpg"
+social-image: "/uploads/tss1.jpg"
 ---
 
 <p>Chad’s desert expanse—nearly twice the size of Texas—presents enormous challenges to its government.</p>

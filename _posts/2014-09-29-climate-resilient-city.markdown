@@ -1,6 +1,9 @@
 ---
 title: The Climate-Resilient City
-date: 2014-09-29 20:21:00 Z
+date: 2014-09-29 16:21:00 -04:00
+tags:
+- resilience
+- environment-and-energy
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "[Zachary Kaplan](http://dai.com/who-we-are/our-team/zach-kaplan) is a
@@ -12,11 +15,8 @@ featured?:
 assets:
 - path: "/uploads/city.jpg"
 - path: "/uploads/city-1.jpg"
-tags:
-- resilience
-- environment-and-energy
-thumbnail-image: /uploads/city.jpg
-social-image: /uploads/city.jpg
+thumbnail-image: "/uploads/city.jpg"
+social-image: "/uploads/city.jpg"
 ---
 
 <p>Using public-private partnerships (PPPs) to develop infrastructure that will enhance urban resilience to climate change is a promising option for countries affected by increasingly intense droughts, severe floods, and other environmental factors. Countries such as Mozambique and Vietnam are now piloting aspects of this approach, but we must address various weaknesses in it if we are to come up with a “climate-smart PPP” program.</p>

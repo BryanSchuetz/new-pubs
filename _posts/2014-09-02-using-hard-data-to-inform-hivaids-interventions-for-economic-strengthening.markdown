@@ -1,6 +1,9 @@
 ---
 title: Using Hard Data to Inform HIV/AIDS Interventions for Economic Strengthening
-date: 2014-09-02 15:08:00 Z
+date: 2014-09-02 11:08:00 -04:00
+tags:
+- digital-acceleration
+- global-health
 publication: Developments
 author: Colleen Green
 issue: Spring 2013
@@ -14,11 +17,8 @@ assets:
 - path: "/uploads/imarisha1.jpg"
 - path: "/uploads/imarisha2.jpg"
 - path: "/uploads/imarisha3.jpg"
-tags:
-- digital-acceleration
-- global-health
-thumbnail-image: /uploads/imarisha1.jpg
-social-image: /uploads/imarisha1.jpg
+thumbnail-image: "/uploads/imarisha1.jpg"
+social-image: "/uploads/imarisha1.jpg"
 ---
 
 <p>In Tanzania, the health and development challenges are chronic and widespread. The country has been hit hard by the HIV/AIDS pandemic, and 15 million people (one third of the population) live below the poverty line, making them particularly vulnerable. While there are no simple solutions to Tanzania’s problems, a household survey implemented by DAI promises to shed new light on interventions to assist these HIV-vulnerable populations.</p>

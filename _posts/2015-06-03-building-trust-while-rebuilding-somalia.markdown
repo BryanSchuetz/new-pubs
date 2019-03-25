@@ -1,6 +1,9 @@
 ---
 title: Building Trust while Rebuilding Somalia
-date: 2015-06-03 17:18:00 Z
+date: 2015-06-03 13:18:00 -04:00
+tags:
+- governance
+- stability
 publication: Developments
 issue: Summer 2015
 author-bio: DAI’s [Vishalini Lawrence](http://dai.com/who-we-are/our-team/vishalini-lawrence)
@@ -15,11 +18,8 @@ assets:
 - path: "/uploads/Devs----Vishalini.jpg"
   name: Devs----Vishalini
   author?: 'yes'
-tags:
-- governance
-- stability
-thumbnail-image: /uploads/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg
-social-image: /uploads/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg
+thumbnail-image: "/uploads/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg"
+social-image: "/uploads/Devs-TIS-Dr.-Ayub-Stadium-Baidoa.jpg"
 ---
 
 Somalia has one of the most insecure, complicated, and harsh operating environments in the world. Much of the country is in ruins, with conflict between rival clans, continued attacks by Al Shabaab, and violent power struggles amplifying humanitarian disasters such as refugee crises, famine, and poverty. In the past two decades, millions of dollars in international aid directed to Somalia has had mixed results, with many Somalis believing that well intentioned assistance has exacerbated conflict and increased corruption.

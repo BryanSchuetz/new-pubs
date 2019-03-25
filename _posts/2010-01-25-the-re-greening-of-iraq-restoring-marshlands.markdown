@@ -1,16 +1,16 @@
 ---
 title: 'The Re-Greening of Iraq: Restoring Marshlands'
-date: 2010-01-25 20:10:00 Z
+date: 2010-01-25 15:10:00 -05:00
+tags:
+- stability
+- environment-and-energy
 publication: Developments
 issue: 
 author-bio: Peter Reiss was Chief of Party of the Iraq Marshlands Restoration Program.
 author: Peter Reiss
 featured?: 
-tags:
-- stability
-- environment-and-energy
-thumbnail-image: /uploads/IraqIMRP.jpg
-social-image: /uploads/IraqIMRP.jpg
+thumbnail-image: "/uploads/IraqIMRP.jpg"
+social-image: "/uploads/IraqIMRP.jpg"
 ---
 
 Driven from their land by a despot bent on retaliation, the Marsh Arabs of Iraq had little choice but to abandon the wetlands that were once home to billions of birds, a source of fish and dairy products for much of the country, and a natural filter for the waters of the Persian Gulf. 

@@ -1,6 +1,8 @@
 ---
 title: In Sub-Saharan Africa, It’s Time to Recognize Customary Land Rights
-date: 2014-09-16 18:22:00 Z
+date: 2014-09-16 14:22:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Steven Lawry
 issue: Summer 2013
@@ -13,10 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/landscapes.jpg"
 - path: "/uploads/chadskeers.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/landscapes.jpg
-social-image: /uploads/landscapes.jpg
+thumbnail-image: "/uploads/landscapes.jpg"
+social-image: "/uploads/landscapes.jpg"
 ---
 
 <p>Delivering on the promises of economic, social, and cultural rights set out in international covenants is difficult for many developing countries given their lack of wealth and high levels of poverty.</p>

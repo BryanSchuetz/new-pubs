@@ -1,6 +1,9 @@
 ---
 title: Philippines’ New Tax Bill Promises More Revenue for Social Programs, Infrastructure
-date: 2018-01-26 20:29:00 Z
+date: 2018-01-26 15:29:00 -05:00
+tags:
+- governance
+- finance
 publication: Developments
 issue: Spring 2018
 author-bio: Brian Oh is a Project Manager at DAI, where he administers a portfolio
@@ -15,9 +18,6 @@ assets:
   author?: 'yes'
 - path: "/uploads/philippines.jpg"
   name: philippines
-tags:
-- governance
-- finance
 thumbnail-image: uploads/philippines.jpg
 social-image: uploads/philippines.jpg
 ---

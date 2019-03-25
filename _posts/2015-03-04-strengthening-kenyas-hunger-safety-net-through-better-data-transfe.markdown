@@ -1,7 +1,10 @@
 ---
 title: Better Data Transfer Reinforces Kenya’s Hunger Safety Net, Enables Emergency
   Payments
-date: 2015-03-04 12:00:00 Z
+date: 2015-03-04 07:00:00 -05:00
+tags:
+- resilience
+- governance
 publication: Developments
 issue: Spring 2015
 author-bio: DAI’s James Naughton is the HSNP2 programme manager.
@@ -11,11 +14,8 @@ assets:
 - path: "/uploads/naughton-pic-1.jpg"
 - path: "/uploads/Naughton-HSNP-screenshot.jpg"
 - path: "/uploads/naughton-pic-2.jpg"
-tags:
-- resilience
-- governance
-thumbnail-image: /uploads/Naughton-HSNP-screenshot.jpg
-social-image: /uploads/Naughton-HSNP-screenshot.jpg
+thumbnail-image: "/uploads/Naughton-HSNP-screenshot.jpg"
+social-image: "/uploads/Naughton-HSNP-screenshot.jpg"
 ---
 
 The traditional pastoralists of northern Kenya are increasingly challenged by the changing climate.

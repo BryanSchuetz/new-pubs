@@ -1,7 +1,10 @@
 ---
 title: 'Case Study: A Market Systems Approach to Deriving Value from Land Certificates
   in Ethiopia'
-date: 2018-11-08 16:26:00 Z
+date: 2018-11-08 11:26:00 -05:00
+tags:
+- land
+- market-systems-development
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: |-
@@ -18,11 +21,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/nephas copy-1.png"
   author?: 'yes'
-tags:
-- land
-- market-systems-development
-thumbnail-image: /uploads/bare.jpg
-social-image: /uploads/bare.jpg
+thumbnail-image: "/uploads/bare.jpg"
+social-image: "/uploads/bare.jpg"
 ---
 
 Funded by the U.K. Department for International Development (DFID), the [Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) project works to raise incomes for poor and vulnerable populations in Ethiopia and to enhance economic growth through second-level land certification and improved rural land administration. 

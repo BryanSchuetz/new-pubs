@@ -1,7 +1,10 @@
 ---
 title: "$93 Million Grain Deal Between East African Countries Demonstrates How the
   Region Can Feed Itself"
-date: 2017-05-04 18:18:00 Z
+date: 2017-05-04 14:18:00 -04:00
+tags:
+- economic-growth
+- agriculture
 publication: Developments
 issue: Summer 2017
 author-bio: Yohannes Assefa leads the agriculture component of the USAID East Africa
@@ -15,11 +18,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----EATIH-grain-2.jpg"
   name: Devs----EATIH-grain-2
-tags:
-- economic-growth
-- agriculture
-thumbnail-image: /uploads/Devs----EATIH-grain-2.jpg
-social-image: /uploads/Devs----EATIH-grain-2.jpg
+thumbnail-image: "/uploads/Devs----EATIH-grain-2.jpg"
+social-image: "/uploads/Devs----EATIH-grain-2.jpg"
 ---
 
 If East Africa grows enough food to feed itself, which it generally does, why are so many of its people going hungry? This question lies at the nexus of two of Africa’s key development challenges—food security and trade—where a recent milestone event may signal a massive change in fortunes for one of the most food insecure regions of the world.

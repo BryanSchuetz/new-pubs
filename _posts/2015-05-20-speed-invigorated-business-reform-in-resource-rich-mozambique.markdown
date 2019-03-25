@@ -1,6 +1,10 @@
 ---
 title: Invigorating Business Reform in Resource-Rich Mozambique
-date: 2015-05-20 18:11:00 Z
+date: 2015-05-20 14:11:00 -04:00
+tags:
+- economic-growth
+- environment-and-energy
+- sustainable-business
 publication: Developments
 issue: Summer 2015
 author-bio: |-
@@ -17,12 +21,8 @@ assets:
   name: SPEED-pic-2
 - path: "/uploads/DEVS-SPEED-Rosario-pic.jpg"
   name: DEVS-SPEED-Rosario-pic
-tags:
-- economic-growth
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/Devs-SPEED-pic-1.jpg
-social-image: /uploads/Devs-SPEED-pic-1.jpg
+thumbnail-image: "/uploads/Devs-SPEED-pic-1.jpg"
+social-image: "/uploads/Devs-SPEED-pic-1.jpg"
 ---
 
 When the Support Program for Economic and Enterprise Development (SPEED) was launched, Mozambique was at a crossroads: it was one of the poorest countries in the world, but about to realize a multibillion-dollar boom from oil and natural gas.

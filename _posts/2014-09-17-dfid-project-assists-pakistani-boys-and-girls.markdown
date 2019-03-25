@@ -1,7 +1,9 @@
 ---
 title: DFID Project Assists Local Groups in Sending Thousands of Pakistani Boys and
   Girls to School
-date: 2014-09-17 15:08:00 Z
+date: 2014-09-17 11:08:00 -04:00
+tags:
+- governance
 publication: Developments
 issue: Winter 2013
 author-bio: "**Saad Hamid** is the Communications Specialist for the DAI-managed Ilm
@@ -13,10 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/dfid-1.jpg"
 - path: "/uploads/dfid-2.jpg"
-tags:
-- governance
-thumbnail-image: /uploads/dfid-1.jpg
-social-image: /uploads/dfid-1.jpg
+thumbnail-image: "/uploads/dfid-1.jpg"
+social-image: "/uploads/dfid-1.jpg"
 ---
 
 <p>In Pakistan, the constitution makes education for all children age 5-16 compulsory and requires that the state provide that education for free. Yet more than 9 million Pakistani boys and girls do not go to school. Even though this crisis feeds unemployment, poverty, and extremism, the Pakistani government is not giving it due attention.</p>

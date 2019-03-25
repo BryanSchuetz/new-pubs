@@ -1,6 +1,9 @@
 ---
 title: How Tax and Budget Assistance Helps Developing Countries Help Themselves
-date: 2017-04-14 15:44:00 Z
+date: 2017-04-14 11:44:00 -04:00
+tags:
+- governance
+- finance
 publication: Developments
 issue: Summer 2017
 author-bio: DAI’s Brian McMahon is a senior communications specialist.
@@ -27,11 +30,8 @@ assets:
   name: billboards
 - path: "/uploads/Liberia laptop.jpg"
   name: Liberia laptop
-tags:
-- governance
-- finance
-thumbnail-image: /uploads/Liberia.jpg
-social-image: /uploads/Liberia.jpg
+thumbnail-image: "/uploads/Liberia.jpg"
+social-image: "/uploads/Liberia.jpg"
 ---
 
 In the United States, April brings warm weather, budding flowers, baseball season and … Tax Day. While not a joyful occasion for most, it is an opportune moment to reaffirm the value of assisting developing countries to improve their tax systems.

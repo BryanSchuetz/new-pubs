@@ -1,7 +1,11 @@
 ---
 title: Improving Livestock Markets to Generate Economic Growth and Resilience in East
   Africa
-date: 2019-02-14 12:41:00 Z
+date: 2019-02-14 07:41:00 -05:00
+tags:
+- agriculture
+- economic-growth
+- trade
 publication: Developments
 issue: 
 author-bio: Yohannes Assefa, left, is director for agriculture and agribusiness of
@@ -22,12 +26,8 @@ assets:
   name: Devs----livestock-1
 - path: "/uploads/Devs----Livestock-9.jpg"
   name: Devs----Livestock-9
-tags:
-- agriculture
-- economic-growth
-- trade
-thumbnail-image: /uploads/Devs----livestock-1.jpg
-social-image: /uploads/Devs----livestock-1.jpg
+thumbnail-image: "/uploads/Devs----livestock-1.jpg"
+social-image: "/uploads/Devs----livestock-1.jpg"
 ---
 
 East Africa's immense livestock resources represent the largest proportion of Africa's livestock population. Many millions of people depend on the sector for food, income, and employment, and it contributes greatly to the region's gross domestic product and foreign currency earnings. Strategically located near the livestock markets of the Arabian Gulf, the East Africa region is Africa's largest exporter of live animals, generating income for producers, traders, and governments.

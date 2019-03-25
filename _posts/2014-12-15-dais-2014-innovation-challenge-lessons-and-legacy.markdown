@@ -1,6 +1,9 @@
 ---
 title: 'DAI’s 2014 Innovation Challenge: Lessons and Legacy'
-date: 2014-12-15 23:24:00 Z
+date: 2014-12-15 18:24:00 -05:00
+tags:
+- innovation
+- dai
 publication: Developments
 issue: Innovation
 author-bio: Betsy Marcotte is a former Group Vice President at DAI.
@@ -12,11 +15,8 @@ assets:
   name: pubs-author
   author?: 'yes'
 - path: "/uploads/pubs-story-1.jpg"
-tags:
-- innovation
-- dai
-thumbnail-image: /uploads/pubs-story.jpg
-social-image: /uploads/pubs-story.jpg
+thumbnail-image: "/uploads/pubs-story.jpg"
+social-image: "/uploads/pubs-story.jpg"
 ---
 
 International development donors are increasingly asking their partners for more than just “good development.” Inspired in part by the example of the information and communications technology sector, they want new thinking and better approaches to address global poverty, poor governance, climate change, environmental degradation, and inadequate health care. They want solutions that are transformative (vs. incremental), scalable, more efficient, and cost-effective. They want, in a word, innovation. 

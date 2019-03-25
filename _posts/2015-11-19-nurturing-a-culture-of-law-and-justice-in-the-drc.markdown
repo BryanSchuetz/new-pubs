@@ -1,6 +1,9 @@
 ---
 title: Nurturing a Culture of Law and Justice in the DRC
-date: 2015-11-19 18:08:00 Z
+date: 2015-11-19 13:08:00 -05:00
+tags:
+- governance
+- stability
 publication: Developments
 issue: Winter 2015
 author-bio: DAI’s Victoria Bullock is a senior project manager based in London.
@@ -19,11 +22,8 @@ assets:
   name: Devs----SSAPR-pic-3
 - path: "/uploads/_Victoria-Bullock-1.jpg"
   author?: 'yes'
-tags:
-- governance
-- stability
-thumbnail-image: /uploads/Devs----SSAPR-4.jpg
-social-image: /uploads/Devs----SSAPR-4.jpg
+thumbnail-image: "/uploads/Devs----SSAPR-4.jpg"
+social-image: "/uploads/Devs----SSAPR-4.jpg"
 ---
 
 Decades of war and political unrest in the Democratic Republic of the Congo (DRC) left a void of law and justice for Congolese citizens. Too often, security and police forces are part of the problem rather than the solution, operating in a culture of impunity and self-enrichment enabled by the absence of judicial and public oversight. Citizens in the DRC have limited understanding of the role of the police as public servants, or of how police and citizens should interact in a democracy.

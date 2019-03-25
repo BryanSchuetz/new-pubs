@@ -1,6 +1,8 @@
 ---
 title: 'Women in Development: Jessica Heinzelman'
-date: 2015-03-20 13:42:00 Z
+date: 2015-03-20 09:42:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: 
 author-bio: "[Jessica Heinzelman](http://dai.com/who-we-are/our-team/jessica-heinzelman)
@@ -13,10 +15,8 @@ assets:
 - path: "/uploads/Devs-Jessica-3"
   name: Devs-Jessica-3
   author?: 'yes'
-tags:
-- dai
-thumbnail-image: /uploads/Devs-Jessica-1-new.jpg
-social-image: /uploads/Devs-Jessica-1-new.jpg
+thumbnail-image: "/uploads/Devs-Jessica-1-new.jpg"
+social-image: "/uploads/Devs-Jessica-1-new.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*

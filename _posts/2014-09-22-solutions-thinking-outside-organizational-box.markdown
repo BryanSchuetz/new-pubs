@@ -1,6 +1,8 @@
 ---
 title: 'DAI Solutions: Thinking Outside the Organizational Box'
-date: 2014-09-22 21:04:00 Z
+date: 2014-09-22 17:04:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: Summer 2014
 author-bio: "[Jim Winkler](http://dai.com/who-we-are/our-team/jim-packard-winkler-0)
@@ -12,10 +14,8 @@ assets:
   name: jim-1
   author?: 'yes'
 - path: "/uploads/jimw.jpg"
-tags:
-- dai
-thumbnail-image: /uploads/jimw.jpg
-social-image: /uploads/jimw.jpg
+thumbnail-image: "/uploads/jimw.jpg"
+social-image: "/uploads/jimw.jpg"
 ---
 
 <p>In January 2013, DAI launched a new corporate structure designed to optimize the firm’s deployment of technical and operational expertise across the world. The restructured organization includes a new Solutions team, led by Jim Packard Winkler and staffed by 40 of the firm’s leading technical specialists. A former Chief of Party for U.S. Agency for International Development (USAID) projects based in Bangkok, Hanoi, Jerusalem, and Zagreb, Jim was tapped to lead Solutions following five years at the helm of the USAID/Vietnam Competitiveness Initiative. Developments asked Jim to discuss the thinking behind Solutions and the lessons learned in its first year or so of work.</p>

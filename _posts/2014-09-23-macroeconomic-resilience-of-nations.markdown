@@ -1,6 +1,9 @@
 ---
 title: The Macroeconomic Resilience of Nations
-date: 2014-09-23 16:28:00 Z
+date: 2014-09-23 12:28:00 -04:00
+tags:
+- resilience
+- economic-growth
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "[Mark Gallagher](http://dai.com/who-we-are/our-team/mark-gallagher) is
@@ -12,11 +15,8 @@ assets:
 - path: "/uploads/macroeconomic.jpg"
 - path: "/uploads/gallagher-1.jpg"
 - path: "/uploads/gallagher-2.jpg"
-tags:
-- resilience
-- economic-growth
-thumbnail-image: /uploads/macroeconomic.jpg
-social-image: /uploads/macroeconomic.jpg
+thumbnail-image: "/uploads/macroeconomic.jpg"
+social-image: "/uploads/macroeconomic.jpg"
 ---
 
 <p>Macroeconomic resilience is a country’s ability to weather economic shocks. This article presents a practical tool—composed of a set of indicators and a means to visualize them—for measuring the macroeconomic resilience of nations. These indicators are based on the widely but loosely used term “fiscal space” and the innovative concept of “monetary space.” <a href="http://dai.com/our-work/projects/worldwide—fiscal-reform-and-economic-governance">The tool helped the U.S. Agency for International Development (USAID) determine which countries needed additional assistance during the financial crisis in 2009</a>, and it has been applied in countries as diverse as Bangladesh, Jordan, Moldova, and Vietnam.</p>

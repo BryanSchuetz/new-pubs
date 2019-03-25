@@ -1,6 +1,9 @@
 ---
 title: Connecting Communities
-date: 2014-09-25 19:19:00 Z
+date: 2014-09-25 15:19:00 -04:00
+tags:
+- resilience
+- governance
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Keith Doxtater** has been a DAI staff member since 2004, he specializes
@@ -12,11 +15,8 @@ assets:
   name: doxtater
   author?: 'yes'
 - path: "/uploads/doxtater-1.jpg"
-tags:
-- resilience
-- governance
-thumbnail-image: /uploads/doxtater-1.jpg
-social-image: /uploads/doxtater-1.jpg
+thumbnail-image: "/uploads/doxtater-1.jpg"
+social-image: "/uploads/doxtater-1.jpg"
 ---
 
 <p>In certain post-conflict environments, resilience can be a double-edged sword &#8212;two Sri Lankan communities show a way forward. In the Batticaloa district of eastern Sri Lanka, citizens on both sides of the decades-long conflict between Tamils and Sinhalese have endured unimaginable horrors: targeted killings, prolonged food shortages, life-altering displacement. The communities that survived these recurrent crises often did so by relying upon the tight bonds and solidarity of their ethnic groups. As a consequence, even as the fragile peace seems to be holding, many communities in the north and east of Sri Lanka still find themselves segregated along ethnic lines — mistrustful and afraid of their neighbors, unable to achieve the security that comes through true reconciliation. For them, resilience has come at the high price of social and economic isolation.</p>

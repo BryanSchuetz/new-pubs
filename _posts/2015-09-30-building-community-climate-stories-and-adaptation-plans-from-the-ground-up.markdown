@@ -1,6 +1,9 @@
 ---
 title: Building Community Climate Stories and Adaptation Plans from the Ground Up
-date: 2015-09-30 18:29:00 Z
+date: 2015-09-30 14:29:00 -04:00
+tags:
+- environment-and-energy
+- resilience
 publication: Developments
 issue: Fall 2015
 author-bio: Shannon Dugan, left, is Deputy Chief of Party and [Paul Hartman](http://dai.com/who-we-are/our-team/paul-hartman)
@@ -29,11 +32,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Paul-Hartman.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- resilience
-thumbnail-image: /uploads/Devs----Mekong-ARCC-pic-6.jpg
-social-image: /uploads/Devs----Mekong-ARCC-pic-6.jpg
+thumbnail-image: "/uploads/Devs----Mekong-ARCC-pic-6.jpg"
+social-image: "/uploads/Devs----Mekong-ARCC-pic-6.jpg"
 ---
 
 A complex web of ecosystems, the Lower Mekong Basin (LMB) is acutely sensitive to climate change. More than 60 million people depend on this vast interconnected system to support their livelihoods. While there is an urgent need for these communities to begin adapting to rising temperatures, heavier precipitation, and more frequent flooding, residents of the Basin—mostly people connected to rice, livestock, and fish farming—do not have the knowledge, tools, or resources to better prepare themselves for the future climate.

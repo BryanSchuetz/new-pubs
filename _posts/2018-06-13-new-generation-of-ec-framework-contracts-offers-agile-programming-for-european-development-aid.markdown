@@ -1,7 +1,12 @@
 ---
 title: New Generation of EC Framework Contracts Offers Agile Programming for European
   Development Aid
-date: 2018-06-13 20:12:00 Z
+date: 2018-06-13 16:12:00 -04:00
+tags:
+- economic-growth
+- environment-and-energy
+- governance
+- dai
 publication: Developments
 issue: Summer 2018
 author-bio: Adam Pierzchala is Director of EC Framework Contracts at DAI.
@@ -14,13 +19,8 @@ assets:
   name: Estonia-1
 - path: "/uploads/AdamP copy.jpg"
   author?: 'Yes'
-tags:
-- economic-growth
-- environment-and-energy
-- governance
-- dai
-thumbnail-image: /uploads/Estonia-1.jpg
-social-image: /uploads/Estonia-1.jpg
+thumbnail-image: "/uploads/Estonia-1.jpg"
+social-image: "/uploads/Estonia-1.jpg"
 ---
 
 We are proud to announce that DAI has once again been named one of the main implementing partners for the European Commission (EC) 2018–2022 Frameworks contracts for international development assistance. 

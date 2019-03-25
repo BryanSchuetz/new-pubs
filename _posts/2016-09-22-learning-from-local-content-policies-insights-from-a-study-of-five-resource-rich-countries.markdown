@@ -1,7 +1,12 @@
 ---
 title: 'Learning From Local Content Policies: Insights From a Study of Six Resource-Rich
   Countries'
-date: 2016-09-22 17:41:00 Z
+date: 2016-09-22 13:41:00 -04:00
+tags:
+- economic-growth
+- governance
+- environment-and-energy
+- sustainable-business
 publication: DAIdeas
 issue: 
 author-bio: "[Emily Foster](http://dai.com/who-we-are/our-team/emily-foster) is an
@@ -15,13 +20,8 @@ assets:
   name: DAIdeas----Emily-pic-1
 - path: "/uploads/DAIdeas-Emily-Foster-3.jpg"
   name: DAIdeas-Emily-Foster-3
-tags:
-- economic-growth
-- governance
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/DAIdeas-Emily-Foster-3.jpg
-social-image: /uploads/DAIdeas-Emily-Foster-3.jpg
+thumbnail-image: "/uploads/DAIdeas-Emily-Foster-3.jpg"
+social-image: "/uploads/DAIdeas-Emily-Foster-3.jpg"
 ---
 
 Since the 1970s, dozens of countries have enacted local content requirements in an effort to translate foreign direct investment, particularly in extractive industries, into local economic development. These policies require multinational companies to source local goods, services, and labor in a wide range of sectors, from civil works to transportation services. Yet the outcomes of these policies have been checkered—some approaches have strengthened local industries while others have been ineffectual or even counterproductive. As local content policies continue to expand in resource-rich countries around the world, policymakers should learn from these experiences when designing their own approaches.

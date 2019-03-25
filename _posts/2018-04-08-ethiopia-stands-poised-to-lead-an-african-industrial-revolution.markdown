@@ -1,6 +1,8 @@
 ---
 title: Ethiopia Stands Poised to Lead an African Industrial Revolution
-date: 2018-04-08 17:23:00 Z
+date: 2018-04-08 13:23:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 issue: Spring 2018
 author-bio: Nebil Kellow is managing director of Enterprise Partners.
@@ -21,10 +23,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Nebil-4.jpg"
   name: Devs----Nebil-4
-tags:
-- economic-growth
-thumbnail-image: /uploads/Devs----Nebil-2.jpg
-social-image: /uploads/Devs----Nebil-2.jpg
+thumbnail-image: "/uploads/Devs----Nebil-2.jpg"
+social-image: "/uploads/Devs----Nebil-2.jpg"
 ---
 
 Just over 100 years ago, Henry Ford and other industrialists revolutionised manufacturing by introducing the assembly line. They built consumer goods at unprecedented scale and cost, creating millions of jobs and bringing down the price of goods to levels that workers could afford. It was so productive that Ford could double the minimum wage and shorten the working day for his workers.

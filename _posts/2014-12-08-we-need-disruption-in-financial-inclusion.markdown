@@ -1,6 +1,9 @@
 ---
 title: We Need Disruption in Financial Inclusion
-date: 2014-12-08 19:15:00 Z
+date: 2014-12-08 14:15:00 -05:00
+tags:
+- innovation
+- economic-growth
 publication: Developments
 issue: Innovation
 author-bio: "[Brigit Helms](http://dai.com/who-we-are/our-team/brigit-helms) is the
@@ -13,11 +16,8 @@ assets:
   name: brigit-3
   author?: 'yes'
 - path: "/uploads/pubs-story-5.jpg"
-tags:
-- innovation
-- economic-growth
-thumbnail-image: /uploads/pubs-story-5.jpg
-social-image: /uploads/pubs-story-5.jpg
+thumbnail-image: "/uploads/pubs-story-5.jpg"
+social-image: "/uploads/pubs-story-5.jpg"
 ---
 
 Microcredit was a business model disruption in the banking sector. Today, to offer the full range of high-quality financial services required by the majority of the world's people, we need to find the next major business model to disrupt microcredit.

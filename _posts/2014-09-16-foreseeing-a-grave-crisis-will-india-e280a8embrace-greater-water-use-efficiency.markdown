@@ -1,6 +1,8 @@
 ---
 title: "Foreseeing a “Grave Crisis,” Will India \LEmbrace Greater Water-Use Efficiency?"
-date: 2014-09-16 16:28:00 Z
+date: 2014-09-16 12:28:00 -04:00
+tags:
+- global-health
 publication: Developments
 author: Walter Weaver
 issue: Summer 2013
@@ -12,10 +14,8 @@ assets:
   name: weaver-1
   author?: 'yes'
 - path: "/uploads/india.jpg"
-tags:
-- global-health
-thumbnail-image: /uploads/india.jpg
-social-image: /uploads/india.jpg
+thumbnail-image: "/uploads/india.jpg"
+social-image: "/uploads/india.jpg"
 ---
 
 <p>Long before any popular environmental movement existed, Mahatma Ghandhi said, “The earth, the air, the land, and the water are not an inheritance from our forefathers but on loan from our children.” Today, India faces many challenges, few of them more fundamental to long-term development than fresh water availability. The centrality of water to human health, agriculture, manufacturing, and ecosystems makes it imperative that India’s decision makers improve the stewardship of water resources.</p>

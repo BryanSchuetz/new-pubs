@@ -1,6 +1,8 @@
 ---
 title: The Case for Supplier Development
-date: 2014-08-27 18:13:00 Z
+date: 2014-08-27 14:13:00 -04:00
+tags:
+- dai
 publication: Developments
 author: Claudia Manning
 issue: Summer 2012
@@ -12,10 +14,8 @@ assets:
 - path: "/uploads/claudia-1.jpg"
   name: claudia-1
   author?: 'yes'
-tags:
-- dai
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 <p>Here in South Africa, the recently approved merger between Walmart and local retailer Massmart has made supplier development a hot topic. Opponents of the merger argue that it will hurt small suppliers by denying them access to the combined company’s supply chain. But the sobering truth is that even before the merger, small companies—particularly black companies—had little chance of penetrating the supply chains of most large South African corporates. International consolidation is a red herring; the more pressing problem is the structural exclusion of nearly 6 million small businesses in the local market.</p>

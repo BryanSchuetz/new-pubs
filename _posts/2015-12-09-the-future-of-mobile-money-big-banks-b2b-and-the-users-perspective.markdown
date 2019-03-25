@@ -1,6 +1,10 @@
 ---
 title: 'The Future of Mobile Money: Traditional Banks, B2B, and the User’s Perspective'
-date: 2015-12-09 19:28:00 Z
+date: 2015-12-09 14:28:00 -05:00
+tags:
+- digital-acceleration
+- innovation
+- economic-growth
 publication: Developments
 issue: Winter 2015
 author-bio: "[John Jepsen](http://dai.com/who-we-are/our-team/john-jepsen) is DAI'S
@@ -22,12 +26,8 @@ assets:
   name: USAID-and-Valenzuela-City-signing
 - path: "/uploads/Jepsen,-John.jpg"
   author?: 'yes'
-tags:
-- digital-acceleration
-- innovation
-- economic-growth
-thumbnail-image: /uploads/Devs----Helms-1.jpg
-social-image: /uploads/Devs----Helms-1.jpg
+thumbnail-image: "/uploads/Devs----Helms-1.jpg"
+social-image: "/uploads/Devs----Helms-1.jpg"
 ---
 
 Brigit Helms, who leads the U.S. Agency for International Development’s [Support Program for Economic and Enterprise Development](http://dai.com/our-work/projects/mozambique%E2%80%94support-program-economic-and-enterprise-development-speed) in Mozambique, is a thought leader on extending financial services to poor households and small businesses in developing countries. Helms recently spoke with John Jepsen, DAI’s Global Practice Leader for Financial Services, about trends and opportunities in digital financial services.

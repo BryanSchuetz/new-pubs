@@ -1,7 +1,9 @@
 ---
 title: Messe Frankfurt’s Purchase of Source Africa Trade Show Exemplifies the Potential
   of Market Systems Development
-date: 2017-09-14 20:32:00 Z
+date: 2017-09-14 16:32:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 issue: Fall 2017
 author-bio: "[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant) is DAI’s
@@ -19,10 +21,8 @@ assets:
   name: Devs----Source-Africa-graphic
 - path: "/uploads/Why Trade Shows May 2015.pdf"
   name: Why Trade Shows May 2015
-tags:
-- economic-growth
-thumbnail-image: /uploads/Devs----Source-Africa-2.jpg
-social-image: /uploads/Devs----Source-Africa-2.jpg
+thumbnail-image: "/uploads/Devs----Source-Africa-2.jpg"
+social-image: "/uploads/Devs----Source-Africa-2.jpg"
 ---
 
 Seven years ago, DAI began implementing the value chain portion of Southern Africa Trade Hub (SATH), a project funded by the U.S. Agency for International Development (USAID). SATH's goal was to promote economic growth by fostering intraregional trade between select member states of the Southern African Development Community (SADC).

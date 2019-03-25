@@ -1,7 +1,11 @@
 ---
 title: National Governments Hold the Key to Sustainable Local Climate Change Adaptation
   in the Mekong Basin
-date: 2016-08-03 14:21:00 Z
+date: 2016-08-03 10:21:00 -04:00
+tags:
+- environment-and-energy
+- governance
+- resilience
 publication: Developments
 issue: 
 author-bio: "[Del McCluskey](http://dai.com/who-we-are/our-team/del-mccluskey), left,
@@ -27,12 +31,8 @@ assets:
   name: Devs----Climate-Finance-4
 - path: "/uploads/Devs----Ornasaran-Manuamorn-mug-.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- governance
-- resilience
-thumbnail-image: /uploads/Devs----Climate-Finance-3.jpg
-social-image: /uploads/Devs----Climate-Finance-3.jpg
+thumbnail-image: "/uploads/Devs----Climate-Finance-3.jpg"
+social-image: "/uploads/Devs----Climate-Finance-3.jpg"
 ---
 
 Over the past few years, farmers in the Lower Mekong Basin have had to change how they win their livelihoods: diversifying crops, reconfiguring livestock husbandry practices, addressing water quality and quantity, even moving their planting schedules. Utilizing local knowledge and experience, these farmers and communities are adapting to the changing climate; they also mark the beginning of a movement.

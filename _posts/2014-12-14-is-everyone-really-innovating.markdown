@@ -1,6 +1,8 @@
 ---
 title: Is Everyone Really Innovating?
-date: 2014-12-14 16:07:00 Z
+date: 2014-12-14 11:07:00 -05:00
+tags:
+- innovation
 publication: Developments
 issue: Innovation
 author-bio: "[Jeremy Kanthor](http://dai.com/who-we-are/our-team/jeremy-kanthor),
@@ -15,10 +17,8 @@ assets:
   link: 
   title: 
 - path: "/uploads/pubs-story-13.jpg"
-tags:
-- innovation
-thumbnail-image: /uploads/pubs-story-13.jpg
-social-image: /uploads/pubs-story-13.jpg
+thumbnail-image: "/uploads/pubs-story-13.jpg"
+social-image: "/uploads/pubs-story-13.jpg"
 ---
 
 Innovation seems to be ubiquitous—or, at least, talk about innovation. A 2012 *Wall Street Journal* [review](http://www.wsj.com/news/articles/SB10001424052702304791704577418250902309914?mg=reno64-wsj) of reports filed with the Securities and Exchange Commission shows companies used some form of the word "innovation" 33,528 times in 2011, a 64 percent increase from five years before. At the same time, one doesn’t have to look hard to find growing cynicism regarding over use of the concept.

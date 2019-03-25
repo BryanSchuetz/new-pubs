@@ -1,6 +1,9 @@
 ---
 title: Building Inclusivity into Inclusive Education
-date: 2019-02-05 15:31:00 Z
+date: 2019-02-05 10:31:00 -05:00
+tags:
+- education
+- governance
 publication: Developments
 issue: 
 author-bio: Farah Mahesri, left, is an  education consultant; [Sakil Malik](https://www.dai.com/who-we-are/our-team/sakil-malik)
@@ -18,11 +21,8 @@ assets:
   name: Devs----Inclusive-education-1
 - path: "/uploads/Devs----Inclusive-Education-3.jpg"
   name: Devs----Inclusive-Education-3
-tags:
-- education
-- governance
-thumbnail-image: /uploads/Devs----Inclusive-education-1.jpg
-social-image: /uploads/Devs----Inclusive-education-1.jpg
+thumbnail-image: "/uploads/Devs----Inclusive-education-1.jpg"
+social-image: "/uploads/Devs----Inclusive-education-1.jpg"
 ---
 
 Since the Millennium Development Goals were established in 2000, the number of out-of-school children in the world has dropped from nearly 100 million to 65 million, and in most countries, girls have [achieved](http://www.undp.org/content/undp/en/home/librarypage/mdg/the-millennium-development-goals-report-2015.html) equal attendance in primary schools through hard-fought wins. At the same time, however, we are still not reaching millions of out-of-school children, nor are we helping all of those we do reach.

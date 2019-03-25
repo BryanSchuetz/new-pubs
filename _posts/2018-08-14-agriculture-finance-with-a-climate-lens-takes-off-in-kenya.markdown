@@ -1,6 +1,10 @@
 ---
 title: Agriculture Finance with a Climate Lens Takes Off in Kenya
-date: 2018-08-14 17:50:00 Z
+date: 2018-08-14 13:50:00 -04:00
+tags:
+- agriculture
+- environment-and-energy
+- finance
 publication: Developments
 issue: Fall 2018
 author-bio: Noelle O’Brien led the creation and implementation of the Fund.
@@ -19,12 +23,8 @@ assets:
   name: Working biogas unit
 - path: "/uploads/Noelle Devs.png"
   author?: 'Yes'
-tags:
-- agriculture
-- environment-and-energy
-- finance
-thumbnail-image: /uploads/Working%20biogas%20unit.jpg
-social-image: /uploads/Working%20biogas%20unit.jpg
+thumbnail-image: "/uploads/Working%20biogas%20unit.jpg"
+social-image: "/uploads/Working%20biogas%20unit.jpg"
 ---
 
 The effects of climate change in the already arid lands of Kenya are particularly tough on its economy. Think: tourism, arable agriculture, horticulture, floriculture, and livestock—all vulnerable to extreme changes in weather.

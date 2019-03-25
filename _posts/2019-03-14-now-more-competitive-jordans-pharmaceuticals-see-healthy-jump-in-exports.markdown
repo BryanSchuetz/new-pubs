@@ -1,6 +1,10 @@
 ---
 title: Now More Competitive, Jordan’s Pharmaceuticals See Healthy Jump in Exports
-date: 2019-03-14 13:37:00 Z
+date: 2019-03-14 09:37:00 -04:00
+tags:
+- global-health
+- economic-growth
+- governance
 publication: Developments
 issue: 
 author-bio: '<p style="display: block; float: right;" >Razan Salih, left, is communications
@@ -19,12 +23,8 @@ assets:
   name: Devs----Jordan-Pharma-2
 - path: "/uploads/Devs----Luma.jpg"
   author?: 'yes'
-tags:
-- global-health
-- economic-growth
-- governance
-thumbnail-image: /uploads/Devs----Jordan-Pharma-2.jpg
-social-image: /uploads/Devs----Jordan-Pharma-2.jpg
+thumbnail-image: "/uploads/Devs----Jordan-Pharma-2.jpg"
+social-image: "/uploads/Devs----Jordan-Pharma-2.jpg"
 ---
 
 Six Jordanian pharmaceutical companies have reported an additional US$55.6 million in exports since installing the electronic Common Technical Document (eCTD) system in December 2016. The installation allows the companies to register their drugs in foreign markets using internationally recognized standards, enabling faster and more competitive delivery. Representing sales through the eCDT, this increase is additional to pre-eCDT projections.

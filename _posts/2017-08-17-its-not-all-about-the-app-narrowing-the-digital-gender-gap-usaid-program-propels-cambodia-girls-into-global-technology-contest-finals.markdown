@@ -1,7 +1,10 @@
 ---
 title: 'More Than Developing Apps: USAID Program Propels Cambodian Girls Into Global
   Technology Finals'
-date: 2017-08-17 14:26:00 Z
+date: 2017-08-17 10:26:00 -04:00
+tags:
+- gender
+- digital-acceleration
 publication: Developments
 issue: Fall 2017
 author-bio: DAI’s [Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)
@@ -13,11 +16,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Technovation-2.jpg"
   name: Devs----Technovation-2
-tags:
-- gender
-- digital-acceleration
-thumbnail-image: /uploads/Devs----Technovation-2.jpg
-social-image: /uploads/Devs----Technovation-2.jpg
+thumbnail-image: "/uploads/Devs----Technovation-2.jpg"
+social-image: "/uploads/Devs----Technovation-2.jpg"
 ---
 
 Women are far underrepresented in the tech world globally from bottom to top. The all-encompassing industry is looking into the mirror and seeing  men and boys dominating technology jobs, classrooms, and expert panels, a bias now widely noticed.

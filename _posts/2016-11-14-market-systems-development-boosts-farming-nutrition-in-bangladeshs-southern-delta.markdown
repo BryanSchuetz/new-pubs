@@ -1,7 +1,11 @@
 ---
 title: Market Systems Development  Boosts Farming, Nutrition in Bangladesh’s Southern
   Delta
-date: 2016-11-14 16:33:00 Z
+date: 2016-11-14 11:33:00 -05:00
+tags:
+- economic-growth
+- agriculture
+- resilience
 publication: Developments
 issue: Spring 2017
 author-bio: DAI’s Michael Field, left, is Chief of Party and Sarah Wall is Acting
@@ -23,12 +27,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Sarah-Wall-pic.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-- resilience
-thumbnail-image: /uploads/Devs----AVC-2.jpg
-social-image: /uploads/Devs----AVC-2.jpg
+thumbnail-image: "/uploads/Devs----AVC-2.jpg"
+social-image: "/uploads/Devs----AVC-2.jpg"
 ---
 
 Bangladesh’s Southern Delta—home to 30 million people—is afflicted by inefficient farming, persistent poverty, and poor nutrition. But a market systems approach applied by the U.S. Agency for International Development (USAID)’s [Agricultural Value Chains Program](http://dai.com/our-work/projects/bangladesh%E2%80%94agricultural-value-chains-avc-program) (AVC), a Feed the Future initiative, is beginning to show great promise for the region.

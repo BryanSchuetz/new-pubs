@@ -1,6 +1,9 @@
 ---
 title: Using Market-Driven Strategies to Reduce Poverty and Human Trafficking in Nigeria
-date: 2018-08-22 19:23:00 Z
+date: 2018-08-22 15:23:00 -04:00
+tags:
+- economic-growth
+- market-systems-development
 publication: Developments
 issue: Fall 2018
 author-bio: "[Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah) is DAI’s
@@ -22,11 +25,8 @@ assets:
   name: MADE_article_3-1
 - path: "/uploads/Dr.-Joe-Abah-3.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- market-systems-development
-thumbnail-image: /uploads/MADE_article_2-1.jpg
-social-image: /uploads/MADE_article_2-1.jpg
+thumbnail-image: "/uploads/MADE_article_2-1.jpg"
+social-image: "/uploads/MADE_article_2-1.jpg"
 ---
 
 Despite having the largest economy in Africa, around half of Nigeria’s population still lives in extreme poverty. A few hundred miles east of the new skyscrapers and shopping malls of Nigeria’s commercial capital of Lagos, the Niger Delta—made up of nine oil-producing states and home to more than 31 million people—defines the country’s stark contrast in living conditions. Even though it is a major oil-producing region, much of the Delta’s population lives in remote villages and survives on subsistence farming. Exacerbating this poverty is a lack of modern agricultural equipment and supplies that farmers need to improve crop yields, as well as limited access to markets in which to sell their harvests.

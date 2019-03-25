@@ -1,7 +1,10 @@
 ---
 title: Mining Companies and Startup Partners Should Begin Developing Local Content
   Before Breaking Ground
-date: 2016-09-27 17:59:00 Z
+date: 2016-09-27 13:59:00 -04:00
+tags:
+- environment-and-energy
+- sustainable-business
 publication: DAIdeas
 issue: 
 author-bio: "[Warwick Strong](http://dai.com/who-we-are/our-team/warwick-strong) is
@@ -11,11 +14,8 @@ featured?:
 assets:
 - path: "/uploads/Warwick-Strong-devs-pic.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- sustainable-business
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 A typical mining operation lasts 30 years or more. As a result, mining companies are accustomed to becoming long-term fixtures in the communities where they work, and local stakeholders have increasingly high expectations for company contributions to community welfare. Local content development is one tool mining companies have used to foster local economic growth and social license. 

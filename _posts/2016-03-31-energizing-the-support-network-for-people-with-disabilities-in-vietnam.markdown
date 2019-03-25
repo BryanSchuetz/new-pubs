@@ -1,6 +1,9 @@
 ---
 title: Energizing the Support Network for People with Disabilities in Vietnam
-date: 2016-03-31 15:18:00 Z
+date: 2016-03-31 11:18:00 -04:00
+tags:
+- global-health
+- governance
 publication: Developments
 issue: 
 author-bio: DAI’s [Mark Rasmuson](http://dai.com/who-we-are/our-team/mark-rasmuson)
@@ -18,11 +21,8 @@ assets:
   name: Devs----PDSP-4
 - path: "/uploads/Devs----Mark-Rasmuson-new.jpg"
   author?: 'yes'
-tags:
-- global-health
-- governance
-thumbnail-image: /uploads/Devs----PDSP-1.jpg
-social-image: /uploads/Devs----PDSP-1.jpg
+thumbnail-image: "/uploads/Devs----PDSP-1.jpg"
+social-image: "/uploads/Devs----PDSP-1.jpg"
 ---
 
 As in most countries, people with disabilities in Vietnam lead disadvantaged lives. Their plight has been exacerbated by the facts that until recently Vietnam was a very poor country without strong government social services, and the wars from the 1940s through the 1970s left many victims, adding substantially to the disability burden.  The legacy of what the Vietnamese call the American War includes large numbers of unexploded ordnance and dioxin contamination where Agent Orange was sprayed or spilled that continue to affect lives and relations between the two countries today. There are an estimated 12 million people and families in Vietnam affected by disabilities.  

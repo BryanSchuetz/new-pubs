@@ -1,6 +1,10 @@
 ---
 title: Baseline Study Prompts School Officials to Counter Violence in Honduras
-date: 2018-11-06 14:24:00 Z
+date: 2018-11-06 09:24:00 -05:00
+tags:
+- governance
+- education
+- stability
 publication: Developments
 issue: 
 author-bio: Craig Davis, PhD, is Chief of Party and Eileen Moore is International
@@ -16,12 +20,8 @@ assets:
   author?: 'Yes'
 - path: "/uploads/LaCeiba Horadeclase_LaCeiba.jpg"
   name: LaCeiba Horadeclase_LaCeiba
-tags:
-- governance
-- education
-- stability
-thumbnail-image: /uploads/LaCeiba%20Horadeclase_LaCeiba.jpg
-social-image: /uploads/LaCeiba%20Horadeclase_LaCeiba.jpg
+thumbnail-image: "/uploads/LaCeiba%20Horadeclase_LaCeiba.jpg"
+social-image: "/uploads/LaCeiba%20Horadeclase_LaCeiba.jpg"
 ---
 
 Too often, in our experience as development professionals, baseline surveys can seem like proforma exercises—dry, mechanical constructs conducted at the beginning of a project, shelved almost as soon as they are done, then dusted off for the midline survey. By the time we conduct the endline, the project is closing. Baseline findings don’t drive programming.

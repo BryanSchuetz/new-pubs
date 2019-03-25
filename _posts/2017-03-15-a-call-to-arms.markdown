@@ -1,7 +1,9 @@
 ---
 title: 'A Call to Arms: Shaping a More Innovative Approach to Adaptive Programming
   in Democracy Assistance'
-date: 2017-03-15 14:54:00 Z
+date: 2017-03-15 10:54:00 -04:00
+tags:
+- governance
 publication: DAIdeas
 issue: 
 author-bio: "[Sarah Leigh-Hunt](mailto: Sarah_Leigh-Hunt@dai.com) is a Senior Consultant
@@ -21,10 +23,8 @@ assets:
   name: HaitiParliament
 - path: "/uploads/PakistanPLSP.jpg"
   name: PakistanPLSP
-tags:
-- governance
-thumbnail-image: /uploads/HaitiParliament.jpg
-social-image: /uploads/HaitiParliament.jpg
+thumbnail-image: "/uploads/HaitiParliament.jpg"
+social-image: "/uploads/HaitiParliament.jpg"
 ---
 
 While adaptive programming is at the forefront of development programming, its basic tenets are not new. As the name suggests, this approach implies adapting a programme to the specific circumstances in which it will be implemented and to the needs of those it targets, as they evolve. Adaptive programming means that the programme’s purpose, structure, and expected outcomes are rooted in a comprehensive study of the context in which it will operate and an understanding of the problem that it will try to solve, developed in close cooperation with those key actors who will be involved in bringing about change.

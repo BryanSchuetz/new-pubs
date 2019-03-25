@@ -1,6 +1,9 @@
 ---
 title: Disruption for Good
-date: 2014-12-08 20:13:00 Z
+date: 2014-12-08 15:13:00 -05:00
+tags:
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Innovation
 author-bio: "[John Maris](http://dai.com/who-we-are/global-reach/dai-europe/contacts/management-team)
@@ -12,11 +15,8 @@ assets:
 - path: "/uploads/pubs-author-1.jpg"
   name: pubs-author-1
   author?: 'yes'
-tags:
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/figure_1.jpg
-social-image: /uploads/figure_1.jpg
+thumbnail-image: "/uploads/figure_1.jpg"
+social-image: "/uploads/figure_1.jpg"
 ---
 
 Despite the advances in human development in the 20th century, humanitarian aid remains as relevant as ever. While our ability to respond to disaster has improved, factors such as climate change and the burgeoning global population mean that the number and severity of disasters have also increased. Could “big data” help humanitarian relief actors keep up with this escalating challenge?

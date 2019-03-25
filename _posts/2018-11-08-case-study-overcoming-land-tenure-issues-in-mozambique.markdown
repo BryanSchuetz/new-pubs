@@ -1,6 +1,9 @@
 ---
 title: 'Case Study: Overcoming Land Tenure Issues to Stimulate Investment in Mozambique'
-date: 2018-11-08 16:50:00 Z
+date: 2018-11-08 11:50:00 -05:00
+tags:
+- land
+- market-systems-development
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: |-
@@ -17,11 +20,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/seed store.jpg"
   name: seed store
-tags:
-- land
-- market-systems-development
-thumbnail-image: /uploads/seed%20store.jpg
-social-image: /uploads/seed%20store.jpg
+thumbnail-image: "/uploads/seed%20store.jpg"
+social-image: "/uploads/seed%20store.jpg"
 ---
 
 In Mozambique, the [Innovation for Agribusiness project (InovAgro)](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro) uses a market systems approach to encourage investment by smallholder farmers in agricultural productivity, thereby boosting their incomes. But many of those smallholders find themselves increasingly at risk of losing their land to large investors who, with the backing of the government, are looking to start commercial farming operations encompassing thousands of hectares. This precarious state of affairs, which is in large part due to the government’s very limited formal recognition of smallholder land holdings, has made small farmers more and more reluctant to invest in their land. 

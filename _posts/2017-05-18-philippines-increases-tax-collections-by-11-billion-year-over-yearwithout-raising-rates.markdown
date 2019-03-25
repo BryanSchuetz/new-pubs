@@ -1,7 +1,11 @@
 ---
 title: Philippines Increases Tax Collections by $1.1 Billion Year Over Year—Without
   Raising Rates
-date: 2017-05-18 15:12:00 Z
+date: 2017-05-18 11:12:00 -04:00
+tags:
+- finance
+- governance
+- public-financial-management
 publication: Developments
 issue: Summer 2017
 author-bio: DAI's [Roberto Toso](https://www.dai.com/who-we-are/our-team/roberto-toso),
@@ -16,12 +20,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----FPI-e-filing-v-tax-revenue.jpg"
   name: Devs----FPI-e-filing-v-tax-revenue
-tags:
-- finance
-- governance
-- public-financial-management
-thumbnail-image: /uploads/Devs----FPI-e-filing-v-tax-revenue.jpg
-social-image: /uploads/Devs----FPI-e-filing-v-tax-revenue.jpg
+thumbnail-image: "/uploads/Devs----FPI-e-filing-v-tax-revenue.jpg"
+social-image: "/uploads/Devs----FPI-e-filing-v-tax-revenue.jpg"
 ---
 
 What would you do with an extra $1.1 billion? That amount represents the additional taxes collected by the Philippines government during the first quarter of 2017 versus the same period in 2016. This 12.2 percent increase—during the country's tax-collecting season—followed the rapid adoption by taxpayers of an electronic tax-filing system introduced by the U.S. Agency for International Development (USAID)’s [Facilitating Public Investment](https://www.dai.com/our-work/projects/philippines-facilitating-public-investment-fpi) (FPI) program, implemented by DAI.

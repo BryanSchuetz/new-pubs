@@ -1,6 +1,9 @@
 ---
 title: Domestic Resource Mobilization Takes Root in El Salvador ... and Beyond?
-date: 2016-07-08 20:25:00 Z
+date: 2016-07-08 16:25:00 -04:00
+tags:
+- governance
+- public-financial-management
 publication: Developments
 issue: Summer 2016
 author-bio: DAI’s [Enrique Giraldo](http://dai.com/who-we-are/our-team/enrique-giraldo)
@@ -16,11 +19,8 @@ assets:
   name: Devs----El-Salvador-DRM-2
 - path: "/uploads/Devs----El-Salvador-DRM-3.jpg"
   name: Devs----El-Salvador-DRM-3
-tags:
-- governance
-- public-financial-management
-thumbnail-image: /uploads/Devs----El-Salvador-DRM-3.jpg
-social-image: /uploads/Devs----El-Salvador-DRM-3.jpg
+thumbnail-image: "/uploads/Devs----El-Salvador-DRM-3.jpg"
+social-image: "/uploads/Devs----El-Salvador-DRM-3.jpg"
 ---
 
 An encouraging trend in development is gaining speed: more  countries want to do more to fund their own development, and donors are on board. At the July 2015 Third International Conference on Financing for Development in Addis Ababa, Ethiopia, attended by more than 110 heads of state, ministers, and officials from 38 countries, donors pledged a doubling of assistance by 2020 for programs to increase domestic resource mobilization.

@@ -1,6 +1,8 @@
 ---
 title: Reforming Business Policy in Mozambique from the Inside
-date: 2014-09-22 20:55:00 Z
+date: 2014-09-22 16:55:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 issue: Summer 2014
 author-bio: "**Carrie Davies** is SPEED’s Senior Trade Policy Advisor and [Brigit
@@ -11,10 +13,8 @@ featured?:
 assets:
 - path: "/uploads/mozam-2.jpg"
 - path: "/uploads/mozam-1.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/mozam-2.jpg
-social-image: /uploads/mozam-2.jpg
+thumbnail-image: "/uploads/mozam-2.jpg"
+social-image: "/uploads/mozam-2.jpg"
 ---
 
 <p>Mozambique’s recent discoveries of coal and gas make it a resource-rich country and potential world player. But it remains one of the world’s poorest countries as reflected by global indices such as the UN Human Development Index.</p>

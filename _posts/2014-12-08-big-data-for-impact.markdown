@@ -1,6 +1,9 @@
 ---
 title: Big Data for Big Impact
-date: 2014-12-08 17:00:00 Z
+date: 2014-12-08 12:00:00 -05:00
+tags:
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Innovation
 author-bio: "[Kristen Roggemann](http://dai.com/who-we-are/our-team/kristen-roggemann)
@@ -13,11 +16,8 @@ assets:
 - path: "/uploads/pubs-author-3.jpg"
   name: pubs-author-3
   author?: 'yes'
-tags:
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/pubs-story-9.jpg
-social-image: /uploads/pubs-story-9.jpg
+thumbnail-image: "/uploads/pubs-story-9.jpg"
+social-image: "/uploads/pubs-story-9.jpg"
 ---
 
 <p>Food-related conversations on Twitter have shown strong correlations with food price inflation. Patterns of mobile phone usage are being analysed to predict the magnitude of a disease outbreak. When airtime top-off amounts shrink in a certain region, it tends to indicate a loss of income in that population.

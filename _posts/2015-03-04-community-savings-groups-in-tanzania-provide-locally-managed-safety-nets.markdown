@@ -1,6 +1,10 @@
 ---
 title: Group Savings in Tanzania Helping the HIV-Affected Poor
-date: 2015-03-04 08:00:00 Z
+date: 2015-03-04 03:00:00 -05:00
+tags:
+- economic-growth
+- global-health
+- resilience
 publication: Developments
 issue: Spring 2015
 author-bio: DAI’s [Colleen Green](http://dai.com/who-we-are/our-team/colleen-green)
@@ -17,12 +21,8 @@ assets:
 - path: "/uploads/Community Savings Groups Paper for Arusha - DAI- Final.docx"
   name: Community Savings Groups Paper for Arusha - DAI- Final
   author?: 
-tags:
-- economic-growth
-- global-health
-- resilience
-thumbnail-image: /uploads/IMARISHA-1.jpg
-social-image: /uploads/IMARISHA-1.jpg
+thumbnail-image: "/uploads/IMARISHA-1.jpg"
+social-image: "/uploads/IMARISHA-1.jpg"
 ---
 
 Fifty years after independence, Tanzania still struggles to secure a resilient future. HIV/AIDS compounds the problems caused by poverty and scarcity, creating deep fissures in the national and local economies and leaving HIV-affected households highly vulnerable in the face of rising costs for food, schooling, and medical care.

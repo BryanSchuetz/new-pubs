@@ -3,6 +3,7 @@ title: DEVELOPMENTS
 publication: Developments
 layout: default
 ---
+
 <div class="home grid">
   {% assign currentPosts = site.posts | where_exp: "post", "post.publication == 'Developments'" %}
   {% assign posts = currentPosts | sort: 'date' | reverse %}

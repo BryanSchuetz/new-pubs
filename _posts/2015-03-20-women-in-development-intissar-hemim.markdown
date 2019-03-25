@@ -1,6 +1,8 @@
 ---
 title: 'Women in Development: Intissar Hemim'
-date: 2015-03-20 18:28:00 Z
+date: 2015-03-20 14:28:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: 
 author-bio: Intissar Hemim is the Grants and Procurement Specialist for DAI on the
@@ -13,10 +15,8 @@ assets:
   name: Devs Intissar 1
   author?: 'yes'
 - path: "/uploads/Devs-Intissar-2.jpg"
-tags:
-- dai
-thumbnail-image: /uploads/Devs-Intissar-2.jpg
-social-image: /uploads/Devs-Intissar-2.jpg
+thumbnail-image: "/uploads/Devs-Intissar-2.jpg"
+social-image: "/uploads/Devs-Intissar-2.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*

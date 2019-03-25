@@ -1,7 +1,9 @@
 ---
 title: 'Big Data and Domestic Resource Mobilization: How Donors Can Help Developing
   Countries Increase Revenue'
-date: 2016-07-05 19:29:00 Z
+date: 2016-07-05 15:29:00 -04:00
+tags:
+- governance
 publication: Developing Alternatives
 issue: 
 author-bio: Dr. Mark Gallagher is the principal of Public Finance and Macroeconomics,
@@ -24,10 +26,8 @@ assets:
   name: gallagher-2-1
 - path: "/uploads/Gallagher-5.jpg"
   name: Gallagher-5
-tags:
-- governance
-thumbnail-image: /uploads/Devs----Gallagher-4.jpg
-social-image: /uploads/Devs----Gallagher-4.jpg
+thumbnail-image: "/uploads/Devs----Gallagher-4.jpg"
+social-image: "/uploads/Devs----Gallagher-4.jpg"
 ---
 
 Domestic resource mobilization (DRM)[^1] is the capacity of a government to generate income through taxes, fees, levies, or other related resources. Increases in DRM are often achievable through the improvement of tax administration and taxpayer compliance. Increasing DRM enables developing countries to invest more of their own resources in high-priority services such as health and education, thereby reducing their dependence on donor funding for key programs. In addition, improved DRM has the potential to help countries promote good governance, strengthen domestic accountability, achieve more sustainable and inclusive growth, and reduce poverty.

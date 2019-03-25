@@ -1,6 +1,9 @@
 ---
 title: Market Trends and Resilience
-date: 2014-09-23 19:58:00 Z
+date: 2014-09-23 15:58:00 -04:00
+tags:
+- resilience
+- economic-growth
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "[Marina Krivoshlykova](http://dai.com/who-we-are/our-team/marina-krivoshlykova)
@@ -9,11 +12,8 @@ author: Marina Krivoshlykova
 featured?: 
 assets:
 - path: "/uploads/marina.jpg"
-tags:
-- resilience
-- economic-growth
-thumbnail-image: /uploads/marina.jpg
-social-image: /uploads/marina.jpg
+thumbnail-image: "/uploads/marina.jpg"
+social-image: "/uploads/marina.jpg"
 ---
 
 <p>The resilience of producers in developing countries depends on their ability to adapt to constant change in domestic, regional, and international markets. Changes in end-markets—primarily driven by technological advances—changes in consumer demand, and changes in regulations greatly affect market growth patterns. These changes in turn influence the requirements that producers must meet to access markets and remain competitive. Keeping on top of these trends should be a key part of any economic strengthening initiative.</p>

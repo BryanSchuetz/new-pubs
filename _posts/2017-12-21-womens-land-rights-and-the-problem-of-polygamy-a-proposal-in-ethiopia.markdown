@@ -1,6 +1,9 @@
 ---
 title: 'Women’s Land Rights and the Problem of Polygamy: A Proposal in Ethiopia'
-date: 2017-12-21 14:52:00 Z
+date: 2017-12-21 09:52:00 -05:00
+tags:
+- governance
+- land
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: "[Andy Smith](https://www.linkedin.com/in/andygreygranite/) is DAI’s Team
@@ -14,11 +17,8 @@ assets:
   name: LIFT pic
 - path: "/uploads/lift-pie.jpg"
   name: lift-pie
-tags:
-- governance
-- land
-thumbnail-image: /uploads/LIFT%20pic.jpg
-social-image: /uploads/LIFT%20pic.jpg
+thumbnail-image: "/uploads/LIFT%20pic.jpg"
+social-image: "/uploads/LIFT%20pic.jpg"
 ---
 
 Despite being illegal, polygamous marriage remains alive and well in Ethiopia, and that poses some obvious challenges when it comes to land rights. Statistics from 2011 reveal that 11 percent of married women in Ethiopia share a husband with one or two other wives. Polygamy affects women’s rights to property and income because it is unclear whose rights take precedence under the law when the husband becomes ill or passes away. Unfortunately, federal and regional land proclamations in Ethiopia don’t address the registration of polygamous families.

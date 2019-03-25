@@ -1,6 +1,8 @@
 ---
 title: 'A Cash-Lite World: Safe, Cheap, and Convenient Payments for All'
-date: 2014-09-02 17:25:00 Z
+date: 2014-09-02 13:25:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Ignacio Mas and David Porteous
 issue: Financial Inclusion
@@ -10,10 +12,8 @@ author-bio: "**Ignacio Mas** is a consultant on mobile money and technology-enab
 assets:
 - path: "/uploads/whiteafrican.jpg"
 - path: "/uploads/kiwanja.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/whiteafrican.jpg
-social-image: /uploads/whiteafrican.jpg
+thumbnail-image: "/uploads/whiteafrican.jpg"
+social-image: "/uploads/whiteafrican.jpg"
 ---
 
 <p>In the past two decades, the world's information grid has expanded massively. Digital signals are all around us. In developed markets, many of these digital exchanges involve electronic payments, but most people in developing countries are still stuck moving paper. Financial transactions lie at the heart of doing commerce, selling goods and services, managing a business, and taking care of one's family. Making these transactions safer, cheaper, and more convenient should be on the development agenda of every developing country. Yet building a digital payments fabric linking all citizens and businesses in a country is rarely a development priority, in part because the benefits are intangible and diverse.</p>

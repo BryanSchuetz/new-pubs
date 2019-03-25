@@ -1,6 +1,9 @@
 ---
 title: In Uganda, Local Hearings Show Accountability in Action
-date: 2019-02-25 18:02:00 Z
+date: 2019-02-25 13:02:00 -05:00
+tags:
+- governance
+- public-financial-management
 publication: Developments
 issue: 
 author-bio: "[Aaron Sheldon](https://www.dai.com/who-we-are/our-team/aaron-sheldon)
@@ -21,11 +24,8 @@ assets:
   name: Devs----Uganda--GAPP-2
 - path: "/uploads/Devs----Uganda-GAPP-3.jpg"
   name: Devs----Uganda-GAPP-3
-tags:
-- governance
-- public-financial-management
-thumbnail-image: /uploads/Devs----Uganda-GAPP-1.jpg
-social-image: /uploads/Devs----Uganda-GAPP-1.jpg
+thumbnail-image: "/uploads/Devs----Uganda-GAPP-1.jpg"
+social-image: "/uploads/Devs----Uganda-GAPP-1.jpg"
 ---
 
 Audits, oversight procedures, compliance protocols—the language of public accountability can seem bureaucratic and dry. The reality in Uganda is anything but.

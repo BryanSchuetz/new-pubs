@@ -1,6 +1,8 @@
 ---
 title: 'Rethinking Participatory Development: From Critique to Better Practice'
-date: 2013-08-03 00:00:00 Z
+date: 2013-08-02 20:00:00 -04:00
+tags:
+- governance
 publication: DAIdeas
 issue: 
 author-bio: "**Diane de Gramont** is a nonresident research analyst in the Carnegie
@@ -16,10 +18,8 @@ assets:
 - path: "/uploads/training.jpg"
 - path: "/uploads/kyrg.jpg"
 - path: "/uploads/audience.jpg"
-tags:
-- governance
-thumbnail-image: /uploads/training.jpg
-social-image: /uploads/training.jpg
+thumbnail-image: "/uploads/training.jpg"
+social-image: "/uploads/training.jpg"
 ---
 
 <p>Amidst the development aid community’s many shifting enthusiasms, few concepts have as powerful and enduring appeal as the need to support citizen participation. Participation has featured prominently in assistance debates since the 1950s, losing attention in some periods but then reliably reemerging as an apparent panacea to the shortcomings of top-down approaches.</p>

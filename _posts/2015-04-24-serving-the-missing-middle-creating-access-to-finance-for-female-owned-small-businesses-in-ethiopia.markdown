@@ -1,6 +1,9 @@
 ---
 title: Serving the Missing Middle
-date: 2015-04-24 18:16:00 Z
+date: 2015-04-24 14:16:00 -04:00
+tags:
+- economic-growth
+- gender
 publication: Developments
 issue: 
 author-bio: DAI’s Frances Toomey-Mys leads the Women’s Entrepreneurship Development
@@ -12,11 +15,8 @@ assets:
   name: Devs-PEPE-PIC-1
 - path: "/uploads/Devs-PEPE-pic-2.jpg"
   name: Devs-PEPE-pic-2
-tags:
-- economic-growth
-- gender
-thumbnail-image: /uploads/Devs-PEPE-PIC-1.jpg
-social-image: /uploads/Devs-PEPE-PIC-1.jpg
+thumbnail-image: "/uploads/Devs-PEPE-PIC-1.jpg"
+social-image: "/uploads/Devs-PEPE-PIC-1.jpg"
 ---
 
 Not long ago, Aynalem Gebryes had nowhere to turn to borrow money, despite having a steady income from fattening cattle, producing milk, growing potatoes, and selling directly to local hotels and restaurants.

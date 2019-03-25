@@ -1,7 +1,11 @@
 ---
 title: Using Development Assistance to Catalyze Sound Investments in Emerging and
   Developing Markets
-date: 2017-06-07 13:57:00 Z
+date: 2017-06-07 09:57:00 -04:00
+tags:
+- economic-growth
+- finance
+- sustainable-business
 publication: Developments
 issue: Summer 2017
 author-bio: DAI’s [Robin Young](https://www.dai.com/who-we-are/our-team/robin-young)
@@ -23,12 +27,8 @@ assets:
   name: Devs----Blended-pic-4
 - path: "/uploads/Devs----Blended-7.jpg"
   name: Devs----Blended-7
-tags:
-- economic-growth
-- finance
-- sustainable-business
-thumbnail-image: /uploads/Devs----Blended-pic-2.jpg
-social-image: /uploads/Devs----Blended-pic-2.jpg
+thumbnail-image: "/uploads/Devs----Blended-pic-2.jpg"
+social-image: "/uploads/Devs----Blended-pic-2.jpg"
 ---
 
 Investment opportunities in manufacturing, agriculture, and health are as abundant globally as the capital to fund them, but investors in these and other sectors are rightly cautious about entering new countries and taking risks on small and growing businesses and productive infrastructure. Fortunately, there are many examples in these teeming markets of how capital supported by local development expertise and entrepreneurial energy has generated both financial returns and development results.

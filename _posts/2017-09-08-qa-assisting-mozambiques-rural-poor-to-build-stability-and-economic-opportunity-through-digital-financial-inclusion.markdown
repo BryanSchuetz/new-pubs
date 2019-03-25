@@ -1,7 +1,11 @@
 ---
 title: 'Q&A: Unlocking Inclusive Economic Growth for Mozambicans by Building a Market
   for Digital Financial Inclusion'
-date: 2017-09-08 16:12:00 Z
+date: 2017-09-08 12:12:00 -04:00
+tags:
+- economic-growth
+- digital-acceleration
+- stability
 publication: Developments
 issue: Fall 2017
 author-bio: DAI’s [Bhairav Raja](https://www.dai.com/who-we-are/our-team/bhairav-raja)
@@ -26,12 +30,8 @@ assets:
   name: Devs----FSDMoz-1
 - path: "/uploads/Devs----FSDMoz-2.jpg"
   name: Devs----FSDMoz-2
-tags:
-- economic-growth
-- digital-acceleration
-- stability
-thumbnail-image: /uploads/Devs----FSD-Moz-new-pic.jpg
-social-image: /uploads/Devs----FSD-Moz-new-pic.jpg
+thumbnail-image: "/uploads/Devs----FSD-Moz-new-pic.jpg"
+social-image: "/uploads/Devs----FSD-Moz-new-pic.jpg"
 ---
 
 While Mozambique’s economy is emerging—notably through the extractives sector—most Mozambicans remain very poor. Eighty percent still make a living from subsistence farming. One cause for their marginalization is that most have no connection to the wider economy or to basic financial services such as saving, borrowing, and electronic payments. This limits the ability of Mozambique’s 12 million rural poor to grow their livelihoods and perpetuates their isolation and poverty.

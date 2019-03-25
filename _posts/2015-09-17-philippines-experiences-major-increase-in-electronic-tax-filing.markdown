@@ -1,6 +1,11 @@
 ---
 title: Philippines Experiences Nearly Seven-Fold Increase in Electronic Tax Filing
-date: 2015-09-17 13:35:00 Z
+date: 2015-09-17 09:35:00 -04:00
+tags:
+- governance
+- economic-growth
+- digital-acceleration
+- public-financial-management
 publication: Developments
 issue: Fall 2015
 author-bio: DAI's [Alexander Kitain](http://dai.com/who-we-are/our-team/alexander-kitain)
@@ -15,13 +20,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Kitain-side-by-side.jpg"
   name: Devs----Kitain-side-by-side
-tags:
-- governance
-- economic-growth
-- digital-acceleration
-- public-financial-management
-thumbnail-image: /uploads/Devs----Kitain-side-by-side.jpg
-social-image: /uploads/Devs----Kitain-side-by-side.jpg
+thumbnail-image: "/uploads/Devs----Kitain-side-by-side.jpg"
+social-image: "/uploads/Devs----Kitain-side-by-side.jpg"
 ---
 
 Despite the Philippines being among the first countries to introduce electronic tax filing opportunities more than 15 years ago, only 8 percent of its tax returns in 2013 were e-filed. By comparison, e-filing rates in peer countries range from 70 to 100 percent. But the Philippines is catching up.

@@ -1,16 +1,16 @@
 ---
 title: 'From Desert, Mountain, and Plain: Afghanistan’s First-Ever Nomad Gathering'
-date: 2015-06-24 20:45:00 Z
+date: 2015-06-24 16:45:00 -04:00
+tags:
+- governance
 publication: Developments
 issue: 
 author-bio: Brad Becker is a Communications Specialist for the ALBA project. He passed
   away in February 2016.
 author: Brad Becker
 featured?: 
-tags:
-- governance
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 Known collectively as "Kuchi," the nomadic peoples of Afghanistan recently convened in Kabul for a historic assembly to address longstanding issues specific to their community.

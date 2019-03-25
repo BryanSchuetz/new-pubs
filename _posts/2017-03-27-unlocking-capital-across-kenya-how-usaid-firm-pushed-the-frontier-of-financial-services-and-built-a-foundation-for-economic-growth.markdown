@@ -1,7 +1,11 @@
 ---
 title: 'Unlocking Capital: How USAID Pushed the Frontier of Financial Services and
   Built a Foundation for Economic Growth in Kenya'
-date: 2017-03-27 16:41:00 Z
+date: 2017-03-27 12:41:00 -04:00
+tags:
+- economic-growth
+- agriculture
+- finance
 publication: Developments
 issue: Spring 2017
 author-bio: DAI’s [Mark Rostal](https://www.dai.com/who-we-are/our-team/mark-rostal),
@@ -27,12 +31,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----John-Jepsen-mug.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-- finance
-thumbnail-image: /uploads/Devs----Kenya-FRM-pic-2-.jpg
-social-image: /uploads/Devs----Kenya-FRM-pic-2-.jpg
+thumbnail-image: "/uploads/Devs----Kenya-FRM-pic-2-.jpg"
+social-image: "/uploads/Devs----Kenya-FRM-pic-2-.jpg"
 ---
 
 In 2010, as part of the U.S. Government’s Feed the Future initiative, the U.S. Agency for International Development (USAID) designed the [Kenya Financial Inclusion for Rural Microenterprises](https://www.dai.com/our-work/projects/kenya-financial-inclusion-rural-microenterprises-firm) (FIRM) project. FIRM aimed to push the frontier of financial services into the agricultural sector where smallholder farmers—the bulk of Kenya’s 45 million people—were mired in poverty.

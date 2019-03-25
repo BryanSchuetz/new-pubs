@@ -1,7 +1,13 @@
 ---
 title: Chevron’s Nigerian Initiative Found to Decrease Business Risk, Attract Local
   Investment, and "Bring Hope"
-date: 2016-07-23 19:17:00 Z
+date: 2016-07-23 15:17:00 -04:00
+tags:
+- economic-growth
+- innovation
+- environment-and-energy
+- fragile-states
+- sustainable-business
 publication: Developments
 issue: 
 author-bio: Charles Coon is the editor of DAI's *Developments* newsletter.
@@ -20,14 +26,8 @@ assets:
   name: Devs----NDPI-1-
 - path: "/uploads/Devs----NDPI-3.jpg"
   name: Devs----NDPI-3
-tags:
-- economic-growth
-- innovation
-- environment-and-energy
-- fragile-states
-- sustainable-business
-thumbnail-image: /uploads/Devs----NDPI-5.jpg
-social-image: /uploads/Devs----NDPI-5.jpg
+thumbnail-image: "/uploads/Devs----NDPI-5.jpg"
+social-image: "/uploads/Devs----NDPI-5.jpg"
 ---
 
 When Chevron launched the Niger Delta Partnership Initiatives (NDPI) Foundation in 2010, it knew there were no easy solutions to the instability felt by Nigeria’s youth, poor, and unemployed. Ethnic and religious conflicts had long festered and flared, including in the Niger Delta, where Chevron has extensive oil and gas operations. Taking a regional approach while still complementing other Chevron Nigeria social investments such as the Global Memorandum of Understanding (GMOU), the company sought to address the fundamental issues confronting local communities: the struggle for economic opportunity, the sources of the underlying conflict, and the capacity shortfalls constraining the Delta’s development.

@@ -1,6 +1,8 @@
 ---
 title: Fertilizing Method Delivers Results for Liberian Rice Farmers
-date: 2014-09-22 16:17:00 Z
+date: 2014-09-22 12:17:00 -04:00
+tags:
+- agriculture
 publication: Developments
 issue: Summer 2014
 author-bio: "**Nicholas Parkinson** is a communications specialist for Liberia FED."
@@ -10,10 +12,8 @@ assets:
 - path: "/uploads/fed_signing.png"
 - path: "/uploads/fed_seasonal.jpg"
 - path: "/uploads/fed_conference.jpg"
-tags:
-- agriculture
-thumbnail-image: /uploads/fed_conference.jpg
-social-image: /uploads/fed_conference.jpg
+thumbnail-image: "/uploads/fed_conference.jpg"
+social-image: "/uploads/fed_conference.jpg"
 ---
 
 <p>When the 300 farmers at the Fuamah District Multipurpose Cooperative reviewed results from the rice farm’s trials using a new fertilization method, the farmers sang and danced in celebration. Plots using this method—where briquettes of fertilizer are buried in the ground next to rice seedlings—returned 17 percent higher rice yields than simply throwing fertilizer granules onto the field and 30 percent higher yields than sites using no fertilizer at all.</p>

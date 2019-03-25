@@ -1,6 +1,9 @@
 ---
 title: Women’s Inclusion and Empowerment
-date: 2014-09-26 13:29:00 Z
+date: 2014-09-26 09:29:00 -04:00
+tags:
+- resilience
+- gender
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "[Anne Simmons-Benton](http://dai.com/who-we-are/our-team/anne-simmons-benton)
@@ -10,11 +13,8 @@ featured?:
 assets:
 - path: "/uploads/benton-1.jpg"
 - path: "/uploads/benton-2.jpg"
-tags:
-- resilience
-- gender
-thumbnail-image: /uploads/benton-2.jpg
-social-image: /uploads/benton-2.jpg
+thumbnail-image: "/uploads/benton-2.jpg"
+social-image: "/uploads/benton-2.jpg"
 ---
 
 <p>Just as it is clear that resilience programming will benefit from a “whole-of-development” approach that ties together complementary technical sectors and different phases of assistance—from emergency relief to long-term capacity building—so it is clear from our experience that a “whole-of-community” approach is critical to resilience. Put simply, any resilience program that does not give due consideration to the role of women will not achieve its full potential and runs the risk of failure.t But we would do well to remind ourselves of the fundamental preconditions that must be in place for women to play their essential role: legal equality, economic empowerment, participation in decision making, and educational opportunity.</p>

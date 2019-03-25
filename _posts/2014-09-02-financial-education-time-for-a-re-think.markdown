@@ -1,6 +1,8 @@
 ---
 title: 'Financial Education: Time for a Re-Think?'
-date: 2014-09-02 18:45:00 Z
+date: 2014-09-02 14:45:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Graham A.N. Wright and Angela Wambugu
 issue: Financial Inclusion
@@ -12,10 +14,8 @@ author-bio: "**Graham A.N. Wright** and **Angela Wambugu** work for MicroSave, a
 assets:
 - path: "/uploads/womensworldbanking.jpg"
 - path: "/uploads/mckaysavage.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/womensworldbanking.jpg
-social-image: /uploads/womensworldbanking.jpg
+thumbnail-image: "/uploads/womensworldbanking.jpg"
+social-image: "/uploads/womensworldbanking.jpg"
 ---
 
 <p>Financial education is often touted as being essential for low-income people. But traditional financial education in both poor and rich contexts too often takes a didactic, classroom-based approach to conveying analytical financial concepts such as budgeting, saving, managing debt, and calculating interest rates. We need to re-think the process of financial education to merge it with product marketing, thereby making it more relevant for customers and more cost-effective for financial institutions.</p>

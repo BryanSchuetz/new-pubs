@@ -1,6 +1,9 @@
 ---
 title: Growing a Global Network of Microfinance Practitioners
-date: 2015-10-15 14:05:00 Z
+date: 2015-10-15 10:05:00 -04:00
+tags:
+- economic-growth
+- resilience
 publication: Developments
 issue: Fall 2015
 author-bio: Mathilde Gaston-Mathé, left, is the Communications Manager for ACP/EU
@@ -18,11 +21,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----EmanuelMoyart.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- resilience
-thumbnail-image: /uploads/Devs----ACP-EU-pic-3.jpg
-social-image: /uploads/Devs----ACP-EU-pic-3.jpg
+thumbnail-image: "/uploads/Devs----ACP-EU-pic-3.jpg"
+social-image: "/uploads/Devs----ACP-EU-pic-3.jpg"
 ---
 
 The European Commission (EC) is one of the world’s leading exponents of access-to-finance programming, known particularly for initiatives such as  mentoring local banks and developing loan programmes for small businesses and green energy investment. Equally noteworthy is an EC programme dedicated to promoting microfinance in developing countries, a programme that recently closed after vitalizing a global network of local microfinance practitioners who in turn reached some 3.5 million people.

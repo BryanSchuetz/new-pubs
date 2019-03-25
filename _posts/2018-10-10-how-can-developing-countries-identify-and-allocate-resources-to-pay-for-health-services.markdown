@@ -1,7 +1,11 @@
 ---
 title: How Can Developing Countries Identify and Allocate Resources to Pay for Health
   Services?
-date: 2018-10-10 18:18:00 Z
+date: 2018-10-10 14:18:00 -04:00
+tags:
+- governance
+- public-financial-management
+- global-health
 publication: Developments
 issue: 
 author-bio: "[John Yates](https://www.dai.com/who-we-are/our-team/john-yates), left,
@@ -22,12 +26,8 @@ assets:
   name: Devs----Yates-graphic-1
 - path: "/uploads/Devs----Yates-1.jpg"
   name: Devs----Yates-1
-tags:
-- governance
-- public-financial-management
-- global-health
-thumbnail-image: /uploads/Devs----Yates-3.jpg
-social-image: /uploads/Devs----Yates-3.jpg
+thumbnail-image: "/uploads/Devs----Yates-3.jpg"
+social-image: "/uploads/Devs----Yates-3.jpg"
 ---
 
 Governments in many low- and middle-income countries have committed to provide affordable and high-quality health services to their citizens. To make good on these promises, they need to identify more money for health expenditure and need to invest it more wisely. Our recent policy paper—[Financial Management Mechanisms to Support Increased Government Spending on Health](https://www.hfgproject.org/financial-management-mechanisms-to-support-increased-government-spending-on-health/)—provides some guidance on how they might do that.

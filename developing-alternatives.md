@@ -3,6 +3,7 @@ title: Developing Alternatives
 publication: Developing Alternatives
 layout: default
 ---
+
 <div class="home grid">
   {% assign currentPosts = site.posts | where_exp: "post", "post.publication == 'Developing Alternatives'" %}
   {% assign posts = currentPosts | sort: 'date' | reverse %}

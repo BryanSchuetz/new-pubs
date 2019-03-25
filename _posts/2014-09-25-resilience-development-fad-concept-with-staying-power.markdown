@@ -1,6 +1,8 @@
 ---
 title: 'Resilience: Development Fad or Concept with Staying Power?'
-date: 2014-09-25 19:12:00 Z
+date: 2014-09-25 15:12:00 -04:00
+tags:
+- resilience
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Victor Tanner** has 25 years’ experience in recovery and governance
@@ -8,10 +10,8 @@ author-bio: "**Victor Tanner** has 25 years’ experience in recovery and govern
   impact of assistance during and after conflict."
 author: Victor Tanner
 featured?: 
-tags:
-- resilience
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 <p>Resilience—the ability of individuals, households, communities, institutions, nations, or even value chains and ecosystems, to withstand crises, recover from them, and adapt so as to better withstand them—has become an increasingly important concept for the international development community. The focus of donors on resilience has led their main counterparts—local groups, governments in recipient countries, and international nongovernmental organizations and development firms—to integrate the concept into programming.</p>

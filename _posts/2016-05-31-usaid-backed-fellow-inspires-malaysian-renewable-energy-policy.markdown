@@ -1,6 +1,9 @@
 ---
 title: USAID-Backed Fellow Inspires Malaysian Renewable Energy Policy
-date: 2016-05-31 19:27:00 Z
+date: 2016-05-31 15:27:00 -04:00
+tags:
+- environment-and-energy
+- governance
 publication: Developments
 issue: Summer 2016
 author-bio: Brian McMahon is a senior communications specialist at DAI.
@@ -11,11 +14,8 @@ assets:
   name: Devs----ASEAN-pic-1
 - path: "/uploads/Devs----Brian-McMahon-mug.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- governance
-thumbnail-image: /uploads/Devs----ASEAN-pic-1.jpg
-social-image: /uploads/Devs----ASEAN-pic-1.jpg
+thumbnail-image: "/uploads/Devs----ASEAN-pic-1.jpg"
+social-image: "/uploads/Devs----ASEAN-pic-1.jpg"
 ---
 
 When people think of solar energy, they often envision banks of solar panels producing electricity that powers lights and household appliances. While the use of photovoltaic cells to convert sunlight into electricity can contribute to reducing carbon emissions, another important and simpler use of the sun’s rays often goes overlooked: the generation of usable heat.

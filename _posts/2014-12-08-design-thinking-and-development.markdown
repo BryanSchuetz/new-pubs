@@ -1,6 +1,9 @@
 ---
 title: Design Thinking and Development
-date: 2014-12-08 17:19:00 Z
+date: 2014-12-08 12:19:00 -05:00
+tags:
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Innovation
 author-bio: Mike Rios left the advertising world to consult in the development sector,
@@ -10,11 +13,8 @@ author: Mike Rios, Jessica Heinzelman
 featured?: 
 assets:
 - path: "/uploads/pubs-story-8.jpg"
-tags:
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/pubs-story-8.jpg
-social-image: /uploads/pubs-story-8.jpg
+thumbnail-image: "/uploads/pubs-story-8.jpg"
+social-image: "/uploads/pubs-story-8.jpg"
 ---
 
 <p>DAI’s Jessica Heinzelman recently sat down with Mike Rios of 17 Triggers to discuss how we can make development projects more 'delightful'.

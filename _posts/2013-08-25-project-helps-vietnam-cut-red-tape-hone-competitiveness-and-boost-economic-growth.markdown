@@ -1,7 +1,10 @@
 ---
 title: Project Helps Vietnam Cut Red Tape, Hone Competitiveness, and Boost Economic
   Growth
-date: 2013-08-25 19:47:00 Z
+date: 2013-08-25 15:47:00 -04:00
+tags:
+- economic-growth
+- governance
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Manager at DAI and a former
@@ -11,11 +14,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-4.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- governance
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 A DAI-led project in Vietnam that touched the lives of 60,000 private businesspeople, partnered with five government entities, and many more institutions and groups has come to a close after 10 years.

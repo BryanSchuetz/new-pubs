@@ -1,6 +1,9 @@
 ---
 title: DIY Development
-date: 2014-12-04 20:32:00 Z
+date: 2014-12-04 15:32:00 -05:00
+tags:
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Innovation
 author-bio: "[Robert Ryan-Silva](http://dai.com/who-we-are/our-team/robert-ryan-silva)
@@ -12,11 +15,8 @@ assets:
   name: pubs-author-5
   author?: 'yes'
 - path: "/uploads/pubs-story-11.jpg"
-tags:
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/pubs-story-11.jpg
-social-image: /uploads/pubs-story-11.jpg
+thumbnail-image: "/uploads/pubs-story-11.jpg"
+social-image: "/uploads/pubs-story-11.jpg"
 ---
 
 Following the Fukushima nuclear accident, many Japanese people were concerned about radioactive contamination in their environment. Radiation data from the government and the private sector were out of date and widely viewed with skepticism. Were citizens safe in their homes, schools, and offices? Was the clean up effort effective?

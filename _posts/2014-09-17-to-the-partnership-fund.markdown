@@ -1,6 +1,8 @@
 ---
 title: The Partnership Fund
-date: 2014-09-17 15:32:00 Z
+date: 2014-09-17 11:32:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 issue: Winter 2013
 author-bio: "[Zaki Raheem](http://dai.com/who-we-are/our-team/zaki-raheem) recently
@@ -15,10 +17,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/partnership-1.jpg"
 - path: "/uploads/partnership-2.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/partnership-1.jpg
-social-image: /uploads/partnership-1.jpg
+thumbnail-image: "/uploads/partnership-1.jpg"
+social-image: "/uploads/partnership-1.jpg"
 ---
 
 <p>Prior to the fall of Siad Barre’s dictatorship in Somalia, all banks were owned by the state. When Somaliland declared independence from Somalia in 1991, the nascent government did not prioritize the establishment of a banking sector or regulatory environment to develop financial services. Today, Somaliland remains one of the few places in the world with no established commercial banking sector—resulting in a lack of access to capital that constrains the private sector.</p>

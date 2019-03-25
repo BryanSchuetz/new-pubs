@@ -1,6 +1,9 @@
 ---
 title: 'INVEST: On the Frontier of Gender-Lens Investing'
-date: 2019-03-02 19:54:00 Z
+date: 2019-03-02 14:54:00 -05:00
+tags:
+- gender
+- economic-growth
 publication: Developments
 issue: 
 author-bio: Lala Faiz is the Director of USAID’s INVEST initiative.
@@ -13,11 +16,8 @@ assets:
   name: GLI 2
 - path: "/uploads/Lalarukh-Faiz.jpg"
   author?: 'yes'
-tags:
-- gender
-- economic-growth
-thumbnail-image: /uploads/GLI-1.jpg
-social-image: /uploads/GLI-1.jpg
+thumbnail-image: "/uploads/GLI-1.jpg"
+social-image: "/uploads/GLI-1.jpg"
 ---
 
 Gender-lens investing is gaining momentum and for good reason.

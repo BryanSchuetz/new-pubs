@@ -1,7 +1,10 @@
 ---
 title: 'Sourcing the Wadi: How Palestinian Workers Are Filling Niche Needs in Israel’s
   IT Sector'
-date: 2017-10-17 18:17:00 Z
+date: 2017-10-17 14:17:00 -04:00
+tags:
+- economic-growth
+- digital-acceleration
 publication: Developments
 issue: Fall 2017
 author-bio: Mira Nasser is the gender, communications, and outreach specialist for
@@ -17,11 +20,8 @@ assets:
   name: Devs----Mira-Nasser-IT-PMDP-1
 - path: "/uploads/Mira-Nasser-new.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- digital-acceleration
-thumbnail-image: /uploads/Devs----Mira-Nasser-IT-PMDP-1.jpg
-social-image: /uploads/Devs----Mira-Nasser-IT-PMDP-1.jpg
+thumbnail-image: "/uploads/Devs----Mira-Nasser-IT-PMDP-1.jpg"
+social-image: "/uploads/Devs----Mira-Nasser-IT-PMDP-1.jpg"
 ---
 
 The Middle East hosts one of the fastest-growing high-tech industries in the world: Israel’s [Silicon Wadi](https://www.cnbc.com/2017/05/15/israels-high-tech-sector-is-thriving-and-now-china-wants-in-on-the-action.html). But the very speed of this growth means Israel’s tech sector also faces a shortage of skilled engineers. To deal with this shortage, Israel has turned largely to Eastern Europe as a source for IT workers. Though there is plenty of talent in Eastern Europe, the time difference is not ideal for collaborating and that talent is becoming costlier as global demand increases. This combination of circumstances means opportunities for Palestinians.

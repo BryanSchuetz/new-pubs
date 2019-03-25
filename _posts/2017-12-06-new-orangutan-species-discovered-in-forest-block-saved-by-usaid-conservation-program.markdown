@@ -1,7 +1,10 @@
 ---
 title: New Orangutan Species Discovered in Forest  Supported by USAID Conservation
   Program
-date: 2017-12-06 16:18:00 Z
+date: 2017-12-06 11:18:00 -05:00
+tags:
+- environment-and-energy
+- governance
 publication: Developments
 issue: Winter 2017
 author-bio: "[Shannon Dugan](https://www.dai.com/who-we-are/our-team/shannon-dugan),
@@ -24,11 +27,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Kevin-Carlucci-mug.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- governance
-thumbnail-image: /uploads/Devs----OCSP-4-closeup.jpg
-social-image: /uploads/Devs----OCSP-4-closeup.jpg
+thumbnail-image: "/uploads/Devs----OCSP-4-closeup.jpg"
+social-image: "/uploads/Devs----OCSP-4-closeup.jpg"
 ---
 
 More than eight years ago, DAI staff tromped through the Batang Toru forest of North Sumatra, Indonesia, counting nests, observing behavior, and collecting field evidence on one of the oldest members of the great ape family—the orangutan. What they did not realize was that this group of orangutans was an entirely unrecognized species—the Tapanuli orangutan—that we now know is endemic to 475 square miles of upland forest in the Batang Toru Ecosystem south of Lake Toba.

@@ -1,7 +1,10 @@
 ---
 title: Improved Pig Pens Help Northern Thailand Communities Brace for Effects of Climate
   Change
-date: 2015-03-24 21:19:00 Z
+date: 2015-03-24 17:19:00 -04:00
+tags:
+- agriculture
+- environment-and-energy
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Editor and a former journalist.
@@ -10,11 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-2.jpg"
   author?: 'yes'
-tags:
-- agriculture
-- environment-and-energy
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 For villagers in northern Thailand's Hae Ko hill tribe community, raising pigs is an integral part of their lives. Not only do the livestock serve as a critical protein source for the community and provide supplementary income, they are also culturally important as ceremonial gifts.

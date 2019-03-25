@@ -1,6 +1,8 @@
 ---
 title: 'The Service Provider Spectrum: From Microfinance to Financial Inclusion'
-date: 2014-09-02 19:03:00 Z
+date: 2014-09-02 15:03:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Joanna Ledgerwood
 issue: Financial Inclusion
@@ -12,8 +14,6 @@ assets:
 - path: "/uploads/joanna.jpg"
   name: joanna
   author?: 'yes'
-tags:
-- economic-growth
 thumbnail-image: /uploads/mckaysavage1.jpg"
 social-image: /uploads/mckaysavage1.jpg"
 ---

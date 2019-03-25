@@ -1,6 +1,9 @@
 ---
 title: Pro-Poor Business Law and Regulatory Reform
-date: 2014-09-25 14:05:00 Z
+date: 2014-09-25 10:05:00 -04:00
+tags:
+- resilience
+- economic-growth
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Rémy N. Kormos** is a senior legal and judicial reform specialist at
@@ -13,11 +16,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/kormos-2.jpg"
 - path: "/uploads/kormos-1.png"
-tags:
-- resilience
-- economic-growth
-thumbnail-image: /uploads/kormos-2.jpg
-social-image: /uploads/kormos-2.jpg
+thumbnail-image: "/uploads/kormos-2.jpg"
+social-image: "/uploads/kormos-2.jpg"
 ---
 
 Urbanization, globalization, and structural changes in the economies of many developing countries have contributed to the rapid growth of informal urban economies. In some Sub-Saharan countries, for example, up to 90 percent of nonagricultural employment is informal. 

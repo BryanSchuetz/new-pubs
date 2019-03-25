@@ -1,7 +1,10 @@
 ---
 title: Helping Eastern Partnership Countries Meet Their Commitments to Address Climate
   Change
-date: 2017-09-19 14:59:00 Z
+date: 2017-09-19 10:59:00 -04:00
+tags:
+- environment-and-energy
+- governance
 publication: Developments
 issue: Fall 2017
 author-bio: DAI’s [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan),
@@ -22,11 +25,8 @@ assets:
   name: Devs----Clima-East-1
 - path: "/uploads/Devs----Donald-Lunan-mug.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- governance
-thumbnail-image: /uploads/Devs----Clima-East-3.jpg
-social-image: /uploads/Devs----Clima-East-3.jpg
+thumbnail-image: "/uploads/Devs----Clima-East-3.jpg"
+social-image: "/uploads/Devs----Clima-East-3.jpg"
 ---
 
 The economies of Eastern Europe have grown in recent decades largely on the backs of heavy industry, mechanisation, and agriculture. In many countries, this has led to significant greenhouse gas emissions, a reliance on inefficient technologies, and a policy environment that did not support green growth. As part of their commitments to global climate change agreements, signatory countries pledged to reduce emissions. After committing to cleaner ways, however, these countries faced a common challenge: where to start?

@@ -1,6 +1,8 @@
 ---
 title: To Realize the Promise of Renewables, Address the Concerns of Local People
-date: 2017-12-08 19:29:00 Z
+date: 2017-12-08 14:29:00 -05:00
+tags:
+- environment-and-energy
 publication: Developments
 issue: Winter 2017
 author-bio: "[Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen),
@@ -19,10 +21,8 @@ assets:
   author?: 'Yes'
 - path: "/uploads/ProParque_Results.jpg"
   name: ProParque_Results
-tags:
-- environment-and-energy
-thumbnail-image: /uploads/ProParque_Results.jpg
-social-image: /uploads/ProParque_Results.jpg
+thumbnail-image: "/uploads/ProParque_Results.jpg"
+social-image: "/uploads/ProParque_Results.jpg"
 ---
 
 In 2009, in rural Pennsylvania, as head of the Renewable Energy Center, I attended a community meeting with the Army Corps of Engineers about a proposed wind farm in Ogletown, in Somerset County. I was told that previous meetings on the topic had been heated enough that a police presence was necessary—and welcomed. 

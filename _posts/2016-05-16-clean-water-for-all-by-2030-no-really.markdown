@@ -1,6 +1,9 @@
 ---
 title: Clean Water for All by 2030. No, Really.
-date: 2016-05-16 20:13:00 Z
+date: 2016-05-16 16:13:00 -04:00
+tags:
+- environment-and-energy
+- global-health
 publication: Developments
 issue: 
 author-bio: Charles Coon is editor of DAI's *Developments* newsletter.
@@ -17,11 +20,8 @@ assets:
   name: Devs----water-2
 - path: "/uploads/Devs----water-1.jpg"
   name: Devs----water-1
-tags:
-- environment-and-energy
-- global-health
-thumbnail-image: /uploads/Devs----water-2.jpg
-social-image: /uploads/Devs----water-2.jpg
+thumbnail-image: "/uploads/Devs----water-2.jpg"
+social-image: "/uploads/Devs----water-2.jpg"
 ---
 
 The audacity of United Nations Sustainable Development Goal No. 6—to ensure clean water and sanitation for all by 2030—is balanced by a few encouraging realities: there are myriad ways to attack the goal collectively, there is real clout behind global water initiatives, and—most promisingly—the world has already achieved notable results in water development. Since 1990, for example, more than 1.9 billion people have gained access to piped drinking water and 2.1 billion to improved sanitation, according to the UN.

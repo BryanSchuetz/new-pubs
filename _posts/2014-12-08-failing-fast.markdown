@@ -1,6 +1,8 @@
 ---
 title: Failing Fast
-date: 2014-12-08 18:37:00 Z
+date: 2014-12-08 13:37:00 -05:00
+tags:
+- innovation
 publication: Developments
 issue: Innovation
 author-bio: Sam Ng is the Innovation Advisor on the [Cambodia Development Innovations](http://dai.com/our-work/projects/cambodia—development-innovations)
@@ -12,10 +14,8 @@ assets:
 - path: "/uploads/pubs-author-7.jpg"
   name: pubs-author-7
   author?: 'yes'
-tags:
-- innovation
-thumbnail-image: /uploads/pubs-story-7.jpg
-social-image: /uploads/pubs-story-7.jpg
+thumbnail-image: "/uploads/pubs-story-7.jpg"
+social-image: "/uploads/pubs-story-7.jpg"
 ---
 
 <p>“Fail fast” is a mantra in Silicon Valley. While the development sector is starting to accept more failure—through “Fail Fairs” and reports centred around learning from failure—it is still far from achieving the speed of failure practiced in, for instance, the tech sector. Most development programmes don’t know if their program is failing months or even years after launch, whereas tech ideas can recognise failure within days. Can the development sector catch up?

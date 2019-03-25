@@ -1,6 +1,8 @@
 ---
 title: Poverty, Partnership, and the Pursuit of Innovation
-date: 2014-09-22 19:45:00 Z
+date: 2014-09-22 15:45:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: Summer 2014
 author-bio: "[James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard)
@@ -12,10 +14,8 @@ assets:
 - path: "/uploads/jimb-1.jpg"
   name: jimb-1
   author?: 'yes'
-tags:
-- dai
-thumbnail-image: /uploads/jimb.jpg
-social-image: /uploads/jimb.jpg
+thumbnail-image: "/uploads/jimb.jpg"
+social-image: "/uploads/jimb.jpg"
 ---
 
 <p>In February of this year, I had the honor of being appointed to the <a href="http://www.usaid.gov/who-we-are/organization/advisory-committee">Advisory Committee on Voluntary Foreign Aid</a>. ACVFA was established after World War II as a link between the U.S. Government and private organizations active in humanitarian and development work overseas.</p>

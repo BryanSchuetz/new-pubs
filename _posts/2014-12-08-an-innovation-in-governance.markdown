@@ -1,6 +1,9 @@
 ---
 title: An Innovation in Governance
-date: 2014-12-08 18:47:00 Z
+date: 2014-12-08 13:47:00 -05:00
+tags:
+- innovation
+- governance
 publication: Developments
 issue: Innovation
 author-bio: Guy Stuart is the executive director of Microfinance Opportunities. Jorrit
@@ -10,9 +13,6 @@ author: Guy Stuart, Linda Kaboolian and Jorrit de Jong
 featured?: 
 assets:
 - path: "/uploads/pubs-story-6.jpg"
-tags:
-- innovation
-- governance
 thumbnail-image: uploads/pubs-story-6.jpg
 social-image: uploads/pubs-story-6.jpg
 ---

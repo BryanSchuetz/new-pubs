@@ -1,6 +1,9 @@
 ---
 title: Four Steps to Advocate for Government Investment in Public Health
-date: 2018-12-03 21:51:00 Z
+date: 2018-12-03 16:51:00 -05:00
+tags:
+- global-health
+- governance
 publication: Developments
 issue: 
 author-bio: Blessing Stephen is the Health System Advisor for DAI Global Health on
@@ -16,11 +19,8 @@ assets:
   name: Devs----Nigeria-UNITED-5
 - path: "/uploads/Devs----Blessing-Stephen-Nigeria-UNITED.jpg"
   author?: 'yes'
-tags:
-- global-health
-- governance
-thumbnail-image: /uploads/Devs----new-pic-UNITED.jpg
-social-image: /uploads/Devs----new-pic-UNITED.jpg
+thumbnail-image: "/uploads/Devs----new-pic-UNITED.jpg"
+social-image: "/uploads/Devs----new-pic-UNITED.jpg"
 ---
 
 In Nigeria, as in many countries, the government faces practical hurdles to funding health systems adequately and preventing sickness and disease among its most susceptible citizens. As Health Systems Advisor for [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) on the [Integrated Approach to Neglected Tropical Diseases (UNITED)](https://www.dai.com/our-work/projects/nigeria-integrated-approach-to-neglected-tropical-diseases-united) programme, I advocate for increased, cost-effective health funding in Nigeria so more people can benefit from health services.

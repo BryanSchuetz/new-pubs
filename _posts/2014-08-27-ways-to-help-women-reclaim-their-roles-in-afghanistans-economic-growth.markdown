@@ -1,6 +1,9 @@
 ---
 title: Economic Empowerment Strategies for Afghan Women
-date: 2014-08-27 18:55:00 Z
+date: 2014-08-27 14:55:00 -04:00
+tags:
+- stability
+- economic-growth
 publication: Developments
 author: Anne Simmons-Benton, Jessica Heinzelman, and Jill Sackett
 issue: Summer 2012
@@ -11,11 +14,8 @@ assets:
 - path: "/uploads/afg-women1.jpg"
 - path: "/uploads/afg-women2.jpg"
 - path: "/uploads/afg-women3.jpg"
-tags:
-- stability
-- economic-growth
-thumbnail-image: /uploads/afg-women1.jpg
-social-image: /uploads/afg-women1.jpg
+thumbnail-image: "/uploads/afg-women1.jpg"
+social-image: "/uploads/afg-women1.jpg"
 ---
 
 <p>It was just a generation ago that many women in Afghanistan thrived in academia and the professional workplace. Their standing in society, like that of less privileged Afghan women, has since been destroyed.</p>

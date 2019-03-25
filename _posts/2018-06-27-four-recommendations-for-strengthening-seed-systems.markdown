@@ -1,6 +1,10 @@
 ---
 title: Four Recommendations for Strengthening Seed Systems
-date: 2018-06-27 18:37:00 Z
+date: 2018-06-27 14:37:00 -04:00
+tags:
+- economic-growth
+- agriculture
+- resilience
 publication: Developments
 issue: Summer 2018
 author-bio: DAI’s Tracy Mitchell, left, is a Senior Global Practice Specialist and
@@ -25,12 +29,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Don-Humpal-Devs-mug.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-- resilience
-thumbnail-image: /uploads/Devs----Seed-1.jpg
-social-image: /uploads/Devs----Seed-1.jpg
+thumbnail-image: "/uploads/Devs----Seed-1.jpg"
+social-image: "/uploads/Devs----Seed-1.jpg"
 ---
 
 Most people living in rural communities in developing countries depend on crops. While donor-funded seed development programs for staple crops have improved the capacity of seed companies, as well as their market connections and distribution systems, high-quality seeds of improved varieties are simply not reaching enough smallholder farmers.

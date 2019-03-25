@@ -1,6 +1,9 @@
 ---
 title: Customary Land Tenure
-date: 2014-09-29 20:49:00 Z
+date: 2014-09-29 16:49:00 -04:00
+tags:
+- resilience
+- governance
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Steven Lawry** has alternated between academic and research positions
@@ -12,11 +15,8 @@ author: Steven Lawry
 featured?: 
 assets:
 - path: "/uploads/lawry-1.jpg"
-tags:
-- resilience
-- governance
-thumbnail-image: /uploads/lawry-1.jpg
-social-image: /uploads/lawry-1.jpg
+thumbnail-image: "/uploads/lawry-1.jpg"
+social-image: "/uploads/lawry-1.jpg"
 ---
 
 <p>There is good reason to believe that customary tenure arrangements are conducive to community and household resilience in Sub-Saharan Africa. Without landed property of any kind, poor communities and households are less able to absorb shocks associated with loss of livelihood in the formal and informal wage economies through which rural households augment their modest farming incomes. Communal area homesteads are a means for investing in housing and livestock assets that constitute important forms of savings, particularly in times of financial and environmental stress. The ability to accumulate these and other assets, and to transfer them intergenerationally, would be diminished for many poor families if land could only be secured through purchase.</p>

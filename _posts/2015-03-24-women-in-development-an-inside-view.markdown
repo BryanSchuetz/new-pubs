@@ -1,6 +1,8 @@
 ---
 title: 'Women in Development: An Inside View'
-date: 2015-03-24 18:38:00 Z
+date: 2015-03-24 14:38:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: 
 author-bio: Sara Lehman is a Communications Specialist for DAI based in Bangkok.
@@ -10,10 +12,8 @@ assets:
 - path: "/uploads/Pic_SLehman.jpg"
   name: Pic_SLehman
   author?: 'yes'
-tags:
-- dai
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 In international development, one thing that everyone seems to agree on is that increasing women’s engagement in society has diverse and wide-reaching development benefits. Many people are familiar with some version of the adage: “If you educate a boy, you train a man. If you educate a girl, you train a village.” Expanding opportunities for women’s education, access to health services, economic participation, and leadership can have ripple effects that spur economic growth, promote political stability and peace, and improve public health.

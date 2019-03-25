@@ -1,6 +1,10 @@
 ---
 title: Onshore Fish Farms Flourish in Gaza
-date: 2016-12-06 17:01:00 Z
+date: 2016-12-06 12:01:00 -05:00
+tags:
+- economic-growth
+- resilience
+- agriculture
 publication: Developments
 issue: Spring 2017
 author-bio: Sami Alalul is the Senior Communications and Social Media Specialist for
@@ -32,12 +36,8 @@ assets:
   name: Devs----Gaza-fish-9
 - path: "/uploads/Devs----Gaza-fish-6.jpg"
   name: Devs----Gaza-fish-6
-tags:
-- economic-growth
-- resilience
-- agriculture
-thumbnail-image: /uploads/Devs----Gaza-fish-3jpg.jpg
-social-image: /uploads/Devs----Gaza-fish-3jpg.jpg
+thumbnail-image: "/uploads/Devs----Gaza-fish-3jpg.jpg"
+social-image: "/uploads/Devs----Gaza-fish-3jpg.jpg"
 ---
 
 In less than a year, an onshore fish farm in Gaza has more than tripled the amount of fish it grows and sells by applying technology and assistance from [The Compete Project](http://dai.com/our-work/projects/palestine%E2%80%94-compete-project) (Compete), a U.S. Agency for International Development (USAID) program implemented by DAI. 

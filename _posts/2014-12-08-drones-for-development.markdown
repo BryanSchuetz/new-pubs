@@ -1,6 +1,9 @@
 ---
 title: Drones for Development?
-date: 2014-12-08 19:25:00 Z
+date: 2014-12-08 14:25:00 -05:00
+tags:
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Innovation
 author-bio: "[John DeRiggi](http://dai.com/who-we-are/our-team/john-deriggi) of DAI
@@ -13,11 +16,8 @@ assets:
 - path: "/uploads/pubs-author-2.jpg"
   name: pubs-author-2
   author?: 'yes'
-tags:
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/pubs-story-4.jpg
-social-image: /uploads/pubs-story-4.jpg
+thumbnail-image: "/uploads/pubs-story-4.jpg"
+social-image: "/uploads/pubs-story-4.jpg"
 ---
 
 Recent advances in drone technology have come in tandem with advances in artificial intelligence. These converging technologies will give rise to fully autonomous drones that could play an important role in a host of applications, from commercial delivery systems to municipal governance–and quite possibly in international development activities.

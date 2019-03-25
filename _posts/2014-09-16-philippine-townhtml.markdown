@@ -1,17 +1,17 @@
 ---
 title: Facilitating e-Banking in the Philippines
-date: 2014-09-16 20:15:00 Z
+date: 2014-09-16 16:15:00 -04:00
+tags:
+- economic-growth
+- digital-acceleration
 publication: Developments
 author: John Jepsen and Mamerto Tangonan
 issue: Winter 2013
 author-bio: "[John Jepsen](http://dai.com/who-we-are/our-team/john-jepsen) is DAI’s
   Global Practice Leader for Financial Services. **Mamerto Tangonan** is the SIMM
   Chief of Party."
-tags:
-- economic-growth
-- digital-acceleration
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 <p>Most Filipino households and small businesses operate in a cash economy. Because many lack access to banks or formal financial services, they face a major barrier to economic advancement.</p>

@@ -1,6 +1,8 @@
 ---
 title: 'After Typhoon Haiyan: How Do We Build Back Better?'
-date: 2014-09-16 20:05:00 Z
+date: 2014-09-16 16:05:00 -04:00
+tags:
+- governance
 publication: Developments
 author: Del McCluskey
 issue: Winter 2013
@@ -12,10 +14,8 @@ assets:
   name: mccluskey
   author?: 'yes'
 - path: "/uploads/building_back_better.jpg"
-tags:
-- governance
-thumbnail-image: /uploads/building_back_better.jpg
-social-image: /uploads/building_back_better.jpg
+thumbnail-image: "/uploads/building_back_better.jpg"
+social-image: "/uploads/building_back_better.jpg"
 ---
 
 <p>On November 7, typhoon Haiyan tore through the central Philippines. While rescue and relief personnel have worked valiantly to meet the most urgent needs of the estimated 4.3 million people displaced, full recovery will take years and test the substance of the Philippines national and local governments and the international development community. The estimated impacts of this storm are huge, particularly in Leyte Province:</p>

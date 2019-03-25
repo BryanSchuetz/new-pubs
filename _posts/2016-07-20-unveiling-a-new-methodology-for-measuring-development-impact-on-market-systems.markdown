@@ -1,7 +1,13 @@
 ---
 title: Unveiling a New Methodology for Measuring Market Systems and Their Impact on
   Local Development
-date: 2016-07-20 20:29:00 Z
+date: 2016-07-20 16:29:00 -04:00
+tags:
+- innovation
+- economic-growth
+- governance
+- environment-and-energy
+- sustainable-business
 publication: Developments
 issue: 
 author-bio: Charles Coon is the editor of DAI's *Developments* newsletter.
@@ -12,14 +18,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----NDPI-side-1.jpg"
   name: Devs----NDPI-side-1
-tags:
-- innovation
-- economic-growth
-- governance
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/Devs----NDPI-side-1.jpg
-social-image: /uploads/Devs----NDPI-side-1.jpg
+thumbnail-image: "/uploads/Devs----NDPI-side-1.jpg"
+social-image: "/uploads/Devs----NDPI-side-1.jpg"
 ---
 
 When the Foundation for Partnership Initiatives in the Niger Delta (PIND) was launched with Chevron’s backing in 2010, it also meant that a time would come to assess whether the team was achieving its goals—primarily, to open doors for broad-based economic opportunity in the conflict-affected Delta.

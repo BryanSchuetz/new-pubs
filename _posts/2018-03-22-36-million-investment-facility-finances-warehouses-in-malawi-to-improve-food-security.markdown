@@ -1,7 +1,11 @@
 ---
 title: "$36 Million Investment Partnership Finances Warehouses in Malawi to Improve
   Food Security"
-date: 2018-03-22 15:04:00 Z
+date: 2018-03-22 11:04:00 -04:00
+tags:
+- economic-growth
+- agriculture
+- resilience
 publication: Developments
 issue: Spring 2018
 author-bio: Brian McCotter is director of strategic communications for the Southern
@@ -19,12 +23,8 @@ assets:
   name: Devs----SATIH-EIB-1
 - path: "/uploads/Devs----Brian-McCotter.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-- resilience
-thumbnail-image: /uploads/Devs----EIB-ASIF-1.jpg
-social-image: /uploads/Devs----EIB-ASIF-1.jpg
+thumbnail-image: "/uploads/Devs----EIB-ASIF-1.jpg"
+social-image: "/uploads/Devs----EIB-ASIF-1.jpg"
 ---
 
 Malawi has suffered from poor food production for decades—its 17 million people are mostly smallholder or subsistence farmers who have struggled to overcome drought, pests, and outdated farming practices. Even successful harvests are diminished because they have few options to process and store their crops for sale, resulting in post-harvest losses that cut deeply into already small profits. But development assistance from the United States and European Union is helping Malawi address its shortage of warehousing.

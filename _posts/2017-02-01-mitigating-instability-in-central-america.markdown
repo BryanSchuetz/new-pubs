@@ -1,6 +1,10 @@
 ---
 title: Six Ways to Mitigate Instability in Central America
-date: 2017-02-01 14:19:00 Z
+date: 2017-02-01 09:19:00 -05:00
+tags:
+- governance
+- economic-growth
+- fragile-states
 publication: Developments
 issue: Spring 2017
 author-bio: Charles Coon, left, is a senior communications writer  and editor of DAI’s
@@ -33,12 +37,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs--Robin-Young-mug.jpg"
   author?: 'yes'
-tags:
-- governance
-- economic-growth
-- fragile-states
-thumbnail-image: /uploads/Country-of-Origin-of-Children.jpg
-social-image: /uploads/Country-of-Origin-of-Children.jpg
+thumbnail-image: "/uploads/Country-of-Origin-of-Children.jpg"
+social-image: "/uploads/Country-of-Origin-of-Children.jpg"
 ---
 
 Some people might be surprised to know that most of the migrants trying to cross the U.S. southern border come not from Mexico but from countries to Mexico’s south.

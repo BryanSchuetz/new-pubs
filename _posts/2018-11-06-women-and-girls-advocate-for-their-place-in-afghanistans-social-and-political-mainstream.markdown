@@ -1,7 +1,11 @@
 ---
 title: Women and Girls Advocate for Their Place in Afghanistan’s Social and Political
   Mainstream
-date: 2018-11-06 19:06:00 Z
+date: 2018-11-06 14:06:00 -05:00
+tags:
+- governance
+- stability
+- gender
 publication: Developments
 issue: 
 author-bio: Bill Thomas is the communications director for USAID Promote’s Musharikat
@@ -25,12 +29,8 @@ assets:
   name: Devs----Musharikat-13
 - path: "/uploads/Devs----Musharikat-14.jpg"
   name: Devs----Musharikat-14
-tags:
-- governance
-- stability
-- gender
-thumbnail-image: /uploads/Devs----Musharikat-1.jpg
-social-image: /uploads/Devs----Musharikat-1.jpg
+thumbnail-image: "/uploads/Devs----Musharikat-1.jpg"
+social-image: "/uploads/Devs----Musharikat-1.jpg"
 ---
 
 Girls and women in Afghanistan are transitioning away from Taliban-era oppression to attend school, [get jobs](http://dai-global-developments.com/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/), and fully participate in mainstream life. Afghan leaders and politicians have enacted national laws to support this movement, but the reality in Afghanistan’s 34 provinces is another matter. Girls and women in too many locales routinely endure child/forced marriage, domestic assault, and injustice, and female leaders become targeted for reprisals. In the space between the national law and local reality, various groups are working to preserve hard-earned gains and advocate for Afghan women. This is the space where the Musharikat program works.

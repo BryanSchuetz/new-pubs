@@ -1,6 +1,9 @@
 ---
 title: Sustaining the Facebook Revolution
-date: 2015-03-04 10:00:00 Z
+date: 2015-03-04 05:00:00 -05:00
+tags:
+- stability
+- governance
 publication: Developments
 issue: Spring 2015
 author-bio: "[Michèle Piercey](http://dai.com/who-we-are/our-team/michele-piercey)
@@ -13,11 +16,8 @@ assets:
 - path: "/uploads/piercey-pic-3.jpg"
 - path: "/uploads/piercey-pic-1.jpg"
 - path: "/uploads/piercey-video-pic-1.jpg"
-tags:
-- stability
-- governance
-thumbnail-image: /uploads/piercey-pic-2.jpg
-social-image: /uploads/piercey-pic-2.jpg
+thumbnail-image: "/uploads/piercey-pic-2.jpg"
+social-image: "/uploads/piercey-pic-2.jpg"
 ---
 
 The nexus of social media, Internet access, and smartphone technology has spawned a revolution in political activism. Ordinary people using new technology and digital media platforms—people whose voices would otherwise be drowned out by dominant political forces—are now contributing to or joining political debates. And their price for admission is almost zero.

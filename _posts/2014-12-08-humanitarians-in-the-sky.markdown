@@ -1,6 +1,9 @@
 ---
 title: Humanitarians in the Sky
-date: 2014-12-08 19:33:00 Z
+date: 2014-12-08 14:33:00 -05:00
+tags:
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Innovation
 author-bio: Patrick Meier is director of Social Innovation at QCRI. He blogs at iRevolution
@@ -9,11 +12,8 @@ author: Patrick Meier
 featured?: 
 assets:
 - path: "/uploads/pubs-story-3.jpg"
-tags:
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/pubs-story-3.jpg
-social-image: /uploads/pubs-story-3.jpg
+thumbnail-image: "/uploads/pubs-story-3.jpg"
+social-image: "/uploads/pubs-story-3.jpg"
 ---
 
 Unmanned aerial vehicles (UAVs) capture images faster, cheaper, and at a far higher resolution than satellite imagery. And as John DeRiggi speculates in "<a href="/articles/drones-for-development">Drones for Development</a>?" these attributes will likely lead to a host of applications in development work. In the humanitarian field that future is already upon us—so we need to take a rights-based approach to advance the discussion, improve coordination of UAV flights, and to promote regulation that will ensure safety while supporting innovation.

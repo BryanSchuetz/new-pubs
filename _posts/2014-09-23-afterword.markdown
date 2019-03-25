@@ -1,16 +1,16 @@
 ---
 title: Afterword With Rick Barton
-date: 2014-09-23 17:28:00 Z
+date: 2014-09-23 13:28:00 -04:00
+tags:
+- resilience
+- governance
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: 
 author: 
 featured?: 
-tags:
-- resilience
-- governance
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 <p>After we had put together the Resilience journal, we had the opportunity to sit down with <a href="http://en.wikipedia.org/wiki/Rick_Barton_(diplomat)">Ambassador Rick Barton</a>, Assistant Secretary of State for Conflict and Stabilization Operations (CSO). Ambassador Barton has worked on problems of fragility, vulnerability, and instability in some 30 countries, and he has done so in various sectors of the development community: as Co-Director of the Post-Conflict Reconstruction Project at the Center for Strategic and International Studies, Deputy High Commissioner of the United Nations Refugee Agency, and founding director of the U.S. Agency for International Development’s Office of Transition Initiatives. He also taught for five years at Princeton’s Woodrow Wilson School. Below, we present brief excerpts of a wide-ranging discussion in which Ambassador Barton shared some of his personal reflections on the notion of resilience.</p>

@@ -1,7 +1,11 @@
 ---
 title: 'Simple Solutions: Nutrition and Garden Training in Afghanistan Improves Food
   Security for Thousands'
-date: 2016-12-05 17:15:00 Z
+date: 2016-12-05 12:15:00 -05:00
+tags:
+- agriculture
+- global-health
+- economic-growth
 publication: Developments
 issue: Spring 2017
 author-bio: Jessica Melton, left, is the Deputy Chief of Party and T. J. Bradley is
@@ -26,12 +30,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----T.J.-Bradley.jpg"
   author?: 'yes'
-tags:
-- agriculture
-- global-health
-- economic-growth
-thumbnail-image: /uploads/Devs----RADP-North-5.jpg
-social-image: /uploads/Devs----RADP-North-5.jpg
+thumbnail-image: "/uploads/Devs----RADP-North-5.jpg"
+social-image: "/uploads/Devs----RADP-North-5.jpg"
 ---
 
 As in many developing countries, mothers and children in rural Afghanistan suffer from chronic undernutrition, often because they lack knowledge. Thousands of families in northern Afghanistan are now enjoying improved nutrition and food security thanks to work by a U.S. Agency for International Development (USAID) economic growth program.

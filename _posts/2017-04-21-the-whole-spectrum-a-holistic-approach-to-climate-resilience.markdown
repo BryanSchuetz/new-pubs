@@ -1,6 +1,9 @@
 ---
 title: 'The Whole Spectrum: A Holistic Approach to Climate Resilience'
-date: 2017-04-21 11:27:00 Z
+date: 2017-04-21 07:27:00 -04:00
+tags:
+- environment-and-energy
+- resilience
 publication: Developments
 issue: Summer 2017
 author-bio: |-
@@ -11,11 +14,8 @@ featured?:
 assets:
 - path: "/uploads/randall picture devs.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- resilience
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 Climate change is a growing threat to [global stability and national security](https://www.defense.gov/News/Article/Article/612710/). Decades of fossil fuel combustion and unsustainable land use have contributed to [carbon dioxide levels](https://climate.nasa.gov/climate_resources/24/) in the planet’s atmosphere that are higher than in the past 4 million years. With so much carbon dioxide trapping heat in the atmosphere, the planet is getting warmer. Last year—2016—was the [hottest year](https://www.scientificamerican.com/article/2016-was-the-hottest-year-on-record/) on record and seas around the world have already risen an average of nearly 3 inches. We are already experiencing increased impacts from extreme events, such as floods and drought: while it is difficult to attribute any one event to the broader phenomenon of climate change, [Typhoon Yolanda](https://www.usaid.gov/haiyan/fy14/fs22) in the Philippines caused 6,100 deaths, displaced 4 million people, and damaged 1.1 million houses in 2013, with an estimated financial cost exceeding US$7 billion. 

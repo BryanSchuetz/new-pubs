@@ -1,6 +1,9 @@
 ---
 title: Improving Resilience of the HIV Affected
-date: 2014-10-06 18:27:00 Z
+date: 2014-10-06 14:27:00 -04:00
+tags:
+- resilience
+- global-health
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Colleen Green** is the Chief of Party, Tanzania Strengthening for Households
@@ -11,11 +14,8 @@ featured?:
 assets:
 - path: "/uploads/hiv-1.jpg"
 - path: "/uploads/hiv-2.jpg"
-tags:
-- resilience
-- global-health
-thumbnail-image: /uploads/hiv-1.jpg
-social-image: /uploads/hiv-1.jpg
+thumbnail-image: "/uploads/hiv-1.jpg"
+social-image: "/uploads/hiv-1.jpg"
 ---
 
 <p>Resilience has been defined as the ability to mitigate, adapt, absorb, and recover from hazards, shocks, and stresses in a manner that reduces chronic vulnerabilities. Vulnerability is a good starting point for any analysis of resilience; understanding chronic vulnerability can inform development programming to enhance resilience in various areas, whether in health, economic growth, climate change, or HIV mitigation.</p>

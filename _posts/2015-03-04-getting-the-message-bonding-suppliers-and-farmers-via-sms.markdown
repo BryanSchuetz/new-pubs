@@ -1,6 +1,9 @@
 ---
 title: Mutually Profitable Bonding of Suppliers and Farmers via SMS
-date: 2015-03-04 16:30:00 Z
+date: 2015-03-04 11:30:00 -05:00
+tags:
+- economic-growth
+- digital-acceleration
 publication: Developments
 issue: Spring 2015
 author-bio: "[Jessica Heinzelman] (http://dai.com/who-we-are/our-team/jessica-heinzelman)
@@ -13,11 +16,8 @@ assets:
 - path: "/uploads/JessicaHeinzelman.jpg"
   name: Heinzelman
   author?: 'yes'
-tags:
-- economic-growth
-- digital-acceleration
-thumbnail-image: /uploads/IDEA-NEW-Heinzelman-1.jpg
-social-image: /uploads/IDEA-NEW-Heinzelman-1.jpg
+thumbnail-image: "/uploads/IDEA-NEW-Heinzelman-1.jpg"
+social-image: "/uploads/IDEA-NEW-Heinzelman-1.jpg"
 ---
 
 *For prevention of weeds (Shen Guli), cut stems of weeds before producing seeds and put salty solution on cut stems. Abdul, Jalalabad, 0700555555*

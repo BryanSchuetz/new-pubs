@@ -1,7 +1,11 @@
 ---
 title: Afghan Cities Assisted by USAID Project Achieve Highest Ratings in Citizen
   Survey
-date: 2018-01-30 17:42:00 Z
+date: 2018-01-30 12:42:00 -05:00
+tags:
+- stability
+- governance
+- fragile-states
 publication: Developments
 issue: Spring 2018
 author-bio: Van James is Chief of Party of SHAHAR. Elizabeth Drachman is DAI’s Senior
@@ -19,12 +23,8 @@ assets:
   name: map-of-afghan-cities-in-survey-1
 - path: "/uploads/map-of-afghan-cities-in-survey Green.jpg"
   name: map-of-afghan-cities-in-survey Green
-tags:
-- stability
-- governance
-- fragile-states
-thumbnail-image: /uploads/map-of-afghan-cities-in-survey-1.jpg
-social-image: /uploads/map-of-afghan-cities-in-survey-1.jpg
+thumbnail-image: "/uploads/map-of-afghan-cities-in-survey-1.jpg"
+social-image: "/uploads/map-of-afghan-cities-in-survey-1.jpg"
 ---
 
 In a citizen assessment of government services in nine Afghan municipalities, the four that ranked the highest—Chaharikar, Hirat, Mazar-e-Sharif, and Jalalabad—are all partners with a U.S. Agency for International Development (USAID) project working to improve the capacity of Afghan municipal officials to meet citizen priorities and service delivery needs. 

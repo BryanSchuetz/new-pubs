@@ -1,6 +1,9 @@
 ---
 title: Training Videographers for Development in  Cambodia
-date: 2015-09-23 15:56:00 Z
+date: 2015-09-23 11:56:00 -04:00
+tags:
+- digital-acceleration
+- governance
 publication: Developments
 issue: Fall 2015
 author-bio: "[Kate Heuisler](http://dai.com/who-we-are/our-team/kate-heuisler), pictured,
@@ -18,11 +21,8 @@ assets:
   name: Devs----Low-Fuss-Media-pic-3
 - path: "/uploads/Heuisler_Inner.jpg"
   author?: 'yes'
-tags:
-- digital-acceleration
-- governance
-thumbnail-image: /uploads/Devs----Low-Fuss-Media-pic-2.jpg
-social-image: /uploads/Devs----Low-Fuss-Media-pic-2.jpg
+thumbnail-image: "/uploads/Devs----Low-Fuss-Media-pic-2.jpg"
+social-image: "/uploads/Devs----Low-Fuss-Media-pic-2.jpg"
 ---
 
 When Australian-Cambodian videographer Bunhom Chhorn returned to his native Cambodia in the early 2000s, he found the country nearly stripped of basic video expertise. There were no facilities, instruction, or equipment available to most people. Cambodian media overall had been greatly diminished by years of poverty and instability.

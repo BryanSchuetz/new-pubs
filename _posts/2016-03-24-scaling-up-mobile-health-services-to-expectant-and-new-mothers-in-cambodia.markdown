@@ -1,6 +1,10 @@
 ---
 title: Scaling Up Mobile Health Services to Expectant and New Mothers in Cambodia
-date: 2016-03-24 19:34:00 Z
+date: 2016-03-24 15:34:00 -04:00
+tags:
+- digital-acceleration
+- global-health
+- innovation
 publication: Developments
 issue: 
 author-bio: Vibol Theng, left, is Deputy Chief of Party at Development Innovations
@@ -16,12 +20,8 @@ assets:
   name: Devs----Cambodia-mHealth-2
 - path: "/uploads/Devs----Cambodia-mHealth-1.jpg"
   name: Devs----Cambodia-mHealth-1
-tags:
-- digital-acceleration
-- global-health
-- innovation
-thumbnail-image: /uploads/Devs----Cambodia-mHealth-1.jpg
-social-image: /uploads/Devs----Cambodia-mHealth-1.jpg
+thumbnail-image: "/uploads/Devs----Cambodia-mHealth-1.jpg"
+social-image: "/uploads/Devs----Cambodia-mHealth-1.jpg"
 ---
 
 Working in Cambodia, the Czech organization People in Need (PIN) had already produced a pilot maternal health product. Its mobile phone-based service—named Baby Care Village—was reaching select mothers and caregivers with messages on how to care for newborns. While the new service proved valuable, surveys indicated its messages were meeting just a fraction of the demand.

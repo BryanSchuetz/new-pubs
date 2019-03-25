@@ -1,6 +1,8 @@
 ---
 title: Measuring the Effectiveness of Government in Thailand’s Provinces
-date: 2015-07-07 17:59:00 Z
+date: 2015-07-07 13:59:00 -04:00
+tags:
+- governance
 publication: Developments
 issue: Fall 2015
 author-bio: Marjan Jukić is Regional Program Manager for the USAID Sapan Program.
@@ -13,10 +15,8 @@ assets:
   name: sapan-x
 - path: "/uploads/Marjan-Pic.jpg"
   author?: 'yes'
-tags:
-- governance
-thumbnail-image: /uploads/sapan-w.jpg
-social-image: /uploads/sapan-w.jpg
+thumbnail-image: "/uploads/sapan-w.jpg"
+social-image: "/uploads/sapan-w.jpg"
 ---
 
 Thailand enjoyed strong economic gains through the 1980s and 1990s, but political crises and civil unrest that have escalated since 2005 have damaged the country domestically. The prolonged constitutional crisis—culminating in the May 2014 military coup d’etat—has punished Thailand’s 67 million citizens by diminishing governance and public services. Civic pride, engagement, and trust in government are at historic lows, with ordinary people taking to the streets in protest and riot.

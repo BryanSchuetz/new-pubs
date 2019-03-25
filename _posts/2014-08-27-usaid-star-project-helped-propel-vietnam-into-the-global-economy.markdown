@@ -1,6 +1,8 @@
 ---
 title: USAID STAR Project Helped Propel Vietnam into the Global Economy
-date: 2014-08-27 18:36:00 Z
+date: 2014-08-27 14:36:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Charles Coon
 issue: Summer 2012
@@ -13,10 +15,8 @@ assets:
 - path: "/uploads/chuck1-1.jpg"
   name: chuck1-1
   author?: 'yes'
-tags:
-- economic-growth
-thumbnail-image: /uploads/us1.jpg
-social-image: /uploads/us1.jpg
+thumbnail-image: "/uploads/us1.jpg"
+social-image: "/uploads/us1.jpg"
 ---
 
 <p>In 2000, Vietnam was anxious to pump life into its economy. Less than a generation removed from a crippling war, the country faced challenges such as reducing poverty and creating enough jobs to absorb some 1.5 million people entering the labor force each year.</p>

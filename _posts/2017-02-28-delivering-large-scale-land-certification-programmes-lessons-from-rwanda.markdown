@@ -1,6 +1,10 @@
 ---
 title: 'Delivering Large-Scale Land Certification Programmes: Lessons from Rwanda'
-date: 2017-02-28 19:35:00 Z
+date: 2017-02-28 14:35:00 -05:00
+tags:
+- governance
+- environment-and-energy
+- land
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Owen Edwards was Deputy Team Leader from 2010 to 2013 with the DFID-funded
@@ -14,12 +18,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/mapping in field 1-1.jpg"
   name: mapping in field 1-1
-tags:
-- governance
-- environment-and-energy
-- land
-thumbnail-image: /uploads/mapping%20in%20field%201-1.jpg
-social-image: /uploads/mapping%20in%20field%201-1.jpg
+thumbnail-image: "/uploads/mapping%20in%20field%201-1.jpg"
+social-image: "/uploads/mapping%20in%20field%201-1.jpg"
 ---
 
 The challenge was steep but straightforward. Survey, collect, and clarify information for all land parcels in Rwanda—an estimated 7.9 million plots that eventually turned out to be millions more—and provide lease certificates to all rightful claimants. Never before attempted in Rwanda, yet alone accomplished, this feat had to be executed in line with Rwanda’s land law, completed in less than five years, and delivered “affordably.”

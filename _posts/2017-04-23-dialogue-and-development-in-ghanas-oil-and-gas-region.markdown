@@ -1,6 +1,11 @@
 ---
 title: Dialogue and Development in Ghana’s Oil and Gas Region
-date: 2017-04-23 14:08:00 Z
+date: 2017-04-23 10:08:00 -04:00
+tags:
+- land
+- governance
+- environment-and-energy
+- sustainable-business
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Felicity Buckle, left, is a member of the DAI Land Rights team and Bernice
@@ -17,13 +22,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/WB_Bernice_1.jpg"
   name: WB_Bernice_1
-tags:
-- land
-- governance
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/Ghana%20DevAlts.jpg
-social-image: /uploads/Ghana%20DevAlts.jpg
+thumbnail-image: "/uploads/Ghana%20DevAlts.jpg"
+social-image: "/uploads/Ghana%20DevAlts.jpg"
 ---
 
 In 2007, oil and gas was discovered off the coast of Ghana, leading to a boom in infrastructure projects and investment in the country’s Western Region, particularly in six coastal districts. Subsequently, large tracts of land have been taken over for the development of oil and gas infrastructure, businesses, pipelines, roads, and areas allocated for machinery repair. While this surge in activity has raised expectations for economic benefits among local communities, it has also spurred questions about resettlement and compensation, alternative livelihood and job opportunities, changes to land use, and food security. 

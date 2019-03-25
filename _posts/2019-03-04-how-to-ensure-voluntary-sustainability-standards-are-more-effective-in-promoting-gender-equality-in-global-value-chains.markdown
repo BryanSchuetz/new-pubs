@@ -1,7 +1,9 @@
 ---
 title: How to Ensure Voluntary Sustainability Standards are More Effective in Promoting
   Gender Equality in Global Value Chains
-date: 2019-03-04 19:45:00 Z
+date: 2019-03-04 14:45:00 -05:00
+tags:
+- gender
 publication: Developments
 issue: 
 author-bio: Amy Wilson-Lee is a Gender Equality and Social Inclusion Global Practice
@@ -19,10 +21,8 @@ assets:
   name: VSS and Gender Equality in Global Value Chains 2019
 - path: "/uploads/VSS and Gender Equality in Global Value Chains 2019-1.pdf"
   name: VSS and Gender Equality in Global Value Chains 2019-1
-tags:
-- gender
-thumbnail-image: /uploads/VSS-1.jpg
-social-image: /uploads/VSS-1.jpg
+thumbnail-image: "/uploads/VSS-1.jpg"
+social-image: "/uploads/VSS-1.jpg"
 ---
 
 Voluntary sustainability standards (VSS) are guidelines that industry producers, traders, manufacturers, retailers, or service providers are asked to meet that encourage respect for basic human rights, worker health and safety, environmental impacts, community relations, land-use planning, and more. The standards include certification and ethical branding—such as organic, forest friendly or fairtrade—as well as corporate, ethical, or sustainability standards suppliers are required to meet.

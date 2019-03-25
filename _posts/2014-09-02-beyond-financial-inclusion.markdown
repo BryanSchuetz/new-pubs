@@ -1,6 +1,8 @@
 ---
 title: Beyond Financial Inclusion
-date: 2014-09-02 18:27:00 Z
+date: 2014-09-02 14:27:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: David Porteous
 issue: Financial Inclusion
@@ -13,10 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/johnpamowens.jpg"
 - path: "/uploads/34639780@N07.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/34639780@N07.jpg
-social-image: /uploads/34639780@N07.jpg
+thumbnail-image: "/uploads/34639780@N07.jpg"
+social-image: "/uploads/34639780@N07.jpg"
 ---
 
 <p>The term 'financial inclusion' has rapidly entered the mainstream policy discourse in the past seven years. Outside of its natural home in the development community and the financial sector, it now features regularly even in tightly worded G20 Summit communiques.</p>

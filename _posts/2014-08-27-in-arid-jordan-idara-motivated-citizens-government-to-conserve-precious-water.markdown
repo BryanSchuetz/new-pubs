@@ -1,6 +1,9 @@
 ---
 title: In Arid Jordan, IDARA Motivated Citizens, Government to Conserve Precious Water
-date: 2014-08-27 15:58:00 Z
+date: 2014-08-27 11:58:00 -04:00
+tags:
+- environment-and-energy
+- governance
 publication: Developments
 author: Walter Weaver
 issue: Summer 2012
@@ -12,11 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/ia1.jpg"
 - path: "/uploads/ia2.jpg"
-tags:
-- environment-and-energy
-- governance
-thumbnail-image: /uploads/ia1.jpg
-social-image: /uploads/ia1.jpg
+thumbnail-image: "/uploads/ia1.jpg"
+social-image: "/uploads/ia1.jpg"
 ---
 
 <p>Five years ago, the Kingdom of Jordan took a critically important step to conserve its scarce water resources by approving a Water Demand Management (WDM) Policy. While many middle-income and advanced economies have overemphasized supply-side solutions—a costly, myopic, and ultimately inadequate response–water-starved Jordan is beginning to see the benefits of a more balanced strategy.</p>

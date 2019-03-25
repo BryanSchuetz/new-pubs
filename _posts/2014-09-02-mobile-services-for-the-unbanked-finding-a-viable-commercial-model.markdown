@@ -1,6 +1,8 @@
 ---
 title: 'Mobile Services for the Unbanked: Finding a Viable Commercial Model'
-date: 2014-09-02 20:29:00 Z
+date: 2014-09-02 16:29:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Prateek Shrivastava
 issue: Financial Inclusion
@@ -12,10 +14,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/johnpamowens-1.jpg"
 - path: "/uploads/diagram.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/diagram.jpg
-social-image: /uploads/diagram.jpg
+thumbnail-image: "/uploads/diagram.jpg"
+social-image: "/uploads/diagram.jpg"
 ---
 
 <p>Providing mobile financial services to improve <a href="http://dai.com/financial-inclusion?utm_source=guardian">financial inclusion</a> is an exciting proposition. Banks and non-banks alike see enormous promise in the ubiquitous mobile phone.</p>

@@ -1,6 +1,9 @@
 ---
 title: Rwandan National Park Project Honored as World’s Best by British Travel Writers
-date: 2014-09-02 16:03:00 Z
+date: 2014-09-02 12:03:00 -04:00
+tags:
+- environment-and-energy
+- economic-growth
 publication: Developments
 author: Jim Seyler
 issue: Spring 2013
@@ -12,11 +15,8 @@ assets:
 - path: "/uploads/seyler.jpg"
   name: seyler
   author?: 'yes'
-tags:
-- environment-and-energy
-- economic-growth
-thumbnail-image: /uploads/park.jpg
-social-image: /uploads/park.jpg
+thumbnail-image: "/uploads/park.jpg"
+social-image: "/uploads/park.jpg"
 ---
 
 <p>The Nyungwe Nziza project in Rwanda has been named winner of the prestigious British Guild of Travel Writers’ Best Overseas and Best Global Project Awards. At the recent annual awards dinner at the Savoy Hotel in London, Guild Chair Roger Bray said: “Nyungwe Nziza is a model tourism project for developing countries.”</p>

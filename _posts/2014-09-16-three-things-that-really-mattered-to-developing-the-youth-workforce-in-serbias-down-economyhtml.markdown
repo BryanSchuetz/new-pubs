@@ -1,7 +1,9 @@
 ---
 title: Three Things That Really Mattered to Developing the Youth Workforce in Serbia’s
   Down Economy
-date: 2014-09-16 16:37:00 Z
+date: 2014-09-16 12:37:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Michael Pillsbury
 issue: Summer 2013
@@ -9,10 +11,8 @@ author-bio: "**Michael Pillsbury** was Chief of Party for the PPES project. He n
   works in DAI's Delivery unit."
 assets:
 - path: "/uploads/ppes1.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/ppes1.jpg
-social-image: /uploads/ppes1.jpg
+thumbnail-image: "/uploads/ppes1.jpg"
+social-image: "/uploads/ppes1.jpg"
 ---
 
 <p>Workforce development was a relatively late addition to the $25 million <a href="http://dai.com/our-work/projects/serbia%E2%80%94preparedness-planning-and-economic-security-program-ppes">Preparedness, Planning and Economic Security (PPES)</a> project implemented by DAI from 2006 to early 2013. Added to the project by the client, the U.S. Agency for International Development (USAID) in mid-2008, the activities eventually became known as the “Youth Support” sub-component and addressed one of the most common issues raised by many small and medium sized enterprises—a dearth of qualified talent in Serbia. When we asked these firms what were some of the key barriers to growth one of the most common answers was: “I can’t find people with the skills I need for my business.”</p>

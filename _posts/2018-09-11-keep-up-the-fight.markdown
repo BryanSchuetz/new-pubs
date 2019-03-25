@@ -1,6 +1,9 @@
 ---
 title: Keep Up the Fight for High-Quality Education for All in Pakistan
-date: 2018-09-11 19:20:00 Z
+date: 2018-09-11 15:20:00 -04:00
+tags:
+- governance
+- education
 publication: Developments
 issue: Fall 2018
 author-bio: "[Mosharraf Zaidi](https://www.dai.com/who-we-are/our-team/mosharraf-zaidi)
@@ -18,9 +21,6 @@ assets:
   name: Devs----TEP-2-1
 - path: "/uploads/DEVS----4 (1)-1.jpg"
   name: DEVS----4 (1)-1
-tags:
-- governance
-- education
 thumbnail-image: uploads/Devs----TEP-2-1.jpg
 social-image: uploads/Devs----TEP-2-1.jpg
 ---

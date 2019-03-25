@@ -1,6 +1,9 @@
 ---
 title: Calculating the Fiscal Cost to Jordan of the Syrian Refugee Crisis
-date: 2014-09-22 18:29:00 Z
+date: 2014-09-22 14:29:00 -04:00
+tags:
+- economic-growth
+- governance
 publication: Developments
 issue: Summer 2014
 author-bio: "**Charles Coon** is the editor of Developments."
@@ -12,11 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/jordan_refugees.jpg"
 - path: "/uploads/jordan_refugees2.jpg"
-tags:
-- economic-growth
-- governance
-thumbnail-image: /uploads/jordan_refugees2.jpg
-social-image: /uploads/jordan_refugees2.jpg
+thumbnail-image: "/uploads/jordan_refugees2.jpg"
+social-image: "/uploads/jordan_refugees2.jpg"
 ---
 
 <p>Since 2011, the Syrian conflict has killed more than 100,000 people and destroyed countless homes and businesses, forcing Syrians by the thousands to seek refuge in the region. Jordan generously opened its borders to these refugees, who settled in camps established by the United Nations and in northern cities such as Irbid, Ramtha, and Mafraq, resulting in a rapid, nearly 10 percent increase in the population.</p>

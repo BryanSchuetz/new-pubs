@@ -1,6 +1,9 @@
 ---
 title: 'Financial Services Via Mobile Phone '
-date: 2014-10-06 20:31:00 Z
+date: 2014-10-06 16:31:00 -04:00
+tags:
+- resilience
+- digital-acceleration
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "[John Jepsen](http://dai.com/who-we-are/our-team/john-jepsen) is DAI's
@@ -12,11 +15,8 @@ assets:
 - path: "/uploads/Jepsen_Inner-1.jpg"
   name: Jepsen_Inner-1
   author?: 'yes'
-tags:
-- resilience
-- digital-acceleration
-thumbnail-image: /uploads/jepsen-1.jpg
-social-image: /uploads/jepsen-1.jpg
+thumbnail-image: "/uploads/jepsen-1.jpg"
+social-image: "/uploads/jepsen-1.jpg"
 ---
 
 <p>Poor households, smallholder farmers, and small and medium-sized enterprises require a range of financial services to stabilize income, plan for the future, respond to shocks, and invest in their households, communities, and businesses. For example, savings allow households to smooth income when an unexpected cost hits home. Insurance provides a safety mechanism to cover losses after a severe weather incident, death, or other trauma. Credit supports re-investment after a disaster or steadies seasonal cash crunches. Financial services are, in short, critical to individual, household, and community resiliency.</p>

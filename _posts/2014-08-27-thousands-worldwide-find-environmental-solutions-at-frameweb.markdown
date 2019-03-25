@@ -1,6 +1,8 @@
 ---
 title: Thousands Worldwide Find Environmental Solutions at FRAMEWeb
-date: 2014-08-27 18:26:00 Z
+date: 2014-08-27 14:26:00 -04:00
+tags:
+- environment-and-energy
 publication: Developments
 author: Carmen Tedesco
 issue: Summer 2012
@@ -11,10 +13,8 @@ assets:
   name: carmen
   author?: 'yes'
 - path: "/uploads/fw1.jpg"
-tags:
-- environment-and-energy
-thumbnail-image: /uploads/fw1.jpg
-social-image: /uploads/fw1.jpg
+thumbnail-image: "/uploads/fw1.jpg"
+social-image: "/uploads/fw1.jpg"
 ---
 
 <p>Biogas projects in Africa have a worthy goal—to cheaply convert waste into fuel—but a discouraging record of failure. Reliable biogas operations require specific conditions and careful maintenance. So when Alvaro Gutierrez from Colombia set out to launch a biogas program in Kenya, he reached out for advice and found it, for free, from colleagues all over the world.</p>

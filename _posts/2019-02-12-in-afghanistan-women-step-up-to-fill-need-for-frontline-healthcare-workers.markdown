@@ -1,6 +1,10 @@
 ---
 title: In Afghanistan, Women Step Up to Fill Need for Frontline Healthcare Workers
-date: 2019-02-12 19:14:00 Z
+date: 2019-02-12 14:14:00 -05:00
+tags:
+- global-health
+- gender
+- education
 publication: Developments
 issue: 
 author-bio: 'Mare Elston is Technical Services Manager for the USAID Promote: Women
@@ -20,12 +24,8 @@ assets:
   name: Devs----Afghan-WIE-health-4
 - path: "/uploads/Mare-Elston-(1).jpg"
   author?: 'yes'
-tags:
-- global-health
-- gender
-- education
-thumbnail-image: /uploads/Devs----Afghan-WIE-5.jpg
-social-image: /uploads/Devs----Afghan-WIE-5.jpg
+thumbnail-image: "/uploads/Devs----Afghan-WIE-5.jpg"
+social-image: "/uploads/Devs----Afghan-WIE-5.jpg"
 ---
 
 Communities across Afghanistan—especially the dispersed populations in rural areas—have long endured a lack of basic health services due to low numbers of trained health workers and chronic security issues. But this situation is improving. Today, a program to bolster women’s inclusion in Afghanistan’s mainstream economy is also serving to fill high-priority needs in maternal and infant care, vaccination, skilled nursing, and other health services.

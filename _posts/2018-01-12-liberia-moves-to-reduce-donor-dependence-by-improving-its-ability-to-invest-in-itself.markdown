@@ -1,7 +1,10 @@
 ---
 title: Liberia Moves to Reduce Donor Dependence by Improving its Ability to Invest
   in Itself
-date: 2018-01-12 19:32:00 Z
+date: 2018-01-12 14:32:00 -05:00
+tags:
+- governance
+- finance
 publication: Developments
 issue: Winter 2017
 author-bio: DAI's [Alexander Kitain](https://www.dai.com/who-we-are/our-team/alexander-kitain),
@@ -14,11 +17,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Coon-mug-2.jpg"
   author?: 'yes'
-tags:
-- governance
-- finance
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 Liberia has endured much turmoil in recent decades. Civil wars in the 1990s and 2000s saw the mass destruction of dams, bridges, power lines, and other infrastructure. Many of Liberia's best and brightest citizens emigrated. Suffering from a large budget deficit, its government developed a deeper dependence on foreign aid. Furthermore, the Ebola virus epidemic of 2014–2015 killed more than 4,800 Liberians and terrified the country.

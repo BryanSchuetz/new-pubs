@@ -1,6 +1,10 @@
 ---
 title: Engaging Both Men and Women to Link Nutrition to Agriculture
-date: 2016-03-11 14:00:00 Z
+date: 2016-03-11 09:00:00 -05:00
+tags:
+- resilience
+- agriculture
+- global-health
 publication: Developments
 issue: 
 author-bio: Robert Chizimba, left, is Deputy Chief of Party for Nutrition and Martina
@@ -16,12 +20,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Fongyen.jpg"
   author?: 'yes'
-tags:
-- resilience
-- agriculture
-- global-health
-thumbnail-image: /uploads/Devs----Malawi-INVC-care-groups-2.jpg
-social-image: /uploads/Devs----Malawi-INVC-care-groups-2.jpg
+thumbnail-image: "/uploads/Devs----Malawi-INVC-care-groups-2.jpg"
+social-image: "/uploads/Devs----Malawi-INVC-care-groups-2.jpg"
 ---
 
 Severe food insecurity and a lack of diversified farming systems present serious challenges to Malawi’s government and development community. One great obstacle is misinformation. Many Malawians hold deep misconceptions about food—for example, that eating oranges or other citrus will shrivel a mother’s breasts. This misinformation works against a population whose rates of malnutrition and stunting—while declining in recent years—remain alarmingly high at nearly 50 percent.

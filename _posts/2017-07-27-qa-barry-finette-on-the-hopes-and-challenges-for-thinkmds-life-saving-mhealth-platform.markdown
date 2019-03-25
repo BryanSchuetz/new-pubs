@@ -1,7 +1,11 @@
 ---
 title: 'Q&A: Barry Finette on the Hopes and Challenges for THINKMD’s Life-Saving mHealth
   Platform'
-date: 2017-07-27 17:01:00 Z
+date: 2017-07-27 13:01:00 -04:00
+tags:
+- global-health
+- innovation
+- digital-acceleration
 publication: Developments
 issue: Fall 2017
 author-bio: 
@@ -18,12 +22,8 @@ assets:
   name: Devs----Finette-QA-3
 - path: "/uploads/Devs----Finette-QA-4.jpg"
   name: Devs----Finette-QA-4
-tags:
-- global-health
-- innovation
-- digital-acceleration
-thumbnail-image: /uploads/Devs----Finette-QA-3.jpg
-social-image: /uploads/Devs----Finette-QA-3.jpg
+thumbnail-image: "/uploads/Devs----Finette-QA-3.jpg"
+social-image: "/uploads/Devs----Finette-QA-3.jpg"
 ---
 
 DAI and THINKMD connected in 2016 through DAI’s [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-begin-implement-their-solutions-field). Our strategic partnership will leverage DAI’s international development network to bring THINKMD’s digital health products to new markets, while THINKMD’s technology will enhance DAI’s global health toolkit. As part of this partnership, [DAI led THINKMD’s latest financing round](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology).

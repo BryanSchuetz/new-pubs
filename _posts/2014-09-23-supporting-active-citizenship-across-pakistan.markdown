@@ -1,6 +1,8 @@
 ---
 title: Supporting Active Citizenship Across Pakistan
-date: 2014-09-23 13:06:00 Z
+date: 2014-09-23 09:06:00 -04:00
+tags:
+- governance
 publication: Developments
 issue: Summer 2014
 author-bio: "**Kanwal Manzoor** is Programme Specialist-Communications, and **Sereena
@@ -10,10 +12,8 @@ featured?:
 assets:
 - path: "/uploads/aawaz-3.jpg"
 - path: "/uploads/aawaz-2-1.jpg"
-tags:
-- governance
-thumbnail-image: /uploads/aawaz-3.jpg
-social-image: /uploads/aawaz-3.jpg
+thumbnail-image: "/uploads/aawaz-3.jpg"
+social-image: "/uploads/aawaz-3.jpg"
 ---
 
 <p>Danish Bibi was to be married off illiterate and homebound to a husband not of her choosing. Usman Ghani saw neighborhood children routinely die for lack of health services. Brothers Ishaq and Saleem feuded for years over the same plot of land.</p>

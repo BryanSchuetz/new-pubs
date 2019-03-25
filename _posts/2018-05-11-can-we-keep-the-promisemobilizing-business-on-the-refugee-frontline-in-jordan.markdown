@@ -1,7 +1,12 @@
 ---
 title: "Can We Keep the Promise?\r\nMobilizing Business on the Refugee Frontline in
   Jordan"
-date: 2018-05-11 13:53:00 Z
+date: 2018-05-11 09:53:00 -04:00
+tags:
+- stability
+- fragile-states
+- resilience
+- economic-growth
 publication: Developments
 issue: Summer 2018
 author-bio: "[Marwan Juma](https://www.dai.com/who-we-are/board/marwan-juma) is a
@@ -13,13 +18,8 @@ featured?:
 assets:
 - path: "/uploads/Marwan.png"
   author?: 'yes'
-tags:
-- stability
-- fragile-states
-- resilience
-- economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 In recent years, lower- and middle-income countries have borne the brunt of the global refugee crisis, currently hosting more than 80 percent of the world’s refugees. But some host countries, like [Jordan](http://dai-global-developments.com/articles/calculating-syrian-refugee-crisis-fiscal-crisis/), are taking important steps to seize what opportunities they can in this situation, supporting refugee self-reliance and at the same time boosting their own economy by issuing work permits to refugees and connecting multinational companies to business opportunities with local firms and displaced people.

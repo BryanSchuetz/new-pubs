@@ -1,6 +1,9 @@
 ---
 title: 'Doing More with Doing Business: Vietnam Provincial Competitiveness Index'
-date: 2013-08-23 00:00:00 Z
+date: 2013-08-22 20:00:00 -04:00
+tags:
+- economic-growth
+- governance
 publication: DAIdeas
 author: Jim Winkler
 issue: 
@@ -13,11 +16,8 @@ assets:
   title: 
   author?: 'yes'
 - path: "/uploads/vnci.jpg"
-tags:
-- economic-growth
-- governance
-thumbnail-image: /uploads/vnci.jpg
-social-image: /uploads/vnci.jpg
+thumbnail-image: "/uploads/vnci.jpg"
+social-image: "/uploads/vnci.jpg"
 ---
 
 <p>On its 10th anniversary, the World Bank’s <em>Doing Business</em> project is under serious scrutiny. Some would go so far as to call it an outright attack—designed to roll back or even get rid of the index—allegedly driven by countries unhappy with their <em>Doing Business</em> rankings or by disgruntled Bank economists dubious of the index’s methodology.</p>

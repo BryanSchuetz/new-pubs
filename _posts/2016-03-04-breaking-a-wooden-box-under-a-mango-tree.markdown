@@ -1,7 +1,11 @@
 ---
 title: Savings Groups Enabling Hundreds of Smallholders in Mozambique to Buy Certified
   Seed
-date: 2016-03-04 20:23:00 Z
+date: 2016-03-04 15:23:00 -05:00
+tags:
+- agriculture
+- resilience
+- economic-growth
 publication: Developments
 issue: Summer 2016
 author-bio: DAI’s [Bhairav Raja](http://dai.com/who-we-are/our-team/bhairav-raja)
@@ -17,12 +21,8 @@ assets:
   name: Devs----Bhairav-Raja-3
 - path: "/uploads/Devs----Bhairav-Raja-pic-3.jpg"
   author?: 'yes'
-tags:
-- agriculture
-- resilience
-- economic-growth
-thumbnail-image: /uploads/Devs----Bhairav-Raja-pic-1.jpg
-social-image: /uploads/Devs----Bhairav-Raja-pic-1.jpg
+thumbnail-image: "/uploads/Devs----Bhairav-Raja-pic-1.jpg"
+social-image: "/uploads/Devs----Bhairav-Raja-pic-1.jpg"
 ---
 
 Dressed in the splendour of her finest cotton capulana, Angira and her friends sit in the 40-degree heat, shaded by the leafy branches of an old mango tree. Together, they eagerly await the arrival of the village leader so they can proceed to unlock a wooden box containing their seasonal accrual of cash savings.

@@ -1,7 +1,10 @@
 ---
 title: With Elections Looming, Can Pakistan Fulfill Its Education Promise to Unschooled
   Children?
-date: 2018-01-23 11:30:00 Z
+date: 2018-01-23 06:30:00 -05:00
+tags:
+- stability
+- governance
 publication: Developments
 issue: Spring 2018
 author-bio: '<p style="display: block; float: right;" >Harry Wynne-Williams, left,
@@ -31,11 +34,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Naomi-Somerville-Large.jpg"
   author?: 'yes'
-tags:
-- stability
-- governance
-thumbnail-image: /uploads/Devs----TEP-5.jpg
-social-image: /uploads/Devs----TEP-5.jpg
+thumbnail-image: "/uploads/Devs----TEP-5.jpg"
+social-image: "/uploads/Devs----TEP-5.jpg"
 ---
 
 More than 23 million children in Pakistan do not attend school. More than half of children who start at government schools drop out before completing primary school. These stark facts are harming a rising generation of Pakistanis already vulnerable to unemployment, instability, and extremism. And while upper-class Pakistanis enjoy excellent private schools and universities, much of the rest of the country has become resigned to derelict classrooms and substandard government-provided education.

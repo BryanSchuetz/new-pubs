@@ -1,6 +1,9 @@
 ---
 title: 'Generation Rising: Young, Educated Afghan Women Enter the Workforce'
-date: 2017-05-05 17:56:00 Z
+date: 2017-05-05 13:56:00 -04:00
+tags:
+- economic-growth
+- gender
 publication: Developments
 issue: Summer 2017
 author-bio: 'DAI’s Michelle Morgan, left, is the Chief of Party for USAID Promote:
@@ -24,11 +27,8 @@ assets:
   name: Devs----Afgh-WIE-6
 - path: "/uploads/DEVS----Afgh-WIE-2.jpg"
   name: DEVS----Afgh-WIE-2
-tags:
-- economic-growth
-- gender
-thumbnail-image: /uploads/Devs----Afgh-WIE-3.jpg
-social-image: /uploads/Devs----Afgh-WIE-3.jpg
+thumbnail-image: "/uploads/Devs----Afgh-WIE-3.jpg"
+social-image: "/uploads/Devs----Afgh-WIE-3.jpg"
 ---
 
 It is hard to believe in the wake of the past few decades that 1960s and ’70s Afghanistan was relatively progressive for women, with many women and girls freely attending school, working professionally, and dressing fashionably. Since the 1990s, warlords and, later, the conquering Taliban subjugated females—forbidding girls from going to school and women from working.

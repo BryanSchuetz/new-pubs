@@ -1,6 +1,9 @@
 ---
 title: Discovering Pathways to Economic Growth in Somalia, Discreetly
-date: 2015-12-22 20:42:00 Z
+date: 2015-12-22 15:42:00 -05:00
+tags:
+- economic-growth
+- fragile-states
 publication: Developments
 issue: Winter 2015
 author-bio: James Naughton is the program manager for Promoting Inclusive Markets
@@ -18,11 +21,8 @@ assets:
   name: Devs -- Naughton 2
 - path: "/uploads/Naughton-pic.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- fragile-states
-thumbnail-image: /uploads/Devs%20--%20Naughton%201.jpg
-social-image: /uploads/Devs%20--%20Naughton%201.jpg
+thumbnail-image: "/uploads/Devs%20--%20Naughton%201.jpg"
+social-image: "/uploads/Devs%20--%20Naughton%201.jpg"
 ---
 
 Somalis have suffered through a generation of conflict and political instability, with no formal national government since the outbreak of civil war in 1991. An estimated 500,000 Somalis died during the conflict, which left Somalia unable to support its people and an economy in dire straits. Yet following the formation in 2012 of the first federal national government since the war began, signs of progress have begun to emerge. A more settled political landscape and improving security—thanks to continuing action against Al-Shabaab—have seen Somalia graduate from a failed to a fragile state.

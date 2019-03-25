@@ -1,6 +1,9 @@
 ---
 title: Inexpensive Mobile Platform Connects Agribusinesses to Work Together Better
-date: 2014-09-02 14:57:00 Z
+date: 2014-09-02 10:57:00 -04:00
+tags:
+- digital-acceleration
+- economic-growth
 publication: Developments
 author: Chuck Coon
 issue: Spring 2013
@@ -12,11 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/farmer1.jpg"
 - path: "/uploads/farmer2.jpg"
-tags:
-- digital-acceleration
-- economic-growth
-thumbnail-image: /uploads/farmer2.jpg
-social-image: /uploads/farmer2.jpg
+thumbnail-image: "/uploads/farmer2.jpg"
+social-image: "/uploads/farmer2.jpg"
 ---
 
 <p>For more than 10 years, DAI has been integrating information, communication, and geospatial technology into our work around the globe.</p>

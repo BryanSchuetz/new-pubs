@@ -1,7 +1,11 @@
 ---
 title: 'PolSEFF’s Legacy: Lower Energy Bills for Businesses Across Poland; a Financing
   Model to Scale and Replicate'
-date: 2017-05-30 17:37:00 Z
+date: 2017-05-30 13:37:00 -04:00
+tags:
+- economic-growth
+- finance
+- environment-and-energy
 publication: Developments
 issue: Summer 2017
 author-bio: DAI’s [Anne-Sofia Holmberg ](https://www.dai.com/who-we-are/our-team/anne-sofia-holmberg)
@@ -18,12 +22,8 @@ assets:
   name: PH_Jarex
 - path: "/uploads/PolSEFF_award.jpg"
   name: PolSEFF_CEE_Award
-tags:
-- economic-growth
-- finance
-- environment-and-energy
-thumbnail-image: /uploads/PolSEFF_award.jpg
-social-image: /uploads/PolSEFF_award.jpg
+thumbnail-image: "/uploads/PolSEFF_award.jpg"
+social-image: "/uploads/PolSEFF_award.jpg"
 ---
 
 While Poland’s private sector grew steadily in the post-Soviet era, its reliance on old energy equipment and poorly insulated facilities contributed to the country becoming one of the highest energy consumers in Europe. In 2010, when the European Bank for Reconstruction and Development (EBRD) launched the [Polish Sustainable Energy Financing Facility ](https://www.dai.com/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)(PolSEFF), few business owners had invested in energy efficiency measures compared with the European Union average, and Polish lending institutions were not prepared to finance these types of upgrades. As a result, business owners continued to pay unnecessarily high energy bills and emit unnecessarily high amounts of carbon.

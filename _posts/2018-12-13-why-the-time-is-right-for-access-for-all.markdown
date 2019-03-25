@@ -1,6 +1,9 @@
 ---
 title: Why the Time is Right for Access for All
-date: 2018-12-13 15:12:00 Z
+date: 2018-12-13 10:12:00 -05:00
+tags:
+- DAI
+- economic-growth
 publication: Developments
 issue: Winter 2018
 author-bio: "[James J. (Jim) Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)
@@ -16,11 +19,8 @@ assets:
   name: Devs----Boomgard-2
 - path: "/uploads/Devs----Boomgard-3.jpg"
   name: Devs----Boomgard-3
-tags:
-- DAI
-- economic-growth
-thumbnail-image: /uploads/Devs----Boomgard-3.jpg
-social-image: /uploads/Devs----Boomgard-3.jpg
+thumbnail-image: "/uploads/Devs----Boomgard-3.jpg"
+social-image: "/uploads/Devs----Boomgard-3.jpg"
 ---
 
 *Following is DAI CEO Jim Boomgard’s Foreword to [Access for All](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion), Brigit Helms' new book on economic inclusion:*

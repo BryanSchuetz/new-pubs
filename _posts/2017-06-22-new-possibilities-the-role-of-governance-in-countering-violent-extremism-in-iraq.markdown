@@ -1,7 +1,9 @@
 ---
 title: 'New Possibilities: The Role of Governance in Countering Violent Extremism
   in Iraq'
-date: 2017-06-22 17:09:00 Z
+date: 2017-06-22 13:09:00 -04:00
+tags:
+- governance
 publication: DAIdeas
 issue: 
 author-bio: "**John Lister** is Chief of Party for the USAID Iraq Governance and Performance
@@ -25,10 +27,8 @@ assets:
   name: saladdin
 - path: "/uploads/quadissya.jpg"
   name: quadissya
-tags:
-- governance
-thumbnail-image: /uploads/Devs----Lister-1.jpg
-social-image: /uploads/Devs----Lister-1.jpg
+thumbnail-image: "/uploads/Devs----Lister-1.jpg"
+social-image: "/uploads/Devs----Lister-1.jpg"
 ---
 
 Can improving governance contribute to the fight against violent extremism? While the absence of good governance is often cited as a driver of violent extremism, it is less clear how the *presence* of good governance can contribute to its reduction. In the case of Iraq, violence has not only been endemic for much of its modern history, but violence itself was the basis of governance and often glorified as a legitimate lever of change. This paper explores how improving governance can both inhibit radicalization and promote de-radicalization, drawing in part on examples taken from U.S. Agency for International Development (USAID) and other projects in Iraq, Afghanistan, and Sudan.

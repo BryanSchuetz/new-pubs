@@ -1,6 +1,10 @@
 ---
 title: Improving Nutrition While Easing the Workload on Women
-date: 2015-12-18 20:31:00 Z
+date: 2015-12-18 15:31:00 -05:00
+tags:
+- economic-growth
+- global-health
+- agriculture
 publication: Developments
 issue: Winter 2015
 author-bio: Isaac Masingati is the communications officer for Feed the Future—Malawi
@@ -16,12 +20,8 @@ assets:
   name: Devs----INVC-pic-1
 - path: "/uploads/Devs----INVC-Isaac-Masingati.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- global-health
-- agriculture
-thumbnail-image: /uploads/Devs----INVC-pic-1.jpg
-social-image: /uploads/Devs----INVC-pic-1.jpg
+thumbnail-image: "/uploads/Devs----INVC-pic-1.jpg"
+social-image: "/uploads/Devs----INVC-pic-1.jpg"
 ---
 
 When the villagers of Makhoyo in southern Malawi were introduced to the concept of backyard gardens, few of them gave it much thought. Residents had farmed soy and groundnuts for generations in this area. It seemed too simple to be true: to grow vegetables easily at home, especially during the dry offseason.

@@ -1,7 +1,9 @@
 ---
 title: Enhancing Productivity in Nigerian Aquaculture
-date: 2015-07-14 13:49:00 Z
+date: 2015-07-14 09:49:00 -04:00
 published: false
+tags:
+- economic-growth
 publication: DAIdeas
 issue: 
 author-bio: "[Bill Grant](http://dai.com/who-we-are/our-team/bill-grant) is DAI's
@@ -12,10 +14,8 @@ assets:
 - path: "/uploads/newbilly-1.jpg"
   name: newbilly-1
   author?: 'yes'
-tags:
-- economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 <p>In the Niger Delta, the critical problem we identified in the aquaculture sector was poor farm productivity, leading to low profits. Analysis showed that farmers could significantly increase their profits if they applied better production techniques, monitored their expenses through simple management tools, ensured better water quality, and—most importantly—used the right quality of fish feed.</p> 

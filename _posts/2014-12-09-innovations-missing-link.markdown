@@ -1,6 +1,8 @@
 ---
 title: Innovation’s Missing Link
-date: 2014-12-09 16:28:00 Z
+date: 2014-12-09 11:28:00 -05:00
+tags:
+- innovation
 publication: Developments
 issue: Innovation
 author-bio: Jeson Ingraham is a Senior Manager for Strategic Planning at DAI.
@@ -13,11 +15,9 @@ assets:
 - path: "/uploads/pubs-story-15.jpg"
 - path: "/uploads/pubs-story-16.jpg"
 - path: "/uploads/cpars_guidance.pdf"
-tags:
-- innovation
-thumbnail-image: /uploads/pubs-story-15.jpg%20
-social-image: /uploads/pubs-story-15.jpg
---- 
+thumbnail-image: "/uploads/pubs-story-15.jpg%20"
+social-image: "/uploads/pubs-story-15.jpg"
+---
 
 In the critically acclaimed film, *The Spanish Prisoner*, Steve Martin plays a confidence man trying to swindle an unsuspecting engineer out of “the process,” a super-secret industrial formula that generates boatloads of cash. Martin and his co-conspirators are sent away in handcuffs with the process safe and sound as the credits roll. What remains mysteriously unresolved is how the process works and what makes it so lucrative.
 

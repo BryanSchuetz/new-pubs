@@ -1,6 +1,9 @@
 ---
 title: Building Economic Resilience Among the Poor
-date: 2014-09-23 20:10:00 Z
+date: 2014-09-23 16:10:00 -04:00
+tags:
+- resilience
+- economic-growth
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Bill Grant** is a Senior Principal Development Specialist in DAI’s
@@ -15,11 +18,8 @@ assets:
 - path: "/uploads/cows.jpg"
 - path: "/uploads/grant-1.jpg"
 - path: "/uploads/grant-2.jpg"
-tags:
-- resilience
-- economic-growth
-thumbnail-image: /uploads/cows.jpg
-social-image: /uploads/cows.jpg
+thumbnail-image: "/uploads/cows.jpg"
+social-image: "/uploads/cows.jpg"
 ---
 
 <p>Like everyone else, poor people depend on markets. They depend on markets to sell what they produce and to purchase goods in time of need. They operate in labor and land markets — formal or informal — and are affected by government policies and regulations. They require a wide range of services. Many of the markets they participate in are highly dynamic, especially those linked to global markets. In such markets, technological changes and price fluctuations occur in ways that poor people cannot hope to influence.</p>

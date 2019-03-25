@@ -1,6 +1,9 @@
 ---
 title: Philippine City Launches Mobile Payment Pilot
-date: 2014-09-02 15:58:00 Z
+date: 2014-09-02 11:58:00 -04:00
+tags:
+- economic-growth
+- digital-acceleration
 publication: Developments
 author: Chuck Coon
 issue: Spring 2013
@@ -11,11 +14,8 @@ assets:
   name: chuck1-3
   author?: 'yes'
 - path: "/uploads/simm.jpg"
-tags:
-- economic-growth
-- digital-acceleration
-thumbnail-image: /uploads/simm.jpg
-social-image: /uploads/simm.jpg
+thumbnail-image: "/uploads/simm.jpg"
+social-image: "/uploads/simm.jpg"
 ---
 
 <p>The city of Valenzuela, Philippines, has embarked on a program to promote the use of mobile money for payment of government services.</p>

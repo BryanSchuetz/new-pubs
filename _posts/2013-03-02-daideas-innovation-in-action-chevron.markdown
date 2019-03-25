@@ -1,6 +1,10 @@
 ---
 title: In Niger Delta, Chevron Launches New Paradigm for Corporate Social Investment
-date: 2013-03-03 01:00:00 Z
+date: 2013-03-02 20:00:00 -05:00
+tags:
+- economic-growth
+- environment-and-energy
+- sustainable-business
 publication: DAIdeas
 author: Bill Grant and Zachary Kaplan
 issue: 
@@ -12,12 +16,8 @@ author-bio: "[Bill Grant](http://dai.com/who-we-are/our-team/bill-grant) joined 
 assets:
 - path: "/uploads/ideas4.jpg"
 - path: "/uploads/ideas5.jpg"
-tags:
-- economic-growth
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/ideas4.jpg
-social-image: /uploads/ideas4.jpg
+thumbnail-image: "/uploads/ideas4.jpg"
+social-image: "/uploads/ideas4.jpg"
 ---
 
 <p>The old corporate social responsibility (CSR) model typically offered one-time, discrete infrastructure grants or programs aimed at assuaging local demands to “share the wealth.”</p>

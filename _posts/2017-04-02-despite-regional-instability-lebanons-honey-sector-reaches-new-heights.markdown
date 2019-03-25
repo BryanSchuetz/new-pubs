@@ -1,6 +1,10 @@
 ---
 title: Despite Regional Instability, Lebanon’s Honey Sector Reaches New Heights
-date: 2017-04-02 13:30:00 Z
+date: 2017-04-02 09:30:00 -04:00
+tags:
+- economic-growth
+- agriculture
+- fragile-states
 publication: Developments
 issue: Spring 2017
 author-bio: Nadine Chemali, left, is the sales and marketing manager and Mounia Barakat
@@ -21,12 +25,8 @@ assets:
   name: Devs----LIVCD-Honey-pic-1
 - path: "/uploads/Devs----LIVCD-Honey-pic-3.jpg"
   name: Devs----LIVCD-Honey-pic-3
-tags:
-- economic-growth
-- agriculture
-- fragile-states
-thumbnail-image: /uploads/Devs----LIVCD-Honey-pic-3.jpg
-social-image: /uploads/Devs----LIVCD-Honey-pic-3.jpg
+thumbnail-image: "/uploads/Devs----LIVCD-Honey-pic-3.jpg"
+social-image: "/uploads/Devs----LIVCD-Honey-pic-3.jpg"
 ---
 
 Even before more than 1 million Syrian refugees crossed into Lebanon, the nation’s agriculture sector was struggling to serve its 4.5 million citizens.

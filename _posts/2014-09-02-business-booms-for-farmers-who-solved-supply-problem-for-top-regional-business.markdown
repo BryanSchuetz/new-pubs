@@ -1,6 +1,9 @@
 ---
 title: Business Booms for Farmers Who Solved Supply Problem for Top Regional Business
-date: 2014-09-02 14:07:00 Z
+date: 2014-09-02 10:07:00 -04:00
+tags:
+- economic-growth
+- agriculture
 publication: Developments
 author: Kurai "Sydney" Zharare
 issue: Spring 2013
@@ -12,11 +15,8 @@ assets:
 - path: "/uploads/sydney.jpg"
   name: sydney
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-thumbnail-image: /uploads/booms2.jpg
-social-image: /uploads/booms2.jpg
+thumbnail-image: "/uploads/booms2.jpg"
+social-image: "/uploads/booms2.jpg"
 ---
 
 <p>The hillsides of Gurue District in northern Mozambique should be perfect for farming, but it takes hard work, know-how, and resources to turn land into farmland, farmland into crops, and crops into cash.</p>

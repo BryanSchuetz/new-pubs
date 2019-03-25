@@ -1,6 +1,10 @@
 ---
 title: Demand for Private Capital Draws USAID Units to INVEST Program
-date: 2018-09-26 13:28:00 Z
+date: 2018-09-26 09:28:00 -04:00
+tags:
+- economic-growth
+- finance
+- investment
 publication: Developments
 issue: Fall 2018
 author-bio: "[Robin Young](https://www.dai.com/who-we-are/our-team/robin-young) is
@@ -17,12 +21,8 @@ assets:
   name: Devs----INVEST-2
 - path: "/uploads/Devs----INVEST 3Finette-QA-1.jpg"
   name: Devs----INVEST 3Finette-QA-1
-tags:
-- economic-growth
-- finance
-- investment
-thumbnail-image: /uploads/Devs----INVEST-1.jpg
-social-image: /uploads/Devs----INVEST-1.jpg
+thumbnail-image: "/uploads/Devs----INVEST-1.jpg"
+social-image: "/uploads/Devs----INVEST-1.jpg"
 ---
 
 U.S. Agency for International Development (USAID) units around the world are increasingly asking for specialized support to mobilize private capital—requests now being met by the agency’s new [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) program. In less than one year, USAID missions, bureaus, and other operating units have hired the INVEST team to support 17 initiatives to develop market opportunities. These initiatives—to address demand for energy, food, health care, water, and other global needs—are under way or already completed in Afghanistan, Asia, Haiti, India, and North and Sub-Saharan Africa.

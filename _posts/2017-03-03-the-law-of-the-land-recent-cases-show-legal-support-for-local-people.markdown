@@ -1,6 +1,9 @@
 ---
 title: 'The Law of the Land: Recent Cases Show Legal Support for Local People'
-date: 2017-03-03 15:42:00 Z
+date: 2017-03-03 10:42:00 -05:00
+tags:
+- governance
+- land
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Karol Boudreaux is the Land Tenure and Resource Rights Practice Lead at
@@ -10,11 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Karol headshot small.jpg"
   author?: 'yes'
-tags:
-- governance
-- land
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 International efforts to secure the land and resource rights of local and indigenous peoples are increasingly finding a friend in the law. National and international law, policies, and jurisprudence are coming together with “soft” legal guidelines and principles to yield stronger standards related to indigenous land and resource rights. Landmark cases are creating precedent for local or indigenous people who have been displaced to reoccupy or retain property, which may lead to strong tenure security and autonomy.

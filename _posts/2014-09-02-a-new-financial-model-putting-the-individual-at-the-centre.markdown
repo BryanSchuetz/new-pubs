@@ -1,6 +1,8 @@
 ---
 title: 'A New Financial Model: Putting the Individual at the Centre'
-date: 2014-09-02 17:32:00 Z
+date: 2014-09-02 13:32:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Monique Cohen
 issue: Financial Inclusion
@@ -12,10 +14,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/fish-farming.jpg"
 - path: "/uploads/noramorgan.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/fish-farming.jpg
-social-image: /uploads/fish-farming.jpg
+thumbnail-image: "/uploads/fish-farming.jpg"
+social-image: "/uploads/fish-farming.jpg"
 ---
 
 <p>Ten years ago, a low-income Filipina woman described her life to me as "one long risk." Today, I suspect her life is little different. For all the successes of the microcredit experiment, we have yet to take full account of the individual experience at the center of a life lived in poverty—a life where medical crises, theft, crop losses, or any one of innumerable random shocks can readily erode the hard-won gains of saving, building assets, and participation in the financial system.</p>

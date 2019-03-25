@@ -1,6 +1,10 @@
 ---
 title: 'In Sierra Leone: Enhancing Traditional Law and Justice Services'
-date: 2015-06-10 15:45:00 Z
+date: 2015-06-10 11:45:00 -04:00
+tags:
+- governance
+- gender
+- global-health
 publication: Developments
 issue: Summer 2015
 author-bio: DAI's Sarah Maguire is Technical Director for the Access to Security and
@@ -10,12 +14,8 @@ featured?:
 assets:
 - path: "/uploads/ASJP-pic-2.jpg"
   name: ASJP-pic-2
-tags:
-- governance
-- gender
-- global-health
-thumbnail-image: /uploads/ASJP-pic-2.jpg
-social-image: /uploads/ASJP-pic-2.jpg
+thumbnail-image: "/uploads/ASJP-pic-2.jpg"
+social-image: "/uploads/ASJP-pic-2.jpg"
 ---
 
 Despite significant improvements in the delivery of statutory justice services, most rural people in Sierra Leone lack the time, money, or literacy needed to access [formal justice structures](http://dai.com/our-work/solutions/law-and-justice) such as police, courts, or legal services. Instead, they rely on traditional mechanisms such as the Chiefdom structure, which are perceived as quicker, less expensive (in time and money), and more accessible.

@@ -1,6 +1,9 @@
 ---
 title: Nutrition, Agriculture, and Resilience
-date: 2014-10-06 18:53:00 Z
+date: 2014-10-06 14:53:00 -04:00
+tags:
+- resilience
+- global-health
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "[Kathleen Kurz](http://dai.com/who-we-are/our-team/kathleen-kurz) is
@@ -13,11 +16,8 @@ assets:
 - path: "/uploads/kurz.jpg"
   name: kurz
   author?: 'yes'
-tags:
-- resilience
-- global-health
-thumbnail-image: /uploads/kurz.jpg
-social-image: /uploads/kurz.jpg
+thumbnail-image: "/uploads/kurz.jpg"
+social-image: "/uploads/kurz.jpg"
 ---
 
 <p>The critical “1,000 days” window for child development, spanning gestation to the second birthday, is a key period for building nutritional resilience. Investments in establishing child health and good nutrition in this period pay lifelong dividends. In this period, children’s still-developing immune systems make them highly vulnerable to disease. Their high and very specific nutrient needs and the limited quantity they can eat at any single meal place them at risk of poor growth outcomes. Research shows that nutrition deficits suffered during this period lead to lifetime lags in growth and development, even if health and food intake subsequently improve.</p>

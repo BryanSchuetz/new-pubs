@@ -1,6 +1,10 @@
 ---
 title: Afghan Women Re-Enter the Economy as Workers, Business Owners
-date: 2018-09-14 14:13:00 Z
+date: 2018-09-14 10:13:00 -04:00
+tags:
+- economic-growth
+- gender
+- finance
 publication: Developments
 issue: Fall 2018
 author-bio: 'Mare Elston is the Technical Services Manager for USAID Promote: Women
@@ -30,12 +34,8 @@ assets:
   name: DEVS----WIE-2018-4
 - path: "/uploads/DEVS----WIE-2018-5.jpg"
   name: DEVS----WIE-2018-5
-tags:
-- economic-growth
-- gender
-- finance
-thumbnail-image: /uploads/Devs----WIE-2018-3.jpg
-social-image: /uploads/Devs----WIE-2018-3.jpg
+thumbnail-image: "/uploads/Devs----WIE-2018-3.jpg"
+social-image: "/uploads/Devs----WIE-2018-3.jpg"
 ---
 
 As Afghanistan transitions toward a market-driven economy and away from one supported by foreign assistance, jobs will inevitably be lost. The Afghan Ministry of Labor, Social Affairs, Martyred, and Disabled predicts that 4 million jobs will be needed over the next five years to replace lost jobs and absorb the rising generation of graduates.

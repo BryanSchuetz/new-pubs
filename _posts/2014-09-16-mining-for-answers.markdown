@@ -1,7 +1,11 @@
 ---
 title: 'Mining for Answers: Mozambique Weighs Options for a Practical, Profitable
   Local Content Policy'
-date: 2014-09-16 20:23:00 Z
+date: 2014-09-16 16:23:00 -04:00
+tags:
+- economic-growth
+- environment-and-energy
+- sustainable-business
 publication: Developments
 author: Zachary Kaplan
 issue: Winter 2013
@@ -13,12 +17,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/mining-2.jpg"
 - path: "/uploads/mining-3.jpg"
-tags:
-- economic-growth
-- environment-and-energy
-- sustainable-business
-thumbnail-image: /uploads/mining-2.jpg
-social-image: /uploads/mining-2.jpg
+thumbnail-image: "/uploads/mining-2.jpg"
+social-image: "/uploads/mining-2.jpg"
 ---
 
 <p>Mozambique finds itself at a critical juncture in its economic development. New gas deposits found offshore could bring the country significant revenue through natural gas extraction and export. This discovery will add to the ongoing heavy investments from abroad aimed at extracting and exporting Mozambique’s coal and other precious metals.</p>

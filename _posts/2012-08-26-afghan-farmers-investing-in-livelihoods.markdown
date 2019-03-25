@@ -1,6 +1,9 @@
 ---
 title: Afghan Farmers Borrowing Money for the First Time, Investing in Their Livelihoods
-date: 2012-08-26 20:28:00 Z
+date: 2012-08-26 16:28:00 -04:00
+tags:
+- economic-growth
+- agriculture
 publication: DAIdeas
 author: Juan Estrada-Valle
 issue: 
@@ -13,11 +16,8 @@ assets:
 - path: "/uploads/estrada.jpg"
   name: estrada
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-thumbnail-image: /uploads/ideas1.jpg
-social-image: /uploads/ideas1.jpg
+thumbnail-image: "/uploads/ideas1.jpg"
+social-image: "/uploads/ideas1.jpg"
 ---
 
 <p>Agriculture is Afghanistan’s lifeblood. Making agriculture work better means putting more food on the tables and more money in the pockets of Afghan farmers—and of everyone connected to farming. The Agricultural Credit Enhancement (ACE) program enables those who make agriculture work to borrow money locally, invest in basic inputs such as seed and fertilizer, and repay the loans after their crops come in.</p>

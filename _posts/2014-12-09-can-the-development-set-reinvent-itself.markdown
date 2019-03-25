@@ -1,6 +1,8 @@
 ---
 title: Can the Development Set Reinvent Itself?
-date: 2014-12-09 15:07:00 Z
+date: 2014-12-09 10:07:00 -05:00
+tags:
+- innovation
 publication: Developments
 issue: Innovation
 author-bio: "[Brigit Helms](http://dai.com/who-we-are/our-team/brigit-helms) is the
@@ -14,10 +16,8 @@ assets:
 - path: "/uploads/pubs-story-2.jpg"
   name: pubs-story-2
   author?: 
-tags:
-- innovation
-thumbnail-image: /uploads/pubs-story-2.jpg
-social-image: /uploads/pubs-story-2.jpg
+thumbnail-image: "/uploads/pubs-story-2.jpg"
+social-image: "/uploads/pubs-story-2.jpg"
 ---
 
 Innovation is “in.” In 2014, the U.S. Agency for International Development and U.K. Department for International Development have both launched sizable initiatives: the U.S. Global Development Lab and the Global Innovation Fund, respectively. Innovation hubs, incubators, and accelerators are popping up like mushrooms. Partnerships—especially with the private sector—are widely seen as essential to the innovation of solutions with scale.

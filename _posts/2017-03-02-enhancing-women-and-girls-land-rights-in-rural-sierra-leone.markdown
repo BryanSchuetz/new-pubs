@@ -1,6 +1,10 @@
 ---
 title: Enhancing Women and Girls’ Land Rights in Rural Sierra Leone
-date: 2017-03-02 19:54:00 Z
+date: 2017-03-02 14:54:00 -05:00
+tags:
+- governance
+- land
+- gender
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)
@@ -19,12 +23,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Ebola meeting with chiefs (from Creative Commons).jpg"
   name: Ebola meeting with chiefs (from Creative Commons)
-tags:
-- governance
-- land
-- gender
-thumbnail-image: /uploads/Ebola%20meeting%20with%20chiefs%20(from%20Creative%20Commons).jpg
-social-image: /uploads/Ebola%20meeting%20with%20chiefs%20(from%20Creative%20Commons).jpg
+thumbnail-image: "/uploads/Ebola%20meeting%20with%20chiefs%20(from%20Creative%20Commons).jpg"
+social-image: "/uploads/Ebola%20meeting%20with%20chiefs%20(from%20Creative%20Commons).jpg"
 ---
 
 Around 70 percent of Sierra Leoneans live in rural areas, the large majority of them depending on agriculture for their livelihoods. Issues of land ownership, tenure, and inheritance rights are therefore crucial to virtually every rural household. But these issues are bound up in a system of customary law that in turn reflects endemic gender discrimination. One of the most vexing problems facing women and girls, for example, is the dispossession of their land in the event that a husband dies without the customary marriage being formally registered. It’s a problem that has drawn the attention of the U.K. Department for International Development (DFID), and one where DFID’s [Access to Security and Justice Programme (ASJP)](https://www.dai.com/our-work/projects/sierra-leone-access-security-and-justice-programme-asjp) made substantial headway.

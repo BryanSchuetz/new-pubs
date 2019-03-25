@@ -1,6 +1,9 @@
 ---
 title: Jordan Embraces Renewables to Fuel its Economy
-date: 2018-09-13 19:14:00 Z
+date: 2018-09-13 15:14:00 -04:00
+tags:
+- environment-and-energy
+- economic-growth
 publication: Developments
 issue: Fall 2018
 author-bio: DAI’s [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)
@@ -24,11 +27,8 @@ assets:
     Industry - FINAL (Branded)[1].pdf"
   name: 1. USAID JCP Competitiveness Brief - Building a New Electric Vehicle Industry
     - FINAL (Branded)[1]
-tags:
-- environment-and-energy
-- economic-growth
-thumbnail-image: /uploads/Devs----Jordan-Energy-1.jpg
-social-image: /uploads/Devs----Jordan-Energy-1.jpg
+thumbnail-image: "/uploads/Devs----Jordan-Energy-1.jpg"
+social-image: "/uploads/Devs----Jordan-Energy-1.jpg"
 ---
 
 Jordan needs to grow its economy. More than 700,000 of its young people—[39 percent](https://data.worldbank.org/indicator/ SL.UEM.1524.ZS) of the available labor force ages 15 to 24—are without a job. Many have good educations and are [holding out for high-quality employment](http://dai-global-developments.com/articles/addressing-jordans-youth-unemployment-bubble-usaid-program-aligns-workforce-with-emerging-opportunities/). Jordan is also hosting an enormous influx of Syrian refugees, which has helped swell its population from 7.5 million in 2011 to 10 million today. Many of these newcomers are also seeking work. But Jordan is almost completely reliant on imported oil and gas for its energy, limiting its ability to grow the economy and create jobs.

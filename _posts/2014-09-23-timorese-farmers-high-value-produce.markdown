@@ -1,6 +1,8 @@
 ---
 title: Timorese Farmers Take Advantage of Demand for High-Value Produce
-date: 2014-09-23 13:22:00 Z
+date: 2014-09-23 09:22:00 -04:00
+tags:
+- agriculture
 publication: Developments
 issue: Summer 2014
 author-bio: "[Catherine Johnston](http://dai.com/who-we-are/our-team/catherine-johnston)
@@ -13,10 +15,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/timor_farmer.jpg"
 - path: "/uploads/timor_farmer2.png"
-tags:
-- agriculture
-thumbnail-image: /uploads/timor_farmer2.png
-social-image: /uploads/timor_farmer2.png
+thumbnail-image: "/uploads/timor_farmer2.png"
+social-image: "/uploads/timor_farmer2.png"
 ---
 
 <p>In 2007, the U.S. Agency for International Development (USAID) invested in a hydroponic greenhouse facility that enabled 20 Timorese farmers to grow high-value vegetables such as capsicum and tomatoes. These high-quality products for local supermarkets replaced vegetables that previously had to be imported, jumpstarting production in Timor-Leste’s Aileu District and increasing cash income for its farmers. Since then, the <a href="http://dai.com/our-work/projects/timor-leste—developing-agricultural-communitiesdesenvolve-agricultura-comunitaria">Developing Agricultural Communities, or Dezenvolve Agricultura Comunitária (DAC, 2010–2015) project</a> and its predecessor Dezenvolve Setor Privadu (2006–2010) have engaged more than 400 farmers in greenhouse and outdoor vegetable production and helped build a stronger fresh produce value chain.</p>

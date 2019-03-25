@@ -1,6 +1,9 @@
 ---
 title: Amplifying the Voice of Business to Drive Policy Reform in a Difficult Environment
-date: 2013-06-03 00:00:00 Z
+date: 2013-06-02 20:00:00 -04:00
+tags:
+- economic-growth
+- governance
 publication: DAIdeas
 author: Paul Dodds
 issue: 
@@ -12,11 +15,8 @@ assets:
   name: dodds
   author?: 'yes'
 - path: "/uploads/farmers.png"
-tags:
-- economic-growth
-- governance
-thumbnail-image: /uploads/farmers.png
-social-image: /uploads/farmers.png
+thumbnail-image: "/uploads/farmers.png"
+social-image: "/uploads/farmers.png"
 ---
 
 <p>From 2008 to 2012, a small team of legal generalists from the DAI-led Cambodia Micro Small and Medium Enterprise (MSME) project worked to improve that country’s uneven business enabling environment.</p>

@@ -1,6 +1,9 @@
 ---
 title: New Opportunities Emerge to Support Meaningful Democratic Reform in Sri Lanka
-date: 2016-07-15 14:51:00 Z
+date: 2016-07-15 10:51:00 -04:00
+tags:
+- governance
+- fragile-states
 publication: Developments
 issue: 
 author-bio: Peter Dimitroff is a Senior Global Practice Specialist in DAI’s Governance
@@ -21,11 +24,8 @@ assets:
   name: Devs----Dimitroff-3-for-web
 - path: "/uploads/Devs----Dimitroff-4.jpg"
   name: Devs----Dimitroff-4
-tags:
-- governance
-- fragile-states
-thumbnail-image: /uploads/Devs----Sri-Lanka-4.jpg
-social-image: /uploads/Devs----Sri-Lanka-4.jpg
+thumbnail-image: "/uploads/Devs----Sri-Lanka-4.jpg"
+social-image: "/uploads/Devs----Sri-Lanka-4.jpg"
 ---
 
 By 2014, DAI was winding down the [Reintegration and Stabilization in the East and North](http://dai.com/our-work/projects/sri-lanka%E2%80%94reintegration-and-stabilization-east-and-north-risen) (RISEN) program in Sri Lanka on behalf of the U.S. Agency for International Development (USAID)’s Office of Transition Initiatives. Over more than four years of operations, the program worked locally with people in civil society and government, implementing grants totaling $14 million to restore communities and support reconciliation between the majority Sinhalese and the minority Tamil populations following 26 years of destructive war.

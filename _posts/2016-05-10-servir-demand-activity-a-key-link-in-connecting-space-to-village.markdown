@@ -1,6 +1,9 @@
 ---
 title: 'SERVIR Demand Activity: A Key Link in Connecting Space to Village'
-date: 2016-05-10 14:34:00 Z
+date: 2016-05-10 10:34:00 -04:00
+tags:
+- environment-and-energy
+- digital-acceleration
 publication: Developments
 issue: Summer 2016
 author-bio: DAI’s Brian McMahon is a senior communications specialist.
@@ -13,11 +16,8 @@ assets:
   name: Devs----SERVIR-Nepal----
 - path: "/uploads/Devs----SERVIR-Bolden.jpg"
   name: Devs----SERVIR-Bolden
-tags:
-- environment-and-energy
-- digital-acceleration
-thumbnail-image: /uploads/Devs----SERVIR-Nepal----.jpg
-social-image: /uploads/Devs----SERVIR-Nepal----.jpg
+thumbnail-image: "/uploads/Devs----SERVIR-Nepal----.jpg"
+social-image: "/uploads/Devs----SERVIR-Nepal----.jpg"
 ---
 
 Alerting rural villages to floods, detecting remote forest fires, and monitoring greenhouse gas emissions are some of the capabilities of SERVIR Global, a collaboration between NASA and the U.S. Agency for International Development (USAID). SERVIR integrates imagery and data from Earth-observing satellites and geospatial technologies to give policy makers around the world critical information on climate-sensitive topics such as natural disasters, agriculture, water, ecosystems, and land use. While the technology from space that SERVIR relies on is impressive, its greatest potential might lie in facilitating human connections down on earth.

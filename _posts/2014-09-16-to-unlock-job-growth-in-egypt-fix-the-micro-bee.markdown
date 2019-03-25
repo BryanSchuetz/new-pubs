@@ -1,6 +1,8 @@
 ---
 title: To Unlock Job Growth in Egypt, Fix the “Micro-BEE”
-date: 2014-09-16 18:46:00 Z
+date: 2014-09-16 14:46:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Jennifer Bremer
 issue: Summer 2013
@@ -12,10 +14,8 @@ assets:
   name: bremer
   author?: 'yes'
 - path: "/uploads/egypt.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/egypt.jpg
-social-image: /uploads/egypt.jpg
+thumbnail-image: "/uploads/egypt.jpg"
+social-image: "/uploads/egypt.jpg"
 ---
 
 Political crisis or no, Egypt’s government cannot afford to keep ignoring the issues that sparked two popular revolts in as many years. Issue number one for most Egyptians, especially young Egyptians, is employment. To meet the need for jobs, policy makers must do more to improve Egypt’s business enabling environment (BEE), not only at the national level, but also in the local administration trenches.

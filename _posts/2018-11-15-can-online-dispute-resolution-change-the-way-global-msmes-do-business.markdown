@@ -1,6 +1,13 @@
 ---
 title: Can Online Dispute Resolution Change the Way Global MSMEs Do Business?
-date: 2018-11-15 19:41:00 Z
+date: 2018-11-15 14:41:00 -05:00
+tags:
+- economic-growth
+- governance
+- trade
+- investment
+- digital-acceleration
+- innovation
 publication: Developments
 issue: 
 author-bio: "[Mark Walter](https://www.dai.com/who-we-are/our-team/mark-walter) is
@@ -14,15 +21,8 @@ assets:
   name: Photo 1
 - path: "/uploads/Photo 3.jpg"
   name: Photo 3
-tags:
-- economic-growth
-- governance
-- trade
-- investment
-- digital-acceleration
-- innovation
-thumbnail-image: /uploads/Photo%201.jpg
-social-image: /uploads/Photo%201.jpg
+thumbnail-image: "/uploads/Photo%201.jpg"
+social-image: "/uploads/Photo%201.jpg"
 ---
 
 As a grad student in London in the 1990s, I earned a bit of extra money sourcing and exporting handcrafted furniture from India to the United States for interior designers. My U.S. customers were small businesses, but I was even smaller, so if I wanted to sell to them I had to take on most of the risk. On school breaks I would travel to India, find what my customers were looking for, purchase it, accompany it to the port, and—when I could—watch as it was loaded onto a ship. 

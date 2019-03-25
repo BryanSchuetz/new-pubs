@@ -1,7 +1,10 @@
 ---
 title: 'Using Mobile Technology for First Registration of Land: Lessons Learned in
   Tanzania'
-date: 2017-05-08 14:34:00 Z
+date: 2017-05-08 10:34:00 -04:00
+tags:
+- land
+- governance
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: "[Clive English]( https://www.dai.com/who-we-are/our-team/clive-english)
@@ -25,11 +28,8 @@ assets:
   name: ID-1
 - path: "/uploads/ID (1).jpg"
   name: ID (1)
-tags:
-- land
-- governance
-thumbnail-image: /uploads/DSCN0568.JPG
-social-image: /uploads/DSCN0568.JPG
+thumbnail-image: "/uploads/DSCN0568.JPG"
+social-image: "/uploads/DSCN0568.JPG"
 ---
 
 “In the 21st century,” as I write with my co-authors in the [companion piece to this article](http://dai-global-developments.com/articles/from-land-tenure-regularisation-to-a-sustainable-land-register/), “land administration systems will nearly always be developed using digital systems. Assuming they are well designed, then they are more secure, more efficient, more transparent, and more accessible.”

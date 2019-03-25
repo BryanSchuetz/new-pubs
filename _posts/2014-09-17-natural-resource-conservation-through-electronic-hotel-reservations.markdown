@@ -1,6 +1,9 @@
 ---
 title: Natural Resource Conservation through Electronic Hotel Reservations
-date: 2014-09-17 14:53:00 Z
+date: 2014-09-17 10:53:00 -04:00
+tags:
+- environment-and-energy
+- economic-growth
 publication: Developments
 author: Lia Grigg and Miguel Baca
 issue: Winter 2013
@@ -9,11 +12,8 @@ author-bio: "**Lia Grigg** is an Associate at DAI. [Miguel Baca](http://dai.com/
 assets:
 - path: "/uploads/gabriel.jpg"
 - path: "/uploads/planturismo.jpg"
-tags:
-- environment-and-energy
-- economic-growth
-thumbnail-image: /uploads/planturismo.jpg
-social-image: /uploads/planturismo.jpg
+thumbnail-image: "/uploads/planturismo.jpg"
+social-image: "/uploads/planturismo.jpg"
 ---
 
 <p>When Gabriel Lopez rented out two rooms in his apartment in 2004 to earn income while working on his MBA, he never intended to become a small-business owner.</p>

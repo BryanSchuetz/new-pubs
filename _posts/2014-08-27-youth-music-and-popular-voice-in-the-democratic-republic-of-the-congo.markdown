@@ -1,6 +1,9 @@
 ---
 title: Youth Music and Popular Voice in the Democratic Republic of the Congo
-date: 2014-08-27 19:14:00 Z
+date: 2014-08-27 15:14:00 -04:00
+tags:
+- governance
+- stability
 publication: Developments
 author: Ed Rackley
 issue: Summer 2012
@@ -15,11 +18,8 @@ assets:
 - path: "/uploads/ym4.jpg"
 - path: "/uploads/ym2.jpg"
 - path: "/uploads/ym3.jpg"
-tags:
-- governance
-- stability
-thumbnail-image: /uploads/ym1.jpg
-social-image: /uploads/ym1.jpg
+thumbnail-image: "/uploads/ym1.jpg"
+social-image: "/uploads/ym1.jpg"
 ---
 
 <p>In many emerging democracies, youth are absent from the political stage and civil society. Last year’s “Arab Spring” proved a promising exception, demonstrating the power of youth to galvanize popular demand and help redefine their political landscape. Sub-Saharan populations, many being immediate neighbors of Tunisia, Libya, and Egypt, followed these dramatic events with fascination and some envy.</p>

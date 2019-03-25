@@ -1,6 +1,8 @@
 ---
 title: 'Women in Development: Ruba Al’Zubi'
-date: 2015-03-20 17:01:00 Z
+date: 2015-03-20 13:01:00 -04:00
+tags:
+- dai
 publication: Developments
 issue: 
 author-bio: Ruba Al’Zubi is the Clean Technology Sector Director for DAI at the USAID
@@ -13,10 +15,8 @@ assets:
 - path: "/uploads/Devs-Ruba-3.jpg"
   name: Devs-Ruba-3
   author?: 'yes'
-tags:
-- dai
-thumbnail-image: /uploads/Devs-Ruba-1.jpg
-social-image: /uploads/Devs-Ruba-1.jpg
+thumbnail-image: "/uploads/Devs-Ruba-1.jpg"
+social-image: "/uploads/Devs-Ruba-1.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*

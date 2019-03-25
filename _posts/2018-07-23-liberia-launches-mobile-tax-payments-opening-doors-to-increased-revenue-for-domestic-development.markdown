@@ -1,7 +1,11 @@
 ---
 title: Liberia Launches Mobile Tax Payments, Opening Doors to Increased Revenue for
   Domestic Development
-date: 2018-07-23 15:16:00 Z
+date: 2018-07-23 11:16:00 -04:00
+tags:
+- governance
+- public-financial-management
+- digital-acceleration
 publication: Developments
 issue: Fall 2018
 author-bio: DAI’s [Alexander Kitain](https://www.dai.com/who-we-are/our-team/alexander-kitain),
@@ -20,12 +24,8 @@ assets:
   name: Devs----Liberia-Mobile-4
 - path: "/uploads/Devs----Liberia-Mobile-5.jpg"
   name: Devs----Liberia-Mobile-5
-tags:
-- governance
-- public-financial-management
-- digital-acceleration
-thumbnail-image: /uploads/Devs----Liberia-Mobile-1.jpg
-social-image: /uploads/Devs----Liberia-Mobile-1.jpg
+thumbnail-image: "/uploads/Devs----Liberia-Mobile-1.jpg"
+social-image: "/uploads/Devs----Liberia-Mobile-1.jpg"
 ---
 
 Imagine if you could pay taxes only by traveling to the capital and paying in person—or, by paying in cash at a tax office to a “middleman.” Until recently, this is how taxes were paid in Liberia. Additionally, due to failures by the internet, power supply, or information technology systems, taxpayers often required [four trips on average](https://www.dai.com/uploads/BENCHMARKING THE TAX SYSTEM IN LIBERIA.pdf) to tax offices to fulfill their obligations. Even basic transactions such as paying for a birth certificate required making a trip to the capital, Monrovia. As a result, many citizens and businesses simply did not comply, depriving the government of revenues needed for services as well as of valuable data.

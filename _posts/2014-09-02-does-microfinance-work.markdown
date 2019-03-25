@@ -1,6 +1,8 @@
 ---
 title: Does Microfinance Work?
-date: 2014-09-02 18:36:00 Z
+date: 2014-09-02 14:36:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Tilman Ehrbeck
 issue: Financial Inclusion
@@ -9,10 +11,8 @@ author-bio: "**Tilman Ehrbeck** is the chief executive officer of CGap, the Cons
 assets:
 - path: "/uploads/micro.jpg"
 - path: "/uploads/noramorgan-1.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/micro.jpg
-social-image: /uploads/micro.jpg
+thumbnail-image: "/uploads/micro.jpg"
+social-image: "/uploads/micro.jpg"
 ---
 
 <p>Does microfinance work? This question has been intensively researched and hotly debated in the development community over the past few years. The answer depends on what you mean by the words 'microfinance' and 'works.' I'll explain more, but in a nutshell, if your answer is probably not, you're likely using a narrow definition of microfinance and a specific notion of what's meant by 'works.'  Getting to yes involves a broader definition of microfinance and a more holistic interpretation of what constitutes success, and you need to draw on several strands of research. </p>

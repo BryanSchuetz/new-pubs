@@ -1,6 +1,8 @@
 ---
 title: Made in Africa
-date: 2014-12-05 15:02:00 Z
+date: 2014-12-05 10:02:00 -05:00
+tags:
+- innovation
 publication: Developments
 issue: Innovation
 author-bio: "[Robert Ryan-Silva](http://dai.com/who-we-are/our-team/robert-ryan-silva)
@@ -12,10 +14,8 @@ assets:
 - path: "/uploads/pubs-author-4.jpg"
   name: pubs-author-4
   author?: 'yes'
-tags:
-- innovation
-thumbnail-image: /uploads/pubs-story-10.jpg
-social-image: /uploads/pubs-story-10.jpg
+thumbnail-image: "/uploads/pubs-story-10.jpg"
+social-image: "/uploads/pubs-story-10.jpg"
 ---
 
 <p>As the current Ebola outbreak vividly illustrates, the ability of developing countries to detect and contain outbreaks of infectious disease is a matter of concern to us all. That ability depends upon capacities across a wide variety of areas. Among these is the capacity of laboratories to quickly and accurately perform modern diagnostic tests — and that requires equipment.

@@ -1,6 +1,10 @@
 ---
 title: Health System in Haiti Takes Key Step by Launching National Tuberculosis Tracker
-date: 2018-08-22 17:16:00 Z
+date: 2018-08-22 13:16:00 -04:00
+tags:
+- global-health
+- governance
+- digital-acceleration
 publication: Developments
 issue: Fall 2018
 author-bio: Atwood Raphael is Deputy Chief of Party for the USAID/Haiti Strategic
@@ -14,12 +18,8 @@ assets:
   name: Devs----Haiti-TB-1
 - path: "/uploads/Devs----Haiti-TB-2.jpg"
   name: Devs----Haiti-TB-2
-tags:
-- global-health
-- governance
-- digital-acceleration
-thumbnail-image: /uploads/Devs----Haiti-TB-2.jpg
-social-image: /uploads/Devs----Haiti-TB-2.jpg
+thumbnail-image: "/uploads/Devs----Haiti-TB-2.jpg"
+social-image: "/uploads/Devs----Haiti-TB-2.jpg"
 ---
 
 Haiti’s government this year launched a national electronic platform for reporting and tracking tuberculosis (TB), a key step in its efforts to capture, monitor, and report all patient-level data across the country. Information on cases of TB—a contagious and often deadly disease plaguing the Caribbean nation—is being prepared for aggregation into the System d’Information Sanitaire Nationale Unique, or SISNU, which uses the [DHIS2](http://www.hisp.org/aboutus/) open-source software platform for reporting, analyzing, and disseminating national health data.

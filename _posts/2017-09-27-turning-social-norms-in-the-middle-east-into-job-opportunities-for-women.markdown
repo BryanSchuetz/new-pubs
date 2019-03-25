@@ -1,7 +1,11 @@
 ---
 title: Turning Restrictive Social Norms in the Middle East into Job Opportunities
   for Women
-date: 2017-09-27 10:25:00 Z
+date: 2017-09-27 06:25:00 -04:00
+tags:
+- gender
+- resilience
+- agriculture
 publication: Developments
 issue: Fall 2017
 author-bio: DAI's Sherry Youssef, left, is AWEF’s Technical Director; Elizabeth Drachman
@@ -19,12 +23,8 @@ assets:
   name: IMG_8165
 - path: "/uploads/IMG_0039.JPG"
   name: IMG_0039
-tags:
-- gender
-- resilience
-- agriculture
-thumbnail-image: /uploads/IMG_8165.JPG
-social-image: /uploads/IMG_8165.JPG
+thumbnail-image: "/uploads/IMG_8165.JPG"
+social-image: "/uploads/IMG_8165.JPG"
 ---
 
 When deep-rooted social norms appear to limit the roles of women, one of the best tactics we can take in development assistance is to look for opportunities to turn those norms to women's advantage.

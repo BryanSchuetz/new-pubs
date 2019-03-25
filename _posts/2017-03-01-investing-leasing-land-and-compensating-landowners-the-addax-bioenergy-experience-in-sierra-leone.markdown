@@ -1,7 +1,10 @@
 ---
 title: 'Investing, Leasing Land, and Compensating Landowners: The Addax Bioenergy
   Experience in Sierra Leone'
-date: 2017-03-01 16:41:00 Z
+date: 2017-03-01 11:41:00 -05:00
+tags:
+- governance
+- land
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: "[Clive English](https://www.dai.com/who-we-are/our-team/clive-english)
@@ -20,11 +23,8 @@ assets:
   name: ABSL 1
 - path: "/uploads/ABSL view.jpg"
   name: ABSL view
-tags:
-- governance
-- land
-thumbnail-image: /uploads/ABSL%201.JPG
-social-image: /uploads/ABSL%201.JPG
+thumbnail-image: "/uploads/ABSL%201.JPG"
+social-image: "/uploads/ABSL%201.JPG"
 ---
 
 Much has been written about the impacts of long-term land-based investments on local land rights, development, and livelihood opportunities—and much of the commentary, driven by notable controversies, has been hostile to the land investor. But while investors now have a plethora of guidelines and principles to follow in implementing their projects, they still confront a dearth of hard information and statistics based on actual experience. 

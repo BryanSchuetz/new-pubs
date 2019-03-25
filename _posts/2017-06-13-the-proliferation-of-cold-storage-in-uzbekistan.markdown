@@ -1,6 +1,9 @@
 ---
 title: Cold Storage Expansion Drives Market Development in Uzbekistan
-date: 2017-06-13 14:00:00 Z
+date: 2017-06-13 10:00:00 -04:00
+tags:
+- economic-growth
+- agriculture
 publication: Developments
 issue: Summer 2017
 author-bio: Richard Tracy, left, is Vice President of International Programs for the
@@ -17,11 +20,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Uzbek-Joel-Taylor.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- agriculture
-thumbnail-image: /uploads/Devs----Uzbek-cold-chain-3.jpg
-social-image: /uploads/Devs----Uzbek-cold-chain-3.jpg
+thumbnail-image: "/uploads/Devs----Uzbek-cold-chain-3.jpg"
+social-image: "/uploads/Devs----Uzbek-cold-chain-3.jpg"
 ---
 
 We were amazed to see a packed audience in 2010 when our team from the Global Cold Chain Alliance (GCCA) traveled to Tashkent, Uzbekistan. Our Uzbek trainees came from many backgrounds—teachers, builders, businessmen—eager to learn about this vital link in the agricultural value chain. Most did not have experience in the cold chain, let alone a refrigeration facility to manage, yet they soon formed the foundation for the country’s remarkable cold chain development.

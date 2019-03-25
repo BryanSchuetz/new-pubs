@@ -1,6 +1,8 @@
 ---
 title: Unleashing Cambodian Technical Knowledge
-date: 2014-09-02 15:46:00 Z
+date: 2014-09-02 11:46:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Elizabeth Drachman
 issue: Spring 2013
@@ -10,10 +12,8 @@ assets:
 - path: "/uploads/liz.jpg"
   name: liz
   author?: 'yes'
-tags:
-- economic-growth
-thumbnail-image: /uploads/msme.jpg
-social-image: /uploads/msme.jpg
+thumbnail-image: "/uploads/msme.jpg"
+social-image: "/uploads/msme.jpg"
 ---
 
 <p>One of DAI’s most wide-reaching economic growth projects marked its close at the end of 2012 with a remarkable tally of results that speak to the success of an approach based on unleashing the technical knowhow and market linkages already latent in the Cambodian economy.</p>

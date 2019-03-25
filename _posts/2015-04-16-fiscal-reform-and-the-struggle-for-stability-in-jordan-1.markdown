@@ -1,6 +1,10 @@
 ---
 title: Fiscal Reform and the Struggle for Stability in Jordan
-date: 2015-04-16 18:38:00 Z
+date: 2015-04-16 14:38:00 -04:00
+tags:
+- economic-growth
+- stability
+- public-financial-management
 publication: Developments
 issue: Summer 2015
 author-bio: David Hall is an Economic Governance Advisor with DAI’s Technical Services
@@ -13,12 +17,8 @@ assets:
   name: Devs-Hall-Jordan-map
 - path: "/uploads/Devs-Hall-Jordan-FRPII-tax-fraud-seminar.jpg"
   name: Devs-Hall-Jordan-FRPII-tax-fraud-seminar
-tags:
-- economic-growth
-- stability
-- public-financial-management
-thumbnail-image: /uploads/Devs-Hall-Jordan-map.jpg
-social-image: /uploads/Devs-Hall-Jordan-map.jpg
+thumbnail-image: "/uploads/Devs-Hall-Jordan-map.jpg"
+social-image: "/uploads/Devs-Hall-Jordan-map.jpg"
 ---
 
 Much ink has been spilt by academics, analysts, diplomats, and the military regarding the causes of instability. But a broad consensus holds that environments with scant economic opportunities are fertile grounds for recruiting alienated and aggrieved young people to the cause of violent extremism. Taking that as a premise, it makes sense to pursue programming that bolsters economic resilience as part of an integrated strategy to counter extremism. In Jordan, we have an example where macroeconomic assistance—in particular, fiscal reform—has played an important role in sustaining the stability of a country at the heart of one of the world’s most volatile regions.

@@ -1,6 +1,9 @@
 ---
 title: Incentive for Moroccan Farmers to Conserve Water? Increased Incomes
-date: 2014-09-16 20:55:00 Z
+date: 2014-09-16 16:55:00 -04:00
+tags:
+- economic-growth
+- environment-and-energy
 publication: Developments
 author: Andrew Watson
 issue: Winter 2013
@@ -13,11 +16,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/conservation.jpg"
 - path: "/uploads/conservation2.jpg"
-tags:
-- economic-growth
-- environment-and-energy
-thumbnail-image: /uploads/conservation.jpg
-social-image: /uploads/conservation.jpg
+thumbnail-image: "/uploads/conservation.jpg"
+social-image: "/uploads/conservation.jpg"
 ---
 
 <p>While the full implications of global climate change on rainfall and the world’s water supply are still largely speculative, the day that demand for water outstrips supply has already arrived in Morocco.</p>

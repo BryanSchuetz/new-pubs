@@ -1,6 +1,8 @@
 ---
 title: Development Insights on the Frontlines of Asymmetric Warfare
-date: 2014-09-02 14:41:00 Z
+date: 2014-09-02 10:41:00 -04:00
+tags:
+- stability
 publication: Developments
 author: Heidi Silvey
 issue: Spring 2013
@@ -11,10 +13,8 @@ assets:
 - path: "/uploads/heidi.jpg"
   name: heidi
   author?: 'yes'
-tags:
-- stability
-thumbnail-image: /uploads/asym1.jpg
-social-image: /uploads/asym1.jpg
+thumbnail-image: "/uploads/asym1.jpg"
+social-image: "/uploads/asym1.jpg"
 ---
 
 <p>Since the terror attacks of September 11, 2001, perhaps the greatest—and least understood—security threats faced by countries are asymmetric, not force on force.</p>

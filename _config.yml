@@ -15,8 +15,8 @@ defaults:
   values:
     Author: 
     layout: post
-    thumbnail-image:
-    social-image:
+    thumbnail-image: 
+    social-image: 
     publications: 
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-developments.com
@@ -25,7 +25,10 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-excerpt_separator: "\n\n\n"
+excerpt_separator: |2+
+
+
+
 email: your-email@domain.com
 baseurl: "/foo"
 exclude:
@@ -35,12 +38,11 @@ exclude:
 - browser-sync.js
 - ".jekyll-metadata"
 - node_modules
-description: By freely sharing what we learn, we have built a reputation as thought leaders who translate ideas into action and action into results.
+description: By freely sharing what we learn, we have built a reputation as thought
+  leaders who translate ideas into action and action into results.
 destination: "./build"
 sass:
   style: compressed
 algolia:
   application_id: R7MRY12BR6
   index_name: Publications
-      
-

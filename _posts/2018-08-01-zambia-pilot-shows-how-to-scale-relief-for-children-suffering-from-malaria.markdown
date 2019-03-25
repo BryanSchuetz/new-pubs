@@ -1,7 +1,10 @@
 ---
 title: Zambia Pilot Demonstrates How to Save Lives, Scale Relief for Children Suffering
   from Malaria
-date: 2018-08-01 18:57:00 Z
+date: 2018-08-01 14:57:00 -04:00
+tags:
+- governance
+- global-health
 publication: Developments
 issue: Fall 2018
 author-bio: Cathy Green, left, is a Senior Technical Adviser for Community Engagement
@@ -31,11 +34,8 @@ assets:
   name: Devs----Zambia-3
 - path: "/uploads/Evidence brief FINAL.pdf"
   name: Evidence brief FINAL
-tags:
-- governance
-- global-health
-thumbnail-image: /uploads/Devs----Zambia-4.jpg
-social-image: /uploads/Devs----Zambia-4.jpg
+thumbnail-image: "/uploads/Devs----Zambia-4.jpg"
+social-image: "/uploads/Devs----Zambia-4.jpg"
 ---
 
 Thousands of infants and children in rural Zambia suffer or die unnecessarily from malaria each year because they lack access to high-quality medicines and proper medical care. But a recent pilot program shows how trained local volunteers administering crucial medicine can keep a child well enough to be transported to a health care facility for further, potentially lifesaving treatment.

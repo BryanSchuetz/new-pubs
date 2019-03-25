@@ -1,6 +1,9 @@
 ---
 title: '300,000 Downloads and Counting: How I Created a Top Khmer Smartphone App'
-date: 2015-11-20 19:46:00 Z
+date: 2015-11-20 14:46:00 -05:00
+tags:
+- digital-acceleration
+- innovation
 publication: Developments
 issue: Winter 2015
 author-bio: Vanna Kruy, 31, is a software engineer and CEO at Alien Dev, a Cambodian
@@ -20,11 +23,8 @@ assets:
   name: Devs----Khmer-Smart-screenshot
 - path: "/uploads/Devs----Khmer-keyboard-launch-party.jpg"
   name: Devs----Khmer-keyboard-launch-party
-tags:
-- digital-acceleration
-- innovation
-thumbnail-image: /uploads/Devs----Khmer-keyboard-pic.jpg
-social-image: /uploads/Devs----Khmer-keyboard-pic.jpg
+thumbnail-image: "/uploads/Devs----Khmer-keyboard-pic.jpg"
+social-image: "/uploads/Devs----Khmer-keyboard-pic.jpg"
 ---
 
 By 2013, smartphone usage among Cambodia’s young people was booming in urban areas. Many users, however, could not text or express themselves in Khmer, Cambodia’s most widely spoken language. Their smartphone software did not readily support the Khmer alphabet, and the few add-on apps available were hard to use and unreliable.

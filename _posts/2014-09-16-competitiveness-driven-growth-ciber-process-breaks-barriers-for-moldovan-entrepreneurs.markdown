@@ -1,7 +1,9 @@
 ---
 title: 'Competitiveness-Driven Growth: CIBER Process  Breaks Barriers for Moldovan
   Entrepreneurs'
-date: 2014-09-16 16:02:00 Z
+date: 2014-09-16 12:02:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Ulrich Ernst
 issue: Summer 2013
@@ -9,10 +11,8 @@ author-bio: "**Ulrich Ernst** serves as Business Enabling Environment Policy Spe
   to the Moldova ACED project."
 assets:
 - path: "/uploads/epic.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/epic.jpg
-social-image: /uploads/epic.jpg
+thumbnail-image: "/uploads/epic.jpg"
+social-image: "/uploads/epic.jpg"
 ---
 
 <p>Moldova used to be the garden of the Soviet Union. It shipped wine, cereals, fruit, and vegetables to the other Soviet Republics. The collapse of the Soviet Union also meant the near-collapse of its agricultural sector, in particular the high-value horticultural segment. The country is now engaged in an intensive effort to reclaim its position as a strong competitor in agricultural exports, both in the traditional markets to the east but also to the European Union. However, Moldovan entrepreneurs and policy makers face hurdles in their quest.</p>

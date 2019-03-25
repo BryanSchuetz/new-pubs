@@ -1,6 +1,8 @@
 ---
 title: Ensuring that Forest Communities Own REDD+ Projects — Not the Other Way Around
-date: 2014-09-16 16:55:00 Z
+date: 2014-09-16 12:55:00 -04:00
+tags:
+- environment-and-energy
 publication: Developments
 author: Keith J. Forbes
 issue: Summer 2013
@@ -12,10 +14,8 @@ assets:
   name: forbes
   author?: 'yes'
 - path: "/uploads/redd.jpg"
-tags:
-- environment-and-energy
-thumbnail-image: /uploads/redd.jpg
-social-image: /uploads/redd.jpg
+thumbnail-image: "/uploads/redd.jpg"
+social-image: "/uploads/redd.jpg"
 ---
 
 <p>Forests and climate change have never been more closely entwined in global climate policy discussions, and for good reason: the more forest, the less climate disruption. Reducing Emissions from Deforestation and Degradation + Conservation (REDD+) initiatives aim to reward communities in and around forests for not converting forests to other land uses, and millions of dollars have been invested to this end. Done well, REDD+ projects can reduce greenhouse gas (GHG) emissions from the clearing or burning of forests, promote development in communities around forests, strengthen land tenure, conserve carbon-storing forests, and safeguard biodiversity. Done poorly, these projects can increase emissions through meaningless offsets, boost deforestation in adjacent areas, and displace indigenous people.</p>

@@ -1,6 +1,9 @@
 ---
 title: How Banks Can Help Businesses Reduce Their Energy Costs
-date: 2015-03-05 13:00:00 Z
+date: 2015-03-05 08:00:00 -05:00
+tags:
+- environment-and-energy
+- economic-growth
 publication: Developments
 issue: Spring 2015
 author-bio: Simone Anzboeck and Inez Couzinet, based in the United Kingdom, are specialists
@@ -10,11 +13,8 @@ featured?: 'yes'
 assets:
 - path: "/uploads/PolSEFF-pic-1.jpg"
 - path: "/uploads/polseff-pic-4.jpg"
-tags:
-- environment-and-energy
-- economic-growth
-thumbnail-image: /uploads/PolSEFF-pic-1.jpg
-social-image: /uploads/PolSEFF-pic-1.jpg
+thumbnail-image: "/uploads/PolSEFF-pic-1.jpg"
+social-image: "/uploads/PolSEFF-pic-1.jpg"
 ---
 
 Energy consumption can account for up to half the cost of doing business for small and medium-sized enterprises (SMEs). These businesses of 250 or fewer employees make up 95 percent of enterprises across the world; they also account for approximately 60 percent of all private sector employment. Globally, there is great potential to reduce their energy costs and carbon emissions.

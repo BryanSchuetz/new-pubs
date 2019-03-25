@@ -1,7 +1,10 @@
 ---
 title: 'Mozambique: Even a Progressive Land Law Needs Revision After a Generation
   of Experience'
-date: 2018-03-08 15:08:00 Z
+date: 2018-03-08 10:08:00 -05:00
+tags:
+- land
+- governance
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: "[Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose), a lawyer
@@ -18,11 +21,8 @@ assets:
   name: Moz image copy
 - path: "/uploads/SAVANA 1262.pdf"
   name: SAVANA 1262
-tags:
-- land
-- governance
-thumbnail-image: /uploads/moz%20ag%20land%202.jpg
-social-image: /uploads/moz%20ag%20land%202.jpg
+thumbnail-image: "/uploads/moz%20ag%20land%202.jpg"
+social-image: "/uploads/moz%20ag%20land%202.jpg"
 ---
 
 Mozambique is widely regarded as having a modern and progressive land tenure framework, following the enactment of the 1997 Land Law. However, in its implementation, the law has not always lived up to its promise. Twenty years of experience reveals a number of areas in which the legal framework would benefit from revision and better serve its primary aims of promoting productive land use while protecting legitimate customary and smallholder land rights.  

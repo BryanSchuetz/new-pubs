@@ -1,6 +1,10 @@
 ---
 title: We Need More Women on the Frontlines of the War on Hunger
-date: 2017-01-03 19:06:00 Z
+date: 2017-01-03 14:06:00 -05:00
+tags:
+- economic-growth
+- agriculture
+- resilience
 publication: Developments
 issue: Spring 2017
 author-bio: DAI’s [Alia Afshar-Gandhi](http://dai.com/who-we-are/our-team/alia-afshar-gandhi),
@@ -24,12 +28,8 @@ assets:
   name: Devs----Alia-Women-in-Ag-4
 - path: "/uploads/Devs----Alia-Women--in-Ag-3.jpg"
   name: Devs----Alia-Women--in-Ag-3
-tags:
-- economic-growth
-- agriculture
-- resilience
-thumbnail-image: /uploads/Devs----Afshar-Women-in-Ag-1.jpg
-social-image: /uploads/Devs----Afshar-Women-in-Ag-1.jpg
+thumbnail-image: "/uploads/Devs----Afshar-Women-in-Ag-1.jpg"
+social-image: "/uploads/Devs----Afshar-Women-in-Ag-1.jpg"
 ---
 
 In developing countries, something is missing in the war on hunger: an equal voice for women.

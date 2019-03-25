@@ -1,16 +1,16 @@
 ---
 title: Haitian Farmers See Increased Income While Better Managing Their Natural Resources
-date: 2012-12-15 20:04:00 Z
+date: 2012-12-15 15:04:00 -05:00
+tags:
+- agriculture
+- economic-growth
 publication: Developments
 issue: 
 author-bio: Helene Kiremidjian helped managed the Haiti DEED project.
 author: Helene Kiremidjian
 featured?: 
-tags:
-- agriculture
-- economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 A wide-ranging project aimed at improving Haiti's natural resource management and the lives of hillside farmers marked its close last month with a number of major successes—including higher incomes for farmers and the formation of a regional forum to carry on improving farm production while protecting natural resources.

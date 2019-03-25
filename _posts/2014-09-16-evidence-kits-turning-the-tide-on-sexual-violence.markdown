@@ -1,6 +1,9 @@
 ---
 title: Evidence Kits Turning the Tide on Sexual Violence
-date: 2014-09-16 18:47:00 Z
+date: 2014-09-16 14:47:00 -04:00
+tags:
+- global-health
+- stability
 publication: Developments
 author: Dawn Hayden and Christy Martins
 issue: Summer 2013
@@ -9,11 +12,8 @@ author-bio: "**Dawn Hayden** is Regional Program Manager-North for the Sri Lanka
 featured?: 'yes'
 assets:
 - path: "/uploads/risen.jpg"
-tags:
-- global-health
-- stability
-thumbnail-image: /uploads/risen.jpg
-social-image: /uploads/risen.jpg
+thumbnail-image: "/uploads/risen.jpg"
+social-image: "/uploads/risen.jpg"
 ---
 
 <p>The rape kit–or forensic evidence collection kit, to use its sanitized title–is something people in the West might take for granted. Not so in Sri Lanka where, until the advent of the sexual assault forensic examination (SAFE) program, there were no readily available rape kits. Instead, perpetrators of sexual violence acted with impunity.</p>

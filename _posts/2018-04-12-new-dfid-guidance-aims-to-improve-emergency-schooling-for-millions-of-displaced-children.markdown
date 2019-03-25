@@ -1,7 +1,11 @@
 ---
 title: New DFID Guidance Aims to Improve Emergency Schooling for Millions of Displaced
   Children
-date: 2018-04-12 14:14:00 Z
+date: 2018-04-12 10:14:00 -04:00
+tags:
+- fragile-states
+- stability
+- resilience
 publication: Developments
 issue: Summer 2018
 author-bio: Christian Haussner is a DAI project manager.
@@ -24,12 +28,8 @@ assets:
   name: DEVS----EiE2
 - path: "/uploads/Devs----EiE6.jpg"
   name: Devs----EiE6
-tags:
-- fragile-states
-- stability
-- resilience
-thumbnail-image: /uploads/Devs----EiE1.jpg
-social-image: /uploads/Devs----EiE1.jpg
+thumbnail-image: "/uploads/Devs----EiE1.jpg"
+social-image: "/uploads/Devs----EiE1.jpg"
 ---
 
 An estimated 75 million children cannot go to school because they have been driven from their homes by war, crisis, and natural disaster. This deprivation in turn destabilizes vulnerable regions because uneducated children grow into at-risk teenagers and young adults.

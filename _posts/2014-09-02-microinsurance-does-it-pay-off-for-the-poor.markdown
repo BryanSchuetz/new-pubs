@@ -1,6 +1,8 @@
 ---
 title: 'Microinsurance: Does it Pay Off for the Poor?'
-date: 2014-09-02 20:42:00 Z
+date: 2014-09-02 16:42:00 -04:00
+tags:
+- economic-growth
 publication: Developments
 author: Barbara Magnoni
 issue: Financial Inclusion
@@ -12,10 +14,8 @@ assets:
   name: barbara
   author?: 'yes'
 - path: "/uploads/90412460@N00.jpg"
-tags:
-- economic-growth
-thumbnail-image: /uploads/90412460@N00.jpg
-social-image: /uploads/90412460@N00.jpg
+thumbnail-image: "/uploads/90412460@N00.jpg"
+social-image: "/uploads/90412460@N00.jpg"
 ---
 
 <p>Microinsurance, much like microcredit, seeks to bring financial products and services typically reserved for middle and upper classes to the poor. Its particular promise is to offer low-income consumers protection from financial shocks more effectively than existing coping mechanisms such as credit, savings, pooling of community resources, public sector support, or asset sales.</p>

@@ -1,6 +1,8 @@
 ---
 title: Project Brings Together Divergent Ethnic Groups in Sri Lanka
-date: 2012-04-25 20:22:00 Z
+date: 2012-04-25 16:22:00 -04:00
+tags:
+- governance
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Manager and a former journalist.
@@ -9,10 +11,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-5.jpg"
   author?: 'yes'
-tags:
-- governance
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 A film documenting an annual pilgrimage in Sri Lanka shows the promise of peace for an island too long torn apart by war. The film was produced by the DAI-led [Reintegration and Stabilization in the East and North (RISEN)](https://www.dai.com/our-work/projects/sri-lanka-reintegration-and-stabilization-east-and-north-risen) project, which is funded by the U.S. Agency for International Development's Office of Transition Initiatives (OTI).

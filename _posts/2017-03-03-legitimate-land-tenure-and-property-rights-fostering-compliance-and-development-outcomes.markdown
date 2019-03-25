@@ -1,7 +1,10 @@
 ---
 title: 'Legitimate Land Tenure and Property Rights: Fostering Compliance and Development
   Outcomes'
-date: 2017-03-03 15:15:00 Z
+date: 2017-03-03 10:15:00 -05:00
+tags:
+- governance
+- land
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Over the past 20 years, [Richard Baldwin](https://www.dai.com/who-we-are/our-team/richard-baldwin)
@@ -20,11 +23,8 @@ assets:
   name: DSCN0438
 - path: "/uploads/Land mapping.jpg"
   name: Land mapping
-tags:
-- governance
-- land
-thumbnail-image: /uploads/Land%20mapping.jpg
-social-image: /uploads/Land%20mapping.jpg
+thumbnail-image: "/uploads/Land%20mapping.jpg"
+social-image: "/uploads/Land%20mapping.jpg"
 ---
 
 At the request of the U.K. Department for International Development, DAI recently undertook [structured research](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/471197/land-tenure.pdf) into the following question: What policies and interventions or approaches have been successful in fostering compliance with legitimate land tenure rights and what impact have these strategies had on development outcomes? The research team was led by Geoffrey Payne and included James Mitchell, Luke Kozumbo, Clive English, and Richard Baldwin, using [Rapid Evidence Assessment (REA)](https://www.gov.uk/government/collections/rapid-evidence-assessments), a methodology that uses a structured approach to identify relevant literature and then assess the robustness of the evidence presented.

@@ -1,6 +1,12 @@
 ---
 title: How Can Nigeria Fulfill its Broad Economic Potential?
-date: 2018-04-11 15:47:00 Z
+date: 2018-04-11 11:47:00 -04:00
+tags:
+- economic-growth
+- trade
+- investment
+- finance
+- agriculture
 publication: Developments
 issue: Summer 2018
 author-bio: "[Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), left, is
@@ -24,14 +30,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Bill-Grant-mug-1.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- trade
-- investment
-- finance
-- agriculture
-thumbnail-image: /uploads/Devs----Nigeria-KIC.jpg
-social-image: /uploads/Devs----Nigeria-KIC.jpg
+thumbnail-image: "/uploads/Devs----Nigeria-KIC.jpg"
+social-image: "/uploads/Devs----Nigeria-KIC.jpg"
 ---
 
 Nigeria is the economic heavyweight of West Africa, but it faces challenges. Approximately [two-thirds](https://www.today.ng/news/nigeria/67-percent-nigerians-live-poverty-presidency-62856) of its people live in poverty and its economy suffers from low productivity and an uneven climate for trade and investment. Until recently, oil-rich Nigeria has not been a good place to make products or grow crops because it didn’t have to be—the country simply imported what it needed. But times are changing for Africa’s most populous nation.

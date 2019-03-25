@@ -1,6 +1,9 @@
 ---
 title: LTA Program Shows Benefit of Truly Participatory Approach
-date: 2018-03-19 14:21:00 Z
+date: 2018-03-19 10:21:00 -04:00
+tags:
+- land
+- governance
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Tressan Sullivan is Chief of Party of the LTA program and will be [presenting
@@ -11,12 +14,8 @@ featured?:
 assets:
 - path: "/uploads/DSCN8551.JPG"
   name: DSCN8551
-tags:
-- land
-- governance
-- land
-thumbnail-image: /uploads/DSCN8551.JPG
-social-image: /uploads/DSCN8551.JPG
+thumbnail-image: "/uploads/DSCN8551.JPG"
+social-image: "/uploads/DSCN8551.JPG"
 ---
 
 The [Feed the Future Land Tenure Assistance](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) (LTA) activity—which has completed mapping of more than 36,000 land parcels in 26 villages with more than 27,000 Certificates of Customary Rights of Occupancy printed and registered—is a powerful example of how digital technology applied in a participatory process can enable rural people to strengthen their land rights. 

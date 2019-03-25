@@ -1,6 +1,10 @@
 ---
 title: Placing Women at the Center of Water Supply Management in Kenya
-date: 2018-08-27 13:50:00 Z
+date: 2018-08-27 09:50:00 -04:00
+tags:
+- environment-and-energy
+- global-health
+- economic-growth
 publication: Developments
 issue: Fall 2018
 author-bio: Emily Mutai, left, is the communications and marketing manager for the
@@ -23,12 +27,8 @@ assets:
   name: Devs----KIWASH-1
 - path: "/uploads/Devs----KIWASH-Women-2.jpg"
   name: Devs----KIWASH-Women-2
-tags:
-- environment-and-energy
-- global-health
-- economic-growth
-thumbnail-image: /uploads/Devs----KIWASH-Women-4.jpg
-social-image: /uploads/Devs----KIWASH-Women-4.jpg
+thumbnail-image: "/uploads/Devs----KIWASH-Women-4.jpg"
+social-image: "/uploads/Devs----KIWASH-Women-4.jpg"
 ---
 
 As Christine Kanini checks water meters on her weekly rounds, she recalls that 18 months earlier she could not aspire to this job. “We had mainly male meter readers,” Kanini said. “Then I was promoted to this position from gate keeping. I am happy with the work.” Over the past year, the Wote Water and Sewerage Company (WOWASCO), which serves the small city of Wote in south-central Kenya, has opened up opportunities for women such as Kanini in fields that were previously deemed suited for men only.

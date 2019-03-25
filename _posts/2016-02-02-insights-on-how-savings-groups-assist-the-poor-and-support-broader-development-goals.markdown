@@ -1,6 +1,9 @@
 ---
 title: How Savings Groups Assist the Poor and Support Broader Development Goals
-date: 2016-02-02 12:34:00 Z
+date: 2016-02-02 07:34:00 -05:00
+tags:
+- economic-growth
+- resilience
 publication: Developments
 issue: Summer 2016
 author-bio: "[John Jepsen](http://dai.com/who-we-are/our-team/john-jepsen) is DAI’s
@@ -22,11 +25,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Colleen-Green-pic.jpg"
   name: Devs----Colleen-Green-pic
-tags:
-- economic-growth
-- resilience
-thumbnail-image: /uploads/Devs----Jepsen-Savings-Groups-4.jpg
-social-image: /uploads/Devs----Jepsen-Savings-Groups-4.jpg
+thumbnail-image: "/uploads/Devs----Jepsen-Savings-Groups-4.jpg"
+social-image: "/uploads/Devs----Jepsen-Savings-Groups-4.jpg"
 ---
 
 In November, DAI inclusive economic growth specialists [Colleen Green](http://dai.com/who-we-are/our-team/colleen-green) and [Kirsten Weeks](http://dai.com/who-we-are/our-team/kirsten-weeks) attended the SG2015 Savings Groups Conference in Lusaka, Zambia, where approximately 350 practitioners from 44 countries shared experiences and opinions. Green and Weeks recently discussed savings groups and how DAI uses them across its programming with John Jepsen, DAI’s Global Practice Lead for financial services.

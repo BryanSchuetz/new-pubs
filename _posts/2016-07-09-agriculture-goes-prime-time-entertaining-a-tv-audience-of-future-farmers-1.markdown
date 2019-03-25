@@ -1,6 +1,10 @@
 ---
 title: 'Agriculture Goes Prime Time: Enthralling a TV Audience of Future Farmers'
-date: 2016-07-09 20:25:00 Z
+date: 2016-07-09 16:25:00 -04:00
+tags:
+- agriculture
+- economic-growth
+- digital-acceleration
 publication: Developments
 issue: Summer 2016
 author-bio: Steve Smith is the East and Southern Africa Regional Director of Africa
@@ -18,12 +22,8 @@ assets:
   name: Devs----ALII-TV-pic-3
 - path: "/uploads/Devs----ALII-TV-pic-4.jpg"
   name: Devs----ALII-TV-pic-4
-tags:
-- agriculture
-- economic-growth
-- digital-acceleration
-thumbnail-image: /uploads/Devs----ALII-TV-pic-3.jpg
-social-image: /uploads/Devs----ALII-TV-pic-3.jpg
+thumbnail-image: "/uploads/Devs----ALII-TV-pic-3.jpg"
+social-image: "/uploads/Devs----ALII-TV-pic-3.jpg"
 ---
 
 Each Wednesday night, up to 11 million viewers tune into  *Makutano Junction*, a hit TV series that airs on Citizen Television in Kenya, Tanzania, and Uganda. It is the most-watched locally produced program in Kenya, but *Makutano Junction* is not just any soap opera. Africa Lead II, a Feed the Future program of the U.S. Agency for International Development (USAID), is helping fund production and craft scripts that deliver a much-needed message: agriculture is cool.

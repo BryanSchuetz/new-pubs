@@ -1,7 +1,9 @@
 ---
 title: Spurring the Malawi Judiciary to Re-Hear Death Sentence Cases, Free Prisoners
   Unjustly Held
-date: 2016-02-25 15:51:00 Z
+date: 2016-02-25 10:51:00 -05:00
+tags:
+- governance
 publication: Developments
 issue: Summer 2016
 author-bio: Alice Kaunda is the Communications and Knowledge Manager on the Tilitonse
@@ -17,10 +19,8 @@ assets:
   name: Devs----Tilitonse-2
 - path: "/uploads/Devs----Tilitonse-1.jpg"
   name: Devs----Tilitonse-1
-tags:
-- governance
-thumbnail-image: /uploads/Alice-Kaunda----Tilitonse.jpg
-social-image: /uploads/Alice-Kaunda----Tilitonse.jpg
+thumbnail-image: "/uploads/Alice-Kaunda----Tilitonse.jpg"
+social-image: "/uploads/Alice-Kaunda----Tilitonse.jpg"
 ---
 
 In the 2007 case of Kafantayeni and Others v. Attorney General, the Malawi High Court invalidated the mandatory death penalty and ruled that all prisoners given these sentences were entitled to a new sentence hearing. In November 2010, the Malawi Supreme Court of Appeal confirmed this right. But by 2013, none of the affected death-row prisoners—188 men and four women—had received their hearing.

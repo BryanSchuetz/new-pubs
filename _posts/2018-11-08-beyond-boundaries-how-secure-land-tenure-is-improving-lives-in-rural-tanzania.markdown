@@ -1,6 +1,10 @@
 ---
 title: 'Beyond Boundaries: How Secure Land Tenure is Improving Lives in Rural Tanzania'
-date: 2018-11-08 20:38:00 Z
+date: 2018-11-08 15:38:00 -05:00
+tags:
+- land
+- economic-growth
+- gender
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Tressan Sullivan is Chief of Party of the LTA program. Brian McMahon is
@@ -20,12 +24,8 @@ assets:
 - path: "/uploads/Devs----Brian-McMahon-mug-(1)-1.jpg"
   name: Devs----Brian-McMahon-mug-(1)-1
   author?: 'yes'
-tags:
-- land
-- economic-growth
-- gender
-thumbnail-image: /uploads/parasurveyor.jpg
-social-image: /uploads/parasurveyor.jpg
+thumbnail-image: "/uploads/parasurveyor.jpg"
+social-image: "/uploads/parasurveyor.jpg"
 ---
 
 After Monika Lalika’s husband passed away, her in-laws did not allow her to use the land he had left her and she used to worry that they would one day claim the property for themselves. For Martha Paulo Mwilongo, a land dispute with her neighbor kept her from selling or renting part of her 11 acres to pay her children’s school fees. Joti Kihongo wanted to expand his general store, but could not get a large enough loan because banks would not recognize his undocumented land as collateral.

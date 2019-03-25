@@ -1,6 +1,10 @@
 ---
 title: 'Ethiopia Land Registration Ready for Lift Off: Now What?'
-date: 2017-03-15 14:20:00 Z
+date: 2017-03-15 10:20:00 -04:00
+tags:
+- governance
+- land
+- gender
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: "[John Leckie, ](https://www.dai.com/who-we-are/our-team/john-leckie)
@@ -20,12 +24,8 @@ assets:
   name: LIFT 1
 - path: "/uploads/LIFT-2.jpg"
   name: LIFT-2
-tags:
-- governance
-- land
-- gender
-thumbnail-image: /uploads/LIFT%201.jpg
-social-image: /uploads/LIFT%201.jpg
+thumbnail-image: "/uploads/LIFT%201.jpg"
+social-image: "/uploads/LIFT%201.jpg"
 ---
 
 Large-scale land registration programmes such as the U.K. for International Development (DFID)-funded [Rwanda Land Tenure Regularisation Programme](http://dai-global-developments.com/articles/delivering-large-scale-land-certification-programmes-lessons-from-rwanda/) have demonstrated that it is possible to roll out land registration programmes quickly and cheaply, on a national scale. Now, a similar but even more ambitious U.K. initiative in Ethiopia—the [Land Investment for Transformation Programme (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift)—is beginning to gain traction. Building on the lessons learned in Rwanda, LIFT is working to keep the momentum going, ensure the programme is financially sustainable, and begin to realize the development benefits of expanded land titling.

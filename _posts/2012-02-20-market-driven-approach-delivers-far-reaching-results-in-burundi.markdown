@@ -1,6 +1,10 @@
 ---
 title: Market-Driven Approach Delivers Far-Reaching Results in Burundi
-date: 2012-02-20 19:36:00 Z
+date: 2012-02-20 14:36:00 -05:00
+tags:
+- gender
+- economic-growth
+- agriculture
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Manager at DAI and a former
@@ -10,12 +14,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-3.jpg"
   author?: 'yes'
-tags:
-- gender
-- economic-growth
-- agriculture
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 At the beginning of the [Burundi Agribusiness Program (BAP)](https://www.dai.com/our-work/projects/burundi-agribusiness-program-bap), women participants would stand in the back of training sessions and remain quiet. But as time went on, they gradually began moving to the front. By the end of the program, they felt empowered to speak on issues without permission from men.

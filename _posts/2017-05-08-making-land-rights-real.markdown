@@ -1,6 +1,9 @@
 ---
 title: Making Land Rights Real
-date: 2017-05-09 00:00:00 Z
+date: 2017-05-08 20:00:00 -04:00
+tags:
+- economic-growth
+- land
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Over the past 20 years, [Richard Baldwin](https://www.dai.com/who-we-are/our-team/richard-baldwin)
@@ -15,11 +18,8 @@ featured?: 'yes'
 assets:
 - path: "/uploads/Richard-Baldwin-DA.jpg"
   author?: 'yes'
-tags:
-- economic-growth
-- land
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 Land rights are largely taken for granted in the developed world. Yet for many people in developing nations, land rights have no reality. In the developed world, land rights are almost always recorded in secure registers, but this is not the case elsewhere. It is estimated that as many as 90 percent of the world’s poorest people enjoy neither security of tenure nor secure access to land. In Africa, this means that more than 500 million and perhaps as many as 750 million people are living without any legal security or proof of claim to the land they are occupying. 

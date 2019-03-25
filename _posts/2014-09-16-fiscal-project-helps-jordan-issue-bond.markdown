@@ -1,6 +1,9 @@
 ---
 title: Fiscal Project Helps Jordan Issue $1.25 Billion Bond, Saving Millions for Development
-date: 2014-09-16 21:11:00 Z
+date: 2014-09-16 17:11:00 -04:00
+tags:
+- economic-growth
+- governance
 publication: Developments
 author: Charles Coon
 issue: Winter 2013
@@ -10,11 +13,8 @@ assets:
 - path: "/uploads/chuck1-4.jpg"
   name: chuck1-4
   author?: 'yes'
-tags:
-- economic-growth
-- governance
-thumbnail-image: /uploads/jordan-1.jpg
-social-image: /uploads/jordan-1.jpg
+thumbnail-image: "/uploads/jordan-1.jpg"
+social-image: "/uploads/jordan-1.jpg"
 ---
 
 <p>On October 31, the Hashemite Kingdom of Jordan closed on its offering of a $1.25 billion sovereign bond issuance guaranteed by the United States.</p>

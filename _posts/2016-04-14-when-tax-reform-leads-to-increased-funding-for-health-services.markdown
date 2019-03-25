@@ -1,6 +1,10 @@
 ---
 title: When Tax Reform Leads to Increased Funding for Health Services
-date: 2016-04-14 16:24:00 Z
+date: 2016-04-14 12:24:00 -04:00
+tags:
+- global-health
+- governance
+- public-financial-management
 publication: Developments
 issue: 
 author-bio: DAI’s [Eunice Heredia-Ortiz](http://dai.com/who-we-are/our-team/eunice-heredia-ortiz)
@@ -22,12 +26,8 @@ assets:
   name: Devs----Eunice-HFG-graph-1-new
 - path: "/uploads/Devs-Eunice-mug-new.jpg"
   author?: 'yes'
-tags:
-- global-health
-- governance
-- public-financial-management
-thumbnail-image: /uploads/Devs----Eunice-HFG-2.jpg
-social-image: /uploads/Devs----Eunice-HFG-2.jpg
+thumbnail-image: "/uploads/Devs----Eunice-HFG-2.jpg"
+social-image: "/uploads/Devs----Eunice-HFG-2.jpg"
 ---
 
 For people across El Salvador, it can be difficult to find medical treatment. Local health facilities in marginalized and rural areas often run short of basic medicines such as antibiotics. A doctor or nurse—if available—might have difficulty locating supplies and tools such as syringes and stethoscopes. But this scenario is brightening.

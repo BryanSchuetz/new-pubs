@@ -1,6 +1,9 @@
 ---
 title: Plugging In to Jordan’s Rising Demand for Electric Cars
-date: 2016-06-27 14:17:00 Z
+date: 2016-06-27 10:17:00 -04:00
+tags:
+- environment-and-energy
+- governance
 publication: Developments
 issue: Summer 2016
 author-bio: DAI's Dr. Wissam Rabadi, left, is Chief of Party of the USAID Jordan Competitiveness
@@ -24,11 +27,8 @@ assets:
   author?: 'yes'
 - path: "/uploads/Devs----Shada-El-Sharif-mug.jpg"
   author?: 'yes'
-tags:
-- environment-and-energy
-- governance
-thumbnail-image: /uploads/Devs----JCP-cars-8.jpg
-social-image: /uploads/Devs----JCP-cars-8.jpg
+thumbnail-image: "/uploads/Devs----JCP-cars-8.jpg"
+social-image: "/uploads/Devs----JCP-cars-8.jpg"
 ---
 
 Just shy of Amman's “7th Circle” on Zahran Street stands a car showroom featuring a different kind of sedan. Take one walk around the Renault Zoe and you will spot the difference. This 88-horsepower super-mini features all the design elements of a car twice its size, except one: a gas tank.   

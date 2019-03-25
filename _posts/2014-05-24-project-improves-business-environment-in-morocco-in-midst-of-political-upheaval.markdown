@@ -1,6 +1,9 @@
 ---
 title: Project Improves Business Environment in Morocco in Midst of Political Upheaval
-date: 2014-05-24 20:07:00 Z
+date: 2014-05-24 16:07:00 -04:00
+tags:
+- agriculture
+- economic-growth
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Manager at DAI and a former
@@ -10,11 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-1.jpg"
   author?: 'yes'
-tags:
-- agriculture
-- economic-growth
-thumbnail-image:
-social-image:
+thumbnail-image: 
+social-image: 
 ---
 
 In just three and a half years, the [Morocco Economic Competitiveness (MEC)][1] program accomplished an ambitious scope of work: reducing barriers to trade and investment in two rural regions at a time when economic turmoil—particularly in Europe—and political change across the Middle East and North Africa had a profound impact on Morocco.

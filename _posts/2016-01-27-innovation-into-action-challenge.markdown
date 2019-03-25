@@ -1,6 +1,8 @@
 ---
 title: 'DAI’s Newest Collaboration: The Innovation into Action Challenge'
-date: 2016-01-27 21:25:00 Z
+date: 2016-01-27 16:25:00 -05:00
+tags:
+- innovation
 publication: Developments
 issue: 
 author-bio: 
@@ -9,10 +11,8 @@ featured?:
 assets:
 - path: "/uploads/Devs----Jean-Gilson-large.jpg"
   name: Devs----Jean-Gilson-large
-tags:
-- innovation
-thumbnail-image: /uploads/Devs----Jean-Gilson-large.jpg
-social-image: /uploads/Devs----Jean-Gilson-large.jpg
+thumbnail-image: "/uploads/Devs----Jean-Gilson-large.jpg"
+social-image: "/uploads/Devs----Jean-Gilson-large.jpg"
 ---
 
 Innovation has been a core DAI principle since our founding 45 years ago. The firm’s very name, Development Alternatives, speaks to the company’s fundamental aspiration to provide customers with solutions that push the boundaries of the discipline. At DAI, we define innovation as the combination of products, services, processes, and business models that collectively create a new growth trajectory for the company. For DAI, innovation must yield value.

@@ -1,6 +1,10 @@
 ---
 title: With U.K. Aid, Lebanon’s Social Enterprises Pilot a New Model of Development
-date: 2018-05-07 17:43:00 Z
+date: 2018-05-07 13:43:00 -04:00
+tags:
+- economic-growth
+- stability
+- digital-acceleration
 publication: Developments
 issue: Summer 2018
 author-bio: DAI’s Hoda Salman is manager of the Lebanon Social Enterprise Pilot Project.
@@ -13,12 +17,8 @@ assets:
   name: Devs----Lebanon-SEPP-1
 - path: "/uploads/Devs----Lebanon-SEPP-2.jpg"
   name: Devs----Lebanon-SEPP-2
-tags:
-- economic-growth
-- stability
-- digital-acceleration
-thumbnail-image: /uploads/Devs----Lebanon-SEPP-1.jpg
-social-image: /uploads/Devs----Lebanon-SEPP-1.jpg
+thumbnail-image: "/uploads/Devs----Lebanon-SEPP-1.jpg"
+social-image: "/uploads/Devs----Lebanon-SEPP-1.jpg"
 ---
 
 The influx of refugees from across the Syrian border is straining Lebanon’s economy and host communities. Since 2011, Lebanon’s population has [increased](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB) 30 percent to around 6 million as a result of this influx, and its young people are increasingly anxious to enter the workforce. Many even wish to start or join social enterprises to help address the country’s challenges, including problems stemming from the refugee crisis. But until recently there were few avenues for pursuing this work.

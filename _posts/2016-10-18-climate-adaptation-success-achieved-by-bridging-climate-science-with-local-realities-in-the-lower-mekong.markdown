@@ -1,6 +1,10 @@
 ---
 title: Establishing a Model at the Local Level for Science-Driven Climate Adaptation
-date: 2016-10-18 19:34:00 Z
+date: 2016-10-18 15:34:00 -04:00
+tags:
+- resilience
+- environment-and-energy
+- agriculture
 publication: Developments
 issue: 
 author-bio: DAI’s Shannon Dugan, left, was Deputy Chief of Party and Paul Hartman
@@ -33,12 +37,8 @@ assets:
   name: Devs----Mekong-ARCC-closedown-4-1
 - path: "/uploads/Devs----Paul-Hartman-pic.jpg"
   author?: 'yes'
-tags:
-- resilience
-- environment-and-energy
-- agriculture
-thumbnail-image: /uploads/Devs----Mekong-ARCC-closedown-4.jpg
-social-image: /uploads/Devs----Mekong-ARCC-closedown-4.jpg
+thumbnail-image: "/uploads/Devs----Mekong-ARCC-closedown-4.jpg"
+social-image: "/uploads/Devs----Mekong-ARCC-closedown-4.jpg"
 ---
 
 Countries in the Lower Mekong Basin (LMB)—Cambodia, Lao PDR, Thailand, and Vietnam—are home to rural populations that are chronically poor or vulnerable. Many of these families still produce much of their own food and are acutely sensitive to weather events such as floods, droughts, and extreme storms that cause crop failures and serious hardships. In recent years, rural communities in the LMB have experienced their share of extreme weather.

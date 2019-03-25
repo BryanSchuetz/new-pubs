@@ -1,6 +1,8 @@
 ---
 title: 'Self-Examining Practitioners: A Guide to the Journal'
-date: 2014-10-06 21:55:00 Z
+date: 2014-10-06 17:55:00 -04:00
+tags:
+- resilience
 publication: Developing Alternatives
 issue: Winter 2013
 author-bio: "**Barb Lauer** is DAI's Global Lead, Resiliency & Transition."
@@ -13,10 +15,8 @@ assets:
 - path: "/uploads/bamboo.jpg"
 - path: "/uploads/bamboo2.jpg"
 - path: "/uploads/authors.jpg"
-tags:
-- resilience
-thumbnail-image: /uploads/bamboo2.jpg
-social-image: /uploads/bamboo2.jpg
+thumbnail-image: "/uploads/bamboo2.jpg"
+social-image: "/uploads/bamboo2.jpg"
 ---
 
 Resilience is the capacity to adapt successfully in the face of stress, threats, or disaster. Among the earliest efforts to incorporate resilience in a theory of social change is a model debated in the 1970s and operationalized in the 1990s: positive deviance. Jerry and Monique Sternin developed this concept to explain why, in a Vietnamese village with high rates of malnutrition, some children thrived. 

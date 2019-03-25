@@ -1,6 +1,9 @@
 ---
 title: Providing an Afghan Village with Lights and Electricity
-date: 2014-08-27 17:45:00 Z
+date: 2014-08-27 13:45:00 -04:00
+tags:
+- environment-and-energy
+- stability
 publication: Developments
 author: Dana Kenny, Matiullah Amansai, and Said Noor Ahmad Sadat
 issue: Summer 2012
@@ -9,11 +12,8 @@ author-bio: "**Dana Kenney** served as a senior development specialist in DAI’
   the IDEA-NEW program."
 assets:
 - path: "/uploads/hydro1.jpg"
-tags:
-- environment-and-energy
-- stability
-thumbnail-image: /uploads/hydro1.jpg
-social-image: /uploads/hydro1.jpg
+thumbnail-image: "/uploads/hydro1.jpg"
+social-image: "/uploads/hydro1.jpg"
 ---
 
 <p>Imagine the difference electricity would make to a village where every night the street and homes go dark because there is no choice.</p>

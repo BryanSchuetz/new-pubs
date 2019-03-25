@@ -1,6 +1,9 @@
 ---
 title: Getting Back to Business in Post-Conflict Gaza
-date: 2015-10-30 16:02:00 Z
+date: 2015-10-30 12:02:00 -04:00
+tags:
+- economic-growth
+- stability
 publication: Developments
 issue: Fall 2015
 author-bio: Mira Nasser is a Communications Specialist with PMDP.
@@ -19,11 +22,8 @@ assets:
   name: Devs----Gaza-pic-1
 - path: "/uploads/Devs----PMDP-Gaza-pic-3.jpg"
   name: Devs----PMDP-Gaza-pic-3
-tags:
-- economic-growth
-- stability
-thumbnail-image: /uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg
-social-image: /uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg
+thumbnail-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
+social-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
 ---
 
 When a business is put out of commission by war, it can take only a small investment—done rapidly in a post-conflict environment—to put it back on its feet, creating employment and making sales.

@@ -1,6 +1,10 @@
 ---
 title: Land Titles in Ethiopia Open Doors to Finance and Investment
-date: 2018-11-07 18:16:00 Z
+date: 2018-11-07 13:16:00 -05:00
+tags:
+- governance
+- land
+- market-systems-development
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Shewit Emmanuel is a Private Sector Development Adviser and Senior Responsible
@@ -10,12 +14,8 @@ featured?:
 assets:
 - path: "/uploads/LIFT 1-1.jpg"
   name: LIFT 1-1
-tags:
-- governance
-- land
-- market-systems-development
-thumbnail-image: /uploads/LIFT%201-1.jpg
-social-image: /uploads/LIFT%201-1.jpg
+thumbnail-image: "/uploads/LIFT%201-1.jpg"
+social-image: "/uploads/LIFT%201-1.jpg"
 ---
 
 While still one of the poorest countries in the world, Ethiopia has made major advances in reducing poverty and increasing agricultural production in recent years. However, the pace of progress is constrained by inefficiencies in the rural land sector, including weak documentation and management of land rights. 

@@ -1,6 +1,8 @@
 ---
 title: For Thailand’s Civil Society, Capacity Building Now Begins at Home
-date: 2016-01-14 16:55:00 Z
+date: 2016-01-14 11:55:00 -05:00
+tags:
+- governance
 publication: Developments
 issue: Summer 2016
 author-bio: Dr. Buapun Promphakping is a professor at Khon Kaen University and director
@@ -20,10 +22,8 @@ assets:
   name: Devs-Sapan-Buapan-10
 - path: "/uploads/Devs-Sapan-Buapan-6.jpg"
   name: Devs-Sapan-Buapan-6
-tags:
-- governance
-thumbnail-image: /uploads/Devs-Sapan-Buapan-9.jpg
-social-image: /uploads/Devs-Sapan-Buapan-9.jpg
+thumbnail-image: "/uploads/Devs-Sapan-Buapan-9.jpg"
+social-image: "/uploads/Devs-Sapan-Buapan-9.jpg"
 ---
 
 Well functioning democracies typically rest on three pillars: the state, the market economy, and civil society. Although nongovernmental organizations have existed in Thailand since the Vietnam War, management in the country’s civil society sector has lagged. During Thailand’s modernization and rapid growth, the state and private sectors have dominated development, with universities limited to preparing Thai people for employment in these sectors. Until recently, there were no university programs dedicated to nonprofit management.
