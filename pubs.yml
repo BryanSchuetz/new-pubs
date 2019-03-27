@@ -1,5 +1,6 @@
 ---
 ---
+
 {% for post in site.posts | limit:30 %}
 - title: |
     {{ post.title | strip_html | strip_newlines }}
