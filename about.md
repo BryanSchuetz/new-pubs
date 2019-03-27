@@ -15,4 +15,4 @@ layout: page
 
 <blockquote>Find out more at <a href="http://dai.com">dai.com</a></blockquote>
 
-<p>While a <a href="http://dai.com/news-publications/publications"> .pdf archive</a> of all DAI <em>print</em> publications can be found at our corporate site <a href="http://dai.com">dai.com</a>—new <em>online</em> editions of these same publications are made available here. Look for recent articles from <a href="/publications.html">each publication</a>, along with archives of all previously published online articles.</p>
+<p>While a <a href="http://dai.com/news-publications/publications"> .pdf archive</a> of all DAI <em>print</em> publications can be found at our corporate site <a href="http://dai.com">dai.com</a>—new <em>online</em> editions of these same publications are made available here. Look for recent articles from <a href="/publications.html">each publication</a>.</p>
