@@ -3,14 +3,12 @@
 {% for post in site.posts | limit:30 %}
 - title: |
     {{ post.title | strip_html | strip_newlines }}
-  pub: "{{ post.meta.publication }}"
+  pub: "{{ post.publication }}"
   date: {{ post.date | date: "%F" }}
   link: "{{ post.url }}?utm_source=daidotcom"
   summary: |
     {{ post.excerpt | strip_html | strip_newlines }}
-  tags:{% for tag in post.taxonomy.tags %}{% if tag == 'ict' %} 
+  tags:{% for tag in post.tags %}{% if tag == 'ict' %} 
     - digital acceleration{% elsif tag == 'health'%}  
     - global health{% else %}
-    - {{ tag.value | rstrip }}{% endif %}{% endfor %}{% endfor %}
-
-    
+    - {{ tag | rstrip }}{% endif %}{% endfor %}{% endfor %}
