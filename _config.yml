@@ -20,7 +20,7 @@ defaults:
     publications: 
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-developments.com
-permalink: "/:title.html"
+permalink: "/articles/:title.html"
 markdown: kramdown
 kramdown:
   input: GFM
