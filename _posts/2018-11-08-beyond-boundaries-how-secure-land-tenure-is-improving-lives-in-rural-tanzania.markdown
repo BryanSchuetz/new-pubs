@@ -5,6 +5,8 @@ tags:
 - land
 - economic-growth
 - gender
+thumbnail-image: "/uploads/parasurveyor.jpg"
+social-image: "/uploads/parasurveyor.jpg"
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Tressan Sullivan is Chief of Party of the LTA program. Brian McMahon is
@@ -24,8 +26,6 @@ assets:
 - path: "/uploads/Devs----Brian-McMahon-mug-(1)-1.jpg"
   name: Devs----Brian-McMahon-mug-(1)-1
   author?: 'yes'
-thumbnail-image: "/uploads/parasurveyor.jpg"
-social-image: "/uploads/parasurveyor.jpg"
 ---
 
 After Monika Lalika’s husband passed away, her in-laws did not allow her to use the land he had left her and she used to worry that they would one day claim the property for themselves. For Martha Paulo Mwilongo, a land dispute with her neighbor kept her from selling or renting part of her 11 acres to pay her children’s school fees. Joti Kihongo wanted to expand his general store, but could not get a large enough loan because banks would not recognize his undocumented land as collateral.
@@ -50,7 +50,7 @@ LTA begins work in each of its target communities by holding village-wide meetin
 
 After gaining community buy-in, LTA begins digital demarcation of land parcels, also using a participatory and locally led approach. LTA trains parasurveyors from the villages to demarcate parcels by walking the boundaries of fields and residential parcels with residents and their neighbors, while marking property lines on a GPS-enabled tablet or smartphone. These mobile devices use the Mobile Application to Secure Tenure (MAST) to overlay boundary points on a satellite image of the village, which is then uploaded to a cloud server for editing back in the project office. LTA’s geographic information systems experts adjust boundaries for roads or public lands and the resulting map is posted in the village council offices for community members to review. Members of the Village Land Adjudication Committee work alongside parasurveyors to verify claims, confirm rights of occupancy, and resolve competing claims or boundary disputes.
 
-![Parasurveyors in the field](/uploads/parasurveyor.jpg "A parasurveyor trained by LTA demarcating boundaries with a property owner.") 
+<iframe src="https://player.vimeo.com/video/326565759" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 The project works together with the local District Land Office (DLO) to register new claims in the official registry system and to print and issue formal land certificates. Issuing land certificates is a [cause for celebration in villages](https://www.dai.com/news/more-than-500-rural-tanzanians-now-have-land-titles), drawing hundreds of attendees for music, dancing, and speeches from local leaders or district officials. 
 
