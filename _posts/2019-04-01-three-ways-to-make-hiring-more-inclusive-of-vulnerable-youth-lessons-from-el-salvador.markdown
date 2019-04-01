@@ -4,12 +4,14 @@ title: "Three Ways to Make Hiring More Inclusive of Vulnerable Youth: \nLessons 
 date: 2019-04-01 14:26:00 -04:00
 published: false
 Author: Estera Barbarasa and Caterina Valero
-thumbnail-image: "/uploads/Unknown.png"
-social-image: "/uploads/Unknown.png"
+thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
+social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 publications: Developments
 ---
 
 Salvadorans have a reputation as entrepreneurial, hard-working, and committed. In fact, El Salvador was ranked first on employee engagement among Latin American countries in [Gallup’s State of the Global Workplace](https://www.gallup.com/workplace/238079/state-global-workplace-2017.aspx) report. At the same time, too many young Salvadorans do not get an opportunity to work hard in their first job and demonstrate their talent because employers hesitate to hire employees with no previous work experience. 
+
+![youth workforce](/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg)
 
 While that “Catch-22” of not being able to get work without first demonstrating work experience is  common to youth across the globe, El Salvador’s [gang-related violence](https://www.npr.org/sections/goatsandsoda/2015/10/05/445382231/how-el-salvador-fell-into-a-web-of-gang-violence)—killing on average 14 Salvadorans per day, 1.5 of them under the age of 19—makes it even harder for youth to find that first job. Employers are reluctant to hire young people living in high-crime areas for fear they might be associated with local gangs. In addition to bearing this stigma, youth are unable to easily move in and out of high-crime municipalities or travel to where jobs are located. Lacking their chance in the labor market, vulnerable youth are more prone to leave the country in search of economic opportunities or to remain among the more than 300,000 Salvadoran youth who are not in employment, education, or training (NEET).
 
