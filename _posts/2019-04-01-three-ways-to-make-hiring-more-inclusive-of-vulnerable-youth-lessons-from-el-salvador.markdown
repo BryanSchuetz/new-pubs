@@ -3,6 +3,9 @@ title: "Three Ways to Make Hiring More Inclusive of Vulnerable Youth: \nLessons 
   El Salvador"
 date: 2019-04-01 14:26:00 -04:00
 published: false
+tags:
+- economic-growth
+- workforce-development-series
 Author: Estera Barbarasa and Caterina Valero
 thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
