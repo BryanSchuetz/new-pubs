@@ -2,6 +2,9 @@
 title: In El Salvador, Shifting Employer Perceptions While Getting Youth Work-Ready
 date: 2019-04-01 14:46:00 -04:00
 published: false
+tags:
+- economic-growth
+- workforce-development-series
 Author: Estera Barbarasa and Caterina Valero
 thumbnail-image: "/uploads/Unknown-f1578d.png"
 social-image: "/uploads/Unknown-f1578d.png"
