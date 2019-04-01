@@ -22,17 +22,17 @@ In high-crime contexts, traditional workforce development approaches, such as sk
 
 Three practical approaches to promoting inclusive youth employment in high-crime areas stand out:
 
-### 1. Shifting Employer Perceptions While Getting Youth Work-Ready
+### 1. [Shifting Employer Perceptions While Getting Youth Work-Ready](/articles/in-el-salvador-shifting-employer-perceptions-while-getting-youth-work-ready)
 
-It is not easy being a teenager or young adult searching for jobs when adults tend to stereotype millennials as unreliable or entitled. El Salvador is no exception. Read more.
+It is not easy being a teenager or young adult searching for jobs when adults tend to stereotype millennials as unreliable or entitled. El Salvador is no exception.
 
-### 2. Getting Creative with Transportation 
+### 2. [Getting Creative with Transportation](getting-creative-with-transportation-for-el-salvadors-young-job-seekers/articles/) 
 
-An estimated 80 percent of El Salvador’s formal jobs are concentrated in greater San Salvador, yet close to two-thirds of the Salvadoran population lives outside of the capital’s metropolitan area. Read more.
+An estimated 80 percent of El Salvador’s formal jobs are concentrated in greater San Salvador, yet close to two-thirds of the Salvadoran population lives outside of the capital’s metropolitan area.
 
-### 3. Outsourcing Remote Programming Jobs to Youth Outside San Salvador
+### 3. [Outsourcing Remote Programming Jobs to Youth Outside San Salvador](in-el-salvador-outsourcing-remote-programming-jobs-to-youth-outside-the-capital/articles/)
 
-While being young is often a disadvantage in some industries, it’s an advantage in the tech sector where youth are digitally savvy and have an aptitude for learning new technologies. Read more.
+While being young is often a disadvantage in some industries, it’s an advantage in the tech sector where youth are digitally savvy and have an aptitude for learning new technologies. 
 
 ## A More Inclusive Future for Young People
 
