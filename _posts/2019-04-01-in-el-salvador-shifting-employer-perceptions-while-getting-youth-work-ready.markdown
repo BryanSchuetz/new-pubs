@@ -3,8 +3,8 @@ title: In El Salvador, Shifting Employer Perceptions While Getting Youth Work-Re
 date: 2019-04-01 14:46:00 -04:00
 published: false
 Author: Estera Barbarasa and Caterina Valero
-thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20.jpg"
-social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-7996ba.jpg"
+thumbnail-image: "/uploads/Unknown-f1578d.png"
+social-image: "/uploads/Unknown-f1578d.png"
 publications: Developments
 ---
 
