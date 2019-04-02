@@ -1,18 +1,19 @@
 ---
 title: "Three Ways to Make Hiring More Inclusive of Vulnerable Youth: \nLessons from
   El Salvador"
-date: 2019-04-01 14:26:00 -04:00
-published: false
+date: 2019-04-01 01:26:00 -04:00
 tags:
 - economic-growth
 - workforce-development-series
-Author: Estera Barbarasa and Caterina Valero
+author: Estera Barbarasa and Caterina Valero
 thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
-publications: Developments
+publication: Developments
 ---
 
 Salvadorans have a reputation as entrepreneurial, hard-working, and committed. In fact, El Salvador was ranked first on employee engagement among Latin American countries in [Gallup’s State of the Global Workplace](https://www.gallup.com/workplace/238079/state-global-workplace-2017.aspx) report. At the same time, too many young Salvadorans do not get an opportunity to work hard in their first job and demonstrate their talent because employers hesitate to hire employees with no previous work experience. 
+
+
 
 ![youth workforce](/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg)`Photo: The USAID Bridges to Employment Project is increasing employment for 6,000 vulnerable youth in El Salvador’s 15 highest-crime municipalities, placing them in jobs in high-growth sectors such as information technology, hospitality and tourism, manufacturing, energy, and agroindustry. Pictured above, youth in plastics technician training course.`
 

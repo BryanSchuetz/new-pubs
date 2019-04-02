@@ -1,17 +1,18 @@
 ---
 title: In El Salvador, Outsourcing Remote Programming Jobs to Youth Outside the Capital
-date: 2019-04-01 16:23:00 -04:00
-published: false
+date: 2019-04-01 01:23:00 -04:00
 tags:
 - workforce-development-series
 - economic-growth
-Author: Estera Barbarasa and Caterina Valero
+author: Estera Barbarasa and Caterina Valero
 thumbnail-image: "/uploads/CDS%20girl%20working.png"
 social-image: "/uploads/CDS%20girl%20working.png"
-publications: Developments
+publication: Developments
 ---
 
 Jobs in computer programming can help level the playing field for talented young people. While being young is often a disadvantage in other industries, youthfulness is an advantage in the technology sector where youth are digitally savvy and have an aptitude for new technologies. Working remotely on IT projects allows greater flexibility for tattoos or body piercing, which can be a hiring barrier in other industries, even for talented youth.
+
+
 
 The information technology sector is growing rapidly in El Salvador and certainly needs new talent. According to the USAID Bridges to Employment labor market assessment, 58 percent of IT companies expect to expand their workforce within the next 12 months, yet 62 percent of them have difficulty finding qualified applicants with the necessary technical skills.
 

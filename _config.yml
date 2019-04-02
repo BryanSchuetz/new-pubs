@@ -13,11 +13,11 @@ defaults:
     path: ''
     type: posts
   values:
-    Author: 
+    author: 
     layout: post
     thumbnail-image: 
     social-image: 
-    publications: 
+    publication: 
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-developments.com
 permalink: "/articles/:title"
@@ -35,7 +35,7 @@ exclude:
 - ".gitignore"
 - gulpfile.js
 - package.json
-- browser-sync.js
+- browser-synsc.js
 - ".jekyll-metadata"
 - node_modules
 description: By freely sharing what we learn, we have built a reputation as thought

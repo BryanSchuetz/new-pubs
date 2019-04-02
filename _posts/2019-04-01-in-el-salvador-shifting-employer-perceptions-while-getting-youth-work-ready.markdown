@@ -1,19 +1,20 @@
 ---
 title: In El Salvador, Shifting Employer Perceptions While Getting Youth Work-Ready
-date: 2019-04-01 14:46:00 -04:00
-published: false
+date: 2019-04-01 01:46:00 -04:00
 tags:
 - economic-growth
 - workforce-development-series
-Author: Estera Barbarasa and Caterina Valero
+author: Estera Barbarasa and Caterina Valero
 thumbnail-image: "/uploads/Unknown-f1578d.png"
 social-image: "/uploads/Unknown-f1578d.png"
-publications: Developments
+publication: Developments
 ---
 
 It’s not easy being a young job-seeker when adults tend to stereotype [millennials](https://www.iadb.org/en/improvinglives/millennials-stereotyped-generation) as unreliable or entitled. El Salvador is no exception. In a 2017 opinion poll of 2,000 individuals (ages 16 to 60) conducted by the USAID Bridges to Employment project across 15 high-crime municipalities, most respondents said poor work ethic and lack of motivation are the main reasons youth cannot find jobs. One young man explained that “employers think we are lazy, do drugs, and hang out on the street all day just because we have not worked before.”
 
-![Infographic](/link-to-infographic)
+
+
+<script id="infogram_0_3ab4829d-91b2-4f4b-9317-ae44229d75c0" title="el-salvador-inclusive" src="https://e.infogram.com/js/dist/embed.js?6tH" type="text/javascript"></script>
 
 Bias against youth who live in high-crime neighborhoods is even more engrained. Employers exclude or “redline” job applicants from vulnerable communities—sometimes discarding resumes altogether—out of safety concerns for their company. In some cases, companies check young job candidates for tattoos or use lie detector tests during the interview process. “We had an 18-year old high school graduate who performed well on all of our psychometric evaluations,” said one human resources manager. “But when we sent him to the polygraph test, it came out that he had a relative involved with gangs. We did not hire him because of security concerns.” 
 DAI and our local partners work with both employers and young job seekers to overcome this stigma. 
