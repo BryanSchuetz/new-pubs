@@ -1,17 +1,17 @@
 ---
 title: In El Salvador, Shifting Employer Perceptions While Getting Youth Work-Ready
-date: 2019-04-01 01:46:00 -04:00
-published: false
+date: 2019-04-01 03:46:00 -04:00
 tags:
 - economic-growth
-- workforce-development-series
-author: Estera Barbarasa and Caterina Valero
+- youth-employment-series
+author: |
+  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa) and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)
 thumbnail-image: "/uploads/Unknown-f1578d.png"
 social-image: "/uploads/Unknown-f1578d.png"
 publication: Developments
 ---
 
-It’s not easy being a young job-seeker when adults tend to stereotype [millennials](https://www.iadb.org/en/improvinglives/millennials-stereotyped-generation) as unreliable or entitled. El Salvador is no exception. In a 2017 opinion poll of 2,000 individuals (ages 16 to 60) conducted by the USAID Bridges to Employment project across 15 high-crime municipalities, most respondents said poor work ethic and lack of motivation are the main reasons youth cannot find jobs. One young man explained that “employers think we are lazy, do drugs, and hang out on the street all day just because we have not worked before.”
+It’s not easy being a young job-seeker when adults tend to stereotype [millennials](https://www.iadb.org/en/improvinglives/millennials-stereotyped-generation) as unreliable or entitled. El Salvador is no exception. In a 2017 opinion poll of 2,000 individuals (ages 16 to 60) conducted by the [USAID Bridges to Employment](https://www.dai.com/our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project) project across 15 high-crime municipalities, most respondents said poor work ethic and lack of motivation are the main reasons youth cannot find jobs. One young man explained that “employers think we are lazy, do drugs, and hang out on the street all day just because we have not worked before.”
 
 
 
@@ -33,4 +33,5 @@ Bridges to Employment also ***helps employers reduce HR challenges such as emplo
 Bridges’ local training partners ***get inexperienced young people work-ready***. Starting with the youth selection process, local workforce development partners try to pick youth based not only on their vulnerability levels but also on work motivation. Some Salvadoran youth have less economic necessity to work if their household receives [remittances](https://www.voanews.com/a/remittances-to-el-salvador-surge-to-record-high-in-2016/3689072.html), for example, which can in turn influence their decisions about applying to jobs or quitting jobs they don’t like. Training center job placement managers mentor young people on the importance of building work experience as teenagers or young adults to signal to future employers their work ethic and reliability. They also manage the expectations of young people taking on entry-level jobs likely to entail low wages, occasionally difficult customers, or unpredictable schedules. 
 
 Employers are clear that [life skills](https://mastercardfdn.org/wp-content/uploads/2018/08/soft-skills-youth-employment-accessible2.pdf) ***are critical for workplace success***. USAID Bridges to Employment’s local partners deliver 64 hours of life skills training to all youth participants, covering communication, honesty, punctuality, self-confidence, conflict resolution, teamwork, and workplace professionalism. Employer partners such as ADOC and GD Group confirm that young people who complete such training are among their best employees in terms of attitude, people skills, and customer service. Queso Puebla, for example, a family-owned artisanal cheese company in Zacatecoluca, hired a Bridges graduate for a full-time sales job after she interned with the store. She learned initiative-taking as part of her life skills course and applied her training during her internship by taking it on herself to display cheeses in a more appealing way.
+
 In this, as in so many other examples, the myth of young people’s laziness is giving way to the reality of self-starters seizing opportunities when they are available.

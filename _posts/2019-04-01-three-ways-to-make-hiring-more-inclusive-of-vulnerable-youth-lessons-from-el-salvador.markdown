@@ -1,12 +1,12 @@
 ---
 title: "Three Ways to Make Hiring More Inclusive of Vulnerable Youth: \nLessons from
   El Salvador"
-date: 2019-04-01 01:26:00 -04:00
-published: false
+date: 2019-04-01 05:26:00 -04:00
 tags:
 - economic-growth
-- workforce-development-series
-author: Estera Barbarasa and Caterina Valero
+- youth-employment-series
+author: |
+  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa) and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)
 thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 publication: Developments
@@ -28,17 +28,19 @@ Three practical approaches to promoting inclusive youth employment in high-crime
 
 It is not easy being a teenager or young adult searching for jobs when adults tend to stereotype millennials as unreliable or entitled. El Salvador is no exception.
 
-### 2. [Getting Creative with Transportation](getting-creative-with-transportation-for-el-salvadors-young-job-seekers/articles/) 
+### 2. [Getting Creative with Transportation](/articles/getting-creative-with-transportation-for-el-salvadors-young-job-seekers) 
 
 An estimated 80 percent of El Salvador’s formal jobs are concentrated in greater San Salvador, yet close to two-thirds of the Salvadoran population lives outside of the capital’s metropolitan area.
 
-### 3. [Outsourcing Remote Programming Jobs to Youth Outside San Salvador](in-el-salvador-outsourcing-remote-programming-jobs-to-youth-outside-the-capital/articles/)
+### 3. [Outsourcing Remote Programming Jobs to Youth Outside San Salvador](/articles/in-el-salvador-outsourcing-remote-programming-jobs-to-youth-outside-the-capital)
 
 While being young is often a disadvantage in some industries, it’s an advantage in the tech sector where youth are digitally savvy and have an aptitude for learning new technologies. 
 
 ## A More Inclusive Future for Young People
 
 Salvadoran youth seeking to make their way in the world generally face an uphill climb, but young people in El Salvador’s highest-crime municipalities too often face almost impossible choices complicated by the stresses of gang coercion, the inadequacies of informal employment, and the perils of migration. However, with USAID’s support in strengthening the Salvadoran workforce development system and reforming hiring practices, vulnerable youth are now seeing greater inclusion in their economy and communities. 
+
+![graphic](/uploads/youth-employment-el-salvador.jpg)
 
 To date, more than 1,600 young Salvadorans have joined the labor market with the assistance of the USAID Bridges to Employment project. They are working as sales and customer service associates, commercial cashiers, web and mobile programmers, electricians, industrial machine operators, and plastic control and recycling technicians. Of these 1,600, 82 percent are employed in the formal sector; by comparison, only 26 percent of youth in greater San Salvador are employed formally, according to *Fundación Salvadoreña para el Desarrollo Económico y Social* (FUSADES). 
 

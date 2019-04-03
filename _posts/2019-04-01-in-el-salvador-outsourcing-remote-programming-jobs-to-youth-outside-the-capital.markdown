@@ -1,11 +1,11 @@
 ---
 title: In El Salvador, Outsourcing Remote Programming Jobs to Youth Outside the Capital
-date: 2019-04-01 01:23:00 -04:00
-published: false
+date: 2019-04-01 02:23:00 -04:00
 tags:
-- workforce-development-series
+- youth-employment-series
 - economic-growth
-author: Estera Barbarasa and Caterina Valero
+author: |
+  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa) and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)
 thumbnail-image: "/uploads/CDS%20girl%20working.png"
 social-image: "/uploads/CDS%20girl%20working.png"
 publication: Developments
@@ -15,7 +15,7 @@ Jobs in computer programming can help level the playing field for talented young
 
 
 
-The information technology sector is growing rapidly in El Salvador and certainly needs new talent. According to the USAID Bridges to Employment labor market assessment, 58 percent of IT companies expect to expand their workforce within the next 12 months, yet 62 percent of them have difficulty finding qualified applicants with the necessary technical skills.
+The information technology sector is growing rapidly in El Salvador and certainly needs new talent. According to the [USAID Bridges to Employment](https://www.dai.com/our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project) labor market assessment, 58 percent of IT companies expect to expand their workforce within the next 12 months, yet 62 percent of them have difficulty finding qualified applicants with the necessary technical skills.
 
 Leveraging this market opportunity, Bridges partnered with the country’s IT association—*Cámara Salvadoreña de Tecnologías de Información* (CasaTIC)—to develop new curricula on six programming languages. Youth can enroll in training even if they do not have a university degree and can earn any of 18 industry-recognized certifications, getting started on a career pathway with higher-than-average wages for high school graduates. Some start with a monthly salary of US$700 to $900, up to three times the minimum wage of $300. 
 
@@ -31,6 +31,6 @@ In Level Two, youth train 40 hours a week for an additional three months, focusi
 
 In Level Three, youth finish their internships and are hired by IT companies or work remotely as freelancers. To date, 10 companies—including Central American Software Services (CASS), Creativa Consultores, Group QD, Juguesal, and PROMAICA—have hired young people for gig projects, internships, or full-time jobs, and the number is growing. As junior programmers, youth design multiplatform applications, mobile apps, and websites. These new opportunities are transforming the lives of young people who would otherwise be unemployed, trapped in unstable or low-paying jobs, or leaving the country.
 
-Take Melvin, a 26-year old from San Marcos, as one example. With few economic resources, Melvin never dreamed of attending university. When he was 19, he had a temporary job performing maintenance work in a public park in Los Planes de Renderos. During this time, his mother developed cancer, and Melvin and his girlfriend cared for her. After his mother improved, Melvin turned his attention to finding a better job and having children of his own. When he learned through social media about the opportunity to receive training in computer programming through USAID Bridges to Employment, he signed up, Melvin specialized in the programming language PHP, and is currently doing a paid internship with 3Corp, where he supports a software development project for the American company One World Translation.  
+Take Melvin, a 26-year old from San Marcos, as one example. With few economic resources, Melvin never dreamed of attending university. When he was 19, he had a temporary job performing maintenance work in a public park in Los Planes de Renderos. During this time, his mother developed cancer, and Melvin and his girlfriend cared for her. After his mother improved, Melvin turned his attention to finding a better job and having children of his own. When he learned through social media about the opportunity to receive training in computer programming through USAID Bridges to Employment, he signed up, specialized in the programming language PHP, and is currently doing a paid internship with 3Corp, where he supports a software development project for the American company One World Translation.  
 
 Looking forward, GBM—an IT company supporting IBM products in Central America—is exploring a new partnership with USAID Bridges to Employment to hire SDC graduates trained in Java programming to provide remote support to clients on IBM Solutions software, with a chance to become IBM-certified junior programmers. As companies build trust in outsourcing through the SDC model, we believe it will attract more and more investment and utilization from more and more of the country’s IT industry. 

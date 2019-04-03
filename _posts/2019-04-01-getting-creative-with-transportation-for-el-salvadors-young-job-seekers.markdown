@@ -1,17 +1,17 @@
 ---
 title: Getting Creative with Transportation for El Salvador’s Young Job-Seekers
 date: 2019-04-01 01:09:00 -04:00
-published: false
 tags:
 - economic-growth
-- workforce-development-series
-author: Estera Barbarasa and Caterina Valero
+- youth-employment-series
+author: |
+  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa) and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)
 thumbnail-image: "/uploads/Unknown-63e26b.png"
 social-image: "/uploads/Unknown-63e26b.png"
 publication: Developments
 ---
 
-An estimated 80 percent of El Salvador’s formal jobs are concentrated in greater San Salvador, according to the USAID Bridges to Employment labor market assessment. Yet close to two-thirds of the Salvadoran population lives outside of that metropolitan area. 
+An estimated 80 percent of El Salvador’s formal jobs are concentrated in greater San Salvador, according to the [USAID Bridges to Employment](https://www.dai.com/our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project) labor market assessment. Yet close to two-thirds of the Salvadoran population lives outside of that metropolitan area. 
 
 
 
