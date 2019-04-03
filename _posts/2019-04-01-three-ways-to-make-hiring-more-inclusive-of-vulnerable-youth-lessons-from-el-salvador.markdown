@@ -5,8 +5,8 @@ date: 2019-04-01 05:26:00 -04:00
 tags:
 - economic-growth
 - youth-employment-series
-author: |
-  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa) and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)
+author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
+  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
 thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 publication: Developments

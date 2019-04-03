@@ -4,8 +4,8 @@ date: 2019-04-01 03:46:00 -04:00
 tags:
 - economic-growth
 - youth-employment-series
-author: |
-  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa) and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)
+author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
+  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
 thumbnail-image: "/uploads/Unknown-f1578d.png"
 social-image: "/uploads/Unknown-f1578d.png"
 publication: Developments

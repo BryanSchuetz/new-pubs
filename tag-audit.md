@@ -1,8 +1,8 @@
 ---
 title: Tag Audit
 permalink: "/tag-audit/"
-layout: tags
 published: false
+layout: tags
 ---
 
 Here's all the tags currently being used on the site:  
