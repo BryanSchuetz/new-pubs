@@ -7,16 +7,16 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
       {% for tag in page.tags %}
-        {% if tag contains "Series"%}
+        {% if tag contains "Series" or tag contains "series"%}
           {% assign series-tag = tag %}
         {% endif %}
       {% endfor %}
       {% if series-tag %}
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag={{ series-tag | slugify }}">series of posts</a> on {{ series-tag | remove: " Series" }}.</p>
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag={{ series-tag | slugify }}">series</a> on youth employment in El Salvador.</p>
       {% endif %}
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
-      <p class="post-details--byline">By {{page.author}}</p>
+      <p class="post-details--byline">By {{page.author | markdownify | remove:'<p>' | remove:'</p>'}}</p>
       <p class="post-details--tags">Tags: {% for tag in page.tags %}<span class="post-topic"><a href="/tags/?tag={{ tag | downcase | split:' ' | join: '-'}}" class="without-style">{{ tag }}</a></span>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
     </div>
   </header>
