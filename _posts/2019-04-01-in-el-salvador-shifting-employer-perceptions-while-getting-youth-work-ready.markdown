@@ -6,8 +6,8 @@ tags:
 - youth-employment-series
 author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
   and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
-thumbnail-image: "/uploads/Unknown-f1578d.png"
-social-image: "/uploads/Unknown-f1578d.png"
+thumbnail-image: "/uploads/el-salvador-thumb.jpeg"
+social-image: "/uploads/el-salvador-thumb.jpeg"
 publication: Developments
 ---
 
