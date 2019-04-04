@@ -11,7 +11,7 @@ social-image: "/uploads/CDS%20girl%20working.png"
 publication: Developments
 ---
 
-Jobs in computer programming can help level the playing field for talented young people. While being young is often a disadvantage in other industries, youthfulness is an advantage in the technology sector where youth are digitally savvy and have an aptitude for new technologies. Working remotely on IT projects allows greater flexibility for tattoos or body piercing, which can be a hiring barrier in other industries, even for talented youth.
+Jobs in computer programming can help level the playing field for talented young people. While being young is often a disadvantage in other industries, youthfulness is an advantage in the technology sector where youth are digitally savvy and have an aptitude for new technologies. Working remotely on IT projects allows greater flexibility for workers with tattoos or body piercing, which can be a hiring barrier in other industries, even for talented youth.
 
 
 
