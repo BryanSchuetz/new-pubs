@@ -3,6 +3,11 @@ title: DAI Global Health Partner THINKMD Embarks on New Projects in Kenya and In
   with Save the Children
 date: 2019-04-09 11:02:00 -04:00
 published: false
+tags:
+- global-health
+- digital-acceleration
+author: "[Barry Finette](https://www.thinkmd.org/barry-finette)"
+publication: Developments
 ---
 
 In July 2017, following three years of development and validation testing, THINKMD implemented its frontline clinical assessment and data analytics technology in Bangladesh with Save the Children. We focused our work on the Rayer Bazar settlement in Dhaka, an overpopulated informal settlement where maternal and child mortality and morbidity are high—especially from pneumonia, diarrhea, and dehydration—and where access to healthcare professionals is very limited. 
