@@ -19,9 +19,9 @@ Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrat
 Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have saved an estimated 500-plus lives and used THINKMD technology to:
 
 * Conduct more than 10,000 health assessments, including of 3,536 children, 1,350 newborns, 2,645 pregnant women, and 1,130 women who recently gave birth.
-* Influence 50 percent more women to give birth at clinics or hospitals with skilled birth attendants rather than give birth at home.
 * Identify 31 cases of umbilical infection, a leading cause of maternal deaths.
-* Help identify acute malnutrition in numerous children under age 5. 
+* Help identify acute malnutrition in numerous children under age 5.
+* Influence 50 percent more women to give birth at clinics or hospitals with skilled birth attendants rather than give birth at home.
 
 THINKMD’s success in Bangladesh recently gave rise to two new contracts with Save the Children:
 
