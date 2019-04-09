@@ -7,6 +7,8 @@ tags:
 - global-health
 - digital-acceleration
 author: "[Barry Finette](https://www.thinkmd.org/barry-finette)"
+thumbnail-image: "/uploads/Devs----THINKMD-2-814e0e.jpg"
+social-image: "/uploads/Devs----THINKMD-1-831819.jpg"
 publication: Developments
 ---
 
@@ -21,14 +23,12 @@ Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 
 * Identified 31 cases of umbilical infection, a leading cause of maternal deaths.
 * Helped identify acute malnutrition in numerous children under age 5. 
 
-![Devs----THINKMD-2.jpg](/uploads/Devs----THINKMD-2.jpg)`The first 10 community health workers in Rayer Bazar, Dhaka, Bangladesh, using THINKMD technology to promote maternal and child health in partnership with Save the Children.`
-
 THINKMD’s success in Bangladesh recently gave rise to two new contracts with Save the Children:
 
 * In Kenya, with Kenya’s Ministry of Health, THINKMD technology is being implemented in the Kibera settlement in Nairobi, where child mortality is three times higher than in greater Nairobi; this urban health project will use THINKMD’s technology in private and public clinics and in pharmacies to improve frontline clinical assessments.
 * In Indonesia, community health workers on the island of Sumba have begun utilizing THINKMD’s technology in remote clinics to improve healthcare capacity.
 
-(INSERT BANGLADESH PIC HERE)
+![Devs----THINKMD-2.jpg](/uploads/Devs----THINKMD-2.jpg)`The first 10 community health workers in Rayer Bazar, Dhaka, Bangladesh, using THINKMD technology to promote maternal and child health in partnership with Save the Children.`
 
 ## Connecting with DAI Global Health
 
@@ -49,6 +49,8 @@ THINKMD’s clinical assessment platform employs a simple interface to guide min
 The platform utilizes peer-reviewed and -approved World Health Organization (WHO) guideline-based algorithms that provide clinical assessments. These assessments have been found to correlate by 85–95 percent or greater to physician’s assessments. They generate triage, treatment, and follow-up recommendations for each clinical encounter, and can be performed with or without access to a cellular/wireless network.
 
 Critically, THINKMD’s clinical algorithms assess the severity of complex conditions such as respiratory distress or pneumonia, dehydration, and malnutrition, and assess common disease risk for malaria, meningitis, anemia, urinary tract infection, skin infection, ear infection, measles, and dysentery.
+
+![Devs----THINKMD-1.jpg](/uploads/Devs----THINKMD-1.jpg)`Community health worker in Rayer Bazar, Dhaka, Bangladesh, performing a clinical assessment using THINKMD technology.`
 
 ## New Settings, New Products
 
