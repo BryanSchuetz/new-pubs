@@ -12,8 +12,6 @@ publication: Developments
 
 In July 2017, following three years of development and validation testing, THINKMD implemented its frontline clinical assessment and data analytics technology in Bangladesh with Save the Children. We focused our work on the Rayer Bazar settlement in Dhaka, an overpopulated informal settlement where maternal and child mortality and morbidity are high—especially from pneumonia, diarrhea, and dehydration—and where access to healthcare professionals is very limited. 
 
-
-
 Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrate its core value: expanding community health workers’ capacity to assess and treat potentially deadly conditions in newborns, young children, and mothers. THINKMD also offered program monitoring and evaluation based on real-time data and analytics.
 
 Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have saved an estimated 500-plus lives and used THINKMD technology to:
@@ -22,6 +20,8 @@ Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 
 * Greatly increased births to be supervised by skilled birth attendants than previous rates due to increased consultations with birth professionals.
 * Identified 31 cases of umbilical infection, a leading cause of maternal deaths.
 * Helped identify acute malnutrition in numerous children under age 5. 
+
+![Devs----THINKMD-2.jpg](/uploads/Devs----THINKMD-2.jpg)`The first 10 community health workers in Rayer Bazar, Dhaka, Bangladesh, using THINKMD technology to promote maternal and child health in partnership with Save the Children.`
 
 THINKMD’s success in Bangladesh recently gave rise to two new contracts with Save the Children:
 
