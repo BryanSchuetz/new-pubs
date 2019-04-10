@@ -12,11 +12,11 @@ social-image: "/uploads/Devs----THINKMD-1-831819.jpg"
 publication: Developments
 ---
 
-In July 2017, following three years of development and validation testing, THINKMD implemented its frontline clinical assessment and data analytics technology in Bangladesh with Save the Children. We focused our work on the Rayer Bazar settlement in Dhaka, an overpopulated informal settlement where maternal and child mortality and morbidity are high—especially from pneumonia, diarrhea, and dehydration—and where access to healthcare professionals is very limited. 
+In July 2017, following three years of development and validation testing, [THINKMD](http://www.thinkmd.org/) implemented its frontline clinical assessment and data analytics technology in Bangladesh with [Save the Children](https://bangladesh.savethechildren.net/). We focused our work on the Rayer Bazar settlement in Dhaka, an overpopulated informal settlement where maternal and child mortality and morbidity are high—especially from pneumonia, diarrhea, and dehydration—and where access to healthcare professionals is very limited. 
 
 Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrate its core value: expanding community health workers’ capacity to assess and treat potentially deadly conditions in newborns, young children, and mothers. THINKMD also offered program monitoring and evaluation based on real-time data and analytics.
 
-Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have saved an estimated 500-plus lives and used THINKMD technology to:
+Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have saved an [estimated](https://www.jhsph.edu/research/centers-and-institutes/institute-for-international-programs/current-projects/lives-saved-tool/index.html) 500-plus lives and used THINKMD technology to:
 
 * Conduct more than 10,000 health assessments, including of 3,536 children, 1,350 newborns, 2,645 pregnant women, and 1,130 women who recently gave birth.
 * Identify 31 cases of umbilical infection, a leading cause of maternal deaths.
@@ -32,9 +32,9 @@ THINKMD’s success in Bangladesh recently gave rise to two new contracts with S
 
 ## Connecting with DAI Global Health
 
-THINKMD first connected with DAI through DAI’s Innovation into Action Challenge, a competition to surface innovative ideas, products, and services in the field of international development. DAI was impressed with THINKMD’s potential to improve care, save lives, and reduce unnecessary health expenditures in underserved communities. In addition, THINKMD’s technology promises real-time public health data that shines a light on population health, disease burdens, and pandemic threats.
+THINKMD first connected with DAI through DAI’s [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen), a competition to surface innovative ideas, products, and services in the field of international development. DAI was impressed with THINKMD’s potential to improve care, save lives, and reduce unnecessary health expenditures in underserved communities. In addition, THINKMD’s technology promises real-time public health data that shines a light on population health, disease burdens, and pandemic threats.
 
-In 2017, THINKMD and DAI announced a strategic partnership to bring THINKMD’s digital health products to new markets. DAI led THINKMD’s ensuing financing round, joined by Fresh Tracks Capital and select private investors. THINKMD is currently working with DAI on its Haiti Strategic Health Information System Program. 
+In 2017, THINKMD and DAI [announced](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology) a strategic partnership to bring THINKMD’s digital health products to new markets. DAI led THINKMD’s ensuing financing round, joined by Fresh Tracks Capital and select private investors. THINKMD is currently working with DAI on its [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program). 
 
 <iframe src="https://player.vimeo.com/video/293217023" frameborder="0" allowfullscreen></iframe>
 
