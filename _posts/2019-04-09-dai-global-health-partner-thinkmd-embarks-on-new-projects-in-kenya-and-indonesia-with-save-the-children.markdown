@@ -2,7 +2,6 @@
 title: DAI Global Health Partner THINKMD Embarks on New Projects in Kenya and Indonesia
   with Save the Children
 date: 2019-04-09 11:02:00 -04:00
-published: false
 tags:
 - global-health
 - digital-acceleration
@@ -16,12 +15,15 @@ In July 2017, following three years of development and validation testing, [THIN
 
 Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrate its core value: expanding community health workers’ capacity to assess and treat potentially deadly conditions in newborns, young children, and mothers. THINKMD also offered program monitoring and evaluation based on real-time data and analytics.
 
-Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have saved an [estimated](https://www.jhsph.edu/research/centers-and-institutes/institute-for-international-programs/current-projects/lives-saved-tool/index.html) 500-plus lives and used THINKMD technology to:
+Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have used THINKMD technology to:
 
+Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers have used THINKMD technology to:
+
+* Double the clinical assessments performed compared with previous rates and increase medical counseling sessions by 500 percent.
 * Conduct more than 10,000 health assessments, including of 3,536 children, 1,350 newborns, 2,645 pregnant women, and 1,130 women who recently gave birth.
-* Identify 31 cases of umbilical infection, a leading cause of maternal deaths.
-* Help identify acute malnutrition in numerous children under age 5.
-* Influence 50 percent more women to give birth at clinics or hospitals with skilled birth attendants rather than give birth at home.
+* Identify 31 cases of umbilical infection, a leading cause of newborn deaths.
+* Identify 534 cases of moderate acute malnutrition and 24 cases of severe acute malnutrition in children under age 5.
+* Help increase by 50 percent the rate of women who delivered babies with a skilled birth attendant present.
 
 THINKMD’s success in Bangladesh recently gave rise to two new contracts with Save the Children:
 
@@ -60,8 +62,8 @@ While our new projects with Save the Children offer geographic expansion, just a
 
 ![Devs----THINKMD-3.jpg](/uploads/Devs----THINKMD-3.jpg)
 
-THINKMD recently expanded our services into a new setting—schools. Healthy Kids/Brighter Future in Zambia is a creative, rapidly expanding health program implemented in partnership with Zambia’s ministries of health and education, enabling teachers to efficiently deliver healthcare and health education to school-aged children and adolescents. By utilizing THINKMD’s technology, the program empowers its “school health workers” to perform high-quality clinical assessments of their students and automate data collection, referrals, and follow-up.
+THINKMD recently expanded our services into a new setting—schools. [Healthy Kids/Brighter Future](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.healthykidsbrighterfuture.org%2F&data=01%7C01%7CChuck_Coon%40dai.com%7C71467e3e64a142323bb408d6bdf67bf9%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=ZA6F11k90i%2FJ9enCEPmCBYOPwMgivj9udHbFvylNeCY%3D&reserved=0) in Zambia is a creative, rapidly expanding health program implemented in partnership with Zambia’s ministries of health and education, enabling teachers to efficiently deliver healthcare and health education to school-aged children and adolescents. By utilizing THINKMD’s technology, the program empowers its “school health workers” to perform high-quality clinical assessments of their students and automate data collection, referrals, and follow-up.
 
 THINKMD recently launched a new product—a white-label (unbranded and for resale) platform called, “Am I Sick?” Integrated with our data analytics and visualization platform, this direct-to-consumer triage tool will help individuals self-assess and better understand their health status. 
 	
-The need to improve and constructively disrupt healthcare delivery is only increasing—especially in countries where resources are limited. Currently active in six countries, THINKMD has more geographies coming online in 2019 as we strive to provide access to medical diagnoses and treatments for people who would otherwise go without. Stay tuned.
+The need to improve and constructively disrupt healthcare delivery is only increasing—especially in countries where resources are limited. Currently active in six countries, THINKMD has more geographies coming online in 2019 as we strive to provide access to good-quality clinical assessments and treatments for people who would otherwise go without. Stay tuned.
