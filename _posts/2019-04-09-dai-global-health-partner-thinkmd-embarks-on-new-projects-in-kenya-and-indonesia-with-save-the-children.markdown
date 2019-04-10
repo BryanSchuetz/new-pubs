@@ -63,7 +63,7 @@ Clients are using THINKMD’s technology to transform paper-based, point-of-care
 
 While our new projects with Save the Children offer geographic expansion, just as importantly they leverage THINKMD’s technology with different end users in varied healthcare delivery environments. That makes sense: we designed THINKMD to enable minimally skilled users in any environment to more accurately assess, triage, and treat patients, therein making better health decisions at the point of care.
 
-![Devs----THINKMD-3.jpg](/uploads/Devs----THINKMD-3.jpg)
+![Devs----THINKMD-3.jpg](/uploads/Devs----THINKMD-3.jpg)`Performing a health assessment in Dhaka, Bangladesh.`
 
 THINKMD recently expanded our services into a new setting—schools. [Healthy Kids/Brighter Future](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.healthykidsbrighterfuture.org%2F&data=01%7C01%7CChuck_Coon%40dai.com%7C71467e3e64a142323bb408d6bdf67bf9%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=ZA6F11k90i%2FJ9enCEPmCBYOPwMgivj9udHbFvylNeCY%3D&reserved=0) in Zambia is a creative, rapidly expanding health program implemented in partnership with Zambia’s ministries of health and education, enabling teachers to efficiently deliver healthcare and health education to school-aged children and adolescents. By utilizing THINKMD’s technology, the program empowers its “school health workers” to perform high-quality clinical assessments of their students and automate data collection, referrals, and follow-up.
 
