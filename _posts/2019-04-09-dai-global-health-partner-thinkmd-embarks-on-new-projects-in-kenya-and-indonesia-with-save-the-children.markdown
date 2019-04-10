@@ -58,6 +58,8 @@ Clients are using THINKMD’s technology to transform paper-based, point-of-care
 
 While our new projects with Save the Children offer geographic expansion, just as importantly they leverage THINKMD’s technology with different end users in varied healthcare delivery environments. That makes sense: we designed THINKMD to enable minimally skilled users in any environment to more accurately assess, triage, and treat patients, therein making better health decisions at the point of care.
 
+![Devs----THINKMD-3.jpg](/uploads/Devs----THINKMD-3.jpg)
+
 THINKMD recently expanded our services into a new setting—schools. Healthy Kids/Brighter Future in Zambia is a creative, rapidly expanding health program implemented in partnership with Zambia’s ministries of health and education, enabling teachers to efficiently deliver healthcare and health education to school-aged children and adolescents. By utilizing THINKMD’s technology, the program empowers its “school health workers” to perform high-quality clinical assessments of their students and automate data collection, referrals, and follow-up.
 
 THINKMD recently launched a new product—a white-label (unbranded and for resale) platform called, “Am I Sick?” Integrated with our data analytics and visualization platform, this direct-to-consumer triage tool will help individuals self-assess and better understand their health status. 
