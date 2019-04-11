@@ -18,6 +18,8 @@ To understand the discrepancy in the tax treatment of men and women, Guatemala�
 
 The key finding: women are much less likely to be registered taxpayers than men and they earn far less income, but women and their employers could reap significant social benefits and business opportunities that are available only to the tax compliant. And, in many cases, their compliance would entail minimal tax obligation.
 
+![Devs----FPRP-gender-1.jpg](/uploads/Devs----FPRP-gender-1.jpg)
+
 These findings are informing FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to better invest in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
 ## Revealing Tax Discrepancies by Gender
@@ -43,6 +45,8 @@ Underserved indigenous populations face additional, unique challenges. For examp
 <aside>**Guatemala: Latin American Tax Pioneer**
 
 SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the [Inter-American Center of Tax Administrations (CIAT)](https://www.ciat.org/ciat-participated-in-the-meeting-taxation-with-an-approach-on-gender-the-contribution-of-the-tax-administrations/?lang=en) as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.</aside>
+
+![Devs----FPRP-gender-2.jpg](/uploads/Devs----FPRP-gender-2.jpg)
 
 ## The Value in Poor Women Being Tax-Compliant
 
