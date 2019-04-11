@@ -3,6 +3,9 @@ title: In Guatemala, New Research on Gender Equality Shapes Government and USAID
   in Taxation
 date: 2019-04-11 14:45:00 -04:00
 published: false
+tags:
+- public-financial-management
+- gender
 author: David Hall and Eunice Heredia-Ortiz
 publication: Developments
 ---
