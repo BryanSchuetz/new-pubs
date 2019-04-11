@@ -7,6 +7,8 @@ tags:
 - public-financial-management
 - gender
 author: David Hall and [Eunice Heredia-Ortiz](https://www.dai.com/who-we-are/our-team/eunice-heredia-ortiz)
+thumbnail-image: "/uploads/Devs----FPRP-gender-social.jpg"
+social-image: "/uploads/Devs----FPRP-gender-social-b9041d.jpg"
 publication: Developments
 ---
 
