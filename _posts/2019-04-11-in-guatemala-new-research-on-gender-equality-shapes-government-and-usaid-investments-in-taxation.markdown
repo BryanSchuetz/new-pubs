@@ -14,7 +14,7 @@ In the United States, widely available tools enable Americans to register and fi
 
 Most Americans will never visit an Internal Revenue Service office, but Guatemalans must register at a tax office and many—those without computer access—must appear in person to meet their tax responsibilities, an onerous burden particularly for poor women who work informally or run small enterprises while also raising children and keeping house.
 
-To understand the discrepancy in the tax treatment of men and women, Guatemala’s tax and customs administration (SAT)—supported by the U.S. Agency for International Development’s (USAID) Fiscal and Procurement Reform Project (FPRP)—undertook a Tax and Gender Assessment, complemented by a Focus Group Study with women entrepreneurs. 
+To understand the discrepancy in the tax treatment of men and women, Guatemala’s tax and customs administration (SAT)—supported by the U.S. Agency for International Development’s (USAID) [Fiscal and Procurement Reform Project (FPRP)](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp)—undertook a [Tax and Gender Assessment](https://portal.sat.gob.gt/portal/descarga/1853/transparencia/35446/guatemala_tributacion_genero_7junio2018_revoct2018.pdf), complemented by a [Focus Group Study](https://portal.sat.gob.gt/portal/descarga/1853/transparencia/35620/fprp_grupos-focales-costos-cumpimiento_mar15_2018_rev-august-2018_rev16092018.pdf) with women entrepreneurs. 
 
 The key finding: women are much less likely to be registered taxpayers than men and they earn far less income, but women and their employers could reap significant social benefits and business opportunities that are available only to the tax compliant. And, in many cases, their compliance would entail minimal tax obligation.
 
@@ -22,7 +22,7 @@ These findings are informing FPRP’s work to support domestic resource mobiliza
 
 Revealing Tax Discrepancies by Gender
 
-Approximately 70 percent of Guatemala’s working-age population—an estimated 4.59 million people—are employed by informal, non-taxpaying enterprises; women comprise 73 percent of this informal sector, including 88 percent in rural areas. Of the economically active population, 64.5 percent of men are formally employed compared with 35.5 percent of women.
+Approximately [70 percent](https://www.ine.gob.gt/index.php/encuestas/empleo-e-ingresos) of Guatemala’s working-age population—an estimated 4.59 million people—are employed by informal, non-taxpaying enterprises; women comprise 73 percent of this informal sector, including 88 percent in rural areas. Of the economically active population, 64.5 percent of men are formally employed [compared with](https://www.ine.gob.gt/index.php/encuestas/empleo-e-ingresos) 35.5 percent of women.
 
 The FPRP studies spotlighted other issues:
 
