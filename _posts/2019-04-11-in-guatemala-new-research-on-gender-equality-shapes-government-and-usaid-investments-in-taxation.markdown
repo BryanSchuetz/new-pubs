@@ -20,19 +20,19 @@ The key finding: women are much less likely to be registered taxpayers than men 
 
 These findings are informing FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to better invest in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
-Revealing Tax Discrepancies by Gender
+## Revealing Tax Discrepancies by Gender
 
 Approximately [70 percent](https://www.ine.gob.gt/index.php/encuestas/empleo-e-ingresos) of Guatemala’s working-age population—an estimated 4.59 million people—are employed by informal, non-taxpaying enterprises; women comprise 73 percent of this informal sector, including 88 percent in rural areas. Of the economically active population, 64.5 percent of men are formally employed [compared with](https://www.ine.gob.gt/index.php/encuestas/empleo-e-ingresos) 35.5 percent of women.
 
 The FPRP studies spotlighted other issues:
 
-Women in the formal sector are mostly poor. Guatemalan women’s formal employment is predominantly in domestic work, healthcare, and teaching, which are generally low-paid sectors. Six out of 10 women are in the lowest-income decile, and these women have one-seventh the assets of men in the lowest decile; in the top decile, women have one-quarter the assets of men. While the wealth gap is less among wealthier women, this gap can adversely affect the growth of women-owned businesses, the economic stability of women and families, and women’s ability to retire.
+**Women in the formal sector are mostly poor.** Guatemalan women’s formal employment is predominantly in domestic work, healthcare, and teaching, which are generally low-paid sectors. Six out of 10 women are in the lowest-income decile, and these women have one-seventh the assets of men in the lowest decile; in the top decile, women have one-quarter the assets of men. While the wealth gap is less among wealthier women, this gap can adversely affect the growth of women-owned businesses, the economic stability of women and families, and women’s ability to retire.
 
-Distribution of economic and financial resources have placed women at a disadvantage relative to men. From income tax declarations, the study found that nearly 80 percent of declared assets are in the hands of men. This places women at significantly greater challenges than men in gaining access to financial services, where only [four out of 10 credits](https://www.sib.gob.gt/web/sib/inicio) or 36 percent of credit amounts are granted to women by banking institutions (Superintendence of Banks, 2018). This disparity further perpetuates gender inequality.
+**Distribution of economic and financial resources have placed women at a disadvantage relative to men.** From income tax declarations, the study found that nearly 80 percent of declared assets are in the hands of men. This places women at significantly greater challenges than men in gaining access to financial services, where only [four out of 10 credits](https://www.sib.gob.gt/web/sib/inicio) or 36 percent of credit amounts are granted to women by banking institutions (Superintendence of Banks, 2018). This disparity further perpetuates gender inequality.
 
-Far more men are registered taxpayers—65 percent of men vs. 35 percent of women, both as employees and business-owners. Men are significantly more likely to be employed in the formal sector, with access to social security, healthcare, disability insurance, and retirement benefits. While most of the Guatemalan economy is informal, nearly all informal economic activity is constrained because these entities lack the legal standing to partake various business opportunities—including government contracts and sales to corporate supply chains.
+**Far more men are registered taxpayers—65 percent of men vs. 35 percent of women, both as employees and business-owners.** Men are significantly more likely to be employed in the formal sector, with access to social security, healthcare, disability insurance, and retirement benefits. While most of the Guatemalan economy is informal, nearly all informal economic activity is constrained because these entities lack the legal standing to partake various business opportunities—including government contracts and sales to corporate supply chains.
 
-Tax compliance costs more for women in indigenous and rural populations. While most Guatemalans in rural areas travel long distances to reach a tax office, women:
+**Tax compliance costs more for women in indigenous and rural populations.** While most Guatemalans in rural areas travel long distances to reach a tax office, women:
 
 * Might travel with children and elders for whom they provide care. 
 * Can have difficulty accessing restrooms.
@@ -44,7 +44,7 @@ Underserved indigenous populations face additional, unique challenges. For examp
 
 SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the [Inter-American Center of Tax Administrations (CIAT)](https://www.ciat.org/ciat-participated-in-the-meeting-taxation-with-an-approach-on-gender-the-contribution-of-the-tax-administrations/?lang=en) as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.</aside>
 
-The Value in Poor Women Being Tax-Compliant
+## The Value in Poor Women Being Tax-Compliant
 
 Since most Guatemalan women are poor, registering them as taxpayers would not in itself provide the country with an immediate or sizeable revenue boost. However, by the same token, the tax obligation of newly compliant women taxpayers would be minimal, and bringing women onto the tax rolls would help broaden the tax base in Central America’s most populous country. 
 
@@ -59,7 +59,7 @@ The Guatemalan Government is already seeing substantial benefits arising from a 
 
 Fairly and efficiently integrating more women into this broader base of formal taxpayers is the next step in developing a domestic resource base commensurate with the country’s development needs.
 
-Data Helps Shape Tax and Budget Reform
+## Data Helps Shape Tax and Budget Reform
 
 Guatemala’s SAT and finance ministry have embarked on an ambitious work plan to improve the transparency, efficiency, and fairness of the country’s revenue collection, budgeting, and expenditure process. Automating tax registration and data management, for example, will make it easier for all Guatemalans to register as taxpayers and join and benefit from the formal economy, and for the SAT to do its work in more efficient, taxpayer-friendly ways.
 
