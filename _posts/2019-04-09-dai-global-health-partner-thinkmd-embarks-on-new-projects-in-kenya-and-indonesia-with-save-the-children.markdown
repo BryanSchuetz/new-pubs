@@ -18,8 +18,6 @@ In July 2017, following three years of development and validation testing, [THIN
 
 Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrate its core value: expanding community health workers’ capacity to assess and treat potentially deadly conditions in newborns, young children, and mothers. THINKMD also offered program monitoring and evaluation based on real-time data and analytics.
 
-Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers enlisted by THINKMD have used THINKMD technology to:
-
 Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers have used THINKMD technology to:
 
 * Double the clinical assessments performed compared with previous rates and increase medical counseling sessions by 500 percent.
