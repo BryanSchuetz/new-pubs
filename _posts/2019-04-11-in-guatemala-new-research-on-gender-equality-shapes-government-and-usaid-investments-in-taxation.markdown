@@ -6,7 +6,7 @@ published: false
 tags:
 - public-financial-management
 - gender
-author: David Hall and Eunice Heredia-Ortiz
+author: David Hall and [Eunice Heredia-Ortiz](https://www.dai.com/who-we-are/our-team/eunice-heredia-ortiz)
 publication: Developments
 ---
 
@@ -40,11 +40,9 @@ Tax compliance costs more for women in indigenous and rural populations. While m
 
 Underserved indigenous populations face additional, unique challenges. For example, service and printed materials are available only in Spanish, forcing them to pay extra for Spanish-speaking tax advisors and internet cafes for e-filing, and exposing them to vulnerabilities such as filing errors and scams.
 
-BREAKOUT
+<aside>**Guatemala: Latin American Tax Pioneer**
 
-Guatemala: Latin American Tax Pioneer
-
-SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the Inter-American Center of Tax Administrations (CIAT) as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.
+SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the [Inter-American Center of Tax Administrations (CIAT)](https://www.ciat.org/ciat-participated-in-the-meeting-taxation-with-an-approach-on-gender-the-contribution-of-the-tax-administrations/?lang=en) as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.</aside>
 
 The Value in Poor Women Being Tax-Compliant
 
