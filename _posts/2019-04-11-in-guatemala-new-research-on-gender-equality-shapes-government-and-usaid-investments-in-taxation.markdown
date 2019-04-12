@@ -14,6 +14,9 @@ publication: Developments
 
 In the United States, widely available tools enable Americans to register and file taxes from home, and paying Uncle Sam his due has never been easier or cheaper. But in places such as Guatemala—where e-governance is just taking root and literacy, language, and gender present hurdles—the high burden of tax compliance can cause involuntary exclusion from the formal economy.
 
+
+
+
 Most Americans will never visit an Internal Revenue Service office, but Guatemalans must register at a tax office and many—those without computer access—must appear in person to meet their tax responsibilities, an onerous burden particularly for poor women who work informally or run small enterprises while also raising children and keeping house.
 
 To understand the discrepancy in the tax treatment of men and women, Guatemala’s tax and customs administration (SAT)—supported by the U.S. Agency for International Development’s (USAID) [Fiscal and Procurement Reform Project (FPRP)](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp)—undertook a [Tax and Gender Assessment](https://portal.sat.gob.gt/portal/descarga/1853/transparencia/35446/guatemala_tributacion_genero_7junio2018_revoct2018.pdf), complemented by a [Focus Group Study](https://portal.sat.gob.gt/portal/descarga/1853/transparencia/35620/fprp_grupos-focales-costos-cumpimiento_mar15_2018_rev-august-2018_rev16092018.pdf) with women entrepreneurs. 
