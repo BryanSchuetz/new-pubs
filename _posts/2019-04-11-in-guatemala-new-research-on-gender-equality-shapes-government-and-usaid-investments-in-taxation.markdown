@@ -12,20 +12,20 @@ social-image: "/uploads/Devs----FPRP-gender-social-b9041d.jpg"
 publication: Developments
 ---
 
-In the United States, widely available tools enable Americans to register and file taxes from home, and paying Uncle Sam his due has never been easier or cheaper. But in places such as Guatemala—where e-governance is just taking root and literacy, language, and gender present hurdles—the high burden of tax compliance can cause involuntary exclusion from the formal economy.
+In the United States, widely available tools enable Americans to register and file taxes from home, and paying Uncle Sam has never been easier or cheaper. But in places such as Guatemala—where e-governance is just now taking root and literacy, language, and gender present hurdles—the high burden of tax compliance can cause involuntary exclusion from the formal economy.
 
 
 
 
-Most Americans will never visit an Internal Revenue Service office, but Guatemalans must register at a tax office and many—those without computer access—must appear in person to meet their tax responsibilities, an onerous burden particularly for poor women who work informally or run small enterprises while also raising children and keeping house.
+Most Americans will never visit an Internal Revenue Service office, but Guatemalans must register at a tax office. Those without computer access must appear in person to meet their tax responsibilities, an onerous burden particularly for poor women who work informally or run small enterprises while also raising children and keeping house.
 
 To understand the discrepancy in the tax treatment of men and women, Guatemala’s tax and customs administration (SAT)—supported by the U.S. Agency for International Development’s (USAID) [Fiscal and Procurement Reform Project (FPRP)](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp)—undertook a [Tax and Gender Assessment](https://portal.sat.gob.gt/portal/descarga/1853/transparencia/35446/guatemala_tributacion_genero_7junio2018_revoct2018.pdf), complemented by a [Focus Group Study](https://portal.sat.gob.gt/portal/descarga/1853/transparencia/35620/fprp_grupos-focales-costos-cumpimiento_mar15_2018_rev-august-2018_rev16092018.pdf) with women entrepreneurs. 
 
-The key finding: women are much less likely to be registered taxpayers than men and they earn far less income, but women and their employers could reap significant social benefits and business opportunities that are available only to the tax compliant. And, in many cases, their compliance would entail minimal tax obligation.
+The key finding: women are much less likely to be registered taxpayers than men and they earn far less income, yet women and their employers could reap significant social benefits and business opportunities that are available only to the tax compliant. And, in many cases, their compliance would entail minimal tax obligation.
 
 ![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)
 
-These findings are informing FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to better invest in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
+These findings are informing FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
 ## Revealing Tax Discrepancies by Gender
 
@@ -33,11 +33,11 @@ Approximately [70 percent](https://www.ine.gob.gt/index.php/encuestas/empleo-e-i
 
 The FPRP studies spotlighted other issues:
 
-**Women in the formal sector are mostly poor.** Guatemalan women’s formal employment is predominantly in domestic work, healthcare, and teaching, which are generally low-paid sectors. Six out of 10 women are in the lowest-income decile, and these women have one-seventh the assets of men in the lowest decile; in the top decile, women have one-quarter the assets of men. While the wealth gap is less among wealthier women, this gap can adversely affect the growth of women-owned businesses, the economic stability of women and families, and women’s ability to retire.
+**Women in the formal sector are mostly poor.** Guatemalan women’s formal employment is predominantly in domestic work, healthcare, and teaching, which are generally low-paid sectors. Six out of 10 women are in the lowest-income decile, and these women have one-seventh the assets of men in the lowest decile; in the top decile, women have one-fourth the assets of men. While the wealth gap is less among wealthier women, this gap can adversely affect the growth of women-owned businesses, the economic stability of women and families, and women’s ability to retire.
 
-**Distribution of economic and financial resources have placed women at a disadvantage relative to men.** From income tax declarations, the study found that nearly 80 percent of declared assets are in the hands of men. This places women at significantly greater challenges than men in gaining access to financial services, where only [four out of 10 credits](https://www.sib.gob.gt/web/sib/inicio) or 36 percent of credit amounts are granted to women by banking institutions (Superintendence of Banks, 2018). This disparity further perpetuates gender inequality.
+**Distribution of economic and financial resources have placed women at a disadvantage relative to men.** From income tax declarations, the study found that nearly 80 percent of declared assets are in the hands of men. This places women at a disadvantage to men in gaining access to financial services, where only [four out of 10 credits](https://www.sib.gob.gt/web/sib/inicio) or 36 percent of credit amounts are granted to women by banking institutions. This disparity further perpetuates gender inequality.
 
-**Far more men are registered taxpayers—65 percent of men vs. 35 percent of women, both as employees and business-owners.** Men are significantly more likely to be employed in the formal sector, with access to social security, healthcare, disability insurance, and retirement benefits. While most of the Guatemalan economy is informal, nearly all informal economic activity is constrained because these entities lack the legal standing to partake various business opportunities—including government contracts and sales to corporate supply chains.
+**Far more men are registered taxpayers—65 percent of men vs. 35 percent of women, both as employees and business-owners.** Men are significantly more likely to be employed in the formal sector, with access to social security, healthcare, disability insurance, and retirement benefits. While most of the Guatemalan economy is informal, nearly all informal economic activity is constrained because these entities lack the legal standing to partake of various business opportunities—including government contracts and sales to corporate supply chains.
 
 **Tax compliance costs more for women in indigenous and rural populations.** While most Guatemalans in rural areas travel long distances to reach a tax office, women:
 
@@ -47,9 +47,7 @@ The FPRP studies spotlighted other issues:
 
 Underserved indigenous populations face additional, unique challenges. For example, service and printed materials are available only in Spanish, forcing them to pay extra for Spanish-speaking tax advisors and internet cafes for e-filing, and exposing them to vulnerabilities such as filing errors and scams.
 
-<aside>**Guatemala: Latin American Tax Pioneer**
-
-SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the [Inter-American Center of Tax Administrations (CIAT)](https://www.ciat.org/ciat-participated-in-the-meeting-taxation-with-an-approach-on-gender-the-contribution-of-the-tax-administrations/?lang=en) as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.</aside>
+> **Guatemala: Latin American Tax Pioneer.** SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the Inter-American Center of Tax Administrations CIAT as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.
 
 ![Devs----FPRP-gender-2.jpg](/uploads/Devs----FPRP-gender-2.jpg)
 
