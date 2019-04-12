@@ -64,7 +64,7 @@ The Guatemalan Government is already seeing substantial benefits arising from a 
 * Identify $30 million in potential tax revenue from large taxpayers.
 * Register 70,000 government providers on an e-platform, thereby reducing opportunities for corruption.
 
-Fairly and efficiently integrating more women into this broader base of formal taxpayers is the next step in developing a domestic resource base commensurate with the country’s development needs.
+Fairly and efficiently integrating more women into this broader base of formal taxpayers marks a logical step in developing a domestic resource base commensurate with the country’s development needs.
 
 ![Devs----FPRP-gender-1-d74625.jpg](/uploads/Devs----FPRP-gender-1-d74625.jpg)
 
