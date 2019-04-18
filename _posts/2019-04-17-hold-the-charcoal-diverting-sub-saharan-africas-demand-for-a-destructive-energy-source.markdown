@@ -13,6 +13,9 @@ publication: Developments
 
 Charcoal and other solid biomass fuels are still used in [70 percent of Sub-Saharan Africa (SSA)](https://www.iea.org/PUBLICATIONS/FREEPUBLICATIONS/PUBLICATION/WEO2014_AFRICAENERGYOUTLOOK.PDF), killing more than 4 million people annually and depleting forests, in turn reducing rainfall and contributing to climate change and other impacts. Luckily, it is not too late for SSA to avert a charcoal-induced public health and environmental catastrophe and in the process strengthen its energy independence and economic growth.
 
+
+
+
 Charcoal is used mainly for cooking by the urban and peri-urban poor; firewood is used by rural populations. Urbanization—at its highest in SSA and projected to [double](https://csis-prod.s3.amazonaws.com/s3fs-public/publication/180411_Saghir_UrbanizationAfrica_Web.pdf?o02HMOfqh99KtXG6ObTacIKKmRvk0Owd) there in the next 25 years—overwhelmingly [drives](https://ec.europa.eu/jrc/sites/jrcsh/files/reqno_jrc67752_final%2520report%2520.pdf) charcoal’s rising demand in SSA. Moreover, SSA’s population is [skyrocketing](http://www.un.org/en/sections/issues-depth/population/) at an annual average of 2.55 percent from 2010 to 2015 with more than half of global population growth by 2050 expected in SSA. Global firewood use is expected to plateau over the next 20 years while charcoal to continue to rise, mostly in SSA. 
 
 Charcoal use poses risks to:
