@@ -28,7 +28,9 @@ Charcoal use poses risks to:
 
 * **Forests and climate:** Greenhouse gas emissions from producing charcoal in tropical ecosystems are estimated at [103.7 metric tons](https://www.sciencedirect.com/science/article/pii/S0973082612000476) of CO2 equivalent, roughly [one-quarter](http://science.sciencemag.org/content/358/6360/230) of total tropical deforestation emissions, and significantly more when counting emissions from use. Charcoal is a top driver of tropical forest loss in the past two decades—with the [greatest footprint](https://blog.globalforestwatch.org/data/2017-was-the-second-worst-year-on-record-for-tropical-tree-cover-loss) in Africa.
 
-![Charcoal_Delivery,](/uploads/Charcoal_Delivery,_Uganda_(15679086937).jpg)`Charcoal Delivery in Uganda. Photo by Rod Waddington, Wikimedia.`
+<div class="vismeCoal">
+  <iframe src="//my.visme.co/embed/ep8jxr7v-greenhouse-gas" height="1359" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 ## Improving “Business as Usual”
 
@@ -63,9 +65,7 @@ Solar water heating provides a cheap and technologically simple alternative to c
 
 **Disrupting:** Despite rapidly [falling costs and increasing installed capacity](https://www.irena.org/DocumentDownloads/Publications/IRENA_Solar_PV_Costs_Africa_2016.pdf) for charcoal alternatives such as solar PV in Sub-Saharan Africa, government policies are critical to promote these alternatives to their full potential. At a minimum, governments looking to raise revenues through import taxes should avoid taxing imports of materials and parts needed for solar or LPG, which would undercut the price advantage of these energy systems over charcoal. More proactively, governments can help by disseminating information and security to buyers of alternative energy systems. This can include testing equipment to make sure it meets standards (such as the [Energy Star](https://www.energystar.gov/about) efficiency certification program in the United States) and awareness campaigns to inform buyers what to look for in systems and how to use them. To help users avoid upfront costs for charcoal alternatives, governments can also support development of mobile money financing schemes, or at a minimum, explicitly make them legal.
 
-<div class="vismeCoal">
-  <iframe src="//my.visme.co/embed/ep8jxr7v-greenhouse-gas" height="1359" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
+![Charcoal_Delivery,](/uploads/Charcoal_Delivery,_Uganda_(15679086937).jpg)`Charcoal Delivery in Uganda. Photo by Rod Waddington, Wikimedia.`
 
 Identification and mapping of charcoal users will facilitate adoption of alternatives to power clean cookstoves either via grid or off-grid electricity access. [Charcoal-use reduction awareness and behavior change communications](https://www.sciencedirect.com/science/article/pii/S1364032111002826?via%3Dihub) focused in urban areas, food vendors, and catering facilities have been found successful in encouraging adoption of charcoal alternatives. Such programs need to assess potential [economic and social barriers](https://www.sciencedirect.com/science/article/pii/S096014811630550X) to large-scale market diffusion, such as payback times, technical complexity, and public awareness and trust in the technology. To avoid making charcoal alternatives seen as inferior, programs should target all classes for such energy systems and not just the poor.
 
