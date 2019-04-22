@@ -1,7 +1,7 @@
 ---
 title: 'Hold the Charcoal: Diverting Sub-Saharan Africa’s Demand for a Destructive
   Energy Source'
-date: 2019-04-17 20:25:00 -04:00
+date: 2019-04-22 08:00:00 -04:00
 published: false
 tags:
 - environment-and-energy
