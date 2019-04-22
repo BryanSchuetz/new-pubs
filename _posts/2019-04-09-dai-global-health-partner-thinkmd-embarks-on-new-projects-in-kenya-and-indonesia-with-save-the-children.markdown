@@ -13,9 +13,6 @@ publication: Developments
 
 In July 2017, following three years of development and validation testing, [THINKMD](http://www.thinkmd.org/) implemented its frontline clinical assessment and data analytics technology in Bangladesh with [Save the Children](https://bangladesh.savethechildren.net/). We focused our work on the Rayer Bazar settlement in Dhaka, an overpopulated informal settlement where maternal and child mortality and morbidity are high—especially from pneumonia, diarrhea, and dehydration—and where access to healthcare professionals is very limited.
 
-
-
-
 Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrate its core value: expanding community health workers’ capacity to assess and treat potentially deadly conditions in newborns, young children, and mothers. THINKMD also offered program monitoring and evaluation based on real-time data and analytics.
 
 Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers have used THINKMD technology to:
@@ -37,7 +34,7 @@ THINKMD’s success in Bangladesh recently gave rise to two new contracts with S
 
 THINKMD first connected with DAI through DAI’s [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen), a competition to surface innovative ideas, products, and services in the field of international development. DAI was impressed with THINKMD’s potential to improve care, save lives, and reduce unnecessary health expenditures in underserved communities. In addition, THINKMD’s technology promises real-time public health data that shines a light on population health, disease burdens, and pandemic threats.
 
-In 2017, THINKMD and DAI [announced](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology) a strategic partnership to bring THINKMD’s digital health products to new markets. DAI led THINKMD’s ensuing financing round, joined by Fresh Tracks Capital and select private investors. THINKMD is currently working with DAI on its [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program). 
+In 2017, THINKMD and DAI [announced](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology) a strategic partnership to bring THINKMD’s digital health products to new markets. DAI led THINKMD’s ensuing financing round, joined by Fresh Tracks Capital and select private investors. THINKMD is currently working with DAI on its [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program).
 
 <iframe src="https://player.vimeo.com/video/293217023" frameborder="0" allowfullscreen></iframe>
 
@@ -65,6 +62,6 @@ While our new projects with Save the Children offer geographic expansion, just a
 
 THINKMD recently expanded our services into a new setting—schools. [Healthy Kids/Brighter Future](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.healthykidsbrighterfuture.org%2F&data=01%7C01%7CChuck_Coon%40dai.com%7C71467e3e64a142323bb408d6bdf67bf9%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=ZA6F11k90i%2FJ9enCEPmCBYOPwMgivj9udHbFvylNeCY%3D&reserved=0) in Zambia is a creative, rapidly expanding health program implemented in partnership with Zambia’s ministries of health and education, enabling teachers to efficiently deliver healthcare and health education to school-aged children and adolescents. By utilizing THINKMD’s technology, the program empowers its “school health workers” to perform high-quality clinical assessments of their students and automate data collection, referrals, and follow-up.
 
-THINKMD recently launched a new product—a white-label (unbranded and for resale) platform called, “Am I Sick?” Integrated with our data analytics and visualization platform, this direct-to-consumer triage tool will help individuals self-assess and better understand their health status. 
-	
+THINKMD recently launched a new product—a white-label (unbranded and for resale) platform called, “Am I Sick?” Integrated with our data analytics and visualization platform, this direct-to-consumer triage tool will help individuals self-assess and better understand their health status.
+
 The need to improve and constructively disrupt healthcare delivery is only increasing—especially in countries where resources are limited. Currently active in six countries, THINKMD has more geographies coming online in 2019 as we strive to provide access to good-quality clinical assessments and treatments for people who would otherwise go without. Stay tuned.
