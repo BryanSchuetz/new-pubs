@@ -1,0 +1,70 @@
+---
+title: 'Hold the Charcoal: Diverting Sub-Saharan Africa’s Demand for a Destructive
+  Energy Source'
+date: 2019-04-22 08:00:00 -04:00
+tags:
+- environment-and-energy
+- governance
+author: "[John Costenbader]( https://www.dai.com/who-we-are/our-team/john-costenbader)
+  and [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)"
+thumbnail-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937).jpg"
+social-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937)-a47930.jpg"
+publication: Developments
+---
+
+Charcoal and other solid biomass fuels are still used in [70 percent of Sub-Saharan Africa](https://www.iea.org/PUBLICATIONS/FREEPUBLICATIONS/PUBLICATION/WEO2014_AFRICAENERGYOUTLOOK.PDF), killing more than 4 million people annually and depleting forests, in turn reducing rainfall and contributing to climate change and other impacts. Luckily, it is not too late for Sub-Saharan Africa to avert a charcoal-induced public health and environmental catastrophe and in the process strengthen its energy independence and economic growth.
+
+
+
+
+
+Charcoal is used mainly for cooking by the urban and peri-urban poor; firewood is used by rural populations. Urbanization—at its highest in Sub-Saharan Africa and projected to [double](https://csis-prod.s3.amazonaws.com/s3fs-public/publication/180411_Saghir_UrbanizationAfrica_Web.pdf?o02HMOfqh99KtXG6ObTacIKKmRvk0Owd) there in the next 25 years—overwhelmingly [drives](https://ec.europa.eu/jrc/sites/jrcsh/files/reqno_jrc67752_final%2520report%2520.pdf) charcoal’s rising demand in Sub-Saharan Africa. Moreover, Sub-Saharan Africa’s population is [skyrocketing](http://www.un.org/en/sections/issues-depth/population/) at an annual average of 2.55 percent from 2010 to 2015 with more than half of global population growth by 2050 expected in Sub-Saharan Africa. Global firewood use is expected to plateau over the next 20 years while charcoal to continue to rise, mostly in Sub-Saharan Africa.
+
+Charcoal use poses risks to:
+
+* **Human health:** Use of charcoal and other biomass is estimated to [kill 4.3 million annually](https://www.afro.who.int/sites/default/files/2017-06/9789241565233_eng.pdf)—mainly women and children exposed to smoke from cooking charcoal indoors, causing acute respiratory illnesses, cataracts, heart disease, and cancer.
+
+* **Ecosystems:** Charcoal production [severely impacts](https://www.researchgate.net/profile/Emmanuel_Chidumayo/publication/257434434_The_environmental_impacts_of_charcoal_production_in_tropical_ecosystems_of_the_world_A_synthesis/links/5a8ff59ea6fdccecff00c3b2/The-environmental-impacts-of-charcoal-production-in-tropical-ecosystems-of-the-world-A-synthesis.pdf?origin=publication_detail) tropical forest ecosystem services—such as shade, soil and water retention, water regulation, carbon sequestration, and wildlife habitat—and reduces overall ecosystem resilience. Overharvesting of select species for charcoal [depletes plant diversity](https://www.omicsonline.org/open-access/survey-of-charcoal-production-and-its-impact-on-plant-diversity-and-conservation-challenges-in-abeshige-district-gurage-zone-ethio-2332-2543-1000221.pdf) and subsequently diminishes faunal abundance and biodiversity dependent on forest ecosystems.
+
+* **Forests and climate:** Greenhouse gas emissions from producing charcoal in tropical ecosystems are estimated at [103.7 metric tons](https://www.sciencedirect.com/science/article/pii/S0973082612000476) of CO2 equivalent, roughly [one-quarter](http://science.sciencemag.org/content/358/6360/230) of total tropical deforestation emissions, and significantly more when counting emissions from use. Charcoal is a top driver of tropical forest loss in the past two decades—with the [greatest footprint](https://blog.globalforestwatch.org/data/2017-was-the-second-worst-year-on-record-for-tropical-tree-cover-loss) in Africa.
+
+![Charcoal_Delivery,](/uploads/Charcoal_Delivery,_Uganda_(15679086937).jpg)`Charcoal Delivery in Uganda. Photo by Rod Waddington, Wikimedia.`
+
+## Improving “Business as Usual”
+
+Firewood and charcoal will remain top energy sources in Sub-Saharan Africa without a swift transition to cleaner, renewable energy. With Sub-Saharan Africa expected to [increase demand](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https:/www.res4africa.org/wp-content/uploads/2017/04/G7_2017.04.07-Cozzi.pdf) for biomass fuels by 40 percent by 2040 under business as usual, it is hard to imagine how the world will achieve a switch to 70 to 85 percent renewables by 2040 as [recommended](https://www.ipcc.ch/sr15/chapter/summary-for-policy-makers/) by the International Panel on Climate Change.
+
+Yet without alternative energy sources, simple solutions such as charcoal bans enacted in Malawi, Kenya, and Chad have [forced](http://news.bbc.co.uk/2/hi/africa/7853250.stm) poor households dependent on charcoal to burn furniture, cow dung, and even their own homes for energy. Besides being the only energy source available in much of Sub-Saharan Africa, charcoal is a key [income source](https://www.researchgate.net/publication/257434437_Charcoal_livelihoods_and_poverty_reduction_Evidence_from_sub-Saharan_Africa) in rural areas and [rivals](https://www.sciencedirect.com/science/article/pii/S0973082613000021) major economic sectors in many Sub-Saharan Africa countries.
+
+For countries like Uganda to start resembling [Wakanda](https://medium.com/@songo.didiza/africas-rising-smart-green-economy-our-wakanda-story-ad6648d669ca), they will need to find ways to both dramatically ramp up renewable energies and make existing charcoal value chains more sustainable.
+
+Strategies to tackle the Sub-Saharan Africa charcoal challenge include:
+
+## 1. Changing Things Up
+
+**Charcoal production:** Traditional charcoal production methods used in Sub-Saharan Africa typically yield 15 to 20 percent or less in dry weight and take eight days to produce in industrial kilns. [Improved methods](https://pubs.acs.org/doi/pdfplus/10.1021/ef9501859) can achieve 40 to 60 percent yields and only take 15 minutes to two hours to produce, potentially helping reduce deforestation and greenhouse gas emissions.
+Charcoal consumption: Improved cookstoves can vastly improve per-unit efficiency over conventional stoves by improved designs and materials. Yet despite decades of promotional campaigns and distribution of roughly [53 million stoves and fuels](http://cleancookingalliance.org/about/news/12-06-2016-report-more-than-53-million-clean-and-or-efficient-cookstoves-and-fuels-distributed-from-2010-2015.html) between 2010 and 2015, improved cookstoves have had limited adoption in Sub-Saharan Africa. Research suggests barriers to long-term adoption of new technologies relate to [cultural behaviors](https://www.sciencedirect.com/science/article/pii/S2214629617304383) and [income and literacy](https://www.researchgate.net/publication/317919300_Improved_cookstoves_in_Africa_Explaining_adoption_patterns) levels.
+
+## 2. Thinking Outside the Box
+
+**Off-grid solar:** With [90 percent](https://www.mckinsey.com/\~/media/McKinsey/dotcom/client_service/EPNG/PDFs/Brighter_Africa-The_growth_potential_of_the_sub-Saharan_electricity_sector.ashx) of Sub-Saharan Africa’s total estimated power capacity, solar has [abundant potential](https://wedocs.unep.org/bitstream/handle/20.500.11822/20476/Atlas_Africa_Energy_Resources.pdf) to provide Sub-Saharan Africa with clean, renewable energy. Moreover, the [lifetime cost](https://assets.publishing.service.gov.uk/media/57a08975ed915d3cfd00025a/Solar_Electric_Cooking_Synthesis_Report.pdf) of a solar cooking system is comparable to that of charcoal and liquefied petroleum gas (LPG), and [dropping rapidly](https://www.irena.org/DocumentDownloads/Publications/IRENA_Solar_PV_Costs_Africa_2016.pdf) with technology improvements. As the majority of photovoltaics’ upfront costs are for batteries, users need financing schemes such as pay-as-you-go meters charging daily rates comparable to charcoal costs.
+
+Solar water heating provides a cheap and technologically simple alternative to charcoal. Switching from charcoal-heated water to solar-heated water for bathing is one of the simplest and most cost-effective renewable energy technologies. Equally important, residential solar water heaters can be constructed and installed cheaply using local materials.
+
+**Grid-based electricity:** Direct electricity access via a grid significantly reduces costs for electric cookers, as users do not have to pay for batteries (assuming reliable access). Zambian residents have been found to [prefer e-cookers](https://www.sei.org/publications/transforming-household-energy-practices-among-charcoal-users-in-lusaka-zambia-a-user-centred-approach/) as they cook quicker, produce less fumes, and can be left alone to cook. Though access to electricity has [risen](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZG) 160 percent across Sub-Saharan Africa from 1990 to 2016, many countries will require significant grid expansion for electricity access to become the norm.
+
+**Liquefied petroleum gas (LPG):** A mixture of propane and butane, LPG is versatile, portable, often less expensive per month than charcoal, and produces less pollution than kerosene, charcoal, or wood. LPG is increasingly seen as a viable, modern fuel to replace charcoal. When given the choice, women often \[choose\](https:/www.energia.org/cm2/wp-content/uploads/2014/10/2014-cooking-with-lp-gas-women-report.pdf) LPG over charcoal or other biomass. As the [African LPG market](https://play.google.com/books/reader?id=WYdnDwAAQBAJ&hl=en&pg=GBS.PR13) is small and sparse, increasing LPG adoption would require awareness campaigns, safety regulations and enforcement, and public subsidies to support the initial switch.
+
+**Green energy pioneers:** Weaning Sub-Saharan Africa from charcoal will require innovative energy sources and means of delivery. For example, Rwandan entrepreneurs are marketing [organic waste-based briquettes](https://www.risingafrica.org/success-stories/rwandan-entrepreneur-killing-two-birds-with-one-briquette/) and [wood pellet-fired cookstoves](https://www.nytimes.com/2018/12/06/business/rwanda-charcoal-pellet-stoves-.html) to replace charcoal. In Kenya and Tanzania, [pay-as-you-go fuel companies](https://stepsproject.wordpress.com/2017/09/22/pay-as-you-go-payg-models-for-cooking-fuels-innovation-for-the-poorest-consumers/) install an LPG stove, cylinder, and meter, and then accept mobile payments, enabling consumers to purchase as little as a day’s worth of LPG—for US$0.50—at a time with automatic delivery of new gas when fuel levels run low.
+
+## 3. Policies to Make it Stick
+
+**Improving:** An essential first step toward improving existing charcoal value chains is to revise market regulations to define sustainable sources and methods for charcoal production. For example, since 2002 Ghana’s Energy Commission has instituted guidelines on sustainable charcoal production, whereby only approved sources (sawmill residues or plantations established for charcoal production) may export charcoal. Additionally, programs will need to train traditional charcoal producers to employ efficient methods, develop awareness, and disseminate efficient cookstoves, such as under Ghana’s \[Sustainable Energy Action Plan\](http://energycom.gov.gh/files/SE4ALL-GHANA ACTION PLAN.pdf). Given the weak adoption of improved cookstoves to date, user-centered design is essential to map types of charcoal users and pinpoint where and what kinds of interventions are most needed.
+
+**Disrupting:** Despite rapidly [falling costs and increasing installed capacity](https://www.irena.org/DocumentDownloads/Publications/IRENA_Solar_PV_Costs_Africa_2016.pdf) for charcoal alternatives such as solar PV in Sub-Saharan Africa, government policies are critical to promote these alternatives to their full potential. At a minimum, governments looking to raise revenues through import taxes should avoid taxing imports of materials and parts needed for solar or LPG, which would undercut the price advantage of these energy systems over charcoal. More proactively, governments can help by disseminating information and security to buyers of alternative energy systems. This can include testing equipment to make sure it meets standards (such as the [Energy Star](https://www.energystar.gov/about) efficiency certification program in the United States) and awareness campaigns to inform buyers what to look for in systems and how to use them. To help users avoid upfront costs for charcoal alternatives, governments can also support development of mobile money financing schemes, or at a minimum, explicitly make them legal.
+
+![blog-stoves-8.jpg](/uploads/blog-stoves-8.jpg)`Improved cookstoves. Photo by Amy Wickham for UNICEF.`
+
+Identification and mapping of charcoal users will facilitate adoption of alternatives to power clean cookstoves either via grid or off-grid electricity access. [Charcoal-use reduction awareness and behavior change communications](https://www.sciencedirect.com/science/article/pii/S1364032111002826?via%3Dihub) focused in urban areas, food vendors, and catering facilities have been found successful in encouraging adoption of charcoal alternatives. Such programs need to assess potential [economic and social barriers](https://www.sciencedirect.com/science/article/pii/S096014811630550X) to large-scale market diffusion, such as payback times, technical complexity, and public awareness and trust in the technology. To avoid making charcoal alternatives seen as inferior, programs should target all classes for such energy systems and not just the poor.
+
+Though the current charcoal business-as-usual outlook is not pretty for Sub-Saharan Africa, the continent possesses immense potential for adopting cleaner energy. With support from governments, civil society, and private sector entrepreneurs via the methods outlined above, adoption at scale of solar power and other charcoal alternatives can lead to millions of lives improved and thousands of cleaner and healthier communities.
