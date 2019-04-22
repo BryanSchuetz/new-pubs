@@ -6,7 +6,7 @@ tags:
 - economic-growth
 - youth-employment-series
 author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
-  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
+  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)"
 thumbnail-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 social-image: "/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg"
 publication: Developments
@@ -16,7 +16,8 @@ Salvadorans have a reputation as entrepreneurial, hard-working, and committed. I
 
 
 
-![youth workforce](/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg)`Photo: The USAID Bridges to Employment Project is increasing employment for 6,000 vulnerable youth in El Salvador’s 15 highest-crime municipalities, placing them in jobs in high-growth sectors such as information technology, hospitality and tourism, manufacturing, energy, and agroindustry. Pictured above, youth in plastics technician training course.`
+
+![youth workforce](/uploads/USAID%20Puentestes%20para%20el%20Empleo-%20Fundeplast-29%20-1be9d4.jpg)`The USAID Bridges to Employment Project is increasing employment for 6,000 vulnerable youth in El Salvador’s 15 highest-crime municipalities, placing them in jobs in high-growth sectors such as information technology, hospitality and tourism, manufacturing, energy, and agroindustry. Pictured above, youth in plastics technician training course.`
 
 While that “Catch-22” of not being able to get work without first demonstrating work experience is  common to youth across the globe, El Salvador’s [gang-related violence](https://www.npr.org/sections/goatsandsoda/2015/10/05/445382231/how-el-salvador-fell-into-a-web-of-gang-violence)—killing on average 14 Salvadorans per day, 1.5 of them under the age of 19—makes it even harder for youth to find that first job. Employers are reluctant to hire young people living in high-crime areas for fear they might be associated with local gangs. In addition to bearing this stigma, youth are unable to easily move in and out of high-crime municipalities or travel to where jobs are located. Lacking their chance in the labor market, vulnerable youth are more prone to leave the country in search of economic opportunities or to remain among the more than 300,000 Salvadoran youth who are not in employment, education, or training (NEET).
 
