@@ -5,7 +5,7 @@ tags:
 - economic-growth
 - youth-employment-series
 author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
-  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
+  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)"
 thumbnail-image: "/uploads/el-salvador-thumb.jpeg"
 social-image: "/uploads/el-salvador-thumb.jpeg"
 publication: Developments
