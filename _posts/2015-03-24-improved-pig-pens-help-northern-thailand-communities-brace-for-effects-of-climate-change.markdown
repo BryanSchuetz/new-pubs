@@ -13,8 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-2.jpg"
   author?: 'yes'
-thumbnail-image: 
-social-image: 
+thumbnail-image: "/uploads/Elizabeth Drachman Devs-2.jpg"
+social-image: "/uploads/Elizabeth Drachman Devs-2.jpg"
 ---
 
 For villagers in northern Thailand's Hae Ko hill tribe community, raising pigs is an integral part of their lives. Not only do the livestock serve as a critical protein source for the community and provide supplementary income, they are also culturally important as ceremonial gifts.
