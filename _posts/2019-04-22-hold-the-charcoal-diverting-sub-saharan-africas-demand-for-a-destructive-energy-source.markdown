@@ -63,7 +63,7 @@ Solar water heating provides a cheap and technologically simple alternative to c
 
 **Disrupting:** Despite rapidly [falling costs and increasing installed capacity](https://www.irena.org/DocumentDownloads/Publications/IRENA_Solar_PV_Costs_Africa_2016.pdf) for charcoal alternatives such as solar PV in Sub-Saharan Africa, government policies are critical to promote these alternatives to their full potential. At a minimum, governments looking to raise revenues through import taxes should avoid taxing imports of materials and parts needed for solar or LPG, which would undercut the price advantage of these energy systems over charcoal. More proactively, governments can help by disseminating information and security to buyers of alternative energy systems. This can include testing equipment to make sure it meets standards (such as the [Energy Star](https://www.energystar.gov/about) efficiency certification program in the United States) and awareness campaigns to inform buyers what to look for in systems and how to use them. To help users avoid upfront costs for charcoal alternatives, governments can also support development of mobile money financing schemes, or at a minimum, explicitly make them legal.
 
-<div class="visme">
+<div class="vismeCoal">
   <iframe src="//my.visme.co/embed/ep8jxr7v-greenhouse-gas" height="1359" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
