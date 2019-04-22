@@ -2,12 +2,13 @@
 title: 'Hold the Charcoal: Diverting Sub-Saharan Africa’s Demand for a Destructive
   Energy Source'
 date: 2019-04-22 08:00:00 -04:00
-published: false
 tags:
 - environment-and-energy
 - governance
 author: "[John Costenbader]( https://www.dai.com/who-we-are/our-team/john-costenbader)
   and [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)"
+thumbnail-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937).jpg"
+social-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937)-a47930.jpg"
 publication: Developments
 ---
 
