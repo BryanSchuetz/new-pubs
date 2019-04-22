@@ -36,12 +36,12 @@ For countries like Uganda to start resembling [Wakanda](https://medium.com/@song
 
 Strategies to tackle the Sub-Saharan Africa charcoal challenge include:
 
-## 1. Improving Business As Usual
+## 1. Changing Things Up
 
 **Charcoal production:** Traditional charcoal production methods used in Sub-Saharan Africa typically yield 15 to 20 percent or less in dry weight and take eight days to produce in industrial kilns. [Improved methods](https://pubs.acs.org/doi/pdfplus/10.1021/ef9501859) can achieve 40 to 60 percent yields and only take 15 minutes to two hours to produce, potentially helping reduce deforestation and greenhouse gas emissions. 
 Charcoal consumption: Improved cookstoves can vastly improve per-unit efficiency over conventional stoves by improved designs and materials. Yet despite decades of promotional campaigns and distribution of roughly [53 million stoves and fuels](http://cleancookingalliance.org/about/news/12-06-2016-report-more-than-53-million-clean-and-or-efficient-cookstoves-and-fuels-distributed-from-2010-2015.html) between 2010 and 2015, improved cookstoves have had limited adoption in Sub-Saharan Africa. Research suggests barriers to long-term adoption of new technologies relate to [cultural behaviors](https://www.sciencedirect.com/science/article/pii/S2214629617304383) and [income and literacy](https://www.researchgate.net/publication/317919300_Improved_cookstoves_in_Africa_Explaining_adoption_patterns) levels.
  
-## 2. Disrupting Business As Usual
+## 2. Thinking Outside the Box 
 
 **Off-grid solar:** With [90 percent](https://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/EPNG/PDFs/Brighter_Africa-The_growth_potential_of_the_sub-Saharan_electricity_sector.ashx) of SSA’s total estimated power capacity, solar has [abundant potential](https://wedocs.unep.org/bitstream/handle/20.500.11822/20476/Atlas_Africa_Energy_Resources.pdf) to provide Sub-Saharan Africa with clean, renewable energy. Moreover, the [lifetime cost](https://assets.publishing.service.gov.uk/media/57a08975ed915d3cfd00025a/Solar_Electric_Cooking_Synthesis_Report.pdf) of a solar cooking system is comparable to that of charcoal and liquefied petroleum gas (LPG), and [dropping rapidly](https://www.irena.org/DocumentDownloads/Publications/IRENA_Solar_PV_Costs_Africa_2016.pdf) with technology improvements. As the majority of photovoltaics’ upfront costs are for batteries, users need financing schemes such as pay-as-you-go meters charging daily rates comparable to charcoal costs. 
 
@@ -53,7 +53,7 @@ Solar water heating provides a cheap and technologically simple alternative to c
 
 **Green energy pioneers:** Weaning Sub-Saharan Africa from charcoal will require innovative energy sources and means of delivery. For example, Rwandan entrepreneurs are marketing [organic waste-based briquettes](https://www.risingafrica.org/success-stories/rwandan-entrepreneur-killing-two-birds-with-one-briquette/) and [wood pellet-fired cookstoves](https://www.nytimes.com/2018/12/06/business/rwanda-charcoal-pellet-stoves-.html) to replace charcoal. In Kenya and Tanzania, [pay-as-you-go fuel companies](https://stepsproject.wordpress.com/2017/09/22/pay-as-you-go-payg-models-for-cooking-fuels-innovation-for-the-poorest-consumers/) install an LPG stove, cylinder, and meter, and then accept mobile payments, enabling consumers to purchase as little as a day’s worth of LPG—for US$0.50—at a time with automatic delivery of new gas when fuel levels run low.
 
-## 3. Policies for Improving and Disrupting Business as Usual
+## 3. Policies to Make it Stick 
  
 **Improving:** An essential first step toward improving existing charcoal value chains is to revise market regulations to define sustainable sources and methods for charcoal production. For example, since 2002 Ghana’s Energy Commission has instituted guidelines on sustainable charcoal production, whereby only approved sources (sawmill residues or plantations established for charcoal production) may export charcoal. Additionally, programs will need to train traditional charcoal producers to employ efficient methods, develop awareness, and disseminate efficient cookstoves, such as under Ghana’s [Sustainable Energy Action Plan](http://energycom.gov.gh/files/SE4ALL-GHANA ACTION PLAN.pdf). Given the weak adoption of improved cookstoves to date, user-centered design is essential to map types of charcoal users and pinpoint where and what kinds of interventions are most needed.
 
