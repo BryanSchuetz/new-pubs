@@ -7,8 +7,8 @@ tags:
 - governance
 author: "[John Costenbader]( https://www.dai.com/who-we-are/our-team/john-costenbader)
   and [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)"
-thumbnail-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937).jpg"
-social-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937)-a47930.jpg"
+thumbnail-image: "/uploads/thumbnail-charcoal.jpg"
+social-image: "/uploads/thumbnail-charcoal-b55450.jpg"
 publication: Developments
 ---
 
