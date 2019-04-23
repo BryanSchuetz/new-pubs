@@ -103,7 +103,7 @@ By leveraging development assistance from Japan, blended capital co-financing be
 
 Similarly, to overcome the risk-return hurdle for water investments in Cambodia, water companies jumped at the chance to [acquire results-based financing](https://www.youtube.com/watch?v=aUlchUgIvyw) to close the financial gap that had prevented the expansion of residential water hookups. By taking advantage of this capital, they extended services to 67,000 new customers in just 18 months while making operational upgrades that benefitted an additional 130,000 rural poor.
 
-<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="https://player.vimeo.com/video/37755989?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" width="640" height="360" mozallowfullscreen="" src="https://player.vimeo.com/video/37755989?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 ## Capital—The Next Level of Development Partnering
 

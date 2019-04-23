@@ -17,7 +17,7 @@ social-image: "/uploads/pubs-story-14.jpg"
 
 On the morning of October 29, a panel of distinguished judges gathered in Bethesda, Maryland, to hear the final pitches from five DAI projects competing for the title of DAI “Innovation of the Year.”
 
-<iframe src="//player.vimeo.com/video/114710046" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/114710046" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 They heard powerful, impassioned cases made by project staff working to improve education in Pakistan, facilitate land titling in Ethiopia, recognize the land rights of indigenous people in Honduras, and mitigate the effects of climate change in the Pacific Islands.
 

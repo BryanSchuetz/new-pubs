@@ -61,7 +61,7 @@ Irrigation and drainage at the farm level in Tajikistan was chaotic prior to the
 
 When FFP started, only 72 percent of the country’s productive irrigable land could be used for agricultural production, as 12 percent was abandoned and 16 percent lost to salinization. According to World Bank data, nearly half of Tajikistan’s mostly rural population lived in poverty. Paid jobs were scarce and arable land, per person, averaged 0.1 hectares, or about a quarter-acre. While 46.5 percent of Tajikistan’s overall population was employed in agriculture, productivity in the sector was low and represented only 21 percent of the national gross domestic product.  Much of this low productivity was due to the problems of irrigation.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/90795379" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" width="640" height="360" mozallowfullscreen="" src="//player.vimeo.com/video/90795379" webkitallowfullscreen="" width="703"></iframe>
 
 Seeking to address this situation, in 2006 Tajikistan enacted the Law on Water User Associations. But many of the resulting associations failed because they were new, poorly understood, and lacked support nationally and locally. To gather support in its 12 target districts in Khatlon, FFP worked from the bottom up, using a two-pronged, complementary approach: 1) create local WUAs emphasizing leadership skills and developing community understanding of the institutions; and 2) provide infrastructure funding through time-bound grants to repair the canals—funding that required matching local cash or labor inputs in the form of Hashar (organized community work days). 
 

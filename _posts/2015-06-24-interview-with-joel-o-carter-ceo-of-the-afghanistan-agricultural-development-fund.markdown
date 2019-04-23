@@ -41,7 +41,7 @@ In November 2012, the ADF was officially established as a development fund of th
 
 *Carter*: In two main ways. First, since Afghan banks would not work with us, we had to find other distribution channels, and so we established credit management units throughout the country as a way to manage risk. These were small offices of trained local Afghans who reviewed applications and disbursed and managed the loans. Second, we developed and instituted Sharia-lending products to meet the overwhelming demand of our customers. Sharia-compliant loans make up 40-plus percent of our portfolio.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/130361148" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" width="640" height="360" mozallowfullscreen="" src="//player.vimeo.com/video/130361148" webkitallowfullscreen="" width="703"></iframe>
 
 **Q: Who owns and oversees the Agricultural Development Fund?**
 

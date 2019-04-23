@@ -7,8 +7,8 @@ tags:
 - governance
 author: "[John Costenbader]( https://www.dai.com/who-we-are/our-team/john-costenbader)
   and [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)"
-thumbnail-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937).jpg"
-social-image: "/uploads/thumb%20Charcoal_Delivery,_Uganda_(15679086937)-a47930.jpg"
+thumbnail-image: "/uploads/thumbnail-charcoal.jpg"
+social-image: "/uploads/thumbnail-charcoal-b55450.jpg"
 publication: Developments
 ---
 
@@ -26,9 +26,7 @@ Charcoal use poses risks to:
 
 * **Forests and climate:** Greenhouse gas emissions from producing charcoal in tropical ecosystems are estimated at [103.7 metric tons](https://www.sciencedirect.com/science/article/pii/S0973082612000476) of CO2 equivalent, roughly [one-quarter](http://science.sciencemag.org/content/358/6360/230) of total tropical deforestation emissions, and significantly more when counting emissions from use. Charcoal is a top driver of tropical forest loss in the past two decades—with the [greatest footprint](https://blog.globalforestwatch.org/data/2017-was-the-second-worst-year-on-record-for-tropical-tree-cover-loss) in Africa.
 
-<div class="vismeCoal">
-<iframe src="//my.visme.co/embed/ep8jxr7v-greenhouse-gas" height="1359" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="ep8jxr7v-greenhouse-gas" data-w="800" data-h="1359" data-domain="my"></div>
 
 ## Improving “Business as Usual”
 
