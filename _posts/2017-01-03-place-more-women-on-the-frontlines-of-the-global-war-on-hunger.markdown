@@ -63,7 +63,7 @@ In some countries, women are excluded from—or not invited to—field and class
 
 Where men object to wives and daughters being trained by a male, women trainers must play a key role. In Afghanistan, DAI’s direct training and technical services accommodate women’s mobility, schedules, and childcare needs. Our extension materials depict male and female farmers equally and use gender-sensitive, picture-based guidelines to assist illiterate farmers.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104419931" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" width="640" height="360" mozallowfullscreen="" src="//player.vimeo.com/video/104419931" webkitallowfullscreen="" width="703"></iframe>
 
 ## 3. Increase Access to Financial Services
 

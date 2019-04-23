@@ -38,7 +38,7 @@ THINKMD first connected with DAI through DAI’s [Innovation into Action Challen
 
 In 2017, THINKMD and DAI [announced](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology) a strategic partnership to bring THINKMD’s digital health products to new markets. DAI led THINKMD’s ensuing financing round, joined by Fresh Tracks Capital and select private investors. THINKMD is currently working with DAI on its [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program).
 
-<iframe src="https://player.vimeo.com/video/293217023" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/293217023" frameborder="0" allowfullscreen width="640" height="360"></iframe>
 
 ## THINKMD Technology—the Mobile Pediatrician
 
