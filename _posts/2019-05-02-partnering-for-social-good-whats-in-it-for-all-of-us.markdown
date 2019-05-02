@@ -38,7 +38,7 @@ Microlab participants described the roadblocks they encountered in the course of
 
 Competing interests and incentives, mistrust, and an unclear grasp of mission marked the exercise. If the other parties in a development enterprise negotiation are arguing over “what‘s in it for me,” what investor would want to dive into that? Riley, who manages health partnerships for Duke, observed: “If a corporation does not like the value proposition, if it cannot add value to the corporate arm, the money will end.”
 
-<iframe width="560" height="315" src="https://youtube.com/TNNs1xEfokw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TNNs1xEfokw&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Partnering to Influence Health Outcomes
 
