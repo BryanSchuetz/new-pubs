@@ -12,6 +12,9 @@ publication: Developments
 
 IntraHealth International created the [SwitchPoint](https://event.switchpointideas.com/) conference to juxtapose and address opportunities like these. An eclectic, two-day gathering—primarily but not exclusively of global health and digital practitioners—the eighth annual SwitchPoint went off last week. Some 400 attendees brought to the Saxapahaw, North Carolina festival a deep reservoir experience, fresh ideas, and no little energy. But they would be the first to admit that none has the total package of resources required to address market opportunities at scale in health services delivery. 
 
+
+
+
 For that, the right people need to join forces, which is why SwitchPoint exists. 
  
 “Across the world, most people have a phone before they have electricity, so why not use mobile phones to deliver healthcare?” noted [ClickMedix](https://clickmedix.com/) founder and CEO Ting Shih, one of the SwitchPoint participants. More on her later.
