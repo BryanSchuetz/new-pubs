@@ -47,8 +47,6 @@ Shih aspires to grow ClickMedix into a global “Amazon for healthcare” that e
 
 “The proliferation of mobile devices adopted worldwide means that we can now make healthcare accessible and affordable to millions more people,” Shih said.
 
-(PERHAPS AN INNOVATION INTO ACTION PHOTO HERE)
-
 DAI Global Health and ClickMedix first connected in 2016 through the [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen), a competition to surface innovative, demand-driven ideas, products, and services. Recently, DAI [announced](https://www.dai.com/news/dai-global-health-invests-in-mhealth-leader-clickmedix) a strategic investment in ClickMedix, which joins mobile pediatrics specialists [THINKMD](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology), mobile medical optics firm [MobileODT](https://www.dai.com/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech), and [IntraHealth](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact) as networked partners of DAI Global Health.
 
 “DAI is going through a series of different kinds of relationships,” LeGrand said. “These are not controlling relationships—for example, we invest in Ting, but we don’t control her. We are building a ‘neural network’ and relationships that will create positive influences in global healthcare delivery.”
