@@ -19,7 +19,7 @@ For that, the right people need to join forces, which is why SwitchPoint exists.
  
 “Across the world, most people have a phone before they have electricity, so why not use mobile phones to deliver healthcare?” noted [ClickMedix](https://clickmedix.com/) founder and CEO Ting Shih, one of the SwitchPoint participants. More on her later.
 
-![Devs----Switch-1.jpg](/uploads/Devs----Switch-1.jpg)
+![Devs----Switch-1.jpg](/uploads/Devs----Switch-1.jpg)`
 
 Development funders such as the U.S. Agency for International Development, the World Bank, and Bill & Melinda Gates Foundation are urging new players to the table in their bids to meet basic healthcare and other needs. These invitations are extended for humanitarian ends, but in the knowledge that corporations and social entrepreneurs—for-profit and nonprofit alike—need both to generate and earn value if they are to win an enduring place in the global health ecosystem.
 
