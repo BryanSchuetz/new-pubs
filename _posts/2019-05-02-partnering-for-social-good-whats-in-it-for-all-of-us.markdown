@@ -16,6 +16,8 @@ For that, the right people need to join forces, which is why SwitchPoint exists.
  
 “Across the world, most people have a phone before they have electricity, so why not use mobile phones to deliver healthcare?” noted [ClickMedix](https://clickmedix.com/) founder and CEO Ting Shih, one of the SwitchPoint participants. More on her later.
 
+![Devs----Switch-1.jpg](/uploads/Devs----Switch-1.jpg)
+
 Development funders such as the U.S. Agency for International Development, the World Bank, and Bill & Melinda Gates Foundation are urging new players to the table in their bids to meet basic healthcare and other needs. These invitations are extended for humanitarian ends, but in the knowledge that corporations and social entrepreneurs—for-profit and nonprofit alike—need both to generate and earn value if they are to win an enduring place in the global health ecosystem.
 
 “If we are creating value for society, we are going to be viable,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), who moderated a SwitchPoint microlab on “Creative Public-Private Partnerships and Alliances: New Models for Catalyzing Impact.” Legrand is the President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) and a longtime health services entrepreneur. “We are not talking about traditional corporate social responsibility outlays,” he said, “but creating common value for all involved.”
@@ -45,6 +47,8 @@ Shih aspires to grow ClickMedix into a global “Amazon for healthcare” that e
 DAI Global Health and ClickMedix first connected in 2016 through the [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen), a competition to surface innovative, demand-driven ideas, products, and services. Recently, DAI [announced](https://www.dai.com/news/dai-global-health-invests-in-mhealth-leader-clickmedix) a strategic investment in ClickMedix, which joins mobile pediatrics specialists [THINKMD](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology), mobile medical optics firm [MobileODT](https://www.dai.com/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech), and [IntraHealth](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact) as networked partners of DAI Global Health.
 
 “DAI is going through a series of different kinds of relationships,” LeGrand said. “These are not controlling relationships—for example, we invest in Ting, but we don’t control her. We are building a ‘neural network’ and relationships that will create positive influences in global healthcare delivery.”
+
+![Devs----Switch-8.jpg](/uploads/Devs----Switch-8.jpg)
 
 ## “Cool-Headed, Even Cold-Hearted”
 
