@@ -51,7 +51,7 @@ DAI Global Health and ClickMedix first connected in 2016 through the [Innovation
 
 “DAI is going through a series of different kinds of relationships,” LeGrand said. “These are not controlling relationships—for example, we invest in Ting, but we don’t control her. We are building a ‘neural network’ and relationships that will create positive influences in global healthcare delivery.”
 
-![Devs----Switch-8.jpg](/uploads/Devs----Switch-8.jpg)`IntraHealth Chief Technical Officer Dai Hozumi presenting "Global Health Innovation: By Design or by Accident?"
+![Devs----Switch-8.jpg](/uploads/Devs----Switch-8.jpg)`IntraHealth Chief Technical Officer Dai Hozumi presenting "Global Health Innovation: By Design or by Accident?"`
 
 ## “Cool-Headed, Even Cold-Hearted”
 
