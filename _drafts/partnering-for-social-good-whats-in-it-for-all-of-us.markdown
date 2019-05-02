@@ -19,7 +19,7 @@ Development funders such as the U.S. Agency for International Development, the W
 
 “If we are creating value for society, we are going to be viable,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), who moderated a SwitchPoint microlab on “Creative Public-Private Partnerships and Alliances: New Models for Catalyzing Impact.” Legrand is the President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) and a longtime health services entrepreneur. “We are not talking about traditional corporate social responsibility outlays,” he said, “but creating common value for all involved.”
 
-Reconciling “Me” and “We”
+## Reconciling “Me” and “We”
 
 The microlab tackled one the key challenges in any PPP—“the right people joining forces.” Its participants were given a hypothetical challenge: cut maternal and infant mortality and malnutrition in a developing country with elevated birth rates. After splitting into teams, each team designated four parties—an investor, a social entrepreneur, a development organization, and a host government—to come to a meeting of minds on how to scale a solution.
 
@@ -31,7 +31,7 @@ Competing interests and incentives, mistrust, and an unclear grasp of mission ma
 
 (TING VIDEO HERE)
 
-PARTNERING TO INFLUENCE HEALTH OUTCOMES
+## Partnering to Influence Health Outcomes
 
 Motivated by the global growth of mobile technology and a goal to deliver health care services “to 1 billion people,” Shih founded ClickMedix in 2010. The company is now active in 21 countries. ClickMedix offers an mHealth platform that enables customers—hospitals, doctors, pharmacists, insurers, government funders of health services—to serve hard-to-reach patients via mobile devices.
 
@@ -45,7 +45,8 @@ DAI Global Health and ClickMedix first connected in 2016 through the [Innovation
 
 “DAI is going through a series of different kinds of relationships,” LeGrand said. “These are not controlling relationships—for example, we invest in Ting, but we don’t control her. We are building a ‘neural network’ and relationships that will create positive influences in global healthcare delivery.”
 
-“Cool-Headed, Even Cold-Hearted”
+## “Cool-Headed, Even Cold-Hearted”
+
 In gathering together creative people from across disciplines, SwitchPoint aspires to help them turn their big concepts into workable models. This year, that process included frank talk on cost vs. benefit and the laws of supply and demand. “We have to be cool-headed, even cold-hearted about innovation and resist being blinded by wonderful ideas,” cautioned [Dai Hozumi](https://www.intrahealth.org/people/dai-hozumi), IntraHealth’s Chief Technical Officer, in a well-received presentation on the perils of innovation absent business savvy.
 
 ClickMedix seems to have embraced that ethos. Its customers—in both developing and developed countries—have bought into the platform because at the end of the day it helps them reach more patients. “It’s not donor driven, it’s demand driven,” LeGrand said. “We think it’s a more sustainable model.”
