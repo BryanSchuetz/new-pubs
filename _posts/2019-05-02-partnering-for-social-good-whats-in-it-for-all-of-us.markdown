@@ -5,6 +5,8 @@ published: false
 tags:
 - global-health
 author: 'Charles Coon '
+thumbnail-image: "/uploads/Devs----Switch--5-7845dc.jpg"
+social-image: "/uploads/Devs----Switch-8-7b0735.jpg"
 publication: Developments
 ---
 
