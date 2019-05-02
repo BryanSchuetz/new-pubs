@@ -28,6 +28,8 @@ The microlab tackled one the key challenges in any PPP—“the right people joi
 
 “Each of four actors has to create value that none was going to create on its own,” said LeGrand, who moderated the session along with Shih, IntraHealth Senior Vice President [Rebecca Kohler](https://www.intrahealth.org/people/rebecca-kohler), and [Malcom Riley](https://globalhealth-staging.globalhealth.duke.edu/people/staff/malcom-riley) of the Duke University Global Health Institute.
 
+![Devs----Switch--5.jpg](/uploads/Devs----Switch--5.jpg)
+
 Microlab participants described the roadblocks they encountered in the course of the thought experiment. One team’s notional investor—a gold mining company—was only interested in funding work in its area of operations. Another team’s host government, apparently known for corruption, insisted on controlling the partnership yet promised accountability. A third team surmised that local culture encouraged large families, raising questions about the efficacy of family planning assistance.
 
 Competing interests and incentives, mistrust, and an unclear grasp of mission marked the exercise. If the other parties in a development enterprise negotiation are arguing over “what‘s in it for me,” what investor would want to dive into that? Riley, who manages health partnerships for Duke, observed: “If a corporation does not like the value proposition, if it cannot add value to the corporate arm, the money will end.”
