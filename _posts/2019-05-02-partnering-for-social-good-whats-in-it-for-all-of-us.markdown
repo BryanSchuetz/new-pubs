@@ -28,7 +28,7 @@ Development funders such as the U.S. Agency for International Development, the W
 
 ## Reconciling “Me” and “We”
 
-The microlab tackled one the key challenges in any PPP—“the right people joining forces.” Its participants were given a hypothetical challenge: cut maternal and infant mortality and malnutrition in a developing country with elevated fertility rates. After splitting into teams, each team designated four parties—an investor, a social entrepreneur, a development organization, and a host government—to come to a meeting of minds on how to scale a solution.
+The microlab tackled one of the key challenges in any PPP—“the right people joining forces.” Its participants were given a hypothetical challenge: cut maternal and infant mortality and malnutrition in a developing country with elevated fertility rates. After splitting into teams, each team designated four parties—an investor, a social entrepreneur, a development organization, and a host government—to come to a meeting of minds on how to scale a solution.
 
 “Each of four actors has to create value that none was going to create on its own,” said LeGrand, who moderated the session along with Shih, IntraHealth Senior Vice President [Rebecca Kohler](https://www.intrahealth.org/people/rebecca-kohler), and [Malcom Riley](https://globalhealth-staging.globalhealth.duke.edu/people/staff/malcom-riley) of the Duke University Global Health Institute.
 
