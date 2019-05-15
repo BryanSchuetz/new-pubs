@@ -1,6 +1,8 @@
 ---
 title: Building a Bridge to the New Era of USAID Assistance
 date: 2019-05-15 18:14:00 -04:00
+author: Meredith Perry
+publication: Developments
 ---
 
 In 2004, and for the first time, more money flowed into developing countries through direct investment, philanthropy, and remittances than through official development assistance. That trend has only accelerated in the years since. 
