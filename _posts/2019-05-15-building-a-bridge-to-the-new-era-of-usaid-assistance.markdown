@@ -9,7 +9,10 @@ author: Meredith Perry
 publication: Developments
 ---
 
-In 2004, and for the first time, more money flowed into developing countries through direct investment, philanthropy, and remittances than through official development assistance. That trend has only accelerated in the years since. 
+In 2004, and for the first time, more money flowed into developing countries through direct investment, philanthropy, and remittances than through official development assistance. That trend has only accelerated in the years since.
+
+
+
 
 Private sources now provide nearly 90 percent of the funding inflow, and while select businesses and communities benefit, hundreds of millions of people still experience poverty, disease, and hunger. 
 
