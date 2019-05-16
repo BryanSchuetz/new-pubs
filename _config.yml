@@ -20,7 +20,7 @@ defaults:
     publication: 
 date: 2016-10-02 17:11:00.000000000 Z
 url: https://dai-global-developments.com
-permalink: "/articles/:title/"
+permalink: "/articles/:title"
 markdown: kramdown
 kramdown:
   input: GFM
@@ -30,7 +30,6 @@ excerpt_separator: |2+
 
 
 email: your-email@domain.com
-baseurl: "/foo"
 exclude:
 - ".gitignore"
 - gulpfile.js
