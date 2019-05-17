@@ -43,7 +43,7 @@ Things were slightly better for Lebanon’s beekeepers in 2012. As in the cherry
 
 LIVCD’s experts decided to assist small-scale beekeepers to improve their yields and incomes; to work with large-scale honey producers to increase exports and purchases from small-scale beekeepers; and to leverage funds for investments in quality-control laboratories, queen bee production facilities, and wax recycling to reduce disease and improve yields. 
 
-EMBED HONEY VIDEO HERE 
+<iframe src="https://player.vimeo.com/video/302907922" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 The team engaged with cooperatives whose members include thousands of small-scale beekeepers scattered throughout Lebanon. LIVCD helped the cooperatives by expanding the number of hives and training members on how to improve production, extraction, processing, and yields. Nearly 1,500 beekeepers participated; 8,000 new beehives were added. Importantly, the project required that a beekeeper invests in one beehive for every three invested in by LIVCD. By 2016, the number of beehives in the country had doubled and the number of beekeepers had surpassed 10,000 (up from 5,545 in 2011, according to the Lebanese Ministry for Agriculture). 
 
