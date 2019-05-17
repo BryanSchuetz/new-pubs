@@ -87,6 +87,7 @@ LIVCD’s successes are likely to be sustainable because Lebanese firms, coopera
 <aside>
 <h2>This is the Title in the Aside</h2>
 <p>This is the paragraph here This is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph here</p>
+<iframe src="https://player.vimeo.com/video/302909308" width="640" height="376" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </aside>
 
 LIVCD improved the lives of thousands of Lebanese by means of hundreds of activities that helped upgrade nine value chains, plus rural tourism. Decades of economic disruptions have stifled the growth of Lebanon’s rural value chains, but the nation’s abundant natural resources, ecological diversity, proximity to lucrative markets, rich cultural heritage, and educated workforce offer tremendous opportunity for rural economic growth. By investing in key value chains, the Lebanese agricultural sector and rural economy can meet expanding demand in domestic and export markets, and thereby create economic and social stability in rural areas.
