@@ -462,7 +462,7 @@ iframe{
   margin: 2rem 0;
   width: 100%;
 }
-.vid iframe{
+iframe.vid{
   @include responsive(tiny-screens){
     height: 9rem;
   }
