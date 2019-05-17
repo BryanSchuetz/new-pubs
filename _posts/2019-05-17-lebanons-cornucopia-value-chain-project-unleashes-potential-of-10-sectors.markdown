@@ -84,6 +84,11 @@ Among the results of LIVCD’s assistance and activities in the olive oil sector
 
 LIVCD’s successes are likely to be sustainable because Lebanese firms, cooperatives, and farms took ownership of the upgrading efforts. LIVCD’s approach—entirely private sector-driven—began by building critical partnerships and playing a facilitating role rather than inserting the project into the value chains. From day one, the project engaged value chain lead partners as the key voices for mobilizing stakeholders in support of upgrading efforts. And importantly, LIVCD maintained a cost-sharing philosophy whereby prospective partners contributed at least 25 to 70 percent of the investments in question, often exceeding 50 percent.
 
+<aside>
+<h2>This is the Title in the Aside</h2>
+<p>This is the paragraph here This is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph here</p>
+</aside>
+
 LIVCD improved the lives of thousands of Lebanese by means of hundreds of activities that helped upgrade nine value chains, plus rural tourism. Decades of economic disruptions have stifled the growth of Lebanon’s rural value chains, but the nation’s abundant natural resources, ecological diversity, proximity to lucrative markets, rich cultural heritage, and educated workforce offer tremendous opportunity for rural economic growth. By investing in key value chains, the Lebanese agricultural sector and rural economy can meet expanding demand in domestic and export markets, and thereby create economic and social stability in rural areas.
 
 LIVCD has certainly played a catalytic role in that process.
