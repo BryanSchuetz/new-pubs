@@ -85,8 +85,17 @@ Among the results of LIVCD’s assistance and activities in the olive oil sector
 LIVCD’s successes are likely to be sustainable because Lebanese firms, cooperatives, and farms took ownership of the upgrading efforts. LIVCD’s approach—entirely private sector-driven—began by building critical partnerships and playing a facilitating role rather than inserting the project into the value chains. From day one, the project engaged value chain lead partners as the key voices for mobilizing stakeholders in support of upgrading efforts. And importantly, LIVCD maintained a cost-sharing philosophy whereby prospective partners contributed at least 25 to 70 percent of the investments in question, often exceeding 50 percent.
 
 <aside>
-<h2>This is the Title in the Aside</h2>
-<p>This is the paragraph here This is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph hereThis is the paragraph here</p>
+<h2>The Lure of Rural Lebanon</h2>
+<p>Considering how famous Lebanon is for its cuisine, promoting it as a “foodie” destination isn’t far-fetched. The other symbol of Lebanon—the serene cedar tree that appears on the national flag—is another point of pride and a natural fit to promote the country’s natural beauty to travelers hungry for a taste of the outdoors. 
+
+The LIVCD team built upon previous USAID investments in the Lebanon Mountain Trail, Dhiaffee Network, and smaller rural tourism projects. Working with the Ministry of Tourism and various municipalities and businesses, the team improved and expanded rural tourism offerings, designed marketing campaigns, connected service providers to one another so they can offer all-inclusive tour packages, and trained providers in customer service.
+
+Among the results of LIVCD’s assistance and activities in the rural tourism sector:
+
+* 498 rural guides and other value chain actors trained to apply improved practices in eco-guiding and hospitality management.
+* 171 MSMEs benefitted from business linkages established by LIVCD.
+* 859 jobs were created or supported.
+* 1,491 individuals trained in marketing, quality standards, guiding and tourism management, and eco-guiding. </p>
 <iframe src="https://player.vimeo.com/video/302909308" width="640" height="376" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </aside>
 
