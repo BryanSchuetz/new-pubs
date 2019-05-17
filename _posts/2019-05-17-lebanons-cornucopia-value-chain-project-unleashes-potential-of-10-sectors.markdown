@@ -86,11 +86,11 @@ LIVCD’s successes are likely to be sustainable because Lebanese firms, coopera
 
 <aside>
 <h2>The Lure of Rural Lebanon</h2>
-<p>Considering how famous Lebanon is for its cuisine, promoting it as a “foodie” destination isn’t far-fetched. The other symbol of Lebanon—the serene cedar tree that appears on the national flag—is another point of pride and a natural fit to promote the country’s natural beauty to travelers hungry for a taste of the outdoors. 
+<p>Considering how famous Lebanon is for its cuisine, promoting it as a “foodie” destination isn’t far-fetched. The other symbol of Lebanon—the serene cedar tree that appears on the national flag—is another point of pride and a natural fit to promote the country’s natural beauty to travelers hungry for a taste of the outdoors.</p>
 
-The LIVCD team built upon previous USAID investments in the Lebanon Mountain Trail, Dhiaffee Network, and smaller rural tourism projects. Working with the Ministry of Tourism and various municipalities and businesses, the team improved and expanded rural tourism offerings, designed marketing campaigns, connected service providers to one another so they can offer all-inclusive tour packages, and trained providers in customer service.
+<p>The LIVCD team built upon previous USAID investments in the Lebanon Mountain Trail, Dhiaffee Network, and smaller rural tourism projects. Working with the Ministry of Tourism and various municipalities and businesses, the team improved and expanded rural tourism offerings, designed marketing campaigns, connected service providers to one another so they can offer all-inclusive tour packages, and trained providers in customer service.</p>
 
-Among the results of LIVCD’s assistance and activities in the rural tourism sector:
+<p>Among the results of LIVCD’s assistance and activities in the rural tourism sector:</p>
 
 <ul>
 <li>498 rural guides and other value chain actors trained to apply improved practices in eco-guiding and hospitality management.</li>
