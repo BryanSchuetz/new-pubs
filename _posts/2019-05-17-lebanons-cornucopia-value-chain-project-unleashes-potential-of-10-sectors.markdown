@@ -63,7 +63,7 @@ If the olive tree is heaven’s richest gift, [as Thomas Jefferson said](https:/
 
 The LIVCD team determined to lower production costs, improve milling and storing techniques, and raise the bar for marketing and branding—thereby enabling the large number of rural producers to earn additional income and keep Lebanon` competitive in the tight global olive oil market. LIVCD introduced mechanical harvesting, reducing costs by 50 percent; invested in modern mills, extending services to 500 farmers (up from 200) and increasing revenue by 80 percent for one cooperative; and upgraded brand labelling while helping to launch new olive oil lines. 
 
-EMBED OLIVE OIL VIDEO HERE 
+<iframe src="https://player.vimeo.com/video/302909308" width="640" height="376" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Overall, LIVCD-assisted cooperatives, companies, and individual farmers have transformed the olive oil sector from one that was utilizing traditional and inefficient techniques to a modern value chain that produces a much higher percentage of high-quality olive oil at reasonable prices. The result is improved competitiveness in both domestic and international markets.
 
