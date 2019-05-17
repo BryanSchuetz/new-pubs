@@ -28,9 +28,7 @@ Armed with this assessment, DAI began work on the [Lebanon Industry Value Chain 
 In 2012, Lebanon’s cherry value chain was in trouble. Consisting of roughly 5,000 serious farmers and another 5,000 hobbyists, the sector generated a reasonably good product—but there wasn’t much of it to export. In addition, the orchards were old and often suffering from root rot and other diseases. Even if farmers were to increase yields, there were too few cold storage facilities to keep the product chilled and ready for export. Good cherries have about a three-day lifespan if the cold chain is not properly maintained.
 
 LIVCD set out to help producers and aggregators become a more reliable source of high-quality cherries in both domestic and international markets. A fundamental element of this vision was to introduce new varieties, address the root rot problem and the other diseases, improve post-harvest infrastructure and connect aggregators that have access to modern cooling and storage facilities with producers adopting the technologies and techniques essential to achieve higher yields and better cherries.
-
 <iframe src="https://player.vimeo.com/video/302907014" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 The team worked with farmers and aggregators to rehabilitate orchards, improve production techniques, improve post-harvest infrastructure, and provide training in Good Agricultural Practices. LIVCD provided direct technical assistance to 200 farmers who collectively cultivated more than 300 hectares. From 2016 to 2025, LIVCD estimates, the farmers who attended the trainings and improved their practices will generate cumulative discounted benefits of $2.2 million—reflecting an increase in the price of their cherries due to improved quality, enhanced shelf life, and reduced production costs. For every $1 LIVCD spent on technical assistance, the farmers gained $11.51 due to improved practices.
 
 The team also worked with five owners of post-harvest facilities, which co-invested with LIVCD on all the activities.
@@ -53,9 +51,7 @@ Among the results of LIVCD’s assistance and activities in the cherry sector:
 Things were slightly better for Lebanon’s beekeepers in 2012. As in the cherry sector, the volume of honey produced was low. But the popularity of Lebanese honey meant that exports to the Gulf countries and the United States were on the rise. Previous donor-funded quality-testing facilities had led to consumer confidence in the sector.
 
 LIVCD’s experts decided to assist small-scale beekeepers to improve their yields and incomes; to work with large-scale honey producers to increase exports and purchases from small-scale beekeepers; and to leverage funds for investments in quality-control laboratories, queen bee production facilities, and wax recycling to reduce disease and improve yields.
-
 <iframe src="https://player.vimeo.com/video/302907922" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 The team engaged with cooperatives whose members include thousands of small-scale beekeepers scattered throughout Lebanon. LIVCD helped the cooperatives by expanding the number of hives and training members on how to improve production, extraction, processing, and yields. Nearly 1,500 beekeepers participated; 8,000 new beehives were added. Importantly, the project required that a beekeeper invests in one beehive for every three invested in by LIVCD. By 2016, the number of beehives in the country had doubled and the number of beekeepers had surpassed 10,000 (up from 5,545 in 2011, according to the Lebanese Ministry for Agriculture).
 
 LIVCD also assisted honey exporters with improved branding and marketing—one exporter was able to sign a contract with grocery retailer Carrefour in the Gulf—and teamed up with the Syndicate of Lebanese Dieticians and private sector firms on a national campaign touting the benefits of honey.
@@ -101,9 +97,7 @@ Among the results of LIVCD’s assistance and activities in the rural tourism se
 * 498 rural guides and other value chain actors trained to apply improved practices in eco-guiding and hospitality management.
 * 171 MSMEs benefitted from business linkages established by LIVCD.
 * 859 jobs were created or supported.
-* 1,491 individuals trained in marketing, quality standards, guiding and tourism management, and eco-guiding. </p>
-<iframe src="https://player.vimeo.com/video/302911693" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</aside>
+* 1,491 individuals trained in marketing, quality standards, guiding and tourism management, and eco-guiding. </p><iframe src="https://player.vimeo.com/video/302911693" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></aside>
 
 LIVCD improved the lives of thousands of Lebanese by means of hundreds of activities that helped upgrade nine value chains, plus rural tourism. Decades of economic disruptions have stifled the growth of Lebanon’s rural value chains, but the nation’s abundant natural resources, ecological diversity, proximity to lucrative markets, rich cultural heritage, and educated workforce offer tremendous opportunity for rural economic growth. By investing in key value chains, the Lebanese agricultural sector and rural economy can meet expanding demand in domestic and export markets, and thereby create economic and social stability in rural areas.
 
