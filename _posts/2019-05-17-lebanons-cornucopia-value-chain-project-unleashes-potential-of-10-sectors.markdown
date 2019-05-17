@@ -69,9 +69,7 @@ Among the results of LIVCD’s assistance and activities in the honey sector:
 If the olive tree is heaven’s richest gift, [as Thomas Jefferson said](https://www.oliveoilsource.com/article/thomas-jefferson-and-olive-oil-our-first-foodie-president), then Lebanon is rich indeed. Olive trees occupy approximately 20 percent of agricultural land. In 2012, however, most orchards were small and production standards traditional. Productions costs, accordingly, were high, handicapping the sector’s growth. Lebanon exported 3,200 tons of olive oil per year, mostly to the United States and the Gulf. Yet despite its export savvy and the fact that olive oil accounts for 7 percent of Lebanon’s agricultural GDP, the country still relied on imports of cheap oil, especially from Syria, for its domestic consumption.
 
 The LIVCD team determined to lower production costs, improve milling and storing techniques, and raise the bar for marketing and branding—thereby enabling the large number of rural producers to earn additional income and keep Lebanon\` competitive in the tight global olive oil market. LIVCD introduced mechanical harvesting, reducing costs by 50 percent; invested in modern mills, extending services to 500 farmers (up from 200) and increasing revenue by 80 percent for one cooperative; and upgraded brand labelling while helping to launch new olive oil lines.
-
 <iframe src="https://player.vimeo.com/video/302909308" width="640" height="376" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 Overall, LIVCD-assisted cooperatives, companies, and individual farmers have transformed the olive oil sector from one that was utilizing traditional and inefficient techniques to a modern value chain that produces a much higher percentage of high-quality olive oil at reasonable prices. The result is improved competitiveness in both domestic and international markets.
 
 Among the results of LIVCD’s assistance and activities in the olive oil sector:
@@ -97,7 +95,8 @@ Among the results of LIVCD’s assistance and activities in the rural tourism se
 * 498 rural guides and other value chain actors trained to apply improved practices in eco-guiding and hospitality management.
 * 171 MSMEs benefitted from business linkages established by LIVCD.
 * 859 jobs were created or supported.
-* 1,491 individuals trained in marketing, quality standards, guiding and tourism management, and eco-guiding. </p><iframe src="https://player.vimeo.com/video/302911693" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></aside>
+* 1,491 individuals trained in marketing, quality standards, guiding and tourism management, and eco-guiding. </p>
+<iframe src="https://player.vimeo.com/video/302911693" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></aside>
 
 LIVCD improved the lives of thousands of Lebanese by means of hundreds of activities that helped upgrade nine value chains, plus rural tourism. Decades of economic disruptions have stifled the growth of Lebanon’s rural value chains, but the nation’s abundant natural resources, ecological diversity, proximity to lucrative markets, rich cultural heritage, and educated workforce offer tremendous opportunity for rural economic growth. By investing in key value chains, the Lebanese agricultural sector and rural economy can meet expanding demand in domestic and export markets, and thereby create economic and social stability in rural areas.
 
