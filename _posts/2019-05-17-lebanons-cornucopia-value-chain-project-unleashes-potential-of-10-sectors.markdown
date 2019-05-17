@@ -102,4 +102,4 @@ LIVCD improved the lives of thousands of Lebanese by means of hundreds of activi
 
 LIVCD has certainly played a catalytic role in that process.
 
-*[Nasser Lama](https://www.linkedin.com/in/nasser-lama-5b1b9310/)] was Chief of Party of LIVCD and [Astrid Oksnevad](https://www.linkedin.com/in/astrid-%C3%B8ksnevad-21381027/) was Project Manager.*
+*[Nasser Lama](https://www.linkedin.com/in/nasser-lama-5b1b9310/) was Chief of Party of LIVCD and [Astrid Oksnevad](https://www.linkedin.com/in/astrid-%C3%B8ksnevad-21381027/) was Project Manager.*
