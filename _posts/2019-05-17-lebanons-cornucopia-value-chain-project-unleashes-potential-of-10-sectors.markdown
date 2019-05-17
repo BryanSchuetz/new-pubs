@@ -18,7 +18,7 @@ In 2012, Lebanon’s cherry value chain was in trouble. Consisting of roughly 5,
 
 LIVCD set out to help producers and aggregators become a more reliable source of high-quality cherries in both domestic and international markets. A fundamental element of this vision was to introduce new varieties, address the root rot problem and the other diseases, improve post-harvest infrastructure and connect aggregators that have access to modern cooling and storage facilities with producers adopting the technologies and techniques essential to achieve higher yields and better cherries.   
 
-EMBED CHERRY VIDEO HERE 
+<iframe src="https://player.vimeo.com/video/302907014" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 
 The team worked with farmers and aggregators to rehabilitate orchards, improve production techniques, improve post-harvest infrastructure, and provide training in Good Agricultural Practices. LIVCD provided direct technical assistance to 200 farmers who collectively cultivated more than 300 hectares. From 2016 to 2025, LIVCD estimates, the farmers who attended the trainings and improved their practices will generate cumulative discounted benefits of $2.2 million—reflecting an increase in the price of their cherries due to improved quality, enhanced shelf life, and reduced production costs. For every $1 LIVCD spent on technical assistance, the farmers gained $11.51 due to improved practices. 
 
