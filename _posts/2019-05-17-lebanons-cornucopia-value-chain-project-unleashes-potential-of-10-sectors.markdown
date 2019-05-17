@@ -3,11 +3,11 @@ title: 'Lebanon’s Cornucopia: Value Chain Project Unleashes Potential of 10 Se
 date: 2019-05-17 09:28:00 -04:00
 tags:
 - economic-growth
-- USAID
 - value chain
 - tourism
 - agriculture
-- Lebanon
+- usaid
+- lebanon
 author: Nasser Lama and Astrid Oksnevad
 thumbnail-image: "/uploads/LIVCDtourism-fd42b7.jpg"
 social-image: "/uploads/LIVCDtourism.jpg"
