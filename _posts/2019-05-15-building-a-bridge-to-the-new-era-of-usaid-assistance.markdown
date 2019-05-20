@@ -6,6 +6,8 @@ tags:
 - innovation
 - DAI
 author: Meredith Perry
+thumbnail-image: "/uploads/Evolution-of-capital-flows-to-developing-countries.jpg"
+social-image: "/uploads/Evolution-of-capital-flows-to-developing-countries.jpg"
 publication: Developments
 ---
 
