@@ -38,6 +38,7 @@ On the talent front, diversity is a particularly pressing issue for younger peop
 ## Diversity and the Global Development Company
 
 Compelling as it is, the consensus that cultural diversity makes for good business is not what motivates us to be global citizens. What motivates us is the recognition that in order to be good development professionals, we absolutely have to understand, respect, and engage with the diverse cultures in which we work.
+
 We’ve always known this. It’s no accident that many of DAI’s most storied development staff and our long-time CEO, Tony Barclay, were cultural anthropologists by training. The fundamental importance of cultural understanding was once again brought home by the [Next-Generation Development Professional](http://reports.devex.com/nextgenpro/) survey we conducted last year with USAID and Devex.
 
 We asked more than 900 development professionals about the soft skills they must have to succeed in their field, and 73 percent of them said they need a high proficiency in “cross-cultural sensitivity.” That high proficiency rating is second only to “flexibility/adaptability” and “ability to work in teams” among the 17 soft skills we tested.
