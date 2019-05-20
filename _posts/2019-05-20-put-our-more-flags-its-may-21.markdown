@@ -2,6 +2,8 @@
 title: Put our More Flags, It's May 21
 date: 2019-05-20 12:06:00 -04:00
 published: false
+tags:
+- global-development
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
 thumbnail-image: "/uploads/slide1.jpg"
 social-image: "/uploads/slide1.jpg"
