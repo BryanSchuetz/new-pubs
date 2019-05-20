@@ -6,8 +6,8 @@ tags:
 - global-development
 - dai
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
-thumbnail-image: "/uploads/slide1.jpg"
-social-image: "/uploads/slide1.jpg"
+thumbnail-image: "/uploads/slide1%5B1%5D.jpg"
+social-image: "/uploads/slide1%5B1%5D.jpg"
 publication: Developments
 ---
 
@@ -42,7 +42,7 @@ We’ve always known this. It’s no accident that many of DAI’s most storied 
 
 We asked more than 900 development professionals about the soft skills they must have to succeed in their field, and 73 percent of them said they need a high proficiency in “cross-cultural sensitivity.” That high proficiency rating is second only to “flexibility/adaptability” and “ability to work in teams” among the 17 soft skills we tested.
 
-![cross cultural sesitivity](/uploads/slide1.jpg)
+![Cultural Diversity](/uploads/slide1%5B1%5D.jpg)
 
 Issues of culture are also substantively tied to the development challenges we face today. The UN points out, for example, that many of the conflicts snarling development around the world have a cultural dimension. Much of our work in the [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states), accordingly, involves bringing otherwise segregated groups together, so that interaction can break down silos of ignorance and distrust; or sponsoring the agents of reconciliation; or equipping culturally marginalized people with the means to advocate in their own interests. 
 
@@ -54,12 +54,11 @@ Nurturing cultural diversity is also important to economic growth. The World Ban
 
 Indeed there’s a whole literature on the economic benefits of cultural diversity. Two European economists who [reviewed that literature](https://voxeu.org/article/diversity-and-economic-development), focusing on the effects of immigration over 50 years, conclude that, “Cultural heterogeneity appears to have had a positive impact on economic development, and the positive effect of diversity seems to have been stronger in developing countries.”
 
-The caveat here is that we need to be alert to cosmopolitanism sneering at provincialism. We should be able to celebrate the productivity of vibrant, heterogeneous cities without denigrating the less diverse cultures of rural and isolated places.
-
-![Strength in Diversity](/uploads/slide2.jpg)	
+The caveat here is that we need to be alert to cosmopolitanism sneering at provincialism. We should be able to celebrate the productivity of vibrant, heterogeneous cities without denigrating the less diverse cultures of rural and isolated places.	
 
 For DAI, the key is to be welcoming to all outposts of the human family, in our development work and in our operations as a company. We can certainly do better, and I’m determined that we will. Our commitment to global citizenship is one of the reasons we’re opening more offices in more places around the world—why, over and above the 90 or so countries where we have a project presence, we now have full-time operations and local staff in Nigeria and Pakistan and Palestine and India and Oman, in addition to the United States, the United Kingdom, and Belgium. 
 
+![Strength in Diversity](/uploads/slide2.jpg)
 ![Corporate Locations](/uploads/slide3.jpg)
 
 It’s why we place a growing emphasis on talent mobility and secondments across geographies and business units. It’s why, to the extent possible under the securities law governing their respective countries, we have opened ownership options to all global corporate employees. 
