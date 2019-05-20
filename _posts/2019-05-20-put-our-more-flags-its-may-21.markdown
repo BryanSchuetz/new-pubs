@@ -3,6 +3,9 @@ title: Put our More Flags, It's May 21
 date: 2019-05-20 12:06:00 -04:00
 published: false
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
+thumbnail-image: "/uploads/slide1.jpg"
+social-image: "/uploads/slide1.jpg"
+publication: Developments
 ---
 
 Every year on this day, May 21, the United Nations celebrates what it calls the [World Day for Cultural Diversity for Dialogue and Development](https://www.un.org/en/events/culturaldiversityday/index.shtml).
