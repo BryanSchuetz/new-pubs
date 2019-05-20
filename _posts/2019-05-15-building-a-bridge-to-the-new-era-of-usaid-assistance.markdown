@@ -6,8 +6,6 @@ tags:
 - innovation
 - DAI
 author: Meredith Perry
-thumbnail-image: "/uploads/Evolution-of-capital-flows-to-developing-countries.jpg"
-social-image: "/uploads/Evolution-of-capital-flows-to-developing-countries.jpg"
 publication: Developments
 ---
 
@@ -29,6 +27,8 @@ Along with the launch of the Lab, USAID set up the CDI contract to support this 
 * Innovation Imperatives: The agency’s [operational policy](https://www.usaid.gov/sites/default/files/documents/1870/201.pdf) now requires that program designers and implementers leverage science, technology, and innovation.
 
 These new ways of designing and implementing USAID assistance were informed by—and evolved alongside—CDI’s experiences.
+
+[CDIgraphic.CC0520.pdf](/uploads/CDIgraphic.CC0520.pdf)
 
 ## Landing 50 Planes on 50 Runways
 
