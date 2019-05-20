@@ -29,9 +29,7 @@ Part of me would like to leave it there. But let me flesh out just a little why 
 
 ## The Standard Business Case
 
-First, to put it in the crassest terms possible, enterprises that embrace cultural diversity (indeed diversity of all kinds) do better as businesses. 
-
-In consecutive and increasingly well-sourced studies—[Why Diversity Matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) (2014) and [Delivering Through Diversity](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity) (2017)—McKinsey found that companies scoring well on racial and ethnic diversity in their senior leadership teams tend to outperform their peers. “For ethnic and cultural diversity,” they write, “the 2014 finding was a 35 percent likelihood of outperformance, comparable to the 2017 finding of a 33 percent likelihood of outperformance.”
+First, enterprises that embrace cultural diversity (indeed diversity of all kinds) do better as businesses. In consecutive and increasingly well-sourced studies—[Why Diversity Matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) (2014) and [Delivering Through Diversity](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity) (2017)—McKinsey found that companies scoring well on racial and ethnic diversity in their senior leadership teams tend to outperform their peers. “For ethnic and cultural diversity,” they write, “the 2014 finding was a 35 percent likelihood of outperformance, comparable to the 2017 finding of a 33 percent likelihood of outperformance.”
 
 The authors theorize that more inclusive companies are better positioned to attract talent, understand and serve a contemporary customer base, engage employees, and improve their decision making.
 
