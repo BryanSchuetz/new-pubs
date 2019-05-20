@@ -13,9 +13,9 @@ publication: Developments
 
 Every year on this day, May 21, the United Nations celebrates what it calls the [World Day for Cultural Diversity for Dialogue and Development](https://www.un.org/en/events/culturaldiversityday/index.shtml).
 
-
-
 “Cultural diversity,” says the UN, “is a driving force of development, not only with respect to economic growth, but also as a means of leading a more fulfilling intellectual, emotional, moral and spiritual life.”
+
+
 
 At DAI, we have never made much of this day. Perhaps we have been complacent. After all, we tell ourselves, we already uphold “global citizenship” as one of our four [cardinal values](https://www.dai.com/who-we-are/mission-and-values), alongside integrity, responsibility, and excellence.
  
