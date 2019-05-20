@@ -6,8 +6,8 @@ tags:
 - global-development
 - dai
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
-thumbnail-image: "/uploads/slide1%5B1%5D.jpg"
-social-image: "/uploads/slide1%5B1%5D.jpg"
+thumbnail-image: "/uploads/slide1%5B2%5D.jpg"
+social-image: "/uploads/slide1%5B2%5D.jpg"
 publication: Developments
 ---
 
@@ -43,7 +43,7 @@ We’ve always known this. It’s no accident that many of DAI’s most storied 
 
 We asked more than 900 development professionals about the soft skills they must have to succeed in their field, and 73 percent of them said they need a high proficiency in “cross-cultural sensitivity.” That high proficiency rating is second only to “flexibility/adaptability” and “ability to work in teams” among the 17 soft skills we tested.
 
-![Cultural Diversity](/uploads/slide1%5B1%5D.jpg)
+![slide1[2].jpg](/uploads/slide1%5B2%5D.jpg)
 
 Issues of culture are also substantively tied to the development challenges we face today. The UN points out, for example, that many of the conflicts snarling development around the world have a cultural dimension. Much of our work in the [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states), accordingly, involves bringing otherwise segregated groups together, so that interaction can break down silos of ignorance and distrust; or sponsoring the agents of reconciliation; or equipping culturally marginalized people with the means to advocate in their own interests. 
 
