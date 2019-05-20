@@ -28,7 +28,7 @@ Along with the launch of the Lab, USAID set up the CDI contract to support this 
 
 These new ways of designing and implementing USAID assistance were informed by—and evolved alongside—CDI’s experiences.
 
-![Devs----CDI-graphic.jpg](/uploads/Devs----CDI-graphic.jpg)
+![Devs----CDI-graphic-new.jpg](/uploads/Devs----CDI-graphic-new.jpg)
 
 ## Landing 50 Planes on 50 Runways
 
