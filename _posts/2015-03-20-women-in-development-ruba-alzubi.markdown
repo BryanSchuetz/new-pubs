@@ -3,11 +3,13 @@ title: 'Women in Development: Ruba Al’Zubi'
 date: 2015-03-20 13:01:00 -04:00
 tags:
 - dai
+author: Chuck Coon
+thumbnail-image: "/uploads/Devs-Ruba-1.jpg"
+social-image: "/uploads/Devs-Ruba-1.jpg"
 publication: Developments
 issue: 
 author-bio: Ruba Al’Zubi is the Clean Technology Sector Director for DAI at the USAID
   [Jordan Competitiveness Program](http://dai.com/our-work/projects/jordan%E2%80%94competitiveness-program-jcp).
-author: 
 featured?: 
 assets:
 - path: "/uploads/Devs-Ruba-1.jpg"
@@ -15,8 +17,6 @@ assets:
 - path: "/uploads/Devs-Ruba-3.jpg"
   name: Devs-Ruba-3
   author?: 'yes'
-thumbnail-image: "/uploads/Devs-Ruba-1.jpg"
-social-image: "/uploads/Devs-Ruba-1.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*
