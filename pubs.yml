@@ -6,7 +6,7 @@
 {% endcapture %}
 {% for post in site.posts | limit:30 %}
 - title: |
-    {{ post.title | strip_html | strip }}
+    {{ post.title | strip_html | strip_newlines }}
   pub: "{{ post.publication }}"
   date: {{ post.date | date: "%F" }}
   link: "https://dai-global-developments.com{{ post.url }}?utm_source=daidotcom"
