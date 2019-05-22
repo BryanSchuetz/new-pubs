@@ -57,5 +57,6 @@
         <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
       {% endif %}
     {% endfor %}
+    
   {% endunless %}
 </ul>
