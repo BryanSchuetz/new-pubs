@@ -3,11 +3,13 @@ title: 'Women in Development: Alia Afshar-Gandhi'
 date: 2015-03-19 15:19:00 -04:00
 tags:
 - dai
+author: Chuck Coon
+thumbnail-image: "/uploads/Devs-Alia-1.jpg"
+social-image: "/uploads/Devs-Alia-1.jpg"
 publication: Developments
 issue: 
 author-bio: "[Alia-Afshar Gandhi](http://dai.com/who-we-are/our-team/alia-afshar-gandhi)
   manages the Jordan Competitiveness Program. She joined DAI in March 2006."
-author: 
 featured?: 
 assets:
 - path: "/uploads/Devs-Alia-1.jpg"
@@ -16,8 +18,6 @@ assets:
 - path: "/uploads/Devs-Alia-4-new.jpg"
   name: Devs-Alia-4-new
   author?: 'yes'
-thumbnail-image: "/uploads/Devs-Alia-1.jpg"
-social-image: "/uploads/Devs-Alia-1.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*

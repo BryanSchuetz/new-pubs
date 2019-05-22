@@ -6,11 +6,12 @@ tags:
 - economic-growth
 - environment-and-energy
 - governance
-- dai
+author: Adam Pierzchala
+thumbnail-image: "/uploads/Estonia-1.jpg"
+social-image: "/uploads/Estonia-1.jpg"
 publication: Developments
 issue: Summer 2018
 author-bio: Adam Pierzchala is Director of EC Framework Contracts at DAI.
-author: Adam Pierzchala
 featured?: 
 assets:
 - path: "/uploads/Estonia.jpg"
@@ -19,8 +20,6 @@ assets:
   name: Estonia-1
 - path: "/uploads/AdamP copy.jpg"
   author?: 'Yes'
-thumbnail-image: "/uploads/Estonia-1.jpg"
-social-image: "/uploads/Estonia-1.jpg"
 ---
 
 We are proud to announce that DAI has once again been named one of the main implementing partners for the European Commission (EC) 2018–2022 Frameworks contracts for international development assistance. 
