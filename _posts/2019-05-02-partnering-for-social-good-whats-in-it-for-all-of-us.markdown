@@ -59,3 +59,5 @@ DAI Global Health and ClickMedix first connected in 2016 through the [Innovation
 In gathering together creative people from across disciplines, SwitchPoint aspires to help them turn their big concepts into workable models. This year, that process included frank talk on cost vs. benefit and the laws of supply and demand. “We have to be cool-headed, even cold-hearted about innovation and resist being blinded by wonderful ideas,” cautioned [Dai Hozumi](https://www.intrahealth.org/people/dai-hozumi), IntraHealth’s Chief Technical Officer, in a well-received presentation on the perils of innovation absent business savvy.
 
 ClickMedix seems to have embraced that ethos. Its customers—in both developing and developed countries—have bought into the platform because at the end of the day it helps them reach more patients. “It’s not donor driven, it’s demand driven,” LeGrand said. “We think it’s a more sustainable model.”
+
+*Charles Coon is a principal communications writer and editor of DAI's Developments newsletter.* 
