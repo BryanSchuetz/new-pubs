@@ -1,11 +1,12 @@
 ---
 title: Building a Bridge to the New Era of USAID Assistance
 date: 2019-05-15 18:14:00 -04:00
-published: false
 tags:
 - innovation
 - DAI
 author: Meredith Perry
+thumbnail-image: "/uploads/CDIgraphic.CC.0523-d04af9.pdf"
+social-image: "/uploads/CDIgraphic.CC.0523-c98eb9.pdf"
 publication: Developments
 ---
 
@@ -18,7 +19,7 @@ Private sources now provide nearly 90 percent of the funding inflow, and while s
 
 This financial dynamic did not escape the U.S. Agency for International Development (USAID). In 2014, USAID launched the U.S. Global Development Lab (the Lab) and, within it, the Center for Development Innovation (CDI), in an effort to harness and incentivize new partners, talent, and networks to address development challenges, while at the same time sourcing and scaling innovations with the potential to improve millions of lives. 
 
-![Evolution-of-capital-flows-to-developing-countries.jpg](/uploads/Evolution-of-capital-flows-to-developing-countries.jpg)
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="mxrq1g4n-the-evolution-of-capital-flows-to-developing-countries" data-w="800" data-h="593" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ></p>
 
 Along with the launch of the Lab, USAID set up the CDI contract to support this mission. [Implemented by DAI](https://www.dai.com/our-work/projects/worldwide-center-development-innovation-professional-management-services), the recently concluded project delivered on 50 unique tasks for USAID bureaus, missions, and teams seeking to experiment with innovative methods or accelerate promising innovations. In doing so, CDI engaged hundreds of outside individuals and firms. By investing in CDI’s services in co-creation, acceleration, and more—to the tune of $24.5 million in all—USAID operating units embraced an innovation-driven approach that is increasingly the new norm, characterized by:
 
@@ -28,7 +29,7 @@ Along with the launch of the Lab, USAID set up the CDI contract to support this 
 
 These new ways of designing and implementing USAID assistance were informed by—and evolved alongside—CDI’s experiences.
 
-[CDIgraphic.CC.0523.pdf](/uploads/CDIgraphic.CC.0523.pdf)
+![CDIgraphic.CC.0523.jpg](/uploads/CDIgraphic.CC.0523.jpg)
 
 ## Landing 50 Planes on 50 Runways
 
