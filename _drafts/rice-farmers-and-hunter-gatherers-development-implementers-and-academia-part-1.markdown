@@ -12,7 +12,7 @@ thumbnail: "/uploads/Untitled%20drawing%20(3).jpg"
 
 Walk through most any office in the international development community and you’re likely to see bookshelves straining to hold the weight of insightful, data-rich academic research. But that research rarely finds application in program implementation. Why not? Academics and implementers share the same goals, so what disconnection keeps research from finding its way to application?
 
-It is a question of culture. Donors and their implementing partners are rice farmers, and academics are hunter-gatherers. The two are not naturally wired to work well together.
+It is a question of culture—donors and their implementing partners are rice farmers, and academics are hunter-gatherers. The two are not naturally wired to work well together.
 
 ![Untitled drawing (3).jpg](/uploads/Untitled%20drawing%20(3).jpg)
 
