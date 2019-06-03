@@ -32,7 +32,7 @@ Improved branding and marketing, which Burquin-based Canaan Fair Trade, a trader
 
 INFOGRAPHIC HERE — describing the target sectors and their respective increases in sales, exports, jobs, and investment. 
 
-A Critical Mass for Commerce
+## A Critical Mass for Commerce
 
 Most businesses in Palestine are family-owned small and medium-sized enterprises, not exposed to competition, constrained in the movement of people and goods, and operating in isolation from regional and global markets. For Palestine’s economy, this environment translates into uncertainty and increased investment risk, greatly limiting many firms.
 
@@ -40,17 +40,18 @@ Compete’s robust communications activity strategy successfully informed busine
 
 Breakout: BABY CUCUMBERS COME OF AGE
 When Israeli factories’ demand for cucumbers increased, Kufr Dan Cooperative seized the opportunity by introducing a breed of baby cucumber best used for making pickles. Established in 2011 in Jenin, West Bank, Kufr Dan specializes in producing and aggregating cucumbers and other fresh produce from local farm clusters. Compete supported Kufr Dan’s investment in a sorting line, cooling rooms, and netting system that scaled up Kufr Dan’s operations, while assisting supplier farmers to be more productive. Kufr Dan increased sales by $3.6 million and exports by $3.2 million while investing $83,600 and adding more than 100 employees.
+
 All told, Compete assisted 429 baby cucumber value-chain actors, increasing sector sales by $10.47 million and exports by $9.22 million while creating 932 jobs. Additionally, businesses in the baby cucumber value chain invested more than $1 million, including for new technology.
 
-Entrepreneurs Step Up
+## Entrepreneurs Step Up
 
 Compete emphasized assistance that strengthened Palestine’s business ecosystem, including technical business solutions, new technology and improved inputs, and access to finance. In turn, these assistance packages ignited creative thinking that scaled up businesses, created new products and services, and offset risk. For example, Compete supported Gaza’s Kuhail Fish Farm through an in-kind grant for lab equipment and infrastructure, including solar power, to develop a fish hatchery for fingerlings in high demand by Gaza’s fish farmers. Kuhail was able to increase sales by $276,000, create two new full-time jobs, and invest $223,000 in the business.
 
-Breakout: POWERING GAZA’S FISH SECTOR
+<aside>POWERING GAZA’S FISH SECTOR
 
-Gaza’s fish farming sector lacked the consistent electricity needed to grow fish and locally produced fingerlings. The project supported four fish farms in Gaza to obtain solar power and ensure a reliable energy supply crucial to the needs of these sensitive operations. To ensure a supply of local fingerlings—versus imported—Compete supported creation of two hatchling lab farms, where 400,000 fingerlings are produced annually. Gaza’s fish sector generated $7.5 million in new sales and $800,000 in exports, creating 39 jobs and leveraging $2 million in investment. These interventions were particularly cost effective: for example, $13 in new sales were generated for every $1 invested in Compete assistance.
+Gaza’s fish farming sector lacked the consistent electricity needed to grow fish and locally produced fingerlings. The project supported four fish farms in Gaza to obtain solar power and ensure a reliable energy supply crucial to the needs of these sensitive operations. To ensure a supply of local fingerlings—versus imported—Compete supported creation of two hatchling lab farms, where 400,000 fingerlings are produced annually. Gaza’s fish sector generated $7.5 million in new sales and $800,000 in exports, creating 39 jobs and leveraging $2 million in investment. These interventions were particularly cost effective: for example, $13 in new sales were generated for every $1 invested in Compete assistance.</aside>
 
-Lessons Reaffirmed: Let the Private Sector Lead
+## Lessons Reaffirmed: Let the Private Sector Lead
 
 Unemployment in the West Bank and Gaza averages 31 percent, and the territories have much room—and need—for economic growth. In achieving results in the West Bank and Gaza despite the restrictive environment, the Compete team learned lessons while reaffirming important development tenets. Among them:
 
