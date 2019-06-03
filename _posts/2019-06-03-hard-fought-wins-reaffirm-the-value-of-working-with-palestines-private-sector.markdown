@@ -75,4 +75,4 @@ A businesslike approach pays dividends. When assessing a new technology, product
 
 **9. Continue working in Gaza.** The Gazan economy has operated against the backdrop of an Israeli land and sea blockade for 11 years. Businesses endure shortages of electricity and water. Traveling or trading across the blockade, and the entry and exit of goods—including exports by Gazan firms and imports of machinery, parts, and other inputs—remain a challenge. Yet economic growth assistance in Gaza produces positive development impacts, such as increased employment and incomes, and could in the future as well.
 
-USAID/Palestine Compete final report: https://pdf.usaid.gov/pdf_docs/PA00TK4W.pdf
+[USAID/Palestine Compete final report](https://pdf.usaid.gov/pdf_docs/PA00TK4W.pdf)
