@@ -45,6 +45,8 @@ Compete’s robust communications activity strategy successfully informed busine
 
 All told, Compete assisted 429 baby cucumber value-chain actors, increasing sector sales by $10.47 million and exports by $9.22 million while creating 932 jobs. Additionally, businesses in the baby cucumber value chain invested more than $1 million, including for new technology.
 
+![Devs----Compete-Gaza-Fish.jpg](/uploads/Devs----Compete-Gaza-Fish.jpg)
+
 ## Entrepreneurs Step Up
 
 Compete emphasized assistance that strengthened Palestine’s business ecosystem, including technical business solutions, new technology and improved inputs, and access to finance. In turn, these assistance packages ignited creative thinking that scaled up businesses, created new products and services, and offset risk. For example, Compete supported Gaza’s Kuhail Fish Farm through an in-kind grant for lab equipment and infrastructure, including solar power, to develop a fish hatchery for fingerlings in high demand by Gaza’s fish farmers. Kuhail was able to increase sales by $276,000, create two new full-time jobs, and invest $223,000 in the business.
