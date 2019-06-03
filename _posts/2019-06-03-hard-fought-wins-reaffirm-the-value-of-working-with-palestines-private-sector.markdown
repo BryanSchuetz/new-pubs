@@ -68,6 +68,8 @@ Unemployment in the West Bank and Gaza averages 31 percent, and the territories 
 
 **3. Operating apolitically boosts the likelihood of success.** In Palestine, political pressures can be intense—from the Israeli government, the Palestinian Authority, and the U.S. Government itself. But Compete selected its beneficiary firms independent of USAID, and while the Palestinian Authority was kept abreast of project activities, it was not asked for approval. This allowed market and economic forces to guide activities free of political bias or distortion.
 
+![Devs----Compete-2.jpg](/uploads/Devs----Compete-2.jpg)
+
 **4. Use technology to strengthen value chains.** Compete brokered a partnership between U.S.-based National Instruments (NI) and Palestine Polytechnic University (PPU) that led to the creation of a National Instruments Academy at PPU, where NI provides technical training, mentoring, and certification. The academy soon developed technical proposals for four machines in real demand: for vegetable and fruit drying, vegetable sorting, stone-defect detection (to protect expensive stone-cutting machinery), and processing and packing agricultural products.
 
 **5. A businesslike approach pays dividends.** When assessing a new technology, product, or market, Compete calculated the return on investment by means of a pilot project. Armed with actual costs and revenues, it used similar metrics to screen applications for assistance. Sector managers traveled to applicants to verify information—each application was rigorously appraised by an unbiased committee of Compete team members.
