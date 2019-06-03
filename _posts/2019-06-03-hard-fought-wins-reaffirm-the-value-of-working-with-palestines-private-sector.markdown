@@ -79,6 +79,8 @@ A businesslike approach pays dividends. When assessing a new technology, product
 
 **8. Value chain programming enables efficient interventions.** Addressing all firms along a targeted value chain creates efficiencies and deep-reaching results. For example, in 2012 Compete introduced red potatoes to Palestinian farmers—previously the territories imported red potatoes from Israel or neighboring countries. Compete assisted farmers to install and expand irrigation and invest in cooling rooms to store produce and maintain consistent supply. Compete connected farmers with buyers through forward contracts that steadied prices and improved planning. These and other activities created a critical mass of farmers supplying packing houses that now sell to local and export markets. The result: in 2012 Palestine farmed 300 dunums for red potatoes and produced 1,340 metric tons; by 2017,  red-potato farming increased to 1,668 dunums producing 5,415 metric tons.
 
+![Devs----Compete-4.jpg](/uploads/Devs----Compete-4.jpg)
+
 **9. Continue working in Gaza.** The Gazan economy has operated against the backdrop of an Israeli land and sea blockade for 11 years. Businesses endure shortages of electricity and water. Traveling or trading across the blockade, and the entry and exit of goods—including exports by Gazan firms and imports of machinery, parts, and other inputs—remain a challenge. Yet economic growth assistance in Gaza produces positive development impacts, such as increased employment and incomes, and could in the future as well.
 
 [USAID/Palestine Compete final report](https://pdf.usaid.gov/pdf_docs/PA00TK4W.pdf)
