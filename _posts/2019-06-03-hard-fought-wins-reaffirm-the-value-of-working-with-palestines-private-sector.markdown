@@ -48,7 +48,7 @@ Compete’s robust communications activity strategy successfully informed busine
 
 All told, Compete assisted 429 baby cucumber value-chain actors, increasing sector sales by $10.47 million and exports by $9.22 million while creating 932 jobs. Additionally, businesses in the baby cucumber value chain invested more than $1 million, including for new technology.
 
-![Devs----Compete-Gaza-Fish.jpg](/uploads/Devs----Compete-Gaza-Fish.jpg)
+![Devs----Compete-Gaza-Fish.jpg](/uploads/Devs----Compete-Gaza-Fish.jpg)`Kahled Sarhan, owner of the Fish Fresh farm.`
 
 ## Entrepreneurs Step Up
 
@@ -68,13 +68,13 @@ Unemployment in the West Bank and Gaza averages 31 percent, and the territories 
 
 **3. Operating apolitically boosts the likelihood of success.** In Palestine, political pressures can be intense—from the Israeli government, the Palestinian Authority, and the U.S. Government itself. But Compete selected its beneficiary firms independent of USAID, and while the Palestinian Authority was kept abreast of project activities, it was not asked for approval. This allowed market and economic forces to guide activities free of political bias or distortion.
 
-![Devs----Compete-2.jpg](/uploads/Devs----Compete-2.jpg)
+![Devs----Compete-2.jpg](/uploads/Devs----Compete-2.jpg)`Cucumber sorting machinery designed by U.S.-based National Instruments and Palestine Polytechnic University.` 
 
 **4. Use technology to strengthen value chains.** Compete brokered a partnership between U.S.-based National Instruments (NI) and Palestine Polytechnic University (PPU) that led to the creation of a National Instruments Academy at PPU, where NI provides technical training, mentoring, and certification. The academy soon developed technical proposals for four machines in real demand: for vegetable and fruit drying, vegetable sorting, stone-defect detection (to protect expensive stone-cutting machinery), and processing and packing agricultural products.
 
 **5. A businesslike approach pays dividends.** When assessing a new technology, product, or market, Compete calculated the return on investment by means of a pilot project. Armed with actual costs and revenues, it used similar metrics to screen applications for assistance. Sector managers traveled to applicants to verify information—each application was rigorously appraised by an unbiased committee of Compete team members.
  
-![Devs----Compete-13.jpg](/uploads/Devs----Compete-13.jpg)
+![Devs----Compete-13.jpg](/uploads/Devs----Compete-13.jpg)`Signing a Memorandum of Understanding with the Ministry of Agriculture of the Palestinian Authority.` 
 
 **6. Coordinate with relevant ministries.** From the start, Compete coordinated with the ministries of agriculture, ICT, tourism and others. For example, Compete and the Ministry of Agriculture (MoA) developed and signed a memorandum of understanding aligning Compete’s interventions with MoA strategy. The MoA was assigned a Compete point of contact, and the MoA field extension agronomist often joined the Compete team when visiting farmers, leading to broad buy-in and enhanced credibility.
 
@@ -84,7 +84,7 @@ Unemployment in the West Bank and Gaza averages 31 percent, and the territories 
 
 **9. Value chain programming enables efficient interventions.** Addressing all firms along a targeted value chain creates efficiencies and deep-reaching results. For example, in 2012 Compete introduced red potatoes to Palestinian farmers—previously the territories imported red potatoes from Israel or neighboring countries. Compete assisted farmers to install and expand irrigation and invest in cooling rooms to store produce and maintain consistent supply. Compete connected farmers with buyers through forward contracts that steadied prices and improved planning. These and other activities created a critical mass of farmers supplying packing houses that now sell to local and export markets. The result: in 2012 Palestine farmed 300 dunums for red potatoes and produced 1,340 metric tons; by 2017,  red-potato farming increased to 1,668 dunums producing 5,415 metric tons.
 
-![Devs----Compete-4.jpg](/uploads/Devs----Compete-4.jpg)
+![Devs----Compete-4.jpg](/uploads/Devs----Compete-4.jpg)`DAI's Gaza-based team.` 
 
 **10. Continue working in Gaza.** The Gazan economy has operated against the backdrop of an Israeli land and sea blockade for 11 years. Businesses endure shortages of electricity and water. Traveling or trading across the blockade, and the entry and exit of goods—including exports by Gazan firms and imports of machinery, parts, and other inputs—remain a challenge. Yet economic growth assistance in Gaza produces positive development impacts, such as increased employment and incomes, and could in the future as well.
 
