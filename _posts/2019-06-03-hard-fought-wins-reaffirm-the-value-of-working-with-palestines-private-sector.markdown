@@ -24,7 +24,7 @@ In 2011, the U.S. Agency for International Development (USAID) launched the Pale
 * New agriculture technologies adopted covering 3,320 hectares; and
 * $105 million leveraged in private-sector investment.
 
-<iframe src="https://player.vimeo.com/video/255580893" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Devs----Palestine-Compete-graphic.jpg](/uploads/Devs----Palestine-Compete-graphic.jpg)
 
 The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, fishing, ICT, textiles, and garments.
 
@@ -36,7 +36,7 @@ The improved competitiveness of Compete’s targeted sectors is due in part to:
 
 **Improved branding and marketing**, which Burquin-based Canaan Fair Trade, a trader of high-end packaged agricultural products, leveraged to increase sales by $17.5 million and exports by $15 million, sparking $1.6 million in investment and leading to 36 jobs created.
 
-![Devs----Palestine-Compete-graphic.jpg](/uploads/Devs----Palestine-Compete-graphic.jpg)
+<iframe src="https://player.vimeo.com/video/255580893" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## A Critical Mass for Commerce
 
