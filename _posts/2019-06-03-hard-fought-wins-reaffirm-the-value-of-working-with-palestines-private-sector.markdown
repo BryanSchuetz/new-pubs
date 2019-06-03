@@ -32,7 +32,7 @@ Improved branding and marketing, which Burquin-based Canaan Fair Trade, a trader
 
 INFOGRAPHIC HERE — describing the target sectors and their respective increases in sales, exports, jobs, and investment. 
 
-## A Critical Mass for Commerce
+##A Critical Mass for Commerce
 
 Most businesses in Palestine are family-owned small and medium-sized enterprises, not exposed to competition, constrained in the movement of people and goods, and operating in isolation from regional and global markets. For Palestine’s economy, this environment translates into uncertainty and increased investment risk, greatly limiting many firms.
 
