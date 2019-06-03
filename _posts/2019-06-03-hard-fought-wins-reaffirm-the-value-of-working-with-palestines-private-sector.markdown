@@ -53,6 +53,8 @@ Compete emphasized assistance that strengthened Palestine’s business ecosystem
 
 <aside>Powering Gaza's Fish Sector: Gaza’s fish farming sector lacked the consistent electricity needed to grow fish and locally produced fingerlings. The project supported four fish farms in Gaza to obtain solar power and ensure a reliable energy supply crucial to the needs of these sensitive operations. To ensure a supply of local fingerlings—versus imported—Compete supported creation of two hatchling lab farms, where 400,000 fingerlings are produced annually. Gaza’s fish sector generated $7.5 million in new sales and $800,000 in exports, creating 39 jobs and leveraging $2 million in investment. These interventions were particularly cost effective: for example, $13 in new sales were generated for every $1 invested in Compete assistance.</aside>
 
+![Devs----Compete-9.jpg](/uploads/Devs----Compete-9.jpg)
+
 ## Lessons Reaffirmed: Let the Private Sector Lead
 
 Unemployment in the West Bank and Gaza averages 31 percent, and the territories have much room—and need—for economic growth. In achieving results in the West Bank and Gaza despite the restrictive environment, the Compete team learned lessons while reaffirming important development tenets. Among them:
