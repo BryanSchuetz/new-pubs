@@ -24,14 +24,17 @@ In 2011, the U.S. Agency for International Development (USAID) launched the Pale
 * New agriculture technologies adopted covering 3,320 hectares; and
 * $105 million leveraged in private-sector investment.
 
+<iframe src="https://player.vimeo.com/video/255580893" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, fishing, ICT, textiles, and garments.
 
 The improved competitiveness of Compete’s targeted sectors is due in part to:
-Increased labor productivity, such as that achieved by the Bethlehem-based Founoun Arts of Carved Stone Company, where Compete’s assistance facilitated a $2.48 million investment in machinery, leading directly to $2 million in new sales and creation of 12 demand-driven jobs. (See below.)
 
-Improved use of technology, including at Gaza’s Developers Plus software company, where a new solar-enabled network server enabled centralized operations around the clock, leading to $205,000 in new sales, $154,000 in exports, 30 new employees hired, and $61,000 in further investment.
+**Increased labor productivity**, such as that achieved by the Bethlehem-based Founoun Arts of Carved Stone Company, where Compete’s assistance facilitated a $2.48 million investment in machinery, leading directly to $2 million in new sales and creation of 12 demand-driven jobs. (See below.)
 
-Improved branding and marketing, which Burquin-based Canaan Fair Trade, a trader of high-end packaged agricultural products, leveraged to increase sales by $17.5 million and exports by $15 million, sparking $1.6 million in investment and leading to 36 jobs created.
+**Improved use of technology**, including at Gaza’s Developers Plus software company, where a new solar-enabled network server enabled centralized operations around the clock, leading to $205,000 in new sales, $154,000 in exports, 30 new employees hired, and $61,000 in further investment.
+
+**Improved branding and marketing**, which Burquin-based Canaan Fair Trade, a trader of high-end packaged agricultural products, leveraged to increase sales by $17.5 million and exports by $15 million, sparking $1.6 million in investment and leading to 36 jobs created.
 
 ![Devs----Palestine-Compete-graphic.jpg](/uploads/Devs----Palestine-Compete-graphic.jpg)
 
