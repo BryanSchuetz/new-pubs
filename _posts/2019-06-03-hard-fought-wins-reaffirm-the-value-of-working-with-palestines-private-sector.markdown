@@ -33,9 +33,9 @@ Improved use of technology, including at Gaza’s Developers Plus software compa
 
 Improved branding and marketing, which Burquin-based Canaan Fair Trade, a trader of high-end packaged agricultural products, leveraged to increase sales by $17.5 million and exports by $15 million, sparking $1.6 million in investment and leading to 36 jobs created.
 
-INFOGRAPHIC HERE — describing the target sectors and their respective increases in sales, exports, jobs, and investment. 
+![Devs----Palestine-Compete-graphic.jpg](/uploads/Devs----Palestine-Compete-graphic.jpg)
 
-##A Critical Mass for Commerce
+## A Critical Mass for Commerce
 
 Most businesses in Palestine are family-owned small and medium-sized enterprises, not exposed to competition, constrained in the movement of people and goods, and operating in isolation from regional and global markets. For Palestine’s economy, this environment translates into uncertainty and increased investment risk, greatly limiting many firms.
 
