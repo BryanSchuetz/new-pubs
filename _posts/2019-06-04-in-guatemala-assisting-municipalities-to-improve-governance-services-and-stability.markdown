@@ -83,3 +83,5 @@ To continue building human capacity, the project is developing online videos and
 Nexos Locales is also ensuring its long-term investment in the region by connecting municipalities with key central government entities to guarantee that local officials know how to leverage their positions to receive technical support from corresponding agencies, ministries, and institutions.
 
 By presenting innovative solutions to complex problems, Nexos Locales’ work in 44 municipalities in the Western Highlands of Guatemala is transforming how local officials govern, enabling them to provide their constituencies with improved services and an increased sense of stability.
+
+*DAI's Vince Broady is Chief of Party for USAID Nexos Locales; Charles Coon is editor of DAI's Developments newsletter.* 
