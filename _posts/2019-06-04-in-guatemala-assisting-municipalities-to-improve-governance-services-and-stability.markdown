@@ -8,11 +8,11 @@ author: Vince Broady and Charles Coon
 
 The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve local residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have been severely underserved in public sectors such as water and sanitation, food security and nutrition, schools, and citizen security. These and other conditions have exacerbated poverty, insecurity, and created push factors for outward migration as the only hope toward a better future. In 2018, more than 60,000 migrants were returned, many to the Western Highlands.
 
-To address this instability, the U.S. Agency for International Development (USAID) launched the Nexos Locales program to help 44 municipalities across the Western Highlands—from dirt-road villages to small cities—to improve public service delivery and increase citizen participation in the local development agenda, leading to more self-reliance.
+To address this instability, the U.S. Agency for International Development (USAID) launched the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) program to help 44 municipalities across the Western Highlands—from dirt-road villages to small cities—to improve public service delivery and increase citizen participation in the local development agenda, leading to more self-reliance.
 
 Working exclusively with local and national partners, Nexos Locales has produced encouraging results in:
 
-* Laying foundations for civic growth and building the capacity of institutions such as Guatemala’s National Association of Municipalities (ANAM).
+* Laying foundations for civic growth and building the capacity of institutions such as Guatemala’s [National Association of Municipalities (ANAM)](http://anam.org.gt/site/).
 * Assisting many of the project’s 44 partner municipalities to enjoy more transparent municipal finances for better planning, including increased streams of own-source revenue.
 * Increasing the numbers of citizens participating in local governance and improving public service delivery. 
 * Developing tools for use in the 44 municipalities that have subsequently been expanded into all 340 municipalities in Guatemala, thanks to the support of the ANAM; these tools have been recognized as best practices in municipal management.
@@ -32,7 +32,7 @@ Partner municipalities have increased revenues an average of 1,062,136 Guatemala
 
 ## Mobile App Unlocks City Hall
 
-The municipal government of Chiantla, located in the department of Huehuetenango, population 93,000, expressed a desire to become more transparent and give its residents a way to communicate with local officials about local issues. To do so, Nexos Locales developed and launched the #SomosChiantla (“we are Chiantla”) mobile app, enabling residents with smartphones to follow the budget and interact more easily with city officials and departments.
+The municipal government of Chiantla, located in the department of Huehuetenango, population 93,000, expressed a desire to become more transparent and give its residents a way to communicate with local officials about local issues. To do so, Nexos Locales developed and [launched](https://dai-global-digital.com/governance-app-guatemala.html) the #SomosChiantla (“we are Chiantla”) mobile app, enabling residents with smartphones to follow the budget and interact more easily with city officials and departments.
 
 By using the free app, Chiantla residents may:
 
@@ -43,11 +43,11 @@ By using the free app, Chiantla residents may:
    
 The municipality refreshes #SomosChiantla daily with updated figures and information. 
 
-“What the app does is make clear that there is civic responsibility on both ends,” said Mayor Carlos Alvarado Figueroa, whose city earned national honors for this work. “There is responsibility on the part of the municipality to be careful with expenditures, and on the part of citizens to contribute both financially and with attention to decision-making around those expenditures.” 
+“What the app does is make clear that there is civic responsibility on both ends,” said Mayor Carlos Alvarado Figueroa, whose city earned [national honors](https://www.dai.com/news/usaid-nexos-locales-partner-municipality-wins-technology-award) for this work. “There is responsibility on the part of the municipality to be careful with expenditures, and on the part of citizens to contribute both financially and with attention to decision-making around those expenditures.” 
 
-More than 1,700 Chiantla residents have downloaded the app, and e-dialogue is picking up concerning the city’s finances and services. Nexos Locales has since replicated and launched the app in two more municipalities—San Rafael Pie De La Cuesta (pop. 15,000) and Sacapulas (pop. 12,000)—each with municipal governments committed to increasing transparency. These three municipalities demonstrate that by using 21st-century smartphone technology, citizens can increase their understanding of the budget and public spending. 
+More than 1,700 Chiantla residents have downloaded the app, and e-dialogue is picking up concerning the city’s finances and services. Nexos Locales has since replicated and launched the app in two more municipalities—San Rafael Pie De La Cuesta (pop. 15,000) and Sacapulas (pop. 12,000)—each with municipal governments [committed](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) to increasing transparency. These three municipalities demonstrate that by using 21st-century smartphone technology, citizens can increase their understanding of the budget and public spending. 
 
->The #SomosChiantla template has proven easily transferable to other municipalities—in fact, DAI’s Center for Digital Acceleration is replicating the app’s human-centered design process in Afghanistan’s major cities. The USAID-funded Strong Hubs for Afghan Hope and Resilience (SHAHAR) project is undertaking the Afghan work.
+>The #SomosChiantla template has proven easily transferable to other municipalities—in fact, DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) is replicating the app’s human-centered design process in [Afghanistan’s major cities](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html). The USAID-funded [Strong Hubs for Afghan Hope and Resilience](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project is undertaking the Afghan work.
 
 ## Creating Citizen Charters 
 
