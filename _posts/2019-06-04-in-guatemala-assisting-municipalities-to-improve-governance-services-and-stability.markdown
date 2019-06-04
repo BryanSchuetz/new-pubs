@@ -8,6 +8,9 @@ author: Vince Broady and Charles Coon
 
 The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve local residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have been severely underserved in public sectors such as water and sanitation, food security and nutrition, schools, and citizen security. These and other conditions have exacerbated poverty, insecurity, and created push factors for outward migration as the only hope toward a better future. In 2018, more than 60,000 migrants were returned, many to the Western Highlands.
 
+
+
+
 To address this instability, the U.S. Agency for International Development (USAID) launched the [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales) program to help 44 municipalities across the Western Highlands—from dirt-road villages to small cities—to improve public service delivery and increase citizen participation in the local development agenda, leading to more self-reliance.
 
 Working exclusively with local and national partners, Nexos Locales has produced encouraging results in:
