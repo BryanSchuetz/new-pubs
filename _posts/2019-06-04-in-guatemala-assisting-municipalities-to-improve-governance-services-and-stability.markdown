@@ -3,6 +3,9 @@ title: In Guatemala, Assisting Municipalities to Improve Governance, Services, a
   Stability
 date: 2019-06-04 17:21:00 -04:00
 published: false
+tags:
+- governance
+- stability
 author: Vince Broady and Charles Coon
 ---
 
