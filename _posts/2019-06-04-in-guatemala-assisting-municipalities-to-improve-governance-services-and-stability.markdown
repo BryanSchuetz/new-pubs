@@ -70,7 +70,7 @@ In assisting its partner municipalities, Nexos Locales developed 24 good governa
 * Municipal financial management and operations; and
 * Organizing youth, women, and neighborhoods to become involved in civic matters.
 
-Nexos Locales is partnering with ANAM, the Finance Ministry, and the Municipal Administrative Financial Assistance Directorate to expand the use of this municipal toolbox, which is available online.
+Nexos Locales is partnering with ANAM, the Finance Ministry, and the Municipal Administrative Financial Assistance Directorate to expand the use of this municipal toolbox, which is [available online](http://anam.org.gt/cajadeherramientas/).
 
 By aiming to connect project-made tools with nearly 300 municipalities outside of Nexos Locales’ coverage, the project is multiplying USAID’s investment.
 
