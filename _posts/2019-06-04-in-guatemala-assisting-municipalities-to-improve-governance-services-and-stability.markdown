@@ -81,6 +81,8 @@ Nexos Locales is partnering with ANAM, the Finance Ministry, and the Municipal A
 
 By aiming to connect project-made tools with nearly 300 municipalities outside of Nexos Locales’ coverage, the project is multiplying USAID’s investment.
 
+![Devs----Nexos-7.jpg](/uploads/Devs----Nexos-7.jpg)
+
 ## The Road Ahead
 
 With five years of project implementation completed and three to go, Nexos Locales is focused on ensuring the sustainability of its programming. The project team is emphasizing its advocacy for a Municipal Career Service Law, which would establish a career track for municipal employees and reduce staff turnover after elections.  The law will help secure Nexos Locales’ investment in municipal training and eliminate the hiring of unqualified staff, which in turn will improve efficiency in each city hall and service provision for citizens.  
