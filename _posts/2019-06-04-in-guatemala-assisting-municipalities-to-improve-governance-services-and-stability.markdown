@@ -7,6 +7,7 @@ tags:
 - governance
 - stability
 author: Vince Broady and Charles Coon
+publication: Developments
 ---
 
 The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve local residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have been severely underserved in public sectors such as water and sanitation, food security and nutrition, schools, and citizen security. These and other conditions have exacerbated poverty, insecurity, and created push factors for outward migration as the only hope toward a better future. In 2018, more than 60,000 migrants were returned, many to the Western Highlands.
