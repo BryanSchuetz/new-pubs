@@ -48,7 +48,7 @@ Compete’s robust communications activity strategy successfully informed busine
 
 All told, Compete assisted 429 baby cucumber value-chain actors, increasing sector sales by $10.47 million and exports by $9.22 million while creating 932 jobs. Additionally, businesses in the baby cucumber value chain invested more than $1 million, including for new technology.
 
-![Devs----Compete-Gaza-Fish.jpg](/uploads/Devs----Compete-Gaza-Fish.jpg)`Kahled Sarhan, owner of the Fish Fresh farm.`
+![Devs----Compete-Gaza-Fish.jpg](/uploads/Devs----Compete-Gaza-Fish.jpg)`Kahled Sarhan, owner of the Fish Fresh farm in Gaza.`
 
 ## Entrepreneurs Step Up
 
