@@ -24,6 +24,8 @@ Working exclusively with local and national partners, Nexos Locales has produced
 * Increasing the numbers of citizens participating in local governance and improving public service delivery. 
 * Developing tools for use in the 44 municipalities that have subsequently been expanded into all 340 municipalities in Guatemala, thanks to the support of the ANAM; these tools have been recognized as best practices in municipal management.
 
+![Devs----Nexos-3.jpg](/uploads/Devs----Nexos-3.jpg)
+
 ## Increasing Local Revenues
 
 By boosting their incomes, municipalities in the Western Highlands are improving their ability to provide public services and allocate resources that meet citizen needs. During Year 4 of Nexos Locales, 37 of the project’s 44 partner municipalities increased their own-source revenue by an average of 53 percent by collecting taxes and fees more fairly and efficiently while reducing arrears.
