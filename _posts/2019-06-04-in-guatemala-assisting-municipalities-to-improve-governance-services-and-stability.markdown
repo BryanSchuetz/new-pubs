@@ -56,15 +56,17 @@ More than 1,700 Chiantla residents have downloaded the app, and e-dialogue is pi
 
 >The #SomosChiantla template has proven easily transferable to other municipalities—in fact, DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) is replicating the app’s human-centered design process in [Afghanistan’s major cities](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html). The USAID-funded [Strong Hubs for Afghan Hope and Resilience](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project is undertaking the Afghan work.
 
+![Devs----Nexos-San-Marcos-charter.jpg](/uploads/Devs----Nexos-San-Marcos-charter.jpg)`Committee that produced the Citizen Charter for San Marcos on water provision.` 
+
 ## Creating Citizen Charters 
 
 Nexos Locales is also helping municipalities to craft Citizen Charters—agreements between residents and their municipal government on the standards expected of each to ensure adequate service provision:
 
-In San Marcos, a working group of civil society, business, municipal, and water/sanitation officials soft-launched a Citizen Charter on water service provision. The Charter records agreements between the municipality and citizens—including 8,000 registered water customers—on quality standards and the responsibilities of each party.
+In **San Marcos**, a working group of civil society, business, municipal, and water/sanitation officials soft-launched a Citizen Charter on water service provision. The Charter records agreements between the municipality and citizens—including 8,000 registered water customers—on quality standards and the responsibilities of each party.
 
-In La Libertad, the Municipal Council formalized responsibilities in solid waste collection. The Charter is expected to launch later this year, but many customers are already upholding their end of the deal. Thanks to identifying delinquent users and more proactive billing measures, fee collections amounted to Q11,940 (US$1,613) in the first quarter of 2019 compared with Q4,410 (US$595) in Q1 of 2018, a year-over-year increase of 271 percent.
+In **La Libertad**, the Municipal Council formalized responsibilities in solid waste collection. The Charter is expected to launch later this year, but many customers are already upholding their end of the deal. Thanks to identifying delinquent users and more proactive billing measures, fee collections amounted to Q11,940 (US$1,613) in the first quarter of 2019 compared with Q4,410 (US$595) in Q1 of 2018, a year-over-year increase of 271 percent.
 
-In Barillas, Nexos Locales used GPS to analyze and map the urban water system’s critical points, which alerted officials to inequitable water distribution in the urban center. The mayor viewed this inequity as a key opportunity to improve service prior to officially rolling out the Citizen Charter with updated regulations following local elections. 
+In **Barillas**, Nexos Locales used GPS to analyze and map the urban water system’s critical points, which alerted officials to inequitable water distribution in the urban center. The mayor viewed this inequity as a key opportunity to improve service prior to officially rolling out the Citizen Charter with updated regulations following local elections. 
 
 Nexos Locales has helped municipalities establish record-keeping practices and develop systems to track service provision. This monitoring enables continuous feedback and evaluation of services, helps resolve conflicts, and increases end-users’ understanding of the constraints that municipalities face in meeting citizen demand for services.
  
