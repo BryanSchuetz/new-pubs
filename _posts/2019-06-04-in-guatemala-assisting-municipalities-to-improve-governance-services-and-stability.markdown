@@ -37,6 +37,8 @@ Nexos Locales assisted these locales by:
 
 Partner municipalities have increased revenues an average of 1,062,136 Guatemalan quetzal (US$139,754) thanks to their improved fiscal practices.
 
+![Devs----Nexos-4.jpg](/uploads/Devs----Nexos-4.jpg)
+
 ## Mobile App Unlocks City Hall
 
 The municipal government of Chiantla, located in the department of Huehuetenango, population 93,000, expressed a desire to become more transparent and give its residents a way to communicate with local officials about local issues. To do so, Nexos Locales developed and [launched](https://dai-global-digital.com/governance-app-guatemala.html) the #SomosChiantla (“we are Chiantla”) mobile app, enabling residents with smartphones to follow the budget and interact more easily with city officials and departments.
