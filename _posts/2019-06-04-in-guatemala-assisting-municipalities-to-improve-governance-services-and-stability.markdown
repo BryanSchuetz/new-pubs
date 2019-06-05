@@ -69,6 +69,8 @@ In **La Libertad**, the Municipal Council formalized responsibilities in solid w
 In **Barillas**, Nexos Locales used GPS to analyze and map the urban water system’s critical points, which alerted officials to inequitable water distribution in the urban center. The mayor viewed this inequity as a key opportunity to improve service prior to officially rolling out the Citizen Charter with updated regulations following local elections. 
 
 Nexos Locales has helped municipalities establish record-keeping practices and develop systems to track service provision. This monitoring enables continuous feedback and evaluation of services, helps resolve conflicts, and increases end-users’ understanding of the constraints that municipalities face in meeting citizen demand for services.
+
+
  
 ## Scaling Municipal Tools to National Networks
 
