@@ -16,6 +16,7 @@ assets:
   name: DSCN8551
 thumbnail-image: "/uploads/DSCN8551.JPG"
 social-image: "/uploads/DSCN8551.JPG"
+topic-page: Land Rights
 ---
 
 The [Feed the Future Land Tenure Assistance](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) (LTA) activity—which has completed mapping of more than 36,000 land parcels in 26 villages with more than 27,000 Certificates of Customary Rights of Occupancy printed and registered—is a powerful example of how digital technology applied in a participatory process can enable rural people to strengthen their land rights. 

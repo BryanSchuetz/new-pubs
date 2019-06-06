@@ -25,6 +25,7 @@ assets:
   name: ABSL view
 thumbnail-image: "/uploads/ABSL%201.JPG"
 social-image: "/uploads/ABSL%201.JPG"
+topic-page: Land Rights
 ---
 
 Much has been written about the impacts of long-term land-based investments on local land rights, development, and livelihood opportunities—and much of the commentary, driven by notable controversies, has been hostile to the land investor. But while investors now have a plethora of guidelines and principles to follow in implementing their projects, they still confront a dearth of hard information and statistics based on actual experience. 

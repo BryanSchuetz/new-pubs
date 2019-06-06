@@ -32,6 +32,7 @@ assets:
   name: rtk gnss antenna sm
 thumbnail-image: "/uploads/SAM_1806.jpg"
 social-image: "/uploads/SAM_1806.jpg"
+topic-page: Land Rights
 ---
 
 Public-private partnerships (PPPs) have a long history as effective mechanisms for delivering infrastructure projects and more recently as vehicles for service provision. The use of PPPs for land administration services is less common, though there are a few notable successes in developed economies. In a development context—where donor-funded titling or tenure regularization projects often face serious challenges of sustainability—a PPP approach could provide a model for completing reforms nationwide and sustaining the progress achieved on a given project. DAI, which recently implemented a land tenure regularization project on one of several islands that comprise Cabo Verde, is exploring the possibility of completing that nation’s cadaster via an innovative PPP. 

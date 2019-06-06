@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Land Tenure and Property Rights
-topic-page: land
+title: Making Land Rights Real
+topic-page: Land Rights
 permalink: /land
 author: Richard Baldwin
 publication: Developing Alternatives
@@ -31,3 +31,26 @@ Some interesting lessons have emerged from this unique experience, and we hope t
 * While we consider land rights as a developing world issue, there are also issues closer to home. Karol Boudreaux provides a [case study](http://dai-global-developments.com/articles/the-law-of-the-land-recent-cases-show-legal-support-for-local-people/) describing a landmark case where historical claims by indigenous people in Canada have finally been recognised—making their land rights real at last. 
 
 We look forward to sharing additional articles in the coming months as part of this series.
+
+<hr>
+
+<div class="home grid">
+  {% assign currentPosts = site.posts | where_exp: "post", "post.topic-page == 'Land Rights'" %}
+  {% assign posts = currentPosts | sort: 'date' | reverse %}
+  {% for post in posts %}
+  <div class="post grid-item {% for tag in post.tags %}{{ tag | slugify }} {% endfor %}">
+    <a href="{{ post.url }}" class="no-style"><h1 class="post-title">{{ post.title }}</h1></a>
+    <div class="post-details">
+      <!-- <p class="post-details--date">{{ post.date | date: "%b %-d, %Y" }}</p>
+      <p class="post-details--byline">{% if post.author %}By <a href="#" class="without-style">{{ post.author }}</a>{% endif %}</p> -->
+
+      <p class="post-details--byline">By {{ post.author | markdownify | remove:"<p>" | remove:"</p>" }}</p>
+      <p class="post-details--tags">Tags: {% for tag in post.tags %}<span class="post-topic"><a href="/tags/?tag={{ tag | downcase | split:' ' | join: '-'}}" class="without-style">{{ tag }}</a></span>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
+    </div>
+    {{ post.excerpt }}
+    <p class="more"><a class="without-style more-button" href="{{ post.url }}"><svg class="svg-more" viewBox="0 0 157 157" preserveAspectRatio="xMinYMax meet"><use xlink:href="#more"></use></svg>READ MORE</a></p>
+    {% unless forloop.last %}<hr>{% endunless %}
+  </div>
+  {% endfor %}
+  <hr>
+</div>

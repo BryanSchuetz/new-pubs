@@ -10,9 +10,9 @@
   {% else %}
     <h3>Related Articles:</h3>
   {% endif %}
-{% else if post.topic-page %}
-  <h3 class="topic-page">More on {{page.title}}</h3>
-{%- else -%}
+  {% elsif page.topic-page %}
+  <h3 class="topic-page">More Articles on {{ page.topic-page }}</h3>
+  {%- else -%}
   <h3>Related Articles:</h3>
 {% endif %}
 <ul>
@@ -20,8 +20,9 @@
   {% assign cap = 0 %}
   {% comment %} <!-- Look at each post in the array --> {% endcomment %}
   {%- if page.topic-page -%}
-  {%- assign topic-posts = site.posts | where_exp,'post','post.tags contains page.topic-page ' -%}
-    {%- for post in topic-posts | limit:8 -%}
+  {%- assign topic-posts = site.posts | where_exp,'post','post.topic-page contains page.topic-page ' -%}
+  {%- assign topic-posts = topic-posts | sort: 'date' | reverse -%}
+    {%- for post in topic-posts -%}
       {% if post.url != page.url%}
         <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
       {% endif %}
