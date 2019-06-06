@@ -25,7 +25,7 @@ In 2011, the U.S. Agency for International Development (USAID) launched the Pale
 
 ![Devs----Palestine-Compete-graphic.jpg](/uploads/Devs----Palestine-Compete-graphic.jpg)
 
-The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, fishing, ICT, textiles, and garments.
+The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, fishing, ICT, textiles, and garments. 
 
 The improved competitiveness of Compete’s targeted sectors is due in part to:
 
