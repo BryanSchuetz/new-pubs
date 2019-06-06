@@ -76,7 +76,7 @@ In **Barillas**, Nexos Locales used GPS to analyze and map the urban water syste
 
 Nexos Locales has helped municipalities establish record-keeping practices and develop systems to track service provision. This monitoring enables continuous feedback and evaluation of services, helps resolve conflicts, and increases end-users’ understanding of the constraints that municipalities face in meeting citizen demand for services.
 
-![Devs-Nexos-6.jpg](/uploads/Devs-Nexos-6.jpg)
+![Devs----Nexos-youth.jpg](/uploads/Devs----Nexos-youth.jpg)`Youth leadership event organized by local partner Barbara Ford Center for Peace in Santa Cruz de Quiche.`  
  
 ## Scaling Municipal Tools to National Networks
 
