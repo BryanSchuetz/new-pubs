@@ -6,7 +6,9 @@ published: false
 tags:
 - governance
 - stability
-author: Vince Broady and Charles Coon
+author: Vince Broady
+thumbnail-image: "/uploads/Devs----Nexos-7.jpg"
+social-image: "/uploads/Devs----Nexos-4-d23ca8.jpg"
 publication: Developments
 ---
 
@@ -101,4 +103,4 @@ Nexos Locales is also ensuring its long-term investment in the region by connect
 
 By presenting innovative solutions to complex problems, Nexos Locales’ work in 44 municipalities in the Western Highlands of Guatemala is transforming how local officials govern, enabling them to provide their constituencies with improved services and an increased sense of self-reliance.
 
-*DAI's Vince Broady is Chief of Party for USAID Nexos Locales; Charles Coon is editor of DAI's Developments newsletter.* 
+*DAI's Vince Broady is Chief of Party for USAID Nexos Locales.* 
