@@ -1,7 +1,6 @@
 ---
 title: Hard-Fought Wins Reaffirm the Value of Working with Palestine’s Private Sector
-date: 2019-06-03 15:33:00 -04:00
-published: false
+date: 2019-06-06 14:00:00 -04:00
 tags:
 - economic-growth
 - stability
