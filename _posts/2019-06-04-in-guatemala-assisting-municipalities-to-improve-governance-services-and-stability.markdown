@@ -1,6 +1,6 @@
 ---
 title: In Guatemala, Assisting Municipalities to Improve Governance, Services, and
-  Stability
+  Self-Reliance
 date: 2019-06-04 17:21:00 -04:00
 published: false
 tags:
@@ -43,12 +43,12 @@ Partner municipalities have increased revenues by an average of 1,062,136 Guatem
 
 ## Mobile App Unlocks City Hall
 
-The municipal government of Chiantla, located in the department of Huehuetenango, population 93,000, expressed a desire to become more transparent and give its residents a way to communicate with local officials about local issues. To do so, Nexos Locales developed and [launched](https://dai-global-digital.com/governance-app-guatemala.html) the #SomosChiantla (“we are Chiantla”) mobile app, enabling residents with smartphones to follow the budget and interact more easily with city officials and departments.
+Residents and the municipal government of Chiantla, located in the department of Huehuetenango, population 93,000, expressed a desire to increase transparency and communication over local issues. To do so, Nexos Locales collaborated with citizen groups and officials to develop and [launch](https://dai-global-digital.com/governance-app-guatemala.html) the #SomosChiantla (“we are Chiantla”) mobile app. The easy-to-use app enables residents with smartphones to follow the budget and interact more easily with city officials and departments.
 
 By using the free app, Chiantla residents may:
 
 * View itemized municipal revenues and expenditures;
-* Track municipal procurements and updates on projects;
+* Track municipal procurements and updates on local projects;
 * Report local issues such as potholes, broken street lights, and leaking water pipes, including uploading photos and GPS locations; and
 * Discuss municipal matters via an online forum accessed through Facebook.
    
@@ -99,6 +99,6 @@ To continue building human capacity, the project is developing online videos and
 
 Nexos Locales is also ensuring its long-term investment in the region by connecting municipalities with key central government entities to guarantee that local officials know how to leverage their positions to receive technical support from corresponding agencies, ministries, and institutions.
 
-By presenting innovative solutions to complex problems, Nexos Locales’ work in 44 municipalities in the Western Highlands of Guatemala is transforming how local officials govern, enabling them to provide their constituencies with improved services and an increased sense of stability.
+By presenting innovative solutions to complex problems, Nexos Locales’ work in 44 municipalities in the Western Highlands of Guatemala is transforming how local officials govern, enabling them to provide their constituencies with improved services and an increased sense of self-reliance.
 
 *DAI's Vince Broady is Chief of Party for USAID Nexos Locales; Charles Coon is editor of DAI's Developments newsletter.* 
