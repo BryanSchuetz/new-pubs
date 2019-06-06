@@ -10,15 +10,15 @@ author: "[Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijl
 publication: Developments
 ---
 
-Businesses in the West Bank and Gaza for decades have overcome political instability, regional violence, and economic blockades, with traders on both sides of the Israel-Palestine border focused more on commerce than conflict.
+Businesses in the West Bank and Gaza for decades have overcome political instability, regional violence, and economic blockades, maintaining a resilient focus on commerce.
 
 
 
 
-In 2011, the U.S. Agency for International Development (USAID) launched the Palestine Compete project to assist key Palestinian business sectors to become more competitive in Israel, in the region, and beyond. Over the course of eight years, the Compete team assisted nearly 1,800 firms in areas such as business planning, access to finance, technology, and marketing. The project’s partner firms ranged from startups to established companies, and with Compete’s assistance they delivered striking results, including:
+In 2011, the U.S. Agency for International Development (USAID) launched the Palestine Compete project to assist key Palestinian business sectors to become more competitive in the region and beyond. Over the course of eight years, the Compete team assisted nearly 1,800 firms in areas such as business planning, access to finance, technology, and marketing. The project’s partner firms ranged from startups to established companies, and with Compete’s assistance they delivered striking results, including:
 
 * Increased sales by $383 million;
-* Increased exports by $254 million;
+* Increased exports by $254 million—with 75 percent going to the United States, Europe, and Gulf countries beyond traditional trading partner Israel;
 * More than 6,900 jobs created; 
 * New agriculture technologies adopted covering 3,320 hectares; and
 * $105 million leveraged in private-sector investment.
