@@ -91,7 +91,7 @@ Nexos Locales is partnering with ANAM, the Finance Ministry, and the Municipal A
 
 By aiming to connect project-made tools with nearly 300 municipalities outside of Nexos Locales’ coverage, the project is multiplying USAID’s investment.
 
-![Devs----Nexos-7.jpg](/uploads/Devs----Nexos-7.jpg)
+![Devs----Nexos-7.jpg](/uploads/Devs----Nexos-7.jpg)`Municipal development authority breakout session in Sibila, San Marcos.`
 
 ## The Road Ahead
 
