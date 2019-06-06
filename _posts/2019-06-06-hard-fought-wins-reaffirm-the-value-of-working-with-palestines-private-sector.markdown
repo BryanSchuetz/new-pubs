@@ -23,7 +23,7 @@ In 2011, the U.S. Agency for International Development (USAID) launched the Pale
 * New agriculture technologies adopted covering 3,320 hectares; and
 * $105 million leveraged in private-sector investment.
 
-![Devs----Palestine-Compete-graphic.jpg](/uploads/Devs----Palestine-Compete-graphic.jpg)
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="w4je88rz-palestine-complete-s-results" data-w="800" data-h="886" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > Made with <a href="https://www.visme.co/make-infographics?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none">Visme Infographic Maker</a></p>
 
 The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, fishing, ICT, textiles, and garments. 
 
