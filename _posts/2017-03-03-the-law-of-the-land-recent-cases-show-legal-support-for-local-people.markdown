@@ -13,8 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Karol headshot small.jpg"
   author?: 'yes'
-thumbnail-image: 
-social-image: 
+thumbnail-image: /uploads/law-of-the-land.png
+social-image: /uploads/law-of-the-land.png
 ---
 
 International efforts to secure the land and resource rights of local and indigenous peoples are increasingly finding a friend in the law. National and international law, policies, and jurisprudence are coming together with “soft” legal guidelines and principles to yield stronger standards related to indigenous land and resource rights. Landmark cases are creating precedent for local or indigenous people who have been displaced to reoccupy or retain property, which may lead to strong tenure security and autonomy.
@@ -27,10 +27,12 @@ At the same time, national jurisprudence related to the land and resource rights
 
 More recent cases in other countries have also favored local and indigenous peoples, perhaps the most notable being the Supreme Court of Canada’s decision in *Tsilhqot’in Nation v. British Columbia* (2014). 
 
-##Case Study: The Tsilhqot’in Nation
+## Case Study: The Tsilhqot’in Nation
+
 The Tsilhqot’in Nation is composed of six tribes who live in a remote region of British Columbia—the Chiloctin Valley. The tribes fish, hunt, and use forest resources to support their livelihoods. Although some non-native peoples live in the region, there has been little inflow of outsiders and traditionally the Tsilhqot’in have managed their resources. 
 
 Like most native peoples in British Columbia, the Tsilhqot’in did not sign a treaty with the colonial British or post-colonial Canadian governments, and instead exercised significant control over their own lands. However, in 1983 the provincial government issued a 10-year license to Carrier Lumber to harvest 5 million cubic feet of timber on these lands, on the premise that the Chiloctin Valley forests belong to the provincial government. 
+
 The Tsilhqot’in Nation, which was not consulted prior to the government issuing the license, protested and called for discussions with the company. The requests were rejected. When Carrier began working on infrastructure and logging plans, local people set up roadblocks and protested further development. Finally, in 1990, the Tsilhqot’in sued the government to stop any harvesting that would harm their livelihoods. On appeal, the government won its case, which was then taken to the Supreme Court. 
 
 This case, 20 years in the making, considered three key questions: a) What is the proper test to establish aboriginal title in Canada and did the Tsilhqot’in Nation meet this test? b) What rights do aboriginal title holders possess? c) If aboriginal title exists, how does this title affect the jurisdiction of the provincial government and what legal rights does the provincial government retain on aboriginal lands? 
@@ -41,7 +43,8 @@ Finally, with regard to the third question on the role of provincial laws and re
 
 This decision potentially affects Canadian land in areas where aboriginal title has not yet been extinguished, including substantial parts of the country from the Maritime Provinces in the east to the southern Yukon in the west. It may be particularly important for companies that hold government licenses to develop natural resources. And it sets the stage for indigenous people to promote the kinds of economic development they value.
 
-##Future Directions
+## Future Directions
+
 Although it can take years to litigate land claims, recent cases in Australia, Colombia, and Paraguay have similarly found in favor of indigenous peoples against governments and private sector actors[^1]. By finding that local or indigenous people’s rights were violated as a result of faulty consultation or failure to notify, these cases represent a limited but increasingly important strand of decision making—one that is finding in favor of indigenous peoples and their rights to be meaningfully involved in decision making about their traditional lands. 
 
 In line with this trend, a recent commentary filed at the International Criminal Court seeks to investigate national leaders and private business actors with ties to the government of Cambodia for crimes against humanity based on land grabbing—a glimpse of the direction in which litigation related to large-scale land acquisitions may be headed. 
