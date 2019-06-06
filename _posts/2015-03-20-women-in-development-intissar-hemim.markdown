@@ -3,20 +3,20 @@ title: 'Women in Development: Intissar Hemim'
 date: 2015-03-20 14:28:00 -04:00
 tags:
 - dai
+author: Chuck Coon
+thumbnail-image: "/uploads/Devs-Intissar-2.jpg"
+social-image: "/uploads/Devs-Intissar-2.jpg"
 publication: Developments
 issue: 
 author-bio: Intissar Hemim is the Grants and Procurement Specialist for DAI on the
   European Bank for Reconstruction and Development's [Morocco Sustainable Energy Financing
   Facility] (http://dai.com/our-work/projects/morocco%E2%80%94sustainable-energy-financing-facility-morseff).
-author: 
 featured?: 
 assets:
 - path: "/uploads/Devs Intissar 1.jpg"
   name: Devs Intissar 1
   author?: 'yes'
 - path: "/uploads/Devs-Intissar-2.jpg"
-thumbnail-image: "/uploads/Devs-Intissar-2.jpg"
-social-image: "/uploads/Devs-Intissar-2.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*

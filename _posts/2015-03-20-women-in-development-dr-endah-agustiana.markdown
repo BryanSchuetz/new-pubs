@@ -3,20 +3,20 @@ title: 'Women in Development: Endah Agustiana'
 date: 2015-03-20 14:00:00 -04:00
 tags:
 - dai
+author: Chuck Coon
+thumbnail-image: "/uploads/Devs%20eAugustiana%201.jpg"
+social-image: "/uploads/Devs%20eAugustiana%201.jpg"
 publication: Developments
 issue: 
 author-bio: Endah Agustiana is the Human Rights Technical Lead for the [ASEAN-U.S.
   Partnership for Good Governance, Equitable and Sustainable Development and Security
   (PROGRESS)](http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable).
-author: 
 featured?: 
 assets:
 - path: "/uploads/Devs eAugustiana 1.jpg"
 - path: "/uploads/Devs-eAgustiana-2.jpg"
   name: Devs-eAgustiana-2
   author?: 'yes'
-thumbnail-image: "/uploads/Devs%20eAugustiana%201.jpg"
-social-image: "/uploads/Devs%20eAugustiana%201.jpg"
 ---
 
 *Editor’s Note: This interview is part of a series on Women in Development highlighting the role women play in DAI’s work around the globe. The Q&A was conducted by DAI Communications Specialist Sara Lehman.*
