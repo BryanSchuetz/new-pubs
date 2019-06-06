@@ -152,6 +152,9 @@ a:not(.without-style){
 a:not(.without-style):hover{
   border-bottom: 2px solid darken($blue, 10%);
 }
+h3.topic-page{
+  line-height: 1.5rem;
+}
 
 /*a:not(.without-underline){
   color: $blue;

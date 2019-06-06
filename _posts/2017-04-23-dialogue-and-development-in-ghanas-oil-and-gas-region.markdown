@@ -24,6 +24,7 @@ assets:
   name: WB_Bernice_1
 thumbnail-image: "/uploads/Ghana%20DevAlts.jpg"
 social-image: "/uploads/Ghana%20DevAlts.jpg"
+topic-page: Land Rights
 ---
 
 In 2007, oil and gas was discovered off the coast of Ghana, leading to a boom in infrastructure projects and investment in the country’s Western Region, particularly in six coastal districts. Subsequently, large tracts of land have been taken over for the development of oil and gas infrastructure, businesses, pipelines, roads, and areas allocated for machinery repair. While this surge in activity has raised expectations for economic benefits among local communities, it has also spurred questions about resettlement and compensation, alternative livelihood and job opportunities, changes to land use, and food security. 

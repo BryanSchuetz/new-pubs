@@ -23,6 +23,7 @@ assets:
   name: SAVANA 1262
 thumbnail-image: "/uploads/moz%20ag%20land%202.jpg"
 social-image: "/uploads/moz%20ag%20land%202.jpg"
+topic-page: Land Rights
 ---
 
 Mozambique is widely regarded as having a modern and progressive land tenure framework, following the enactment of the 1997 Land Law. However, in its implementation, the law has not always lived up to its promise. Twenty years of experience reveals a number of areas in which the legal framework would benefit from revision and better serve its primary aims of promoting productive land use while protecting legitimate customary and smallholder land rights.  

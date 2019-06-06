@@ -10,13 +10,25 @@
   {% else %}
     <h3>Related Articles:</h3>
   {% endif %}
-{% else %}
+  {% elsif page.topic-page %}
+  <h3 class="topic-page">More Articles on {{ page.topic-page }}</h3>
+  {%- else -%}
   <h3>Related Articles:</h3>
 {% endif %}
 <ul>
   {% assign posts = site.posts | sort: 'date' | reverse %}
   {% assign cap = 0 %}
   {% comment %} <!-- Look at each post in the array --> {% endcomment %}
+  {%- if page.topic-page -%}
+  {%- assign topic-posts = site.posts | where_exp,'post','post.topic-page contains page.topic-page ' -%}
+  {%- assign topic-posts = topic-posts | sort: 'date' | reverse -%}
+    {%- for post in topic-posts -%}
+      {% if post.url != page.url%}
+        <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+      {% endif %}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- unless page.topic-page -%}
   {% for post in posts %}
   {% comment %} <!-- Ignore the current post --> {% endcomment %}
     {% if post.url != page.url %}
@@ -31,31 +43,35 @@
         {% endif %}
         {% comment %} <!-- Otherwise, if we're on a post --> {% endcomment %}
       {% elsif page.layout == 'post' %}
-        {% comment %} <!-- Loop through the post tags --> {% endcomment %}
-        {% for tag in page.tags %}
-          {% comment %} <!-- Compare each tag in each post to each tag on the page --> {% endcomment %}
-          {% if post.tags contains tag %}
-            {% assign got_related = true%}
-            {% comment %} <!-- Show tags that match --> {% endcomment %}
-            <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
-            {% assign cap = cap | plus: 1 %}
-            {% comment %} <!-- If one tag in a post matches a tag on the page, stop --> {% endcomment %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
+          {% comment %} <!-- Loop through the post tags --> {% endcomment %}
+          {% for tag in page.tags %}
+            {% comment %} <!-- Compare each tag in each post to each tag on the page --> {% endcomment %}
+            {% if post.tags contains tag %}
+              {% assign got_related = true%}
+              {% comment %} <!-- Show tags that match --> {% endcomment %}
+              <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+              {% assign cap = cap | plus: 1 %}
+              {% comment %} <!-- If one tag in a post matches a tag on the page, stop --> {% endcomment %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
       {% endif %}
     {% endif %}
     {% if cap > 2 %}
       {% break %}
     {% endif %}
   {% endfor %}
+  {%- endunless -%}
   <!-- If there's no actually related content show recent stuff -->
   {% unless got_related == true %}
+  {%- unless page.topic-page -%}
     {% assign new_posts = posts%}
     {% for post in new_posts | limit: 3 %}
       {% if post.url != page.url%}
         <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url({{ post.thumbnail-image | default:"/uploads/placeholder-thumb.jpg" }});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
       {% endif %}
     {% endfor %}
+  {%- endunless -%}
+    
   {% endunless %}
 </ul>
