@@ -19,12 +19,12 @@ To address this instability, the U.S. Agency for International Development (USAI
 
 Working exclusively with local and national partners, Nexos Locales has produced encouraging results in:
 
-* Laying foundations for civic growth and building the capacity of institutions such as Guatemala’s [National Association of Municipalities (ANAM)](http://anam.org.gt/site/).
-* Assisting many of the project’s 44 partner municipalities to enjoy more transparent municipal finances for better planning, including increased streams of own-source revenue.
-* Increasing the numbers of citizens participating in local governance and improving public service delivery. 
+* Laying foundations for civic participation and building the capacity of institutions such as Guatemala’s [National Association of Municipalities (ANAM)](http://anam.org.gt/site/).
+* Assisting many of the project’s 44 partner municipalities to benefit from more transparent municipal finances for better planning, including increased streams of own-source revenue.
+* Increasing the number of citizens participating in local governance and improving public service delivery. 
 * Developing tools for use in the 44 municipalities that have subsequently been expanded into all 340 municipalities in Guatemala, thanks to the support of the ANAM; these tools have been recognized as best practices in municipal management.
 
-![Devs----Nexos-3.jpg](/uploads/Devs----Nexos-3.jpg)
+![Devs----Nexos-3.jpg](/uploads/Devs----Nexos-3.jpg)`Water quality testing in Santa Cruz Barillas.`
 
 ## Increasing Local Revenues
 
@@ -37,9 +37,9 @@ Nexos Locales assisted these locales by:
 * Creating radio spots to encourage citizens to pay fees and become aware of their role in local development; and
 * Supporting municipal councils to craft and pass municipal legislation to enforce debt collection.
 
-Partner municipalities have increased revenues an average of 1,062,136 Guatemalan quetzal (US$139,754) thanks to their improved fiscal practices.
+Partner municipalities have increased revenues by an average of 1,062,136 Guatemalan quetzal (US$139,754) thanks to their improved fiscal practices.
 
-![Devs----Nexos-4.jpg](/uploads/Devs----Nexos-4.jpg)
+![Devs----Nexos-4.jpg](/uploads/Devs----Nexos-4.jpg)`Launch of the #SanRafaInfo smartphone app in San Rafael Pie De La Cuesta.`
 
 ## Mobile App Unlocks City Hall
 
@@ -64,7 +64,7 @@ More than 1,700 Chiantla residents have downloaded the app, and e-dialogue is pi
 
 ## Creating Citizen Charters 
 
-Nexos Locales is also helping municipalities to craft Citizen Charters—agreements between residents and their municipal government on the standards expected of each to ensure adequate service provision:
+Nexos Locales is helping municipalities to craft Citizen Charters—agreements between residents and their municipal government on the standards expected of each to ensure adequate service provision:
 
 In **San Marcos**, a working group of civil society, business, municipal, and water/sanitation officials soft-launched a Citizen Charter on water service provision. The Charter records agreements between the municipality and citizens—including 8,000 registered water customers—on quality standards and the responsibilities of each party.
 
