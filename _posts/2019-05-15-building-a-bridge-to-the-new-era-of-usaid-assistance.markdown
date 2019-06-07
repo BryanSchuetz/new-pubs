@@ -5,8 +5,8 @@ tags:
 - innovation
 - DAI
 author: Meredith Perry
-thumbnail-image: "/uploads/CDIgraphic.CC.0523-d04af9.pdf"
-social-image: "/uploads/CDIgraphic.CC.0523-c98eb9.pdf"
+thumbnail-image: "/uploads/CDIgraphic.CC.0523-a1a1fd.jpg"
+social-image: "/uploads/CDIgraphic.CC.0523-a1ff41.jpg"
 publication: Developments
 ---
 
