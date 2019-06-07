@@ -1,9 +1,8 @@
 ---
 title: Making Land Rights Real
-permalink: "/land"
 layout: post
 topic-page: Land Rights
-permalink: /land-rights
+permalink: "/land-rights"
 author: Richard Baldwin
 publication: Developing Alternatives
 tags:
