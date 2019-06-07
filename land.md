@@ -3,10 +3,7 @@ title: Making Land Rights Real
 permalink: "/land"
 layout: post
 topic-page: Land Rights
-<<<<<<< HEAD
 permalink: /land-rights
-=======
->>>>>>> 4db6ca8f42d6aa8d61ef2050647f9353829084d9
 author: Richard Baldwin
 publication: Developing Alternatives
 tags:
