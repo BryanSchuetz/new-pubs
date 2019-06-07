@@ -75,7 +75,7 @@ Unemployment in the West Bank and Gaza averages 31 percent, and the territories 
 
 **5. A businesslike approach pays dividends.** When assessing a new technology, product, or market, Compete calculated the return on investment by means of a pilot project. Armed with actual costs and revenues, it used similar metrics to screen applications for assistance. Sector managers traveled to applicants to verify information—each application was rigorously appraised by an unbiased committee of Compete team members.
  
-![DEVS----Compete-new.jpg](/uploads/DEVS----Compete-new.jpg)`Signing a Memorandum of Understanding with the Ministry of Agriculture of the Palestinian Authority.` 
+![DEVS----Compete-MOU.jpg](/uploads/DEVS----Compete-MOU.jpg)`Signing a Memorandum of Understanding with the Ministry of Agriculture of the Palestinian Authority.` 
 
 **6. Coordinate with relevant ministries.** From the start, Compete coordinated with the ministries of agriculture, ICT, tourism and others. For example, Compete and the Ministry of Agriculture (MoA) developed and signed a memorandum of understanding aligning Compete’s interventions with MoA strategy. The MoA was assigned a Compete point of contact, and the MoA field extension agronomist often joined the Compete team when visiting farmers, leading to broad buy-in and enhanced credibility.
 
