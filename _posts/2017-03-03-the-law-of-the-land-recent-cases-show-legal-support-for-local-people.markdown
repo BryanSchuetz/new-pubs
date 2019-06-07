@@ -13,8 +13,8 @@ featured?:
 assets:
 - path: "/uploads/Karol headshot small.jpg"
   author?: 'yes'
-thumbnail-image: /uploads/law-of-the-land.png
-social-image: /uploads/law-of-the-land.png
+thumbnail-image: "/uploads/law-of-the-land.png"
+social-image: "/uploads/law-of-the-land.png"
 topic-page: Land Rights
 ---
 

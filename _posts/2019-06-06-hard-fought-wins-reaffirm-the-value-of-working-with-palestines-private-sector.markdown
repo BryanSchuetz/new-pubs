@@ -17,7 +17,7 @@ Businesses in the West Bank and Gaza for decades have overcome political instabi
 
 
 
-In 2011, the U.S. Agency for International Development (USAID) launched the Palestine Compete project to assist key Palestinian business sectors to become more competitive in the region and beyond. Over the course of eight years, the Compete team assisted nearly 1,800 firms in areas such as business planning, access to finance, technology, and marketing. The project’s partner firms ranged from startups to established companies, and with Compete’s assistance they delivered striking results, including:
+In 2011, the U.S. Agency for International Development (USAID) launched the [Compete](https://www.dai.com/our-work/projects/palestine-compete-project) project to assist key Palestinian business sectors to become more competitive in the region and beyond. Over the course of seven years, the Compete team assisted nearly 1,800 firms in areas such as business planning, access to finance, technology, and marketing. The project’s partner firms ranged from startups to established companies, and with Compete’s assistance they delivered striking results, including:
 
 * Increased sales by $383 million;
 * Increased exports by $254 million—with 75 percent going to the United States, Europe, Gulf countries, and others beyond traditional trading partner Israel;
@@ -27,7 +27,7 @@ In 2011, the U.S. Agency for International Development (USAID) launched the Pale
 
 <script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="w4je88rz-palestine-complete-s-results" data-w="800" data-h="886" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > Made with <a href="https://www.visme.co/make-infographics?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none">Visme Infographic Maker</a></p>
 
-The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, fishing, ICT, textiles, and garments. 
+The Compete project targeted Palestinian business sectors that offered solid growth potential: in the West Bank, information and communication technology (ICT), stone and marble, tourism, and agriculture; and in Gaza, agriculture, [fishing](https://dai-global-developments.com/articles/dreams-come-true-as-onshore-fish-farms-emerge-in-gaza), ICT, textiles, and garments. 
 
 The improved competitiveness of Compete’s targeted sectors is due in part to:
 
@@ -75,7 +75,7 @@ Unemployment in the West Bank and Gaza averages 31 percent, and the territories 
 
 **5. A businesslike approach pays dividends.** When assessing a new technology, product, or market, Compete calculated the return on investment by means of a pilot project. Armed with actual costs and revenues, it used similar metrics to screen applications for assistance. Sector managers traveled to applicants to verify information—each application was rigorously appraised by an unbiased committee of Compete team members.
  
-![Devs----Compete-13.jpg](/uploads/Devs----Compete-13.jpg)`Signing a Memorandum of Understanding with the Ministry of Agriculture of the Palestinian Authority.` 
+![DEVS----Compete-MOU.jpg](/uploads/DEVS----Compete-MOU.jpg)`Signing a Memorandum of Understanding with the Ministry of Agriculture of the Palestinian Authority.` 
 
 **6. Coordinate with relevant ministries.** From the start, Compete coordinated with the ministries of agriculture, ICT, tourism and others. For example, Compete and the Ministry of Agriculture (MoA) developed and signed a memorandum of understanding aligning Compete’s interventions with MoA strategy. The MoA was assigned a Compete point of contact, and the MoA field extension agronomist often joined the Compete team when visiting farmers, leading to broad buy-in and enhanced credibility.
 
@@ -83,9 +83,7 @@ Unemployment in the West Bank and Gaza averages 31 percent, and the territories 
 
 **8. Data visualization enhances project reporting.** By 2015, Compete possessed more than five years of comprehensive data in Excel files, which it converted into visualization using Power BI Dashboard. Using maps and basic charting tools, the data was easily sorted and visualized by sector, value chain, location, cost share, and other variables.
 
-**9. Value chain programming enables efficient interventions.** Addressing all firms along a targeted value chain creates efficiencies and deep-reaching results. For example, in 2012 Compete introduced red potatoes to Palestinian farmers—previously the territories imported red potatoes from Israel or neighboring countries. Compete assisted farmers to install and expand irrigation and invest in cooling rooms to store produce and maintain consistent supply. Compete connected farmers with buyers through forward contracts that steadied prices and improved planning. These and other activities created a critical mass of farmers supplying packing houses that now sell to local and export markets. The result: in 2012 Palestine farmed 300 dunums for red potatoes and produced 1,340 metric tons; by 2017,  red-potato farming increased to 1,668 dunums producing 5,415 metric tons.
-
-![Devs----Compete-4.jpg](/uploads/Devs----Compete-4.jpg)`DAI's Gaza-based team.` 
+**9. Value chain programming enables efficient interventions.** Addressing all firms along a targeted value chain creates efficiencies and deep-reaching results. For example, in 2012 Compete introduced red potatoes to Palestinian farmers—previously the territories imported red potatoes from Israel or neighboring countries. Compete assisted farmers to install and expand irrigation and invest in cooling rooms to store produce and maintain consistent supply. Compete connected farmers with buyers through forward contracts that steadied prices and improved planning. These and other activities created a critical mass of farmers supplying packing houses that now sell to local and export markets. The result: in 2012 Palestine farmed 300 dunums for red potatoes and produced 1,340 metric tons; by 2017,  red-potato farming increased to 1,668 dunums producing 5,415 metric tons. 
 
 **10. Continue working in Gaza.** The Gazan economy has operated against the backdrop of an Israeli land and sea blockade for 11 years. Businesses endure shortages of electricity and water. Traveling or trading across the blockade, and the entry and exit of goods—including exports by Gazan firms and imports of machinery, parts, and other inputs—remain a challenge. Yet economic growth assistance in Gaza produces positive development impacts, such as increased employment and incomes, and could in the future as well.
 
