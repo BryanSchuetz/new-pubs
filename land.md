@@ -2,7 +2,7 @@
 layout: post
 title: Making Land Rights Real
 topic-page: Land Rights
-permalink: /land
+permalink: /land-rights
 author: Richard Baldwin
 publication: Developing Alternatives
 tags:
@@ -36,7 +36,7 @@ We look forward to sharing additional articles in the coming months as part of t
 
 <div class="home grid">
   {% assign currentPosts = site.posts | where_exp: "post", "post.topic-page == 'Land Rights'" %}
-  {% assign posts = currentPosts | sort: 'date' | reverse %}
+  {% assign posts = currentPosts | sort: 'date' %}
   {% for post in posts %}
   <div class="post grid-item {% for tag in post.tags %}{{ tag | slugify }} {% endfor %}">
     <a href="{{ post.url }}" class="no-style"><h1 class="post-title">{{ post.title }}</h1></a>
