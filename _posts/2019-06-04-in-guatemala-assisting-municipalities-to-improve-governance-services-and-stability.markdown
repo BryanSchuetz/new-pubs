@@ -2,7 +2,6 @@
 title: In Guatemala, Assisting Municipalities to Improve Governance, Services, and
   Self-Reliance
 date: 2019-06-04 17:21:00 -04:00
-published: false
 tags:
 - governance
 - stability
@@ -12,7 +11,7 @@ social-image: "/uploads/Devs----Nexos-4-d23ca8.jpg"
 publication: Developments
 ---
 
-The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve local residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have been severely underserved in public sectors such as water and sanitation, food security and nutrition, schools, and citizen security. These and other conditions have exacerbated poverty, insecurity, and created push factors for outward migration as the only hope toward a better future. In 2018, more than 60,000 migrants were returned, many to the Western Highlands.
+The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve local residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have been severely underserved in public sectors such as water and sanitation, food security and nutrition, schools, and citizen security. These and other conditions have exacerbated the main drivers, or things that influence, a decision to migrate to the United States: namely, poverty and insecurity. In 2018, more than 60,000 migrants were returned, many to the Western Highlands.
 
 
 
@@ -91,7 +90,7 @@ Nexos Locales is partnering with ANAM, the Finance Ministry, and the Municipal A
 
 By aiming to connect project-made tools with nearly 300 municipalities outside of Nexos Locales’ coverage, the project is multiplying USAID’s investment.
 
-![Devs----Nexos-7.jpg](/uploads/Devs----Nexos-7.jpg)`Municipal development authority breakout session in Sibila, San Marcos.`
+![Devs----Nexos-7.jpg](/uploads/Devs----Nexos-7.jpg)`Municipal development authority breakout session in Sibinal.`
 
 ## The Road Ahead
 
