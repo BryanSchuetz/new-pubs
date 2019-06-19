@@ -1,7 +1,7 @@
 ---
 title: In Guatemala, Assisting Municipalities to Improve Governance, Services, and
   Self-Reliance
-date: 2019-06-04 17:21:00 -04:00
+date: 2019-06-19 17:21:00 -04:00
 tags:
 - governance
 - stability
