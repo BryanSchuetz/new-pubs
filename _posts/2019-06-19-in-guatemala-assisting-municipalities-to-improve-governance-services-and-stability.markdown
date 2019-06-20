@@ -11,7 +11,7 @@ social-image: "/uploads/Devs----Nexos-4-d23ca8.jpg"
 publication: Developments
 ---
 
-The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have lacked for food security and public services such as water and sanitation, schools, and citizen security. These and other conditions have exacerbated the main drivers that influence migration to the United States: namely, poverty and insecurity. In 2018, more than 60,000 migrants were returned, many to the Western Highlands.
+The communities of Guatemala’s Western Highlands have struggled for decades under persistent exclusion, limiting their ability to contribute to and profit from the benefits of the state. This exclusion has limited local governments’ capacity to serve residents and caused over-reliance on central government funds. Many of the region’s 2.3 million residents have lacked for food security and public services such as water and sanitation, schools, and citizen security. These and other conditions have exacerbated the main drivers that influence migration to the United States: namely, poverty and insecurity. In 2018, more than 60,000 migrants were returned to Guatemala, many to the Western Highlands.
 
 
 
