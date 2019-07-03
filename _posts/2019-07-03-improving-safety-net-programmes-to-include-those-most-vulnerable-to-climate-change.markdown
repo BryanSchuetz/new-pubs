@@ -3,6 +3,10 @@ title: Improving Safety-Net Programmes to Include Those Most Vulnerable to Clima
   Change
 date: 2019-07-03 11:42:00 -04:00
 published: false
+tags:
+- environment-and-energy
+- economic-growth
+- resilience
 author: Stephen McDowell, Ric Goodman, Catherine Wallis, and Rachael Steller
 publication: Developments
 ---
