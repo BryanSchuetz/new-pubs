@@ -21,7 +21,7 @@ Tanzania’s population of 60 million people is projected to double by 2050. As 
 As other countries have done, the Tanzanian government in 2013 launched a safety-net programme to assist its 1.1 million extremely poor households—almost 15 percent of the population—by providing cash transfers and other forms of social protection. The programme is being assisted by the World Bank and others and aims to reduce extreme poverty and break its intergenerational cycle. Reviews indicate that the safety net performs well and its benefits provide meaningful assistance.
 
 But will investments in safety nets increase the resilience of the poorest beneficiaries in countries where livelihoods hinge on climate change? DAI was hired to analyse Tanzania’s Productive Social Safety Net to find whether the programme was increasing climate resilience among the poorest people. The answer was … no, at least not directly.
-<iframe src="https://e.infogram.com/86feb80e-d767-484d-82a9-01774d1c755a?src=embed" title="EC Frameworks" width="700" height="1064" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+<script id="infogram_0_86feb80e-d767-484d-82a9-01774d1c755a" title="EC Frameworks" src="https://e.infogram.com/js/dist/embed.js?ASE" type="text/javascript"></script>
 However, in countries where livelihoods are highly exposed and sensitive to climatic shocks, the analysis provided instructive takeaways for current and future safety-net programmes.
 
 **1.	Who is most harmed by climate change?**
