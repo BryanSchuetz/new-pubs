@@ -45,11 +45,11 @@ Governments and donors often assume these infrastructure projects are a “win-w
 
 Despite these issues, public works programmes are often key to social protection programmes by providing visible public assets and counteracting stereotypes that social welfare recipients are unwilling to work. If public works programmes wish to meet resilience-enhancing objectives, they should:
 
-1. Focus on public assets of value to everyone, and particularly the poorest and most vulnerable, such as clean, safe drinking water sources that are free at the point of use.
+* Focus on public assets of value to everyone, and particularly the poorest and most vulnerable, such as clean, safe drinking water sources that are free at the point of use.
 
-2. Contain sufficient regularity of work days and wage rates.
+* Contain sufficient regularity of work days and wage rates.
 
-3. Ensure those who cannot perform demanding labour are not penalised and instead provided with unconditional transfers.
+* Ensure those who cannot perform demanding labour are not penalised and instead provided with unconditional transfers.
 
 Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. If safety nets can be designed to include those most vulnerable to climate change—such as poor farmers—this could increase the resilience of the poorest safety-net beneficiaries with whom they coexist.
 
