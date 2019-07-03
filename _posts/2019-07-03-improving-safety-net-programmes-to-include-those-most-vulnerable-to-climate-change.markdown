@@ -73,4 +73,5 @@ Projected changes by the 2050s:
 
 Source: climatelinks.org
 
-*Stephen McDowell, [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman), [Catherine Wallis](https://www.dai.com/who-we-are/our-team/catherine-wallis), and Rachael Steller*
+*Consultant Stephen McDowell and DAI’s Ric Goodman, Catherine Wallis, and Rachael Steller conducted an analysis of Tanzania’s Productive Social Safety Net.*
+ 
