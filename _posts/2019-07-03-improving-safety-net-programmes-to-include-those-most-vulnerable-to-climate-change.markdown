@@ -54,7 +54,7 @@ Predictable, reliable safety-net support can help the world’s poorest people e
 
 To learn more about this project and DAI’s analysis, please contact Ric Goodman.
 
-**Tanzania’s Climate**
+<aside>**Tanzania’s Climate**
 
 Historical climate trends:
 
@@ -71,7 +71,7 @@ Projected changes by the 2050s:
 * Rise in sea levels of 16 to 42 centimetres.
 * Disappearance of glaciers from Kilimanjaro.
 
-Source: climatelinks.org
+Source: climatelinks.org </aside>
 
 *Consultant Stephen McDowell and DAI’s Ric Goodman, Catherine Wallis, and Rachael Steller conducted an analysis of Tanzania’s Productive Social Safety Net.*
  
