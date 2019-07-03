@@ -34,6 +34,8 @@ But droughts, floods, and other disasters linked to climate breakdown will most 
 
 The poorest may suffer indirectly through increased local food prices due to climate-related events, as they are unlikely to have sufficient income to meet increased food costs. For example, rural beneficiaries of Tanzania’s safety-net programme already spend up to 91 percent of their income on food. The poorest may also be indirectly impacted because they often rely on climate-vulnerable neighbours for work or assistance.
 
+![Tanzania-safety-net-3f153e.jpg](/uploads/Tanzania-safety-net-3f153e.jpg)
+
 **2.	Can social protection programmes improve resilience to climate change?**
 
 Safety-net programmes that target only the poorest people—and not those who own assets—have limited ability to improve climate resilience. To address the impact of climate change, programmes such as Tanzania’s would need to expand their scope beyond the poorest to include households that own assets such as land and livestock but are not wealthy enough to rebuild following disaster or afford resilience-enhancing measures such as drought-resistant crops, irrigation, or infrastructure.
