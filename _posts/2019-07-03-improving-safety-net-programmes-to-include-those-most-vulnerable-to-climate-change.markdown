@@ -52,7 +52,7 @@ Despite these issues, public works programmes are often key to social protection
 
 Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. If safety nets can be designed to include those most vulnerable to climate change—such as poor farmers—this could increase the resilience of the poorest safety-net beneficiaries with whom they coexist.
 
-To learn more about this project and DAI’s analysis, please contact Ric Goodman.
+To learn more about this project and DAI’s analysis, please contact [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman).
 
 <aside>Tanzania’s Climate
 
