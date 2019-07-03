@@ -54,16 +54,14 @@ Predictable, reliable safety-net support can help the world’s poorest people e
 
 To learn more about this project and DAI’s analysis, please contact Ric Goodman.
 
-<aside>**Tanzania’s Climate**
+<aside>Tanzania’s Climate
 
 Historical climate trends:
-
 * Increased average temperature of 1°C (1960– 2006) with little change in overall precipitation.
 * Accelerated loss of glacial volume on Mount Kilimanjaro with an 85-percent reduction of the Kibo Summit Glacier from 1912 to 2009.
 * Rise in sea levels of 4–20 centimetres per decade (1955–2003) everywhere except Zanzibar, which recorded a decrease in sea levels (1984–2004).
 
 Projected changes by the 2050s:
-
 * Increased average annual temperature of 1.4 to 2.3°C.
 * Increased duration of heat waves (by 7–22 days) and dry spells (by up to 7 days).
 * Likely increase in average annual rainfall (range of -3 to +9 percent).
