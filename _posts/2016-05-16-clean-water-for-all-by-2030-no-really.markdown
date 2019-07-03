@@ -4,10 +4,12 @@ date: 2016-05-16 16:13:00 -04:00
 tags:
 - environment-and-energy
 - global-health
+author: Charles Coon
+thumbnail-image: "/uploads/Devs----water-2.jpg"
+social-image: "/uploads/Devs----water-2.jpg"
 publication: Developments
 issue: 
 author-bio: Charles Coon is editor of DAI's *Developments* newsletter.
-author: Charles Coon
 featured?: 
 assets:
 - path: "/uploads/Devs----water-4.jpg"
@@ -20,8 +22,6 @@ assets:
   name: Devs----water-2
 - path: "/uploads/Devs----water-1.jpg"
   name: Devs----water-1
-thumbnail-image: "/uploads/Devs----water-2.jpg"
-social-image: "/uploads/Devs----water-2.jpg"
 ---
 
 The audacity of United Nations Sustainable Development Goal No. 6—to ensure clean water and sanitation for all by 2030—is balanced by a few encouraging realities: there are myriad ways to attack the goal collectively, there is real clout behind global water initiatives, and—most promisingly—the world has already achieved notable results in water development. Since 1990, for example, more than 1.9 billion people have gained access to piped drinking water and 2.1 billion to improved sanitation, according to the UN.
@@ -76,3 +76,5 @@ Despite many successes in the water arena, 663 million people still do not have 
 It is worth noting, though, that the UN Millennium Development Goal (2000–2015) addressing water, sanitation, and conditions in slums was fully or partly achieved in eight of nine geographies; only the results for Sub-Saharan Africa fell short. It is also worth noting that all 17 of the Sustainable Development Goals unveiled in September—including those for poverty and hunger, health, infrastructure, cities, and economic growth and jobs—are largely reliant on the availability of clean water and sanitation. 
 
 The stakes, then, are high. But projects like those mentioned above, and the collective efforts of innumerable players in the water sector and beyond, have moved the global needle on water. If we can maintain this disciplined approach to water management, underpinned by a commitment to sustainable programming, there is no reason to believe the 2030 target is beyond our grasp.
+
+*Charles Coon is a principal communications writer and editor of DAI's Developments newsletter.*
