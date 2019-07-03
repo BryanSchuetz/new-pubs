@@ -3,6 +3,8 @@ title: Improving Safety-Net Programmes to Include Those Most Vulnerable to Clima
   Change
 date: 2019-07-03 11:42:00 -04:00
 published: false
+author: Stephen McDowell, Ric Goodman, Catherine Wallis, and Rachael Steller
+publication: Developments
 ---
 
 Tanzania’s population of 60 million people is projected to double by 2050. As with many low-income countries, Tanzania’s livelihoods and food supply largely depend on livestock and rainfed agriculture and fisheries, despite increasing urbanisation. The climate supporting these conditions is projected to break down through the 2050s with warmer temperatures, longer droughts and heat waves, and increased frequency and intensity of heavy rainfall events, among other changes.
