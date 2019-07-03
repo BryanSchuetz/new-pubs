@@ -7,7 +7,9 @@ tags:
 - environment-and-energy
 - economic-growth
 - resilience
-author: Stephen McDowell, Ric Goodman, Catherine Wallis, and Rachael Steller
+author: Stephen McDowell, [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman),
+  [Catherine Wallis](https://www.dai.com/who-we-are/our-team/catherine-wallis), and
+  Rachael Steller
 publication: Developments
 ---
 
@@ -70,3 +72,5 @@ Projected changes by the 2050s:
 * Disappearance of glaciers from Kilimanjaro.
 
 Source: climatelinks.org
+
+*Stephen McDowell, [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman), [Catherine Wallis](https://www.dai.com/who-we-are/our-team/catherine-wallis), and Rachael Steller*
