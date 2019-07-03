@@ -10,6 +10,8 @@ tags:
 author: Stephen McDowell, [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman),
   [Catherine Wallis](https://www.dai.com/who-we-are/our-team/catherine-wallis), and
   Rachael Steller
+thumbnail-image: "/uploads/Tanzania-safety-net-6f4a38.jpg"
+social-image: "/uploads/Tanzania-safety-net.jpg"
 publication: Developments
 ---
 
