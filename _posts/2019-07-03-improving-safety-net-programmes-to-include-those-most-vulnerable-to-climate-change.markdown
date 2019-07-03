@@ -68,5 +68,5 @@ Projected changes by the 2050s:
 * Disappearance of glaciers from Kilimanjaro.
 Source: climatelinks.org </aside>
 
-*Consultant Stephen McDowell and DAI’s Ric Goodman, Catherine Wallis, and Rachael Steller conducted an analysis of Tanzania’s Productive Social Safety Net.*
+*Consultant Stephen McDowell and DAI’s Ric Goodman, Catherine Wallis, and Rachael Steller conducted the analysis of Tanzania’s Productive Social Safety Net.*
  
