@@ -46,29 +46,15 @@ Governments and donors often assume these infrastructure projects are a “win-w
 
 Despite these issues, public works programmes are often key to social protection programmes by providing visible public assets and counteracting stereotypes that social welfare recipients are unwilling to work. If public works programmes wish to meet resilience-enhancing objectives, they should:
 
-1.	Focus on public assets of value to everyone, and particularly the poorest and most vulnerable, such as clean, safe drinking water sources that are free at the point of use.
+1. Focus on public assets of value to everyone, and particularly the poorest and most vulnerable, such as clean, safe drinking water sources that are free at the point of use.
 
-2.	Contain sufficient regularity of work days and wage rates.
+2. Contain sufficient regularity of work days and wage rates.
 
-3.	Ensure those who cannot perform demanding labour are not penalised and instead provided with unconditional transfers.
+3. Ensure those who cannot perform demanding labour are not penalised and instead provided with unconditional transfers.
 
 Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. If safety nets can be designed to include those most vulnerable to climate change—such as poor farmers—this could increase the resilience of the poorest safety-net beneficiaries with whom they coexist.
 
 To learn more about this project and DAI’s analysis, please contact [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman).
-
-> Tanzania’s Climate
-Historical climate trends:
-* Increased average temperature of 1°C (1960– 2006) with little change in overall precipitation.
-* Accelerated loss of glacial volume on Mount Kilimanjaro with an 85-percent reduction of the Kibo Summit Glacier from 1912 to 2009.
-* Rise in sea levels of 4–20 centimetres per decade (1955–2003) everywhere except Zanzibar, which recorded a decrease in sea levels (1984–2004).
-Projected changes by the 2050s:
-* Increased average annual temperature of 1.4 to 2.3°C.
-* Increased duration of heat waves (by 7–22 days) and dry spells (by up to 7 days).
-* Likely increase in average annual rainfall (range of -3 to +9 percent).
-* Increased heavy rainfall event frequency (7–40 percent) and intensity (2–11 percent).
-* Rise in sea levels of 16 to 42 centimetres.
-* Disappearance of glaciers from Kilimanjaro.
-Source: climatelinks.org </aside>
 
 *Consultant Stephen McDowell and DAI’s Ric Goodman, Catherine Wallis, and Rachael Steller conducted the analysis of Tanzania’s Productive Social Safety Net.*
  
