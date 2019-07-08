@@ -30,7 +30,7 @@ However, in countries where livelihoods are highly exposed and sensitive to clim
 
 The impacts of climate change may lead some to assume that the poorest will always be the most adversely affected. After all, the poorest people often live rural or pastoral lives, their livelihoods largely climate dependent.
 
-But droughts, floods, and other disasters linked to climate change will most directly affect people who hold vulnerable assets—such as small farms or livestock—which distinguishes them from the asset-less people who directly benefit from safety nets.
+But droughts, floods, and other disasters linked to climate change will most directly affect people who hold vulnerable assets—such as small farms or livestock—which distinguishes them from those without assets who directly benefit from safety nets.
 
 The poorest may suffer indirectly through increased local food prices due to climate-related events, as they are unlikely to have sufficient income to pay more for food. For example, rural beneficiaries of Tanzania’s safety-net programme already spend up to 91 percent of their income on food. The poorest may also be indirectly impacted because they often rely on climate-vulnerable neighbours for work or assistance.
 
@@ -40,7 +40,7 @@ The poorest may suffer indirectly through increased local food prices due to cli
 
 Safety-net programmes that target only the poorest people—and not those who own assets—have limited ability to improve climate resilience. To address the impact of climate change, programmes such as Tanzania’s would need to include households that own assets such as land and livestock but could not afford to rebuild following disaster or afford resilience-enhancing measures such as drought-resistant crops, irrigation, or infrastructure.
 
-These potential beneficiaries may not require year-round support but only in the lead-up to, during, and/or immediately after disasters to minimise or eliminate disruption. Developing this type of shock-responsive social protection requires significant up-front and long-term investment. For example, the expansion of Kenya’s [Hunger Safety Net Programme](https://www.dai.com/our-work/projects/kenya-hunger-safety-net-programme-phase-2-hsnp2)—including for emergency cash transfers—has been ongoing for 10 years in its design and transition to government management. Countries wishing to expand social protections against climate change should anticipate needing to register beneficiaries beyond regular recipients, establish and maintain early climate-warning systems, and agree upon payment triggers.
+These potential beneficiaries may not require year-round support but only in the lead-up to, during, and/or immediately after disasters to minimise or eliminate disruption. Developing this type of shock-responsive social protection requires significant up-front and long-term investment. For example, the expansion of Kenya’s [Hunger Safety Net Programme](https://www.dai.com/our-work/projects/kenya-hunger-safety-net-programme-phase-2-hsnp2)—including for emergency cash transfers—has been ongoing for 10 years in its design and transition to government management. Countries wishing to expand social protections against climate change should anticipate needing to register beneficiaries beyond typical recipients, establish and maintain early climate-warning systems, and agree upon payment triggers.
 
 **3.	Who really benefits from public works programmes?**
 
@@ -55,7 +55,7 @@ Despite these issues, public works programmes are often key to social protection
 
 * Ensure those who cannot perform demanding labour are not penalised and instead provided with unconditional transfers.
 
-Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. If safety nets include those most vulnerable to climate change—such as poor farmers—this could increase their resilience as well.
+Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. But to increase the resilience of subsistence and low-income farmers—those *most vulnerable* to climate change—safety nets should be prepared to safeguard their limited but essential assets.
 
 To learn more about this project and DAI’s analysis, please contact [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman).
 
