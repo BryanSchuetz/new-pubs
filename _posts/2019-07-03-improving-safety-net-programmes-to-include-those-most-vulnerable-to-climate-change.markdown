@@ -15,12 +15,12 @@ social-image: "/uploads/Tanzania-safety-net.jpg"
 publication: Developments
 ---
 
-Tanzania’s population of 60 million people is projected to double by 2050. As with many low-income countries, Tanzania’s livelihoods and food supply largely depend on livestock and rainfed agriculture and fisheries, despite increasing urbanisation. The climate supporting these conditions is projected to break down through the 2050s with warmer temperatures, longer droughts and heat waves, and increased frequency and intensity of heavy rainfall events, among other changes.
+Tanzania’s population of 60 million people is projected to double by 2050. As with many low-income countries, Tanzania’s livelihoods and food supply largely depend on livestock and rain-fed agriculture and fisheries. The climate supporting these conditions is projected to change through the 2050s with warmer temperatures, longer droughts and heat waves, and increased frequency and intensity of heavy rainfall events.
 
 
 
 
-As other countries have done, the Tanzanian government in 2013 launched a safety-net programme to assist its 1.1 million extremely poor households—almost 15 percent of the population—by providing cash transfers and other forms of social protection. The programme is being assisted by the World Bank and others and aims to reduce extreme poverty and break its intergenerational cycle. Reviews indicate that the safety net performs well and its benefits provide meaningful assistance.
+The Tanzanian government in 2013 launched a safety-net programme to assist 1.1 million extremely poor households—almost 15 percent of the population—by providing cash transfers and other forms of social protection. The programme is being co-funded by the World Bank and aims to reduce extreme poverty and break its intergenerational cycle. Reviews indicate that the safety net performs well and its benefits provide meaningful assistance.
 
 But will investments in safety nets increase the resilience of the poorest beneficiaries in countries where livelihoods hinge on climate change? DAI was hired to analyse Tanzania’s Productive Social Safety Net to find whether the programme was increasing climate resilience among the poorest people. The answer was … no, at least not directly.
 <script id="infogram_0_f1418726-280d-4713-b2e3-885d37de3e2a" title="Tanzania Climate Change" src="https://e.infogram.com/js/dist/embed.js?BTj" type="text/javascript"></script>
