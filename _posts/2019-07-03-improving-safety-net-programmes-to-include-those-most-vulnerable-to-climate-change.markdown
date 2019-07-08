@@ -55,7 +55,7 @@ Despite these issues, public works programmes are often key to social protection
 
 * Ensure those who cannot perform demanding labour are not penalised and instead provided with unconditional transfers.
 
-Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. But to increase the resilience of subsistence and low-income farmers—those *most vulnerable* to climate change—safety nets should be prepared to safeguard their limited but essential assets.
+Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. But to increase the resilience of subsistence and low-income farmers—those *most vulnerable* to climate change—safety nets should be prepared to safeguard their limited assets.
 
 To learn more about this project and DAI’s analysis, please contact [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman).
 
