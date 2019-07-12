@@ -22,7 +22,7 @@ Tanzania’s population of 60 million is projected to double by 2050. As with ma
 
 The Tanzanian government in 2013 launched a safety-net program to assist 1.1 million extremely poor households—almost 15 percent of the population—by providing cash transfers and other forms of social protection. The program is being co-funded by the World Bank and aims to reduce extreme poverty and enable the very poor to improve their lives, such as by enabling their children to attend school. [Reviews](http://projects.worldbank.org/P124045/tanzania-third-social-action-fund-productive-safety-nets-program-tasaf-iii-psnp?lang=en&tab=results) indicate that the safety net performs well and its benefits provide meaningful assistance.
 
-But will investments in safety nets increase the resilience of beneficiaries in countries where livelihoods hinge on climate change? DAI was hired to analyze Tanzania’s Productive Social Safety Net to determine whether the program was increasing climate resilience among the poorest people. The answer was … no, at least not directly.
+But will investments in safety nets increase the resilience of beneficiaries in countries where livelihoods hinge on climate change? DAI was hired to analyze Tanzania’s Productive Social Safety Net to determine whether the program is increasing climate resilience among the poorest people. The answer was no ... at least not directly.
 <script id="infogram_0_f1418726-280d-4713-b2e3-885d37de3e2a" title="Tanzania Climate Change" src="https://e.infogram.com/js/dist/embed.js?BTj" type="text/javascript"></script>
 However, in countries where livelihoods are highly exposed and sensitive to climatic shocks, the analysis provided instructive takeaways for future safety-net programs.
 
@@ -32,7 +32,7 @@ The impacts of climate change may lead some to assume that the poorest will alwa
 
 But droughts, floods, and other disasters linked to climate change will most directly affect people who hold vulnerable assets—such as small farms or livestock—which distinguishes them from those without assets who directly benefit from safety nets.
 
-The poorest may suffer indirectly through increased local food prices due to climate-related events, as they are unlikely to have sufficient income to pay more for food. For example, rural beneficiaries of Tanzania’s safety-net program already spend up to 91 percent of their income on food. The poorest may also be indirectly impacted because they often rely on climate-vulnerable neighbors for work or assistance.
+The poorest may suffer indirectly through increased local food prices due to climate-related events, as they are unlikely to have sufficient income to pay more for food. For example, rural beneficiaries of Tanzania’s safety-net program already spend up to 91 percent of their income on food. The poorest may also be indirectly affected because they often rely on climate-vulnerable neighbors for work or assistance.
 
 ![Tanzania-safety-net-096a64.jpg](/uploads/Tanzania-safety-net-096a64.jpg)`Tanzania Productive Social Safety Net distribution. Photo: United Nations Tanzania`  
 
@@ -56,7 +56,7 @@ Despite these issues, public works programs are often key to social protection p
 
 * Ensure those who cannot perform demanding labour are not penalized and instead provided with unconditional transfers.
 
-Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their young to attend school. But to increase the resilience of subsistence and low-income farmers—those *most vulnerable* to climate change—safety nets should be prepared to safeguard their limited assets.
+Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their children to attend school. But to increase the resilience of subsistence and low-income farmers—those *most vulnerable* to climate change—safety nets should be prepared to safeguard their limited assets.
 
 To learn more about this project and DAI’s analysis, please contact [Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman).
 
