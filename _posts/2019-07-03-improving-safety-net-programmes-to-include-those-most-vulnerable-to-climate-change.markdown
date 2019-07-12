@@ -24,9 +24,7 @@ The Tanzanian government in 2013 launched a safety-net program to assist 1.1 mil
 But will investments in safety nets increase the resilience of beneficiaries in countries where livelihoods hinge on climate change? DAI was hired to analyze Tanzania’s Productive Social Safety Net to determine whether the program is increasing climate resilience among the poorest people. The answer was no ... at least not directly.
 
 However, in countries where livelihoods are highly exposed and sensitive to climatic shocks, the analysis provided instructive takeaways for future safety-net programs.
-
 <script id="infogram_0_f1418726-280d-4713-b2e3-885d37de3e2a" title="Tanzania Climate Change" src="https://e.infogram.com/js/dist/embed.js?BTj" type="text/javascript"></script>
-
 **1.	Who is most harmed by climate change?**
 
 The impacts of climate change may lead some to assume that the poorest will always be the most adversely affected. After all, the poorest people often live rural or pastoral lives, their livelihoods largely climate dependent.
