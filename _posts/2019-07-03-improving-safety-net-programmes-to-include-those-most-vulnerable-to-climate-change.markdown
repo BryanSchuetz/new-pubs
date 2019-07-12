@@ -52,8 +52,6 @@ Despite these issues, public works programs are often key to social protection p
 
 * Focus on public assets of value to everyone, and particularly the poorest and most vulnerable, such as clean, safe drinking water sources that are free to use.
 
-* Contain sufficient regularity of work days and wage rates.
-
 * Ensure those who cannot perform demanding labour are not penalized and instead provided with unconditional transfers.
 
 Predictable, reliable safety-net support can help the world’s poorest people endure times of hardship and enable them to work or gain access to vocational training and their children to attend school. But to increase the resilience of subsistence and low-income farmers—those *most vulnerable* to climate change—safety nets should be prepared to safeguard their limited assets.
