@@ -38,17 +38,17 @@ Since its launch, EFSD has approved 94 projects, with some already under way and
 Most proposals originate within the target countries and are brought to the EFSD by partner development banks or EU local delegations in search of financial and technical support to turn the ideas into action. Investors are then offered incentivizes through the EU guarantee, technical assistance, and other de-risking support. In exchange, the EU requires that the projects address social and development needs, for example by creating good jobs, enhancing climate resilience, or promoting gender equity.
 
 <aside>EIP Partner Financial Institutions
-* Agencia Española de Cooperación Internacional para el Desarrollo
-* Agence Française de Développement
-* African Development Bank
-* Cassa Depositi e Prestiti
-* Compañía Española de Financiación del Desarrollo
-* Association of European Development Finance Institutions
-* European Bank for Reconstruction and Development
-* European Investment Bank
-* Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden
-* International Finance Corporation
-* Kreditanstalt für Wiederaufbau</aside>
+Agencia Española de Cooperación Internacional para el Desarrollo
+Agence Française de Développement
+African Development Bank
+Cassa Depositi e Prestiti
+Compañía Española de Financiación del Desarrollo
+Association of European Development Finance Institutions
+European Bank for Reconstruction and Development
+European Investment Bank
+Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden
+International Finance Corporation
+Kreditanstalt für Wiederaufbau</aside>
 
 <script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
 Implementation of the EFSD marks a major step forward in translating development finance into tangible progress. As the EFSD describes in its [2018 Operational Report](https://ec.europa.eu/commission/sites/beta-political/files/eip_operational_report.pdf), the fund’s projects would not be getting off the ground without de-risking measures, and the “strong interest of the partner countries, private sector, and finance institutions makes us very optimistic that working hand-in-hand with our partners and the private sector can lead to better, smarter, greener, fairer, and inclusive development.” 
