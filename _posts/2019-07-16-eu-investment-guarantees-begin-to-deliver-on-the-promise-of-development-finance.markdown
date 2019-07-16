@@ -29,7 +29,7 @@ The EIP targets partner countries in the European Neighbourhood and Sub-Saharan 
 
 To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “[blended finance](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending_en)” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
 
-<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0104wn69-european-fund-for-sustainable-development" data-w="800" data-h="1407" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ><p>
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0104wn69-european-fund-for-sustainable-development" data-w="800" data-h="1407" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > Made with <a href="https://www.visme.co/make-infographics?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none">Visme Infographic Maker</a></p>
 
 ## Sound Incentives for Good Development
 
@@ -37,7 +37,18 @@ Since its launch, EFSD has approved 94 projects, with some already under way and
 
 Most proposals originate within the target countries and are brought to the EFSD by partner development banks or EU local delegations in search of financial and technical support to turn the ideas into action. Investors are then offered incentivizes through the EU guarantee, technical assistance, and other de-risking support. In exchange, the EU requires that the projects address social and development needs, for example by creating good jobs, enhancing climate resilience, or promoting gender equity.
 
->**EIP Partner Financial Institutions:** Agencia Española de Cooperación Internacional para el Desarrollo, Agence Française de Développement, African Development Bank, Cassa Depositi e Prestiti, Compañía Española de Financiación del Desarrollo, Association of European Development Finance Institutions, European Bank for Reconstruction and Development, European Investment Bank, Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden, International Finance Corporation, and Kreditanstalt für Wiederaufbau.
+<aside>EIP Partner Financial Institutions
+* Agencia Española de Cooperación Internacional para el Desarrollo
+* Agence Française de Développement
+* African Development Bank
+* Cassa Depositi e Prestiti
+* Compañía Española de Financiación del Desarrollo
+* Association of European Development Finance Institutions
+* European Bank for Reconstruction and Development
+* European Investment Bank
+* Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden
+* International Finance Corporation
+* Kreditanstalt für Wiederaufbau</aside>
 
 <script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
 Implementation of the EFSD marks a major step forward in translating development finance into tangible progress. As the EFSD describes in its [2018 Operational Report](https://ec.europa.eu/commission/sites/beta-political/files/eip_operational_report.pdf), the fund’s projects would not be getting off the ground without de-risking measures, and the “strong interest of the partner countries, private sector, and finance institutions makes us very optimistic that working hand-in-hand with our partners and the private sector can lead to better, smarter, greener, fairer, and inclusive development.” 
