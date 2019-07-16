@@ -4,10 +4,12 @@ date: 2017-11-02 14:30:00 -04:00
 tags:
 - global-health
 - governance
+author: Charles Coon
+thumbnail-image: "/uploads/Devs----Scribner-3.jpg"
+social-image: "/uploads/Devs----Scribner-3.jpg"
 publication: Developments
 issue: Winter 2017
 author-bio: 
-author: 
 featured?: 
 assets:
 - path: "/uploads/Devs----Scribner-4-1.jpg"
@@ -20,8 +22,6 @@ assets:
   name: Devs----Scribner-4
 - path: "/uploads/Devs----Scribner-pic-1.jpg"
   name: Devs----Scribner-pic-1
-thumbnail-image: "/uploads/Devs----Scribner-3.jpg"
-social-image: "/uploads/Devs----Scribner-3.jpg"
 ---
 
 Pandemics begin with a single case but don’t stay that way: since 2000, avian influenza has killed 440 people in 14 countries, Ebola more than 11,000 people in 10 countries, and severe acute respiratory syndrome (SARS) 770 people in 37 countries. The first deaths were reported locally in Hong Kong (1997), Guinea (2013), and China (2002), respectively. HIV/AIDS was first contracted by a human from a primate in West Africa—since 1981, AIDS has killed 35 million people, including 675,000 in the United States.
