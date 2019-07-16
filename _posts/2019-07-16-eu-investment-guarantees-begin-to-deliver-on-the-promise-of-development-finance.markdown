@@ -29,7 +29,8 @@ The EIP targets partner countries in the European Neighbourhood and Sub-Saharan 
 
 To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “[blended finance](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending_en)” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
 
-<script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
+![European-Fund-for-Sustainable-Development-(1)-(2).jpg](/uploads/European-Fund-for-Sustainable-Development-(1)-(2).jpg)
+
 ## Sound Incentives for Good Development
 
 Since its launch, EFSD has approved 94 projects, with some already under way and others awaiting funding and guarantees. Approved investments include local projects such as an initiative to upgrade electricity services in Benin, regional projects like the African Guarantee Fund for Small and Medium-Sized Enterprises, and EU Neighbourhood projects such as the rejuvenation of Zhytomyr, Ukraine’s trolleybus system. 
@@ -40,8 +41,7 @@ SSA/EU By-Sector Graphic here (under construction by Kellie)
 
 >**EIP Partner Financial Institutions:** Agencia Española de Cooperación Internacional para el Desarrollo, Agence Française de Développement, African Development Bank, Cassa Depositi e Prestiti, Compañía Española de Financiación del Desarrollo, Association of European Development Finance Institutions, European Bank for Reconstruction and Development, European Investment Bank, Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden, International Finance Corporation, and Kreditanstalt für Wiederaufbau.
 
->**EIP Funding Priorities:** Sustainable agriculture, MSMEs, sustainable energy and connectivity, sustainable cities, digitalisation, and financing using local institutions and currency.
-
+<script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
 Implementation of the EFSD marks a major step forward in translating development finance into tangible progress. As the EFSD describes in its [2018 Operational Report](https://ec.europa.eu/commission/sites/beta-political/files/eip_operational_report.pdf), the fund’s projects would not be getting off the ground without de-risking measures, and the “strong interest of the partner countries, private sector, and finance institutions makes us very optimistic that working hand-in-hand with our partners and the private sector can lead to better, smarter, greener, fairer, and inclusive development.” 
 
 By incentivizing investors to support locally prioritized development in at-risk or underdeveloped locales, the EU’s EIP is providing ways for more people to play a greater role in sustainable development where it is most needed.
