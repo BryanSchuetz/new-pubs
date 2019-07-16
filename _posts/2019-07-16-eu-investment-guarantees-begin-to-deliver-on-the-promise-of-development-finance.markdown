@@ -37,8 +37,6 @@ Since its launch, EFSD has approved 94 projects, with some already under way and
 
 Most proposals originate within the target countries and are brought to the EFSD by partner development banks or EU local delegations in search of financial and technical support to turn the ideas into action. Investors are then offered incentivizes through the EU guarantee, technical assistance, and other de-risking support. In exchange, the EU requires that the projects address social and development needs, for example by creating good jobs, enhancing climate resilience, or promoting gender equity.
 
-SSA/EU By-Sector Graphic here (under construction by Kellie)
-
 >**EIP Partner Financial Institutions:** Agencia Española de Cooperación Internacional para el Desarrollo, Agence Française de Développement, African Development Bank, Cassa Depositi e Prestiti, Compañía Española de Financiación del Desarrollo, Association of European Development Finance Institutions, European Bank for Reconstruction and Development, European Investment Bank, Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden, International Finance Corporation, and Kreditanstalt für Wiederaufbau.
 
 <script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
