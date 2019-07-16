@@ -6,12 +6,14 @@ tags:
 - economic-growth
 - finance
 - fragile-states
+author: Mathilde Gaston-Mathé and Brian McMahon
+thumbnail-image: "/uploads/Devs----EIP-1.jpg"
+social-image: "/uploads/Devs----EIP-1.jpg"
 publication: Developments
 issue: Winter 2017
 author-bio: "[Mathilde Gaston-Mathé](https://www.dai.com/who-we-are/global-reach/brussels/contacts/management),
   left, is a senior consultant based in DAI's Brussels office.  DAI's Brian McMahon
   is a senior communications specialist."
-author: Mathilde Gaston-Mathé and Brian McMahon
 featured?: 
 assets:
 - path: "/uploads/DEVS----EIP-4.jpg"
@@ -28,8 +30,6 @@ assets:
   name: Devs----EIP-2
 - path: "/uploads/Devs----EIP-3.jpg"
   name: Devs----EIP-3
-thumbnail-image: "/uploads/Devs----EIP-1.jpg"
-social-image: "/uploads/Devs----EIP-1.jpg"
 ---
 
 Nowhere do entrepreneurs and investors face more risk than in fragile states where jobs and economic growth are most needed. To mitigate this risk, the EU is launching the European Fund for Sustainable Development (EFSD), part of the External Investment Plan (EIP). The EFSD brings together €2.6 billion from the existing [blended-finance operations](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending/blending-operations_en) in Africa and the European Neighbourhood region and the new guarantee for €1.5 billion. The EIP will be formally announced at the 6th African-EU Business Forum 27–28 November in Abidjan, Ivory Coast. 
