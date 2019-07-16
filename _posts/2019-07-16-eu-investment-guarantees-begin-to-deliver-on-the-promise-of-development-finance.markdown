@@ -30,7 +30,6 @@ The EIP targets partner countries in the European Neighbourhood and Sub-Saharan 
 To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “[blended finance](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending_en)” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
 
 <script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
-
 ## Sound Incentives for Good Development
 
 Since its launch, EFSD has approved 94 projects, with some already under way and others awaiting funding and guarantees. Approved investments include local projects such as an initiative to upgrade electricity services in Benin, regional projects like the African Guarantee Fund for Small and Medium-Sized Enterprises, and EU Neighbourhood projects such as the rejuvenation of Zhytomyr, Ukraine’s trolleybus system. 
