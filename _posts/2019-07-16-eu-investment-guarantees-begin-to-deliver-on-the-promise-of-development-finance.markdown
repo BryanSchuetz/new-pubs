@@ -26,7 +26,7 @@ The EIP targets partner countries in the European Neighbourhood and Sub-Saharan 
 
 To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “blended finance” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
 
-
+<iframe src="https://e.infogram.com/_/wT6B85nAU0m924g72Gmx?src=embed" title="TSPD EIP Final" width="700" height="1420" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
 ## Sound Incentives for Good Development
 
@@ -36,10 +36,9 @@ Most proposals originate within the target countries and are brought to the EFSD
 
 SSA/EU By-Sector Graphic here (under construction by Kellie)
 
-PULLOUT SIDEBAR
-EIP Partner Financial Institutions: Agencia Española de Cooperación Internacional para el Desarrollo, Agence Française de Développement, African Development Bank, Cassa Depositi e Prestiti, Compañía Española de Financiación del Desarrollo, Association of European Development Finance Institutions, European Bank for Reconstruction and Development, European Investment Bank, Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden, International Finance Corporation, and Kreditanstalt für Wiederaufbau.
+>**EIP Partner Financial Institutions:** Agencia Española de Cooperación Internacional para el Desarrollo, Agence Française de Développement, African Development Bank, Cassa Depositi e Prestiti, Compañía Española de Financiación del Desarrollo, Association of European Development Finance Institutions, European Bank for Reconstruction and Development, European Investment Bank, Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden, International Finance Corporation, and Kreditanstalt für Wiederaufbau.
 
-EIP Funding Priorities: Sustainable agriculture, MSMEs, sustainable energy and connectivity, sustainable cities, digitalisation, and financing using local institutions and currency.
+>**EIP Funding Priorities:** Sustainable agriculture, MSMEs, sustainable energy and connectivity, sustainable cities, digitalisation, and financing using local institutions and currency.
 
 Implementation of the EFSD marks a major step forward in translating development finance into tangible progress. As the EFSD describes in its 2018 Operational Report, the fund’s projects would not be getting off the ground without de-risking measures, and the “strong interest of the partner countries, private sector, and finance institutions makes us very optimistic that working hand-in-hand with our partners and the private sector can lead to better, smarter, greener, fairer, and inclusive development.” 
 
