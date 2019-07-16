@@ -29,7 +29,7 @@ The EIP targets partner countries in the European Neighbourhood and Sub-Saharan 
 
 To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “[blended finance](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending_en)” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
 
-<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0104wn69-european-fund-for-sustainable-development" data-w="800" data-h="1407" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" >
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0104wn69-european-fund-for-sustainable-development" data-w="800" data-h="1407" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ><p>
 
 ## Sound Incentives for Good Development
 
