@@ -12,6 +12,9 @@ publication: Developments
 
 The first risk-sharing finance facility under the €3.7 billion European Fund for Sustainable Development (EFSD) recently opened in Jordan, marking a milestone in the European Union (EU)’s plan to spark investment in some of the world’s most investment-starved markets.
 
+
+
+
 The Dutch Development Bank FMO’s NASIRA program, holders of a €75 million EFSD guarantee fund, will be backing small business loans issued to Syrian refugee entrepreneurs by the Jordanian microfinance institution Tamweelcom. More than 760,000 UN-registered Syrian refugees live in Jordan, many of whom formerly worked in professions or small businesses. 
 
 FMO also signed an €8 million technical assistance contract with the EU to advise financial intermediaries such as Tamweelcom and their end-borrowers. Tamweelcom is Jordan’s second-largest MFI, serving 90,000 clients through 38 branches, particularly in smaller urban areas, with business loans typically of 1,000–7,000 Jordanian dinar, or US$ 1,400–9,900.
