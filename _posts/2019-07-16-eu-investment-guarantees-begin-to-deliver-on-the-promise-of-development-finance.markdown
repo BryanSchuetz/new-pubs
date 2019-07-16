@@ -16,7 +16,9 @@ The Dutch Development Bank FMO’s NASIRA program, holders of a €75 million EF
 
 FMO also signed an €8 million technical assistance contract with the EU to advise financial intermediaries such as Tamweelcom and their end-borrowers. Tamweelcom is Jordan’s second-largest MFI, serving 90,000 clients through 38 branches, particularly in smaller urban areas, with business loans typically of 1,000–7,000 Jordanian dinar, or US$ 1,400–9,900.
 
-Launched in November 2017, the EU’s External Investment Plan (EIP) includes the EFSD, EU-funded technical assistance, and business environment support. DAI provides a range of finance and investment advisory consulting for the EIP through its management of the EU’s Trade, Private Sector Development and Engagement FacilityNASIRA explainer video here
+Launched in November 2017, the EU’s External Investment Plan (EIP) includes the EFSD, EU-funded technical assistance, and business environment support. DAI provides a range of finance and investment advisory consulting for the EIP through its management of the EU’s Trade, Private Sector Development and Engagement Facility.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sNhFHnEa8hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Committing to Sustainable Development 
 
@@ -24,7 +26,7 @@ The EIP targets partner countries in the European Neighbourhood and Sub-Saharan 
 
 To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “blended finance” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
 
-EFSD Graphic goes here
+
 
 ## Sound Incentives for Good Development
 
