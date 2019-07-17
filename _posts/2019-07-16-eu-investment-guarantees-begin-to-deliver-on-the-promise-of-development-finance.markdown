@@ -42,4 +42,4 @@ Implementation of the EFSD marks a major step forward in translating development
 
 By incentivizing investors to support locally prioritized development in at-risk or underdeveloped markets, the EU’s EIP is providing ways for more people to play a greater role in sustainable development where it is most needed.
 
-*Emmanuel Moyart is DAI's Team Leader for the Trade and Private Sector Development Facility; DAI's Mathilde Gaston-Mathé is a Facility's Communications Expert.*
+*Emmanuel Moyart is DAI's Team Leader for the Trade and Private Sector Development Facility; DAI's Mathilde Gaston-Mathé is the Facility's Communications Expert.*
