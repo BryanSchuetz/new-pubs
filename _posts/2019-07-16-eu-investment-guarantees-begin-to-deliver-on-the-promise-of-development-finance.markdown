@@ -1,7 +1,6 @@
 ---
 title: EU Investment Guarantees Begin to Deliver on the Promise of Development Finance
 date: 2019-07-16 12:59:00 -04:00
-published: false
 tags:
 - economic-growth
 - finance
@@ -27,8 +26,10 @@ FMO also signed an €8 million technical assistance contract with the EU to adv
 
 The EIP targets partner countries in the European Neighbourhood and Sub-Saharan Africa—especially fragile states—using the EU’s financial contribution and technical expertise to de-risk and attract investment capital into projects that create good jobs and sustainable development.
 
-To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “[blended finance](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending_en)” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks. 
-<iframe src="//my.visme.co/embed/0104wn69-european-fund-for-sustainable-development" height="1407" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > Made with <a href="https://www.visme.co/make-infographics?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none">Visme Infographic Maker</a></p>
+To date, the EU and Member States have invested €3.74 billion into the EFSD—€1.54 billion for guarantees and €2.2 billion for “[blended finance](https://ec.europa.eu/europeaid/policies/innovative-financial-instruments-blending_en)” operations. NASIRA—which will support young, female, and refugee/returnee entrepreneurs in EFSD partner countries—is the first of 28 EU-guaranteed investment facilities expected to be launched by FMO and 10 other partner development banks.
+ 
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0104wn69-european-fund-for-sustainable-development" data-w="800" data-h="1407" data-domain="my"></div>
+
 ## Sound Incentives for Good Development
 
 Since its launch, the EFSD has approved 94 projects, with some already under way and others awaiting funding and guarantees. Approved investments include local projects such as an initiative to upgrade electricity services in Benin, regional projects like the African Guarantee Fund for Small and Medium-Sized Enterprises, and EU Neighbourhood projects such as the rejuvenation of Zhytomyr, Ukraine’s trolleybus system. 
