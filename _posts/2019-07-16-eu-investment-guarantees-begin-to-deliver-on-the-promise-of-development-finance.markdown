@@ -1,7 +1,6 @@
 ---
 title: EU Investment Guarantees Begin to Deliver on the Promise of Development Finance
 date: 2019-07-16 12:59:00 -04:00
-published: false
 tags:
 - economic-growth
 - finance
