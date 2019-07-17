@@ -33,13 +33,13 @@ To date, the EU and Member States have invested €3.74 billion into the EFSD—
 
 ## Sound Incentives for Good Development
 
-Since its launch, EFSD has approved 94 projects, with some already under way and others awaiting funding and guarantees. Approved investments include local projects such as an initiative to upgrade electricity services in Benin, regional projects like the African Guarantee Fund for Small and Medium-Sized Enterprises, and EU Neighbourhood projects such as the rejuvenation of Zhytomyr, Ukraine’s trolleybus system. 
+Since its launch, the EFSD has approved 94 projects, with some already under way and others awaiting funding and guarantees. Approved investments include local projects such as an initiative to upgrade electricity services in Benin, regional projects like the African Guarantee Fund for Small and Medium-Sized Enterprises, and EU Neighbourhood projects such as the rejuvenation of Zhytomyr, Ukraine’s trolleybus system. 
 
-Most proposals originate within the target countries and are brought to the EFSD by partner development banks or EU local delegations in search of financial and technical support to turn the ideas into action. Investors are then offered incentivizes through the EU guarantee, technical assistance, and other de-risking support. In exchange, the EU requires that the projects address social and development needs, for example by creating good jobs, enhancing climate resilience, or promoting gender equity.
+Most proposals originate within the target countries and are brought to the EFSD by partner development banks or EU local delegations in search of financial and technical support to turn the ideas into action. Investors are then offered incentives through the EU guarantee, technical assistance, and other de-risking support. In exchange, the EU requires that the projects address social and development needs, for example by creating good jobs, enhancing climate resilience, or promoting gender equity.
 
 <script id="infogram_0__/wT6B85nAU0m924g72Gmx" title="TSPD EIP Final" src="https://e.infogram.com/js/dist/embed.js?KmO" type="text/javascript"></script>
 Implementation of the EFSD marks a major step forward in translating development finance into tangible progress. As the EFSD describes in its [2018 Operational Report](https://ec.europa.eu/commission/sites/beta-political/files/eip_operational_report.pdf), the fund’s projects would not be getting off the ground without de-risking measures, and the “strong interest of the partner countries, private sector, and finance institutions makes us very optimistic that working hand-in-hand with our partners and the private sector can lead to better, smarter, greener, fairer, and inclusive development.” 
 
-By incentivizing investors to support locally prioritized development in at-risk or underdeveloped locales, the EU’s EIP is providing ways for more people to play a greater role in sustainable development where it is most needed.
+By incentivizing investors to support locally prioritized development in at-risk or underdeveloped markets, the EU’s EIP is providing ways for more people to play a greater role in sustainable development where it is most needed.
 
-*Emmanuel Moyart leads DAI’s consultancy with the EU’s External Investment Plan; Mathilde Gaston-Mathé is a DAI senior consultant.*
+*Emmanuel Moyart is Team Leader of the Trade and Private Sector Development Facility;  leads DAI’s consultancy with the EU’s External Investment Plan; Mathilde Gaston-Mathé is a DAI senior consultant.*
