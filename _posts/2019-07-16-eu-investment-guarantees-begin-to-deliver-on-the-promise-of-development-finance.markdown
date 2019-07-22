@@ -6,6 +6,8 @@ tags:
 - finance
 - investment
 author: Emmanuel Moyart and Mathilde Gaston-Mathe
+thumbnail-image: "/uploads/Screen-Shot-2019-07-22-at-12.34.07-PM-a65137.jpg"
+social-image: "/uploads/Screen-Shot-2019-07-22-at-12.34.07-PM.jpg"
 publication: Developments
 ---
 
