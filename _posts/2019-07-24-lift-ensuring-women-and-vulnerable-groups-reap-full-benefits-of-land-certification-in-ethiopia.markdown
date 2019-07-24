@@ -30,14 +30,19 @@ Another case, in the Southern Nations, Nationalities, and Peoples' Region (SNNPR
 Ethiopian women face a wide range of obstacles in protecting their land rights:
 
 * **Cultural norms and perceptions:** Tradition in most regions regards men as farmers and women as homemakers who do not “need” as much land as men. Land rights are typically only inherited by sons. Women can lose their land rights upon marriage, divorce, or widowhood.
+
 * **Lack of literacy and legal knowledge:** Women are heavily disadvantaged by illiteracy and low awareness of land law. Legal terms are difficult to understand and the procedures for filing a case to resolve a land dispute are complex. Many women are unaware of the implications of failing to pursue their holding rights and perceive following land cases as unnecessary.
+
 * **Access to information:** By custom, women tend not to attend public meetings. When they do attend, it is considered more appropriate for men to do the talking. In multilingual communities, women commonly speak only their ethnic group’s language and struggle to participate without translation. Orphans and the disabled rely on caregivers for information presented at meetings, who often fail to relay it correctly to them.
+
 * **Access to services:** Although resources to assist in land registration are free, accessing them often involves traveling long distances—a substantial outlay of time and money that presents a major burden for women and vulnerable groups with few financial resources.  Unpaid household responsibilities such as childcare limit women’s flexibility to attend meetings or seek out assistance.
+
 * **Power dynamics:** Unequal power relations make vulnerable groups easy targets of land rights violations. Long-term tenants with means or connections may be able to claim land owned by vulnerable smallholders, encroach on their land, illegally occupy their land, or deny them of their inheritance. Some rightful landholders may not have the social or economic resources to confront violators, and therefore give up their claims.
 
 These barriers to inclusion are present at every stage of the land certification process:
 
 <script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="9079vynk-ensuring-that-women-and-vulnerable-groups-reap-the-full-benefits-of-land-certification" data-w="800" data-h="1349" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152">
+
 
 ### A New Position: Social Development Officer
 
@@ -47,7 +52,7 @@ LIFT responded to the studies by establishing Social Development Officer (SDO) p
 
 **1. Stakeholder Engagement:** Before the certification process begins, SDOs now organize sensitization training for field teams and local leaders to help them understand the unique needs of vulnerable groups.
 
-**2. Public Awareness: ** SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
+\*\*2. Public Awareness: \*\* SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
 
 **3. Vulnerable Group Mapping:** With community and administrative leaders, SDOs map vulnerable groups to identify individuals with land rights issues who require assistance.
 
