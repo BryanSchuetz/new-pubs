@@ -14,6 +14,7 @@ However, women and the vulnerable are also the most likely to slip through the c
 In our work implementing a U.K. Department for International Development land certification project in Ethiopia—[Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift)—our goal is to improve land tenure security for farmers, with a special focus on women.
 
 Nearly 90 percent of the 9 million land certificates LIFT has issued in Ethiopia now include women as joint landholders. Women and girls are more frequently inheriting land titles and more women in polygamous households now have recognized land rights. And women and marginalized individuals are increasingly bringing land dispute cases to local officials, the police, and the courts, demonstrating their sense of agency and desire to seek justice.
+
 LIFT’s process is detailed and thorough, with specific steps to ensure public awareness, correct land demarcation, and dispute resolution. Even so, women and vulnerable groups can face land rights violations.
 
 ![LIFT.jpg](/uploads/LIFT.jpg)
@@ -29,13 +30,9 @@ Another case, in the Southern Nations, Nationalities, and Peoples' Region (SNNPR
 Ethiopian women face a wide range of obstacles in protecting their land rights:
 
 * **Cultural norms and perceptions:** Tradition in most regions regards men as farmers and women as homemakers who do not “need” as much land as men. Land rights are typically only inherited by sons. Women can lose their land rights upon marriage, divorce, or widowhood.
-
 * **Lack of literacy and legal knowledge:** Women are heavily disadvantaged by illiteracy and low awareness of land law. Legal terms are difficult to understand and the procedures for filing a case to resolve a land dispute are complex. Many women are unaware of the implications of failing to pursue their holding rights and perceive following land cases as unnecessary.
-
 * **Access to information:** By custom, women tend not to attend public meetings. When they do attend, it is considered more appropriate for men to do the talking. In multilingual communities, women commonly speak only their ethnic group’s language and struggle to participate without translation. Orphans and the disabled rely on caregivers for information presented at meetings, who often fail to relay it correctly to them.
-
 * **Access to services:** Although resources to assist in land registration are free, accessing them often involves traveling long distances—a substantial outlay of time and money that presents a major burden for women and vulnerable groups with few financial resources.  Unpaid household responsibilities such as childcare limit women’s flexibility to attend meetings or seek out assistance.
-
 * **Power dynamics:** Unequal power relations make vulnerable groups easy targets of land rights violations. Long-term tenants with means or connections may be able to claim land owned by vulnerable smallholders, encroach on their land, illegally occupy their land, or deny them of their inheritance. Some rightful landholders may not have the social or economic resources to confront violators, and therefore give up their claims.
 
 These barriers to inclusion are present at every stage of the land certification process:
@@ -48,19 +45,19 @@ To be clear, the issues discussed above represent a relatively small number of l
 
 LIFT responded to the studies by establishing Social Development Officer (SDO) positions responsible for ensuring that women and vulnerable groups fully participate in land certification and that their rights are protected. SDOs coordinate and gain support from local leadership, expand public awareness interventions, and provide targeted assistance to vulnerable groups, at every stage of the process.
 
-1. Stakeholder Engagement: Before the certification process begins, SDOs now organize sensitization training for field teams and local leaders to help them understand the unique needs of vulnerable groups.
+**1. Stakeholder Engagement:** Before the certification process begins, SDOs now organize sensitization training for field teams and local leaders to help them understand the unique needs of vulnerable groups.
 
-2. Public Awareness: SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
+**2. Public Awareness: ** SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
 
-3. Vulnerable Group Mapping: With community and administrative leaders, SDOs map vulnerable groups to identify individuals with land rights issues who require assistance.
+**3. Vulnerable Group Mapping:** With community and administrative leaders, SDOs map vulnerable groups to identify individuals with land rights issues who require assistance.
 
-4. Field Team Briefing: Field teams receive data on the locations of vulnerable groups who will need special attention during demarcation and the public display.
+**4. Field Team Briefing:** Field teams receive data on the locations of vulnerable groups who will need special attention during demarcation and the public display.
 
-5. Adjudication: Field teams report any disputes that they cannot resolve to SDOs, who follow up with officials.
+**5. Adjudication:** Field teams report any disputes that they cannot resolve to SDOs, who follow up with officials.
 
-6. Public Display: The program now requires wives to attend public display events with their husbands before their certifications are printed.
+**6. Public Display:** The program now requires wives to attend public display events with their husbands before their certifications are printed.
 
-7. Certificate Collection: LIFT now requires that both husbands’ and wives’ names be called, so that wives know exactly which land certificates apply to them.
+**7. Certificate Collection:** LIFT now requires that both husbands’ and wives’ names be called, so that wives know exactly which land certificates apply to them.
 
 Since the SDO position was piloted and scaled in May 2018, 1,004 land parcels have been returned to 618 women and vulnerable groups in 24 districts. Disputes have decreased to less than one percent of parcels. Almost 90 percent of land certificates include women.
 
