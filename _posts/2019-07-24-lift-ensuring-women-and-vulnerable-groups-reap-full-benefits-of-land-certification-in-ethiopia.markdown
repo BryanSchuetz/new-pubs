@@ -3,6 +3,11 @@ title: 'LIFT: Ensuring Women and Vulnerable Groups Reap Full Benefits of Land Ce
   in Ethiopia'
 date: 2019-07-24 16:46:00 -04:00
 published: false
+tags:
+- land rights
+- land tenure
+- women
+- gender
 author: Andrew Smith, Workwoha Mekonen, and Matthew Woodhouse
 publication: Developing Alternatives
 ---
@@ -40,6 +45,8 @@ Ethiopian women face a wide range of obstacles in protecting their land rights:
 * **Power dynamics:** Unequal power relations make vulnerable groups easy targets of land rights violations. Long-term tenants with means or connections may be able to claim land owned by vulnerable smallholders, encroach on their land, illegally occupy their land, or deny them of their inheritance. Some rightful landholders may not have the social or economic resources to confront violators, and therefore give up their claims.
 
 These barriers to inclusion are present at every stage of the land certification process:
+
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="9079vynk-ensuring-that-women-and-vulnerable-groups-reap-the-full-benefits-of-land-certification" data-w="800" data-h="1349" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ></p>
 
 ### A New Position: Social Development Officer
 
