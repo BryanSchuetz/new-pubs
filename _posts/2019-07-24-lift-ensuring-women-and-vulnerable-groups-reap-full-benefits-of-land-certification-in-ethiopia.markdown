@@ -3,6 +3,8 @@ title: 'LIFT: Ensuring Women and Vulnerable Groups Reap Full Benefits of Land Ce
   in Ethiopia'
 date: 2019-07-24 16:46:00 -04:00
 published: false
+author: Andrew Smith, Workwoha Mekonen, and Matthew Woodhouse
+publication: Developing Alternatives
 ---
 
 In rural Ethiopia, land represents dignity and identity. More concretely, holding a certified land title means better prospects for economic independence, stable income, and bargaining power. When it comes to receiving legal recognition as landholders, women and members of other vulnerable, systemically disenfranchised groups have the most to gain. 
@@ -40,4 +42,22 @@ These barriers to inclusion are present at every stage of the land certification
 
 <script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="9079vynk-ensuring-that-women-and-vulnerable-groups-reap-the-full-benefits-of-land-certification" data-w="800" data-h="1349" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > 
 
+A New Position: Social Development Officer
+To be clear, the issues discussed above represent a relatively small number of land certification cases in the LIFT program. A record number of women and vulnerable groups have successfully received titles to their land. Nevertheless, ensuring inclusive and comprehensive access to land certification demands action.
+LIFT responded to the studies by establishing Social Development Officer (SDO) positions responsible for ensuring that women and vulnerable groups fully participate in land certification and that their rights are protected. SDOs coordinate and gain support from local leadership, expand public awareness interventions, and provide targeted assistance to vulnerable groups, at every stage of the process. 
+1.	Stakeholder Engagement: Before the certification process begins, SDOs now organize sensitization training for field teams and local leaders to help them understand the unique needs of vulnerable groups. 
+2.	Public Awareness: SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
+3.	Vulnerable Group Mapping: With community and administrative leaders, SDOs map vulnerable groups to identify individuals with land rights issues who require assistance.
+4.	Field Team Briefing: Field teams receive data on the locations of vulnerable groups who will need special attention during demarcation and the public display.
+5.	Adjudication: Field teams report any disputes that they cannot resolve to SDOs, who follow up with officials. 
+6.	Public Display: The program now requires wives to attend public display events with their husbands before their certifications are printed. 
+7.	Certificate Collection: LIFT now requires that both husbands’ and wives’ names be called, so that wives know exactly which land certificates apply to them. 
+Since the SDO position was piloted and scaled in May 2018, 1,004 land parcels have been returned to 618 women and vulnerable groups in 24 districts. Disputes have decreased to less than one percent of parcels. Almost 90 percent of land certificates include women. 
+Lessons Learned
+A major lesson: the value of tailoring communications to the needs of specific vulnerable groups. While LIFT has always targeted these groups, its outreach materials didn’t differentiate adequately between them. Land violations and communications breakdowns varied greatly across audiences and regions—and public awareness strategies could better reflect this.
+Land certification programs can also take steps to ensure that all eligible landholders take part in the entire certification process. For example, to ensure women can participate, activities should be flexibly scheduled. LIFT’s research found that 64 percent of women who did not participate in the land demarcation stage said it was because of conflicting household responsibilities or the demands of pregnancy. 
+Projects can also encourage the community to advocate for women and the vulnerable. Sixty-five percent of women in male-headed households who participated in certificate collection did so because of their husbands’ encouragement. Getting men on board with registering women—in part by emphasizing the disadvantages unregistered women face in the event of death or divorce—is vital to increasing female participation. 
 
+Finally, on a systemic level, countries can take steps to support justice and accountability. While the Ethiopian legal system has the primary responsibility for safeguarding land rights, women and vulnerable groups are exposed to violations of land rights and to violence because laws are not properly enforced. Local government administrators, justice offices, and the courts must be involved in improving enforcement. They can, for example, assign local public prosecutors to ensure accessible justice for women and vulnerable groups. Land projects can establish stronger links with civil society organizations that promote good governance. 
+
+LIFT has reached huge milestones in expanding access to land rights in Ethiopia. Ensuring that almost all land certificates include women is a major achievement. But successful land certification programs must continue to confirm that they don’t only benefit those who already hold power. With LIFT, we are using our research findings to protect and expand the power of those who frequently lack it. Our studies on gender and social inclusion will allow the government and stakeholders to make evidence-based decisions on future land projects. 
