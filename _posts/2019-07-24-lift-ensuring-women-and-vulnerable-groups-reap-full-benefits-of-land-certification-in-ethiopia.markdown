@@ -52,7 +52,7 @@ LIFT responded to the studies by establishing Social Development Officer (SDO) p
 
 **1. Stakeholder Engagement:** Before the certification process begins, SDOs now organize sensitization training for field teams and local leaders to help them understand the unique needs of vulnerable groups.
 
-\*\*2. Public Awareness: \*\* SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
+**2. Public Awareness:** SDOs hold smaller public awareness meetings and focus groups to ensure information reaches women, who may feel more comfortable speaking in informal or separate women’s meetings.
 
 **3. Vulnerable Group Mapping:** With community and administrative leaders, SDOs map vulnerable groups to identify individuals with land rights issues who require assistance.
 
