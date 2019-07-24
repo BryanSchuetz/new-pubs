@@ -14,6 +14,7 @@ However, women and the vulnerable are also the most likely to slip through the c
 In our work implementing a U.K. Department for International Development land certification project in Ethiopia—[Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift)—our goal is to improve land tenure security for farmers, with a special focus on women.
 
 Nearly 90 percent of the 9 million land certificates LIFT has issued in Ethiopia now include women as joint landholders. Women and girls are more frequently inheriting land titles and more women in polygamous households now have recognized land rights. And women and marginalized individuals are increasingly bringing land dispute cases to local officials, the police, and the courts, demonstrating their sense of agency and desire to seek justice.
+
 LIFT’s process is detailed and thorough, with specific steps to ensure public awareness, correct land demarcation, and dispute resolution. Even so, women and vulnerable groups can face land rights violations.
 
 ![LIFT.jpg](/uploads/LIFT.jpg)
