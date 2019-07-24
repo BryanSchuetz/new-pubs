@@ -41,9 +41,6 @@ Ethiopian women face a wide range of obstacles in protecting their land rights:
 
 These barriers to inclusion are present at every stage of the land certification process:
 
-<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="9079vynk-ensuring-that-women-and-vulnerable-groups-reap-the-full-benefits-of-land-certification" data-w="800" data-h="1349" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152">
-
-
 ### A New Position: Social Development Officer
 
 To be clear, the issues discussed above represent a relatively small number of land certification cases in the LIFT program. A record number of women and vulnerable groups have successfully received titles to their land. Nevertheless, ensuring inclusive and comprehensive access to land certification demands action.
