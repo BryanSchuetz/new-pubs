@@ -8,6 +8,8 @@ tags:
 - women
 - gender
 author: Andrew Smith, Workwoha Mekonen, and Matthew Woodhouse
+thumbnail-image: "/uploads/LIFT-665052.jpg"
+social-image: "/uploads/LIFT-b441f5.jpg"
 publication: Developing Alternatives
 ---
 
