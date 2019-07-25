@@ -16,7 +16,7 @@ In 2014, the Regional Agricultural Development Program–North (RADP-North) laun
 
 ![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management paying dividends in Kunduz province.`
 
-Funded by the U.S. Agency for International Development, RADP-North worked with local farmers, businesses, and leaders to produce impressive results over its recent five-year run, including:
+Funded by the U.S. Agency for International Development (USAID), RADP-North worked with local farmers, businesses, and leaders to produce impressive results over its recent five-year run, including:
 
 * **$256 million in additional sales** in wheat and other RADP-North targeted commodities.
 * **$28 million of confirmed sales and $20 million in follow-up orders** for dried fruit and nuts through beneficiaries’ attendance at trade shows.
