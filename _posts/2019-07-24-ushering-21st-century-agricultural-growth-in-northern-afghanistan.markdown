@@ -24,8 +24,6 @@ Funded by the U.S. Agency for International Development, RADP-North became the o
 
 Working with partner provinces Badakhshan, Baghlan, Balkh, Jawzjan, Kunduz, and Samangan, home to 5 million people, RADP-North’s resuscitation of the agriculture economy succeeded in generating incomes, spinoff jobs, and spending money for farm families and the business operators among them.
 
-<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="ep96zp61-radp-north" data-w="800" data-h="3983" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > Made with <a href="https://www.visme.co/make-infographics?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none">Visme Infographic Maker</a></p>
-
 ## Restoring the Breadbasket
 
 RADP-North identified key barriers to the wheat sector’s growth:
