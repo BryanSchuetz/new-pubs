@@ -22,7 +22,7 @@ Funded by the U.S. Agency for International Development (USAID), RADP-North work
 * **$28 million of confirmed sales and $20 million in follow-up orders** for dried fruit and nuts through beneficiaries’ attendance at trade shows.
 * **$8.3 million in increased profits** by partner agribusinesses.
 * **$10.7 million in increased value** of livestock through reduced mortality, increased reproduction, and increased sale of animal by-products.
-* **Nearly 20,000 women trained in nutrition** and more than 7,700 kitchen gardens supported, empowering women to improve household nutrition, disseminate nutrition principles, reduce child diarrhea, and prevent anemia.
+* **Nearly 20,000 women trained in nutrition** and more than 7,700 kitchen gardens supported, empowering women to improve household nutrition, reduce child diarrhea, and prevent anemia.
 
 The only USAID project headquartered in Afghanistan’s northern economic hub of Mazar-i-Sharif, RADP-North worked with partner provinces Badakhshan, Baghlan, Balkh, Jawzjan, Kunduz, and Samangan, home to 5 million people. Its resuscitation of the north's agriculture economy succeeded in generating incomes, spinoff jobs, and spending money for farm families and the business operators among them.
 
