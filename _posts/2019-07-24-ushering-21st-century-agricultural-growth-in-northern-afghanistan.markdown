@@ -40,13 +40,13 @@ RADP-North modernized the sector through market-led systemic improvements target
 
 **Laser land-leveling:** RADP-North facilitated cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Once trained, these vendors sold their services to farmers, who benefited from more balanced water dispersion across farmland and reduced cost to irrigate and fertilize. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
 
-A single season of land leveling increased wheat yields and led to further mechanized operations, including for seeding and reaping. Leveling services are now being readily adopted as both farmers and service providers are profiting.
+A single season of land leveling increased wheat yields and led to further mechanized operations, including for seeding and reaping. Leveling services are now being readily adopted since both farmers and service providers are profiting.
 
 ![Devs----RADP-N-6.jpg](/uploads/Devs----RADP-N-6.jpg)`Farmers voting for favorite wheat varieties at seed field demonstration in Pul-e-Khumri, Baghlan province.` 
 
 **Introducing better seed:** RADP-North organized field demonstrations by seed purveyors of 20 certified varieties, showing farmers they could choose seed that best fit their growing conditions and budgets. Farmers’ confidence in certified seed was deemed crucial because seed proliferation in Afghanistan had been adulterated by large distribution programs that did not accommodate soil, climate, and market requirements.
 
-Additional farmers learned of certified seed through word of mouth, and RADP-North trained seed company field staff in marketing techniques such as field demos. Today, at least 10 seed businesses are connected with RADP-North farmers and better understand the market’s requirements.
+Fellow farmers soon learned about certified seed through word of mouth. RADP-North trained seed company field staff in marketing techniques such as field demos. Today, at least 10 seed businesses are connected with RADP-North farmers and better understand the market’s requirements.
 
 **Efficient seeding:** Tractor-drawn seeders seed and fertilize leveled land quickly and evenly, reducing waste, improving spacing between plants, and reducing crop competition with weeds. RADP-North helped vendors obtain 39 new tractor-seeder units through cost-share purchases plus 30 used units, with vendors then marketing their services to farmers. Mechanized seeding bolstered the input services supply chain, including for repair and maintenance of seeders.
 
