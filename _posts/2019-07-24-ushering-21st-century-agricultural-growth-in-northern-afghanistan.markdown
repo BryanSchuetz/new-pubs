@@ -38,7 +38,7 @@ RADP-North modernized the sector through market-led systemic improvements target
 
 ![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping.`
 
-**Laser land-leveling:** RADP-North facilitated cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Once trained, these vendors sold their services to farmers, who benefited from more balanced water dispersion and reduced cost to irrigate and fertilize. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
+**Laser land-leveling:** RADP-North facilitated cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Once trained, these vendors sold their services to farmers, who benefited from more balanced water dispersion across farmland and reduced cost to irrigate and fertilize. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
 
 A single season of land leveling increased wheat yields and led to further mechanized operations, including for seeding and reaping. Leveling services are now being readily adopted as both farmers and service providers are profiting.
 
