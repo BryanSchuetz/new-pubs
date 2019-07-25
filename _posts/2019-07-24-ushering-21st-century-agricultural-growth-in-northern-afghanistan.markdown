@@ -10,13 +10,13 @@ author: Rich Magnani
 publication: Developments
 ---
 
-Recent decades of drought and conflict sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the destruction of its fundamental farming sector caused major losses of livelihoods and stability but also of domestically grown food. The same formerly productive regions came to depend on imported wheat and flour.
+Recent decades of drought and conflict sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the decline of its fundamental farm crop led to major losses of livelihoods but also of domestically grown food. Formerly productive regions came to depend on *imported* wheat and flour.
 
 In 2014, the Regional Agricultural Development Program–North (RADP-North) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
 
 ![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management paying dividends in Kunduz province.`
 
-Funded by the U.S. Agency for International Development, RADP-North became the only USAID project headquartered in Afghanistan’s northern economic hub of Mazar-i-Sharif. Working with local farmers, businesses, and leaders, the RADP-North team produced impressive results over its recently concluded five-year run, including:
+Funded by the U.S. Agency for International Development, RADP-North worked with local farmers, businesses, and leaders to produce impressive results over its recent five-year run, including:
 
 * $256 million in additional sales in wheat and other RADP-North targeted commodities.
 * $28 million of confirmed sales and $20 million in follow-up orders for dried fruit and nuts through beneficiaries’ attendance at trade shows.
@@ -24,7 +24,7 @@ Funded by the U.S. Agency for International Development, RADP-North became the o
 * $10.7 million in increased value of livestock through reduced mortality, increased reproduction, and increased sale of animal by-products.
 * Nearly 20,000 women trained in nutrition and more than 7,700 kitchen gardens supported, empowering women to improve household nutrition, disseminate nutrition principles, reduce child diarrhea, and prevent anemia.
 
-Working with partner provinces Badakhshan, Baghlan, Balkh, Jawzjan, Kunduz, and Samangan, home to 5 million people, RADP-North’s resuscitation of the agriculture economy succeeded in generating incomes, spinoff jobs, and spending money for farm families and the business operators among them.
+The only USAID project headquartered in Afghanistan’s northern economic hub of Mazar-i-Sharif, RADP-North worked with partner provinces Badakhshan, Baghlan, Balkh, Jawzjan, Kunduz, and Samangan, home to 5 million people. Its resuscitation of the north's agriculture economy succeeded in generating incomes, spinoff jobs, and spending money for farm families and the business operators among them.
 
 ## Restoring the Breadbasket
 
