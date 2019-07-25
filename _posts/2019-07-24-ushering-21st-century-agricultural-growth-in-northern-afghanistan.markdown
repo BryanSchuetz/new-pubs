@@ -64,7 +64,7 @@ RADP-North targeted sectors ripe for export, including orchards (apricot and alm
 
 ## Boosting Nutrition
 
-Many Afghans suffer from chronic undernutrition, often because they lack information about nutrition. RADP-North taught basic nutrition and helped women establish vegetable gardens in their yards, helping them to:
+Many Afghans suffer from chronic undernutrition, often because they lack information. RADP-North taught basic nutrition and helped women establish vegetable gardens in their yards, helping them to:
 
 * Grow healthy seasonally fresh vegetables;
 * Save money by growing vegetables and herbs instead of purchasing them;
