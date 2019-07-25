@@ -72,7 +72,7 @@ Many Afghans suffer from chronic undernutrition, often because they lack informa
 * Recycle and reuse household waste resources such as sweepings, kitchen scraps, and dirty garden water; and
 * Employ uncultivated land around houses for productive purposes.
 
-Nearly all women were maintaining their gardens as RADP-North ended, with some cultivating seasonal vegetables by purchasing their own seed or using seed saved from the previous crop season.
+As RADP-North was ending, nearly all the women were still maintaining their gardens, with some cultivating seasonal vegetables by purchasing their own seed or using seed saved from the previous crop season.
 
 Women reported serving their families a more diverse diet while finding kitchen gardening enjoyable. Husbands expressed gratitude and many families sent their children to school with the required books and pens due to selling excess produce. Support by community elders, husbands, and brothers are helping to assure sustainability, as will, we suspect, the improved cognitive capabilities of infants and toddlers during the first critical 1,000 days of life where nutrition has significant impacts.
 
