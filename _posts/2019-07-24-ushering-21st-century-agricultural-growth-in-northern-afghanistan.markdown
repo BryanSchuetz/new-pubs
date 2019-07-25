@@ -48,7 +48,7 @@ A single season of land leveling increased wheat yields and led to further mecha
 
 Fellow farmers soon learned about certified seed through word of mouth. RADP-North trained seed company field staff in marketing techniques such as field demos. Today, at least 10 seed businesses are connected with RADP-North farmers and better understand the market’s requirements.
 
-**Efficient seeding:** Tractor-drawn seeders seed and fertilize leveled land quickly and evenly, reducing waste, improving spacing between plants, and reducing crop competition with weeds. RADP-North helped vendors obtain 39 new tractor-seeder units through cost-share purchases plus 30 used units, with vendors then marketing their services to farmers. Mechanized seeding bolstered the input services supply chain, including for repair and maintenance of seeders.
+**Efficient seeding:** Tractor-drawn seeders disperse seed and fertilize across leveled land quickly and evenly, reducing waste, improving spacing between plants, and reducing crop competition with weeds. RADP-North helped vendors obtain 39 new tractor-seeder units through cost-share purchases plus 30 used units, with vendors then marketing their services to farmers. Mechanized seeding bolstered the input services supply chain, including for repair and maintenance of seeders.
 
 ![Devs----RADP-N-4.jpg](/uploads/Devs----RADP-N-4.jpg)`Two-wheel tractor reaping demonstration in Balkh district.`
 
