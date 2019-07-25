@@ -74,7 +74,7 @@ Many Afghans suffer from chronic undernutrition, often because they lack informa
 
 As RADP-North was ending, nearly all the women were still maintaining their gardens, with some cultivating seasonal vegetables by purchasing their own seed or using seed saved from the previous crop season.
 
-Women reported serving their families a more diverse diet while finding kitchen gardening enjoyable. Husbands expressed gratitude and many families sent their children to school with the required books and pens due to selling excess produce. Support by community elders, husbands, and brothers are helping to assure sustainability, as will, we suspect, the improved cognitive capabilities of infants and toddlers during the first critical 1,000 days of life where nutrition has significant impacts.
+Women reported serving their families a more diverse diet while finding kitchen gardening enjoyable. Husbands expressed gratitude and many families sent their children to school with the required books and pens due to selling excess produce. Support by community elders, husbands, and brothers are helping to assure sustainability, as will, we suspect, their seeing improved cognitive capabilities in infants and toddlers during the first critical 1,000 days of life where nutrition has significant impacts.
 
 ![Devs----RADP-N-1.jpg](/uploads/Devs----RADP-N-1.jpg)`Feed blocks can be made anytime and stored and consumed throughout the winter without sophisticated technology and equipment.`
 
@@ -90,11 +90,11 @@ Winter feeding and veterinary field programs combined to reduce mortality loss b
 
 Laser land leveling and conservation agriculture offer gateways to further agricultural development, including through mechanization and other efficient technologies. The RADP-North team learned much about introducing and upscaling laser land-leveling and other next steps in advanced production. 
 
-RADP-North also helped jumpstart the wheat trade by hosting business-to-business events to show producers, processers, wholesalers, and retailers that Afghan wheat can compete with imports to meet the needs of bakers and pasta makers. These introductory events produced transactions for 835 tons of wheat and flour over 46 contracts. 
+RADP-North also helped jumpstart the wheat trade by hosting business-to-business events. These gathering showed producers, processors, wholesalers, and retailers that Afghan wheat can compete with imports to meet the needs of bakers and pasta makers. These introductory events produced transactions for 835 tons of wheat and flour over 46 contracts. 
 
 ![Devs----RADP-N-2.jpg](/uploads/Devs----RADP-N-2.jpg)`RADP-North’s Gender Outreach Specialist briefing participants in Mazar-i-Sharif on the availability of agricultural loans.`
 
-Instead of focusing on a value chain such as wheat, future assistance should shift toward developing farm systems and introducing profit-generating technologies. By treating the farm as a business with investment options, and farmers as businessmen balancing risk and reward, and recognizing that rotational crops and other conservation approaches can improve and sustain crop productivity, projects can deliver broader economic growth and nutrition outcomes. There is much value to be realized through under-invested crops indigenous to Afghanistan that have a history of export, including mungbean and sesame—both of which the regional market strongly demands—high-margin oilseeds, and pulses.
+Instead of focusing on a value chain such as wheat, future assistance in Afghanistan should shift toward developing farm systems and introducing profit-generating technologies. By treating the farm as a business with investment options, and farmers as businessmen balancing risk and reward, and recognizing that rotational crops and other conservation approaches can improve and sustain crop productivity, projects can deliver broader economic growth and nutrition outcomes. There is also much value to be realized through under-invested crops indigenous to Afghanistan that have a history of export—including the mungbean and sesame in high demand regionally—high-margin oilseeds, and pulses.
 
 The RADP-North project generated impressive results and value. But its most impressive achievement might be unveiling many opportunities to make Afghanistan’s agricultural economy more resilient, inclusive, and profitable for generations to come.
 
