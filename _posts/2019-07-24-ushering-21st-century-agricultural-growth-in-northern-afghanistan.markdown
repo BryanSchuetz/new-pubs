@@ -6,7 +6,7 @@ tags:
 - economic-growth
 - agriculture
 - resilience
-author: Rich Magnani
+author: "[Rich Magnani](https://www.dai.com/who-we-are/our-team/rich-magnani)"
 publication: Developments
 ---
 
