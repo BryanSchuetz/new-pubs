@@ -79,7 +79,7 @@ As RADP-North was ending, nearly all the women were still maintaining their gard
 
 Women reported serving their families a more diverse diet while finding kitchen gardening enjoyable. Husbands expressed gratitude and many families sent their children to school with the required books and pens due to selling excess produce. Support by community elders, husbands, and brothers are helping to assure sustainability, as will, we suspect, their seeing improved cognitive capabilities in infants and toddlers during the first critical 1,000 days of life where nutrition has significant impacts.
 
-![Devs----RADP-N-1.jpg](/uploads/Devs----RADP-N-1.jpg)`Feed blocks can be made anytime and stored and consumed throughout the winter without sophisticated technology and equipment.`
+![Devs----RADP-N-1.jpg](/uploads/Devs----RADP-N-1.jpg)`Feed blocks can be made anytime and stored and consumed by livestock throughout the winter without sophisticated technology and equipment.`
 
 ## Healthy Livestock, Healthy Profits
 
