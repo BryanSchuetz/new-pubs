@@ -12,7 +12,7 @@ publication: Developments
 
 Recent decades of drought and conflict sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the decline of its fundamental farm crop resulted in lost livelihoods and stability. Formerly productive communities came to depend on *imported* wheat and flour.
 
-In 2014, the Regional Agricultural Development Program–North (RADP-North) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
+In 2014, the [Regional Agricultural Development Program–North (RADP-North)](https://www.dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp-north) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
 
 ![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management paying dividends in Kunduz province.`
 
@@ -34,7 +34,7 @@ RADP-North identified key barriers to the wheat sector’s growth:
 * Weak input supply chains; and
 * Inefficient, labor-intensive crop production.
 
-RADP-North modernized the sector through market-led systemic improvements targeting soil, seed, and harvest. The project team implemented a program of conservation agriculture and introduced laser land-leveling, mechanized seeding, and mechanical harvesting.
+RADP-North modernized the sector through market-led systemic improvements targeting soil, seed, and harvest. The project team implemented a program of [conservation agriculture](http://www.fao.org/conservation-agriculture/en/) and introduced laser land-leveling, mechanized seeding, and mechanical harvesting.
 
 ![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping.`
 
