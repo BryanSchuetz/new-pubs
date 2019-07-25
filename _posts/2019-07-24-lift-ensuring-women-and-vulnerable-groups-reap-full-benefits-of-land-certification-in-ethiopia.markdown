@@ -13,6 +13,10 @@ publication: Developing Alternatives
 
 In rural Ethiopia, land represents dignity and identity. More concretely, holding a certified land title means better prospects for economic independence, stable income, and bargaining power. When it comes to receiving legal recognition as landholders, women and members of other vulnerable, systemically disenfranchised groups have the most to gain.
 
+
+
+
+
 However, women and the vulnerable are also the most likely to slip through the cracks of land certification programs. They risk becoming targets for fraud, discrimination, deception—even violence—in the process of claiming their land rights.
 
 In our work implementing a U.K. Department for International Development land certification project in Ethiopia—[Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift)—our goal is to improve land tenure security for farmers, with a special focus on women.
@@ -21,9 +25,9 @@ Nearly 90 percent of the 9 million land certificates LIFT has issued in Ethiopia
 
 LIFT’s process is detailed and thorough, with specific steps to ensure public awareness, correct land demarcation, and dispute resolution. Even so, women and vulnerable groups can face land rights violations.
 
-![LIFT.jpg](/uploads/LIFT.jpg)
+![A Woman Farmer  Referring  to  Spatial Data, Emba Alaje, Tigray (1).jpg](/uploads/A%20Woman%20Farmer%20%20Referring%20%20to%20%20Spatial%20Data,%20Emba%20Alaje,%20Tigray%20(1).jpg)`A female farmer refers to spatial land boundary data in Emba Alaje, Tigray.`
 
-To better understand the scope for, causes of, and solutions to land-related violence and social inclusion challenges, LIFT commissioned two studies across four regions of Ethiopia.  Our gender specialists sought out land claim disputes that involved women, the elderly, orphaned children, heads of destitute households, and individuals facing other challenges such as addiction or disability.
+To better understand the scope for, causes of, and solutions to land-related violence and social inclusion challenges, LIFT commissioned two studies across four regions of Ethiopia. Our gender specialists sought out land claim disputes that involved women, the elderly, orphaned children, heads of destitute households, and individuals facing other challenges such as addiction or disability.
 
 ### Case Studies: Land Rights Violations
 
