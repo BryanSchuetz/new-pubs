@@ -42,7 +42,7 @@ RADP-North modernized the sector through market-led systemic improvements target
 
 A single season of land leveling increased wheat yields and led to further mechanized operations, including for seeding and reaping. Leveling services are now being readily adopted as both farmers and service providers are profiting.
 
-![Devs----RADP-N-6.jpg](/uploads/Devs----RADP-N-6.jpg)`Farmer voting for favorite wheat variety at seed field demonstration in Pul-e-Khumri, Baghlan province.` 
+![Devs----RADP-N-6.jpg](/uploads/Devs----RADP-N-6.jpg)`Farmers voting for favorite wheat varieties at seed field demonstration in Pul-e-Khumri, Baghlan province.` 
 
 **Introducing better seed:** RADP-North organized field demonstrations by seed purveyors of 20 certified varieties, showing farmers they could choose seed that best fit their growing conditions and budgets. Farmers’ confidence in certified seed was deemed crucial because seed proliferation in Afghanistan had been adulterated by large distribution programs that did not accommodate soil, climate, and market requirements.
 
