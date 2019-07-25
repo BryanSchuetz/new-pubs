@@ -10,7 +10,7 @@ author: Rich Magnani
 publication: Developments
 ---
 
-Drought and conflict in the 1990s and 2000s cut Afghanistan’s wheat production by half. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the destruction of its fundamental farming sector caused major losses of livelihoods and stability but also of domestically grown food. The same formerly productive regions came to depend on imported wheat and flour.
+Recent decades of drought and conflict sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the destruction of its fundamental farming sector caused major losses of livelihoods and stability but also of domestically grown food. The same formerly productive regions came to depend on imported wheat and flour.
 
 In 2014, the Regional Agricultural Development Program–North (RADP-North) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
 
