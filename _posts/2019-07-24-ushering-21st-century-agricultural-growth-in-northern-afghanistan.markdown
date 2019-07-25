@@ -68,7 +68,7 @@ Many Afghans suffer from chronic undernutrition, often because they lack informa
 
 * Grow healthy seasonally fresh vegetables;
 * Save money by growing vegetables and herbs instead of purchasing them;
-* Increase incomes through surplus vegetables and herb sales;
+* Increase incomes through sales of surplus vegetables and herbs;
 * Recycle and reuse household waste resources such as sweepings, kitchen scraps, and dirty garden water; and
 * Employ uncultivated land around houses for productive purposes.
 
