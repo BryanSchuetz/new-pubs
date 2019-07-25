@@ -36,7 +36,7 @@ RADP-North identified key barriers to the wheat sector’s growth:
 
 RADP-North modernized the sector through market-led systemic improvements targeting soil, seed, and harvest. The project team implemented a program of conservation agriculture and introduced laser land-leveling, mechanized seeding, and mechanical harvesting.
 
-![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as this in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping.`
+![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping.`
 
 **Laser land-leveling:** The project facilitated cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Once trained, these vendors sold their services to farmers, who benefited from more balanced water dispersion and reduced cost to irrigate and fertilize. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
 
