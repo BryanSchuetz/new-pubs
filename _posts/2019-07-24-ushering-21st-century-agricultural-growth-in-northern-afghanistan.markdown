@@ -62,6 +62,8 @@ RADP-North targeted sectors ripe for export, including orchards (apricot and alm
 
 ![Devs----RADP-N-3.jpg](/uploads/Devs----RADP-N-3.jpg)`Training families about nutrition in Kahlak, Jawzjan province.`
 
+## Boosting Nutrition
+
 Many Afghans suffer from chronic undernutrition, often because they lack information about nutrition. RADP-North taught basic nutrition and helped women establish vegetable gardens in their yards, helping them to:
 
 * Grow healthy seasonally fresh vegetables;
