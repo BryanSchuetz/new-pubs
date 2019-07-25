@@ -2,7 +2,6 @@
 title: 'LIFT: Ensuring Women and Vulnerable Groups Reap Full Benefits of Land Certification
   in Ethiopia'
 date: 2019-07-24 16:46:00 -04:00
-published: false
 tags:
 - land rights
 - land tenure
