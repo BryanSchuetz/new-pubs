@@ -14,6 +14,8 @@ Recent decades of drought and conflict sent Afghanistan’s wheat production int
 
 In 2014, the Regional Agricultural Development Program–North (RADP-North) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
 
+![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management paying dividends in Kunduz province.`
+
 Funded by the U.S. Agency for International Development, RADP-North became the only USAID project headquartered in Afghanistan’s northern economic hub of Mazar-i-Sharif. Working with local farmers, businesses, and leaders, the RADP-North team produced impressive results over its recently concluded five-year run, including:
 
 * $256 million in additional sales in wheat and other RADP-North targeted commodities.
