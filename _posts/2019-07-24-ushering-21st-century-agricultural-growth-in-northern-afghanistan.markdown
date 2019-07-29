@@ -41,10 +41,10 @@ RADP-North identified key barriers to the wheat sector’s growth:
 
 RADP-North modernized the sector through market-led systemic improvements targeting soil, seed, and harvest. The project team implemented a program of [conservation agriculture](http://www.fao.org/conservation-agriculture/en/) and introduced laser land-leveling, mechanized seeding, and mechanical harvesting.
 
-![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping. Photo: USAID RADP-North.`
+![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is crucial to uniform irrigation and crop growth and saving water, seed, fertilizer, and irrigation time, among other benefits. Photo: USAID RADP-North.`
 
 **https://ccafs.cgiar.org/research-highlight/laser-land-levelling-how-it-strikes-all-right-climate-smart-chords#.XT83lZNKjuR
-:** RADP-North facilitated the cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Once trained, these vendors sold their services to farmers, who benefited from more balanced water dispersion across farmland and reduced cost to irrigate and fertilize. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
+:** RADP-North facilitated the cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Level farmland is crucial to distributing irrigation evenly across hectares, which promotes uniform crop growth and savings in water, seed, fertilizer, and irrigation time, among other benefits. Once trained by RADP-North, these land-leveling vendors sold their services to farmers. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
 
 A single season of land leveling increased wheat yields and led to further mechanized operations, including for seeding and reaping. Leveling services are now being readily adopted since both farmers and service providers are profiting.
 
