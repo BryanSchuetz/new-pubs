@@ -10,7 +10,7 @@ author: "[Rich Magnani](https://www.dai.com/who-we-are/our-team/rich-magnani)"
 publication: Developments
 ---
 
-Recent decades of drought and conflict sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the decline of its fundamental farm crop resulted in lost livelihoods and stability. Formerly productive communities came to depend on *imported* wheat and flour.
+Conflict and drought in recent decades sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the decline of its fundamental farm crop resulted in lost livelihoods and stability. Formerly productive communities came to depend on *imported* wheat and flour.
 
 
 
