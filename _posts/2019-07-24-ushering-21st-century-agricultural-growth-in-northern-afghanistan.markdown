@@ -1,5 +1,5 @@
 ---
-title: Ushering 21st Century Agricultural Growth in Northern Afghanistan
+title: Ushering in 21st Century Agricultural Growth to Northern Afghanistan
 date: 2019-07-24 18:19:00 -04:00
 published: false
 tags:
@@ -10,14 +10,14 @@ author: "[Rich Magnani](https://www.dai.com/who-we-are/our-team/rich-magnani)"
 publication: Developments
 ---
 
-Conflict and drought in recent decades sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair or were destroyed and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the decline of its fundamental farm crop resulted in lost livelihoods and stability. Formerly productive communities came to depend on *imported* wheat and flour.
+Drought and conflict in recent decades sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair and farmers were forced to abandon their land. In a country where the poor subsist largely on bread and tea, the decline of its fundamental farm crop resulted in lost livelihoods and stability. Formerly productive communities came to depend on *imported* wheat and flour.
 
 
 
 
-In 2014, the [Regional Agricultural Development Program–North (RADP-North)](https://www.dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp-north) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
+In 2014, the [Regional Agricultural Development Program–North (RADP-North)](https://www.dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp-north) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets, and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
 
-![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management paying dividends in Kunduz province.`
+![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management paying dividends in Kunduz province. Photo: USAID RADP-North.`
 
 Funded by the U.S. Agency for International Development (USAID), RADP-North worked with local farmers, businesses, and leaders to produce impressive results over its recent five-year run, including:
 
@@ -39,13 +39,13 @@ RADP-North identified key barriers to the wheat sector’s growth:
 
 RADP-North modernized the sector through market-led systemic improvements targeting soil, seed, and harvest. The project team implemented a program of [conservation agriculture](http://www.fao.org/conservation-agriculture/en/) and introduced laser land-leveling, mechanized seeding, and mechanical harvesting.
 
-![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping.`
+![Devs----RADP-N-5.jpg](/uploads/Devs----RADP-N-5.jpg)`Laser land-leveling such as here in Dehdadi, Balkh province is critical to conserving water and enabling mechanized seeding, fertilizing, and reaping. Photo: USAID RADP-North.`
 
 **Laser land-leveling:** RADP-North facilitated cost-share purchases of 35 laser-assisted land-leveling units by local service providers. Once trained, these vendors sold their services to farmers, who benefited from more balanced water dispersion across farmland and reduced cost to irrigate and fertilize. RADP-North facilitated the leveler supply chain—from the fabricators in Pakistan to the farmers purchasing the services—giving birth to a sector of equipment dealers and trained mechanics.  
 
 A single season of land leveling increased wheat yields and led to further mechanized operations, including for seeding and reaping. Leveling services are now being readily adopted since both farmers and service providers are profiting.
 
-![Devs----RADP-N-6.jpg](/uploads/Devs----RADP-N-6.jpg)`Farmers voting for favorite wheat varieties at seed field demonstration in Pul-e-Khumri, Baghlan province.` 
+![Devs----RADP-N-6.jpg](/uploads/Devs----RADP-N-6.jpg)`Farmers voting for favorite wheat varieties at seed field demonstration in Pul-e-Khumri, Baghlan province. Photo: USAID RADP-North.` 
 
 **Introducing better seed:** RADP-North organized field demonstrations by seed purveyors of 20 certified varieties, showing farmers they could choose seed that best fit their growing conditions and budgets. Farmers’ confidence in certified seed was deemed crucial because seed proliferation in Afghanistan had been adulterated by large distribution programs that did not accommodate soil, climate, and market requirements.
 
@@ -53,17 +53,17 @@ Fellow farmers soon learned about certified seed through word of mouth. RADP-Nor
 
 **Efficient seeding:** Tractor-drawn seeders disperse seed and fertilize across leveled land quickly and evenly, reducing waste, improving spacing between plants, and reducing crop competition with weeds. RADP-North helped vendors obtain 39 new tractor-seeder units through cost-share purchases plus 30 used units, with vendors then marketing their services to farmers. Mechanized seeding bolstered both farmers' production and the market for machine repair and maintenance.
 
-![Devs----RADP-N-4.jpg](/uploads/Devs----RADP-N-4.jpg)`Two-wheel tractor reaping demonstration in Balkh district.`
+![Devs----RADP-N-4.jpg](/uploads/Devs----RADP-N-4.jpg)`Two-wheel tractor reaping demonstration in Balkh district. Photo: USAID RADP-North.`
 
 **Harvesting profits:** Manual harvesting can comprise 30 percent of a farmer’s production costs. RADP-North facilitated contracted harvesting by: (1) mobilizing unused two-wheeled tractors and reaper equipment; (2) establishing equipment owners as service contractors; (3) helping aspiring contractors to procure new equipment; (4) linking harvesting contractors to local mechanic workshops for service; (5) demonstrating harvesting technology for farmers at field days; and (6) linking harvesters with farmers.
 
-![Devs----RADP-N-7.jpg](/uploads/Devs----RADP-N-7.jpg)`Farmer enjoying increased melon yield thanks to Integrated Pest Management training in Samangan province.`
+![Devs----RADP-N-7.jpg](/uploads/Devs----RADP-N-7.jpg)`Farmer enjoying increased melon yield thanks to Integrated Pest Management training in Samangan province. Photo: USAID RADP-North.`
 
 ## Diversifying Farms
 
 RADP-North targeted sectors ripe for export, including orchards (apricot and almond), vineyards (grapes and raisins) and melons. Five dried fruit and nut agribusinesses assisted by RADP-North generated confirmed sales of $28 million and follow-up orders of $20 million through attendance at trade shows in India, United Arab Emirates, Turkey, Kazakhstan, Uzbekistan, and China. Follow-up sales indicated the buyers’ needs were met by the supplier on previous orders.
 
-![Devs----RADP-N-3.jpg](/uploads/Devs----RADP-N-3.jpg)`Training families about nutrition in Kahlak, Jawzjan province.`
+![Devs----RADP-N-3.jpg](/uploads/Devs----RADP-N-3.jpg)`Training families about nutrition in Kahlak, Jawzjan province. Photo: USAID RADP-North.`
 
 ## Boosting Nutrition
 
@@ -79,7 +79,7 @@ As RADP-North was ending, nearly all the women were still maintaining their gard
 
 Women reported serving their families a more diverse diet while finding kitchen gardening enjoyable. Husbands expressed gratitude and many families sent their children to school with the required books and pens due to selling excess produce. Support by community elders, husbands, and brothers are helping to assure sustainability, as will, we suspect, their seeing improved cognitive capabilities in infants and toddlers during the first critical 1,000 days of life where nutrition has significant impacts.
 
-![Devs----RADP-N-1.jpg](/uploads/Devs----RADP-N-1.jpg)`Feed blocks can be made anytime and stored and consumed by livestock throughout the winter without sophisticated technology and equipment.`
+![Devs----RADP-N-1.jpg](/uploads/Devs----RADP-N-1.jpg)`Feed blocks can be made anytime and stored and consumed by livestock throughout the winter without sophisticated technology and equipment. Photo: USAID RADP-North.`
 
 ## Healthy Livestock, Healthy Profits
 
@@ -95,7 +95,7 @@ Laser land leveling and conservation agriculture offer gateways to further agric
 
 RADP-North also helped jumpstart the wheat trade by hosting business-to-business events. These gathering showed producers, processors, wholesalers, and retailers that Afghan wheat can compete with imports to meet the needs of bakers and pasta makers. These introductory events produced transactions for 835 tons of wheat and flour over 46 contracts. 
 
-![Devs----RADP-N-2.jpg](/uploads/Devs----RADP-N-2.jpg)`RADP-North’s Gender Outreach Specialist briefing participants in Mazar-i-Sharif on the availability of agricultural loans.`
+![Devs----RADP-N-2.jpg](/uploads/Devs----RADP-N-2.jpg)`RADP-North’s Gender Outreach Specialist briefing participants in Mazar-i-Sharif on the availability of agricultural loans. Photo: USAID RADP-North.`
 
 Instead of focusing on a value chain such as wheat, future assistance in Afghanistan should shift toward developing farm systems and introducing profit-generating technologies. By treating the farm as a business with investment options, and farmers as businessmen balancing risk and reward, and recognizing that rotational crops and other conservation approaches can improve and sustain crop productivity, projects can deliver broader economic growth and nutrition outcomes. There is also much value to be realized through under-invested crops indigenous to Afghanistan that have a history of export—including the mungbean and sesame in high demand regionally—high-margin oilseeds, and pulses.
 
