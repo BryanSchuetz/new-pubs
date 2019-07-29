@@ -29,6 +29,8 @@ Funded by the U.S. Agency for International Development (USAID), RADP-North work
 
 The only USAID project headquartered in Afghanistan’s northern economic hub of Mazar-i-Sharif, RADP-North worked with partner provinces Badakhshan, Baghlan, Balkh, Jawzjan, Kunduz, and Samangan, home to 5 million people. Its resuscitation of the north's agriculture economy succeeded in generating incomes and spinoff jobs for farm families and business operators.
 
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="ep96zp61-radp-north" data-w="800" data-h="3983" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > Made with <a href="https://www.visme.co/make-infographics?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none">Visme Infographic Maker</a></p>
+
 ## Restoring the Breadbasket
 
 RADP-North identified key barriers to the wheat sector’s growth:
