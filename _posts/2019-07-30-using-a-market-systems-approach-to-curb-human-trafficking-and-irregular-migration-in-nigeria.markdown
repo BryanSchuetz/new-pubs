@@ -55,6 +55,8 @@ In a little over one year, ESIP has:
 
 * Conducted the “Strengthening Market-Based Approaches to Stimulate Livelihoods” conference for more than 100 stakeholders (returnee trafficked persons, vulnerable youth, private sector representatives, Edo State Government, and civil society organizations) to reflect on the MADE approach to livelihoods programming, outcomes, and scale-up approaches. 
 
+![WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg](/uploads/WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg)
+
 ## Time to Take Action Against Trafficking
 
 July 30, 2019, is the United Nations Office on Drugs and Crime World Day Against Trafficking in Persons. To commemorate the day, MADE II is collaborating with the International Centre for Migration Policy Development (ICMPD) and Edo Taskforce Against Human Trafficking (ETAHT) at the ETAHT 6th Town Hall Meeting in Esan North and East Local Government Area of Edo State. Through the event, MADE II is furthering its work to create awareness and sensitize vulnerable households and potential victims to the dangers of illegal migration and expose participants to alternative livelihoods and aspirational economic opportunities.
