@@ -3,6 +3,13 @@ title: Using a Market Systems Approach to Curb Human Trafficking and Irregular M
   in Nigeria
 date: 2019-07-30 11:43:00 -04:00
 published: false
+tags:
+- stability
+- economic-growth
+- resilience
+- gender
+author: Enene Ejembi and Fidelis  Ekom
+publication: Developments
 ---
 
 Human trafficking is a form of modern-day slavery, a global scourge where people are illegally traded for exploitation and commercial gain. Globally, more than [$150 billion](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_243201/lang--en/index.htm) is generated from forced economic exploitation of people for commercial sex, domestic work, or other economic activities. In July 2018, the Global Slavery Index reported that 40.3 million victims of modern slavery exist worldwide and that 71 percent are women and 25 percent are children. 
