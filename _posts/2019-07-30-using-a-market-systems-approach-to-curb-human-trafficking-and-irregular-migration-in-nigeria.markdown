@@ -22,8 +22,6 @@ Victims are often young and so desperate for better living conditions that they 
 Whilst Nigeria is making significant efforts to meet the minimum standards for the elimination of trafficking—according to the [U.S. State Department’s Trafficking in Persons Report 2019](https://www.state.gov/reports/2019-trafficking-in-persons-report/)—the country remains a significant transit and destination country for traffickers.  The Nigerian National Agency for the Prohibition of Trafficking in Persons reports that Edo State is the most trafficked-through destination in Africa.
 Most victims and illegal migrants journey from Edo State to Niger republic, then travel more than 500 miles through the Sahara Desert into Libya and onward to Europe. According to the United Nations’ International Organization for Migration, as of July 2018 more than 60,000 Nigerians remain trapped in inhumane conditions in Libya, 50 percent of them from Edo State.
 
-![Devs----Traficking-Graphic.jpg](/uploads/Devs----Traficking-Graphic.jpg)
-
 ## Leveraging Market Systems for the Vulnerable
 
 In Nigeria, DAI is implementing the U.K. Department for International Development-funded [Market Development for the Niger Delta (MADE II)](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made) programme to raise the incomes of poor people in the Niger Delta, including Edo State. MADE II has two components:
@@ -34,6 +32,8 @@ In Nigeria, DAI is implementing the U.K. Department for International Developmen
 ESIP works with state agencies and other development partners to reach more than 30,000 at-risk people and engage them in income generating activities in six sectors: entertainment, fashion and beauty, information and communication technology, agribusiness, trade, renewable energy.
 
 Through ESIP, MADE II is also strengthening the capacity of state institutions to attract local and foreign investment. The programme’s goal is to attract £10 million in seed investments that make Edo State more economically attractive to investors and residents. To achieve this, MADE II is supporting the Edo State Investment Promotion Office to better position itself to attract private sector investments and grow existing investments.
+
+![Devs----Traficking-Graphic.jpg](/uploads/Devs----Traficking-Graphic.jpg)
 
 ## Results Thus Far
 
