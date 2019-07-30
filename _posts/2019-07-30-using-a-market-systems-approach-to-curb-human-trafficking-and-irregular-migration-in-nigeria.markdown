@@ -14,6 +14,9 @@ publication: Developments
 
 Human trafficking is a form of modern-day slavery, a global scourge where people are illegally traded for exploitation and commercial gain. Globally, more than [$150 billion](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_243201/lang--en/index.htm) is generated from forced economic exploitation of people for commercial sex, domestic work, or other economic activities. In July 2018, the Global Slavery Index reported that 40.3 million victims of modern slavery exist worldwide and that 71 percent are women and 25 percent are children. 
 
+
+
+
 Victims are often young and so desperate for better living conditions that they are enticed and conned by traffickers’ false promises of a job abroad. Factors that increase vulnerability to trafficking are poverty, economic disengagement, corruption, climate change-driven migration, conflict, and displacement. 
 
 Whilst Nigeria is making significant efforts to meet the minimum standards for the elimination of trafficking—according to the [U.S. State Department’s Trafficking in Persons Report 2019](https://www.state.gov/reports/2019-trafficking-in-persons-report/)—the country remains a significant transit and destination country for traffickers.  The Nigerian National Agency for the Prohibition of Trafficking in Persons reports that Edo State is the most trafficked-through destination in Africa.
