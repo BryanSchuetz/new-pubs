@@ -19,15 +19,21 @@ Human trafficking is a form of modern-day slavery, a global scourge where people
 
 Victims are often young and so desperate for better living conditions that they are enticed and conned by traffickers’ false promises of a job abroad. Factors that increase vulnerability to trafficking are poverty, economic disengagement, corruption, climate change-driven migration, conflict, and displacement. 
 
+![DAI-Newsletter-01.jpg](/uploads/DAI-Newsletter-01.jpg)
+
 Whilst Nigeria is making significant efforts to meet the minimum standards for the elimination of trafficking—according to the [U.S. State Department’s Trafficking in Persons Report 2019](https://www.state.gov/reports/2019-trafficking-in-persons-report/)—the country remains a significant transit and destination country for traffickers.  The Nigerian National Agency for the Prohibition of Trafficking in Persons reports that Edo State is the most trafficked-through destination in Africa.
 Most victims and illegal migrants journey from Edo State to Niger republic, then travel more than 500 miles through the Sahara Desert into Libya and onward to Europe. According to the United Nations’ International Organization for Migration, as of July 2018 more than 60,000 Nigerians remain trapped in inhumane conditions in Libya, 50 percent of them from Edo State.
+
+![DAI-Newsletter-06.jpg](/uploads/DAI-Newsletter-06.jpg)
 
 ## Leveraging Market Systems for the Vulnerable
 
 In Nigeria, DAI is implementing the U.K. Department for International Development-funded [Market Development for the Niger Delta (MADE II)](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made) programme to raise the incomes of poor people in the Niger Delta, including Edo State. MADE II has two components:
  
 * **Market Development** focuses on facilitating pro-poor and inclusive economic growth in several agricultural value chains, building on the success of the first [MADE](https://www.dai.com/our-work/projects/nigeria-market-development-in-the-niger-delta-1) programme, which ran from 2013–2018.
-* The **Edo State Investment Portfolio (ESIP)** addresses illegal migration by creating aspirational employment opportunities and influencing behavior change in a target group of vulnerable women, youth, and victims of human trafficking. By providing access to opportunities and increased incomes, the lure of illegal migration is reduced, increasing resilience and reducing the vulnerability of those most at risk of being trafficked.  
+* The **Edo State Investment Portfolio (ESIP)** addresses illegal migration by creating aspirational employment opportunities and influencing behavior change in a target group of vulnerable women, youth, and victims of human trafficking. By providing access to opportunities and increased incomes, the lure of illegal migration is reduced, increasing resilience and reducing the vulnerability of those most at risk of being trafficked.
+
+![DAI-Newsletter-05.jpg](/uploads/DAI-Newsletter-05.jpg)
 
 ESIP works with state agencies and other development partners to reach more than 30,000 at-risk people and engage them in income generating activities in six sectors: entertainment, fashion and beauty, information and communication technology, agribusiness, trade, renewable energy.
 
