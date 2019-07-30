@@ -8,6 +8,8 @@ tags:
 - resilience
 - gender
 author: Enene Ejembi and Fidelis  Ekom
+thumbnail-image: "/uploads/WhatsApp-Image-2019-07-30-at-8.45.50-AM-029bb3.jpg"
+social-image: "/uploads/WhatsApp-Image-2019-07-30-at-8.45.50-AM-2c470b.jpg"
 publication: Developments
 ---
 
