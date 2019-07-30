@@ -2,7 +2,6 @@
 title: Using a Market Systems Approach to Curb Human Trafficking and Irregular Migration
   in Nigeria
 date: 2019-07-30 11:43:00 -04:00
-published: false
 tags:
 - stability
 - economic-growth
