@@ -62,3 +62,5 @@ In a little over one year, ESIP has:
 July 30, 2019, is the United Nations Office on Drugs and Crime World Day Against Trafficking in Persons. To commemorate the day, MADE II is collaborating with the International Centre for Migration Policy Development (ICMPD) and Edo Taskforce Against Human Trafficking (ETAHT) at the ETAHT 6th Town Hall Meeting in Esan North and East Local Government Area of Edo State. Through the event, MADE II is furthering its work to create awareness and sensitize vulnerable households and potential victims to the dangers of illegal migration and expose participants to alternative livelihoods and aspirational economic opportunities.
 
 To effectively eradicate the scourge of human trafficking, stakeholders must take focused action to investigate and prosecute traffickers, protect returnee trafficked persons, and prevent future trafficking.
+
+*Enene Ejembi is a strategic communications manager for DAI based in Abuja, Nigeria;  DAI's Fidelis Ekom is the MADE II programme's Public Sector Engagement Manager.*  
