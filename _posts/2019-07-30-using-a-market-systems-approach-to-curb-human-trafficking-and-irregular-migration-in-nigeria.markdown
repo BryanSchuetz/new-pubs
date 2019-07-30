@@ -35,7 +35,7 @@ ESIP works with state agencies and other development partners to reach more than
 
 Through ESIP, MADE II is also strengthening the capacity of state institutions to attract local and foreign investment. The programme’s goal is to attract £10 million in seed investments that make Edo State more economically attractive to investors and residents. To achieve this, MADE II is supporting the Edo State Investment Promotion Office to better position itself to attract private sector investments and grow existing investments.
 
-##Results Thus Far
+## Results Thus Far
 
 To date, MADE II has attracted investments of £3.9 million and is on track to reach its investment promotion target by February 2020. ESIP’s interventions have reached more than 18,000 people (52 percent women) and provided them access to income-generation activities such as: facilitating market access for plantain and pineapple farmers; providing opportunities in apiculture (beekeeping); providing opportunities in livestock farming; increasing access to skills development classes; and facilitating linkages for micro-retailing of fast-moving consumer goods.
 
