@@ -17,7 +17,9 @@ Human trafficking is a form of modern-day slavery, a global scourge where people
 Victims are often young and so desperate for better living conditions that they are enticed and conned by traffickers’ false promises of a job abroad. Factors that increase vulnerability to trafficking are poverty, economic disengagement, corruption, climate change-driven migration, conflict, and displacement. 
 
 Whilst Nigeria is making significant efforts to meet the minimum standards for the elimination of trafficking—according to the [U.S. State Department’s Trafficking in Persons Report 2019](https://www.state.gov/reports/2019-trafficking-in-persons-report/)—the country remains a significant transit and destination country for traffickers.  The Nigerian National Agency for the Prohibition of Trafficking in Persons reports that Edo State is the most trafficked-through destination in Africa.
-Most victims and illegal migrants journey from Edo State to Niger republic, then travel more than 500 miles through the Sahara Desert into Libya and onward to Europe. According to the United Nations’ International Organization for Migration, as of July 2018 more than 60,000 Nigerians remain trapped in inhumane conditions in Libya, 50 percent of them from Edo State. 
+Most victims and illegal migrants journey from Edo State to Niger republic, then travel more than 500 miles through the Sahara Desert into Libya and onward to Europe. According to the United Nations’ International Organization for Migration, as of July 2018 more than 60,000 Nigerians remain trapped in inhumane conditions in Libya, 50 percent of them from Edo State.
+
+![Devs----Traficking-Graphic.jpg](/uploads/Devs----Traficking-Graphic.jpg)
 
 ## Leveraging Market Systems for the Vulnerable
 
