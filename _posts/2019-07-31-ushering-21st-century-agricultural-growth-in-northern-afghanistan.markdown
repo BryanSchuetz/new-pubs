@@ -16,7 +16,7 @@ Drought and conflict in recent decades sent Afghanistan’s wheat production int
 
 
 
-In 2014, the [Regional Agricultural Development Program–North (RADP-North)](https://www.dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp-north) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets, and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
+In 2014, the [Regional Agricultural Development Program–North (RADP-North)](https://www.dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp-north) launched with a threefold mission: 1) rebuild Afghanistan’s wheat sector in six northern provinces, 2) diversify agriculture and diets and increase farm revenues by introducing high-value crops, and 3) strengthen the underperforming livestock sector.
 
 ![Devs----RADP-N-8.jpg](/uploads/Devs----RADP-N-8.jpg)`Grape trellising management pays dividends in Kunduz province. Photo: USAID RADP-North.`
 
