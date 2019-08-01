@@ -1,7 +1,6 @@
 ---
 title: Ushering in 21st Century Agricultural Growth to Northern Afghanistan
-date: 2019-07-24 18:19:00 -04:00
-published: false
+date: 2019-07-31 18:19:00 -04:00
 tags:
 - economic-growth
 - agriculture
