@@ -34,7 +34,7 @@ These cooling measures assume the presence of electricity, which faces its own c
 
 Sizing an electrical system to have enough reserve capacity to handle these ever higher peak loads is a particularly rough task for countries struggling to provide even minimal electricity access to their citizens. Relying on AC as the solution also ignores the people who, for the next 30 years, will remain too poor to afford it.
 
-![Devs----Heat-2.jpg](/uploads/Devs----Heat-2.jpg)`Coal-fired electric generation plant in Kosovo. Photo: Gwen Andersen.``
+![Devs----Heat-2.jpg](/uploads/Devs----Heat-2.jpg)`Coal-fired power plant in Kosovo. Photo: Gwen Andersen.``
 
 ## Steps Toward Climate Resilience 
 
