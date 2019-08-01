@@ -35,11 +35,14 @@ These cooling measures assume the presence of electricity, which faces its own c
 
 Sizing an electrical system to have enough reserve capacity to handle these ever higher peak loads is a particularly rough task for countries struggling to provide even minimal electricity access to their citizens. Relying on AC as the solution to cool air also ignores the people who, for the next 30 years, will remain too poor to afford it.
 
+
 ## Steps Toward Climate Resilience 
 
 For humanity to meet the growing threat of heat waves, we must not only adapt to the new global climate system but become climate resilient. By adaptation, we mean that actors and processes *respond* to a stress to enable a system to absorb change; [resilience](http://michaelschoon.files.wordpress.com/2011/05/historical_critique-of-resilience-working-paper.pdf) refers to absorbing such shocks while maintaining the system’s structure by actively mitigating their impacts. In the context of climate change, resilience describes the capacity of systems to learn from historic and predicted impacts to transform enabling environments and infrastructure to proactively mitigate, adapt to, and absorb adverse impacts.
 
 With climate change, the number, duration, and intensity of extreme heat waves are expected to increase. Even if humanity stops emitting greenhouse gases (GHG) today, it is estimated the global mean temperature could continue to rise for up to [500 years](https://www.princeton.edu/news/2013/11/24/even-if-emissions-stop-carbon-dioxide-could-warm-earth-centuries). But cities in developing countries want to reduce the morbidity and mortality caused by excessive heat, they need to make some important decisions now:
+
+![Devs----Heat-1.jpg](/uploads/Devs----Heat-1.jpg)
 
 **1. Change building standards so people do not depend on AC to stay cool.** Better insulation, window coatings, overhangs on sun-facing windows, window and door positioning to allow breezes, and white roofs can keep homes and buildings from getting dangerously hot and help to cool them with tools that consume less energy, such as fans.  
 
