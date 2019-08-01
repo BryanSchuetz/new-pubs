@@ -6,6 +6,8 @@ tags:
 - agriculture
 - resilience
 author: "[Rich Magnani](https://www.dai.com/who-we-are/our-team/rich-magnani)"
+thumbnail-image: "/uploads/Screen-Shot-2019-08-01-at-6.50.44-AM.jpg"
+social-image: "/uploads/Screen-Shot-2019-08-01-at-6.50.44-AM-666efa.jpg"
 publication: Developments
 ---
 
