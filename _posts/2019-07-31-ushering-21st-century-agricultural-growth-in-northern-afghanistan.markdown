@@ -50,7 +50,7 @@ A single season of land leveling increased wheat yields and led to further mecha
 
 ![Devs----RADP-N-6.jpg](/uploads/Devs----RADP-N-6.jpg)`Farmers voting for favorite wheat varieties at seed field demonstration in Pul-e-Khumri, Baghlan province. Photo: USAID RADP-North.` 
 
-**Introducing better seed:** RADP-North organized field demonstrations by seed purveyors of 20 certified varieties, showing farmers they could choose seed that best fits their growing conditions and budgets. Gaining farmers’ confidence in certified seed was crucial because previous seed distribution programs had provided subpar seed that did not accommodate soil, climate, and market requirements.
+**Introducing better seed:** RADP-North organized field demonstrations by seed purveyors of 20 certified varieties, showing farmers they could choose seed that best fits their growing conditions and budgets. Gaining farmers’ confidence in certified seed was crucial because previous seed distribution programs had often provided subpar or adulterated seed that did not accommodate soil, climate, and market requirements.
 
 Farmers soon learned about the benefits of certified seed through word of mouth. RADP-North trained seed company field staff in marketing techniques such as field demos. Today, at least 10 seed businesses are connected with RADP-North farmers and better understand the market’s requirements.
 
