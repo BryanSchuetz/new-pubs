@@ -1,12 +1,13 @@
 ---
 title: Ushering in 21st Century Agricultural Growth to Northern Afghanistan
-date: 2019-07-24 18:19:00 -04:00
-published: false
+date: 2019-07-31 18:19:00 -04:00
 tags:
 - economic-growth
 - agriculture
 - resilience
 author: "[Rich Magnani](https://www.dai.com/who-we-are/our-team/rich-magnani)"
+thumbnail-image: "/uploads/Screen-Shot-2019-08-01-at-6.50.44-AM.jpg"
+social-image: "/uploads/Screen-Shot-2019-08-01-at-6.50.44-AM-666efa.jpg"
 publication: Developments
 ---
 
