@@ -42,7 +42,7 @@ For humanity to meet the growing threat of heat waves, we must not only adapt to
 
 With climate change, the number, duration, and intensity of extreme heat waves are expected to increase. Even if humanity stops emitting greenhouse gases (GHG) today, it is estimated the global mean temperature could continue to rise for up to [500 years](https://www.princeton.edu/news/2013/11/24/even-if-emissions-stop-carbon-dioxide-could-warm-earth-centuries). If cities in developing countries want to reduce the morbidity and mortality caused by excessive heat, they need to make some important decisions now:
 
-![Devs----Heat-1.jpg](/uploads/Devs----Heat-1.jpg)`White roofs reflect heat instead of absorbing it, making them ideal for hot climates.`
+![Devs----Heat-1.jpg](/uploads/Devs----Heat-1.jpg)`White roofs like this one at a Walmart in Nevada reflect heat instead of absorbing it. Photo: Walmart.`
 
 **1. Change building standards so people do not depend on AC to stay cool.** Better insulation, window coatings, overhangs on sun-facing windows, window and door positioning to allow breezes, and white roofs can keep homes and buildings from getting dangerously hot and help to cool them with tools that consume less energy, such as fans.  
 
