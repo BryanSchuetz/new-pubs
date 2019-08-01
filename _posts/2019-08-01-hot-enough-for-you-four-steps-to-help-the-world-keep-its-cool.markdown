@@ -60,6 +60,8 @@ Besides reducing the number of large asphalt surfaces that heat urban areas, ded
 
 Preventing climate change has costs but so does adapting to it. One of those costs is an investment in additional reserve capacity in the electrical system. Generation and distribution reserve must be sufficient to meet peak needs from extreme heat days. The increased temperature of the ambient air and from increased energy being transmitted makes [transmission lines](https://www.eenews.net/stories/1060771407) less efficient. Demand-side management will make it possible to disconnect noncritical loads to preserve health and safety by continuing to serve urgent loads.
  
+![DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg](/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg)
+
 **4. Promote Efficient Energy.** As countries develop, households buy refrigerators, televisions, and other appliances that not only consume electricity but release heat into homes. Efficiency requirements both improves countries’ resiliency and reduces the need for cooling.
 
 The more efficient air conditioning is, the less waste-heat it releases outdoors. Governments can place minimum efficiency standards on appliances, including air conditioners, and increase those standards at regular intervals to keep up with evolving technology. Removing subsidies for electricity incentivizes everyone to invest in efficiency. Educational campaigns can explain the linkage between efficiency and electricity bills. The more energy efficient a government can make its economy, the more resilient it will be to climate change and the less it will need to invest in capital spending on new generation.
