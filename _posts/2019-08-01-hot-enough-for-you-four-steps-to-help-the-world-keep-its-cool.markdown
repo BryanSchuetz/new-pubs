@@ -24,7 +24,7 @@ These figures understate the damage. They don’t include stress on those with c
 
 While individual heat waves result in spikes of heat-related deaths, statistics do not demonstrate a correlation over time between heat and death rates. Why? Because people adapt by buying AC. Communities issue warnings. Vulnerable people are advised to go to shopping malls. “Cooling centers” are set up for the homeless at libraries or police stations. More people invest in AC for their homes.
 
-![Devs----Heat-3.jpg](/uploads/Devs----Heat-3.jpg)`Air conditioners in Pristina, Kosovo.`
+![Devs----Heat-3.jpg](/uploads/Devs----Heat-3.jpg)`Air conditioners in Pristina, Kosovo. Photo: Gwen Andersen.`
 
 > There are an [estimated](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
 
