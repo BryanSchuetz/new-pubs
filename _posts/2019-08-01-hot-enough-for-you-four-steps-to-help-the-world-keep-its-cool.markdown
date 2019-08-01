@@ -11,7 +11,10 @@ author: "[Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen) 
 publication: Developments
 ---
 
-Four people died in the [recent heat wave](https://www.cbsnews.com/live-news/heat-wave-2019-extreme-heat-advisory-warning-deaths-latest-weather-forecast-us-nyc-2019-07-20/) in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees. 
+Four people died in the [recent heat wave](https://www.cbsnews.com/live-news/heat-wave-2019-extreme-heat-advisory-warning-deaths-latest-weather-forecast-us-nyc-2019-07-20/) in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees.
+
+
+
 
 Extreme heat, particularly combined with high humidity, killing hundreds of people at a time, is not new. In 1987, a heat wave [in Greece](https://www.latimes.com/archives/la-xpm-1987-07-27-mn-3971-story.html) was blamed for 700 deaths. In 1995, a heat wave [in Chicago](https://www.citylab.com/environment/2019/06/extreme-heat-wave-data-deaths-health-risks-climate-change/590941/) killed 739 people. In the [European heat wave](https://www.nationalgeographic.com/environment/2019/06/europe-has-had-five-500-year-summers-in-15-years/) of 2003, 70,000 people died, primarily in homes without AC, and we are yet to see the full impact from last month’s record-breaking heat in Western Europe or June’s heat wave in India and Pakistan, where temperatures exceeded 120 degrees.  
 
