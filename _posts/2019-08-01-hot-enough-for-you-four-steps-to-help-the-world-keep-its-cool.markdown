@@ -24,9 +24,10 @@ These figures understate the damage. They don’t include stress on those with c
 
 While individual heat waves result in spikes of heat-related deaths, statistics do not demonstrate a correlation over time between heat and death rates. Why? Because people adapt by buying AC. Communities issue warnings. Vulnerable people are advised to go to shopping malls. “Cooling centers” are set up for the homeless at libraries or police stations. More people invest in AC for their homes.
 
+![Devs----Heat-3.jpg](/uploads/Devs----Heat-3.jpg)`Air conditioners in Pristina, Kosovo.`
+
 > There are an [estimated](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
 
-![Devs -- Heat 4 new.jpg](/uploads/Devs%20--%20Heat%204%20new.jpg)`Power lines in Buenos Aires. Photo: Hernán Piñera.`
 
 ## Heat Withers Power Grids
 
@@ -49,6 +50,8 @@ Replacing as many of these surfaces as possible with greenery, such as trees and
 Besides reducing the number of large asphalt surfaces that heat urban areas, dedicating less space to parking—and ensuring safe, sustainable transport is widely available—makes driving relatively less convenient than other forms of transportation. In turn, this reduces the contribution that [cars](https://waset.org/publications/10002199/impact-of-the-transport-on-the-urban-heat-island) make to urban pollution and heat. [Vegetation islands](https://www.researchgate.net/publication/229362808_Evaluating_the_potential_for_urban_heat-island_mitigation_by_greening_parking_lots) in parking lots provide shade and reduce land surface temperature. 
 
 > The UK House of Commons Environment Audit Committee states that the surface temperature in an urban green space can be [substantially lower](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) than that of the surrounding streets, making the air temperature cooler.  
+
+![Devs -- Heat 4 new.jpg](/uploads/Devs%20--%20Heat%204%20new.jpg)`Power lines in a Buenos Aires heat wave. Photo: Hernán Piñera.`
 
 **3. Design Electrical Systems for Prolonged Heat.** Heat worsens air pollution. Coal- and natural gas-based electricity plants emit nitrogen oxides and volatile organic compounds. With heat and sunlight, these compounds react to produce ground-level ozone, a harmful pollutant and a key component of smog. This makes the increased production of electricity from coal to deal with heat waves even more dangerous. Renewable energy is not only important to help reduce climate change, but to help us cope with it.
 
