@@ -1,0 +1,50 @@
+---
+title: Hot Enough for You? Four Steps to Help the World Keep Its Cool
+date: 2019-08-01 11:41:00 -04:00
+published: false
+author: Gwen Andersen and John Costenbader
+---
+
+Four people died in the past week’s heat wave in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees. 
+
+Extreme heat, particularly combined with high humidity, killing hundreds of people at a time, is not new. In 1987, a heat wave in Greece was blamed for 700 deaths. In 1995, a heat wave in Chicago killed 739 people. In the European heat wave of 2003, 70,000 people died, primarily in homes without AC, and we are yet to see the full impact from last month’s record-breaking heat in Western Europe or June’s heat wave in India and Pakistan, where temperatures exceeded 120 degrees.  
+
+These figures understate the damage. They don’t include stress on those with cardiovascular disease, so many people are classified as dying from heart attacks. They don’t include fatalities from other pre-existing conditions exacerbated by prolonged heat. Older populations are particularly vulnerable because the body’s ability to regulate its temperature decreases over time. Repeated heat exposure with physical exertion and inadequate hydration can lead to kidney disease.
+
+While individual heat waves result in spikes of heat-related deaths, statistics do not demonstrate a correlation over time between heat and death rates. Why? Because people adapt by buying AC. Communities issue warnings. Vulnerable people are advised to go to shopping malls. “Cooling centers” are set up for the homeless at libraries or police stations. More people invest in AC for their homes.
+
+> There are an estimated 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
+
+## Heat Withers Power Grids
+
+These cooling measures assume the presence of electricity, which faces its own challenges in the heat. When demand runs high, temperatures inside transmission lines increase and—when baked by the sun—causes metal conductors in the lines to expand and power lines to sag. This can topple infrastructure. Coal or nuclear power plants may need to decrease generation or shut down if the water used to cool the plants is too warm. If demand for electricity outstrips supply, populations face rolling black outs.
+
+Sizing an electrical system to have enough reserve capacity to handle these ever higher peak loads is a particularly rough task for countries struggling to provide even minimal electricity access to their citizens. Relying on AC as the solution to cool air also ignores the people who, for the next 30 years, will remain too poor to afford it.
+
+## Steps Toward Climate Resilience 
+
+For humanity to meet the growing threat of heat waves, we must not only adapt to the new global climate system but become climate resilient. By adaptation, we mean that actors and processes respond to a stress to enable a system to absorb change; resilience refers to absorbing such shocks while maintaining the system’s structure by actively mitigating their impacts. In the context of climate change, resilience describes the capacity of systems to learn from historic and predicted impacts to transform enabling environments and infrastructure to proactively mitigate, adapt to, and absorb adverse impacts.
+
+With climate change, the number, duration, and intensity of extreme heat waves are expected to increase. Even if humanity stops emitting greenhouse gases (GHG) today, it is estimated the global mean temperature could continue to rise for up to 500 years. But cities in developing countries want to reduce the morbidity and mortality caused by excessive heat, they need to make some important decisions now:
+
+1. Change building standards so people do not depend on AC to stay cool. Better insulation, window coatings, overhangs on sun-facing windows, window and door positioning to allow breezes, and white roofs can keep homes and buildings from getting dangerously hot and help to cool them with tools that consume less energy, such as fans.  
+
+2. Reduce the urban heat island effect. Most city buildings and roads absorb more solar radiation than the vegetation they replaced, radiating that energy as heat and causing cities to be even hotter than their surrounding areas. Concrete and asphalt release heat at night, keeping urban areas hotter and preventing relief.
+
+Replacing as many of these surfaces as possible with greenery, such as trees and parks, reduces the urban heat island effect. Requirements to make roofs white (reflective) or green (vegetation on the roof) reduce the amount of heat absorbed by the building. New York, for instance, introduced rules on white roofs into its building codes as long ago as 2012. Keith Oleson of the National Center for Atmospheric Research in Boulder, Colorado found that painting every roof in the city white would decrease the urban heat island effect by one-third. In July 2016, Cordoba became the first city in Argentina to require green roofs. Researchers used computer forecasting models in 2018 to determine where Chicago would receive the greatest benefits from green roofs—namely, in the hottest areas with the greatest AC usage and where residents are the most vulnerable.
+
+Besides reducing the number of large asphalt surfaces that heat urban areas, dedicating less space to parking—and ensuring safe, sustainable transport is widely available—makes driving relatively less convenient than other forms of transportation. In turn, this reduces the contribution that cars make to urban pollution and heat. Vegetation islands in parking lots provide shade and reduce land surface temperature. 
+
+The UK House of Commons Environment Audit Committee states that the surface temperature in an urban green space can be substantially lower than that of the surrounding streets, making the air temperature cooler.  
+
+3. Design Electrical Systems for Prolonged Heat: Heat worsens air pollution. Coal- and natural gas-based electricity plants emit nitrogen oxides and volatile organic compounds. With heat and sunlight, these compounds react to produce ground-level ozone, a harmful pollutant and a key component of smog. This makes the increased production of electricity from coal to deal with heat waves even more dangerous. Renewable energy is not only important to help reduce climate change, but to help us cope with it.
+
+Preventing climate change has costs but so does adapting to it. One of those costs is an investment in additional reserve capacity in the electrical system. Generation and distribution reserve must be sufficient to meet peak needs from extreme heat days. The increased temperature of the ambient air and from increased energy being transmitted makes transmission lines less efficient. Demand-side management will make it possible to disconnect noncritical loads to preserve health and safety by continuing to serve urgent loads.
+ 
+4. Promote Efficient Energy: As countries develop, households buy refrigerators, televisions, and other appliances that not only consume electricity but release heat into homes. Efficiency requirements both improves countries’ resiliency and reduces the need for cooling.
+
+The more efficient air conditioning is, the less waste-heat it releases outdoors. Governments can place minimum efficiency standards on appliances, including air conditioners, and increase those standards at regular intervals to keep up with evolving technology. Removing subsidies for electricity incentivizes everyone to invest in efficiency. Educational campaigns can explain the linkage between efficiency and electricity bills. The more energy efficient a government can make its economy, the more resilient it will be to climate change and the less it will need to invest in capital spending on new generation.
+
+More than half of the world’s population lives in urban areas and this percentage is expected to grow. Given the current rapid pace of urbanization, policies on city design and the building stock being built will lock in both how much heat and GHG emissions rise for many decades to come. For the sake of the health of the ever-increasing urban population, measures must be taken now to increase resilience in the face of increasingly frequent, intense, and prolonged heat events.
+
+Author bios here
