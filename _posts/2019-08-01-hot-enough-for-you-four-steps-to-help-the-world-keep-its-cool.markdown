@@ -28,13 +28,13 @@ While individual heat waves result in spikes of heat-related deaths, statistics 
 
 > There are an [estimated](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
 
-
 ## Heat Withers Power Grids
 
 These cooling measures assume the presence of electricity, which faces its own challenges in the heat. When demand runs high, temperatures of transmission lines increase and—when baked by the sun—causes metal conductors in the lines to expand and power lines to sag. This can [topple](https://www.eenews.net/stories/1060771407) infrastructure. Coal or nuclear power plants may need to decrease generation or shut down if the water used to cool the plants is [too warm](https://www.eenews.net/stories/1060771407). If demand for electricity outstrips supply, populations face rolling black outs.
 
 Sizing an electrical system to have enough reserve capacity to handle these ever higher peak loads is a particularly rough task for countries struggling to provide even minimal electricity access to their citizens. Relying on AC as the solution also ignores the people who, for the next 30 years, will remain too poor to afford it.
 
+![Devs----Heat-2.jpg](/uploads/Devs----Heat-2.jpg)`Coal-fired electric generation plant in Kosovo. Photo: Gwen Andersen.``
 
 ## Steps Toward Climate Resilience 
 
