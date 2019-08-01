@@ -6,7 +6,9 @@ tags:
 - environment-and-energy
 - resilience
 - governance
-author: Gwen Andersen and John Costenbader
+author: "[Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen) and
+  [John Costenbader](https://www.dai.com/who-we-are/our-team/john-costenbader)"
+publication: Developments
 ---
 
 Four people died in the [recent heat wave](https://www.cbsnews.com/live-news/heat-wave-2019-extreme-heat-advisory-warning-deaths-latest-weather-forecast-us-nyc-2019-07-20/) in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees. 
@@ -50,3 +52,5 @@ Preventing climate change has costs but so does adapting to it. One of those cos
 The more efficient air conditioning is, the less waste-heat it releases outdoors. Governments can place minimum efficiency standards on appliances, including air conditioners, and increase those standards at regular intervals to keep up with evolving technology. Removing subsidies for electricity incentivizes everyone to invest in efficiency. Educational campaigns can explain the linkage between efficiency and electricity bills. The more energy efficient a government can make its economy, the more resilient it will be to climate change and the less it will need to invest in capital spending on new generation.
 
 More than half of the world’s population lives in urban areas and this percentage is expected to grow. Given the current rapid pace of urbanization, policies on city design and the building stock being built will lock in both how much heat and GHG emissions rise for many decades to come. For the sake of the health of the ever-increasing urban population, measures must be taken now to increase resilience in the face of increasingly frequent, intense, and prolonged heat events.
+
+*Gwen Andersen is a Principal Global Practice Specialist and John Costenbader is a Senior Global Practice Specialist in DAI’s Environment Sector.*
