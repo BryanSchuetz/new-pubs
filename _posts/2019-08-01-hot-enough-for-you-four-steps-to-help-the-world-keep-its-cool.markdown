@@ -60,7 +60,7 @@ Besides reducing the number of large asphalt surfaces that heat urban areas, ded
 
 Preventing climate change has costs but so does adapting to it. One of those costs is an investment in additional reserve capacity in the electrical system. Generation and distribution reserve must be sufficient to meet peak needs from extreme heat days. The increased temperature of the ambient air and from increased energy being transmitted makes [transmission lines](https://www.eenews.net/stories/1060771407) less efficient. Demand-side management will make it possible to disconnect noncritical loads to preserve health and safety by continuing to serve urgent loads.
  
-![DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg](/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg)`The Gaza Industrial Estate will soon be powered by Palestine's largest solar array. Photo: International Finance Corporation`
+![DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg](/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg)`The Gaza Industrial Estate will [soon be powered](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) by Palestine's largest solar array. Photo: International Finance Corporation`
 
 **4. Promote Efficient Energy.** As countries develop, households buy refrigerators, televisions, and other appliances that not only consume electricity but release heat into homes. Efficiency requirements both improves countries’ resiliency and reduces the need for cooling.
 
