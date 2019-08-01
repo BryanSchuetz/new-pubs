@@ -7,18 +7,17 @@ tags:
 - resilience
 - governance
 author: Gwen Andersen and John Costenbader
-publication: Developments
 ---
 
-Four people died in the past week’s heat wave in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees. 
+Four people died in the [recent heat wave](https://www.cbsnews.com/live-news/heat-wave-2019-extreme-heat-advisory-warning-deaths-latest-weather-forecast-us-nyc-2019-07-20/) in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees. 
 
-Extreme heat, particularly combined with high humidity, killing hundreds of people at a time, is not new. In 1987, a heat wave in Greece was blamed for 700 deaths. In 1995, a heat wave in Chicago killed 739 people. In the European heat wave of 2003, 70,000 people died, primarily in homes without AC, and we are yet to see the full impact from last month’s record-breaking heat in Western Europe or June’s heat wave in India and Pakistan, where temperatures exceeded 120 degrees.  
+Extreme heat, particularly combined with high humidity, killing hundreds of people at a time, is not new. In 1987, a heat wave [in Greece](https://www.latimes.com/archives/la-xpm-1987-07-27-mn-3971-story.html) was blamed for 700 deaths. In 1995, a heat wave [in Chicago](https://www.citylab.com/environment/2019/06/extreme-heat-wave-data-deaths-health-risks-climate-change/590941/) killed 739 people. In the [European heat wave](https://www.nationalgeographic.com/environment/2019/06/europe-has-had-five-500-year-summers-in-15-years/) of 2003, 70,000 people died, primarily in homes without AC, and we are yet to see the full impact from last month’s record-breaking heat in Western Europe or June’s heat wave in India and Pakistan, where temperatures exceeded 120 degrees.  
 
-These figures understate the damage. They don’t include stress on those with cardiovascular disease, so many people are classified as dying from heart attacks. They don’t include fatalities from other pre-existing conditions exacerbated by prolonged heat. Older populations are particularly vulnerable because the body’s ability to regulate its temperature decreases over time. Repeated heat exposure with physical exertion and inadequate hydration can lead to kidney disease.
+These figures understate the damage. They don’t include stress on those with cardiovascular disease, so many people are [classified](https://www.eurekalert.org/pub_releases/2018-03/acoc-hao022718.php?utm_source=Climate+News+Network&utm_campaign=c7c5130976-) as dying from heart attacks. They don’t include fatalities from other pre-existing conditions exacerbated by prolonged heat. Older populations are particularly vulnerable because the body’s ability to regulate its temperature decreases over time. Repeated heat exposure with physical exertion and inadequate hydration can [lead](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974898/) to kidney disease.
 
 While individual heat waves result in spikes of heat-related deaths, statistics do not demonstrate a correlation over time between heat and death rates. Why? Because people adapt by buying AC. Communities issue warnings. Vulnerable people are advised to go to shopping malls. “Cooling centers” are set up for the homeless at libraries or police stations. More people invest in AC for their homes.
 
-> There are an estimated 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
+> There are an [estimated](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
 
 ## Heat Withers Power Grids
 
