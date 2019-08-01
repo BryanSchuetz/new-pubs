@@ -7,6 +7,7 @@ tags:
 - resilience
 - governance
 author: Gwen Andersen and John Costenbader
+publication: Developments
 ---
 
 Four people died in the past week’s heat wave in the Washington, D.C., area, and 4,600 people lost power. The combination suggests that access to electricity and air conditioning will not allow us to avoid the consequences of global warming. Climate change will result in higher peak temperatures and an increased number of days over 100 degrees. 
