@@ -65,4 +65,4 @@ The more efficient AC is, the less waste-heat it releases outdoors. Governments 
 
 More than half of the world’s population lives in urban areas and this percentage is expected to grow. Given the current rapid pace of urbanization, policies on city design and the building stock being built will lock in both how much heat and greenhouse gas emissions rise for many decades to come. For the sake of the health of the ever-increasing urban population, measures must be taken now to increase resilience in the face of increasingly frequent, intense, and prolonged heat events.
 
-*Gwen Andersen is a Principal Global Practice Specialist and John Costenbader is a Senior Global Practice Specialist in DAI’s Environment Sector.*
+*[Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen) is a Principal Global Practice Specialist and [John Costenbader](https://www.dai.com/who-we-are/our-team/john-costenbader) is a Senior Global Practice Specialist in DAI’s Environment Sector.*
