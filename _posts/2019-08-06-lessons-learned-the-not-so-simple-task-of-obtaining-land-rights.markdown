@@ -11,7 +11,7 @@ author: "[Clive English](https://www.dai.com/who-we-are/our-team/clive-english) 
   [Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti)"
 thumbnail-image: "/uploads/social.jpg"
 social-image: "/uploads/social-36ff6d.jpg"
-publication: 'Developing Alternatives '
+publication: Developing Alternatives
 ---
 
 The promise of land rights in developing countries goes something like this: Once an individual has secured land and property rights, he or she is more empowered and more able to participate in the economic growth of his or her community. Add in the multiplier effect and voila—a developing country begins to move toward economic growth and stability.
