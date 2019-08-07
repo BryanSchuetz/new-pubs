@@ -24,7 +24,7 @@ While individual heat waves result in spikes of heat-related deaths, statistics 
 
 ![Devs----Heat-3.jpg](/uploads/Devs----Heat-3.jpg)`Air conditioners in Pristina, Kosovo. Photo: Gwen Andersen.`
 
-> There are an [estimated](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) 1.6 billion electric air-conditioning units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
+> There are an [estimated](https://edition.cnn.com/2019/07/26/europe/ac-climate-crisis-heat-waves-intl/index.html) 1.6 billion electric AC units around the world, a number expected to triple by 2050. AC units consume tremendous amounts of electricity and vent hot air, and air conditioning is set to become one of the top drivers of global electricity demand.
 
 ## Heat Withers Power Grids
 
