@@ -1,7 +1,6 @@
 ---
 title: Hot Enough for You? Four Steps to Help the World Keep Its Cool
 date: 2019-08-01 11:41:00 -04:00
-published: false
 tags:
 - environment-and-energy
 - resilience
