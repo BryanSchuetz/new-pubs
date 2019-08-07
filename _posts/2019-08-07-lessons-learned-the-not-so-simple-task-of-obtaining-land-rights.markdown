@@ -59,4 +59,4 @@ Here are nine key takeaways from the review:
 
 The experience of DFID over the past 20 years has given implementers and governments a solid evidence base on how to achieve more effective land tenure and land administrations reform over the long term through support to large national programs. Sharing the detail of these lessons is vital to ensure that programs continue to improve in design and implementation for the financial, social and governance benefit of recipient countries. 
 
-**[Clive English ](https://www.dai.com/who-we-are/our-team/clive-english)is a Land Tenure Specialist and [Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti) is a Global Practice Specialist on DAI’s Environment Team.**
+*[Clive English ](https://www.dai.com/who-we-are/our-team/clive-english)is a Land Tenure Specialist and [Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti) is a Global Practice Specialist on DAI’s Environment Team.*
