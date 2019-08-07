@@ -20,7 +20,7 @@ The phenomenon of extreme heat, particularly combined with high humidity, killin
 
 These figures understate the damage. They don’t include stress on those with cardiovascular disease, many of whom are [classified](https://www.eurekalert.org/pub_releases/2018-03/acoc-hao022718.php?utm_source=Climate+News+Network&utm_campaign=c7c5130976-) as dying from heart attacks rather than heat-related illness. They don’t include fatalities from other pre-existing conditions exacerbated by prolonged heat. Older populations are particularly vulnerable because the body’s ability to regulate its temperature decreases over time. Repeated heat exposure with physical exertion and inadequate hydration can [lead](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974898/) to kidney disease.
 
-While individual heat waves result in spikes of heat-related deaths, statistics do not demonstrate a correlation over time between heat and death rates. Why? Because people adapt by buying AC. Communities issue warnings. Vulnerable people are advised to go to shopping malls. “Cooling centers” are set up for the homeless at libraries or police stations. More people invest in AC for their homes.
+While individual heat waves result in spikes of heat-related deaths, statistics do not demonstrate a correlation over time between heat and death rates. Why? Because people adapt by buying AC. Communities issue warnings. Vulnerable people are advised to go to shopping malls. “Cooling centers” are set up for the homeless at libraries or police stations.
 
 ![Devs----Heat-3.jpg](/uploads/Devs----Heat-3.jpg)`Air conditioners in Pristina, Kosovo. Photo: Gwen Andersen.`
 
