@@ -33,7 +33,8 @@ In 2014, DFID launched the [Land: Enhancing Governance for Economic Development 
 
 The team at LEGEND recently turned to DAI to review the six large-scale land projects that took place in the countries mentioned above. 
 
-DOWNLOAD THE FULL REVIEW [HERE.](https://landportal.org/library/resources/securing-land-rights-scale)
+
+<aside><h3><a href="https://landportal.org/library/resources/securing-land-rights-scale">DOWNLOAD THE FULL REVIEW</a></h3></aside>
 
 Here are nine key takeaways from the review:
 
