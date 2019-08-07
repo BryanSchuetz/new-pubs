@@ -6,8 +6,12 @@ tags:
 - environment-and-energy
 - resilience
 - governance
+- climate
+- climate change
 author: "[Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen) and
   [John Costenbader](https://www.dai.com/who-we-are/our-team/john-costenbader)"
+thumbnail-image: "/uploads/Devs----Heat-5.jpg"
+social-image: "/uploads/Devs----Heat-5.jpg"
 publication: Developments
 ---
 
