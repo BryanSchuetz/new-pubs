@@ -12,6 +12,11 @@ The promise of land rights in developing countries goes something like this: Onc
 
 Of course, nothing in global development is quite that simple. The U.K. Department for International Development (DFID) has been a leader since 2000 in driving the momentum to help lower-income countries to develop more robust and efficient land administration systems. DFID’s approach to land tenure regularization (LTR) has now been adopted and implemented in Ethiopia, Mozambique, Nigeria, Rwanda, and Tanzania. In Guyana, DFID assisted in the transition of the land administration to enable it to become an autonomous administrative body with financial sustainability—part of this task was the regularization of leasehold lands and rehabilitation of the leasehold registry.
 
+
+
+
+
+
 Overall, DFID programs have issued more than 20 million individual or joint land titles across Ethiopia, Nigeria, Rwanda, and Tanzania and 1,400 community titles in Mozambique. Critically, more than 50 percent of the beneficiaries have been women. The process and methods used have proved particularly successful in helping women achieve more secure land rights. Formal land market activity has increased in areas of implementation and LTR methods have helped to significantly reduce localized disputes and wider conflicts related to land. 
 
 While these achievements are notable, ongoing challenges remain and understanding the impact of these is critical to the design and implementation of future programs. In particular, the expectations of governments and donors on what can be achieved through support to LTR and land administrations needs to be balanced against the need for complementary programs that are necessary to achieve real change. As with many development programs, sometimes outcomes take decades to become evident. This is especially true of the land sector.
