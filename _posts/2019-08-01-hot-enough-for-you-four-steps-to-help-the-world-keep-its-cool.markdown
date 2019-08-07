@@ -28,7 +28,7 @@ While individual heat waves result in spikes of heat-related deaths, statistics 
 
 ## Heat Withers Power Grids
 
-These cooling measures assume the availability of electric power, which faces its own challenges in the heat. When demand runs high, temperatures of transmission lines increase and—when baked by the sun—causes metal conductors in the lines to expand and power lines to sag. This can [topple](https://www.eenews.net/stories/1060771407) infrastructure. Coal or nuclear power plants may need to decrease generation or shut down if the water used to cool the plants is [too warm](https://www.eenews.net/stories/1060771407). If demand for electricity outstrips supply, populations face rolling black outs.
+These cooling measures assume the availability of electric power, which faces its own challenges in the heat. When demand runs high, temperatures of transmission lines increase and—when baked by the sun—causes metal conductors in the lines to expand and power lines to sag. This can [topple](https://www.eenews.net/stories/1060771407) infrastructure. Coal or nuclear power plants may need to decrease generation or shut down if the water used to cool the plants is [too warm](https://www.eenews.net/stories/1060771407). If demand for electricity outstrips supply, populations face rolling black-outs.
 
 Sizing an electrical system to have enough reserve capacity to handle these ever higher peak loads is a particularly rough task for countries struggling to provide even minimal electricity access to their citizens. Relying on AC as the solution also ignores the people who, for the next 30 years, will remain too poor to afford it.
 
@@ -36,7 +36,7 @@ Sizing an electrical system to have enough reserve capacity to handle these ever
 
 ## Steps Toward Climate Resilience 
 
-For humanity to meet the growing threat of heat waves, we must not only adapt to the new global climate system but become climate resilient. By adaptation, we mean that actors and processes *respond* to a stress to enable a system to absorb change; [resilience](http://michaelschoon.files.wordpress.com/2011/05/historical_critique-of-resilience-working-paper.pdf) refers to absorbing such shocks while maintaining the system’s structure by actively mitigating their impacts. In the context of climate change, resilience describes the capacity of systems to learn from historic and predicted impacts to transform enabling environments and infrastructure to proactively mitigate, adapt to, and absorb adverse impacts.
+For humanity to meet the growing threat of heat waves, we must not only adapt to the new global climate system but become climate resilient. 
 
 With climate change, the number, duration, and intensity of extreme heat waves are expected to increase. Even if humanity stops emitting greenhouse gases (GHG) today, it is estimated the global mean temperature could continue to rise for up to [500 years](https://www.princeton.edu/news/2013/11/24/even-if-emissions-stop-carbon-dioxide-could-warm-earth-centuries). If cities in developing countries want to reduce the morbidity and mortality caused by excessive heat, they need to make some important decisions now:
 
