@@ -7,7 +7,8 @@ tags:
 - finance
 - blended finance
 - Think Piece
-author: "[Nora Brown](https://www.linkedin.com/in/norakbrown/) and [Johara Hall](https://www.linkedin.com/in/johara-hall-bb9a7b34/)"
+author: "[Nora Brown](https://www.linkedin.com/in/norakbrown/) and [Johara Hall](https://www.linkedin.com/in/johara-hall-bb9a7b34/),
+  USAID INVEST"
 thumbnail-image: "/uploads/Gender%20Lens%20Devs.jpeg"
 social-image: "/uploads/Gender%20Lens%20Devs-0f5976.jpeg"
 publication: Developments
