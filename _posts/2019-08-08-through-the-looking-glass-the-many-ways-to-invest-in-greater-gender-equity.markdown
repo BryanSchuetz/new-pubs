@@ -7,7 +7,8 @@ tags:
 - finance
 - blended finance
 - Think Piece
-author: "[Nora Brown](https://www.linkedin.com/in/norakbrown/) and [Johara Hall](https://www.linkedin.com/in/johara-hall-bb9a7b34/)"
+author: "[Nora Brown](https://www.linkedin.com/in/norakbrown/) and [Johara Hall](https://www.linkedin.com/in/johara-hall-bb9a7b34/),
+  USAID INVEST"
 thumbnail-image: "/uploads/Gender%20Lens%20Devs.jpeg"
 social-image: "/uploads/Gender%20Lens%20Devs-0f5976.jpeg"
 publication: Developments
@@ -43,8 +44,8 @@ of DAI INVEST, Claire Daley of Moonshot Global, and Alice Lin Fabio of Johnson &
 
 ## Charting Your Own Path
 
-*“Would you tell me, please, which way I ought to go from here?” asked Alice. “That depends a good deal on where you want to get to,” the Cheshire Cat replied.
-*
+*“Would you tell me, please, which way I ought to go from here?” asked Alice. “That depends a good deal on where you want to get to,” the Cheshire Cat replied.*
+
 Whether you choose one of the strategies described above or multiple, you may be wondering: Where do I go from here? What will it cost me? Do I have to go all in? The Gender Smart Investment Menu presented in the training offered several levels of “gender intentionality,” best described as the type of achievement you seek when it comes to gender equity goals. For some investors, avoiding harm by using objective criteria to remove or exclude certain businesses from their portfolios, such as those with a history of sexual harassment (e.g. The Weinstein Company), may be a sensible place to start. Others may seek a more proactive approach, pursuing incremental change by investing in gender-positive opportunities, such as in businesses employing women or creating equitable workplace environments. Still, others may look to generate more transformational changes in their investment portfolios or industries, such as those investing in financial inclusion or businesses that promote women’s economic empowerment.
 
 Of course, a commitment to advancing gender equity and other social goals must be balanced with the financial return needed by the investor or business. Would an investor accept a smaller rate of return if a business fulfilled certain gender objectives? Which gender-related objectives could be targeted that might coincide with even larger financial returns? Here, too, there are multiple paths, which is precisely the point: contrary to the King’s remark, there is no required place to begin and no prescribed point at which to end.
