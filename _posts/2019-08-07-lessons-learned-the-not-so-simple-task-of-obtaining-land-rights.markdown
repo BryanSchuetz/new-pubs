@@ -58,6 +58,6 @@ Here are nine key takeaways from the review:
  
 **9. Tech (when it helps).** Using low-cost GPS, tablets, and drone technology with customized IT infrastructure can reduce the cost of mapping and recording land rights. However, it is important that technology not hinder nor replace the real benefits that accrue from participatory mapping approaches.
 
-The experience of DFID over the past 20 years has given implementers and governments a solid evidence base on how to achieve more effective land tenure and land administrations reform over the long term through support to large national programs. Sharing the detail of these lessons is vital to ensure that programs continue to improve in design and implementation for the financial, social and governance benefit of recipient countries. 
+The experience of DFID over the past 20 years has given implementers and governments a solid evidence base on how to achieve more effective land tenure and land administration reform through support to large national programs. Sharing the detail of these lessons is vital to ensure that programs continue to improve in design and implementation for the financial, social, and governance benefit of partner countries. 
 
 *[Clive English ](https://www.dai.com/who-we-are/our-team/clive-english)is a Land Tenure Specialist and [Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti) is a Global Practice Specialist on DAI’s Environment Team.*
