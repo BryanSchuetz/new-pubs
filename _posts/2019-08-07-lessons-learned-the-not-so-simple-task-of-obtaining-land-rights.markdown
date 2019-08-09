@@ -1,5 +1,5 @@
 ---
-title: 'Lessons Learned: The Not-So-Simple Task of Obtaining Land Rights'
+title: 'Nine Lessons Learned: The Not-So-Simple Task of Obtaining Land Rights'
 date: 2019-08-07 01:48:00 -04:00
 published: false
 tags:
