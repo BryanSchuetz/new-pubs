@@ -16,7 +16,7 @@ publication: Developing Alternatives
 
 The promise of land rights in developing countries goes something like this: Once an individual has secured land and property rights, he or she is more empowered and more able to participate in the economic growth of his or her community. Add in the multiplier effect and voila—a developing country begins to move toward economic growth and stability.
 
-Of course, nothing in global development is quite that simple. The U.K. Department for International Development (DFID) has been a leader since 2000 in helping lower-income countries to develop more robust and efficient land administration systems. DFID’s approach to land tenure regularization (LTR) has now been adopted and implemented in Ethiopia, Mozambique, Nigeria, Rwanda, and Tanzania. In Guyana, DFID assisted in the transition of the land administration to enable it to become an autonomous administrative body with financial sustainability—part of this task was the regularization of leasehold lands and rehabilitation of the leasehold registry.
+Of course, nothing in global development is quite that simple. The U.K. Department for International Development (DFID) has been a leader since 2000 in helping lower-income countries develop more robust and efficient land administration systems. DFID’s approach to land tenure regularization (LTR) has now been adopted and implemented in Ethiopia, Mozambique, Nigeria, Rwanda, and Tanzania. In Guyana, DFID assisted in the transition of the land administration to enable it to become an autonomous administrative body with financial sustainability—part of this task was the regularization of leasehold lands and rehabilitation of the leasehold registry.
 
 
 
