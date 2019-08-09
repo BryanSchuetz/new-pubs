@@ -29,7 +29,7 @@ Overall, DFID programs have issued more than 20 million individual or joint land
 
 While these achievements are notable, land reform has ongoing challenges and understanding these headwinds is critical to the design and implementation of future programs. In particular, the expectations of governments and donors regarding what can be achieved through support to LTR and land administrations needs to be balanced against the need for complementary programs that are necessary to achieve real change. As with many development programs, sometimes outcomes take decades to become evident. This is especially true of the land sector.
 
-In 2014, DFID launched the [Land: Enhancing Governance for Economic Development (LEGEND) programme](https://www.odi.org/projects/2798-land-enhancing-governance-economic-development-legend) to mobilize knowledge and capacity for design and implementation of country programs, improve inclusive land governance and economic development, and scale land and property rights.
+In 2014, DFID launched the [Land: Enhancing Governance for Economic Development (LEGEND) project](https://www.odi.org/projects/2798-land-enhancing-governance-economic-development-legend) to mobilize knowledge and capacity for design and implementation of country programs, improve inclusive land governance and economic development, and scale land and property rights.
 
 The team at LEGEND recently turned to DAI to review the six large-scale land projects that took place in the countries mentioned above. 
 
