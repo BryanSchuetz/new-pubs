@@ -14,7 +14,7 @@ social-image: "/uploads/Gender%20Lens%20Devs-0f5976.jpeg"
 publication: Developments
 ---
 
-*“Where shall I begin,” asked the White Rabbit. “Begin at the beginning and go on ’till you come to the end,” said the King rather sensibly in the often-quoted line from Lewis Carrol’s Alice in Wonderland.*
+*“Where shall I begin,” asked the White Rabbit. “Begin at the beginning,” the King said, very gravely, “and go on till you come to the end: then stop.”—from Lewis Carroll’s* Alice's Adventures in Wonderland 
 
 We often hear the same question when it comes to gender-lens or gender-smart investing. Businesses and investors have varying levels of knowledge, interest, and commitment to making the private sector more equitable for women. In the United States, a 2018 report on [impact investing trends](https://www.ussif.org/trends) identified $868 billion in institutional investor assets under management that take gender-lens issues into consideration, more than double the $397 billion identified in 2016. Others find the phrase gender-lens investing confusing or intimidating and, like the White Rabbit, wonder where to begin. Perhaps, fortunately, our answer is not as direct as the King’s: We believe that there are many ways businesses and investors can begin to enhance gender equity, according to what works for them.
 
