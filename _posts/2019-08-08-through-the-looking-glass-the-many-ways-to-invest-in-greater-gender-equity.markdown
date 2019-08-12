@@ -1,7 +1,6 @@
 ---
 title: 'Through the Looking Glass: The Many Ways to Invest in Greater Gender Equity'
 date: 2019-08-08 13:13:00 -04:00
-published: false
 tags:
 - gender
 - finance
