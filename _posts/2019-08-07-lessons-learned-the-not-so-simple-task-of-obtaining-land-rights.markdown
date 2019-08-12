@@ -30,8 +30,7 @@ While these achievements are notable, land reform has ongoing challenges and und
 
 In 2014, DFID launched the [Land: Enhancing Governance for Economic Development (LEGEND) project](https://www.odi.org/projects/2798-land-enhancing-governance-economic-development-legend) to mobilize knowledge and capacity in design and implementation of country programs, improve inclusive land governance and economic development, and scale land and property rights.
 
-The team at LEGEND recently turned to DAI to review the six large-scale land projects that took place in the countries mentioned above. 
-
+The Overseas Development Institute (ODI) team at LEGEND recently requested that DAI review the six large-scale land projects that took place in the countries mentioned above. 
 
 <aside><h3><a href="https://landportal.org/library/resources/securing-land-rights-scale">DOWNLOAD THE FULL REVIEW</a></h3></aside>
 
