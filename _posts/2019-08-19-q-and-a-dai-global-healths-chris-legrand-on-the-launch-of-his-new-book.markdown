@@ -16,6 +16,7 @@ publication: Developments
 
 
 **When did the germ of this idea come to you?**
+
 “I began to think about this model early in my career, as an internal framework for my own journey. I started out as a technical person you see, and I realized I needed to be more rounded to be a better leader.
 
 “Then at Constella Group, where we developed a strong people development culture, I formalized my thinking and implemented a leadership development approach around these Complete Business Leader dimensions. At Futures Group [now Palladium] I continued refining the leadership framework, using it for hiring, developing, and evaluating leaders.”
