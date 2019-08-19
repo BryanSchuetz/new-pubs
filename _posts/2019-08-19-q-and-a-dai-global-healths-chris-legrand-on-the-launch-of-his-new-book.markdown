@@ -33,6 +33,8 @@ publication: Developments
 
 “That organizations will have more impact if and when their leaders are well-rounded and grounded, can work with and inspire diverse teams, and make decisions based on a holistic grasp of diverse kinds and sources of information.”
 
+![CHRIS LEGRAND 2 (1).jpg](/uploads/CHRIS%20LEGRAND%202%20(1).jpg)`Chris LeGrand answers questions from the media about a global health program.`
+
 **Why do Complete Business Leaders succeed?** 
 
 “Perhaps it was less critical 50 or 100 years ago, but today it’s inescapable: you simply can’t afford to be one-dimensional. Today, there are so many factors to consider simultaneously in any significant decision. You can’t make that decision absent the people point of view, or the business and finance point of view, or the public relations point of view. Complete Business Leaders have that comprehensive frame of reference and can bring the big picture together for others—that’s a gift but also a capacity you can work on, as I hope to show in the book.” 
@@ -47,14 +49,14 @@ publication: Developments
 
 “Perhaps, in the sense that technology has changed the ballgame for everyone, especially the speed with which you need to process data and make decisions. In an increasingly global and integrated knowledge economy, you really need to make those decisions on the basis of a well-rounded appraisal linking disparate people and sources of information.”
 
-![MG_0588-b7357b.jpg](/uploads/MG_0588-b7357b.jpg)`Chris LeGrand, center, speaks on a panel with other DAI leaders at a staff conference.`
-
 **Is there some aspect of this leadership model that’s particularly applicable to your role as head of DAI Global Health?**
 [Laughs]. “I would say it’s the full manifestation of all seven dimensions.
 
 “But seriously, at the base of the model is self-knowledge, and trying to build a business in the context of a larger, established organization has certainly required me to understand who I am, who I’m not. The relationship management component of good leadership has been crucial: coming in and gaining people’s trust, joining teams, attracting talent. The thought leadership component is also critical as we try to introduce something new to the market. And now that we’re winning and implementing programs, there’s that grasp of financials, business growth, project management—the whole thing.
 
 “Getting all those pieces to fit has required me to bring my best self every day. Not that I do of course…that’s just the gold standard you aspire to.”
+
+![MG_0588-b7357b.jpg](/uploads/MG_0588-b7357b.jpg)`Chris LeGrand, center, speaks on a panel with other DAI leaders at a staff conference.`
 
 **What steps can young professionals take if they want to become Complete Business Leaders?**
 
