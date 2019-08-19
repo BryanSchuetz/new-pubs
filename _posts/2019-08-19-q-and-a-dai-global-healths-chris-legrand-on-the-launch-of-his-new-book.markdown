@@ -56,7 +56,7 @@ publication: Developments
 
 “Getting all those pieces to fit has required me to bring my best self every day. Not that I do of course…that’s just the gold standard you aspire to.”
 
-![MG_0588-b7357b.jpg](/uploads/MG_0588-b7357b.jpg)`Chris LeGrand, center, speaks on a panel with other DAI leaders at a staff conference.`
+![Chris1.jpg](/uploads/Chris1.jpg)`LeGrand speaks at the annual awards gala for the Triangle Global Health Consortium, where he was Board Chair for four years.`
 
 **What steps can young professionals take if they want to become Complete Business Leaders?**
 
