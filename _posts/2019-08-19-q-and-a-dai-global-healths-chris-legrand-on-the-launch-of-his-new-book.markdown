@@ -12,7 +12,7 @@ social-image: "/uploads/teez.png"
 publication: Developments
 ---
 
-*[Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand) is the President of DAI Global Health. His new book,* The Complete Business Leader, *published in August, lays out a framework for business leadership, drawing on 30 years of experience in health, development, and technology consulting. LeGrand guides the reader through seven dimensions of leadership—individual wisdom, relationship management, thought leadership, business growth, people leadership, project management, and business management—while steadily making the case that the key to enduring impact lies in pulling those dimensions together.*
+*[Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand) is the President of DAI Global Health. His new book,* [The Complete Business Leader](https://www.amazon.com/gp/product/1733224602?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=Q8GEJPV280Q2J0WHG44G), *published in August, lays out a framework for business leadership, drawing on 30 years of experience in health, development, and technology consulting. LeGrand guides the reader through seven dimensions of leadership—individual wisdom, relationship management, thought leadership, business growth, people leadership, project management, and business management—while steadily making the case that the key to enduring impact lies in pulling those dimensions together.*
 
 *We sat down with Chris to get his thoughts on the launch of his first book.*
 
