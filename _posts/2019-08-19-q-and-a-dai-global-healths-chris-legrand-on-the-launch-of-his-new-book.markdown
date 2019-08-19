@@ -1,7 +1,6 @@
 ---
 title: 'Q&A: DAI Global Health’s Chris Legrand on the Launch of His New Book'
 date: 2019-08-19 10:20:00 -04:00
-published: false
 tags:
 - Thought Leadership
 - global-health
