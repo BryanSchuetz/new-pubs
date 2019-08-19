@@ -6,7 +6,7 @@ tags:
 - Thought Leadership
 - global-health
 - global-development
-author: 'Steven O''Connor, Director of Communications, DAI '
+author: 'DAI Communications Staff '
 thumbnail-image: "/uploads/IMG_1332.JPG"
 social-image: "/uploads/teez.png"
 publication: Developments
