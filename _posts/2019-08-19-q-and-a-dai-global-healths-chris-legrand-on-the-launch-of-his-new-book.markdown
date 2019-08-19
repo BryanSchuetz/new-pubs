@@ -47,7 +47,7 @@ publication: Developments
 
 “Perhaps, in the sense that technology has changed the ballgame for everyone, especially the speed with which you need to process data and make decisions. In an increasingly global and integrated knowledge economy, you really need to make those decisions on the basis of a well-rounded appraisal linking disparate people and sources of information.”
 
-![_MG_0588-3d0846.jpg](/uploads/_MG_0588-3d0846.jpg)`Chris LeGrand, third from left, speaks on a panel with other DAI leaders at a past staff conference.`
+![MG_0588.jpg](/uploads/MG_0588.jpg)`Chris LeGrand, third from left, speaks on a panel with other DAI leaders at a past staff conference.`
 
 **Is there some aspect of this leadership model that’s particularly applicable to your role as head of DAI Global Health?**
 [Laughs]. “I would say it’s the full manifestation of all seven dimensions.
