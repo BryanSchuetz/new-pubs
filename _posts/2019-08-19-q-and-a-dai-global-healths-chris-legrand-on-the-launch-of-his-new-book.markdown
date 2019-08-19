@@ -2,6 +2,10 @@
 title: 'Q&A: DAI Global Health’s Chris Legrand on the Launch of His New Book'
 date: 2019-08-19 10:20:00 -04:00
 published: false
+tags:
+- Thought Leadership
+- global-health
+- global-development
 author: 'Steven O''Connor, Director of Communications, DAI '
 thumbnail-image: "/uploads/IMG_1332.JPG"
 social-image: "/uploads/teez.png"
@@ -43,7 +47,7 @@ publication: Developments
 
 “Perhaps, in the sense that technology has changed the ballgame for everyone, especially the speed with which you need to process data and make decisions. In an increasingly global and integrated knowledge economy, you really need to make those decisions on the basis of a well-rounded appraisal linking disparate people and sources of information.”
 
-![_MG_0588.jpg](/uploads/_MG_0588.jpg)`Chris LeGrand, third from left, speaks on a panel with other DAI leaders at a past staff conference.`
+![_MG_0588-3d0846.jpg](/uploads/_MG_0588-3d0846.jpg)`Chris LeGrand, third from left, speaks on a panel with other DAI leaders at a past staff conference.`
 
 **Is there some aspect of this leadership model that’s particularly applicable to your role as head of DAI Global Health?**
 [Laughs]. “I would say it’s the full manifestation of all seven dimensions.
@@ -58,10 +62,10 @@ publication: Developments
 
 “In my case I started as a statistician, an analyst, but I was lucky enough to be given a chance to learn accounting and finance, an experience I describe in the book as an ‘on-the-job MBA.’ It transformed my whole career.”
 
-*You describe the book as a framework for impact in work and in life. Why “impact” rather than, say, “success”?*
+**You describe the book as a framework for impact in work and in life. Why “impact” rather than, say, “success”?**
 
 “It’s a great question. And I remember thinking a lot about that exact question deciding on a subtitle for the book. Success, to me, sounds temporal and superficial. Success suggests a short-term view, what have you done for me lately—impact is about the long term. Success is winning a project today. Impact is enabling a generation of people to get access to safe water, quality healthcare, decent education, and economic opportunity, and their kids having the freedom to dream and fulfill those dreams.”
 
-*And that framework goes beyond work?*
+**And that framework goes beyond work?**
 
 “For me, my personal and professional worlds have been intimately intertwined. I consciously choose to seek a purpose for my life and my work, and they’re integrated, not separate. Everything I do has an impact on my life and the people around me—and vice versa. I want to ensure that my life has meaning and that I have left things better than I found them.”
