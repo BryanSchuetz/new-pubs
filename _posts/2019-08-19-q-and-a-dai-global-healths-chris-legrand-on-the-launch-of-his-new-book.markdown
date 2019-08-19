@@ -33,7 +33,7 @@ publication: Developments
 
 “That organizations will have more impact if and when their leaders are well-rounded and grounded, can work with and inspire diverse teams, and make decisions based on a holistic grasp of diverse kinds and sources of information.”
 
-![CHRIS LEGRAND 2 (1).jpg](/uploads/CHRIS%20LEGRAND%202%20(1).jpg)`Chris LeGrand answers questions from the media about a health program.`
+![CHRIS LEGRAND 2 (1).jpg](/uploads/CHRIS%20LEGRAND%202%20(1).jpg)`Chris LeGrand answers questions from the media about a global health program.`
 
 **Why do Complete Business Leaders succeed?** 
 
