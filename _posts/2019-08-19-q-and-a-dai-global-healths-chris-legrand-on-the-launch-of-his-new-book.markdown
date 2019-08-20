@@ -49,6 +49,7 @@ publication: Developments
 “Perhaps, in the sense that technology has changed the ballgame for everyone, especially the speed with which you need to process data and make decisions. In an increasingly global and integrated knowledge economy, you really need to make those decisions on the basis of a well-rounded appraisal linking disparate people and sources of information.”
 
 **Is there some aspect of this leadership model that’s particularly applicable to your role as head of DAI Global Health?**
+
 [Laughs]. “I would say it’s the full manifestation of all seven dimensions.
 
 “But seriously, at the base of the model is self-knowledge, and trying to build a business in the context of a larger, established organization has certainly required me to understand who I am, who I’m not. The relationship management component of good leadership has been crucial: coming in and gaining people’s trust, joining teams, attracting talent. The thought leadership component is also critical as we try to introduce something new to the market. And now that we’re winning and implementing programs, there’s that grasp of financials, business growth, project management—the whole thing.
