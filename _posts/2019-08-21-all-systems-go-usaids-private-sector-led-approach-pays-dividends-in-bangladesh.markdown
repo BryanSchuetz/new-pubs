@@ -42,6 +42,8 @@ The result of initiatives like these? A range of successes and new ideas across 
 
 Encouragingly, AVC has observed firms scaling up the tactics they acquired from the project and—at their own cost—applying those strategies in other regions, value chains, and sectors.
 
+![MorganaWingardBangladeshAVC.jpg](/uploads/MorganaWingardBangladeshAVC.jpg)
+
 ## Collaborating While Competing
 
 AVC also changed how firms in Bangladesh share information and collaborate. Five years’ worth of stakeholder workshops, sector-wide dialogues, and industry fairs demonstrated the benefits of sector-level coordination. A number of AVC’s partners are now engaged in joint branding, marketing, or mutually beneficial investment opportunities.
