@@ -14,6 +14,8 @@ The U.S. Agency for International Development (USAID) recently concluded a succe
 
 In doing so, AVC built strong relationships with 42 leading private sector partners to the ultimate benefit of 307,000 rural households. More than 300,000 farmers applied new technologies and management practices that increased crop yields by 131 percent. Project activities led to the creation of 111,662 new jobs.
 
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0108r0j9-5year-in-bangladesh" data-w="800" data-h="1209" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ></p>
+
 ## Systemic, Adaptive, Market-Driven: The AVC Approach
 
 AVC used a market systems strategy. Rather than focusing on discrete, isolated targets and indicators, the project addressed the underlying reasons, incentives, and biases that determined how and why the agricultural market system was not coming up with solutions organically.
