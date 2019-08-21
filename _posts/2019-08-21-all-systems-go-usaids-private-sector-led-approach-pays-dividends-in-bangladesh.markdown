@@ -12,7 +12,7 @@ social-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
 publication: Developments
 ---
 
-![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)
+![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)`A groundnut farmer harvests her crop. Photo credit: Rashed Haque`
 
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
 
@@ -48,7 +48,7 @@ The result of initiatives like these? A range of [successes and new ideas](https
 
 Encouragingly, AVC has observed firms scaling up the tactics they acquired from the project and—at their own cost—applying those strategies in other regions, value chains, and sectors.
 
-![MorganaWingardBangladeshAVC.jpg](/uploads/MorganaWingardBangladeshAVC.jpg)
+![MorganaWingardBangladeshAVC.jpg](/uploads/MorganaWingardBangladeshAVC.jpg)`Photo Credit: Morgana Wingard`
 
 ## Collaborating While Competing
 
