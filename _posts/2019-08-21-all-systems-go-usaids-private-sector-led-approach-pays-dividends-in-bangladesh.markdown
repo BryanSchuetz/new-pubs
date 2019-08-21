@@ -16,7 +16,7 @@ publication: Developments
 
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
 
-The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a [market systems approach](https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming), the [USAID Agricultural Value Chains activity (AVC)](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
+The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a [market systems approach](https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming), the USAID [Agricultural Value Chains activity](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program) (AVC), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
 
 In doing so, AVC built strong relationships with 42 leading private sector partners to the ultimate benefit of 307,000 rural households. More than 300,000 farmers applied new technologies and management practices that increased crop yields by 131 percent. Project activities led to the creation of [111,662 new jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
 
@@ -54,7 +54,7 @@ Encouragingly, AVC has observed firms scaling up the tactics they acquired from 
 
 AVC also changed how firms in Bangladesh share information and collaborate. Five years’ worth of stakeholder workshops, sector-wide dialogues, and industry fairs demonstrated the benefits of sector-level coordination. A number of AVC’s partners are now engaged in joint branding, marketing, or mutually beneficial investment opportunities.
 
-Notably, AVC collaborated with the Dhaka Chamber of Commerce and Industry (DCCI), which represents local businesses and small and medium enterprises (SMEs). The partnership allowed DCCI to take on a sustainable, long-term role in coordinating responses to agricultural challenges and opportunities.
+Notably, AVC collaborated with the [Dhaka Chamber of Commerce and Industry](http://www.dhakachamber.com/) (DCCI), which represents local businesses and small and medium enterprises (SMEs). The partnership allowed DCCI to take on a sustainable, long-term role in coordinating responses to agricultural challenges and opportunities.
 
 One example: food safety. Bangladesh’s growing urban middle class was on the hunt for safe, sustainably produced fruits and vegetables—and willing to pay for them—but weren’t satisfied with the low-quality options on the market. Meanwhile, agribusinesses felt they had little incentive to train producers in safer practices.
 
