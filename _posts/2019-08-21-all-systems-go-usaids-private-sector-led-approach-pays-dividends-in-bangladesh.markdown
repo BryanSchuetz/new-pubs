@@ -76,9 +76,6 @@ The brand sold 118 metric tons of produce (worth more than $120,000) in three mo
 
 ![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)`Vegetable farmers pose with their eggplant harvest.`
 
-> **What comes next?**
-> Important challenges remain in the Southern Delta’s agriculture sector. For example, Bangladesh’s informal economy accounts for 95 percent of the country’s fresh produce sales. While AVC did not specifically target these traders, future projects would do well to engage this huge portion of the market.
-
 These system-level changes tending toward more inclusive business practices lie at the heart of AVC’s approach.
 
 “All this was already happening before AVC, and we saw the opportunity to help speed up these market trends and help more people benefit from them,” says Wall. “There’s no stopping now.”
