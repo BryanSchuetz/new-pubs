@@ -73,6 +73,6 @@ These system-level changes tending toward more inclusive business practices lie 
 
 “All this was already happening before AVC, and we saw the opportunity to help speed up these market trends and help more people benefit from them,” says Wall. “There’s no stopping now.”
 
-To learn more, read the full [final report online](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project).
+### To learn more, read the full [final report online](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project).
 
 *Claire Miller is a Senior Communications Specialist at DAI.*
