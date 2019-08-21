@@ -33,7 +33,8 @@ The result of initiatives like these? A range of successes and new ideas across 
 * AVC helped establish the **cut flower** sector as a formalized industry in Bangladesh, growing the market from $67 million in 2013 to $150 million in 2018—and providing unique employment opportunities for women, who typically are excluded from high-paying, skilled management jobs in agriculture.
 
 * Initiatives in the **pulse** sector (lentils and beans) trained 40,000 farmers, introduced two new seed varieties, and opened two new processing mills.
-  AVC and its partners worked with 53,000 summer vegetable farmers (who grow crops such as gourds, squash, and eggplant)—representing more than 20 percent of summer vegetable farmers in the Southern Delta.
+
+* AVC and its partners worked with 53,000 **summer vegetable** farmers (who grow crops such as gourds, squash, and eggplant)—representing more than 20 percent of summer vegetable farmers in the Southern Delta.
 
 * **Tomato** farmers, whose crops are especially vulnerable to environmental stresses, benefited from a pilot program to receive weather-based index insurance.
 
@@ -54,6 +55,8 @@ DCCI launched a partnership with GlobalG.A.P., an international agency for fresh
 The brand sold 118 metric tons of produce (worth more than $120,000) in three months. Consumers were pleased to have access to safe food produced with environmentally sound and health-friendly practices. More companies are now pursuing G.A.P. certification with help from DCCI. At the other end of the supply chain, DCCI now offers a GlobalG.A.P. helpdesk that producers can call for guidance on safe growing practices, which enable them to make more money from their harvests.
 
 “Now that we practice G.A.P. and also work actively to introduce G.A.P. to our fellow farmers, the people of our village treat us with a lot of respect,” said Shares Mohammad Kamruzzaman, a farmer who supplies the Shuddho brand. “\[They\] express their gratitude to us for being change makers of the community.”
+
+![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)
 
 > **What comes next?**
 > Important challenges remain in the Southern Delta’s agriculture sector. For example, Bangladesh’s informal economy accounts for 95 percent of the country’s fresh produce sales. While AVC did not specifically target these traders, future projects would do well to engage this huge portion of the market.
