@@ -2,7 +2,13 @@
 title: 'All Systems Go: USAID’s Private Sector-Led Approach Pays Dividends in Bangladesh'
 date: 2019-08-21 11:45:00 -04:00
 published: false
+tags:
+- market-systems-development
+- agriculture
+- value chain
 author: Claire Miller
+thumbnail-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
+social-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
 publication: Developments
 ---
 
@@ -10,7 +16,7 @@ publication: Developments
 
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
 
-The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a market systems approach, the USAID Agricultural Value Chains activity (AVC), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
+The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a [market systems approach](https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming), the [USAID Agricultural Value Chains activity (AVC)](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
 
 In doing so, AVC built strong relationships with 42 leading private sector partners to the ultimate benefit of 307,000 rural households. More than 300,000 farmers applied new technologies and management practices that increased crop yields by 131 percent. Project activities led to the creation of 111,662 new jobs.
 
@@ -18,11 +24,11 @@ In doing so, AVC built strong relationships with 42 leading private sector partn
 
 ## Systemic, Adaptive, Market-Driven: The AVC Approach
 
-AVC used a market systems strategy. Rather than focusing on discrete, isolated targets and indicators, the project addressed the underlying reasons, incentives, and biases that determined how and why the agricultural market system was not coming up with solutions organically.
+AVC used a [market systems strategy](https://www.marketlinks.org/post/capturing-systemic-change-bangladesh). Rather than focusing on discrete, isolated targets and indicators, the project addressed the underlying reasons, incentives, and biases that determined how and why the agricultural market system was not coming up with solutions organically.
 
 “This approach is all about what’s already happening in the market ,” says DAI’s Sarah Wall, who served as a project manager for AVC. “Which incentives are driving the market and which barriers are inhibiting it? We work to amplify forces that drive the market while trying to help market actors slowly shift the barriers or work around them.”
 
-Employing these tactics required ongoing learning and iteration, so AVC had to establish a strong learning and collaborative culture across the project team. In its third year, AVC refocused its technical strategy, organizational structure, and knowledge management strategies to better support a systems-based approach. The team targeted private sector firms already interested in inclusive growth, and provided flexible grants that also required financial commitments from the recipient companies.
+Employing these tactics required ongoing learning and iteration, so AVC had to establish a strong [learning and collaborative culture](https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture) across the project team. In its third year, AVC refocused its technical strategy, organizational structure, and knowledge management strategies to better support a systems-based approach. The team targeted private sector firms already interested in inclusive growth, and provided flexible grants that also required financial commitments from the recipient companies.
 
 AVC’s approach sought out and strengthened the alignments between business incentives and USAID’s goals to improve farmers’ crop yields and incomes. For example, in its fifth year, AVC helped three leading agro-input companies—Ispahani, Partex, and NAAFCO—provide embedded training to a combined 39,000 farmers. The farmers learned how to use high-quality inputs, such as new seed varieties, safer bio-pesticides, and cutting-edge equipment.
 
@@ -67,4 +73,4 @@ These system-level changes tending toward more inclusive business practices lie 
 
 “All this was already happening before AVC, and we saw the opportunity to help speed up these market trends and help more people benefit from them,” says Wall. “There’s no stopping now.”
 
-***Claire Miller** is a Senior Communications Specialist at DAI.*
+*Claire Miller is a Senior Communications Specialist at DAI.*
