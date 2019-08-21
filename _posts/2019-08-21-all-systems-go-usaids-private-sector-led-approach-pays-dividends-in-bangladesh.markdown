@@ -12,11 +12,21 @@ social-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
 publication: Developments
 ---
 
-![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)`Improved groundnut seeds have transformed farmers' incomes in Bangladesh's Southern Delta. Photo credit: Rashed Haque`
-
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
 
 The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a [market systems approach](https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming), the USAID [Agricultural Value Chains activity](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program) (AVC), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
+
+
+
+
+
+
+
+
+
+
+
+![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)`Improved groundnut seeds have transformed farmers' incomes in Bangladesh's Southern Delta. Photo credit: Rashed Haque`
 
 In doing so, AVC built strong relationships with 42 leading private sector partners to the ultimate benefit of 307,000 rural households. More than 300,000 farmers applied new technologies and management practices that increased crop yields by 131 percent. Project activities led to the creation of [111,662 new jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
 
