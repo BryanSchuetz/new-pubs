@@ -3,14 +3,18 @@ title: 'All Systems Go: USAID’s Private Sector-Led Approach Pays Dividends in 
 date: 2019-08-21 11:45:00 -04:00
 published: false
 author: Claire Miller
-publication: developments
+publication: Developments
 ---
+
+![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)
 
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
 
 The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a market systems approach, the USAID Agricultural Value Chains activity (AVC), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
 
 In doing so, AVC built strong relationships with 42 leading private sector partners to the ultimate benefit of 307,000 rural households. More than 300,000 farmers applied new technologies and management practices that increased crop yields by 131 percent. Project activities led to the creation of 111,662 new jobs.
+
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="0108r0j9-5year-in-bangladesh" data-w="800" data-h="1209" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ></p>
 
 ## Systemic, Adaptive, Market-Driven: The AVC Approach
 
@@ -26,16 +30,19 @@ The partner firms, in turn, learned the importance of education, product informa
 
 The result of initiatives like these? A range of successes and new ideas across eight agricultural value chains. To name just a few:
 
-AVC helped establish the **cut flower** sector as a formalized industry in Bangladesh, growing the market from $67 million in 2013 to $150 million in 2018—and providing unique employment opportunities for women, who typically are excluded from high-paying, skilled management jobs in agriculture.
+* AVC helped establish the **cut flower** sector as a formalized industry in Bangladesh, growing the market from $67 million in 2013 to $150 million in 2018—and providing unique employment opportunities for women, who typically are excluded from high-paying, skilled management jobs in agriculture.
 
-Initiatives in the \*\*pulse \*\*sector (lentils and beans) trained 40,000 farmers, introduced two new seed varieties, and opened two new processing mills.
-AVC and its partners worked with 53,000 summer vegetable farmers (who grow crops such as gourds, squash, and eggplant)—representing more than 20 percent of summer vegetable farmers in the Southern Delta.
+* Initiatives in the **pulse** sector (lentils and beans) trained 40,000 farmers, introduced two new seed varieties, and opened two new processing mills.
 
-**Tomato** farmers, whose crops are especially vulnerable to environmental stresses, benefited from a pilot program to receive weather-based index insurance.
+* AVC and its partners worked with 53,000 **summer vegetable** farmers (who grow crops such as gourds, squash, and eggplant)—representing more than 20 percent of summer vegetable farmers in the Southern Delta.
 
-**Groundnut** farmers have a new seed production hub. **Mango** farmers benefited from a major online retail and marketing initiative, which addressed customers’ concerns about chemical residue on fruit. The potato sector built a sustainable supply chain network for processed potatoes. Producers of **jute and coir** (rope materials) learned new cultivation techniques and new uses for their products.
+* **Tomato** farmers, whose crops are especially vulnerable to environmental stresses, benefited from a pilot program to receive weather-based index insurance.
+
+* **Groundnut** farmers have a new seed production hub. **Mango** farmers benefited from a major online retail and marketing initiative, which addressed customers’ concerns about chemical residue on fruit. The **potato** sector built a sustainable supply chain network for processed potatoes. Producers of **jute and coir** (rope materials) learned new cultivation techniques and new uses for their products.
 
 Encouragingly, AVC has observed firms scaling up the tactics they acquired from the project and—at their own cost—applying those strategies in other regions, value chains, and sectors.
+
+![MorganaWingardBangladeshAVC.jpg](/uploads/MorganaWingardBangladeshAVC.jpg)
 
 ## Collaborating While Competing
 
@@ -50,6 +57,11 @@ DCCI launched a partnership with GlobalG.A.P., an international agency for fresh
 The brand sold 118 metric tons of produce (worth more than $120,000) in three months. Consumers were pleased to have access to safe food produced with environmentally sound and health-friendly practices. More companies are now pursuing G.A.P. certification with help from DCCI. At the other end of the supply chain, DCCI now offers a GlobalG.A.P. helpdesk that producers can call for guidance on safe growing practices, which enable them to make more money from their harvests.
 
 “Now that we practice G.A.P. and also work actively to introduce G.A.P. to our fellow farmers, the people of our village treat us with a lot of respect,” said Shares Mohammad Kamruzzaman, a farmer who supplies the Shuddho brand. “\[They\] express their gratitude to us for being change makers of the community.”
+
+![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)
+
+> **What comes next?**
+> Important challenges remain in the Southern Delta’s agriculture sector. For example, Bangladesh’s informal economy accounts for 95 percent of the country’s fresh produce sales. While AVC did not specifically target these traders, future projects would do well to engage this huge portion of the market.
 
 These system-level changes tending toward more inclusive business practices lie at the heart of AVC’s approach.
 
