@@ -3,6 +3,7 @@ title: 'All Systems Go: USAID’s Private Sector-Led Approach Pays Dividends in 
 date: 2019-08-21 11:45:00 -04:00
 published: false
 author: Claire Miller
+publication: developments
 ---
 
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
