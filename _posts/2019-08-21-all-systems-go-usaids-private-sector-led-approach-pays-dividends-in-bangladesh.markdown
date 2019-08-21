@@ -24,11 +24,11 @@ In doing so, AVC built strong relationships with 42 leading private sector partn
 
 ## Systemic, Adaptive, Market-Driven: The AVC Approach
 
-AVC used a market systems strategy. Rather than focusing on discrete, isolated targets and indicators, the project addressed the underlying reasons, incentives, and biases that determined how and why the agricultural market system was not coming up with solutions organically.
+AVC used a [market systems strategy](https://www.marketlinks.org/post/capturing-systemic-change-bangladesh). Rather than focusing on discrete, isolated targets and indicators, the project addressed the underlying reasons, incentives, and biases that determined how and why the agricultural market system was not coming up with solutions organically.
 
 “This approach is all about what’s already happening in the market ,” says DAI’s Sarah Wall, who served as a project manager for AVC. “Which incentives are driving the market and which barriers are inhibiting it? We work to amplify forces that drive the market while trying to help market actors slowly shift the barriers or work around them.”
 
-Employing these tactics required ongoing learning and iteration, so AVC had to establish a strong learning and collaborative culture across the project team. In its third year, AVC refocused its technical strategy, organizational structure, and knowledge management strategies to better support a systems-based approach. The team targeted private sector firms already interested in inclusive growth, and provided flexible grants that also required financial commitments from the recipient companies.
+Employing these tactics required ongoing learning and iteration, so AVC had to establish a strong [learning and collaborative culture](https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture) across the project team. In its third year, AVC refocused its technical strategy, organizational structure, and knowledge management strategies to better support a systems-based approach. The team targeted private sector firms already interested in inclusive growth, and provided flexible grants that also required financial commitments from the recipient companies.
 
 AVC’s approach sought out and strengthened the alignments between business incentives and USAID’s goals to improve farmers’ crop yields and incomes. For example, in its fifth year, AVC helped three leading agro-input companies—Ispahani, Partex, and NAAFCO—provide embedded training to a combined 39,000 farmers. The farmers learned how to use high-quality inputs, such as new seed varieties, safer bio-pesticides, and cutting-edge equipment.
 
