@@ -12,7 +12,7 @@ social-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
 publication: Developments
 ---
 
-![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)`A groundnut farmer harvests her crop. Photo credit: Rashed Haque`
+![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)`Improved groundnut seeds have transformed farmers' incomes in Bangladesh's Southern Delta. Photo credit: Rashed Haque`
 
 The Southern Delta of Bangladesh is home to 28 million people, many of whom struggle with food insecurity. Despite the presence of high-tech agriculture companies and a huge farming industry, the region’s agriculture sector is not working for everyone.
 
@@ -48,7 +48,7 @@ The result of initiatives like these? A range of [successes and new ideas](https
 
 Encouragingly, AVC has observed firms scaling up the tactics they acquired from the project and—at their own cost—applying those strategies in other regions, value chains, and sectors.
 
-![MorganaWingardBangladeshAVC.jpg](/uploads/MorganaWingardBangladeshAVC.jpg)`Photo Credit: Morgana Wingard`
+![MorganaWingardBangladeshAVC.jpg](/uploads/MorganaWingardBangladeshAVC.jpg)`Bangladesh's cut flower industry presents new employment opportunities. Photo Credit: Morgana Wingard`
 
 ## Collaborating While Competing
 
@@ -64,7 +64,7 @@ The brand sold 118 metric tons of produce (worth more than $120,000) in three mo
 
 “Now that we practice G.A.P. and also work actively to introduce G.A.P. to our fellow farmers, the people of our village treat us with a lot of respect,” said Shares Mohammad Kamruzzaman, a farmer who supplies the Shuddho brand. “\[They\] express their gratitude to us for being change makers of the community.”
 
-![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)
+![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)`Vegetable farmers pose with their eggplant harvest.`
 
 > **What comes next?**
 > Important challenges remain in the Southern Delta’s agriculture sector. For example, Bangladesh’s informal economy accounts for 95 percent of the country’s fresh produce sales. While AVC did not specifically target these traders, future projects would do well to engage this huge portion of the market.
