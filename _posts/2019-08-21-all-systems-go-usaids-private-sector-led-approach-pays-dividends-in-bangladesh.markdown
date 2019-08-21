@@ -7,6 +7,8 @@ tags:
 - agriculture
 - value chain
 author: Claire Miller
+thumbnail-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
+social-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
 publication: Developments
 ---
 
