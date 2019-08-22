@@ -16,16 +16,6 @@ The Southern Delta of Bangladesh is home to 28 million people, many of whom stru
 
 The U.S. Agency for International Development (USAID) recently concluded a successful five-year project that addressed these challenges in the Delta. Taking a [market systems approach](https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming), the USAID [Agricultural Value Chains activity](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program) (AVC), funded under the Feed the Future initiative, focused on understanding and amplifying the underlying processes of the Delta’s agricultural market system to make it more efficient and inclusive.
 
-
-
-
-
-
-
-
-
-
-
 ![Introduction of improved groundnut seeds tranforms farmers incomes in Southern Delta (Ranking - 5).jpg](/uploads/Introduction%20of%20improved%20groundnut%20seeds%20tranforms%20farmers%20incomes%20in%20Southern%20Delta%20(Ranking%20-%205).jpg)`Improved groundnut seeds have transformed farmers' incomes in Bangladesh's Southern Delta. Photo credit: Rashed Haque`
 
 In doing so, AVC built strong relationships with 42 leading private sector partners to the ultimate benefit of 307,000 rural households. More than 300,000 farmers applied new technologies and management practices that increased crop yields by 131 percent. Project activities led to the creation of [111,662 new jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
@@ -46,7 +36,7 @@ The partner firms, in turn, learned the importance of education, product informa
 
 The result of initiatives like these? A range of [successes and new ideas](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project) across eight agricultural value chains. To name just a few:
 
-* AVC helped establish the [**cut flower** sector](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh) as a formalized industry in Bangladesh, growing the market from $67 million in 2013 to $150 million in 2018—and providing unique [employment opportunities](https://www.facebook.com/watch/?v=10154929405978955) for women, who typically are excluded from high-paying, skilled management jobs in agriculture.
+* AVC helped establish the **[cut flower](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh)**[ sector](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh) as a formalized industry in Bangladesh, growing the market from $67 million in 2013 to $150 million in 2018—and providing unique [employment opportunities](https://www.facebook.com/watch/?v=10154929405978955) for women, who typically are excluded from high-paying, skilled management jobs in agriculture.
 
 * Initiatives in the **pulse** sector (lentils and beans) trained 40,000 farmers, introduced two new seed varieties, and opened two new processing mills.
 
@@ -80,6 +70,6 @@ These system-level changes tending toward more inclusive business practices lie 
 
 “All this was already happening before AVC, and we saw the opportunity to help speed up these market trends and help more people benefit from them,” says Wall. “There’s no stopping now.”
 
-### To learn more, read the [final report](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project).
+**To learn more, read the [final report](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project).**
 
 *Claire Miller is a Senior Communications Specialist at DAI.*
