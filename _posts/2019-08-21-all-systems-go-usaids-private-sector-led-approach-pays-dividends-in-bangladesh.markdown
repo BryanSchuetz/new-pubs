@@ -64,7 +64,7 @@ The brand sold 118 metric tons of produce (worth more than $120,000) in three mo
 
 “Now that we practice G.A.P. and also work actively to introduce G.A.P. to our fellow farmers, the people of our village treat us with a lot of respect,” said Shares Mohammad Kamruzzaman, a farmer who supplies the Shuddho brand. “\[They\] express their gratitude to us for being change makers of the community.”
 
-![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)`Vegetable farmers pose with their eggplant harvest.`
+![BangAVC copy.jpg](/uploads/BangAVC%20copy.jpg)`AVC and its partners worked with 53,000 summer vegetable farmers, who grow crops such as eggplant.`
 
 These system-level changes tending toward more inclusive business practices lie at the heart of AVC’s approach.
 
