@@ -46,7 +46,7 @@ The initiative expects to help establish 18 new healthcare units at different go
 
 So far, 321 health professionals have participated in home and palliative care training with support from JCP. Seventy trainers received certification to teach the program.
 
-![JCP - woman in lecture.jpg](/uploads/JCP%20-%20woman%20in%20lecture.jpg)`JCP supported a range of skills development programs, including home and palliative care training for health professionals.`
+![JCP - woman in lecture.jpg](/uploads/JCP%20-%20woman%20in%20lecture.jpg)`JCP supported a range of job skills programs, including home and palliative care training for health professionals.`
 
 **Home care embedded in policy**
 
