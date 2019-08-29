@@ -56,8 +56,8 @@ Thanks to these efforts, Jordan’s Ministry of Health has now endorsed the coun
 
 ***Mirna Fakhoury** is a project manager for DAI.*
 
-***Dr. Omar Shamieh** is Chairman of the Department of Palliative Care and Director of the Psychosocial Oncology Program at King Hussein Cancer Center in Amman, Jordan, which helped found the Jordanian Home Care Initiative.*
+***[Dr. Omar Shamieh](http://www.khcf.jo/en/doctors/omar-shamieh-md)** is Chairman of the Department of Palliative Care and Director of the Psychosocial Oncology Program at King Hussein Cancer Center in Amman, Jordan, which helped found the Jordanian Home Care Initiative.*
 
-***Dr. Bridget Johnston** is a Research Fellow in Public Health and Primary Care at the Trinity College Dublin School of Medicine.*
+***[Dr. Bridget Johnston](https://www.tcd.ie/medicine/staff/BJOHNST)** is a Research Fellow in Public Health and Primary Care at the Trinity College Dublin School of Medicine.*
 
 *Dr. Shamieh and Dr. Johnston co-authored a report on the economics of palliative and home care services in Jordan for the National Home Care Initiative.*
