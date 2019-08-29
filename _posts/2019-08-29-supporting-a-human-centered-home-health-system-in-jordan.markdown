@@ -14,7 +14,7 @@ Until recently, Jordan had no formalized home healthcare system. The King Hussei
 
 Since 2017, the project has trained more than 300 health professionals and expanded participation to 28 public, private, and academic medical facilities. JCP’s support in creating a diploma certification program and advocating for a new national strategic framework will help the sector continue to grow.
 
-![jcp.jpg](/uploads/jcp.jpg)`Jordanian home care patient Zuhdiyyah, age 76, receives a visit from her care team--no trip to the hospital required.`
+![jcp.jpg](/uploads/jcp.jpg)`Jordanian home care patient Zuhdiyyah, age 76, receives a visit from her care team--no hospital trip required.`
 
 **Improving care while decreasing costs**
 
@@ -46,7 +46,7 @@ The initiative expects to help establish 18 new healthcare units at different go
 
 So far, 321 health professionals have participated in home and palliative care training with support from JCP. Seventy trainers received certification to teach the program.
 
-![JCP - woman in lecture.jpg](/uploads/JCP%20-%20woman%20in%20lecture.jpg)`JCP supported a range of skills development programs, including home and palliative care training for health professionals.`
+![JCP - woman in lecture.jpg](/uploads/JCP%20-%20woman%20in%20lecture.jpg)`JCP supported a range of job skills programs, including home and palliative care training for health professionals.`
 
 **Home care embedded in policy**
 
