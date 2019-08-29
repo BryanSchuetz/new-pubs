@@ -36,6 +36,7 @@ The World Health Organization identifies palliative care as a central component 
 Average per-patient spending at KHCC decreased from 5,436 JD in 2016 to 5,220 JD in 2017. This reduction was due in part to the shift toward lower-cost, community-based services such as home care and outpatient visits.  These findings are in keeping with research from high-income countries, which has established a link between palliative and homecare services and reduced costs in the wider health sector.  
 
 The experience of one patient, Zuhdiyyah, demonstrates the personal impact of home care. Doctors advised the 76-year-old to join the home care program after she received treatment at the KHCC. She was delighted. “When I was told I would be sent home for the remainder of my treatment follow-up, I was a completely different person,” said Zuhdiyyah. 
+
 Having to travel to the hospital for routine procedures was physically difficult for Zuhdiyyah, and could have hindered her recovery. Now, she says, “Every time I see the homecare nurses coming through the door, it feels as if I was never ill!”
 
 **Training promises long-term job creation**
@@ -52,3 +53,20 @@ The initiative expects to help establish 18 new healthcare units at different go
 
 So far, 321 health professionals have participated in home and palliative care training with support from JCP. Seventy trainers received certification to teach the program. 
 
+![JCP - woman in lecture.jpg](/uploads/JCP%20-%20woman%20in%20lecture.jpg)
+
+**Home care embedded in policy**
+
+Through a grant from JCP, KHCC further supported the national palliative care committee. Technical assistance from JCP allowed the committee to lobby policy makers to add home healthcare services to existing government healthcare insurance plans. JCP also helped the committee make the business case for home healthcare to insurance providers.
+
+Thanks to these efforts, Jordan’s Ministry of Health has now endorsed the country’s first-ever national strategy for palliative and home healthcare. As home care continues to professionalize as a sector, and as demand for these services continues to grow, Jordan’s National Home Healthcare Initiative will help the country’s healthcare providers improve care, serve more patients, and address healthcare costs. 
+
+
+
+***Mirna Fakhoury** is a project manager for DAI.*
+
+***Dr. Omar Shamieh** is Chairman of the Department of Palliative Care and Director of the Psychosocial Oncology Program at King Hussein Cancer Center in Amman, Jordan, which helped found the Jordanian Home Care Initiative. 
+
+**Dr. Bridget Johnston** is a Research Fellow in Public Health and Primary Care at the Trinity College Dublin School of Medicine. 
+
+Dr. Shamieh and Dr. Johnston co-authored a report on the economics of palliative and home care services in Jordan for the National Home Care Initiative.*
