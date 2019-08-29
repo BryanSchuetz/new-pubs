@@ -60,4 +60,4 @@ Thanks to these efforts, Jordan’s Ministry of Health has now endorsed the coun
 
 ***Dr. Bridget Johnston** is a Research Fellow in Public Health and Primary Care at the Trinity College Dublin School of Medicine.*
 
-Dr. Shamieh and Dr. Johnston co-authored a report on the economics of palliative and home care services in Jordan for the National Home Care Initiative.\*
+*Dr. Shamieh and Dr. Johnston co-authored a report on the economics of palliative and home care services in Jordan for the National Home Care Initiative.*
