@@ -42,7 +42,7 @@ Until 2016, Jordan had no training programs in home and palliative care. With JC
 
 One nurse who received training is Ahmad, who said that the program taught him how to conduct a wide range of procedures—“lab tests, medication reviews, clinical examinations, you name it!”— in home settings. More than 70 percent of his work takes place in patients’ homes.
 
-The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
+> The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
 
 So far, 321 health professionals have participated in home and palliative care training with support from JCP. Seventy trainers received certification to teach the program.
 
