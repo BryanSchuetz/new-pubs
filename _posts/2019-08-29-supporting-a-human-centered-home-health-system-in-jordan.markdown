@@ -1,7 +1,6 @@
 ---
 title: Supporting a Human-Centered Home Health System in Jordan
 date: 2019-08-29 14:55:00 -04:00
-published: false
 tags:
 - global-health
 - health systems strengthening
@@ -12,10 +11,6 @@ publication: Developments
 Jordan’s healthcare system is considered one of the more modern in the Middle East, and many patients travel from neighboring countries to access its medical offerings. However, Jordan struggles with rising healthcare costs, an aging population with a changing disease burden, and meeting high demand from around the region.
 
 Expanding home healthcare options is a promising solution to these challenges. Patients can save time and money by taking care of routine procedures and check-ups at home, and those receiving palliative care can benefit from receiving services in a comfortable, familiar environment. Hospitals, in turn, free up space and resources for additional patients.
-
-
-
-
 
 
 
@@ -53,7 +48,7 @@ Until 2016, Jordan had no training programs in home and palliative care. With JC
 
 One nurse who received training is Ahmad, who said that the program taught him how to conduct a wide range of procedures—“lab tests, medication reviews, clinical examinations, you name it!”—in home settings. More than 70 percent of his work takes place in patients’ homes.
 
-> The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
+>The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
 
 So far, 321 health professionals have participated in home and palliative care training with support from JCP. Seventy trainers received certification to teach the program.
 
