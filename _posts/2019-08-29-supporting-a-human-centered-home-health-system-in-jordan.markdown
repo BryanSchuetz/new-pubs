@@ -2,6 +2,11 @@
 title: Supporting a Human-Centered Home Health System in Jordan
 date: 2019-08-29 14:55:00 -04:00
 published: false
+tags:
+- global-health
+- health systems strengthening
+- home healthcare
+- palliative care
 author: Mirna Fakhoury, Omar Shamieh, and Bridget Johnston
 publication: Developments
 ---
@@ -9,6 +14,14 @@ publication: Developments
 Jordan’s healthcare system is considered one of the more modern in the Middle East, and many patients travel from neighboring countries to access its medical offerings. However, Jordan struggles with rising healthcare costs, an aging population with a changing disease burden, and meeting high demand from around the region.
 
 Expanding home healthcare options is a promising solution to these challenges. Patients can save time and money by taking care of routine procedures and check-ups at home, and those receiving palliative care can benefit from receiving services in a comfortable, familiar environment. Hospitals, in turn, free up space and resources for additional patients.
+
+
+
+
+
+
+
+
 
 Until recently, Jordan had no formalized home healthcare system. The King Hussein Cancer Foundation (KHCF) and King Hussein Cancer Center (KHCC)—one of the region’s premier palliative care providers— worked with the U.S. Agency for International Development (USAID) [Jordan Competitiveness Program (JCP)](https://www.dai.com/our-work/projects/jordan-competitiveness-program-jcp) to establish the National Home Healthcare Initiative Project in 2015. The [KHCC-led effort](https://www.jordancompetitiveness.org/stories/2018/8/13/king-hussein-cancer-center-br6bm) aims to advance the country’s home healthcare system by scaling up home and palliative care offerings, serving as a center of excellence to improve practice, and providing education and training to healthcare workers.
 
@@ -24,11 +37,11 @@ In late 2016, Jordan’s National Home Care Initiative launched a pilot within K
 
 KHCC increased home care visits by 66 percent between 2016 and 2017. Patients participating in the service also received more frequent visits. During this time, emergency room visits and hospital admissions—which can be stressful, expensive, and risky—decreased among home care patients. Fewer admissions among this group of patients also meant that KHCC had more beds available to meet high demand.
 
-The World Health Organization identifies palliative care as a central component of integrated, people-centered health services, and the Jordan pilot study also showed improvement in this area. Many palliative care patients [state they would like to pass away at home](https://jamanetwork.com/journals/jama/fullarticle/197944) and avoid a hospital death.  While almost 72 percent of KHCC deaths took place in the hospital in the first half of 2016, this number fell to just 57 percent in the same period of 2017.
+The World Health Organization identifies palliative care as a central component of integrated, people-centered health services, and the Jordan pilot study also showed improvement in this area. Many palliative care patients [state they would like to pass away at home](https://jamanetwork.com/journals/jama/fullarticle/197944) and avoid a hospital death. While almost 72 percent of KHCC deaths took place in the hospital in the first half of 2016, this number fell to just 57 percent in the same period of 2017.
 
-Average per-patient spending at KHCC decreased from 5,436 JD in 2016 to 5,220 JD in 2017. This reduction was due in part to the shift toward lower-cost, community-based services such as home care and outpatient visits.  These findings are in keeping with research from high-income countries, which has [established a link](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414449) between palliative and homecare services and reduced costs in the wider health sector.
+Average per-patient spending at KHCC decreased from 5,436 JD in 2016 to 5,220 JD in 2017. This reduction was due in part to the shift toward lower-cost, community-based services such as home care and outpatient visits. These findings are in keeping with research from high-income countries, which has [established a link](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414449) between palliative and homecare services and reduced costs in the wider health sector.
 
-The experience of one patient, Zuhdiyyah, demonstrates the personal impact of home care. Doctors advised the 76-year-old to join the home care program after she received treatment at the KHCC. She was delighted. “When I was told I would be sent home for the remainder of my treatment follow-up, I was a completely different person,” said Zuhdiyyah.
+The experience of one patient, Zuhdiyyah, demonstrates the personal impact of home care. Doctors advised the 76-year-old to join the home care program after she received treatment at the KHCC. She was delighted. “When I was told I would be sent home for the remainder of my treatment followup, I was a completely different person,” said Zuhdiyyah.
 
 Having to travel to the hospital for routine procedures was physically difficult for Zuhdiyyah, and could have hindered her recovery. Now, she says, “Every time I see the homecare nurses coming through the door, it feels as if I was never ill!”
 
@@ -40,7 +53,7 @@ When the National Home Healthcare Initiative launched, skills development was a 
 
 Until 2016, Jordan had no training programs in home and palliative care. With JCP support, KHCC worked with local and international experts and Jordan University to develop a curriculum and diploma in home and palliative care, which is now backed by the Jordan Nursing Council. This partnership also helps address the liability issues health providers may face when treating patients at home.
 
-One nurse who received training is Ahmad, who said that the program taught him how to conduct a wide range of procedures—“lab tests, medication reviews, clinical examinations, you name it!”— in home settings. More than 70 percent of his work takes place in patients’ homes.
+One nurse who received training is Ahmad, who said that the program taught him how to conduct a wide range of procedures—“lab tests, medication reviews, clinical examinations, you name it!”—in home settings. More than 70 percent of his work takes place in patients’ homes.
 
 > The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
 
