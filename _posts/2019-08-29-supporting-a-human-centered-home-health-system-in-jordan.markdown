@@ -5,8 +5,6 @@ published: false
 tags:
 - global-health
 - health systems strengthening
-- home healthcare
-- palliative care
 author: Mirna Fakhoury, Omar Shamieh, and Bridget Johnston
 publication: Developments
 ---
