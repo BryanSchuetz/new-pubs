@@ -29,7 +29,7 @@ Since 2017, the project has trained more than 300 health professionals and expan
 
 ![jcp.jpg](/uploads/jcp.jpg)`Jordanian home care patient Zuhdiyyah, age 76, receives a visit from her care team--no hospital trip required. Photo: USAID`
 
-**Improving care while decreasing costs**
+## Improving care while decreasing costs
 
 [Evidence suggests](http://theoncologist.alphamedpress.org/content/22/4/361.long) that home care promotes patient healing, reduces infection risks, and allows patients more freedom and independence.  Increased home care access can also [free up vital resources](https://journals.sagepub.com/doi/full/10.1177/0269216313493466?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed) for more critically ill patients in hospitals.
 
@@ -45,7 +45,7 @@ The experience of one patient, Zuhdiyyah, demonstrates the personal impact of ho
 
 Having to travel to the hospital for routine procedures was physically difficult for Zuhdiyyah, and could have hindered her recovery. Now, she says, “Every time I see the homecare nurses coming through the door, it feels as if I was never ill!”
 
-**Training promises long-term job creation**
+## Training promises long-term job creation
 
 “At its core, home care is about human-centered medicine and about preserving people’s dignity during treatment,” says Wissam Rabadi, Chief of Party for JCP. “But it also can benefit even more people by creating jobs for professional Jordanians.”
 
