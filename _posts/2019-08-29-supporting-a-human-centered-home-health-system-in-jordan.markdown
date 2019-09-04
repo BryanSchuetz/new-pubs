@@ -45,7 +45,7 @@ The experience of one patient, Zuhdiyyah, demonstrates the personal impact of ho
 
 Having to travel to the hospital for routine procedures was physically difficult for Zuhdiyyah, and could have hindered her recovery. Now, she says, “Every time I see the homecare nurses coming through the door, it feels as if I was never ill!”
 
-## Training promises long-term job creation
+## Training Promises Long-Term Job Creation
 
 “At its core, home care is about human-centered medicine and about preserving people’s dignity during treatment,” says Wissam Rabadi, Chief of Party for JCP. “But it also can benefit even more people by creating jobs for professional Jordanians.”
 
@@ -61,7 +61,7 @@ So far, 321 health professionals have participated in home and palliative care t
 
 ![JCP - woman in lecture.jpg](/uploads/JCP%20-%20woman%20in%20lecture.jpg)`JCP supported a range of job skills programs, including home and palliative care training for health professionals. Photo: USAID`
 
-**Home care embedded in policy**
+## Home Care Embedded in Policy
 
 Through a grant from JCP, KHCC further supported the national palliative care committee. Technical assistance from JCP allowed the committee to lobby policy makers to add home healthcare services to existing government healthcare insurance plans. JCP also helped the committee make the business case for home healthcare to insurance providers.
 
