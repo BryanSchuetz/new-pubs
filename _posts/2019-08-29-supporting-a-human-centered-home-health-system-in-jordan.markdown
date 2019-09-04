@@ -2,6 +2,11 @@
 title: Supporting a Human-Centered Home Health System in Jordan
 date: 2019-08-29 14:55:00 -04:00
 published: false
+tags:
+- global-health
+- health systems strengthening
+- home healthcare
+- palliative care
 author: Mirna Fakhoury, Omar Shamieh, and Bridget Johnston
 publication: Developments
 ---
@@ -9,6 +14,14 @@ publication: Developments
 Jordan’s healthcare system is considered one of the more modern in the Middle East, and many patients travel from neighboring countries to access its medical offerings. However, Jordan struggles with rising healthcare costs, an aging population with a changing disease burden, and meeting high demand from around the region.
 
 Expanding home healthcare options is a promising solution to these challenges. Patients can save time and money by taking care of routine procedures and check-ups at home, and those receiving palliative care can benefit from receiving services in a comfortable, familiar environment. Hospitals, in turn, free up space and resources for additional patients.
+
+
+
+
+
+
+
+
 
 Until recently, Jordan had no formalized home healthcare system. The King Hussein Cancer Foundation (KHCF) and King Hussein Cancer Center (KHCC)—one of the region’s premier palliative care providers— worked with the U.S. Agency for International Development (USAID) [Jordan Competitiveness Program (JCP)](https://www.dai.com/our-work/projects/jordan-competitiveness-program-jcp) to establish the National Home Healthcare Initiative Project in 2015. The [KHCC-led effort](https://www.jordancompetitiveness.org/stories/2018/8/13/king-hussein-cancer-center-br6bm) aims to advance the country’s home healthcare system by scaling up home and palliative care offerings, serving as a center of excellence to improve practice, and providing education and training to healthcare workers.
 
