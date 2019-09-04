@@ -17,10 +17,6 @@ Expanding home healthcare options is a promising solution to these challenges. P
 
 
 
-
-
-
-
 Until recently, Jordan had no formalized home healthcare system. The King Hussein Cancer Foundation (KHCF) and King Hussein Cancer Center (KHCC)—one of the region’s premier palliative care providers— worked with the U.S. Agency for International Development (USAID) [Jordan Competitiveness Program (JCP)](https://www.dai.com/our-work/projects/jordan-competitiveness-program-jcp) to establish the National Home Healthcare Initiative Project in 2015. The [KHCC-led effort](https://www.jordancompetitiveness.org/stories/2018/8/13/king-hussein-cancer-center-br6bm) aims to advance the country’s home healthcare system by scaling up home and palliative care offerings, serving as a center of excellence to improve practice, and providing education and training to healthcare workers.
 
 Since 2017, the project has trained more than 300 health professionals and expanded participation to 28 public, private, and academic medical facilities. JCP’s support in creating a diploma certification program and advocating for a new national strategic framework will help the sector continue to grow.
@@ -53,7 +49,7 @@ Until 2016, Jordan had no training programs in home and palliative care. With JC
 
 One nurse who received training is Ahmad, who said that the program taught him how to conduct a wide range of procedures—“lab tests, medication reviews, clinical examinations, you name it!”—in home settings. More than 70 percent of his work takes place in patients’ homes.
 
-> The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
+>The initiative expects to help establish 18 new healthcare units at different governmental and private Jordanian hospitals, staffed by newly trained home care professionals. These units will create 1,800 new jobs to meet current home healthcare needs.
 
 So far, 321 health professionals have participated in home and palliative care training with support from JCP. Seventy trainers received certification to teach the program.
 
