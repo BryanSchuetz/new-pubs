@@ -29,7 +29,7 @@ Since 2017, the project has trained more than 300 health professionals and expan
 
 ![jcp.jpg](/uploads/jcp.jpg)`Jordanian home care patient Zuhdiyyah, age 76, receives a visit from her care team--no hospital trip required. Photo: USAID`
 
-## Improving care while decreasing costs
+## Improving Care While Decreasing Costs
 
 [Evidence suggests](http://theoncologist.alphamedpress.org/content/22/4/361.long) that home care promotes patient healing, reduces infection risks, and allows patients more freedom and independence.  Increased home care access can also [free up vital resources](https://journals.sagepub.com/doi/full/10.1177/0269216313493466?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed) for more critically ill patients in hospitals.
 
