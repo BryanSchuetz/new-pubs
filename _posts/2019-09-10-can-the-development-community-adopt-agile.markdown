@@ -1,6 +1,7 @@
 ---
 title: Can the development community adopt agile?
 date: 2019-09-10 11:37:00 -04:00
+published: false
 tags:
 - Think Piece
 - management
