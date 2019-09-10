@@ -21,22 +21,21 @@ In "[The Age of Agile](https://www.amazon.com/Age-Agile-Smart-Companies-Transfor
 
 At a recent panel discussion, I joined Denning and a group of development leaders representing the U.S. Agency for International Development (USAID), the World Bank, and the Millennium Challenge Corporation to discuss just how well the agile model fits our sector. The punchline seems to be: yes, and no. The closer we get to projects in the field and the farther we get from our headquarters, the more likely it is that agile can flourish.
 
-![Denning.jpg](/uploads/Denning.jpg)`Steve Denning speaks on agile management.`
+![Denning.jpg](/uploads/Denning.jpg)`Steve Denning speaks on agile management. Photo courtesy: OnFrontiers.`
 
 ### What is Agile?
 
 Denning describes three laws that comprise the agile model: 
 
-1. The law of the customer: Agile companies are obsessed with understanding, serving, and delighting their customers. Their customer focus is driven by new technologies and business models that shift power away from companies and toward customers. For instance, your ride-share driver’s rating affects her compensation.
+1. **The law of the customer:** Agile companies are obsessed with understanding, serving, and delighting their customers. Their customer focus is driven by new technologies and business models that shift power away from companies and toward customers. For instance, your ride-share driver’s rating affects her compensation.
 
-2. The law of small teams: Small, responsive teams iterating solutions with the customer replace hierarchies and rigid work planning. An agile team makes decisions quickly, has minimal hierarchy, and is unafraid to fail. These nimble teams allow projects to prototype approaches and iterate them based on customer feedback. 
+2. **The law of small teams:** Small, responsive teams iterating solutions with the customer replace hierarchies and rigid work planning. An agile team makes decisions quickly, has minimal hierarchy, and is unafraid to fail. These nimble teams allow projects to prototype approaches and iterate them based on customer feedback. 
 
-3. The law of the network: The benefits of agile accrue best to companies that adopt it wholesale as opposed to within isolated units or departments. Importantly, the management model shifts from controlling and supervising staff to enabling teams to flourish.
+3. **The law of the network:** The benefits of agile accrue best to companies that adopt it wholesale as opposed to within isolated units or departments. Importantly, the management model shifts from controlling and supervising staff to enabling teams to flourish.
 
 The development sector is peppered with sporadic evidence of agile thinking, but it has not been adopted *wholesale*. What would it take for the sector to adopt the agile mindset?
 
-At the customer level, many of us struggle with defining a key question: 
-who is the customer? Most of us believe we serve poor and low-income people in emerging and frontier markets, and their governments. But those people or institutions do not typically pay for our services. The direct customer is often a donor agency, such as USAID, the U.K. Department for International Development, or the European Commission. 
+At the customer level, many of us struggle with defining a key question: Who is the customer? Most of us believe we serve poor and low-income people in emerging and frontier markets, and their governments. But those people or institutions do not typically pay for our services. The direct customer is often a donor agency, such as USAID, the U.K. Department for International Development, or the European Commission. 
 
 In developing countries, these customers (whether governments, civil society, small businesses, or poor and low-income households) are becoming more discerning; they increasingly have access to information, improved education, and technology, especially mobile technology. At the field level, the development community increasingly recognizes this welcome development and has shifted its approach. For instance, in the early days of microcredit, an array of microfinance institutions (MFI) provided pretty much the same type of working capital loan. Today, providers have felt the pinch of increased competition. MFIs, banks, and other institutions—including mobile telephone operators—have innovated on product types and delivery in hopes of better catering to customers and winning their business.
 
@@ -44,7 +43,7 @@ In line with the typical implementation model, projects on the ground are often 
 
 Some donor agencies have incorporated small, iterative teams into their core processes. USAID regularly engages partners in co-creating solutions, inviting interdisciplinary teams to design and implement projects. The small team at the [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) project helped the Agency usher in some important procurement reforms, enabling the Agency to access specialized expertise not normally tapped for development projects. Going back and forth with USAID, the INVEST project landed on a process that makes transaction advisors and investment bankers available to drive private capital into high-priority sectors—a process measured in weeks, not months or years.
 
-![Brigit-ef4acd.jpg](/uploads/Brigit-ef4acd.jpg)`Brigit Helms shares lessons learned from working for multiple clients.`
+![Brigit-ef4acd.jpg](/uploads/Brigit-ef4acd.jpg)`Brigit Helms shares lessons learned from working for multiple clients. Photo courtesy: OnFrontiers.`
 
 While examples of agile teams dot the development landscape, and many organizations—donor agencies, multilaterals, implementing partners—are testing agile models in specific areas such as proposal writing, no single entity has managed to achieve the “nirvana” described by Denning where entire organizations adopt the model.
 
