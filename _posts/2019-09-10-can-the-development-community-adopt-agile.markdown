@@ -21,7 +21,7 @@ In "[The Age of Agile](https://www.amazon.com/Age-Agile-Smart-Companies-Transfor
 
 At a recent panel discussion, I joined Denning and a group of development leaders representing the U.S. Agency for International Development (USAID), the World Bank, and the Millennium Challenge Corporation to discuss just how well the agile model fits our sector. The punchline seems to be: yes, and no. The closer we get to projects in the field and the farther we get from our headquarters, the more likely it is that agile can flourish.
 
-![Denning.jpg](/uploads/Denning.jpg)`Steve Denning speaks on agility.`
+![Denning.jpg](/uploads/Denning.jpg)`Steve Denning speaks on agile management.`
 
 ### What is Agile?
 
