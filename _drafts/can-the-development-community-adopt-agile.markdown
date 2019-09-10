@@ -1,13 +1,13 @@
 ---
 title: Can the development community adopt agile?
 date: 2019-09-10 11:37:00 -04:00
-author: Brigit Helms
+author: "[Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms)"
 thumbnail-image: "/uploads/Denning%20social.jpg"
 social-image: "/uploads/Denning%20social-b72ee7.jpg"
 publication: Developments
 ---
 
-In The Age of Agile, Steve Denning argues that agile management is superior to traditional, hierarchical management styles. Companies that adopt agile outperform the rest, and will continue to do so. Agile is catching on, and not only in the software development sector that popularized it. 
+In "[The Age of Agile](https://www.amazon.com/Age-Agile-Smart-Companies-Transforming/dp/B079J69V4M/ref=sr_1_1?keywords=age+of+agile&qid=1567523457&s=books&sr=1-1)," [Steve Denning](http://www.stevedenning.com/About/default.aspx) argues that agile management is superior to traditional, hierarchical management styles. Companies that adopt agile outperform the rest, and will continue to do so. Agile is catching on, and not only in the software development sector that popularized it. 
 
 
 
@@ -27,16 +27,16 @@ Denning describes three laws that comprise the agile model:
 
 3. The law of the network: The benefits of agile accrue best to companies that adopt it wholesale as opposed to within isolated units or departments. Importantly, the management model shifts from controlling and supervising staff to enabling teams to flourish.
 
-The development sector is peppered with sporadic evidence of agile thinking, but it has not been adopted wholesale. What would it take for the sector to adopt the agile mindset?
+The development sector is peppered with sporadic evidence of agile thinking, but it has not been adopted *wholesale*. What would it take for the sector to adopt the agile mindset?
 
 At the customer level, many of us struggle with defining a key question: 
 who is the customer? Most of us believe we serve poor and low-income people in emerging and frontier markets, and their governments. But those people or institutions do not typically pay for our services. The direct customer is often a donor agency, such as USAID, the U.K. Department for International Development, or the European Commission. 
 
-In developing countries, these customers (whether governments, civil society, small businesses, or poor and low-income households) are becoming more discerning; they increasingly have access to information, improved education, and technology, especially mobile technology. At the field level, the development community increasingly recognizes this welcome development and has shifted its approach. For instance, in the early days of microcredit, an array of microfinance institutions provided pretty much the same type of working capital loan. Today, providers have felt the pinch of increased competition. MFIs, banks, and other institutions—including mobile telephone operators—have innovated on product types and delivery in hopes of better catering to customers and winning their business.
+In developing countries, these customers (whether governments, civil society, small businesses, or poor and low-income households) are becoming more discerning; they increasingly have access to information, improved education, and technology, especially mobile technology. At the field level, the development community increasingly recognizes this welcome development and has shifted its approach. For instance, in the early days of microcredit, an array of microfinance institutions (MFI) provided pretty much the same type of working capital loan. Today, providers have felt the pinch of increased competition. MFIs, banks, and other institutions—including mobile telephone operators—have innovated on product types and delivery in hopes of better catering to customers and winning their business.
 
-In line with the typical implementation model, projects on the ground are often run by small, nimble teams. The closer to the field, it seems, the better our small teams of development practitioners can work with customers and end users to iterate solutions that offer increasingly better value. And donors can hardwire agile into project design. For instance, USAID’s Transparent, Effective, and Accountable Municipalities (TEAM) project in Kosovo embedded the Agency’s Collaborating, Learning and Adapting (CLA) model into the fabric of the project. Alongside more traditional indicators, USAID directly evaluates the project’s success in adapting to changing circumstances and seizing emerging opportunities. 
+In line with the typical implementation model, projects on the ground are often run by small, nimble teams. The closer to the field, it seems, the better our small teams of development practitioners can work with customers and end users to iterate solutions that offer increasingly better value. And donors can hardwire agile into project design. For instance, USAID’s [Transparent, Effective, and Accountable Municipalities (TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) project in Kosovo embedded the Agency’s [Collaborating, Learning and Adapting (CLA)](https://usaidlearninglab.org/qrg/understanding-cla-0) model into the fabric of the project. Alongside more traditional indicators, USAID directly evaluates the project’s success in adapting to changing circumstances and seizing emerging opportunities. 
 
-Some donor agencies have incorporated small, iterative teams into their core processes. USAID regularly engages partners in co-creating solutions, inviting interdisciplinary teams to design and implement projects. The small team at the INVEST project helped the Agency usher in some important procurement reforms, enabling the Agency to access specialized expertise not normally tapped for development projects. Going back and forth with USAID, the INVEST project landed on a process that makes transaction advisors and investment bankers available to drive private capital into high-priority sectors—a process measured in weeks, not months or years.
+Some donor agencies have incorporated small, iterative teams into their core processes. USAID regularly engages partners in co-creating solutions, inviting interdisciplinary teams to design and implement projects. The small team at the [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) project helped the Agency usher in some important procurement reforms, enabling the Agency to access specialized expertise not normally tapped for development projects. Going back and forth with USAID, the INVEST project landed on a process that makes transaction advisors and investment bankers available to drive private capital into high-priority sectors—a process measured in weeks, not months or years.
 
 While examples of agile teams dot the development landscape, and many organizations—donor agencies, multilaterals, implementing partners—are testing agile models in specific areas such as proposal writing, no single entity has managed to achieve the “nirvana” described by Denning where entire organizations adopt the model.
 
