@@ -5,6 +5,8 @@ tags:
 - global-health
 - health systems strengthening
 author: Mirna Fakhoury, Omar Shamieh, and Bridget Johnston
+thumbnail-image: "/uploads/jcp.jpg"
+social-image: "/uploads/jcp.jpg"
 publication: Developments
 ---
 
