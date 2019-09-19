@@ -51,7 +51,7 @@ For example, in Graph 1 we create a new score using principal component analysis
 
 Aggregating metrics to create new scores through averaging or more advanced methods like factor analysis is useful mainly when we have many variables that can be combined into a concept that is useful and measurable. It is perfectly reasonable to want to know what government capacity among countries looks like according to the definition of USAID, which takes into account measures related to bureaucratic effectiveness, satisfaction with public goods and services, tax administration, and state monopoly on the use of force and controlling violence. Looking at one score that incorporates these features rather than separately looking at each metric separately can give a better sense of what a country is or isn’t achieving.
 
-## 2. Think less about regional comparisons than nearest neighbor matching, which yields more suitable country comparisons
+### 2. Think less about regional comparisons than nearest neighbor matching, which yields more suitable country comparisons
 
 Statistical matching is a commonly used method for finding or pairing a given point with another “closest” point based on a defined set of variables. Matching techniques, broadly defined, are employed in areas as diverse as [DNA sequencing](https://www.nature.com/articles/srep09473), [classifying seizure types for people with epilepsy](https://venturebeat.com/2019/02/05/ibms-ai-classifies-seizure-types-to-help-people-with-epilepsy/), and [impact evaluation of international development programs](https://reliefweb.int/report/madagascar/improving-irrigation-access-madagascar).
 
@@ -83,4 +83,28 @@ Nowhere is it suggested that South Africa must model itself after Vietnam or Per
 
 The answers to these questions do not lie in the metrics. We’ll need to examine other sources of information to find what we need. But looked at in the right way, the J2SR metrics can help us think deeper about how our country of interest has progressed relative to similar cases.
 
-###
+### 4. Consider disaggregation to understand what is driving trends
+
+In the same way we can group together metrics to measure some larger construct based on multiple variables, we can also break down the J2SR metrics in some cases to examine their subindicators. Drilling down can be particularly useful when we’re looking for insights into what might be driving a trend over time. 
+
+![graph_6.png](/uploads/graph_6.png)
+
+Metrics from the Varieties of Democracy Project are a great example because many of them have multiple levels and subindices. In Graph 5,  the Clean Elections index, which is a component of the J2SR’s Liberal Democracy metric, shows an initially sharp and then gradual decline for Mexico starting in 2005. Prior to 2005, we see a sharp increase, beginning in the mid-1990s. 
+
+![graph_7.png](/uploads/graph_7.png)
+
+What contributed to this sharp increase and sudden decline? The subindicators provide information on the principal components of clean elections in Mexico. They suggest that the increase in the mid-1990s was heavily driven by the Elections Monitoring Board Autonomy score, as the administration of national elections became progressively impartial and removed from the incumbent government. Meanwhile, the decline starting in 2005 has mostly been driven by reductions in the Intimidation, Vote Buying, and Peace subindicator scores, thereby suggesting increased levels of repression against opposition candidates, use of money or gifts to buy votes, and greater levels of violence between civilians during the election periods. In the most recent elections, these problems have largely offset minor improvements in the EMB Capacity and EMB Autonomy scores. 
+
+Any elections-focused program in Mexico would do well to look below the surface of the Liberal Democracy metric.
+
+### 5. Include the “developed” countries to provide context
+
+All third-party sources used in the J2SR metrics contain data on high-income countries. It would be unnecessarily reductive and limiting to cut them out of the analysis. Many low- to middle-income countries face problems in specific areas but excel in others; one of the virtues of country-level indices and metrics is that they point to the many facets that contribute to a country’s economic growth, state capacity, environmental commitment, and other topics crucial to development—and they remind us that the learning between developed and developing countries can and should go both ways.
+
+[[ Top Countries ]]
+
+Consider, for example, Figure 3. Countries in the top 20 of the Economic Gender Gap metric include Laos, Moldova, Cameroon, and several other low- to middle-income countries. Similarly, Vanuatu, Mongolia, Senegal, Niger, and the Gambia all have scores in the Social Group Equality metric comparable to Germany, Norway, and Austria. Doesn’t that seem like useful information? Are we certain all development experts are aware of it?
+
+## Conclusion
+
+National-level metrics such as the J2SR say little about reality at a granular level, numbers on their own do not imply uniform measurement, and almost no approach will definitively say whether one’s preferred policies and programs will work in one country just because they seemingly did in another. But the J2SR metrics certainly have value. In most cases, the approaches highlighted here as productive ways of looking at the J2SR will serve only as a starting point for defining country roadmaps. Grouping metrics to measure subcategories, looking at disaggregates to find what drives certain trends, and identifying nearest neighbors will help us think more carefully about our comparative analysis. Employing these techniques will also, I hope, prompt us to ask new questions and lead us to consider additional information from complementary sources as we think about how to design, measure, and implement the initiatives associated with country roadmaps.
