@@ -13,3 +13,9 @@ National-level metrics are useful when they afford a common language for develop
 
 Seeking to illuminate how we think about the data that make up country roadmaps, this article has three parts: 
 
+* An overview of the J2SR metrics, their core components, and how USAID has categorized 
+* A brief discussion of the limitations inherent in any metric-based cross-country analysis—to which J2SR is no exception—highlighting issues such as subnational variance, lack of uniformity in measurement, and the challenges of asserting external validity or assigning causality. 
+* Finally, five examples illustrating approaches that policy makers and development practitioners might employ to ask more refined questions of the J2SR metrics and what may or may not work on a policy or programmatic level. 
+
+## 
+
