@@ -5,8 +5,8 @@ published: false
 tags:
 - digital-acceleration
 author: "[James Parr](https://www.linkedin.com/in/james-parr-4a534897)"
-thumbnail-image: "/uploads/metrics.jpg"
-social-image: "/uploads/metrics-273bfd.jpg"
+thumbnail-image: "/uploads/new-metrics.png"
+social-image: "/uploads/new-metrics.png"
 publication: Developing Alternatives
 ---
 
@@ -21,7 +21,7 @@ National-level metrics are useful when they afford a common language for develop
 
 Seeking to illuminate how we think about the data that make up country roadmaps, this article has three parts: 
 
-* An overview of the J2SR metrics, their core components, and how USAID has categorized 
+* An overview of the J2SR metrics, their core components, and how USAID has categorized them.
 * A brief discussion of the limitations inherent in any metric-based cross-country analysis—to which J2SR is no exception—highlighting issues such as subnational variance, lack of uniformity in measurement, and the challenges of asserting external validity or assigning causality. 
 * Finally, five examples illustrating approaches that policy makers and development practitioners might employ to ask more refined questions of the J2SR metrics and what may or may not work on a policy or programmatic level. 
 
@@ -29,7 +29,7 @@ Seeking to illuminate how we think about the data that make up country roadmaps,
 
 USAID has split the 17 J2SR metrics into two categories representing the twin drivers of development: commitment and capacity (see Figure 1). Capacity is defined as the point where countries stand within “the dimensions of political, social, and economic development,” and their ability to address problems within those dimensions. Commitment is reflected in the choices a government makes, and how well formal and informal institutions, such as cultures and norms, “[support progress towards self-reliance](https://www.cgdev.org/event/mapping-journey-self-reliance-usaid%E2%80%99s-new-metrics-driven-approach-guide-development-investmenthttp://).”
 
-![metrics (1) (1).jpg](/uploads/metrics%20(1)%20(1).jpg)`Figure 1`
+![new-metrics.png](/uploads/new-metrics.png)
 
 The methodology behind each measure varies from metric to metric. Naturally, the methodological complexity increases for metrics defined by composite indices. The Child Health metric, for example, is calculated by averaging three equally weighted subindicators developed by the United Nations (the Under-5 Mortality Rate, Access to Improved Sanitation, and Access to Improved Water). The Liberal Democracy indicator from the Varieties of Democracy Project is calculated by an aggregate formula of the liberal and electoral submetrics. [^1]
 
@@ -41,7 +41,7 @@ The degree of methodological transparency also varies. As with any indicator or 
 
 Before finding out what the data can tell us, it’s important to remember what it can’t. There are countless examples of [bad uses of metric-based comparative analysis](https://bigthink.com/culture-religion/finland-education-system?rebelltitem=1#rebelltitem1) and the best piece of advice one can give with cross-country analysis is not to get carried away with presumptuous inferences. Here are three limitations to bear in mind:
 
-**Subnational variance:** Most obviously, these metrics cannot resolve questions of subnational scale. Many of the issues we’re investigating require more granular information than the metrics provide. While it may help to know what Malawi’s national poverty rate is, that data point might be misleading if your poverty reduction project or proposal is designed to operate only in Lilongwe. Such limitations are serious because many of the problems developing countries are trying to tackle occur within their own borders at the subnational level—rural districts, say, or informal settlements, or mountainous areas— and these are places broad metrics can illuminate only indirectly. 
+**Subnational variance:** Most obviously, these metrics cannot resolve questions of subnational scale. Many of the issues we’re investigating require more granular information than the metrics provide. While it may help to know what Malawi’s national poverty rate is, that data point might be misleading if your poverty reduction project or proposal is designed to operate only in the capital, Lilongwe. Such limitations are serious because many of the problems developing countries are trying to tackle occur within their own borders at the subnational level—rural districts, say, or informal settlements, or mountainous areas—and these are places broad metrics can illuminate only indirectly. 
 
 **Lack of measurement uniformity:** Even in cases where knowing the national poverty rate is helpful, issues of data quality apply. Several J2SR metrics, such as Child Health, Poverty Rate, and GDP per Capita, rely on data measured by national governments, which make their own subjective judgments and assumptions when doing these calculations. Questions about the reliability of these judgments linger despite international organizations’ efforts to monitor and assure data quality. In the development realm, the controversy surrounding Rwanda’s poverty data, as highlighted recently by the [Financial Times](https://www.ft.com/content/683047ac-b857-11e9-96bd-8e884d3ea203), highlights some of these difficulties. But such challenges are not limited to the developing world: experts have noted inconsistencies even in some of the most established measures, such as [divergence in measuring infant mortality rates in high-income countries](https://www.cdc.gov/nchs/products/databriefs/db23.htm).
 
@@ -81,9 +81,9 @@ Many examples of misleading analysis and bad inferences rest on the use of perce
 
 One problem associated with percentage change data is that countries never start at the same baseline. Many of the highly rated countries cannot show great improvement across a five- or 10-year horizon because there is nowhere for them to go. Further, many of these snapshots don’t indicate behavior prior to the baseline year: if a country suffered political turmoil or an economic downturn right before the base year, it will likely regress to the mean soon thereafter.
 
-![graph_4.png](/uploads/graph_4.png)`Graph 4, Figure 2`
+![graph_4.png](/uploads/graph_4.png)`Graph 4`
 
-![graph_5.png](/uploads/graph_5.png)`Graph 5`
+![graph_5.png](/uploads/graph_5.png)`Figure 2`
 
 One way to avoid this pitfall is to find comparable countries at the baseline—through nearest-neighbor matching or other methods—and then measure the change. In doing so, we ensure that we’re not comparing apples to oranges. 
 
@@ -97,13 +97,13 @@ The answers to these questions do not lie in the metrics. We’ll need to examin
 
 In the same way we can group together metrics to measure some larger construct based on multiple variables, we can also break down the J2SR metrics in some cases to examine their subindicators. Drilling down can be particularly useful when we’re looking for insights into what might be driving a trend over time. 
 
-![graph_6.png](/uploads/graph_6.png)`Graph 6`
+![graph_6.png](/uploads/graph_6.png)`Graph 5`
 
-Metrics from the Varieties of Democracy Project are a great example because many of them have multiple levels and subindices. In Graph 5,  the Clean Elections index, which is a component of the J2SR’s Liberal Democracy metric, shows an initially sharp and then gradual decline for Mexico starting in 2005. Prior to 2005, we see a sharp increase, beginning in the mid-1990s. 
+Metrics from the Varieties of Democracy Project are a great example because many of them have multiple levels and subindices. Graph 5,  the Clean Elections index, which is a component of the J2SR’s Liberal Democracy metric, shows an initially sharp and then gradual decline for Mexico starting in 2005. Prior to 2005, we see a sharp increase, beginning in the mid-1990s. 
 
-![graph_7.png](/uploads/graph_7.png)`Graph 7`
+![graph_7.png](/uploads/graph_7.png)`Graph 6`
 
-What contributed to this sharp increase and sudden decline? The subindicators provide information on the principal components of clean elections in Mexico. They suggest that the increase in the mid-1990s was heavily driven by the Elections Monitoring Board Autonomy score, as the administration of national elections became progressively impartial and removed from the incumbent government. Meanwhile, the decline starting in 2005 has mostly been driven by reductions in the Intimidation, Vote Buying, and Peace subindicator scores, thereby suggesting increased levels of repression against opposition candidates, use of money or gifts to buy votes, and greater levels of violence between civilians during the election periods. In the most recent elections, these problems have largely offset minor improvements in the EMB Capacity and EMB Autonomy scores. 
+What contributed to this sharp increase and sudden decline? The subindicators shown in graph 6 provide information on the principal components of clean elections in Mexico. They suggest that the increase in the mid-1990s was heavily driven by the Elections Monitoring Board Autonomy score, as the administration of national elections became progressively impartial and removed from the incumbent government. Meanwhile, the decline starting in 2005 has mostly been driven by reductions in the Intimidation, Vote Buying, and Peace subindicator scores, thereby suggesting increased levels of repression against opposition candidates, use of money or gifts to buy votes, and greater levels of violence between civilians during the election periods. In the most recent elections, these problems have largely offset minor improvements in the EMB Capacity and EMB Autonomy scores. 
 
 Any elections-focused program in Mexico would do well to look below the surface of the Liberal Democracy metric.
 
