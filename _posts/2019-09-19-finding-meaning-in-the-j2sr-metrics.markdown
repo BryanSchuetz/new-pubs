@@ -5,8 +5,8 @@ published: false
 tags:
 - digital-acceleration
 author: "[James Parr](https://www.linkedin.com/in/james-parr-4a534897)"
-thumbnail-image: "/uploads/metrics%20(1)%20(1).jpg"
-social-image: "/uploads/metrics%20(1)%20(1).jpg"
+thumbnail-image: "/uploads/metrics.jpg"
+social-image: "/uploads/metrics-273bfd.jpg"
 publication: Developing Alternatives
 ---
 
