@@ -4,6 +4,7 @@ date: 2019-09-19 11:15:00 -04:00
 author: "[James Parr](https://www.linkedin.com/in/james-parr-4a534897)"
 publication: Developing Alternatives
 tags: digital-acceleration
+published: false
 ---
 
 How can national-level indicators be best used to inform the debate around a given country’s development challenges? It’s a question many of us are asking following the release of the Journey to Self-Reliance (J2SR) Primary Metrics—17 cross-country metrics that the U.S. Agency for International Development (USAID) has established to measure a country’s progress on economic growth, democratic governance, civil society capacity, and other aspects of development. 
