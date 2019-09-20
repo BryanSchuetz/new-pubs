@@ -29,7 +29,7 @@ Seeking to illuminate how we think about the data that make up country roadmaps,
 
 USAID has split the 17 J2SR metrics into two categories representing the twin drivers of development: commitment and capacity (see Figure 1). Capacity is defined as the point where countries stand within “the dimensions of political, social, and economic development,” and their ability to address problems within those dimensions. Commitment is reflected in the choices a government makes, and how well formal and informal institutions, such as cultures and norms, “[support progress towards self-reliance](https://www.cgdev.org/event/mapping-journey-self-reliance-usaid%E2%80%99s-new-metrics-driven-approach-guide-development-investmenthttp://).”
 
-![new-metrics.png](/uploads/new-metrics.png)
+![new-metrics.png](/uploads/new-metrics.png)`Figure 1`
 
 The methodology behind each measure varies from metric to metric. Naturally, the methodological complexity increases for metrics defined by composite indices. The Child Health metric, for example, is calculated by averaging three equally weighted subindicators developed by the United Nations (the Under-5 Mortality Rate, Access to Improved Sanitation, and Access to Improved Water). The Liberal Democracy indicator from the Varieties of Democracy Project is calculated by an aggregate formula of the liberal and electoral submetrics. [^1]
 
