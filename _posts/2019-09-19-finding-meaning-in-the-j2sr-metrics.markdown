@@ -102,7 +102,30 @@ Any elections-focused program in Mexico would do well to look below the surface 
 
 All third-party sources used in the J2SR metrics contain data on high-income countries. It would be unnecessarily reductive and limiting to cut them out of the analysis. Many low- to middle-income countries face problems in specific areas but excel in others; one of the virtues of country-level indices and metrics is that they point to the many facets that contribute to a country’s economic growth, state capacity, environmental commitment, and other topics crucial to development—and they remind us that the learning between developed and developing countries can and should go both ways.
 
-[[ Top Countries ]]
+### Top Countries in Economic Gender Gap, 2018
+
+| Rank | Country Name | Score |
+|:--|:--|:--|
+| 1 | Lao PDR | 0.95 |
+| 2 | Barbados | 0.87 1 |
+| 3 | Bahamas, The | 0.863 |
+| 4 | Benin | 0.850 |
+| 5 | Burundi | 0.839 |
+| 6 | Belarus | 0.838 |
+| 7 | Guinea | 0.820 |
+| 8 | Cameroon | 0.816 |
+| 9| Sweden | 0.808 |
+| 10 | Latvia | 0.807 |
+| 11 | Norway | 0.806 |
+| 12 | Namibia | 0.804 |
+| 13 | Botswana | 0.802 |
+| 14 | Philippines | 0.801 |
+| 15 | Slovenia | 0.795 |
+| 16 | Iceland | 0.793 |
+| 17 | Finland | 0.786 |
+| 18 | Moldova | 0.875 |
+| 19 | United States | 0.782 |
+| 20 | Mongolia | 0.780 |
 
 Consider, for example, Figure 3. Countries in the top 20 of the Economic Gender Gap metric include Laos, Moldova, Cameroon, and several other low- to middle-income countries. Similarly, Vanuatu, Mongolia, Senegal, Niger, and the Gambia all have scores in the Social Group Equality metric comparable to Germany, Norway, and Austria. Doesn’t that seem like useful information? Are we certain all development experts are aware of it?
 
