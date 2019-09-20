@@ -8,6 +8,8 @@ publication: Developing Alternatives
 
 How can national-level indicators be best used to inform the debate around a given country’s development challenges? It’s a question many of us are asking following the release of the Journey to Self-Reliance (J2SR) Primary Metrics—17 cross-country metrics that the U.S. Agency for International Development (USAID) has established to measure a country’s progress on economic growth, democratic governance, civil society capacity, and other aspects of development. 
 
+<!--more-->
+
 While USAID is still working through how these metrics will be used, its intention is to use them “to define country roadmaps”—which chart where a country stands in its journey to self-reliance and how it might get there.
 
 National-level metrics are useful when they afford a common language for development practitioners to discuss the strengths and weaknesses of countries. They become counterproductive when overzealous conclusions are made based solely on viewing a set of country rankings, as the Agency is careful to warn against. Complementing the J2SR metrics with rigorous descriptive methods of analysis can help avoid this trap, provide potentially useful insights, and provoke new questions as to how certain policies and programs may fail or succeed in a given country. 
