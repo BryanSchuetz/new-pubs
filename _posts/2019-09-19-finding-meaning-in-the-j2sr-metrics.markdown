@@ -81,7 +81,7 @@ Many examples of misleading analysis and bad inferences rest on the use of perce
 
 One problem associated with percentage change data is that countries never start at the same baseline. Many of the highly rated countries cannot show great improvement across a five- or 10-year horizon because there is nowhere for them to go. Further, many of these snapshots don’t indicate behavior prior to the baseline year: if a country suffered political turmoil or an economic downturn right before the base year, it will likely regress to the mean soon thereafter.
 
-![graph_4.png](/uploads/graph_4.png)`Graph 4`
+![graph_4.png](/uploads/graph_4.png)`Graph 4, Figure 2`
 
 ![graph_5.png](/uploads/graph_5.png)`Graph 5`
 
