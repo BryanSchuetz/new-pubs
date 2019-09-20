@@ -135,6 +135,7 @@ All third-party sources used in the J2SR metrics contain data on high-income cou
 | 18 | Moldova | 0.875 |
 | 19 | United States | 0.782 |
 | 20 | Mongolia | 0.780 |
+`Figure 3`
 
 ### Top Countries in Social Group Equality, 2017
 
