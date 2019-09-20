@@ -1,7 +1,6 @@
 ---
 title: Finding Meaning in the J2SR Metrics
 date: 2019-09-19 11:15:00 -04:00
-published: false
 tags:
 - digital-acceleration
 author: "[James Parr](https://www.linkedin.com/in/james-parr-4a534897)"
