@@ -29,7 +29,7 @@ Seeking to illuminate how we think about the data that make up country roadmaps,
 
 USAID has split the 17 J2SR metrics into two categories representing the twin drivers of development: commitment and capacity (see Figure 1). Capacity is defined as the point where countries stand within “the dimensions of political, social, and economic development,” and their ability to address problems within those dimensions. Commitment is reflected in the choices a government makes, and how well formal and informal institutions, such as cultures and norms, “[support progress towards self-reliance](https://www.cgdev.org/event/mapping-journey-self-reliance-usaid%E2%80%99s-new-metrics-driven-approach-guide-development-investmenthttp://).”
 
-![metrics (1) (1).jpg](/uploads/metrics%20(1)%20(1).jpg)
+![metrics (1) (1).jpg](/uploads/metrics%20(1)%20(1).jpg)`Figure 1`
 
 The methodology behind each measure varies from metric to metric. Naturally, the methodological complexity increases for metrics defined by composite indices. The Child Health metric, for example, is calculated by averaging three equally weighted subindicators developed by the United Nations (the Under-5 Mortality Rate, Access to Improved Sanitation, and Access to Improved Water). The Liberal Democracy indicator from the Varieties of Democracy Project is calculated by an aggregate formula of the liberal and electoral submetrics. [^1]
 
@@ -55,7 +55,7 @@ Caveats aside, the J2SR metrics can provide important takeaways if we approach t
 
 Beneath the overall J2SR concepts of Capacity and Commitment, USAID breaks its metrics into subcategories as illustrated in Figure 1. Grouping together the indicators that make up these subcategories to come up with composite scores can provide a clearer sense on where countries stand under each subcategory.
 
-![graph_1.png](/uploads/graph_1.png)
+![graph_1.png](/uploads/graph_1.png)`Graph 1`
 
 For example, in Graph 1 we create a new score using principal component analysis for two of the subcategories of the J2SR metrics. In this case, we combine the Liberal Democracy and Open Government metrics to create an overall “Open and Accountable Governance” score, and the Government Effectiveness, Efficiency of Tax Administration, and Safety and Security metrics to create an overall “Capacity of the Government” score.
 
@@ -67,9 +67,9 @@ Statistical matching is a commonly used method for finding or pairing a given po
 
 How can such a method be useful for cross-country analysis? Let’s suppose we want to compare governance in Libya to other countries. One method is to group by region, so in this case we could select other MENA countries as points of comparison (see Graph 2). While it is sometimes appropriate to use regional groupings, often the variance within regions can be larger than selecting comparison countries at random. Nearest-neighbor matching can provide us with other countries whose scores make them more meaningful comparators to the country in question.
 
-![graph_2.png](/uploads/graph_2.png)
+![graph_2.png](/uploads/graph_2.png)`Graph 2`
 
-![graph_3.png](/uploads/graph_3.png)
+![graph_3.png](/uploads/graph_3.png)`Graph 3`
 
 Graph 3 displays Libya’s five nearest neighbors based on our [nearest-neighbor matching method](http://www.vldb.org/conf/1998/p194.pdf). [^2] The algorithm simply finds the five closest points in distance for the country in question. Comparing these two graphs, the takeaway is obvious: Somalia, Chad, CAR, Haiti, and Iraq share more common governance challenges with Libya than Egypt, Morocco, Lebanon, and many other MENA countries. Knowing which countries have more in common with Libya will serve as a more reliable starting point for deeper analysis on these issues, which in turn should encourage examining the development of these countries together. 
 
@@ -81,9 +81,9 @@ Many examples of misleading analysis and bad inferences rest on the use of perce
 
 One problem associated with percentage change data is that countries never start at the same baseline. Many of the highly rated countries cannot show great improvement across a five- or 10-year horizon because there is nowhere for them to go. Further, many of these snapshots don’t indicate behavior prior to the baseline year: if a country suffered political turmoil or an economic downturn right before the base year, it will likely regress to the mean soon thereafter.
 
-![graph_4.png](/uploads/graph_4.png)
+![graph_4.png](/uploads/graph_4.png)`Graph 4`
 
-![graph_5.png](/uploads/graph_5.png)
+![graph_5.png](/uploads/graph_5.png)`Graph 5`
 
 One way to avoid this pitfall is to find comparable countries at the baseline—through nearest-neighbor matching or other methods—and then measure the change. In doing so, we ensure that we’re not comparing apples to oranges. 
 
@@ -97,11 +97,11 @@ The answers to these questions do not lie in the metrics. We’ll need to examin
 
 In the same way we can group together metrics to measure some larger construct based on multiple variables, we can also break down the J2SR metrics in some cases to examine their subindicators. Drilling down can be particularly useful when we’re looking for insights into what might be driving a trend over time. 
 
-![graph_6.png](/uploads/graph_6.png)
+![graph_6.png](/uploads/graph_6.png)`Graph 6`
 
 Metrics from the Varieties of Democracy Project are a great example because many of them have multiple levels and subindices. In Graph 5,  the Clean Elections index, which is a component of the J2SR’s Liberal Democracy metric, shows an initially sharp and then gradual decline for Mexico starting in 2005. Prior to 2005, we see a sharp increase, beginning in the mid-1990s. 
 
-![graph_7.png](/uploads/graph_7.png)
+![graph_7.png](/uploads/graph_7.png)`Graph 7`
 
 What contributed to this sharp increase and sudden decline? The subindicators provide information on the principal components of clean elections in Mexico. They suggest that the increase in the mid-1990s was heavily driven by the Elections Monitoring Board Autonomy score, as the administration of national elections became progressively impartial and removed from the incumbent government. Meanwhile, the decline starting in 2005 has mostly been driven by reductions in the Intimidation, Vote Buying, and Peace subindicator scores, thereby suggesting increased levels of repression against opposition candidates, use of money or gifts to buy votes, and greater levels of violence between civilians during the election periods. In the most recent elections, these problems have largely offset minor improvements in the EMB Capacity and EMB Autonomy scores. 
 
