@@ -1,14 +1,15 @@
 ---
 title: Finding Meaning in the J2SR Metrics
 date: 2019-09-19 11:15:00 -04:00
-published: false
 author: "[James Parr](https://www.linkedin.com/in/james-parr-4a534897)"
 publication: Developing Alternatives
+tags: digital-acceleration
 ---
 
 How can national-level indicators be best used to inform the debate around a given country’s development challenges? It’s a question many of us are asking following the release of the Journey to Self-Reliance (J2SR) Primary Metrics—17 cross-country metrics that the U.S. Agency for International Development (USAID) has established to measure a country’s progress on economic growth, democratic governance, civil society capacity, and other aspects of development. 
 
-<!--more-->
+
+
 
 While USAID is still working through how these metrics will be used, its intention is to use them “to define country roadmaps”—which chart where a country stands in its journey to self-reliance and how it might get there.
 
@@ -24,7 +25,7 @@ Seeking to illuminate how we think about the data that make up country roadmaps,
 
 USAID has split the 17 J2SR metrics into two categories representing the twin drivers of development: commitment and capacity (see Figure 1). Capacity is defined as the point where countries stand within “the dimensions of political, social, and economic development,” and their ability to address problems within those dimensions. Commitment is reflected in the choices a government makes, and how well formal and informal institutions, such as cultures and norms, “[support progress towards self-reliance](https://www.cgdev.org/event/mapping-journey-self-reliance-usaid%E2%80%99s-new-metrics-driven-approach-guide-development-investmenthttp://).”
 
-The methodology behind each measure varies from metric to metric. Naturally, the methodological complexity increases for metrics defined by composite indices. The Child Health metric, for example, is calculated by averaging three equally weighted subindicators developed by the United Nations (the Under-5 Mortality Rate, Access to Improved Sanitation, and Access to Improved Water). The Liberal Democracy indicator from the Varieties of Democracy Project is calculated by an aggregate formula of the liberal and electoral submetrics.(1)
+The methodology behind each measure varies from metric to metric. Naturally, the methodological complexity increases for metrics defined by composite indices. The Child Health metric, for example, is calculated by averaging three equally weighted subindicators developed by the United Nations (the Under-5 Mortality Rate, Access to Improved Sanitation, and Access to Improved Water). The Liberal Democracy indicator from the Varieties of Democracy Project is calculated by an aggregate formula of the liberal and electoral submetrics. [^1]
 
 In general, the metrics are based on three types of sources: expert surveys, government statistics, and public opinion polls. Some bring together subindicators of different types; others utilize subindicators of only one type. For example, the Child Health metric is composed of official government statistics reported to various U.N. agencies, the Social Group Equality and Liberal Democracy metrics are based  exclusively on expert surveys, and the Economic Gender Gap metric is made up of subindicators drawn from public opinion polls, expert surveys, and government data.
 
@@ -64,7 +65,7 @@ How can such a method be useful for cross-country analysis? Let’s suppose we w
 
 ![graph_3.png](/uploads/graph_3.png)
 
-Graph 3 displays Libya’s five nearest neighbors based on our [nearest-neighbor matching method](http://www.vldb.org/conf/1998/p194.pdf).(2) The algorithm simply finds the five closest points in distance for the country in question. Comparing these two graphs, the takeaway is obvious: Somalia, Chad, CAR, Haiti, and Iraq share more common governance challenges with Libya than Egypt, Morocco, Lebanon, and many other MENA countries. Knowing which countries have more in common with Libya will serve as a more reliable starting point for deeper analysis on these issues, which in turn should encourage examining the development of these countries together. 
+Graph 3 displays Libya’s five nearest neighbors based on our [nearest-neighbor matching method](http://www.vldb.org/conf/1998/p194.pdf). [^2] The algorithm simply finds the five closest points in distance for the country in question. Comparing these two graphs, the takeaway is obvious: Somalia, Chad, CAR, Haiti, and Iraq share more common governance challenges with Libya than Egypt, Morocco, Lebanon, and many other MENA countries. Knowing which countries have more in common with Libya will serve as a more reliable starting point for deeper analysis on these issues, which in turn should encourage examining the development of these countries together. 
 
 This method will not always work. Often, the scores we are using do not tell us much about the underlying structure of countries. With regard to governance, for example, we might be comparing constitutional monarchies with republics, presidential systems with parliamentary ones, one-party electoral systems with multi-party systems, and so on. Sometimes, countries make for poor comparisons for reasons not directly related to the metrics at hand. For example, Brazil and Trinidad and Tobago have enormous differences in population size—among other things—which may render moot their similar scores for governance metrics. Nevertheless, since such differences also exist among countries in regional groupings, using nearest-neighbor matching at least avoids the false sense of an apples-to-apples comparison.
 
@@ -129,8 +130,39 @@ All third-party sources used in the J2SR metrics contain data on high-income cou
 | 19 | United States | 0.782 |
 | 20 | Mongolia | 0.780 |
 
+### Top Countries in Social Group Equality, 2017
+
+| Rank | Country | Score |
+|:--|:--|:--|
+| 1 | Norway |  2.842931 |
+| 2 | Luxembourg | 2.812965 |
+| 3 | Germany | 2.623542 |
+| 4 | Vanuatu | 2.585769 |
+| 5 | Mongolia | 2.574794 |
+| 6 | Denmark | 2.541700 |
+| 7 | The Gambia | 2.496522 |
+| 8 | Uruguay | 2.481603 |
+| 9 | Austria | 2.454881 |
+| 10 | Poland | 2.429505 |
+| 11 | Switzerland | 2.330448 |
+| 12 | Tunisia | 2.330208 |
+| 13 | Sweden | 23320710 |
+| 14 | Portugal | 2.307374 |
+| 15 | Niger | 2.273868 |
+| 16 | Greece | 2.273868 |
+| 17 | Belgium | 2.244480 |
+| 18 | Senegal | 2.241086 |
+| 19 | Costa Rica | 2.239165 |
+| 20 | Italy | 2.237418 |
+
 Consider, for example, Figure 3. Countries in the top 20 of the Economic Gender Gap metric include Laos, Moldova, Cameroon, and several other low- to middle-income countries. Similarly, Vanuatu, Mongolia, Senegal, Niger, and the Gambia all have scores in the Social Group Equality metric comparable to Germany, Norway, and Austria. Doesn’t that seem like useful information? Are we certain all development experts are aware of it?
 
 ## Conclusion
 
 National-level metrics such as the J2SR say little about reality at a granular level, numbers on their own do not imply uniform measurement, and almost no approach will definitively say whether one’s preferred policies and programs will work in one country just because they seemingly did in another. But the J2SR metrics certainly have value. In most cases, the approaches highlighted here as productive ways of looking at the J2SR will serve only as a starting point for defining country roadmaps. Grouping metrics to measure subcategories, looking at disaggregates to find what drives certain trends, and identifying nearest neighbors will help us think more carefully about our comparative analysis. Employing these techniques will also, I hope, prompt us to ask new questions and lead us to consider additional information from complementary sources as we think about how to design, measure, and implement the initiatives associated with country roadmaps.
+
+<p><strong>Footnotes</strong></p>
+
+[^1]: The formula is as follows: v2x_libdem = .25 ∗ v2x_polyarchy1.585 + .25 ∗ v2x_liberal + .5 ∗ v2x_polyarchy1.585 ∗ v2x_liberal.
+
+[^2]: There are many methods to derive nearest-neighbor matching. Given the simplicity of our dataset, a linear similarity search based on the Euclidean distance is calculated. This methodology is outlined in the link provided as well as more complex methods with high dimensionality (datasets with more variables).
