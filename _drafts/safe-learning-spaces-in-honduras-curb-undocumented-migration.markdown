@@ -24,6 +24,8 @@ A [recent study](https://presencia.unah.edu.hn/noticias/el-63-de-los-estudiantes
 
 The U.S. Agency for International Development (USAID) [Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education) (Securing Education) project is playing an important role in reducing undocumented migration to the United States by making schools safe places to learn, keeping young people in class, promoting careers for youth, and counseling families in distress. The five-year project works in cities with the highest rates of violence and migration—Choloma, La Ceiba, San Pedro Sula, Tegucigalpa, and Tela. We work with principals, teachers, parents, students, counselors, and community members to reduce violence in and around schools to improve attendance, academic performance, and retention—all factors that contribute to more students graduating. Students who are attending classes and learning are young people who are not migrating.
 
+![Fair in LCB 2.JPG](/uploads/Fair%20in%20LCB%202.JPG)`Students perform a traditional dance at a school fair in La Ceiba.`
+
 ### Improved Retention 
 
 Although schools need to remain in Asegurando’s “Safe Learning Spaces” program for three years to see its full benefit, the program is having an impact after just one year. Fifty-two percent of participating schools achieved a persistence rate—meaning the proportion of students who remain in school from initial enrollment to final enrollment—of 100 percent or more, compared to only 35 percent of schools the previous year. As a group, the 65 target schools saw an average persistence rate of almost a full percentage point better than the average of schools in the high-risk regions where Asegurando works. The 15 de Septiembre School in Tegucigalpa—which was experiencing a 20 percent drop in enrollment the year before entering the program—is now seeing only a 5 percent drop in enrollment after joining the Safe Learning Spaces program.
@@ -37,6 +39,8 @@ Project-facilitated field visits expose at-risk students to supermarkets, bottli
 Local university students are also showing high school students a better future by becoming mentors. The Asegurando Fellows program places 70 university students from the project’s target communities into 50 schools, implementing violence prevention activities that potentially reach 42,000 students. The fellows lead anti-bullying campaigns, [conduct school safety surveys](https://dai-global-developments.com/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras), and co-facilitate workshops, all while acting as role models. “I graduated from the very same high school where I work today,” said one. Getting an education is “hard,” she conceded, but she demonstrates to her students that despite economic and other hardships, if she can do it, so can they. 
 
 At the same time, an awareness raising campaign—“Imagining My Future in Honduras”—uses social media and school activities to demonstrate that the most reliable route to a safe, promising future is by remaining in school, graduating, and finding work. Professionals, business people, and university fellows return to their schools to host discussions with current students. The project also hosts workshops on career options and invites students to express their aspirations through murals and other art. 
+
+![Devs Mural 1.jpg](/uploads/Devs%20Mural%201.jpg)`Honduran students using art as a form of expression.`
 
 ### Strengthening Counseling Skills of Educators
 
