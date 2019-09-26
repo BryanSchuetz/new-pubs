@@ -9,6 +9,8 @@ tags:
 - Honduras
 author: "[Gustavo Payan-Luna](https://www.dai.com/who-we-are/our-team/gustavo-payan)
   and [Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/), PhD"
+thumbnail-image: "/uploads/Fair%20in%20LCB%202-1119a5.JPG"
+social-image: "/uploads/Fair%20in%20LCB%202-9c4ff6.JPG"
 publication: Developments
 ---
 
