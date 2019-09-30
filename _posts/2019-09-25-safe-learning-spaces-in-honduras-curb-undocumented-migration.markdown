@@ -4,9 +4,7 @@ date: 2019-09-25 11:27:00 -04:00
 tags:
 - stability
 - fragile-states
-- CVE
-- migration
-- Honduras
+- education
 author: "[Gustavo Payan-Luna](https://www.dai.com/who-we-are/our-team/gustavo-payan)
   and [Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/), PhD"
 thumbnail-image: "/uploads/Fair%20in%20LCB%202-1119a5.JPG"
