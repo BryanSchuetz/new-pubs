@@ -25,7 +25,7 @@ A [recent study](https://presencia.unah.edu.hn/noticias/el-63-de-los-estudiantes
 
 The U.S. Agency for International Development (USAID) [Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education) (Securing Education) project is playing an important role in reducing undocumented migration to the United States by making schools safe places to learn, keeping young people in class, promoting careers for youth, and counseling families in distress. The five-year project works in cities with the highest rates of violence and migration—Choloma, La Ceiba, San Pedro Sula, Tegucigalpa, and Tela. We work with principals, teachers, parents, students, counselors, and community members to reduce violence in and around schools to improve attendance, academic performance, and retention—all factors that contribute to more students graduating. Students who are attending classes and learning are young people who are not migrating.
 
-![Fair in LCB 2.JPG](/uploads/Fair%20in%20LCB%202.JPG)`Students perform a traditional dance at a school fair in La Ceiba.`
+![A photo of students preforming a traditional dance](/uploads/Fair%20in%20LCB%202.JPG)`Students perform a traditional dance at a school fair in La Ceiba.`
 
 ### Improved Retention 
 
