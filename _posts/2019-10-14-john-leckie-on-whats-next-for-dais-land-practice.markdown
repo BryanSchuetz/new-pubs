@@ -12,7 +12,7 @@ social-image: "/uploads/Screen%20Shot%202019-10-14%20at%2010.54.59%20AM-190cdd.p
 publication: Developing Alternatives
 ---
 
-*[John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie) has almost 20 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. Recently named to lead DAI’s [land tenure and property rights](https://www.dai.com/our-work/solutions/environment-solutions/land-tenure) work, he sat down with Developing Alternatives to discuss DAI’s current and future land work.*
+*[John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie) has almost 20 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. Recently named to lead DAI’s [land tenure and property rights](https://www.dai.com/our-work/solutions/environment-solutions/land-tenure) work, he sat down with* Developing Alternatives *to discuss DAI’s current and future land work.*
 
 
 
