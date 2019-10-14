@@ -1,5 +1,5 @@
 ---
-title: John Leckie on What’s Next for DAI’s Land Practice
+title: 'Q&A: John Leckie on What’s Next for DAI’s Land Practice'
 date: 2019-10-14 10:45:00 -04:00
 published: false
 author: 'John Leckie '
