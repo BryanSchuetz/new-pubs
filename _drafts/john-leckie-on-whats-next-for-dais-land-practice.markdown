@@ -5,7 +5,7 @@ author: 'John Leckie '
 publication: Developing Alternatives
 ---
 
-[John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie) has almost 20 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. Recently named to lead DAI’s [land tenure and property rights](https://www.dai.com/our-work/solutions/environment-solutions/land-tenure) work, he sat down with Developments to discuss DAI’s current and future land work.
+*[John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie) has almost 20 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. Recently named to lead DAI’s [land tenure and property rights](https://www.dai.com/our-work/solutions/environment-solutions/land-tenure) work, he sat down with *Developing Alternatives* to discuss DAI’s current and future land work.*
 
 How long have you been working in development?
 I studied development in the late 1990s and in 2000 I joined a natural resources management project in Tanzania with a company then called HTS Development—later to become HTSPE, before merging with DAI. This was the first step in a career which keeps presenting new and exciting challenges every day. I was lucky enough to be able to get straight into overseas project work and have spent almost all of my career working in the land tenure and property rights sector.
