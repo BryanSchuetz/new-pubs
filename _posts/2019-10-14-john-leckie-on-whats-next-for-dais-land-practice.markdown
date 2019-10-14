@@ -1,6 +1,7 @@
 ---
 title: John Leckie on What’s Next for DAI’s Land Practice
 date: 2019-10-14 10:45:00 -04:00
+published: false
 author: 'John Leckie '
 thumbnail-image: "/uploads/Screen%20Shot%202019-10-14%20at%2010.54.59%20AM.png"
 social-image: "/uploads/Screen%20Shot%202019-10-14%20at%2010.54.59%20AM-190cdd.png"
