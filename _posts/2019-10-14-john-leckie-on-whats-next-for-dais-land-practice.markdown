@@ -26,6 +26,8 @@ publication: Developing Alternatives
  
 **What has been the biggest game-changer in land rights work over the course of your career?**
 "When Rwanda was able to register more than 10 million parcels—the entire country—in three and a half years, at a cost of around $7 per parcel, it was a real paradigm shift in terms of understanding what is possible given the right investment and political buy-in. I was privileged to be part of [that program](https://www.dai.com/our-work/projects/rwanda-support-land-tenure-regularisation) and see firsthand the change in perspective about what is feasible, not just in Rwanda but globally.
+
+![Filling Registers in Field - Adjudication.jpg](/uploads/Filling%20Registers%20in%20Field%20-%20Adjudication.jpg)`Rwandan farmers fill in paperwork to register their land holdings.`
  
 "Rwanda is now considered a benchmark for large-scale registration, and work in the land sector continues to build on this approach. Our work on the [Ethiopia LIFT Programme](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) takes a similar methodology to that used in Rwanda, but on a larger scale across a decentralized federal system. On the [Tanzania Land Tenure Assistance](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) activity, we’re deploying USAID’s Mobile Application to Secure Tenure (MAST) application to show how we can build on emerging technology to streamline the registration process still further. 
 
