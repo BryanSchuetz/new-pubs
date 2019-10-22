@@ -5,6 +5,8 @@ published: false
 tags:
 - fragile-states
 author: Jez Haslam and Raisa Chowdhury
+thumbnail-image: "/uploads/Picture1-3a20f7.png"
+social-image: "/uploads/Picture1-a075de.png"
 publication: Developments
 ---
 
@@ -21,6 +23,8 @@ As the [U.S. Integrated Country Strategy](https://www.state.gov/state-gov-websit
 Women comprise one of these groups that hasn’t been fully leveraged yet. The [Framework for Political Dialogue](http://www.eprpinformation.org/files/recent-events/the-framework-for-political-dialogue-unofficial-translation--22dec2015--eng.pdf) created to guide peace process talks in Burma specifies that at least 30 percent of delegates to Union Peace Conferences (UPC) should be women—but participation has consistently fallen short. In Parliament, the numbers are even more woeful. As of 2018, only 10.2 percent of seats were held by women. Women in Burma have limited opportunities to become technical experts in relevant areas and often are unable to afford transportation and pay for the childcare necessary to attend formal events where they would be able to voice their concerns. 
 
 In response to these barriers, DAI’s [Center for Secure and Stable States (CS3)](https://www.dai.com/our-work/solutions/fragile-states) has trained 675 women in Burma on peace process themes such as federalism, security sector reform, and economic policy so they can make meaningful contributions. CS3 created a Women’s Participation Fund to cover childcare, transportation, and lodging. While the last UPC saw an increase from 17 percent to 22 percent attendance by women, work remains to more fully integrate women’s concerns into national level policy. CS3 has mapped the networks of influential women who are working on the peace process to facilitate coordination between like-minded stakeholders. As peace negotiations proceed, there continues to be a need to consolidate gender perspectives and lessons learned and strengthen coordination across key stakeholders.
+
+![Picture2.png](/uploads/Picture2.png)`Participants with Professor Paul Hobson from the Fiscal Federalism Workshop in Yangon.`
 
 ### Minority Inclusion?
 
