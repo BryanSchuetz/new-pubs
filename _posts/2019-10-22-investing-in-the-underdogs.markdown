@@ -2,15 +2,23 @@
 title: Investing in the Underdogs
 date: 2019-10-22 10:55:00 -04:00
 published: false
+tags:
+- fragile-states
 author: Jez Haslam and Raisa Chowdhury
 publication: Developments
 ---
 
 Since 2012, DAI has worked to deepen reforms introduced by Burma’s military-led government and sustain long-term stability through a combination of multisectoral, coordinated programming with a focus on promoting local leadership. Equipping key stakeholders with training on relevant issues, reducing barriers to them being heard, and strengthening opportunities for collaboration and coordination on social issues have proven helpful in promoting peace and addressing intercommunal conflict. 
 
+
+
+
+
+
 As the U.S. Integrated Country Strategy advises, one of the best ways to ensure a nascent democracy remains stable and becomes increasingly responsive to its people’s needs is to invest “across a wider spectrum of society to identify and cultivate” leaders who will drive progress.
 
-Ms. Representation
+### Ms. Representation
+
 Women comprise one of these groups that hasn’t been fully leveraged yet. The Framework for Political Dialogue created to guide peace process talks in Burma specifies that at least 30 percent of delegates to Union Peace Conferences (UPC) should be women—but participation has consistently fallen short. In Parliament, the numbers are even more woeful. As of 2018, only 10.2 percent of seats were held by women. Women in Burma have limited opportunities to become technical experts in relevant areas and often are unable to afford transportation and pay for the childcare necessary to attend formal events where they would be able to voice their concerns. 
 
 In response to these barriers, DAI’s Center for Secure and Stable States (CS3) has trained 675 women in Burma on peace process themes such as federalism, security sector reform, and economic policy so they can make meaningful contributions. CS3 created a Women’s Participation Fund to cover childcare, transportation, and lodging. While the last UPC saw an increase from 17 percent to 22 percent attendance by women, work remains to more fully integrate women’s concerns into national level policy. CS3 has mapped the networks of influential women who are working on the peace process to facilitate coordination between like-minded stakeholders. As peace negotiations proceed, there continues to be a need to consolidate gender perspectives and lessons learned and strengthen coordination across key stakeholders.
