@@ -4,6 +4,7 @@ date: 2019-10-22 10:55:00 -04:00
 published: false
 tags:
 - fragile-states
+- gender
 author: Jez Haslam and Raisa Chowdhury
 thumbnail-image: "/uploads/Picture1-3a20f7.png"
 social-image: "/uploads/Picture1-a075de.png"
@@ -45,13 +46,3 @@ In the Mandalay region, this type of partner network was able to prevent violenc
 Supporting decentralized leadership has direct benefits for peace negotiations and reducing communal violence, but also has implications for the broader political currents in Burma. With elections approaching in 2020, promoting a culture that is guarded against violence-provoking hate speech related to ethnicity and religion and capable of articulating constructive policy positions also helps set the stage for more civil discussions around how Burma’s democracy can deliver progress to all its people. 
 
 *[Jez Haslam](https://www.dai.com/who-we-are/our-team/jeremy-haslam) is Vice President of DAI’s Center for Secure and Stable States (CS3) and [Raisa Chowdhury](https://www.linkedin.com/in/raisachowdhury/) is a CS3 Development Practitioner, specializing in democracy and governance. *
-
-Daw Khin Ma Ma Myo provides insights to attendees at a “Women and Peace Forum” in Mandalay.
- 
-
-
-Participants with Professor Paul Hobson  from Fiscal Federalism Workshop, Yangon
-
-
-
-Panel discussion led by special guests at International Women’s Day in Yangon.
