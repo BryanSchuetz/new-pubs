@@ -45,4 +45,4 @@ In the Mandalay region, this type of partner network was able to prevent violenc
 
 Supporting decentralized leadership has direct benefits for peace negotiations and reducing communal violence, but also has implications for the broader political currents in Burma. With elections approaching in 2020, promoting a culture that is guarded against violence-provoking hate speech related to ethnicity and religion and capable of articulating constructive policy positions also helps set the stage for more civil discussions around how Burma’s democracy can deliver progress to all its people. 
 
-*[Jez Haslam](https://www.dai.com/who-we-are/our-team/jeremy-haslam) is Vice President of DAI’s Center for Secure and Stable States (CS3) and [Raisa Chowdhury](https://www.linkedin.com/in/raisachowdhury/) is a CS3 Development Practitioner, specializing in democracy and governance. *
+*[Jez Haslam](https://www.dai.com/who-we-are/our-team/jeremy-haslam) is Vice President of DAI’s Center for Secure and Stable States (CS3) and [Raisa Chowdhury](https://www.linkedin.com/in/raisachowdhury/) is a CS3 Development Practitioner, specializing in democracy and governance.*
