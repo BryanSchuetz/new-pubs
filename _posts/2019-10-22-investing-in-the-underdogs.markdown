@@ -25,7 +25,7 @@ Women comprise one of these groups that hasn’t been fully leveraged yet. The [
 
 In response to these barriers, DAI’s [Center for Secure and Stable States (CS3)](https://www.dai.com/our-work/solutions/fragile-states) has trained 675 women in Burma on peace process themes such as federalism, security sector reform, and economic policy so they can make meaningful contributions. CS3 created a Women’s Participation Fund to cover childcare, transportation, and lodging. While the last UPC saw an increase from 17 percent to 22 percent attendance by women, work remains to more fully integrate women’s concerns into national level policy. CS3 has mapped the networks of influential women who are working on the peace process to facilitate coordination between like-minded stakeholders. As peace negotiations proceed, there continues to be a need to consolidate gender perspectives and lessons learned and strengthen coordination across key stakeholders.
 
-![Picture2.png](/uploads/Picture2.png)`Participants with Professor Paul Hobson from the Fiscal Federalism Workshop in Yangon.`
+![Burma women.jpg](/uploads/Burma%20women.jpg)`Participants with Professor Paul Hobson from the Fiscal Federalism Workshop in Yangon.`
 
 ### Minority Inclusion?
 
