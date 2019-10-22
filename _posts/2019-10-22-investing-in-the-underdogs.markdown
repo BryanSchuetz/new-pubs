@@ -1,5 +1,5 @@
 ---
-title: Investing in the Underdogs
+title: 'Investing in the Underdogs: Boosting Local Leadership in Burma'
 date: 2019-10-22 10:55:00 -04:00
 published: false
 tags:
