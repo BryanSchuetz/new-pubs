@@ -14,8 +14,7 @@ Since 2012, DAI has worked to deepen reforms introduced by Burma’s military-le
 
 
 
-
-As the U.S. Integrated Country Strategy advises, one of the best ways to ensure a nascent democracy remains stable and becomes increasingly responsive to its people’s needs is to invest “across a wider spectrum of society to identify and cultivate” leaders who will drive progress.
+As the [U.S. Integrated Country Strategy](https://www.state.gov/state-gov-website-modernization/) advises, one of the best ways to ensure a nascent democracy remains stable and becomes increasingly responsive to its people’s needs is to invest “across a wider spectrum of society to identify and cultivate” leaders who will drive progress.
 
 ### Ms. Representation
 
