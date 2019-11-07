@@ -2,6 +2,7 @@
 title: Investments in Off-Grid Energy Businesses Are Bringing Electricity to Hundreds
   of Thousands in Kenya
 date: 2019-11-07 12:52:00 -05:00
+published: false
 tags:
 - environment-and-energy
 - digital-acceleration
