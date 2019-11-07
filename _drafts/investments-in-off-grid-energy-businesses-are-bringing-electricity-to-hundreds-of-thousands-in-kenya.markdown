@@ -45,5 +45,14 @@ Access to education, an essential element of lifting people out of poverty, is [
 
 ![Kids_electricity.jpg](/uploads/Kids_electricity.jpg)`According to GOGLA’s 2018 report on the economic impact of off-grid solar, 84 percent of households with children reported that having access to a solar power system has increased the amount of time that their children spend on homework. Photo Courtesy: Azuri Technologies`
 
+### When There is Light
+
+Without electricity, children often spend hours collecting firewood, which reduces time spent both in school and studying at home. Similarly, children bound to the natural cycles of light and dark cannot study in the evening without burning alternative energy sources—such as firewood and kerosene—that bring the risk of fire.
+
+Communities with electricity also have [better healthcare](https://www.who.int/sustainable-development/health-sector/health-risks/energy-access/en/). Health centers need reliable electricity to use diagnostic and medical devices without interruption. Those centers without basic lighting must overcome unnecessary obstacles during emergency surgeries and maternal delivery. And without refrigeration, vaccines spoil too quickly for distribution; likewise, people cannot store temperature-sensitive medicines, like those for diabetes and tetanus, in their homes.
+
+Electricity creates new business opportunities, such as mobile phone charging stations and internet cafes, and the integration of energy-based technologies into established businesses, such as electric razors for hair salons and cold storage for restaurants, enhances productivity. With electric enhancements, businesses can become more efficient, preserve supplies longer, and stay open later, all of which allows them to serve more customers.
+Access to electricity also makes it possible for people to use radios, televisions, and mobile phones in their homes, which helps rural communities to feel less isolated from other parts of the country. When anticipating how having a television would alter his life, an older Kenyan villager said, “When I have seen what the president looks like, I will also feel as being part of Kenya.”
+
 
 *[This blog](https://medium.com/@emily_langhorne/investments-in-off-grid-energy-businesses-expand-electricity-to-hundreds-of-thousands-in-kenya-b507c553a38a) was originally published on a Medium site.*
