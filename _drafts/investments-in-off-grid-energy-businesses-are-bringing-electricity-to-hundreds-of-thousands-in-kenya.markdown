@@ -69,4 +69,6 @@ People living in newly electrified rural communities have also reported developi
 
 Despite occurring over a century later, that reaction—and those emotions—echo the experience of those 3,000 visitors who traveled on New Year’s Eve in 1879 to see the electric lights. Mesmerized, they stood and stared at shining orbs. But it wasn’t the lights alone that captivated them: it was the promise that accompanied their glow—the promise of a future illuminated with untold possibility.
 
+*[Learn more](https://www.convergence.finance/resource/1NVdsBSAmJKcLwhd5oN0eK/view) about INVEST's role in the electrification of Kenya.*
+
 *[This blog](https://medium.com/@emily_langhorne/investments-in-off-grid-energy-businesses-expand-electricity-to-hundreds-of-thousands-in-kenya-b507c553a38a) was originally published on a Medium site.*
