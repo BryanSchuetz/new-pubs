@@ -2,8 +2,16 @@
 title: Investments in Off-Grid Energy Businesses Are Bringing Electricity to Hundreds
   of Thousands in Kenya
 date: 2019-11-07 12:52:00 -05:00
+tags:
+- environment-and-energy
+- digital-acceleration
+- resilience
+- finance
+- economic-growth
 author: "[Emily Langhorne](https://www.linkedin.com/in/emily-langhorne-6307b956/),
   INVEST Communications Specialist"
+thumbnail-image: "/uploads/Azure_women-9aa023.jpg"
+social-image: "/uploads/Azure_women-bb8430.jpg"
 publication: Developments
 ---
 
@@ -33,7 +41,7 @@ INVEST, with Power Africa and USAID in Kenya, identified four high-potential off
 
 One of these companies, [Azuri Technologies](https://www.azuri-technologies.com/), pioneered the [Azuri PayGo Energy](https://unfccc.int/climate-action/momentum-for-change/financing-for-climate-friendly/azuri-paygo-energy), a pay-as-you-go (PAYG) model. PAYG models let rural customers have immediate access to basic electricity and provide enough power for household light, device charging, and smaller appliances (e.g., TVs and radios), based on their energy needs and budget.
 
-![Azure_women.jpg](/uploads/Azure_women.jpg)`An Azuri customer in Narok, Kenya, uses the 10-watt system, which provides eight hours of light every night. Photo courtesy: Azuri Technologies.`
+![Azure_women.jpg](/uploads/Azure_women.jpg)`An Azuri customer in Narok, Kenya, uses the 10-watt system, which provides eight hours of light every night. Photo courtesy of Azuri Technologies.`
 
 Azuri, like most PAYG companies, charges a small, one-time installation fee for the system. Then, customers make [manageable payments](https://africabusinesscommunities.com/news/kenya-azuri-apa-insurance-introduce-low-cost-funeral-cover-for-solar-and-off-grid-customers/) on a daily, weekly, or monthly basis via mobile money. For a basic Azuri home-lighting system, customers pay KES49 a day, the equivalent of 47 cents. For a system that includes satellite TV, the cost is KES102, or about $1. To determine pricing, Azuri’s technical teams research a country’s average household spending on phone charging and kerosene. Azuri then undercuts that figure, which incentivizes people to switch to solar power systems for economic reasons. After 18 months of payments, customers own the system, thereby gaining access to a free, continued supply of electricity for as long as the system lasts (about eight to 12 years).
 
@@ -43,7 +51,7 @@ It’s difficult to overemphasize the transformative effect access to electricit
 
 Access to education, an essential element of lifting people out of poverty, is [dramatically hindered](https://www.borgenmagazine.com/education-needs-electricity/) when children lack access to electricity. Approximately [90 million](https://sustainabledevelopment.un.org/content/documents/1608Electricity%20and%20Education.pdf) elementary school children in sub-Saharan Africa attend schools without electricity. Not only do their classrooms lack copy machines, projectors, computers, internet, and science equipment, but their schools struggle to attract talented staff members because many high-quality, educated teachers don’t want to live in unelectrified areas. [Electrified schools](https://sustainabledevelopment.un.org/content/documents/1608Electricity%20and%20Education.pdf) are correlated with higher test scores and graduation rates, and they have higher enrollment and less absenteeism than their unelectrified counterparts.
 
-![Kids_electricity.jpg](/uploads/Kids_electricity.jpg)`According to GOGLA’s 2018 report on the economic impact of off-grid solar, 84 percent of households with children reported that having access to a solar power system has increased the amount of time that their children spend on homework. Photo Courtesy: Azuri Technologies`
+![Kids_electricity.jpg](/uploads/Kids_electricity.jpg)`According to GOGLA’s 2018 report on the economic impact of off-grid solar, 84 percent of households with children reported that having access to a solar power system has increased the amount of time that their children spend on homework. Photo Courtesy of Azuri Technologies.`
 
 ### When There is Light
 
@@ -51,8 +59,14 @@ Without electricity, children often spend hours collecting firewood, which reduc
 
 Communities with electricity also have [better healthcare](https://www.who.int/sustainable-development/health-sector/health-risks/energy-access/en/). Health centers need reliable electricity to use diagnostic and medical devices without interruption. Those centers without basic lighting must overcome unnecessary obstacles during emergency surgeries and maternal delivery. And without refrigeration, vaccines spoil too quickly for distribution; likewise, people cannot store temperature-sensitive medicines, like those for diabetes and tetanus, in their homes.
 
-Electricity creates new business opportunities, such as mobile phone charging stations and internet cafes, and the integration of energy-based technologies into established businesses, such as electric razors for hair salons and cold storage for restaurants, enhances productivity. With electric enhancements, businesses can become more efficient, preserve supplies longer, and stay open later, all of which allows them to serve more customers.
-Access to electricity also makes it possible for people to use radios, televisions, and mobile phones in their homes, which helps rural communities to feel less isolated from other parts of the country. When anticipating how having a television would alter his life, an older Kenyan villager said, “When I have seen what the president looks like, I will also feel as being part of Kenya.”
+Electricity creates new business opportunities, such as mobile phone charging stations and internet cafes, and the integration of energy-based technologies into established businesses, such as electric razors for hair salons and cold storage for restaurants, [enhances productivity](https://www.sciencedirect.com/science/article/pii/S0301421518307365). With electric enhancements, businesses can become more efficient, preserve supplies longer, and stay open later, all of which allows them to serve more customers.
 
+Access to electricity also makes it possible for people to use radios, televisions, and mobile phones in their homes, which helps rural communities to feel less isolated from other parts of the country. When anticipating how having a television would alter his life, an older Kenyan villager said, “When I have seen what the president looks like, I will also feel as [being part of Kenya](https://partner.sciencenorway.no/anthropology-energy-forskningno/life-changes-with-electricity/1426836).”
+
+![Ladies_TV copy.png](/uploads/Ladies_TV%20copy.png)`Solar home system products, like those made by Azuri, address the lack of access to national and global information faced by off-grid populations. Photo courtesy of Azuri Technologies.`
+
+People living in newly electrified rural communities have also reported developing increasingly positive mindsets about the trajectory of their lives. In one community in rural Kenya, where electrification had not yet had a significant effect on household or business incomes, residents still said they had a greater satisfaction with their lives and a growing optimism about their futures than before electrification.
+
+Despite occurring over a century later, that reaction—and those emotions—echo the experience of those 3,000 visitors who traveled on New Year’s Eve in 1879 to see the electric lights. Mesmerized, they stood and stared at shining orbs. But it wasn’t the lights alone that captivated them: it was the promise that accompanied their glow—the promise of a future illuminated with untold possibility.
 
 *[This blog](https://medium.com/@emily_langhorne/investments-in-off-grid-energy-businesses-expand-electricity-to-hundreds-of-thousands-in-kenya-b507c553a38a) was originally published on a Medium site.*
