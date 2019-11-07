@@ -5,7 +5,8 @@ published: false
 tags:
 - fragile-states
 - gender
-author: Jez Haslam and Raisa Chowdhury
+author: "[Jez Haslam](https://www.dai.com/who-we-are/our-team/jeremy-haslam) and [Raisa
+  Chowdhury](https://www.linkedin.com/in/raisachowdhury/)"
 thumbnail-image: "/uploads/Picture1-3a20f7.png"
 social-image: "/uploads/Picture1-a075de.png"
 publication: Developments
