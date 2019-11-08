@@ -17,7 +17,15 @@ DAI’s first experience managing an EBRD SEFF was in [Bulgaria](https://www.dai
 
 ### Replicating SEFF in the Mediterranean
 
-The success of its SEFF projects led the EBRD to replicate the model, and in 2013 DAI was awarded the first SEFF in the southern Mediterranean. The Morocco Sustainable Energy Financing Facility (MorSEFF) supports industrial companies’ investment in energy-efficient equipment—representing an environmental and an economic benefit in a country that, when MorSEFF was launched, was importing 90 percent of its energy needs. 
+The success of its SEFF projects led the EBRD to replicate the model, and in 2013 DAI was awarded the first SEFF in the southern Mediterranean. The [Morocco Sustainable Energy Financing Facility](https://www.dai.com/our-work/projects/morocco-sustainable-energy-financing-facility-morseff) (MorSEFF) supports industrial companies’ investment in energy-efficient equipment—representing an environmental and an economic benefit in a country that, when MorSEFF was launched, was importing 90 percent of its energy needs. 
 
 The €110 million allocated to MorSEFF included financial contributions from EBRD, Agence Française de Développement (AFD), Kreditanstalt für Wiederaufbau (KfW), the European Investment Bank (EIB), and the European Union (EU). Those funds were on-lent to industrial companies willing to invest in green-energy equipment and complemented by EU-funded technical assistance or grants to participating companies.  
+
+
+
+### Proving the Case
+
+However, despite a favorable regulatory environment, a well-developed financial sector, and a solid existing base of financing for small and medium-sized firms, Moroccan banks were reluctant to participate in MorSEFF in the early days. “Banks had difficulties grasping the added value of the project and it took us time and effort to demonstrate the impact of the project on their clients’ businesses, and therefore on their own portfolio,” said Team Leader William Fellows. 
+
+Eventually, the Banque Marocaine du Commerce Extérieur (BMCE) and Groupe Banque Populaire did jump in, and the first investment was disbursed in 2015, two years after the launch of the project. “We had to prove the case that green investments are good investments and that MorSEFF would help companies save cashflow and become more competitive,” said Fellows. “To do that, we worked with the banks’ salesforces: they had to be able to convince their clients that buying expensive, energy-saving equipment was better for their businesses.”
 
