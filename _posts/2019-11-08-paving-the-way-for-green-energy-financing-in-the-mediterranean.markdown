@@ -40,3 +40,7 @@ Four years after the first disbursement, DAI experts had trained more than 275 c
 In April 2019, MorSEFF organised an award ceremony for Best Energy Efficiency and Renewable Energy Investments in Morocco. Sixteen companies were recognized for their “exceptional commercial decisions that improve resilience and competitiveness of Moroccan businesses,” said Alexandra Veilleux Laborie, Director of EBRD in Morocco. “With our bank partners, we have demonstrated the value of investing in higher-performance technologies that help reduce greenhouse gas emissions.” 
 
 `Aziz Rabbah, Moroccan Minister of Energy, at the MorSEFF Award Ceremony in April.`
+
+Overall, the investments supported by MorSEFF have resulted in 207,289 megawatt hours of annual energy savings and helped avoid 102,725 tons of CO2 equivalent emissions annually. This reduction has been achieved with an average investment of approximately €400,000, covering projects ranging from equipment upgrades to heating, cooling, and insulation solutions. 
+
+Encouragingly, MorSEFF has successfully demonstrated the viability of the SEFF model in francophone North Africa, and the EBRD in July launched another facility in the region—the [Tunisia Green Economy Financing Facility](https://www.dai.com/our-work/projects/tunisia-green-economy-financing-facility-tunisia-geff) (Tunisia GEFF)—which makes €130 million in credit available for on-lending to businesses for investment in technologies and services supporting the transition to a green economy.
