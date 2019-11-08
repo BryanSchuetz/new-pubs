@@ -33,3 +33,10 @@ However, despite a favorable regulatory environment, a well-developed financial 
 
 Eventually, the Banque Marocaine du Commerce Extérieur (BMCE) and Groupe Banque Populaire did jump in, and the first investment was disbursed in 2015, two years after the launch of the project. “We had to prove the case that green investments are good investments and that MorSEFF would help companies save cashflow and become more competitive,” said Fellows. “To do that, we worked with the banks’ salesforces: they had to be able to convince their clients that buying expensive, energy-saving equipment was better for their businesses.”
 
+### Demonstrating Success
+
+Four years after the first disbursement, DAI experts had trained more than 275 credit officers and 40 local engineers in energy efficiency and energy efficiency financing, and MorSEFF had engaged €109.5 million worth of financing through its partner financial institutions, BMCE and Groupe Banque Populaire. In 2018, the EBRD injected an extra €40 million into the facility and admitted Banque Marocaine pour le Commerce et l’Industrie—BNP Paribas Group—as a third partner. 
+
+In April 2019, MorSEFF organised an award ceremony for Best Energy Efficiency and Renewable Energy Investments in Morocco. Sixteen companies were recognized for their “exceptional commercial decisions that improve resilience and competitiveness of Moroccan businesses,” said Alexandra Veilleux Laborie, Director of EBRD in Morocco. “With our bank partners, we have demonstrated the value of investing in higher-performance technologies that help reduce greenhouse gas emissions.” 
+
+`Aziz Rabbah, Moroccan Minister of Energy, at the MorSEFF Award Ceremony in April.`
