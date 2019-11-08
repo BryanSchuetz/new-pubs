@@ -44,4 +44,4 @@ publication: Developing Alternatives
 
 Stay tuned. 
 
-https://my.visme.co/projects/907vq03g-3ezl33w671dql0q1
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="907vq03g-transformational-nature-of-land-rights" data-w="800" data-h="1297" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152"> </p>
