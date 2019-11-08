@@ -43,3 +43,5 @@ publication: Developing Alternatives
 "DAI does land as a global practice, for multiple donors, and this gives us the opportunity to learn from various perspectives. Our partners may sometimes have different approaches and priorities, but when we share experiences, compare our ideas, and open ourselves to learning, we typically have a better shot at attaining our common objectives. We recently launched what we’re calling our Land Flagship Initiative to facilitate this kind of exchange—drawing on our professional experience delivering projects worldwide. We have several knowledge products in the works, rooted in practice and focused on concrete issues such as ensuring equitable access to land registration and providing incentives to land holders to formally register land transactions."
 
 Stay tuned. 
+
+https://my.visme.co/projects/907vq03g-3ezl33w671dql0q1
