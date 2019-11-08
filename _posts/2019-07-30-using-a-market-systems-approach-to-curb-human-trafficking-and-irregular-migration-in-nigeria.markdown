@@ -49,11 +49,8 @@ To date, MADE II has attracted investments of £3.9 million and is on track to r
 In a little over one year, ESIP has:
 
 * Supported development of a framework for the Edo Diaspora Development Fund to attract remittance-based investments from Edo indigenes in the diaspora;
-
 * Worked with local organizations to—create awareness about the negative effects of human trafficking, implement a Media for Development pilot, hold town hall meetings in collaboration with the Edo State Taskforce Against Human Trafficking, and counsel 500 vulnerable households. 
-
 * Supported the U.K. Cabinet Office to implement a six-week “Not for Sale” communications campaign to discourage young girls and women from migrating abroad into modern slavery while raising awareness of economic opportunities in Edo and throughout Nigeria.
-
 * Conducted the “Strengthening Market-Based Approaches to Stimulate Livelihoods” conference for more than 100 stakeholders (returnee trafficked persons, vulnerable youth, private sector representatives, Edo State Government, and civil society organizations) to reflect on the MADE approach to livelihoods programming, outcomes, and scale-up approaches. 
 
 ![WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg](/uploads/WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg)
