@@ -14,6 +14,10 @@ publication: Developments
 
 One of the best ways to ensure a nascent democracy remains stable and becomes increasingly responsive to its people’s needs, according to the [U.S. Integrated Country Strategy](https://www.state.gov/state-gov-website-modernization/), is to invest “across a wider spectrum of society” to identify and cultivate leaders who will drive progress.
 
+
+
+
+
 Since 2012, DAI has been doing exactly that in Burma, with the objective of deepening reforms introduced by Burma’s military-led government and sustaining long-term stability. Equipping key stakeholders with training on issues relevant to them, reducing barriers to their being heard, and expanding opportunities for collaboration around social issues have proven helpful in promoting peace and addressing intercommunal conflict.  
 
 Women leaders are a particularly important group to reach. The [Framework for Political Dialogue](http://www.eprpinformation.org/files/recent-events/the-framework-for-political-dialogue-unofficial-translation--22dec2015--eng.pdf) created to guide peace process talks specifies that at least 30 percent of delegates to Burma’s Union Peace Conferences (UPC) should be women—but participation has consistently fallen short of that target. In Parliament, the numbers are even worse. As of 2018, only 10.2 percent of seats were held by women. Women in Burma have limited opportunities to become technical experts in areas pertinent to social reform, and often are unable to afford transportation and pay for the childcare necessary to attend formal events where they could voice their concerns on social issues. 
