@@ -9,6 +9,8 @@ tags:
 - climate change
 author: "[Anne-Sofia Holmberg](https://www.dai.com/who-we-are/our-team/anne-sofia-holmberg)
   and Mathilde Gaston-Mathé"
+thumbnail-image: "/uploads/social-428ea2.jpg"
+social-image: "/uploads/social-6581f9.jpg"
 publication: Developments
 ---
 
