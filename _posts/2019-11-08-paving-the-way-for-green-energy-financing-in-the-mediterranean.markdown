@@ -46,7 +46,7 @@ Four years after the first disbursement, DAI experts had trained more than 275 c
 
 In April 2019, MorSEFF organised an award ceremony for Best Energy Efficiency and Renewable Energy Investments in Morocco. Sixteen companies were recognized for their “exceptional commercial decisions that improve resilience and competitiveness of Moroccan businesses,” said Alexandra Veilleux Laborie, Director of EBRD in Morocco. “With our bank partners, we have demonstrated the value of investing in higher-performance technologies that help reduce greenhouse gas emissions.” 
 
-`Aziz Rabbah, Moroccan Minister of Energy, at the MorSEFF Award Ceremony in April.`
+![Minister keynote2.jpg](/uploads/Minister%20keynote2.jpg)`Aziz Rabbah, Moroccan Minister of Energy, at the MorSEFF Award Ceremony in April.`
 
 Overall, the investments supported by MorSEFF have resulted in 207,289 megawatt hours of annual energy savings and helped avoid 102,725 tons of CO2 equivalent emissions annually. This reduction has been achieved with an average investment of approximately €400,000, covering projects ranging from equipment upgrades to heating, cooling, and insulation solutions. 
 
