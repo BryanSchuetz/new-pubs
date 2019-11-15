@@ -52,3 +52,5 @@ Overall, the investments supported by MorSEFF have resulted in 207,289 megawatt 
 Encouragingly, MorSEFF has successfully demonstrated the viability of the SEFF model in francophone North Africa, and the EBRD in July launched another facility in the region—the [Tunisia Green Economy Financing Facility](https://www.dai.com/our-work/projects/tunisia-green-economy-financing-facility-tunisia-geff) (Tunisia GEFF)—which makes €130 million in credit available for on-lending to businesses for investment in technologies and services supporting the transition to a green economy.
 
 <script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="ojqdgzr4-spreading-the-green" data-w="800" data-h="1161" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" ></p>
+
+*[Anne-Sofia Holmberg](https://www.dai.com/who-we-are/our-team/anne-sofia-holmberg) manages DAI's EBRD programmes and [Mathilde Gaston-Mathé](https://www.linkedin.com/in/mathilde-gaston-math%C3%A9-089a7022/) is DAI's Brussels-based senior communications specialist.*
