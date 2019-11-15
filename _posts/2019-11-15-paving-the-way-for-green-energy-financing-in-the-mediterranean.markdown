@@ -1,6 +1,6 @@
 ---
 title: Paving the Way for Green Energy Financing in the Mediterranean
-date: 2019-11-08 10:56:00 -05:00
+date: 2019-11-15 10:30:00 -05:00
 tags:
 - environment-and-energy
 - economic-growth
