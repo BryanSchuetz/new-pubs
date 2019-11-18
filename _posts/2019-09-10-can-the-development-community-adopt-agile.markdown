@@ -6,7 +6,7 @@ tags:
 - management
 - donors
 - blended finance
-author: "Brigit Helms"
+author: Brigit Helms
 thumbnail-image: "/uploads/Denning%20social.jpg"
 social-image: "/uploads/Denning%20social-b72ee7.jpg"
 publication: Developments

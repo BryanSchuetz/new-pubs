@@ -5,8 +5,8 @@ tags:
 - innovation
 publication: Developments
 issue: Innovation
-author-bio: "Brigit Helms is the
-  Chief of Party, Support Program for Economic and Enterprise Development (SPEED)."
+author-bio: Brigit Helms is the Chief of Party, Support Program for Economic and Enterprise
+  Development (SPEED).
 author: Brigit Helms
 featured?: 
 assets:
