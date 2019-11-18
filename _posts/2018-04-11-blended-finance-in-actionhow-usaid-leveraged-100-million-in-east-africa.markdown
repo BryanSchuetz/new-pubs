@@ -7,9 +7,8 @@ tags:
 - investment
 publication: Developments
 issue: Summer 2018
-author-bio: "[Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms)
-  is DAI’s Senior Principal Strategic Advisor and [Kanini Mutooni](https://www.linkedin.com/in/kaninimutooni/)
-  is the Director of Investment for the East Africa Trade and Investment Hub."
+author-bio: Brigit Helms is DAI’s Senior Principal Strategic Advisor and [Kanini Mutooni](https://www.linkedin.com/in/kaninimutooni/)
+  is the Director of Investment for the East Africa Trade and Investment Hub.
 author: Brigit Helms and Kanini Mutooni
 featured?: 
 assets:
