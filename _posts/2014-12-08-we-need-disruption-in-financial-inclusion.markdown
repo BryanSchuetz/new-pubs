@@ -6,7 +6,7 @@ tags:
 - economic-growth
 publication: Developments
 issue: Innovation
-author-bio: "[Brigit Helms](http://dai.com/who-we-are/our-team/brigit-helms) is the
+author-bio: "Brigit Helms is the
   director of the USAID-funded [Speed project](http://dai.com/our-work/projects/mozambique—support-program-economic-and-enterprise-development-speed)
   in Mozambique."
 author: Brigit Helms

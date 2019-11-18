@@ -8,7 +8,7 @@ tags:
 publication: Developments
 issue: Summer 2015
 author-bio: |-
-  [Brigit Helms](http://dai.com/who-we-are/our-team/brigit-helms) is Director of  Mozambique SPEED; Carrie Davies is the program's Senior Trade Policy
+  Brigit Helms is Director of  Mozambique SPEED; Carrie Davies is the program's Senior Trade Policy
   Advisor.
 author: Brigit Helms and Carrie Davies
 featured?: 

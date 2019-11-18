@@ -6,7 +6,7 @@ tags:
 publication: Developments
 author: Brigit Helms
 issue: Financial Inclusion
-author-bio: "[Brigit Helms](http://dai.com/who-we-are/our-team/brigit-helms) is the
+author-bio: "Brigit Helms is the
   Chief of Party, Support Program for Economic and Enterprise Development (SPEED)."
 assets:
 - path: "/uploads/whiteafrican-3.jpg"
