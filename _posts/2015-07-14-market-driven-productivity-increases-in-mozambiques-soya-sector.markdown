@@ -1,7 +1,6 @@
 ---
 title: Market-Driven Productivity Increases in Mozambique’s Soya Sector
 date: 2015-07-14 09:56:00 -04:00
-published: false
 tags:
 - economic-growth
 publication: DAIdeas

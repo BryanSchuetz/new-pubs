@@ -1,7 +1,6 @@
 ---
 title: Enhancing Productivity in Nigerian Aquaculture
 date: 2015-07-14 09:49:00 -04:00
-published: false
 tags:
 - economic-growth
 publication: DAIdeas
