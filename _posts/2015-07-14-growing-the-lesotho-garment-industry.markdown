@@ -1,7 +1,6 @@
 ---
 title: Growing the Lesotho Garment Industry
 date: 2015-07-14 09:30:00 -04:00
-published: true
 tags:
 - economic-growth
 publication: DAIdeas
