@@ -2,6 +2,8 @@
 title: To Go Where We’re Going, We Need to Meet Investors Where They Live
 date: 2019-11-21 11:17:00 -05:00
 author: "[Brigit Helms](https://www.linkedin.com/in/bhelms/) and [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
+thumbnail-image: "/uploads/socap-overview-766dd5.jpg"
+social-image: "/uploads/socap-overview-98caf9.jpg"
 publication: Developments
 ---
 
@@ -11,7 +13,7 @@ Like many development professionals, we’re sold on the idea of engaging the pr
 
 SOCAP reminded us that we have much to learn and much to gain by meeting seasoned impact investors where they live—in this case, on the West Coast.
 
-
+![socap-overview-e05cfd.jpg](/uploads/socap-overview-e05cfd.jpg)`SOCAP from above. Photo credit: socialcapitalmarkets.net.`
 
 
 ### Beyond the Bubble
@@ -34,8 +36,10 @@ Overall, SOCAP this year was about the “how.” Traditional funders, innovator
 
 **Climate.** SOCAP participants clearly feel an urgency around saving the planet. Among several major initiatives announced at the conference, the Packard and MacArthur Foundations unveiled a [$90 million catalytic investment](https://www.macfound.org/press/press-releases/new-90-million-fund-address-global-climate-change-through-catalytic-capital/) in Terra Silva, a sustainable forestry fund.
 
-Hunger. The latest thinking on food systems revolves around how to connect food with other sectors (food + health, food + climate, food + equity, and so on). The Rockefeller Foundation announced the Food System Vision Prize 2050.
+**Hunger.** The latest thinking on food systems revolves around how to connect food with other sectors (food + health, food + climate, food + equity, and so on). The Rockefeller Foundation announced the [Food System Vision Prize 2050](https://www.foodsystemvisionprize.org/).
 
-Gender. The increasingly important field of gender lens investing is trying to figure out how to construct an ecosystem that accommodates both gender experts and finance folks—groups that too often speak different languages. Currently, 50 public equity funds invest with a gender lens mandate—40 of those launched in just the past 6 years—and between 2017 and 2018, $1 billion in new funds were mobilized. Our challenge is moving beyond the numbers (amounts of money, number of women benefited, and other media-friendly soundbites) to consider and evaluate the many ways investors can take gender into account. One promising avenue is the “business-first” approach to gender lens investing advocated by Value for Women, whose mission is to demystify gender inclusion in business and provide practical advice on how to do it. Worth checking out. 
+**Gender.** The increasingly important field of [gender lens investing](https://www.dai.com/uploads/gender-lens-investing.pdf) is trying to figure out how to construct an ecosystem that accommodates both gender experts and finance folks—groups that too often speak different languages. Currently, 50 public equity funds invest with a gender lens mandate—40 of those launched in just the past 6 years—and between 2017 and 2018, $1 billion in new funds were mobilized. Our challenge is moving beyond the numbers (amounts of money, number of women benefited, and other media-friendly soundbites) to consider and evaluate the many ways investors can take gender into account. One promising avenue is the “business-first” approach to gender lens investing advocated by Value for Women, whose mission is to demystify gender inclusion in business and provide practical advice on how to do it. Worth checking out. 
 
 In short, development people will find a wealth of relevant material to absorb at SOCAP, but equally we have a lot to offer and—in our experience—a ready audience for our observations and insights. If we are serious about tapping private investment channels in the pursuit of development outcomes, this is the kind of venue where we need to stake our claims and show our value.
+
+![socap 3.jpg](/uploads/socap%203.jpg)`Authors Colleen Green and Brigit Helms represent DAI at SOCAP19.`
