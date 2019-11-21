@@ -2,6 +2,7 @@
 title: To Go Where We’re Going, We Need to Meet Investors Where They Live
 date: 2019-11-21 11:17:00 -05:00
 author: "[Brigit Helms](https://www.linkedin.com/in/bhelms/) and [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
+publication: Developments
 ---
 
 We recently attended [SOCAP19](https://socialcapitalmarkets.net/socap19/), the impact investing conference held in San Francisco every October since 2008. 
