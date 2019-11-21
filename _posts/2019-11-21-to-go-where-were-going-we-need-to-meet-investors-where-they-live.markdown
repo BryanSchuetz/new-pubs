@@ -1,6 +1,7 @@
 ---
 title: To Go Where We’re Going, We Need to Meet Investors Where They Live
 date: 2019-11-21 11:17:00 -05:00
+published: false
 author: "[Brigit Helms](https://www.linkedin.com/in/bhelms/) and [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 thumbnail-image: "/uploads/socap-overview-766dd5.jpg"
 social-image: "/uploads/socap-overview-98caf9.jpg"
