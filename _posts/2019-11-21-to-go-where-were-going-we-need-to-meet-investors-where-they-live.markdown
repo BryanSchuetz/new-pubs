@@ -9,6 +9,7 @@ tags:
 - economic-growth
 - innovation
 - finance
+- gender
 author: "[Brigit Helms](https://www.linkedin.com/in/bhelms/) and [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 thumbnail-image: "/uploads/socap-overview-766dd5.jpg"
 social-image: "/uploads/socap-overview-98caf9.jpg"
