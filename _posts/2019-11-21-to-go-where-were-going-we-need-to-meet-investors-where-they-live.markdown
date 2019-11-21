@@ -14,8 +14,11 @@ Like many development professionals, we’re sold on the idea of engaging the pr
 
 SOCAP reminded us that we have much to learn and much to gain by meeting seasoned impact investors where they live—in this case, on the West Coast.
 
-![socap-overview-e05cfd.jpg](/uploads/socap-overview-e05cfd.jpg)`SOCAP from above. Photo credit: socialcapitalmarkets.net.`
 
+
+
+
+![socap-overview-e05cfd.jpg](/uploads/socap-overview-e05cfd.jpg)`SOCAP from above. Photo credit: socialcapitalmarkets.net.`
 
 ### Beyond the Bubble
  
