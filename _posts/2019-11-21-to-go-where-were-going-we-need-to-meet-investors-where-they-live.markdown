@@ -2,6 +2,13 @@
 title: To Go Where We’re Going, We Need to Meet Investors Where They Live
 date: 2019-11-21 11:17:00 -05:00
 published: false
+tags:
+- blended finance
+- sustainable-business
+- Think Piece
+- economic-growth
+- innovation
+- finance
 author: "[Brigit Helms](https://www.linkedin.com/in/bhelms/) and [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 thumbnail-image: "/uploads/socap-overview-766dd5.jpg"
 social-image: "/uploads/socap-overview-98caf9.jpg"
@@ -14,8 +21,11 @@ Like many development professionals, we’re sold on the idea of engaging the pr
 
 SOCAP reminded us that we have much to learn and much to gain by meeting seasoned impact investors where they live—in this case, on the West Coast.
 
-![socap-overview-e05cfd.jpg](/uploads/socap-overview-e05cfd.jpg)`SOCAP from above. Photo credit: socialcapitalmarkets.net.`
 
+
+
+
+![socap-overview-e05cfd.jpg](/uploads/socap-overview-e05cfd.jpg)`SOCAP from above. Photo credit: socialcapitalmarkets.net.`
 
 ### Beyond the Bubble
  
