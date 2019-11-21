@@ -14,7 +14,6 @@ SOCAP reminded us that we have much to learn and much to gain by meeting seasone
 
 
 
-
 ### Beyond the Bubble
  
 What are the benefits for the development community of supporting SOCAP?
@@ -27,13 +26,13 @@ What are the benefits for the development community of supporting SOCAP?
  
 Overall, SOCAP this year was about the “how.” Traditional funders, innovators, and institutional capital sources “get” the business case for investing in social and environmental impact alongside financial returns. The question now is how to get it done, a conversation where development practitioners have much to contribute.
 
-Blended = “out,” catalytic = “in.” Several sessions addressed how to use concessional resources (donor funds, philanthropic donations, and so on) to mobilize more commercial capital, but these discussions have not yet yielded a crisp definition of exactly what constitutes the appropriate way to blend.
+**Blended = “out,” catalytic = “in.”** Several sessions addressed how to use concessional resources (donor funds, philanthropic donations, and so on) to mobilize more commercial capital, but these discussions have not yet yielded a crisp definition of exactly what constitutes the appropriate way to blend.
 
-Grants. To be considered catalytic, grant capital should be used for proving a business model, providing capacity building services, covering opportunity costs, de-risking investments, connecting investment opportunities with available capital/funders, or addressing constraints to the enabling environment.
+**Grants.** To be considered catalytic, grant capital should be used for proving a business model, providing capacity building services, covering opportunity costs, de-risking investments, connecting investment opportunities with available capital/funders, or addressing constraints to the enabling environment.
 
-Data. Impact measurement and management is critical for driving capital to social and environmental entrepreneurs, but currently we have more than 150 measurement frameworks and systems to choose from. The Global Impact Investment Network is making a big consolidation play with IRIS+, which is compatible with 50 of these frameworks. 
+**Data.** Impact measurement and management is critical for driving capital to social and environmental entrepreneurs, but currently we have more than 150 measurement frameworks and systems to choose from. The [Global Impact Investment Network](https://thegiin.org/) is making a big consolidation play with [IRIS+](https://iris.thegiin.org/), which is compatible with 50 of these frameworks. 
 
-Climate. SOCAP participants clearly feel an urgency around saving the planet. Among several major initiatives announced at the conference, the Packard and MacArthur Foundations unveiled a $90 million catalytic investment in Terra Silva, a sustainable forestry fund.
+**Climate.** SOCAP participants clearly feel an urgency around saving the planet. Among several major initiatives announced at the conference, the Packard and MacArthur Foundations unveiled a [$90 million catalytic investment](https://www.macfound.org/press/press-releases/new-90-million-fund-address-global-climate-change-through-catalytic-capital/) in Terra Silva, a sustainable forestry fund.
 
 Hunger. The latest thinking on food systems revolves around how to connect food with other sectors (food + health, food + climate, food + equity, and so on). The Rockefeller Foundation announced the Food System Vision Prize 2050.
 
