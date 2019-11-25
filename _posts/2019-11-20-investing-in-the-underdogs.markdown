@@ -11,7 +11,7 @@ social-image: "/uploads/Picture1-a075de.png"
 publication: Developments
 ---
 
-One of the best ways to ensure a nascent democracy remains stable and becomes increasingly responsive to its people’s needs, according to the [U.S. Integrated Country Strategy](https://www.state.gov/state-gov-website-modernization/), is to invest “across a wider spectrum of society” to identify and cultivate leaders who will drive progress.
+One of the best ways to ensure a nascent democracy remains stable and becomes increasingly responsive to its people’s needs, according to the [U.S. Integrated Country Strategy](https://www.state.gov/integrated-country-strategies/), is to invest “across a wider spectrum of society” to identify and cultivate leaders who will drive progress.
 
 
 
