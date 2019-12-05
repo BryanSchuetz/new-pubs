@@ -1,5 +1,5 @@
 ---
-title: New Research Shows
+title: New Research Offers Multiple Pathways to Bring Together Small Firms With Investors
 date: 2019-12-05 10:59:00 -05:00
 published: false
 tags:
