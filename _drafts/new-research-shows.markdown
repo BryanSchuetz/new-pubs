@@ -9,52 +9,55 @@ tags:
 - investment
 author: By [Brett Mallen](https://www.linkedin.com/in/brett-mallen-cfa-0780071/) and
   [StJohn Bungey](https://www.linkedin.com/in/st-john-bungey-a0033813/)
+thumbnail-image: "/uploads/cash-flow.jpg"
+social-image: "/uploads/cash-flow-5482d9.jpg"
+publication: Developments
 ---
 
 In many emerging countries, the capital markets are nascent and borrowing by government and state-owned enterprises crowds out private entities and disincentivizes banks from lending to the real economy. 
 
-The funding gap is enormous. The IFC estimates that nearly 30 million small and medium-sized enterprises (SMEs) face an aggregate funding gap of more than $4 trillion. In its research on private credit solutions in emerging markets, EMPEA identified only $57 billion in capital raised since 2006—less than 2 percent of that gap.
+The funding gap is enormous. The [IFC estimates](https://www.smefinanceforum.org/data-sites/ifc-enterprise-finance-gap-0) that nearly 30 million small and medium-sized enterprises (SMEs) face an aggregate funding gap of more than $4 trillion. In its research on private credit solutions in emerging markets, [EMPEA identified](https://www.empea.org/app/uploads/2019/05/EMPEA-PrivateCreditReport_2019_WEB.pdf) only $57 billion in capital raised since 2006—less than 2 percent of that gap.
 
-At the same time, commercial investors from developed markets show an increasing appetite for private investment vehicles in frontier and emerging markets. In addition, impact-oriented investors, such as donors and development finance institutions (DFIs), seek to support SMEs because they promote inclusive and sustainable growth, provide employment, foster innovation, reduce income inequalities, and generally contribute to achieving the Sustainable Development Goals (SDGs).
+At the same time, commercial investors from developed markets show an increasing appetite for private investment vehicles in frontier and emerging markets. In addition, impact-oriented investors, such as donors and development finance institutions (DFIs), seek to support SMEs because they promote inclusive and sustainable growth, provide employment, foster innovation, reduce income inequalities, and [generally contribute](https://www.oecd.org/industry/C-MIN-2017-8-EN.pdf) to achieving the Sustainable Development Goals (SDGs).
 
-Clearly, there is some kind of bottleneck between these willing investors and SMEs thirsty for capital. Private market fund managers focused on SMEs are often seen as the primary conduit for this capital. Yet few such managers have been able to meet investor expectations and make the model profitable. Yhey diagnose the problem as a complex one involving fund manager economics, cashflow timing, fund mandates, investor expectations, and investment instruments. Given the existing fund management models, the question is: Can we “break the mold”?
+Clearly, there is some kind of bottleneck between these willing investors and SMEs thirsty for capital. Private market fund managers focused on SMEs are often seen as the primary conduit for this capital. Yet few such managers have been able to meet investor expectations and make the model profitable. They diagnose the problem as a complex one involving fund manager economics, cashflow timing, fund mandates, investor expectations, and investment instruments. Given the existing fund management models, the question is: Can we “break the mold”?
 
 
 
 
 
 We have recently released research that seeks to answer this question. Our research aims to:
-•	Identify alternative models that could break the mold of traditional fund management and unlock appropriate levels of finance for SMEs.
-•	Analyze what alternative models have worked and why.
-•	Determine the remaining challenges.
+* Identify alternative models that could break the mold of traditional fund management and unlock appropriate levels of finance for SMEs.
+* Analyze what alternative models have worked and why.
+* Determine the remaining challenges.
 
 READ THE FULL REPORT HERE
 
-Getting into Specifics
+### Getting into Specifics
 
 There is surprisingly little research specific to the challenge of investing in SMEs. Much of the existing research addresses only isolated elements of our research objective. Some papers restrict themselves to looking at private markets in a particular geography or niche area. Others highlight certain changes in the model, instrument, mandate, or fund structure as potential solutions to deploying smaller “check sizes.” 
 
 We supplemented our secondary source review with interviews of 20 fund managers, investors, and advisors active in the SME investment ecosystem. Their insights proved particularly valuable, and we cluster them in three categories: What IS NOT Working, What IS Working, and What MIGHT Work, the latter being the interviewees’ recommendations on changes that would enhance their ability to execute smaller deals.
 
-What Does Not Work
+### What Does Not Work
 
-Spend/Earn Mismatch. One hundred percent of the interview respondents feel that resourcing is the main impediment to deploying smaller cheque sizes. More than 80 percent of the interviewees questioned the economic viability of investing in SMEs, based on prevailing fee levels in the market. Interviewees highlighted the interplay between resourcing, costs, the timing of investments, and the consequent mismatch in fund management economics. Smaller and first-time fund managers especially struggle with the disconnect between the upfront period—with the highest resource requirements and costs—and the later stages when capital is raised, assets deployed, and fees earned. While certain Development Investors have introduced technical assistance to ameliorate this situation, this assistance has been largely focused on transaction facilitation and has not sufficiently addressed the timing mismatch of fund managers’ cashflows. 
+**Spend/Earn Mismatch.** One hundred percent of the interview respondents feel that resourcing is the main impediment to deploying smaller cheque sizes. More than 80 percent of the interviewees questioned the economic viability of investing in SMEs, based on prevailing fee levels in the market. Interviewees highlighted the interplay between resourcing, costs, the timing of investments, and the consequent mismatch in fund management economics. Smaller and first-time fund managers especially struggle with the disconnect between the upfront period—with the highest resource requirements and costs—and the later stages when capital is raised, assets deployed, and fees earned. While certain Development Investors have introduced technical assistance to ameliorate this situation, this assistance has been largely focused on transaction facilitation and has not sufficiently addressed the timing mismatch of fund managers’ cashflows. 
 
-Inflexible Mandates. The interviewees mentioned rigid, single-asset-class mandates as an obstacle to deploying smaller investments, with 25 percent of them prioritizing it as the major factor. While most existing funds emphasize equity, many industry players believe debt is better suited to meet SME needs.
+**Inflexible Mandates.** The interviewees mentioned rigid, single-asset-class mandates as an obstacle to deploying smaller investments, with 25 percent of them prioritizing it as the major factor. While most existing funds emphasize equity, many industry players believe debt is better suited to meet SME needs.
 
-Fund Structure. The third-ranked impediment, cited by 50 percent of respondents and prioritized by just under 20 percent, was the inappropriateness of traditional fund structures—that is the closed-ended, limited liability partnership with a life of 10 years—when it comes to Target SME investing. Funds with fixed term fund lives can lead to forced exits at a time when the SME lacks liquidity and the investor must accept a lower, undervalued, sale price. This ultimately damages investor returns.  
+**Fund Structure.** The third-ranked impediment, cited by 50 percent of respondents and prioritized by just under 20 percent, was the inappropriateness of traditional fund structures—that is the closed-ended, limited liability partnership with a life of 10 years—when it comes to Target SME investing. Funds with fixed term fund lives can lead to forced exits at a time when the SME lacks liquidity and the investor must accept a lower, undervalued, sale price. This ultimately damages investor returns.  
 
-Risk-Reward. The fourth-ranked impediment, for 9 percent of respondents, was fund managers’ and Development Investors’ perception that the risks inherent in Target SME investing are high while the returns are low, a combination that deters fund managers from focusing on Target SMEs.
+**Risk-Reward.** The fourth-ranked impediment, for 9 percent of respondents, was fund managers’ and Development Investors’ perception that the risks inherent in Target SME investing are high while the returns are low, a combination that deters fund managers from focusing on Target SMEs.
 
-What Does Work
+### What Does Work
 
-Flexible Investment Mandates. All interviewees agreed that flexible mandates, which allow fund managers to invest in a range of private market instruments, contribute to the successful deployment of smaller investments. Thirty percent of them deem such flexibility the most important success factor. Fund managers that can invest beyond private equity and venture capital to include mezzanine finance and private debt instruments in the same fund had more success closing smaller deals in SMEs. 
+**Flexible Investment Mandates.** All interviewees agreed that flexible mandates, which allow fund managers to invest in a range of private market instruments, contribute to the successful deployment of smaller investments. Thirty percent of them deem such flexibility the most important success factor. Fund managers that can invest beyond private equity and venture capital to include mezzanine finance and private debt instruments in the same fund had more success closing smaller deals in SMEs. 
 
-Non-bank financial institutions (NBFIs). Twenty-six percent of interviewee comments related to fund managers investing into NBFIs, or fund managers who changed their business model from third party fund management to direct lenders and financiers, effectively becoming NBFIs themselves. Successful fund managers are effectively partnering with, or outsourcing to, specialist lenders who each operate in a particular frontier market or financial niche. 
+**Non-bank financial institutions (NBFIs).** Twenty-six percent of interviewee comments related to fund managers investing into NBFIs, or fund managers who changed their business model from third party fund management to direct lenders and financiers, effectively becoming NBFIs themselves. Successful fund managers are effectively partnering with, or outsourcing to, specialist lenders who each operate in a particular frontier market or financial niche. 
 
-Other. Interviewees also mentioned other concepts that they perceived to facilitate smaller investments into the SME ecosystem: a) operational leverage from being a part of a large asset management group or a service provider (e.g. outsourced accounting platforms); b) the use of linked life policies (the practice in many of the Commonwealth countries of using an insurance license to link the performance of an investment to an underlying asset or pool of assets); and c) the use of blended finance in the capital structure of the funds that are investing in SMEs.
+**Other.** Interviewees also mentioned other concepts that they perceived to facilitate smaller investments into the SME ecosystem: a) operational leverage from being a part of a large asset management group or a service provider (e.g. outsourced accounting platforms); b) the use of linked life policies (the practice in many of the Commonwealth countries of using an insurance license to link the performance of an investment to an underlying asset or pool of assets); and c) the use of blended finance in the capital structure of the funds that are investing in SMEs.
 
-What Might Work
+### What Might Work
 
 Data. Relatively few of the deals considered are actually concluded, thanks largely to the poor quality of information available to fund managers, in particular financial information. This paucity of data elevates costs, lengthens due diligence periods, and increases the resources required to originate a large number of small deals. However, in the course of their business, NBFIs and other business development service providers to SMEs gather extensive data on these businesses, which makes them ideal origination and monitoring partners for fund managers. 
 
