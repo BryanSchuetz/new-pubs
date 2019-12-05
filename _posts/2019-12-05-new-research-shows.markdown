@@ -1,6 +1,7 @@
 ---
 title: New Research Shows
 date: 2019-12-05 10:59:00 -05:00
+published: false
 tags:
 - finance
 - blended finance
@@ -59,39 +60,37 @@ We supplemented our secondary source review with interviews of 20 fund managers,
 
 ### What Might Work
 
-Data. Relatively few of the deals considered are actually concluded, thanks largely to the poor quality of information available to fund managers, in particular financial information. This paucity of data elevates costs, lengthens due diligence periods, and increases the resources required to originate a large number of small deals. However, in the course of their business, NBFIs and other business development service providers to SMEs gather extensive data on these businesses, which makes them ideal origination and monitoring partners for fund managers. 
+**Data.** Relatively few of the deals considered are actually concluded, thanks largely to the poor quality of information available to fund managers, in particular financial information. This paucity of data elevates costs, lengthens due diligence periods, and increases the resources required to originate a large number of small deals. However, in the course of their business, NBFIs and other business development service providers to SMEs gather extensive data on these businesses, which makes them ideal origination and monitoring partners for fund managers. 
 
-Flexible Mandates and Structures. Deals should be “sculpted” around SMEs’ cashflows. This 
-favorable structuring can be achieved by investing in combinations of private equity, private debt, and mezzanine finance instruments such as convertible notes, revenue-sharing instruments, or phantom equity. These investment instruments often require longer-term investment horizons requiring evergreen or permanent capital vehicle structures. Longer-term investment horizons solve several issues, including the perverse incentives to deploy capital too quickly, forcibly exiting deals at the wrong time, and the inability to scale deals over time.
+**Flexible Mandates and Structures.** Deals should be “sculpted” around SMEs’ cashflows. This favorable structuring can be achieved by investing in combinations of private equity, private debt, and mezzanine finance instruments such as convertible notes, revenue-sharing instruments, or phantom equity. These investment instruments often require longer-term investment horizons requiring evergreen or permanent capital vehicle structures. Longer-term investment horizons solve several issues, including the perverse incentives to deploy capital too quickly, forcibly exiting deals at the wrong time, and the inability to scale deals over time.
 
-Bridging the Spend-Earn Mismatch. Fund manager interviewees see technical assistance that bridges the timing mismatch between income and expenses in the early years as a significant deal enabler, particularly for first-time managers. Among the solutions they suggest:  
+**Bridging the Spend-Earn Mismatch.** Fund manager interviewees see technical assistance that bridges the timing mismatch between income and expenses in the early years as a significant deal enabler, particularly for first-time managers. Among the solutions they suggest:  
 
-Mirror the model of many NBFIs in the SME space by charging for other services they provide to SMEs—such as investment readiness, financial data collation, and/or outsourced CFO functions—thereby compensating for search and due diligence costs. Fee structures and fee levels for fund managers need to be reconsidered given the high costs inherent in responsibly originating and managing a portfolio of SMEs.
+* Mirror the model of many NBFIs in the SME space by charging for other services they provide to SMEs—such as investment readiness, financial data collation, and/or outsourced CFO functions—thereby compensating for search and due diligence costs. Fee structures and fee levels for fund managers need to be reconsidered given the high costs inherent in responsibly originating and managing a portfolio of SMEs.
+* Bridge the cashflows of the fund managers by carving out a small portion of investable funds to invest in the fund manager. The development investor’s returns would then be a mezzanine-style hybrid of the returns from its investment in the fund (managed by the fund manager) and from its equity (or other instrument) in the fund manager.
 
-Bridge the cashflows of the fund managers by carving out a small portion of investable funds to invest in the fund manager. The Development Investor’s returns would then be a mezzanine-style hybrid of the returns from its investment in the fund (managed by the fund manager) and from its equity (or other instrument) in the fund manager.
+**Coordinate Investors.** Most interviewees proposed a concerted effort to educate development investors, seeing a need to better align the expectations of development investors with fund managers and SMEs. The development investor interface with fund managers, and with the broader SME ecosystem, is widely seen as requiring better coordination and communication. 
 
-Coordinate Investors. Most interviewees proposed a concerted effort to educate development investors, seeing a need to better align the expectations of development investors with fund managers and SMEs. The development investor interface with fund managers, and with the broader SME ecosystem, is widely seen as requiring better coordination and communication. 
+**Other.** Innovations and interventions recommended by interviewees also included: a) the standardization of investment processes and templates, including the application of fintech solutions; b) blended finance capital structures with first-loss or other catalytic capital tiers; c) the use of life policy structures to create hybrid liquidity; d) open-ended, or evergreen, fund characteristics for private markets portfolios; e) revenue-sharing instruments; and f) the use of a platform based approach rather than the traditional fund model for developing a pipeline of SME private market investments.
 
-Other. Innovations and interventions recommended by interviewees also included: a) the standardization of investment processes and templates, including the application of fintech solutions; b) blended finance capital structures with first-loss or other catalytic capital tiers; c) the use of life policy structures to create hybrid liquidity; d) open-ended, or evergreen, fund characteristics for private markets portfolios; e) revenue-sharing instruments; and f) the use of a platform based approach rather than the traditional fund model for developing a pipeline of SME private market investments.
-
-No Silver Bullet
+### No Silver Bullet
 
 It would have been ideal to identify a single solution to break the mold of traditional private equity and venture capital models that have not had great success in channeling capital from development investors to SMEs. But this silver bullet does not exist.
 
 Nonetheless, in aggregate, our research suggests a model of an asset management business that could provide development investors with a sustainable solution to invest in SMEs. Specifically, fund managers should adopt a three-pronged approach:
-1.	Use a portion of their portfolio to partner with domestic and regional NBFIs, which are close to the data and afford access to the missing middle. This approach allows a reasonably quick deployment of capital, thus creating a base level of assets under management on which to charge management fees.
-2.	Partner with business development service providers, possibly assisting them to create data-driven solutions. Successful partnerships will shorten the origination cycle, increase deal flow, and ultimately improve the probability of success.
-3.	Use the sculpted cashflow model to engage with larger SMEs ($3-5 million transactions), likely found in domestic industrial and technology sectors. Many of these firms are likely to be family-owned businesses.
+1. Use a portion of their portfolio to partner with domestic and regional NBFIs, which are close to the data and afford access to the missing middle. This approach allows a reasonably quick deployment of capital, thus creating a base level of assets under management on which to charge management fees.
+2. Partner with business development service providers, possibly assisting them to create data-driven solutions. Successful partnerships will shorten the origination cycle, increase deal flow, and ultimately improve the probability of success.
+3. Use the sculpted cashflow model to engage with larger SMEs ($3-5 million transactions), likely found in domestic industrial and technology sectors. Many of these firms are likely to be family-owned businesses.
 
 This approach could be enhanced and enabled by working with development investors on the following initiatives:
 
-•	A flexible mandate that includes private equity, venture capital, private debt, mezzanine finance, convertibles, and phantom equity.
-•	An evergreen fund structure that allows the fund to scale up its investment as the SME grows, rather than a one-off investment over a short investment period.
-•	A willingness on behalf of the seed development investors to consider investing in the fund manager to bridge a portion of the funding required for its working capital requirements in the early years of its business cycle.
-•	A blended finance liability stack for the fund managers that allows the crowding in of commercial investors at an early stage.
+* A flexible mandate that includes private equity, venture capital, private debt, mezzanine finance, convertibles, and phantom equity.
+* An evergreen fund structure that allows the fund to scale up its investment as the SME grows, rather than a one-off investment over a short investment period.
+* A willingness on behalf of the seed development investors to consider investing in the fund manager to bridge a portion of the funding required for its working capital requirements in the early years of its business cycle.
+* A blended finance liability stack for the fund managers that allows the crowding in of commercial investors at an early stage.
 
 To make a composite solution like this implementable, the mold that requires breaking most urgently is the fixed mindset of the participants in the SME financing ecosystem. Absent an ability to embrace innovative fund terms and structures—and partner with fund managers to de-risk their businesses—we will continue to grapple with the challenge of driving capital at scale to promising opportunities.
 
 READ THE FULL REPORT HERE.
 
-Brett Mallen, CFA, is Chief Operating Officer at Sail Ventures, and StJohn Bungey is a Director at Broadreach Capital.
+*Brett Mallen, CFA, is Chief Operating Officer at [Sail Ventures](https://www.sailventures.com/) in the Netherlands, and StJohn Bungey is a Director at [Broadreach Capital](https://thebroadreach.com/) in South Africa.*
