@@ -33,7 +33,7 @@ We have recently released research that seeks to answer this question. Our resea
 * Determine the remaining challenges.
 
 <p>
-<h2 style="text-align: center;"><a href="https://www.dai.com/hcd.pdf">Download Full Report</a></h2>
+<h2 style="text-align: center;"><a href="/uploads/BreakingTheMold_LayoutDesign_R4-6ce27c.pdf">Download Full Report</a></h2>
 </p>
 
 ### Getting into Specifics
@@ -94,7 +94,7 @@ This approach could be enhanced and enabled by working with development investor
 To make a composite solution like this implementable, the mold that requires breaking most urgently is the fixed mindset of the participants in the SME financing ecosystem. Absent an ability to embrace innovative fund terms and structures—and partner with fund managers to de-risk their businesses—we will continue to grapple with the challenge of driving capital at scale to promising opportunities.
 
 <p>
-<h2 style="text-align: center;"><a href="https://www.dai.com/hcd.pdf">Download Full Report</a></h2>
+<h2 style="text-align: center;"><a href="/uploads/BreakingTheMold_LayoutDesign_R4-6ce27c.pdf">Download Full Report</a></h2>
 </p>
 
 *Brett Mallen, CFA, is Chief Operating Officer at [Sail Ventures](https://www.sailventures.com/) in the Netherlands, and StJohn Bungey is a Director at [Broadreach Capital](https://thebroadreach.com/) in South Africa.*
