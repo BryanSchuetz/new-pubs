@@ -13,8 +13,6 @@ author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) 
 publication: Developments
 ---
 
-Adopting a Private Sector-led Approach to Advance Digital Startups in Cambodia 
-
 Years of working side-by-side with Cambodians in the civic technology sector taught us many things about the country’s startup scene. Its denizens are smart and passionate about their work. Many have their finger on the pulse of what communities want and need. So, what’s missing? Why aren’t there more internationally known Cambodian firms?
 
 The answer is that the entrepreneurship ecosystem in Cambodia needs support at the critical growth stage to help pull fledgling enterprises rise out of the startup phase and enable their transformation into mature job- and wealth-creating businesses. 
@@ -24,7 +22,7 @@ According to 2018 research from Raintree and Mekong Strategic Partners, there ar
 The DAI-led Development Innovations (DI) project, funded by the U.S. Agency for International Development (USAID), highlighted this gap in a 2018 report on the sector: “Startups are not widely ready for investments. The majority of startups are [stuck] in pre-seed or seed stage.” DI’s goal was to boost civil society’s access to and use of tools such as mobile technologies, the Internet, and social media. But that objective is incomplete—and unsustainable—if tech firms can’t extend their reach beyond the early stages.
 We knew support for growth-stage startups would fill a key gap in Cambodia’s startup ecosystem. We knew we needed a new model. 
 
-Bring in the Private Sector
+### Bring in the Private Sector
 
 A solution came in the form of a partnership with the private sector. In June 2018, DI designed a call for proposals for venture capital firms that want to help Cambodian startups become investment-ready opportunities. DI ultimately selected an investment and advisory services firm called Mekong Strategic Partners (MSP) to design and manage the accelerator based on its expertise in the financial and startup services sector in Cambodia and the greater Mekong region. MSP, collaborating with Seedstars, a Swiss organization, jumped into the design phase of the accelerator program.
 
@@ -36,7 +34,7 @@ Over the three months, each startup completed three bootcamps and several traini
 
 The accelerator culminated in a final demo day in July, where each company pitched in front of 100 members of the public, government representatives, local investors, and venture capital investors from Cambodia, Singapore, and Thailand. 
 
-What Did We Achieve?
+### What Did We Achieve?
 
 Two of the 11 startups demonstrated true investment readiness, according to MSP’s investment scorecards. These startups are now in the due diligence phase with venture capital firms for potential funding. Three other startups are expected to reach investment readiness within three to six months and then enter the due diligence phase. Four more reported making connections with investors at the final demo day, which could lead to future investment discussions or business plan reviews, while others reported validating—or radically changing—their business models as a result of the accelerator. 
 
