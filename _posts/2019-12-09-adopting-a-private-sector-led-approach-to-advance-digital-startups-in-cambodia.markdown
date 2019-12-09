@@ -41,4 +41,8 @@ Two of the 11 startups demonstrated true investment readiness, according to MSPâ
 
 The results prove that investor-led approaches to growing the digital economy work in Cambodia; Cambodian businesses indeed possess the potential to attract local and international venture capital. Private and public funding options are readily available for accelerator or mentorship programs that get results for startups, or entrepreneurs in general. With the right amount of local context, tailored mentorship, and thoughtful, market-led approaches, private sector engagement multiplies the impact of donor funding. 
 
-[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) was Chief of Party of Cambodia Development Innovations.
+[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) was Chief of Party of Cambodia DI
+
+The DI project ultimately 
+
+<iframe src="https://player.vimeo.com/video/375672295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
