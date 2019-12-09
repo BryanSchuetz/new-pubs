@@ -19,6 +19,10 @@ Years of working side-by-side with Cambodians in the civic technology sector tau
 
 The answer is that the entrepreneurship ecosystem in Cambodia needs support at the critical growth stage to help pull fledgling enterprises rise out of the startup phase and enable their transformation into mature job- and wealth-creating businesses. 
 
+
+
+
+
 According to [2018 research](https://www.raintreecambodia.com/research) from Raintree and Mekong Strategic Partners, there are now roughly 300 startups in Cambodia. As documented in [recent reports](https://www.khmertimeskh.com/597071/cambodia-launches-its-first-technology-startup-report/), “What was once a relatively quiet ecosystem has really burst into life in the last few years.” But wide gaps still exist between promising startups and the investments that will facilitate their maturation.
 
 The DAI-led [Development Innovations (DI)](https://www.dai.com/our-work/projects/cambodia-development-innovations) project, funded by the U.S. Agency for International Development (USAID), highlighted this gap in a 2018 report on the sector: “Startups are not widely ready for investments. The majority of startups are [stuck] in pre-seed or seed stage.” DI’s goal was to boost civil society’s access to and use of tools such as [mobile technologies](https://www.forbes.com/sites/joshuawilwohl/2016/02/14/new-app-to-help-cambodians-track-complaints-made-with-local-govt/#589cafd3156f), the Internet, and social media. But that objective is incomplete—and unsustainable—if tech firms can’t extend their reach beyond the early stages.
