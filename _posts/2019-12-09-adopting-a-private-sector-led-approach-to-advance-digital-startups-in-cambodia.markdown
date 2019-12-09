@@ -43,6 +43,6 @@ The results prove that investor-led approaches to growing the digital economy wo
 
 [Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) was Chief of Party of Cambodia DI
 
-The DI project ultimately 
+The DI project ultimately delivered 91 technology solutions that reached 1.6 million Cambodians. Watch the video to learn more about the project’s impact over six years:
 
 <iframe src="https://player.vimeo.com/video/375672295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
