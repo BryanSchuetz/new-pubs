@@ -8,8 +8,8 @@ tags:
 - Think Piece
 - economic-growth
 - investment
-author: "[Brett Mallen](https://www.linkedin.com/in/brett-mallen-cfa-0780071/) and
-  [StJohn Bungey](https://www.linkedin.com/in/st-john-bungey-a0033813/)"
+author: "[Brett Mallen](https://www.linkedin.com/in/brett-mallen-cfa-0780071/), [StJohn
+  Bungey](https://www.linkedin.com/in/st-john-bungey-a0033813/), and [Kirsten Pfeiffer](https://www.dai.com/who-we-are/our-team/kirsten-pfeiffer)"
 thumbnail-image: "/uploads/cash-flow.jpg"
 social-image: "/uploads/cash-flow-5482d9.jpg"
 publication: Developments
@@ -97,4 +97,4 @@ To make a composite solution like this implementable, the mold that requires bre
 <h2 style="text-align: center;"><a href="/uploads/BreakingTheMold_LayoutDesign_R4-6ce27c.pdf">Download Full Report</a></h2>
 </p>
 
-*Brett Mallen, CFA, is Chief Operating Officer at [Sail Ventures](https://www.sailventures.com/) in the Netherlands, and StJohn Bungey is a Director at [Broadreach Capital](https://thebroadreach.com/) in South Africa.*
+*Brett Mallen, CFA, is Chief Operating Officer at [Sail Ventures](https://www.sailventures.com/) in the Netherlands; StJohn Bungey is a Director at [Broadreach Capital](https://thebroadreach.com/) in South Africa; and [Kirsten Pfeiffer](https://www.dai.com/who-we-are/our-team/kirsten-pfeiffer) is a Senior Global Practice Specialist at DAI, focusing on market systems and investment facilitation. DAI Investment Specialist Terry Wyer contributed to this paper.*
