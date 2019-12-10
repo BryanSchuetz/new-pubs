@@ -8,8 +8,8 @@ tags:
 - Think Piece
 - economic-growth
 - investment
-author: By [Brett Mallen](https://www.linkedin.com/in/brett-mallen-cfa-0780071/) and
-  [StJohn Bungey](https://www.linkedin.com/in/st-john-bungey-a0033813/)
+author: "[Brett Mallen](https://www.linkedin.com/in/brett-mallen-cfa-0780071/) and
+  [StJohn Bungey](https://www.linkedin.com/in/st-john-bungey-a0033813/)"
 thumbnail-image: "/uploads/cash-flow.jpg"
 social-image: "/uploads/cash-flow-5482d9.jpg"
 publication: Developments
