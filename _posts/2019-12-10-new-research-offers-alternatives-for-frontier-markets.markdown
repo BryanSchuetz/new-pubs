@@ -1,7 +1,7 @@
 ---
 title: New Research Offers Alternatives for Frontier Market Venture Capital and Private
   Equity
-date: 2019-12-05 10:59:00 -05:00
+date: 2019-12-10 10:59:00 -05:00
 tags:
 - finance
 - blended finance
