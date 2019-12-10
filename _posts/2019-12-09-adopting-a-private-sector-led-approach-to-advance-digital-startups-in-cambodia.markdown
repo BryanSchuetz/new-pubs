@@ -33,7 +33,7 @@ We knew support for growth-stage startups would fill a key gap in Cambodia’s s
 
 A solution came in the form of a partnership with the private sector. In June 2018, DI designed a call for proposals for venture capital firms that want to help Cambodian startups become investment-ready opportunities. DI ultimately selected an investment and advisory services firm called [Mekong Strategic Partners (MSP)](http://www.mekongstrategic.com/) to design and manage the accelerator based on its expertise in the financial and startup services sector in Cambodia and the greater Mekong region. MSP, collaborating with [Seedstars](https://www.seedstars.com/), a Swiss organization, jumped into the design phase of the accelerator program.
 
-![ss-d2a894.jpg](/uploads/ss-d2a894.jpg)`Photo courtesy: DI.`
+![pitch.jpg](/uploads/pitch.jpg)`An entrepreneur makes his pitch. Photo courtesy: DI.`
 
 Simultaneously, [Smart Axiata](https://www.smart.com.kh/)—a major mobile network operator in Cambodia and a long-time DI partner—signed on as a co-sponsor because it recognizes the value of an investor-led accelerator focusing on high-potential firms. It was especially interested in building a pipeline of more investible businesses for the [Smart Axiata Digital Innovations Fund](https://sadif.com.kh/), a $5 million venture capital fund managed by MSP. The final accelerator design leveraged Seedstars’ tried-and-tested investment readiness program for startups with a strong focus on local and regional mentorship, tailored to the needs of maturing Cambodian startups.
 
