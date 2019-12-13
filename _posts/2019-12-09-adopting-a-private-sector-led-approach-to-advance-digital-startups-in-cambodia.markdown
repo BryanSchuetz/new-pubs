@@ -10,8 +10,8 @@ tags:
 - innovation
 - technology
 author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) "
-thumbnail-image: "/uploads/ss.jpg"
-social-image: "/uploads/ss.jpg"
+thumbnail-image: "/uploads/smart-fd7e64.jpg"
+social-image: "/uploads/smart-fd7e64.jpg"
 publication: Developments
 ---
 
@@ -33,7 +33,7 @@ We knew support for growth-stage startups would fill a key gap in Cambodia’s s
 
 Engaging the private sector was critical in finding a solution based on the market and leading towards self-reliance or sustainability. Through a call for proposals in June 2018 targeting venture capital firms interested in supporting Cambodian startups to become investment-ready, DI partnered with an investment and advisory services firm called [Mekong Strategic Partners (MSP)](http://www.mekongstrategic.com/). MSP, and its partner [Seedstars](https://www.seedstars.com/), with its proven investment readiness program for startups, worked with DI to design and manage an accelerator based on its expertise in the financial and startup services sector in Cambodia and the greater Mekong region.
 
-![pitch.jpg](/uploads/pitch.jpg)`An entrepreneur makes his pitch. Photo courtesy: DI.`
+![smart.jpg](/uploads/smart.jpg)`SmartScale teams attended weekly bootcamps with industry mentors from across the globe. Photo courtesy: Smart Axiata.`
 
 Simultaneously, [Smart Axiata](https://www.smart.com.kh/)—a major mobile network operator in Cambodia and a long-time DI partner—signed on as a co-sponsor to this investor-led accelerator to help build a pipeline of investible businesses for the [Smart Axiata Digital Innovations Fund](https://sadif.com.kh/), a $5 million venture capital fund managed by MSP. 
 
