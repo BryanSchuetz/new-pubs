@@ -38,7 +38,7 @@ Conversely, with limited distribution channels and many kilometres of barely pas
 
 In 2015, this gap was bridged by [Innovation for Agribusiness—Private Sector-Led Rural Growth in Northern Mozambique](http://dai.com/our-work/projects/mozambique%E2%80%94innovation-agribusiness-inovagro) (InovAgro), a project funded by the Swiss Agency for Development and Cooperation and implemented by DAI since 2010. Working with local partner NANA, InovAgro upgraded its savings group methodology, enabling private sector seed suppliers to be present when villages such as Angira’s unlock their savings boxes. The result: 110 savings groups representing 1,760 farmers across three districts in Zambezia province—Mocuba, Mocubela, and Maganja da Costa—can now buy certified seed for sesame, soya, groundnut, maize, and other crops, both staple and commercial.
 
-##Working With Savings Groups
+## Working With Savings Groups
 
 Traditionally, saving groups set their own saving cycle and meeting dates to accumulate monthly or weekly savings until they have enough money for members to lend within the group. A technical facilitator such as NANA advises the group until it is self-sufficient, with the methodology spreading organically to neighbouring villages over time. InovAgro’s technical team leveraged the savings group meetings and, crucially, the breaking-the-box meeting to show members what agricultural inputs they can buy with funds from their savings, discuss product prices, and share good agricultural practices. The savings group provides in turn a platform for messaging about agricultural input or technology products designed to improve lives.
 
@@ -55,7 +55,7 @@ InovAgro partners also counsel smallholders on using fertilizer and pesticide, i
 <aside><p>InovAgro—an agribusiness facilitation unit funded by the Swiss Agency for Cooperation and Development—coordinates with <a href="http://dai.com/our-work/projects/mozambique%E2%80%94financial-sector-deepening-fsdmo%C3%A7">Financial Sector Deepening Mozambique</a> (FSDMoç), a financial inclusion unit funded by the U.K. Department for International Development. These two DAI-managed programs show how related donor initiatives can achieve synergy, using key partnerships to develop savings groups in different districts of the country. Further, FSDMoç and InovAgro have been providing input into the CGAP-funded Financial Diaries of Smallholder Families program, which has been building analysis of smallholder households in northern Mozambique, Tanzania, and Pakistan. Its Mozambique launch is being hosted by FSDMoç on International Women’s Day, March 8, 2016. Nephas Munyeche, Team Leader of InovAgro, will present on a discussion panel examining constraints in access to finance among smallholder farmers, and FSDMoç CEO Anne-Marie Chidzero and Investment Manager Benedito Murambire are facilitating the event.</p>
 </aside>
 
-##Unlocking the Box
+## Unlocking the Box
 
 Three seed companies—Pannar, Phoenix Seed, and Nzara Yapera—have participated in the InovAgro initiative and have seen the value of traveling to remote districts such as Mocuba, Mocubela, and Maganja da Costa. There they sell seed, typically in 1-kilogram bags costing MZN 45 to MZN 115 (USD $1 to $2-plus), the higher prices assigned to certain crops and to hybrid seeds that produce greater yields.
 
