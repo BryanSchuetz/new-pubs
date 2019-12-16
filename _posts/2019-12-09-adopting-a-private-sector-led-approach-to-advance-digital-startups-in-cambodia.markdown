@@ -35,7 +35,7 @@ Engaging the private sector was critical in finding a solution based on the mark
 
 ![smart.jpg](/uploads/smart.jpg)`SmartScale teams attended weekly bootcamps with industry mentors from across the globe. Photo courtesy: Smart Axiata.`
 
-Simultaneously, [Smart Axiata](https://www.smart.com.kh/)—a major mobile network operator in Cambodia and a long-time DI partner—signed on as a co-sponsor to this investor-led accelerator to help build a pipeline of investible businesses for the [Smart Axiata Digital Innovations Fund](https://sadif.com.kh/), a $5 million venture capital fund managed by MSP. 
+Simultaneously, [Smart Axiata](https://www.smart.com.kh/)—a major mobile network operator in Cambodia and a long-time DI partner—signed on as a co-sponsor to this investor-led accelerator to support the growing ecosystem and help build a pipeline of investible businesses for the [Smart Axiata Digital Innovations Fund](https://sadif.com.kh/), a $5 million venture capital fund managed by MSP. 
 
 The resulting SmartScale, powered by Seedstars accelerator, kicked off in April 2019. For the intensive three-month program, MSP and Seedstars selected 11 businesses, all of which had a product or products at the “minimum viable product” stage or better. These businesses—four of which are led by women—came from a range of sectors, including logistics, healthcare, ecotourism, and job placement services. Two of the startups were previous DI grantees—and one of those was designed with funds received from another USAID-funded project, bringing donor-funded businesses even closer to sustainability. 
 
