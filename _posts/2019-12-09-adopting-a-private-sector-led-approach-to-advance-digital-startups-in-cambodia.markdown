@@ -43,6 +43,8 @@ Over the three months, each startup completed three bootcamps and several traini
 
 The accelerator culminated in a final demo day in July, where each company pitched in front of 100 members of the public, government representatives, local investors, and venture capital investors from Cambodia, Singapore, and Thailand. 
 
+<iframe src="//my.visme.co/embed/010v37r3-smartscale" height="583" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" > </p>
+
 ### What Did We Achieve?
 
 Two of the 11 startups demonstrated true investment readiness and are now in the due diligence phase with venture capital firms for potential funding. Three other startups are expected to reach investment readiness within three to six months and then enter the due diligence phase. Four more reported making connections with investors at the final demo day, which could lead to future investment discussions or business plan reviews, while others reported validating—or radically changing—their business models as a result of the accelerator.
