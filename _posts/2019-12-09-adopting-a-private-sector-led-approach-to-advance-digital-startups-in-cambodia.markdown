@@ -14,7 +14,7 @@ social-image: "/uploads/smart-fd7e64.jpg"
 publication: Developments
 ---
 
-Years of working side-by-side with Cambodians in the civic technology sector taught us many things about the country’s startup scene. Its denizens are smart and passionate about their work. Many have their finger on the pulse of what communities want and need. So, what’s missing? Why aren’t there more internationally known Cambodian tech firms and startups like [Codingate](https://www.codingate.com/) and [Joonaak](https://www.joonaak.com/)?
+Years of working side-by-side with Cambodians in the civic technology sector taught us many things about the country’s startup scene. Its denizens are smart and passionate about their work. Many have their finger on the pulse of what communities want and need. So, what’s missing? Why aren’t there more internationally known Cambodian tech firms and startups such as [Codingate](https://www.codingate.com/) and [Joonaak](https://www.joonaak.com/)?
 
 The answer is that entrepreneurs in Cambodia often lack support during their growth stage and struggle to rise out of the startup phase to become a vibrant, growing businesses. Strengthening the entrepreneurship ecosystem in Cambodia is critical to enable these startups to grow into job- and wealth-creating businesses.
 
