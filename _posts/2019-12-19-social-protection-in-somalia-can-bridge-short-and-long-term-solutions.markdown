@@ -2,6 +2,12 @@
 title: Social Protection in Somalia Can Bridge Short- and Long-Term Solutions
 date: 2019-12-19 14:11:00 -05:00
 published: false
+tags:
+- stability
+- resilience
+- governance
+- Think Piece
+- fragile-states
 author: "[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/) "
 thumbnail-image: "/uploads/Oxfam_East_Africa_-_SomalilandDrought014-d89d7a.jpg"
 social-image: "/uploads/Oxfam_East_Africa_-_SomalilandDrought014-d89d7a.jpg"
