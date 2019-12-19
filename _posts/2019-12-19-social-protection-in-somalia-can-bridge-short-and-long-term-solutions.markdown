@@ -10,12 +10,12 @@ publication: Developments
 
 DAI has been working in the fragile country of Somalia since 2017 to foster a government-owned social protection system that is underpinned by donor coherence, leadership, and coordination capacities.
 
-There is an established consensus that humanitarian relief and development programming need to better coordinate and reinforce each other’s impact. Underlying all the buzzwords and debates around the “humanitarian-development nexus” is the belief that things must be done differently, in a more integrated manner, to ensure positive outcomes.
+There is an [established consensus](https://policy-practice.oxfam.org.uk/publications/the-humanitarian-development-peace-nexus-what-does-it-mean-for-multi-mandated-o-620820) that humanitarian relief and development programming need to better coordinate and reinforce each other’s impact. Underlying all the buzzwords and debates around the “humanitarian-development nexus” is the belief that things must be done differently, in a more integrated manner, to ensure positive outcomes.
 
 
 
 
-This belief comes from the recognition of several realities: conflicts last longer, creating extended displacement of people; environmental shocks are more frequent and intense; and climate change places stress on available resources, exacerbating tensions within and between communities. Our understanding of fragility has also progressed to reflect complex combinations of economic, environmental, political, security, and societal factors. It is estimated that 1.6 billion people (22 percent of the global population) currently live in fragile contexts, and these numbers are anticipated by the Organisation for Economic Co-operation and Development to reach 3 billion (32 percent) by 2050.
+This belief comes from the recognition of several realities: conflicts last longer, creating extended displacement of people; environmental shocks are more frequent and intense; and climate change places stress on available resources, exacerbating tensions within and between communities. Our [understanding of fragility](https://www.oecd.org/dac/states-of-fragility-2016-9789264267213-en.htm) has also progressed to reflect complex combinations of economic, environmental, political, security, and societal factors. It is estimated that 1.6 billion people (22 percent of the global population) currently live in fragile contexts, and these numbers are anticipated by the Organisation for Economic Co-operation and Development to reach 3 billion (32 percent) by 2050.
 
 A new sense of urgency is reinforced by the fact that, while humanitarian appeals have skyrocketed in recent years, financing has not followed suit. Looming projections of fragility and worrying trends in conflicts and climate breakdown call for new alternatives to release pressure from traditional humanitarian finance.   
 
