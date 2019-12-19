@@ -27,7 +27,7 @@ Humanitarian and social protection objectives are aligned in crises contexts, an
 
 These differences are not as irreconcilable as it may seem. It has been argued that independence from government is only necessary when governments are active stakeholders in conflicts: In other contexts, humanitarian principles are better served by working with public agencies. Timing is also less relevant to differentiate between humanitarian and development programmes: as crises become protracted, humanitarian interventions last longer and development aid is delivered in emergency settings. 
 
-There are strong arguments and growing operational experience in favour of social protection as a “game changer in supporting people through crises.” By working before, during, and after shock events, social protection seems to offer very concrete and operational options across the humanitarian-development nexus.
+There are strong arguments and growing operational experience in favour of social protection as a “game changer in supporting people through crises.” By working before, during, and after shock events, social protection seems to offer very concrete and [operational options](https://europa.eu/capacity4dev/sp-nexus/wiki/guidance-package-social-protection-across-humanitarian-development-nexus) across the humanitarian-development nexus.
 
 ### Current Situation
 
