@@ -17,7 +17,7 @@ publication: 'Developments '
 
 *DAI helps coordinate the FRRLS process through the European Commission-funded project called “Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo.” Former Ministry of Justice staffer and anti-corruption expert Ehat Miftaraj was integral to that effort. One year after the project’s inception in 2018, we sat down with him to learn more about its findings, its recommendations, and the prospects for meaningful justice sector reform in Kosovo.*
 
-Can you tell us a little about the FRRLS process?
+**Can you tell us a little about the FRRLS process?**
 The Government of Kosovo launched its functional review in 2016. Since the process involves so many technical areas and organizations, we broke it into phases. The first phase analyzed seven “pillars,” or key aspects of judicial reform, which were in turn identified by working groups representing the Ministry of Justice, the Kosovo Judicial Council, the Kosovo Prosecutorial Council, judges, prosecutors, police, other law enforcement agencies, and civil society and international stakeholders. The second phase, beginning in 2018, focused on deeper analysis of prioritized policy areas which were discussed during stakeholder workshops. All told, the process yielded 16 policy papers, of which DAI led the drafting of eight. These papers should significantly shape the forthcoming rule of law strategy in Kosovo.
 
 Were you surprised by any of the papers’ findings?
