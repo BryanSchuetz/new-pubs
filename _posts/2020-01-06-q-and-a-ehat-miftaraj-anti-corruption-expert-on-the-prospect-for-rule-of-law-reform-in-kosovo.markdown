@@ -7,7 +7,7 @@ author: "[Chantal Agarwal](https://www.dai.com/who-we-are/our-team/chantal-agarw
   and [Gabriela Georgieva](https://www.linkedin.com/in/gabrielavgeorgieva/)"
 thumbnail-image: "/uploads/DSC_0097-472ad3.JPG"
 social-image: "/uploads/DSC_0097-e118f5.JPG"
-publication: 'Developments '
+publication: Developments
 ---
 
 *A relatively young nation, Kosovo has implemented significant reforms in its justice sector, including in legislative drafting, institution building, and the training of justice sector personnel. But according to the [European Commission’s Kosovo Progress Report of 2018](https://ec.europa.eu/neighbourhood-enlargement/sites/near/files/20180417-kosovo-report.pdf), most Kosovars still see the judiciary in Kosovo as compromised by corruption and justice institutions as unprepared to serve people’s needs.* 
