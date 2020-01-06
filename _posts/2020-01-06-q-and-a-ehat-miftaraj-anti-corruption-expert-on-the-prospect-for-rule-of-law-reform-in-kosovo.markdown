@@ -25,6 +25,8 @@ The Government of Kosovo launched its functional review in 2016. Since the proce
 
 Not really. The topic areas were derived from participatory discussions with stakeholders, so by the time they were complete, we were not surprised by the findings or recommendations. But the data we uncovered did lay bare some eye-catching numbers and does offer glimmers of hope. For example, in 2015 there were 440,832 unresolved cases in the Kosovar court system. But only three years later, that number had fallen to 245,518. This reduction is due in part to improvements the sector has made in case management systems. But we still have work to do, especially for civil cases, most of which still take longer than four years. We can do better, and in order for Kosovo to advance our economy and reach our goal of EU accession, we must do better.
 
+![DSC_0097.JPG](/uploads/DSC_0097.JPG)`Ehat Miftaraj, fourth from left, leads a policy paper workshop with Functional Review working group members including Kosovar judges, private practitioners and Ministry of Justice authorities.`
+
 **What are the most valuable lessons from the policy papers?**
 
 The review’s evidence-based findings indicate that our justice sector institutions need immediate interventions to become more independent, professional, efficient, fair, and transparent. Most importantly, the institutional integrity of the justice institutions and personal integrity of justice system stakeholders is weak and needs improvement. 
