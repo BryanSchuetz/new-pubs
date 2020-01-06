@@ -5,6 +5,8 @@ date: 2020-01-06 13:52:00 -05:00
 published: false
 author: "[Chantal Agarwal](https://www.dai.com/who-we-are/our-team/chantal-agarwal)
   and [Gabriela Georgieva](https://www.linkedin.com/in/gabrielavgeorgieva/)"
+thumbnail-image: "/uploads/DSC_0097-472ad3.JPG"
+social-image: "/uploads/DSC_0097-e118f5.JPG"
 publication: 'Developments '
 ---
 
