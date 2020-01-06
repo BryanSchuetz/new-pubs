@@ -7,6 +7,10 @@ tags:
 - governance
 - global-development
 - stability
+- transparency
+- justice
+- rule of law
+- access to justice
 author: "[Chantal Agarwal](https://www.dai.com/who-we-are/our-team/chantal-agarwal)
   and [Gabriela Georgieva](https://www.linkedin.com/in/gabrielavgeorgieva/)"
 thumbnail-image: "/uploads/DSC_0097-472ad3.JPG"
@@ -49,4 +53,4 @@ publication: Developments
 
 “I’m encouraged that FRRLS has revitalized an interest in the rule of law in Kosovo. Everyone knows about the FRRLS process throughout the country, and the interest extends beyond Pristina and into the municipalities. Stakeholders are eagerly waiting to see what the results will be. Also, FRRLS identified concrete ways to address bottlenecks that prevent the proper functioning of the rule of law in Kosovo. The expectations are that trust in justice institutions can be restored if the policy measures and recommendations are implemented—if we can build a functional and responsive sector that is independent, professional, efficient, fair, and equally accessible to all Kosovo citizens. The FRRLS has also been important in demonstrating the benefits of an inclusive process, bringing together—as it did—USAID, the EC, the United Nations Development Programme, and the British Embassy, in addition to numerous Kosovar institutions. As a result, the decisions and developments now being made are not seen as unilateral or arbitrary, and they have a better chance of being embraced.”
 
-*Chantal Agarwal is a Senior Development Specialist in DAI’s Governance sector. Gabriela Georgieva, a consultant based in DAI’s U.K. office, worked on the Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo project.*
+*Chantal Agarwal is a Senior Governance Specialist in DAI’s Governance sector. Gabriela Georgieva, a consultant based in DAI’s U.K. office, worked on the Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo project.*
