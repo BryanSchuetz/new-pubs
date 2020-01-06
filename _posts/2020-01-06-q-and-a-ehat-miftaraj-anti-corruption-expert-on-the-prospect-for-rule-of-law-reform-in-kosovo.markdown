@@ -8,15 +8,14 @@ author: "[Chantal Agarwal](https://www.dai.com/who-we-are/our-team/chantal-agarw
 publication: 'Developments '
 ---
 
-A relatively young nation, Kosovo has implemented significant reforms in its justice sector, including in legislative drafting, institution building, and the training of justice sector personnel. But according to the [European Commission’s Kosovo Progress Report of 2018](https://ec.europa.eu/neighbourhood-enlargement/sites/near/files/20180417-kosovo-report.pdf), most Kosovars still see the judiciary in Kosovo as compromised by corruption and justice institutions as unprepared to serve people’s needs. 
+*A relatively young nation, Kosovo has implemented significant reforms in its justice sector, including in legislative drafting, institution building, and the training of justice sector personnel. But according to the [European Commission’s Kosovo Progress Report of 2018](https://ec.europa.eu/neighbourhood-enlargement/sites/near/files/20180417-kosovo-report.pdf), most Kosovars still see the judiciary in Kosovo as compromised by corruption and justice institutions as unprepared to serve people’s needs.* 
 
-To address these challenges, Kosovo launched the Functional Review of the Justice Sector (FRRLS), a process intended to analyze the rule-of-law sector and develop a national strategy to enhance it. The process is led by Kosovo’s Ministry of Justice, with a steering committee made up of representatives from key rule-of-law institutions, including the international donor community. 
-
-
+*To address these challenges, Kosovo launched the Functional Review of the Justice Sector (FRRLS), a process intended to analyze the rule-of-law sector and develop a national strategy to enhance it. The process is led by Kosovo’s Ministry of Justice, with a steering committee made up of representatives from key rule-of-law institutions, including the international donor community.*
 
 
 
-DAI helps coordinate the FRRLS process through the European Commission-funded project called “Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo.” Former Ministry of Justice staffer and anti-corruption expert Ehat Miftaraj was integral to that effort. One year after the project’s inception in 2018, we sat down with him to learn more about its findings, its recommendations, and the prospects for meaningful justice sector reform in Kosovo.
+
+*DAI helps coordinate the FRRLS process through the European Commission-funded project called “Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo.” Former Ministry of Justice staffer and anti-corruption expert Ehat Miftaraj was integral to that effort. One year after the project’s inception in 2018, we sat down with him to learn more about its findings, its recommendations, and the prospects for meaningful justice sector reform in Kosovo.*
 
 Can you tell us a little about the FRRLS process?
 The Government of Kosovo launched its functional review in 2016. Since the process involves so many technical areas and organizations, we broke it into phases. The first phase analyzed seven “pillars,” or key aspects of judicial reform, which were in turn identified by working groups representing the Ministry of Justice, the Kosovo Judicial Council, the Kosovo Prosecutorial Council, judges, prosecutors, police, other law enforcement agencies, and civil society and international stakeholders. The second phase, beginning in 2018, focused on deeper analysis of prioritized policy areas which were discussed during stakeholder workshops. All told, the process yielded 16 policy papers, of which DAI led the drafting of eight. These papers should significantly shape the forthcoming rule of law strategy in Kosovo.
