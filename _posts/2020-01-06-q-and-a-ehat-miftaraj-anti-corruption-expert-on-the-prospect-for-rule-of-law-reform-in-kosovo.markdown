@@ -3,6 +3,10 @@ title: 'Q&A: Ehat Miftaraj, Anti-Corruption Expert, on the Prospect for Rule-of-
   Reform in Kosovo'
 date: 2020-01-06 13:52:00 -05:00
 published: false
+tags:
+- governance
+- global-development
+- stability
 author: "[Chantal Agarwal](https://www.dai.com/who-we-are/our-team/chantal-agarwal)
   and [Gabriela Georgieva](https://www.linkedin.com/in/gabrielavgeorgieva/)"
 thumbnail-image: "/uploads/DSC_0097-472ad3.JPG"
