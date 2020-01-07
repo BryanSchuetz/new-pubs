@@ -45,6 +45,8 @@ publication: Developments
 
 “A simple but critical example is the capacity of judges to understand and apply the law. To uphold high standards among the judiciary and ensure fairness for the people of Kosovo, we must be able to hold judges accountable for the quality of their work. For example, the Kosovo Judicial Council is legally obligated to conduct performance evaluations of judges. This requirement should have entailed some 117 evaluations in 2018; in reality, only 64 judges were evaluated. Furthermore, we found not a single case in which a Kosovo Judicial Council member was subject to disciplinary proceedings—despite allegations by civil society watchdogs that KJC members have engaged in activities that might merit such proceedings. The good news is that if we can strengthen accountability and oversight, then real advances in Kosovo’s justice system are within our grasp.”
 
+![Reduced-Cases (4).jpg](/uploads/Reduced-Cases%20(4).jpg)
+
 **Based on the researchers’ recommendations, what can Kosovar justice institutions and civil society do to support the rule-of-law strategy in Kosovo?**
 
 “First, we need a united front. Justice institutions and civil society need to come together around a shared commitment to dialogue and cooperation in monitoring and implementing the strategy. Unfortunately, we see significant mistrust between these two groups, and we need to overcome that. One way to build trust is to help justice institutions and civil society representatives express their respective opinions in public debates regarding the strategy and its implementation. Such public debate ought to be substantive, aimed at problem-solving and building knowledge and trust in justice institutions.” 
