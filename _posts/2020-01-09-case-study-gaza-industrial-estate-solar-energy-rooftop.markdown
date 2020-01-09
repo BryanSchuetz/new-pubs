@@ -1,13 +1,20 @@
 ---
 title: 'Case Study: Gaza Industrial Estate Solar Energy Rooftop'
 date: 2020-01-09 10:56:00 -05:00
-author: Till Bruett
+published: false
+tags:
+- environment-and-energy
+- solar
+- finance
+- blended finance
+- sustainable-business
+author: "[Till Bruett](https://www.dai.com/who-we-are/our-team/till-bruett)"
+thumbnail-image: "/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg"
 social-image: "/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg"
 publication: Developments
 ---
 
 The [Gaza Industrial Estate](https://www.piefza.ps/pfs/en/industrial-cities/gaza-industrial-estate-gie/) was built to accommodate 33 industrial and commercial businesses and 2,000 workers, providing water, electricity, sewage, etc. It has consistently operated at half capacity in part because of a failure to maintain power. The Gaza Electricity Distribution Company, the sole electricity distributor in Gaza, faces sustained energy shortages, largely due its electricity supply from Israel. Political and security issues impede agreement on this link, making the supply of energy unreliable and unpredictable. Enterprises in the industrial area must either shut down their operations during electricity blackouts or generate their own electricity via cost-probative private (mostly diesel) generators.  
-
 
 
 
