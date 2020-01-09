@@ -8,6 +8,8 @@ tags:
 - global-development
 author: "[Mazan Asad](https://www.linkedin.com/in/mazen-asad-05459210/) and [Till
   Bruett](https://www.dai.com/who-we-are/our-team/till-bruett)"
+thumbnail-image: "/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg"
+social-image: "/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg"
 publication: Developments
 ---
 
@@ -77,6 +79,6 @@ Development impact bonds are a relatively new mechanism in results-based financi
 An initial commitment of private capital in the amount of $1.8 million was secured from the Palestine Investment Fund (PIF), the European Bank for Reconstruction and Development (EBRD), the Netherlands Development Finance Company, and Invest Palestine through the Chilean-Palestinian Diaspora Investment Fund, “Semilla de Olivo.” The World Bank West Bank and Gaza Trust Fund has committed up to $5 million as the outcome funder, to be paid through the Ministry of Finance upon the successful completion of the project. For accepting the performance risk, these funders could receive up to a 15 percent return if the desired outcomes are 100 percent achieved. However, the expected return is between 5 and 15 percent, given the difficulty of fully implementing the project.   
 
 Monitoring and evaluation of the bond implementation is critical and will fall to the F4J project. Specific outputs and outcomes that will be measured include the number of beneficiaries that complete training, their placement into an apprenticeship/internship/work-based training scheme, and their ultimate employment. The bond, launched in November 2019, took two years to design with the technical support of [Social Finance UK](https://www.socialfinance.org.uk/). 
-By testing out different blended approaches to job creation, F4J is setting the stage for the next generation of larger investments by the World Bank and others.  F4J will continue to adapt, test and iterate different approaches, and track the results of each so that the broader development finance community can be part of the learning on how to do innovative finance in conflict-affected states.  
+By testing out different blended approaches to job creation, F4J is setting the stage for the next generation of larger investments by the World Bank and others. F4J will continue to adapt, test and iterate different approaches, and track the results of each so that the broader development finance community can be part of the learning on how to do innovative finance in conflict-affected states.  
 
 *[Mazan Asad](https://www.linkedin.com/in/mazen-asad-05459210/) is F4J’s Project Manager and [Till Bruett](https://www.dai.com/who-we-are/our-team/till-bruett) is DAI’s Global Practice Leader in Financial Services and Investment.*
