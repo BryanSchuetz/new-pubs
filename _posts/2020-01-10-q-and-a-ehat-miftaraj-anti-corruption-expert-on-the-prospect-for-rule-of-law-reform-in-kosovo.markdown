@@ -24,7 +24,7 @@ publication: Developments
 
 
 
-![Ehati.jpg](/uploads/Ehati.jpg){:.float-left}*DAI helps coordinate the FRRLS process through the European Commission-funded project—Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo. Former Ministry of Justice staffer and anti-corruption expert Ehat Miftaraj was integral to that effort. A year after the project’s inception in 2018, we sat down with him to learn more about its findings, its recommendations, and the prospects for meaningful justice sector reform in Kosovo.*
+![Ehati.jpg](/uploads/Ehati.jpg){:.float-left}*DAI helps advance the FRRLS process through the European Commission-funded project—Support to the Functional Review and Sector Strategy Development for the Rule of Law Sector in Kosovo. Former Ministry of Justice staffer and anti-corruption expert Ehat Miftaraj was integral to that effort. A year after the project’s inception in 2018, we sat down with him to learn more about its findings, its recommendations, and the prospects for meaningful justice sector reform in Kosovo.*
 
 **Can you tell us a little about the FRRLS process?**
 
