@@ -15,7 +15,7 @@ social-image: "/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg"
 publication: Developments
 ---
 
-The [Gaza Industrial Estate](https://www.piefza.ps/pfs/en/industrial-cities/gaza-industrial-estate-gie/) was built to accommodate 100 industrial and commercial businesses and 5,000 workers, providing water, electricity, sewage, etc. It has consistently operated at half capacity in part because of a failure to maintain power. The Gaza Electricity Distribution Company, the sole electricity distributor in Gaza, faces sustained energy shortages, largely due its electricity supply from Israel. Political and security issues impede agreement on this link, making the supply of energy unreliable and unpredictable. Enterprises in the industrial area must either shut down their operations during electricity blackouts or generate their own electricity via cost-probative private (mostly diesel) generators.  
+The [Gaza Industrial Estate](https://www.piefza.ps/pfs/en/industrial-cities/gaza-industrial-estate-gie/) was built to accommodate 100 industrial and commercial businesses and 5,000 workers, providing water, electricity, sewage, and so on. It has consistently operated at half capacity, in part because of a failure to maintain power. The Gaza Electricity Distribution Company, the sole electricity distributor in Gaza, faces sustained energy shortages, largely due to its electricity supply from Israel. Political and security issues impede agreement on this link, making the supply of energy unreliable and unpredictable. Enterprises in the industrial area must either shut down their operations during electricity blackouts or generate their own electricity via cost-prohibitive private (mostly diesel) generators.  
 
 
 
