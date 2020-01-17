@@ -20,7 +20,7 @@ The [Gaza Industrial Estate](https://www.piefza.ps/pfs/en/industrial-cities/gaza
 
 
 
-The Palestine Real Estate Investment Co (PRICO)’s proposed $11.5 million project to install solar panels on the rooftops of the factory and warehouse facilities will generate up to seven megawatts (7 million watts per hour) of electricity. It will also be the first fully domestic, renewable, and environmentally friendly source of electricity in Palestine. This project would allow the Gaza Industrial Estate to generate enough electricity to extend to new tenants and to meet existing tenants’ needs for two to three daily shifts of operation. 
+The Palestine Real Estate Investment Co (PRICO)’s proposed $11.5 million project to install solar panels on the rooftops of the factory and warehouse facilities will generate up to seven megawatts of electric capacity. It will also be the first fully domestic, renewable, and environmentally friendly source of electricity in Palestine. This project would allow the Gaza Industrial Estate to generate enough electricity to absorb new tenants and to meet existing tenants’ needs for two to three daily shifts of operation. 
 
 The solar project makes clear commercial sense in a market with significant unmet demand for electricity and the International Finance Corporation (IFC) was prepared to provide a $7 million loan to cover the majority of the cost. The project was estimated to yield an internal rate of return of 6 percent over 10 years to investors. But 6 percent is below investors’ hurdle rate of 10 percent, given the risky environment combined with a relatively long payoff period of 10 years.
 
