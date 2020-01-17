@@ -30,4 +30,4 @@ To evaluate a co-financing grant for the project, F4J and the IFC calculated its
 
 Based on these figures, F4J provided a $2 million grant to match PRICO’s investment of $2.9 million. The grant provided the remaining funding for the project and financing costs and ultimately will enable PRICO to achieve an 11 percent return and entice it to finance the project.
 
-The financing package [won an award](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) from the World Bank. 
+The financing package [was selected](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) for the 2019 World Bank President’s Award for Excellence. 
