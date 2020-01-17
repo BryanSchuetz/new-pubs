@@ -1,6 +1,6 @@
 ---
-title: 'Case Study: Gaza Industrial Estate Solar Energy Rooftop'
-date: 2020-01-09 10:56:00 -05:00
+title: 'Blended Finance Case Study: Gaza Industrial Estate Solar Energy Rooftop'
+date: 2020-01-17 10:56:00 -05:00
 published: false
 tags:
 - environment-and-energy
