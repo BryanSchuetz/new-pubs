@@ -22,7 +22,7 @@ If the world were represented by 10 people in a room, seven would be of working 
 
 Jobs are particularly important in fragile and conflict-affected states, such as Palestine, or states that have a history of chronic violence, because employment opportunities help create greater social cohesion and stability; more people have a stake in a stable today and can focus their energies on building a better tomorrow.     
     
-In partnership with the Palestinian Ministry of Finance, DAI was brought in in 2016 to test three approaches to using finance for private sector job creation in the midst of conflict. Since it began, the DAI-led [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) project has created about 100 jobs and mobilized $8.3 million in financing for small- and medium-sized enterprise (SME) investment while finding innovative ways to fund job creation.   
+In partnership with the Palestinian Ministry of Finance, DAI was brought in in 2016 to test three approaches to using finance for private sector job creation in the midst of conflict. Since it began, the DAI-led [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) project, funded by the World Bank, has created about 100 jobs and mobilized $8.3 million in financing for small- and medium-sized enterprise (SME) investment while finding innovative ways to fund job creation.   
 
 ### Palestine’s Job Challenge 
 
