@@ -1,7 +1,6 @@
 ---
 title: Blended Finance Tools Offer a New Approach to an Old Problem
 date: 2020-01-17 13:16:00 -05:00
-published: false
 tags:
 - blended finance
 - finance
