@@ -38,6 +38,8 @@ In a survey done of private companies in Palestine, respondents highlighted the 
 
 In addition to investment constraints, job growth driven by entrepreneurs is limited by the high number of unprepared—and even unwilling—entrepreneurs. Of the 20 percent of working Palestinians who are self-employed, close to two-thirds are entrepreneurs out of necessity [rather than by choice](https://www.gemconsortium.org/economy-profiles/palestine). A 2018 F4J study showed that despite university degrees and capacity building efforts from support organizations, most Palestinian entrepreneurs lack the experience to manage a business and have limited skills to attract investors. On average only 1 percent of entrepreneurial ideas are considered for seed funding. Even among IT and internet startups—the favorites of investment funds—a vast majority are rejected for financing because they fail to fulfill the product acceptance criteria (that is, to meet client demands). And investors have little appetite beyond tech startups, leaving a range of businesses engaged in the “real economy” unfunded. 
 
+![Outline of Development Impact Bond Structure-01.jpg](/uploads/Outline%20of%20Development%20Impact%20Bond%20Structure-01.jpg)
+
 ### Mobilizing Finance for Jobs
 
 Under F4J, DAI is testing three approaches to financing employment, each of which addresses one or more of the challenges of employment in Palestine: 
