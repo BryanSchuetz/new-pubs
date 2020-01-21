@@ -11,8 +11,8 @@ tags:
 author: "[Brett Mallen](https://www.linkedin.com/in/brett-mallen-cfa-0780071/), [St
   John Bungey](https://www.linkedin.com/in/st-john-bungey-a0033813/), and [Kirsten
   Pfeiffer](https://www.dai.com/who-we-are/our-team/kirsten-pfeiffer)"
-thumbnail-image: "/uploads/cash-flow.jpg"
-social-image: "/uploads/cash-flow-5482d9.jpg"
+thumbnail-image: "/uploads/image005.png"
+social-image: "/uploads/image005.png"
 publication: Developments
 ---
 
