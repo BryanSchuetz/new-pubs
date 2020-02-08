@@ -10,7 +10,7 @@ tags:
 author: "[Craig Geddes](https://www.dai.com/who-we-are/our-team/craig-geddes)"
 thumbnail-image: "/uploads/Picture3.jpg"
 social-image: "/uploads/Picture3-38e0dd.jpg"
-publication: 'Developments '
+publication: Developments
 ---
 
 *“From better health to increased wealth, education is the catalyst of a better future for millions of children, youth, and adults. No country has ever climbed the socioeconomic development ladder without steady investments in education.”—Irina Bokova, Director-General of UNESCO*

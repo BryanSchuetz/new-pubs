@@ -12,8 +12,7 @@ layout: default
         {% endif %}
       {% endfor %}
       {% if series-tag %}
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag={{ series-tag | slugify }}">series</a> on youth employment in El Salvador.</p>
-      {% endif %}
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag={{ series-tag | slugify }}">series</a> on youth employment in El Salvador.</p>{%- endif -%}
     <div class="post-details">
       <p class="post-details--date">{{ page.date | date: "%b %-d, %Y" }}</p>
       <p class="post-details--byline">By {{page.author | markdownify | remove:'<p>' | remove:'</p>'}}</p>
