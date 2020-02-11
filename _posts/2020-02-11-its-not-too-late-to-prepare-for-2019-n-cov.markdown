@@ -2,7 +2,8 @@
 title: It’s Not Too Late to Prepare for 2019 n-CoV
 date: 2020-02-11 08:29:00 -05:00
 published: false
-author: By Lisa Stone and Robert Salerno
+author: "[Dr. Lisa Stone](https://www.dai.com/who-we-are/our-team/lisa-stone) and
+  [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno)"
 publication: Developments
 ---
 
@@ -32,7 +33,4 @@ Finally, a word on communication. Any large outbreak of a lethal disease is terr
 
 In sum, effective outbreak response happens because of the public, not despite it, and the toolkit will help you plan how to get them on board.
 
-Dr. Stone is a medical epidemiologist with DAI and has supported preparedness and response planning across the globe.
-
-Robert Salerno is a social epidemiologist and Director of DAI’s Global Health Security portfolio.
-Contact:  Robert_Salerno@dai.com
+*[Dr. Lisa Stone](https://www.dai.com/who-we-are/our-team/lisa-stone) is a medical epidemiologist with DAI and has supported preparedness and response planning across the globe. [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno) is a social epidemiologist and Director of DAI’s Global Health Security portfolio.*
