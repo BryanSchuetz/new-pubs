@@ -7,8 +7,8 @@ tags:
 - health security
 author: "[Dr. Lisa Stone](https://www.dai.com/who-we-are/our-team/lisa-stone) and
   [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno)"
-thumbnail-image: "/uploads/3D_medical_animation_coronavirus_structure.jpg"
-social-image: "/uploads/3D_medical_animation_coronavirus_structure-0f2f63.jpg"
+thumbnail-image: "/uploads/180607-F-OE991-1375-d4b851.jpeg"
+social-image: "/uploads/180607-F-OE991-1375-3f3535.jpeg"
 publication: Developments
 ---
 
