@@ -26,7 +26,8 @@ In short, [education engages](https://www.globalpartnership.org/results/educatio
 ![Picture2.jpg](/uploads/Picture2.jpg)`Photo courtesy: USAID Bridges to Employment.`
 
 Despite the positive impacts of education, however, young people are continuing to drop out of school. More than [200 million youth](http://uis.unesco.org/sites/default/files/documents/new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf) in the developing world have dropped out of school due to financial burdens, early marriage, violence, or competing demands in their environments, often becoming permanently lost to the education system and rarely returning to complete their studies. Once these students leave the classroom, over-stressed, under-resourced education systems are rarely able to provide adequate alternative opportunities for learning and achievement. 
-Once these young people have been “left behind,” their chance of economic success plummets. Studies show that youth who don’t complete their high school education end up working in lower-skilled jobs with reduced earning potential for the course of their adult lives. 
+
+Once these young people have been “left behind,” their chance of economic success plummets. Studies show that young people who don’t complete their high school education end up working in lower-skilled jobs with reduced earning potential for the course of their adult lives. 
 
 At the same time, national governments realize they must deal with the adverse impact that the education gap—the gap between the educated and the uneducated—has in terms of reduced earning power and GDP, increased stress on the social fabric, and greater demand on the safety nets for the most vulnerable. 
 
