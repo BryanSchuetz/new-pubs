@@ -4,6 +4,8 @@ date: 2020-02-11 08:29:00 -05:00
 published: false
 author: "[Dr. Lisa Stone](https://www.dai.com/who-we-are/our-team/lisa-stone) and
   [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno)"
+thumbnail-image: "/uploads/3D_medical_animation_coronavirus_structure.jpg"
+social-image: "/uploads/3D_medical_animation_coronavirus_structure-0f2f63.jpg"
 publication: Developments
 ---
 
