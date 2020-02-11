@@ -15,13 +15,13 @@ publication: Developments
 
 *“From better health to increased wealth, education is the catalyst of a better future for millions of children, youth, and adults. No country has ever climbed the socioeconomic development ladder without steady investments in education.”—Irina Bokova, Director-General of UNESCO*
 
-An effective education system is one of the most critical contributors to creating a safe, socially cohesive, economically empowered population and country. Across the developing world, government investment in education—in the form of policy reform, budget allocation, support to human capacity, and commitment to technical quality—has been [steadily increasing](https://ourworldindata.org/financing-education), as governments recognize the positive correlation between better education and improved economic and social indicators. Education [empowers the child](https://www.worldbank.org/en/news/immersive-story/2017/08/22/educating-girls-ending-child-marriage) and the family, while also directly improving the country’s outputs, as a whole. A strong education system builds a foundation that ensures children, youth, families and communities have the tools they truly need to not just survive, but thrive, in their environments. Increased commitment to education consistently reduces violence, gang presence, and teenage pregnancy rates; bolsters positive health practices and resilience; raises earning power; creates more stable households; and, at the macro-level, raises production in industry, tourism, and GDP. Each additional year of schooling raises average annual gross domestic product growth by 0.37 percent. As the World Bank reports, one year of extra education can increase a women’s earning potential by up to 20 percent. Education positively correlates to economics and earning.
-
-
-
-
+An effective education system is one of the most critical contributors to creating a safe, socially cohesive, economically empowered population and country. Across the developing world, government investment in education—in the form of policy reform, budget allocation, support to human capacity, and commitment to technical quality—has been [steadily increasing](https://ourworldindata.org/financing-education), as governments recognize the positive correlation between better education and improved economic and social indicators. Education [empowers the child](https://www.worldbank.org/en/news/immersive-story/2017/08/22/educating-girls-ending-child-marriage) and the family, while also directly improving the country’s outputs, as a whole. 
 
 In short, [education engages](https://www.globalpartnership.org/results/education-data-highlights), equips, and empowers the next generation. 
+
+
+
+
 
 ![Picture2.jpg](/uploads/Picture2.jpg)`Photo courtesy: USAID Bridges to Employment.`
 
