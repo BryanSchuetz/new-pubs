@@ -1,11 +1,10 @@
 ---
 title: It’s Not Too Late to Prepare for 2019 n-CoV
 date: 2020-02-11 08:29:00 -05:00
-published: false
 tags:
 - global-health
-- health systems strengthening
 - resilience
+- health security
 author: "[Dr. Lisa Stone](https://www.dai.com/who-we-are/our-team/lisa-stone) and
   [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno)"
 thumbnail-image: "/uploads/3D_medical_animation_coronavirus_structure.jpg"
