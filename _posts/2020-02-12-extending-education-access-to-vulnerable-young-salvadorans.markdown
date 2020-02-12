@@ -1,7 +1,6 @@
 ---
 title: Extending Education Access to Vulnerable Young Salvadorans
 date: 2020-02-12 07:00:00 -05:00
-published: false
 tags:
 - governance
 - resilience
