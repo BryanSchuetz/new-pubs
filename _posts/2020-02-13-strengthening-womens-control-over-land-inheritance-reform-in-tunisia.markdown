@@ -3,6 +3,8 @@ title: 'Strengthening Women’s Control Over Land: Inheritance Reform in Tunisia
 date: 2020-02-13 13:13:00 -05:00
 published: false
 author: Victor Tanner
+thumbnail-image: "/uploads/landsape-1000669%20(1).jpg"
+social-image: "/uploads/landsape-1000669%20(1).jpg"
 publication: Developing Alternatives
 ---
 
@@ -34,6 +36,8 @@ The parliamentary and presidential elections that took place in the fall of 2019
 
 Ennahda, in fact, seized on the inheritance reform issue to successfully mobilize political support in rural and conservative areas. Many Ennahda opponents, even if they support the notion of inheritance equality, blame the proposed reform for the electoral debacle of progressive forces. “There are so many things to do without further exacerbating divisions within society,” a leading progressive journalist interviewed by DAI said recently. “Especially at a time when there is already so much division.”
 
+![landsape-1000669 (1)-a4e665.jpg](/uploads/landsape-1000669%20(1)-a4e665.jpg)`Sprawling Tunisian lands. Photo Courtesy: dali style/pexels.com.`
+
 ### Land Inheritance Practice Abuses Women
 
 But if inheritance reform is likely to remain on a political backburner for the foreseeable future, the issue remains critical to the social and economic empowerment of rural women in Tunisia. Because the practice of inheritance in Tunisia discriminates against women, and rural women in particular, in ways that go well beyond what is in the Quran.  
@@ -49,6 +53,8 @@ Divorced women or women who, for one reason or another, often having to do with 
 A further issue compounds these inequities. When it comes to land, rural women are [often unaware](https://www.reuters.com/article/us-tunisia-women-landrights-feature/get-land-from-your-husbands-tunisia-divided-over-equal-inheritance-for-women-idUSKCN1QP13F) of their rights—especially their rights to recourse—and unlikely to challenge the men in their families who manage the land. In the words of a lawyer we interviewed in the conservative town of Kasserine, near the Algerian border, “Women are under the protection of their husbands—and at their mercy.” He went on to add that, “In practice, no woman [in the Kasserine area] has rights when it comes to land—practically, she is given nothing at all.” These sentiments echo a [2016 UN report](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_627210.pdf) on Tunisia: “The predominance of a patriarchal culture in society means that women cannot even claim their [land] rights.”
 
 These forms of inequity in inheritance are in general more egregious when it comes to land, because of how society views land as critical to group identity, sense of self, and honor. These views are held by the great majority of men in rural areas, and also by many rural women. Older women often look on without protest as their daughters or nieces are locked out of their deceased husbands’ or brothers’ inheritance. “I am for equality,” said a middle-aged rural woman outside Le Kef, in northwestern Tunisia, mentioning that she thinks her daughters should get as much as her son. “But my brother is against [it], as are most women around me. It is rare to be like me.”
+
+![The_perseverance_of_tunisian_women_-_مثابرة_المرأة_التونسية_-_la_persévérance_des_femmes_tunisiennes_01.jpg](/uploads/The_perseverance_of_tunisian_women_-_%D9%85%D8%AB%D8%A7%D8%A8%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%94%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9_-_la_perse%CC%81ve%CC%81rance_des_femmes_tunisiennes_01.jpg)`The perseverance of Tunisian women. Photo courtesy Ali bannour, 2018.`
 
 ### The Debate Over Parity in Inheritance 
 
