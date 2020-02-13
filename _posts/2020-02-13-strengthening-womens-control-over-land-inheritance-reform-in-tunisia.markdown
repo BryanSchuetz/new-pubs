@@ -2,6 +2,11 @@
 title: 'Strengthening Women’s Control Over Land: Inheritance Reform in Tunisia'
 date: 2020-02-13 13:13:00 -05:00
 published: false
+tags:
+- land rights
+- land tenure
+- women
+- economic-growth
 author: Victor Tanner
 thumbnail-image: "/uploads/landsape-1000669%20(1).jpg"
 social-image: "/uploads/landsape-1000669%20(1).jpg"
