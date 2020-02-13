@@ -28,7 +28,7 @@ As a way of securing his influence, Jammeh had systematically targeted then-powe
 
 The truth as to why and how abuses were instigated—and by whom—is scattered into many pieces; an independent [Truth Reconciliation Reparations Commission (TRRC)](https://en.wikipedia.org/wiki/Truth,_Reconciliation_and_Reparations_Commission) is endeavouring to establish the facts based on publicly broadcast witness testimony. Although not a court of law, the commission will make recommendations for executive actions once the process is complete. What is clear is that trust—among the security institutions, across government, and between the security sector and the public—was damaged. 
 
-![gambia WORKSHOP DAY 1 (8 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(8%20of%20183).jpg)`Workshop with police force in The Gambia. Photo couresty: EU.`
+![gambia WORKSHOP DAY 1 (8 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(8%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: EU.`
 
 ### Security Community—Victim of the Regime
 
@@ -50,7 +50,7 @@ At present, the Gambian security and intelligence community’s ability to condu
 
 Project Trust is focusing on two key areas: security vetting and counterterrorism. Between January and April 2019, DAI developed a Security Vetting Implementation Plan with national and EU stakeholders. With the national agencies’ buy-in, Project Trust is now tasked with implementing its recommendations. To support these efforts, SBC organized in September 2019 a study trip for select officials to Kosovo, which has many similarities with The Gambia both in terms of demography and, most importantly, the process of security sector reform. 
 
-![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo couresty: EU.`
+![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: EU.`
 
 Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is strongly dependent on tourism, which provides 20 percent of GDP annually. 
 In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “whole-of-society approach,” it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
