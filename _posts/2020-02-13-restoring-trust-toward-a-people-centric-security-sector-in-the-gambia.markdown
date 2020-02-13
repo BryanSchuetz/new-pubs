@@ -40,7 +40,7 @@ Instead, the regime fomented a culture of nepotism, corruption, distrust, and su
 
 SBC1 started in September 2018 with the objective to support sustainable, inclusive growth and democratic and economic governance in The Gambia. The project works across four components—public finance management and procurement, statistical data management, business environment issues, and security sector reform—each managed in close cooperation with its key stakeholder: namely, the Gambian Public Procurement Agency; The Gambia Bureau of Statistics; the Ministry of Trade, Industry, Regional Integration and Employment; and the National Security Adviser Office.
 
-Initially, SBC’s security sector work focused on the development of a national security strategy and a security sector reform strategy. Additional activities involved police reform and vetting for security institutions. But in July 2019, the EU Delegation and the National Security Advisor in the Office of the President approved a comprehensive plan called Project Trust. 
+Initially, SBC’s security sector work focused on the development of a [national security strategy and a security sector reform strategy](http://www.trrc.gm/). Additional activities involved police reform and vetting for security institutions. But in July 2019, the EU Delegation and the National Security Advisor in the Office of the President approved a comprehensive plan called Project Trust. 
 
 Project Trust signals a more practical and more challenging phase of SBC’s security sector reform efforts. It works with the security community to rebuild trust in security sector personnel through national vetting processes; build faith in the integrity of its knowledge by means of multiagency intelligence analysis; bolster confidence in its counter-terrorism strategy and contingency plans; and reassure key partners of its preparedness by holding multiagency simulation exercises.
  
@@ -52,8 +52,8 @@ Project Trust is focusing on two key areas: security vetting and counterterroris
 
 ![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: EU.`
 
-Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is strongly dependent on tourism, which provides 20 percent of GDP annually. 
-In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “whole-of-society approach,” it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
+Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is [strongly dependent](https://www.trade.gov/export-solutions) on tourism, which provides 20 percent of GDP annually. 
+In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “[whole-of-society”](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0643&from=EN) approach, it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
 
 **The 4 Ps of Counterterrorism**
 
