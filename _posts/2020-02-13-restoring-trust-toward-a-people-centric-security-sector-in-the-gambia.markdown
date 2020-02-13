@@ -2,6 +2,10 @@
 title: 'Restoring Trust: Toward a People-Centric Security Sector in The Gambia'
 date: 2020-02-13 09:55:00 -05:00
 published: false
+tags:
+- fragile-states
+- stability
+- governance
 author: "[Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/)"
 thumbnail-image: "/uploads/gambia%20social.jpg"
 social-image: "/uploads/gambia%20social.jpg"
@@ -51,11 +55,13 @@ Project Trust is focusing on two key areas: security vetting and counterterroris
 Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is strongly dependent on tourism, which provides 20 percent of GDP annually. 
 In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “whole-of-society approach,” it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
 
-The 4 Ps of Counterterrorism
+**The 4 Ps of Counterterrorism**
+
 * Prevent people from becoming involved in terrorist activity.
 * Pursue terrorists by detecting, prosecuting, and otherwise disrupting those who plot attacks. 
 * Protect border security, the transport system, critical infrastructure, and public places.
 * Prepare to mitigate the impact of an attack if it cannot be stopped.
+
 *Source: CONTEST, The United Kingdom’s Strategy for Countering Terrorism, June 2018*
 
 ### Small Steps Quickly 
