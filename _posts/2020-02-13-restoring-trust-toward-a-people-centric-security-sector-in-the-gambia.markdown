@@ -74,4 +74,4 @@ Security sector reform in The Gambia will no doubt entail difficult decisions an
 
 The security community itself demands reform and is unfazed by the obstacles. They are determined to keep taking small steps, but moving quickly toward a more comprehensive, people-centric security. These are strong foundations on which to build.
 
-DAI’s [Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/) is SBC’s Security Sector Reform Expert. 
+*DAI’s [Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/) is SBC’s Security Sector Reform Expert.*
