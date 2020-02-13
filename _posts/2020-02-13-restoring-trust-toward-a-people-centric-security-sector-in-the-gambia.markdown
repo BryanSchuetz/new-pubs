@@ -68,19 +68,10 @@ In addition to bolstering the security and intelligence agencies’ ability to d
  </p>
 </aside>
 
-**The 4 Ps of Counterterrorism**
-
-* Prevent people from becoming involved in terrorist activity.
-* Pursue terrorists by detecting, prosecuting, and otherwise disrupting those who plot attacks. 
-* Protect border security, the transport system, critical infrastructure, and public places.
-* Prepare to mitigate the impact of an attack if it cannot be stopped.
-
-*Source: CONTEST, The United Kingdom’s Strategy for Countering Terrorism, June 2018*
-
 ### Small Steps Quickly 
 
 Security sector reform in The Gambia will no doubt entail difficult decisions and present both risks and opportunities. [Similar projects in Africa](https://issat.dcaf.ch/mkd/Learn/Resource-Library/Books/Governance-in-Post-Conflict-Societies-Rebuilding-Fragile-States) and elsewhere have had to unfold over a generation or more because it takes that long to unwind the mindsets and behaviours of security sector actors co-opted by dictators. At the risk of sounding complacent, this does not appear to be the case in The Gambia. Rather, it’s as though the security institutions themselves have been held hostage for 22 years, and, on release, immediately returned to ways more in line with wider Gambian society.  
 
 The security community itself demands reform and is unfazed by the obstacles. They are determined to keep taking small steps, but moving quickly toward a more comprehensive, people-centric security. These are strong foundations on which to build.
 
-DAI’s [Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/) is SBC’s Security Sector Reform Expert. 
+*DAI’s [Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/) is SBC’s Security Sector Reform Expert.*
