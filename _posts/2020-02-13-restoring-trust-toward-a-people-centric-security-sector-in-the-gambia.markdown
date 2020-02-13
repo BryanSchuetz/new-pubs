@@ -28,7 +28,7 @@ As a way of securing his influence, Jammeh had systematically targeted then-powe
 
 The truth as to why and how abuses were instigated—and by whom—is scattered into many pieces; an independent [Truth Reconciliation Reparations Commission (TRRC)](https://en.wikipedia.org/wiki/Truth,_Reconciliation_and_Reparations_Commission) is endeavouring to establish the facts based on publicly broadcast witness testimony. Although not a court of law, the commission will make recommendations for executive actions once the process is complete. What is clear is that trust—among the security institutions, across government, and between the security sector and the public—was damaged. 
 
-![gambia WORKSHOP DAY 1 (8 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(8%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: EU.`
+![gambia WORKSHOP DAY 1 (8 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(8%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: Zikodev Multimedia.`
 
 ### Security Community—Victim of the Regime
 
@@ -40,7 +40,7 @@ Instead, the regime fomented a culture of nepotism, corruption, distrust, and su
 
 SBC1 started in September 2018 with the objective to support sustainable, inclusive growth and democratic and economic governance in The Gambia. The project works across four components—public finance management and procurement, statistical data management, business environment issues, and security sector reform—each managed in close cooperation with its key stakeholder: namely, the Gambian Public Procurement Agency; The Gambia Bureau of Statistics; the Ministry of Trade, Industry, Regional Integration and Employment; and the National Security Adviser Office.
 
-Initially, SBC’s security sector work focused on the development of a national security strategy and a security sector reform strategy. Additional activities involved police reform and vetting for security institutions. But in July 2019, the EU Delegation and the National Security Advisor in the Office of the President approved a comprehensive plan called Project Trust. 
+Initially, SBC’s security sector work focused on the development of a [national security strategy and a security sector reform strategy](http://www.trrc.gm/). Additional activities involved police reform and vetting for security institutions. But in July 2019, the EU Delegation and the National Security Advisor in the Office of the President approved a comprehensive plan called Project Trust. 
 
 Project Trust signals a more practical and more challenging phase of SBC’s security sector reform efforts. It works with the security community to rebuild trust in security sector personnel through national vetting processes; build faith in the integrity of its knowledge by means of multiagency intelligence analysis; bolster confidence in its counter-terrorism strategy and contingency plans; and reassure key partners of its preparedness by holding multiagency simulation exercises.
  
@@ -50,10 +50,23 @@ At present, the Gambian security and intelligence community’s ability to condu
 
 Project Trust is focusing on two key areas: security vetting and counterterrorism. Between January and April 2019, DAI developed a Security Vetting Implementation Plan with national and EU stakeholders. With the national agencies’ buy-in, Project Trust is now tasked with implementing its recommendations. To support these efforts, SBC organized in September 2019 a study trip for select officials to Kosovo, which has many similarities with The Gambia both in terms of demography and, most importantly, the process of security sector reform. 
 
-![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: EU.`
+![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: Zikodev Multimedia.`
 
-Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is strongly dependent on tourism, which provides 20 percent of GDP annually. 
-In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “whole-of-society approach,” it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
+Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is [strongly dependent](https://www.trade.gov/export-solutions) on tourism, which provides 20 percent of GDP annually. 
+In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “[whole-of-society”](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0643&from=EN) approach, it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
+
+<aside>
+ <h2>The 4 Ps of Counterterrorism:</h2>
+ <ul>
+ <li>Prevent people from becoming involved in terrorist activity.</li>
+ <li>Pursue terrorists by detecting, prosecuting, and otherwise disrupting those who plot attacks.</li>
+ <li>Protect border security, the transport system, critical infrastructure, and public places.</li>
+ <li>Prepare to mitigate the impact of an attack if it cannot be stopped.</li>
+ </ul>
+ <p>
+ <em>Source: CONTEST, The United Kingdom’s Strategy for Countering Terrorism, June 2018</em>
+ </p>
+</aside>
 
 **The 4 Ps of Counterterrorism**
 
