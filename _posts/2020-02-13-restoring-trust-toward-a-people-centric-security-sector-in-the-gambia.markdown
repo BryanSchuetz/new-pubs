@@ -55,6 +55,19 @@ Project Trust is focusing on two key areas: security vetting and counterterroris
 Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is [strongly dependent](https://www.trade.gov/export-solutions) on tourism, which provides 20 percent of GDP annually. 
 In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “[whole-of-society”](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0643&from=EN) approach, it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
 
+<aside>
+ <h2>The 4 Ps of Counterterrorism:</h2>
+ <ul>
+ <li>Prevent people from becoming involved in terrorist activity.</li>
+ <li>Pursue terrorists by detecting, prosecuting, and otherwise disrupting those who plot attacks.</li>
+ <li>Protect border security, the transport system, critical infrastructure, and public places.</li>
+ <li>Prepare to mitigate the impact of an attack if it cannot be stopped.</li>
+ </ul>
+ <p>
+ <em>Source: CONTEST, The United Kingdom’s Strategy for Countering Terrorism, June 2018</em>
+ </p>
+</aside>
+
 **The 4 Ps of Counterterrorism**
 
 * Prevent people from becoming involved in terrorist activity.
