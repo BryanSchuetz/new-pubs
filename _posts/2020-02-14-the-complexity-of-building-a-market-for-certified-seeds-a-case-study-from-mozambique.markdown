@@ -74,7 +74,7 @@ But even as they started saving, seed availability remained a challenge for farm
 
 To better connect farmers with seed companies, in early 2016 InovAgro organized [seed fairs](https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree) to coincide with the distribution of FA savings to members. Bringing seed closer to farmers, at the time they had resources to buy inputs, stimulated FA members’ interest in making purchases. Many members reported that having a small initial sum of money allowed them to shop around the fairs to decide what seed varieties they wanted, and then use money from family members to purchase additional quantities. However, savings remained too small to translate into significant volumes of sales at the fairs, limiting the benefits of participation for seed companies and agro-dealers.  
 
-[seed fair.tif](/uploads/seed%20fair.tif)`InovaAgro seed fairs brought suppliers directly to VSLA members.`
+![Blog picture 3-f7c334.jpg](/uploads/Blog%20picture%203-f7c334.jpg)`Certified seeds on display.`
 
 By testing various methodologies, InovAgro learned many lessons from the first two cycles of the Fundo Agricola:
 
