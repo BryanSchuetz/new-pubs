@@ -7,7 +7,7 @@ tags:
 - market-systems-development
 - agriculture
 - economic-growth
-author: Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)
+author: "[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)"
 publication: Developing Alternatives
 ---
 
@@ -21,7 +21,8 @@ publication: Developing Alternatives
 
 
 ## Introduction to InvoAgro
-Since 2011, InovAgro has introduced various initiatives to stimulate private sector engagement with smallholder farmers. The project chose Mozambique’s seed sector as its main point of leverage because poor use of certified seeds was one of the biggest factors suppressing agricultural productivity.  InovAgro established strong relationships with leading seed companies to help them demonstrate the value of high-quality seeds and good agricultural practices to smallholders, aiming to build demand in this market. 
+
+Since 2011, InovAgro has introduced various initiatives to stimulate private sector engagement with smallholder farmers. The project chose Mozambique’s seed sector as its main point of leverage because poor use of certified seeds was one of the biggest factors suppressing agricultural productivity. InovAgro established strong relationships with leading seed companies to help them demonstrate the value of high-quality seeds and good agricultural practices to smallholders, aiming to build demand in this market. 
 
 However, farmers in Mozambique often struggle to afford seeds, other inputs, and labor at planting time. In July 2015, InovAgro launched a new intervention—the Fundo Agricola (FA)—to expand farmers’ capacity to save for seeds and other agricultural inputs by leveraging Mozambique’s existing village savings and loan associations (VSLAs). The FA provided a system for farmers to save in advance for the inputs they need to purchase at the beginning of each planting season. 
 
