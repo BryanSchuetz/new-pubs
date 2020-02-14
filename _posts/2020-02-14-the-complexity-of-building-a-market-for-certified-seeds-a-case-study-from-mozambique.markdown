@@ -31,6 +31,7 @@ Over the first four years of the intervention, more than 12,500 farmers particip
 ![Evolution-of-Members-Saving-and-Investment-in-Seeds- (2).jpg](/uploads/Evolution-of-Members-Saving-and-Investment-in-Seeds-%20(2).jpg)`Figure 1.`
 
 ## Background and Challenge: Financing Agricultural Inputs from Smallholder Farmers
+
 Farmer adoption of certified seeds and good agricultural practices are necessary for improving farmer productivity and increasing their income.  Building a market among smallholder farmers for seeds and other improved technologies requires both effective demand (enough farmers are willing to pay commercial rates for them) and an accessible supply. For many years, issues of seed availability and accessibility prevented this market’s development in Mozambique.
 
 Until 2012, the Government of Mozambique and various NGOs ensured the delivery of certified or improved seeds to targeted smallholders, either for free or at subsidized prices. Accordingly, private seed companies saw the government, not farmers, as their direct customer. Farmers were not used to paying for certified seeds and did not understand their full value proposition, keeping the effective demand for seed low. 
@@ -50,9 +51,11 @@ Some donors have established guarantee schemes to stimulate lending to farmers, 
 In addition to banks’ low appetite to lend, the regulations covering commercial financial institutions require farmers to provide identity cards and formal tax registration with a taxpayer number. Few smallholder farmers have this documentation.
 
 ## The Opportunity
+
 Rather than focus on access to external financing, InovAgro experimented with a mechanism to help farmers better manage their own financial resources. The project investigated options to strengthen farmer-based savings groups, exploring Mozambique’s existing model as an alternative strategy.
 
 ### Leveraging the VSLA and Seed Companies
+
 Since 2005, the Government of Mozambique, with funding from IFAD, has invested in developing the [VSLA model](http://www.vsla.net/aboutus/vslmodel;jsessionid=rq5nb5rpkdogbtyssg5au6vf) across the country to increase rural household financial security. The government supported local NGOs to promote the methodology in rural areas, and by 2014 more than 600,000 people had adopted the VSLA model. 
 
 InovAgro saw an opportunity to leverage these groups, which offer established good group dynamics, a savings culture, and financial literacy to manage the saving and credit process. The project could also leverage the NGOs that had experience facilitating the development of these groups.
@@ -60,9 +63,11 @@ InovAgro saw an opportunity to leverage these groups, which offer established go
 At the same time, seed companies were motivated to expand sales and interested in collaborating with InovAgro to promote their products to savings group members to develop a new customer base among buyers with cash. Combining these two opportunities to leverage local organizations, InovAgro decided to test the savings group concept with VSLAs and bring in local NGOs already experienced in the VSLA model as co-facilitators as a cost effective way of accelerating uptake.
 
 ## Design and Implementation
+
 After conducting rapid assessments of VSLAs and potential NGO partners, and receiving SDC approval in June 2015, InovAgro launched its “savings for seed” idea in the form of the Fundo Agricola. In the initial design, participating VSLAs would offer the FA as an optional addition to their existing two product lines (the savings and lending fund and the social fund). While the new fund would focus strictly on saving for seed and other inputs required at planting, the groups would maintain the autonomy to decide exactly how to use their savings.  
 
 ### Pilot Years (2015 and 2016)
+
 Initial work began in 2015 with a rapid pilot in Mocuba with Nana as the co-facilitator. The short time frame between the program’s approval in June and the start of the planting season in October proved challenging. While 1,039 VSLA members participated in the program, they saved a total of only 173,000 metical (MZN), about $5,000, at that time. With an average of 167 MZN (about $4) per person, members were not able to purchase much seed. Seed also companies found it difficult to interface with savings groups and expensive to service them. However, farmers’ interest in continuing the FA into 2016 remained high.
 
 ![InovAgro.jpg](/uploads/InovAgro.jpg)`The first Fundo Agricola distribution took place in November 2015.`
@@ -88,6 +93,7 @@ By testing various methodologies, InovAgro learned many lessons from the first t
 **Building a market takes time.** After two years, several issues remained. Farmers lacked understanding of the value of quality seeds and how much they needed to save to buy them. Seed companies were not yet sold on the individual purchasing power of smallholder farmers. Evolving supply and demand for certified seed among this population is a gradual, iterative process.
 
 ## Adaptation and Scale-up
+
 InovAgro continued adapting the FA product in 2017 to leverage the lessons learned from the first two years.
 
 ### 2017: Adaptation
@@ -125,6 +131,7 @@ Another important indicator of farmer enthusiasm for the program has been the st
 | Per person purchase of seed | $0.77 | $0.60 | $1.62 | $4.93 | $7.88 |
 
 ### Challenges from 2018 and 2019
+
 As uptake and interest in the FA have grown, InovAgro has learned a number of lessons about the challenges that remain, including:
 
 **Seed company limitations—planning, management, and distribution.** As the demand from farmers increases, seed companies are more interested in dealing with them. But companies are still constrained in their managerial and distribution channels. Sales in 20198 may have surpassed the $13759,5600 level, if the seed companies had more ability to respond to the demand. This ability is inhibited by: 
@@ -153,6 +160,6 @@ In 2020, InovAgro plans to be active in several areas:
 * *Having agro-dealers serve as agent bankers to manage savings plans and educate farmers.* Agent banking is starting to take off in Mozambique. The country’s central bank has created a conducive environment with adapted Know Your Client (KYC) definitions for lower-end clients (less than 5000 MZN) and the financial institutions who have developed Agent Banking models are interested in penetrating rural areas and bringing appropriate products closer to farmers. Agro-dealers who can qualify as agent bankers could help clients more carefully plan their savings to reflect their needs at planting time.
 * *Increasing linkages to the formal financial sector.* The financial institutions that promote agent banking are increasingly interested in reaching rural areas and serving as holders of FA savings. Because FA savings do not come and go through loans, funds can accrue large amounts of money, and that presents a safety risk. Groups could deposit their funds with banks for greater security. Financial institutions can also serve as intermediaries with seed companies and agro-dealers, helping to facilitate communication about FA group needs.  
 
-The Fundo Agricola is still in its infancy, but is growing, adapting, and maturing rapidly. Strong interest from participating communities demonstrates the fund’s value to smallholders.  Without changing the character of the original VSLA groups, the FA presents new opportunities to collaborate with formal financial institutions to improve the savings management and seed purchase process. InovAgro will continue to test various models for long-term sustainability that will evolve with the country’s financial industry and the seed sector in rural northern Mozambique. 
+The Fundo Agricola is still in its infancy, but is growing, adapting, and maturing rapidly. Strong interest from participating communities demonstrates the fund’s value to smallholders. Without changing the character of the original VSLA groups, the FA presents new opportunities to collaborate with formal financial institutions to improve the savings management and seed purchase process. InovAgro will continue to test various models for long-term sustainability that will evolve with the country’s financial industry and the seed sector in rural northern Mozambique. 
 
 ***[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)** is a Global Practice Specialist in Agriculture and Market Systems at DAI. He focuses on bringing new models of market-led, sustainable economic development to bear around the world.*
