@@ -53,6 +53,7 @@ Project Trust is focusing on two key areas: security vetting and counterterroris
 ![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: Zikodev Multimedia.`
 
 Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is [strongly dependent](https://www.trade.gov/export-solutions) on tourism, which provides 20 percent of GDP annually. 
+
 In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “[whole-of-society”](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0643&from=EN) approach, it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
 
 <aside>
@@ -74,4 +75,4 @@ Security sector reform in The Gambia will no doubt entail difficult decisions an
 
 The security community itself demands reform and is unfazed by the obstacles. They are determined to keep taking small steps, but moving quickly toward a more comprehensive, people-centric security. These are strong foundations on which to build.
 
-*DAI’s [Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/) is SBC’s Security Sector Reform Expert.*
+*DAI’s [Chris Jagger](https://www.linkedin.com/in/chris-jagger-2a12a130/) is SBC1’s Security Sector Reform Expert. DAI’s work on SBC1 draws lessons from across a multiclient portfolio that includes work to [reform the police and security](https://www.dai.com/our-work/projects/democratic-republic-congo-security-sector-accountability-and-police-reform) in the Democratic Republic of Congo, [enhance justice sector accountability](https://www.dai.com/our-work/projects/sierra-leone-access-security-and-justice-programme-asjp) in Sierra Leone, or [improve citizen engagement](https://www.dai.com/our-work/projects/honduras-united-for-justice) with the security and justice sectors in Honduras. DAI’s global expertise, knowledge, skills and research from these various projects feed our [Center for Secure and Stable States (CS3)](https://www.dai.com/our-work/solutions/fragile-states).*
