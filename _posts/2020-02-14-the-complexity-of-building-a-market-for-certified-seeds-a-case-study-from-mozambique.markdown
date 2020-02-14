@@ -7,7 +7,7 @@ tags:
 - market-systems-development
 - agriculture
 - economic-growth
-author: Bill Grant
+author: Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)
 publication: Developing Alternatives
 ---
 
