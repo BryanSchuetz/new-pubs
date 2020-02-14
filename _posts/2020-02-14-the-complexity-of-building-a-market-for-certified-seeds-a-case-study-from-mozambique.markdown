@@ -91,11 +91,12 @@ By testing various methodologies, InovAgro learned many lessons from the first t
 InovAgro continued adapting the FA product in 2017 to leverage the lessons learned from the first two years.
 
 ### 2017: Adaptation
+
 In 2017, new members steadily joined the FA, totaling 4,700 by the end of the year. Savings per member increased, nearly doubling from 170 MZN per person to 320 MZN per person and reaching $25,000 in total savings. The growth in average savings was a good sign of increasing demand for the service. 
 
 The main challenge left for InovAgro was the disconnect between seed companies and farmers. Information gaps remained on both the supply and demand sides: seed companies didn’t know how to locate the farmers with money, and farmers were not able to communicate their effective demand to the companies. 
 
-To address these gaps, InovAgro worked with the savings groups and their NGO co-facilitators to introduce district management committees (DMCs), made up of animators from the FA. DMCs could aggregate demand from the farmers to present requests to the seed companies, allowing smallholders to offer a sufficient volume of funds to interest companies in seeking them out as clients. 
+To address these gaps, InovAgro worked with the savings groups and their nongovernmental organization (NGO) co-facilitators to introduce district management committees (DMCs), made up of animators from the FA. DMCs could aggregate demand from the farmers to present requests to the seed companies, allowing smallholders to offer a sufficient volume of funds to interest companies in seeking them out as clients. 
 
 These aggregated funds would allow farmers to better negotiate with seed companies.  Later in 2017, the co-facilitators helped the DMCs to run a tender process to allow seed companies to propose prices for bulk orders and to negotiate other non-financial commitments (such as delivery schedules, locations, and extension services).  The committees negotiated deals to purchase more than $7,000 of certified seeds, the first time that savings volumes reached a critical mass. Meanwhile, members used their remaining funds to purchase the additional inputs and labor needed at planting.
 
