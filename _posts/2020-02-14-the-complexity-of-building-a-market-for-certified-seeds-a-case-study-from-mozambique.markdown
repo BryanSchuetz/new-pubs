@@ -7,7 +7,7 @@ tags:
 - market-systems-development
 - agriculture
 - economic-growth
-author: William Grant
+author: Bill Grant
 publication: Developing Alternatives
 ---
 
@@ -143,3 +143,5 @@ In 2020, InovAgro plans to be active in several areas:
 * *Increasing linkages to the formal financial sector.* The financial institutions that promote agent banking are increasingly interested in reaching rural areas and serving as holders of FA savings. Because FA savings do not come and go through loans, funds can accrue large amounts of money, and that presents a safety risk. Groups could deposit their funds with banks for greater security. Financial institutions can also serve as intermediaries with seed companies and agro-dealers, helping to facilitate communication about FA group needs.  
 
 The Fundo Agricola is still in its infancy, but is growing, adapting, and maturing rapidly. Strong interest from participating communities demonstrates the fund’s value to smallholders.  Without changing the character of the original VSLA groups, the FA presents new opportunities to collaborate with formal financial institutions to improve the savings management and seed purchase process. InovAgro will continue to test various models for long-term sustainability that will evolve with the country’s financial industry and the seed sector in rural northern Mozambique. 
+
+***[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)** is a Global Practice Specialist in Agriculture and Market Systems at DAI. He focuses on bringing new models of market-led, sustainable economic development to bear around the world.*
