@@ -29,7 +29,7 @@ Inheritance in Tunisia remains based on Islamic *Shari`a law*, which stipulates 
 
 (It is also worth pointing out that, in accordance with *Shari’a* law, any Tunisian can make pre-death arrangements for how his or her possessions are to be allotted after death—though not many people avail themselves of this solution, not least because of the cultural reluctance to plan for death.)
 
-Even modern Tunisia’s founding father, Habib Bourguiba, the charismatic leader who launched the multi-decade effort to bolster legal and economic rights of Tunisian women, who promoted the Personal Status Code and managed to outlaw polygamy, declined to take on the issue of inheritance, so deeply rooted is it in Tunisian society and Islamic culture. Bourguiba’s authoritarian successor, Zine el-Abidine Ben Ali, who ruled Tunisia with a fiercely anti-Islamist fist from 1987 until he was deposed by the [2011 uprising](https://en.wikipedia.org/wiki/Tunisian_Revolution), also kept a safe distance from the issue of female inheritance.
+Even modern Tunisia’s founding father, Habib Bourguiba, the charismatic leader who launched the multi-decade effort to bolster legal and economic rights of Tunisian women, who promoted the Personal Status Code and managed to outlaw polygamy, declined to take on the issue of inheritance, so deeply rooted is it in Tunisian society and Islamic culture. Bourguiba’s authoritarian successor, Zine el-Abidine Ben Ali, who ruled Tunisia with a fiercely anti-Islamist fist from 1987 until he was deposed by the 2011 uprising, also kept a safe distance from the issue of female inheritance.
 
 ### Inheritance and the 2019 Elections
 
