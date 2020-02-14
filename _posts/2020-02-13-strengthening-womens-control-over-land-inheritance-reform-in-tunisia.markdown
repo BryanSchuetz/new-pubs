@@ -85,7 +85,7 @@ Donors seeking to make a positive impact on the lives of rural women in Tunisia 
 
 Other research could investigate the issues around female inheritance to better understand some of its more practical aspects. For instance, what is the impact of current inheritance laws and practices, and potential reforms, on land holding fragmentation, a chronic and growing problem for Tunisian agriculture? Or what further forms of discrimination limit women’s access to land and control over it?
 
-![vic.jpg](/uploads/vic.jpg)`Photo courtesy Victor Tanner.`
+![vic.jpg](/uploads/vic.jpg)`Grain fields and rural road above Le Kef, fertile northwestern Tunisia, October 2019. Photo courtesy Victor Tanner.`
 
 There are also more immediate ways for aid projects to improve the lives of rural women and girls. One of the most pressing areas is the issue of women’s wage labor. Donors could, for instance, support efforts to extend social security and other coverage to these women, to better regulate wages (wage discrimination goes against article 46 of the Constitution), to ensure better conditions on the ground (for instance through regulations to improve the transport of farm workers and make it safer), and to curb abuses and violence against women farm workers.  
 
