@@ -98,18 +98,20 @@ The main challenge left for InovAgro was the disconnect between seed companies a
 
 To address these gaps, InovAgro worked with the savings groups and their nongovernmental organization (NGO) co-facilitators to introduce district management committees (DMCs), made up of animators from the FA. DMCs could aggregate demand from the farmers to present requests to the seed companies, allowing smallholders to offer a sufficient volume of funds to interest companies in seeking them out as clients. 
 
-These aggregated funds would allow farmers to better negotiate with seed companies.  Later in 2017, the co-facilitators helped the DMCs to run a tender process to allow seed companies to propose prices for bulk orders and to negotiate other non-financial commitments (such as delivery schedules, locations, and extension services).  The committees negotiated deals to purchase more than $7,000 of certified seeds, the first time that savings volumes reached a critical mass. Meanwhile, members used their remaining funds to purchase the additional inputs and labor needed at planting.
+These aggregated funds would allow farmers to better negotiate with seed companies. Later in 2017, the co-facilitators helped the DMCs to run a tender process to allow seed companies to propose prices for bulk orders and to negotiate other non-financial commitments (such as delivery schedules, locations, and extension services).  The committees negotiated deals to purchase more than $7,000 of certified seeds, the first time that savings volumes reached a critical mass. Meanwhile, members used their remaining funds to purchase the additional inputs and labor needed at planting.
 
 ### 2018: Scale-up
+
 Having tested the FA model and seeing strong results and interest from smallholder farmers, InovAgro decided to speed up the process of replication to add more members and rapidly expand the program’s benefits. Additional members would also increase the volume of savings and expand the market, generating still more interest from seed companies. 
 
-To achieve scale cost effectively and to deepen local capacity to initiate and manage FA opportunities, InovAgro needed co-facilitation partners in more locations. In early 2018, InovAgro contracted Ophavela to train five new co-facilitators  on the FA model and to develop an FA operations’ manual to share with other organizations. 
+To achieve scale cost effectively and to deepen local capacity to initiate and manage FA opportunities, InovAgro needed co-facilitation partners in more locations. In early 2018, InovAgro contracted Ophavela to train five new co-facilitators on the FA model and to develop an FA operations’ manual to share with other organizations. 
 
 Adding new local co-facilitators significantly increased FA membership, while bringing down costs of mobilization. With better functioning DMCs, engagement with seed companies also improved. Participant numbers surpassed 12,000. Total savings quintupled to $135,000 as farmers gained better understanding of the model. Average FA savings per member more than doubled from the previous year to 670 MZN ($11.17).  
 
 Seed purchases by FA groups increased eight-fold from $7,600 in 2017 to $59,600 in 2018, which is just the trajectory you would want to see from a market systems perspective as the demand for the seed increases and connections with suppliers improve. This was confirmed in 2019 as the total FA savings reached $257,837, and seed purchases more than doubled to $137,550.
 
 ## Fundo Agricola Results 
+
 The FA has seen increases in service uptake since its inception. Membership, savings, and total seed purchases have grown each year, including as a percentage of the savings. This trend suggests that the program is picking up speed and is responsive to smallholder farmers’ needs.
 
 Another important indicator of farmer enthusiasm for the program has been the steadily growing rate of individual savings per year, as shown in Table 1. Savings in metical have increased every year, although the dollar equivalent dropped in 2016 following a 50 percent devaluation of the new metical. The dollar equivalent has still increased overall, demonstrating that farmers see value in participating, and they are increasing their average purchase of seed each year. 
@@ -140,6 +142,7 @@ As uptake and interest in the FA have grown, InovAgro has learned a number of le
 **Managing replication and adaptation.** InovAgro’s goal is to expand uptake and replication of its model to meet smallholder needs. To address information asymmetries, InovAgro organized a learning session in January 2019 with members of the various DMCs, their co-facilitators, and the seed companies. Participants reviewed the FA’s operations and training manual and made it available to co-facilitators and other donors. 
 
 ## Looking Ahead
+
 InovAgro has introduced a cost-effective, unique response to the perennial challenge of helping smallholder farmers access funding to purchase inputs at planting season. The project’s approach is one that can respond to the needs of farmers while continuing to innovate and improve. The FA is not the final solution, but the foundation for leveraging new business models. 
 
 For example, while the FA and DMCs were instrumental in developing demand for seed and connecting farmers with seed companies, they are only a first step in developing the market for high-quality seed in northern Mozambique. These innovations represent a jumping off point for other businesses to engage and leverage the work the FA has done. InovAgro will start to promote and test new adaptations to its model in the coming years, and other donor programs can facilitate similar experimentation with additional approaches.  
@@ -147,9 +150,7 @@ For example, while the FA and DMCs were instrumental in developing demand for se
 In 2020, InovAgro plans to be active in several areas: 
 
 * *Leveraging village-based agents as demand aggregators and seed promoters.* InovAgro could work with seed companies and agro-dealers to improve direct linkages to FA groups and farmers through village-based agents who aggregate demand for the companies.  
-
 * *Having agro-dealers serve as agent bankers to manage savings plans and educate farmers.* Agent banking is starting to take off in Mozambique. The country’s central bank has created a conducive environment with adapted Know Your Client (KYC) definitions for lower-end clients (less than 5000 MZN) and the financial institutions who have developed Agent Banking models are interested in penetrating rural areas and bringing appropriate products closer to farmers. Agro-dealers who can qualify as agent bankers could help clients more carefully plan their savings to reflect their needs at planting time.
-
 * *Increasing linkages to the formal financial sector.* The financial institutions that promote agent banking are increasingly interested in reaching rural areas and serving as holders of FA savings. Because FA savings do not come and go through loans, funds can accrue large amounts of money, and that presents a safety risk. Groups could deposit their funds with banks for greater security. Financial institutions can also serve as intermediaries with seed companies and agro-dealers, helping to facilitate communication about FA group needs.  
 
 The Fundo Agricola is still in its infancy, but is growing, adapting, and maturing rapidly. Strong interest from participating communities demonstrates the fund’s value to smallholders.  Without changing the character of the original VSLA groups, the FA presents new opportunities to collaborate with formal financial institutions to improve the savings management and seed purchase process. InovAgro will continue to test various models for long-term sustainability that will evolve with the country’s financial industry and the seed sector in rural northern Mozambique. 
