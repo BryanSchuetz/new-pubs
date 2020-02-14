@@ -33,7 +33,7 @@ Even modern Tunisia’s founding father, Habib Bourguiba, the charismatic leader
 
 ### Inheritance and the 2019 Elections
 
-In 2018, however, the issue made a comeback. In an attempt to galvanize progressive political forces in the country, President Beji Caid Essebsi, an old-time politician who long portrayed himself as an heir to Bourguiba’s progressive mantle, returned inheritance reform to the fore. On the recommendation of the high-level Commission for Individual Liberties and Equality (*Colibe*), which he had launched the year before, Essebsi proposed a draft law establishing parity between women and men in matters of inheritance.
+In 2018, however, the issue made a comeback. In an attempt to galvanize progressive political forces, President Beji Caid Essebsi, an old-time politician who long portrayed himself as an heir to Bourguiba’s progressive mantle, returned inheritance reform to the fore. On the recommendation of the high-level Commission for Individual Liberties and Equality (*Colibe*), which he had launched the year before, Essebsi proposed a draft law establishing parity between women and men in matters of inheritance.
 
 A first in the Arab-Muslim world, this move garnered much attention even outside Tunisia. In November 2018, the Tunisian cabinet adopted the draft bill and, in February 2019, presented it to parliament, where it then lingered amid strong opposition from conservative forces, most notably the Islamist Ennahda party. President Essebsi died in summer 2019, depriving the proposed law of its main political standard-bearer in the runup to the recent elections. 
 
@@ -45,7 +45,7 @@ Ennahda, in fact, seized on the inheritance reform issue to successfully mobiliz
 
 ### Land Inheritance Practice Abuses Women
 
-But if inheritance reform is likely to remain on a political backburner for the foreseeable future, the issue remains critical to the social and economic empowerment of rural women in Tunisia. Because the practice of inheritance in Tunisia discriminates against women, and rural women in particular, in ways that go well beyond what is in the Quran.  
+But if inheritance reform is likely to linger on a political backburner for the foreseeable future, the issue remains critical to the social and economic empowerment of Tunisian women. The practice of inheritance discriminates against women—rural women in particular—in ways that go beyond what is in the Quran.
 
 Many women [do not even inherit](https://www.arabnews.com/node/1441566/middle-east) their allotted share under Shari`a law—their brothers, uncles, and husbands often keep more than their share of the inherited land. Or, within the overall division of the inheritance, women receive land of inferior quality—fields that are less well watered, fragmented, on sloped terrain, rocky, or difficult to access or cultivate; orchards and groves that are old, sick, or produce poorly; or lands that are disputed by others. And sometimes, quite simply, female heirs receive nothing.
 
