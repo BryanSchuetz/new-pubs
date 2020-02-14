@@ -112,10 +112,11 @@ The FA has seen increases in service uptake since its inception. Membership, sav
 
 Another important indicator of farmer enthusiasm for the program has been the steadily growing rate of individual savings per year, as shown in Table 1. Savings in metical have increased every year, although the dollar equivalent dropped in 2016 following a 50 percent devaluation of the new metical. The dollar equivalent has still increased overall, demonstrating that farmers see value in participating, and they are increasing .their average purchase of seed each year. 
 
-| Heading 1 | Heading 2 | Heading 3 |
-|:--|:--|:--|
-| Row 1 | Row 1 | Row 1 |
-| Row 2 | Row 2 | Row 2 |
+|  | 2015 | 2016 | 2017 | 2018 | 2019 |
+|:--|:--|:--|:--|:--|:--|
+| Per person dollar savings | $3.98 | $2.24 | $5.31 | $11.17 | $14.78 |
+| Per person metical savings | 167.16 | 170.24 | 320.72 | 672.99 | 901.58 |
+| Per person purchase of seed | $0.77 | $0.60 | $1.62 | $4.93 | $7.88 |
 
 ### Challenges from 2018 and 2019
 As uptake and interest in the FA have grown, InovAgro has learned a number of lessons about the challenges that remain, including:
