@@ -110,7 +110,7 @@ Seed purchases by FA groups increased eight-fold from $7,600 in 2017 to $59,600 
 ## Fundo Agricola Results 
 The FA has seen increases in service uptake since its inception. Membership, savings, and total seed purchases have grown each year, including as a percentage of the savings. This trend suggests that the program is picking up speed and is responsive to smallholder farmers’ needs.
 
-Another important indicator of farmer enthusiasm for the program has been the steadily growing rate of individual savings per year, as shown in Table 1. Savings in metical have increased every year, although the dollar equivalent dropped in 2016 following a 50 percent devaluation of the new metical. The dollar equivalent has still increased overall, demonstrating that farmers see value in participating, and they are increasing .their average purchase of seed each year. 
+Another important indicator of farmer enthusiasm for the program has been the steadily growing rate of individual savings per year, as shown in Table 1. Savings in metical have increased every year, although the dollar equivalent dropped in 2016 following a 50 percent devaluation of the new metical. The dollar equivalent has still increased overall, demonstrating that farmers see value in participating, and they are increasing their average purchase of seed each year. 
 
 ***Table 1. Trends in per person savings, by year.***
 
