@@ -51,9 +51,9 @@ Project Trust is focusing on two key areas: security vetting and counterterroris
 
 ![gambia WORKSHOP DAY 1 (4 of 183).jpg](/uploads/gambia%20WORKSHOP%20DAY%201%20(4%20of%20183).jpg)`Workshop with police force in The Gambia. Photo courtesy: Zikodev Multimedia.`
 
-Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is [strongly dependent](https://www.trade.gov/export-solutions) on tourism, which provides 20 percent of GDP annually. 
+Counterterrorism is a particularly pressing concern, given The Gambia’s proximity to the Sahel, where militants have been known to move across countries though porous national borders, targeting among others the tourism industry. The Gambia’s economy is [strongly dependent](https://www.wttc.org/-/media/files/reports/economic-impact-research/countries-2019/gambia2019.pdf) on tourism, which provides 20 percent of GDP annually. 
 
-In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “[whole-of-society”](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0643&from=EN) approach, it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
+In addition to bolstering the security and intelligence agencies’ ability to detect and pursue terrorists, the counterterrorism strategy will identify preventive measures and develop contingency plans in the event of an attack. Taking a “[whole-of-society”](https://www.who.int/nmh/events/un_ncd_summit2011/political_declaration_en.pdf) approach, it will seek to involve all citizens in its implementation, launched with a public conference in March 2020, including a live simulation exercise showcasing the “4 Ps” model for countering terrorism. 
 
 <aside>
  <h2>The 4 Ps of Counterterrorism:</h2>
