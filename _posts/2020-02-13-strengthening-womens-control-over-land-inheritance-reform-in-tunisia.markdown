@@ -69,7 +69,7 @@ So what is to be done? There is tremendous debate in the country as to whether p
 
 But many progressives, including individuals deeply committed to women’s rights and engaged in that struggle, believe that parity in inheritance is a “*faux problème*”—a red herring, the wrong battle to fight because society as a whole is not yet ready for such a change. In their view, the late President Essebsi’s draft bill harmed progressive prospects in the recent elections by handing the Islamists of Ennahda a tool to galvanize rural, semi-rural, and even conservative voters—many of whom had otherwise grown disenchanted with Ennahda’s underwhelming performance while previously in power. Not only that, it also set back the very cause of parity in inheritance by promoting the concept at a time when there was so little consensus in society around the issue.  
 
-Worse yet, some progressives point out, even if Essebsi’s draft bill had somehow passed into law, current practice shows that women heirs would still be discriminated against—if society is, in so many cases, willing to flaunt Shari’a law and cheat women of their Quranic allotments, how could a secular law that is unpopular and widely seen as culturally illegitimate make a difference? 
+Worse yet, some progressives point out, even if Essebsi’s draft bill had somehow passed into law, current practice shows that women heirs would still be discriminated against—if society is, in so many cases, willing to flaunt Shari’a law and cheat women of their Quranic allotment, how could a secular law that is unpopular and widely seen as culturally illegitimate make a difference? 
 
 ### Other Issues for Rural Women
 
