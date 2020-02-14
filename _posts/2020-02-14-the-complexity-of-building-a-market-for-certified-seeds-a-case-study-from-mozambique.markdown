@@ -11,7 +11,7 @@ author: William Grant
 publication: Developing Alternatives
 ---
 
-Innovations for Agribusiness (InovAgro) is the first market systems development project in Mozambique. Funded by the Swiss Development Cooperation (SDC) and active in 11 districts in three northern provinces, the project—a private sector-led agriculture growth initiative that partners with companies seeking to engage with smallholder farmers—has since evolved to include a successful intervention that assists farmers to save for the purchase of high-quality seeds and other agricultural inputs through community-based savings groups. This paper looks at the factors behind that success and the prognostics for the future.  
+[Innovations for Agribusiness](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro) (InovAgro) is the first market systems development project in Mozambique. Funded by the Swiss Development Cooperation (SDC) and active in 11 districts in three northern provinces, the project—a private sector-led agriculture growth initiative that partners with companies seeking to engage with smallholder farmers—has since evolved to include a successful intervention that assists farmers to save for the purchase of high-quality seeds and other agricultural inputs through community-based savings groups. This paper looks at the factors behind that success and the prognostics for the future.  
 
 
 
@@ -27,7 +27,7 @@ However, farmers in Mozambique often struggle to afford seeds, other inputs, and
 
 Over the first four years of the intervention, more than 12,500 farmers participated in the program and saved increasing amounts each year. This number increased by 5,348 new savers in 2019, bringing the total to 17,445. In the 2018-19 planting season, farmers saved the equivalent of US$135,000 to help them pay for a range of inputs—from seeds and fertilizers to labor, which then increased to $257,800 in 2019. In 2018, they spent $59,650 on certified seeds alone which increased to $140,000  in 2019. Both numbers of participants and the amount saved per person grew each year (Figure 1). 
 
-![Evolution-of-Members-Saving-and-Investment-in-Seeds- (2).jpg](/uploads/Evolution-of-Members-Saving-and-Investment-in-Seeds-%20(2).jpg)
+![Evolution-of-Members-Saving-and-Investment-in-Seeds- (2).jpg](/uploads/Evolution-of-Members-Saving-and-Investment-in-Seeds-%20(2).jpg)`Figure 1.`
 
 ## Background and Challenge: Financing Agricultural Inputs from Smallholder Farmers
 Farmer adoption of certified seeds and good agricultural practices are necessary for improving farmer productivity and increasing their income.  Building a market among smallholder farmers for seeds and other improved technologies requires both effective demand (enough farmers are willing to pay commercial rates for them) and an accessible supply. For many years, issues of seed availability and accessibility prevented this market’s development in Mozambique.
@@ -52,7 +52,7 @@ In addition to banks’ low appetite to lend, the regulations covering commercia
 Rather than focus on access to external financing, InovAgro experimented with a mechanism to help farmers better manage their own financial resources. The project investigated options to strengthen farmer-based savings groups, exploring Mozambique’s existing model as an alternative strategy.
 
 ### Leveraging the VSLA and Seed Companies
-Since 2005, the Government of Mozambique, with funding from IFAD, has invested in developing the VSLA model across the country to increase rural household financial security. The government supported local NGOs to promote the methodology in rural areas, and by 2014 more than 600,000 people had adopted the VSLA model. 
+Since 2005, the Government of Mozambique, with funding from IFAD, has invested in developing the [VSLA model](http://www.vsla.net/aboutus/vslmodel;jsessionid=rq5nb5rpkdogbtyssg5au6vf) across the country to increase rural household financial security. The government supported local NGOs to promote the methodology in rural areas, and by 2014 more than 600,000 people had adopted the VSLA model. 
 
 InovAgro saw an opportunity to leverage these groups, which offer established good group dynamics, a savings culture, and financial literacy to manage the saving and credit process. The project could also leverage the NGOs that had experience facilitating the development of these groups.
 
@@ -64,13 +64,17 @@ After conducting rapid assessments of VSLAs and potential NGO partners, and rece
 ### Pilot Years (2015 and 2016)
 Initial work began in 2015 with a rapid pilot in Mocuba with Nana as the co-facilitator. The short time frame between the program’s approval in June and the start of the planting season in October proved challenging. While 1,039 VSLA members participated in the program, they saved a total of only 173,000 metical (MZN), about $5,000, at that time. With an average of 167 MZN (about $4) per person, members were not able to purchase much seed. Seed also companies found it difficult to interface with savings groups and expensive to service them. However, farmers’ interest in continuing the FA into 2016 remained high.
 
+![InovAgro.jpg](/uploads/InovAgro.jpg)`The first Fundo Agricola distribution took place in November 2015`
+
 In early 2016, InovAgro tapped the local NGO Ophavela, a leading VSLA organizer, to launch FA pilots in Ribaue and Malema. Group members in these locations worked with Ophavela to adapt the FA methodology to fit their needs, deciding to use the FA for fixed savings, instead of the traditional VSLA approach of saving and then lending out funds for repayment with interest. This version proved so successful with the members in Malema and Ribaue, that FA members in Mocuba also adopted it.
 
 In the FA initiative’s second year, participants tripled to 3,769 and saved more than 500,000 MZN (about $8,000). Members spent $2,000 on seeds.
 
 But even as they started saving, seed availability remained a challenge for farmers. Seed companies expressed interest in the FA program and InovAgro encouraged them to meet with savings groups and organize product demonstrations. However, without further aggregation of the demand, FA groups’ initial savings were too small to elicit the interest of the companies.  
 
-To better connect farmers with seed companies, in early 2016 InovAgro organized seed fairs to coincide with the distribution of FA savings to members. Bringing seed closer to farmers, at the time they had resources to buy inputs, stimulated FA members’ interest in making purchases. Many members reported that having a small initial sum of money allowed them to shop around the fairs to decide what seed varieties they wanted, and then use money from family members to purchase additional quantities. However, savings remained too small to translate into significant volumes of sales at the fairs, limiting the benefits of participation for seed companies and agro-dealers.  
+To better connect farmers with seed companies, in early 2016 InovAgro organized [seed fairs](https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree) to coincide with the distribution of FA savings to members. Bringing seed closer to farmers, at the time they had resources to buy inputs, stimulated FA members’ interest in making purchases. Many members reported that having a small initial sum of money allowed them to shop around the fairs to decide what seed varieties they wanted, and then use money from family members to purchase additional quantities. However, savings remained too small to translate into significant volumes of sales at the fairs, limiting the benefits of participation for seed companies and agro-dealers.  
+
+[seed fair.tif](/uploads/seed%20fair.tif)`InovaAgro seed fairs brought suppliers directly to VSLA members.`
 
 By testing various methodologies, InovAgro learned many lessons from the first two cycles of the Fundo Agricola:
 
