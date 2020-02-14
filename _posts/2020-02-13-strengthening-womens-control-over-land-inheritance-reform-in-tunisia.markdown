@@ -81,7 +81,7 @@ A further issue is that of transport, for which women farm workers often pay a s
 
 ### Thoughts for Donors 
 
-Female inheritance and land is a predominantly social and political issue in Tunisia. It is a social issue in that it is governed by how society, especially rural society, views both land (as the symbol of family honor) and women (as second-rate citizens and economic actors), and because of the resulting discrimination against rural women. And it is a political issue, because it is at the heart of the main political debate in Tunisia today, between a secular or an Islamic view of society.  
+Female inheritance and land is a predominantly social and political issue in Tunisia. It is a social issue in that it is governed by how society, especially rural society, views both land (as the symbol of family honor) and women (as second-tier citizens and economic actors), and because of the resulting discrimination against rural women. And it is a political issue, because it is at the heart of the main political debate in Tunisia today, between a secular or an Islamic view of society.  
 
 Donors seeking to make a positive impact on the lives of rural women in Tunisia can of course continue to support activist groups seeking to reform inheritance laws. But given the current political situation and the resistance within rural society in particular to female land ownership, there is little immediate hope of seeing a law guaranteeing parity in inheritance, as important as it would be over the long term, emerge from the cabinet and pass in parliament. And even were this to happen, it would probably not have much effect in the short term.  
 
