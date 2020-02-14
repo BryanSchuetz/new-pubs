@@ -64,7 +64,7 @@ After conducting rapid assessments of VSLAs and potential NGO partners, and rece
 ### Pilot Years (2015 and 2016)
 Initial work began in 2015 with a rapid pilot in Mocuba with Nana as the co-facilitator. The short time frame between the program’s approval in June and the start of the planting season in October proved challenging. While 1,039 VSLA members participated in the program, they saved a total of only 173,000 metical (MZN), about $5,000, at that time. With an average of 167 MZN (about $4) per person, members were not able to purchase much seed. Seed also companies found it difficult to interface with savings groups and expensive to service them. However, farmers’ interest in continuing the FA into 2016 remained high.
 
-![InovAgro.jpg](/uploads/InovAgro.jpg)`The first Fundo Agricola distribution took place in November 2015`
+![InovAgro.jpg](/uploads/InovAgro.jpg)`The first Fundo Agricola distribution took place in November 2015.`
 
 In early 2016, InovAgro tapped the local NGO Ophavela, a leading VSLA organizer, to launch FA pilots in Ribaue and Malema. Group members in these locations worked with Ophavela to adapt the FA methodology to fit their needs, deciding to use the FA for fixed savings, instead of the traditional VSLA approach of saving and then lending out funds for repayment with interest. This version proved so successful with the members in Malema and Ribaue, that FA members in Mocuba also adopted it.
 
@@ -111,6 +111,11 @@ Seed purchases by FA groups increased eight-fold from $7,600 in 2017 to $59,600 
 The FA has seen increases in service uptake since its inception. Membership, savings, and total seed purchases have grown each year, including as a percentage of the savings. This trend suggests that the program is picking up speed and is responsive to smallholder farmers’ needs.
 
 Another important indicator of farmer enthusiasm for the program has been the steadily growing rate of individual savings per year, as shown in Table 1. Savings in metical have increased every year, although the dollar equivalent dropped in 2016 following a 50 percent devaluation of the new metical. The dollar equivalent has still increased overall, demonstrating that farmers see value in participating, and they are increasing .their average purchase of seed each year. 
+
+| Heading 1 | Heading 2 | Heading 3 |
+|:--|:--|:--|
+| Row 1 | Row 1 | Row 1 |
+| Row 2 | Row 2 | Row 2 |
 
 ### Challenges from 2018 and 2019
 As uptake and interest in the FA have grown, InovAgro has learned a number of lessons about the challenges that remain, including:
