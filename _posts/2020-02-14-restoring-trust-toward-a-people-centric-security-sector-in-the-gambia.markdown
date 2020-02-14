@@ -1,6 +1,6 @@
 ---
 title: 'Restoring Trust: Toward a People-Centric Security Sector in The Gambia'
-date: 2020-02-13 09:55:00 -05:00
+date: 2020-02-14 09:55:00 -05:00
 tags:
 - fragile-states
 - stability
