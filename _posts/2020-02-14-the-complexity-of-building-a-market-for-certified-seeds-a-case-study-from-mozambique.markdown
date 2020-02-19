@@ -2,12 +2,13 @@
 title: 'The Complexity of Building a Market for Certified Seeds: A Case Study from
   Mozambique'
 date: 2020-02-14 10:50:00 -05:00
-published: false
 tags:
 - market-systems-development
 - agriculture
 - economic-growth
 author: "[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)"
+thumbnail-image: "/uploads/InovAgro.jpg"
+social-image: "/uploads/InovAgro.jpg"
 publication: Developing Alternatives
 ---
 
