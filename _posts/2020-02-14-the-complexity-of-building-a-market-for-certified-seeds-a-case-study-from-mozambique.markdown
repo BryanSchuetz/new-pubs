@@ -7,8 +7,8 @@ tags:
 - agriculture
 - economic-growth
 author: "[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant)"
-thumbnail-image: "/uploads/InovAgro.jpg"
-social-image: "/uploads/InovAgro.jpg"
+thumbnail-image: "/uploads/InovAgro1.jpg"
+social-image: "/uploads/InovAgro1.jpg"
 publication: Developing Alternatives
 ---
 
