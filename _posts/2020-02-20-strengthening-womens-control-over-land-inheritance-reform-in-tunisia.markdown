@@ -1,7 +1,6 @@
 ---
 title: 'Strengthening Women’s Control Over Land: Inheritance Reform in Tunisia'
-date: 2020-02-13 13:13:00 -05:00
-published: false
+date: 2020-02-20 13:13:00 -05:00
 tags:
 - land rights
 - land tenure
