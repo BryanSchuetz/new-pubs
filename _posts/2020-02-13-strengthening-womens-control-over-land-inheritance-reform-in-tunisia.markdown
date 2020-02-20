@@ -59,7 +59,7 @@ A further issue compounds these inequities. When it comes to land, rural women a
 
 Inequity in inheritance is in general more egregious when it comes to land, because of how society views land as critical to group identity, sense of self, and honor. These views are held by the great majority of men in rural areas, and also by many rural women. Older women often look on without protest as their daughters or nieces are locked out of their deceased husbands’ or brothers’ inheritance. “I am for equality,” said a middle-aged rural woman outside Le Kef, in northwestern Tunisia, mentioning that she thinks her daughters should get as much as her son. “But my brother is against [it], as are most women around me. It is rare to be like me.”
 
-Many men who are otherwise progressive in their views of women revert to more conservative and sometimes even abusive behavior when it comes to land and their womenfolk. "Land is everything."  
+Many men who are otherwise progressive in their views of women revert to more conservative and sometimes even abusive behavior when it comes to land and their womenfolk. In rural areas, land is everything.
 
 ![The_perseverance_of_tunisian_women_-_مثابرة_المرأة_التونسية_-_la_persévérance_des_femmes_tunisiennes_01.jpg](/uploads/The_perseverance_of_tunisian_women_-_%D9%85%D8%AB%D8%A7%D8%A8%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%94%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9_-_la_perse%CC%81ve%CC%81rance_des_femmes_tunisiennes_01.jpg)`The perseverance of Tunisian women. Photo courtesy Ali bannour, 2018.`
 
