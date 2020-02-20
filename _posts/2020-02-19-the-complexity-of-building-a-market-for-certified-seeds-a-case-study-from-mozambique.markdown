@@ -12,7 +12,7 @@ social-image: "/uploads/InovAgro1.jpg"
 publication: Developing Alternatives
 ---
 
-[Innovations for Agribusiness](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro) (InovAgro) is the first market systems development project in Mozambique. Funded by the Swiss Development Cooperation (SDC) and active in 11 districts in three northern provinces, the project—a private sector-led agriculture growth initiative that partners with companies seeking to engage with smallholder farmers—has since evolved to include a successful intervention that assists farmers to save for the purchase of high-quality seeds and other agricultural inputs through community-based savings groups. This paper looks at the factors behind that success and the prognostics for the future.  
+[Innovations for Agribusiness](https://www.dai.com/our-work/projects/mozambique-innovation-agribusiness-inovagro) (InovAgro) is the first market systems development project in Mozambique. Funded by the Swiss Agency for Development and Cooperation (SDC) and active in 11 districts in three northern provinces, the project—a private sector-led agriculture growth initiative that partners with companies seeking to engage with smallholder farmers—has since evolved to include a successful intervention that assists farmers to save for the purchase of high-quality seeds and other agricultural inputs through community-based savings groups. This paper looks at the factors behind that success and the prognostics for the future.  
 
 
 
