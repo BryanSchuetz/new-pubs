@@ -33,7 +33,7 @@ Even modern Tunisia’s founding father, Habib Bourguiba, the charismatic leader
 
 ### Inheritance and the 2019 Elections
 
-In 2018, however, the issue made a comeback. In an attempt to galvanize progressive political forces, President Beji Caid Essebsi, an old-time politician who long portrayed himself as an heir to Bourguiba’s progressive mantle, returned inheritance reform to the fore. On the recommendation of the high-level Commission for Individual Liberties and Equality (*Colibe*), which he had launched the year before, Essebsi proposed a draft law establishing parity between women and men in matters of inheritance.
+In 2018, however, the issue made a comeback. In an attempt to galvanize progressive political forces, President Beji Caid Essebsi, an old-time politician who long portrayed himself as the heir to Bourguiba’s progressive mantle, returned inheritance reform to the fore. On the recommendation of the high-level Commission for Individual Liberties and Equality (*Colibe*), which he had launched the year before, Essebsi proposed a draft law establishing parity between women and men in matters of inheritance.
 
 A first in the Arab-Muslim world, this move garnered much attention even outside Tunisia. In November 2018, the Tunisian cabinet adopted the draft bill and, in February 2019, presented it to parliament, where it then lingered amid strong opposition from conservative forces, most notably the Islamist Ennahda party. President Essebsi died in summer 2019, depriving the proposed law of its main political standard-bearer in the runup to the recent elections. 
 
