@@ -24,7 +24,7 @@ The key finding: women are much less likely to be registered taxpayers than men 
 
 ![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)
 
-These findings are informing FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
+These findings informed FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
 ## Revealing Tax Discrepancies by Gender
 
