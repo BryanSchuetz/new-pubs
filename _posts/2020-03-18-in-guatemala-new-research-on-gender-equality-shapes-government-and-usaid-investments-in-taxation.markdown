@@ -61,8 +61,7 @@ The Guatemalan Government is already seeing substantial benefits arising from a 
 * Update 1.7 million taxpayer records (and saw a 60 percent reduction in information errors).
 * Increase by 51 percent the number of identified taxpayers with tax obligations.
 * Identify $454 million in potential tax revenue.
-* Register more than 80,000 government providers on an e-platform, thereby reducing opportunities for corruption 
-platform, thereby reducing opportunities for corruption.
+* Register more than 80,000 government providers on an e-platform, thereby reducing opportunities for corruption.
 
 Fairly and efficiently integrating more women into this broader base of formal taxpayers marks a logical step in developing a domestic resource base commensurate with the country’s development needs.
 
