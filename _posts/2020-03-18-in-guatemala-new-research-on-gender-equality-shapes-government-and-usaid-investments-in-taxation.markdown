@@ -1,8 +1,7 @@
 ---
 title: In Guatemala, New Research on Gender Equality Shapes Government and USAID Investments
   in Taxation
-date: 2019-04-11 14:45:00 -04:00
-published: false
+date: 2020-03-18 14:45:00 -04:00
 tags:
 - public-financial-management
 - gender
@@ -12,7 +11,7 @@ social-image: "/uploads/Devs----FPRP-gender-social-b9041d.jpg"
 publication: Developments
 ---
 
-In the United States, widely available tools enable Americans to register and file taxes from home, and paying Uncle Sam has never been easier or cheaper. But in places such as Guatemala—where e-governance is just now taking root and literacy, language, and gender present hurdles—the high burden of tax compliance can cause involuntary exclusion from the formal economy.
+In the United States, widely available tools enable Americans to register and file taxes from home, and paying Uncle Sam has never been easier or cheaper. But in places such as Guatemala—where electronic governance is just now taking root and literacy, language, and gender present hurdles—the high burden of tax compliance can cause involuntary exclusion from the formal economy.
 
 
 
