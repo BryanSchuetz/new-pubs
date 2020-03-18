@@ -58,6 +58,13 @@ While most of these businesses are informal precisely to avoid tax liability, th
 
 The Guatemalan Government is already seeing substantial benefits arising from a partnership with FPRP that has enabled it to:
 
+* Update 1.7 million taxpayer records (and saw a 60 percent reduction in information errors)
+* Increase by 51 percent the number of identified taxpayers with tax obligations 
+- Identify $454 million in potential tax revenue
+- Register 80,000+ government providers on an e-platform, thereby reducing opportunities for corruption 
+- 
+Register
+
 * Update 1.7 million taxpayer records.
 * Increase Guatemala’s tax base from 2.09 million in 2017 to 3.15 million today.
 * Identify $30 million in potential tax revenue from large taxpayers.
