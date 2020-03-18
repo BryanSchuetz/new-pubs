@@ -24,7 +24,7 @@ The key finding: women are much less likely to be registered taxpayers than men 
 
 ![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)
 
-These findings are informing FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
+These findings informed FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
 ## Revealing Tax Discrepancies by Gender
 
@@ -58,10 +58,11 @@ While most of these businesses are informal precisely to avoid tax liability, th
 
 The Guatemalan Government is already seeing substantial benefits arising from a partnership with FPRP that has enabled it to:
 
-* Update 1.7 million taxpayer records.
-* Increase Guatemala’s tax base from 2.09 million in 2017 to 3.15 million today.
-* Identify $30 million in potential tax revenue from large taxpayers.
-* Register 70,000 government providers on an e-platform, thereby reducing opportunities for corruption.
+* Update 1.7 million taxpayer records (and saw a 60 percent reduction in information errors).
+* Increase by 51 percent the number of identified taxpayers with tax obligations.
+* Identify $454 million in potential tax revenue.
+* Register more than 80,000 government providers on an e-platform, thereby reducing opportunities for corruption 
+platform, thereby reducing opportunities for corruption.
 
 Fairly and efficiently integrating more women into this broader base of formal taxpayers marks a logical step in developing a domestic resource base commensurate with the country’s development needs.
 
