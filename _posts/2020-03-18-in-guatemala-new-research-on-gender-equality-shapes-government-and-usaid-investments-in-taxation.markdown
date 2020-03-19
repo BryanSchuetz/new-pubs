@@ -5,6 +5,8 @@ date: 2020-03-18 14:45:00 -04:00
 tags:
 - public-financial-management
 - gender
+- economic-growth
+- governance
 author: "[David Hall](https://www.dai.com/who-we-are/our-team/david-hall) and [Eunice
   Heredia-Ortiz](https://www.dai.com/who-we-are/our-team/eunice-heredia-ortiz)"
 thumbnail-image: "/uploads/Devs----FPRP-gender-social.jpg"
