@@ -6,10 +6,12 @@ tags:
 - global-health
 - gender
 author: Elo Otobo
+thumbnail-image: "/uploads/NepalNutrition-CRSP2.gif"
+social-image: "/uploads/NepalNutrition-CRSP2-5adca3.gif"
 publication: Developments
 ---
 
-Nepal is in the midst of a demographic shift. Over the past three decades, its fertility rate has declined and population growth has stalled. The country has quickly moved from a high-mortality, high-fertility society to a low-mortality, low-fertility society. Although this shift is an encouraging indicator of development, the changing demography means new challenges for the people and their government as Nepal navigates a rapid transition to an “aging” and then an “aged” society (defined as more than 14 percent of the population being 65 years and older).
+Nepal is in the midst of a demographic shift. Over the past three decades, its fertility rate has declined and population growth has stalled. The country has quickly moved from a high-mortality, high-fertility society to a low-mortality, low-fertility society. Although this shift is an encouraging indicator of development, the [changing demography](https://www.unicef.org/nepal/media/446/file/DEMOGRAPHIC%20CHANGES%20OF%20NEPAL.pdf) means new challenges for the people and their government as Nepal navigates a rapid transition to an “aging” and then an “aged” society (defined as more than 14 percent of the population being 65 years and older).
 
 
 
@@ -18,9 +20,11 @@ Nepal is in the midst of a demographic shift. Over the past three decades, its f
 
 This aging population remains vulnerable to natural disasters, public health emergencies, and poverty—45 percent of households earn less than $2 a day. 
 
-DAI Global Health recently analysed the equitability and inclusivity of the existing social protection system in Nepal to inform the U.K. Department for International Development’s (DFID) Resilience and Inclusion for Nepal (RI4N) Programme. Applying a gender equality and social inclusion (GESI) lens to Nepal’s Social Security Allowance scheme—which comprises old age allowance, single women’s allowance, disability allowance, endangered ethnicity allowance, and the child grant—the report’s authors, Rebecca Holmes, Chhaya Jha, and Suravi Bhandary, identify key aspects of the scheme that must be addressed to ensure that social protection in Nepal reduces economic instability, achieves stability, and builds resilience.  
+[DAI Global Health](https://www.dai.com/our-work/solutions/global-health) recently analysed the equitability and inclusivity of the existing social protection system in Nepal to inform the U.K. Department for International Development’s (DFID) Resilience and Inclusion for Nepal (RI4N) Programme. Applying a [gender equality and social inclusion (GESI) lens](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) to Nepal’s Social Security Allowance scheme—which comprises old age allowance, single women’s allowance, disability allowance, endangered ethnicity allowance, and the child grant—the report’s authors, Rebecca Holmes, Chhaya Jha, and Suravi Bhandary, identify key aspects of the scheme that must be addressed to ensure that social protection in Nepal reduces economic instability, achieves stability, and builds resilience.  
 
 Download the [Full Report Here](/uploads/GESI_analysis_SP_in_Nepal.pdf).
+
+![DSC08386 - grp mtg Tahru women 1 smiling.JPG](/uploads/DSC08386%20-%20grp%20mtg%20Tahru%20women%201%20smiling.JPG)`Photo courtesy: USAID Nepal.`
 
 ## Current Scope of Social Security Allowance
 
@@ -28,11 +32,13 @@ Some Social Security Allowance programmes in Nepal are supporting vulnerable and
 
 However, the current programmes were not designed with a gender-inclusive lens. They lack explicit objectives on how to meet the needs of women and girls in particular, focusing instead on the betterment of “vulnerable” groups more broadly. 
 
-“Our interviews highlighted three key reasons women and girls may face higher levels of exclusion from the schemes,” write the authors. “First, women face particular barriers in terms of their awareness of the schemes. … Dalits and other marginalised ethnic groups do not have access to the necessary information, may not speak Nepali, may not be allowed access to public spaces, or live in more remote areas. Second, women and girls have lower birth registration rates and face challenges in obtaining correct citizenship or marriage documentation. … [due to] early marriage and inter-caste marriages. And third, women and girls face more acute mobility constraints to enrol in the schemes.”
+“Our interviews highlighted three key reasons women and girls may face higher levels of exclusion from the schemes,” write the authors. “First, women face particular barriers in terms of their awareness of the schemes. … Dalits and other marginalised ethnic groups do not have access to the necessary information, may not speak Nepali, may not be allowed access to public spaces, or live in more remote areas. Second, women and girls have lower birth registration rates and face challenges in obtaining correct citizenship or marriage documentation. … [due to] early marriage and inter-caste marriages. And third, women and girls face more acute mobility constraints to enroll in the schemes.”
 
 Shifting the allowance from manual cash payments to the formal banking system has been seen as an opportunity to improve the financial inclusion of women in Nepal. However, lower levels of literacy among women, the special circumstances of disabled women and of women from lower castes in particular, and the generally low familiarity with banking institutions all pose barriers. Mothers with small children, the elderly—who may be physically unable to get into bank buildings—and people burdened with other time-consuming domestic tasks also have difficulty accessing financial institutions. 
 
 The authors discovered that 20 percent more men receive the country’s disability allowance compared with women, and a higher percentage of male recipients of the Child Grant (52 percent going to boys compared to 48 percent to girls). The complex reasons for this disparity are bound up in the social norms of Nepal, where women face barriers in terms of physical mobility, decision making, and access to knowledge about the programmes available to them. Language is also an issue: Dalits and other marginalised groups who may not speak Nepali have limited access to the information necessary to engage with the programmes, may be banned from certain public spaces, and are constrained by ethnic stigmatisation.  
+
+![DSC06629 - Sima w phone.JPG](/uploads/DSC06629%20-%20Sima%20w%20phone.JPG)`Photo courtesy: USAID Nepal.`
 
 ## Recommendations for Reform
 
