@@ -6,7 +6,7 @@ published: false
 tags:
 - global-health
 - gender
-author: Elo Otobo
+author: "[Elo Otobo](https://www.linkedin.com/in/elo-otobo-46991889/)"
 thumbnail-image: "/uploads/NepalNutrition-CRSP2.gif"
 social-image: "/uploads/NepalNutrition-CRSP2-5adca3.gif"
 publication: Developments
