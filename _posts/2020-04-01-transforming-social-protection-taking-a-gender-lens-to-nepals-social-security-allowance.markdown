@@ -1,12 +1,11 @@
 ---
 title: 'Transforming Social Protection: Taking a Gender Lens to Nepal’s Social Security
   Allowance'
-date: 2020-03-23 14:49:00 -04:00
-published: false
+date: 2020-04-01 10:00:00 -04:00
 tags:
 - global-health
 - gender
-author: Elo Otobo
+author: "[Elo Otobo](https://www.linkedin.com/in/elo-otobo-46991889/)"
 thumbnail-image: "/uploads/NepalNutrition-CRSP2.gif"
 social-image: "/uploads/NepalNutrition-CRSP2-5adca3.gif"
 publication: Developments
@@ -37,7 +36,7 @@ However, the current programmes were not designed with a gender-inclusive lens. 
 
 Shifting the allowance from manual cash payments to the formal banking system has been seen as an opportunity to improve the financial inclusion of women in Nepal. However, lower levels of literacy among women, the special circumstances of disabled women and of women from lower castes in particular, and the generally low familiarity with banking institutions all pose barriers. Mothers with small children, the elderly—who may be physically unable to get into bank buildings—and people burdened with other time-consuming domestic tasks also have difficulty accessing financial institutions. 
 
-The authors discovered that 20 percent more men receive the country’s disability allowance compared with women, and a higher percentage of male recipients of the Child Grant (52 percent going to boys compared to 48 percent to girls). The complex reasons for this disparity are bound up in the social norms of Nepal, where women face barriers in terms of physical mobility, decision making, and access to knowledge about the programmes available to them. Language is also an issue: Dalits and other marginalised groups who may not speak Nepali have limited access to the information necessary to engage with the programmes, may be banned from certain public spaces, and are constrained by ethnic stigmatisation.  
+The authors discovered that 20 percent more men receive the country’s disability allowance compared with women, and a higher percentage of male recipients of the Child Grant (52 percent going to boys compared to 48 percent to girls). There are complex reasons for this disparity bound in the social norms of Nepal and in the management of the Social Security Allowance. For example, poor coordination of schemes leading to fragmentation, the use of disaggregated data in a systematic monitoring framework, and poor social mobilisation support for women and girls. 
 
 ![DSC06629 - Sima w phone.JPG](/uploads/DSC06629%20-%20Sima%20w%20phone.JPG)`Photo courtesy: USAID Nepal.`
 
