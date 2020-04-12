@@ -5,7 +5,7 @@ published: false
 tags:
 - local-content
 - sustainable-business
-author: "[Zachary Kaplan, Vice President, Sustainable Business Group](https://www.dai.com/who-we-are/our-team/zachary-kaplan)"
+author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan)"
 thumbnail-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
 social-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
 publication: Developments
