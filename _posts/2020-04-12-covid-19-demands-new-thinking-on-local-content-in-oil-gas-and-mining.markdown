@@ -10,7 +10,9 @@ publication: Developments
 
 ## In upending the supply chain world order, the pandemic will redefine how we source goods and labor
 
-Even in the throes of what is perhaps the most severe economic shock in a century, there is little doubt that the crisis will bequeath a “new world order” when it comes to supply chain management. For policy makers, corporate leaders, and supply chain managers, the key will be to ensure that we neither over-react nor return to the status quo. Getting that balance right will be the difference between winning and losing the war against COVID-19 for many countries and companies.
+Even in the throes of what is perhaps the most severe economic shock in a century, there is little doubt that the crisis will bequeath a “new world order” when it comes to supply chain management. For policy makers, corporate leaders, and supply chain managers, the key will be to ensure that we neither over-react nor return to the status quo. Getting that balance right will be the difference between winning and losing the war against COVID-19 for many countries and companies. 
+
+ <!--more-->
 
 ![sergio-souza-CtI_zen2NSk-unsplash.jpg](/uploads/sergio-souza-CtI_zen2NSk-unsplash.jpg)
 
