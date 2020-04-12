@@ -2,6 +2,9 @@
 title: COVID-19 Demands New Thinking on Local Content in Oil, Gas, and Mining
 date: 2020-04-12 07:58:00 -04:00
 published: false
+tags:
+- local-content
+- sustainable-business
 author: "[Zachary Kaplan, Vice President, Sustainable Business Group](https://www.dai.com/who-we-are/our-team/zachary-kaplan)"
 thumbnail-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
 social-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
