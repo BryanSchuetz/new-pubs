@@ -3,12 +3,16 @@ title: COVID-19 Demands New Thinking on Local Content in Oil, Gas, and Mining
 date: 2020-04-12 07:58:00 -04:00
 published: false
 author: "[Zachary Kaplan, Vice President, Sustainable Business Group](https://www.dai.com/who-we-are/our-team/zachary-kaplan)"
+thumbnail-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
+social-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
 publication: Developments
 ---
 
 ## In upending the supply chain world order, the pandemic will redefine how we source goods and labor
 
 Even in the throes of what is perhaps the most severe economic shock in a century, there is little doubt that the crisis will bequeath a “new world order” when it comes to supply chain management. For policy makers, corporate leaders, and supply chain managers, the key will be to ensure that we neither over-react nor return to the status quo. Getting that balance right will be the difference between winning and losing the war against COVID-19 for many countries and companies.
+
+![sergio-souza-CtI_zen2NSk-unsplash.jpg](/uploads/sergio-souza-CtI_zen2NSk-unsplash.jpg)
 
 The world learned an important lesson from the 2008–2009 financial crisis: namely, that a pathogen let loose in one part of the economy—in this case, finance and banking—in just one country—in this case, the United States—can lead to a contagion that infects the entire world. One of the major consequences of the 2008–2009 crisis was that major banking institutions dialed back their lending across borders, leading companies and governments to raise more of their own debt (bonds) or rely on more “local” banking systems for capital. In the past three years alone, the amount of money crossing borders has been reduced by about half, with major international banks selling most of their assets outside of their home countries.
 
