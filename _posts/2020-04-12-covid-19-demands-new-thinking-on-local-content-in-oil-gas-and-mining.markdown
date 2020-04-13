@@ -5,7 +5,7 @@ tags:
 - local-content
 - sustainable-business
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
-  [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie\\)"
+  [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
 thumbnail-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
 social-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
 publication: Developments
