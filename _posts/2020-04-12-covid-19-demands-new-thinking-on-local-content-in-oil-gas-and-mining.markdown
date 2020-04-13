@@ -4,6 +4,7 @@ date: 2020-04-12 07:58:00 -04:00
 tags:
 - local-content
 - sustainable-business
+- covid-19
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
   [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
 thumbnail-image: "/uploads/sergio-souza-CtI_zen2NSk-unsplash-388a7b.jpg"
