@@ -1,7 +1,6 @@
 ---
 title: COVID-19 Demands New Thinking on Local Content in Oil, Gas, and Mining
 date: 2020-04-12 07:58:00 -04:00
-published: false
 tags:
 - local-content
 - sustainable-business
