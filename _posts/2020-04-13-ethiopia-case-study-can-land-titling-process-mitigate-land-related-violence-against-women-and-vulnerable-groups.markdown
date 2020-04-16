@@ -70,8 +70,8 @@ Read the full report [here](/uploads/Preventing%20and%20Mitigating%20Land%20Cert
 <aside>
  <h2>What Does the SLLC Process Look Like?</h2> 
 <p>The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:</p>
-<li>
 <ol>
+<li>
   <strong>Public Awareness</strong>: Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
 </li>
 
