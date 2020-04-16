@@ -36,6 +36,8 @@ The LIFT team recently generated qualitative data about land-related violence th
 
 The SLLC process gave women and vulnerable people the opportunity to secure their land rights, which had been under threat by family members. Some local neighbourhood authorities supported women and vulnerable groups in making their claims, demonstrating how the SLLC process can be used as a tool to help them protect their land rights and give them access to the services and support they require, which may not have been previously available.
 
+![A Woman Farmer  Referring  to  Spatial Data, Emba Alaje, Tigray.JPG](/uploads/A%20Woman%20Farmer%20%20Referring%20%20to%20%20Spatial%20Data,%20Emba%20Alaje,%20Tigray.JPG)`Ethiopian landholder double checks her land boundaries. Photo courtesy: LIFT.`
+
 The SLLC process gives them the confidence, which perhaps was absent before, to submit their claims and challenges, with the knowledge that having the certificate is recognised as credible evidence. Focus group discussions with women in Oromia and Tigray found that women understood and confirmed the benefits of certification, as it provided proof of ownership and protection from border encroachment, and discouraged illegal claims.  
 
 The study also identifies gaps in the process, such as a lack of access to information, low capacity of and time constraints on field staff to handle social issues, and the absence of full-time staff dedicated to women and vulnerable groups’ land rights protection at the grassroots level. In addition, there are instances of unresolved competing claims prior to the commencement of the SLLC process and insufficient coordination between government and other institutional structures to respond to the problems. 
