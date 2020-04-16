@@ -69,14 +69,22 @@ Read the full report [here](/uploads/Preventing%20and%20Mitigating%20Land%20Cert
 
 <aside>
  <h2>What Does the SLLC Process Look Like?</h2> 
- <ul>
-The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:
+<p>The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:</p>
 
-*1. Public Awareness:* Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
+<li>
+  1. <strong>Public Awareness</strong>: Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
+</li>
 
-*2. Adjudication and Demarcation:* Field teams visit each site to register individual plots. This involves claimants demonstrating their parcel boundary by walking around their plot in the presence of neighbours and local leaders. Using aerial photography, para-surveyors record the parcel boundaries on these maps and confirm with claimants and other interested parties.
+<li>
+  2. <strong>Adjudication and Demarcation</strong>: Field teams visit each site to register individual plots. This involves claimants demonstrating their parcel boundary by walking around their plot in the presence of neighbours and local leaders. Using aerial photography, para-surveyors record the parcel boundaries on these maps and confirm with claimants and other interested parties.
+</li>
 
-*3. Public Display:* Once boundaries and occupancy information has been collected, it is digitised. This is then printed and taken to a communal centre, where anyone can view the individual plots and either confirm or challenge the information. This provides an opportunity to record disputes or correct other information, for example the misspelling of names.
+<li>
+  3. <strong>Public Display</strong>: Once boundaries and occupancy information has been collected, it is digitised. This is then printed and taken to a communal centre, where anyone can view the individual plots and either confirm or challenge the information. This provides an opportunity to record disputes or correct other information, for example the misspelling of names.
+</li>
   
-*4. Certification:* Once this computerised data is checked and verified by claimants, it is processed and included in a register of land rights. Land holders will then receive a printed certificate which includes details about their parcel boundaries, occupancy details, and land rights.</p>
+<li>
+  4. <strong>Certification</strong>: Once this computerised data is checked and verified by claimants, it is processed and included in a register of land rights. Land holders will then receive a printed certificate which includes details about their parcel boundaries, occupancy details, and land rights.
+</li>
+</ul>
 </aside>
