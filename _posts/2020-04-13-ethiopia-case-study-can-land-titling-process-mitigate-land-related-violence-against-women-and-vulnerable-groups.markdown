@@ -26,7 +26,7 @@ In this respect, our land tenure work in Ethiopia for the U.K. Department for In
 
 See the Full Report—written by Gender Expert Gladys Savolainen of NIRAS, Gender and Social Inclusion Expert Workwoha Mekonen, and Felicity Buckle and Matt Woodhouse of DAI—HERE. 
  
-# LIFTing the Rights of Women and Others
+## LIFTing the Rights of Women and Others
 
 The [Land Investment for Transformation (LIFT) programme](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) works to improve the incomes of rural men and women and to enhance economic growth through SLLC, improved rural land administration systems, and Economic Empowerment Unit interventions. It is expected that increased tenure security will economically empower smallholder farmers in the regions of Amhara, Oromia, Tigray, and Southern Nations, Nationals and People’s Region (SNNPR).
 
@@ -42,7 +42,7 @@ The study also identifies gaps in the process, such as a lack of access to infor
 
 LIFT has taken steps to address these gaps by assigning a social development officer (SDO) to provide additional expertise and support during the SLLC process. Adding the SDOs improved the participation and engagement of women and vulnerable groups, providing them with increased confidence to report outstanding disputes and leading to the restitution of lost or compromised parcels, the first step to safeguard their land rights.
 
-# Making it Stick 
+## Making it Stick 
 
 To prevent and mitigate any future land rights violations, it is critical that the SLLC process must be robust. The study recommends that the programme: 
 
