@@ -34,7 +34,7 @@ LIFT has taken steps to address these gaps by assigning a social development off
 
 # Making it Stick 
 
-To prevent and mitigate any future land rights violations , it is critical that the SLLC process must be robust. The study recommends that the programme: 
+To prevent and mitigate any future land rights violations, it is critical that the SLLC process must be robust. The study recommends that the programme: 
 
 * Allocate sufficient time for rights clarification before the start of the SLLC process.
 * Ensure the participation of women and vulnerable groups through public awareness interventions that strengthen social protection.
@@ -55,10 +55,9 @@ Land certification promises security of tenure, which is perceived to bring soci
 
 Read the full report here.
 
-SIDEBAR
-
-What Does the SLLC Process Look Like? 
-
+<aside>
+ <h2>What Does the SLLC Process Look Like?</h2> 
+ <ul>
 The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:
 
 1. Public Awareness: Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
