@@ -24,7 +24,7 @@ In this respect, our land tenure work in Ethiopia for the U.K. Department for In
 
 
 
-See the Full Report—written by Gender Expert Gladys Savolainen of NIRAS, Gender and Social Inclusion Expert Workwoha Mekonen, and Felicity Buckle and Matt Woodhouse of DAI—HERE. 
+*See the Full Report—written by Gender Expert Gladys Savolainen of NIRAS, Gender and Social Inclusion Expert Workwoha Mekonen, and Felicity Buckle and Matt Woodhouse of DAI—[HERE](/uploads/Preventing%20and%20Mitigating%20Land%20Certification%20Related%20Violence%20against%20women%20and%20VGs.pdf).*
  
 ## LIFTing the Rights of Women and Others
 
@@ -63,7 +63,7 @@ Land certification promises security of tenure, which is perceived to bring soci
 
 *Felicity Buckle is a Senior Consultant and DAI’s Global Practice Leader in Land Tenure and Property Rights; Matt Woodhouse is LIFT’s Strategic Communications Manager.* 
 
-Read the full report here.
+Read the full report [here](/uploads/Preventing%20and%20Mitigating%20Land%20Certification%20Related%20Violence%20against%20women%20and%20VGs.pdf).
 
 <aside>
  <h2>What Does the SLLC Process Look Like?</h2> 
