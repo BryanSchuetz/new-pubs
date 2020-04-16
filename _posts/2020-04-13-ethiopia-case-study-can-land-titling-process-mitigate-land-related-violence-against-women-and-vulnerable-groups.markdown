@@ -6,6 +6,9 @@ published: false
 tags:
 - land rights
 - land tenure
+- gender
+- agriculture
+- resilience
 author: "[Felicity Buckle](https://www.dai.com/who-we-are/our-team/felcity-buckle)
   and [Matt Woodhouse](https://www.linkedin.com/in/matthew-woodhouse-37062326/)"
 thumbnail-image: "/uploads/A%20Widow%20%20with%20SLLC,%20Hulet%20Eju%20Enese,%20Amhara%20.JPG"
