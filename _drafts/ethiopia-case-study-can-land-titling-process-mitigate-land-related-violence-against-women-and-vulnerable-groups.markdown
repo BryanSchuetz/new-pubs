@@ -3,6 +3,8 @@ title: 'Ethiopia Case Study: Can the Land Titling Process Mitigate Land-Related 
   Against Women and Vulnerable Groups?'
 date: 2020-04-13 15:32:00 -04:00
 author: Felicity Buckle and Matt Woodhouse
+thumbnail-image: "/uploads/A%20Widow%20%20with%20SLLC,%20Hulet%20Eju%20Enese,%20Amhara%20.JPG"
+social-image: "/uploads/A%20Widow%20%20with%20SLLC,%20Hulet%20Eju%20Enese,%20Amhara%20-64aae3.JPG"
 publication: Developing Alternatives
 ---
 
