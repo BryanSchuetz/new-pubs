@@ -3,6 +3,8 @@ title: 'How Statistics Can Transform Governance: A Q&A with Economist and Statis
   Jean-Paul Zoyem'
 date: 2020-04-17 13:28:00 -04:00
 author: "[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/)"
+thumbnail-image: "/uploads/Gambia1.jpg"
+social-image: "/uploads/Gambia1-aa58ba.jpg"
 publication: Developments
 ---
 
@@ -23,6 +25,8 @@ DAI has [50 years of experience](https://www.dai.com/our-work/solutions/governan
  
 “The system was very poor. Though we have a long way to go to improve it, new and younger staff seem to be far more competent and effective than the older generation. The major gaps in official statistics are being reduced, and the quality is improving.”  
 
+![Gambia1-ea9b68.jpg](/uploads/Gambia1-ea9b68.jpg)
+
 **You are the technical lead in one of our key components, statistical data management. Tell us what you do, and with which stakeholders you work.**
 
 “In 2017, The Gambia Bureau of Statistics elaborated the second National Strategy for the Development of Statistics for 2018 to 2022. The strategy identified the strengths and weaknesses of the National Statistical System. This system includes the Bureau of Statistics, line ministries, and other stakeholders. Among the identified weaknesses were staff capacities and preparation for some statistical work, the legal framework for statistical production, poor communication among stakeholders, and processes of official statistics production. 
@@ -32,6 +36,8 @@ DAI has [50 years of experience](https://www.dai.com/our-work/solutions/governan
 **Building capacity is sometimes not enough to effect real change: the underlying political will and incentives may still make the difference for high-quality statistics to be recognized and used for making policy, improving accountability, and informing public debates. How do you see our work in this regard? Are policy makers, the media, and the public involved in what we do? What is their response?**
 
 “Of course, quality statistics are useless if no one uses them. As mentioned earlier, I support the Bureau in organizing trainings for statistics users including media professionals, politicians, businesses, and civil society organizations. The trainings engage these users in the policy dialogue by teaching them how to understand and use statistics and indicators. Reliable statistics systems require sustained and predictable public funding: raising awareness among policy-makers facilitates the inclusion of statistics in national budgets. It is crucial to assure that media have the right understanding of statistics and are able to provide the public with correct information. In our training, participants have expressed real satisfaction in understanding what some indicators they were using really meant. However, it is still too early to appreciate the impact of those activities in the media. Also, raising awareness among the public on the use and significance of statistics should be sustained beyond specific training or events.” 
+
+![Gambia2.jpg](/uploads/Gambia2.jpg)
 
 **Can we draw lessons from The Gambia for similar work in other countries, targeting both capacity building and the incentives necessary to support statistical systems?**
 
