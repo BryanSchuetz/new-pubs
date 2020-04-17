@@ -2,7 +2,6 @@
 title: 'Ethiopia Case Study: Can the Land Titling Process Mitigate Land-Related Violence
   Against Women and Vulnerable Groups?'
 date: 2020-04-13 15:32:00 -04:00
-published: false
 tags:
 - land rights
 - land tenure
