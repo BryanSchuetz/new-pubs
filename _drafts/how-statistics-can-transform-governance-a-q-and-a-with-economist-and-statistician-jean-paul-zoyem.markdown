@@ -38,7 +38,5 @@ DAI has 50 years of experience in building effective and accountable governance,
 
 *[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/) is a Senior Project Manager in DAI’s Brussels office.*
 
-Small box: 
-• Training on the use of official statistics (general): 61 Members of Parliament, 16 provincial Governors and Chairmen, 90 media professionals and local CSOs
- 
-• Technical training and coaching (specific) provided to the Gambia Bureau of Statistics (GBoS) and line ministries on: Consumer Price Index, statistics software, sampling techniques, Data Quality Assessment Framework.
+> By the numbers: 
+So far, the team has trained **61** members of Parliament, **16** provincial governors and chairmen, and **90** media professionals and local CSOs on the use of official statistics. Technical training and coaching has been provided to the Gambia Bureau of Statistics and line ministries on Consumer Price Index, statistics software, sampling techniques, and the Data Quality Assessment Framework.
