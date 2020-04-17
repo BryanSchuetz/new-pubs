@@ -2,7 +2,6 @@
 title: 'Ethiopia Case Study: Can the Land Titling Process Mitigate Land-Related Violence
   Against Women and Vulnerable Groups?'
 date: 2020-04-13 15:32:00 -04:00
-published: false
 tags:
 - land rights
 - land tenure
@@ -63,20 +62,28 @@ We argue that although land certification, through its participatory and sociall
 
 Land certification promises security of tenure, which is perceived to bring social and economic benefits to women, vulnerable groups, and the wider community. Secure land tenure can potentially decrease spousal and domestic abuse because of the increased status of women within the household and the community, and improved claimants’ knowledge of their land rights. Acquiring a land certificate, combined with access to resources, can open up opportunities to improve livelihoods, bring about economic independence, make women and vulnerable groups visible, and ultimately contribute to community resilience. 
 
-*Felicity Buckle is a Senior Consultant and DAI’s Global Practice Leader in Land Tenure and Property Rights; Matt Woodhouse is LIFT’s Strategic Communications Manager.* 
+*Felicity Buckle is a Senior Consultant in DAI’s Land Tenure and Property Rights; Matt Woodhouse is LIFT’s Strategic Communications Manager.* 
 
 Read the full report [here](/uploads/Preventing%20and%20Mitigating%20Land%20Certification%20Related%20Violence%20against%20women%20and%20VGs.pdf).
 
 <aside>
  <h2>What Does the SLLC Process Look Like?</h2> 
- <ul>
-The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:
+<p>The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:</p>
+<ol>
+<li>
+  <strong>Public Awareness</strong>: Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
+</li>
 
-*1. Public Awareness:* Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
+<li>
+  <strong>Adjudication and Demarcation</strong>: Field teams visit each site to register individual plots. This involves claimants demonstrating their parcel boundary by walking around their plot in the presence of neighbours and local leaders. Using aerial photography, para-surveyors record the parcel boundaries on these maps and confirm with claimants and other interested parties.
+</li>
 
-*2. Adjudication and Demarcation:* Field teams visit each site to register individual plots. This involves claimants demonstrating their parcel boundary by walking around their plot in the presence of neighbours and local leaders. Using aerial photography, para-surveyors record the parcel boundaries on these maps and confirm with claimants and other interested parties.
-
-*3. Public Display:* Once boundaries and occupancy information has been collected, it is digitised. This is then printed and taken to a communal centre, where anyone can view the individual plots and either confirm or challenge the information. This provides an opportunity to record disputes or correct other information, for example the misspelling of names.
+<li>
+  <strong>Public Display</strong>: Once boundaries and occupancy information has been collected, it is digitised. This is then printed and taken to a communal centre, where anyone can view the individual plots and either confirm or challenge the information. This provides an opportunity to record disputes or correct other information, for example the misspelling of names.
+</li>
   
-*4. Certification:* Once this computerised data is checked and verified by claimants, it is processed and included in a register of land rights. Land holders will then receive a printed certificate which includes details about their parcel boundaries, occupancy details, and land rights.</p>
+<li>
+  <strong>Certification</strong>: Once this computerised data is checked and verified by claimants, it is processed and included in a register of land rights. Land holders will then receive a printed certificate which includes details about their parcel boundaries, occupancy details, and land rights.
+</li>
+</ol>
 </aside>
