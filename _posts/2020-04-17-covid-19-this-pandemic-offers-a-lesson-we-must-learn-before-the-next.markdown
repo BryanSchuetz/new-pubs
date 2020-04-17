@@ -10,6 +10,8 @@ tags:
 author: "[Manish Kumar](https://www.linkedin.com/in/manishkumarunc/), MPH, MS, [Jim
   Thomas](http://www.jcthomas.org/) of MEASURE Evaluation, and [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson)
   of DAI Global Health"
+thumbnail-image: "/uploads/Stop_Coronavirus_COVID-19_cropped_900_mirrored.jpg"
+social-image: "/uploads/Stop_Coronavirus_COVID-19_cropped_900_mirrored.jpg"
 publication: Developments
 ---
 
