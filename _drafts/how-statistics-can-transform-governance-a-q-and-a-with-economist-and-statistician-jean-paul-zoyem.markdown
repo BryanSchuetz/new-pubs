@@ -16,7 +16,7 @@ The Gambia is a good example of these dynamics. Governed by a dictatorship since
 
 DAI has 50 years of experience in building effective and accountable governance, and has been working with The Gambia since September 2018 through the State Building Contract 1 Complementary Support project, managing capacity building and policy advice in four key areas: public finance management and procurement, security sector reform, statistical data management, and business environment and private sector development. 
 
-To dig deeper into how and where statistical data has helped transform governance in The Gambia, we sat with Jean-Paul Zoyem, our expert on this project. Zoyem has 25 years of experience analyzing inequalities, poverty, and social protection; designing economic policy and statistical surveys; and providing technical assistance in statistics management. 
+![Pic_JP-Zoyem.jpg](/uploads/Pic_JP-Zoyem.jpg){:.float-left}To dig deeper into how and where statistical data has helped transform governance in The Gambia, we sat with Jean-Paul Zoyem, our expert on this project. Zoyem has 25 years of experience analyzing inequalities, poverty, and social protection; designing economic policy and statistical surveys; and providing technical assistance in statistics management. 
 
 Can you describe what the statistics system was like in The Gambia during the Jammeh era—and the challenges of today? 
 “The system was very poor. Though we have a long way to go to improve it, new and younger staff seem to be far more competent and effective than the older generation. The major gaps in official statistics are being reduced, and the quality is improving.”  
