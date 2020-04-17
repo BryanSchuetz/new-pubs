@@ -63,7 +63,7 @@ We argue that although land certification, through its participatory and sociall
 
 Land certification promises security of tenure, which is perceived to bring social and economic benefits to women, vulnerable groups, and the wider community. Secure land tenure can potentially decrease spousal and domestic abuse because of the increased status of women within the household and the community, and improved claimants’ knowledge of their land rights. Acquiring a land certificate, combined with access to resources, can open up opportunities to improve livelihoods, bring about economic independence, make women and vulnerable groups visible, and ultimately contribute to community resilience. 
 
-*Felicity Buckle is a Senior Consultant and DAI’s Global Practice Leader in Land Tenure and Property Rights; Matt Woodhouse is LIFT’s Strategic Communications Manager.* 
+*Felicity Buckle is a Senior Consultant in DAI’s Land Tenure and Property Rights; Matt Woodhouse is LIFT’s Strategic Communications Manager.* 
 
 Read the full report [here](/uploads/Preventing%20and%20Mitigating%20Land%20Certification%20Related%20Violence%20against%20women%20and%20VGs.pdf).
 
