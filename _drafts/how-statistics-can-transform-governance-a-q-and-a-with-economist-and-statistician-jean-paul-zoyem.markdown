@@ -2,6 +2,8 @@
 title: 'How Statistics Can Transform Governance: A Q&A with Economist and Statistician
   Jean-Paul Zoyem'
 date: 2020-04-17 13:28:00 -04:00
+tags:
+- governance
 author: "[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/)"
 thumbnail-image: "/uploads/Gambia1.jpg"
 social-image: "/uploads/Gambia1-aa58ba.jpg"
