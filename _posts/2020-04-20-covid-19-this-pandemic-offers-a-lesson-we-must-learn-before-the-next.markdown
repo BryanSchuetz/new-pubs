@@ -1,7 +1,6 @@
 ---
 title: 'COVID-19: This pandemic offers a lesson we must learn before the next'
-date: 2020-04-17 08:16:00 -04:00
-published: false
+date: 2020-04-20 08:16:00 -04:00
 tags:
 - global-health
 - Think Piece
