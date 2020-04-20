@@ -7,6 +7,7 @@ tags:
 - local-content
 - Think Piece
 - economic-growth
+- sustainable-business
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
   [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
 publication: Developments
