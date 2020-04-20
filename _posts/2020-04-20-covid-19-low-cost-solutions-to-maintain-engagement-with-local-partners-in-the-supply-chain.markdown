@@ -33,9 +33,17 @@ This mantle of trust means even more during a downturn. It is times of crisis th
 ## The Cost vs. Trust Conundrum
 
 But can even well-intentioned companies afford to sustain their SME development initiatives in the face of stringent cost-cutting? While it is not possible for multinationals to maintain their pre-COVID commitments, neither should the calculation be a straightforward either/or: spend-and-engage versus don’t-spend-and-abandon.
+
 Instead, local practitioners should first acknowledge that COVID-19 presents a unique opportunity to reinforce the corporate value of and commitment to local content, SME development, and long-term partnership in their host communities. Communicating this simple yet powerful message sets the stage for engaging the local supply base through and beyond the immediate pandemic.
 
 ## Low-cost Investments that Show Corporate Commitment and Maintain Local Engagement
 
-Next, companies should look for low-cost solutions that bridge the gap until the economic tide turns and the waters of recovery start to ﬂ ow through the supply chain. Here are four possibilities:
+Next, companies should look for low-cost solutions that bridge the gap until the economic tide turns and the waters of recovery start to flow through the supply chain. Here are four possibilities:
+* *AWARENESS:* Synthesize and distribute briefs to your local suppliers that explain the market dynamics and contextualize market developments. This will help bring along your local suppliers and stakeholders through the process, educate them on the nuances of the market, and reduce anxiety by replacing uncertainty with facts.
+* *DIGITIZATION:* Set up or leverage existing electronic portals, such as supplier registration portals, to make available toolkits SMEs can use to respond to the downturn. These toolkits might include additional resources on conserving cash and cutting costs, and link to possible banking facilities in the local market that can assist the SMEs.
+* *TRAINING:* Run webinars and develop short and topic-specific online training (through online platforms like supplier registration portals) that address market conditions or help SMEs improve their competitiveness (for example, e-learnings on procurement, health and safety, and human resource policies).
+* *NETWORKING:* Link experts with SMEs through online Q&As, on-demand call-down support services, and recorded market talks. Technology makes it fairly easy to create mobile apps that submit pop-up questions that can be fielded easily or push content to SMEs inexpensively and quickly.
 
+None of these solutions replaces in-person engagement, collaboration, or more concrete support. But such efforts can be effective both in themselves and in demonstrating your commitment as a corporate partner. In a sector where time horizons are long and the social license to operate remains at a premium, this demonstration of goodwill will be weighed as more than a gesture. 
+
+*Zachary Kaplan 
