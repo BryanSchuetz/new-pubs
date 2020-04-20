@@ -27,7 +27,7 @@ DAI has [50 years of experience](https://www.dai.com/our-work/solutions/governan
  
 “The system was very poor. Though we have a long way to go to improve it, new and younger staff seem to be far more competent and effective than the older generation. The major gaps in official statistics are being reduced, and the quality is improving.”  
 
-![Gambia1-ea9b68.jpg](/uploads/Gambia1-ea9b68.jpg)
+![Gambia1-ea9b68.jpg](/uploads/Gambia1-ea9b68.jpg)`Supporting the new generation of statistics professional in The Gambia. Photo courtesy: Jean-Paul Zoyem.`
 
 **You are the technical lead in one of our key components, statistical data management. Tell us what you do, and with which stakeholders you work.**
 
@@ -42,7 +42,7 @@ So far, the team has trained **61** members of Parliament, **16** provincial gov
 
 “Of course, quality statistics are useless if no one uses them. As mentioned earlier, I support the Bureau in organizing trainings for statistics users including media professionals, politicians, businesses, and civil society organizations. The trainings engage these users in the policy dialogue by teaching them how to understand and use statistics and indicators. Reliable statistics systems require sustained and predictable public funding: raising awareness among policy-makers facilitates the inclusion of statistics in national budgets. It is crucial to assure that media have the right understanding of statistics and are able to provide the public with correct information. In our training, participants have expressed real satisfaction in understanding what some indicators they were using really meant. However, it is still too early to appreciate the impact of those activities in the media. Also, raising awareness among the public on the use and significance of statistics should be sustained beyond specific training or events.” 
 
-![Gambia2.jpg](/uploads/Gambia2.jpg)
+![Gambia2.jpg](/uploads/Gambia2.jpg)`Building statistical capacities in The Gambia through best international standards. Photo courtesy: Jean-Paul Zoyem.`
 
 **Can we draw lessons from The Gambia for similar work in other countries, targeting both capacity building and the incentives necessary to support statistical systems?**
 
