@@ -7,7 +7,8 @@ tags:
 - local-content
 - Think Piece
 - economic-growth
-author: " Zachary Kaplan and William McKenzie"
+author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
+  [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
 publication: Developments
 ---
 
@@ -45,5 +46,3 @@ Next, companies should look for low-cost solutions that bridge the gap until the
 * *NETWORKING:* Link experts with SMEs through online Q&As, on-demand call-down support services, and recorded market talks. Technology makes it fairly easy to create mobile apps that submit pop-up questions that can be fielded easily or push content to SMEs inexpensively and quickly.
 
 None of these solutions replaces in-person engagement, collaboration, or more concrete support. But such efforts can be effective both in themselves and in demonstrating your commitment as a corporate partner. In a sector where time horizons are long and the social license to operate remains at a premium, this demonstration of goodwill will be weighed as more than a gesture. 
-
-*Zachary Kaplan 
