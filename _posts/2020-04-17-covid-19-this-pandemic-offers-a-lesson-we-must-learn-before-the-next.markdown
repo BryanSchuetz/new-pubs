@@ -38,15 +38,15 @@ We know there is no way to adequately respond to a pandemic without good data. S
 
 We will need to develop an appetite to invest and reinvest to achieve excellent health information systems.
 
-Health information systems around the world are at different stages of maturity in their ability to capture routine data as healthcare providers, health program managers, researchers, and community health workers interact with clients. Only the most mature health information systems also effectively share those data among staff working on digital health systems and up the chain to policymakers to facilitate data use and data sharing. And the best health information systems are invested in and continually allocated resources of trained professionals and adequate funding.
+Health information systems around the world are at different [stages of maturity](https://www.measureevaluation.org/his-strengthening-resource-center/his-stages-of-continuous-improvement-toolkit) in their ability to capture routine data as healthcare providers, health program managers, researchers, and community health workers interact with clients. Only the most mature health information systems also effectively share those data among staff working on digital health systems and up the chain to policymakers to facilitate data use and data sharing. And the best health information systems are invested in and continually allocated resources of trained professionals and adequate funding.
 
 ## Surveillance and Diagnosis
 
 Countries will need to invest in strengthening digital surveillance of diseases and emerging threats.
 
-USAID has invested in several global goods, available in [Digital Square](https://digitalsquare.org/)’s guidebook. These are being deployed to track and monitor COVID-19 cases across the world.
+USAID has invested in several global goods, available in [Digital Square](https://digitalsquare.org/)’s [guidebook](https://digitalsquare.org/global-goods-guidebook). These are being deployed to track and monitor COVID-19 cases across the world.
 
-Many existing digital health applications, such as Dimagi’s [CommCare](https://www.dimagi.com/commcare/) and the University of Oslo’s District Health Information Software, version 2 [(DHIS2) platform](https://www.dhis2.org/) and its DHIS2 tracker, enable countries to quickly capture and analyze testing data to act on positive cases and implement strategies to prevent community spread. This works best if the information system architecture is flexible, so that modules on COVID-19 or other emerging diseases can be easily incorporated, populated, and the data shared.
+Many existing digital health applications, such as Dimagi’s [CommCare](https://www.dimagi.com/commcare/) and the University of Oslo’s District Health Information Software, version 2 [(DHIS2) platform](https://www.dhis2.org/covid-19) and its DHIS2 tracker, enable countries to quickly capture and analyze testing data to act on positive cases and implement strategies to prevent community spread. This works best if the information system architecture is flexible, so that modules on COVID-19 or other emerging diseases can be easily incorporated, populated, and the data shared.
 
 ## Looking Ahead
 
