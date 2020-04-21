@@ -21,7 +21,7 @@ Local content practitioners—particularly those working in the sustainability, 
 
 
 
-## SMEs in Supply Chain are Particularly Vulnerable
+## SMEs in the Supply Chain are Particularly Vulnerable
 
 Local small- and medium-sized enterprises (SMEs)—and perhaps especially SMEs in the energy and mining industry—are inherently vulnerable in this and other times of crisis:
 * First, most SMEs lack the banking facilities and scale to make cost-cutting and refinancing decisions comparable to those now being executed by big multinationals or other large companies.
