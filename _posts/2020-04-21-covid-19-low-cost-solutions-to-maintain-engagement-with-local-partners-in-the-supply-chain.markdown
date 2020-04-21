@@ -9,8 +9,8 @@ tags:
 - sustainable-business
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
   [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
-thumbnail-image: "/uploads/small%20marvin-meyer-SYTO3xs06fU-unsplash.jpg"
-social-image: "/uploads/small%20marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+thumbnail-image: "/uploads/sm.jpg"
+social-image: "/uploads/sm.jpg"
 publication: Developments
 ---
 
