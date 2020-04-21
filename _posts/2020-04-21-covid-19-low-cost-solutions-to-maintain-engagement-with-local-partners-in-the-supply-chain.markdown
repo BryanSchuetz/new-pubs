@@ -1,8 +1,7 @@
 ---
 title: 'COVID-19: Low-Cost Solutions to Maintain Engagement with Local Partners in
   the Supply Chain'
-date: 2020-04-20 16:52:00 -04:00
-published: false
+date: 2020-04-21 11:52:00 -04:00
 tags:
 - local-content
 - Think Piece
@@ -10,6 +9,8 @@ tags:
 - sustainable-business
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
   [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
+thumbnail-image: "/uploads/small%20marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+social-image: "/uploads/small%20marvin-meyer-SYTO3xs06fU-unsplash.jpg"
 publication: Developments
 ---
 
@@ -37,6 +38,8 @@ This mantle of trust means even more during a downturn. It is times of crisis th
 But can even well-intentioned companies afford to sustain their SME development initiatives in the face of stringent cost-cutting? While it is not possible for multinationals to maintain their pre-COVID commitments, neither should the calculation be a straightforward either/or: spend-and-engage versus don’t-spend-and-abandon.
 
 Instead, local practitioners should first acknowledge that COVID-19 presents a unique opportunity to reinforce the corporate value of and commitment to local content, SME development, and long-term partnership in their host communities. Communicating this simple yet powerful message sets the stage for engaging the local supply base through and beyond the immediate pandemic.
+
+![marvin-meyer-SYTO3xs06fU-unsplash.jpg](/uploads/marvin-meyer-SYTO3xs06fU-unsplash.jpg)`Photo by Marvin Meyer on Unsplash.`
 
 ## Low-cost Investments that Show Corporate Commitment and Maintain Local Engagement
 
