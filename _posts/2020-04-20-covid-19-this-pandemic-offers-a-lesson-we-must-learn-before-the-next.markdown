@@ -1,5 +1,5 @@
 ---
-title: 'COVID-19: This pandemic offers a lesson we must learn before the next'
+title: 'COVID-19: This Pandemic Offers a Lesson We Must Learn Before the Next'
 date: 2020-04-20 08:16:00 -04:00
 tags:
 - global-health
