@@ -2,6 +2,7 @@
 title: 'COVID-19: Low-Cost Solutions to Maintain Engagement with Local Partners in
   the Supply Chain'
 date: 2020-04-21 11:52:00 -04:00
+published: false
 tags:
 - local-content
 - Think Piece
