@@ -6,7 +6,7 @@ published: false
 publication: Developments
 ---
 
-In recent years, Thailand has been troubled by both latent and violent conflict. Political crises have included violent street protests and the destruction of public property, which culminated in a military coup in 2014. Anti-Muslim sentiment is rising in some parts of the country, and grievances over land and water use and disparities in economic development have increased tensions that periodically erupt in violence. At the same time, the long-running insurgency in the deep south continues to claim casualties without a clear end in sight. 
+In recent years, Thailand has been troubled by both latent and violent conflict. Political crises have included violent street protests and the destruction of public property, which culminated in a [military coup in 2014](https://en.wikipedia.org/wiki/2014_Thai_coup_d'%C3%A9tat). Anti-Muslim sentiment is rising in some parts of the country, and grievances over land and water use and disparities in economic development have increased tensions that periodically erupt in violence. At the same time, the [long-running insurgency](https://thediplomat.com/2018/02/the-slow-burning-insurgency-in-thailands-deep-south/) in the deep south continues to claim casualties without a clear end in sight. 
 
 
 
@@ -14,13 +14,13 @@ In recent years, Thailand has been troubled by both latent and violent conflict.
 
 To date, research on conflict in Thailand has focused mainly on the deep south, with much discussion of the issues, drivers, and push-and-pull factors that fuel the violence there. With few investigations of conflict in other areas of the country, many questions remain regarding the underlying pathways leading to the violence that has been witnessed in, for example, the north and northeast regions. A deeper understanding of the drivers of conflict is needed to address effectively the latent and violent conflicts affecting Thailand. 
 
-For the purposes of this study, we understand “drivers” to refer to those push and pull factors that influence people to turn to violence and make it easier for violent people or organizations to attract followers to their cause. 
-
 To investigate the drivers of conflict and underlying vulnerabilities in more detail, the U.S. Agency for International Development (USAID)-funded and DAI-led Together activity supported the design and implementation of a mixed-methods research project from November 2018 to June 2019. In partnership with five Thai universities—Maejo University, Khon Kaen University, Yala Rajabhat University, Prince of Songkla University–Pattani Campus, and Princess of Naradhiwas University—the project explored issues of latent and violent conflict in the north, northeast, and deep south regions of Thailand to provide a better understanding of the drivers of conflict and the pathways through which individuals become influenced to participate in destructive or violent actions, such as arson or physically harming other people. 
+
+For the purposes of our research, we define “drivers” as those push-and-pull factors that influence people to turn to violence and make it easier for violent people or organizations to attract followers to their cause. 
 
 ## Collecting the Data 
 
-The research project began with a review of relevant literature and consultations with academics that led to a list of 10 assumed drivers of conflict in Thailand. With this prevailing consensus opinion in hand, the team designed a quantitative questionnaire to collect data to test for correlations between the assumed drivers of conflict and support for destructive or violent actions or support for extreme ideas. Research staff then collected a stratified random sample of more than 1,900 people aged 18 to 60 in 11 provinces in the three regions. 
+We started with a review of relevant literature and consultations with academics that led to a list of 10 assumed drivers of conflict in Thailand. With this prevailing consensus opinion in hand, the team designed a quantitative questionnaire to collect data to test for correlations between the assumed drivers of conflict and support for destructive or violent actions or support for extreme ideas. Research staff then collected a stratified random sample of more than 1,900 people aged 18 to 60 in 11 provinces in the three regions. 
 
 To understand how the assumed drivers form pathways to extremism, detailed case studies were collected from 40 people who had been personally involved in destructive or violent actions. This was done through semi-structured interviews with the individuals themselves, with family members, their close friends, and others to provide a full picture of their lives and actions. 
 
