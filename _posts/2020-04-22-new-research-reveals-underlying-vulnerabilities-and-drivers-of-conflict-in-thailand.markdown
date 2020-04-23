@@ -56,23 +56,31 @@ The research findings help us to reevaluate our understanding of drivers of conf
 * The acceptance of revenge and unexpectedly broad support of violence to protect communities and their way of life highlight the need to address latent conflicts and strengthen social cohesion and local capacity to mitigate conflict. Interventions will be more effective if initiated and led by established and trusted individuals from within communities who can use their influence to mediate disputes and offer peaceful and effective alternatives to revenge seeking.
 
 <aside>
- <h2>What Does the SLLC Process Look Like?</h2> 
-<p>The SLLC process builds on and improves a previous process of first-level land certification and can be grouped broadly into four steps:</p>
+ <h2>What Drives Extremism?</h2> 
+<p>Prevailing consensus includes many drivers of support for extreme actions or ideas, yet only these six show significant correlations:</p>
 <ol>
 <li>
-  <strong>Public Awareness</strong>: Before land registration begins, communities are informed about the land registration process—how it works, what it will entail, and what their rights and obligations are. They will be informed about what events they need to attend, what documents they will be expected to have, and who should participate.
+  <strong>Lack of self-efficacy</strong>
 </li>
 
 <li>
-  <strong>Adjudication and Demarcation</strong>: Field teams visit each site to register individual plots. This involves claimants demonstrating their parcel boundary by walking around their plot in the presence of neighbours and local leaders. Using aerial photography, para-surveyors record the parcel boundaries on these maps and confirm with claimants and other interested parties.
+  <strong>Community marginalization and discrimination</strong>
 </li>
 
 <li>
-  <strong>Public Display</strong>: Once boundaries and occupancy information has been collected, it is digitised. This is then printed and taken to a communal centre, where anyone can view the individual plots and either confirm or challenge the information. This provides an opportunity to record disputes or correct other information, for example the misspelling of names.
+  <strong>Revenge</strong>
 </li>
   
 <li>
-  <strong>Certification</strong>: Once this computerised data is checked and verified by claimants, it is processed and included in a register of land rights. Land holders will then receive a printed certificate which includes details about their parcel boundaries, occupancy details, and land rights.
+  <strong>Corruption</strong>
+</li>
+
+<li>
+  <strong>Weak rule of law</strong>
+</li>
+
+<li>
+  <strong>Insecurity</strong>
 </li>
 </ol>
 </aside>
