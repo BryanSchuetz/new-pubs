@@ -38,7 +38,7 @@ The picture that emerges from analysis of qualitative data from the case studies
 
 In interviews with those who were personally involved in groups that committed destructive or violent actions, individuals stated that they wanted to protect or seek justice on behalf of their communities. They felt persuaded by their peers and revered leaders to do the “right” thing and to act in the face of unfair treatment affecting their communities. Reflecting on their actions, interviewees spoke of the great pride they felt in helping their communities, and of a strong sense of confidence and personal value gained—and of the power they felt in taking control of their situation and future.  
 
-## Gender Norms 
+## Gender Norms Inconclusive 
 
 Analysis of demographic factors revealed that gender had no relationship to support for either extreme actions or ideas, implying that women are as vulnerable to being influenced by the drivers of conflict as men. This does not imply that both men and women are equally likely to perform dangerous or violent acts—those are still done mainly by men. This finding mirrors results of [research](http://openasia.org/en/g/wp-content/uploads/2018/07/The_Role_of_Women_in_Violent_Extremism_in_Asia-1.pdf) in other countries in the region and may indicate a [shift in roles](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Negating%20Stereotypes-%20Women%20Gender%20and%20Terrorism%20in%20Indonesia%20and%20Pakistan.pdf) men and women are playing in conflicts. More research is needed to deepen our [understanding of the roles](https://www.globalcenter.org/wp-content/uploads/2018/09/GC_2018-Sept_Gender_and_CVE.pdf) that women may play in supporting destructive and violent actions in Thailand.  
 
