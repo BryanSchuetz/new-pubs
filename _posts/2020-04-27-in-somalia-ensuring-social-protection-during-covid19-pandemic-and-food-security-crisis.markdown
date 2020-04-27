@@ -32,7 +32,7 @@ The confluence of COVID-19 and massive locust infestation is likely to be devast
 
 Central to this work is coordinating with international donors and nongovernmental groups. For example, the World Bank has allocated $20 million to mitigate the locust infestation’s effects on the most vulnerable members of society, and it may be possible to extend these emergency cash payments to include COVID-19 responses. 
 
-![MoH- COV19.jpg](/uploads/MoH-%20COV19.jpg)`Photo courtesy: 
+![MoH- COV19.jpg](/uploads/MoH-%20COV19.jpg)`Photo courtesy: Somali Ministry of Health.`
 
 ## Advocating a Holistic Approach
 
