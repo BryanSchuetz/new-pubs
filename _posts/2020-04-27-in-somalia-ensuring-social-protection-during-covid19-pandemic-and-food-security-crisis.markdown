@@ -1,5 +1,5 @@
 ---
-title: In Somalia, Ensuring Social Protection During a Pandemic and Food Security
+title: In Somalia, Ensuring Social Protection During COVID-19 Pandemic and Food Security
   Crisis
 date: 2020-04-27 09:06:00 -04:00
 published: false
