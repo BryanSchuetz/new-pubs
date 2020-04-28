@@ -1,8 +1,7 @@
 ---
-title: In Somalia, Ensuring Social Protection During COVID-19 Pandemic and Food Security
-  Crisis
-date: 2020-04-27 09:06:00 -04:00
-published: false
+title: In Somalia, Ensuring Social Protection During the COVID-19 Pandemic and Food
+  Security Crisis
+date: 2020-04-28 09:06:00 -04:00
 tags:
 - covid-19
 - stability
@@ -28,7 +27,7 @@ The European Union-funded [Technical Assistance Facility](https://www.dai.com/ou
 
 When the first case of COVID-19 was reported on March 16, Somalia was already struggling with one of the largest desert [locust swarms](https://www.bbc.com/news/world-africa-51348517) ever recorded. A month later, the coronavirus is now established—237 confirmed cases, and eight deaths attributed to COVID-19 as of April 21—and the government has activated various [response measures](https://www.africa-newsroom.com/press/coronavirus-somalia-international-organization-for-migration-iom-somalia-preparedness-and-response-plan-covid19-april-2020), including closing schools, restricting mass gatherings, and communicating on infection prevention and control measures. 
 
-The confluence of COVID-19 and massive locust infestation is likely to be devastating. Desert locusts are reported to be consuming 1.8m tonnes of vegetation a day across 350 square kilometres and have [already destroyed](https://reliefweb.int/report/somalia/six-things-you-didn-t-know-about-desert-locusts) more than 175,000 acres of farmland in Somalia and Ethiopia alone. According to the Ministry of Agriculture and FAO, this could lead to an additional 600,000 people faced with increased food insecurity between April and June. The Facility has prepared two position papers recommending actions to address the infestation and is now serving as the secretariat to ensure that Somalia’s ministerial response encompasses both COVID-19 and the locust impact. 
+The confluence of COVID-19 and massive locust infestation is likely to be devastating. Desert locusts are reported to be consuming 1.8 million tonnes of vegetation a day across 350 square kilometres and have [already destroyed](https://reliefweb.int/report/somalia/six-things-you-didn-t-know-about-desert-locusts) more than 175,000 acres of farmland in Somalia and Ethiopia alone. According to the Ministry of Agriculture and FAO, this could lead to an additional 600,000 people faced with increased food insecurity between April and June. The Facility has prepared two position papers recommending actions to address the infestation and is now serving as the secretariat to ensure that Somalia’s ministerial response encompasses both COVID-19 and the locust impact. 
 
 Central to this work is coordinating with international donors and nongovernmental groups. For example, the World Bank has allocated $20 million to mitigate the locust infestation’s effects on the most vulnerable members of society, and it may be possible to extend these emergency cash payments to include COVID-19 responses. 
 
