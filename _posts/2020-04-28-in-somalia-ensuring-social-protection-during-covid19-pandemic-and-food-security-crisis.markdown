@@ -41,7 +41,7 @@ For example, the Facility is working with the Somali government on engaging dono
 
 ## Thinking Ahead
 
-The Facility is advocating for the production and communication of key messages to promote practices such as handwashing, good hygiene, and social distancing, which are key to slowing the spread of the virus and protecting those most at risk. Certain social distancing measures, however, represent a major challenge for those who depend on cash entitlements, especially the elderly. Our team is advocating for contactless methods of ensuring cash transfers reach beneficiaries by offering to assist donors on:
+The Facility is advocating for the production and communication of key messages to promote practices such as handwashing, good hygiene, and social distancing, which are key to slowing the spread of the virus and protecting those most at risk. Certain social distancing measures, however, represent a major challenge for those who depend on cash entitlements, especially the elderly. Our team is advocating for contactless cash transfers and offering to assist donors in:
 
 * Developing new electronic enrolment systems to facilitate and fast-track client uptake.
 * Expanding and scaling government-wide customer relationship management systems to track constituents across agencies.
