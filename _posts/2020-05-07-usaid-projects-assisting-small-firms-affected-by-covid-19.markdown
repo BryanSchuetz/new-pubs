@@ -43,7 +43,7 @@ SMEs make up [nearly 98 percent](https://fortuneofafrica.com/rwanda/micro-small-
 
 Once the data is in hand, the team will develop financial products and guarantees to support business during and after the pandemic.
 
-“These activities align with our project’s broader goals of creating a positive business enabling environment so that small firms can access the finance and investment they need to survive and grow, even with global events like COVID-19,” said Chief of Party Mark Rostal.
+“These activities align with our project’s broader goals of creating a positive business enabling environment so that small firms can access the finance and investment they need to survive and grow, even with global events like COVID-19,” said Chief of Party [Mark Rostal](https://www.dai.com/who-we-are/our-team/mark-rostal).
 
 Demonstrating ingenuity and resilience, project-supported SMEs are rapidly adapting their business models to survive. One firm, [GET IT](https://getitltd.com/), the leading distributor of IOS 22000-certified vegetables and fruits to hotels and restaurants in Rwanda, has started home deliveries of produce and other food products, allowing the company to recover some of the losses incurred due to the lockdown as well as offering a solution for people to access fresh food at home. This initiative is also sustaining the livelihoods of numerous farmers who supply the firm.  
  
