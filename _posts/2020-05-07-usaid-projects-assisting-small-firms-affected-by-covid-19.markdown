@@ -35,7 +35,7 @@ To overcome the movement restrictions within Uzbekistan, Garden House consolidat
 
 Another project-supported exporter, Yumuqboy Erkin Farm Enterprise, is preparing a shipment of carrots for export to Russia directly from Altyaryk district in Ferghana region, while Japan Uz Trade LLC is preparing a container of dried fruits and pulses for export to Japan. This shipment has a knock-on effect to other project-supported farm enterprises as many of them supply commodities to Japan Uz Trade.  
 
-“Over the past four years, AVC has worked with many exporters to establish domestic supply channels and market linkages to export markets beyond the borders of Uzbekistan, including the three exporters listed above,” said Chief of Party Brian Kiger. “Among our weekly webinars, we included a panel discussion with these successful export partners, to discuss challenges with exports under COVID-19 restrictions, and shared the solutions they used to mitigate those challenges with their peers. Creating a platform for dialogue is one way we are supporting partners to share information and develop joint strategies to maintain Uzbekistan’s horticultural exports during the pandemic.”
+“Over the past four years, AVC has worked with many exporters to establish domestic supply channels and market linkages to export markets beyond the borders of Uzbekistan, including the three exporters listed above,” said Chief of Party [Brian Kiger](https://www.linkedin.com/in/brian-kiger-28190562/). “Among our weekly webinars, we included a panel discussion with these successful export partners, to discuss challenges with exports under COVID-19 restrictions, and shared the solutions they used to mitigate those challenges with their peers. Creating a platform for dialogue is one way we are supporting partners to share information and develop joint strategies to maintain Uzbekistan’s horticultural exports during the pandemic.”
 
 ### Supporting the SME Sector
 
@@ -43,11 +43,13 @@ SMEs make up [nearly 98 percent](https://fortuneofafrica.com/rwanda/micro-small-
 
 Once the data is in hand, the team will develop financial products and guarantees to support business during and after the pandemic.
 
-“These activities align with our project’s broader goals of creating a positive business enabling environment so that small firms can access the finance and investment they need to survive and grow, even with global events like COVID-19,” said Chief of Party Mark Rostal.
+“These activities align with our project’s broader goals of creating a positive business enabling environment so that small firms can access the finance and investment they need to survive and grow, even with global events like COVID-19,” said Chief of Party [Mark Rostal](https://www.dai.com/who-we-are/our-team/mark-rostal).
 
 Demonstrating ingenuity and resilience, project-supported SMEs are rapidly adapting their business models to survive. One firm, [GET IT](https://getitltd.com/), the leading distributor of IOS 22000-certified vegetables and fruits to hotels and restaurants in Rwanda, has started home deliveries of produce and other food products, allowing the company to recover some of the losses incurred due to the lockdown as well as offering a solution for people to access fresh food at home. This initiative is also sustaining the livelihoods of numerous farmers who supply the firm.  
  
 Another firm, [Masaka Creamery](https://www.facebook.com/MasakaCreameryLTD), a producer of high-quality dairy products, has also had to adapt its business model. A major goal for Masaka during the pandemic has been to protect its employees and the smallholder farmers it sources from, particularly given that as part of the company’s social impact model, most of its employees are persons with disabilities, who are already economically vulnerable. To prevent job loss, Masaka shifted rapidly to a home delivery model by establishing an online presence with Nguriza Nshore support.
+
+![Dairy SME (Masaka Creamery).jpg](/uploads/Dairy%20SME%20(Masaka%20Creamery).jpg)`An employee works at Masaka Creamery in Kigali, Rwanda. Photo Courtesy Sarah Day Smith/USAID.`
 
 “Our sales and imports of raw materials were affected by COVID-19, since our customers were not able to move to get our products from the various points of sale,” said Julie Igiraneza, CEO, Masaka Creamery. “We introduced a home delivery option which, although the sales were not as high, enabled us to keep working and pay our staff. Nguriza Nshore’s support specifically in setting up our social media strategy was very key, as it helped us reach customers we wouldn’t have reached otherwise, and kept our business running during the lockdown.”
 
@@ -62,6 +64,8 @@ AVC-HVC’s assistance included a per-container stipend to help offset the 70 pe
 AVC-HVC’s second initiative will support women-owned agribusinesses and food processing companies to process excess supplies of unexportable dried fruits and nuts into jams, marmalades, and honey-nut mixes, and to begin providing home delivery of these products across Kabul and large provincial cities. 
 
 “This is important because in the context of COVID-19, more than 88 percent of Afghan agricultural exports are not able to leave the country due to border closures, and on top of this, selling these unexportable products domestically has been challenged by traditional market closures due to stay-at-home policies,” said Estrada-Valle. By turning perishables into preserved products and providing home delivery services, these firms can generate sales to help keep their businesses open, employ staff, and reduce food waste.
+
+![Benazir Yakta in Gulfood.jpg](/uploads/Benazir%20Yakta%20in%20Gulfood.jpg)`Benazir Yakta shows her products at a past Gulfood tradeshow, one of the largest food and hospitality exhibitions in the world. Photo courtesy: AVC-HVC.` 
 
 “In the middle of this COVID-19 crisis, AVC-HVC helped me process some of the product I had in stock for export when the borders closed, into jam for the Ramadan market,” said Benazir Yakta, who owns a [trading company](https://www.benaziryakta.com/) in Kabul. “They also helped me advertise my products on social media and now I am dispatching an average of 15 home deliveries a day. I may not make the same profit I would have if I had exported, but I will not lose money and my business and employees will survive the crisis.”
 
