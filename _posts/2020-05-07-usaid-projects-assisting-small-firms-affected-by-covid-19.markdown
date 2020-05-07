@@ -8,21 +8,21 @@ social-image: "/uploads/ad-9c731a.jpg"
 publication: Developments
 ---
 
-Even the strongest economies are struggling to cope with the economic impact of  the COVID-19 pandemic. China saw its first drop in gross domestic product since 1992 and Germany, Europe's largest economy, could contract by up to 5.4 percent this year. While it’s too soon to predict how less developed countries will fare, all indicators point to severe challenges.
+Even the strongest economies are struggling to cope with the economic impact of the COVID-19 pandemic. China saw its [first drop](https://www.csis.org/analysis/global-economic-impacts-covid-19) in gross domestic product since 1992 and Germany, Europe's largest economy, [could contract](https://www.rte.ie/news/business/2020/0330/1127328-german-economic-outlook/) by up to 5.4 percent this year. While it’s too soon to predict how less developed countries will fare, [all indicators](http://www.ipsnews.net/2020/04/economic-impact-covid-19-developing-countries-part-2/) point to severe challenges.
 
-The fate of small and medium-sized enterprises (SMEs) is a particular concern, given that they account for more than half of total employment in developing nations. 
-
-
+The fate of small and medium-sized enterprises (SMEs) is a particular concern, given that they account for [more than half of total employment](https://www.worldbank.org/en/topic/smefinance) in developing nations. 
 
 
 
-“Small businesses across the developing world are being affected regardless of sector. Urban workers, for example, with work stoppages now may not be able to send back remittances to families in rural areas, which is having negative multiplier effects on household spending that affect countless microenterprises,” said Zaki Raheem, DAI’s Senior Specialist for Enterprise Development and Entrepreneurship. “And while more-established and well-connected small businesses are quickly learning how to sell online, more vulnerable and less tech-savvy small businesses may simply have had supply chains and customer bases cut off and have very limited runways before cash runs out.”
+
+
+“Small businesses across the developing world are being affected regardless of sector. Urban workers, for example, with work stoppages now may not be able to send back remittances to families in rural areas, which is having negative multiplier effects on household spending that affect countless microenterprises,” said [Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem), DAI’s Senior Specialist for Enterprise Development and Entrepreneurship. “And while more-established and well-connected small businesses are quickly learning how to sell online, more vulnerable and less tech-savvy small businesses may simply have had supply chains and customer bases cut off and have very limited runways before cash runs out.”
 
 Under the cloud of the COVID-19 crisis, small businesses are letting employees go, losing revenue, and in some cases shutting down operations. But U.S. Agency for International Development (USAID)-funded projects are rapidly deploying solutions to help firms navigate this challenging time. 
 
-Shifting Focus
+## Shifting Focus
 
-In Uzbekistan, export partners of the USAID’s Agricultural Value Chains Activity (AVC) are applying innovative business strategies to allow for uninterrupted export of agricultural products to foreign markets. When European buyers stopped placing orders due to health concerns, the project team helped local firms shift their exports to the Commonwealth of Independent States—Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan. One firm, Garden House LLC, has already exported 60 metric tons of mixed dried fruit products to Belarus, valued at $90,000. 
+In Uzbekistan, export partners of the USAID’s [Agricultural Value Chains Activity (AVC)](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) are applying innovative business strategies to allow for uninterrupted export of agricultural products to foreign markets. When European buyers stopped placing orders due to health concerns, the project team helped local firms shift their exports to the Commonwealth of Independent States—Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan. One firm, Garden House LLC, has already exported 60 metric tons of mixed dried fruit products to Belarus, valued at $90,000. 
 
 To overcome the movement restrictions within Uzbekistan, Garden House consolidated the shipment and exported directly from Samarkand, where its farmer suppliers are located instead of its usual practice of exporting from Tashkent. Additionally, Garden House incorporated these suppliers as official company affiliates rather than independent contractors to allow for their movement between the fields and the consolidation center.  
 
