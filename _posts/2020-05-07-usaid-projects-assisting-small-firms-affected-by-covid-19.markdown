@@ -63,7 +63,7 @@ AVC-HVC’s second initiative will support women-owned agribusinesses and food p
 
 “This is important because in the context of COVID-19, more than 88 percent of Afghan agricultural exports are not able to leave the country due to border closures, and on top of this, selling these unexportable products domestically has been challenged by traditional market closures due to stay-at-home policies,” said Estrada-Valle. By turning perishables into preserved products and providing home delivery services, these firms can generate sales to help keep their businesses open, employ staff, and reduce food waste.
 
-![Benazir Yakta in Gulfood.jpg](/uploads/Benazir%20Yakta%20in%20Gulfood.jpg)`Benazir Yakta shows her wares at a past Gulfood tradeshow, one of the largest food and hospitality exhibitions in the world. Photo courtesy: AVC-HVC.` 
+![Benazir Yakta in Gulfood.jpg](/uploads/Benazir%20Yakta%20in%20Gulfood.jpg)`Benazir Yakta shows her products at a past Gulfood tradeshow, one of the largest food and hospitality exhibitions in the world. Photo courtesy: AVC-HVC.` 
 
 “In the middle of this COVID-19 crisis, AVC-HVC helped me process some of the product I had in stock for export when the borders closed, into jam for the Ramadan market,” said Benazir Yakta, who owns a [trading company](https://www.benaziryakta.com/) in Kabul. “They also helped me advertise my products on social media and now I am dispatching an average of 15 home deliveries a day. I may not make the same profit I would have if I had exported, but I will not lose money and my business and employees will survive the crisis.”
 
