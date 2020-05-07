@@ -49,6 +49,8 @@ Demonstrating ingenuity and resilience, project-supported SMEs are rapidly adapt
  
 Another firm, [Masaka Creamery](https://www.facebook.com/MasakaCreameryLTD), a producer of high-quality dairy products, has also had to adapt its business model. A major goal for Masaka during the pandemic has been to protect its employees and the smallholder farmers it sources from, particularly given that as part of the company’s social impact model, most of its employees are persons with disabilities, who are already economically vulnerable. To prevent job loss, Masaka shifted rapidly to a home delivery model by establishing an online presence with Nguriza Nshore support.
 
+![Dairy SME (Masaka Creamery).jpg](/uploads/Dairy%20SME%20(Masaka%20Creamery).jpg)`An employee works at Masaka Creamery in Kigali, Rwanda. Photo Courtesy Sarah Day Smith/USAID.`
+
 “Our sales and imports of raw materials were affected by COVID-19, since our customers were not able to move to get our products from the various points of sale,” said Julie Igiraneza, CEO, Masaka Creamery. “We introduced a home delivery option which, although the sales were not as high, enabled us to keep working and pay our staff. Nguriza Nshore’s support specifically in setting up our social media strategy was very key, as it helped us reach customers we wouldn’t have reached otherwise, and kept our business running during the lockdown.”
 
 ### Keeping Staff Employed
