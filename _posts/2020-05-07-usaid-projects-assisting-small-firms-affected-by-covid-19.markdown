@@ -30,9 +30,9 @@ Another project-supported exporter, Yumuqboy Erkin Farm Enterprise, is preparing
 
 “Over the past four years, AVC has worked with many exporters to establish domestic supply channels and market linkages to export markets beyond the borders of Uzbekistan, including the three exporters listed above,” said Chief of Party Brian Kiger. “Among our weekly webinars, we included a panel discussion with these successful export partners, to discuss challenges with exports under COVID-19 restrictions, and shared the solutions they used to mitigate those challenges with their peers. Creating a platform for dialogue is one way we are supporting partners to share information and develop joint strategies to maintain Uzbekistan’s horticultural exports during the pandemic.”
 
-Supporting the SME Sector
+### Supporting the SME Sector
 
-SMEs make up nearly 98 percent of the total businesses in Rwanda and account for nearly 40 percent of private sector employment. Accordingly, the Feed the Future Rwanda Nguriza Nshore project is evaluating how best to support the private sector and small firms during this difficult time. The project is supporting the Private Sector Federation to survey small firms to better understand how COVID-19 is affecting transaction advisors, financial institutions, nonbank financial institutions, private capital investors, and other small firms. 
+SMEs make up [nearly 98 percent](https://fortuneofafrica.com/rwanda/micro-small-medium-enterprises-in-rwanda/) of the total businesses in Rwanda and account for nearly 40 percent of private sector employment. Accordingly, the [Feed the Future Rwanda Nguriza Nshore](https://www.dai.com/our-work/projects/rwanda-nguriza-nshore) project is evaluating how best to support the private sector and small firms during this difficult time. The project is supporting the Private Sector Federation to survey small firms to better understand how COVID-19 is affecting transaction advisors, financial institutions, nonbank financial institutions, private capital investors, and other small firms. 
 
 Once the data is in hand, the team will develop financial products and guarantees to support business during and after the pandemic.
 
