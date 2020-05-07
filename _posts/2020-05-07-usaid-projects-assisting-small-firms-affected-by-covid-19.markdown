@@ -2,6 +2,13 @@
 title: USAID Projects Assisting Small Firms Affected by COVID-19
 date: 2020-05-07 16:07:00 -04:00
 published: false
+tags:
+- covid-19
+- economic-growth
+- sustainable-business
+- trade
+- finance
+- usaid
 author: "[Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
 thumbnail-image: "/uploads/ad.jpg"
 social-image: "/uploads/ad-9c731a.jpg"
