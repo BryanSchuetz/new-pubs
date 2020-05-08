@@ -33,6 +33,8 @@ In Uzbekistan, export partners of the USAID’s [Agricultural Value Chains Activ
 
 To overcome the movement restrictions within Uzbekistan, Garden House consolidated the shipment and exported directly from Samarkand, where its farmer suppliers are located instead of its usual practice of exporting from Tashkent. Additionally, Garden House incorporated these suppliers as official company affiliates rather than independent contractors, which allowed for their movement between the fields and the consolidation center, according to official rules.  
 
+![Stickers are placed on shipment.jpg](/uploads/Stickers%20are%20placed%20on%20shipment.jpg)`Employees prepare products for shipment. Photo courtesy: Garden House. 
+
 Another project-supported exporter, Yumuqboy Erkin Farm Enterprise, is preparing a shipment of carrots for export to Russia directly from Altyaryk district in Ferghana region, while Japan Uz Trade LLC is preparing a container of dried fruits and pulses for export to Japan. This shipment has a knock-on effect to other project-supported farm enterprises as many of them supply commodities to Japan Uz Trade.  
 
 “Over the past four years, AVC has worked with many exporters to establish domestic supply channels and market linkages to export markets beyond the borders of Uzbekistan, including the three exporters listed above,” said Chief of Party [Brian Kiger](https://www.linkedin.com/in/brian-kiger-28190562/). “Among our weekly webinars, we included a panel discussion with these successful export partners, to discuss challenges with exports under COVID-19 restrictions, and shared the solutions they used to mitigate those challenges with their peers. Creating a platform for dialogue is one way we are supporting partners to share information and develop joint strategies to maintain Uzbekistan’s horticultural exports during the pandemic.”
@@ -47,7 +49,7 @@ Once the data is in hand, the team will develop financial products and guarantee
 
 Demonstrating ingenuity and resilience, project-supported SMEs are rapidly adapting their business models to survive. [Masaka Creamery](https://www.facebook.com/MasakaCreameryLTD), a producer of high-quality dairy products, has had, like others, to adapt its business model. A major goal for Masaka during the pandemic has been to protect its employees and the smallholder farmers it sources from, particularly given that as part of the company’s social impact model, most of its employees are persons with disabilities, who are already economically vulnerable. To prevent job loss, Masaka shifted rapidly to a home delivery model by establishing an online presence with Nguriza Nshore support.
 
-![Dairy SME (Masaka Creamery).jpg](/uploads/Dairy%20SME%20(Masaka%20Creamery).jpg)`An employee works at Masaka Creamery in Kigali, Rwanda. Photo Courtesy Sarah Day Smith/USAID.`
+![Dairy SME (Masaka Creamery).jpg](/uploads/Dairy%20SME%20(Masaka%20Creamery).jpg)`An employee works at Masaka Creamery in Kigali, Rwanda. Photo courtesy: Sarah Day Smith/USAID.`
 
 “Our sales and imports of raw materials were affected by COVID-19, since our customers were not able to move to get our products from the various points of sale,” said Julie Igiraneza, CEO, Masaka Creamery. “We introduced a home delivery option which, although the sales were not as high, enabled us to keep working and pay our staff. Nguriza Nshore’s support specifically in setting up our social media strategy was very key, as it helped us reach customers we wouldn’t have reached otherwise, and kept our business running during the lockdown.”
 
