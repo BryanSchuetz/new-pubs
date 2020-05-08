@@ -29,11 +29,13 @@ Under the cloud of the COVID-19 crisis, small businesses are letting employees g
 
 ## Shifting Focus
 
-In Uzbekistan, export partners of the USAID’s [Agricultural Value Chains Activity (AVC)](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) are applying innovative business strategies to allow for uninterrupted export of agricultural products to foreign markets. When European buyers stopped placing orders due to health concerns, the project team helped local firms shift their exports to the Commonwealth of Independent States—Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan. One firm, Garden House LLC, has already exported 60 metric tons of mixed dried fruit products to Belarus, valued at $90,000. 
+In Uzbekistan, export partners of the USAID’s [Agricultural Value Chains Activity (AVC)](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) are applying innovative business strategies to allow for uninterrupted export of agricultural products to foreign markets. When European buyers stopped placing orders due to health concerns, the project team helped local firms shift their exports to the Commonwealth of Independent States (CIS)—Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan. One firm, Garden House LLC, has already exported 60 metric tons of mixed dried fruit products to Belarus, valued at $90,000. 
 
 To overcome the movement restrictions within Uzbekistan, Garden House consolidated the shipment and exported directly from Samarkand, where its farmer suppliers are located instead of its usual practice of exporting from Tashkent. Additionally, Garden House incorporated these suppliers as official company affiliates rather than independent contractors, which allowed for their movement between the fields and the consolidation center, according to official rules.  
 
 ![garden house.jpg](/uploads/garden%20house.jpg)`Employees prepare products for shipment. Photo courtesy: Garden House.`
+
+"After our European buyers turned down deals due to COVID-19, we decided to put all our efforts to the traditional CIS market," said a company representative. "The coronavirus has complicated exports this year, but the project helped us understand and navigate new regulations and brainstorm logistics solutions. With AVC’s help, we were still able to consolidate the shipment in time to meet the buyers needs."
 
 Another project-supported exporter, Yumuqboy Erkin Farm Enterprise, is preparing a shipment of carrots for export to Russia directly from Altyaryk district in Ferghana region, while Japan Uz Trade LLC is preparing a container of dried fruits and pulses for export to Japan. This shipment has a knock-on effect to other project-supported farm enterprises as many of them supply commodities to Japan Uz Trade.  
 
