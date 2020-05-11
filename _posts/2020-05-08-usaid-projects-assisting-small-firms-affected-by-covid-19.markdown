@@ -54,7 +54,7 @@ Demonstrating ingenuity and resilience, project-supported SMEs are rapidly adapt
 
 “Our sales and imports of raw materials were affected by COVID-19, since our customers were not able to move to get our products from the various points of sale,” said Julie Igiraneza, CEO, Masaka Creamery. “We introduced a home delivery option which, although the sales were not as high, enabled us to keep working and pay our staff. Nguriza Nshore’s support specifically in setting up our social media strategy was very key, as it helped us reach customers we wouldn’t have reached otherwise, and kept our business running during the lockdown.”
 
-Another firm, [GET IT](https://getitltd.com/), the leading distributor of ISO 22000-certified vegetables and fruits to hotels and restaurants in Rwanda, has started home deliveries of produce and other food products, allowing the company to recover some of the losses incurred due to the lockdown as well as offering a solution for people to access fresh food at home. This initiative is also sustaining the livelihoods of numerous farmers who supply the firm.  
+Another firm, [GET IT](https://getitltd.com/), a leading distributor of ISO 22000-certified vegetables and fruits to hotels and restaurants in Rwanda, has started home deliveries of produce and other food products, allowing the company to recover some of the losses incurred due to the lockdown as well as offering a solution for people to access fresh food at home. This initiative is also sustaining the livelihoods of numerous farmers who supply the firm.  
 
 ### Keeping Staff Employed
 
