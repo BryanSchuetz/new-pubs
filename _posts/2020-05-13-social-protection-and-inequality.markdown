@@ -43,4 +43,4 @@ While social protection presents value for money, providing resources to the poo
 
 Through our work in [Uganda](http://www.dai.com/our-work/projects/uganda-expanding-social-protection-ii-esp-ii) and [Somalia](https://www.dai.com/our-work/projects/somalia-technical-assistance-facility), as well as [worldwide](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), DAI is supporting both host governments and the international community to respond through social protection, in direct response to COVID-19 but also as a way of reducing poverty and vulnerability over the longer term.
 
-<aside><h3>Exactly how we are doing this, and where, will be the focus of subsequent posts.</h3><p><a href=" ">Download</a> this article as  a .pdf</p></aside>
+<aside><p>Exactly how we are doing this, and where, will be the focus of subsequent posts.<br><a href=" ">Download</a> this article as  a .pdf</p></aside>
