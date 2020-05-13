@@ -3,6 +3,9 @@ title: Social Protection and Inequality
 date: 2020-05-13 15:51:00 -04:00
 published: false
 author: Donald Lunan
+thumbnail-image: "/uploads/ESPII.jpg"
+social-image: "/uploads/ESPII.jpg"
+publication: Developments
 ---
 
 ## How COVID-19 is highlighting inequality, and the role for social protection
@@ -11,6 +14,8 @@ A longside priorities of healthcare and slowing the rate of infection, almost al
 monetary instruments to mitigate the economic impacts of the virus.
 
 Now, governments and international aid agencies are increasingly discussing instruments such as minimum salary guarantees, direct cash transfers, lowering interest rates, and debt forgiveness as primary means of responding—alongside ensuring the least-worst health outcomes. Even the most fiscally conservative authorities are choosing to spend money on and provide for those in need. The global pandemic has brought into sharp focus the fact that relative equality and adequate basic services are in everyone’s best interest.
+
+![ESPII.jpg](/uploads/ESPII.jpg)
 
 However, **those most at risk from COVID-19** _(and the secondary impacts of COVID-19)_ **are those most at risk in “normal” times**, too: those living in ongoing humanitarian or protracted crises; contexts with weak health systems; large refugee, forcibly displaced or migrant communities (especially those living in camps); areas of high population density (especially urban and informal settlements); high food insecurity and weak market linkages; the elderly; the disabled; those living with chronic illnesses, including immunodeficiencies; female-headed households; women and girls; and informal workers.
 
@@ -32,3 +37,5 @@ protection of livelihood assets;
 While social protection presents value for money, providing resources to the poorest is inherently a political choice. The list of benefits and returns on this form of investment includes: improved human development outcomes; reduced inequality; and increased economic activity among the very poorest. To this list can be added: protection from viral infection, access to health treatment where available and supporting an inclusive economic recovery.
 
 Through our work in [Uganda](http://www.dai.com/our-work/projects/uganda-expanding-social-protection-ii-esp-ii) and [Somalia](https://www.dai.com/our-work/projects/somalia-technical-assistance-facility), as well as [worldwide](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), DAI is supporting both host governments and the international community to respond through social protection, in direct response to COVID-19 but also as a way of reducing poverty and vulnerability over the longer term.
+
+<aside><h3>Exactly how we are doing this, and where, will be the focus of subsequent posts.</h3><p><a href=" ">Download</a> this article as  a .pdf</p></aside>
