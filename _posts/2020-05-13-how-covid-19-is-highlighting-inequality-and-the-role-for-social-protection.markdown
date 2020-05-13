@@ -1,5 +1,5 @@
 ---
-title: How COVID-19 is highlighting inequality, and the role for social protection
+title: How COVID-19 is Highlighting Inequality, and the Role for Social Protection
 date: 2020-05-13 15:51:00 -04:00
 published: false
 tags:
