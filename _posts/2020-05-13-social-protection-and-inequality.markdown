@@ -10,7 +10,7 @@ publication: Developments
 
 ## How COVID-19 is highlighting inequality, and the role for social protection
 
-A longside priorities of healthcare and slowing the rate of infection, almost all governments have identified a range of fiscal and
+Alongside priorities of healthcare and slowing the rate of infection, almost all governments have identified a range of fiscal and
 monetary instruments to mitigate the economic impacts of the virus.
 
 Now, governments and international aid agencies are increasingly discussing instruments such as minimum salary guarantees, direct cash transfers, lowering interest rates, and debt forgiveness as primary means of responding—alongside ensuring the least-worst health outcomes. Even the most fiscally conservative authorities are choosing to spend money on and provide for those in need. The global pandemic has brought into sharp focus the fact that relative equality and adequate basic services are in everyone’s best interest.
