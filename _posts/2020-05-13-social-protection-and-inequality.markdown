@@ -11,7 +11,7 @@ social-image: "/uploads/ESPII.jpg"
 publication: Developments
 ---
 
-## How COVID-19 is highlighting inequality, and the role for social protection
+**How COVID-19 is highlighting inequality, and the role for social protection.**
 
 Alongside priorities of healthcare and slowing the rate of infection, almost all governments have identified a range of fiscal and
 monetary instruments to mitigate the economic impacts of the virus.
