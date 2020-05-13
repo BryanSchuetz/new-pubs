@@ -2,7 +2,7 @@
 title: Social Protection and Inequality
 date: 2020-05-13 15:51:00 -04:00
 published: false
-author: Donald Lunan
+author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman)"
 thumbnail-image: "/uploads/ESPII.jpg"
 social-image: "/uploads/ESPII.jpg"
 publication: Developments
