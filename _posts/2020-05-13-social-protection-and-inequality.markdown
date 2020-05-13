@@ -2,6 +2,7 @@
 title: Social Protection and Inequality
 date: 2020-05-13 15:51:00 -04:00
 published: false
+author: Donald Lunan
 ---
 
 ## How COVID-19 is highlighting inequality, and the role for social protection
@@ -30,4 +31,4 @@ protection of livelihood assets;
 
 While social protection presents value for money, providing resources to the poorest is inherently a political choice. The list of benefits and returns on this form of investment includes: improved human development outcomes; reduced inequality; and increased economic activity among the very poorest. To this list can be added: protection from viral infection, access to health treatment where available and supporting an inclusive economic recovery.
 
-Through our work in Uganda and Somalia, as well as worldwide, DAI is supporting both host governments and the international community to respond through social protection, in direct response to COVID-19 but also as a way of reducing poverty and vulnerability over the longer term.
+Through our work in [Uganda](http://www.dai.com/our-work/projects/uganda-expanding-social-protection-ii-esp-ii) and [Somalia](https://www.dai.com/our-work/projects/somalia-technical-assistance-facility), as well as [worldwide](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), DAI is supporting both host governments and the international community to respond through social protection, in direct response to COVID-19 but also as a way of reducing poverty and vulnerability over the longer term.
