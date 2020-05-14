@@ -1,7 +1,6 @@
 ---
 title: How COVID-19 is Highlighting Inequality, and the Role for Social Protection
 date: 2020-05-13 15:51:00 -04:00
-published: false
 tags:
 - covid-19
 - economic-growth
