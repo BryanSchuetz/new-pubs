@@ -4,7 +4,8 @@ date: 2020-05-13 15:51:00 -04:00
 tags:
 - covid-19
 - economic-growth
-author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman)"
+author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman), Chris
+  Flower, Rachael Steller"
 thumbnail-image: "/uploads/ESPII.jpg"
 social-image: "/uploads/ESPII.jpg"
 publication: Developments
