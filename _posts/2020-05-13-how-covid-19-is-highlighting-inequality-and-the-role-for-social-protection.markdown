@@ -14,6 +14,7 @@ Alongside priorities of healthcare and slowing the rate of infection, almost all
 
 
 
+
 Now, governments and international aid agencies are increasingly discussing instruments such as minimum salary guarantees, direct cash transfers, lowering interest rates, and debt forgiveness as primary means of responding—alongside ensuring the least-worst health outcomes. Even the most fiscally conservative authorities are choosing to spend money on and provide for those in need. The global pandemic has brought into sharp focus the fact that relative equality and adequate basic services are in everyone’s best interest.
 
 ![ESPII.jpg](/uploads/ESPII.jpg)
@@ -28,11 +29,10 @@ Therefore, social protection has an important role to play in ‘normal’ times
 
 It is not only essential to maintain social protection programming already in place, but also to provide an appropriate response to increased needs and challenges. This can be done by:
 
-* **Reducing the risk of infection**: supporting social distancing and reducing exposure risks: e.g. reducing numbers/congestion at registration and pay points, providing protective and sanitisation equipment to staff and beneficiaries, using in-place communication systems and pay points to deliver infectious disease communications; providing digital transfers remotely where possible;
-* **Supporting basic needs**: scaling-up cash and basic services provision;
-* **Protecting livelihoods**: supporting positive coping mechanisms and
-protection of livelihood assets;
-* **Taking the opportunity to address entrenched inequalities** by prioritising, for example, women and girls as direct recipients of transfers;
+* **Reducing the risk of infection**: supporting social distancing and reducing exposure risks: e.g. reducing numbers/congestion at registration and pay points, providing protective and sanitisation equipment to staff and beneficiaries, using in-place communication systems and pay points to deliver infectious disease communications; providing digital transfers remotely where possible.
+* **Supporting basic needs**: scaling-up cash and basic services provision.
+* **Protecting livelihoods**: supporting positive coping mechanisms and protection of livelihood assets.
+* **Taking the opportunity to address entrenched inequalities** by prioritising, for example, women and girls as direct recipients of transfers.
 * **Including communication messages on social and health issues at every opportunity** (e.g. at registration, payments), using digital technology appropriately.
 
 While social protection presents value for money, providing resources to the poorest is inherently a political choice. The list of benefits and returns on this form of investment includes: improved human development outcomes; reduced inequality; and increased economic activity among the very poorest. To this list can be added: protection from viral infection, access to health treatment where available and supporting an inclusive economic recovery.
