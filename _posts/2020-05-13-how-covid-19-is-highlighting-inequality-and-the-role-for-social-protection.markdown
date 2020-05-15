@@ -10,8 +10,7 @@ social-image: "/uploads/ESPII.jpg"
 publication: Developments
 ---
 
-Alongside priorities of healthcare and slowing the rate of infection, almost all governments have identified a range of fiscal and
-monetary instruments to mitigate the economic impacts of the virus.
+Alongside priorities of healthcare and slowing the rate of infection, almost all governments have identified a range of fiscal and monetary instruments to mitigate the economic impacts of the virus.
 
 
 
