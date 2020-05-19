@@ -2,6 +2,12 @@
 title: Opportunities and Challenges of Land Reform Implementation in Malawi
 date: 2020-05-19 10:33:00 -04:00
 published: false
+tags:
+- land
+- land rights
+- land tenure
+- governance
+- resilience
 author: "[Davie Chilonga](https://www.linkedin.com/in/davie-chilonga-825544150/) and
   [David Harris](https://www.linkedin.com/in/david-w-harris-a4491b7/)"
 publication: Developing Alternatives
@@ -16,7 +22,7 @@ In 2016, the Government of Malawi enacted a Customary Land Act (CLA), enabling s
 Since 2016, two donor-funded programmes have been initiated to pilot the CLA’s implementation, with the intention of an eventual large-scale rollout. DAI works on one of these programmes, the [Technical Cooperation to Strengthen National Capacity in Implementing Land Policies and Laws Efficiently and Effectively](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) (Land Governance), funded by the European Union. Under this programme, a consortium of nongovernmental organizations led by Oxfam Malawi, is piloting registration in three districts across Malawi: Kasungu, Phalombe, and Rumphi. DAI advises the consortium on the technical methodology and support the Ministry in drafting legal regulations. 
 Now in their fourth year, the pilots have highlighted a number of lessons, both technical and cultural, which will help inform any future national registration effort. The following is a summary of a white paper on these lessons.
 
-Download the Full Report Here. 
+**Download the [full report here.](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
 
 ![Malawi land 1.jpg](/uploads/Malawi%20land%201.jpg)
 
