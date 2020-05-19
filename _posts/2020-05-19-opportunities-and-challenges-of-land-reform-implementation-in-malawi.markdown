@@ -24,7 +24,7 @@ Now in their fourth year, the pilots have highlighted a number of lessons, both 
 
 **Download the [full report here](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
 
-![Malawi land 1.jpg](/uploads/Malawi%20land%201.jpg)
+![Malawi land 1.jpg](/uploads/Malawi%20land%201.jpg)`Photo courtesy Malawi Land Governance programme.`
 
 ### From Fixed to General Boundaries
 
@@ -40,7 +40,7 @@ While pilots are progressing with registration, investment in district land regi
 
 Malawi is spilt by two customary systems: matrilineal, typically practiced in southern and central regions, operating in approximately 45 percent of villages—and patrilineal, more prevalent in the north, and thought to apply to around 30 percent of villages. Therefore, men and women’s rights appear to differ, depending on which system you find yourself under. In spite of this customary practice, the new land laws provide one overall framework for securing land rights. This represents challenges in implementation—for example, one pilot was forced to relocate due to increasing resistance to the new laws. This demonstrates the need for a gradual and participatory implementation of laws, which can allow the time and space to encourage buy-in from local communities and authorities. 
 
-![Malawi Land 2.jpg](/uploads/Malawi%20Land%202.jpg)
+![Malawi Land 2.jpg](/uploads/Malawi%20Land%202.jpg)`Photo courtesy Malawi Land Governance programme.`
 
 ### Need for Local Buy-in
 
