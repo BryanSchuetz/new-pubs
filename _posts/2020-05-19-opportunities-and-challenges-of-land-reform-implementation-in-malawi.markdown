@@ -58,6 +58,6 @@ Moving forward, the key issues which need to be addressed in order to obtain don
 * Focussing initially on traditional land management areas where the traditional authorities give strong support.
 * Being sensitive to local customs while still supporting gender equality.
 
-Download the Full Report Here.
+**Download the [full report here](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
 
 *Davie Chilonga is Team Leader of the Land Reform Implementation Unit, Lilongwe, Malawi, Ministry of Lands, Housing, and Urban Development. David Harris is Team Leader of DAI’s Technical Assistance Team in Lilongwe.*
