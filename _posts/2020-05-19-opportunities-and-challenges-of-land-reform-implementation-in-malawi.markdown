@@ -22,7 +22,7 @@ In 2016, the Government of Malawi enacted a Customary Land Act (CLA), enabling s
 Since 2016, two donor-funded programmes have been initiated to pilot the CLA’s implementation, with the intention of an eventual large-scale rollout. DAI works on one of these programmes, the [Technical Cooperation to Strengthen National Capacity in Implementing Land Policies and Laws Efficiently and Effectively](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) (Land Governance), funded by the European Union. Under this programme, a consortium of nongovernmental organizations led by Oxfam Malawi, is piloting registration in three districts across Malawi: Kasungu, Phalombe, and Rumphi. DAI advises the consortium on the technical methodology and support the Ministry in drafting legal regulations. 
 Now in their fourth year, the pilots have highlighted a number of lessons, both technical and cultural, which will help inform any future national registration effort. The following is a summary of a white paper on these lessons.
 
-**Download the [full report here.](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
+**Download the [full report here](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
 
 ![Malawi land 1.jpg](/uploads/Malawi%20land%201.jpg)
 
@@ -58,6 +58,6 @@ Moving forward, the key issues which need to be addressed in order to obtain don
 * Focussing initially on traditional land management areas where the traditional authorities give strong support.
 * Being sensitive to local customs while still supporting gender equality.
 
-Download the Full Report Here.
+**Download the [full report here](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
 
 *Davie Chilonga is Team Leader of the Land Reform Implementation Unit, Lilongwe, Malawi, Ministry of Lands, Housing, and Urban Development. David Harris is Team Leader of DAI’s Technical Assistance Team in Lilongwe.*
