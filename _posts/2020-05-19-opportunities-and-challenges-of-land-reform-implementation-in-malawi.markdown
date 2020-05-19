@@ -2,6 +2,12 @@
 title: Opportunities and Challenges of Land Reform Implementation in Malawi
 date: 2020-05-19 10:33:00 -04:00
 published: false
+tags:
+- land
+- land rights
+- land tenure
+- governance
+- resilience
 author: "[Davie Chilonga](https://www.linkedin.com/in/davie-chilonga-825544150/) and
   [David Harris](https://www.linkedin.com/in/david-w-harris-a4491b7/)"
 publication: Developing Alternatives
