@@ -1,5 +1,5 @@
 ---
-title: Opportunities and Challenges of Land Reform Implementation in Malawi
+title: What We Have Learned through Land Reform Implementation in Malawi
 date: 2020-05-19 10:33:00 -04:00
 published: false
 tags:
@@ -10,16 +10,19 @@ tags:
 - resilience
 author: "[Davie Chilonga](https://www.linkedin.com/in/davie-chilonga-825544150/) and
   [David Harris](https://www.linkedin.com/in/david-w-harris-a4491b7/)"
+thumbnail-image: "/uploads/Malawi%20Land%202-851fc0.jpg"
+social-image: "/uploads/Malawi%20Land%202-851fc0.jpg"
 publication: Developing Alternatives
 ---
 
-In 2016, the Government of Malawi enacted a Customary Land Act (CLA), enabling smallholder farmers to convert their customary land rights to private land rights with registered title. The CLA crucially gives land holders increased tenure security, which in turn is hoped to lead to increased investment in land improvements. 
+In 2016, the Government of Malawi enacted a Customary Land Act (CLA), enabling smallholder farmers to convert their customary land rights to private land rights with registered title. Crucially, the CLA gives land holders increased tenure security, which in turn is hoped to lead to increased investment in land improvements.
 
 
 
 
 
-Since 2016, two donor-funded programmes have been initiated to pilot the CLA’s implementation, with the intention of an eventual large-scale rollout. DAI works on one of these programmes, the [Technical Cooperation to Strengthen National Capacity in Implementing Land Policies and Laws Efficiently and Effectively](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) (Land Governance), funded by the European Union. Under this programme, a consortium of nongovernmental organizations led by Oxfam Malawi, is piloting registration in three districts across Malawi: Kasungu, Phalombe, and Rumphi. DAI advises the consortium on the technical methodology and support the Ministry in drafting legal regulations. 
+Since 2016, two donor-funded programmes have been working to pilot the CLA’s implementation, with the intention of an eventual large-scale rollout. DAI works on one of these programmes, the [Technical Cooperation to Strengthen National Capacity in Implementing Land Policies and Laws Efficiently and Effectively](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) (Land Governance), funded by the European Union. Under this programme, a consortium of nongovernmental organizations led by Oxfam Malawi, is piloting registration in three districts across Malawi: Kasungu, Phalombe, and Rumphi. DAI advises the consortium on the technical methodology and support the Ministry in drafting legal regulations. 
+
 Now in their fourth year, the pilots have highlighted a number of lessons, both technical and cultural, which will help inform any future national registration effort. The following is a summary of a white paper on these lessons.
 
 **Download the [full report here](/uploads/Malawi%20Land%20Opportuntities%20%20Challenges%202020%20full%20ver2.pdf).** 
