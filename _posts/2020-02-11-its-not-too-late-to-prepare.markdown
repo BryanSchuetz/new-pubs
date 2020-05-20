@@ -5,6 +5,7 @@ tags:
 - global-health
 - resilience
 - health security
+- covid-19
 author: "[Dr. Lisa Stone](https://www.dai.com/who-we-are/our-team/lisa-stone) and
   [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno)"
 thumbnail-image: "/uploads/180607-F-OE991-1375-d4b851.jpeg"
