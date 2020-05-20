@@ -1,7 +1,6 @@
 ---
 title: What We Have Learned through Land Reform Implementation in Malawi
 date: 2020-05-19 10:33:00 -04:00
-published: false
 tags:
 - land
 - land rights
@@ -29,7 +28,7 @@ Since 2016, two donor-funded programmes have been working to pilot the CLA’s i
 
 ### From Fixed to General Boundaries
 
-The pilots use a general boundary approach, which has seen success elsewhere on the continent and is useful when dealing with rural parcels at scale. Despite increasing buy-in for this method, it does represent a shift change from previous methodologies in Malawi which have typically used fixed boundary principles. The fixed method requires more precision, costs much more, and requires more surveying capacity to deliver registration at scale. Malawi has too few licensed surveyors to meet the demands of mass registration, though the introduction of para-surveyors could help address this bottleneck.
+The pilots use a general boundary approach, which has seen success elsewhere on the continent and is useful when dealing with rural parcels at scale. Despite increasing buy-in for this method, it does represent a shift change from previous methodologies in Malawi which have typically used fixed boundary principles. The fixed method requires more precision, costs much more, and requires more surveying capacity to deliver registration at scale. Malawi has too few licensed surveyors to meet the demands of mass registration using fixed boundaries, but using the simpler general boundaries approach means it is more technically accessible, and parasurveyors—who can be quickly trained, easily recruited, and are inexpensive—can complete the high volume of work.
 
 Currently, the technical work behind land registration is overseen by employees from the Ministry, which works on a small scale but won’t be practical for a national programme. Malawi will need to be develop capacity outside government to ensure this technical work is not reliant on civil servants.
 
