@@ -1,7 +1,6 @@
 ---
 title: What We Have Learned through Land Reform Implementation in Malawi
 date: 2020-05-19 10:33:00 -04:00
-published: false
 tags:
 - land
 - land rights
