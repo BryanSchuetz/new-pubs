@@ -8,6 +8,9 @@ publication: Developments
 
 Crisis or no crisis, gender-based violence—including sexual exploitation, abuse, and harassment (SEAH)—  takes place where there is a combination of opportunity, rationalisation, motivation, and power imbalance. But crises tend to exacerbate the inequalities that favour these conditions. Depending on the nature of the crisis, we may see different trends in gender-based violence: the well documented [increase in domestic violence](https://www.cfr.org/in-brief/double-pandemic-domestic-violence-age-covid-19) during the COVID-19 pandemic, for example, or an uptick in sexual exploitation during humanitarian crises, or of child marriage during forced displacement. 
 
+
+ 
+
 At the same time, such violence may be less publicly visible—as, for instance, when sexual harassment and workplace bullying move to social media. SEAH may also be less well-reported in crisis contexts as the normal channels for raising concerns are less obvious or available, and fewer people are around to witness and report incidents. Research on crises in [Rwanda](http://centaur.reading.ac.uk/84575/1/The Masculine Logic of DDR and SSR in the Rwanda Defence Force Final Submission Version.pdf), the [Balkans](https://oxfamilibrary.openrepository.com/bitstream/handle/10546/121140/bk-violence-against-women-010198-en.pdf?sequence=1&isAllowed=y), the United States, and elsewhere shows that gender roles can become more polarised as communities try to assert some sense of normality. This phenomenon extends to the workplace, where notions of acceptable behaviour shift as people engage in (often) misguided nostalgia for “tradition”—the perceived security of entrenched norms. 
 Crises, therefore, call on all of us to review, refresh, adapt, and strengthen our safeguarding measures. 
 
