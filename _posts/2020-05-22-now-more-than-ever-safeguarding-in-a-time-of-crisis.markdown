@@ -1,5 +1,5 @@
 ---
-title: "“Now more than ever” – safeguarding in a time of crisis"
+title: "“Now More than Ever” – Safeguarding in a Time of Crisis"
 date: 2020-05-22 12:26:00 -04:00
 published: false
 tags:
