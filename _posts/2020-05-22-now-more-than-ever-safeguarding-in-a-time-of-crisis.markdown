@@ -5,7 +5,7 @@ published: false
 tags:
 - governance
 - safeguarding
-author: Sarah Maguire
+author: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)"
 publication: Developments
 ---
 
