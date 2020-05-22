@@ -9,7 +9,7 @@ author: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)"
 publication: Developments
 ---
 
-Crisis or no crisis, gender-based violence—including sexual exploitation, abuse, and harassment (SEAH)—  takes place where there is a combination of opportunity, rationalisation, motivation, and power imbalance. But crises tend to exacerbate the inequalities that favour these conditions. Depending on the nature of the crisis, we may see different trends in gender-based violence: the well documented [increase in domestic violence](https://www.cfr.org/in-brief/double-pandemic-domestic-violence-age-covid-19) during the COVID-19 pandemic, for example, or an uptick in sexual exploitation during humanitarian crises, or of child marriage during forced displacement. 
+Crisis or no crisis, gender-based violence—including sexual exploitation, abuse, and harassment (SEAH)—takes place where there is a combination of opportunity, rationalisation, motivation, and power imbalance. But crises tend to exacerbate the inequalities that favour these conditions. Depending on the nature of the crisis, we may see different trends in gender-based violence: the well documented [increase in domestic violence](https://www.cfr.org/in-brief/double-pandemic-domestic-violence-age-covid-19) during the COVID-19 pandemic, for example, or an uptick in sexual exploitation during humanitarian crises, or of child marriage during forced displacement. 
 
 
  
