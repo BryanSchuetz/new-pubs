@@ -1,11 +1,12 @@
 ---
-title: "“Now More than Ever”—Safeguarding in a Time of Crisis"
+title: "“Now More than Ever” – Safeguarding in a Time of Crisis"
 date: 2020-05-22 12:26:00 -04:00
-published: false
 tags:
-- governance
 - safeguarding
+- gender
 author: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)"
+thumbnail-image: "/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png"
+social-image: "/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png"
 publication: Developments
 ---
 
@@ -15,6 +16,9 @@ Crisis or no crisis, gender-based violence—including sexual exploitation, abus
  
 
 At the same time, such violence may be less publicly visible—as, for instance, when sexual harassment and workplace bullying move to social media. SEAH may also be less well-reported in crisis contexts as the normal channels for raising concerns are less obvious or available, and fewer people are around to witness and report incidents. Research on crises in [Rwanda](http://centaur.reading.ac.uk/84575/1/The Masculine Logic of DDR and SSR in the Rwanda Defence Force Final Submission Version.pdf), the [Balkans](https://oxfamilibrary.openrepository.com/bitstream/handle/10546/121140/bk-violence-against-women-010198-en.pdf?sequence=1&isAllowed=y), the United States, and elsewhere shows that gender roles can become more polarised as communities try to assert some sense of normality. This phenomenon extends to the workplace, where notions of acceptable behaviour shift as people engage in (often) misguided nostalgia for “tradition”—the perceived security of entrenched norms. 
+
+![Screen Shot 2020-05-22 at 2.57.47 PM.png](/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png)`Sarah Maguire, testifying about sexual harassment in front of the UK Parliament International Development Committee in 2018.`
+
 Crises, therefore, call on all of us to review, refresh, adapt, and strengthen our safeguarding measures. 
 
 During the COVID-19 crisis, in particular, populations across the world have had their movement restricted. Access to all forms of public space—work, street, social hubs, places of worship, schools, shops—is constrained, which has a significant impact on how we interact. For development organisations such as DAI, these restrictions have three main implications: a) poverty and inequalities are exacerbated and surfaced; b) our teams’ homes (like those of our counterparts in government and civil society) are now also their work environments; and c) our teams and partners may be unable to work directly with communities or counterparts. In the post-COVID environment, we will have to adapt how we work—and safeguarding is no exception. 
