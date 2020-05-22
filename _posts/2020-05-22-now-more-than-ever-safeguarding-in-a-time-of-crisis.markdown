@@ -1,11 +1,12 @@
 ---
 title: "“Now More than Ever” – Safeguarding in a Time of Crisis"
 date: 2020-05-22 12:26:00 -04:00
-published: false
 tags:
 - safeguarding
 - gender
 author: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)"
+thumbnail-image: "/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png"
+social-image: "/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png"
 publication: Developments
 ---
 
