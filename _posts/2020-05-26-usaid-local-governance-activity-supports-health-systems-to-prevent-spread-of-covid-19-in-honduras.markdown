@@ -6,6 +6,7 @@ published: false
 tags:
 - governance
 - covid-19
+- global-health
 author: "[Gabriela Villeda](https://www.linkedin.com/in/gabriela-villeda-409a516a/)"
 thumbnail-image: "/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg"
 social-image: "/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg"
