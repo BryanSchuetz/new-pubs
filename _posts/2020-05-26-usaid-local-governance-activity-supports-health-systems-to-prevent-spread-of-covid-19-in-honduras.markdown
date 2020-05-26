@@ -28,7 +28,7 @@ Western Honduras, where HLG works, suffers from weak public health systems and h
 
 In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered across western Honduras. Six regional hospitals also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide.
 
-![EmergenciaCOVID19 -GLH-Hospital-Gracias, Lempira-2.jpg](/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
+![EmergenciaCOVID19 -GLH-Hospital-Gracias, Lempira-2.jpg](/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg)`The Juan Manuel Gálvez Hospital in Gracias, Lempira, receives equipment and sanitation supplies. Photo courtesy USAID/Honduras Local Governance Activity.`
 
 Additionally, the Activity staff equipped rural health providers in western Honduras with digital thermometers and pulse oximeters to help detect early signs of COVID-19, refer patients to the specialized centers, and reduce contagion.
 
@@ -36,7 +36,7 @@ Additionally, the Activity staff equipped rural health providers in western Hond
 
 “Our technicians are exposed due to the support we provide to the population and to the municipalities—these supplies help us to mitigate the risk of contagion in the provision of these important services,” added Ely Morales, manager of a municipal association.
 
-![GLH_COVID-HogarNiñasAmparoSanAntonio-SRC-Sor Delmy Gomez-01.jpg](/uploads/GLH_COVID-HogarNin%CC%83asAmparoSanAntonio-SRC-Sor%20Delmy%20Gomez-01.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
+![GLH_COVID-HogarNiñasAmparoSanAntonio-SRC-Sor Delmy Gomez-01.jpg](/uploads/GLH_COVID-HogarNin%CC%83asAmparoSanAntonio-SRC-Sor%20Delmy%20Gomez-01.jpg)`Hogar de Niñas San Antonio, one of the four shelters for victims of gender-based violence, received supplies to prevent COVID-19. Photo courtesy USAID/Honduras Local Governance Activity.`
 
 The Activity has provided technical assistance to increase transparency and improve the administrative management capacity of municipalities, municipal associations, and public service providers—including decentralized health centers—since 2017.
 
