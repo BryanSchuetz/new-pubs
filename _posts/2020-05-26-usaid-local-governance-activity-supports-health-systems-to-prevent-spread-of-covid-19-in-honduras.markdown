@@ -36,7 +36,7 @@ Additionally, the Activity staff equipped rural health providers in western Hond
 
 “Our technicians are exposed due to the support we provide to the population and to the municipalities—these supplies help us to mitigate the risk of contagion in the provision of these important services,” added Ely Morales, manager of a municipal association.
 
-![GLH_COVID-HogarNiñasAmparoSanAntonio-SRC-Sor Delmy Gomez-01.jpg](/uploads/GLH_COVID-HogarNin%CC%83asAmparoSanAntonio-SRC-Sor%20Delmy%20Gomez-01.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
+![GLH_COVID-HogarNiñasAmparoSanAntonio-SRC-Sor Delmy Gomez-01.jpg](/uploads/GLH_COVID-HogarNin%CC%83asAmparoSanAntonio-SRC-Sor%20Delmy%20Gomez-01.jpg)`Hogar de Niñas San Antonio, one of the four shelters for victims of gender-based violence, received supplies to prevent COVID-19. Photo courtesy USAID/Honduras Local Governance Activity.`
 
 The Activity has provided technical assistance to increase transparency and improve the administrative management capacity of municipalities, municipal associations, and public service providers—including decentralized health centers—since 2017.
 
