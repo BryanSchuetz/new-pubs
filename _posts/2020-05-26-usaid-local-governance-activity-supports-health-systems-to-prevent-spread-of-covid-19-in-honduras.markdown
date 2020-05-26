@@ -22,6 +22,8 @@ Western Honduras, where HLG works, suffers from weak public health systems and h
 
 In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered to the Dr. Enrique Aguilar Cerrato Hospital in Intibucá. The hospital, along with Juan Manuel Gálvez Hospital in Gracias, Lempira, both also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide to the people of Lempira and Intibucá. 
 
+![EmergenciaCOVID19 -GLH-Hospital-Gracias, Lempira-2.jpg](/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
+
 Additionally, the Activity staff equipped rural health providers in western Honduras, with digital thermometers and pulse oximeters to help detect early signs of COVID-19, refer patients to the specialized centers, and reduce contagion.
 
 “This equipment is extremely important to provide quality care to COVID19 patients,” said Gracia Martínez, Director of the Juan Manuel Gálvez Hospital. “Sanitation supplies will allow us to disinfect isolation areas, which is vital for the prevention of more infections." 
