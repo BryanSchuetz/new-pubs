@@ -26,7 +26,7 @@ Through the delivery of sanitation supplies and medical diagnostic tools, the Ac
 
 Western Honduras, where HLG works, suffers from weak public health systems and high levels of poverty, presenting complex challenges in addressing COVID-19. As of May 26, there are 4,182 confirmed cases registered nationwide, and 182 people have died.
 
-In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered to the Dr. Enrique Aguilar Cerrato Hospital in Intibucá. The hospital, along with Juan Manuel Gálvez Hospital in Gracias, Lempira, both also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide. 
+In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered across western Honduras. Six regional hospitals also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide.
 
 ![EmergenciaCOVID19 -GLH-Hospital-Gracias, Lempira-2.jpg](/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
 
