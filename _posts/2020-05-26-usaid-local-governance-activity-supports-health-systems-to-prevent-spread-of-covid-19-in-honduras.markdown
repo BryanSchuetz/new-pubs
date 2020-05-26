@@ -13,7 +13,7 @@ social-image: "/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.j
 publication: Developments
 ---
 
-The U.S. Agency for International Development (USAID), through the [Honduras Local Governance Activity (HLG)](https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg), is supporting the prevention and early detection of COVID-19 in 41 municipalities, 8 commonwealths, 18 nongovernment-managed health centers, 6 hospitals, 4 shelters for victims of gender-based violence, and 7 youth groups in this Central American country of 9.6 million people.
+The U.S. Agency for International Development (USAID), through the [Honduras Local Governance Activity (HLG)](https://www.dai.com/our-work/projects/honduras-local-governance-activity-hlg), is supporting the prevention and early detection of COVID-19 in 41 municipalities, 8 municipal associations, 18 nongovernment-managed health centers, 6 hospitals, 4 shelters for victims of gender-based violence, and 7 youth groups in this Central American country of 9.6 million people.
 
 
 
