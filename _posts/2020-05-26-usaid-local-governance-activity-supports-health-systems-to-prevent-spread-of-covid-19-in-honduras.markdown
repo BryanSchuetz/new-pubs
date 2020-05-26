@@ -32,6 +32,6 @@ The Activity has provided targeted technical assistance to increase transparency
 
 In addition to delivering supplies, the Activity is assisting local governments and civil society organizations to bolster their efforts to implement the *Solidaria* strategy, and is also coordinating with decentralized health providers to support their work to prevent further spread of COVID-19.  
 
-The Activity will continue collaborating with actors at the local level to attend the COVID-19 emergency. Next, the Activity will provide critical diagnostic and sanitation supplies to Health Sanitary Regions, Senior's Citizens Shelters and GVB Children Shelters, thanks to the rapid purchase mechanisms implemented by the Activity to cope the emergency. 
+The Activity will continue collaborating with actors at the local level to attend the COVID-19 emergency. Next, the Activity will provide critical diagnostic and sanitation supplies to Health Sanitary Regions, senior citizens shelters, and GVB children shelters, thanks to the rapid purchase mechanisms implemented by the Activity to cope the emergency. 
 
 *[Gabriela Villeda](https://www.linkedin.com/in/gabriela-villeda-409a516a/) is Communications Manager for the Honduras Local Governance Activity.*
