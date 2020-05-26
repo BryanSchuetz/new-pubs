@@ -28,7 +28,7 @@ Western Honduras, where HLG works, suffers from weak public health systems and h
 
 In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered across western Honduras. Six regional hospitals also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide.
 
-![EmergenciaCOVID19 -GLH-Hospital-Gracias, Lempira-2.jpg](/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
+![EmergenciaCOVID19 -GLH-Hospital-Gracias, Lempira-2.jpg](/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg)`The Juan Manuel Gálvez Hospital in Gracias, Lempira, receives equipment and sanitation supplies. Photo courtesy USAID/Honduras Local Governance Activity.`
 
 Additionally, the Activity staff equipped rural health providers in western Honduras with digital thermometers and pulse oximeters to help detect early signs of COVID-19, refer patients to the specialized centers, and reduce contagion.
 
