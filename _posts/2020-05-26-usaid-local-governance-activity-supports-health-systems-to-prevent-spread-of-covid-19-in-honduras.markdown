@@ -30,10 +30,10 @@ Additionally, the Activity staff equipped rural health providers in western Hond
 
 “Our technicians are exposed due to the support we provide to the population and to the municipalities, these supplies help us to mitigate the risk of contagion in the provision of these important services,” added Ely Morales, manager of a municipal association.
 
-The Activity has provided targeted technical assistance to increase transparency and improve the administrative management capacity of municipalities, municipal associations, and public service providers including decentralized health managers since 2017.
+The Activity has provided targeted technical assistance to increase transparency and improve the administrative management capacity of municipalities, municipal associations, and public service providers including decentralized health centers since 2017.
 
-In addition to delivering supplies, the Activity is assisting local governments and civil society organizations to bolster their efforts to implement the *Solidaria* strategy, and is also coordinating with decentralized health providers to support their work to prevent further spread of COVID-19.  
+In addition to delivering supplies, the Activity is assisting local governments and civil society organizations to bolster their efforts to implement the government-led *Solidaria* strategy to provide food to vulnerable families, and is also coordinating with decentralized health providers to support their work to prevent further spread of COVID-19.  
 
-The Activity will continue collaborating with actors at the local level throughout the COVID-19 emergency. Next, the Activity will provide critical diagnostic and sanitation supplies to Health Sanitary Regions, senior citizens shelters, and GVB children shelters. 
+The Activity will continue collaborating with actors at the local level throughout the COVID-19 emergency. Next, the Activity will provide critical diagnostic and sanitation supplies to regions in need and to shelters for senior citizens and children. 
 
 *[Gabriela Villeda](https://www.linkedin.com/in/gabriela-villeda-409a516a/) is Communications Manager for the Honduras Local Governance Activity.*
