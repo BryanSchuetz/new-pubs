@@ -7,6 +7,8 @@ tags:
 - governance
 - covid-19
 author: "[Gabriela Villeda](https://www.linkedin.com/in/gabriela-villeda-409a516a/)"
+thumbnail-image: "/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg"
+social-image: "/uploads/EmergenciaCOVID19%20-GLH-Hospital-Gracias,%20Lempira-2.jpg"
 publication: Developments
 ---
 
@@ -32,6 +34,8 @@ Additionally, the Activity staff equipped rural health providers in western Hond
 “This equipment is extremely important to provide quality care to COVID19 patients,” said Gracia Martínez, Director of the Juan Manuel Gálvez Hospital. “Sanitation supplies will allow us to disinfect isolation areas, which is vital for the prevention of more infections." 
 
 “Our technicians are exposed due to the support we provide to the population and to the municipalities, these supplies help us to mitigate the risk of contagion in the provision of these important services,” added Ely Morales, manager of a municipal association.
+
+![GLH_COVID-HogarNiñasAmparoSanAntonio-SRC-Sor Delmy Gomez-01.jpg](/uploads/GLH_COVID-HogarNin%CC%83asAmparoSanAntonio-SRC-Sor%20Delmy%20Gomez-01.jpg)`Photo courtesy USAID/Honduras Local Governance Activity.`
 
 The Activity has provided targeted technical assistance to increase transparency and improve the administrative management capacity of municipalities, municipal associations, and public service providers including decentralized health centers since 2017.
 
