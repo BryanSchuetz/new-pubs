@@ -4,6 +4,8 @@ title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the
 date: 2020-05-27 14:39:00 -04:00
 published: false
 author: "[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/)"
+thumbnail-image: "/uploads/BRACE%20Programme-COVID19%20(1).jpg"
+social-image: "/uploads/BRACE%20Programme-COVID19%20(1).jpg"
 publication: Developments
 ---
 
@@ -23,9 +25,13 @@ Once COVID-19 took hold, BRACE quickly initiated response measures in close coor
 * Producing fliers with specific guidelines for all implementing partners, with instructions on how to organise meetings without endangering the health of participants.
 * Mobilising programme beneficiaries from 70 local technical and vocational education and training organisations to support mask production. 
 
+![masks.jpg](/uploads/masks.jpg)`Nearly 1,500 masks were produced in Barkhan, Jhal Magsi, Khuzdar, Loralai, and Pishin districts. Photo courtesy BRACE.`
+
 In close-knit Pakistan, mobilising local populations to behave responsibly is key to fighting the pandemic’s spread. BRACE’s previous efforts in building and empowering resilient communities are now paying off. The project’s coordinators in Quetta and elsewhere are supporting local authorities’ efforts to flatten the curve of the pandemic, taking advantage of networks and partnerships built since 2017 to help the provincial governments amplify their actions.
 
 For example, BRACE staff have helped the Government of Balochistan implement its COVID-19 Emergency Response Plan by facilitating meetings, events, and activities; conducting or supporting basic surveys; and providing input for implementation plans and reporting. Some BRACE staff act as focal points for the District Councils and members of the District Health Management Committees, responsible for submitting daily [District Health Situation Reports](http://www.rspn.org/index.php/covid-19/#parentVerticalTab1). Their work enables the District Emergency Coordination Centre to conduct and share situation analysis reports with their respective district administrations. 
+
+![spacing.jpg](/uploads/spacing.jpg)`COVID-19 awareness session. Photo courtesy BRACE.`
 
 BRACE coordinators are also involved in establishing and supervising quarantine centres and isolation wards, conducting house-to-house awareness campaigns on precautionary health measures, supporting the preparation of reports covering the data of emergency patients, drafting duty rosters of health workers, and so on. Others are helping administrations supervise supplies, facilitate procurement of equipment for isolation wards, and disburse aid relief for vulnerable groups.
 
