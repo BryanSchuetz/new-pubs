@@ -6,6 +6,8 @@ published: false
 
 *Jenny Baker was appointed to lead DAI’s global health business in March of this year. Given all that has happened in the health arena since then, it has taken us longer than usual to catch up with the incoming Senior Vice President. Here we get her perspective on health and development challenges in the era of COVID-19.*
 
+
+
 **COVID-19 is quite a baptism of fire. Has it been a difficult time to move into your new position?**
 
 In some ways, yes, of course. It’s challenging at the best of times to assume the leadership of an established team and put your stamp on it, but it’s especially difficult when everyone is working from home. Team building and agenda setting take on a whole new aspect when you’re dealing with people remotely. But I’m grateful to have been working with this team for a few years now, and for their support in making the transition.
