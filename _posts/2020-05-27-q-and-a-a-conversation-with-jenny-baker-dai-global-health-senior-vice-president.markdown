@@ -6,6 +6,8 @@ tags:
 - global-health
 - covid-19
 author: "[Jenny Baker](https://www.dai.com/who-we-are/our-team/jenny-baker)"
+thumbnail-image: "/uploads/Tajikistan%20January%202014%20701.jpg"
+social-image: "/uploads/Tajikistan%20January%202014%20701.jpg"
 publication: Developments
 ---
 
