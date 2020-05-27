@@ -7,13 +7,13 @@ author: "[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/)"
 publication: Developments
 ---
 
-At a time when social distancing and other restrictive measures are forcing almost all of our interactions to take place virtually, the European Union (EU)-funded Balochistan Rural Development And Community Empowerment (BRACE) programme in Pakistan is harvesting responsiveness from already established networks to stop the spread of COVID-19. The partnerships with communities, developed prior to the crisis, are now being used to scale-up efforts of the District Government to curb the spread of the coronavirus in the province . 
-On February 23, Pakistan closed its border to travelers from Iran after 43 cases were reported there. Three days later, the Prime Minister's Special Assistant on Health, Zafar Mirza, confirmed the first two cases of coronavirus in Pakistan. The government quickly responded with a National Action Plan for Coronavirus Disease and launched a COVID-19 platform that shares real-time statistics from all provinces. From March 10 to May 20, the site has reported 45,898 confirmed COVID-19 cases and 985 deaths in this country of 220 million. 
+At a time when social distancing and other restrictive measures are forcing almost all of our interactions to take place virtually, the European Union (EU)-funded [Balochistan Rural Development and Community Empowerment (BRACE) ](https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace)programme in Pakistan is harvesting responsiveness from already established networks to stop the spread of COVID-19. The partnerships with communities, developed prior to the crisis, are now being used to scale-up efforts of the District Government to curb the spread of the coronavirus in the province.
 
 
 
 
-
+ 
+On February 23, Pakistan closed its border to travelers from Iran after 43 cases were reported there. Three days later, the Prime Minister's Special Assistant on Health, Zafar Mirza, confirmed the first two cases of coronavirus in Pakistan. The government quickly responded with a [National Action Plan for Coronavirus Disease](https://www.nih.org.pk/wp-content/uploads/2020/03/COVID-19-NAP-V2-13-March-2020.pdf) and launched a [COVID-19 platform](http://covid.gov.pk/stats/pakistan) that shares real-time statistics from all provinces. From March 10 to May 20, the site has reported 45,898 confirmed cases and 985 deaths in this country of 220 million. 
 
 In Balochistan province, the tally currently shows 2,885 confirmed cases and 38 deaths. Together with Balochistan’s provincial and district government bodies, and three other rural support programmes, BRACE implements a three-tier model engaging community, village, and local organisations to support lower-income populations. Started in 2017, BRACE strengthens the capacity of local authorities to involve communities in locally planning, financing, and implementing public services—providing citizens themselves with the means to drive socioeconomic development. To date, BRACE has engaged with 163,892 households through community, village, and local support organizations across nine districts. 
 
