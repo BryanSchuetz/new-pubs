@@ -3,6 +3,12 @@ title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the
   Era
 date: 2020-05-27 14:39:00 -04:00
 published: false
+tags:
+- covid-19
+- economic-growth
+- global-health
+- resilience
+- health security
 author: "[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/)"
 thumbnail-image: "/uploads/BRACE%20Programme-COVID19%20(1).jpg"
 social-image: "/uploads/BRACE%20Programme-COVID19%20(1).jpg"
