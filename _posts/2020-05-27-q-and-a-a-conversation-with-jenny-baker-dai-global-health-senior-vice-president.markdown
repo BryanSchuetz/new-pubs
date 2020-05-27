@@ -9,7 +9,7 @@ author: "[Jenny Baker](https://www.dai.com/who-we-are/our-team/jenny-baker)"
 publication: Developments
 ---
 
-*Jenny Baker was appointed to lead DAI’s global health business in March of this year. Given all that has happened in the health arena since then, it has taken us longer than usual to catch up with the incoming Senior Vice President. Here we get her perspective on health and development challenges in the era of COVID-19.*
+![Baker_Inner.jpg](/uploads/Baker_Inner.jpg){:.float-left}*Jenny Baker was appointed to lead DAI’s global health business in March of this year. Given all that has happened in the health arena since then, it has taken us longer than usual to catch up with the incoming Senior Vice President. Here we get her perspective on health and development challenges in the era of COVID-19.*
 
 
 
