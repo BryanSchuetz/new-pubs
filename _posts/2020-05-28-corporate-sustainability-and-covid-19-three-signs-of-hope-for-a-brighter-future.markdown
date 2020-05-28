@@ -9,10 +9,12 @@ tags:
 - sustainable-business
 - economic-growth
 author: "[Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-l-littlefield)"
+thumbnail-image: "/uploads/smmatthew-hicks-k9oaPaG8EQw-unsplash.jpg"
+social-image: "/uploads/smmatthew-hicks-k9oaPaG8EQw-unsplash.jpg"
 publication: Developments
 ---
 
-*This article [originally appeared](https://impactalpha.com/corporate-sustainability-and-covid-19-three-signs-of-hope-for-a-brighter-future/) in ImpactAlpha It was written by DAI Board Member, [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-l-littlefield), formerly president and CEO of the Overseas Private Investment Corp., and current senior counselor and sustainability practice lead at Albright Stonebridge Group.*
+![Eliz1.png](/uploads/Eliz1.png){:.float-left}*This article [originally appeared](https://impactalpha.com/corporate-sustainability-and-covid-19-three-signs-of-hope-for-a-brighter-future/) in ImpactAlpha It was written by DAI Board Member, [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-l-littlefield), formerly president and CEO of the Overseas Private Investment Corp., and current senior counselor and sustainability practice lead at Albright Stonebridge Group.*
 
 
 
@@ -50,7 +52,9 @@ Doing what needs to be done on sustainability, social infrastructure, and the en
 
 This crisis has shown us the importance of taking science seriously, even when its messages are unwelcome in a short term world. Scientists have long warned of just such a pandemic, and they were right.
 
-Perhaps more policymakers will now heed the warnings of climate scientists too and work more closely with business to provide the tools and resources needed to address climate risk and invest in a low carbon economy. 
+Perhaps more policymakers will now heed the warnings of climate scientists too and work more closely with business to provide the tools and resources needed to address climate risk and invest in a low-carbon economy. 
+
+![matthew-hicks-k9oaPaG8EQw-unsplash.jpg](/uploads/matthew-hicks-k9oaPaG8EQw-unsplash.jpg)
 
 **Our common humanity** 
 
