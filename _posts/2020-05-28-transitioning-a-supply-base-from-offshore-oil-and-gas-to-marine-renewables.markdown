@@ -9,6 +9,7 @@ tags:
 - environment-and-energy
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan)
   and [Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis)"
+thumbnail-image: "/uploads/sm%20Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg"
 publication: Developments
 ---
 
@@ -23,6 +24,8 @@ For SMEs to participate in this marine renewables boom, they will need significa
 In fact, in many locations the groundwork has already been laid for this transition to marine renewables. Many coastal cities and portside towns where new projects are blooming already boast sizable oil and gas supply chains that employ tens of thousands of people. With appropriate support, this growing stream of renewables investment could and should become a source of market growth opportunities for those companies and communities largely dependent today on oil and gas—a dependency that increasingly looks like a vulnerability in light of the COVID-19 crisis and the global oil production wars.
 
 Fostering local content and SME participation in this emerging energy space should be a priority for governments pursuing energy sustainability and new pathways to economic growth. If they are to seize this opportunity to refit an existing supply base, governments should take a systematic approach in collaboration with developers and operators. Here are four actions that should be part of that approach. 
+
+![Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg](/uploads/Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg)`Photo of offshore windfarm in Skegness, England, by Rob Farrow. Wikimedia Commons, CC BY-SA 2.0.`
 
 ## Revise Supply Chain Categories and Competitiveness Criteria by which Supply Base is Measured
 
