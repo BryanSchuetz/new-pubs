@@ -14,13 +14,14 @@ social-image: "/uploads/sm%20Offshore_windfarm,_Skegness_-_geograph.org.uk_-_268
 publication: Developments
 ---
 
-The past few decades have seen an intense effort to encourage investment in forward-looking renewable energy technologies, principally in onshore solar and wind generation. Over this time, a global supply chain that involves both large businesses and small and medium-sized enterprises (SMEs) has emerged to service these onshore projects. More recently, new technology is expanding our ability to harness offshore, marine-based renewables—specifically, offshore wind and tidal. In January 2020, the Hornsea 1 wind farm, 170 kilometers off the British North Sea coast, became the world’s largest offshore wind generator, with a capacity of 1,218 megawatts. In 2018, DAI’s research for Marine Renewables Canada found that places like the United Kingdom, South Korea, France, Indonesia, and the northeastern United States are home to marine renewable investments exceeding $500 billion. 
+The past few decades have seen an intense effort to encourage investment in forward-looking renewable energy technologies, principally in onshore solar and wind generation. Over this time, a global supply chain that involves both large businesses and small and medium-sized enterprises (SMEs) has emerged to service these onshore projects. More recently, new technology is expanding our ability to harness *offshore*, marine-based renewables—specifically, offshore wind and tidal. In January 2020, the Hornsea 1 wind farm, 170 kilometers off the British North Sea coast, became the world’s largest offshore wind generator, with a capacity of 1,218 megawatts. In 2018, DAI’s research for Marine Renewables Canada found that places like the United Kingdom, South Korea, France, Indonesia, and the northeastern United States are home to marine renewable investments exceeding $500 billion. 
+
+
+
+
+
 
 For SMEs to participate in this marine renewables boom, they will need significant investment to help them adapt their services to an emerging subsector. Facilitating such investment makes sense because localizing supply chains can expedite delivery and reduce costs for the developer. Ensuring that project benefits are experienced locally tends to improve overall sustainability and underpin the social license to operate. Sourcing locally may also reduce the use of fossil fuels for transporting goods and people. 
-
-
-
-
 
 In fact, in many locations the groundwork has already been laid for this transition to marine renewables. Many coastal cities and portside towns where new projects are blooming already boast sizable oil and gas supply chains that employ tens of thousands of people. With appropriate support, this growing stream of renewables investment could and should become a source of market growth opportunities for those companies and communities largely dependent today on oil and gas—a dependency that increasingly looks like a vulnerability in light of the COVID-19 crisis and the global oil production wars.
 
