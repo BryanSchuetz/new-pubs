@@ -9,6 +9,8 @@ tags:
 - sustainable-business
 - economic-growth
 author: "[Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-l-littlefield)"
+thumbnail-image: "/uploads/smmatthew-hicks-k9oaPaG8EQw-unsplash.jpg"
+social-image: "/uploads/smmatthew-hicks-k9oaPaG8EQw-unsplash.jpg"
 publication: Developments
 ---
 
