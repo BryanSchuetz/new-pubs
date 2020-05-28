@@ -19,23 +19,23 @@ In fact, in many locations the groundwork has already been laid for this transit
 
 Fostering local content and SME participation in this emerging energy space should be a priority for governments pursuing energy sustainability and new pathways to economic growth. If they are to seize this opportunity to refit an existing supply base, governments should take a systematic approach in collaboration with developers and operators. Here are four actions that should be part of that approach. 
 
-Revise the supply chain categories and competitiveness criteria by which the supply base is measured
+## Revise Supply Chain Categories and Competitiveness Criteria by which Supply Base is Measured
 
 The relative immaturity of the marine renewables subsector means there is as yet no broadly accepted and streamlined way to measure the readiness of firms in the existing supply base. And the sheer diversity of new technologies—especially in tidal—makes it difficult to settle on the services, goods, and skills that might constitute industry standards. This landscape will consolidate as technologies are proven and more projects come online, but we likely won’t have global technical standards in place immediately.
 
 Nonetheless, significant progress in setting new competitiveness criteria for those seeking to work in marine renewables has been made in both Atlantic Canada and Mexico, where the business communities have partnered with government to identify a preliminary list of supply chain categories that can then be assessed. In both jurisdictions, this work has been based on the supply chain categories and criteria used to qualify enterprises and workers in the oil and gas industry.
 
-Map suppliers and workforce against a new set of qualification criteria 
+## Map Suppliers and Workforce Against New Set of Qualification Criteria
 
 The next step in preparing the supply base is building a foundation of data on the current capabilities of the local enterprises and workforce. This mapping exercise will be more difficult than it would be for the oil and gas sector, where we have decades of experience and established industry standards, and it will require a highly localized evaluation of craft skills to see how they square against the needs of new marine projects. But related analytical work already conducted in Atlantic Canada found that almost three-quarters of the traditional supply chain categories associated with servicing offshore oil and gas are applicable to marine renewables. Examples include work on the transmission infrastructure required to transfer energy back into the onshore grid.
 
 An important component of such a mapping is estimating the market size and opportunities available for local enterprises, both locally and globally. Doing so will help to match supply with demand and pinpoint the growth opportunities for local suppliers.
 
-Identify the competitive features of local suppliers
+## Identify Competitive Features of Local Suppliers
 
 Finding the capabilities that represent a competitive advantage for local SMEs will build their long-term resiliency to competition. These capabilities can be features such as location, technology, experience, workforce qualifications (including language and local training institutes), and reliability. The analytical mapping work should bring to the fore the unique capabilities, experience, and expertise of the supply base that can then be built on as assets in the marine renewable subsector. 
 
-Build an ecosystem of support
+## Build an Ecosystem of Support
 
 Many locales already offer support mechanisms for SMEs, ranging from financial instruments to in-person training and mentorship facilities. Most have yet to be retrofitted to accommodate the needs of the marine renewable supply chain and workforce. Using information gathered from the market, governments should partner with the private sector and universities to engineer an ecosystem of support for SMEs seeking to transition into renewables. 
 
