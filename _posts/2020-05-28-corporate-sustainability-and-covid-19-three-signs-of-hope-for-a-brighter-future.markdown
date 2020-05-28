@@ -14,7 +14,7 @@ social-image: "/uploads/smmatthew-hicks-k9oaPaG8EQw-unsplash.jpg"
 publication: Developments
 ---
 
-![Eliz1.png](/uploads/Eliz1.png){:.float-left}*This article [originally appeared](https://impactalpha.com/corporate-sustainability-and-covid-19-three-signs-of-hope-for-a-brighter-future/) in ImpactAlpha It was written by DAI Board Member, [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-l-littlefield), formerly president and CEO of the Overseas Private Investment Corp., and current senior counselor and sustainability practice lead at Albright Stonebridge Group.*
+![Eliz1.png](/uploads/Eliz1.png){:.float-left}*This article [originally appeared](https://impactalpha.com/corporate-sustainability-and-covid-19-three-signs-of-hope-for-a-brighter-future/) in ImpactAlpha. It was written by DAI Board Member, [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/elizabeth-l-littlefield), formerly president and CEO of the Overseas Private Investment Corp., and current senior counselor and sustainability practice lead at Albright Stonebridge Group.*
 
 
 
