@@ -5,6 +5,7 @@ published: false
 tags:
 - covid-19
 - economic-growth
+- sustainable-business
 - environment-and-energy
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan)
   and [Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis)"
