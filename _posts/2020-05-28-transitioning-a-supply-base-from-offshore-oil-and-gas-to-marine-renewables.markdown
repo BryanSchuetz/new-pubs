@@ -10,6 +10,7 @@ tags:
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan)
   and [Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis)"
 thumbnail-image: "/uploads/sm%20Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg"
+social-image: "/uploads/sm%20Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg"
 publication: Developments
 ---
 
