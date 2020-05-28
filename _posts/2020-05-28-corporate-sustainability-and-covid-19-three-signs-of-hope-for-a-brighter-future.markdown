@@ -52,7 +52,9 @@ Doing what needs to be done on sustainability, social infrastructure, and the en
 
 This crisis has shown us the importance of taking science seriously, even when its messages are unwelcome in a short term world. Scientists have long warned of just such a pandemic, and they were right.
 
-Perhaps more policymakers will now heed the warnings of climate scientists too and work more closely with business to provide the tools and resources needed to address climate risk and invest in a low carbon economy. 
+Perhaps more policymakers will now heed the warnings of climate scientists too and work more closely with business to provide the tools and resources needed to address climate risk and invest in a low-carbon economy. 
+
+![matthew-hicks-k9oaPaG8EQw-unsplash.jpg](/uploads/matthew-hicks-k9oaPaG8EQw-unsplash.jpg)
 
 **Our common humanity** 
 
