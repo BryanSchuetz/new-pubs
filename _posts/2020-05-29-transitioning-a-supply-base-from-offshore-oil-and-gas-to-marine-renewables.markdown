@@ -1,6 +1,6 @@
 ---
 title: Transitioning a Supply Base from Offshore Oil and Gas to Marine Renewables
-date: 2020-05-28 13:40:00 -04:00
+date: 2020-05-29 08:40:00 -04:00
 tags:
 - covid-19
 - economic-growth
