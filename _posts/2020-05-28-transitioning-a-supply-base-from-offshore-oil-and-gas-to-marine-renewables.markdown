@@ -33,7 +33,7 @@ Fostering local content and SME participation in this emerging energy space shou
 
 The relative immaturity of the marine renewables subsector means there is as yet no broadly accepted and streamlined way to measure the readiness of firms in the existing supply base. And the sheer diversity of new technologies—especially in tidal—makes it difficult to settle on the services, goods, and skills that might constitute industry standards. This landscape will consolidate as technologies are proven and more projects come online, but we likely won’t have global technical standards in place immediately.
 
-Nonetheless, significant progress in setting new competitiveness criteria for those seeking to work in marine renewables has been made in both Atlantic Canada and Mexico, where the business communities have partnered with government to identify a preliminary list of supply chain categories that can then be assessed. In both jurisdictions, this work has been based on the supply chain categories and criteria used to qualify enterprises and workers in the oil and gas industry.
+Nonetheless, significant progress in setting new competitiveness criteria for those seeking to work in marine renewables has been made in both Atlantic Canada and Mexico, where the business communities have partnered with government to identify a preliminary list of supply chain categories that can then be assessed. In both jurisdictions, this work has been based on the supply chain categories and criteria used to qualify suppliers and workers in the oil and gas industry.
 
 ## Map Suppliers and Workforce Against New Set of Qualification Criteria
 
