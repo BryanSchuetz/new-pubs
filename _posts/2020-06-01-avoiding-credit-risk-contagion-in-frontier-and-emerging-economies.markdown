@@ -1,7 +1,6 @@
 ---
 title: Avoiding Credit Risk Contagion in Frontier and Emerging Economies
 date: 2020-06-01 10:22:00 -04:00
-published: false
 tags:
 - economic-growth
 - covid-19
@@ -21,7 +20,7 @@ Financial outflows and a rapid decline in inflows (including remittances) will h
 
 Development finance institutions (DFIs) can support key sectors of the economy and their constituent MSMEs by administering the right mix of capital mobilization, policy advice, and technical assistance to local financial institutions. DFIs might need to consider how they deploy rapid technical assistance to accompany timely adjustments to their loan mechanisms with local financial institutions. In doing so, it is important that they stay attuned to the development part of development finance.
 
-## The Domino Effects
+## The Domino effects
 
 The immediate challenge for development policy makers and practitioners is to avoid the domino effect whereby a credit crunch on banks and microfinance institutions cascades into the COVID-stricken MSME sector—or the reverse situation whereby defaults by MSMEs threaten the soundness of the financial institutions that serve them. Microfinance institutions are particularly at risk because they are largely dependent on MSME loans and lack adequate cash reserves to reschedule loans beyond a few months. These lenders will require external support to bridge the gap and provide more flexibility on loan repayments. 
 
@@ -76,7 +75,7 @@ yield insights into the social value they bring to the communities in which they
 for remote-working bank staff and online applicants, and less reliant on face-to-face interaction, and increase the use
 of digital tools for the loan process from application to underwriting to collection.
 * Redesign credit products to fit the situation, recognizing that longer grace periods or some flexibility in repayment
-schedules may be needed while businesses try to increase turnover to pre-COVID-19 levels. Offer short-term credit
+schedules may be needed while businesses try to increase turnover to pre-COVID levels. Offer short-term credit
 responsibly.
 * Be a trusted source of reliable information from health officials and international organizations and share
 information with customers on how to access relief programs or funds from other sources.
