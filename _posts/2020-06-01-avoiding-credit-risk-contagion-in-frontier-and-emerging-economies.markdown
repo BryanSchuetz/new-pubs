@@ -21,7 +21,7 @@ Financial outflows and a rapid decline in inflows (including remittances) will h
 
 Development finance institutions (DFIs) can support key sectors of the economy and their constituent MSMEs by administering the right mix of capital mobilization, policy advice, and technical assistance to local financial institutions. DFIs might need to consider how they deploy rapid technical assistance to accompany timely adjustments to their loan mechanisms with local financial institutions. In doing so, it is important that they stay attuned to the development part of development finance.
 
-## The Domino effects
+## The Domino Effects
 
 The immediate challenge for development policy makers and practitioners is to avoid the domino effect whereby a credit crunch on banks and microfinance institutions cascades into the COVID-stricken MSME sector—or the reverse situation whereby defaults by MSMEs threaten the soundness of the financial institutions that serve them. Microfinance institutions are particularly at risk because they are largely dependent on MSME loans and lack adequate cash reserves to reschedule loans beyond a few months. These lenders will require external support to bridge the gap and provide more flexibility on loan repayments. 
 
