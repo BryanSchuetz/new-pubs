@@ -2,6 +2,9 @@
 title: Avoiding Credit Risk Contagion in Frontier and Emerging Economies
 date: 2020-06-01 10:22:00 -04:00
 published: false
+tags:
+- economic-growth
+- covid-19
 author: "[Bhairav Raja](https://www.dai.com/who-we-are/our-team/bhairav-raja)"
 thumbnail-image: "/uploads/mick-haupt-AW-JC0p1FcU-unsplash.jpg"
 social-image: "/uploads/mick-haupt-AW-JC0p1FcU-unsplash.jpg"
