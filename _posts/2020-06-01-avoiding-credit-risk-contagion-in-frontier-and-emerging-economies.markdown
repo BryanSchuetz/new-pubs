@@ -36,17 +36,16 @@ Multilateral institutions and DFIs have launched multibillion-dollar relief pack
 We offer the following guidance on how local financial institutions, supported by DFIs and central banks, can analyze their customer base and make sense of their credit risk: 
 
   <ul>
-    <li><em>Systemic risk:</em>Does the institution’s credit exposure to MSMEs pose a systemic risk to the national financial sector?</li>
-    <li><em>Sector exposure:</em>Is credit exposure concentrated in a particular sector (for example, tourism)?</li>
-    <li><em>Geographic concentrations:Does the financial institution have a geographic concentration of borrowers in COVID-affected areas?</em></li>
-    <li><em>Secured vs. unsecured:</em>Are loans secured (collateralized) or unsecured (non-collateralized), and what is the proportion? Is it legally and
+    <li><em>Systemic risk:</em> Does the institution’s credit exposure to MSMEs pose a systemic risk to the national financial sector?</li>
+    <li><em>Sector exposure:</em> Is credit exposure concentrated in a particular sector (for example, tourism)?</li>
+    <li><em>Geographic concentrations:</em> Does the financial institution have a geographic concentration of borrowers in COVID-affected areas</li>
+    <li><em>Secured vs. unsecured:</em> Are loans secured (collateralized) or unsecured (non-collateralized), and what is the proportion? Is it legally and
     practically possible, or ethically reasonable, to seize or liquidate collateral given the crisis?</li>
-    <li><em>Liability exposure from deposits:</em>Does the institution intermediate financial products beyond credit? For example, if it is also taking customer deposits,
-    the institution has to balance more complexity from such a liability. Such markets often have limited deposit protection
-    schemes, and risk from a credit portfolio may threaten precious household and business savings, if the institution gets
+    <li><em>Liability exposure from deposits:</em> Does the institution intermediate financial products beyond credit? For example, if it is also taking customer deposits, the institution has to balance more complexity from such a liability. Such markets often have limited deposit protection schemes, and risk from a credit portfolio may threaten precious household and business savings, if the institution gets
     in trouble.</li>
-    <li><em>Borrower exposure:</em>Beyond financial institution loans, what other indebtedness or liabilities are MSMEs exposed to?</li>
-    <li><em>Vulnerabilities of borrowers:</em>What are the sources of liquidity or income among borrowers? Are they diversified, or are borrowers reliant on a single
+    <li><em>Borrower exposure:</em> Beyond financial institution loans, what other indebtedness or liabilities are MSMEs exposed to?</li>
+    <li><em>Vulnerabilities of borrowers:</em> What are the sources of liquidity or income among 
+ borrowers? Are they diversified, or are borrowers reliant on a single
     source</li>
   </ul>
 
