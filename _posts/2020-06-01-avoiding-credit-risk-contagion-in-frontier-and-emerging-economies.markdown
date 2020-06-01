@@ -3,13 +3,18 @@ title: Avoiding Credit Risk Contagion in Frontier and Emerging Economies
 date: 2020-06-01 10:22:00 -04:00
 published: false
 author: "[Bhairav Raja](https://www.dai.com/who-we-are/our-team/bhairav-raja)"
+thumbnail-image: "/uploads/mick-haupt-AW-JC0p1FcU-unsplash.jpg"
+social-image: "/uploads/mick-haupt-AW-JC0p1FcU-unsplash.jpg"
+publication: Developments
 ---
 
 COVID-19 has hit economies around the world, with devastating effects on businesses. Businesses in frontier and emerging economies may face the worst debt crisis since the early 1980s. Since the advent of COVID-19, more than US$100 billion in capital has flowed out of these markets—three times as much as in the first two months of the 2008 global financial crisis. Remittances are poised to fall by [an additional $100 billion](https://www.project-syndicate.org/commentary/managiing-coming-global-debt-crisis-by-barry-eichengreen-2020-05) this year alone.
 
 
 
-Financial outflows and a rapid decline in inflows (including remittances) will have a particularly severe impact on micro, small, and medium-sized enterprises (MSMEs), which form the backbone of frontier and emerging economies and are often concentrated in high-priority sectors—such as agribusiness and tourism—that are crucial to economic activity and employment. The World Bank estimates that small enterprises account for [more than half of total employment](https://www.worldbank.org/en/topic/smefinance) in such economies. While many wealthy industrialized countries and advanced emerging markets have found ways to pump money into struggling MSMEs, most developing countries lack the budgetary bandwidth and ready-to-go disbursement mechanisms to do so. 
+Financial outflows and a rapid decline in inflows (including remittances) will have a particularly severe impact on micro, small, and medium-sized enterprises (MSMEs), which form the backbone of frontier and emerging economies and are often concentrated in high-priority sectors—such as agribusiness and tourism—that are crucial to economic activity and employment. The World Bank estimates that small enterprises account for [more than half of total employment](https://www.worldbank.org/en/topic/smefinance) in such economies. While many wealthy industrialized countries and advanced emerging markets have found ways to pump money into struggling MSMEs, most developing countries lack the budgetary bandwidth and ready-to-go disbursement mechanisms to do so.
+
+![drew-willson-DigT_twYyiU-unsplash.jpg](/uploads/drew-willson-DigT_twYyiU-unsplash.jpg) 
 
 Development finance institutions (DFIs) can support key sectors of the economy and their constituent MSMEs by administering the right mix of capital mobilization, policy advice, and technical assistance to local financial institutions. DFIs might need to consider how they deploy rapid technical assistance to accompany timely adjustments to their loan mechanisms with local financial institutions. In doing so, it is important that they stay attuned to the development part of development finance.
 
@@ -19,7 +24,7 @@ The immediate challenge for development policy makers and practitioners is to av
 
 An article in [_The Economist_](https://www.economist.com/finance-and-economics/2020/05/05/for-microfinance-lenders-covid-19-is-an-existential-threat) cites a survey conducted in Uganda by FINCA Impact Finance, a U.S.-headquartered network of microfinance lenders in 20 countries, which found that 70 percent of customers surveyed had no emergency savings and were unable to carry on their businesses due to the effects of Coronavirus-related lockdowns. The same article includes references from a microfinance lender in South Africa and a commercial bank in Bolivia, indicating that 70 to 85 percent of small businesses have been unable to operate in recent months.
 
-a Under normal circumstances, DAI’s microfinance institution clients consider a 2 percent default rate on customer loans an acceptable level. In the wake of COVID-19, these same microfinance institutions are observing defaults and payment arrear rates at significantly higher levels to warrant alarm. 
+Under normal circumstances, DAI’s microfinance institution clients consider a 2 percent default rate on customer loans an acceptable level. In the wake of COVID-19, these same microfinance institutions are observing defaults and payment arrear rates at significantly higher levels to warrant alarm. 
 
 ## Rapid Credit Diagnostics Can Help 
 
