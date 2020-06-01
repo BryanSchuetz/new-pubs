@@ -35,7 +35,6 @@ Multilateral institutions and DFIs have launched multibillion-dollar relief pack
 
 We offer the following guidance on how local financial institutions, supported by DFIs and central banks, can analyze their customer base and make sense of their credit risk: 
 
-<aside>
   <ul>
     <li><em>Systemic risk:</em>Does the institution’s credit exposure to MSMEs pose a systemic risk to the national financial sector?</li>
     <li><em>Sector exposure:</em>Is credit exposure concentrated in a particular sector (for example, tourism)?</li>
@@ -50,7 +49,6 @@ We offer the following guidance on how local financial institutions, supported b
     <li><em>Vulnerabilities of borrowers:</em>What are the sources of liquidity or income among borrowers? Are they diversified, or are borrowers reliant on a single
     source</li>
   </ul>
-</aside>
 
 ## Potential Solutions
 
