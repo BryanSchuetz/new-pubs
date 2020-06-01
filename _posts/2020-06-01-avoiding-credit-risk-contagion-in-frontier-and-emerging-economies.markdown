@@ -76,7 +76,7 @@ yield insights into the social value they bring to the communities in which they
 for remote-working bank staff and online applicants, and less reliant on face-to-face interaction, and increase the use
 of digital tools for the loan process from application to underwriting to collection.
 * Redesign credit products to fit the situation, recognizing that longer grace periods or some flexibility in repayment
-schedules may be needed while businesses try to increase turnover to pre-COVID levels. Offer short-term credit
+schedules may be needed while businesses try to increase turnover to pre-COVID-19 levels. Offer short-term credit
 responsibly.
 * Be a trusted source of reliable information from health officials and international organizations and share
 information with customers on how to access relief programs or funds from other sources.
