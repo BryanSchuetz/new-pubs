@@ -24,12 +24,16 @@ While COVID-19 is perhaps unprecedented in its sheer scale and abruptness, there
 
 In 2009, the military incursion in Gaza brought the private sector to a standstill. Up to 90 percent of businesses in Gaza closed or significantly reduced capacity, exacerbating already high levels of unemployment. In response, the four-year Facility for New Market Development (FNMD)—jointly funded by DFID and the World Bank and running from 2008 to 2012—launched the Gaza Back to Work (GB2W) grant window to address the needs of Gaza businesses. 
 
+![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)`The FNMD project helped businesses with hiring staff, among other services.`
+
 The grants were designed to cover the operating costs of hiring staff, ensuring payroll until business revenue was sufficient, and maintaining inactive machinery. The aim was to restart dormant businesses by injecting liquidity, thereby enabling job creation, stimulating the private sector, increasing the purchasing power of employees, and speeding the resumption of economic activity.
 The grants provided support for up to three months of operating expenses with a maximum amount of $30,000 per business. In total, 288 grants were disbursed. Dormant assets were rapidly brought back to working condition, jobs were created, and markets strengthened. Critically, 87 percent of the supported employees were still working after FNMD ended, and 250 additional employees had been hired beyond what was supported by the programme.
 
 ## Gaza Back to Business
 
 In 2014, another Israel-Gaza war erupted. The impact on Gaza’s private sector—already fragile, and hampered by an infrastructure weakened by years of blockade—was far reaching. Some 485,000 people were displaced. Physical destruction, disruptions to electricity and power supplies, and unreliable communications networks—compounded by restrictions on movement and on the ability to import and export—severely harmed Gaza’s business prospects. 
+
+![20140802_111303_resized.jpg](/uploads/20140802_111303_resized.jpg)`Offices all over Gaza were heavily damaged.`
 
 The DFID- and EU-funded Palestinian Market Development Programme (PMDP), having learned from the experience with FNMD’s GB2W, responded immediately by launching the Gaza Back to Business (GB2B) grant window. GB2B covered the rehabilitation of damaged equipment to return it to working condition, the replacement of fixed assets, and recurring expenses such as staff payroll. Most awards were for less than $15,000, but their impact—matched, importantly, with grantee contributions—was substantial. Businesses that might have collapsed irrevocably were able to operate again.
 
