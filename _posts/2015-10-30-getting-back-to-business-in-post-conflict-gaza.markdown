@@ -4,10 +4,12 @@ date: 2015-10-30 12:02:00 -04:00
 tags:
 - economic-growth
 - stability
+author: Mira Nasser
+thumbnail-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
+social-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
 publication: Developments
 issue: Fall 2015
 author-bio: Mira Nasser is a Communications Specialist with PMDP.
-author: Mira Nasser
 featured?: 'yes'
 assets:
 - path: "/uploads/Devs----Gaza-pic-2.jpg"
@@ -22,8 +24,6 @@ assets:
   name: Devs----Gaza-pic-1
 - path: "/uploads/Devs----PMDP-Gaza-pic-3.jpg"
   name: Devs----PMDP-Gaza-pic-3
-thumbnail-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
-social-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
 ---
 
 When a business is put out of commission by war, it can take only a small investment—done rapidly in a post-conflict environment—to put it back on its feet, creating employment and making sales.
@@ -33,7 +33,7 @@ When a business is put out of commission by war, it can take only a small invest
 
 The 2014 Israel-Gaza conflict had a disastrous impact on Gaza. Scores of businesses, schools, hospitals, and homes were damaged or destroyed, as were infrastructure and farmland, leaving thousands of people without adequate shelter or a way to make a living. More than 900 factories covering 10 industrial sectors were damaged, according to estimates by the Palestinian Federation of Industries (PFI).
 
-![Devs----Gaza-pic-1](/uploads/Devs----Gaza-pic-1.jpg "Furniture producer Al Kateba Al Khadra before PMDP assistance.") 
+![Devs----Gaza-pic-1](/uploads/Devs----Gaza-pic-1.jpg)`Furniture producer Al Kateba Al Khadra before PMDP assistance.`
 
 Alert to this crisis, the U.K. Department for International Development (DFID) and European Union’s [Palestinian Market Development Programme](http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp) (PMDP), led by DAI, opened the Gaza Back to Business matching grants window in November 2014—only weeks after the conflict had ended. The response was tremendous: Through July 2015, more than 700 businesspeople had applied for grants, with 129 agreements signed by enterprises meeting the project’s strict criteria. Most awards have been for less than £10,000 (US$15,740), but their impact—combined with recipients’ matching contributions—has been significant. Businesses and farms that might have folded irrevocably are selling again, and more than 1,000 people have returned to their jobs.
 
