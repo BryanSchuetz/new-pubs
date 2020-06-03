@@ -14,7 +14,7 @@ social-image: "/uploads/PMDP-new-pic-9e2af3-589d92.jpg"
 publication: Developments
 ---
 
-While the full impact of the COVID-19 pandemic on developing countries continues to unfold, it seems clear that the public health response of lockdowns and business closures is having a profound effect on developing economies. In the face of dwindling revenue, private companies with limited working capital reserves are forced to lay off staff and close their doors. The impact on the economy and poverty levels will be acute and is likely to reverberate for years to come. 
+While the full impact of the COVID-19 pandemic on developing countries continues to unfold, it seems clear that the public health response of lockdowns and business closures is having a [profound effect](https://www.cgdev.org/blog/economic-impact-covid-19-around-world-remittances-updated-growth-and-poverty-projections-and#global-commentary) on developing economies. In the face of dwindling revenue, private companies with limited working capital reserves are forced to lay off staff and close their doors. The impact on the economy and poverty levels will be acute and is likely to reverberate for years to come. 
 Yet just as government policies have mitigated the health impact of the pandemic, so effective policies toward the private sector can mitigate its economic impact. 
 
 
