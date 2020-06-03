@@ -14,14 +14,15 @@ social-image: "/uploads/PMDP-new-pic-9e2af3-589d92.jpg"
 publication: Developments
 ---
 
-While the full impact of the COVID-19 pandemic on developing countries continues to unfold, it seems clear that the public health response of lockdowns and business closures is having a profound effect on developing economies. In the face of dwindling revenue, private companies with limited working capital reserves are forced to lay off staff and close their doors. The impact on the economy and poverty levels will be acute and is likely to reverberate for years to come. 
+While the full impact of the COVID-19 pandemic on developing countries continues to unfold, it seems clear that the public health response of lockdowns and business closures is having a [profound effect](https://www.cgdev.org/blog/economic-impact-covid-19-around-world-remittances-updated-growth-and-poverty-projections-and#global-commentary) on developing economies. In the face of dwindling revenue, private companies with limited working capital reserves are forced to lay off staff and close their doors. The impact on the economy and poverty levels will be acute and is likely to reverberate for years to come. 
+
 Yet just as government policies have mitigated the health impact of the pandemic, so effective policies toward the private sector can mitigate its economic impact. 
 
 
 
 
 
-Small businesses, in particular, are key players in emerging economies. Small and medium-sized enterprises (SMEs) account for 78 percent of employment in such economies and are widely recognised as the nucleus for local markets and communities, offering innovation, supporting social cohesion, and playing an important role in the equitable distribution of income. Crucially, in the context of COVID-19, they also enable access to medical and other services, cleaning materials, and medicines. 
+Small businesses, in particular, are key players in emerging economies. Small and medium-sized enterprises (SMEs) account for [78 percent](https://www.oecd.org/greengrowth/GGSD_2018_SME%20Issue%20Paper_WEB.pdf) of employment in such economies and are widely recognised as the [nucleus for local markets](http://www.oecd.org/industry/smes/SME-Outlook-Highlights-FINAL.pdf) and communities, offering innovation, supporting social cohesion, and playing an important role in the equitable distribution of income. Crucially, in the context of COVID-19, they also enable access to medical and other services, cleaning materials, and medicines. 
 
 While COVID-19 is perhaps unprecedented in its sheer scale and abruptness, there are still lessons to be learned from previous examples of governments and donors collaborating to help businesses stay afloat. One such example comes from the Palestinian Territories, where a pair of linked  programmes funded by the U.K. Department for International Development (DFID), the World Bank, and the European Union (EU) supported hundreds of businesses to weather the extreme economic disruption resulting from the war in Gaza and remain viable enterprises that could provide jobs and foster demand and supply in markets.
 
