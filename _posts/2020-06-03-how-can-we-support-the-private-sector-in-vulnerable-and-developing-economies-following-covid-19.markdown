@@ -3,6 +3,9 @@ title: How Can We Support the Private Sector in Vulnerable and Developing Econom
   Following COVID-19?
 date: 2020-06-03 15:05:00 -04:00
 published: false
+tags:
+- economic-growth
+- covid-19
 author: "[Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant), [Katja
   Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander), and
   [Rosa Tarling](https://www.linkedin.com/in/rosa-tarling-45b796a9/)"
