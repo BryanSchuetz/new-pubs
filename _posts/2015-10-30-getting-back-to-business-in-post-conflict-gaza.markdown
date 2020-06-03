@@ -4,10 +4,12 @@ date: 2015-10-30 12:02:00 -04:00
 tags:
 - economic-growth
 - stability
+author: Mira Nasser
+thumbnail-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
+social-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
 publication: Developments
 issue: Fall 2015
 author-bio: Mira Nasser is a Communications Specialist with PMDP.
-author: Mira Nasser
 featured?: 'yes'
 assets:
 - path: "/uploads/Devs----Gaza-pic-2.jpg"
@@ -22,8 +24,6 @@ assets:
   name: Devs----Gaza-pic-1
 - path: "/uploads/Devs----PMDP-Gaza-pic-3.jpg"
   name: Devs----PMDP-Gaza-pic-3
-thumbnail-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
-social-image: "/uploads/Screen-Shot-2015-08-20-at-11.58.06-AM.jpg"
 ---
 
 When a business is put out of commission by war, it can take only a small investment—done rapidly in a post-conflict environment—to put it back on its feet, creating employment and making sales.
@@ -33,7 +33,7 @@ When a business is put out of commission by war, it can take only a small invest
 
 The 2014 Israel-Gaza conflict had a disastrous impact on Gaza. Scores of businesses, schools, hospitals, and homes were damaged or destroyed, as were infrastructure and farmland, leaving thousands of people without adequate shelter or a way to make a living. More than 900 factories covering 10 industrial sectors were damaged, according to estimates by the Palestinian Federation of Industries (PFI).
 
-![Devs----Gaza-pic-1](/uploads/Devs----Gaza-pic-1.jpg "Furniture producer Al Kateba Al Khadra before PMDP assistance.") 
+![Devs----Gaza-pic-1](/uploads/Devs----Gaza-pic-1.jpg)`Furniture producer Al Kateba Al Khadra before PMDP assistance.`
 
 Alert to this crisis, the U.K. Department for International Development (DFID) and European Union’s [Palestinian Market Development Programme](http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp) (PMDP), led by DAI, opened the Gaza Back to Business matching grants window in November 2014—only weeks after the conflict had ended. The response was tremendous: Through July 2015, more than 700 businesspeople had applied for grants, with 129 agreements signed by enterprises meeting the project’s strict criteria. Most awards have been for less than £10,000 (US$15,740), but their impact—combined with recipients’ matching contributions—has been significant. Businesses and farms that might have folded irrevocably are selling again, and more than 1,000 people have returned to their jobs.
 
@@ -43,7 +43,7 @@ Though Gaza remains isolated, the 360-square-kilometer territory still has poten
 
 <p><iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/131914685" webkitallowfullscreen="" width="703"></iframe></p>
 
-##The Best Way to Help##
+## The Best Way to Help
 
 Headquartered in Ramallah, West Bank, PMDP launched in late 2013 with three objectives: 1) improve private sector skills and innovation in both the West Bank and Gaza, 2) address market system failures, and 3) strengthen Palestinian trade and investment linkages. Just seven months later the Gaza conflict ignited, and after nearly two months of fighting, the aftermath compelled PMDP to add a rapid-response, Gaza-specific economic component.
 
@@ -51,7 +51,7 @@ Once the team members could safely resume work, they set out to assess how to be
 
 ![Screen-Shot-2015-08-20-at-12.59.59-PM](/uploads/Screen-Shot-2015-08-20-at-12.59.59-PM.jpg) 
 
-##Targeted Grants, Immediate Impact##
+## Targeted Grants, Immediate Impact
 
 Bilal Ebaid, owner of Bilal Ebaid Carpentry, had his shop location completely destroyed. Ebaid received a matching grant of £20,603 (US$32,430) from PDMP, complementing his own funds, to repair and replace machinery. “With the PMDP assistance, I was able to take very fast steps toward returning back to full operations in two months,” Ebaid said. “Without the help, I would have needed at least six months to get back to partial operations.”
 
@@ -62,13 +62,14 @@ Another firm that nearly went bankrupt and experienced a dramatic rebound is Ask
 ![Devs----Gaza-pic-2](/uploads/Devs----Gaza-pic-2.jpg) 
 
 “I am hopeful that the situation will get better,” said Imad Wadyeh, the business’ owner. “I re-employed 40 of my original employees which makes me happy, knowing that all of their families have the basic needs in life.” The company recently opened a new shop in Gaza and hired five more employees.
+
 In the wake of the bombing, furniture producer Al Kateba Al Khadra’s sales plummeted from $17,000 a month to nothing, and the owner was forced to lay off his 17 employees. PMDP’s matching grant of £12,896 (US$20,300) helped the firm buy a full production line and rent a workshop for six months, enabling the company to rehire six of its staff.
 
-“PMDP not only provided me with assistance to get back to business, they supported me on the psychological level,” said owner Hisham Korhali. “After the war I was completely broken on all levels, but the programme staff and business advisor stood by me and provided all the support I need to get back on my feet.“ Today, Al Kateba Al Khadra is back to full operation and secured a contract worth US$30,000 to produce 400 children’s beds for a furniture shop in West Bank; another contract for 1,000 beds is in the works.
+“PMDP not only provided me with assistance to get back to business, they supported me on the psychological level,” said owner Hisham Korhali. “After the war I was completely broken on all levels, but the programme staff and business advisor stood by me and provided all the support I need to get back on my feet." Today, Al Kateba Al Khadra is back to full operation and secured a contract worth US$30,000 to produce 400 children’s beds for a furniture shop in West Bank; another contract for 1,000 beds is in the works.
 
 [![Devs----PMDP-Gaza-pic-3](/uploads/Devs----PMDP-Gaza-pic-3.jpg)](http://www.pmdp.ps/) 
 
-##Gaza’s Economic Future##
+## Gaza’s Economic Future
 
 DAI's work in Gaza in the wake of two recent conflicts (2008–2009 and 2014) draws on our experience in post-conflict settings dating to Bosnia in the 1990s. There, under work funded by the U.S. Agency for International Development, we helped bring businesses back into commission quickly with small loans or grants. Often, the needs were relatively simple, such as someone needing money to buy new tires to put an essential work vehicle back into operation.
 
