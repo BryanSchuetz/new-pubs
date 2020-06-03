@@ -23,11 +23,11 @@ Small businesses, in particular, are key players in emerging economies. Small an
 
 While COVID-19 is perhaps unprecedented in its sheer scale and abruptness, there are still lessons to be learned from previous examples of governments and donors collaborating to help businesses stay afloat. One such example comes from the Palestinian Territories, where a pair of linked  programmes funded by the U.K. Department for International Development (DFID), the World Bank, and the European Union (EU) supported hundreds of businesses to weather the extreme economic disruption resulting from the war in Gaza and remain viable enterprises that could provide jobs and foster demand and supply in markets.
 
+![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)`The FNMD project helped businesses with hiring staff, among other services.`
+
 ## Gaza Back to Work
 
 In 2009, the military incursion in Gaza brought the private sector to a standstill. Up to 90 percent of businesses in Gaza closed or significantly reduced capacity, exacerbating already high levels of unemployment. In response, the four-year Facility for New Market Development (FNMD)—jointly funded by DFID and the World Bank and running from 2008 to 2012—launched the Gaza Back to Work (GB2W) grant window to address the needs of Gaza businesses. 
-
-![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)`The FNMD project helped businesses with hiring staff, among other services.`
 
 The grants were designed to cover the operating costs of hiring staff, ensuring payroll until business revenue was sufficient, and maintaining inactive machinery. The aim was to restart dormant businesses by injecting liquidity, thereby enabling job creation, stimulating the private sector, increasing the purchasing power of employees, and speeding the resumption of economic activity.
 The grants provided support for up to three months of operating expenses with a maximum amount of $30,000 per business. In total, 288 grants were disbursed. Dormant assets were rapidly brought back to working condition, jobs were created, and markets strengthened. Critically, 87 percent of the supported employees were still working after FNMD ended, and 250 additional employees had been hired beyond what was supported by the programme.
