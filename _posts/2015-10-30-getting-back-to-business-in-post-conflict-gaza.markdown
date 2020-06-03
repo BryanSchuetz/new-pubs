@@ -43,7 +43,7 @@ Though Gaza remains isolated, the 360-square-kilometer territory still has poten
 
 <p><iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/131914685" webkitallowfullscreen="" width="703"></iframe></p>
 
-##The Best Way to Help##
+##The Best Way to Help
 
 Headquartered in Ramallah, West Bank, PMDP launched in late 2013 with three objectives: 1) improve private sector skills and innovation in both the West Bank and Gaza, 2) address market system failures, and 3) strengthen Palestinian trade and investment linkages. Just seven months later the Gaza conflict ignited, and after nearly two months of fighting, the aftermath compelled PMDP to add a rapid-response, Gaza-specific economic component.
 
