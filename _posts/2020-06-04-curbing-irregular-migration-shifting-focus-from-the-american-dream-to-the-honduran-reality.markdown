@@ -11,6 +11,8 @@ tags:
 - covid-19
 author: "[Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/), PhD., and
   [Lucas King](https://www.linkedin.com/in/lucas-king-development/)"
+thumbnail-image: "/uploads/sm%20ALE%202.jpg"
+social-image: "/uploads/sm%20ALE%202.jpg"
 publication: Developments
 ---
 
