@@ -3,6 +3,11 @@ title: 'Curbing Irregular Migration: Shifting Focus from the American Dream to t
   Honduran Reality'
 date: 2020-06-04 13:22:00 -04:00
 published: false
+tags:
+- resilience
+- global-development
+- fragile-states
+- education
 author: "[Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/), PhD., and
   [Lucas King](https://www.linkedin.com/in/lucas-king-development/)"
 ---
