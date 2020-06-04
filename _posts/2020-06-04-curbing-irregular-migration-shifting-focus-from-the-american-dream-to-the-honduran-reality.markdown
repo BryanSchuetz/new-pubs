@@ -16,9 +16,9 @@ social-image: "/uploads/sm%20ALE%202.jpg"
 publication: Developments
 ---
 
-Honduran parents often pull their young children out of school to accompany them on the perilous journey to the United States because of rumors suggesting that the presence of youngsters will ensure visas for families. Older students, seeking what they perceive as a safer or more prosperous future, drop out on their own to undertake the journey. Many educators felt like they were fighting a losing battle. “They even organized caravans out in front of the school,” said Miguel Mejia, Principal of Miguel Paz Barahona in La Ceiba. 
+Honduran parents often pull their young children out of school to accompany them on the perilous journey to the United States because of rumors suggesting that the presence of youngsters will ensure visas for families. Older students, seeking what they perceive as a safer or more prosperous future, drop out on their own to undertake the journey. Many educators feel like they were fighting a losing battle. “They even organized caravans out in front of the school,” said Miguel Mejia, Principal of Miguel Paz Barahona in La Ceiba. 
 
-In response to an upsurge in irregular migration from Honduras in late 2018 and early 2019, *[Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education)*—a U.S. Agency for International Development program to support safe schools—launched an awareness campaign in May 2019. Over the past year, the campaign has equipped decision makers (parents, caretakers, and older students) with information on the long-term impacts associated with irregular out-migration, on the one hand, and kindled students’ career aspirations in Honduras, on the other. The campaign makes the case that young people’s safest, most promising future lies not in the American Dream, but in the Honduran Reality, which is remaining in school, graduating, and securing a rewarding career.
+In response to an upsurge in irregular migration from Honduras in late 2018 and early 2019, *[Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education)*—a U.S. Agency for International Development project to support safe schools—launched an awareness campaign in May 2019. Over the past year, the campaign has equipped decision makers (parents, caretakers, and older students) with information on the long-term impacts associated with irregular out-migration, on the one hand, and kindled students’ career aspirations in Honduras, on the other. The campaign makes the case that young people’s safest, most promising future lies not in the American Dream, but in the Honduran Reality, which is remaining in school, graduating, and securing a rewarding career.
 
 
 
@@ -47,7 +47,7 @@ Art workshop facilitators lead discussions with young people to imagine a career
 
 ![ALE 2.jpg](/uploads/ALE%202.jpg)`Students paint a mural during an art workshop.`
 
-*Asegurando* utilizes social and traditional media to extend the campaign’s reach beyond the program’s 135 schools. For example, it published 147 social media posts promoting the value of education and circulated hashtags such as #*SoñaloViviloAqui* (Dream It, Live it Here) and #*ImaginandoMiFuturoEnHonduras* (Imagining My Future in Honduras). For the first two months of 2020, campaign activities and messaging reached more than 300,000 people.
+*Asegurando* utilizes social and traditional media to extend the campaign’s reach beyond the project’s 135 schools. For example, it published 147 social media posts promoting the value of education and circulated hashtags such as #*SoñaloViviloAqui* (Dream It, Live it Here) and #*ImaginandoMiFuturoEnHonduras* (Imagining My Future in Honduras). For the first two months of 2020, campaign activities and messaging reached more than 300,000 people.
 
 ## COVID-19 and the Return to School
 
