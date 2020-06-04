@@ -22,10 +22,7 @@ The U.S. Agency for International Development (USAID), through the [Honduras Loc
 Through the delivery of sanitation supplies and medical diagnostic tools, the Activity is working to improve the safety of more than 4,000 individuals who are actively responding to the COVID-19 pandemic in western Honduras. By strengthening local government and frontline health service provider capacity to prevent further spread of COVID-19 and detect potential cases at the local level, the Activity aims to indirectly benefit up to 1.1 million people.
 
 “We did not have these kinds of supplies in the municipality. They will be very useful for the people who are working in health centers, checkpoints, and as volunteers,” said René Pérez, Mayor of San Andrés, Lempira. “On behalf of the people of San Andrés, thank you very much.”
-
-Watch: Chief of Party Carla Aguilar on HLG COVID-19 initiatives
 <iframe src="https://player.vimeo.com/video/425580852" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 Western Honduras, where HLG works, suffers from weak public health systems and high levels of poverty, presenting complex challenges in addressing COVID-19. As of May 26, there are 4,182 confirmed cases registered nationwide, and 182 people have died.
 
 In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered across western Honduras. Six regional hospitals also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide.
