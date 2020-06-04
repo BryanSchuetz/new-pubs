@@ -25,7 +25,7 @@ In response to an upsurge in irregular migration from Honduras in late 2018 and 
 
 ## Generating Discussion
 
-“The American dream can turn into a nightmare,” said Principal Telma Clavasquin of Marco Antonio Ponce School in La Ceiba. “The most valuable thing that they possess is what they can lose: their life.” *Asegurando* partners with educators to provide decision makers with facts about the risks associated with a journey north. 
+“The American dream can turn into a nightmare,” said Principal Telma Clavasquin of Marco Antonio Ponce School in La Ceiba. “The most valuable thing that they possess is what they can lose: their life.” *Asegurando* partners with educators to provide decision makers with facts about the [risks associated](https://www.lawg.org/yetanothervictimoftheamericandream/) with a journey north. 
 
 But the campaign is more than just highlighting the dangers of the journey. School counselor Karla Videa from Cámara Junior School in Tegucigalpa explained, “Parents already knew that you can die [on the trip]… but they didn’t analyze the risks.” The project focuses on generating a discussion about the long-term impacts of dropping out or withdrawing students from school to migrate without documents. Most withdrawn students “need to make up the whole school year,” Videa said. Or worse yet, they never return to school. 
 
