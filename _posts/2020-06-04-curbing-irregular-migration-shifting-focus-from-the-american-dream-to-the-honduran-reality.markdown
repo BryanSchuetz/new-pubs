@@ -2,7 +2,6 @@
 title: 'Curbing Irregular Migration: Shifting Focus from the American Dream to the
   Honduran Reality'
 date: 2020-06-04 13:22:00 -04:00
-published: false
 tags:
 - resilience
 - global-development
