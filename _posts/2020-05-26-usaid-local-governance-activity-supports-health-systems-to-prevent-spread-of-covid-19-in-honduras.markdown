@@ -23,6 +23,8 @@ Through the delivery of sanitation supplies and medical diagnostic tools, the Ac
 
 “We did not have these kinds of supplies in the municipality. They will be very useful for the people who are working in health centers, checkpoints, and as volunteers,” said René Pérez, Mayor of San Andrés, Lempira. “On behalf of the people of San Andrés, thank you very much.”
 
+<iframe src="https://player.vimeo.com/video/425580852" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`HLG Chief of Party Carla Aguilar speaks about how the project team is contributing to Western Honduras efforts to fight the spread of COVID-19.` 
+
 Western Honduras, where HLG works, suffers from weak public health systems and high levels of poverty, presenting complex challenges in addressing COVID-19. As of May 26, there are 4,182 confirmed cases registered nationwide, and 182 people have died.
 
 In April and May, approximately $126,000 worth of supplies—including more than 1,000 gallons each of bleach, hand sanitizer, detergent, and disinfectant—were delivered across western Honduras. Six regional hospitals also received thermometers, pulse oximeters, and vital sign monitors to improve the care they provide.
