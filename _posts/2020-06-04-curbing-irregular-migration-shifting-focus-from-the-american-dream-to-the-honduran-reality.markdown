@@ -8,13 +8,20 @@ tags:
 - global-development
 - fragile-states
 - education
+- covid-19
 author: "[Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/), PhD., and
   [Lucas King](https://www.linkedin.com/in/lucas-king-development/)"
+publication: Developments
 ---
 
 Honduran parents often pull their young children out of school to accompany them on the perilous journey to the United States because of rumors suggesting that the presence of youngsters will ensure visas for families. Older students, seeking what they perceive as a safer or more prosperous future, drop out on their own to undertake the journey. Many educators felt like they were fighting a losing battle. “They even organized caravans out in front of the school,” said Miguel Mejia, Principal of Miguel Paz Barahona in La Ceiba. 
 
 In response to an upsurge in irregular migration from Honduras in late 2018 and early 2019, *[Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education)*—a U.S. Agency for International Development program to support safe schools—launched an awareness campaign in May 2019. Over the past year, the campaign has equipped decision makers (parents, caretakers, and older students) with information on the long-term impacts associated with irregular out-migration, on the one hand, and kindled students’ career aspirations in Honduras, on the other. The campaign makes the case that young people’s safest, most promising future lies not in the American Dream, but in the Honduran Reality, which is remaining in school, graduating, and securing a rewarding career.
+
+
+
+
+
 
 ## Generating Discussion
 
@@ -34,7 +41,8 @@ Principal Clavasquin said that many Honduran youth never reflect on future goals
 
 Art workshop facilitators lead discussions with young people to imagine a career for themselves in Honduras, often for the first time. Students are then asked to express themselves through drawings or murals. The mural at Marco Antonio Ponce serves as a daily reminder that youth can have a rewarding future if they study hard and graduate. “They ask ‘When are we going to do it [our mural]?’” Clavasquin said. “And I tell them, ‘This year.’” After one workshop at Oswaldo Arellano School in Choloma, a ninth grade girl said, “Honduras can offer us these opportunities… to achieve our dreams.” 
 
-*Asegurando* utilizes social and traditional media to extend the campaign’s reach beyond the program’s 135 schools. For example, it published 147 social media posts promoting the value of education and circulated hashtags such as #SoñaloViviloAqui (Dream It, Live it Here) and #ImaginandoMiFuturoEnHonduras (Imagining My Future in Honduras). For the first two months of 2020, campaign activities and messaging reached more than 300,000 people.
+*Asegurando* utilizes social and traditional media to extend the campaign’s reach beyond the program’s 135 schools. For example, it published 147 social media posts promoting the value of education and circulated hashtags such as #*SoñaloViviloAqui* (Dream It, Live it Here) and #*ImaginandoMiFuturoEnHonduras* (Imagining My Future in Honduras). For the first two months of 2020, campaign activities and messaging reached more than 300,000 people.
 
-COVID-19 and the Return to School
-With the outbreak of the COVID-19 pandemic and subsequent school closures in March 2020, Asegurando has shifted the focus of the campaign to crisis response, strengthening the resilience of students and families. Once schools reopen, it will be more important than ever to resume the curbing migration campaign and draw young people back into classrooms and out of harm’s way. 
+## COVID-19 and the Return to School
+
+With the outbreak of the COVID-19 pandemic and subsequent school closures in March 2020, *Asegurando* has shifted the focus of the campaign to crisis response, strengthening the resilience of students and families. Once schools reopen, it will be more important than ever to resume the curbing migration campaign and draw young people back into classrooms and out of harm’s way. 
