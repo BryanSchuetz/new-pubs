@@ -35,7 +35,9 @@ Parents are responding positively. After one such discussion at Cámara Junior S
 
 ## Imagining a Future in Honduras 
 
-Principal Clavasquin said that many Honduran youth never reflect on future goals and career choices in Honduras. A study conducted last year revealed that 63 percent of Honduran students had hopes of migrating to the United States, Mexico, or Spain. One critical component of *Asegurando*’s awareness campaign is helping students imagine a future in their own country. The project accomplishes this through motivational talks, art workshops, and media outreach. 
+Principal Clavasquin said that many Honduran youth never reflect on future goals and career choices in Honduras. A [study conducted](https://presencia.unah.edu.hn/noticias/el-63-de-los-estudiantes-de-ultimo-ano-de-colegio-contempla-migrar-tras-graduarse/) last year revealed that 63 percent of Honduran students had hopes of migrating to the United States, Mexico, or Spain. One critical component of *Asegurando*’s awareness campaign is helping students imagine a future in their own country. The project accomplishes this through motivational talks, art workshops, and media outreach. 
+
+![ALE 1.jpg](/uploads/ALE%201.jpg)`Ricardo Sierra gives a motivational talk to high school students.` 
 
 *Asegurando* helps schools host motivational talks with successful men and women who hail from comparable backgrounds, have suffered similar hardships, and used education to succeed in their field. After listening to alumnus Ricardo Sierra, Chief Economist for the Honduran Sugar Association, speak at 21 de Octubre School in Tegucigalpa, ninth grader Jefferson said, “I admire him because he never gave up.” 
 
