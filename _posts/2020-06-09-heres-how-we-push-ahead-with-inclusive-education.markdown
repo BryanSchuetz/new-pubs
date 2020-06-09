@@ -6,7 +6,7 @@ author: "[Sakil Malik](https://www.dai.com/who-we-are/our-team/sakil-malik) "
 publication: 'Developments '
 ---
 
-Since discussions began around the Millennium Development Goals (MDGs), the global community has agreed that education is the right of every child, regardless of socio-economic status, religion, ability, culture, or geography. Yet even as the idea of inclusive education garners support, we struggle to move beyond talk to action. DAI hosted a panel on inclusive education in 2019 to ask two fundamental questions: What are the key policies needed to support inclusive education? And what aspects of project design and implementation are essential to achieve inclusive education?
+Since discussions began around the [Millennium Development Goals](https://www.un.org/millenniumgoals/) (MDGs), the global community has agreed that education is the right of every child, regardless of socio-economic status, religion, ability, culture, or geography. Yet even as the idea of inclusive education [garners support](https://en.unesco.org/news/momentum-efforts-inclusion-education), we struggle to move beyond talk to action. DAI hosted a panel on inclusive education in 2019 to ask two fundamental questions: What are the key policies needed to support inclusive education? And what aspects of project design and implementation are essential to achieve inclusive education?
 
 In a recent white paper, our [Inclusive Education](https://www.dai.com/our-work/solutions/education) team makes the following recommendations for policy makers and implementers.
 
