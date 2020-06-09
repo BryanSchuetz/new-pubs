@@ -8,7 +8,7 @@ tags:
 author: "[Sakil Malik](https://www.dai.com/who-we-are/our-team/sakil-malik) "
 thumbnail-image: "/uploads/Screen%20Shot%202020-06-09%20at%208.54.05%20AM.png"
 social-image: "/uploads/Screen%20Shot%202020-06-09%20at%208.54.05%20AM.png"
-publication: 'Developments '
+publication: Developments
 ---
 
 Since discussions began around the [Millennium Development Goals](https://www.un.org/millenniumgoals/) (MDGs), the global community has agreed that education is the right of every child, regardless of socio-economic status, religion, ability, culture, or geography. Yet even as the idea of inclusive education [garners support](https://en.unesco.org/news/momentum-efforts-inclusion-education), we struggle to move beyond talk to action. DAI hosted a panel on inclusive education in 2019 to ask two fundamental questions: What are the key policies needed to support inclusive education? And what aspects of project design and implementation are essential to achieve inclusive education?
