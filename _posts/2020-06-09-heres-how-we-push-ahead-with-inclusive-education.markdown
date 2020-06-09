@@ -35,7 +35,7 @@ Apply systems thinking to ensure strategic and holistic change in education at t
 
 **Accommodate a twin-track approach.** Since a systems approach to inclusive education requires a significant amount of education and buy-in at the home, school, community, and government levels, applying a twin-track approach is wisest. Twin tracking allows for temporary solutions to immediate needs, as well as planning for permanent change in the system. A twin tracking approach done right will underpin all activities with a commitment to eventual mainstreaming and full inclusion, while immediately focusing activities on intervention for individual students who require assistance now. 
 
-**Focus on the how.** There is overwhelming consensus on why systems should be inclusive, but the political will, policy preferences, and program models—the how—is where the education community falls behind. We suggest policy makers accept and use the substantial evidence base we have, instead of asking for additional proof points or additional testing within all conceivable education environments. 
+**Focus on the how.** There is overwhelming consensus on *why* systems should be inclusive, but the political will, policy preferences, and program models—the *how*—is where the education community falls behind. We suggest policy makers accept and use the substantial evidence base we have, instead of asking for additional proof points or additional testing within all conceivable education environments. 
 
 **Ask better data questions.** While the previous point holds, and there is compelling evidence that inclusive education should be the goal, we still need better data to chart the most sustainable ways to operationalize it. 
 
