@@ -19,7 +19,7 @@ In a recent white paper, our [Inclusive Education](https://www.dai.com/our-work/
 
  
 <p>
-<h2 style="text-align: center;"><a href="/uploads/WhitePaper_InclusiveEducation.pdf">Download Full Report</a></h2>
+<h2 style="text-align: center;"><a href="/uploads/WhitePaper_InclusiveEducation%20pages.pdf">Download Full Report</a></h2>
 </p>
 
 Apply systems thinking to ensure strategic and holistic change in education at the system, societal, and school levels. In education, application of systems thinking requires an in-depth review of the local education structure, including review of:
@@ -51,5 +51,5 @@ Apply systems thinking to ensure strategic and holistic change in education at t
 These recommendations are not stand-alone solutions but related pieces of a multilayered, integrated system of decision-making, design, and implementation. For example, we cannot deliver sustainable pre-service teacher training on universal design for learning without discussions about budget and funding. We cannot build community awareness and engagement without data and evidence to share with those communities. We need to act on all these fronts, and we need to act now.  
 
 <p>
-<h2 style="text-align: center;"><a href="/uploads/WhitePaper_InclusiveEducation.pdf">Download Full Report</a></h2>
+<h2 style="text-align: center;"><a href="/uploads/WhitePaper_InclusiveEducation%20pages.pdf">Download Full Report</a></h2>
 </p>
