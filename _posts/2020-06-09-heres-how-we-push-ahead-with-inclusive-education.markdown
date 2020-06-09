@@ -48,7 +48,6 @@ Apply systems thinking to ensure strategic and holistic change in education at t
 
 **Design for scale.** To ensure the sustainability of investments in inclusive schools, and access for multiple users over time, implementers should be up front with communities in disclosing cost considerations and replacement needs, so that they are able to appropriately plan for scheduled maintenance and replacement costs.
 
-
 These recommendations are not stand-alone solutions but related pieces of a multilayered, integrated system of decision-making, design, and implementation. For example, we cannot deliver sustainable pre-service teacher training on universal design for learning without discussions about budget and funding. We cannot build community awareness and engagement without data and evidence to share with those communities. We need to act on all these fronts, and we need to act now.  
 
 <p>
