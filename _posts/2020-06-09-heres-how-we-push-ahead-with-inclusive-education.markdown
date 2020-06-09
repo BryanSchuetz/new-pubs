@@ -5,8 +5,8 @@ tags:
 - education
 - governance
 author: "[Sakil Malik](https://www.dai.com/who-we-are/our-team/sakil-malik) "
-thumbnail-image: "/uploads/Screen%20Shot%202020-06-09%20at%208.54.05%20AM.png"
-social-image: "/uploads/Screen%20Shot%202020-06-09%20at%208.54.05%20AM.png"
+thumbnail-image: "/uploads/IEWPPcover"
+social-image: "/uploads/IEWPPcover"
 publication: Developments
 ---
 
