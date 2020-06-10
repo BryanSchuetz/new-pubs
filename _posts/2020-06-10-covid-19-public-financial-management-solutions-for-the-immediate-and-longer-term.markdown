@@ -2,7 +2,6 @@
 title: 'COVID-19: Public Financial Management Solutions for the Immediate and Longer
   Term'
 date: 2020-06-10 10:18:00 -04:00
-published: false
 tags:
 - covid-19
 - economic-growth
