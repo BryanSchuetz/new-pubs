@@ -8,6 +8,8 @@ tags:
 - economic-growth
 - public-financial-management
 author: "[Debora Marignani](https://www.linkedin.com/in/debora-marignani-a250b210/) "
+thumbnail-image: "/uploads/sm%20ADEM7846.jpg"
+social-image: "/uploads/sm%20ADEM7846.jpg"
 publication: Developments
 ---
 
@@ -45,6 +47,8 @@ Building on lessons learned from projects dealing with previous pandemics and ot
 * Understand the budgetary and legal framework for emergency response mechanisms and set up fast-track expenditure authorization procedures (such as authority delegated to subnational governments). Support activities could include: (i) helping issue additional guidance for procurement direct awards, (ii) assisting the national procurement officers with monitoring international and domestic markets for price comparisons, and (iii) ensuring that all procurement information related to COVID-19 on government portals is public in order to enhance transparency and trust. The EU-funded [Justice and Accountability Programme (*Chilungamo*)](https://www.dai.com/our-work/projects/malawi-justice-and-accountability-programme-chilungamo) in Malawi has adopted this approach, by assisting in the drafting of emergency procurement procedures and ensuring that ex-post checks are fully integrated to properly direct goods and services. 
 * Help ministries of finance prepare for high liquidity demands. Managing cash flow during a crisis is crucial, especially in the health sector and in countries with low cash reserves. Ministries of finance might need support developing a treasury plan for cash management as part of their overall business risk and continuity preparation. 
 * Secure reporting and accountability mechanisms to track COVID-19 expenditures, inform policy makers, and mitigate corruption. This assistance could include support to introduce appropriate budgeting and accounting codes within existing structures, thus capturing COVID-19 allocations and expenditures. Supporting inclusive policy dialogue and citizen engagement in policy planning processes to ensure accountability is also critical here. The U.K. Department for International Development’s [Accountable, Responsive and Capable Government (ARC)](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) pillar of the Partnership to Engage, Reform and Learn Programme in Nigeria strengthens government capabilities to improve accountability and responsiveness. The ARC team helped organise virtual meetings and national dialogues on a wide range of topics, such as debt sustainability, economic stability programmes, and budgetary adjustments. Importantly, it has maintained policy dialogue and citizen participation in key policy planning processes, ensuring accountability despite the crisis.
+
+![ADEM7846.jpg](/uploads/ADEM7846.jpg)`ARC public financial management workshop in Nigeria.`
 
 ## Medium-Term Measures
 
