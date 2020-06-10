@@ -4,6 +4,7 @@ date: 2020-05-22 12:26:00 -04:00
 tags:
 - safeguarding
 - gender
+- covid-19
 author: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)"
 thumbnail-image: "/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png"
 social-image: "/uploads/Screen%20Shot%202020-05-22%20at%202.57.47%20PM.png"
