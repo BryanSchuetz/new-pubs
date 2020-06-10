@@ -46,6 +46,8 @@ Building on lessons learned from projects dealing with previous pandemics and ot
 * Help ministries of finance prepare for high liquidity demands. Managing cash flow during a crisis is crucial, especially in the health sector and in countries with low cash reserves. Ministries of finance might need support developing a treasury plan for cash management as part of their overall business risk and continuity preparation. 
 * Secure reporting and accountability mechanisms to track COVID-19 expenditures, inform policy makers, and mitigate corruption. This assistance could include support to introduce appropriate budgeting and accounting codes within existing structures, thus capturing COVID-19 allocations and expenditures. Supporting inclusive policy dialogue and citizen engagement in policy planning processes to ensure accountability is also critical here. The U.K. Department for International Development’s [Accountable, Responsive and Capable Government (ARC)](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) pillar of the Partnership to Engage, Reform and Learn Programme in Nigeria strengthens government capabilities to improve accountability and responsiveness. The ARC team helped organise virtual meetings and national dialogues on a wide range of topics, such as debt sustainability, economic stability programmes, and budgetary adjustments. Importantly, it has maintained policy dialogue and citizen participation in key policy planning processes, ensuring accountability despite the crisis.
 
+![ADEM7846.jpg](/uploads/ADEM7846.jpg)`ARC public financial management workshop in Nigeria.`
+
 ## Medium-Term Measures
 
 In the longer term, donors and implementing partners could:
