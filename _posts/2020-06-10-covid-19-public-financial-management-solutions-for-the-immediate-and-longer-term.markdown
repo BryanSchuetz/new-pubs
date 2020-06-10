@@ -8,6 +8,8 @@ tags:
 - economic-growth
 - public-financial-management
 author: "[Debora Marignani](https://www.linkedin.com/in/debora-marignani-a250b210/) "
+thumbnail-image: "/uploads/sm%20ADEM7846.jpg"
+social-image: "/uploads/sm%20ADEM7846.jpg"
 publication: Developments
 ---
 
