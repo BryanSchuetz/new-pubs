@@ -50,10 +50,11 @@ Building on lessons learned from projects dealing with previous pandemics and ot
 
 In the longer term, donors and implementing partners could:
 
-*Assist with the upgrade and implementation of the business continuity and recovery plans; 
-* Help develop, update, and implement country-owned disaster risk financing strategies; 
-* Facilitate COVID-19 coordination among internal stakeholders such as ministries and subnational governments, and external stakeholders such as regional development banks and bilateral development partners; and
-* Organize peer-exchanges and knowledge transfers about the fiscal implications of coronavirus and related remedial measures. Bodies such as the Collaborative Africa Budget Reform Initiative (CABRI) are already doing effective work in this regard, introducing for example the COVID-19 Public Finance Response Monitor to track how African ministries of finance are responding to the crisis. 
+* Assist with the upgrade and implementation of the **business continuity and recovery plans**; 
+* Help develop, update, and implement **country-owned disaster risk financing strategies**; 
+* Facilitate COVID-19 **coordination among internal stakeholders** such as ministries and subnational governments, and external stakeholders such as regional development banks and bilateral development partners; and
+* Organize **peer exchanges and knowledge transfers** about the fiscal implications of coronavirus and related remedial measures. Bodies such as the [Collaborative Africa Budget Reform Initiative](https://www.cabri-sbo.org/) are already doing effective work in this regard, introducing, for example, the COVID-19 Public Finance Response Monitor to track how African ministries of finance are responding to the crisis. 
+
 Ultimately, our objective is to work closely with our partners through the recovery and reform planning needed to deal with this crisis and its aftermath. This means ensuring that our development assistance is tailored to local needs and informed by in-depth political economy analysis as well as lessons learnt from previous experience. We intend to support our counterparts not only in dealing with the present, but also to think about the path forward; where possible, turning the immediate crisis into opportunity to uphold and strengthen PFM processes, and create conditions more conducive to growth and prosperity for all.
 
 *Debora Marignani is a Principal Consultant with our Brussels-based Governance Team.*
