@@ -1,7 +1,7 @@
 ---
 title: New Research Reveals Underlying Vulnerabilities and Drivers of Conflict in
   Thailand
-date: 2020-04-22 15:39:00 -04:00
+date: 2020-06-10 15:39:00 -04:00
 published: false
 tags:
 - fragile-states
