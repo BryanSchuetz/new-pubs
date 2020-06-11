@@ -60,4 +60,4 @@ In the longer term, donors and implementing partners could:
 
 Ultimately, our objective is to work closely with our partners through the recovery and reform planning needed to deal with this crisis and its aftermath. This means ensuring that our development assistance is tailored to local needs and informed by in-depth political economy analysis as well as lessons learnt from previous experience. We intend to support our counterparts not only in dealing with the present, but also to think about the path forward; where possible, turning the immediate crisis into opportunity to uphold and strengthen PFM processes, and create conditions more conducive to growth and prosperity for all.
 
-*Debora Marignani is a Principal Consultant with our Governance Team.*
+*Debora Marignani is a Principal Consultant with our UK Governance Team.*
