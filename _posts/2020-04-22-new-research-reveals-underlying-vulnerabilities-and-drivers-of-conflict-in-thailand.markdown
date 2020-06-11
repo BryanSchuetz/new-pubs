@@ -3,20 +3,30 @@ title: New Research Reveals Underlying Vulnerabilities and Drivers of Conflict i
   Thailand
 date: 2020-04-22 15:39:00 -04:00
 published: false
+tags:
+- fragile-states
+- stability
+author: Thailand Together Staff
+thumbnail-image: "/uploads/THA00001.JPG"
+social-image: "/uploads/THA00001.JPG"
 publication: Developments
 ---
 
-In recent years, Thailand has been troubled by both latent and violent conflict. Political crises have included violent street protests and the destruction of public property, which culminated in a [military coup in 2014](https://en.wikipedia.org/wiki/2014_Thai_coup_d'%C3%A9tat). Anti-Muslim sentiment is rising in some parts of the country, and grievances over land and water use and disparities in economic development have increased tensions that periodically erupt in violence. At the same time, the [long-running insurgency](https://thediplomat.com/2018/02/the-slow-burning-insurgency-in-thailands-deep-south/) in the deep south continues to claim casualties without a clear end in sight. 
+To investigate the drivers of conflict in Thailand, the U.S. Agency for International Development (USAID)-funded and DAI-led Together activity supported the design and implementation of a mixed-methods research project from November 2018 to June 2019. In partnership with five Thai universities—Maejo University, Khon Kaen University, Yala Rajabhat University, Prince of Songkla University–Pattani Campus, and Princess of Naradhiwas University—the project explored issues of latent and violent conflict in the north, northeast, and deep south regions of Thailand to provide a better understanding of the drivers of conflict and the pathways through which individuals become influenced to participate in destructive or violent actions, such as arson or physically harming other people. 
 
 
 
 
 
-To date, research on conflict in Thailand has focused mainly on the deep south, with much discussion of the issues, drivers, and push-and-pull factors that fuel the violence there. With few investigations of conflict in other areas of the country, many questions remain regarding the underlying pathways leading to the violence that has been witnessed in, for example, the north and northeast regions. A deeper understanding of the drivers of conflict is needed to address effectively the latent and violent conflicts affecting Thailand. 
+[Download the Research Summary here](/uploads/Vulnerabilities%20and%20Drivers%20of%20Conflict%20in%20Thailand_Summary_PUBLIC%20APPROVED_April%202020.pdf). 
 
-To investigate the drivers of conflict and underlying vulnerabilities in more detail, the U.S. Agency for International Development (USAID)-funded and DAI-led Together activity supported the design and implementation of a mixed-methods research project from November 2018 to June 2019. In partnership with five Thai universities—Maejo University, Khon Kaen University, Yala Rajabhat University, Prince of Songkla University–Pattani Campus, and Princess of Naradhiwas University—the project explored issues of latent and violent conflict in the north, northeast, and deep south regions of Thailand to provide a better understanding of the drivers of conflict and the pathways through which individuals become influenced to participate in destructive or violent actions, such as arson or physically harming other people. 
+To foster a peaceful, secure Thailand, Together supports civil society 
+organizations and the Royal Thai Government to deepen constructive 
+dialogue between citizens and government, and improve ways to 
+address citizens’ priorities and reduce drivers of latent and violent 
+conflict.
 
-For the purposes of our research, we define “drivers” as those push-and-pull factors that influence people to turn to violence and make it easier for violent people or organizations to attract followers to their cause. 
+Through its partnerships and activities in the Deep South, North and Northeast regions of Thailand, Together aims to expand the space for dialogue and reconciliation, and facilitate the growth of attitudes, networks, and mechanisms that nurture peace, tolerance, and responsive governance. Together works with the Royal Thai Government to increase government efforts to communicate more effectively with its citizens, address citizen concerns, and strengthen social cohesion. Together also collaborates with civil society organizations to improve their ability to advocate for public interests and work with the government to develop solutions to common challenges.  
 
 ## Collecting the Data 
 
