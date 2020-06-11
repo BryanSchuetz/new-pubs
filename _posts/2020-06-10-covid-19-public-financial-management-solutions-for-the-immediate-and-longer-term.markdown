@@ -4,15 +4,15 @@ title: 'COVID-19: Public Financial Management Solutions for the Immediate and Lo
 date: 2020-06-10 10:18:00 -04:00
 tags:
 - covid-19
-- economic-growth
 - public-financial-management
+- governance
 author: "[Debora Marignani](https://www.linkedin.com/in/debora-marignani-a250b210/) "
 thumbnail-image: "/uploads/sm%20ADEM7846.jpg"
 social-image: "/uploads/sm%20ADEM7846.jpg"
 publication: Developments
 ---
 
-Any effective government response to crises such as COVID-19 will rely on good public financial management (PFM). As the IMF makes clear, PFM systems will play an important role in tackling the [immediate challenges](https://blog-pfm.imf.org/pfmblog/2020/03/preparing-public-financial-management-systems-to-meet-covid-19-challenges.html) posed by the pandemic, which include estimating and finding the financial resources needed to confront the disease, disbursing funds to the appropriate delivery units, accounting for and reporting on the resources deployed, and ensuring continuity of operations even as most government staff are absent or working from home.
+Any effective government response to crises such as COVID-19 will rely on good public financial management (PFM). As the International Monetary Fund makes clear, PFM systems will play an important role in tackling the [immediate challenges](https://blog-pfm.imf.org/pfmblog/2020/03/preparing-public-financial-management-systems-to-meet-covid-19-challenges.html) posed by the pandemic, which include estimating and finding the financial resources needed to confront the disease, disbursing funds to the appropriate delivery units, accounting for and reporting on the resources deployed, and ensuring continuity of operations even as most government staff are absent or working from home.
 
 
 
@@ -60,4 +60,4 @@ In the longer term, donors and implementing partners could:
 
 Ultimately, our objective is to work closely with our partners through the recovery and reform planning needed to deal with this crisis and its aftermath. This means ensuring that our development assistance is tailored to local needs and informed by in-depth political economy analysis as well as lessons learnt from previous experience. We intend to support our counterparts not only in dealing with the present, but also to think about the path forward; where possible, turning the immediate crisis into opportunity to uphold and strengthen PFM processes, and create conditions more conducive to growth and prosperity for all.
 
-*Debora Marignani is a Principal Consultant with our Brussels-based Governance Team.*
+*Debora Marignani is a Principal Consultant with our Governance Team.*
