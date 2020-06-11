@@ -20,7 +20,9 @@ To investigate the drivers of conflict in Thailand, the U.S. Agency for Internat
 
 Factors that showed a significant relationship with support for extreme actions and ideas, and which confirm assumptions about drivers of conflict, include: lack of self-efficacy, community marginalization and discrimination, revenge, and corruption.  
 
-[Download the Research Summary here.](/uploads/Vulnerabilities%20and%20Drivers%20of%20Conflict%20in%20Thailand_Summary_PUBLIC%20APPROVED_April%202020.pdf). 
+<p>
+<h2 style="text-align: center;"><a href="/uploads/Vulnerabilities%20and%20Drivers%20of%20Conflict%20in%20Thailand_Summary_PUBLIC%20APPROVED_April%202020.pdf">Download the Research Summary here.</a></h2>
+</p>
 
 To foster a peaceful, secure Thailand, Together supports civil society 
 organizations and the Royal Thai Government to deepen constructive 
@@ -37,4 +39,6 @@ The research findings help us re-evaluate our understanding of drivers of confli
 * Interventions must involve the whole community and provide members with incentives and rewards like, but in place of, those offered by extreme individuals and groups. For example, through increased and higher quality participation in community affairs and development, community members can strengthen their sense of self-efficacy and belief that they are supporting their community and making their leaders proud. This is further reinforced by seeing the actual impacts of their engagement on their community.
 * The acceptance of revenge and unexpectedly broad support of violence to protect communities and their way of life highlight the need to address latent conflicts and strengthen social cohesion and local capacity to mitigate conflict. Interventions will be more effective if initiated and led by established and trusted individuals from within communities who can use their influence to mediate disputes and offer peaceful and effective alternatives to revenge seeking.
 
-[Download the Research Summary here.](/uploads/Vulnerabilities%20and%20Drivers%20of%20Conflict%20in%20Thailand_Summary_PUBLIC%20APPROVED_April%202020.pdf). 
+<p>
+<h2 style="text-align: center;"><a href="/uploads/Vulnerabilities%20and%20Drivers%20of%20Conflict%20in%20Thailand_Summary_PUBLIC%20APPROVED_April%202020.pdf">Download the Research Summary here.</a></h2>
+</p>
