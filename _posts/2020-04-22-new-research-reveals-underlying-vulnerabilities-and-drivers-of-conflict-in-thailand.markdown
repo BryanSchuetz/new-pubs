@@ -28,6 +28,8 @@ conflict.
 
 Through its partnerships and activities in the Deep South, North and Northeast regions of Thailand, Together aims to expand the space for dialogue and reconciliation, and facilitate the growth of attitudes, networks, and mechanisms that nurture peace, tolerance, and responsive governance. Together works with the Royal Thai Government to increase government efforts to communicate more effectively with its citizens, address citizen concerns, and strengthen social cohesion. Together also collaborates with civil society organizations to improve their ability to advocate for public interests and work with the government to develop solutions to common challenges.  
 
+
+
 ## Collecting the Data 
 
 We started with a review of relevant literature and consultations with academics that led to a list of 10 assumed drivers of conflict in Thailand. With this prevailing consensus in hand, the team designed a quantitative questionnaire to collect data to test for correlations between the assumed drivers of conflict and support for destructive or violent actions or support for extreme ideas. Research staff then collected a stratified random sample of more than 1,900 people, aged 18 to 60, in 11 provinces in the three regions. 
