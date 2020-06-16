@@ -26,11 +26,10 @@ Kontact LLC, a gas equipment manufacturer has been working with the U.S. Agency 
 
 ![5.jpg](/uploads/5.jpg)`Vasyl Mazurin with a repaired ventilator.`
 
-The first case of Coronavirus in Ukraine was registered on March 3, and as of June 9, there are 27,856 confirmed cases with 810 deaths.
+Ukraine registered its first case of coronavirus on March 3, and as of June 9 there are 27,856 confirmed cases, with 810 deaths.
+To take on this challenge, Mazurin set up a dedicated team of workers to study lung ventilators. “I had never repaired anything like this before,” said Yevhen Benkov, an electrical engineer at Kontact. “I got all the instructions and started studying them, until I understood how these ventilators work. Although the ones we repair are old, basically it’s just that the mechanics are faulty. We got a ventilator from 1980, a model called PO-2. It works through active inspiration and expiration. We managed to repair it and gave it to the doctors.”
 
-To take on this challenge, Mazurin set up a separate team of workers to study lung ventilators. “I had never repaired anything like this before,” said Yevhen Benkov, an electrical engineer at Kontact. “I got all the instructions and started studying them, until I understood how these ventilators work. Although the ones we repair are old, basically it’s just that the mechanics are faulty. We got a ventilator from 1980, a model called PO-2. It works through active inspiration and expiration. We managed to repair it and gave it to the doctors.” 
-
-To date, Kontact has repaired all five ventilators and sent them to local hospitals. The firm does not charge for repairs, considering it a charitable contribution to the fight against the pandemic.
+To date, Kontact has fixed all five ventilators submitted for repair and sent them to local hospitals. The firm does not charge for repairs, considering it a charitable contribution to the fight against the pandemic.
 
 ![1.jpg](/uploads/1.jpg)`Doctors are now using the repaired ventilators.`
 
