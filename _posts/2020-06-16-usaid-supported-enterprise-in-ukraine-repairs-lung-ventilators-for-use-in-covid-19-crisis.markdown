@@ -27,6 +27,7 @@ Kontact LLC, a gas equipment manufacturer has been working with the U.S. Agency 
 ![5.jpg](/uploads/5.jpg)`Vasyl Mazurin with a repaired ventilator.`
 
 Ukraine registered its first case of coronavirus on March 3, and as of June 9 there are 27,856 confirmed cases, with 810 deaths.
+
 To take on this challenge, Mazurin set up a dedicated team of workers to study lung ventilators. “I had never repaired anything like this before,” said Yevhen Benkov, an electrical engineer at Kontact. “I got all the instructions and started studying them, until I understood how these ventilators work. Although the ones we repair are old, basically it’s just that the mechanics are faulty. We got a ventilator from 1980, a model called PO-2. It works through active inspiration and expiration. We managed to repair it and gave it to the doctors.”
 
 To date, Kontact has fixed all five ventilators submitted for repair and sent them to local hospitals. The firm does not charge for repairs, considering it a charitable contribution to the fight against the pandemic.
@@ -35,7 +36,7 @@ To date, Kontact has fixed all five ventilators submitted for repair and sent th
 
 “Doctors have tested the equipment, and the ventilators are operational. They are different makes and years—from 20 to 40 years old,” said Mazurin. “They have exhausted their capacity long ago, but my employees managed to restart this equipment. On one ventilator they changed the tubing, for another they made rubber gaskets, made drawings and manufactured other parts.” 
 
-Mazurin is ready to share his experience because even an old operating ventilator can save someone’s life.
+Even an old operating ventilator can save someone’s life, Mazurin says, but now his company is developing its own machine. Specialists from the DAI-led ERA team have put the Druzhkivka plant in touch with Kyiv specialists—programmers, engineers and doctors—as well as practicing anesthesiologists in Lviv.
 
 Kontact is now developing its own lung ventilator. Specialists from the DAI-led ERA team have put the Druzhkivka plant in touch with Kyiv specialists—programmers, engineers and doctors—as well as Lviv practicing anesthesiologists. 
 
@@ -43,6 +44,6 @@ Kontact is now developing its own lung ventilator. Specialists from the DAI-led 
 
 ERA has "helped us partner with other people interested in development. We have an ambitious goal: to develop our own lung ventilator. We are currently working on development of technical documentation, taking into account all expert opinion. We have recently consulted doctors from Lviv. After the technical specifications are approved, a prototype will be made. I believe we will be successful,” said Mazurin. 
 
-To address needs of COVID-19 challenge, other project beneficiaries are also redirecting efforts to production of masks and protection clothes for medical workers, manufacturing of sanitizers, and promoting and delivering their services online. 
+Other ERA partners are also redirecting their businesses to address the COVID-19 challenge, whether by producing masks and protective clothing for medical workers, manufacturing sanitizers, or promoting and delivering their services online. We look forward to supporting their pandemic responses as best we can.
 
 *Natalia Pokolenko is the media and information analyst for the USAID Economic Resilience Activity in Ukraine.*
