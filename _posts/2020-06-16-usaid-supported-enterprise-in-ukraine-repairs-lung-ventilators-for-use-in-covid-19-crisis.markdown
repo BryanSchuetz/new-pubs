@@ -3,6 +3,10 @@ title: USAID-Supported Enterprise in Ukraine Repairs Lung Ventilators for Use in
   Crisis
 date: 2020-06-16 14:12:00 -04:00
 published: false
+tags:
+- covid-19
+- economic-growth
+- resilience
 author: Natalia Pokolenko
 thumbnail-image: "/uploads/sm5.jpg"
 social-image: "/uploads/sm5.jpg"
