@@ -13,7 +13,7 @@ social-image: "/uploads/sm5.jpg"
 publication: Developments
 ---
 
-At the beginning of the coronavirus epidemic, Vasyl Mazurin, an entrepreneur from Druzhkivka in eastern Ukraine, approached city doctors with an offer to help repair equipment that could aid patients suffering with COVID-19. Medical staff took him up on the offer and brought out old, non-functioning lung ventilators and gave them to him to fix.
+At the beginning of the coronavirus epidemic, Vasyl Mazurin, an entrepreneur from Druzhkivka in eastern Ukraine, approached city doctors with an offer to help repair equipment that could aid patients suffering with COVID-19. Medical staff took him up on the proposal and presented him with their old, non-functioning lung ventilators.
 
 “It was our initiative, and we weren’t sure we would cope. We’d seen these lung ventilators only on TV in the news,” said Mazurin. “But here at Kontact, we have production facilities, designers, and modern machines with computerized numerical control. We’d never repaired medical equipment, but we wanted to help—and we succeeded.”
 
