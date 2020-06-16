@@ -42,6 +42,8 @@ For example, BRACE staff have helped the Government of Balochistan implement its
 
 ![spacing.jpg](/uploads/spacing.jpg)`COVID-19 awareness session. Photo courtesy BRACE.`
 
+The BRACE TA team has its base of operations in the Balochistan Province, and quickly responded to reports of the coronavirus outbreak through the District Offices of the Deputy Commissioners, in the organisation of awareness-raising campaigns on COVID-19 to inform and orient local populations; in monitoring of quarantine centres/isolation wards; verification of data of households affected by the coronavirus; and other COVID-19 duties.  
+
 BRACE coordinators are also involved in establishing and supervising quarantine centres and isolation wards, conducting house-to-house awareness campaigns on precautionary health measures, supporting the preparation of reports covering the data of emergency patients, drafting duty rosters of health workers, and so on. Others are helping administrations supervise supplies, facilitate procurement of equipment for isolation wards, and disburse aid relief for vulnerable groups.
 
 The crisis led the project to uncharted territory, and these unplanned activities addressing COVID-19 are disrupting the original workplan. Yet our team’s flexibility and availability is strengthening our relationship with District Administrations—just as the engagement with communities significantly contributes to a better understanding of what the population needs, at both the district and village levels. 
