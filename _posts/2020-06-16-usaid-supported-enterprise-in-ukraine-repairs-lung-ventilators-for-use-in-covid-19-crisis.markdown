@@ -44,6 +44,6 @@ Kontact is now developing its own lung ventilator. Specialists from the DAI-led 
 
 ERA has "helped us partner with other people interested in development. We have an ambitious goal: to develop our own lung ventilator. We are currently working on development of technical documentation, taking into account all expert opinion. We have recently consulted doctors from Lviv. After the technical specifications are approved, a prototype will be made. I believe we will be successful,” said Mazurin. 
 
-To address needs of COVID-19 challenge, other project beneficiaries are also redirecting efforts to production of masks and protection clothes for medical workers, manufacturing of sanitizers, and promoting and delivering their services online. 
+Other ERA partners are also redirecting their businesses to address the COVID-19 challenge, whether by producing masks and protective clothing for medical workers, manufacturing sanitizers, or promoting and delivering their services online. We look forward to supporting their pandemic responses as best we can.
 
 *Natalia Pokolenko is the media and information analyst for the USAID Economic Resilience Activity in Ukraine.*
