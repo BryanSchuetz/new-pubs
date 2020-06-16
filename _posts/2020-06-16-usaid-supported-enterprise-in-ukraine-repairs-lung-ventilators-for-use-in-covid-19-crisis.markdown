@@ -22,7 +22,7 @@ At the beginning of the coronavirus epidemic, Vasyl Mazurin, an entrepreneur fro
 
 
 
-Kontact LLC, a gas equipment manufacturer has been working with the U.S. Agency for International Development (USAID)’s [Economic Resilience Activity](https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity) (ERA) since 2019 receiving advice on business strategy, foreign market research and entry, and engaging with international partners. When the company started working on ventilators, ERA helped it identify relevant technical and business relations in Kyiv and Lviv, which improved Kontact’s technical expertise in ventilators’ production and accelerated the process of their repair.
+Kontact LLC, a gas equipment manufacturer has been working with the U.S. Agency for International Development (USAID)’s [Economic Resilience Activity](https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity) (ERA) since 2019 receiving advice on business strategy, foreign market research and entry, and how to engage with international partners. When the company pivoted to work on ventilators, ERA helped it identify relevant technical and business relationships in Kyiv and Lviv, which improved Kontact’s expertise in ventilator production and accelerated the repair process.
 
 ![5.jpg](/uploads/5.jpg)`Vasyl Mazurin with a repaired ventilator.`
 
