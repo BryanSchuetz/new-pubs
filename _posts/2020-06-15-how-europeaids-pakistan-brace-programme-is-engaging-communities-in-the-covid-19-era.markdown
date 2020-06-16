@@ -1,7 +1,7 @@
 ---
 title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the COVID-19
   Era
-date: 2020-06-10 05:39:00 -04:00
+date: 2020-06-15 05:39:00 -04:00
 published: false
 tags:
 - covid-19
@@ -25,7 +25,7 @@ On February 23, Pakistan closed its border to visitors from Iran after 43 cases 
 
 DAI’s Human Dynamics supports the Government of Balochistan with the implementation of the Rural Development and Community Empowerment (BRACE) Programme. Within the BRACE Programme, the EU-funded [BRACE Technical Assistance programme](https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace) supports the Government of Balochistan in reducing the negative impact of poverty and social inequality. The technical assistance focuses developing a provincial policy and fiscal framework to better facilitate community-driven socioeconomic development interventions with empowered citizens and communities.
 
-The BRACE Programme’s community mobilisation approach engages community, village, and local support organisations. Within the larger BRACE, which started in 2017, the Technical Assistance Project aims to strengthen the capacities of local authorities to manage and involve communities in local public sector planning, financing, and implementation. It focuses on empowering citizens and communities, and is developing a policy and fiscal framework to better facilitate these community-driven socioeconomic development interventions.
+The BRACE Programme’s community mobilisation approach engages community, village, and local support organisations. Within the larger BRACE, which started in 2017, the Technical Assistance project aims to strengthen the capacities of local authorities to manage and involve communities in local public sector planning, financing, and implementation. It focuses on empowering citizens and communities, and is developing a policy and fiscal framework to better facilitate these community-driven socioeconomic development interventions.
  
 To date, BRACE has engaged with 163,892 households through community, village, and local support organizations across nine districts. Once COVID-19 took hold, BRACE quickly initiated response measures in close coordination with the EU Delegation in Islamabad:
 
@@ -41,6 +41,8 @@ In close-knit Pakistan, mobilising local populations to behave responsibly is ke
 For example, BRACE staff have helped the Government of Balochistan implement its COVID-19 Emergency Response Plan by facilitating meetings, events, and activities; conducting or supporting basic surveys; and providing input for implementation plans and reporting. Some BRACE staff act as focal points for the District Councils and members of the District Health Management Committees, responsible for submitting daily [District Health Situation Reports](http://www.rspn.org/index.php/covid-19/#parentVerticalTab1). Their work enables the District Emergency Coordination Centre to conduct and share situation analysis reports with their respective district administrations. 
 
 ![spacing.jpg](/uploads/spacing.jpg)`COVID-19 awareness session. Photo courtesy BRACE.`
+
+The BRACE TA team has its base of operations in the Balochistan Province, and quickly responded to reports of the coronavirus outbreak through the District Offices of the Deputy Commissioners, in the organisation of awareness-raising campaigns on COVID-19 to inform and orient local populations; in monitoring of quarantine centres/isolation wards; verification of data of households affected by the coronavirus; and other COVID-19 duties.  
 
 BRACE coordinators are also involved in establishing and supervising quarantine centres and isolation wards, conducting house-to-house awareness campaigns on precautionary health measures, supporting the preparation of reports covering the data of emergency patients, drafting duty rosters of health workers, and so on. Others are helping administrations supervise supplies, facilitate procurement of equipment for isolation wards, and disburse aid relief for vulnerable groups.
 
