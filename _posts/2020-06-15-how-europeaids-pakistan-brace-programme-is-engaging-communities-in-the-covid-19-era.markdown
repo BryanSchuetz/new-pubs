@@ -1,7 +1,7 @@
 ---
 title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the COVID-19
   Era
-date: 2020-06-10 05:39:00 -04:00
+date: 2020-06-15 05:39:00 -04:00
 published: false
 tags:
 - covid-19
