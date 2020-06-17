@@ -46,7 +46,7 @@ For example, BRACE technical assistance staff have helped the Government of Balo
 
 ![spacing.jpg](/uploads/spacing.jpg)`COVID-19 awareness session. Photo courtesy BRACE.`
 
-The BRACE technical assistance team has its base of operations in the Balochistan Province, and quickly responded to reports of the coronavirus outbreak through the District Offices of the Deputy Commissioners, in the organisation of awareness-raising campaigns on COVID-19 to inform and orient local populations; in monitoring of quarantine centres and isolation wards; verification of data of households affected by the coronavirus; and other COVID-19 duties.  
+The BRACE technical assistance team has its base of operations in the Balochistan Province, and quickly responded to reports of the coronavirus outbreak through the District Offices of the Deputy Commissioners, in the organisation of awareness-raising campaigns on COVID-19 to inform and orient local populations; in monitoring of quarantine centres and isolation wards; verification of data of households affected by the coronavirus; and other duties.  
 
 Coordinators are also involved in establishing and supervising quarantine centres and isolation wards, conducting house-to-house awareness campaigns on precautionary health measures, supporting the preparation of reports covering the data of emergency patients, drafting duty rosters of health workers, and so on. Others are helping administrations supervise supplies, facilitate procurement of equipment for isolation wards, and disburse aid relief for vulnerable groups.
 
