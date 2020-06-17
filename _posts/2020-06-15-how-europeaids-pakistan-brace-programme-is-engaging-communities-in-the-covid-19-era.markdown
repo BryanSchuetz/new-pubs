@@ -52,10 +52,8 @@ Coordinators are also involved in establishing and supervising quarantine centre
 
 The crisis led the project to uncharted territory, and these unplanned activities addressing COVID-19 are disrupting the original workplan. 
 
-The project continuity plan—developed by DAI-Human Dynamics—together with the technical assistance team, in consultation with the DAI’s COVID-19 Coordinating Committee, makes sure that the experts observe the WHO COVID-19 Health protocols. The first version of the PCP was developed in March and updated in April to duly analyse the pandemic situation. Alternative means and remedial actions for further implementation of the project were proposed with regard to response on COVID-19. The document is especially relevant  to guarantee the wellbeing of our colleagues when interacting with Government stakeholders and enables the continuity of technical assistance activities to implementing Partners and project Beneficiaries. 
-
 Yet our team’s flexibility and availability is strengthening our relationship with District Administrations—just as the engagement with communities significantly contributes to a better understanding of what the population needs, at both the district and village levels. 
 
 While we continue seeking more effective ways to support the fight against the pandemic, we remain confident that this mutual trust and people’s insights will be crucial to make our post-coronavirus project even more relevant.
 
-*[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/) is Team Leader of the BRACE programme.*
+*[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/) is the Team Leader.*
