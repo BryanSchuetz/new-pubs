@@ -40,9 +40,7 @@ In close-knit Pakistan, mobilising local populations to behave responsibly is ke
 
 The BRACE Technical Assistance project has its base of operations in the Balochistan Province, and quickly responded to reports of the coronavirus outbreak. Through our technical assistance Director of District Coordination in Quetta and the District Coordinators and Assistant District Coordinators posted in the nine target districts of Balochistan, our team facilitated their respective Deputy Commissioners’ offices in the organisation of COVID-19 awareness raising campaigns; monitoring of quarantine centres and isolation wards; verification of data of households affected by the coronavirus; and other duties.
 
-The project’s coordinators in Quetta and elsewhere are supporting local authorities’ efforts to flatten the curve of the pandemic, taking advantage of networks and partnerships built since 2017 to help the provincial governments amplify their actions.
-
-For example, BRACE technical assistance staff have helped the Government of Balochistan implement its COVID-19 Emergency Response Plan by facilitating meetings, events, and activities; conducting or supporting basic surveys; and providing input for implementation plans and reporting. Some staff act as focal points for the District Councils and members of the District Health Management Committees, responsible for submitting daily [District Health Situation Reports](http://www.rspn.org/index.php/covid-19/#parentVerticalTab1). Their work enables the District Emergency Coordination Centre to conduct and share situation analysis reports with their respective district administrations. 
+For example, BRACE Technical Assistance staff have helped the Government of Balochistan implement its COVID-19 Emergency Response Plan by facilitating meetings, events, and activities; conducting or supporting basic surveys; and providing input for implementation plans and reporting. Some staff act as focal points for the District Councils and members of the District Health Management Committees, responsible for submitting daily [District Health Situation Reports](http://www.rspn.org/index.php/covid-19/#parentVerticalTab1). Their work enables the District Emergency Coordination Centre to conduct and share situation analysis reports with their respective district administrations. 
 
 ![spacing.jpg](/uploads/spacing.jpg)`COVID-19 awareness session. Photo courtesy BRACE.`
 
@@ -54,4 +52,4 @@ Yet our team’s flexibility and availability is strengthening our relationship 
 
 While we continue seeking more effective ways to support the fight against the pandemic, we remain confident that this mutual trust and people’s insights will be crucial to make our post-coronavirus project even more relevant.
 
-*[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/) is the Team Leader.*
+*[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/) is the Team Leader of the BRACE Technical Assistance project.*
