@@ -21,7 +21,7 @@ At the beginning of the coronavirus epidemic, Vasyl Mazurin, an entrepreneur fro
 
 
 
-Kontact LLC, a gas equipment manufacturer has been working with the U.S. Agency for International Development (USAID)’s [Economic Resilience Activity](https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity) (ERA) since 2019 receiving advice on business strategy, foreign market research and entry, and how to engage with international partners. When the company pivoted to work on ventilators, ERA helped it identify relevant technical and business relationships in Kyiv and Lviv, which improved Kontact’s expertise in ventilator production and accelerated the repair process.
+Kontact LLC, a gas equipment manufacturer, has been working with the U.S. Agency for International Development (USAID)’s [Economic Resilience Activity](https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity) (ERA) since 2019 receiving advice on business strategy, foreign market research and entry, and how to engage with international partners. When the company pivoted to work on ventilators, ERA helped it identify relevant technical and business relationships in Kyiv and Lviv, which improved Kontact’s expertise in ventilator production and accelerated the repair process.
 
 ![5.jpg](/uploads/5.jpg)`Engineer Yevhen Benkov  with a repaired ventilator. Photo courtesy of Kontact.`
 
@@ -35,7 +35,7 @@ To date, Kontact has fixed all five ventilators submitted for repair and sent th
 
 “Doctors have tested the equipment, and the ventilators are operational. They are different makes and years—from 20 to 40 years old,” said Mazurin. “They have exhausted their capacity long ago, but my employees managed to restart this equipment. On one ventilator they changed the tubing, for another they made rubber gaskets, made drawings and manufactured other parts.” 
 
-Even an old operating ventilator can save someone’s life, Mazurin says, but now his company is developing its own machine. Specialists from the DAI-led ERA team have put the Druzhkivka plant in touch with Kyiv specialists—programmers, engineers and doctors—as well as Lviv practicing anesthesiologists. 
+Even an old operating ventilator can save someone’s life, Mazurin says, but now his company is developing its own machine. Specialists from the DAI-led ERA team have put the Druzhkivka plant in touch with Kyiv specialists—programmers, engineers and doctors—as well as practicing anesthesiologists in Lviv. 
 
 ![3.jpg](/uploads/3.jpg)`Kontact may now branch out into building new ventilator machines. Photo courtesy of Kontact.`
 
