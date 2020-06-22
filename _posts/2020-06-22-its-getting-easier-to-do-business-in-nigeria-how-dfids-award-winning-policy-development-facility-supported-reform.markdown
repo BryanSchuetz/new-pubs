@@ -26,6 +26,8 @@ How? Doing business has gotten easier in Nigeria thanks to reforms led by the [P
 
 In March 2020, PDF II celebrated its completion. The milestone was made more significant as the project received a special recognition award from PEBEC.  
 
+![pebec.jpg](/uploads/pebec.jpg)`Dr. Titilola Akindeinde, PDF II Program Manager (center), receives the PEBEC award in March 2020.`
+
 ## Championing Change
 
 A flexible, rapid-response facility, PDF II supported “champions of change” to implement economic and social policies to reduce poverty in Nigeria. These champions were primarily federal ministers and high-level officials such as the Office of the Vice President, but also included National Assembly Committees and nongovernment actors such as civil society organizations (CSOs). 
