@@ -30,4 +30,6 @@ Of the close to 4,000 natural disasters Indonesia recorded in 2019, more than 80
 
 <iframe src="https://player.vimeo.com/video/430386281" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-![small Paul Jeffery ID photo.jpg](/uploads/small%20Paul%20Jeffery%20ID%20photo.jpg)With APIK’s activities wrapping up this month, Shannon Vasamsetti, a member of DAI’s Natural Resources Management and Climate Change team, sat down with Paul Jeffery, the project’s Chief of Party, to discuss project lessons, challenges, and opportunities.  
+![small Paul Jeffery ID photo.jpg](/uploads/small%20Paul%20Jeffery%20ID%20photo.jpg){:.float-left}With APIK’s activities wrapping up this month, Shannon Vasamsetti, a member of DAI’s Natural Resources Management and Climate Change team, sat down with Paul Jeffery, the project’s Chief of Party, to discuss project lessons, challenges, and opportunities.
+
+
