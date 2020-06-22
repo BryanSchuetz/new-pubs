@@ -56,7 +56,7 @@ PDF II’s impacts extended to business owners and individuals. Through the proj
 
 ### A Plan for Reform
 
-One project that received PDF II advisors’ support was the PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
+One project that received PDF II advisors’ support was PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
 
 Central to improving Nigeria’s business environment was PDF II’s support for a coordinated approach by government stakeholders, both in formulating and implementing necessary reforms, and engaging with national and international business stakeholders for feedback. The facility also commissioned research to develop an evidence base to guide PEBEC’s reform, including operationalizing an executive order to improve business transparency and efficiency. 
 
