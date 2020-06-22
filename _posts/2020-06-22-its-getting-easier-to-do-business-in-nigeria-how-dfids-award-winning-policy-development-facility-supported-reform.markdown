@@ -93,4 +93,4 @@ Embedded advisors will provide technical assistance to improve audit processes, 
 
 Nigeria still has challenges ahead in creating a business-friendly environment and reaching the PEBEC’s goal of raising the country’s Doing Business ranking above 70 by 2023. Nigerian businesses continue to face [hurdles](https://www.doingbusiness.org/content/dam/doingBusiness/country/n/nigeria/NGA.pdf) in areas such as getting electricity, registering property, paying taxes, and resolving insolvency. Reforming policies on these issues is even more vital as the country works to recover from the economic impacts of COVID-19. PDF’s support will continue to assist the country’s leaders as they  address these and other reforms. 
 
-***Claire Miller** is a Senior Communications Specialist at DAI. **Enene Ejembi** is the Strategic Communications and Knowledge Manager for DAI's Nigeria office.*
+*Claire Miller is DAI’s Senior Communications Specialist and Enene Ejembi is the Strategic Communications and Knowledge Manager for DAI’s Nigeria office.*
