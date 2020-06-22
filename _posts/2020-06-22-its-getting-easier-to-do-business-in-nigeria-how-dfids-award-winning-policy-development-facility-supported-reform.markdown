@@ -27,17 +27,17 @@ How? Doing business has gotten easier in Nigeria thanks to reforms led by the [P
 
 In March 2020, PDF II celebrated its completion. The milestone was made more significant as the project received a special recognition award from PEBEC.  
 
-![pebec.jpg](/uploads/pebec.jpg)`Dr. Titilola Akindeinde, PDF II Program Manager (center), receives the PEBEC award in March 2020.`
+![pebec.jpg](/uploads/pebec.jpg)`Dr. Titilola Akindeinde, PDF II Program Manager, pictured center, receives the PEBEC award in March 2020.`
 
 ### Championing Change
 
 A flexible, rapid-response facility, PDF II supported “champions of change” to implement economic and social policies to reduce poverty in Nigeria. These champions were primarily federal ministers and high-level officials such as the Office of the Vice President, but also included National Assembly Committees and nongovernment actors such as civil society organizations (CSOs). 
 
 The facility helped the Nigerian government make its ministries, departments, and agencies more efficient, leading to substantial financial savings and increased transparency. PDF II’s work focused on addressing constraints to economic growth and building the evidence base required for reform.
+
 Along with promoting clean energy through the Rural Electrification Agency, enhancing trade and investment through the Nigeria Sovereign Investment Authority, and promoting efficiency through support to the Ministry of Finance, PDF II contributed to a national reform process that supports entrepreneurs and removes barriers to doing business. 
 
 PDF II’s efforts [resulted](file://C:\\Users\cmiller\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\BC9XPTXO\legacy brochure.pdf) in: 
-
 * **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
 * **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
 * **616 million naira****** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
@@ -50,7 +50,9 @@ UKaid’s investment made a difference. For every pound the British government s
 Another partner, Auditor General of the Federation Anthony Ayine, thanked PDF II for “the technical support provided in the development of our five-year strategic development plan that laid the foundation for audit reforms in Nigeria.”
 
 PDF II’s impacts extended to business owners and individuals. Through the project’s capacity building programs, “I have upped my game in quality standards and measures, which has helped me access higher value markets,” says Osagie Azeta, CEO of Crop Safe Agro-Services. “My sales have improved, I have finally exported for the first time, and I also supply products to other exporters. I have two streams of income now.”
+
 <iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### A Plan for Reform
 
 One project that received PDF II advisors’ support was PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
