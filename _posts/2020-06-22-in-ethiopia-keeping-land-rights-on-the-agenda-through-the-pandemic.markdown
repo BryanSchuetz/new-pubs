@@ -19,4 +19,9 @@ In this article, we examine the impact COVID-19 is already having on land rights
 
 DAI has been implementing the U.K. Department for International Development (DFID)-funded [Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) programme in Ethiopia since 2013. The programme focuses primarily on securing the land rights of smallholder farmers across four highland regions, with 14 million parcels approved to date. LIFT also works closely with the Government of Ethiopia to increase the capacity of land administration systems and services to record these land rights and provide additional services to claimants. Beyond building the capacity of the systems and services to deliver and protect land rights, LIFT also works with banks, microfinance institutions (MFIs), and agricultural input suppliers to help farmers with land titles access finance, formalise rental agreements, and improve productivity. 
 
+LIFT is already experiencing direct and indirect effects from the COVID-19 pandemic. Predictably, the introduction of social distancing and other measures has slowed down the operation of the programme, but beyond this effect, we are also seeing reduced land administration services, changing farmer behaviour, and a potential reduction in land productivity. 
+
+### Reduced Capacity of Land Administration Leads to Reduced Tenure Security 
+
+
 
