@@ -32,7 +32,7 @@ LIFT is already experiencing direct and indirect effects from the COVID-19 pande
 
 ![4 Oromia - Cert Distribution Wuhale woreda 5.jpg](/uploads/4%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%205.jpg)`Certificate distribution, with new safety measures. Photo courtesy LIFT.`
 
-### Reduced Capacity of Land Administration Leads to Reduced Tenure Security 
+### Reduced Capacity of Land Administration Means Less Tenure Security 
 
 LIFT’s registration efforts are highly participatory. They include raising awareness around land issues, public displays of maps and boundaries, and certificate distribution events that draw large numbers of people. These activities have been paused for public health reasons [since April 8.](https://www.aljazeera.com/news/2020/04/ethiopia-declares-state-emergency-fight-covid-19-200408142519485.html) Furthermore, when demarcating land parcels, field teams work closely with farmers and their neighbours to identify plots accurately. Pausing registration activities indefinitely means farmers will not have their land rights recorded and recognised, which may lead to reduced tenure security for individuals at a time when tenure security risks may be heightened. Early evidence suggests a fall in land authorities’ capacity to respond to claims and queries, leading to gaps in service.
 
