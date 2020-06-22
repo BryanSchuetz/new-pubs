@@ -43,4 +43,13 @@ Other partner MFIs have indicated that they will struggle to control repayments 
 
 The productivity of land is already suffering as a result of COVID-19. Transport tariffs in Ethiopia have doubled in price since restrictions on travel were imposed in April with the State of Emergency, for example, making it less affordable for farmers to purchase agricultural inputs in cities and at marketplaces. Due to social distancing measures, market events have been reduced or cancelled. 
 
+Anecdotal evidence indicates that there is a shortage of improved seeds in most of the regions, but the availability of fertiliser does not seem to be an issue because it is already imported. However, in-country distribution of fertilisers and other inputs to users is an issue, owing to local transport restrictions between regions and the closure of many regional borders. 
+
+Furthermore, due to restrictions on assembly, it is becoming increasingly difficult for agricultural experts and development agents to gather farmers for events, provide training on input applications, and distribute inputs. All of these issues will have an adverse effect on production in the coming planting season.  
+
+### Responding to COVID-19
+
+To address the impacts of the coronavirus, LIFT will be working to mitigate short-term risks to our beneficiaries; help landholders, farmers, and businesses adapt to the challenges presented by COVID-19; and improve the resilience of farmers and businesses so they can build back better and be prepared for similar events in the future.
+
+
 
