@@ -4,6 +4,7 @@ title: 'It’s Getting Easier to Do Business in Nigeria: How DFID’s Award-Winn
 date: 2020-06-22 11:10:00 -04:00
 tags:
 - governance
+- covid-19
 author: Claire Miller and Enene Ejembi
 thumbnail-image: "/uploads/pebec.jpg"
 social-image: "/uploads/pebec.jpg"
