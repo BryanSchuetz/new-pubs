@@ -4,6 +4,8 @@ title: 'It’s Getting Easier to Do Business in Nigeria: How DFID’s Award-Winn
 date: 2020-06-22 11:10:00 -04:00
 published: false
 author: Claire Miller and Enene Ejembi
+thumbnail-image: "/uploads/pebec.jpg"
+social-image: "/uploads/pebec.jpg"
 publication: Developments
 ---
 
@@ -28,7 +30,7 @@ In March 2020, PDF II celebrated its completion. The milestone was made more sig
 
 ![pebec.jpg](/uploads/pebec.jpg)`Dr. Titilola Akindeinde, PDF II Program Manager (center), receives the PEBEC award in March 2020.`
 
-## Championing Change
+### Championing Change
 
 A flexible, rapid-response facility, PDF II supported “champions of change” to implement economic and social policies to reduce poverty in Nigeria. These champions were primarily federal ministers and high-level officials such as the Office of the Vice President, but also included National Assembly Committees and nongovernment actors such as civil society organizations (CSOs). 
 
@@ -50,7 +52,9 @@ Another partner, Auditor General of the Federation Anthony Ayine, thanked PDF II
 
 PDF II’s impacts extended to business owners and individuals. Through the project’s capacity building programs, “I have upped my game in quality standards and measures, which has helped me access higher value markets,” says Osagie Azeta, CEO of Crop Safe Agro-Services. “My sales have improved, I have finally exported for the first time, and I also supply products to other exporters. I have two streams of income now.”
 
-## A Plan for Reform
+<iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### A Plan for Reform
 
 One project that received PDF II advisors’ support was the PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
 
@@ -60,7 +64,7 @@ PDF II helped set up a non-oil export community of practice to help these busine
 
 As a result, Nigeria introduced an automated electronic export process to remove barriers to cross-border trade. PDF II’s embedded advisors also played a critical role in facilitating Nigeria signing on to the African Continental Free Trade Agreement in 2019. 
 
-## Recognizing Impact
+### Recognizing Impact
 
 By 2019, Nigeria ranked 131 out of the 190 countries surveyed in the *Doing Business* report—15 places higher than the previous year. The country was also named among the top 10 most improved economies for its reforms across six of the report’s 10 indicators:
 
@@ -76,9 +80,9 @@ PEBEC honored the organizations and projects that contributed to Nigeria’s imp
 
 At the event, Vice President Osinbajo Tweeted his appreciation for the private sector’s assistance, saying it “deserves our heartfelt gratitude and commendation for its commitment and collaboration, especially their contributions in technical support and capacity building.”
 
-mailto:%3cblockquote%20class=%22twitter-tweet%22%3e%3cp%20lang=%22en%22%20dir=%22ltr%22%3eThe%20private%20sector%20also%20deserves%20our%20heartfelt%20gratitude%20&amp;%20commendation%20for%20its%20commitment%20and%20collaboration,%20especially%20their%20contributions%20in%20technical%20support%20and%20capacity%20building.%20%3ca%20href=%22https://t.co/OyBoWgY4bA%22%3epic.twitter.com/OyBoWgY4bA%3c/a%3e%3c/p%3e&mdash;%20Prof%20Yemi%20Osinbajo%20(@ProfOsinbajo)%20%3ca%20href=%22https://twitter.com/ProfOsinbajo/status/1238135128792141827?ref_src=twsrc%5Etfw%22%3eMarch%2012,%202020%3c/a%3e%3c/blockquote%3e%20%3cscript%20async%20src=%22https://platform.twitter.com/widgets.js%22%20charset=%22utf-8%22%3e%3c/script%3e
+![pebec1.jpg](/uploads/pebec1.jpg)`PDF II Program Manager Dr. Titilola Akindeinde (ninth from the left) with Vice President Yemi Osinbajo (tenth from the left) and other awardees.`
 
-## Looking Ahead
+### Looking Ahead
 
 What’s next for the Policy Development Facility? DAI will implement the project’s next phase—[PDF Bridge](https://www.dai.com/our-work/projects/nigeria-pdf-bridge-programme)—over 18 months between 2020 and 2022. 
 
