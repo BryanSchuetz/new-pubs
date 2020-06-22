@@ -8,6 +8,8 @@ tags:
 - land rights
 - land tenure
 author: DAI Land Team
+thumbnail-image: "/uploads/sm%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg"
+social-image: "/uploads/sm%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg"
 publication: Developing Alternatives
 ---
 
