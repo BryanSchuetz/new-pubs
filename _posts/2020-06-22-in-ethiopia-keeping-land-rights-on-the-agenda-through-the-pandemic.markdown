@@ -33,4 +33,14 @@ Tenure insecurity will manifest itself in various ways, but initial evidence fro
 
 These and other effects of the pandemic risk undermining trust in the land administration system, which is critical for it to function for the benefit of citizens and for its sustainability over the long term. 
 
+### Loan Defaults Up, New Loans Down
+
+One of LIFT’s important innovations is its work enabling farmers to access finance using their land rights. LIFT has trained lending institutions, assisted in financial product development, and facilitated relationships between landholders and market actors. This successful feature of the programme, which has resulted in more than 16,000 loans issued, has seen a downturn in activity in the wake of COVID-19. In April, LIFT’s main loan partner reported zero disbursements of the land certificate-linked loan, compared to 423 loans in April 2019.  
+
+Other partner MFIs have indicated that they will struggle to control repayments and issue new loans, for both operational and economic reasons. From an operational perspective, MFIs use a highly participatory approach to engage landholders—as LIFT does—including large events to disburse loans and collect repayments. Obviously, owing to the moratorium on large gatherings, this approach is not feasible. Compounding the issue is the economic distress farmers are likely to experience, which may either discourage borrowing or hinder repayments. LIFT’s MFI partners are already seeing increased withdrawals from saving accounts. Evidence of defaults will take longer to emerge, as we track the effect of the pandemic on farmers’ ability to maintain current levels of production and sales.  
+
+### Fewer Agricultural Supplies=Reduced Productivity and Income 
+
+The productivity of land is already suffering as a result of COVID-19. Transport tariffs in Ethiopia have doubled in price since restrictions on travel were imposed in April with the State of Emergency, for example, making it less affordable for farmers to purchase agricultural inputs in cities and at marketplaces. Due to social distancing measures, market events have been reduced or cancelled. 
+
 
