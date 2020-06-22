@@ -2,6 +2,11 @@
 title: In Ethiopia, Keeping Land Rights on the Agenda Through the Pandemic
 date: 2020-06-22 16:24:00 -04:00
 published: false
+tags:
+- governance
+- covid-19
+- land rights
+- land tenure
 author: DAI Land Team
 publication: Developing Alternatives
 ---
