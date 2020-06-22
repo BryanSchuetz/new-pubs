@@ -25,3 +25,12 @@ LIFT is already experiencing direct and indirect effects from the COVID-19 pande
 
 LIFT’s registration efforts are highly participatory. They include raising awareness around land issues, public displays of maps and boundaries, and certificate distribution events that draw large numbers of people. These activities have been paused for public health reasons [since April 8.](https://www.aljazeera.com/news/2020/04/ethiopia-declares-state-emergency-fight-covid-19-200408142519485.html) Furthermore, when demarcating land parcels, field teams work closely with farmers and their neighbours to identify plots accurately. Pausing registration activities indefinitely means farmers will not have their land rights recorded and recognised, which may lead to reduced tenure security for individuals at a time when tenure security risks may be heightened. Early evidence suggests a fall in land authorities’ capacity to respond to claims and queries, leading to gaps in service.
 
+Tenure insecurity will manifest itself in various ways, but initial evidence from across the LIFT regions suggests that as restrictions continue, the trends will likely include:
+* Encroachment on communal land and land used by vulnerable groups by landholders who take advantage of reduced oversight from field teams and woreda officials
+* Increased disputes, conflict, or land grabbing relating to rural land close to urban and peri-urban areas, where rural landholders are at an increasing disadvantage without support from functioning courts
+* More unresolved boundary and ownership disputes where courts are inactive for long periods
+* Less renting out of land by farmers fearful of local elites grabbing land or not returning land, and concerned that land rental contracts will not be enforceable without sufficient support from authorities
+
+These and other effects of the pandemic risk undermining trust in the land administration system, which is critical for it to function for the benefit of citizens and for its sustainability over the long term. 
+
+
