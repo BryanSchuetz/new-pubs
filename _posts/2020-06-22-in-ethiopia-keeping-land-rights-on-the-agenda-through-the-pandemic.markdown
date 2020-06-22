@@ -22,11 +22,15 @@ During the COVID-19 health crisis, land might not appear to be an urgent issue. 
 
 In this article, we examine the impact COVID-19 is already having on land rights and by extension on empowerment, economic growth, and food security objectives in Ethiopia. In the longer term, it is imperative to support regional and municipal authorities to deal with the practicalities of land administration as part of the broader COVID-19 response.
 
+![1 Oromia - Cert Distribution Wuhale woreda 9.jpg](/uploads/1%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg)`New measures in place. Photo courtesy LIFT.`
+
 ### Evidence from the Field 
 
 DAI has been implementing the U.K. Department for International Development (DFID)-funded [Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) programme in Ethiopia since 2013. The programme focuses primarily on securing the land rights of smallholder farmers across four highland regions, with 14 million parcels approved to date. LIFT also works closely with the Government of Ethiopia to increase the capacity of land administration systems and services to record these land rights and provide additional services to claimants. Beyond building the capacity of the systems and services to deliver and protect land rights, LIFT also works with banks, microfinance institutions (MFIs), and agricultural input suppliers to help farmers with land titles access finance, formalise rental agreements, and improve productivity. 
 
 LIFT is already experiencing direct and indirect effects from the COVID-19 pandemic. Predictably, the introduction of social distancing and other measures has slowed down the operation of the programme, but beyond this effect, we are also seeing reduced land administration services, changing farmer behaviour, and a potential reduction in land productivity. 
+
+![4 Oromia - Cert Distribution Wuhale woreda 5.jpg](/uploads/4%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%205.jpg)`Certificate distribution, with new safety measures. Photo courtesy LIFT.`
 
 ### Reduced Capacity of Land Administration Leads to Reduced Tenure Security 
 
@@ -39,6 +43,8 @@ Tenure insecurity will manifest itself in various ways, but initial evidence fro
 * Less renting out of land by farmers fearful of local elites grabbing land or not returning land, and concerned that land rental contracts will not be enforceable without sufficient support from authorities
 
 These and other effects of the pandemic risk undermining trust in the land administration system, which is critical for it to function for the benefit of citizens and for its sustainability over the long term. 
+
+![3 Oromia - Cert Distribution Wuhale woreda 7.jpg](/uploads/3%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%207.jpg)`Certificate distribution, with new safety measures. Photo courtesy LIFT.`
 
 ### Loan Defaults Up, New Loans Down
 
@@ -53,6 +59,8 @@ The productivity of land is already suffering as a result of COVID-19. Transport
 Anecdotal evidence indicates that there is a shortage of improved seeds in most of the regions, but the availability of fertiliser does not seem to be an issue because it is already imported. However, in-country distribution of fertilisers and other inputs to users is an issue, owing to local transport restrictions between regions and the closure of many regional borders. 
 
 Furthermore, due to restrictions on assembly, it is becoming increasingly difficult for agricultural experts and development agents to gather farmers for events, provide training on input applications, and distribute inputs. All of these issues will have an adverse effect on production in the coming planting season.  
+
+![2 Oromia - Cert Distribution Wuhale woreda 10.jpg](/uploads/2%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%2010.jpg)`Workshop in Wuhale, with new safety measures. Photo courtesy LIFT.`
 
 ### Responding to COVID-19
 
