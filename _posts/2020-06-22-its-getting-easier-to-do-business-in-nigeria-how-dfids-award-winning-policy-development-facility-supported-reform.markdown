@@ -76,7 +76,7 @@ PEBEC honored the organizations and projects that contributed to Nigeria’s imp
 
 At the event, Vice President Osinbajo Tweeted his appreciation for the private sector’s assistance, saying it “deserves our heartfelt gratitude and commendation for its commitment and collaboration, especially their contributions in technical support and capacity building.”
 
-mailto:%3cblockquote%20class=%22twitter-tweet%22%3e%3cp%20lang=%22en%22%20dir=%22ltr%22%3eThe%20private%20sector%20also%20deserves%20our%20heartfelt%20gratitude%20&amp;%20commendation%20for%20its%20commitment%20and%20collaboration,%20especially%20their%20contributions%20in%20technical%20support%20and%20capacity%20building.%20%3ca%20href=%22https://t.co/OyBoWgY4bA%22%3epic.twitter.com/OyBoWgY4bA%3c/a%3e%3c/p%3e&mdash;%20Prof%20Yemi%20Osinbajo%20(@ProfOsinbajo)%20%3ca%20href=%22https://twitter.com/ProfOsinbajo/status/1238135128792141827?ref_src=twsrc%5Etfw%22%3eMarch%2012,%202020%3c/a%3e%3c/blockquote%3e%20%3cscript%20async%20src=%22https://platform.twitter.com/widgets.js%22%20charset=%22utf-8%22%3e%3c/script%3e
+![pebec1.jpg](/uploads/pebec1.jpg)`PDF II Program Manager Dr. Titilola Akindeinde (ninth from the left) with Vice President Yemi Osinbajo (tenth from the left) and other awardees.`
 
 ## Looking Ahead
 
