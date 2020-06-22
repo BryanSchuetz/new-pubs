@@ -56,15 +56,20 @@ Furthermore, due to restrictions on assembly, it is becoming increasingly diffic
 
 To address the impacts of the coronavirus, LIFT will be working to mitigate short-term risks to our beneficiaries; help landholders, farmers, and businesses adapt to the challenges presented by COVID-19; and improve the resilience of farmers and businesses so they can build back better and be prepared for similar events in the future.
 
-*Mitigating Short-Term Risks* 
+*1. Mitigating Short-Term Risks* 
 
 Although all field activities relating to registration are paused, LIFT is preparing a guideline for operations under COVID-19 to ensure that field and office activities are compliant with federal and [regional regulations](https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/) under the State of Emergency, including social distancing, shift schedules, and a re-organisation of office layouts to make distancing easier. To improve hygiene practices, handwashing facilities have been installed, hand sanitisers distributed, and thorough cleaning is conducted daily. LIFT will provide awareness training to field and office staff on health and safety best practice, in line with Health Ministry guidance, and also distribute health and safety materials in collaboration with federal and regional health offices.
 
 LIFT will also use its network of 500 Land Rental Service Providers to ensure beneficiaries receive updated information about COVID-19 and the required precautions. Using existing programme data collected by project [Social Development Officers](https://www.dai.com/uploads/DAI%20SDO%20Guide-3ddf0d.pdf), our teams can map vulnerable groups in programme *woredas* to ensure messaging is reaching those who need it. LIFT is developing a strategy for how to work with Kebele Land Administration Committees and Officers and Woreda Land Administration officials to raise awareness among farmers.
 
-*Help Landholders, Farmers, and Businesses Adapt*
+*2. Help Landholders, Farmers, and Businesses Adapt*
 
 LIFT is working with MFIs to determine how COVID-19 is affecting their clients and how to adapt existing products—perhaps by extending loan terms, introducing payment holidays or restrictions on interest, or, where needed, developing new products. We are looking at best practices from other countries, including our U.S. Agency for International Development-funded Tanzania [Land Tenure Assistance (LTA)](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) programme, and will organise online platforms for MFIs to share experiences and challenges, which may inform our strategies moving forward. 
 
+*3. Building Resilience in the Longer Term*
 
+While short-term solutions are helpful, LIFT wants to support small agricultural businesses and loan beneficiaries in rural households to be more resilient to future shocks—pandemic or otherwise. For example, COVID-19 has brought the need for cashless “low touch” transactions into sharp focus, with MFIs reporting issues with distributing and receiving payments. LIFT will conduct an assessment to understand how we can accelerate the digitalisation of banking and lending facilities. 
 
+### Keeping Land on the Agenda
+
+As our programme continues to monitor and report on COVID-19 impacts, we expect to see the emergence of more issues relating to disputes, encroachment, inheritance, and potentially changes in land use, particularly as we enter the next harvest season and learn more about the knock-on effects of COVID-19. We will continue to monitor, report, and share LIFT’s findings with the land community, to keep this important conversation going at this critical time. 
