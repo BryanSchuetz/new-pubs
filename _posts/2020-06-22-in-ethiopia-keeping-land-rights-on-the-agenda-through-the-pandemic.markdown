@@ -57,4 +57,9 @@ Although all field activities relating to registration are paused, LIFT is prepa
 
 LIFT will also use its network of 500 Land Rental Service Providers to ensure beneficiaries receive updated information about COVID-19 and the required precautions. Using existing programme data collected by project [Social Development Officers](https://www.dai.com/uploads/DAI%20SDO%20Guide-3ddf0d.pdf), our teams can map vulnerable groups in programme *woredas* to ensure messaging is reaching those who need it. LIFT is developing a strategy for how to work with Kebele Land Administration Committees and Officers and Woreda Land Administration officials to raise awareness among farmers.
 
+*Help Landholders, Farmers, and Businesses Adapt*
+
+LIFT is working with MFIs to determine how COVID-19 is affecting their clients and how to adapt existing products—perhaps by extending loan terms, introducing payment holidays or restrictions on interest, or, where needed, developing new products. We are looking at best practices from other countries, including our U.S. Agency for International Development-funded Tanzania [Land Tenure Assistance (LTA)](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) programme, and will organise online platforms for MFIs to share experiences and challenges, which may inform our strategies moving forward. 
+
+
 
