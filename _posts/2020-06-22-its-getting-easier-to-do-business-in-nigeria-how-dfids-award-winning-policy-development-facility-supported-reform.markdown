@@ -49,3 +49,44 @@ UKaid’s investment made a difference. For every pound the British government s
 Another partner, Auditor General of the Federation Anthony Ayine, thanked PDF II for “the technical support provided in the development of our five-year strategic development plan that laid the foundation for audit reforms in Nigeria.”
 
 PDF II’s impacts extended to business owners and individuals. Through the project’s capacity building programs, “I have upped my game in quality standards and measures, which has helped me access higher value markets,” says Osagie Azeta, CEO of Crop Safe Agro-Services. “My sales have improved, I have finally exported for the first time, and I also supply products to other exporters. I have two streams of income now.”
+
+## A Plan for Reform
+
+One project that received PDF II advisors’ support was the PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
+
+Central to improving Nigeria’s business environment was PDF II’s support for a coordinated approach by government stakeholders, both in formulating and implementing necessary reforms, and engaging with national and international business stakeholders for feedback. The facility also commissioned research to develop an evidence base to guide PEBEC’s reform, including operationalizing an executive order to improve business transparency and efficiency. 
+
+PDF II helped set up a non-oil export community of practice to help these businesses influence Nigeria’s trade policy and increase their exports. The facility conduced Exporter Experience studies to understand trade challenges, which provided crucial evidence to support reform. 
+
+As a result, Nigeria introduced an automated electronic export process to remove barriers to cross-border trade. PDF II’s embedded advisors also played a critical role in facilitating Nigeria signing on to the African Continental Free Trade Agreement in 2019. 
+
+## Recognizing Impact
+
+By 2019, Nigeria ranked 131 out of the 190 countries surveyed in the *Doing Business* report—15 places higher than the previous year. The country was also named among the top 10 most improved economies for its reforms across six of the report’s 10 indicators:
+
+* **Starting a business**—reforms in Kano and Lagos reduced the time needed to register a company.
+* **Dealing with construction permits**—Nigeria eliminated a fee for construction permits for warehouses. 
+* **Getting electricity**—Nigeria now allows certified engineers to conduct inspections for new connections. 
+* **Registering property**—Lagos implemented a geographic information system for land administration. 
+* **Trading across borders******—reforms in Kano and Lagos reduced export and import time through an upgraded electronic system and e-payment for fees. 
+* **Enforcing contracts**—Nigeria introduced a pretrial conference to enhance case management techniques.
+PEBEC honored the organizations and projects that contributed to Nigeria’s improved Doing Business ranking in an award ceremony at the State House on March 11, 2020. PDF II received a special recognition award for its technical support for PEBEC and the work of the project’s embedded advisors. Program Manager Dr. Titilola Akindeinde accepted the award on behalf of the project team.
+
+“I am amazed at how PDF II, through its targeted support to various critical projects, made such significant impact in driving reforms which ultimately led to improving the lives of ordinary Nigerians,” says Dr. Akindeinde. 
+
+At the event, Vice President Osinbajo Tweeted his appreciation for the private sector’s assistance, saying it “deserves our heartfelt gratitude and commendation for its commitment and collaboration, especially their contributions in technical support and capacity building.”
+
+mailto:%3cblockquote%20class=%22twitter-tweet%22%3e%3cp%20lang=%22en%22%20dir=%22ltr%22%3eThe%20private%20sector%20also%20deserves%20our%20heartfelt%20gratitude%20&amp;%20commendation%20for%20its%20commitment%20and%20collaboration,%20especially%20their%20contributions%20in%20technical%20support%20and%20capacity%20building.%20%3ca%20href=%22https://t.co/OyBoWgY4bA%22%3epic.twitter.com/OyBoWgY4bA%3c/a%3e%3c/p%3e&mdash;%20Prof%20Yemi%20Osinbajo%20(@ProfOsinbajo)%20%3ca%20href=%22https://twitter.com/ProfOsinbajo/status/1238135128792141827?ref_src=twsrc%5Etfw%22%3eMarch%2012,%202020%3c/a%3e%3c/blockquote%3e%20%3cscript%20async%20src=%22https://platform.twitter.com/widgets.js%22%20charset=%22utf-8%22%3e%3c/script%3e
+
+## Looking Ahead
+
+What’s next for the Policy Development Facility? DAI will implement the project’s next phase—[PDF Bridge](https://www.dai.com/our-work/projects/nigeria-pdf-bridge-programme)—over 18 months between 2020 and 2022. 
+
+PDF Bridge will support the Government of Nigeria, its agencies, and independent regulators in key economic sectors, helping champions of change to conceptualize, design, and drive important policy and regulatory reforms. 
+
+Embedded advisors will provide technical assistance to improve audit processes, implement the African Continental Free Trade Agreement, and revive the economy from the effects of COVID-19. Currently, PDF Bridge is helping Kano State with communications on COVID-19 safety and training exporters to adapt during the crisis.
+
+Nigeria still has challenges ahead in creating a business-friendly environment and reaching the PEBEC’s goal of raising the country’s Doing Business ranking above 70 by 2023. Nigerian businesses continue to face [hurdles](https://www.doingbusiness.org/content/dam/doingBusiness/country/n/nigeria/NGA.pdf) in areas such as getting electricity, registering property, paying taxes, and resolving insolvency. Reforming policies on these issues is even more vital as the country works to recover from the economic impacts of COVID-19. PDF’s support will continue to assist the country’s leaders as they  address these and other reforms. 
+
+
+***Claire Miller** is a Senior Communications Specialist at DAI. **Enene Ejembi** is the Strategic Communications and Knowledge Manager for DAI's Nigeria office.*
