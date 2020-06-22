@@ -51,5 +51,10 @@ Furthermore, due to restrictions on assembly, it is becoming increasingly diffic
 
 To address the impacts of the coronavirus, LIFT will be working to mitigate short-term risks to our beneficiaries; help landholders, farmers, and businesses adapt to the challenges presented by COVID-19; and improve the resilience of farmers and businesses so they can build back better and be prepared for similar events in the future.
 
+*Mitigating Short-Term Risks* 
+
+Although all field activities relating to registration are paused, LIFT is preparing a guideline for operations under COVID-19 to ensure that field and office activities are compliant with federal and [regional regulations](https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/) under the State of Emergency, including social distancing, shift schedules, and a re-organisation of office layouts to make distancing easier. To improve hygiene practices, handwashing facilities have been installed, hand sanitisers distributed, and thorough cleaning is conducted daily. LIFT will provide awareness training to field and office staff on health and safety best practice, in line with Health Ministry guidance, and also distribute health and safety materials in collaboration with federal and regional health offices.
+
+LIFT will also use its network of 500 Land Rental Service Providers to ensure beneficiaries receive updated information about COVID-19 and the required precautions. Using existing programme data collected by project [Social Development Officers](https://www.dai.com/uploads/DAI%20SDO%20Guide-3ddf0d.pdf), our teams can map vulnerable groups in programme *woredas* to ensure messaging is reaching those who need it. LIFT is developing a strategy for how to work with Kebele Land Administration Committees and Officers and Woreda Land Administration officials to raise awareness among farmers.
 
 
