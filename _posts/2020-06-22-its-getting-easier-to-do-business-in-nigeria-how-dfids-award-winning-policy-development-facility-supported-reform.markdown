@@ -51,9 +51,7 @@ UKaid’s investment made a difference. For every pound the British government s
 Another partner, Auditor General of the Federation Anthony Ayine, thanked PDF II for “the technical support provided in the development of our five-year strategic development plan that laid the foundation for audit reforms in Nigeria.”
 
 PDF II’s impacts extended to business owners and individuals. Through the project’s capacity building programs, “I have upped my game in quality standards and measures, which has helped me access higher value markets,” says Osagie Azeta, CEO of Crop Safe Agro-Services. “My sales have improved, I have finally exported for the first time, and I also supply products to other exporters. I have two streams of income now.”
-
 <iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 ### A Plan for Reform
 
 One project that received PDF II advisors’ support was PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
