@@ -22,7 +22,7 @@ During the COVID-19 health crisis, land might not appear to be an urgent issue. 
 
 In this article, we examine the impact COVID-19 is already having on land rights and by extension on empowerment, economic growth, and food security objectives in Ethiopia. In the longer term, it is imperative to support regional and municipal authorities to deal with the practicalities of land administration as part of the broader COVID-19 response.
 
-![1 Oromia - Cert Distribution Wuhale woreda 9.jpg](/uploads/1%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg)`Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
+![1 Oromia - Cert Distribution Wuhale woreda 9.jpg](/uploads/1%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg)`Handwashing stations are now available and Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
 
 ### Evidence from the Field 
 
@@ -30,7 +30,7 @@ DAI has been implementing the U.K. Department for International Development (DFI
 
 LIFT is already experiencing direct and indirect effects from the COVID-19 pandemic. Predictably, the introduction of social distancing and other measures has slowed down the operation of the programme, but beyond this effect, we are also seeing reduced land administration services, changing farmer behaviour, and a potential reduction in land productivity. 
 
-![4 Oromia - Cert Distribution Wuhale woreda 5.jpg](/uploads/4%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%205.jpg)`Certificate distribution, with new safety measures. Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
+![4 Oromia - Cert Distribution Wuhale woreda 5.jpg](/uploads/4%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%205.jpg)`Kebele health extension workers are on site, helping manage COVID-associated risks during certificate distribution. Photo courtesy LIFT.`
 
 ### Reduced Capacity of Land Administration Means Less Tenure Security 
 
@@ -44,7 +44,7 @@ Tenure insecurity will manifest itself in various ways, but initial evidence fro
 
 These and other effects of the pandemic risk undermining trust in the land administration system, which is critical for it to function for the benefit of citizens and for its sustainability over the long term. 
 
-![3 Oromia - Cert Distribution Wuhale woreda 7.jpg](/uploads/3%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%207.jpg)`Certificate distribution, with new safety measures. Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
+![3 Oromia - Cert Distribution Wuhale woreda 7.jpg](/uploads/3%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%207.jpg)`Kebele health extension workers are on site, helping manage COVID-associated risks during certificate distribution. Photo courtesy LIFT.`
 
 ### Saving Withdrawals Up, New Loans Down
 
