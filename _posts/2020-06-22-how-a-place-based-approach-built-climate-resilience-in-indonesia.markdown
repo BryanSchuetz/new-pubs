@@ -28,7 +28,7 @@ Of the close to 4,000 natural disasters Indonesia recorded in 2019, more than 80
 * Integrated climate adaptation and disaster risk reduction methods into 158 laws, policies, and regulations from the national to the village level.
 * Supported more than 130 villages in activities including creating flood contingency plans for towns along the Panguluran river and working with local government to install early warning systems for flash floods with rainfall sensors and automatic stream-level sensors connected to information displays in villages downriver.
 
-<iframe src="https://player.vimeo.com/video/430386281" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/430386281" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>{:.video}
 
 ![small Paul Jeffery ID photo.jpg](/uploads/small%20Paul%20Jeffery%20ID%20photo.jpg){:.float-left}With APIK’s activities wrapping up this month, Shannon Vasamsetti, a member of DAI’s Natural Resources Management and Climate Change team, sat down with Paul Jeffery, the project’s Chief of Party, to discuss project lessons, challenges, and opportunities.
 
