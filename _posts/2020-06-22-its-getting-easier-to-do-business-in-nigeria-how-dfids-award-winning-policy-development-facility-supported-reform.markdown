@@ -34,7 +34,7 @@ Along with promoting clean energy through the Rural Electrification Agency, enha
 PDF II’s efforts [resulted](file://C:\\Users\cmiller\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\BC9XPTXO\legacy brochure.pdf) in: 
 * **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
 * **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
-* **616 million naira****** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
+* **616 million naira** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
 * More than **N25 billion** raised by the government in Sovereign Green Bonds.
 
 UKaid’s investment made a difference. For every pound the British government spent on technical assistance, Nigeria was able to save £3,953 in excess expenditure, and an additional £89 to support budgetary expenditure.
@@ -64,7 +64,7 @@ By 2019, Nigeria ranked 131 out of the 190 countries surveyed in the *Doing Busi
 * **Dealing with construction permits**—Nigeria eliminated a fee for construction permits for warehouses. 
 * **Getting electricity**—Nigeria now allows certified engineers to conduct inspections for new connections. 
 * **Registering property**—Lagos implemented a geographic information system for land administration. 
-* **Trading across borders******—reforms in Kano and Lagos reduced export and import time through an upgraded electronic system and e-payment for fees. 
+* **Trading across borders**—reforms in Kano and Lagos reduced export and import time through an upgraded electronic system and e-payment for fees. 
 * **Enforcing contracts**—Nigeria introduced a pretrial conference to enhance case management techniques.
 PEBEC honored the organizations and projects that contributed to Nigeria’s improved Doing Business ranking in an award ceremony at the State House on March 11, 2020. PDF II received a special recognition award for its technical support for PEBEC and the work of the project’s embedded advisors. Program Manager Dr. Titilola Akindeinde accepted the award on behalf of the project team.
 
