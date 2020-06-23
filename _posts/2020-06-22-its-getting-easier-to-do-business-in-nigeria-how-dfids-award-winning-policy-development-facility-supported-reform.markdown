@@ -15,15 +15,6 @@ Nigeria has Africa’s largest economy and population. But as recently as 2016, 
 
 
 
-
-
-
-
-
-
-
-  
-
 Today, although Nigeria is grappling with the COVID-19 health and economic crisis that has swept the globe, its business regulations look different. Recent economic reforms have removed some bureaucratic hurdles. As of [2020](https://www.doingbusiness.org/content/dam/doingBusiness/country/n/nigeria/NGA.pdf), the country has risen 34 places on the index and has been named a top 10 improving economy by the World Bank. 
 
 How? Doing business has gotten easier in Nigeria thanks to reforms led by the [Presidential Enabling Business Environment Council](https://easeofdoingbusinessnigeria.com/) (PEBEC) and supported by the UKaid-funded [Policy Development Facility Phase II](https://www.dai.com/our-work/projects/nigeria-dfid-policy-development-facility-pdf2-0) (PDF II). The facility, implemented by DAI between 2015 and 2020, worked with government officials to improve economic and social policies. 
@@ -54,9 +45,9 @@ Another partner, Auditor General of the Federation Anthony Ayine, thanked PDF II
 
 PDF II’s impacts extended to business owners and individuals. Through the project’s capacity building programs, “I have upped my game in quality standards and measures, which has helped me access higher value markets,” says Osagie Azeta, CEO of Crop Safe Agro-Services. “My sales have improved, I have finally exported for the first time, and I also supply products to other exporters. I have two streams of income now.”
 
-<iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>{:.video}
 
-### A Plan for Reform
+### A Plan for Reform 
 
 One project that received PDF II advisors’ support was PEBEC, an intergovernmental and inter-ministerial body founded in 2016 and responsible for driving business reforms in Nigeria. Led by the Vice President Yemi Osinbajo, PEBEC spearheaded a national reform process designed to improve the country’s performance on the Doing Business index. This goal is in line with Nigeria’s Economic Recovery and Growth Plan, which aims for the country to rank above 70 by 2023. 
 
