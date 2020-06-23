@@ -474,3 +474,12 @@ span.algolia-autocomplete{
   background-color: rgba($blue, 0.1);
   border-top: 3px solid $blue;
 }
+
+iframe.video{
+  margin: 0;
+  @include responsive(ultra-wide-screens){
+    width: 120%;
+    position: relative;
+    left: -10%;
+  }
+}
