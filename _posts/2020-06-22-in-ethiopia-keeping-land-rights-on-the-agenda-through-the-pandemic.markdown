@@ -22,7 +22,7 @@ During the COVID-19 health crisis, land might not appear to be an urgent issue. 
 
 In this article, we examine the impact COVID-19 is already having on land rights and by extension on empowerment, economic growth, and food security objectives in Ethiopia. In the longer term, it is imperative to support regional and municipal authorities to deal with the practicalities of land administration as part of the broader COVID-19 response.
 
-![1 Oromia - Cert Distribution Wuhale woreda 9.jpg](/uploads/1%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg)`New measures in place. Photo courtesy LIFT.`
+![1 Oromia - Cert Distribution Wuhale woreda 9.jpg](/uploads/1%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%209.jpg)`Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
 
 ### Evidence from the Field 
 
@@ -30,11 +30,11 @@ DAI has been implementing the U.K. Department for International Development (DFI
 
 LIFT is already experiencing direct and indirect effects from the COVID-19 pandemic. Predictably, the introduction of social distancing and other measures has slowed down the operation of the programme, but beyond this effect, we are also seeing reduced land administration services, changing farmer behaviour, and a potential reduction in land productivity. 
 
-![4 Oromia - Cert Distribution Wuhale woreda 5.jpg](/uploads/4%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%205.jpg)`Certificate distribution, with new safety measures. Photo courtesy LIFT.`
+![4 Oromia - Cert Distribution Wuhale woreda 5.jpg](/uploads/4%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%205.jpg)`Certificate distribution, with new safety measures. Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
 
 ### Reduced Capacity of Land Administration Means Less Tenure Security 
 
-LIFT’s registration efforts are highly participatory. They include raising awareness around land issues, public displays of maps and boundaries, and certificate distribution events that draw large numbers of people. These activities have been paused for public health reasons [since April 8.](https://www.aljazeera.com/news/2020/04/ethiopia-declares-state-emergency-fight-covid-19-200408142519485.html) Furthermore, when demarcating land parcels, field teams work closely with farmers and their neighbours to identify plots accurately. Pausing registration activities indefinitely means farmers will not have their land rights recorded and recognised, which may lead to reduced tenure security for individuals at a time when tenure security risks may be heightened. Early evidence suggests a fall in land authorities’ capacity to respond to claims and queries, leading to gaps in service.
+LIFT’s registration efforts are highly participatory. They include raising awareness around land issues, public displays of maps and boundaries, and certificate distribution events that draw large numbers of people. Most of these activities have been paused for public health reasons [since April 8.](https://www.aljazeera.com/news/2020/04/ethiopia-declares-state-emergency-fight-covid-19-200408142519485.html) Furthermore, when demarcating land parcels, field teams work closely with farmers and their neighbours to identify plots accurately. Pausing most registration activities indefinitely means farmers will not have their land rights recorded and recognised, which may lead to reduced tenure security for individuals at a time when tenure security risks may be heightened. Early evidence suggests a fall in land authorities’ capacity to respond to claims and queries, leading to gaps in service.
 
 Tenure insecurity will manifest itself in various ways, but initial evidence from across the LIFT regions suggests that as restrictions continue, the trends will likely include:
 * Encroachment on communal land and land used by vulnerable groups by landholders who take advantage of reduced oversight from field teams and *woreda* (district) officials
@@ -44,9 +44,9 @@ Tenure insecurity will manifest itself in various ways, but initial evidence fro
 
 These and other effects of the pandemic risk undermining trust in the land administration system, which is critical for it to function for the benefit of citizens and for its sustainability over the long term. 
 
-![3 Oromia - Cert Distribution Wuhale woreda 7.jpg](/uploads/3%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%207.jpg)`Certificate distribution, with new safety measures. Photo courtesy LIFT.`
+![3 Oromia - Cert Distribution Wuhale woreda 7.jpg](/uploads/3%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%207.jpg)`Certificate distribution, with new safety measures. Kebele health extension workers are helping manage COVID-associated risks during some activities. Photo courtesy LIFT.`
 
-### Loan Defaults Up, New Loans Down
+### Saving Withdrawals Up, New Loans Down
 
 One of LIFT’s important innovations is its work enabling farmers to access finance using their land rights. LIFT has trained lending institutions, assisted in financial product development, and facilitated relationships between landholders and market actors. This successful feature of the programme, which has resulted in more than 16,000 loans issued, has seen a downturn in activity in the wake of COVID-19. In April, LIFT’s main loan partner reported zero disbursements of the land certificate-linked loan, compared to 423 loans in April 2019.  
 
@@ -68,7 +68,7 @@ To address the impacts of the coronavirus, LIFT will be working to mitigate shor
 
 *1. Mitigating Short-Term Risks* 
 
-Although all field activities relating to registration are paused, LIFT is preparing a guideline for operations under COVID-19 to ensure that field and office activities are compliant with federal and [regional regulations](https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/) under the State of Emergency, including social distancing, shift schedules, and a re-organisation of office layouts to make distancing easier. To improve hygiene practices, handwashing facilities have been installed, hand sanitisers distributed, and thorough cleaning is conducted daily. LIFT will provide awareness training to field and office staff on health and safety best practice, in line with Health Ministry guidance, and also distribute health and safety materials in collaboration with federal and regional health offices.
+Although most field activities relating to registration are paused, LIFT is preparing a guideline for operations under COVID-19 to ensure that field and office activities are compliant with federal and [regional regulations](https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/) under the State of Emergency, including social distancing, shift schedules, and a re-organisation of office layouts to make distancing easier. To improve hygiene practices, handwashing facilities have been installed, hand sanitisers distributed, and thorough cleaning is conducted daily. LIFT will provide awareness training to field and office staff on health and safety best practice, in line with Health Ministry guidance, and also distribute health and safety materials in collaboration with federal and regional health offices.
 
 LIFT will also use its network of 500 Land Rental Service Providers to ensure beneficiaries receive updated information about COVID-19 and the required precautions. Using existing programme data collected by project [Social Development Officers](https://www.dai.com/uploads/DAI%20SDO%20Guide-3ddf0d.pdf), our teams can map vulnerable groups in programme *woredas* to ensure messaging is reaching those who need it. LIFT is developing a strategy for how to work with Kebele Land Administration Committees and Officers and Woreda Land Administration officials to raise awareness among farmers.
 
