@@ -46,7 +46,7 @@ These and other effects of the pandemic risk undermining trust in the land admin
 
 ![3 Oromia - Cert Distribution Wuhale woreda 7.jpg](/uploads/3%20Oromia%20-%20Cert%20Distribution%20Wuhale%20woreda%207.jpg)`Certificate distribution, with new safety measures. Photo courtesy LIFT.`
 
-### Loan Defaults Up, New Loans Down
+### Saving Withdrawals Up, New Loans Down
 
 One of LIFT’s important innovations is its work enabling farmers to access finance using their land rights. LIFT has trained lending institutions, assisted in financial product development, and facilitated relationships between landholders and market actors. This successful feature of the programme, which has resulted in more than 16,000 loans issued, has seen a downturn in activity in the wake of COVID-19. In April, LIFT’s main loan partner reported zero disbursements of the land certificate-linked loan, compared to 423 loans in April 2019.  
 
