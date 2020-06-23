@@ -52,7 +52,7 @@ One of LIFT’s important innovations is its work enabling farmers to access fin
 
 Other partner MFIs have indicated that they will struggle to control repayments and issue new loans, for both operational and economic reasons. From an operational perspective, MFIs use a highly participatory approach to engage landholders—as LIFT does—including large events to disburse loans and collect repayments. Obviously, owing to the moratorium on large gatherings, this approach is not feasible. Compounding the issue is the economic distress farmers are likely to experience, which may either discourage borrowing or hinder repayments. LIFT’s MFI partners are already seeing increased withdrawals from saving accounts. Evidence of defaults will take longer to emerge, as we track the effect of the pandemic on farmers’ ability to maintain current levels of production and sales.  
 
-### Fewer Agricultural Supplies=Reduced Productivity and Income 
+### Fewer Agricultural Supplies = Reduced Productivity and Income 
 
 The productivity of land is already suffering as a result of COVID-19. Transport tariffs in Ethiopia have doubled in price since restrictions on travel were imposed in April with the State of Emergency, for example, making it less affordable for farmers to purchase agricultural inputs in cities and at marketplaces. Due to social distancing measures, market events have been reduced or cancelled. 
 
