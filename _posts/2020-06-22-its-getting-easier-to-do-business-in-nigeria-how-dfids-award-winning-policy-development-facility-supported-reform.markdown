@@ -31,7 +31,7 @@ The facility helped the Nigerian government make its ministries, departments, an
 
 Along with promoting clean energy through the Rural Electrification Agency, enhancing trade and investment through the Nigeria Sovereign Investment Authority, and promoting efficiency through support to the Ministry of Finance, PDF II contributed to a national reform process that supports entrepreneurs and removes barriers to doing business. 
 
-PDF II’s efforts [resulted](file://C:\\Users\cmiller\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\BC9XPTXO\legacy brochure.pdf) in: 
+PDF II’s efforts [resulted](https://www.pdfnigeria.org/rc/wp-content/uploads/2020/03/P3387_PDFII_results_reducing_poverty_WEB.pdf) in: 
 * **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
 * **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
 * **616 million naira** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
