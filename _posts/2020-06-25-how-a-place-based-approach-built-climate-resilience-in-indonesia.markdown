@@ -1,6 +1,6 @@
 ---
 title: How a Place-based Approach Built Climate Resilience in Indonesia
-date: 2020-06-22 09:10:00 -04:00
+date: 2020-06-25 09:10:00 -04:00
 published: false
 tags:
 - environment-and-energy
@@ -40,6 +40,8 @@ Of the close to 4,000 natural disasters Indonesia recorded in 2019, more than 80
 
 “For example, we co-designed an activity with Cargill to increase resilience in their egg production value chain in Blitar, East Java. This is the main egg production center for Indonesia and a big market for Cargill as a supplier of chicken feed. But rising temperatures were bringing the productivity of laying hens down—they produce fewer eggs in the heat, and they eat less feed, which meant less demand for Cargill’s product. APIK brought in expertise from the FAO and the Chicken Producer Association of Indonesia (PPRN), and we identified climate-smart chicken housing that was more sensitive to rising temperature and more hygienic. Cargill then financed construction of the climate-smart chicken shed and the PPRN built a training center to work with farmers on how to build this housing and provide better care for their chickens. We found that businesses are happy to fund initiatives that improve local resilience and are of course economically advantageous to the company.” 
 
+![APIK Devs_1@4x-100.jpg](/uploads/APIK%20Devs_1@4x-100.jpg)
+
 **Q: That point of being economically advantageous is so key to effective private sector engagement. Could you expand on it a bit?** 
 
 “Companies want action on the ground and tangible results as quickly as possible. For most, seeing is believing. In Indonesia, there is a significant concern, especially among agribusiness, that they will struggle with the reality that climate change will impact their future productivity and profitability. Our job was to show them that they could do something about it—that they could maintain successful operations despite climate change.” 
@@ -55,6 +57,8 @@ Of the close to 4,000 natural disasters Indonesia recorded in 2019, more than 80
 “We had to adjust early on to a funding shift that reduced our budget. On the management side, we did not have a clear picture of how things would change so we decided to put the issue aside and focus on simply doing a great job. We wanted our staff to stay motivated and excited about what we were accomplishing. This enabled continuation of implementation in line with our workplan while reducing the risk of losing staff. We had a strong working relationship with the Government of Indonesia and USAID and continued to produce results and show value. This gave everyone a reason to find other funding sources to allow us to continue our work—in the end we achieved almost everything we set out to in 4.5 years of implementation having only received approximately 80 percent of the anticipated budget.
 
 “Because DAI also has strong [water, sanitation, hygiene] WASH sector projects, we worked closely to modify tools that would improve both WASH and climate indicators. For example, we added a climate lens to a WASH vulnerability assessment tool used in Batu and Malang City in partnership with the [IUWASH PLUS](https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash) project.” 
+
+![APIK Devs@4x-100.jpg](/uploads/APIK%20Devs@4x-100.jpg)
 
 **Q: Integration is a hot topic these days, and climate change really does affect a wide range of development sectors, WASH being only one of them. What did you find to be the key factors in “mainstreaming” climate change planning?** 
 
