@@ -1,7 +1,6 @@
 ---
 title: How a Place-based Approach Built Climate Resilience in Indonesia
 date: 2020-06-26 09:10:00 -04:00
-published: false
 tags:
 - environment-and-energy
 - agriculture
