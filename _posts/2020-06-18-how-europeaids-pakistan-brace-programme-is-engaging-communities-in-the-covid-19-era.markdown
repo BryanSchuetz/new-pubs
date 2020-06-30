@@ -9,7 +9,11 @@ tags:
 - resilience
 - health security
 author: "[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/)"
+<<<<<<< HEAD
 thumbnail-image: "/uploads/BRACE%20Programme-COVID19%20(1).jpg"
+=======
+thumbnail-image: "/uploads/brace-social.jpg"
+>>>>>>> a21b904012b873030d6ded36265ae8a3693b815d
 social-image: "/uploads/brace-social.jpg"
 publication: Developments
 ---
