@@ -10,6 +10,8 @@ tags:
 author: "[James Naughton](https://www.linkedin.com/in/james-naughton-69973417/), [Katja
   Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander), and
   [Rebecca Kinahan ](https://www.linkedin.com/in/rebecca-kinahan-9b5a5889/)"
+thumbnail-image: "/uploads/3.%20FINCA%20Digital%20Financial%20Solutions.png"
+social-image: "/uploads/3.%20FINCA%20Digital%20Financial%20Solutions.png"
 publication: Developments
 ---
 
@@ -29,6 +31,8 @@ Using financial technology in developing countries enables agile and novel appro
 
 In Jordan and Egypt, the [Arab Women’s Enterprise Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund), funded by the U.K. Department for International Development (DFID), is developing microloan products with digital payment service providers and microfinance institutions (MFIs) to enable digitisation of microloan servicing. In the face of COVID-19, the Jordanian Government [decided to provide](https://www.rsm.global/jordan/news/govt-issues-defence-order-no-9-support-non-working-employees-employers-daily-wage-workers) financial aid to 200,000 mainly unbanked Jordanian workers, mostly shift workers and low-income temporary workers affected by the lockdown. It chose the National Aid Fund (NAF) to disburse the aid because the NAF has been working with AWEF and its partner Dinarak for 14 months to serve regular beneficiaries using “mobile wallets.” NAF is now using these digital wallets to afford 200,000 people ready access to financial support. 
 
+![AWEF2.jpg](/uploads/AWEF2.jpg)`File photo from Arab Women’s Enterprise Fund (AWEF), a DFID project that supports women's integration into the economy.`
+
 The new phase of DFID’s [Financial Sector Deepening Moçambique (FSDMoç)](https://www.dai.com/our-work/projects/mozambique-financial-sector-deepening-fsdmoc) initiative will continue the project’s engagement with payment service providers through the “regulatory sandbox” established under the project. Regulatory sandboxes are frameworks that allow innovative firms to test products with regulatory supervision; the approach taken by FSDMoç involves working with payment service providers to develop shock payment and remittance applications in response to COVID-19.
 
 ### Taking Full Advantage of Digital Platforms  
@@ -36,6 +40,8 @@ The new phase of DFID’s [Financial Sector Deepening Moçambique (FSDMoç)](htt
 Digital platforms are an ideal mechanism for delivering preventive and other messaging around COVID-19 (although, as the International Monetary Fund points out, this leaves [challenges for the digitally excluded](https://blogs.imf.org/2020/07/01/digital-financial-inclusion-in-the-times-of-covid-19/)). For example, MFS is providing digital financial, hygiene, and sanitation education to vulnerable groups in Mexico, with a focus on women-owned microbusinesses receiving government payments. To ensure these informal enterprises stay viable during the crisis, MFS is providing support to help them manage cashflows and adopt sanitary protocols that will allow them to keep operating while reducing the risk of contagion to their family, employees, and clients. In Mozambique, similarly, vulnerable SMEs are receiving financial and health education support through FSDMoç’s digital partnerships with government ministries, trade associations, and the tech community. 
 
 On the supply side, DFID’s [Private Enterprise Programme Ethiopia (PEPE)](https://www.dai.com/our-work/projects/ethiopia-private-enterprise-programme-ethiopia-pepe) is working with COVID-stricken financial institutions on how to manage nonperforming loans, in part through digital training modules designed to improve operating performance and mitigate COVID-19’s impact on downstream SMEs.
+
+![PEPE.jpg](/uploads/PEPE.jpg)`File photo of PEPE, a DFID Ethiopia project that supports small firms.`
 
 ### Banking That Includes the Vulnerable
 
@@ -50,6 +56,8 @@ Through AWEF, DAI helped to pilot and scale a female agent model to promote the 
 With the uncertainty of COVID-19 comes the need for adaptive governance, and for a regulatory environment conducive to development of DFS. The [World Bank identifies](https://www.worldbank.org/en/topic/financialinclusion/brief/pafi-task-force-and-report) suitable legal and regulatory frameworks as one of the keys to advancing access to payment services.
 
 To get the right frameworks in place, projects may need an advocacy component. AWEF, for example, collaborated with the Bank of Palestine to advocate the relaxation of regulations restricting access to current bank accounts for people without formal employment contracts, many of whom are low-income earners. Following a successful pilot, the Palestinian Monetary Authority passed regulations that require banks to offer current accounts to low-income earners. These “financial inclusion” accounts are now proving to be important catalysts for financial and social inclusion. In response to the COVID-19 crisis, the Ministry of Social Development aims to provide financial support to families that have lost their source of income using these very accounts.
+
+![moz.png](/uploads/moz.png)`Majority of rural Mozambicans don't have access to financial institutions.`
 
 Regulatory engagement is also central to FSDMoç. With the advent of COVID-19, the team has advocated for regulatory measures that stimulate the use of digital channels for payments and worked to improve regulations that will allow greater use of digital platforms and electronic payments. FSDMoç is also arguing for digital “shock payments” to vulnerable groups to mitigate the impact of COVID-19, and encouragingly the Central Bank of Mozambique [has now introduced temporary measures](https://clubofmozambique.com/news/mozambique-central-bank-orders-cuts-to-e-transfer-fees-for-three-months-156682/) to support such people.
 
