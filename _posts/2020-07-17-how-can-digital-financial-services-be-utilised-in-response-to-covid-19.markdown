@@ -25,6 +25,8 @@ In recent years, consumer preferences and expectations have shifted toward digit
 
 Devastating as the pandemic is, the conditions it imposes actually present opportunities to expand DFS in fundamental ways that can close service gaps and at the same time bolster the resilience of vulnerable people. At DAI, our COVID-19 response includes scaling up DFS interventions across a range of themes.
 
+![MFS.jpg](/uploads/MFS.jpg)`The Prosperity Fund Mexico Financial Services Programme aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants.`
+
 ### Getting Creative with Digital Solutions
 
 Using financial technology in developing countries enables agile and novel approaches to be adapted quickly and at scale, ensuring those who are most vulnerable can be rapidly supported. The [Prosperity Fund Mexico Financial Services (MFS) Programme](https://www.dai.com/our-work/projects/mexico-prosperity-fund-mexico-financial-services-programme), for example, funded by the U.K. Foreign and Commonwealth Office, recently launched the Caravana Fintech initiative to increase the adoption of innovative solutions by underbanked and unbanked people. Caravana, which was launched virtually at the [Fintech Remote Summit](https://www.fintechrs.com/live), is targeted at financially excluded micro, small, and medium-sized enterprises, particularly those affected by COVID-19.
