@@ -1,7 +1,6 @@
 ---
 title: How Can Digital Financial Services be Utilised in Response to COVID-19?
 date: 2020-07-17 10:03:00 -04:00
-published: false
 tags:
 - covid-19
 - economic-growth
