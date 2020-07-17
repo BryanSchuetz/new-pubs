@@ -10,8 +10,8 @@ tags:
 author: "[James Naughton](https://www.linkedin.com/in/james-naughton-69973417/), [Katja
   Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander), and
   [Rebecca Kinahan ](https://www.linkedin.com/in/rebecca-kinahan-9b5a5889/)"
-thumbnail-image: "/uploads/3.%20FINCA%20Digital%20Financial%20Solutions.png"
-social-image: "/uploads/3.%20FINCA%20Digital%20Financial%20Solutions.png"
+thumbnail-image: "/uploads/mfs%20sm.png"
+social-image: "/uploads/mfs%20sm.png"
 publication: Developments
 ---
 
@@ -24,6 +24,8 @@ In recent years, consumer preferences and expectations have shifted toward digit
 
 
 Devastating as the pandemic is, the conditions it imposes actually present opportunities to expand DFS in fundamental ways that can close service gaps and at the same time bolster the resilience of vulnerable people. At DAI, our COVID-19 response includes scaling up DFS interventions across a range of themes.
+
+![MFS.jpg](/uploads/MFS.jpg)`The Prosperity Fund Mexico Financial Services Programme aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants.`
 
 ### Getting Creative with Digital Solutions
 
