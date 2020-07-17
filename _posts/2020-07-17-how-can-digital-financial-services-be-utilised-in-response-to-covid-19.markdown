@@ -14,6 +14,7 @@ publication: Developments
 ---
 
 The COVID-19 pandemic has profoundly disrupted the provision of financial services worldwide, with many regular practices now impossible. Consumer banks have closed as part of lockdown measures, and where banks are still operational, distancing measures have constrained services and diminished provider contact. Travel restrictions in many countries have also limited people’s and businesses’ access to financial service providers. 
+
 In recent years, consumer preferences and expectations have shifted toward digital financial services (DFS), and providers have responded accordingly. Donors, too, have followed this trend, seeing DFS as powerful tools to reach the most vulnerable and better include currently unbanked or underbanked populations.
 
 
