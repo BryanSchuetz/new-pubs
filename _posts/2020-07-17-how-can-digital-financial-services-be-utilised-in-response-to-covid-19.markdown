@@ -10,8 +10,8 @@ tags:
 author: "[James Naughton](https://www.linkedin.com/in/james-naughton-69973417/), [Katja
   Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander), and
   [Rebecca Kinahan ](https://www.linkedin.com/in/rebecca-kinahan-9b5a5889/)"
-thumbnail-image: "/uploads/3.%20FINCA%20Digital%20Financial%20Solutions.png"
-social-image: "/uploads/3.%20FINCA%20Digital%20Financial%20Solutions.png"
+thumbnail-image: "/uploads/mfs%20sm.png"
+social-image: "/uploads/mfs%20sm.png"
 publication: Developments
 ---
 
