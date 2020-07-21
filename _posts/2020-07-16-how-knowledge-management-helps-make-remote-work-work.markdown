@@ -15,7 +15,7 @@ Is remote work working? Our internal surveys suggest that it is. Asked about the
 
 
 
-![Image 2-c441db.png](/uploads/Image%202-c441db.png)
+![Image 2-c441db.png](/uploads/Image%202-c441db.png)`Results from a survey of staff in DAI’s offices in Lagos and Abuja.`
 
 KM is a discipline that improves the productivity of organisations by leveraging technology, processes, and organizational culture to better share, apply, create, capture, and store knowledge. Poor KM practices duplicate efforts, compromise quality by following less-than-best practices, waste time searching for existing resources, and jeopardize business opportunities when personnel fail to share knowledge. Good KM improves the generation and flow of useful information for decision making, builds smart organizations by making learning routine, and encourages a culture of trust that fosters innovation and productivity.
  
