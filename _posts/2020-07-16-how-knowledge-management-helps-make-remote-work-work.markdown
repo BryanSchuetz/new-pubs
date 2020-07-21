@@ -26,7 +26,9 @@ In DAI’s Nigeria office, we have focused on deploying approaches, activities, 
 
 ## Four KM Lessons Learned
 
-**Knowledge Sharing Enables Collaboration and Project Delivery:** Knowledge sharing is always critical to organizational success but even more so when teams are apart. To share knowledge effectively during the pandemic, we have had to tap a deep reservoir of trust, commit to virtual engagement, and energize our communications. 
+### Knowledge Sharing Enables Collaboration and Project Delivery:
+
+Knowledge sharing is always critical to organizational success but even more so when teams are apart. To share knowledge effectively during the pandemic, we have had to tap a deep reservoir of trust, commit to virtual engagement, and energize our communications. 
 
 > **COVID-19** has confirmed that our culture of trust, corporate kindness, collaboration, and collegial care is strong.
 
@@ -54,7 +56,7 @@ Effective remote collaboration requires that staff enter the process with the ri
 
 Needless to say, effective remote working requires the right technology, from Webex and Microsoft Teams to Google Hangouts and Mural. But it also requires familiarity with the technology, and a distinct set of people skills to facilitate online rather than in-person interactions. As we adapt to the landscape of remote delivery, DAI is fortunate that its in-house Center for Digital Acceleration (CDA) and Office of Information Management Technology (OIMT) provide business units and project teams not only with state-of-the-art tech, but with world-class training, support, and experience in the soft skills—the how-to of online training, webinars, and interactive workshops—that make those platforms perform. To take just one example: cybersecurity has emerged as an everyday, every-employee concern as work shifts to the home. DAI’s IT team shares tips and useful reports every week on how to keep systems and client interactions safe from online harms. 
 
-### Is Remote Work Working?
+## Is Remote Work Working?
 
 Can wholly remote teams be as productive as co-located teams? Four months into the experiment, the jury is still out—perhaps the optimal set-up is some kind of hybrid. But it is clear that over the remote-work period, DAI’s Nigeria office has been able to help individual employees work better, help clients respond to the pandemic, and find digital ways to deliver our projects, all while contributing to better public health by curbing coronavirus spread. 
 
