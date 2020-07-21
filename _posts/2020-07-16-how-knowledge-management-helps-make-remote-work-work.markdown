@@ -18,7 +18,7 @@ COVID-19 has transformed the global workforce. Many organizations, including DAI
 
 Is remote work working? Our internal surveys suggest that it is. Asked about their experience since the lockdown started in March, 98 percent of staff self-report that they can effectively perform their work from home, and just more than half believe they’re actually more productive in their new remote working arrangement, for reasons we’ll get into later. One of the reasons we’ve been successful in the Nigeria office in particular is a commitment to knowledge management (KM). 
 
-![Image 2-c441db.png](/uploads/Image%202-c441db.png)`Results from a survey of staff in DAI’s offices in Lagos and Abuja.`
+![Image 2-c441db.png](/uploads/Image%202-c441db.png)`Results from a survey of staff in DAI’s offices in Lagos and Abuja. (Graphics Design by Damilola Praiseworth)`
 
 KM is a discipline that improves the productivity of organisations by leveraging technology, processes, and organizational culture to better share, apply, create, capture, and store knowledge. Poor KM practices duplicate efforts, compromise quality by following less-than-best practices, waste time searching for existing resources, and jeopardize business opportunities when personnel fail to share knowledge. Good KM improves the generation and flow of useful information for decision making, builds smart organizations by making learning routine, and encourages a culture of trust that fosters innovation and productivity.
  
@@ -71,3 +71,5 @@ In terms of quality, remote work enables increased flexibility and autonomy and 
 Ultimately, the measure of remote work will be our success in delivering development results. In the period we have worked remotely, the Nigeria office has successfully started up two new programmes: the European Union-funded Technical Assistance to Strengthen Public Financial Management, Statistics, Monitoring, and Evaluation Systems in Yobe State; and the U.S. Agency for International Development’s Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being. We have completed delivery of and closed out two projects, and the office has continued to deliver results on 10 more. 
 
 The key point is that remote work does not just happen by default. It requires sustained investments in a high-trust organizational culture, guided by a clear strategy and deliberate execution. Establishing a sound KM culture has been an integral part of that strategy, and thoughtfully creating, capturing, sharing, and storing knowledge has stood DAI in Nigeria in good stead for the stress test of COVID-19. 
+
+*Enene Ejembi is a knowledge management and strategic communications manager and Damilola Praiseworth is a knowledge management and strategic communications associate for DAI based in Abuja, Nigeria.*
