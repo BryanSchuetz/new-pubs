@@ -15,9 +15,10 @@ Is remote work working? Our internal surveys suggest that it is. Asked about the
 
 
 
+![Image 2-c441db.png](/uploads/Image%202-c441db.png)
 
-
-KM is a discipline that improves the productivity of organisations by leveraging technology, processes, and organizational culture to better share, apply, create, capture, and store knowledge. Poor KM practices duplicate efforts, compromise quality by following less-than-best practices, waste time searching for existing resources, and jeopardize business opportunities when personnel fail to share knowledge. Good KM improves the generation and flow of useful information for decision making, builds smart organizations by making learning routine, and encourages a culture of trust that fosters innovation and productivity. 
+KM is a discipline that improves the productivity of organisations by leveraging technology, processes, and organizational culture to better share, apply, create, capture, and store knowledge. Poor KM practices duplicate efforts, compromise quality by following less-than-best practices, waste time searching for existing resources, and jeopardize business opportunities when personnel fail to share knowledge. Good KM improves the generation and flow of useful information for decision making, builds smart organizations by making learning routine, and encourages a culture of trust that fosters innovation and productivity.
+ 
 In DAI’s Nigeria office, we have focused on deploying approaches, activities, and technology crucial to the delivery of results for clients, meeting the development needs of beneficiaries, and being a successful business. Here’s what we’ve learned over the past four months supporting DAI’s remote work and delivery efforts.
 
 ###Four KM Lessons Learned
@@ -27,6 +28,8 @@ In DAI’s Nigeria office, we have focused on deploying approaches, activities, 
 **Building Trust:** Knowledge sharing is helped or harmed by the underlying organizational culture, and that in turn is shaped by senior management and the behaviors and incentives it intentionally or inadvertently encourages over time. DAI’s team in Nigeria was established in 2018 with the acquisition of former partner GRID Consulting and now consists of 40 employees in Lagos and Abuja. From the outset, the management team took steps to foster a shared identity and “One DAI” culture, including group strategic planning and team-building workshops. COVID-19 has confirmed that our culture of trust, corporate kindness, collaboration, and collegial care is strong. 
 
 **Engaging Virtually:** Meetings are the bane and bedrock of corporate workdays. While they may take up productive time, when done properly they are valuable vehicles for the creation, recognition, use, and exchange of both tacit and explicit knowledge. Since the lockdown, the Nigeria office has used the video conferencing platform Microsoft Teams to host new, inclusive organizational get-togethers such as our COVID-19 Crisis Response Team and weekly all-staff meetings. Prior to the crisis, the Nigeria office held weekly meetings in the two separate office locations, Abuja and Lagos. The shift to remote work has actually brought the two offices closer together in that respect, helping us to maintain accountability, boost morale, and reinforce connections.
+
+![Image 4-0c309b.png](/uploads/Image%204-0c309b.png)
 
 **Strengthening Communications:** The double whammy of responding to the health crisis and managing a remote workforce has underscored the need to communicate even more frequently, and with more stakeholders. In a weekly internal and monthly external newsletter, for example, we create knowledge flows for project staff, partners, consultants, clients, and beneficiaries. Internally, new WhatsApp Messenger Group chatrooms allow us to sustain immediate, professional, courteous, productive, and supportive conversations among the team. Increasingly, employees and project staff are using the platform to circulate new government directives, announce new wins, share documents, seek collaborators, and check in on colleagues and their wellbeing. 
 
@@ -49,6 +52,8 @@ Needless to say, effective remote working requires the right technology, from We
 ### Is Remote Work Working?
 
 Can wholly remote teams be as productive as co-located teams? Four months into the experiment, the jury is still out—perhaps the optimal set-up is some kind of hybrid. But it is clear that over the remote-work period, DAI’s Nigeria office has been able to help individual employees work better, help clients respond to the pandemic, and find digital ways to deliver our projects, all while contributing to better public health by curbing coronavirus spread. 
+
+![Image 3.png](/uploads/Image%203.png)
 
 An anonymous staff survey and anecdotal evidence suggests that the average employee delivers more outputs and is more productive while working from home than onsite. Just over half of all staff reported that working from home has enhanced productivity, partly as a result of having work hours available previously lost to commuting. Colleagues in Lagos have gained up to an astounding four extra hours daily and employees with more flexible schedules are generally working more hours. 
 
