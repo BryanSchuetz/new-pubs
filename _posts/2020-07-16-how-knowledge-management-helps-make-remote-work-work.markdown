@@ -21,7 +21,7 @@ KM is a discipline that improves the productivity of organisations by leveraging
  
 In DAI’s Nigeria office, we have focused on deploying approaches, activities, and technology crucial to the delivery of results for clients, meeting the development needs of beneficiaries, and being a successful business. Here’s what we’ve learned over the past four months supporting DAI’s remote work and delivery efforts.
 
-###Four KM Lessons Learned
+## Four KM Lessons Learned
 
 **Knowledge Sharing Enables Collaboration and Project Delivery:** Knowledge sharing is always critical to organizational success but even more so when teams are apart. To share knowledge effectively during the pandemic, we have had to tap a deep reservoir of trust, commit to virtual engagement, and energize our communications. 
 
