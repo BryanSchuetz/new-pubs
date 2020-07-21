@@ -6,6 +6,8 @@ tags:
 - covid-19
 - think-piece
 author: "[Enene Ejembi](https://www.linkedin.com/in/enene-ejembi-m-litt-ckm-5b452071/) "
+thumbnail-image: "/uploads/Image%202-c441db.png"
+social-image: "/uploads/Image%202-c441db.png"
 publication: Developments
 ---
 
