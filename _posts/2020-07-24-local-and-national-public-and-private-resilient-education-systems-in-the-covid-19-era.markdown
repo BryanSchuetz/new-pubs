@@ -2,7 +2,6 @@
 title: 'Local and National, Public and Private: Resilient Education Systems in the
   COVID-19 Era'
 date: 2020-07-24 11:41:00 -04:00
-published: false
 tags:
 - education
 - covid-19
