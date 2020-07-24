@@ -3,7 +3,13 @@ title: 'Local and National, Public and Private: Resilient Education Systems in t
   COVID-19 Era'
 date: 2020-07-24 11:41:00 -04:00
 published: false
+tags:
+- education
+- covid-19
 author: Zehra Zaidi and Dr. Rabea Malik
+thumbnail-image: "/uploads/edu2.jpg"
+social-image: "/uploads/edu2.jpg"
+publication: Developments
 ---
 
 The COVID-19 pandemic has revealed the fragility of global education systems, as many schools have temporarily ceased in-person instruction and left students with unequal, inconsistent access to learning opportunities at home. Traditional education provision may not be possible for the foreseeable future. This crisis—and the threat of potential future crisis—underscores an urgent need to develop [resilient education systems](http://www.iiep.unesco.org/en/our-mission/education-system-resilience) that can withstand disruption and accommodate risk. 
@@ -57,4 +63,4 @@ Donor agencies have resources and expertise that can draw on global evidence and
 
 To create resilient systems, education leaders will need to learn, unlearn, adapt, and develop systems that are better positioned to provide continuous access to education for all children. Educational access is especially important for students from vulnerable populations, who are the most likely to be exposed to household-level impacts of health and economic shocks. Decentralized decision-making, support from central governments, and public-private partnerships can help create education systems that can respond, recover, and succeed in the face of the COVID-19 pandemic and future emergencies. 
 
-*Zehra Zaidi is the Director of Education for DAI’s United Kingdom office. Dr. Rabea Malik is an Education Advisor at DAI.*
+*[Zehra Zaidi](https://www.dai.com/who-we-are/our-team/zehra-zaidi) is the Director of Education for DAI’s United Kingdom office. Dr. Rabea Malik is an Education Advisor at DAI.*
