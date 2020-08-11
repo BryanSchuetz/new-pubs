@@ -5,17 +5,17 @@ tags:
 - governance
 - gender
 - global-health
+author: "[Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)"
+thumbnail-image: "/uploads/ASJP-pic-2.jpg"
+social-image: "/uploads/ASJP-pic-2.jpg"
 publication: Developments
 issue: Summer 2015
-author-bio: DAI's Sarah Maguire is Technical Director for the Access to Security and
-  Justice Programme.
-author: Sarah Maguire
+author-bio: DAI's [Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire)
+  is Technical Director for the Access to Security and Justice Programme.
 featured?: 
 assets:
 - path: "/uploads/ASJP-pic-2.jpg"
   name: ASJP-pic-2
-thumbnail-image: "/uploads/ASJP-pic-2.jpg"
-social-image: "/uploads/ASJP-pic-2.jpg"
 ---
 
 Despite significant improvements in the delivery of statutory justice services, most rural people in Sierra Leone lack the time, money, or literacy needed to access [formal justice structures](http://dai.com/our-work/solutions/law-and-justice) such as police, courts, or legal services. Instead, they rely on traditional mechanisms such as the Chiefdom structure, which are perceived as quicker, less expensive (in time and money), and more accessible.
