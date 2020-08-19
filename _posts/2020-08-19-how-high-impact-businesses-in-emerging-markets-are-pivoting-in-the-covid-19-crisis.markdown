@@ -3,6 +3,12 @@ title: How High-impact Businesses in Emerging Markets Are Pivoting in the COVID-
   Crisis
 date: 2020-08-19 15:34:00 -04:00
 published: false
+tags:
+- covid-19
+- fragile-states
+- economic-growth
+- blended finance
+- finance
 author: Kristin Kelly Jangraw, [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project)
   Senior Communications Advisor, and Emily Langhorne, INVEST Communications Specialist
 publication: Developments
