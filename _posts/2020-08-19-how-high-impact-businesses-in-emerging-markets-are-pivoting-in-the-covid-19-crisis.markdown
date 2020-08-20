@@ -11,6 +11,8 @@ tags:
 - finance
 author: Kristin Kelly Jangraw, [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project)
   Senior Communications Advisor, and Emily Langhorne, INVEST Communications Specialist
+thumbnail-image: "/uploads/women%20and%20products%201.jpg"
+social-image: "/uploads/women%20and%20products%201.jpg"
 publication: Developments
 ---
 
@@ -31,6 +33,8 @@ Many of these firms are at the forefront of the COVID-19 response, rapidly findi
 The stakes are high. “The COVID-19 crisis is going to hit developing countries so much harder than the United States and Europe since their healthcare systems and governments don’t have the same resources to combat the crisis,“ says Saskia Bruysten, the CEO of Yunus Social Business. “Without immediate support, many social businesses and impact-first companies working to end poverty and implement sustainable development will be wiped out."
 
 These businesses and others around the world have an overwhelming need for advisory services, relief funds, and catalytic capital that can help them survive the coming months and years. While a new wave of government-sponsored stimulus packages have begun to address the health crisis and the economic crisis it generated, the private sector has a large role to play, too. With the right kinds of capital and transaction advisory assistance, small and medium-sized enterprises (SMEs) in frontier and emerging markets can pivot to serve the immediate needs of their communities.
+
+<iframe src="https://player.vimeo.com/video/449685634" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`INVEST's Strategic Investment Advisor Noemi Danao-Schroeder discusses how INVEST works and ie helping USAID missions pivit their activities to address COVID-19.`
 
 ### COVID-19 Pivot
 
