@@ -2,7 +2,6 @@
 title: How High-impact Businesses in Emerging Markets Are Pivoting in the COVID-19
   Crisis
 date: 2020-08-19 15:34:00 -04:00
-published: false
 tags:
 - covid-19
 - fragile-states
@@ -35,7 +34,7 @@ The stakes are high. “The COVID-19 crisis is going to hit developing countries
 These businesses and others around the world have an overwhelming need for advisory services, relief funds, and catalytic capital that can help them survive the coming months and years. While a new wave of government-sponsored stimulus packages have begun to address the health crisis and the economic crisis it generated, the private sector has a large role to play, too. With the right kinds of capital and transaction advisory assistance, small and medium-sized enterprises (SMEs) in frontier and emerging markets can pivot to serve the immediate needs of their communities.
 
 *VIDEO: INVEST's Strategic Investment Advisor Noemi Danao-Schroeder discusses how INVEST works and is helping USAID missions pivot their activities to address COVID-19:*
-<iframe src="https://player.vimeo.com/video/449685634" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/449685634"  frameborder="0" allow="autoplay; fullscreen" width="640" height="360" allowfullscreen></iframe>{:.video}
 
 ### COVID-19 Pivot
 
