@@ -1,7 +1,7 @@
 ---
 title: How High-impact Businesses in Emerging Markets Are Pivoting in the COVID-19
   Crisis
-date: 2020-08-19 15:34:00 -04:00
+date: 2020-08-26 07:34:00 -04:00
 tags:
 - covid-19
 - fragile-states
