@@ -11,6 +11,8 @@ tags:
 - finance
 author: "[Tom Lenaghan](https://www.dai.com/who-we-are/our-team/tom-lenaghan) and
   Alexandra Heffern "
+thumbnail-image: "/uploads/sm-68a08c.jpg"
+social-image: "/uploads/sm-68a08c.jpg"
 publication: Developments
 ---
 
