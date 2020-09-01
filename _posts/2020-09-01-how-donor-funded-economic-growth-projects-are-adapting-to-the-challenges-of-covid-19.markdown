@@ -35,7 +35,7 @@ To address these concerns, the [Afghanistan Value Chains-High Value Crops (AVC-H
 
 For small farmers, the [Mozambique Feed the Future Agricultural Innovations (FTF Inova)](https://www.dai.com/our-work/projects/mozambique-feed-the-future-agricultural-innovations-inova) project is encouraging output buyers who source from smallholder farms to promote household COVID-19 mitigation. Working with two buyers—Olam International and Miruku Agro-Indústria—FTF Inova has helped establish small farmer supplier clubs to offer premium prices, extension support, and prizes to suppliers that agree to enter long-term supply relationships and respect quality standards. 
 
-Another project, the [Zambia Scaling-Up Nutrition Technical Assistance (SUNTA)](https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta) project, is supporting COVID-19 messaging for rural health centers by publicizing social distancing and sanitary practices through television, social media, and pickup trucks fitted with loudspeakers; it is also equipping health workers with bicycles to increase their mobility and reach. 
+Another project, the [Zambia Scaling-Up Nutrition Technical Assistance (SUN TA)](https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta) project, is supporting COVID-19 messaging for rural health centers by publicizing social distancing and sanitary practices through television, social media, and pickup trucks fitted with loudspeakers; it is also equipping health workers with bicycles to increase their mobility and reach. 
 
 ### Challenge 2: Helping Firms Cope with Disrupted Supply Relationships 
 
