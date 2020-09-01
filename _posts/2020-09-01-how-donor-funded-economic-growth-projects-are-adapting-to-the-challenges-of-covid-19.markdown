@@ -2,6 +2,7 @@
 title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges of
   COVID-19
 date: 2020-09-01 08:50:00 -04:00
+published: false
 tags:
 - economic-growth
 - market-systems-development
@@ -30,6 +31,8 @@ As communities seek to protect themselves from contracting COVID-19, so too do a
 
 To address these concerns, the [Afghanistan Value Chains-High Value Crops (AVC-HVC)](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops), the [Afghanistan Value Chains-Livestock (AVC-Livestock)](https://www.dai.com/our-work/projects/afghanistan-value-chains-livestock), and the [Regional Agricultural Development Program-East (RADP-E)](https://www.dai.com/our-work/projects/regional-agricultural-development-program-radp-east) are implementing on-site COVID-19 training on best practice sanitary measures, complemented by the procurement of sanitary kits. RADP-E, for example, crowdsourced photos, interviews, and videos that show how international agroprocessing firms have adapted their line operations to reduce exposure among employees, raw product suppliers, and customers. 
 
+![1-67869f.jpg](/uploads/1-67869f.jpg)`RADP-East has been implementing on-site COVID-19 training on best practice sanitary measures.`
+
 For small farmers, the [Mozambique Feed the Future Agricultural Innovations (FTF Inova)](https://www.dai.com/our-work/projects/mozambique-feed-the-future-agricultural-innovations-inova) project is encouraging output buyers who source from smallholder farms to promote household COVID-19 mitigation. Working with two buyers—Olam International and Miruku Agro-Indústria—FTF Inova has helped establish small farmer supplier clubs to offer premium prices, extension support, and prizes to suppliers that agree to enter long-term supply relationships and respect quality standards. 
 
 Another project, the [Zambia Scaling-Up Nutrition Technical Assistance (SUNTA)](https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta) project, is supporting COVID-19 messaging for rural health centers by publicizing social distancing and sanitary practices through television, social media, and pickup trucks fitted with loudspeakers; it is also equipping health workers with bicycles to increase their mobility and reach. 
@@ -55,6 +58,8 @@ One effect of COVID-19 has been a slowdown in economic activity stemming from re
 To help key partners, DAI’s Afghanistan projects have provided support for firm-level upgrading through grants and other assistance vehicles, such as deal notes, to provide supplies and equipment that enable SMEs to implement COVID-19 mitigation practices and adapt to new market circumstances. Unlike governments in many developed countries, USAID/Afghanistan has not favored subsidizing operational costs or employee salaries. Instead, it is supporting efforts that help firms cover the immediate direct costs of introducing COVID-19 mitigation measures, such as investing in sanitary facilities, employee hygiene kits, and processing equipment and cold storage to handle the increased volumes of fresh produce expected as the pandemic limits access to export markets.
 
 The [USAID Southern Africa Trade and Investment Hub (USAID TradeHub)](https://www.dai.com/our-work/projects/southern-africa-trade-and-investment-hub) and FTF Inova have each made recent proposals to USAID to add grants facilities that will enable them to co-fund similar firm-level COVID-19 investments. In its concept note to USAID, the USAID TradeHub proposed a grant fund to help SMEs during initial disruptions created by the COVID-19 lockdown, followed by subsequent funding tranches to stabilize struggling firms, help them seize new market opportunities, and enhance their competitiveness in a post-COVID environment. 
+
+![2.jpg](/uploads/2.jpg)`The USAID TradeHub, in partnership with the Lesotho National Development Corporation and in close collaboration with the U.S. Embassy in Lesotho, is piloting a program to support textile and apparel companies in the country to produce personal protective equipment in response to the COVID-19 pandemic.`
 
 FTF Inova is also proposing to establish a grant fund of around $1 million for COVID-related SME investments covering short-term working capital grants, grants to help implement projects contributing to women’s empowerment, stabilization grants to help firms make COVID-19 adaptations, and recovery grants to support innovation and expansion. In addition to new funding efforts, the USAID TradeHub is also helping a group of southern African firms looking to export personal protective equipment to repurpose their manufacturing operations and gain U.S. market entry.
 
