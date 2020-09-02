@@ -1,7 +1,7 @@
 ---
 title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges of
   COVID-19
-date: 2020-09-01 08:50:00 -04:00
+date: 2020-09-02 08:50:00 -04:00
 tags:
 - economic-growth
 - market-systems-development
@@ -64,13 +64,16 @@ FTF Inova is also proposing to establish a grant fund of around $1 million for C
 
 The [Rwanda Nguriza Nshore](https://www.dai.com/our-work/projects/rwanda-nguriza-nshore) project is supporting COVID-19 adaptation through a national public sector concessional loan facility, working with the Rwanda Ministry of Finance and the Central Bank to structure a COVID-19 SME Economic Recovery Fund. Under the plan, the Government of Rwanda will contribute $100 million for the facility and the project will support the capital raise for an additional $100 million, most likely through development finance institutions. The facility will provide concessional loans through select commercial banks. DAI and its core partner, BiD Network, will work with SMEs receiving funds both during and after the loan term to restructure the companies. Support through the fund is expected to begin in the fourth quarter. As the pandemic began to reshape operating realities, Nguriza Nshore also helped essential businesses pursue new distribution channels and reorient toward online systems. 
 
-![HVC.jpg](/uploads/HVC.jpg)`AVC-HVC took over the disinfection operations for vehicles through Harakat, an Afghan nongovernmental organization, resulting in the re-opening of borders with Pakistan.` 
+![[1] Masaka Creamery (1).jpg](/uploads/%5B1%5D%20Masaka%20Creamery%20(1).jpg)`Nguriza Nshore has provided support to small firms like Masaka Creamery to reorient them toward online systems during COVID-19. The creamery is also likely to seek support under the Economic Recovery Fund.`
+
 
 ### Challenge 5: Overcoming Disruption in International Trade Relationships
 
 Concern about importing COVID-19 has led to stricter border crossing protocols in almost every country. Even where trade has not been entirely cut off, quarantine restrictions on truck drivers result in delays and higher costs—which can be prohibitive to trade in fresh agricultural products that must be done on narrow margins within restrictive timeframes.  
 
 These difficulties have been particularly severe, for example, in the Central Asia trade corridor between Pakistan, Afghanistan, and the Central Asian Republics, and the AVC-HVC project has responded through two interventions. In the first, the project is working to introduce on-the-ground improvements at the Torkham and Spin Boldak border crossing points between Afghanistan and Pakistan. At both border posts, AVC-HVC took over the disinfection operations for vehicles through Harakat, an Afghan nongovernmental organization, which enabled the Afghan government to meet the requirements established by the government of Pakistan and resulted in re-opening the borders to trade after a three-month closure. The project’s second intervention is establishing a temporary trans-shipment facility at the Torkham border post to expedite transfer of containers from Pakistani to Afghan trucks. The project has also begun supporting export firms through a 30 percent shipment subsidy to cover transport costs for agricultural exporters that are using new trade routes. This initiative is designed to encourage exports through nontraditional trade routes, helping exporters to diversify their client base and reduce dependence on single border crossings. An $80,000 investment in this subsidy has resulted in exports worth $3.7 million. 
+
+![HVC.jpg](/uploads/HVC.jpg)`AVC-HVC took over the disinfection operations for vehicles through Harakat, an Afghan nongovernmental organization, resulting in the re-opening of borders with Pakistan.` 
 
 Meanwhile, the [Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ)](https://www.dai.com/our-work/projects/central-asia-competitiveness-trade-and-jobs-activity-ctj) is facilitating cross-border trade through a virtual matchmaking service. This activity—between 35 Central Asian growers and potential buyers representing retailers, importers, and distributors from across Europe, the Middle East, Southeast Asia, and the Commonwealth of Independent States (CIS)—was developed by the project in response to the cancelation of inward buyer missions because of COVID-19 travel restrictions. The virtual matchmaking is facilitated by Kazakh and U.S. export promoters, relying on these promoters to work with producers and buyers to vet suppliers in Central Asia and identify international buyers along their quality and quantity parameters. CTJ works with the export promoters to conduct webinars and individual calls, communicating buyer requirements on standards, packaging, and terms. The export promoters then share information with potential buyers on specific exporters that are selected for their ability to meet the buyers’ terms. 
 
