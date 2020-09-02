@@ -22,7 +22,7 @@ Around the world, the advent of COVID-19 has been transformational for market sy
 
 
 
-To better understand how market systems projects funded by the U.S. Agency for International Development (USAID) are addressing these issues, DAI has reviewed 15 economic growth projects. While the projects differ in mandate, funding, and interventions dependent on their contracts, they employ similar approaches to confront the following five challenges. 
+To better understand how market systems projects funded by the U.S. Agency for International Development (USAID) are addressing these issues, DAI has reviewed 15 economic growth projects that we are implementing. While the projects differ in mandate, funding, and interventions dependent on their contracts, they employ similar approaches to confront the following five challenges. 
 
 ### Challenge 1: Assisting Farmers and Agroprocessing Firms to Mitigate the Risk of COVID-19 Transmission
 
