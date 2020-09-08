@@ -17,7 +17,7 @@ The [Financial Sector Transformation (FST) Activity](https://www.dai.com/our-wor
 
 
 
-For example, President Zelensky recently signed the Regulated Markets and Derivatives Law, which distinguishes and modernizes the equity, bond, derivative, money, and commodity markets. It puts in place the organization, oversight, information, and legal conditions needed for buyers and sellers of financial assets and commodities to trade and settle transactions transparently and efficiently. 
+For example, President Zelensky [recently signed](https://en.interfax.com.ua/news/economic/680789.html) the Regulated Markets and Derivatives Law, which distinguishes and modernizes the equity, bond, derivative, money, and commodity markets. It puts in place the organization, oversight, information, and legal conditions needed for buyers and sellers of financial assets and commodities to trade and settle transactions transparently and efficiently. 
 
 This law—which USAID began supporting and developing in 2011—paves the way for derivatives, green bonds, credit-linked notes, and other structured finance products needed to spur the growth of local and international finance. 
 
