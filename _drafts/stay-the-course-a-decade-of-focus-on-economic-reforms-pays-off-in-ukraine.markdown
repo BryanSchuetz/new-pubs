@@ -1,6 +1,11 @@
 ---
 title: 'Stay the Course: A Decade of Focus on Economic Reforms Pays off in Ukraine'
 date: 2020-09-08 16:01:00 -04:00
+tags:
+- governance
+- finance
+- resilience
+- economic-growth
 author: "[Till Bruett](https://www.dai.com/who-we-are/our-team/till-bruett) and [Elizabeth
   Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
 publication: Developments
@@ -43,9 +48,9 @@ Based on the findings, FST drafted a legal brief for the National Bank of Ukrain
 
 ## Stemming the Outward Flow of Funds 
 
-In Ukraine, offshore schemes to evade taxes have resulted in significant losses of state revenues, [estimated](http://iset-ua.org/ua/novini/podatki/item/156-doslidzhennia-naibilshi-shemi) at 6.7 to 8.4 percent of the state budget of Ukraine in 2017. In 2017, Ukraine set about stemming these losses by going after base erosion and profit shifting (BEPS), launching an OECD-compliant action plan to reduce tax avoidance. The action plan targets companies taking advantage of internal transfer pricing to shift profits to affiliated companies in tax havens outside Ukraine. DAI worked closely with its subcontractor Ernst & Young to participate in drafting a comprehensive law to implement the action plan. To win support, FST facilitated public-private discussions on the law; partnered with the NBU, Ministry of Finance, World Bank, IMF, and OECD to hold a public Forum on International Tax Cooperation (#BEPSinUA); and engaged members of Parliament as a technical resource on the contents of the law. 
+In Ukraine, offshore schemes to evade taxes have resulted in significant losses of state revenues, [estimated](http://iset-ua.org/ua/novini/podatki/item/156-doslidzhennia-naibilshi-shemi) at 6.7 to 8.4 percent of the state budget of Ukraine in 2017. In 2017, Ukraine set about stemming these losses by going after [base erosion and profit shifting (BEPS)](https://www.oecd.org/tax/beps/), launching an OECD-compliant action plan to reduce tax avoidance. The action plan targets companies taking advantage of internal transfer pricing to shift profits to affiliated companies in tax havens outside Ukraine. DAI worked closely with its subcontractor Ernst & Young to participate in drafting a comprehensive law to implement the action plan. To win support, FST facilitated public-private discussions on the law; partnered with the NBU, Ministry of Finance, World Bank, IMF, and OECD to hold a public Forum on International Tax Cooperation (#BEPSinUA); and engaged members of Parliament as a technical resource on the contents of the law. 
 
-BEPS bill No. 1210 was introduced in Parliament in 2019 and became law in May 2020. The law amended the tax code to stop the inappropriate use of double tax treaties and introduced more transparent transfer pricing rules between affiliated companies. Among the likely results of its reforms: 
+[BEPS bill No. 1210](http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=66520) was introduced in Parliament in 2019 and [became law](https://zakon.rada.gov.ua/laws/show/466-IX#Text) in May 2020. The law amended the tax code to stop the inappropriate use of double tax treaties and introduced more transparent transfer pricing rules between affiliated companies. Among the likely results of its reforms: 
 
 * Capital outflows from Ukraine to countries with zero or low-income tax rates will be reduced; 
 * Ukraine’s state budget tax revenues will increase;
