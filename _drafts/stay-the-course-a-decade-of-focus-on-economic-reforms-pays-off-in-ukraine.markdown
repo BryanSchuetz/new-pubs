@@ -23,7 +23,7 @@ This law—which USAID began supporting and developing in 2011—paves the way f
 
 Of particular importance is the framework for commodities futures, such as grains and metals—Ukrainian exports—and energy. The new law will help create a more transparent and efficient financial infrastructure that allows producers and buyers to lock in prices and execute exchanges through a clearinghouse that tracks and nets the value of agreements to minimize risk. 
 
-“Our ultimate goal is to see Ukraine become a hub for energy trading and agriculture,” said Robert Bond, FST’s Chief of Party. “The derivatives law sets that up. In addition to financial futures, we estimate the market for agricultural futures at $8 billion, and energy futures at more than $9 billion. This will really change things.” 
+“Our ultimate goal is to see Ukraine become a hub for energy trading and agriculture,” said [Robert Bond](https://www.dai.com/who-we-are/our-team/robert-bond), FST’s Chief of Party. “The derivatives law sets that up. In addition to financial futures, we estimate the market for agricultural futures at $8 billion, and energy futures at more than $9 billion. This will really change things.” 
 
 Timur Khromaev, chairman of the National Securities and Stock Market Commission, Ukraine’s financial regulator, was quoted as saying, “Ukraine is poised to adopt one of its most radical financial bills in a decade, paving the way for a liquid energy market and the necessary instruments to minimize risk. This law will bring the biggest changes in Ukraine’s capital markets in the last 10 years. In the past we had introduced laws related to banks, but nothing of this magnitude. Everyone who has worked on this law has made sure that it would not be just a formality.”
 
