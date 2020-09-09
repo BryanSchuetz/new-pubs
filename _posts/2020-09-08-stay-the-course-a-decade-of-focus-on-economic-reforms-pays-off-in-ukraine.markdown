@@ -1,6 +1,7 @@
 ---
 title: 'Stay the Course: A Decade of Focus on Economic Reforms Pays off in Ukraine'
 date: 2020-09-08 16:01:00 -04:00
+published: false
 tags:
 - governance
 - finance
@@ -8,6 +9,8 @@ tags:
 - economic-growth
 author: "[Till Bruett](https://www.dai.com/who-we-are/our-team/till-bruett) and [Elizabeth
   Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
+thumbnail-image: "/uploads/sm%20vru_1sept2020_1.jpg"
+social-image: "/uploads/sm%20vru_1sept2020_1.jpg"
 publication: Developments
 ---
 
@@ -35,6 +38,8 @@ Timur Khromaev, chairman of the National Securities and Stock Market Commission,
 FST raised pubic and institutional awareness about the law so that people could understand its importance and content, bringing in the largest commodity exchange in the world—the Chicago Mercantile Exchange—and a commissioner from the U.S. Commodities and Future Exchange Commission, who spoke directly with parliamentarians. FST worked with other international financial institutions and the International Monetary Fund (IMF) to consolidate support for the law, which is aligned with EU Directives as laid out by the EU-Ukraine Association Agreement. 
 
 Passage of the Regulated Markets and Derivatives Law comes on the heels of four other laws that DAI and USAID helped craft and pass, including legislation to protect consumers of financial services, reform the tax system, stop money laundering, and regulate nonbank financial institutions. Following is a summary of this legislation and the lessons we learned in helping push these important economic reforms over the line. 
+
+![vru_1sept2020_1.jpg](/uploads/vru_1sept2020_1.jpg)`Ukraine’s parliament, the Verkhovna Rada, in 2020.`
 
 ## Making Consumer Protection Effective
 
