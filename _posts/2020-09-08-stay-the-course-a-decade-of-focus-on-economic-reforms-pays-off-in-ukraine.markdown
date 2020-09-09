@@ -39,7 +39,7 @@ FST raised pubic and institutional awareness about the law so that people could 
 
 Passage of the Regulated Markets and Derivatives Law comes on the heels of four other laws that DAI and USAID helped craft and pass, including legislation to protect consumers of financial services, reform the tax system, stop money laundering, and regulate nonbank financial institutions. Following is a summary of this legislation and the lessons we learned in helping push these important economic reforms over the line. 
 
-![vru_1sept2020_1-f16a38.jpg](/uploads/vru_1sept2020_1-f16a38.jpg)`Ukraine’s parliament, the Verkhovna Rada, in 2020 Photo by Andriy Nesterenko.`
+![vru_1sept2020_1-f16a38.jpg](/uploads/vru_1sept2020_1-f16a38.jpg)`Ukraine’s parliament, the Verkhovna Rada, in 2020. Photo by Andriy Nesterenko.`
 
 ## Making Consumer Protection Effective
 
