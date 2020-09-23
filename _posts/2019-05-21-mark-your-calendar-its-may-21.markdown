@@ -22,7 +22,7 @@ But this year, at a time when demagogues the world over have found renewed licen
 
 What do we mean by global citizenship? Here’s the full text from our values statement:
 
-> We are a global company with a global outlook. We depend on our diversity, respect the cultures in which we work, and treat everyone, everywhere with professionalism and dignity. We thrive on collaboration with our partners around the world, and share with them the hope that our work will leave the world a better place.
+> We are a global company with a global outlook. We depend on our diversity and inclusiveness, respect the cultures in which we work, and treat everyone, everywhere with professionalism and dignity. We thrive on collaboration with our partners around the world, and share with them the hope that our work will leave the world a better place.
 
 Part of me would like to leave it there. But let me flesh out just a little why we include these beliefs in our charter.
 
