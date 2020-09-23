@@ -4,6 +4,9 @@ date: 2017-05-08 20:00:00 -04:00
 tags:
 - economic-growth
 - land
+author: Richard Baldwin
+thumbnail-image: "/uploads/making-land-rights-real.png"
+social-image: "/uploads/making-land-rights-real.png"
 publication: Developing Alternatives
 issue: Land Rights
 author-bio: Over the past 20 years, [Richard Baldwin](https://www.dai.com/who-we-are/our-team/richard-baldwin)
@@ -13,16 +16,13 @@ author-bio: Over the past 20 years, [Richard Baldwin](https://www.dai.com/who-we
   systems, land policy, and land markets. Over the past 10 years, Richard has been
   more involved in Africa and is currently the Global Practice Lead for Land Tenure
   and Property Rights at DAI.
-author: Richard Baldwin
 featured?: 'yes'
 assets:
 - path: "/uploads/Richard-Baldwin-DA.jpg"
   author?: 'yes'
-thumbnail-image: "/uploads/making-land-rights-real.png"
-social-image: "/uploads/making-land-rights-real.png"
 ---
 
-Land rights are largely taken for granted in the developed world. Yet for many people in developing nations, land rights have no reality. In the developed world, land rights are almost always recorded in secure registers, but this is not the case elsewhere. It is estimated that as many as 90 percent of the world’s poorest people enjoy neither security of tenure nor secure access to land. In Africa, this means that more than 500 million and perhaps as many as 750 million people are living without any legal security or proof of claim to the land they are occupying. 
+Land rights are largely taken for granted in the developed world. Yet for many people in developing nations, land rights have no reality. In the developed world, land rights are almost always recorded in secure registers, but this is not the case elsewhere. The World Bank [estimates](http://documents1.worldbank.org/curated/en/732661468191967924/pdf/Securing-Africas-land-for-shared-prosperity-a-program-to-scale-up-reforms-and-investments.pdf) that only about 10 percent of rural land in Sub-Saharan Africa is formally registered, with the remainder undocumented and informally administered.
 
 
 
