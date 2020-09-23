@@ -35,6 +35,11 @@ PDF II’s efforts [resulted](https://www.pdfnigeria.org/rc/wp-content/uploads/2
 * **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
 * **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
 * **616 million naira** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
+=======
+PDF II’s efforts [resulted](https://www.pdfnigeria.org/rc/wp-content/uploads/2020/03/P3387_PDFII_results_reducing_poverty_WEB.pdf) in: 
+* **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
+* **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
+* **616 million naira** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
 * More than **N25 billion** raised by the government in Sovereign Green Bonds.
 
 UKaid’s investment made a difference. For every pound the British government spent on technical assistance, Nigeria was able to save £3,953 in excess expenditure, and an additional £89 to support budgetary expenditure.
