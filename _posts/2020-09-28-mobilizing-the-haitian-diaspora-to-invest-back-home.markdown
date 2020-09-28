@@ -3,6 +3,8 @@ title: Mobilizing the Haitian Diaspora to Invest “Back Home”
 date: 2020-09-28 11:37:00 -04:00
 published: false
 author: Emily Langhorne
+thumbnail-image: "/uploads/170709_Cap%20Street_11r-425d62.jpg"
+social-image: "/uploads/170709_Cap%20Street_11r-425d62.jpg"
 publication: Developments
 ---
 
@@ -15,6 +17,7 @@ In Haiti, more than 60 percent of the population lives on less than $2 a day; in
 
 
 
+![170709_Cap Street_11r.jpg](/uploads/170709_Cap%20Street_11r.jpg)`Street scene in Cap-Haïtien, a port city on the north coast of Haiti.`
 
 ## Locked Out
 
