@@ -10,9 +10,9 @@ social-image: "/uploads/170709_Cap%20Street_11r-425d62.jpg"
 publication: Developments
 ---
 
-In Haiti, more than 60 percent of the population lives on less than $2 a day; in 2019, approximately 14 percent of Haitians were unemployed. Small and medium-sized enterprises (SMEs) struggle to access the capital they need to grow, create jobs, and offer valuable products and services. 
+In Haiti, [more than 60 percent](https://www.worldbank.org/en/country/haiti/overview) of the population lives on less than $2 a day; in 2019, [approximately 14 percent](https://www.macrotrends.net/countries/HTI/haiti/unemployment-rate#:~:text=Unemployment%20refers%20to%20the%20share,a%200.14%25%20decline%20from%202017.) of Haitians were unemployed. Small and medium-sized enterprises (SMEs) struggle to access the capital they need to grow, create jobs, and offer valuable products and services. 
 
-“If you go to Haiti, you realize that one of the country’s fundamental problems is the lack of employment. People want to work, but there exist few opportunities for them to do so,” said finance expert Jean-Marc Cuvilly, who lived in Haiti until he moved to the United States for college. Cuvilly serves as the Platform Lead for Haiti INVEST, part of the U.S. Agency for International Development (USAID) INVEST project that assists Haiti’s SMEs in accessing financing.
+“If you go to Haiti, you realize that one of the country’s fundamental problems is the lack of employment. People want to work, but there exist few opportunities for them to do so,” said finance expert Jean-Marc Cuvilly, who lived in Haiti until he moved to the United States for college. Cuvilly serves as the Platform Lead for Haiti INVEST, part of the U.S. Agency for International Development (USAID) [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) project that assists Haiti’s SMEs in accessing financing.
 
 “To combat the lack of unemployment, you have to find a way to support small and medium businesses because they are the backbone of employment,” said Cuvilly. “Unfortunately, it’s an uphill battle to mobilize investment into any place that’s facing instability.”
 
@@ -27,7 +27,7 @@ SMEs in Haiti face many challenges accessing capital. The scarcity of local priv
 
 “When we launched Haiti INVEST and thought about encouraging investment into SMEs, we immediately concluded that we couldn’t rely solely on in-country capital since it is so difficult to access, and that investment must also come from overseas,” said Cuvilly. “One overseas group that we thought might be well-positioned to invest but was not yet engaged was the Haitian diaspora.”
 
-Some 2 million Haitians—a sixth of the country’s population—live outside Haiti. Over the past decade, remittances from the diaspora have exceeded both foreign aid and international investment flows into the country. In 2019, remittances made up 38.5 percent of Haiti’s GDP.
+Some 2 million Haitians—a sixth of the country’s population—live outside Haiti. Over the past decade, remittances from the diaspora [have exceeded](https://www.odi.org/publications/300-remittances-crises-haiti-case-study) both foreign aid and international investment flows into the country. In 2019, remittances made up [38.5 percent](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=HT) of Haiti’s GDP.
 
 “This is a group that is highly motivated, well-educated, and successful,” said Cuvilly. “So far, it has mostly engaged with Haiti’s economy by sending remittances, but if only a small percentage of that money was used for investment rather than consumption of goods, it could make a real difference for the country’s economic development.”
 
