@@ -2,6 +2,8 @@
 title: Mobilizing the Haitian Diaspora to Invest “Back Home”
 date: 2020-09-28 11:37:00 -04:00
 published: false
+tags:
+- finance
 author: Emily Langhorne
 thumbnail-image: "/uploads/170709_Cap%20Street_11r-425d62.jpg"
 social-image: "/uploads/170709_Cap%20Street_11r-425d62.jpg"
@@ -79,4 +81,4 @@ By working with Delphin Investments, USAID has been able to tap into the investm
 
 “To have USAID as a partner who supports our vision has been tremendous,” says Delphin. “When most private sector companies think of clients, they probably tend to stay away from government organizations because of the stigma about the bureaucratic nature and government compliance. There is a lot of documentation and paperwork, but our experience has been great.”
 
-*Emily Langhorne is a Communications Specialist for INVEST.*
+*[Emily Langhorne](https://www.linkedin.com/in/emily-langhorne-6307b956/) is a Communications Specialist for INVEST.*
