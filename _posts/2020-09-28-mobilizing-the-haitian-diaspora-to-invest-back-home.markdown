@@ -29,7 +29,7 @@ SMEs in Haiti face many challenges accessing capital. The scarcity of local priv
 
 Some 2 million Haitians—a sixth of the country’s population—live outside Haiti. Over the past decade, remittances from the diaspora [have exceeded](https://www.odi.org/publications/300-remittances-crises-haiti-case-study) both foreign aid and international investment flows into the country. In 2019, remittances made up [38.5 percent](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=HT) of Haiti’s GDP.
 
-“This is a group that is highly motivated, well-educated, and successful,” said Cuvilly. “So far, it has mostly engaged with Haiti’s economy by sending remittances, but if only a small percentage of that money was used for investment rather than consumption of goods, it could make a real difference for the country’s economic development.”
+“This is a group that is [highly motivated, well-educated](https://www.migrationpolicy.org/article/haitian-immigrants-united-states-2015), and successful,” said Cuvilly. “So far, it has mostly engaged with Haiti’s economy by sending remittances, but if only a small percentage of that money was used for investment rather than consumption of goods, it could make a real difference for the country’s economic development.”
 
 ## Engaging the Diaspora 
 
@@ -37,7 +37,7 @@ To tap the diaspora, Haiti INVEST hosted roadshows showcasing investment opportu
 
 ![haiti Picture1.png](/uploads/haiti%20Picture1.png)`Guy-Max Delphin, CEO and Chief Investment Officer of Delphin Investments. Photo courtesy Delphin Investments.`
 
-When Guy-Max Delphin, CEO of Delphin Investments, heard about the RFP, he knew his firm might be a perfect partner.
+When Guy-Max Delphin, CEO of [Delphin Investments](http://www.delphininvest.com/), heard about the RFP, he knew his firm might be a perfect partner.
 
 Born in Haiti, Delphin moved to the United States to study medicine but eventually turned to economics and landed a job on Wall Street. In the wake of the financial crisis, he launched Delphin Investments, based on the philosophy of protecting on the downside so that investors experience less volatility and receive better risk-adjusted returns over the long-term.
 
@@ -75,10 +75,10 @@ USAID is supporting the creation of this vehicle by funding the cost of setting 
 
 SMEs play an integral role in the development of a country. “Having a middle class elevates the standard of living of an entire country,” said Delphin. “Any country that really wants to increase the standard of living for its population should work to grow SMEs. For me, that’s why investing in SMEs is critical to helping Haiti and Haitians.”
 
-COVID-19 has made supporting SMEs even more crucial. “SMEs can get hit hard with external events such as the COVID-19 pandemic, relative to larger organizations. To survive these difficult times, they may need assistance, especially with additional financing,” said Cuvilly. “However, being locally based in harder-to-reach communities, they are often also well-positioned to provide services during such times.”
+COVID-19 has made supporting SMEs [even more crucial](https://dai-global-developments.com/articles/usaid-projects-assisting-small-firms-affected-by-covid-19?utm_source=daidotcom). “SMEs can get hit hard with external events such as the COVID-19 pandemic, relative to larger organizations. To survive these difficult times, they may need assistance, especially with additional financing,” said Cuvilly. “However, being locally based in harder-to-reach communities, they are often also well-positioned to provide services during such times.”
 
 By working with Delphin Investments, USAID has been able to tap into the investment expertise required for mobilizing private capital into Caribbean economies. At the same time, Delphin Investments has benefited from the resources and support of USAID.
 
 “To have USAID as a partner who supports our vision has been tremendous,” says Delphin. “When most private sector companies think of clients, they probably tend to stay away from government organizations because of the stigma about the bureaucratic nature and government compliance. There is a lot of documentation and paperwork, but our experience has been great.”
 
-*[Emily Langhorne](https://www.linkedin.com/in/emily-langhorne-6307b956/) is a Communications Specialist for INVEST.*
+*[Emily Langhorne](https://www.linkedin.com/in/emily-langhorne-6307b956/) is a Communications Specialist for [INVEST](https://www.usaid.gov/INVEST).*
