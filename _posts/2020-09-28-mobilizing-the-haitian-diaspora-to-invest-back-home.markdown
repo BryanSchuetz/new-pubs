@@ -1,7 +1,6 @@
 ---
 title: Mobilizing the Haitian Diaspora to Invest “Back Home”
 date: 2020-09-28 11:37:00 -04:00
-published: false
 tags:
 - finance
 author: Emily Langhorne
