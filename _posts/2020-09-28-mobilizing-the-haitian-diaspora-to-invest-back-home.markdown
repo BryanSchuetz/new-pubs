@@ -13,7 +13,7 @@ In Haiti, [more than 60 percent](https://www.worldbank.org/en/country/haiti/over
 
 “If you go to Haiti, you realize that one of the country’s fundamental problems is the lack of employment. People want to work, but there exist few opportunities for them to do so,” said finance expert Jean-Marc Cuvilly, who lived in Haiti until he moved to the United States for college. Cuvilly serves as the Platform Lead for Haiti INVEST, part of the U.S. Agency for International Development (USAID) [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) project that assists Haiti’s SMEs in accessing financing.
 
-“To combat the lack of unemployment, you have to find a way to support small and medium businesses because they are the backbone of employment,” said Cuvilly. “Unfortunately, it’s an uphill battle to mobilize investment into any place that’s facing instability.”
+“To combat the lack of employment, you have to find a way to support small and medium businesses because they are the backbone of employment,” said Cuvilly. “Unfortunately, it’s an uphill battle to mobilize investment into any place that’s facing instability.”
 
 
 
