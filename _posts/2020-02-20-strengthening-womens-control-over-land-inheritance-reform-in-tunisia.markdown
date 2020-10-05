@@ -60,8 +60,6 @@ Inequity in inheritance is in general more egregious when it comes to land, beca
 
 Many men who are otherwise progressive in their views of women revert to more conservative and sometimes even abusive behavior when it comes to land and their womenfolk. In rural areas, land is everything.
 
-![The_perseverance_of_tunisian_women_-_مثابرة_المرأة_التونسية_-_la_persévérance_des_femmes_tunisiennes_01.jpg](/uploads/The_perseverance_of_tunisian_women_-_%D9%85%D8%AB%D8%A7%D8%A8%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%94%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9_-_la_perse%CC%81ve%CC%81rance_des_femmes_tunisiennes_01.jpg)`The perseverance of Tunisian women. Photo courtesy Ali bannour, 2018.`
-
 ### The Debate Over Parity in Inheritance 
 
 So what is to be done? There is tremendous debate in the country as to whether pushing for equality in inheritance is the best way to further the rights of rural women. Some progressives claim that inequality in inheritance is a fundamental and symbolic injustice. Their view is that addressing this injustice requires that Tunisian law enshrine male-female equality in inheritance, superseding *Shari’a* law—just as Bourguiba’s interdiction of polygamy did over six decades ago. “To not move forward is to move backwards,” said a well-known woman social entrepreneur in a recent conversation.
