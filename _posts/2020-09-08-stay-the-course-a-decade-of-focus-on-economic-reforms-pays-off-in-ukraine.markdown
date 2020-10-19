@@ -15,6 +15,8 @@ publication: Developments
 
 Few countries have experienced as much change in the past 30 years as Ukraine: independence, a switch to a market-based economy, the Euromaidan Revolution, foreign occupation of its territory, and a heavy currency devaluation, to name just a few of the events that have characterized this unsettling era.
 
+
+
 For Ukrainians, dealing with constant change, unresolved issues, and the economic impact associated with them gives rise to pessimism and mistrust of institutions, public and private. Restoring that trust and building a more functional and inclusive economy are central to the prospects of a better life for Ukrainians, and a more self-reliant Ukraine.
 
 The [Financial Sector Transformation (FST) Activity](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst), implemented by DAI since 2016, is a U.S. Agency for International Development (USAID) project that continues the agency’s decades-long commitment to restore public confidence in the Ukrainian financial system. In the past year, FST has played a crucial role in passing and implementing five laws critical to a more modern, competitive, and transparent financial sector. These laws will allow for new financial market actors, instruments, products, and services while facilitating local and foreign direct investment. Collectively, they will lead to more competition and consumer protection—and less tax evasion and financial crime.
