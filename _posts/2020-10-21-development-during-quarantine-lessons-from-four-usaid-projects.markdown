@@ -53,7 +53,7 @@ To start, LEGIT identified which of its tools and resources could best support c
 
 This work took place in remote counties of Liberia where internet access is undependable at best, electricity is sporadic, and many of the roads are inaccessible during the rainy season. Since most of LEGIT’s partners had mobile phones, or access to one, phone conversations replaced in-person visits as the project’s main form of engagement with partners. While unreliable phone service and connectivity expenses still makes communication difficult, the LEGIT team has found ways to stay in regular contact with partners. 
 
-![REACT-Liberia.jpg](/uploads/REACT-Liberia.jpg)`LEGIT grantee Rural Engagement for Active Citizenship & Transparency (REACT-Liberia) distributes of COVID-19 prevention materials in Konobo District, Grand Gedeh County.`
+![REACT-Liberia.jpg](/uploads/REACT-Liberia.jpg)`LEGIT grantee Rural Engagement for Active Citizenship & Transparency (REACT-Liberia) distributes COVID-19 prevention materials in Konobo District, Grand Gedeh County.`
 
 To generate solutions, LEGIT turned to its local staff. The project launched a “Work from Home Innovation Award” to recognize staff who found creative solutions to continue to support grantees, especially as they pivoted to assist in government COVID-19 awareness efforts. 
 
