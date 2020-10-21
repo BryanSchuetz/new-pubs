@@ -61,5 +61,14 @@ Stryker realized that important information about containing the spread of the p
 
 ![legit.png](/uploads/legit.png)`Left: South Eastern Women Development Association (SEWODA), a LEGIT grantee, trained local coalitions to raise awareness on COVID-19 prevention. Right: LEGIT Participatory Engagement Coordinator Henry Stryker won an award for coordinating COVID-19 response from home, often working in from the kitchen.`
 
+### Ensuring Resilience in South Sudan
+
+COVID-19 arrived in South Sudan just as the young East African nation was working to rebuild amidst political uncertainty and pockets of civil unrest. The country’s momentum was disrupted as the government instituted travel restrictions and curfews to control the spread of the disease. On top of this, the pandemic exposed infrastructural failures, brought on by decades of conflict and natural disasters, creating huge challenges for humanitarian and development efforts, not the least of which was communicating remotely. 
+
+The [Policy LINK](https://www.dai.com/our-work/projects/worldwide-policy-link) project—designed to support leadership and collaboration from agricultural systems and policy processes worldwide—had recently started work in South Sudan. Rather than developing policies outright, Policy LINK strengthens the capacity of local actors and institutions to lead the processes in their own countries and regions. The project provides backbone support to the Partnership for Recovery and Resilience (PfRR)—a multidonor initiative led by USAID—to reinforce existing community structures in South Sudan as they became more self-sufficient.
+
+To continue this work amidst the infrastructure and coordination challenges brought on by COVID-19, Policy LINK partnered with another USAID project, SUCCESS. SUCCESS establishes community-based civic engagement centers (CECs) that provide internet, meeting space, training rooms, and computer access to remote corners of South Sudan. Run by local user committees, CECs proved an opportune resource for supporting connectivity and access to the international community.  
+
+Policy LINK is re-situating CECs as part of the project’s PfRR coordination. Through the centers and their User Committees, Policy LINK is supporting a series of dialogues, trainings, pause-and-reflect sessions, and other community engagement. 
 
 
