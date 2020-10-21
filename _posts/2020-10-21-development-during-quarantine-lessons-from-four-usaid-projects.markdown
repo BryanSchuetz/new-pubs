@@ -4,8 +4,8 @@ date: 2020-10-21 10:33:00 -04:00
 tags:
 - covid-19
 author: "[Claire Miller](https://www.linkedin.com/in/claireelsemiller/)"
-thumbnail-image: "/uploads/South%20Sudan.jpg"
-social-image: "/uploads/South%20Sudan.jpg"
+thumbnail-image: "/uploads/REACT-Liberia.jpg"
+social-image: "/uploads/REACT-Liberia.jpg"
 publication: Developments
 ---
 
