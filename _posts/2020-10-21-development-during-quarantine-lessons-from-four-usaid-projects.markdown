@@ -23,7 +23,7 @@ DAI’s projects around the world have spent recent months adapting to this new 
 
 Staff from four projects funded by the U.S. Agency for International Development (USAID)—in the Philippines, Liberia, South Sudan, and Honduras—shared strategies for making a difference across physical distance. 
 
-### Taking Environmental Enforcement Digital in the Philippines
+## Taking Environmental Enforcement Digital in the Philippines
 
 The [USAID Philippines Protect Wildlife Project](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect) works to conserve biodiversity while supporting sustainable livelihoods for local populations, particularly in Palawan, a biodiversity hotspot dubbed the “last ecological frontier” of the Philippines. In partnership with Palawan Council for Sustainable Development (PCSD), Protect Wildlife helps combat illegal wildlife trafficking and habitat destruction in the province. These are the kind of activities that, by definition, often require travel and must take place in-person—from venturing into protected areas for environmental crime enforcement training, to reaching remote communities, to conducting biodiversity research in the field. 
 
@@ -43,7 +43,7 @@ Protect Wildlife quickly reached out to partners—ranging from national parks t
 
 ![wildalive-ade072.png](/uploads/wildalive-ade072.png)`When the Wild and Alive campaign could no longer target tourism hotspots, Protect Wildlife transitioned it online.`
 
-### Recognizing Creative Solutions in Liberia
+## Recognizing Creative Solutions in Liberia
 
 [USAID Local Empowerment for Government Inclusion and Transparency (LEGIT)](https://www.dai.com/our-work/projects/liberia-local-empowerment-government-inclusion-and-transparency-legit) is in its fifth and final year supporting Liberia’s efforts to decentralize its political institutions and improve service delivery. Over four years, LEGIT has developed a range of governance tools and resources for county administrations and city corporation partners—and was planning to spend its final near focusing on sustaining impact after the close of the project. 
 
@@ -65,7 +65,7 @@ Stryker realized that important information about containing the spread of the p
 
 ![legit.png](/uploads/legit.png)`Left: South Eastern Women Development Association (SEWODA), a LEGIT grantee, trained local coalitions to raise awareness on COVID-19 prevention. Right: LEGIT Participatory Engagement Coordinator Henry Stryker won an award for coordinating COVID-19 response from home, often working in from the kitchen.`
 
-### Ensuring Resilience in South Sudan
+## Ensuring Resilience in South Sudan
 
 COVID-19 arrived in South Sudan just as the young East African nation was working to rebuild amidst political uncertainty and pockets of civil unrest. The country’s momentum was disrupted as the government instituted travel restrictions and curfews to control the spread of the disease. On top of this, the pandemic exposed infrastructural failures, brought on by decades of conflict and natural disasters, creating huge challenges for humanitarian and development efforts, not the least of which was communicating remotely. 
 
@@ -77,7 +77,7 @@ Policy LINK is re-situating CECs as part of the project’s PfRR coordination. T
 
 ![South Sudan.jpg](/uploads/South%20Sudan.jpg)`Photo: USAID/South Sudan.`
 
-### Supporting Educators and Students in Honduras
+## Supporting Educators and Students in Honduras
 
 Since 2017, the [USAID Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education) (Securing Education) project has worked to reduce violence in schools, helping at-risk young people complete their educations and school leaders to build safer communities. Like education systems around the world, Honduras’s schools cancelled in-person instruction in early 2020 to control the spread of COVID-19. Already vulnerable students, without access to technology and basic necessities, became even more likely to drop out—and educators faced discouragement and mental health challenges as they struggled to help. 
 
@@ -91,7 +91,7 @@ After training from PELE, Principal Padilla met with her school’s teachers to 
 
 Padilla’s teaching staff remain committed to identifying measures to keep young people studying and helping them complete the school year. She said, “These processes of training help us to have a better understanding [of the obstacles] and to share [solutions] with parents to help reduce” migration.
 
-### Implementation in Uncertain Times
+## Implementation in Uncertain Times
 
 The COVID-19 pandemic forced the development community to quickly adapt to continue essential work around the world. As the crisis unfolded, DAI project teams and their USAID counterparts found creative strategies to keep activities going while ensuring staff safety. 
 
