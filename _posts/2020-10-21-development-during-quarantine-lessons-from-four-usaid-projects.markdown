@@ -1,16 +1,15 @@
 ---
 title: 'Development During Quarantine: Lessons from Four USAID Projects'
 date: 2020-10-21 10:33:00 -04:00
-published: false
 tags:
 - covid-19
 author: "[Claire Miller](https://www.linkedin.com/in/claireelsemiller/)"
-thumbnail-image: "/uploads/South%20Sudan.jpg"
-social-image: "/uploads/South%20Sudan.jpg"
+thumbnail-image: "/uploads/REACT-Liberia.jpg"
+social-image: "/uploads/REACT-Liberia.jpg"
 publication: Developments
 ---
 
-Mobility is fundamental to global development work. People, materials, and information must reach areas that can be geographically remote or underserved by communication infrastructures. The COVID-19 pandemic has changed—perhaps permanently—an industry that can no longer rely on access to travel and face-to-face engagement. With COVID-19 a global reality for the foreseeable future, how can development projects continue to have strong impact when travel restrictions, social distancing, and remote work requirements are the new normal?
+Mobility is fundamental to global development work. People, materials, and information must reach areas that can be geographically remote or underserved by communication infrastructures. The COVID-19 pandemic has changed an industry that can no longer rely on access to travel and face-to-face engagement. With COVID-19 a global reality for the foreseeable future, how can development projects continue to have strong impact when travel restrictions, social distancing, and remote work requirements are the new normal?
 
 
 
@@ -27,7 +26,7 @@ Staff from four projects funded by the U.S. Agency for International Development
 
 The [USAID Philippines Protect Wildlife Project](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect) works to conserve biodiversity while supporting sustainable livelihoods for local populations, particularly in Palawan, a biodiversity hotspot dubbed the “last ecological frontier” of the Philippines. In partnership with Palawan Council for Sustainable Development (PCSD), Protect Wildlife helps combat illegal wildlife trafficking and habitat destruction in the province. These are the kind of activities that, by definition, often require travel and must take place in-person—from venturing into protected areas for environmental crime enforcement training, to reaching remote communities, to conducting biodiversity research in the field. 
 
-A two-month quarantine for Palawan at the onset of the pandemic posted a challenge for the project’s efforts. Protect Wildlife found ways to keep two initiatives moving forward in the digital space. 
+A two-month quarantine for Palawan at the onset of the pandemic posed a challenge for the project’s efforts. Protect Wildlife found ways to keep two initiatives moving forward in the digital space. 
 
 The new Biodiversity Resources Access Information Network (BRAIN) System, developed with PCSD and launched on May 1, is a centralized database that supports online permitting, patrol management for officials, public reporting on environmental crime incidences, and case management. While the tool had been in the works since 2018, the project accelerated its launch in response to the quarantine. 
 
@@ -53,7 +52,7 @@ To start, LEGIT identified which of its tools and resources could best support c
 
 This work took place in remote counties of Liberia where internet access is undependable at best, electricity is sporadic, and many of the roads are inaccessible during the rainy season. Since most of LEGIT’s partners had mobile phones, or access to one, phone conversations replaced in-person visits as the project’s main form of engagement with partners. While unreliable phone service and connectivity expenses still makes communication difficult, the LEGIT team has found ways to stay in regular contact with partners. 
 
-![REACT-Liberia.jpg](/uploads/REACT-Liberia.jpg)`LEGIT grantee Rural Engagement for Active Citizenship & Transparency (REACT-Liberia) distributes of COVID-19 prevention materials in Konobo District, Grand Gedeh County.`
+![REACT-Liberia.jpg](/uploads/REACT-Liberia.jpg)`LEGIT grantee Rural Engagement for Active Citizenship & Transparency (REACT-Liberia) distributes COVID-19 prevention materials in Konobo District, Grand Gedeh County.`
 
 To generate solutions, LEGIT turned to its local staff. The project launched a “Work from Home Innovation Award” to recognize staff who found creative solutions to continue to support grantees, especially as they pivoted to assist in government COVID-19 awareness efforts. 
 
@@ -63,13 +62,13 @@ Stryker realized that important information about containing the spread of the p
 
 “The work of these coalition members in reaching out to hard-to-reach communities and border villages near Cote D’Ivoire accounts for a huge success in containing the spread of COVID-19 in our country,” said Stryker, who managed to coordinate activities while himself working from home. “Bravo to the three LEGIT CSO grantees—the Center for Governance and Sustainable Development, Rural Engagement for Active Citizenship & Transparency, and the South Eastern Women Development Association—for their roles in supervising these efforts.”  
 
-![legit.png](/uploads/legit.png)`Left: South Eastern Women Development Association (SEWODA), a LEGIT grantee, trained local coalitions to raise awareness on COVID-19 prevention. Right: LEGIT Participatory Engagement Coordinator Henry Stryker won an award for coordinating COVID-19 response from home, often working in from the kitchen.`
+![legit.png](/uploads/legit.png)`Left: South Eastern Women Development Association (SEWODA), a LEGIT grantee, trained local coalitions to raise awareness on COVID-19 prevention. Right: LEGIT Participatory Engagement Coordinator Henry Stryker won an award for coordinating COVID-19 response from home, often working from the kitchen.`
 
 ## Ensuring Resilience in South Sudan
 
 COVID-19 arrived in South Sudan just as the young East African nation was working to rebuild amidst political uncertainty and pockets of civil unrest. The country’s momentum was disrupted as the government instituted travel restrictions and curfews to control the spread of the disease. On top of this, the pandemic exposed infrastructural failures, brought on by decades of conflict and natural disasters, creating huge challenges for humanitarian and development efforts, not the least of which was communicating remotely. 
 
-The [Policy LINK](https://www.dai.com/our-work/projects/worldwide-policy-link) project—designed to support leadership and collaboration from agricultural systems and policy processes worldwide—had recently started work in South Sudan. Rather than developing policies outright, Policy LINK strengthens the capacity of local actors and institutions to lead the processes in their own countries and regions. The project provides backbone support to the Partnership for Recovery and Resilience (PfRR)—a multidonor initiative led by USAID—to reinforce existing community structures in South Sudan as they became more self-sufficient.
+The [Policy LINK](https://www.dai.com/our-work/projects/worldwide-policy-link) project—designed to support leadership and collaboration in agricultural systems and policy processes worldwide—had recently started work in South Sudan. Rather than developing policies outright, Policy LINK strengthens the capacity of local actors and institutions to lead the processes in their own countries and regions. The project provides backbone support to the Partnership for Recovery and Resilience (PfRR)—a multidonor initiative led by USAID—to reinforce existing community structures in South Sudan as they become more self-sufficient.
 
 To continue this work amidst the infrastructure and coordination challenges brought on by COVID-19, Policy LINK partnered with another USAID project, SUCCESS. SUCCESS establishes community-based civic engagement centers (CECs) that provide internet, meeting space, training rooms, and computer access to remote corners of South Sudan. Run by local user committees, CECs proved an opportune resource for supporting connectivity and access to the international community.  
 
