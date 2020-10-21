@@ -2,6 +2,10 @@
 title: 'Development During Quarantine: Lessons from Four USAID Projects'
 date: 2020-10-21 10:33:00 -04:00
 published: false
+author: Claire Miller
+thumbnail-image: "/uploads/South%20Sudan.jpg"
+social-image: "/uploads/South%20Sudan.jpg"
+publication: Developments
 ---
 
 By Claire Miller
@@ -71,4 +75,30 @@ To continue this work amidst the infrastructure and coordination challenges brou
 
 Policy LINK is re-situating CECs as part of the project’s PfRR coordination. Through the centers and their User Committees, Policy LINK is supporting a series of dialogues, trainings, pause-and-reflect sessions, and other community engagement. 
 
+![South Sudan.jpg](/uploads/South%20Sudan.jpg)`Photo: USAID/South Sudan.`
 
+### Supporting Educators and Students in Honduras
+
+Since 2017, the [USAID Asegurando la Educación](https://www.dai.com/our-work/projects/honduras-securing-education) (Securing Education) project has worked to reduce violence in schools, helping at-risk young people complete their educations and school leaders to build safer communities. Like education systems around the world, Honduras’s schools cancelled in-person instruction in early 2020 to control the spread of COVID-19. Already vulnerable students, without access to technology and basic necessities, became even more likely to drop out—and educators faced discouragement and mental health challenges as they struggled to help. 
+
+“One of my biggest worries is being able to maintain my staff’s motivation and [helping them] generate diverse opportunities so that the children have [access to] distance learning,” said Principal Otilia Padilla from Max Martinez School in Siguatepeque.
+
+Asegurando had to adjust. For some initiatives, that simply meant moving online. The project adapted its existing Executive Leadership Program for Principals (PELE) to a virtual format, focusing on helping school leaders find solutions to distance education, motivate teachers and families, and keep students learning. The digital format allowed PELE to expand from serving 135 administrators to 1,000. 
+
+After training from PELE, Principal Padilla met with her school’s teachers to find strategies to help students without internet stay in schools. For example, in some cities, Asegurando-supported educators printed out hard copies of assignments and left them on students’ desks to retrieve at their convenience. Other schools moved internet routers to face the street to allow families to download and upload schoolwork.
+
+![honduras.png](/uploads/honduras.png)`To help students without internet access continue their schoolwork, some schools arranged for students to pick up hard copies of assignments from their classrooms.`
+
+Padilla’s teaching staff remain committed to identifying measures to keep young people studying and helping them complete the school year. She said, “These processes of training help us to have a better understanding [of the obstacles] and to share [solutions] with parents to help reduce” migration.
+
+### Implementation in Uncertain Times
+
+The COVID-19 pandemic forced the development community to quickly adapt to continue essential work around the world. As the crisis unfolded, DAI project teams and their USAID counterparts found creative strategies to keep activities going while ensuring staff safety. 
+
+In fact, DAI is no stranger to projects that require remote implementation and the flexibility to pivot based on changing conditions on the ground. Our Center for Secure and Stable States works to deliver impact in fragile contexts and has a global reputation for providing innovative assistance after crises and political transitions. 
+
+“I think that a significant reason for why we have been able to continue implementing and achieving our project’s development objectives during these uncertain times is that DAI has a long history—and the approaches, tools, and adaptations that come from that long history—of remote management and remote implementation in conflict countries or in disaster zones,” said Tine Knott, Senior Vice President of DAI’s U.S. Government Business Unit.  
+
+Lessons from projects like Asegurando, PROTECT, LEGIT, and Policy LINK informed DAI’s early response to COVID-19. And these initial lessons in remote management—whether employing digital technology or leveraging community relationships—will continue to inform how our projects continue to adapt in a changing, post-COVID world.  
+
+*Claire Miller is a Senior Communications Specialist at DAI. To learn more about how DAI projects are responding to the pandemic, visit our [COVID-19 page](https://www.dai.com/covid-19).*
