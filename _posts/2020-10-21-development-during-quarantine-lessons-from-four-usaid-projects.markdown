@@ -2,13 +2,13 @@
 title: 'Development During Quarantine: Lessons from Four USAID Projects'
 date: 2020-10-21 10:33:00 -04:00
 published: false
+tags:
+- covid-19
 author: Claire Miller
 thumbnail-image: "/uploads/South%20Sudan.jpg"
 social-image: "/uploads/South%20Sudan.jpg"
 publication: Developments
 ---
-
-By Claire Miller
 
 Mobility is fundamental to global development work. People, materials, and information must reach areas that can be geographically remote or underserved by communication infrastructures. The COVID-19 pandemic has changed—perhaps permanently—an industry that can no longer rely on access to travel and face-to-face engagement. With COVID-19 a global reality for the foreseeable future, how can development projects continue to have strong impact when travel restrictions, social distancing, and remote work requirements are the new normal?
 
