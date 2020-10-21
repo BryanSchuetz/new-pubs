@@ -1,7 +1,6 @@
 ---
 title: 'Development During Quarantine: Lessons from Four USAID Projects'
 date: 2020-10-21 10:33:00 -04:00
-published: false
 tags:
 - covid-19
 author: "[Claire Miller](https://www.linkedin.com/in/claireelsemiller/)"
