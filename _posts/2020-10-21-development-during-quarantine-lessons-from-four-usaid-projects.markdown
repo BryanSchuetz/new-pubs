@@ -10,7 +10,7 @@ social-image: "/uploads/South%20Sudan.jpg"
 publication: Developments
 ---
 
-Mobility is fundamental to global development work. People, materials, and information must reach areas that can be geographically remote or underserved by communication infrastructures. The COVID-19 pandemic has changed—perhaps permanently—an industry that can no longer rely on access to travel and face-to-face engagement. With COVID-19 a global reality for the foreseeable future, how can development projects continue to have strong impact when travel restrictions, social distancing, and remote work requirements are the new normal?
+Mobility is fundamental to global development work. People, materials, and information must reach areas that can be geographically remote or underserved by communication infrastructures. The COVID-19 pandemic has changed an industry that can no longer rely on access to travel and face-to-face engagement. With COVID-19 a global reality for the foreseeable future, how can development projects continue to have strong impact when travel restrictions, social distancing, and remote work requirements are the new normal?
 
 
 
@@ -27,7 +27,7 @@ Staff from four projects funded by the U.S. Agency for International Development
 
 The [USAID Philippines Protect Wildlife Project](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect) works to conserve biodiversity while supporting sustainable livelihoods for local populations, particularly in Palawan, a biodiversity hotspot dubbed the “last ecological frontier” of the Philippines. In partnership with Palawan Council for Sustainable Development (PCSD), Protect Wildlife helps combat illegal wildlife trafficking and habitat destruction in the province. These are the kind of activities that, by definition, often require travel and must take place in-person—from venturing into protected areas for environmental crime enforcement training, to reaching remote communities, to conducting biodiversity research in the field. 
 
-A two-month quarantine for Palawan at the onset of the pandemic posted a challenge for the project’s efforts. Protect Wildlife found ways to keep two initiatives moving forward in the digital space. 
+A two-month quarantine for Palawan at the onset of the pandemic posed a challenge for the project’s efforts. Protect Wildlife found ways to keep two initiatives moving forward in the digital space. 
 
 The new Biodiversity Resources Access Information Network (BRAIN) System, developed with PCSD and launched on May 1, is a centralized database that supports online permitting, patrol management for officials, public reporting on environmental crime incidences, and case management. While the tool had been in the works since 2018, the project accelerated its launch in response to the quarantine. 
 
