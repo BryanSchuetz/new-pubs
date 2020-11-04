@@ -1,7 +1,6 @@
 ---
 title: Commercializing Agricultural Innovations in the Age of COVID-19
 date: 2020-11-03 15:59:00 -05:00
-published: false
 tags:
 - covid-19
 - economic-growth
@@ -10,6 +9,8 @@ tags:
 - food security
 author: By [Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla)
   and [Kamil Nabong](https://www.linkedin.com/in/kamilnabong/)
+thumbnail-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
+social-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
 publication: Developments
 ---
 
@@ -21,6 +22,8 @@ As the coronavirus pandemic stretches on, Sub-Saharan African countries have bee
 
 For the agritech startups in the [Kosmos Innovation Center](https://www.kosmosinnovationcenter.com/) in Ghana, adaptation has meant different things to different companies—including pivoting to new markets, products, marketing channels, and operational processes. KIC, led by Kosmos Energy with [support from DAI](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic), has worked closely with the startups during the pandemic to set up collaborations, promote safe operations, and share learning through capacity building programs and “fireside chats” with the local entrepreneurship community.
 
+![1 The_KIC_Team_at_TechShelta_To_Inspect_Safety_Protocols.jpg](/uploads/1%20The_KIC_Team_at_TechShelta_To_Inspect_Safety_Protocols.jpg)`The KIC team visits TechShelta to inspect safety protocols. Photo courtesy of KIC.`
+
 ## Localizing to Minimize Supply Chain Disruptions 
 
 Supply chain disruptions are among the most significant challenges these firms face, leading to higher costs and delays in product development and deployment, especially for companies relying on imported goods. In Ghana, importation has been the norm for tech companies that require hardware components and other specialized equipment. COVID-19 is forcing companies to rethink their production models. 
@@ -28,6 +31,8 @@ Supply chain disruptions are among the most significant challenges these firms f
 One company, [ProSect Feed](https://prosectfeed.com/#about-us), shifted to fabricating low-tech equipment locally when importing from China and Japan was no longer viable. Working in collaboration with Ghana’s Council for Scientific and Industrial Research, ProSect had developed an organic, insect-based poultry feed that reduces farmers’ feed costs by 23 percent and could significantly increase the competitiveness of the national poultry industry if implemented at scale. While ProSect had originally planned to import equipment such as shelving, fly cages, dark cages, and trays, it was ultimately able to fabricate them locally. These homegrown fixtures and fittings are less scalable than their imported alternatives, but they enabled the company to commence operations, hatch its first colony of flies, and sell its first feed concentrates. 
 
 KIC worked with ProSect and other companies that could continue local operations to develop safety protocols for working during the pandemic. [AgroSourcing](https://agrosourcing.net/), for example, a company that recycles agricultural waste into fertilizer, was able to design its processing facility with 100 percent local materials and equipment. KIC worked with the firm to implement safety measures for building and operating its facility, and production began in early October.
+
+![ProsectFeed_Larvae.jpg](/uploads/ProsectFeed_Larvae.jpg)`ProSect farms insects as a sustainable and affordable source of protein to feed poultry. Photo courtesy of ProSect.`
 
 ## New Spaces for Innovation
 
@@ -44,6 +49,8 @@ In addition to working with the local maker space, aiScarecrow spent the spring 
 Among KIC businesses, those concentrated in the business-to-business (B2B) market were the worst affected by the pandemic due to the massive downturn in Ghana’s tourism, restaurant, and hospitality sectors. Many KIC companies looked to pivot to the consumer market, as the shrink in consumer spending was less severe, particularly for food purchases. However, companies still needed to find a sales channel to reach consumers during the lockdown.
 
 Reflecting global trends, Ghanaian businesses have gone online. Ghana’s eCommerce market, while more sophisticated than most countries in the region, is still in its nascent stages, but an estimated 38 percent of the population—approximately 11 million people—are internet users. Although this is a sizable potential market, bigger challenges lie in delivery logistics and the lack of familiarity with eCommerce among all but the youngest consumers. 
+
+![Profish_Bike 1.jpg](/uploads/Profish_Bike%201.jpg)`a ProFish motorbike, used to deliver food to local restaurants and retailers. Photo courtesy of ProFish.` 
 
 [ProFish](https://profishgh.com/), AgroInnova, and [TechShelta](https://techshelta.com/)—KIC companies that sell seafood, poultry, and greenhouse vegetables, respectively—all saw their B2B wholesale orders from restaurants, hotels, and other businesses drop to near zero at the beginning of the pandemic. At the same time, household orders increased, presenting both an opportunity and a logistical challenge given the higher volume, smaller orders, weak infrastructure, and uncertainties around safety protocols, especially during the earlier stages of the pandemic. The teams quickly adapted and put together a safety plan to take advantage of the opportunity, procuring personal protective equipment for all staff. 
 
