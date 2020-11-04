@@ -1,7 +1,6 @@
 ---
 title: Commercializing Agricultural Innovations in the Age of COVID-19
 date: 2020-11-03 15:59:00 -05:00
-published: false
 tags:
 - covid-19
 - economic-growth
@@ -10,6 +9,8 @@ tags:
 - food security
 author: By [Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla)
   and [Kamil Nabong](https://www.linkedin.com/in/kamilnabong/)
+thumbnail-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
+social-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
 publication: Developments
 ---
 
