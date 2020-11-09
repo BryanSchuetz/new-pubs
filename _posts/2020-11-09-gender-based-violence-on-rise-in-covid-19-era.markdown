@@ -28,6 +28,8 @@ In May, the United Nations (UN) issued an alert about the alarming rise of rape 
 * Survivors have limited information and awareness about available services and limited access to support services.
 * In some countries, resources have been diverted from mitigating violence against women to providing COVID-19 relief.
 
+![Facts MP4.mp4](/uploads/Facts%20MP4.mp4)
+
 In every month in 2017, more than 4,000 women were killed by members of their own family—almost always as an act of retribution for the woman “failing” in some way to uphold men’s status, honor, or pride. When a man kills his female partner, it is almost always a culmination of months or years of violence and control, according to the [UN Office on Drugs and Crime](https://www.unodc.org/documents/data-and-analysis/GSH2018/GSH18_Gender-related_killing_of_women_and_girls.pdf). Where institutions and communities are prepared to tolerate such human rights violations, it can be little surprise that protection of women is being downgraded during the pandemic. At the same time, increased poverty is driving many women to sell their bodies to feed their families, while restrictions on movement mean that women, girls, and boys are often trapped at home with abusers. 
 
 In some of the countries where DAI works, gender-based violence can be a part of daily life for women and girls, for numerous reasons—from a lack of effective governance and enforcement to limited women’s rights and, sometimes, cultural norms that simply have yet to change in line with more widely accepted principles of human rights. 
