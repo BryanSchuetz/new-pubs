@@ -7,8 +7,8 @@ tags:
 - gender
 - women
 author: "[Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
-thumbnail-image: "/uploads/Protest%20Agaist%20Rampancy%20of%20Rape.jpg"
-social-image: "/uploads/Protest%20Agaist%20Rampancy%20of%20Rape.jpg"
+thumbnail-image: "/uploads/slide%201.png"
+social-image: "/uploads/slide%201.png"
 publication: Developments
 ---
 
