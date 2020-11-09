@@ -1,7 +1,6 @@
 ---
 title: Gender-Based Violence on the Rise in the COVID-19 Era
 date: 2020-11-09 10:21:00 -05:00
-published: false
 tags:
 - covid-19
 - gender
