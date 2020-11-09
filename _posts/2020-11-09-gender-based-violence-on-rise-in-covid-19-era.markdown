@@ -7,6 +7,8 @@ tags:
 - gender
 - women
 author: "[Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
+thumbnail-image: "/uploads/Protest%20Agaist%20Rampancy%20of%20Rape.jpg"
+social-image: "/uploads/Protest%20Agaist%20Rampancy%20of%20Rape.jpg"
 publication: Developments
 ---
 
@@ -41,6 +43,8 @@ From January to June, Liberia’s Ministry of Gender, Children, and Social Prote
 For the last three months, LAVI’s partner WONGOSOL managed to monitor and track to 109 cases of sexual or gender-based violence from various families in Montserrado and Margibi counties. Under the program, WONGOSOL accompanies families and their daughters to police stations to file rape reports, places girls in safe shelters if need be, provides them with food and hygiene materials, and takes them to the hospital for medical services. 
 
 According to WONGOSOL Acting Executive Director Lena Cummings, the organization regularly monitors sexual and gender-based violence cases reported in the media, engages with one-stop centers that handle cases, and liaises with the Liberia National Police and the Ministry of Gender, Children, and Social Protection. “We opened doors that were closed to survivors during the COVID-19 lockdown,’’ Cummings said. “We helped girls get medical records and police reports. Women are already traumatized from the abuse; they do not need to be abused when they seek help.’’
+
+![Protest Agaist Rampancy of Rape-ed6a48.jpg](/uploads/Protest%20Agaist%20Rampancy%20of%20Rape-ed6a48.jpg)`Part of the national campaign in Liberia.`
 
 ## Spreading the Word
 
