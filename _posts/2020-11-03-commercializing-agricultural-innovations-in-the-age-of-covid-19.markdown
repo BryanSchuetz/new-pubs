@@ -7,8 +7,8 @@ tags:
 - technology
 - agriculture
 - food security
-author: By [Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla)
-  and [Kamil Nabong](https://www.linkedin.com/in/kamilnabong/)
+author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
+  [Kamil Nabong](https://www.linkedin.com/in/kamilnabong/)"
 thumbnail-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
 social-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
 publication: Developments
