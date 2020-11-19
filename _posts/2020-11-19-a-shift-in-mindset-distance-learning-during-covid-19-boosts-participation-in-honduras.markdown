@@ -9,6 +9,8 @@ tags:
 - fragile-states
 author: "[Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/) and [Lucas
   King](https://www.linkedin.com/in/lucas-king-development/)"
+thumbnail-image: "/uploads/sm%20Nolvia%20Lizeth%20Aguilar%20Espinal_Ca%CC%81mara%20Junior_24%20April%202020.jpg"
+social-image: "/uploads/sm%20Nolvia%20Lizeth%20Aguilar%20Espinal_Ca%CC%81mara%20Junior_24%20April%202020.jpg"
 publication: Developments
 ---
 
