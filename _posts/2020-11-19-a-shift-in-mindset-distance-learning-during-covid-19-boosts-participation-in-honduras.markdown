@@ -18,7 +18,7 @@ Like many countries, Honduras was forced to close its schools by COVID-19. As a 
 
 
 
-### Support for Principals
+## Support for Principals
 
 Before virtual implementation, the Executive Leadership Program for Principals (*PELE*), for instance, trained an average of 45 school administrators from one or two cities per session. Since the in-person training already focused on equipping school principals with skills to lead during times of crisis, *Asegurando* quickly [streamlined its content](https://www.youtube.com/playlist?list=PLUkTqAE0ApJWkB6Sw7t0JnVB8KHLKPe5J) for online delivery, holding the first session just weeks after schools shut down.
 
@@ -26,7 +26,7 @@ Before virtual implementation, the Executive Leadership Program for Principals (
 
 Instead of spending staff time and resources on logistics, transportation, food, and venues for 3 separate in-person events that reached 100 principals in 3 or 4 cities, the project can now reach more than 1,000 participants in 230 cities, while expending far fewer resources. The sessions are having a positive impact on new beneficiaries as well. Principal Otilia Padilla in Siguatepeque—a city not reached before the pandemic—said, “After the training, I met with my teachers to search for other strategies that will keep students… from dropping out of school.” By November, 7 *PELE* sessions have registered 4,857 unique participants from 230 cities, with an average of 1,239 connecting per webinar.
 
-### Support for Teachers’ Wellbeing
+## Support for Teachers’ Wellbeing
 
 Through another digital adaptation, *Asegurando*’s Teacher Wellbeing program began offering safe, virtual spaces for teachers to share difficult experiences and emotions with their peers. Before the pandemic, this emotional health and wellbeing activity was not a top priority; in fact, we had only implemented it for 30 educators per session over a 3-month span, and in only 82 of *Asegurando*’s 135 schools, with no continuation plans for 2020. However, the pandemic’s emotional impact on educators revealed a clear need for the program. 
 
@@ -34,7 +34,7 @@ Overnight, the new virtual session almost tripled program reach to 80 participan
 
 Again, the new virtual program is having its intended impact. Teacher Martha Casco in San Pedro Sula said, “It gave us hope that… we can overcome and carry out our work as teachers in the best way possible… we can reduce school dropouts during times of crises.” 
 
-### Support for Students
+## Support for Students
 
 Knowing that [constant emotional stress](https://www.samhsa.gov/disaster-preparedness) can damage long-term physical health and exacerbate drug and alcohol abuse, Asegurando’s social-emotional learning program (called *PASE*) is emerging as one of its most impactful programs. Physical education (PE) teachers delivered 24 *PASE* sessions to 4,429 students from 53 schools in 3 departments during 2019. *PASE*-trained PE teachers immediately understood the importance of social-emotional skills building, especially during a global crisis. Unable to interact with students face-to-face after schools shut down, some teachers started recording *PASE* videos and sharing them on social media. 
 
@@ -44,13 +44,13 @@ Simultaneously, Asegurando prioritized a virtual adaptation of *PASE* and incorp
 
 Additionally, the project invited 18 student government leaders—one from each of the country’s departments (or states)—to be Influencer 504 ambassadors. In the official induction ceremony, Vice Minister of Education Javier Menocal established the role permanently in the education system saying, “The ministry wants to take this program to every corner of Honduras.”
 
-### Support for Families
+## Support for Families
 
 *Asegurando*’s awareness-raising campaign designed to keep youth in school had reached an estimated 332,000 people before the pandemic struck in mid-March. However, the impacts of social isolation and toxic stress demanded psychosocial and social-emotional support in the home, which now doubles as students’ classrooms. In early April, the project began developing messages to address pandemic-related emotional and psychological harm. Utilizing social-emotional learning, wellbeing, and cognitive behavioral techniques taken from other *Asegurando* programs, the Securing Your Wellbeing (*Asegurando Tu Bienestar*) awareness campaign has now provided trustworthy and relevant information and emotional health and wellbeing support for whole families across Honduras through Facebook [sessions](https://www.youtube.com/playlist?list=PLUkTqAE0ApJUfpcXvdFfwfbtk4JDAKBIq), [public service announcements](https://www.youtube.com/watch?v=KLSGryx_zgI&list=PLUkTqAE0ApJXf8Stv2RyIWz1azrTxtWha) on 25 radio and TV stations, and nearly 1,000 [social media posts](https://www.facebook.com/asegurandolaeducacion/). Teacher Nohelia Mendoza in Choloma said that teachers are now “creating awareness [with students and parents] that education continues, and we can all learn.” Campaign messaging has so far reached an estimated 6 million people, including international audiences.
 
 ![Increased Reach Infographic_12 Nov 2020.png](/uploads/Increased%20Reach%20Infographic_12%20Nov%202020.png)`Graphic by Lucas King.`
 
-### Sharp Learning Curve
+## Sharp Learning Curve
 
 Although exceeding expectations in many ways, the shift to virtual implementation required that a project team accustomed to facilitating workshops and writing reports had to develop acting skills for videos, design animations, lobby media outlets, host webinars, coordinate Facebook events, and conduct talk show interviews. 
 
