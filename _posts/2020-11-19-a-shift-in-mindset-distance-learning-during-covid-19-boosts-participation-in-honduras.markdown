@@ -16,8 +16,11 @@ Like many countries, Honduras was forced to close its schools by COVID-19. As a 
 
 
 
+### Support for Principals
 
 Before virtual implementation, the Executive Leadership Program for Principals (*PELE*), for instance, trained an average of 45 school administrators from one or two cities per session. Since the in-person training already focused on equipping school principals with skills to lead during times of crisis, *Asegurando* quickly [streamlined its content](https://www.youtube.com/playlist?list=PLUkTqAE0ApJWkB6Sw7t0JnVB8KHLKPe5J) for online delivery, holding the first session just weeks after schools shut down.
+
+![Otilia Padilla_Max Martínez Siguatepeque_ 9 Jul 2020.jpeg](/uploads/Otilia%20Padilla_Max%20Marti%CC%81nez%20Siguatepeque_%209%20Jul%202020.jpeg)`Principal Otilia Padilla participates in a *PELE* session. Photo Courtesy: USAID *Asegurando*.`
 
 Instead of spending staff time and resources on logistics, transportation, food, and venues for 3 separate in-person events that reached 100 principals in 3 or 4 cities, the project can now reach more than 1,000 participants in 230 cities, while expending far fewer resources. The sessions are having a positive impact on new beneficiaries as well. Principal Otilia Padilla in Siguatepeque—a city not reached before the pandemic—said, “After the training, I met with my teachers to search for other strategies that will keep students… from dropping out of school.” By November, 7 *PELE* sessions have registered 4,857 unique participants from 230 cities, with an average of 1,239 connecting per webinar.
 
