@@ -2,7 +2,6 @@
 title: 'A Shift in Mindset: Distance Learning during COVID-19 Boosts Participation
   in Honduras'
 date: 2020-11-19 11:58:00 -05:00
-published: false
 tags:
 - education
 - covid-19
