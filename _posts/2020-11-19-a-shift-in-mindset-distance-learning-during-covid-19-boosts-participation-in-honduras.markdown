@@ -53,7 +53,7 @@ Additionally, the project invited 18 student government leaders—one from each 
 
 Although exceeding expectations in many ways, the shift to virtual implementation required that a project team accustomed to facilitating workshops and writing reports had to develop acting skills for videos, design animations, lobby media outlets, host webinars, coordinate Facebook events, and conduct talk show interviews. 
 
-But the *Asegurando* team stepped up to the challenge and early feedback suggests that we delivered more quantity without sacrificing quality. When surveyed on the effectiveness of PELE, for example, 96 percent of administrators report that they understand their role as leaders better. Likewise, 89 percent of surveyed teachers said their wellbeing has increased after just a few webinars. 
+But the *Asegurando* team stepped up to the challenge and early feedback suggests that we delivered more quantity without sacrificing quality. When surveyed on the effectiveness of *PELE*, for example, 96 percent of administrators report that they understand their role as leaders better. Likewise, 89 percent of surveyed teachers said their wellbeing has increased after just a few webinars. 
 
 Now well versed in the cost-effective mechanisms needed to achieve a 5,000 percent increase in participants for teacher training sessions, our team can leverage a media network that reaches 6 million people instead of a few hundred thousand. Regardless of when in-person classes resume, *Asegurando* will not entirely abandon online activities. 
 
