@@ -3,11 +3,18 @@ title: A Digital Tool to Get the World Moving Again
 date: 2020-11-20 15:37:00 -05:00
 published: false
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
+thumbnail-image: "/uploads/heathrow.jpg"
+social-image: "/uploads/heathrow.jpg"
+publication: Developments
 ---
 
 This week’s news from [Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine) and [Moderna](https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy) about the efficacy of their COVID-19 vaccines offers a tantalizing glimmer of hope for all of us longing to get back to our lives and our work. But even if these and other vaccines are as good as advertised, global authorities will need a comprehensive and universally trusted system to confirm COVID-19 testing and vaccination status if we are to safely reopen borders, restore mobility, and reanimate our global economy in the wake of the pandemic.
 
+
+
 Last month, I was privileged to participate in the pilot test of something called [CommonPass](https://thecommonsproject.org/commonpass), a new digital health solution that could be a critical piece in this complex pandemic puzzle. My experience using CommonPass on flights between London Heathrow and Newark, New Jersey impressed upon me the magnitude of the challenge to get all the needed stakeholders lined up behind a “common trust framework”—and how important it is that we succeed.
+
+![heathrow.jpg](/uploads/heathrow.jpg)
 
 I spend my professional life working to support social and economic development programs. Tremendous progress has been made over the past two decades in stimulating growth, reducing poverty, improving critical health indicators, and building capabilities in institutions and people to continue to make progress in the future. But the COVID pandemic has been a major setback. 
 
