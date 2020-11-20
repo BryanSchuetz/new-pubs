@@ -32,6 +32,8 @@ CommonPass was developed by The Commons Project, a non-profit public trust in pa
 
 CommonPass by itself is not going to re-start the stalling global economy, but it can be a part of the solution. The idea is to create a globally trusted framework that allows individuals to document their COVID-19 or vaccination status electronically and present it when they board a plane or cross a border.
 
+![mask-airport.jpg](/uploads/mask-airport.jpg)
+
 The framework lets countries implement their own border entry and screening requirements, including whether and what type of lab tests or vaccinations to require. The framework then verifies that incoming travelers’ health data satisfies the destination country’s entry requirements, and generates a certification that airlines and countries can rely on to board a flight or allow border entry.  
 
 Even if all CommonPass does is spark life in the travel industry, that would be a huge first step. In 2019, the [travel and tourism sector](https://wttc.org/Research/Economic-Impact) alone accounted for $8.9 trillion of global GDP (more than 10 percent of the total) and 330 million jobs, or 1 in 10 jobs worldwide. The effects of the pandemic are still playing out, but the [best-case scenario](https://wttc.org/Research/Economic-Impact/Recovery-Scenarios-2020-Economic-Impact-from-COVID-19) is that COVID will wipe out 98 million jobs in the sector. The worst case: more like 200 million.
