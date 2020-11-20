@@ -31,11 +31,11 @@ Consider the impact on women. McKinsey estimates that, globally, women lose thei
 
 Women are also concentrated in the informal economy, which employs [740 million women](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30568-5/fulltext) and represents more than two-thirds of female employment in developing nations. Those jobs were particularly vulnerable to lockdown, and the low wages and weak social protections in the informal sector bode ill. The UN estimates some 47 million women and girls will be “[specifically impoverished by COVID-19](https://data.unwomen.org/features/covid-19-boomerang-effect-new-forecasts-predict-sharp-increases-female-poverty).”
 
+![mask-airport.jpg](/uploads/mask-airport.jpg)
+
 CommonPass was developed by The Commons Project, a non-profit public trust in partnership with the World Economic Forum. Full disclosure: my son John Boomgard works for CommonPass and it was he who alerted me to the initiative. 
 
 CommonPass by itself is not going to re-start the stalling global economy, but it can be a part of the solution. The idea is to create a globally trusted framework that allows individuals to document their COVID-19 or vaccination status electronically and present it when they board a plane or cross a border.
-
-![mask-airport.jpg](/uploads/mask-airport.jpg)
 
 The framework lets countries implement their own border entry and screening requirements, including whether and what type of lab tests or vaccinations to require. The framework then verifies that incoming travelers’ health data satisfies the destination country’s entry requirements, and generates a certification that airlines and countries can rely on to board a flight or allow border entry.  
 
