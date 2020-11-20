@@ -1,7 +1,6 @@
 ---
 title: A Digital Tool to Get the World Moving Again
 date: 2020-11-20 15:37:00 -05:00
-published: false
 tags:
 - covid-19
 - global-health
