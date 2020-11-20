@@ -4,6 +4,7 @@ date: 2020-11-20 15:37:00 -05:00
 published: false
 tags:
 - covid-19
+- global-health
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
 thumbnail-image: "/uploads/heathrow.jpg"
 social-image: "/uploads/heathrow.jpg"
