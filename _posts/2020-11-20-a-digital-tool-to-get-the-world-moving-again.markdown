@@ -5,6 +5,7 @@ published: false
 tags:
 - covid-19
 - global-health
+- economic-growth
 author: "[James Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)"
 thumbnail-image: "/uploads/heathrow.jpg"
 social-image: "/uploads/heathrow.jpg"
