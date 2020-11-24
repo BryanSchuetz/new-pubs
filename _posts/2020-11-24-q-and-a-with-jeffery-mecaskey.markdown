@@ -1,5 +1,6 @@
 ---
-title: Q&A with Jeffery Mecaskey
+title: 'Q&A with Jeffery Mecaskey: How Community Engagement, Regulations, and Incentives
+  Build a Path to Improved Healthcare'
 date: 2020-11-24 16:16:00 -05:00
 published: false
 tags:
@@ -18,23 +19,23 @@ We recently sat with Jeff to discuss measures to strengthen primary healthcare s
 
 **Jeff, remind us why UHC matters.**
 
-"It’s pretty simple, really. All we have to do is look at what happens when universal health coverage isn’t there. Millions of people every year are thrown into poverty by catastrophic health expenditure. Imagine being in a situation where you have to sell your livestock or your house so you can afford life-saving treatment. This is exactly what happens where UHC doesn’t exist. Households headed by women are hit particularly hard. Many people are forced to choose not to get help, because they can’t afford it.
+"It’s pretty simple, really. All we have to do is look at what happens when UHC isn’t there. Millions of people every year are thrown into poverty by catastrophic health expenditure. Imagine being in a situation where you have to sell your livestock or your house so you can afford life-saving treatment. This is exactly what happens where UHC doesn’t exist. Households headed by women are hit particularly hard. Many people are forced to choose not to get help, because they can’t afford it.
 
-"Different countries have different ways of achieving UHC. Some pay for it through taxation, like the UK, some have social insurance schemes in place. The public-private balance in how care is provided also differs in many places. That’s the thing about UHC, it’s not one-size-fits all. Things always work best when they’re tailored to local contexts. What matters is that provision is equitable and efficient.
+"Different countries have different ways of achieving UHC. Some pay for it through taxation, like in the UK, some have social insurance schemes in place. The public-private balance in how care is provided also differs in many places. That’s the thing about UHC, it’s not one-size-fits all. Things always work best when they’re tailored to local contexts. What matters is that provision is equitable and efficient.
 
 "Health is a right, but UHC is crucial even if you take a pragmatic, rather than normative approach. Societies where people are denied the minimum they need to live safe lives are often not the most stable. It’s in everyone’s interest everywhere that we get this right."
 
-**Your paper focuses on primary healthcare? What’s important about it?**
+**Your paper focuses on primary healthcare. What’s important about it?**
 
-"A couple of decades ago, the idea of community-centred care gained currency. It’s empowering, affordable, and culturally appropriate. A community health worker will likely be someone you know and who understands you. Your community health worker will be able to offer you a wide range of basic health services, hopefully free, but if not usually very cheaply. Obviously, they often only have basic training, so you wouldn’t be using them if you needed a C-section. But that community health worker would help you know if you needed that C-section and refer you to suitable care. These community health workers are the foundation of a system that can offer an accessible option both for the health authority and the end-user."
+"A couple of decades ago, the idea of community-centred care gained currency. It’s empowering, affordable, and culturally appropriate. A community health worker will likely be someone you know and who understands you. Your community health worker will be able to offer you a wide range of basic health services, hopefully free, but if not, usually very cheaply. Obviously, they often only have basic training, so you wouldn’t be using them if you needed a C-section. But that community health worker would help you know if you needed that C-section and refer you to suitable care. These community health workers are the foundation of a system that can offer an accessible option both for the health authority and the end-user."
 
 **Primary healthcare is clearly an affordable way of achieving UHC. Is it also a meaningful way, impactful way?**
 
-"Well, we know that even in high-income countries there is inequality in healthcare access between socio-economic groups. In lower- and middle-income countries that discrepancy is even greater, and even the most privileged experience difficulty in accessing good quality care. What primary healthcare does is ensure everyone can secure a minimal level of appropriate care."
+"Well, we know that even in high-income countries there is inequality in healthcare access between socio-economic groups. In lower- and middle-income countries that discrepancy is even greater, and even the most privileged experience difficulty in accessing good quality care. What primary healthcare does is ensure everyone can secure a minimum level of appropriate care."
 
-**Tell us more about your paper. Why are your 20 countries interesting? And what did you find?**
+**Tell us more about your paper. Why are your 20 countries interesting? What did you find?**
 
-"One of the great things about the analysis on which the paper is based is that we used data from 20 lower- and middle-income countries which are diverse and representative. It strengthens our confidence when conclusions are based on a strong sample of highly disparate countries.
+"One of the great things about the analysis on which the paper is based is that we used data from 20 lower- and middle-income countries that are diverse and representative. It strengthens our confidence when conclusions are based on a strong sample of highly disparate countries.
 
 "We found the same problems stopping people from accessing the care they need across the board. [In the paper,](https://www.who.int/bulletin/volumes/98/11/20-252742.pdf) you can find a detailed list of problems and suggested solutions. These include poor preventative care, lack of resources including training, catastrophic out-of-pocket expenditure, fragmented public/private systems, corruption, lack of regulation, and poor community engagement where services were privatised. Quality consistently improved with better regulation, financial provision and incentives, and community engagement."
 
