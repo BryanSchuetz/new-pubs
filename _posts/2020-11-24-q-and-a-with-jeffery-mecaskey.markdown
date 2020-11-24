@@ -69,8 +69,4 @@ We recently sat with Jeff to discuss measures to strengthen primary healthcare s
 
 "We say that TDDAP is focused on 'integrated health security'—if a health system that cannot deliver a poor woman's baby safely, it’s not likely to deliver epidemic preparedness and response. Health systems in many low- and middle-income countries are fragmented, marked by inefficiencies in siloed programmes and efforts. Nowhere is this more apparent than in health security. The Foreign, Commonwealth & Development Office has been a leader in policy and in funding in supporting how we integrate these efforts and maximise their impact."
 
-
-
-
-
 *Andreea Petre-Goncalves provides communications support for TDAAP.*
