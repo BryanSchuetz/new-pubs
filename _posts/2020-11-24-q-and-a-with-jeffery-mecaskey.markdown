@@ -28,6 +28,45 @@ We recently sat with Jeff to discuss measures to strengthen primary health-care 
 
 "A couple of decades ago, the idea of community-centred care gained currency. It’s empowering, affordable, and culturally appropriate. A community health worker will likely be someone you know and who understands you. Your community health worker will be able to offer you a wide range of basic health services, hopefully free, but if not usually very cheaply. Obviously, they often only have basic training, so you wouldn’t be using them if you needed a C-section. But that community health worker would help you know if you needed that C-section and refer you to suitable care. These community health workers are the foundation of a system that can offer an accessible option both for the health authority and the end-user."
 
+**Primary healthcare is clearly an affordable way of achieving UHC. Is it also a meaningful way, impactful way?**
+
+"Well, we know that even in high-income countries there is inequality in healthcare access between socio-economic groups. In lower- and middle-income countries that discrepancy is even greater, and even the most privileged experience difficulty in accessing good quality care. What primary healthcare does is ensure everyone can secure a minimal level of appropriate care."
+
+**Tell us more about your paper. Why are your 20 countries interesting? And what did you find?**
+
+"One of the great things about the analysis on which the paper is based is that we used data from 20 lower- and middle-income countries which are diverse and representative. It strengthens our confidence when conclusions are based on a strong sample of highly disparate countries.
+
+"We found the same problems stopping people from accessing the care they need across the board. [In the paper,](https://www.who.int/bulletin/volumes/98/11/20-252742.pdf) you can find a detailed list of problems and suggested solutions. These include poor preventative care, lack of resources including training, catastrophic out-of-pocket expenditure, fragmented public/private systems, corruption, lack of regulation, and poor community engagement where services were privatised. Quality consistently improved with better regulation, financial provision and incentives, and community engagement."
+
+**Where do we start in tackling this substantial list of deficiencies? What are some top priorities?**
+
+"As is the case for most things, the answer is partly money. In low- and middle-income countries, neither internal funding nor donor funding is sufficiently tailored to respond to priorities. Communicable diseases get more attention than non-communicable ones. We often end up with piecemeal, single disease approaches. Many actors focus on communicable diseases because they feel familiar, they’re what we know. That’s not enough anymore though, with demographic changes. Diseases of lifestyle are on the rise in sub-Saharan Africa, and genetic predispositions make them worse. 
+
+"What we need to do is focus on people, not diseases.
+
+"When catastrophic out-of-pocket costs mean people don’t access care or fall into poverty if they do, that’s not just a technical problem to be resolved with technical interventions. We need political action. In many countries, there’s a big gap between people’s aspirations and institutional responses.
+
+"We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why Tackling deadly disease in Africa is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
+
+**You’re recommending increases in primary healthcare spending and improvements in implementation. What kind of changes will people on the ground see if this happens?**
+
+"The simplest way to describe this is from the perspective of people out there who are forced to pay substantial amounts for care—be it formally or informally. We know that poor people have a higher disease burden. The main difference for them will be they will seek care because they will be able to do it without having to sell their cow. They will be able to get their hands on essential medicines, which are life-saving and often underfunded. That’s because they won’t be sent to third party private providers and risk having to pay extortionate prices. They will just be able to see their community-based health worker. Not only that but women and adolescents will be able to get sexual and reproductive care locally, in their community, without fear of stigma or judgment.
+
+"That’s the sort of difference we are likely to see if our recommendations are followed."
+
+**The notion of health equity and equity-enhancing finance comes up strongly in your paper. Why is that? Why does equity matter?**
+
+"Some people find the idea of equity a bit theoretical or abstract, especially if their primary filter for issues of health is pragmatic, rather than rights-based. Even from that perspective, the links between equity and health risk are as clear as day.
+
+"If we look at a set of priority diseases with pandemic potential, we already know that historically excluded people are at much higher risk than anybody else. Exclusion means a whole list of things: limited access to care, money, remote geography, lack of knowledge. The consequences of such diseases are devastating.
+
+"Take trachoma, for example, which is very contagious and causes blindness. We know that the poorest 20 percent of people in Africa are three times more likely to have it than other groups. It’s not hard to see why. They don’t have reliable access to water and sanitation, or indeed treatment for this severe disease. Mass chemoprophylaxis programmes don’t really work, because the most vulnerable rarely get covered. A significant proportion of infection and reinfection happens between mothers and children. If mums go blind, the intergenerational effect on children is tremendous, and the legacy of risk, including huge health risk, is perpetuated.
+
+"That’s why equity matters, whichever way you look at health. Without health equity, we risk pushing the boulder uphill forever like Sisyphus—and never have the healthy, safe, and prosperous world we want."
+
+**Parting thoughts?**
+
+"We say that TDDAP is focused on 'integrated health security'—if a health system that cannot deliver a poor woman's baby safely, it’s not likely to deliver epidemic preparedness and response. Health systems in many low- and middle-income countries are fragmented, marked by inefficiencies in siloed programmes and efforts. Nowhere is this more apparent than in health security. The Foreign, Commonwealth & Development Office has been a leader in policy and in funding in supporting how we integrate these efforts and maximise their impact."
 
 
 
