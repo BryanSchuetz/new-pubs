@@ -11,9 +11,9 @@ social-image: "/uploads/DSC_4297-d0b314.JPG"
 publication: Developments
 ---
 
-![Jeff Mecaskey.jpg](/uploads/Jeff%20Mecaskey.jpg){:.float-left}*Jeffery Mecaskey is the Team Leader of the [Tackling Deadly Diseases in Africa Program (TDDAP)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), a project designed to strengthen health security in Cameroon, Chad, Côte d’Ivoire, Mali, Niger, and Uganda. TDAAP is funded by UK Aid and led by DAI Global Health.
+![Jeff Mecaskey.jpg](/uploads/Jeff%20Mecaskey.jpg){:.float-left}*[Jeffery Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey) is the Team Leader of the [Tackling Deadly Diseases in Africa Program (TDDAP)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), a project designed to strengthen health security in Cameroon, Chad, Côte d’Ivoire, Mali, Niger, and Uganda. TDAAP is funded by UK Aid and led by DAI Global Health.*
 
-We recently sat with Jeff to discuss measures to strengthen primary healthcare systems in low- and middle-income countries. [An article](https://www.who.int/bulletin/volumes/98/11/20-252742.pdf) he co-authored analyses data from 20 low- and middle-income countries to identify common deficiencies in primary healthcare provision. The article argues that primary healthcare is an accessible way to achieve universal health coverage (UHC) and makes practical, evidence-based recommendations for policy and practice.*
+*We recently sat with Jeff to discuss measures to strengthen primary healthcare systems in low- and middle-income countries. [An article](https://www.who.int/bulletin/volumes/98/11/20-252742.pdf) he co-authored analyses data from 20 low- and middle-income countries to identify common deficiencies in primary healthcare provision. The article argues that primary healthcare is an accessible way to achieve universal health coverage (UHC) and makes practical, evidence-based recommendations for policy and practice.*
 
 
 
