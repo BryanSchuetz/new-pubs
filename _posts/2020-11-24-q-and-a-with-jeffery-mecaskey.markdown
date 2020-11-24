@@ -29,6 +29,8 @@ We recently sat with Jeff to discuss measures to strengthen primary healthcare s
 
 "A couple of decades ago, the idea of community-centred care gained currency. It’s empowering, affordable, and culturally appropriate. A community health worker will likely be someone you know and who understands you. Your community health worker will be able to offer you a wide range of basic health services, hopefully free, but if not, usually very cheaply. Obviously, they often only have basic training, so you wouldn’t be using them if you needed a C-section. But that community health worker would help you know if you needed that C-section and refer you to suitable care. These community health workers are the foundation of a system that can offer an accessible option both for the health authority and the end-user."
 
+![DSC_4297.JPG](/uploads/DSC_4297.JPG)`TDAAP spreads the word about COVID-19 and other diseases in Chad.` 
+
 **Primary healthcare is clearly an affordable way of achieving UHC. Is it also a meaningful way, impactful way?**
 
 "Well, we know that even in high-income countries there is inequality in healthcare access between socio-economic groups. In lower- and middle-income countries that discrepancy is even greater, and even the most privileged experience difficulty in accessing good quality care. What primary healthcare does is ensure everyone can secure a minimum level of appropriate care."
@@ -48,6 +50,8 @@ We recently sat with Jeff to discuss measures to strengthen primary healthcare s
 "When catastrophic out-of-pocket costs mean people don’t access care or fall into poverty if they do, that’s not just a technical problem to be resolved with technical interventions. We need political action. In many countries, there’s a big gap between people’s aspirations and institutional responses.
 
 "We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why Tackling deadly disease in Africa is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
+
+![DSC_4969.JPG](/uploads/DSC_4969.JPG)`Preparing communities for COVID-19 is part of TDAAP's work in Chad.` 
 
 **You’re recommending increases in primary healthcare spending and improvements in implementation. What kind of changes will people on the ground see if this happens?**
 
