@@ -51,7 +51,7 @@ publication: Developments
 
 "When catastrophic out-of-pocket costs mean people don’t access care or fall into poverty if they do, that’s not just a technical problem to be resolved with technical interventions. We need political action. In many countries, there’s a big gap between people’s aspirations and institutional responses.
 
-"We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why Tackling deadly disease in Africa is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
+"We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why TDDAP is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
 
 ![DSC_4969.JPG](/uploads/DSC_4969.JPG)`Preparing communities for COVID-19 is part of TDDAP's work in Chad.` 
 
