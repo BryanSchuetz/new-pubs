@@ -33,7 +33,7 @@ publication: Developments
 
 ![DSC_4297.JPG](/uploads/DSC_4297.JPG)`TDDAP spreads the word about COVID-19 and other diseases in Chad.` 
 
-**Primary healthcare is clearly an affordable way of achieving UHC. Is it also a meaningful way, impactful way?**
+**Primary healthcare is clearly an affordable way of achieving UHC. Is it also meaningful and impactful?**
 
 "Well, we know that even in high-income countries there is inequality in healthcare access between socio-economic groups. In lower- and middle-income countries that discrepancy is even greater, and even the most privileged experience difficulty in accessing good quality care. What primary healthcare does is ensure everyone can secure a minimum level of appropriate care."
 
