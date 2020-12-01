@@ -1,7 +1,7 @@
 ---
 title: 'Q&A with Jeffrey Mecaskey: How Community Engagement, Regulations, and Incentives
   Build a Path to Improved Healthcare'
-date: 2020-11-24 16:16:00 -05:00
+date: 2020-12-01 08:16:00 -05:00
 tags:
 - global-health
 author: "[Andreea Petre-Goncalves](https://www.linkedin.com/in/andreea-petre-goncalves-1a2336120/)"
