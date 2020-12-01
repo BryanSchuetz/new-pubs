@@ -18,7 +18,7 @@ publication: Developments
 
 
 
-** Jeffrey, remind us why UHC matters.**
+**Jeffrey, remind us why UHC matters.**
 
 "It’s pretty simple, really. All we have to do is look at what happens when UHC isn’t there. Millions of people every year are thrown into poverty by catastrophic health expenditure. Imagine being in a situation where you have to sell your livestock or your house so you can afford life-saving treatment. This is exactly what happens where UHC doesn’t exist. Households headed by women are hit particularly hard. Many people are forced to choose not to get help, because they can’t afford it.
 
