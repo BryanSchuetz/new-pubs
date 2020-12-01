@@ -1,8 +1,7 @@
 ---
-title: 'Q&A with Jeffery Mecaskey: How Community Engagement, Regulations, and Incentives
+title: 'Q&A with Jeffrey Mecaskey: How Community Engagement, Regulations, and Incentives
   Build a Path to Improved Healthcare'
-date: 2020-11-24 16:16:00 -05:00
-published: false
+date: 2020-12-01 08:16:00 -05:00
 tags:
 - global-health
 author: "[Andreea Petre-Goncalves](https://www.linkedin.com/in/andreea-petre-goncalves-1a2336120/)"
@@ -11,15 +10,15 @@ social-image: "/uploads/DSC_4297-d0b314.JPG"
 publication: Developments
 ---
 
-![Jeff Mecaskey.jpg](/uploads/Jeff%20Mecaskey.jpg){:.float-left}*[Jeffery Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey) is the Team Leader of the [Tackling Deadly Diseases in Africa Program (TDDAP)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), a project designed to strengthen health security in Cameroon, Chad, Côte d’Ivoire, Mali, Niger, and Uganda. TDDAP is funded by UK Aid and led by DAI Global Health.*
+![Jeff Mecaskey.jpg](/uploads/Jeff%20Mecaskey.jpg){:.float-left}*[Jeffrey Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey) is the Team Leader of the [Tackling Deadly Diseases in Africa (TDDA) program](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), a project designed to strengthen health security in Cameroon, Chad, Côte d’Ivoire, Mali, Niger, and Uganda. TDDA is funded by UK Aid and led by DAI Global Health.*
 
-*We recently sat with Jeff to discuss measures to strengthen primary healthcare systems in low- and middle-income countries. [An article](https://www.who.int/bulletin/volumes/98/11/20-252742.pdf) he co-authored analyses data from 20 low- and middle-income countries to identify common deficiencies in primary healthcare provision. The article argues that primary healthcare is an accessible way to achieve universal health coverage (UHC) and makes practical, evidence-based recommendations for policy and practice.*
-
-
+*We recently sat with Jeffrey to discuss measures to strengthen primary healthcare systems in low- and middle-income countries. [An article](https://www.who.int/bulletin/volumes/98/11/20-252742.pdf) he co-authored for the Bulletin of the World Health Organization analyses data from 20 low- and middle-income countries to identify common deficiencies in primary healthcare provision. The article argues that primary healthcare is an accessible way to achieve universal health coverage (UHC) and makes practical, evidence-based recommendations for policy and practice.*
 
 
 
-**Jeff, remind us why UHC matters.**
+
+
+** Jeffrey, remind us why UHC matters.**
 
 "It’s pretty simple, really. All we have to do is look at what happens when UHC isn’t there. Millions of people every year are thrown into poverty by catastrophic health expenditure. Imagine being in a situation where you have to sell your livestock or your house so you can afford life-saving treatment. This is exactly what happens where UHC doesn’t exist. Households headed by women are hit particularly hard. Many people are forced to choose not to get help, because they can’t afford it.
 
@@ -31,7 +30,7 @@ publication: Developments
 
 "A couple of decades ago, the idea of community-centred care gained currency. It’s empowering, affordable, and culturally appropriate. A community health worker will likely be someone you know and who understands you. Your community health worker will be able to offer you a wide range of basic health services, hopefully free, but if not, usually very cheaply. Obviously, they often only have basic training, so you wouldn’t be using them if you needed a C-section. But that community health worker would help you know if you needed that C-section and refer you to suitable care. These community health workers are the foundation of a system that can offer an accessible option both for the health authority and the end-user."
 
-![DSC_4297.JPG](/uploads/DSC_4297.JPG)`TDDAP spreads the word about COVID-19 and other diseases in Chad.` 
+![DSC_4297.JPG](/uploads/DSC_4297.JPG)`TDDA spreads the word about COVID-19 and other diseases in Chad.` 
 
 **Primary healthcare is clearly an affordable way of achieving UHC. Is it also meaningful and impactful?**
 
@@ -51,9 +50,9 @@ publication: Developments
 
 "When catastrophic out-of-pocket costs mean people don’t access care or fall into poverty if they do, that’s not just a technical problem to be resolved with technical interventions. We need political action. In many countries, there’s a big gap between people’s aspirations and institutional responses.
 
-"We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why TDDAP is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
+"We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why TDDA is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
 
-![DSC_4969.JPG](/uploads/DSC_4969.JPG)`Preparing communities for COVID-19 is part of TDDAP's work in Chad.` 
+![DSC_4969.JPG](/uploads/DSC_4969.JPG)`Preparing communities for COVID-19 is part of TDDA's work in Chad.` 
 
 **You’re recommending increases in primary healthcare spending and improvements in implementation. What kind of changes will people on the ground see if this happens?**
 
@@ -73,6 +72,6 @@ publication: Developments
 
 **Parting thoughts?**
 
-"We say that TDDAP is focused on 'integrated health security'—if a health system cannot deliver a poor woman's baby safely, it’s not likely to deliver epidemic preparedness and response. Health systems in many low- and middle-income countries are fragmented, marked by inefficiencies in siloed programmes and efforts. Nowhere is this more apparent than in health security. The Foreign, Commonwealth & Development Office has been a leader in policy and in funding in supporting how we integrate these efforts and maximise their impact."
+"We say that TDDA is focused on 'integrated health security'—if a health system cannot deliver a poor woman's baby safely, it’s not likely to deliver epidemic preparedness and response. Health systems in many low- and middle-income countries are fragmented, marked by inefficiencies in siloed programmes and efforts. Nowhere is this more apparent than in health security. The Foreign, Commonwealth & Development Office has been a leader in policy and in funding in supporting how we integrate these efforts and maximise their impact."
 
-*Andreea Petre-Goncalves provides communications support for TDDAP.*
+*Andreea Petre-Goncalves provides communications support for TDDA.*
