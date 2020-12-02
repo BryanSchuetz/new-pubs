@@ -9,6 +9,7 @@
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.excerpt | truncate: 240 | strip_html }}">
   <meta name="twitter:image" content="https://dai-global-developments.com{{ page.social-image | default: "/uploads/social-image.jpg" }}">
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-developments.com{{ page.social-image | default: "/uploads/social-image.jpg" }}" />
   <meta property="fb:app_id" content="166488866849393">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
