@@ -63,4 +63,4 @@ In Mozambique, the [Financial Sector Deepening](https://www.dai.com/our-work/pro
 
 Donor programmes have adapted to COVID-19 in various ways: by incorporating new messaging or introducing new protection mechanisms; by supporting women in workplaces or women running home-based businesses; by focusing on the role women play in their households. But these short-term adjustments in programming can have long-term impacts on women’s lives and should not be designed and implemented only with a temporary or short-term vision. We have an opportunity in the urgency of this crisis to learn from the adjustments we are making and build upon them to create sustainable means of increasing women’s economic empowerment—in the long term and through the unforeseeable but inevitable shocks to come.
 
-*[Daan Schuttenbelt](https://www.linkedin.com/in/daan-schuttenbelt-a24764b7/) is an Associate Project Manager at DAI.*
+*[Daan Schuttenbelt](https://www.linkedin.com/in/daan-schuttenbelt-a24764b7/) Daan Schuttenbelt is an Associate Project Manager with the Economic Growth team in DAI's UK office, working on projects in Mexico and Palestine.*
