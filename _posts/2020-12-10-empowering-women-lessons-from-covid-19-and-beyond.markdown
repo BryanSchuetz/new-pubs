@@ -1,6 +1,6 @@
 ---
 title: 'Empowering Women: Lessons from COVID-19 and Beyond'
-date: 2020-12-09 11:16:00 -05:00
+date: 2020-12-10 08:16:00 -05:00
 published: false
 tags:
 - gender
