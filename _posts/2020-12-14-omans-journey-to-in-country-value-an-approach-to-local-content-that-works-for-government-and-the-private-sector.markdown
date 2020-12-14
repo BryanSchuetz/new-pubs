@@ -18,7 +18,7 @@ In many countries, local content policies and regulations stipulate targets that
 
 Governments looking to stimulate economic growth and create local jobs—especially in response to the coronavirus pandemic—would do well to consider Oman’s experience in ICV. 
 
-### How Oman Built Its ICV Approach
+## How Oman Built Its ICV Approach
 
 Although its process was designed to be collaborative from the start, Oman certainly benefitted from its strong, centralized government commitment to move ICV forward. Oman’s Oil and Gas Blueprint initiative was led and consistently promoted by the Ministry of Oil and Gas to emphasize how highly the Omani government prioritizes ICV. The initiative’s governance model included a strong ICV Steering Committee, chaired by the Deputy Minister of Oil and Gas, that met each month for 45 months during the design, launch, and delivery of the strategy. This Committee was made up of leaders in the Ministry of Oil and Gas, the Ministry of Manpower, Petroleum Development Oman (PDO), and executives from the nine major oil and gas operators in Oman. 
 
@@ -38,7 +38,7 @@ Perhaps the most difficult challenge, and one that affects other sectors too, is
 
 Despite these challenges, Oman’s ICV approach is getting results. PDO, especially, has had marked success. [In 2018](https://www.pdo.co.om/en/news/publications/Publications%20Doc%20Library/ICV%20Eng%20Booklet%202019_NEW%20(1).pdf), it awarded $3.7 billion in contracts to nationally registered suppliers and has achieved 44 percent ICV value retained (that is, of PDO’s expenditures, 44 percent stays in the national economy). This retention figure is up from 18 percent in 2012. Private sector companies have led successful initiatives, too. Occidental Oman has created a national supplier development program that diagnoses the needs of small and medium-sized enterprises and helps them develop a program to enhance their competitiveness and ability to grow. BP [awarded $1.1 billion](https://www.omanobserver.om/bp-omans-investment-in-ghazeer-gas-field-to-top-4-billion/) to locally registered Omani companies in 2018. 
 
-### Lessons from the Oman Experience
+## Lessons from the Oman Experience
 
 While Oman is in many ways unique, its approach to developing ICV provides a few key takeaways that all governments should consider if they are looking to develop an effective local content approach:
 * Craft a strong local content governance model that fits the country context, is engaged throughout the development process, and includes public and private sector stakeholders;
