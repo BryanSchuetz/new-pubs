@@ -8,6 +8,8 @@ tags:
 - economic-growth
 author: "[Amanda Ryan](https://www.dai.com/who-we-are/our-team/amanda-ryan) and [Chris
   Macdonald](https://www.dai.com/who-we-are/our-team/chris-macdonald)"
+thumbnail-image: "/uploads/sm%20Construction_generic_compressed.jpg"
+social-image: "/uploads/sm%20Construction_generic_compressed.jpg"
 publication: Developments
 ---
 
