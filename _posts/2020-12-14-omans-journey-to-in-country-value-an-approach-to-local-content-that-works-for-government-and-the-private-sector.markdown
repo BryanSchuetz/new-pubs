@@ -40,7 +40,8 @@ Beyond ensuring collaboration among stakeholders in the design process, Oman’s
 By broadening the definition of “value” to include activities that will develop long-term ICV (for example, small and medium-sized enterprise development, investment in fixed assets, development of training institutions), rather than just short-term ICV (local procurement and contracting), the Ministry and its partners aimed to create a sustainable path to greater ICV by incentivizing the development of local capabilities in the workforce and supply base. 
 Following the development of these criteria, operator staff were trained to implement ICV, including how to identify market opportunities for ICV. The knowledge transfer initiative targeted all levels of each business, and included training for executives and their direct reports, and a three-day course for contract holders and engineers on how to incorporate ICV principles into project design and contracting. Sharing this information widely created a level-playing field for ICV and ensured that in-company initiatives to drive ICV are more likely to meet the new standard. 
 
-<aside><h2>Defining ICV</h2><p>Definition: The total spend retained in-country that benefits business development, contributes to human capability, and stimulates productivity in Oman’s economy
+<aside><h2>Defining ICV</h2><p>**Definition:** The total spend retained in-country that benefits business development, contributes to human capability, and stimulates productivity in Oman’s economy.
+
 ICV Metrics Categories:
 1. Investment in Fixed Assets
 2. Omanisation of Workforce
