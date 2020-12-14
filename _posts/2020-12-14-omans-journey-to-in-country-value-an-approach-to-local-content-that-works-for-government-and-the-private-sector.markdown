@@ -5,6 +5,7 @@ date: 2020-12-14 09:37:00 -05:00
 published: false
 tags:
 - sustainable-business
+- economic-growth
 publication: Developments
 ---
 
