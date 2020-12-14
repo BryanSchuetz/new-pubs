@@ -6,6 +6,8 @@ published: false
 tags:
 - sustainable-business
 - economic-growth
+author: "[Amanda Ryan](https://www.dai.com/who-we-are/our-team/amanda-ryan) and [Chris
+  Macdonald](https://www.dai.com/who-we-are/our-team/chris-macdonald)"
 publication: Developments
 ---
 
