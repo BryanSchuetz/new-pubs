@@ -42,12 +42,12 @@ Following the development of these criteria, operator staff were trained to impl
 
 <aside><h2>Defining ICV</h2><p>Definition: The total spend retained in-country that benefits business development, contributes to human capability, and stimulates productivity in Oman’s economy
 ICV Metrics Categories:
-1.	Investment in Fixed Assets
-2.	Omanisation of Workforce
-3.	Local Sourcing of Goods
-4.	Local Sourcing of Sub-Contracted Services
-5.	Development of National Suppliers
-6.	Development of National Training, Education, and Research & Development Institutions
+1. Investment in Fixed Assets
+2. Omanisation of Workforce
+3. Local Sourcing of Goods
+4. Local Sourcing of Sub-Contracted Services
+5. Development of National Suppliers
+6. Development of National Training, Education, and Research & Development Institutions
 </p></aside>
 
 While the Ministry and its partners set lofty goals and designed a thoughtful, evidence-driven approach to ICV, they have encountered some challenges. For example, a big part of the strategy was to generate ICV by developing the capabilities of Omani companies or working with entrepreneurs and investors to start new businesses. Opportunities for such investment were identified based on analysis of the oil and gas sector’s forecasted demand for goods and services, but in some cases investors found that those opportunities were not feasible. This mismatch was largely due to gaps in operator data, which required the ICV team to extrapolate the existing data to forecast spending—which in turn overinflated the size and potential of some of the identified opportunities. In the future, deeper analysis on the feasibility of key opportunities should be undertaken in cooperation with potential investors to ensure newly identified opportunities are validated by the market. 
