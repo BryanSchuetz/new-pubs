@@ -1,8 +1,7 @@
 ---
 title: 'Oman’s Journey to In-Country Value: An Approach to Local Content that Works
   for Government and the Private Sector'
-date: 2020-12-14 09:37:00 -05:00
-published: false
+date: 2020-12-15 09:37:00 -05:00
 tags:
 - sustainable-business
 - economic-growth
