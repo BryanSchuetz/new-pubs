@@ -7,6 +7,8 @@ tags:
 - trade
 - covid-19
 author: "[Fiona Shera](https://www.dai.com/who-we-are/our-team/fiona-shera)"
+thumbnail-image: "/uploads/sm%20container-ships%5B2%5D.jpg"
+social-image: "/uploads/sm%20container-ships%5B2%5D.jpg"
 publication: Developments
 ---
 
@@ -27,6 +29,8 @@ So what can DAI and other trade and international development practitioners do t
 
 COVID-19’s immediate adverse impact on trade is indisputable. However, the crisis also has potential to prompt change, including trade reforms that enable faster recovery and enhance future trade performance. 
 
+![container-ships[2].jpg](/uploads/container-ships%5B2%5D.jpg)`A massive ship moves goods from Southern Africa.`
+
 DAI’s six-country Foreign, Commonwealth and Development Office (FCDO)-funded [Trade Forward Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-forward) programme provides an example of how support can be adjusted nimbly to advance reform opportunities emerging from the pandemic. Trade Forward had only mobilised in early March 2020. In normal times, the focus would have been on medium-term planning and exploring how best to support and deliver transformational change in trade policy. However, within weeks of the programme’s start, the World Health Organization declared a global pandemic and the project pivoted to address two pressing issues:
  
 * Identifying COVID-19-related changes to trade policy, the regulatory environment, and emerging market issues across the Southern Africa region; and 
@@ -37,6 +41,8 @@ By encouraging a focus on high-impact reforms that could be quickly implemented,
 A similar reform opportunity emerged in Pakistan, where the U.S. Agency for International Development (USAID) [Pakistan Regional Integration Activity (PREIA)](https://www.dai.com/our-work/projects/pakistan-regional-economic-integration-activity-preia) has worked on Pakistan-Afghanistan trade since 2015. As the pandemic hit Pakistan, border closures and new standard operating procedures immediately reduced trade between the two countries. A growing backlog at the border, inability to export perishable goods, and food security concerns led to political pressure for action. In July, an Executive Committee was tasked to develop proposals to tackle the bottlenecks hindering trade with Afghanistan. PREIA was able to share its existing, well-researched reform proposals with the Committee. 
 
 This exchange, combined with the Committee’s own detailed review of the trade and transit process, has accelerated several key transit and trade reforms that may otherwise have taken years to achieve. PREIA continues to support this process and in October helped to convene the public-private sector [Pakistan-Afghanistan Trade and Investment Forum 2020](https://www.dawn.com/news/1587338). Focused on building trust and reviewing actions to reduce the costs of trade and transit, this high-level event promises to enhance trade, investment, and economic cooperation between the two countries.
+
+![5300227585_328a8bafc7_o.jpg](/uploads/5300227585_328a8bafc7_o.jpg)`The PREIA team works to increase Pakistan’s access to regional and international markets and is a key economic growth project that stands to benefit numerous Pakistani businesses.` 
 
 ## Building Enterprise and Trade Resilience 
 
@@ -54,7 +60,7 @@ These trends are worsening, and while COVID-19 is creating some commercial oppor
 
 At a fundamental level, trade depends on businesses knowing what and how to trade. COVID-19 has disrupted traditional trade and information flows and imposed new requirements. In response, the Trade Forward team, for example, worked with FCDO and DAI’s [Center for Digital Acceleration (CDA)](https://www.dai.com/our-work/solutions/digital-acceleration) to develop digital tools that improve business awareness and access to information, including the web-based dashboard noted above, which will help exporters monitor policy, regulatory, and procedural changes in Southern Africa; provide information on changes in trade flows; and identify opportunities for value chain diversification.
 
-Beyond our trade practice, other parts of DAI have also been exploring how to help clients innovate in the face of COVID-19. For example, DAI’s [Sustainable Business Group (SBG)](https://www.dai.com/our-work/solutions/sustainable-business) has adapted its customized economic impact assessment services to provide near real-time data allowing public and private sector decision makers to make informed, data-driven choices as they navigate the global crisis. SBG has also assisted MSMEs to develop more effective crisis response strategies, focused on first stabilizing, then strengthening, then pivoting their businesses. This MSME resilience toolkit can be adapted by donors, governments, and financial institutions to sustain the MSME sector through and beyond the crisis. 
+Beyond our trade practice, other parts of DAI have also been exploring how to help clients innovate in the face of COVID-19. For example, DAI’s [Sustainable Business Group (SBG)](https://www.dai.com/our-work/solutions/sustainable-business) has adapted its customized economic impact assessment services to provide near real-time data allowing public and private sector decision-makers to make informed, data-driven choices as they navigate the global crisis. SBG has also assisted MSMEs to develop more effective crisis response strategies, focused on first stabilizing, then strengthening, then pivoting their businesses. This MSME resilience toolkit can be adapted by donors, governments, and financial institutions to sustain the MSME sector through and beyond the crisis. 
 
 ## Harnessing Technology to Reimagine Trade 
 
@@ -67,6 +73,8 @@ These technologies are finding their way into DAI’s programming and represent 
 The tradetech revolution has been on the horizon for many years, but the pandemic has galvanised companies and governments to do more of their business virtually. Yet this transition comes with its own challenges. Greater use of technology does not in itself deliver instant results. Progress will require investment in infrastructure, IT systems, awareness-raising, sensitisation, and skills development. COVID-19 has created the incentive and business opportunity to accelerate uptake of tradetech, but like all technology, it must be customized to the local context and capabilities. 
 
 DAI’s experience shows that innovative technological approaches to trade, such as electronic warehouse receipt systems, will not take hold unless market participants have the right financial incentives and are aware of, understand, and—most importantly—trust the new systems. Tailored support is needed to design approaches that respond to distinct country, government, and user needs. Absent this support, the tradetech revolution could leave many countries and businesses behind. 
+
+![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`The DaNa Facility works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs.`
 
 ## How Can We Accelerate Recovery and Build Back Better on Trade? 
 
