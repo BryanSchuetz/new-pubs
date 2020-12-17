@@ -10,7 +10,7 @@ author: "[Fiona Shera](https://www.dai.com/who-we-are/our-team/fiona-shera)"
 publication: Developments
 ---
 
-The COVID-19 pandemic is having a transformational impact on trade. The World Trade Organisation predicts trade will shrink by 9.2 percent in 2020 compared with 2019, while the International Monetary Fund has said that the pandemic “is the worst crisis since the Great Depression and that it will take significant innovation on the policy front, at both the national and international levels to recover from this calamity.”
+The COVID-19 pandemic is having a transformational impact on trade. The World Trade Organisation predicts trade will [shrink by 9.2 percent](https://www.wto.org/english/news_e/news20_e/ddgya_13oct20_e.htm) in 2020 compared with 2019, while the International Monetary Fund [has said](https://blogs.imf.org/2020/10/13/a-long-uneven-and-uncertain-ascent/) that the pandemic “is the worst crisis since the Great Depression and that it will take significant innovation on the policy front, at both the national and international levels to recover from this calamity.”
 
 To some extent, COVID-19 has only accentuated adverse changes—growing nationalism, trade disputes, sovereignty concerns, and weak global leadership—already underway in the global trading system. But in the wake of the pandemic-induced lockdown, borders have been closed, domestic concerns about the supply of essential items have led to export bans, and market-distorting state aid has increased dramatically. Where once policymakers were focused on making global value chains more open and inclusive, now the rhetoric is about “reshoring production.” Such trends could exacerbate global inequality over the medium term.
 
