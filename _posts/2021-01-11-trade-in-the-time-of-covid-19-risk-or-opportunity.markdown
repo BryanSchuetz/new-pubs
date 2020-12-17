@@ -7,6 +7,8 @@ tags:
 - trade
 - covid-19
 author: "[Fiona Shera](https://www.dai.com/who-we-are/our-team/fiona-shera)"
+thumbnail-image: "/uploads/sm%20container-ships%5B2%5D.jpg"
+social-image: "/uploads/sm%20container-ships%5B2%5D.jpg"
 publication: Developments
 ---
 
