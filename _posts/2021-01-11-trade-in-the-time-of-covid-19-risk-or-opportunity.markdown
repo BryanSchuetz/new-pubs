@@ -38,7 +38,7 @@ A similar reform opportunity emerged in Pakistan, where the U.S. Agency for Inte
 
 This exchange, combined with the Committee’s own detailed review of the trade and transit process, has accelerated several key transit and trade reforms that may otherwise have taken years to achieve. PREIA continues to support this process and in October helped to convene the public-private sector [Pakistan-Afghanistan Trade and Investment Forum 2020](https://www.dawn.com/news/1587338). Focused on building trust and reviewing actions to reduce the costs of trade and transit, this high-level event promises to enhance trade, investment, and economic cooperation between the two countries.
 
-Building Enterprise and Trade Resilience 
+## Building Enterprise and Trade Resilience 
 
 COVID-19 has increased uncertainty for businesses and traders. Trade flows are changing, global value chains are working differently, it is harder to move goods across borders, and businesses are at greater risk. The immediate challenge is to ensure trade and business continuity. The medium- to longer-term challenge is to enable innovation and enhance resilience so businesses and trade can recover and build back better. 
 
