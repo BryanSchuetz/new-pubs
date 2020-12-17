@@ -27,6 +27,8 @@ So what can DAI and other trade and international development practitioners do t
 
 COVID-19’s immediate adverse impact on trade is indisputable. However, the crisis also has potential to prompt change, including trade reforms that enable faster recovery and enhance future trade performance. 
 
+![container-ships[2].jpg](/uploads/container-ships%5B2%5D.jpg)`A massive ship moves goods from Southern Africa.`
+
 DAI’s six-country Foreign, Commonwealth and Development Office (FCDO)-funded [Trade Forward Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-forward) programme provides an example of how support can be adjusted nimbly to advance reform opportunities emerging from the pandemic. Trade Forward had only mobilised in early March 2020. In normal times, the focus would have been on medium-term planning and exploring how best to support and deliver transformational change in trade policy. However, within weeks of the programme’s start, the World Health Organization declared a global pandemic and the project pivoted to address two pressing issues:
  
 * Identifying COVID-19-related changes to trade policy, the regulatory environment, and emerging market issues across the Southern Africa region; and 
