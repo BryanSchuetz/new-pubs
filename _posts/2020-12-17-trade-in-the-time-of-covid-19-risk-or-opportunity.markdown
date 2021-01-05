@@ -56,6 +56,8 @@ COVID-19 prompted similar adaptation in Myanmar. The [DaNa Facility](https://www
 
 This process included a business survey carried out by the Asia Foundation, covering 750 companies; exporter surveys; and policy notes focused on financial inclusion, medical supplies, foreign investment, and support to micro, small, and medium-sized enterprises (MSMEs). This evidence suggested that trade and business continuity was under severe stress. The Asia Foundation found that by May, 29 percent of enterprises had completely closed, profitability had declined, workers were being laid off, and half of enterprises saw their survival at risk. The garments, textiles, hotel, and tourism sectors were particularly hard hit. 
 
+![1 Supporting SME in Chin State.jpg](/uploads/1%20Supporting%20SME%20in%20Chin%20State.jpg)`The DaNa Facility is helping the government in Burma assess how COVID-19 is affecting small firms.` 
+
 These trends are worsening, and while COVID-19 is creating some commercial opportunities—in tech and financial inclusion, for example—there is a pressing need to prioritise reform activities and enhance coordination across the health and economic COVID-19 response. DaNa and ITC continue to support this process and are encouraging the government to integrate COVID-19 emergency and recovery response within Myanmar’s existing Private Sector Development Action Plan, National Export Strategy, and investment response.
 
 At a fundamental level, trade depends on businesses knowing what and how to trade. COVID-19 has disrupted traditional trade and information flows and imposed new requirements. In response, the Trade Forward team, for example, worked with FCDO and DAI’s [Center for Digital Acceleration (CDA)](https://www.dai.com/our-work/solutions/digital-acceleration) to develop digital tools that improve business awareness and access to information, including the web-based dashboard noted above, which will help exporters monitor policy, regulatory, and procedural changes in Southern Africa; provide information on changes in trade flows; and identify opportunities for value chain diversification.
@@ -66,6 +68,8 @@ Beyond our trade practice, other parts of DAI have also been exploring how to he
 
 Technology has always driven trade. From the earliest merchant ships to refrigerated containers to the faxed letter of credit, the history of globalisation is intimately tied to tech innovation. Technology was already beginning to reshape the trade landscape and COVID-19 has incentivised increased uptake of “tradetech” solutions across local and global trading systems. 
 
+![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`The DaNa Facility works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs.`
+
 Technology-driven approaches to enhance access and efficiency are having a positive impact on cross-border commerce. Pioneering govtech countries such as Estonia and Singapore are using information and communications technologies and tradetech (trade finance technology) to catalyse growth in SME exports and strengthen value chains. Smart contracts that use blockchain are creating self-executing agreements that need little action or oversight. E-commerce, electronic payments, and smart contracts are creating potential even for microenterprises to reach regional and global markets, and tap into multicountry value chains. 
 
 These technologies are finding their way into DAI’s programming and represent potential quantum leaps in trade inclusiveness. For example, Trade Forward will share learning about all these emergent trade-related technologies (blockchain, online dispute resolution, and so on), and DaNa is exploring technology-driven dispute resolution. 
@@ -73,8 +77,6 @@ These technologies are finding their way into DAI’s programming and represent 
 The tradetech revolution has been on the horizon for many years, but the pandemic has galvanised companies and governments to do more of their business virtually. Yet this transition comes with its own challenges. Greater use of technology does not in itself deliver instant results. Progress will require investment in infrastructure, IT systems, awareness-raising, sensitisation, and skills development. COVID-19 has created the incentive and business opportunity to accelerate uptake of tradetech, but like all technology, it must be customized to the local context and capabilities. 
 
 DAI’s experience shows that innovative technological approaches to trade, such as electronic warehouse receipt systems, will not take hold unless market participants have the right financial incentives and are aware of, understand, and—most importantly—trust the new systems. Tailored support is needed to design approaches that respond to distinct country, government, and user needs. Absent this support, the tradetech revolution could leave many countries and businesses behind. 
-
-![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`The DaNa Facility works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs.`
 
 ## How Can We Accelerate Recovery and Build Back Better on Trade? 
 
