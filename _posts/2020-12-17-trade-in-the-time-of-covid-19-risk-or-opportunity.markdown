@@ -42,7 +42,7 @@ A similar reform opportunity emerged in Pakistan, where the U.S. Agency for Inte
 
 This exchange, combined with the Committee’s own detailed review of the trade and transit process, has accelerated several key transit and trade reforms that may otherwise have taken years to achieve. PREIA continues to support this process and in October helped to convene the public-private sector [Pakistan-Afghanistan Trade and Investment Forum 2020](https://www.dawn.com/news/1587338). Focused on building trust and reviewing actions to reduce the costs of trade and transit, this high-level event promises to enhance trade, investment, and economic cooperation between the two countries.
 
-![pak ZD4_4896.jpg](/uploads/pak%20ZD4_4896.jpg)`The PREIA team helped to convene the recent public-private sector Pakistan-Afghanistan Trade and Investment Forum 2020.` 
+![pak ZD4_4896.jpg](/uploads/pak%20ZD4_4896.jpg)`The PREIA team helped to convene the recent public-private sector Pakistan-Afghanistan Trade and Investment Forum 2020, where Imran Khan, Prime Minister of Pakistan, at left, inaugurated the conference, with Asad Qaiser, Speaker of National Assembly of Pakistan.` 
 
 ## Building Enterprise and Trade Resilience 
 
