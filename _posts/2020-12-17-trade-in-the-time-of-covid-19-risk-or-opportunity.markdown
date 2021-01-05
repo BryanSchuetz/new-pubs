@@ -31,7 +31,7 @@ COVID-19’s immediate adverse impact on trade is indisputable. However, the cri
 
 ![container-ships[2].jpg](/uploads/container-ships%5B2%5D.jpg)`A massive ship moves goods from Southern Africa.`
 
-DAI’s six-country Foreign, Commonwealth and Development Office (FCDO)-funded [Trade Forward Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-forward) programme provides an example of how support can be adjusted nimbly to advance reform opportunities emerging from the pandemic. Trade Forward had only mobilised in early March 2020. In normal times, the focus would have been on medium-term planning and exploring how best to support and deliver transformational change in trade policy. However, within weeks of the programme’s start, the World Health Organization declared a global pandemic and the project pivoted to address two pressing issues:
+DAI’s six-country Foreign, Commonwealth & Development Office (FCDO)-funded [Trade Forward Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-forward) programme provides an example of how support can be adjusted nimbly to advance reform opportunities emerging from the pandemic. Trade Forward had only mobilised in early March 2020. In normal times, the focus would have been on medium-term planning and exploring how best to support and deliver transformational change in trade policy. However, within weeks of the programme’s start, the World Health Organization declared a global pandemic and the project pivoted to address two pressing issues:
  
 * Identifying COVID-19-related changes to trade policy, the regulatory environment, and emerging market issues across the Southern Africa region; and 
 * Developing reform recommendations at the national level that would help businesses mitigate the damage wrought by the pandemic. 
@@ -42,7 +42,7 @@ A similar reform opportunity emerged in Pakistan, where the U.S. Agency for Inte
 
 This exchange, combined with the Committee’s own detailed review of the trade and transit process, has accelerated several key transit and trade reforms that may otherwise have taken years to achieve. PREIA continues to support this process and in October helped to convene the public-private sector [Pakistan-Afghanistan Trade and Investment Forum 2020](https://www.dawn.com/news/1587338). Focused on building trust and reviewing actions to reduce the costs of trade and transit, this high-level event promises to enhance trade, investment, and economic cooperation between the two countries.
 
-![5300227585_328a8bafc7_o.jpg](/uploads/5300227585_328a8bafc7_o.jpg)`The PREIA team works to increase Pakistan’s access to regional and international markets and is a key economic growth project that stands to benefit numerous Pakistani businesses.` 
+![pak ZD4_4896.jpg](/uploads/pak%20ZD4_4896.jpg)`The PREIA team helped to convene the recent public-private sector Pakistan-Afghanistan Trade and Investment Forum 2020.` 
 
 ## Building Enterprise and Trade Resilience 
 
