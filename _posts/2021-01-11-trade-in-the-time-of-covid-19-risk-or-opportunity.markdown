@@ -1,7 +1,6 @@
 ---
 title: Trade in the Time of COVID-19—Risk or Opportunity?
-date: 2020-12-17 06:30:00 -05:00
-published: false
+date: 2021-01-11 06:30:00 -05:00
 tags:
 - economic-growth
 - trade
