@@ -55,7 +55,7 @@ COVID-19 prompted similar adaptation in Myanmar. The [DaNa Facility](https://www
 
 This process included a business survey carried out by the Asia Foundation, covering 750 companies; exporter surveys; and policy notes focused on financial inclusion, medical supplies, foreign investment, and support to micro, small, and medium-sized enterprises (MSMEs). This evidence suggested that trade and business continuity was under severe stress. The Asia Foundation found that by May, 29 percent of enterprises had completely closed, profitability had declined, workers were being laid off, and half of enterprises saw their survival at risk. The garments, textiles, hotel, and tourism sectors were particularly hard hit. 
 
-![1 Supporting SME in Chin State.jpg](/uploads/1%20Supporting%20SME%20in%20Chin%20State.jpg)`The DaNa Facility is helping the government in Burma assess how COVID-19 is affecting small firms.` 
+![1 Supporting SME in Chin State.jpg](/uploads/1%20Supporting%20SME%20in%20Chin%20State.jpg)`The DaNa Facility is helping the government in Myanmar assess how COVID-19 is affecting small firms.` 
 
 These trends are worsening, and while COVID-19 is creating some commercial opportunities—in tech and financial inclusion, for example—there is a pressing need to prioritise reform activities and enhance coordination across the health and economic COVID-19 response. DaNa and ITC continue to support this process and are encouraging the government to integrate COVID-19 emergency and recovery response within Myanmar’s existing Private Sector Development Action Plan, National Export Strategy, and investment response.
 
