@@ -44,6 +44,8 @@ The subsequent [Economic Development for a Sustainable Environment](https://www.
 
 Learning from these interventions, AVANSE focused not on building the capacity of any single actor or set of actors (that is, farmers or farmer groups), but rather on building the capacities of a wide range of actors, including farmers and their cooperatives, multiple exporters, and universities. Not only did AVANSE emphasize creating strong relationships between actors at different functional levels (between cooperatives and exporters, for example), it also fostered healthy competition between firms at the same level (exporter-exporter) to stimulate innovation and adoption of value-adding practices such as fermentation. 
 
+![coop.jpg](/uploads/coop.jpg)`A female cooperative member shows her products.`
+
 ## Cooperation and Competition
 
 This approach yielded better results. Stimulating cooperation and competition among market actors can help activate strong, functioning market systems. When markets actors can work together to increase productivity and quality, respond to market opportunities and threats, and continuously invest in industry improvements and value-adding innovations, then the ingredients are in place for an inclusive, competitive, and resilient market system. This is what happened in Northern Haiti’s cacao sector, where AVANSE leveraged the gains achieved in the value chain by previous projects and accelerated the pace of system improvements by pulling on the levers of cooperation and competition. 
