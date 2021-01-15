@@ -52,7 +52,7 @@ The improved relationship with the exporter also enables the cooperative to draw
 
 In a bid to deepen linkages among market actors still further, AVANSE facilitated partnerships between exporters and local processing businesses. Exporters supply lower-quality, nonexportable cacao at a discount to these local small enterprises, which then transform it into goods such as chocolate bars and cacao butter lotion for the local market. These improved linkages are spurring the growth of a rapidly expanding local cacao confectionery market in the North—one that is increasingly attracting the participation of young people and women as entrepreneurs.
 
-Fomenting Competition
+## Fomenting Competition
 
 Market actors willing to adopt positive behaviors are key to driving market system change. AVANSE worked with early movers who were willing to innovate and invest in improvements, both to make them more competitive and to encourage other actors to innovate in response, thus enhancing overall industry competitiveness.
 
