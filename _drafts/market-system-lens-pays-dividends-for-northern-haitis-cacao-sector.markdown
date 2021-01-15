@@ -11,11 +11,16 @@ author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/)"
 publication: Developments
 ---
 
-Once a major agricultural exporter with robust export industries in coffee and sugarcane, Haiti now accounts for a miniscule share of global exports for virtually all agricultural commodities—around 0.1 percent to 0.4 percent. Yet, strengthening agricultural exports—including cacao, the seed from which cocoa products are made—has long been held up as a pathway to economic growth and poverty reduction in this Caribbean nation. Over the past two decades, international development efforts have sought to bolster the cacao value chain and boost output and exports.  
+Once a major agricultural exporter with robust export industries in coffee and sugarcane, Haiti now accounts for a minuscule share of global exports for virtually all agricultural commodities—around 0.1 percent to 0.4 percent. Yet, strengthening agricultural exports—including cacao, the seed from which cocoa products are made—has long been held up as a pathway to economic growth and poverty reduction in this Caribbean nation. Over the past two decades, international development efforts have sought to bolster the cacao value chain and boost output and exports.  
 
-Among DAI’s agricultural initiatives in Haiti over the past two decades, the U.S. Agency for International Development (USAID) Appui a la Valorisation du potentiel Agricole du Nord, pour la Sécurité Economique et Environnementale (AVANSE) project stands out as yielding the most encouraging results to date. The credit for that goes to AVANSE’s market systems approach. 
+Among DAI’s agricultural initiatives in Haiti over the past two decades, the U.S. Agency for International Development (USAID) Appui a la Valorisation du potentiel Agricole du Nord, pour la Sécurité Economique et Environnementale ([AVANSE](https://www.dai.com/our-work/projects/haiti-appui-la-valorisation-du-potentiel-agricole-du-nord-la-securite-economique)) project stands out as yielding the most encouraging results to date. The credit for that goes to AVANSE’s [market systems development](https://www.dai.com/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development) approach. 
 
-Haiti’s Fine Variety of Cacao Beans 
+
+
+
+
+
+## Haiti’s Fine Variety of Cacao Beans 
 
 Haiti’s cacao production declined rapidly in the 1960s, when production peaked at annual levels of 20,000 metric tons, of which little was exported. Over the past two decades, the country has produced on average 5,000 metric tons annually and exported approximately 80 percent. However, recent spells of prolonged drought—most notably in 2015, 2017, and 2018—have contributed to below-average cacao exports of 2,5000 metric tons per year. In 2016, Hurricane Matthew destroyed entire cacao plantations and approximately 1,000 metric tons was lost, cutting 2017 export volumes by 50 percent compared to the prior year. 
 
