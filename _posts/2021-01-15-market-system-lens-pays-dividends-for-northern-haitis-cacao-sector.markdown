@@ -66,8 +66,6 @@ AVANSE provided [PISA](https://www.uncommoncacao.com/order-samples/pisa-haiti) w
 
 AVANSE promoted competition by strategically working with and rewarding those market actors willing to innovate and invest in improvements, and this evolution has had a cascading effect on the sector, with more exporters adopting this model and some now reaching new markets without donor support. Due to these market system changes, and also strong project interventions to increase post-drought production, cacao exports in the North of Haiti increased from $942,360 (427 metric tons) in 2013 to $6,899,937 (2,717 metric tons) in 2019. 
 
-CHART HERE THAT SHOWS THESE FIGURES….
-
 ## Potential for Growth
 
 AVANSE’s comprehensive market systems approach did not just work to improve transactions at the farmer household level but enabled a variety of actors—such as farmers, cooperatives, cacao agro-processing enterprises, and exporters—to continuously shape an environment that supports inclusive economic transformation. Impressive as the resulting export numbers are, perhaps more telling is the enhanced connectivity among the market actors who increasingly understand their interdependency and engage in win-win business ventures. 
