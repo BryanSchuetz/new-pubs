@@ -84,4 +84,4 @@ Future donor projects in this space are urged to capitalize on the improved mark
 
 Haiti is a good example of how development programming has evolved over the past 20 years, placing the emphasis for sustainable growth on getting the market system working. But the work is not finished. The time is ripe for more market systems initiatives to enhance resilience in this sector. 
 
-*[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/) is a Global Practice Specialist in DAI’s Agriculture, Market Systems, and Resilience practice.*
+*[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/) is a Global Practice Specialist in DAI’s Agriculture, Market Systems, and Resilience practice. [Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant) and [Tom Lenaghan](https://www.dai.com/who-we-are/our-team/tom-lenaghan) contributed to this article.*
