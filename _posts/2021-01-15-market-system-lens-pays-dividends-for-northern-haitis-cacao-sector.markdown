@@ -23,6 +23,7 @@ Among DAI’s agricultural initiatives in Haiti over the past two decades, the U
 
 
 
+![1sm cacao beans.jpg](/uploads/1sm%20cacao%20beans.jpg)
 ## Haiti’s Fine Variety of Cacao Beans 
 
 Haiti’s cacao production declined rapidly in the 1960s, when production peaked at annual levels of 20,000 metric tons, of which little was exported. Over the past two decades, the country has produced on average 5,000 metric tons annually and exported approximately 80 percent. However, recent spells of prolonged drought—most notably in 2015, 2017, and 2018—have contributed to below-average [cacao exports](http://www.fao.org/3/ca5398en/ca5398en.pdf) of 2,5000 metric tons per year. In 2016, [Hurricane Matthew](https://www.worldbank.org/en/results/2017/10/20/rapidly-assessing-the-impact-of-hurricane-matthew-in-haiti) destroyed entire cacao plantations and approximately 1,000 metric tons were lost, cutting 2017 export volumes by 50 percent compared to the prior year. 
@@ -64,8 +65,6 @@ For example, fermented cacao attracts as much as a 20 percent price premium from
 AVANSE provided [PISA](https://www.uncommoncacao.com/order-samples/pisa-haiti) with technical advice and materials through a 1:1 cost-sharing grant to upgrade its fermentation center. Within two years, sales doubled, partially due to selling to the higher-priced fermentation and fair-trade markets. PISA’s growing revenue and market share in turn incentivized Novella to engage and invest in cacao fermentation. Today, all three of the main cacao exporters in the Northern Corridor are fermenting cacao. 
 
 AVANSE promoted competition by strategically working with and rewarding those market actors willing to innovate and invest in improvements, and this evolution has had a cascading effect on the sector, with more exporters adopting this model and some now reaching new markets without donor support. Due to these market system changes, and also strong project interventions to increase post-drought production, cacao exports in the North of Haiti increased from $942,360 (427 metric tons) in 2013 to $6,899,937 (2,717 metric tons) in 2019. 
-
-CHART HERE THAT SHOWS THESE FIGURES….
 
 ## Potential for Growth
 
