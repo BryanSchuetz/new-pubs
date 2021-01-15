@@ -58,23 +58,23 @@ Market actors willing to adopt positive behaviors are key to driving market syst
 
 For example, fermented cacao attracts as much as a 20 percent price premium from American and European importers due to its stronger chocolate flavor. However, only 5 percent of Haiti’s cacao export is fermented after harvest; the rest is exported in raw form. AVANSE saw early on that a new market entrant, PISA, a cacao buyer and exporter, was interested in investing in cacao fermentation, whereas the exporter with the greatest market share, Novella—in operation for more than a century—was not disposed to make value-adding investments in cacao fermentation, partially due to the comfort it enjoyed in what was a relatively uncompetitive market.
 
-AVANSE provided PISA with technical advice and materials through a 1:1 cost-sharing grant to upgrade its fermentation center. Within two years, sales doubled, partially due to selling to the higher-priced fermentation and fair-trade markets. PISA’s growing revenue and market share in turn incentivized Novella to engage and invest in cacao fermentation. Today, all three of the main cacao exporters in the Northern Corridor are fermenting cacao. 
+AVANSE provided [PISA](https://www.uncommoncacao.com/order-samples/pisa-haiti) with technical advice and materials through a 1:1 cost-sharing grant to upgrade its fermentation center. Within two years, sales doubled, partially due to selling to the higher-priced fermentation and fair-trade markets. PISA’s growing revenue and market share in turn incentivized Novella to engage and invest in cacao fermentation. Today, all three of the main cacao exporters in the Northern Corridor are fermenting cacao. 
 
 AVANSE promoted competition by strategically working with and rewarding those market actors willing to innovate and invest in improvements, and this evolution has had a cascading effect on the sector, with more exporters adopting this model and some now reaching new markets without donor support. Due to these market system changes, and also strong project interventions to increase post-drought production, cacao exports in the North of Haiti increased from $942,360 (427 metric tons) in 2013 to $6,899,937 (2,717 metric tons) in 2019. 
 
 CHART HERE THAT SHOWS THESE FIGURES….
 
-Potential for Growth
+## Potential for Growth
 
-AVANSE’s comprehensive market systems approach did not just work to improve transactions at the farmer household level, but enabled a variety of actors—such as farmers, cooperatives, cacao agro-processing enterprises, and exporters—to continuously shape  an environment that supports inclusive economic transformation. Impressive as the resulting export numbers are, perhaps more telling is the enhanced connectivity among the market actors who increasingly understand their interdependency and engage in win-win business ventures. 
+AVANSE’s comprehensive market systems approach did not just work to improve transactions at the farmer household level but enabled a variety of actors—such as farmers, cooperatives, cacao agro-processing enterprises, and exporters—to continuously shape an environment that supports inclusive economic transformation. Impressive as the resulting export numbers are, perhaps more telling is the enhanced connectivity among the market actors who increasingly understand their interdependency and engage in win-win business ventures. 
 
 Today, for example, even after the project has closed, exporters continue to support cooperatives to increase volume, improve quality, and obtain the international certifications needed to sell into more remunerative organic and fair-trade markets.
 
-Promising, But Fragile
+## Promising, But Fragile
 
-That said, the system is still fragile, especially because of a lack of capacity to manage risks relating to weather shocks. The North of Haiti is subject to recurrent drought that has historically adversely impacted cacao production, destroying up to 48 percent of newly planted cacao trees. Cacao producers have few resources and limited access to knowledge to manage these risks by themselves. 
+That said, the system is still fragile, especially because of a lack of capacity to manage risks relating to [weather shocks](https://www.theguardian.com/world/2016/oct/04/why-is-haiti-vulnerable-to-natural-hazards-and-disasters). The North of Haiti is subject to recurrent drought that has historically adversely impacted cacao production, destroying up to 48 percent of newly planted cacao trees. Cacao producers have few resources and limited access to knowledge to manage these risks by themselves. 
 
-Future donor projects in this space are urged to capitalize on the improved market linkages in the industry by incentivizing the private sector to jointly address drought-related risk with smallholders. Specifically, the private sector must invest in enabling its supplier base to employ drought-resistant practices such as pruning and shade control, and to expand areas under production. 
+Future donor projects in this space are urged to capitalize on the improved market linkages in the industry by incentivizing the private sector to jointly address drought-related risk with smallholders. Specifically, the private sector must invest in enabling its supplier base to employ drought-resistant practices such as pruning and shade control and to expand areas under production. 
 
 Haiti is a good example of how development programming has evolved over the past 20 years, placing the emphasis for sustainable growth on getting the market system working. But the work is not finished. The time is ripe for more market systems initiatives to enhance resilience in this sector. 
 
