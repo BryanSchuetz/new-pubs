@@ -8,6 +8,8 @@ tags:
 - food security
 - fragile-states
 author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/)"
+thumbnail-image: "/uploads/sm%20cacao%20beans.jpg"
+social-image: "/uploads/sm%20cacao%20beans.jpg"
 publication: Developments
 ---
 
