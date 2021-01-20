@@ -14,7 +14,9 @@ social-image: "/uploads/1%20alexandre-brondino-b-F9K6DUq2I-unsplash-a782c6.jpg"
 publication: Developments
 ---
 
-Once a major agricultural exporter with robust export industries in coffee and sugarcane, Haiti now accounts for a minuscule share of global exports for virtually all agricultural commodities—around 0.1 percent to 0.4 percent. Yet, strengthening agricultural exports—including cacao, the seed from which cocoa products are made—has long been held up as a pathway to economic growth and poverty reduction in this Caribbean nation. Over the past two decades, international development efforts have sought to bolster the cacao value chain and boost output and exports.  
+Once a major agricultural exporter with robust export industries in coffee and sugarcane, Haiti now accounts for a minuscule share of global exports for virtually all agricultural commodities—around 0.1 percent to 0.4 percent. Yet, strengthening agricultural exports—including cacao, the seed from which cocoa products are made—has long been held up as a pathway to economic growth and poverty reduction in this Caribbean nation. Over the past two decades, international development efforts have sought to bolster the cacao value chain and boost output and exports.
+
+![Cacao Production.png](/uploads/Cacao%20Production.png)
 
 Among DAI’s agricultural initiatives in Haiti over the [past two decades](/uploads/Haiti%20timeline_portrait.pdf), the U.S. Agency for International Development (USAID) Appui a la Valorisation du potentiel Agricole du Nord, pour la Sécurité Economique et Environnementale ([AVANSE](https://www.dai.com/our-work/projects/haiti-appui-la-valorisation-du-potentiel-agricole-du-nord-la-securite-economique)) project stands out as yielding the most encouraging results to date. The credit for that is largely attributable to AVANSE’s application of a [market systems development](https://www.dai.com/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development) approach in the cacao export sector. 
 
@@ -27,11 +29,15 @@ Among DAI’s agricultural initiatives in Haiti over the [past two decades](/upl
 
 Haiti’s cacao production declined rapidly in the 1960s, when production peaked at annual levels of 20,000 metric tons, of which little was exported. Over the past two decades, the country has produced on average 5,000 metric tons annually and exported approximately 80 percent. However, recent spells of prolonged drought—most notably in 2015, 2017, and 2018—have contributed to below-average [cacao exports](http://www.fao.org/3/ca5398en/ca5398en.pdf) of 2,5000 metric tons per year. In 2016, [Hurricane Matthew](https://www.worldbank.org/en/results/2017/10/20/rapidly-assessing-the-impact-of-hurricane-matthew-in-haiti) destroyed entire cacao plantations and approximately 1,000 metric tons were lost, cutting 2017 export volumes by 50 percent compared to the prior year. 
 
+![Cacao Sector in the North of Haiti-01.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-01.jpg)
+
 Nevertheless, cacao remains one of Haiti’s main agricultural exports, involving more than 43,600 farmers, mostly concentrated in the North and Grand-Anse departments. Generally, farmers have little direct contact with exporters and aggregation is mostly done by middlemen—dubbed “speculateurs”—who collect cacao beans and sell to exporters. Exporters conduct minor corrective drying for beans that are too wet, and they also perform some sorting and grading. The beans are then exported mostly to U.S. and European chocolate producers. 
 
 The North Department, where USAID agriculture projects have operated for the past decade, accounts for 55 to 60 percent of cacao production in Haiti. One exporter, Novella, controls 90 percent of cacao trade and supplies from the majority of the 26,200 farmers involved in cacao production in the North. Cacao cooperatives in the North are few, and the biggest federation of cacao cooperatives, [FECCANO](https://www.valrhona.com/en/a-sustainable-company/about-us/news-and-events), also exports only a small volume of fermented cacao.
 
 The irony is that Haiti produces some of the world’s finest cacao varieties—including the Criollo and Trinitario varieties—but the quality has been substandard, and a sizable proportion of cacao, coming mostly from Novella, is sold as a low-quality unfermented product. The inconsistency in volume and quality of Northern cacao is explained by suboptimal farming practices, lack of capacity to manage weather shocks, insufficient investment in post-harvest tools, weak competition due to monopolization of the sector by a single exporter (Novella), limited access to inputs, and poor connectivity between exporters and producers.
+
+![Cacao Sector in the North of Haiti-02.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-02.jpg)
 
 ## Previous Interventions in the Cacao Sector 
 
@@ -48,6 +54,8 @@ To deepen linkages among market actors still further, AVANSE focused not on buil
 ## Cooperation and Competition
 
 Stimulating cooperation and competition among market actors can help activate strong, functioning market systems. When markets actors can work together to increase productivity and quality, respond to market opportunities and threats, and continuously invest in industry improvements and value-adding innovations, then the ingredients are in place for an inclusive, competitive, and resilient market system. This is what happened in Northern Haiti’s cacao sector, where AVANSE leveraged the gains achieved in the value chain by previous projects and accelerated the pace of system improvements by pulling on the levers of cooperation and competition. 
+
+![Cacao Sector in the North of Haiti-03.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-03.jpg)
 
 AVANSE worked with exporters and producers to improve linkages and communication. For example, AVANSE made the business case to Novella to invest in establishing a strong, woman-led cacao cooperative to allow producers to increase their share of the cacao profits by removing middlemen, which permitted Novella greater influence over the quality of cacao supplied and led to it entering the organic market.
 
@@ -68,6 +76,8 @@ For example, fermented cacao attracts as much as a 20 percent price premium from
 AVANSE provided [PISA](https://www.uncommoncacao.com/order-samples/pisa-haiti) with technical advice and materials through a 1:1 cost-sharing grant to upgrade its fermentation center. Within two years, sales doubled, partially due to selling to the higher-priced fermentation and fair-trade markets. PISA’s growing revenue and market share in turn incentivized Novella to engage and invest in cacao fermentation. Today, all three of the main cacao exporters in the Northern Corridor are fermenting cacao. 
 
 AVANSE promoted competition by strategically working with and rewarding those market actors willing to innovate and invest in improvements, and this evolution has had a cascading effect on the sector, with more exporters adopting this model and some now reaching new markets without donor support. Due to these market system changes, and also strong project interventions to increase post-drought production, cacao exports in the North of Haiti increased from $942,360 (427 metric tons) in 2013 to $6,899,937 (2,717 metric tons) in 2019. 
+
+![Cacao Export Sales and Volume from the North (2013-2019)-35bd20.png](/uploads/Cacao%20Export%20Sales%20and%20Volume%20from%20the%20North%20(2013-2019)-35bd20.png)
 
 ## Potential for Growth
 
