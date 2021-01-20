@@ -9,8 +9,8 @@ tags:
 - food security
 - fragile-states
 author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/)"
-thumbnail-image: "/uploads/sm%20cacao%20beans.jpg"
-social-image: "/uploads/sm%20cacao%20beans.jpg"
+thumbnail-image: "/uploads/1%20alexandre-brondino-b-F9K6DUq2I-unsplash-a782c6.jpg"
+social-image: "/uploads/1%20alexandre-brondino-b-F9K6DUq2I-unsplash-a782c6.jpg"
 publication: Developments
 ---
 
@@ -21,7 +21,8 @@ Among DAI’s agricultural initiatives in Haiti over the [past two decades](/upl
 
 
 
-![1sm cacao beans.jpg](/uploads/1sm%20cacao%20beans.jpg)
+![1 alexandre-brondino-b-F9K6DUq2I-unsplash.jpg](/uploads/1%20alexandre-brondino-b-F9K6DUq2I-unsplash.jpg)`Photo credit: Alexandre Brondino.`
+
 ## Haiti’s Fine Variety of Cacao Beans 
 
 Haiti’s cacao production declined rapidly in the 1960s, when production peaked at annual levels of 20,000 metric tons, of which little was exported. Over the past two decades, the country has produced on average 5,000 metric tons annually and exported approximately 80 percent. However, recent spells of prolonged drought—most notably in 2015, 2017, and 2018—have contributed to below-average [cacao exports](http://www.fao.org/3/ca5398en/ca5398en.pdf) of 2,5000 metric tons per year. In 2016, [Hurricane Matthew](https://www.worldbank.org/en/results/2017/10/20/rapidly-assessing-the-impact-of-hurricane-matthew-in-haiti) destroyed entire cacao plantations and approximately 1,000 metric tons were lost, cutting 2017 export volumes by 50 percent compared to the prior year. 
