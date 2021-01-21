@@ -57,7 +57,7 @@ To deepen linkages among market actors still further, AVANSE focused not on buil
 
 Stimulating cooperation and competition among market actors can help activate strong, functioning market systems. When markets actors can work together to increase productivity and quality, respond to market opportunities and threats, and continuously invest in industry improvements and value-adding innovations, then the ingredients are in place for an inclusive, competitive, and resilient market system. This is what happened in Northern Haiti’s cacao sector, where AVANSE leveraged the gains achieved in the value chain by previous projects and accelerated the pace of system improvements by pulling on the levers of cooperation and competition. 
 
-![Cacao Sector in the North of Haiti-03.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-03.jpg){:.set-border}
+![Cacao Sector in the North of Haiti-03-03.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-03-03.jpg){:.set-border}
 
 AVANSE worked with exporters and producers to improve linkages and communication. For example, AVANSE made the business case to Novella to invest in establishing a strong, woman-led cacao cooperative to allow producers to increase their share of the cacao profits by removing middlemen, which permitted Novella greater influence over the quality of cacao supplied and led to it entering the organic market.
 
