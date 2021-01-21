@@ -57,7 +57,7 @@ To deepen linkages among market actors still further, AVANSE focused not on buil
 
 Stimulating cooperation and competition among market actors can help activate strong, functioning market systems. When markets actors can work together to increase productivity and quality, respond to market opportunities and threats, and continuously invest in industry improvements and value-adding innovations, then the ingredients are in place for an inclusive, competitive, and resilient market system. This is what happened in Northern Haiti’s cacao sector, where AVANSE leveraged the gains achieved in the value chain by previous projects and accelerated the pace of system improvements by pulling on the levers of cooperation and competition. 
 
-![Cacao Sector in the North of Haiti-03.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-03.jpg)
+![Cacao Sector in the North of Haiti-03.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-03.jpg){:.set-border}
 
 AVANSE worked with exporters and producers to improve linkages and communication. For example, AVANSE made the business case to Novella to invest in establishing a strong, woman-led cacao cooperative to allow producers to increase their share of the cacao profits by removing middlemen, which permitted Novella greater influence over the quality of cacao supplied and led to it entering the organic market.
 
@@ -79,7 +79,7 @@ AVANSE provided [PISA](https://www.uncommoncacao.com/order-samples/pisa-haiti) w
 
 AVANSE promoted competition by strategically working with and rewarding those market actors willing to innovate and invest in improvements, and this evolution has had a cascading effect on the sector, with more exporters adopting this model and some now reaching new markets without donor support. Due to these market system changes, and also strong project interventions to increase post-drought production, cacao exports in the North of Haiti increased from $942,360 (427 metric tons) in 2013 to $6,899,937 (2,717 metric tons) in 2019. 
 
-![Cacao Export Sales and Volume from the North (2013-2019)-35bd20.png](/uploads/Cacao%20Export%20Sales%20and%20Volume%20from%20the%20North%20(2013-2019)-35bd20.png)
+![Cacao Export Sales and Volume from the North (2013-2019)-35bd20.png](/uploads/Cacao%20Export%20Sales%20and%20Volume%20from%20the%20North%20(2013-2019)-35bd20.png){:.set-border}
 
 ## Potential for Growth
 
