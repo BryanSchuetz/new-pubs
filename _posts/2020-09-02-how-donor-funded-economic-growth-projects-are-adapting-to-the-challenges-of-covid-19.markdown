@@ -9,6 +9,7 @@ tags:
 - covid-19
 - resilience
 - finance
+- supply-chain
 author: "[Tom Lenaghan](https://www.dai.com/who-we-are/our-team/tom-lenaghan) and
   Alexandra Heffern "
 thumbnail-image: "/uploads/sm-68a08c.jpg"

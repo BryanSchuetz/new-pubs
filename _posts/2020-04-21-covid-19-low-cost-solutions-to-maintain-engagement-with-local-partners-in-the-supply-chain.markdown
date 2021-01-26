@@ -7,6 +7,7 @@ tags:
 - Think Piece
 - economic-growth
 - sustainable-business
+- supply-chains
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
   [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie)"
 thumbnail-image: "/uploads/sm.jpg"

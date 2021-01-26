@@ -5,6 +5,7 @@ date: 2020-12-15 09:37:00 -05:00
 tags:
 - sustainable-business
 - economic-growth
+- supply-chain
 author: "[Amanda Ryan](https://www.dai.com/who-we-are/our-team/amanda-ryan) and [Chris
   Macdonald](https://www.dai.com/who-we-are/our-team/chris-macdonald)"
 thumbnail-image: "/uploads/sm%20Construction_generic_compressed.jpg"
