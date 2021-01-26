@@ -6,7 +6,8 @@ tags:
 - economic-growth
 - technology
 - agriculture
-- food security
+- food-security
+- supply-chain
 author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
   [Kamil Nabong](https://www.linkedin.com/in/kamilnabong/)"
 thumbnail-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"

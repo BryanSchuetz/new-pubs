@@ -4,7 +4,8 @@ date: 2019-08-21 11:45:00 -04:00
 tags:
 - market-systems-development
 - agriculture
-- value chain
+- value-chain
+- supply-chain
 author: Claire Miller
 thumbnail-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"
 social-image: "/uploads/MorganaWingardBangladeshAVC-be55cc.jpg"

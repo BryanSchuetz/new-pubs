@@ -5,6 +5,7 @@ date: 2020-06-04 08:05:00 -04:00
 tags:
 - economic-growth
 - covid-19
+- supply-chain
 author: "[Rosa Tarling](https://www.linkedin.com/in/rosa-tarling-45b796a9/), [Bill
   Grant](https://www.dai.com/who-we-are/our-team/bill-grant), and [Katja Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander)"
 thumbnail-image: "/uploads/PMDP-new-pic-9e2af3-589d92.jpg"

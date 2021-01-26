@@ -5,6 +5,7 @@ tags:
 - agriculture
 - economic-growth
 - global-health
+- supply-chain
 publication: Developments
 issue: Spring 2018
 author-bio: An expert in environment and climate change, DAI’s [Catherine Wallis](https://www.dai.com/who-we-are/our-team/catherine-wallis)
