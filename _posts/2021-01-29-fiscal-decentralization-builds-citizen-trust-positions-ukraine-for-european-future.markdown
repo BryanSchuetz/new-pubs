@@ -10,7 +10,7 @@ social-image: "/uploads/sm%20LOGICA%203.jpg"
 publication: Developments
 ---
 
-Sharing borders with four European Union member states—Hungary, Poland, Romania, and Slovakia—Ukraine is now a participant in the European Neighbourhood Policy and the Eastern Partnership, and thus a priority partner of the EU. Yet the ratification of the Ukraine-EU Association Agreement, begun in 2012 and concluded five years later, turned out to be a fraught process. Indeed, the 2014 Ukrainian Revolution, or Euromaidan, started when pro-Russian President Viktor Yanukovytch suspended it. 
+Sharing borders with four European Union member states—Hungary, Poland, Romania, and Slovakia—Ukraine is now a participant in the [European Neighbourhood Policy](https://ec.europa.eu/neighbourhood-enlargement/neighbourhood/european-neighbourhood-policy_en) and the [Eastern Partnership](https://ec.europa.eu/neighbourhood-enlargement/neighbourhood/eastern-partnership_en), and thus a priority partner of the EU. Yet the ratification of the Ukraine-EU Association Agreement, begun in 2012 and concluded five years later, turned out to be a fraught process. Indeed, the 2014 Ukrainian Revolution, or Euromaidan, started when pro-Russian President Viktor Yanukovytch suspended it. 
 
 Later that year, with the Yanukovytch government removed from power, Ukraine committed to modernize its administration and institution, signed the political and economic components of the Association Agreement, and joined an International Monetary Fund Extended Fund Facility to restore macroeconomic stability and spur growth. 
 
