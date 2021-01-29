@@ -3,6 +3,11 @@ title: Why Aligning with the SDGs Helps Energy Companies Position for Growth, an
   How to Do It
 date: 2021-01-29 11:28:00 -05:00
 published: false
+tags:
+- SDG
+- sustainable-business
+- covid-19
+- environment-and-energy
 author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
   [Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards)"
 thumbnail-image: "/uploads/E_SDG_logo_without_UN_emblem_Square_Transparent_WEB.png.png"
