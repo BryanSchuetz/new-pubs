@@ -3,6 +3,11 @@ title: Fiscal Decentralization Builds Citizen Trust, Positions Ukraine for Europ
   Future
 date: 2021-01-29 13:07:00 -05:00
 published: false
+tags:
+- governance
+- public-financial-management
+- finance
+- technology
 author: "[Harutyun Urpatyan](https://www.linkedin.com/in/harry-urpatyan-55285b43/)
   and [Mathilde Gaston-Mathé](https://www.linkedin.com/in/mathilde-gaston-math%C3%A9-089a7022/)"
 thumbnail-image: "/uploads/sm%20LOGICA%203.jpg"
