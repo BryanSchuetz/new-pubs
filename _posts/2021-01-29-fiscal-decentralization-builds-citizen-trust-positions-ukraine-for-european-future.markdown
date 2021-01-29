@@ -77,11 +77,9 @@ With more transparent fiscal procedures, citizens and local communities are incr
 Finally, from the political perspective, LOGICA’s support for the practical administration of decentralization advances Ukraine’s Europeanization. Alongside other liberalizing and democratizing reforms, this political and social transformation aligns Ukraine with other European states, where power is similarly less concentrated, and positions it for political integration in the long term.
 
 <aside><h2>Success Factors</h2>
-<h3>
-  ICV Metrics Categories:
-</h3>
 <ol>
-  <li>Investment in Fixed Assets</li>
+  <li>**Local ownership:** “The aim of LOGICA was not only to deliver skills and experience but also to facilitate ‘ownership’ of the project outcomes to be acquired by the beneficiary country and institutions so that they help drive their own development,” said Petkov. The LOGICA team worked side by side with stakeholders at all times. All activities involved local beneficiaries, all legal drafts were based on consultation with relevant departments, and the IAS LOGICA software was tailored specifically to the needs of MoF and the local governments. 
+</li>
   <li>Omanisation of Workforce</li>
   <li>Local Sourcing of Goods</li>
   <li>Local Sourcing of Sub-Contracted Services</li>
