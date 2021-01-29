@@ -27,7 +27,7 @@ In fact, in many locations the groundwork has already been laid for this transit
 
 Fostering local content and SME participation in this emerging energy space should be a priority for governments pursuing energy sustainability and new pathways to economic growth. If they are to seize this opportunity to refit an existing supply base, governments should take a systematic approach in collaboration with developers and operators. Here are four actions that should be part of that approach. 
 
-![Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg](/uploads/Offshore_windfarm,_Skegness_-_geograph.org.uk_-_2687237.jpg)`Photo of offshore windfarm in Skegness, England, by Rob Farrow. Wikimedia Commons, CC BY-SA 2.0.`
+![Skegness.jpg](/uploads/Skegness.jpg)`Photo of offshore windfarm in Skegness, England, by Rob Farrow. Wikimedia Commons, CC BY-SA 2.0.`
 
 ## Revise Supply Chain Categories and Competitiveness Criteria by which Supply Base is Measured
 
