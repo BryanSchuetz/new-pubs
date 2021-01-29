@@ -10,7 +10,7 @@ social-image: "/uploads/sm%20LOGICA%203.jpg"
 publication: Developments
 ---
 
-Sharing borders with four European Union member states—Hungary, Poland, Romania, and Slovakia—Ukraine is now a participant in the [European Neighbourhood Policy](https://ec.europa.eu/neighbourhood-enlargement/neighbourhood/european-neighbourhood-policy_en) and the [Eastern Partnership](https://ec.europa.eu/neighbourhood-enlargement/neighbourhood/eastern-partnership_en), and thus a priority partner of the EU. Yet the ratification of the Ukraine-EU Association Agreement, begun in 2012 and concluded five years later, turned out to be a fraught process. Indeed, the 2014 Ukrainian Revolution, or Euromaidan, started when pro-Russian President Viktor Yanukovytch suspended it. 
+Sharing borders with four European Union (EU) member states—Hungary, Poland, Romania, and Slovakia—Ukraine is now a participant in the [European Neighbourhood Policy](https://ec.europa.eu/neighbourhood-enlargement/neighbourhood/european-neighbourhood-policy_en) and the [Eastern Partnership](https://ec.europa.eu/neighbourhood-enlargement/neighbourhood/eastern-partnership_en), and thus a priority partner of the EU. Yet the ratification of the Ukraine-EU Association Agreement, begun in 2012 and concluded five years later, turned out to be a fraught process. Indeed, the 2014 Ukrainian Revolution, or Euromaidan, started when pro-Russian President Viktor Yanukovytch suspended it. 
 
 Later that year, with the Yanukovytch government removed from power, Ukraine committed to modernize its administration and institution, signed the political and economic components of the Association Agreement, and joined an International Monetary Fund Extended Fund Facility to restore macroeconomic stability and spur growth. 
 
@@ -20,11 +20,12 @@ Decentralization was a flagship initiative in Ukraine’s reform program. The co
 
 
 
+
 ![LOGICA 3.jpg](/uploads/LOGICA%203.jpg)
 
-Up to 2015, reports on fiscal decentralization in Ukraine testified to chronic inefficiency in public spending by local governments, a failing that colored citizens’ perceptions of their administration and diminished their regard for elected bodies generally. Trust, also, was an issue, leaving local communities far from motivated to pay taxes.
+Up to 2015, [reports on fiscal decentralization](https://www.oecd.org/countries/ukraine/maintaining-the-momentum-of-decentralisation-in-ukraine-9789264301436-en.htm) in Ukraine testified to chronic inefficiency in public spending by local governments, a failing that colored citizens’ perceptions of their administration and diminished their regard for elected bodies generally. Trust, also, was an issue, leaving local communities far from motivated to pay taxes.
 
-In February 2017, therefore, the Ministry of Finance (MoF) and other relevant public institutions released a four-year public finance management strategy, which in turn led to increased assistance from the EU. The EU’s Support to Local Governments in Ukraine (LOGICA) project—successfully completed in the final quarter of 2020—was launched in that same year to support Ukraine’s push for “Europeanization” and enable a more capable, efficient, transparent, and accountable local finance management system.
+In February 2017, therefore, the Ministry of Finance (MoF) and other relevant public institutions released a four-year public finance management strategy, which in turn led to increased assistance from the EU. The EU’s [Support to Local Governments in Ukraine (LOGICA)](https://www.dai.com/our-work/projects/ukraine-eu-for-stronger-public-finance-systems-of-local-governments-logica) project—successfully completed in the final quarter of 2020—was launched in that same year to support Ukraine’s push for “Europeanization” and enable a more capable, efficient, transparent, and accountable local finance management system.
  
 “One of the underlying motivations to build public financial management capacity in any transitioning country, such as Ukraine, is the prosperity of citizens,” recalls Boris Petkov, LOGICA Team Leader. “Although citizens might not clearly understand what the benefits of decentralization are, they all expect efficiency of public administration, transparent and accountable governance, improved public service delivery, and—ultimately—prosperity and security.”  
 
