@@ -75,3 +75,17 @@ The ATCs also receive subsidies from the central government—including, until 2
 With more transparent fiscal procedures, citizens and local communities are increasingly motivated to pay taxes, because they see that money is being spent to meet their needs. Economic indicators reflect this growing confidence: the resources commanded by local budgets doubled between 2015 and 2020, and local budget revenues—expressed as a share of gross domestic product—increased from 6.5 percent in 2014 to 7.6 percent in 2019. Personal income tax revenues in 2019 increased 2.6 times compared to 2014. 
 
 Finally, from the political perspective, LOGICA’s support for the practical administration of decentralization advances Ukraine’s Europeanization. Alongside other liberalizing and democratizing reforms, this political and social transformation aligns Ukraine with other European states, where power is similarly less concentrated, and positions it for political integration in the long term.
+
+<aside><h2>Success Factors</h2>
+<h3>
+  ICV Metrics Categories:
+</h3>
+<ol>
+  <li>Investment in Fixed Assets</li>
+  <li>Omanisation of Workforce</li>
+  <li>Local Sourcing of Goods</li>
+  <li>Local Sourcing of Sub-Contracted Services</li>
+  <li>Development of National Suppliers</li>
+  <li>Development of National Training, Education, and Research & Development Institutions</li>
+</ol>
+</aside>
