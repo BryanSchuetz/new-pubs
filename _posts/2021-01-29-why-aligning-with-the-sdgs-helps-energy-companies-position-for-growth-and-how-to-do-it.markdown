@@ -11,7 +11,7 @@ publication: Developments
 Companies are increasingly required to demonstrate the socioeconomic value of projects to gain operating approval from national governments, secure capital from investors and financiers, or uphold their brands in the court of public and consumer opinion. These requirements are only intensifying as many countries face unprecedented economic and development challenges, particularly in low-income countries that were already struggling to meet basic needs and are now being hammered by COVID-19.
 
 Companies focused on oil and gas extraction, in particular, face escalating pressure from investors, governments, and activists to reduce greenhouse gas (GHG) emissions as part of this broader demand for good corporate citizenship. 
-Against this backdrop, the United Nations (UN) Sustainable Development Goals (SDGs) offer a viable and universally recognized framework for energy companies to use in taking up the challenge. This article offers some concrete suggestions for how to go about doing so. 
+Against this backdrop, the United Nations (UN) [Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) offer a viable and universally recognized framework for energy companies to use in taking up the challenge. This article offers some concrete suggestions for how to go about doing so. 
 
 
 
@@ -31,9 +31,9 @@ The business case for getting behind the SDGs is clear and widely accepted. And 
 
 So, how can energy companies better incorporate the SDGs in their strategy and operations? The clearest links between the SDGs and the energy sector are SDG 7—Ensuring Efficient and Affordable Energy, which is energy companies’ core mandate, and SDG 13—Climate Action. 
 
-With regard to the latter, numerous companies have made GHG emission reduction declarations in recent years; some have gone further than others, including six multinational oil and gas companies that have committed to cut net GHG emissions between 80 and 100 percent by 2050 across Scope 1, 2, and 3 emissions.
+With regard to the latter, numerous companies have made GHG emission reduction declarations in recent years; some have gone further than others, including six multinational oil and gas companies that have committed to [cut net GHG emissions](https://www.reuters.com/article/climate-change-carbon-targets/factbox-big-oils-climate-targets-idUSL8N2HO1B4) between 80 and 100 percent by 2050 across Scope 1, 2, and 3 emissions.
   
-Several oil and gas companies have embraced the energy transition, leveraging their experience in the oil and gas sector to pursue renewable energy development, particularly on-shore and off-shore wind. With some commentators deeming peak oil demand already “upon us,” the commercial allure of energy transition and diversification is strong. This impending demand plateau, paired with increasingly progressive energy regulations and record-low hydrocarbon prices, make the business case for energy transition evident.
+Several oil and gas companies have embraced the energy transition, leveraging their experience in the oil and gas sector to pursue renewable energy development, particularly on-shore and off-shore wind. With some commentators deeming peak oil demand already “[upon us](https://www.bloomberg.com/graphics/2020-peak-oil-era-is-suddenly-upon-us/),” the commercial allure of energy transition and diversification is strong. This impending demand plateau, paired with increasingly progressive energy regulations and record-low hydrocarbon prices, make the business case for energy transition evident.
 
 Beyond their efforts to deliver affordable energy and action on climate, energy companies have the wherewithal to support material progress across the SDGs, if they take the right approach. Following are suggestions outlining how energy companies can support the SDGs in ways that benefit both host country development and their own company’s sustainability. 
 
