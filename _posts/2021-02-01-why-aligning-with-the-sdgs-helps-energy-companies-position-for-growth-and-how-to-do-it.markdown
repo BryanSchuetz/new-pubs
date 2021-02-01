@@ -16,8 +16,7 @@ publication: Developments
 
 Companies are increasingly required to demonstrate the socioeconomic value of projects to gain operating approval from national governments, secure capital from investors and financiers, or uphold their brands in the court of public and consumer opinion. These requirements are only intensifying as many countries face unprecedented economic and development challenges, particularly in low-income countries that were already struggling to meet basic needs and are now being hammered by COVID-19.
 
-Companies focused on oil and gas extraction, in particular, face escalating pressure from investors, governments, and activists to reduce greenhouse gas (GHG) emissions as part of this broader demand for good corporate citizenship. 
-Against this backdrop, the United Nations (UN) [Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) offer a viable and universally recognized framework for energy companies to use in taking up the challenge. This article offers some concrete suggestions for how to go about doing so. 
+Companies focused on oil and gas extraction, in particular, face escalating pressure from investors, governments, and activists to reduce greenhouse gas (GHG) emissions as part of this broader demand for good corporate citizenship. Against this backdrop, the United Nations (UN) [Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) offer a viable and universally recognized framework for energy companies to use in taking up the challenge. This article offers some concrete suggestions for how to go about doing so. 
 
 
 
@@ -51,7 +50,7 @@ With regard to the latter, numerous companies have made GHG emission reduction d
 
 Several oil and gas companies have embraced the energy transition, leveraging their experience in the oil and gas sector to pursue renewable energy development, particularly on-shore and off-shore wind. With some commentators deeming peak oil demand already “[upon us](https://www.bloomberg.com/graphics/2020-peak-oil-era-is-suddenly-upon-us/),” the commercial allure of energy transition and diversification is strong. This impending demand plateau, paired with increasingly progressive energy regulations and record-low hydrocarbon prices, make the business case for energy transition evident.
 
-![Screen Shot 2021-02-01 at 10.34.28 AM.png](/uploads/Screen%20Shot%202021-02-01%20at%2010.34.28%20AM.png)`Companies that have joined the UN’s Global Compact report annually on their contributions toward achievement of the SDGs.`
+[![Screen Shot 2021-02-01 at 10.34.28 AM.png](/uploads/Screen%20Shot%202021-02-01%20at%2010.34.28%20AM.png)`Companies that have joined the UN’s Global Compact report annually on their contributions toward achievement of the SDGs.`](https://www.dai.com/uploads/UNGC%20Communication%20on%20Progress%202020.pdf){:.without-style}
 
 Beyond their efforts to deliver affordable energy and action on climate, energy companies have the wherewithal to support material progress across the SDGs, if they take the right approach. Following are suggestions outlining how energy companies can support the SDGs in ways that benefit both host country development and their own company’s sustainability. 
 
