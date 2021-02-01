@@ -2,7 +2,6 @@
 title: Why Aligning with the SDGs Helps Energy Companies Position for Growth, and
   How to Do It
 date: 2021-02-01 08:28:00 -05:00
-published: false
 tags:
 - SDG
 - sustainable-business
