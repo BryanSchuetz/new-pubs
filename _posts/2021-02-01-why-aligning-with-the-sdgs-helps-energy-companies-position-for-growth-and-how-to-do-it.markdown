@@ -64,4 +64,4 @@ Beyond their efforts to deliver affordable energy and action on climate, energy 
 
 While many energy companies are already undertaking some of these activities, more will be expected of them in the coming years. At DAI, we have seen an increased emphasis on using the SDGs in project development. We have supported energy majors to harness the benefits of the SDGs, from mapping them to positive impacts in upstream development and designing local content programs that improve company operations and host-country economies to using the SDG indicators in designing and implementing high-impact social investment projects. 
 
-Agenda 2030 remains a government-led initiative. But energy companies can and should be a part of the solution. If companies identify discrete areas where they can target their efforts and direct their immense knowledge, capabilities, and resources, all stand to benefit
+Agenda 2030 remains a government-led initiative. But energy companies can and should be a part of the solution. If companies identify discrete areas where they can target their efforts and direct their immense knowledge, capabilities, and resources, all stand to benefit.
