@@ -32,6 +32,14 @@ The SDGs present energy companies with a valuable opportunity to align their ene
 
 The reasons to do so include:
 
+|  |  |  |
+|:--|:--|:--|
+| ![icon](/uploads/buildings.png) | **Attracting Investment** |ESG (environmental, social, and governance) investment funds have [doubled in size and number](https://www.cnbc.com/2020/09/02/esg-index-funds-hit-250-billion-as-us-investor-role-in-boom-grows.html) over the past three years and the SDGs provide a clear framework for companies to align with ESG principles and increase investment.|
+| ![icon](/uploads/presentation.png) | **Minimizing risk and improving social license to operate** |  Comprehensive in scope, the SDGs allow companies to employ a framework to which all countries have signed up, and can help guide companies to effectively address local issues where they arise.|
+| ![icon](/uploads/optimize.png) | **Enhancing reputation and competitiveness** | Nearly three quarters of the world’s largest companies express [commitment to the SDGs](https://www.pwc.com/gx/en/sustainability/SDG/sdg-2019.pdf) in their sustainability and annual reports, and articulate the importance of sustainability for business operations.|
+| ![icon](/uploads/recruitment.png) | **Improving talent recruitment and retention** | Employees increasingly value environmental and social responsibility in their employers. In the United States, for example, a survey of 1,000 people found that 70 percent of employees factor their company’s sustainability plan into their [long-term career choices](https://www.fastcompany.com/90306556/most-millennials-would-take-a-pay-cut-to-work-at-a-sustainable-company). |
+| ![icon](/uploads/trade.png)| **Nurturing relationships with host and home countries** | Governments worldwide are attuned to the SDGs and value (and in some cases mandate) communication of activities tied to the SDGs for their own reporting. |
+{:.reason-table}
 The business case for getting behind the SDGs is clear and widely accepted. And so is the development case: currently, the world is not on track to meet the 2030 goals, so strengthened partnerships and greater corporate participation are vital. 
 
 ## Bringing the SDGs into Strategy and Operations
@@ -40,6 +48,8 @@ So, how can energy companies better incorporate the SDGs in their strategy and o
 
 With regard to the latter, numerous companies have made GHG emission reduction declarations in recent years; some have gone further than others, including six multinational oil and gas companies that have committed to [cut net GHG emissions](https://www.reuters.com/article/climate-change-carbon-targets/factbox-big-oils-climate-targets-idUSL8N2HO1B4) between 80 and 100 percent by 2050 across Scope 1, 2, and 3 emissions.
   
+![chart](/uploads/insight-chart.png)
+
 Several oil and gas companies have embraced the energy transition, leveraging their experience in the oil and gas sector to pursue renewable energy development, particularly on-shore and off-shore wind. With some commentators deeming peak oil demand already “[upon us](https://www.bloomberg.com/graphics/2020-peak-oil-era-is-suddenly-upon-us/),” the commercial allure of energy transition and diversification is strong. This impending demand plateau, paired with increasingly progressive energy regulations and record-low hydrocarbon prices, make the business case for energy transition evident.
 
 Beyond their efforts to deliver affordable energy and action on climate, energy companies have the wherewithal to support material progress across the SDGs, if they take the right approach. Following are suggestions outlining how energy companies can support the SDGs in ways that benefit both host country development and their own company’s sustainability. 
