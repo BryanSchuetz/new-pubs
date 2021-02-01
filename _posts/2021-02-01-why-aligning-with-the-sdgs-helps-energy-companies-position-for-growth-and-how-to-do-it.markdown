@@ -13,6 +13,7 @@ thumbnail-image: "/uploads/E_SDG_logo_without_UN_emblem_Square_Transparent_WEB.p
 social-image: "/uploads/E_SDG_logo_without_UN_emblem_Square_Transparent_WEB.png.png"
 publication: Developments
 ---
+
 Companies are increasingly required to demonstrate the socioeconomic value of projects to gain operating approval from national governments, secure capital from investors and financiers, or uphold their brands in the court of public and consumer opinion. These requirements are only intensifying as many countries face unprecedented economic and development challenges, particularly in low-income countries that were already struggling to meet basic needs and are now being hammered by COVID-19.
 
 Companies focused on oil and gas extraction, in particular, face escalating pressure from investors, governments, and activists to reduce greenhouse gas (GHG) emissions as part of this broader demand for good corporate citizenship. Against this backdrop, the United Nations (UN) [Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) offer a viable and universally recognized framework for energy companies to use in taking up the challenge. This article offers some concrete suggestions for how to go about doing so. 
