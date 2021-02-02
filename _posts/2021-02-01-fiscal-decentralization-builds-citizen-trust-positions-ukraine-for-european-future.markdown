@@ -26,7 +26,7 @@ Decentralization was a flagship initiative in Ukraine’s reform program. The co
 
 
 
-![LOGICA 3.jpg](/uploads/LOGICA%203.jpg)
+![LOGICA 3.jpg](/uploads/LOGICA%203.jpg)`LOGICA's Third Steering Committee Meeting, July 2019.`
 
 Up to 2015, [reports on fiscal decentralization](https://www.oecd.org/countries/ukraine/maintaining-the-momentum-of-decentralisation-in-ukraine-9789264301436-en.htm) in Ukraine testified to chronic inefficiency in public spending by local governments, a failing that colored citizens’ perceptions of their administration and diminished their regard for elected bodies generally. Trust, also, was an issue, leaving local communities far from motivated to pay taxes.
 
