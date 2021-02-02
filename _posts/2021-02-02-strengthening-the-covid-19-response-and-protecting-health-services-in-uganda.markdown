@@ -18,7 +18,7 @@ The Ugandan government has worked hard to develop plans to protect its populatio
 
 
 
-Given the urgent need to support COVID-19 response Uganda, UKaid’s Tackling Deadly Diseases in Africa (TDDA) programme—led by DAI Global Health—is funding two new projects. Implemented by the Infectious Disease Institute (IDI) and African Field Epidemiology Network (AFENET), in collaboration with Uganda’s Ministry of Health, these targeted initiatives are designed to:
+Given the urgent need to support COVID-19 response Uganda, UKaid’s [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme—led by DAI Global Health—is funding two new projects. Implemented by the Infectious Disease Institute (IDI) and African Field Epidemiology Network (AFENET), in collaboration with Uganda’s Ministry of Health, these targeted initiatives are designed to:
 * Protect healthcare workers in Eastern Uganda; and
 * Strengthen the COVID-19 response through home-based care and community testing in the Masaka district.
 
