@@ -50,7 +50,7 @@ TDDA is partnering with AFENET, in collaboration with the Ministry of Health, to
 * Assist district-level rapid response teams by providing personal protective equipment; and 
 * Engage and educate communities in the steps they can take to minimise transmission, through radio and television publicity campaigns and public health information materials.
 
-“We’re proud to offer urgently needed, targeted support for Uganda’s efforts to contain the devastating spread of COVID-19,” said Jeffrey Mecaskey, TDDA Team Leader, who described both the IDI and AFENET initiatives as vital contributions to Uganda’s disease response. “In this pandemic, we rise and fall together. Vulnerabilities in one region or one country are everyone's vulnerability. While our attention is focused on COVID-19, here and now, we are working to ensure our efforts strengthen systems to respond to other events in the future as well.” 
+“We’re proud to offer urgently needed, targeted support for Uganda’s efforts to contain the devastating spread of COVID-19,” said [Jeffrey Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), TDDA Team Leader, who described both the IDI and AFENET initiatives as vital contributions to Uganda’s disease response. “In this pandemic, we rise and fall together. Vulnerabilities in one region or one country are everyone's vulnerability. While our attention is focused on COVID-19, here and now, we are working to ensure our efforts strengthen systems to respond to other events in the future as well.” 
 
 TDDA is improving health systems, disease preparedness, and emergency response in Cameroon, Chad, Côte d’Ivoire, Mali, Niger, and Uganda.
 
