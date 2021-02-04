@@ -26,6 +26,8 @@ Given the urgent need to support COVID-19 response Uganda, UKaid’s [Tackling D
 
 “This support is timely and will strengthen the country’s ability to respond better and build confidence among a wide spectrum of responders at this critical phase of the COVID-19 epidemic," said Winyi Kaboyo, Country Coordinator, TDDA.
 
+![Chad_cso_dissemination.jpg](/uploads/Chad_cso_dissemination.jpg)`TDDA engages communities in the fight against COVID-19.`
+
 ## Health Worker Protection in Eastern Uganda
 
 The number of healthcare workers diagnosed with COVID-19 is increasing much more rapidly than in the general population. As of January 20, the Ministry of Health had recorded 1,873 cases among health professionals, and there’s growing concern that this contagion among health workers is having an adverse effect on the provision of routine health services such as reproductive, maternal, and newborn care.
@@ -37,8 +39,6 @@ TDDA is partnering with IDI to provide technical and financial assistance to rur
 * Enables IDI to provide emergency supplies such as personal protective equipment and laboratory sampling kits;
 * Supports investigations of COVID clusters in individual healthcare facilities; and
 * Supports health workers to improve IPC, surveillance, and behaviour change activities.
-
-![Chad_cso_dissemination.jpg](/uploads/Chad_cso_dissemination.jpg)`TDDA engages communities in the fight against COVID-19.`
 
 ## Strengthening Home-Based Care
 
@@ -53,6 +53,8 @@ TDDA is partnering with AFENET, in collaboration with the Ministry of Health, to
 * Support specimen collection from health facilities and communities for testing at regional laboratory hubs, to enhance rapid case detection;
 * Assist district-level rapid response teams by providing personal protective equipment; and 
 * Engage and educate communities in the steps they can take to minimise transmission, through radio and television publicity campaigns and public health information materials.
+
+![DSC_4290.JPG](/uploads/DSC_4290.JPG)`TDDA engages communities, such as the one in pictured in Chad, in the fight against COVID-19.`
 
 “We’re proud to offer urgently needed, targeted support for Uganda’s efforts to contain the devastating spread of COVID-19,” said [Jeffrey Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), TDDA Team Leader, who described both the IDI and AFENET initiatives as vital contributions to Uganda’s disease response. “In this pandemic, we rise and fall together. Vulnerabilities in one region or one country are everyone's vulnerability. While our attention is focused on COVID-19, here and now, we are working to ensure our efforts strengthen systems to respond to other events in the future as well.” 
 
