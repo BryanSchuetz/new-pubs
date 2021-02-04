@@ -6,6 +6,8 @@ tags:
 - global-health
 - covid-19
 author: Catherine Shrimpton
+thumbnail-image: "/uploads/sm%20Chad_cso_dissemination.jpg"
+social-image: "/uploads/sm%20Chad_cso_dissemination.jpg"
 publication: Developments
 ---
 
@@ -35,6 +37,8 @@ TDDA is partnering with IDI to provide technical and financial assistance to rur
 * Enables IDI to provide emergency supplies such as personal protective equipment and laboratory sampling kits;
 * Supports investigations of COVID clusters in individual healthcare facilities; and
 * Supports health workers to improve IPC, surveillance, and behaviour change activities.
+
+![Chad_cso_dissemination.jpg](/uploads/Chad_cso_dissemination.jpg)`TDDA engages communities in the fight against COVID-19.`
 
 ## Strengthening Home-Based Care
 
