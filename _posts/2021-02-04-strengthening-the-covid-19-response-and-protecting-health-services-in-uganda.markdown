@@ -1,15 +1,17 @@
 ---
 title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
-date: 2021-02-02 10:28:00 -05:00
+date: 2021-02-04 10:20:00 -05:00
 published: false
 tags:
 - global-health
 - covid-19
 author: Catherine Shrimpton
+thumbnail-image: "/uploads/sm%20Chad_cso_dissemination.jpg"
+social-image: "/uploads/sm%20Chad_cso_dissemination.jpg"
 publication: Developments
 ---
 
-COVID-19 infections in Uganda are rising fast. The country recorded its first case of the coronavirus in March 2020 and in the early stages of the pandemic most cases were identified at the borders, among people travelling from other countries. Since then, however, the country has seen a rapid increase in community transmission and clusters of infection nationwide. As of January 20, 2021, Uganda’s Ministry of Health had recorded 38,806 cases and 316 deaths. 
+COVID-19 infections in Uganda are rising fast. The country recorded its first case of the coronavirus in March 2020 and in the early stages of the pandemic most cases were identified at the borders, among people travelling from other countries. Since then, however, the country has seen a rapid increase in community transmission and clusters of infection nationwide. As of January 20, 2021, Uganda’s Ministry of Health had recorded 38,806 cases and 316 deaths—almost certainly an underestimate of the true prevalence and impact, given the challenges of detection and reporting.
 
 The Ugandan government has worked hard to develop plans to protect its population, but implementation has been hampered by a lack of resources and expertise. The efforts required to contain COVID-19 are straining an already overstretched health system. As Uganda’s hospitals experience an influx of patients, there is an increasing risk of hospital-acquired infection and infection of health staff. Indeed, the high number of new infections is making it extremely difficult for the health system to care for both COVID and non-COVID patients, let alone execute critical activities such as case investigation, contact tracing, and laboratory testing.
 
@@ -26,7 +28,7 @@ Given the urgent need to support COVID-19 response Uganda, UKaid’s [Tackling D
 
 ## Health Worker Protection in Eastern Uganda
 
-The number of healthcare workers diagnosed with COVID-19 is increasing much more rapidly than in the general population. As of November 2020, the Ministry of Health had recorded 1,873 cases among health professionals, and there’s growing evidence that this contagion among health workers is having an adverse effect on the provision of routine health services such as reproductive, maternal, and newborn care.
+The number of healthcare workers diagnosed with COVID-19 is increasing much more rapidly than in the general population. As of January 20, the Ministry of Health had recorded 1,873 cases among health professionals, and there’s growing concern that this contagion among health workers is having an adverse effect on the provision of routine health services such as reproductive, maternal, and newborn care.
 
 Infection prevention and control (IPC) is critical in containing the virus—but in Uganda, IPC capacity varies widely across the country. Disparities are due in part to each region’s history of fighting previous outbreaks of deadly disease such as Ebola. While Eastern Uganda reported the nation’s first COVID-19 death and was the first region to experience widespread community transmission, investment in IPC capacity there has historically been significantly lower than elsewhere. As a result, technical and financial support are needed to allow eastern districts to scale up their IPC capacity.
 
@@ -36,9 +38,11 @@ TDDA is partnering with IDI to provide technical and financial assistance to rur
 * Supports investigations of COVID clusters in individual healthcare facilities; and
 * Supports health workers to improve IPC, surveillance, and behaviour change activities.
 
+![Chad_cso_dissemination.jpg](/uploads/Chad_cso_dissemination.jpg)`TDDA engages communities in the fight against COVID-19.`
+
 ## Strengthening Home-Based Care
 
-Clusters of COVID-19 infections have been identified across 135 of Uganda’s 136 districts. As Uganda’s outbreak evolved from predominantly imported cases to widespread community transmission, the Ministry of Health moved from border-focused interventions to a decentralized approach, making each district responsible for its own local response. With many hospitals inundated by COVID-19 patients, home-based care for mild and asymptomatic COVID-19 cases emerged as a more sustainable strategy for combatting the epidemic.
+Clusters of COVID-19 infections have been identified across 135 of Uganda’s 136 districts. As Uganda’s outbreak evolved from predominantly imported cases to widespread community transmission, the Ministry of Health moved from border-focused interventions to a decentralized approach, making each district responsible for its own local response. With many hospitals inundated by COVID-19 patients, home-based care for mild and asymptomatic COVID-19 cases was adopted as a more sustainable strategy for combatting the epidemic.
 
 Many rural districts lack the technical expertise and resources to cope with these new responsibilities, however. Local efforts to contain the epidemic are made more challenging because communities have yet to fully understand the part they can play in preventing the spread of infection. As a result, adherence to preventative measures such as mask-wearing, social distancing, and isolation is generally low.
  
