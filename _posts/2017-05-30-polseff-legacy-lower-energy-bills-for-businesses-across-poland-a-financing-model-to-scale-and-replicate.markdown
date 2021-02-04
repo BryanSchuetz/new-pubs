@@ -6,12 +6,14 @@ tags:
 - economic-growth
 - finance
 - environment-and-energy
+author: Anne-Sofia Holmberg
+thumbnail-image: "/uploads/PolSEFF_award.jpg"
+social-image: "/uploads/PolSEFF_award.jpg"
 publication: Developments
 issue: Summer 2017
 author-bio: DAI’s [Anne-Sofia Holmberg ](https://www.dai.com/who-we-are/our-team/anne-sofia-holmberg)
   is a Principal Consultant to projects funded by the European Commission and the
   European Bank for Reconstruction and Development.
-author: Anne-Sofia Holmberg
 featured?: 
 assets:
 - path: "/uploads/Devs----Anne-Sofia-Holmberg.jpg"
@@ -22,11 +24,10 @@ assets:
   name: PH_Jarex
 - path: "/uploads/PolSEFF_award.jpg"
   name: PolSEFF_CEE_Award
-thumbnail-image: "/uploads/PolSEFF_award.jpg"
-social-image: "/uploads/PolSEFF_award.jpg"
 ---
 
 While Poland’s private sector grew steadily in the post-Soviet era, its reliance on old energy equipment and poorly insulated facilities contributed to the country becoming one of the highest energy consumers in Europe. In 2010, when the European Bank for Reconstruction and Development (EBRD) launched the [Polish Sustainable Energy Financing Facility ](https://www.dai.com/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)(PolSEFF), few business owners had invested in energy efficiency measures compared with the European Union average, and Polish lending institutions were not prepared to finance these types of upgrades. As a result, business owners continued to pay unnecessarily high energy bills and emit unnecessarily high amounts of carbon.
+
 
 
 
@@ -69,5 +70,3 @@ PolSEFF’s most enduring legacy will be establishing a self-sustaining energy e
 By demonstrating the viability of innovative energy financing approaches, PolSEFF paved the way for future lending facilities. PolSEFF was the first EBRD facility to introduce loans for leasing equipment, and PolSEFF’s LEME will remain active for continued use. The EBRD is working on a larger, global LEME—the Technology Selector—which will widen categories to include water and material efficiency.
 
 In June 2017, at the 11th [European Development Days](https://www.eudevdays.eu/) in Brussels, leaders from the European Commission and their development partners, including the EBRD, meet to share lessons learned and discuss trends and challenges. This year’s theme—“Investing in Development,” focusing on private sector engagement—marks a fitting opportunity to share the success and significance of PolSEFF, which exemplifies how market-driven, private sector-led solutions can reconcile business growth and reduced carbon emissions, and show that goals once viewed as mutually exclusive can in fact go hand in hand.
-
-![infogram image](https://infogram.io/p/b932e0852df24b3c956c6b2abe4417fe.png)
