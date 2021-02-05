@@ -1,7 +1,6 @@
 ---
 title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
-date: 2021-02-04 10:20:00 -05:00
-published: false
+date: 2021-02-05 08:20:00 -05:00
 tags:
 - global-health
 - covid-19
