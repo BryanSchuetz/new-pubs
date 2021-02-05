@@ -5,17 +5,15 @@ date: 2013-08-25 15:47:00 -04:00
 tags:
 - economic-growth
 - governance
+author: "[Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
 publication: Developments
 issue: 
 author-bio: Elizabeth Drachman is Senior Communications Manager at DAI and a former
   journalist.
-author: Elizabeth Drachman
 featured?: 
 assets:
 - path: "/uploads/Elizabeth Drachman Devs-4.jpg"
   author?: 'yes'
-thumbnail-image: 
-social-image: 
 ---
 
 A DAI-led project in Vietnam that touched the lives of 60,000 private businesspeople, partnered with five government entities, and many more institutions and groups has come to a close after 10 years.
