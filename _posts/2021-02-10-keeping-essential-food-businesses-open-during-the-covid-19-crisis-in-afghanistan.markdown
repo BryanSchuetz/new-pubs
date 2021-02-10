@@ -41,17 +41,12 @@ RADP-East also leveraged the power of social media to crowdsource examples of di
 1. [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 1. [Environmental Protection Agency](https://www.epa.gov/coronavirus)
 1. [United States Department of Agriculture](https://www.usda.gov/coronavirus)
-
-
- 
-
-
-
-
-
-
-
-
+1. [Consumer Brands Association](https://consumerbrandsassociation.org/)
+1. [The Packer](https://www.thepacker.com/)
+1. [Food Processing](https://www.foodprocessing.com/)
+1. [International Foodservice Distributors Association](https://www.ifdaonline.org/)
+1. [The Food Institute](https://foodinstitute.com/)
+1. [National Restaurant Association](https://restaurant.org/home)
 
 ## Tailoring Training for Specific Industries
 
