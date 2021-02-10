@@ -1,6 +1,6 @@
 ---
 title: Keeping Essential Food Businesses Open During the COVID-19 Crisis in Afghanistan
-date: 2021-02-09 16:46:00 -05:00
+date: 2021-02-10 08:46:00 -05:00
 published: false
 tags:
 - agriculture
@@ -33,6 +33,16 @@ RADP-East targeted dairy, poultry, dried fruit, jam, and tomato processors; fres
 Gathering and validating the content for these videos involved identifying industry-specific, COVID-19 mitigation measures employed to keep food businesses open in other countries; liaising with food processing companies and industry experts; researching public and university COVID-19 information sites; and attentively sampling the evolving ecosystem of industry efforts to mitigate and adapt to COVID-19. RADP-East also drew from DAI’s internal task force and project efforts to source industry-specific mitigation measures backed by science. Ultimately, more than 40 health and industry-specific sites—including associations representing diverse memberships, from agribusiness to community agriculture groups—and 42 companies were consulted. 
 
 RADP-East also leveraged the power of social media to crowdsource examples of different types and scales of adaptation measures. The list below shows a portion of the core resource sites referenced. From March through August, the project triangulated information from these sources, updating its analysis weekly to stay abreast of the rapidly changing COVID-19 science and its application by industries. The team then filtered the information retrieved, adapting it to the conditions facing the Afghan worker and Afghan value chains through cooperation with the Afghan firms. General guidelines from public health officials were translated into practical, industry-specific communication points for company staff.
+
+1. [Occupational Safety and Health Administration](https://www.osha.gov/coronavirus)
+1. [Food and Drug Administration](https://www.fda.gov/food)
+1. [Centers for Disease Control and Prevention](https://www.cdc.gov/foodsafety/)
+1. [Cornell University's College of Agriculture and Life Sciences](https://cals.cornell.edu/)
+
+
+
+
+
 
 
 
