@@ -39,6 +39,10 @@ RADP-East also leveraged the power of social media to crowdsource examples of di
 1. [Centers for Disease Control and Prevention](https://www.cdc.gov/foodsafety/)
 1. [Cornell University's College of Agriculture and Life Sciences](https://cals.cornell.edu/)
 1. [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+1. [Environmental Protection Agency](https://www.epa.gov/coronavirus)
+1. [United States Department of Agriculture](https://www.usda.gov/coronavirus)
+
+
  
 
 
