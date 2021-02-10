@@ -9,6 +9,8 @@ tags:
 - economic-growth
 author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/), [Christina
   Aguila](https://www.dai.com/who-we-are/our-team/christina-aguila), and [Don Humpal](https://www.dai.com/who-we-are/our-team/don-humpal)"
+thumbnail-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
+social-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
 publication: Developments
 ---
 
@@ -30,7 +32,9 @@ RADP-East targeted dairy, poultry, dried fruit, jam, and tomato processors; fres
 
 Gathering and validating the content for these videos involved identifying industry-specific, COVID-19 mitigation measures employed to keep food businesses open in other countries; liaising with food processing companies and industry experts; researching public and university COVID-19 information sites; and attentively sampling the evolving ecosystem of industry efforts to mitigate and adapt to COVID-19. RADP-East also drew from DAI’s internal task force and project efforts to source industry-specific mitigation measures backed by science. Ultimately, more than 40 health and industry-specific sites—including associations representing diverse memberships, from agribusiness to community agriculture groups—and 42 companies were consulted. 
 
-RADP-East also leveraged the power of social media to crowdsource examples of different types and scales of adaptation measures. Figure 1 shows a portion of the core resource sites referenced. From March through August, the project triangulated information from these sources, updating its analysis weekly to stay abreast of the rapidly changing COVID-19 science and its application by industries. The team then filtered the information retrieved, adapting it to the conditions facing the Afghan worker and Afghan value chains through cooperation with the Afghan firms. General guidelines from public health officials were translated into practical, industry-specific communication points for company staff.
+RADP-East also leveraged the power of social media to crowdsource examples of different types and scales of adaptation measures. The list below shows a portion of the core resource sites referenced. From March through August, the project triangulated information from these sources, updating its analysis weekly to stay abreast of the rapidly changing COVID-19 science and its application by industries. The team then filtered the information retrieved, adapting it to the conditions facing the Afghan worker and Afghan value chains through cooperation with the Afghan firms. General guidelines from public health officials were translated into practical, industry-specific communication points for company staff.
+
+
 
 ## Tailoring Training for Specific Industries
 
