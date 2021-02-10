@@ -1,6 +1,6 @@
 ---
 title: Keeping Essential Food Businesses Open During the COVID-19 Crisis in Afghanistan
-date: 2021-02-09 16:46:00 -05:00
+date: 2021-02-10 08:46:00 -05:00
 published: false
 tags:
 - agriculture
@@ -9,6 +9,8 @@ tags:
 - economic-growth
 author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/), [Christina
   Aguila](https://www.dai.com/who-we-are/our-team/christina-aguila), and [Don Humpal](https://www.dai.com/who-we-are/our-team/don-humpal)"
+thumbnail-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
+social-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
 publication: Developments
 ---
 
@@ -30,7 +32,21 @@ RADP-East targeted dairy, poultry, dried fruit, jam, and tomato processors; fres
 
 Gathering and validating the content for these videos involved identifying industry-specific, COVID-19 mitigation measures employed to keep food businesses open in other countries; liaising with food processing companies and industry experts; researching public and university COVID-19 information sites; and attentively sampling the evolving ecosystem of industry efforts to mitigate and adapt to COVID-19. RADP-East also drew from DAI’s internal task force and project efforts to source industry-specific mitigation measures backed by science. Ultimately, more than 40 health and industry-specific sites—including associations representing diverse memberships, from agribusiness to community agriculture groups—and 42 companies were consulted. 
 
-RADP-East also leveraged the power of social media to crowdsource examples of different types and scales of adaptation measures. Figure 1 shows a portion of the core resource sites referenced. From March through August, the project triangulated information from these sources, updating its analysis weekly to stay abreast of the rapidly changing COVID-19 science and its application by industries. The team then filtered the information retrieved, adapting it to the conditions facing the Afghan worker and Afghan value chains through cooperation with the Afghan firms. General guidelines from public health officials were translated into practical, industry-specific communication points for company staff.
+RADP-East also leveraged the power of social media to crowdsource examples of different types and scales of adaptation measures. The list below shows a portion of the core resource sites referenced. From March through August, the project triangulated information from these sources, updating its analysis weekly to stay abreast of the rapidly changing COVID-19 science and its application by industries. The team then filtered the information retrieved, adapting it to the conditions facing the Afghan worker and Afghan value chains through cooperation with the Afghan firms. General guidelines from public health officials were translated into practical, industry-specific communication points for company staff.
+
+1. [Occupational Safety and Health Administration](https://www.osha.gov/coronavirus)
+1. [Food and Drug Administration](https://www.fda.gov/food)
+1. [Centers for Disease Control and Prevention](https://www.cdc.gov/foodsafety/)
+1. [Cornell University's College of Agriculture and Life Sciences](https://cals.cornell.edu/)
+1. [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+1. [Environmental Protection Agency](https://www.epa.gov/coronavirus)
+1. [United States Department of Agriculture](https://www.usda.gov/coronavirus)
+1. [Consumer Brands Association](https://consumerbrandsassociation.org/)
+1. [The Packer](https://www.thepacker.com/)
+1. [Food Processing](https://www.foodprocessing.com/)
+1. [International Foodservice Distributors Association](https://www.ifdaonline.org/)
+1. [The Food Institute](https://foodinstitute.com/)
+1. [National Restaurant Association](https://restaurant.org/home)
 
 ## Tailoring Training for Specific Industries
 
@@ -50,6 +66,8 @@ The COVID-19 mitigation measures are certainly accruing positive returns; one da
 
 While the video trainings were created for essential food businesses in Afghanistan, the videos have broader applications and can be adapted to specific country, worker, and value chain contexts. USAID projects in Ukraine and Rwanda, for example, are gauging the possibility of adapting these trainings to their local circumstances. These video trainings present a replicable model that practitioners can adopt to help enterprises mitigate transmission risks and be more resilient in the face of COVID-19. 
 
+![RADP east.jpg](/uploads/RADP%20east.jpg)`An employee serves customers fresh, cooled yogurt from a new refrigerator. He received training in COVID-19 food safety, personal hygiene, and improved technology as well as a refrigerated display case in a cost-sharing grant for the firm's dairy products under a RADP-East grant.` 
+
 ## Lessons and Opportunities for Practitioners
 
 While effective response to COVID-19 requires new and innovative solutions, adherence to some of the “evergreen” principles of effective development will optimize lasting results. RADP-East focused intently on localizing solutions, for example. As part of the material development process, the project team consulted directly with Afghan firms on the applicability of some of the mitigating measures implemented by various firms: plexiglass shields at cash counters, for example, moving sales to “at-the-curb” delivery, cash trays used to avoid contact where digital payments simply don’t exist, among others. 
@@ -63,6 +81,8 @@ Not to be deterred, the project turned to processors in Lebanon with which DAI, 
 This and other examples illustrate the crucial need for agility and a willingness to rapidly adapt in a context where information from reliable sources is not always forthcoming. Since COVID-19 was a novel virus, national and international health institutions struggled to reach unanimity on the most effective measures to stop the spread. For example, delays in the release of recommendations on masking protocols and conflicting guidance on social distancing hindered information exchange on effective adaptive measures. As a result, the team needed to remain agile, adapt quickly, and triangulate information to provide guidance backed by published science. 
 
 One suggestion for development practitioners, when dealing with novel disease shocks, is to leverage the untapped potential of new techniques and technology, such as artificial intelligence, to speed up the process of identifying mitigation options—options that are corroborated by evidence from health bodies and have been tested by industry—to ensure the project’s interventions do not lag during the linear growth phase of viral spread.
+
+![RADP-East Photo & Caption Afghan Women Rise to the Food Security Challenge Dec 9 2020.jpg](/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020.jpg)`RADP-East implemented a large-scale training program on tomato paste and ketchup production for home-based women entrepreneurs, to support domestic food production and increase food security, while also drawing women into the economy.`
 
 ## Adaptable Strategies 
 
