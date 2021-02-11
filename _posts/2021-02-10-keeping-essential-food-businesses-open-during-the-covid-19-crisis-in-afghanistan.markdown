@@ -82,7 +82,7 @@ This and other examples illustrate the crucial need for agility and a willingnes
 
 One suggestion for development practitioners, when dealing with novel disease shocks, is to leverage the untapped potential of new techniques and technology, such as artificial intelligence, to speed up the process of identifying mitigation options—options that are corroborated by evidence from health bodies and have been tested by industry—to ensure the project’s interventions do not lag during the linear growth phase of viral spread.
 
-![RADP-East Photo & Caption Afghan Women Rise to the Food Security Challenge Dec 9 2020.jpg](/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020.jpg)`RADP-East implemented a large-scale training program on tomato paste and ketchup production for home-based women entrepreneurs, to support domestic food production and increase food security, while also drawing women into the economy.`
+![RADP-East Photo & Caption Afghan Women Rise to the Food Security Challenge Dec 9 2020.jpg](/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020.jpg)`RADP-East implemented a large-scale training program on tomato paste and ketchup production for home-based women entrepreneurs. With home-based firms, COVID-19 safety measures are tougher to enforce, and often only partially adopted. `
 
 ## Adaptable Strategies 
 
