@@ -86,8 +86,6 @@ AVANSE’s comprehensive market systems approach did not just work to improve tr
 
 Today, for example, even after the project has closed, exporters continue to support cooperatives to increase volume, improve quality, and obtain the international certifications needed to sell into more remunerative organic and fair-trade markets.
 
-## Promising, But Fragile
-
 That said, the system is still fragile, especially because of a lack of capacity to manage risks relating to [weather shocks](https://www.theguardian.com/world/2016/oct/04/why-is-haiti-vulnerable-to-natural-hazards-and-disasters). The North of Haiti is subject to recurrent drought that has historically adversely impacted cacao production, destroying up to 48 percent of newly planted cacao trees. Cacao producers have few resources and limited access to knowledge to manage these risks by themselves. 
 
 Future donor projects in this space are urged to capitalize on the improved market linkages in the industry by incentivizing the private sector to jointly address drought-related risk with smallholders. Specifically, the private sector must invest in enabling its supplier base to employ drought-resistant practices such as pruning and shade control and to expand areas under production. 
