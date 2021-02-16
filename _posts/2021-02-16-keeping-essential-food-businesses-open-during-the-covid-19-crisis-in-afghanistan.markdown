@@ -1,6 +1,6 @@
 ---
 title: Keeping Essential Food Businesses Open During the COVID-19 Crisis in Afghanistan
-date: 2021-02-10 08:40:00 -05:00
+date: 2021-02-16 08:40:00 -05:00
 published: false
 tags:
 - agriculture
@@ -9,8 +9,8 @@ tags:
 - economic-growth
 author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/), [Christina
   Aguila](https://www.dai.com/who-we-are/our-team/christina-aguila), and [Don Humpal](https://www.dai.com/who-we-are/our-team/don-humpal)"
-thumbnail-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
-social-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
+thumbnail-image: "/uploads/RADP%20east-822ee1.jpg"
+social-image: "/uploads/RADP%20east-822ee1.jpg"
 publication: Developments
 ---
 
@@ -54,7 +54,7 @@ Developing the training materials was a five-month effort that involved sourcing
 
 The messages and accompanying graphics, footage, and pictures of COVID-19 mitigation measures center on precautions owners, managers, and workers should take to reduce the risk of exposure to themselves, their customers, and their suppliers. Accordingly, the videos highlight facilities and equipment layouts, worker organization, raw material supply chains, distribution channels, and retail operations that present exposure risk. The training emphasizes that identifying these high-risk points in worker-supplier, worker-worker, and worker-customer interactions is critically important for reducing the risk of transmission. The videos provide concrete recommendations for measures to mitigate transmission at each high-risk point.
 
-![Fruits.jpg](/uploads/Fruits.jpg)
+![Fruits transmmission risk (1)-05.png](/uploads/Fruits%20transmmission%20risk%20(1)-05.png)
 
 “I had no information on food safety and COVID-19 mitigation measures before the training,”  said one participant. “My shop was unorganized, and I was not implementing the mitigation measures. After the training, I am now using personal protective equipment, and I brought required modifications in my shop which now attracts more buyers.” 
 
@@ -70,7 +70,7 @@ While the video trainings were created for essential food businesses in Afghanis
 
 ## Lessons and Opportunities for Practitioners
 
-While effective response to COVID-19 requires new and innovative solutions, adherence to some of the “evergreen” principles of effective development will optimize lasting results. RADP-East focused intently on localizing solutions, for example. As part of the material development process, the project team consulted directly with Afghan firms on the applicability of some of the mitigating measures implemented by various firms: plexiglass shields at cash counters, for example, moving sales to “at-the-curb” delivery, cash trays used to avoid contact where digital payments simply don’t exist, among others. 
+While an effective response to COVID-19 requires new and innovative solutions, adherence to some of the “evergreen” principles of effective development will optimize lasting results. RADP-East focused intently on localizing solutions, for example. As part of the material development process, the project team consulted directly with Afghan firms on the applicability of some of the mitigating measures implemented by various firms: plexiglass shields at cash counters, for example, moving sales to “at-the-curb” delivery, cash trays used to avoid contact where digital payments simply don’t exist, among others. 
 
 The project introduced such measures to Afghan firms as ideas ahead of the training delivery, and only the ones endorsed by the firms were included in the training videos. Even though the urgency of the disease response might have made it tempting to bypass this collaborative approach, RADP-East’s partner-led co-creation process ensured that the proposed solutions would address the current reality of businesses and lead to a more favorable reception, better utility, and, ultimately, greater sustainability. 
 
