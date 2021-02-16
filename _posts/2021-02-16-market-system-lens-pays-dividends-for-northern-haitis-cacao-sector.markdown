@@ -30,7 +30,7 @@ Among DAI’s agricultural initiatives in Haiti over the [past two decades](/upl
 
 Haiti’s cacao production declined rapidly in the 1960s, when production peaked at annual levels of 20,000 metric tons, of which little was exported. Over the past two decades, the country has produced on average 5,000 metric tons annually and exported approximately 80 percent. However, recent spells of prolonged drought—most notably in 2015, 2017, and 2018—have contributed to below-average [cacao exports](http://www.fao.org/3/ca5398en/ca5398en.pdf) of 2,5000 metric tons per year. In 2016, [Hurricane Matthew](https://www.worldbank.org/en/results/2017/10/20/rapidly-assessing-the-impact-of-hurricane-matthew-in-haiti) destroyed entire cacao plantations and approximately 1,000 metric tons were lost, cutting 2017 export volumes by 50 percent compared to the prior year. 
 
-![Cacao Sector in the North of Haiti-01.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-01.jpg){:.set-border}
+[![Cacao Sector in the North of Haiti-01.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-01.jpg){:.set-border}](https://dai-global-developments.com/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-02.jpg)
 
 Nevertheless, cacao remains one of Haiti’s main agricultural exports, involving more than 43,600 farmers, mostly concentrated in the North and Grand-Anse departments. Generally, farmers have little direct contact with exporters and aggregation is mostly done by middlemen—dubbed “speculateurs”—who collect cacao beans and sell to exporters. Exporters conduct minor corrective drying for beans that are too wet, and they also perform some sorting and grading. The beans are then exported mostly to U.S. and European chocolate producers. 
 
