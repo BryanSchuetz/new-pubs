@@ -9,8 +9,8 @@ tags:
 - economic-growth
 author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/), [Christina
   Aguila](https://www.dai.com/who-we-are/our-team/christina-aguila), and [Don Humpal](https://www.dai.com/who-we-are/our-team/don-humpal)"
-thumbnail-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
-social-image: "/uploads/RADP-East%20Photo%20&%20Caption%20Afghan%20Women%20Rise%20to%20the%20Food%20Security%20Challenge%20Dec%209%202020-58d7fe.jpg"
+thumbnail-image: "/uploads/RADP%20east-822ee1.jpg"
+social-image: "/uploads/RADP%20east-822ee1.jpg"
 publication: Developments
 ---
 
