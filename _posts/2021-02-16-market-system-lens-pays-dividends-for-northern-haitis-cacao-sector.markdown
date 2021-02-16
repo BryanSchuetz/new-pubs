@@ -38,7 +38,7 @@ The North Department, where USAID agriculture projects have operated for the pas
 
 The irony is that Haiti produces some of the world’s finest cacao varieties—including the Criollo and Trinitario varieties—but the quality has been substandard, and a sizable proportion of cacao is sold as a low-quality unfermented product. The inconsistency in volume and quality of Northern cacao is explained by suboptimal farming practices, lack of capacity to manage weather shocks, insufficient investment in post-harvest tools, weak competition, limited access to inputs, and poor connectivity between exporters and producers.
 
-![Cacao Sector in the North of Haiti-02.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-02.jpg){:.set-border}
+[![Cacao Sector in the North of Haiti-02.jpg](/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-02.jpg){:.set-border}](https://dai-global-developments.com/uploads/Cacao%20Sector%20in%20the%20North%20of%20Haiti-02.jpg){:.without-style}
 
 ## Previous Interventions in the Cacao Sector 
 
