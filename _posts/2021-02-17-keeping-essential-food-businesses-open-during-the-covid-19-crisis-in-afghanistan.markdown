@@ -54,7 +54,7 @@ Developing the training materials was a five-month effort that involved sourcing
 
 The messages and accompanying graphics, footage, and pictures of COVID-19 mitigation measures center on precautions owners, managers, and workers should take to reduce the risk of exposure to themselves, their customers, and their suppliers. Accordingly, the videos highlight facilities and equipment layouts, worker organization, raw material supply chains, distribution channels, and retail operations that present exposure risk. The training emphasizes that identifying these high-risk points in worker-supplier, worker-worker, and worker-customer interactions is critically important for reducing the risk of transmission. The videos provide concrete recommendations for measures to mitigate transmission at each high-risk point.
 
-![Fruits transmmission risk (1)-05.png](/uploads/Fruits%20transmmission%20risk%20(1)-05.png)
+![Artboard 47@4x-100.jpg](/uploads/Artboard%2047@4x-100.jpg)
 
 “I had no information on food safety and COVID-19 mitigation measures before the training,”  said one participant. “My shop was unorganized, and I was not implementing the mitigation measures. After the training, I am now using personal protective equipment, and I brought required modifications in my shop which now attracts more buyers.” 
 
