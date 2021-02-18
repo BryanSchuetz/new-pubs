@@ -2,6 +2,10 @@
 title: ANDE West Africa Hosts Panel on Assisting Businesses in COVID-19 Crisis
 date: 2021-02-18 14:34:00 -05:00
 published: false
+tags:
+- covid-19
+- economic-growth
+- sustainable-business
 author: "[Alyssa Menz](https://www.dai.com/who-we-are/our-team/alyssa-menz)"
 thumbnail-image: "/uploads/Screen%20Shot%202021-02-18%20at%202.36.46%20PM.png"
 social-image: "/uploads/Screen%20Shot%202021-02-18%20at%202.36.46%20PM.png"
