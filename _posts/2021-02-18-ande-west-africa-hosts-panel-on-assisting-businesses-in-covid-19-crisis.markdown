@@ -1,5 +1,5 @@
 ---
-title: ANDE West Africa Hosts Panel on Assisting Businesses in COVID-19 Crisis
+title: ANDE West Africa Hosts Workshop on Assisting Businesses in COVID-19 Crisis
 date: 2021-02-18 14:34:00 -05:00
 published: false
 tags:
@@ -24,7 +24,8 @@ In recognition of this knowledge and funding gap, the [Aspen Network of Developm
 Facilitated by three DAI [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) (SBG) experts—[Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem), Senior Manager in Entrepreneurship and Enterprise Development; [Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla), Manager in Corporate Social Investment; and [Alyssa Menz](https://www.dai.com/who-we-are/our-team/alyssa-menz), Associate Manager in Sustainability and Supply Chain Development—this interactive discussion covered three elements of building corporate partnerships for ESOs: the why, the how, and tips to build more and better corporate partnerships. 
 
 Watch the full webinar here: 
-{:.video}<iframe src="https://player.vimeo.com/video/513912894" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
+
+<iframe src="https://player.vimeo.com/video/513912894" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
 Drawing on learning from SBG’s corporate client base, the team kicked off the workshop by sharing corporates’ two primary motivations for funding entrepreneurship programs: 
 
