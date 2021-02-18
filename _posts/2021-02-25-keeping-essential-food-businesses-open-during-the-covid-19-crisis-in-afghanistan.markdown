@@ -1,6 +1,6 @@
 ---
 title: Keeping Essential Food Businesses Open During the COVID-19 Crisis in Afghanistan
-date: 2021-02-18 08:40:00 -05:00
+date: 2021-02-25 08:40:00 -05:00
 published: false
 tags:
 - agriculture
@@ -56,7 +56,7 @@ The messages and accompanying graphics, footage, and pictures of COVID-19 mitiga
 
 ![Tomato transmmission risk-06-06-71808d.jpg](/uploads/Tomato%20transmmission%20risk-06-06-71808d.jpg)
 
-“I had no information on food safety and COVID-19 mitigation measures before the training,”  said one participant. “My shop was unorganized, and I was not implementing the mitigation measures. After the training, I am now using personal protective equipment, and I brought required modifications in my shop which now attracts more buyers.” 
+“I had no information on food safety and COVID-19 mitigation measures before the training,” said one participant. “My shop was unorganized, and I was not implementing the mitigation measures. After the training, I am now using personal protective equipment, and I brought required modifications in my shop which now attracts more buyers.” 
 
 Atiqullah, a dairy shop owner, shared similar sentiments: “After receiving COVID-19 mitigation training, I brought a lot of changes to my shop and in my operation. I use masks, gloves, shoe net, and hairnet, and by doing so, I feel protected from COVID-19 and my customers also feel good.” 
 
