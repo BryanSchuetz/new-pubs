@@ -36,7 +36,9 @@ Supporting the identification, formulation, and implementation of such a large n
 
 “At one point, we maintained 15 project offices, had 18 vehicles running, and 100 consultants—plus 35 support staff,” said [Holger Hinterthuer](https://www.linkedin.com/in/holger-hinterthuer-3851a433/), DAI’s Director for this project, recalling the complexity and scale of the project management challenge. 
 
-The team embraced its capacity building mandate. “Capacity building of local governments ensures that once the technical assistance contract ends, [our counterparts] can continue to implement the activities initiated during the project, with the government looking after the construction projects,” said [Tehmina Kazmi](https://www.linkedin.com/in/tehmina-kazmi-60460210/), who led KP-CDLD’s capacity building and gender mainstreaming efforts.  
+The team embraced its capacity building mandate. “Capacity building of local governments ensures that once the technical assistance contract ends, [our counterparts] can continue to implement the activities initiated during the project, with the government looking after the construction projects,” said [Tehmina Kazmi](https://www.linkedin.com/in/tehmina-kazmi-60460210/), who led KP-CDLD’s capacity building and gender mainstreaming efforts.
+
+![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
 
 DAI’s team delivered 246 training sessions for nearly 6,500 government officials and representatives of village councils, complemented by 5,000 sessions of on-the-job technical assistance reaching more than 7,200 personnel. Courses included engineering standards, management information systems, monitoring and evaluation, grant management, communication, social mobilisation, and gender sensitisation.  
 
