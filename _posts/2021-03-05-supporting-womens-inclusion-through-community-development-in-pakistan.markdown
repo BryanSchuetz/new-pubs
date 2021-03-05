@@ -65,3 +65,5 @@ Eventually, out of the 5,600 organisations formed during the project, 1,114 were
 Women social mobilisers played a key role in the turnaround. They became role models in their villages—inspiring women to get together and consider their common interests.  
 
 No doubt restrictions on women’s participation and inclusion will persist to some degree, but the KP-CDLD programme has shown the way forward. The CDLD community-based development policy is now officially recognised by the KP Government as its “signature gender-sensitive social delivery programme.” 
+
+*[Mathilde Gaston-Mathé](https://www.linkedin.com/in/mathilde-gaston-math%C3%A9-089a7022/) and [Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/) are senior communications specialists at DAI.*
