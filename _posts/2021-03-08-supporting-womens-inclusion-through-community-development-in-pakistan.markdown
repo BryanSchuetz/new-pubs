@@ -4,6 +4,8 @@ date: 2021-03-08 08:00:00 -05:00
 published: false
 author: "[Mathilde Gaston-Mathé](https://www.linkedin.com/in/mathilde-gaston-math%C3%A9-089a7022/)
   and [Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/) "
+thumbnail-image: "/uploads/sm%20CDLD%20photo%20archive%2076.png"
+social-image: "/uploads/sm%20CDLD%20photo%20archive%2076.png"
 publication: Developments
 ---
 
