@@ -54,7 +54,7 @@ Despite this strong financial incentive, “There were hardly any women’s proj
 
 Getting buy-in from local communities was key to KP-CDLD’s success. Efforts to win people over included forming and training community-based organisations, and having them take the lead in identifying, planning, implementing, and managing the small infrastructure projects.  
 
-![1 Suspension bridge project in Dir Upper 3.jpg](/uploads/1%20Suspension%20bridge%20project%20in%20Dir%20Upper%203.jpg)`Bridges like the above were part of the infrastructure projects chosen by communities.`
+![1 Suspension bridge project in Dir Upper 3.jpg](/uploads/1%20Suspension%20bridge%20project%20in%20Dir%20Upper%203.jpg)`Bridges like the above were part of the infrastructure projects chosen and implemented by communities.`
 
 After a couple of years of implementation, with the hiring and training of women social mobilisers and the support of government employees and female elected representatives, the project began to hit its inclusion targets. Government officials went to the communities and made the case with local men for women’s participation: “We talked to husbands, brothers, fathers,” Kazmi said. “We explained the aims and objectives, what we want to contribute.” 
 
