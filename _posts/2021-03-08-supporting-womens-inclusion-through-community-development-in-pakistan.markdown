@@ -1,7 +1,6 @@
 ---
 title: Supporting Women’s Inclusion Through Community Development in Pakistan
-date: 2021-03-05 08:00:00 -05:00
-published: false
+date: 2021-03-08 07:00:00 -05:00
 tags:
 - gender
 - economic-growth
