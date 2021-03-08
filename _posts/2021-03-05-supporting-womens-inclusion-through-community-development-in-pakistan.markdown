@@ -30,15 +30,13 @@ The CDLD policy established the institutional framework for the formulation and 
 
 In the target community, access to basic services improved as a result of the KP-CDLD Programme, particularly access to drinking water, education, health, sanitation, and livelihood opportunities. For example, in June 2015, only 25 percent of households lived above the poverty line, according to surveys conducted by the project team; by December 2017, that number had risen to 37 percent. Access to water increased from 52 percent to 60 percent in the same period, and some 400,000 people benefited from diversification in on-farm and off-farm enterprises. Gender sensitisation was a common theme across these activities. 
 
-![projectimplemented_cdld.jpg](/uploads/projectimplemented_cdld.jpg)
-
 Supporting the identification, formulation, and implementation of such a large number and variety of projects called for a highly structured approach to technical assistance. Senior experts managed teams at the provincial and district levels to cover capacity building, policy advice, communications, engineering, and other topics. Teams of four experts (a coordinator, field engineer, project cycle management/capacity building specialist, and monitoring and evaluation specialist) were deployed in each district. 
+
+![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
 
 “At one point, we maintained 15 project offices, had 18 vehicles running, and 100 consultants—plus 35 support staff,” said [Holger Hinterthuer](https://www.linkedin.com/in/holger-hinterthuer-3851a433/), DAI’s Director for this project, recalling the complexity and scale of the project management challenge. 
 
 The team embraced its capacity building mandate. “Capacity building of local governments ensures that once the technical assistance contract ends, [our counterparts] can continue to implement the activities initiated during the project, with the government looking after the construction projects,” said [Tehmina Kazmi](https://www.linkedin.com/in/tehmina-kazmi-60460210/), who led KP-CDLD’s capacity building and gender mainstreaming efforts.
-
-![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
 
 DAI’s team delivered 246 training sessions for nearly 6,500 government officials and representatives of village councils, complemented by 5,000 sessions of on-the-job technical assistance reaching more than 7,200 personnel. Courses included engineering standards, management information systems, monitoring and evaluation, grant management, communication, social mobilisation, and gender sensitisation.  
 
