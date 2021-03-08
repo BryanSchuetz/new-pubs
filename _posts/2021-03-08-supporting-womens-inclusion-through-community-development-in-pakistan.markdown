@@ -23,7 +23,7 @@ To tackle these issues, the Government of KP launched a Community-Driven Local D
 
 
 
-![CDLD-GeoCoverage[1].jpg](/uploads/CDLD-GeoCoverage%5B1%5D.jpg)
+![CDLD-GeoCoverage-01.jpg](/uploads/CDLD-GeoCoverage-01.jpg)
 ## Supporting a Complex Programme  
 
 The CDLD policy established the institutional framework for the formulation and approval of local development projects. Over six years, through meticulous social mobilisation, capacity building, and awareness raising, a team—led by Human Dynamics, which was [acquired by DAI](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) in 2019—supported vulnerable rural communities and marginalised households in 13 districts, ultimately seeing 4,718 out of the 6,006 approved projects through to completion before the close of the project in 2020—19 percent of these projects led by women.  
@@ -32,7 +32,7 @@ In the target community, access to basic services improved as a result of the KP
 
 Supporting the identification, formulation, and implementation of such a large number and variety of projects called for a highly structured approach to technical assistance. Senior experts managed teams at the provincial and district levels to cover capacity building, policy advice, communications, engineering, and other topics. Teams of four experts (a coordinator, field engineer, project cycle management/capacity building specialist, and monitoring and evaluation specialist) were deployed in each district. 
 
-![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
+![Projects-Implemented.jpg](/uploads/Projects-Implemented.jpg)
 
 “At one point, we maintained 15 project offices, had 18 vehicles running, and 100 consultants—plus 35 support staff,” said [Holger Hinterthuer](https://www.linkedin.com/in/holger-hinterthuer-3851a433/), DAI’s Director for this project, recalling the complexity and scale of the project management challenge. 
 
@@ -41,6 +41,8 @@ The team embraced its capacity building mandate. “Capacity building of local g
 DAI’s team delivered 246 training sessions for nearly 6,500 government officials and representatives of village councils, complemented by 5,000 sessions of on-the-job technical assistance reaching more than 7,200 personnel. Courses included engineering standards, management information systems, monitoring and evaluation, grant management, communication, social mobilisation, and gender sensitisation.  
 
 “When conducting gender sensitisation trainings for government official staff, we never gave them lectures or big sermons about women’s participation,” Kazmi said. “But, with little exercises and games, we made them realise that women are contributing a lot, and that with the support of the project, they can contribute even more.” 
+
+![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
 
 ## Incentivising Change 
 
