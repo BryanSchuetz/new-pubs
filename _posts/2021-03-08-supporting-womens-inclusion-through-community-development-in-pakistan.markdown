@@ -1,12 +1,12 @@
 ---
 title: Supporting Women’s Inclusion Through Community Development in Pakistan
-date: 2021-03-05 08:00:00 -05:00
-published: false
+date: 2021-03-08 07:00:00 -05:00
 tags:
 - gender
 - economic-growth
 - education
 - infrastructure
+- governance
 author: "[Mathilde Gaston-Mathé](https://www.linkedin.com/in/mathilde-gaston-math%C3%A9-089a7022/)
   and [Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/) "
 thumbnail-image: "/uploads/sm%20CDLD%20photo%20archive%2076.png"
@@ -30,15 +30,13 @@ The CDLD policy established the institutional framework for the formulation and 
 
 In the target community, access to basic services improved as a result of the KP-CDLD Programme, particularly access to drinking water, education, health, sanitation, and livelihood opportunities. For example, in June 2015, only 25 percent of households lived above the poverty line, according to surveys conducted by the project team; by December 2017, that number had risen to 37 percent. Access to water increased from 52 percent to 60 percent in the same period, and some 400,000 people benefited from diversification in on-farm and off-farm enterprises. Gender sensitisation was a common theme across these activities. 
 
-![projectimplemented_cdld.jpg](/uploads/projectimplemented_cdld.jpg)
-
 Supporting the identification, formulation, and implementation of such a large number and variety of projects called for a highly structured approach to technical assistance. Senior experts managed teams at the provincial and district levels to cover capacity building, policy advice, communications, engineering, and other topics. Teams of four experts (a coordinator, field engineer, project cycle management/capacity building specialist, and monitoring and evaluation specialist) were deployed in each district. 
+
+![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
 
 “At one point, we maintained 15 project offices, had 18 vehicles running, and 100 consultants—plus 35 support staff,” said [Holger Hinterthuer](https://www.linkedin.com/in/holger-hinterthuer-3851a433/), DAI’s Director for this project, recalling the complexity and scale of the project management challenge. 
 
 The team embraced its capacity building mandate. “Capacity building of local governments ensures that once the technical assistance contract ends, [our counterparts] can continue to implement the activities initiated during the project, with the government looking after the construction projects,” said [Tehmina Kazmi](https://www.linkedin.com/in/tehmina-kazmi-60460210/), who led KP-CDLD’s capacity building and gender mainstreaming efforts.
-
-![2 CDLD photo archive 76.png](/uploads/2%20CDLD%20photo%20archive%2076.png)`The EU-funded project ensured women's voices were included in all activities.`
 
 DAI’s team delivered 246 training sessions for nearly 6,500 government officials and representatives of village councils, complemented by 5,000 sessions of on-the-job technical assistance reaching more than 7,200 personnel. Courses included engineering standards, management information systems, monitoring and evaluation, grant management, communication, social mobilisation, and gender sensitisation.  
 
@@ -56,7 +54,7 @@ Despite this strong financial incentive, “There were hardly any women’s proj
 
 Getting buy-in from local communities was key to KP-CDLD’s success. Efforts to win people over included forming and training community-based organisations, and having them take the lead in identifying, planning, implementing, and managing the small infrastructure projects.  
 
-![1 Suspension bridge project in Dir Upper 3.jpg](/uploads/1%20Suspension%20bridge%20project%20in%20Dir%20Upper%203.jpg)`Bridges like the above were part of the infrastructure projects chosen by communities.`
+![1 Suspension bridge project in Dir Upper 3.jpg](/uploads/1%20Suspension%20bridge%20project%20in%20Dir%20Upper%203.jpg)`Bridges like the above were part of the infrastructure projects chosen and implemented by communities.`
 
 After a couple of years of implementation, with the hiring and training of women social mobilisers and the support of government employees and female elected representatives, the project began to hit its inclusion targets. Government officials went to the communities and made the case with local men for women’s participation: “We talked to husbands, brothers, fathers,” Kazmi said. “We explained the aims and objectives, what we want to contribute.” 
 
