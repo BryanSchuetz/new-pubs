@@ -53,6 +53,8 @@ Assessing the baseline situation in 2015, our team found a massive 60 percent un
 
 We set about working with private sector firms to uncover their specific needs before building the capacity of the training centers—focusing heavily on high-growth sectors such as manufacturing, IT, commerce and tourism, energy, and agroindustry. After five years, 19 new and three updated training curricula received certification and two training organizations received accreditation to offer courses through the Salvadoran Institute of Professional Development (INSAFORP). A total of 11,930 vulnerable young people have completed training, gaining the skills and abilities demanded by employers.
 
+![Picture1-31e97e.jpg](/uploads/Picture1-31e97e.jpg)`Photo courtesy USAID Bridges.`
+
 “In my country, when you are young, and do not have work experience, it is extremely difficult to get a job,” said Rafael Mendoza, a young man from Sonzacate. “USAID [Bridges] supported me, providing a positive team, great teachers, quality education, and the inspiration I needed to realize that it is possible to get a job and support a family.”
 
 Working as matchmaker, Bridges cemented more than 100 alliances between these training centers and private firms, establishing relationships that can carry on into the future.
