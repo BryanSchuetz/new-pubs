@@ -9,7 +9,6 @@ tags:
 - fragile-states
 - gender
 - resilience
-- youth-employment-series
 author: "[Leanne Webster](https://www.linkedin.com/in/leanne-webster-4839544/)"
 thumbnail-image: "/uploads/Picture3-eb6d63.jpg"
 social-image: "/uploads/Picture3-eb6d63.jpg"
