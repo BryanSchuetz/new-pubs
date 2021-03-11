@@ -79,17 +79,20 @@ The flexible education program helped more than 600 young people who had previou
 
 Ongoing collaboration between the private sector, government actors, and training centers will play a key role in determining the effectiveness of El Salvador’s workforce development system for years to come, but the long-term sustainability of the alliances will ultimately depend on the will of all these key players to continue collaborating and contributing to a virtuous circle of feedback and reliance on one another. The Bridges project laid a solid foundation to facilitate ongoing cooperation; the onus now lies with those who have the most at stake to continue seeing the tremendous value El Salvador’s youth have to offer their country. 
 
-Sidebar:
-
-Every development project has its challenges and roadblocks. Here are a few lessons learned from the barriers Bridges faced:
-
-•	Partnership and joint implementation with trusted, knowledgeable local institutions are must-haves.
-•	A systemic approach—working with a broad range of stakeholders to address specific gaps and improve coordination within the workforce development system—is key.
-•	Life skills training—covering self-esteem, communications,
-and critical thinking—is an essential part of personal and professional development programs for young people.
-•	Be open to providing stipends so young people can participate in training—many do not have even the minimal resources needed to attend courses or pay for a meal during the day.
-•	Career guidance, job placement, and other support services are integral to workforce training programs—upgrading technical skills alone will likely be insufficient.
-•	Reach young people where they are, which is typically on social media.
-•	To ensure young people are committed to obtaining a job, set clear expectations with them at the recruitment stage and obtain their commitments to take specific actions to pursue employment.
+<aside><h2>Lessons Learned</h2>
+<ol>
+  <li>Partnership and joint implementation with trusted, knowledgeable local institutions are must-haves.
+</li>
+  <li>A systemic approach—working with a broad range of stakeholders to address specific gaps and improve coordination within the workforce development system—is key.</li>
+  <li>Life skills training—covering self-esteem, communications,
+and critical thinking—is an essential part of personal and professional development programs for young people.</li>
+  <li>Be open to providing stipends so young people can participate in training—many do not have even the minimal resources needed to attend courses or pay for a meal during the day.</li>
+  <li>Career guidance, job placement, and other support services are integral to workforce training programs—upgrading technical skills alone will likely be insufficient.</li>
+  <li>Reach young people where they are, which is typically on social media.
+</li>
+  <li>To ensure young people are committed to obtaining a job set clear expectations with them at the recruitment stage and obtain their commitments to take specific actions to pursue employment.
+</li>
+</ol>
+</aside>
 
 *[Leanne Webster](https://www.linkedin.com/in/leanne-webster-4839544/) was Deputy Chief of Party for DAI-led Bridges to Employment.*
