@@ -55,7 +55,7 @@ We set about working with private sector firms to uncover their specific needs b
 
 ![Picture1-31e97e.jpg](/uploads/Picture1-31e97e.jpg)`Photo courtesy USAID Bridges.`
 
-“In my country, when you are young, and do not have work experience, it is extremely difficult to get a job,” said Rafael Mendoza, a young man from Sonzacate. “USAID [Bridges] supported me, providing a positive team, great teachers, quality education, and the inspiration I needed to realize that it is possible to get a job and support a family.”
+“In my country, when you are young and do not have work experience, it is extremely difficult to get a job,” said Rafael Mendoza, a young man from Sonzacate. “USAID [Bridges] supported me, providing a positive team, great teachers, quality education, and the inspiration I needed to realize that it is possible to get a job and support a family.”
 
 Working as matchmaker, Bridges cemented more than 100 alliances between these training centers and private firms, establishing relationships that can carry on into the future.
 
@@ -70,6 +70,8 @@ Aware that young women in El Salvador face distinct barriers to employment, Brid
 Through a flexible education program certified by the Ministry of Education, Science, and Technology, Bridges supported training centers in assisting 338 young women who had dropped out of school to complete their high school education at an accelerated rate. By ensuring that the young women have the education required by employers and the life skills necessary to succeed, the project not only broadened the opportunities available to young women in El Salvador but empowered them to chart their own personal and professional paths.
 
 Bridges also helped women break barriers that had previously led to a gendered workforce. “In the past, we thought furniture assembler positions could only be filled by men with solid experience. Now, we have broken paradigms by hiring women for traditionally male-dominated jobs, recognizing that a person’s gender does not determine their skills or abilities. We are convinced that with a little training, young women can perform as well as someone with extensive experience,” said the hiring manager of [Grupo Unicomer](https://grupounicomer.com/en/home/). 
+
+![DALIA MARCELA ALFARO LARA.jpg](/uploads/DALIA%20MARCELA%20ALFARO%20LARA.jpg)`Photo courtesy USAID Bridges.`
 
 In another example, Bridges worked with a training center to open doors for qualified young women to enter El Salvador’s growing plastics industry: 76 young women from the country’s highest-crime communities completed technical and life skills training and gained hands-on experience operating state-of-the-art equipment. They have since taken jobs with a variety of plastics manufacturers as technical operators of flexographic printing machines, film extrusion machines, and injection and blow molding machines, among other positions.
 
