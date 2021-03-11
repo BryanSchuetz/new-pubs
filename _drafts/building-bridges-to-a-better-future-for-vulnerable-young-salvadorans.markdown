@@ -15,9 +15,9 @@ social-image: "/uploads/Picture3-eb6d63.jpg"
 publication: Developments
 ---
 
-With 16- to 29-year-olds making up a quarter of El Salvador’s population, young people have the potential to play a transformative role in the country’s labor market and contribute to economic prosperity in this Central American country, where economic growth has exceeded 3 percent only twice this century. Yet many young Salvadorans—confronted by gang coercion, a limited job market, and pressures to undertake costly and dangerous migration—face difficult life choices. 
+With 16- to 29-year-olds making up a quarter of El Salvador’s population, young people have the potential to play a transformative role in the country’s labor market and contribute to economic prosperity in this Central American country, where economic growth has exceeded 3 percent [only twice](https://www.worldbank.org/en/country/elsalvador/overview#:~:text=GDP%20growth%20in%20El%20Salvador,2.3%20percent%20in%20recent%20years.) this century. Yet many young Salvadorans—confronted by gang coercion, a limited job market, and pressures to undertake costly and dangerous migration—face difficult life choices. 
 
-To give young Salvadorans positive options for supporting themselves and their families, within their home country, the U.S. Agency for International Development (USAID) launched the Bridges to Employment project in 2015. The idea was to increase and improve employment opportunities for vulnerable youth, including young parents, people with disabilities, returned migrants, and the lesbian, gay, bisexual, transgender, and intersex (LGBTI) community—with a focus on El Salvador’s highest-crime municipalities. 
+To give young Salvadorans positive options for supporting themselves and their families, within their home country, the U.S. Agency for International Development (USAID) launched the [Bridges to Employment](https://www.dai.com/our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project) project in 2015. The idea was to increase and improve employment opportunities for vulnerable youth, including young parents, people with disabilities, returned migrants, and the lesbian, gay, bisexual, transgender, and intersex (LGBTI) community—with a focus on El Salvador’s highest-crime municipalities. 
 
 
 
