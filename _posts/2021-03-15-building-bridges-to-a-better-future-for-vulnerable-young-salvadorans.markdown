@@ -53,7 +53,7 @@ sharing their perspectives on how employing youth is in a company’s self-inter
 
 ![Bridges to Employment-03[1].jpg](/uploads/Bridges%20to%20Employment-03%5B1%5D.jpg)
 
-## Improving Workforce Development Services
+## Bringing in the Private Sector
 
 Assessing the baseline situation in 2015, our team found a massive 60 percent unemployment rate among young people in the project’s targeted areas. And training centers were ill prepared to help. “Many young women and men want to work, but because the education curricula provided by educational institutions are outdated, youth don’t gain the necessary skills demanded by employers,” said Valero. 
 
