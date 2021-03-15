@@ -20,6 +20,7 @@ With 16- to 29-year-olds making up a quarter of El Salvador’s population, youn
 
 To give young Salvadorans positive options for supporting themselves and their families, within their home country, the U.S. Agency for International Development (USAID) launched the [Bridges to Employment](https://www.dai.com/our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project) project in 2015. The idea was to increase and improve employment opportunities for vulnerable youth, including young parents, people with disabilities, returned migrants, and the lesbian, gay, bisexual, transgender, and intersex (LGBTI) community—with a focus on El Salvador’s highest-crime municipalities. 
 
+![Bridges to Employment-05.jpg](/uploads/Bridges%20to%20Employment-05.jpg)
 
 
 
