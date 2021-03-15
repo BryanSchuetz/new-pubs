@@ -1,6 +1,6 @@
 ---
 title: Building Bridges to a Better Future for Vulnerable Young Salvadorans
-date: 2021-03-11 16:17:00 -05:00
+date: 2021-03-15 13:17:00 -04:00
 published: false
 tags:
 - economic-growth
@@ -33,6 +33,8 @@ When the Bridges team hit the ground in 2015, we found an atmosphere of distrust
 
 We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
 
+![Bridges to Employment-02[1].jpg](/uploads/Bridges%20to%20Employment-02%5B1%5D.jpg)
+
 ## Workforce Development and Employment  
 
 Economic opportunities—or a lack thereof¬—play a key role in shaping the day-to-day lives of youth in El Salvador as well as determining their life choices. While most young people are eager to support themselves and their families, they often feel that given the weak economy, the perception among employers that young people lack skills, and the ever-present threat posed by gangs, there is little chance for them to succeed in their home country. 
@@ -49,6 +51,8 @@ One of the key strategies for strengthening economic opportunities, training, an
 Our team’s nationwide public communications campaign—using traditional and social media—sought to improve the perceptions that employers and the Salvadoran public have of returned migrants, people living in areas with high rates of violence, disabled young people, young parents, and youth who identify as LGBTI. Employers of project-trained youth, such as the CEO of the plastics manufacturing company Termoencogibles, served as vocal advocates,
 sharing their perspectives on how employing youth is in a company’s self-interest. Lastly, Bridges helped 56 firms make their corporate policies more inclusive of vulnerable youth and other marginalized populations.
 
+![Bridges to Employment-03[1].jpg](/uploads/Bridges%20to%20Employment-03%5B1%5D.jpg)
+
 ## Improving Workforce Development Services
 
 Assessing the baseline situation in 2015, our team found a massive 60 percent unemployment rate among young people in the project’s targeted areas. And training centers were ill prepared to help. “Many young women and men want to work, but because the education curricula provided by educational institutions are outdated, youth don’t gain the necessary skills demanded by employers,” said Valero. 
@@ -60,6 +64,8 @@ We set about working with private sector firms to uncover their specific needs b
 “In my country, when you are young and do not have work experience, it is extremely difficult to get a job,” said Rafael Mendoza, a young man from Sonzacate. “USAID [Bridges] supported me, providing a positive team, great teachers, quality education, and the inspiration I needed to realize that it is possible to get a job and support a family.”
 
 Working as matchmaker, Bridges cemented more than 100 alliances between these training centers and private firms, establishing relationships that can carry on into the future.
+
+![Bridges to Employment-04[1].jpg](/uploads/Bridges%20to%20Employment-04%5B1%5D.jpg)
 
 ## Engaging Elusive Young People
 
