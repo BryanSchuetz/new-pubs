@@ -23,7 +23,7 @@ To tackle these issues, the Government of KP launched a Community-Driven Local D
 
 
 
-![CDLD-GeoCoverage-01.jpg](/uploads/CDLD-GeoCoverage-01.jpg)
+![MicrosoftTeams-image.png](/uploads/MicrosoftTeams-image.png)
 ## Supporting a Complex Programme  
 
 The CDLD policy established the institutional framework for the formulation and approval of local development projects. Over six years, through meticulous social mobilisation, capacity building, and awareness raising, a team—led by Human Dynamics, which was [acquired by DAI](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) in 2019—supported vulnerable rural communities and marginalised households in 13 districts, ultimately seeing 4,718 out of the 6,006 approved projects through to completion before the close of the project in 2020—19 percent of these projects led by women.  
