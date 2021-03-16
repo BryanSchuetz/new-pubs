@@ -65,7 +65,7 @@ We set about working with private sector firms to uncover their specific needs b
 
 Working as matchmaker, Bridges cemented more than 100 alliances between these training centers and private firms, establishing relationships that can carry on into the future.
 
-![Bridges to Employment-04[1].jpg](/uploads/Bridges%20to%20Employment-04%5B1%5D.jpg)
+![MicrosoftTeams-image (1).png](/uploads/MicrosoftTeams-image%20(1).png)
 
 ## Engaging Elusive Young People
 
