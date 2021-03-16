@@ -55,7 +55,7 @@ sharing their perspectives on how employing youth is in a company’s self-inter
 
 ## Bringing in the Private Sector
 
-Assessing the baseline situation in 2015, our team found a massive 60 percent unemployment rate among young people in the project’s targeted areas. And training centers were ill prepared to help. “Many young women and men want to work, but because the education curricula provided by educational institutions are outdated, youth don’t gain the necessary skills demanded by employers,” said Valero. 
+Assessing the baseline situation in 2015, our team found a massive 60 percent unemployment rate among young people in the project’s targeted areas and training centers were ill prepared to help. “Many young women and men want to work, but because the education curricula provided by educational institutions are outdated, youth don’t gain the necessary skills demanded by employers,” said Valero. 
 
 We set about working with private sector firms to uncover their specific needs before building the capacity of the training centers—focusing heavily on high-growth sectors such as manufacturing, IT, commerce and tourism, energy, and agroindustry. After five years, 19 new and three updated training curricula received certification and two training organizations received accreditation to offer courses through the Salvadoran Institute of Professional Development (INSAFORP). A total of 11,930 vulnerable young people have completed training, gaining the skills and abilities demanded by employers.
 
