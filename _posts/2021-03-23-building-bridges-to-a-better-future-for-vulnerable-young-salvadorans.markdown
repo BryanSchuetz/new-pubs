@@ -1,6 +1,6 @@
 ---
 title: Building Bridges to a Better Future for Vulnerable Young Salvadorans
-date: 2021-03-15 13:17:00 -04:00
+date: 2021-03-23 08:00:00 -04:00
 published: false
 tags:
 - economic-growth
@@ -33,7 +33,7 @@ When the Bridges team hit the ground in 2015, we found an atmosphere of distrust
 
 We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
 
-![Bridges to Employment-02[1].jpg](/uploads/Bridges%20to%20Employment-02%5B1%5D.jpg)
+!![MicrosoftTeams-image-5ed51f.png](/uploads/MicrosoftTeams-image-5ed51f.png)
 
 ## Workforce Development and Employment  
 
