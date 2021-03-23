@@ -1,6 +1,6 @@
 ---
 title: Building Bridges to a Better Future for Vulnerable Young Salvadorans
-date: 2021-03-23 08:00:00 -04:00
+date: 2021-03-24 08:00:00 -04:00
 published: false
 tags:
 - economic-growth
@@ -27,7 +27,7 @@ To give young Salvadorans positive options for supporting themselves and their f
 
 
 
-“When vulnerable young people have access to high-quality, comprehensive, and market-relevant services that maximize their strengths, they are more likely to improve their employability and income, and less likely to migrate,” said Caterina Valero, the Chief of Party for the project.
+“When vulnerable young people have access to high-quality, comprehensive, and market-relevant services that maximize their strengths, they are more likely to improve their employability and income, and less likely to migrate,” said [Caterina Valero](https://www.dai.com/who-we-are/our-team/caterina-valero), the Chief of Party for the project.
 
 When the Bridges team hit the ground in 2015, we found an atmosphere of distrust between companies and vulnerable youth. Employers found it difficult to see past unfavorable stereotypes and were largely unwilling to hire young people, especially those from high-risk neighborhoods. The hiring processes are rigorous, time-consuming, and expensive, often requiring applicants to take practical and psychometric tests and pay for invasive medical exams; they also entail police record checks for each new application, making the job search process a frustrating one for young people.
 
