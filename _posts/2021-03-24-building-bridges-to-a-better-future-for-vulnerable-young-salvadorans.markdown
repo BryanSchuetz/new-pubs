@@ -32,11 +32,11 @@ When the Bridges team hit the ground in 2015, we found an atmosphere of distrust
 
 We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
 
-!![MicrosoftTeams-image-5ed51f.png](/uploads/MicrosoftTeams-image-5ed51f.png)
+![MicrosoftTeams-image-5ed51f.png](/uploads/MicrosoftTeams-image-5ed51f.png)
 
 ## Workforce Development and Employment  
 
-Economic opportunities—or a lack thereof¬—play a key role in shaping the day-to-day lives of youth in El Salvador as well as determining their life choices. While most young people are eager to support themselves and their families, they often feel that given the weak economy, the perception among employers that young people lack skills, and the ever-present threat posed by gangs, there is little chance for them to succeed in their home country. 
+Economic opportunities—or a lack thereof—play a key role in shaping the day-to-day lives of youth in El Salvador as well as determining their life choices. While most young people are eager to support themselves and their families, they often feel that given the weak economy, the perception among employers that young people lack skills, and the ever-present threat posed by gangs, there is little chance for them to succeed in their home country. 
 
 Bridges was designed to help vulnerable youth gain the skills, confidence, and opportunities they need to get their start in El Salvador’s highest-growth sectors, such as manufacturing, commerce, and IT, thereby mitigating their economic motivation to migrate.  
 
