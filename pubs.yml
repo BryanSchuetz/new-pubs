@@ -4,7 +4,7 @@
 {% capture newline %}
 
 {% endcapture %}
-{% for post in site.posts | limit:30 %}
+{% for post in site.posts | limit:60 %}
 - title: |
     {{ post.title | strip_html | strip_newlines }}
   pub: "{{ post.publication }}"
