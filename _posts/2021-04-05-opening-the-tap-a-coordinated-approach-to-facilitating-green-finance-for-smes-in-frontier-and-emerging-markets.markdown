@@ -38,7 +38,7 @@ If these leading organisations in OECD countries are struggling with climate-rel
 
 Local banks are eager to finance the adoption of technologies that clear the way toward energy transition. Many businesses and communities require green technologies for productive purposes. These include both high- and low-tech solutions, ranging from solar water pumps to covering structures that protect crops from pests or extreme weather to power generation technologies such as off-grid solar systems. However, inadequate information and issues around willingness and ability to pay can all get in the way of technology adoption.
 
-DAI’s experience in Belize sheds some light on this dynamic. In late 2020, we conducted focus groups with businesses across Belize as part of the EcoMicro Programme, funded by the Inter-American Development Bank Innovation Lab (IDB Lab) and the Government of Canada. The experience of Alex Castillo, a sugarcane producer whose name we have changed for privacy purposes, is illustrative. Under a replanting initiative designed to support farmers hit by droughts in 2016 and 2017, Alex borrowed BZD$10,000 (approximately US$5,000) from a Credit Union to help buy agricultural inputs such as high-quality seed and bio fertiliser. 
+DAI’s experience in Belize sheds some light on this dynamic. In late 2020, we conducted focus groups with businesses across Belize as part of the [EcoMicro Programme](https://www.dai.com/our-work/projects/belize-idb-ecomicro-project), funded by the Inter-American Development Bank Innovation Lab (IDB Lab) and the Government of Canada. The experience of Alex Castillo, a sugarcane producer whose name we have changed for privacy purposes, is illustrative. Under a replanting initiative designed to support farmers hit by droughts in 2016 and 2017, Alex borrowed BZD$10,000 (approximately US$5,000) from a Credit Union to help buy agricultural inputs such as high-quality seed and bio fertiliser. 
 
 But yet more severe droughts in the first half of 2019 affected close to a third of his production, drastically reducing his returns. As a result, Alex has been unable to recover from a severe climatic shock and found it harder to meet his monthly loan commitments and repay the working capital loan he took out through the replanting programme. Alex requires a flexible financial instrument that adapts to the increasingly hostile “multi-peril” climate conditions.
 
@@ -63,3 +63,13 @@ In addition to these general principles, we should take a “green” lens to ou
 * Building shock-responsive financial instruments to mitigate unpredictable off-seasons. 
 
 Patiently applying such a suite of solutions will begin to unblock climate finance flows for those hard-working, productive businesses so crucial to the prosperity of frontier and emerging economies.
+
+Fit-for-Purpose Climate Risk Appraisal 
+
+Conducting the due diligence needed to calculate loan, insurance, or re-insurance premiums on capital-intensive green infrastructure requires a high degree of climate literacy. For major infrastructure projects, risk assessors have access to complex algorithms and artificial intelligence to compute risk scoring, and the expense and time involved is more than justified by the size of the investment at stake. However, for smaller financial institutions working with small enterprises to access technology that is less capital intensive, this high-end, time- and cost-intensive risk-assessment capability is simply not viable. They need a different, more cost-effective approach to appraise climate risk, without all the “bells and whistles,” and one that their client-facing staff can be trained to perform. 
+
+In this context, a good climate risk tool should be able to assess portfolio vulnerability from three perspectives:
+
+• Information from the client showing a robust business case for the acquisition of a green or climate-smart technology
+• Geo-localised information showing the probability of a climate-related event or trend relevant to business sectors represented in the portfolio
+• Information showing client businesses’ level of preparation and ability to assimilate and exploit green or climate-smart technologies.
