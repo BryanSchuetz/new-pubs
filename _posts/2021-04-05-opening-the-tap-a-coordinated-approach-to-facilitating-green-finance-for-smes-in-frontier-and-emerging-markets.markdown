@@ -64,12 +64,14 @@ In addition to these general principles, we should take a “green” lens to ou
 
 Patiently applying such a suite of solutions will begin to unblock climate finance flows for those hard-working, productive businesses so crucial to the prosperity of frontier and emerging economies.
 
-Fit-for-Purpose Climate Risk Appraisal 
-
-Conducting the due diligence needed to calculate loan, insurance, or re-insurance premiums on capital-intensive green infrastructure requires a high degree of climate literacy. For major infrastructure projects, risk assessors have access to complex algorithms and artificial intelligence to compute risk scoring, and the expense and time involved is more than justified by the size of the investment at stake. However, for smaller financial institutions working with small enterprises to access technology that is less capital intensive, this high-end, time- and cost-intensive risk-assessment capability is simply not viable. They need a different, more cost-effective approach to appraise climate risk, without all the “bells and whistles,” and one that their client-facing staff can be trained to perform. 
-
-In this context, a good climate risk tool should be able to assess portfolio vulnerability from three perspectives:
-
-• Information from the client showing a robust business case for the acquisition of a green or climate-smart technology
-• Geo-localised information showing the probability of a climate-related event or trend relevant to business sectors represented in the portfolio
-• Information showing client businesses’ level of preparation and ability to assimilate and exploit green or climate-smart technologies.
+<aside><h2>Fit-for-Purpose Climate Risk Appraisal</h2>
+<ol>
+  <li>Conducting the due diligence needed to calculate loan, insurance, or re-insurance premiums on capital-intensive green infrastructure requires a high degree of climate literacy. For major infrastructure projects, risk assessors have access to complex algorithms and artificial intelligence to compute risk scoring, and the expense and time involved is more than justified by the size of the investment at stake. However, for smaller financial institutions working with small enterprises to access technology that is less capital intensive, this high-end, time- and cost-intensive risk-assessment capability is simply not viable. They need a different, more cost-effective approach to appraise climate risk, without all the “bells and whistles,” and one that their client-facing staff can be trained to perform. 
+</li>
+  <li>In this context, a good climate risk tool should be able to assess portfolio vulnerability from three perspectives:
+</li>
+  <li>* Information from the client showing a robust business case for the acquisition of a green or climate-smart technology</li>
+  <li>* Geo-localised information showing the probability of a climate-related event or trend relevant to business sectors represented in the portfolio</li>
+  <li>* Information showing client businesses’ level of preparation and ability to assimilate and exploit green or climate-smart technologies.</li>
+</ol>
+</aside>
