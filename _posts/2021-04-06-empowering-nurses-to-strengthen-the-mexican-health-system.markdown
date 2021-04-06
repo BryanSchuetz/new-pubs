@@ -57,4 +57,4 @@ Through a partnership approach, BHPMx has linked high-level representatives of t
 
 The empowerment of nurses within the Mexican health care system is perhaps the most representative example of how BHPMx is simultaneously helping to improve access to quality of care and promote gender equity while building a sustainable UK-Mexico collaboration agenda for better health. The programme aims to raise the profile and status of nursing in Mexico, for years overlooked, as well as creating a meaningful career path and therefore more opportunity for social mobility, as well as plugging gaps in vital primary care services. 
 
-*Eduardo Gonzalez-Pier is the Team Leader for BHPMx and Alejandro Sanders was a Technical Lead.*
+*Eduardo Gonzalez-Pier is the Team Leader for BHPMx and Alejandro Sanders is the Human Resources for Health Lead.*
