@@ -37,11 +37,11 @@ The Mexican health sector has wanted to expand the advanced practice nurse (APN)
 
 In 2020, BHPMx began working with the National School of Nursing and Obstetrics (ENEO) to research the barriers to expanding the APN role in Mexico. ENEO teamed up with researchers and students at the prestigious Universidad Nacional Autónoma de México (UNAM), and the resulting research was used in a comparative analysis of the APN role in the United Kingdom and Mexico. This analysis also mapped the constraints and opportunities facing Mexico, generating data to enable the design of a national policy on the APN role.  
 
-A collaborative approach and **knowledge exchange** among all health professionals must occur to assure the best possible outcomes for both short and long-term perspectives, and BHPMx brokered the support from the  UK NHS Joint Unit, Health Education England, and the  General Medical Council, to identify UK experts who could share their experience and provide feedback on the research design and policy recommendations.  
+BHPMx brokered the support from the  UK NHS Joint Unit, Health Education England, and the  General Medical Council to identify U.K. experts who could share their experience and provide feedback on the research design and policy recommendations—an example of **knowledge exchange** in action.  
 
 "We are very proud to be involved in an international project within the Better Health Program," said Rosa Zárate, Director of the National School of Nursing and Obstetrics, ENEO. "It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." 
 
-This productive engagement has also led to the participation of the BHPMx team in the Mexican Secretariat of Health Strategic Group, the technical group that is contributing to the drafting of the National Plan, which contains the main guidelines and standards for the advanced nursing practice strategy's rollout in every Mexican state. 
+BHPMx has also participated in the Mexican Secretariat of Health Strategic Group, the technical group that is helping draft the National Plan for the advanced nursing practice rollout in every Mexican state. 
 <iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ## Education and Training
 
