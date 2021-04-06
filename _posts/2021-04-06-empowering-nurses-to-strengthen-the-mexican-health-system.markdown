@@ -5,8 +5,8 @@ tags:
 - global-health
 - health systems strengthening
 - covid-19
-author: "[Eduardo Gonzalez-Pier](https://www.linkedin.com/in/egpier/) and Alejandro
-  Sanders"
+author: "[Eduardo Gonzalez-Pier](https://www.dai.com/who-we-are/our-team/eduardo-gonzalez-pier)
+  and [Alejandro Sanders](https://www.linkedin.com/in/alejandrosanders/)"
 thumbnail-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
 social-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
 publication: Developments
@@ -56,4 +56,4 @@ Emphasising partnership every step of the way, BHPMx has linked high-level repre
 
 The empowerment of nurses within the Mexican health care system is an excellent example of how BHPMx is simultaneously helping to improve access to high-quality care and promote gender equity while building a sustainable UK-Mexico collaboration agenda for better health. 
 
-*Eduardo Gonzalez-Pier is the Team Leader for BHPMx and Alejandro Sanders is the Human Resources for Health Lead.*
+*[Eduardo Gonzalez-Pier](https://www.dai.com/who-we-are/our-team/eduardo-gonzalez-pier) is the Team Leader for BHPMx and [Alejandro Sanders](https://www.linkedin.com/in/alejandrosanders/) is the Human Resources for Health Lead.*
