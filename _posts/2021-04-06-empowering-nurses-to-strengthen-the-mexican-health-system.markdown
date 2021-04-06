@@ -54,6 +54,6 @@ Among the project's other achievements to date:
 
 Emphasising partnership every step of the way, BHPMx has linked high-level representatives of the government, academia, nongovernmental groups, regulatory bodies, and international organisations. Our **communication and advocacy campaign** will supplement efforts to increase awareness of the importance of the advanced nursing practice within the health system.
 
-The empowerment of nurses within the Mexican health care system is perhaps the most representative example of how BHPMx is simultaneously helping to improve access to quality of care and promote gender equity while building a sustainable UK-Mexico collaboration agenda for better health. The programme aims to raise the profile and status of nursing in Mexico, for years overlooked, as well as creating a meaningful career path and therefore more opportunity for social mobility, as well as plugging gaps in vital primary care services. 
+The empowerment of nurses within the Mexican health care system is an excellent example of how BHPMx is simultaneously helping to improve access to high-quality care and promote gender equity while building a sustainable UK-Mexico collaboration agenda for better health. 
 
 *Eduardo Gonzalez-Pier is the Team Leader for BHPMx and Alejandro Sanders is the Human Resources for Health Lead.*
