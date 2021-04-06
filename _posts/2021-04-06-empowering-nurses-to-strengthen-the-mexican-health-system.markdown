@@ -42,7 +42,7 @@ BHPMx brokered the support from the  U.K. National Health Service Joint Unit, 
 "We are very proud to be involved in an international project within the Better Health Program," said Rosa Zárate, Director of the National School of Nursing and Obstetrics, ENEO. "It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." 
 
 BHPMx has also participated in the Mexican Secretariat of Health Strategic Group, the technical group that is helping draft the National Plan for the advanced nursing practice rollout in every Mexican state. 
-{:.video}<iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>{:.video}
+<iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>{:.video}
 ## Education and Training
 
 Among the project's other achievements to date:
