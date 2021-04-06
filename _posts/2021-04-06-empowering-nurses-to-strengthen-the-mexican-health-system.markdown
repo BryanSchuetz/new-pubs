@@ -5,7 +5,8 @@ published: false
 tags:
 - global-health
 - health systems strengthening
-author: "[Amy Wilson-Lee](https://www.linkedin.com/in/amy-wilson-lee-97a4bab4/)"
+author: "[Eduardo Gonzalez-Pier](https://www.linkedin.com/in/egpier/) and Alejandro
+  Sanders"
 thumbnail-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
 social-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
 publication: Developments
@@ -55,3 +56,5 @@ Furthermore, a healthcare model based on advanced nursing practices is scheduled
 Through a partnership approach, BHPMx has linked high-level representatives of the government, academia, nongovernmental groups, regulatory bodies, and international organisations. A communication and advocacy campaign will supplement efforts to increase awareness of the relevance of the advanced nursing practice within the health system.  
 
 The empowerment of nurses within the Mexican health care system is perhaps the most representative example of how BHPMx is simultaneously helping to improve access to quality of care and promote gender equity while building a sustainable UK-Mexico collaboration agenda for better health. The programme aims to raise the profile and status of nursing in Mexico, for years overlooked, as well as creating a meaningful career path and therefore more opportunity for social mobility, as well as plugging gaps in vital primary care services. 
+
+*Eduardo Gonzalez-Pier is the Team Leader for BHPMx and Alejandro Sanders was a Technical Lead.*
