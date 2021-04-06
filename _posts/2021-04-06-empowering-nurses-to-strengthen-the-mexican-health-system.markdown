@@ -6,6 +6,8 @@ tags:
 - global-health
 - health systems strengthening
 author: "[Amy Wilson-Lee](https://www.linkedin.com/in/amy-wilson-lee-97a4bab4/)"
+thumbnail-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
+social-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
 publication: Developments
 ---
 
@@ -32,22 +34,24 @@ The Mexican health sector has wanted to expand the advanced practice nurse (APN)
 
 ## Workflow Diagnosis and Planning
 
-In 2020, BHPMx began working with the National School of Nursing and Obstetrics (ENEO) to research the barriers to expanding the APN role in Mexico. ENEO teamed up with researchers and students at the prestigious Universidad Nacional Autónoma de México, and the resulting research was used in a comparative analysis of the APN role in the United Kingdom and Mexico. This gap analysis also provided a mapping of the constraints and opportunities facing Mexico, generating helpful data to enable the design of a future national policy on the APN role.  
+In 2020, BHPMx began working with the National School of Nursing and Obstetrics (ENEO) to research the barriers to expanding the APN role in Mexico. ENEO teamed up with researchers and students at the prestigious Universidad Nacional Autónoma de México (UNAM), and the resulting research was used in a comparative analysis of the APN role in the United Kingdom and Mexico. This gap analysis also provided a mapping of the constraints and opportunities facing Mexico, generating helpful data to enable the design of a future national policy on the APN role.  
 
-A collaborative approach among all health professionals must occur to assure the best possible outcomes for both short and long-term perspectives, and BHPMx brokered the support from the  UK NHS Joint Unit, Health Education England, and the General Medical Council (GMC), to identify UK experts who could share their experience and provide feedback on the research design and policy recommendations.  
+A collaborative approach among all health professionals must occur to assure the best possible outcomes for both short and long-term perspectives, and BHPMx brokered the support from the  UK NHS Joint Unit, Health Education England, and the  General Medical Council, to identify UK experts who could share their experience and provide feedback on the research design and policy recommendations.  
 
-"We are very proud to be involved in an international project within the Better Health Program. It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." Rosa Zárate, Director, The National School of Nursing and Obstetrics, ENEO 
+"We are very proud to be involved in an international project within the Better Health Program," said Rosa Zárate, Director of the National School of Nursing and Obstetrics, ENEO. "It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." 
 
-This productive engagement has also led to the participation of the Better Health Programme Mexico team in the Mexican Secretariat of Health Strategic Group, the technical group that is currently contributing to the drafting of the National Plan, which contains the main guidelines and standards for the Advance Nursing Practice strategy's roll out in every Mexican state. 
+This productive engagement has also led to the participation of the BHPMx team in the Mexican Secretariat of Health Strategic Group, the technical group that is contributing to the drafting of the National Plan, which contains the main guidelines and standards for the advanced nursing practice strategy's rollout in every Mexican state. 
 
-StethoscopeEducation and training: Better Health Programme Mexico partners UNAM, TecSalud and Primary Care International have developed  e-learning modules on leadership, teamwork, and digital skills, which will be available for all health professionals in Mexico during 2021.  
+## Education and Training
 
-Similarly, a self-directed "Diploma in Nursing Comprehensive Care in Diabetes with a Primary Healthcare approach" will be delivered through a cascade scheme to thousands of practising professional nurses thanks to the synergies encouraged by the Better Health Programme Mexico.  
+Our partners UNAM, TecSalud, and Primary Care International have developed e-learning modules on leadership, teamwork, and digital skills, which will be available this year for all health professionals in Mexico.  
+
+Similarly, a self-directed diploma in nursing comprehensive care in diabetes with a primary healthcare approach will be delivered to thousands of practising professional nurses thanks to the synergies encouraged by BHPMx.  
 
 In addition, nursing and medicine undergraduate and graduate programmes are being reviewed to enhance interprofessional training and promote a more equitable health workforce framework.  
 
-Furthermore, a healthcare model based on Advanced Nursing Practice is scheduled to be piloted in the poorer southern state of Chiapas this year. This will generate the practical evidence needed in a low resource setting to scale the model to a national level eventually. 
+Furthermore, a healthcare model based on advanced nursing practices is scheduled to be piloted in the poorer southern state of Chiapas this year. This will generate the practical evidence needed in a low resource setting to scale the model to a national level eventually. 
 
-ChatThrough a partnership approach, the Better Health Programme Mexico has built collaboration bridges among high-level representatives of the Government, academia, NGOs, regulatory bodies, and international organizations. A communication and advocacy campaign will supplement efforts to increase awareness of the relevance of the Advanced Nursing Practice within the health system.  
+Through a partnership approach, BHPMx has linked high-level representatives of the government, academia, nongovernmental groups, regulatory bodies, and international organisations. A communication and advocacy campaign will supplement efforts to increase awareness of the relevance of the advanced nursing practice within the health system.  
 
-The empowerment of nurses within the Mexican health care system is perhaps the most representative example of how the Better Health Programme Mexico is simultaneously helping to improve access to quality of care and promote gender equity, while building a sustainable UK-Mexico collaboration agenda for better health. The programme aims to raise the profile and status of nursing in Mexico, for years overlooked, as well as creating a meaningful career path and therefore more opportunity for social mobility, as well as plugging gaps in vital primary care services. 
+The empowerment of nurses within the Mexican health care system is perhaps the most representative example of how BHPMx is simultaneously helping to improve access to quality of care and promote gender equity while building a sustainable UK-Mexico collaboration agenda for better health. The programme aims to raise the profile and status of nursing in Mexico, for years overlooked, as well as creating a meaningful career path and therefore more opportunity for social mobility, as well as plugging gaps in vital primary care services. 
