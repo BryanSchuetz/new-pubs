@@ -44,7 +44,7 @@ This productive engagement has also led to the participation of the BHPMx team i
 
 ## Education and Training
 
-Our partners UNAM, TecSalud, and Primary Care International have developed e-learning modules on leadership, teamwork, and digital skills, which will be available this year for all health professionals in Mexico.  
+Our partners UNAM, [TecSalud](https://www.tecsalud.mx/), and Primary Care International have developed e-learning modules on leadership, teamwork, and digital skills, which will be available this year for all health professionals in Mexico.  
 
 Similarly, a self-directed diploma in nursing comprehensive care in diabetes with a primary healthcare approach will be delivered to thousands of practising professional nurses thanks to the synergies encouraged by BHPMx.  
 
