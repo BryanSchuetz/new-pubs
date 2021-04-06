@@ -1,7 +1,6 @@
 ---
 title: Empowering Nurses to Strengthen the Mexican Health System
-date: 2021-04-06 09:06:00 -04:00
-published: false
+date: 2021-04-06 15:40:00 -04:00
 tags:
 - global-health
 - health systems strengthening
