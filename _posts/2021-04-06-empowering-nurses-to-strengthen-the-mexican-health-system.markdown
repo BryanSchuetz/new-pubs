@@ -41,6 +41,7 @@ A collaborative approach among all health professionals must occur to assure the
 "We are very proud to be involved in an international project within the Better Health Program," said Rosa Zárate, Director of the National School of Nursing and Obstetrics, ENEO. "It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." 
 
 This productive engagement has also led to the participation of the BHPMx team in the Mexican Secretariat of Health Strategic Group, the technical group that is contributing to the drafting of the National Plan, which contains the main guidelines and standards for the advanced nursing practice strategy's rollout in every Mexican state. 
+
 <iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Education and Training
