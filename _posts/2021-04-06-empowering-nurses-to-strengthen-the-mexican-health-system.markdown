@@ -26,7 +26,7 @@ The strategy has four pillars:
 * Education and training  
 * Advocacy and communication 
 
-Nursing and midwifery cadres are essential to achieving quality universal healthcare.  Nurses and midwives are predominantly women, and it is essential that we promote income earning, power, and agency—as well as strive to make midwifery an accredited career option for secure employment. A cross-cutting emphasis on gender equality and social inclusion has been considered within these four policy pathways. 
+Nursing and midwifery cadres are essential to achieving high-quality universal healthcare. Because nurses and midwives are predominantly women, our team is striving to make midwifery an accredited career option for secure employment. A cross-cutting emphasis on gender equality and social inclusion has been considered within these four policy pathways. 
 
 The Mexican health sector has wanted to expand the advanced practice nurse (APN) role for some years, but in practice, there are currently very few qualified APNs at work in Mexico. An APN role enables task shifting, reduces the pressure on doctors and costs for the health system, while increasing the career options for nurses. The COVID-19 pandemic brought the need for the APN role into sharp focus. With so many people hospitalised with acute disease related to the coronavirus, there is a clear need for more nurses with advanced treatment skills.
 
