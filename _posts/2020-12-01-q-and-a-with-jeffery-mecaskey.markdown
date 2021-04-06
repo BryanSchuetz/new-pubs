@@ -5,8 +5,8 @@ date: 2020-12-01 08:16:00 -05:00
 tags:
 - global-health
 author: "[Andreea Petre-Goncalves](https://www.linkedin.com/in/andreea-petre-goncalves-1a2336120/)"
-thumbnail-image: "/uploads/DSC_4297-d0b314.JPG"
-social-image: "/uploads/DSC_4297-d0b314.JPG"
+thumbnail-image: "/uploads/Screen%20Shot%202021-04-06%20at%203.32.28%20PM.png"
+social-image: "/uploads/Screen%20Shot%202021-04-06%20at%203.32.28%20PM.png"
 publication: Developments
 ---
 

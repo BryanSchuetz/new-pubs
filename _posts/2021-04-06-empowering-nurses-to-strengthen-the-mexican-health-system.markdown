@@ -5,6 +5,7 @@ published: false
 tags:
 - global-health
 - health systems strengthening
+- covid-19
 author: "[Eduardo Gonzalez-Pier](https://www.linkedin.com/in/egpier/) and Alejandro
   Sanders"
 thumbnail-image: "/uploads/Oximetro-COLOSUCA-01.jpg"
