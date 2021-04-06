@@ -37,7 +37,7 @@ The Mexican health sector has wanted to expand the advanced practice nurse (APN)
 
 In 2020, BHPMx began working with the National School of Nursing and Obstetrics (ENEO) to research the barriers to expanding the APN role in Mexico. ENEO teamed up with researchers and students at the prestigious Universidad Nacional Autónoma de México (UNAM), and the resulting research was used in a comparative analysis of the APN role in the United Kingdom and Mexico. This analysis also mapped the constraints and opportunities facing Mexico, generating data to enable the design of a national policy on the APN role.  
 
-BHPMx brokered the support from the  UK NHS Joint Unit, Health Education England, and the  General Medical Council to identify U.K. experts who could share their experience and provide feedback on the research design and policy recommendations—an example of **knowledge exchange** in action.  
+BHPMx brokered the support from the  U.K. National Health Service Joint Unit, Health Education England, and the  General Medical Council to identify U.K. experts who could share their experience and provide feedback on the research design and policy recommendations—an example of **knowledge exchange** in action.  
 
 "We are very proud to be involved in an international project within the Better Health Program," said Rosa Zárate, Director of the National School of Nursing and Obstetrics, ENEO. "It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." 
 
