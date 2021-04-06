@@ -31,7 +31,7 @@ Nursing and midwifery cadres are essential to achieving high-quality universal h
 
 The Mexican health sector has wanted to expand the advanced practice nurse (APN) role for some years, yet there are currently very few qualified APNs at work in Mexico. APNs enable task shifting, reduce the pressure on doctors, and cut costs for the health system; more emphasis on APNs also means more career options for nurses. COVID-19 brought the need for the APN role into sharp focus: with so many people hospitalised, there is a clear need for more nurses with advanced treatment skills.
 
-![COVID- GLH- Termómetro uso Hospital Intibucá-01 (1).jpg](/uploads/COVID-%20GLH-%20Termo%CC%81metro%20uso%20Hospital%20Intibuca%CC%81-01%20(1).jpg)`Midwives in other countries, such as Indonesia, have been able to improve maternal death rates by providing important pre-natal care.`
+![COVID- GLH- Termómetro uso Hospital Intibucá-01 (1).jpg](/uploads/COVID-%20GLH-%20Termo%CC%81metro%20uso%20Hospital%20Intibuca%CC%81-01%20(1).jpg)`Increasing the numbers of highly trained nurses leads to better health outcomes.`
 
 ## Diagnosis and Planning
 
