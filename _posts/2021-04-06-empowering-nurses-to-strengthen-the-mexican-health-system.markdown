@@ -48,11 +48,9 @@ BHPMx has also participated in the Mexican Secretariat of Health Strategic Group
 Among the project's other achievements to date:
 
 * BHPMx and our partners UNAM, [TecSalud](https://www.tecsalud.mx/), and [Primary Care International](https://pci-360.com/) have developed e-learning modules on leadership, teamwork, and digital skills, which will be available later this year for all health professionals in Mexico.  
-* A self-directed diploma in nursing care in diabetes, based on a primary healthcare approach will be delivered to thousands of practising professional nurses thanks to the synergies encouraged by BHPMx.  
-
-In addition, nursing and medicine undergraduate and graduate programmes are being reviewed to enhance interprofessional training and promote a more equitable health workforce framework.  
-
-Furthermore, a healthcare model based on advanced nursing practices is scheduled to be piloted in the poorer southern state of Chiapas this year. This will generate the practical evidence needed in a low resource setting to scale the model to a national level eventually. 
+* A self-directed diploma in nursing care in diabetes, based on a primary healthcare approach, will be delivered to thousands of practising professional nurses thanks to synergies encouraged by BHPMx.  
+* Nursing and medicine undergraduate and graduate programmes are being reviewed to enhance interprofessional training and promote a more equitable health workforce framework.  
+* A healthcare model based on advanced nursing practices will be piloted in the poorer southern state of Chiapas this year. This will generate the practical evidence needed in a low resource setting to scale the model to a national level eventually. 
 
 Through a partnership approach, BHPMx has linked high-level representatives of the government, academia, nongovernmental groups, regulatory bodies, and international organisations. A **communication and advocacy campaign** will supplement efforts to increase awareness of the relevance of the advanced nursing practice within the health system.
 
