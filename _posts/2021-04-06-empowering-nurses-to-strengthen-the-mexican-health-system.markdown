@@ -45,9 +45,10 @@ BHPMx has also participated in the Mexican Secretariat of Health Strategic Group
 <iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ## Education and Training
 
-BHPMx and our partners UNAM, [TecSalud](https://www.tecsalud.mx/), and [Primary Care International](https://pci-360.com/) have developed e-learning modules on leadership, teamwork, and digital skills, which will be available later this year for all health professionals in Mexico.  
+Among the project's other achievements to date:
 
-Similarly, a self-directed diploma in nursing comprehensive care in diabetes with a primary healthcare approach will be delivered to thousands of practising professional nurses thanks to the synergies encouraged by BHPMx.  
+* BHPMx and our partners UNAM, [TecSalud](https://www.tecsalud.mx/), and [Primary Care International](https://pci-360.com/) have developed e-learning modules on leadership, teamwork, and digital skills, which will be available later this year for all health professionals in Mexico.  
+* A self-directed diploma in nursing care in diabetes, based on a primary healthcare approach will be delivered to thousands of practising professional nurses thanks to the synergies encouraged by BHPMx.  
 
 In addition, nursing and medicine undergraduate and graduate programmes are being reviewed to enhance interprofessional training and promote a more equitable health workforce framework.  
 
