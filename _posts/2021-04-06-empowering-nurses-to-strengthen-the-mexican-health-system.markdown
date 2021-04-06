@@ -19,21 +19,22 @@ In this context of uncontrolled related risk factors and scarce doctors, having 
 
 The strategy considers four main pillars:  
 
-Diagnosis and planning 
+* Diagnosis and planning 
+* Knowledge exchange 
+* Education and training  
+* Advocacy and communication 
 
-Knowledge exchange 
+Nursing and midwifery cadres are essential to achieving quality universal healthcare.  Nurses and midwives are predominantly women, and it is essential that we promote income earning, power, and agency—as well as strive to make midwifery an accredited career option for secure employment. A cross-cutting emphasis on gender equality and social inclusion has been considered within these four policy pathways. 
 
-Education and training  
+The Mexican health sector has wanted to expand the advanced practice nurse (APN) role for some years, but in practice, there are currently very few qualified APNs at work in Mexico. An APN role enables task shifting, reduces the pressure on doctors and costs for the health system, while increasing the career options for nurses. The COVID-19 pandemic brought the need for the APN role into sharp focus. With so many people hospitalised with acute disease related to the coronavirus, there is a clear need for more nurses with advanced treatment skills.
 
-Advocacy and communication 
+![Supported by TOPDeAMOR, midwives in Garut provide home visits to pregnant women (Photo by Oscar Siagian for USAID Jalin).jpg](/uploads/Supported%20by%20TOPDeAMOR,%20midwives%20in%20Garut%20provide%20home%20visits%20to%20pregnant%20women%20(Photo%20by%20Oscar%20Siagian%20for%20USAID%20Jalin).jpg)`Midwives in other countries, such as Indonesia, have been able to improve maternal death rates by providing important pre-natal care.`
 
-Nursing and midwifery cadres are essential to achieving quality universal healthcare.  Nurses and midwives are predominantly women, and it is essential that the programme’s activities promote equity and empowerment (by which we mean income earning, power and agency) and professionalisation (making this an accredited career option for secure employment). A cross-cutting emphasis on gender equality and social inclusion has been considered within these four policy pathways. 
+## Workflow Diagnosis and Planning
 
-The Mexican health sector has wanted to expand the Advanced Practice Nurse (APN) role for some years, but in practice there are currently very few qualified APNs at work in Mexico. An advanced nursing role enables task shifting, reduces the pressure on doctors and costs for the health system, while increasing the career options for nurses. The Covid-19 pandemic brought the need for the APN role into sharp focus. With so many hospitalised with acute disease related to the coronavirus, there was a clear need for more nurses with advanced treatment skills.  
+In 2020, BHPMx began working with the National School of Nursing and Obstetrics (ENEO) to research the barriers to expanding the APN role in Mexico. ENEO teamed up with researchers and students at the prestigious Universidad Nacional Autónoma de México, and the resulting research was used in a comparative analysis of the APN role in the United Kingdom and Mexico. This gap analysis also provided a mapping of the constraints and opportunities facing Mexico, generating helpful data to enable the design of a future national policy on the APN role.  
 
-WorkflowDiagnosis & Planning:  In 2020 Better Health Programme Mexico began working with the National School of Nursing and Obstetrics (ENEO),  to research the barriers to expanding the APN role in Mexico (known as Advanced Nurse Practitioners in the UK). ENEO teamed up with researchers and students at the prestigious Universidad Nacional Autónoma de México (UNAM), and the resulting research was used in a comparative analysis of the APN role in the UK and Mexico. This gap analysis also provided a mapping of the constraints and opportunities facing Mexico, generating an important evidence-base for design and implementation of a future national policy on the APN role.  
-
-Cycle with peopleKnowledge exchange: A collaborative approach among all health professionals must occur to assure the best possible outcomes for both short and long-term perspectives, and BHPMx brokered the support from the UK NHS Joint Unit, Health Education England (HEE) and the General Medical Council (GMC), to identify UK experts who could share their experience and provide feedback on the research design and policy recommendations.  
+A collaborative approach among all health professionals must occur to assure the best possible outcomes for both short and long-term perspectives, and BHPMx brokered the support from the  UK NHS Joint Unit, Health Education England, and the General Medical Council (GMC), to identify UK experts who could share their experience and provide feedback on the research design and policy recommendations.  
 
 "We are very proud to be involved in an international project within the Better Health Program. It is an excellent learning opportunity between Mexico and the United Kingdom to contribute to the expansion of the role of nursing in our country and to start training a new generation of researchers." Rosa Zárate, Director, The National School of Nursing and Obstetrics, ENEO 
 
