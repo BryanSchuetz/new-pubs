@@ -96,7 +96,7 @@ The COVID-19 pandemic forced the development community to quickly adapt to conti
 
 In fact, DAI is no stranger to projects that require remote implementation and the flexibility to pivot based on changing conditions on the ground. Our Center for Secure and Stable States works to deliver impact in fragile contexts and has a global reputation for providing innovative assistance after crises and political transitions. 
 
-“I think that a significant reason for why we have been able to continue implementing and achieving our project’s development objectives during these uncertain times is that DAI has a long history—and the approaches, tools, and adaptations that come from that long history—of remote management and remote implementation in conflict countries or in disaster zones,” said [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), Senior Vice President of DAI’s U.S. Government Business Unit.  
+“I think that a significant reason for why we have been able to continue implementing and achieving our projects' development objectives during these uncertain times is that DAI has a long history—and the approaches, tools, and adaptations that come from that long history—of remote management and remote implementation in conflict countries or in disaster zones,” said [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), Senior Vice President of DAI’s U.S. Government Business Unit.  
 
 Lessons from projects like Asegurando, PROTECT, LEGIT, and Policy LINK informed DAI’s early response to COVID-19. And these initial lessons in remote management—whether employing digital technology or leveraging community relationships—will continue to inform how our projects continue to adapt in a changing, post-COVID world.  
 
