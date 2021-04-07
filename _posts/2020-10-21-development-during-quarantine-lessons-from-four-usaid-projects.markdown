@@ -32,7 +32,7 @@ The new Biodiversity Resources Access Information Network (BRAIN) System, develo
 
 In protected areas of Palawan, PCSD issues permits for activities such as wildlife collection and special use and local transport. In the past, these processes required in-person submission of physical paperwork. The new digital process lets PCSD personnel accept applications electronically, allowing the permitting process to continue safely despite COVID-19 restrictions. As of a few weeks ago, eight permits have been issued using the BRAIN System, mostly covering shipments of live reef fish for food trade.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vDQtFyIdMW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDQtFyIdMW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{:.video}
 
 Protect Wildlife also adjusted its approach to a public education campaign. The project’s Wild and Alive Campaign aims to reduce demand for illegally trafficked wildlife products through educational messaging posted at transportation and tourism hubs. After pilots in 2018 and 2019 in Manila, Protect Wildlife was just starting to expand the campaign to other provinces when the pandemic struck. 
 
