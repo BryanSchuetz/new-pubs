@@ -32,7 +32,7 @@ The new Biodiversity Resources Access Information Network (BRAIN) System, develo
 
 In protected areas of Palawan, PCSD issues permits for activities such as wildlife collection and special use and local transport. In the past, these processes required in-person submission of physical paperwork. The new digital process lets PCSD personnel accept applications electronically, allowing the permitting process to continue safely despite COVID-19 restrictions. As of a few weeks ago, eight permits have been issued using the BRAIN System, mostly covering shipments of live reef fish for food trade.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vDQtFyIdMW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDQtFyIdMW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{:.video}
 
 Protect Wildlife also adjusted its approach to a public education campaign. The project’s Wild and Alive Campaign aims to reduce demand for illegally trafficked wildlife products through educational messaging posted at transportation and tourism hubs. After pilots in 2018 and 2019 in Manila, Protect Wildlife was just starting to expand the campaign to other provinces when the pandemic struck. 
 
@@ -96,7 +96,7 @@ The COVID-19 pandemic forced the development community to quickly adapt to conti
 
 In fact, DAI is no stranger to projects that require remote implementation and the flexibility to pivot based on changing conditions on the ground. Our Center for Secure and Stable States works to deliver impact in fragile contexts and has a global reputation for providing innovative assistance after crises and political transitions. 
 
-“I think that a significant reason for why we have been able to continue implementing and achieving our project’s development objectives during these uncertain times is that DAI has a long history—and the approaches, tools, and adaptations that come from that long history—of remote management and remote implementation in conflict countries or in disaster zones,” said [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), Senior Vice President of DAI’s U.S. Government Business Unit.  
+“I think that a significant reason for why we have been able to continue implementing and achieving our projects' development objectives during these uncertain times is that DAI has a long history—and the approaches, tools, and adaptations that come from that long history—of remote management and remote implementation in conflict countries or in disaster zones,” said [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), Senior Vice President of DAI’s U.S. Government Business Unit.  
 
 Lessons from projects like Asegurando, PROTECT, LEGIT, and Policy LINK informed DAI’s early response to COVID-19. And these initial lessons in remote management—whether employing digital technology or leveraging community relationships—will continue to inform how our projects continue to adapt in a changing, post-COVID world.  
 
