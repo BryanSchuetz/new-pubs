@@ -30,7 +30,7 @@ To give young Salvadorans positive options for supporting themselves and their f
 
 When the Bridges team hit the ground in 2015, we found an atmosphere of distrust between companies and vulnerable young people. Employers found it difficult to see past unfavorable stereotypes and were largely unwilling to hire young people, especially those from high-risk neighborhoods. The hiring processes are rigorous, time-consuming, and expensive, often requiring applicants to take practical and psychometric tests and pay for invasive medical exams; they also entail police record checks for each new application, making the job search process a frustrating one for young people.
 
-We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
+We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development (WFD) system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
 
 ![MicrosoftTeams-image-5ed51f.png](/uploads/MicrosoftTeams-image-5ed51f.png)
 
@@ -47,8 +47,7 @@ One of the key strategies for strengthening economic opportunities, training, an
 * Supporting El Salvador’s National Youth Institute to develop a new [institutional policy](https://dec.usaid.gov/dec/content/Detail_Presto.aspx?vID=47&ctID=ODVhZjk4NWQtM2YyMi00YjRmLTkxNjktZTcxMjM2NDBmY2Uy&rID=NTcwNzMw) to bolster the assistance it provides to young people with disabilities, including its staff members with disabilities.
 * Developing a guide to assist individuals with disabilities and employers in navigating the government’s process for certifying a person as having disabilities.
 
-Our team’s nationwide public communications campaign—using traditional and social media—sought to improve the perceptions that employers and the Salvadoran public have of returned migrants, people living in areas with high rates of violence, disabled young people, young parents, and young people who identify as LGBTI. Employers of project-trained young people, such as the CEO of the plastics manufacturing company Termoencogibles, served as vocal advocates,
-sharing their perspectives on how employing young people is in a company’s self-interest. Lastly, Bridges helped 56 firms make their corporate policies more inclusive of vulnerable young people and other marginalized populations.
+Our team’s nationwide public communications campaign—using traditional and social media—sought to improve the perceptions that employers and the Salvadoran public have of returned migrants, people living in areas with high rates of violence, disabled young people, young parents, and young people who identify as LGBTI. Employers of project-trained young people, such as the CEO of the plastics manufacturing company Termoencogibles, served as vocal advocates, sharing their perspectives on how employing young people is in a company’s self-interest. Lastly, Bridges helped 56 firms make their corporate policies more inclusive of vulnerable young people and other marginalized populations.
 
 ![Bridges to Employment-03[1].jpg](/uploads/Bridges%20to%20Employment-03%5B1%5D.jpg)
 
