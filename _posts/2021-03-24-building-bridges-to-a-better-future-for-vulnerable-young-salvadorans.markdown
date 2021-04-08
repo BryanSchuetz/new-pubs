@@ -30,7 +30,7 @@ To give young Salvadorans positive options for supporting themselves and their f
 
 When the Bridges team hit the ground in 2015, we found an atmosphere of distrust between companies and vulnerable young people. Employers found it difficult to see past unfavorable stereotypes and were largely unwilling to hire young people, especially those from high-risk neighborhoods. The hiring processes are rigorous, time-consuming, and expensive, often requiring applicants to take practical and psychometric tests and pay for invasive medical exams; they also entail police record checks for each new application, making the job search process a frustrating one for young people.
 
-We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
+We tackled this challenge from various angles, collaborating with stakeholders across El Salvador’s workforce development (WFD) system, including the Government of El Salvador, training centers, businesses, and civil society organizations. Working all sides of the problem, we aimed to ensure that young people are better prepared with the technical and life skills they need to succeed in the formal labor market, and that the labor market was more receptive to them. 
 
 ![MicrosoftTeams-image-5ed51f.png](/uploads/MicrosoftTeams-image-5ed51f.png)
 
