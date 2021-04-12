@@ -7,7 +7,6 @@ tags:
 - climate
 - climate change
 - finance
-- economic-growth
 - environment-and-energy
 author: "[Bhairav Raja](https://www.dai.com/who-we-are/our-team/bhairav-raja)"
 thumbnail-image: "/uploads/Energy_Credit%20Azuri%20Technologies_Solar%20Panel%20Roof_High%20Res_small-452b1e.jpg"
