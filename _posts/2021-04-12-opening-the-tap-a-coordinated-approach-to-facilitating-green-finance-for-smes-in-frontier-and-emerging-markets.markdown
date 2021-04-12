@@ -52,6 +52,16 @@ That is easier said than done. It can be intimidating for loan officers suddenly
 ![Installation of Solar Panels.jpg](/uploads/Installation%20of%20Solar%20Panels.jpg)`Banks would need some training to understand the products they would be supporting, but they don't need to be experts.`
 
 Smaller financial institutions also need help in understanding how to connect their customers to related expertise—for example, the ecosystem of installation, maintenance, and repair support firms that can orchestrate the overall solution for their customers. They will also need a climate risk tool integrated into the core financial systems they use to underwrite financial products. By enhancing the overall business case or financial portfolio approval process, the financial institutions can structure bespoke and more appropriate green financial products. Taking these products from pilot to scale will require patience and support. 
+
+<aside><h2>Fit-for-Purpose Climate Risk Appraisal</h2>
+<ol>
+  Conducting the due diligence needed to calculate loan, insurance, or re-insurance premiums on capital-intensive green infrastructure requires a high degree of climate literacy. For major infrastructure projects, risk assessors have access to complex algorithms and artificial intelligence to compute risk scoring, and the expense and time involved is more than justified by the size of the investment at stake. However, for smaller financial institutions working with small enterprises to access technology that is less capital intensive, this high-end, time- and cost-intensive risk-assessment capability is simply not viable. They need a different, more cost-effective approach to appraise climate risk, without all the “bells and whistles,” and one that their client-facing staff can be trained to perform. In this context, a good climate risk tool should be able to assess portfolio vulnerability from three perspectives:
+
+<li>Information from the client showing a robust business case for the acquisition of a green or climate-smart technology</li>
+<li>Geo-localised information showing the probability of a climate-related event or trend relevant to business sectors represented in the portfolio</li>
+<li>Information showing client businesses’ level of preparation and ability to assimilate and exploit green or climate-smart technologies.</li>
+</ol>
+</aside>
  
 Taking incremental steps will steadily increase the confidence of local financial institutions when it comes to “cracking the nut” of green finance for SMEs. A program of assistance to help them take these steps would include the following general principles of more inclusive product design:
 
@@ -70,13 +80,3 @@ In addition to these general principles, we should take a “green” lens to ou
 * Building shock-responsive financial instruments to mitigate unpredictable off-seasons. 
 
 Patiently applying such a suite of solutions will begin to unblock climate finance flows for those hard-working, productive businesses so crucial to the prosperity of frontier and emerging economies.
-
-<aside><h2>Fit-for-Purpose Climate Risk Appraisal</h2>
-<ol>
-  Conducting the due diligence needed to calculate loan, insurance, or re-insurance premiums on capital-intensive green infrastructure requires a high degree of climate literacy. For major infrastructure projects, risk assessors have access to complex algorithms and artificial intelligence to compute risk scoring, and the expense and time involved is more than justified by the size of the investment at stake. However, for smaller financial institutions working with small enterprises to access technology that is less capital intensive, this high-end, time- and cost-intensive risk-assessment capability is simply not viable. They need a different, more cost-effective approach to appraise climate risk, without all the “bells and whistles,” and one that their client-facing staff can be trained to perform. In this context, a good climate risk tool should be able to assess portfolio vulnerability from three perspectives:
-
-<li>Information from the client showing a robust business case for the acquisition of a green or climate-smart technology</li>
-<li>Geo-localised information showing the probability of a climate-related event or trend relevant to business sectors represented in the portfolio</li>
-<li>Information showing client businesses’ level of preparation and ability to assimilate and exploit green or climate-smart technologies.</li>
-</ol>
-</aside>
