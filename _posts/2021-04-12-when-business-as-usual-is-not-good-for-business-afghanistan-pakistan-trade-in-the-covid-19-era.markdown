@@ -9,7 +9,6 @@ tags:
 - economic-growth
 - trade
 - supply-chain
-- health security
 author: "[Juan Estrada-Valle](https://www.dai.com/who-we-are/our-team/juan-estrada-valle)"
 thumbnail-image: "/uploads/3-%202-%20AVC-HVC%20trained%20personnel%20spraying%20trucks%20entering%20and%20leaving%20through%20Torkham%20port,%20June%2020,%202020%5B1%5D.JPG"
 social-image: "/uploads/3-%202-%20AVC-HVC%20trained%20personnel%20spraying%20trucks%20entering%20and%20leaving%20through%20Torkham%20port,%20June%2020,%202020%5B1%5D.JPG"
