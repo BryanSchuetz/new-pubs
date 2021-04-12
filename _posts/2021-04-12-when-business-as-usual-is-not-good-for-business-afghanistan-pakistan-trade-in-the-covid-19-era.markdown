@@ -15,8 +15,7 @@ social-image: "/uploads/3-%202-%20AVC-HVC%20trained%20personnel%20spraying%20tru
 publication: Developments
 ---
 
-# A revised trade and transit agreement could be a game-changer for the
-Afghan people
+# A revised trade and transit agreement could be a game-changer for the Afghan people
 
 Through a combination of laser-focused tactical interventions and support for rapid trade policy reform, the [Afghanistan Value Chains-High Value Crops (AVC-HVC)](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops) project, funded by the U.S. Agency for International Development (USAID), is enabling the Afghan government to address longstanding trade policy and trade logistics challenges, which for decades have limited the country’s export competitiveness.
 
