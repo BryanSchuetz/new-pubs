@@ -1,8 +1,7 @@
 ---
 title: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan Trade
   in the COVID-19 Era'
-date: 2021-04-12 14:23:00 -04:00
-published: false
+date: 2021-04-13 06:23:00 -04:00
 tags:
 - agriculture
 - covid-19
