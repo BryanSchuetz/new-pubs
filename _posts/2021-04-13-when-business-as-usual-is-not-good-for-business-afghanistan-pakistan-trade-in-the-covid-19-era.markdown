@@ -1,8 +1,7 @@
 ---
 title: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan Trade
   in the COVID-19 Era'
-date: 2021-04-12 14:23:00 -04:00
-published: false
+date: 2021-04-13 06:23:00 -04:00
 tags:
 - agriculture
 - covid-19
@@ -44,9 +43,9 @@ According to Pakistani officials, Afghanistan’s lack of compliance with COVID 
 
 Considering the vital importance of opening borders to trade, AVC-HVC joined forces with Harakat, a nongovernmental organization that works to improve the business-enabling environment. AVC-HVC provided Harakat with the technical and financial resources to hire two disinfection brigades of 24 people each, to be posted at the two main border crossings at Torkham and Spin Boldak. The project’s technical team trained and equipped both brigades to provide full-time disinfection services for an initial three months. Additionally, AVC-HVC established a temporary container transshipment facility at the Torkham border, providing free services to transfer containerized cargo from Pakistani to Afghan trucks. The disinfection and transshipment services were rolled out on June 20, 2020, and on June 22, Pakistan opened its borders to Afghan exports, which was celebrated in the Spin Boldak and Torkham borders by representatives of the private sector and local and national government.  
 
-Shortly before the end of the three-month period, Pakistan eliminated the requirement for biosecurity measures, and trade continued as usual. However, when it comes to Afghan-Pakistani relations, “business as usual” is not necessarily good for business. Ad hoc border closures, the arbitrary application of regulations and processes, and harassment of drivers were back on the table.
+Shortly before the end of the three-month period, Pakistan eliminated the requirement for biosecurity measures, and trade continued as usual. However, when it comes to Afghan-Pakistani relations, “business as usual” is not necessarily good for business. Ad hoc border closures, the arbitrary application of regulations and processes, and harassment of drivers were again commonplace.
 
-## Influencing Trade Policy 
+## Supporting Afghanistan to Negotiate Trade Policy 
 
 Following the re-opening of borders, a meeting in Pakistan in October 2020 gave impetus to the discussion about extension of the [Afghanistan-Pakistan Trade and Transit Agreement (APTTA)](https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_Transit_Trade_Agreement) beyond its original end date of February 11, 2021. The APTTA is a 58-article “contract” with three purposes:
 
