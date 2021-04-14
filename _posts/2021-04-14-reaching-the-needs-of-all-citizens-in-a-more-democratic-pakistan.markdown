@@ -19,12 +19,11 @@ A government that citizens can trust with their hard-earned wages. A government 
 
 Seeking to support good governance specifically in Pakistan, the U.K. Foreign, Commonwealth & Development Office in 2016 launched the [Consolidating Democracy in Pakistan (CDIP)](https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip) programme, just ahead of the 2018 General Election. The results have been impressive.
 
+
+
+
+
 ![Devs CDIP-01.jpg](/uploads/Devs%20CDIP-01.jpg)
-
-
-
-
-
 
 The programme—led by DAI in partnership with the British Council and the Pakistan Institute of Legislative Development and Transparency—worked closely with the Election Commission of Pakistan (ECP), national and provincial assemblies, political parties, media, and civil society organisations. The United Nations’ [Strengthening Electoral and Legislative Processes](https://www.pk.undp.org/content/pakistan/en/home/projects/strengthening-electoral-and-legislative-processes.html) project was another significant partner.  
 
