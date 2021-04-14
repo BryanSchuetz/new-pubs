@@ -23,6 +23,7 @@ Seeking to support good governance specifically in Pakistan, the U.K. Foreign, C
 
 
 
+
 ![Devs CDIP-01.jpg](/uploads/Devs%20CDIP-01.jpg)
 
 The programme—led by DAI in partnership with the British Council and the Pakistan Institute of Legislative Development and Transparency—worked closely with the Election Commission of Pakistan (ECP), national and provincial assemblies, political parties, media, and civil society organisations. The United Nations’ [Strengthening Electoral and Legislative Processes](https://www.pk.undp.org/content/pakistan/en/home/projects/strengthening-electoral-and-legislative-processes.html) project was another significant partner.  
@@ -46,9 +47,9 @@ Early in the program, assistance focused tightly on implementing the [Elections 
 
 Among the triumphs of the 2018 election process was a major milestone for the country: the highest-ever turnout of women voters in Pakistan’s history. Indeed, women’s turnout actually exceeded that of men in 18 constituencies. The rising participation of women was in large part to a CDIP-supported nationwide voter registration initiative that included a comprehensive media campaign to encourage voter registration and rectify discrepancies in the electoral rolls, awareness-raising campaigns leveraging corporate social responsibility, and grassroots mobilisation of women and members of other socially excluded groups. 
 
-![MG_1533.jpg](/uploads/MG_1533.jpg)`Photo courtesy: CDIP.`
-
 CDIP contributed to other gains in the electoral process, including a technically better-managed election with significantly fewer polling day irregularities than the previous general election; the publication of all polling station results forms; the collection of gender-disaggregated turnout data at the polling station level for the [first time ever](https://fafen.org/fafens-analysis-of-voter-turnout-in-ge-2018/); and uniform, effective enforcement of regulations governing the campaign period for candidates and political parties.
+
+![MG_1533.jpg](/uploads/MG_1533.jpg)`Photo courtesy: CDIP.`
 
 ## After the Election
 
