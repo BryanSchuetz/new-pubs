@@ -10,6 +10,8 @@ tags:
 - transparency
 - access to justice
 author: Ingrida Skarinke
+thumbnail-image: "/uploads/sm%201H8A1473.jpg"
+social-image: "/uploads/sm%201H8A1473.jpg"
 publication: Developments
 ---
 
@@ -35,6 +37,8 @@ CDIP’s objective was to support the development of a democratic system in whic
 
 In pursuing all four mandates, CDIP focused on engaging women and other socially excluded groups.
 
+![001.jpg](/uploads/001.jpg)`Photo courtesy: CDIP.`
+
 ## Better Elections Lead to Better-Functioning Government
 
 “CDIP was guided by an emphasis on improved election management and oversight as the vehicle by which democracy can be deepened,” according to [Zehra Zaidi](https://www.dai.com/who-we-are/our-team/zehra-zaidi), DAI’s Programme Director to CDIP. “We believe improvements in the electoral process and election of a representative government lead to a democratic mandate for parliamentarians and political parties.”
@@ -42,6 +46,8 @@ In pursuing all four mandates, CDIP focused on engaging women and other socially
 Early in the program, assistance focused tightly on implementing the [Elections Act of 2017](https://www.ecp.gov.pk/frmGenericPage.aspx?PageID=3111), which was itself pulled together with CDIP assistance. The team worked behind the scenes to consolidate Pakistan’s fragmented election legislation into a coherent legal framework. The “unified, reformed, and comprehensive electoral framework was a longstanding demand of all political, institutional, and civil society stakeholders,” said Zaidi. “This was achieved through an impressive and consultative parliamentary process to which all stakeholders contributed. And, although questions were raised by major political parties on the transparency of [the final] results, the ultimate outcome of the elections was the acceptance of results by all political parties.”
 
 Among the triumphs of the 2018 election process was a major milestone for the country: the highest-ever turnout of women voters in Pakistan’s history. Indeed, women’s turnout actually exceeded that of men in 18 constituencies. The rising participation of women was in large part to a CDIP-supported nationwide voter registration initiative that included a comprehensive media campaign to encourage voter registration and rectify discrepancies in the electoral rolls, awareness-raising campaigns leveraging corporate social responsibility, and grassroots mobilisation of women and members of other socially excluded groups. 
+
+![MG_1533.jpg](/uploads/MG_1533.jpg)`Photo courtesy: CDIP.`
 
 CDIP contributed to other gains in the electoral process, including a technically better-managed election with significantly fewer polling day irregularities than the previous general election; the publication of all polling station results forms; the collection of gender-disaggregated turnout data at the polling station level for the [first time ever](https://fafen.org/fafens-analysis-of-voter-turnout-in-ge-2018/); and uniform, effective enforcement of regulations governing the campaign period for candidates and political parties.
 
@@ -60,6 +66,8 @@ One of the chief reasons for the success of CDIP’s interventions, said Zaidi, 
 In addition to the outreach CDIP achieved with women, the team worked to integrate the voices of people with disabilities into the political process. Programme interventions not only expedited the passage of the Islamabad Capital Territory Rights of Persons with Disability Bill by the National Assembly but the House also passed a motion to form a special committee on persons with disabilities. 
 
 The committee will review laws to protect the rights of persons with disabilities; suggest legislative measures and amendments where required for the welfare of persons with disabilities; report on the implementation status of laws pertaining to persons with disabilities and of international conventions; and take note of abuse of the rights of persons with disabilities and suggest remedial measures. 
+
+![1-8557dc.JPG](/uploads/1-8557dc.JPG)`Photo courtesy: CDIP.`
 
 The Speaker of the National Assembly also announced that the Constitution of Pakistan would be translated into braille and the website of the National Assembly made accessible for visually impaired people. The Senate passed a resolution to make all public buildings, hospitals, and recreational and educational facilities accessible for persons with disabilities. And the Federal Directorate of Education committed to ensuring that all public sector education institutions in Islamabad are accessible.
 
