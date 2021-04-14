@@ -10,6 +10,8 @@ tags:
 - transparency
 - access to justice
 author: Ingrida Skarinke
+thumbnail-image: "/uploads/sm%201H8A1473.jpg"
+social-image: "/uploads/sm%201H8A1473.jpg"
 publication: Developments
 ---
 
