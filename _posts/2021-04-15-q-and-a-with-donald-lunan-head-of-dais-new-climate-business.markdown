@@ -7,10 +7,12 @@ tags:
 - climate change
 - environment-and-energy
 author: DAI Communications Staff
+thumbnail-image: "/uploads/DonaldLunan-60de67.jpg"
+social-image: "/uploads/DonaldLunan-60de67.jpg"
 publication: Developments
 ---
 
-{:.float-left}*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), DAI’s new Global Director for Climate, has worked at DAI since 2005. As head of the Climate and Environment team in the United Kingdom, he worked with governments, the private sector, and civil society to address climate and natural resource challenges. More recently, he led the Delivery Team for the U.K. Business Unit, overseeing the implementation of projects across clients and technical areas, including in economic growth, education, governance, and resilience. We spoke to Donald about DAI’s new Climate business unit.*
+![DonaldLunan.jpg](/uploads/DonaldLunan.jpg){:.float-left}*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), DAI’s new Global Director for Climate, has worked at DAI since 2005. As head of the Climate and Environment team in the United Kingdom, he worked with governments, the private sector, and civil society to address climate and natural resource challenges. More recently, he led the Delivery Team for the U.K. Business Unit, overseeing the implementation of projects across clients and technical areas, including in economic growth, education, governance, and resilience. We spoke to Donald about DAI’s new Climate business unit.*
 
 
 
@@ -23,7 +25,7 @@ publication: Developments
 
 “As an increasingly diverse company serving clients all over the world—from the British, American, and European governments to multilaterals, corporates, and philanthropies—we have invested heavily in learning from the best of what we’re doing in one part of the enterprise and applying it to maximum effect for other clients. 
 
-“Given the urgency of the moment, it’s now time to apply that synthesising capability in the field of climate—to join the dots and strengthen the links between different parts of the business, capture knowledge and share expertise, and facilitate innovation and fresh approaches with our partners and counterparts. That is the role of this new unit. Climate challenges cannot be addressed through “business as usual” or through a single technical lens. They are multi-faceted and need to be approached holistically.”
+“Given the urgency of the moment, it’s now time to apply that synthesising capability in the field of climate—to join the dots and strengthen the links between different parts of the business, capture knowledge and share expertise, and facilitate innovation and fresh approaches with our partners and counterparts. That is the role of this new unit. Climate challenges cannot be addressed through 'business as usual' or through a single technical lens. They are multi-faceted and need to be approached holistically.”
 
 **What are some of the greatest challenges when it comes to climate?**
 
