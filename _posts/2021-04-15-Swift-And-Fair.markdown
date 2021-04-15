@@ -34,6 +34,6 @@ And much more.
 
 To make a difference on such complex challenges of global scale, the Climate Business will draw on all of DAI’s expertise, learn across all our engagements—with bilateral and multilateral donors, private corporations, and philanthropies—and bring together a diverse body of knowledge, innovation, and on-the-ground experience.  
 
-Our Climate Business is a whole-of-company approach to a whole-of-society problem. It sits across the enterprise, acting as the connective tissue uniting different geographies, technical teams, and clients around the climate change mission, and fostering new ways of working, thinking, and delivering impact. I am personally honored to have been selected to lead it and privileged to devote all my professional energies to the most pressing challenge of our time.
+Our Climate business unit is a whole-of-company approach to a whole-of-society problem. It sits across the enterprise, acting as the connective tissue uniting different geographies, technical teams, and clients around the climate change mission, and fostering new ways of working, thinking, and delivering impact. I am personally honored to have been selected to lead it and privileged to devote all my professional energies to the most pressing challenge of our time.
 
-Donald Lunan leads DAI’s newly constituted Climate Business. You can read a Q&A with Donald here.
+*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan) leads DAI’s newly constituted Climate business unit. You can read a Q&A with Donald here.*
