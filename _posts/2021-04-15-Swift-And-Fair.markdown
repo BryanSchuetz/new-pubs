@@ -12,7 +12,7 @@ social-image: "/uploads/A%20Landscape%20of%20LIFT%20Operational%20Area,%20EmbaAl
 publication: Developments
 ---
 
-The next 10 years are make-or-break for our climate. To limit global warming to less than 2 degrees Celsius, we must achieve significant progress on emissions reductions by 2030. At the same time, as a global community, we must ensure that the expedited transition to a low-carbon economy is not only rapid but fair, with no one left behind. Perversely, the communities and nations most vulnerable to climate change are often those least responsible for greenhouse gas emissions and least equipped to adapt and respond. They need our support.
+The next 10 years are make-or-break for our climate. To limit the rise in global temperature to less than 2 degrees Celsius, we must achieve significant progress on emissions reductions by 2030. At the same time, as a global community, we must ensure that the expedited transition to a low-carbon economy is not only rapid but fair, with no one left behind. Perversely, the communities and nations most vulnerable to climate change are often those least responsible for greenhouse gas emissions and least equipped to adapt and respond. They need our support.
 
 
 
