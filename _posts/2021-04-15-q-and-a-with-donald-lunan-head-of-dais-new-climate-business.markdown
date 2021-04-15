@@ -12,7 +12,7 @@ social-image: "/uploads/DonaldLunan-60de67.jpg"
 publication: Developments
 ---
 
-![DonaldLunan.jpg](/uploads/DonaldLunan.jpg){:.float-left}*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), DAI’s new Global Director for Climate, has worked at DAI since 2005. As head of the Climate and Environment team in the United Kingdom, he worked with governments, the private sector, and civil society to address climate and natural resource challenges. More recently, he led the Delivery Team for the U.K. Business Unit, overseeing the implementation of projects across clients and technical areas, including in economic growth, education, governance, and resilience. We spoke to Donald about DAI’s new Climate business unit.*
+[DonaldLunan.jpg](/uploads/DonaldLunan.jpg){:.float-left}*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), DAI’s new Global Director for Climate, has worked at DAI since 2005. As head of the Climate and Environment team in the United Kingdom, he worked with governments, the private sector, and civil society to address climate and natural resource challenges. More recently, he led the Delivery Team for the U.K. Business Unit, overseeing the implementation of projects across clients and technical areas, including in economic growth, education, governance, and resilience. We spoke to Donald about DAI’s new Climate business unit.*
 
 
 
