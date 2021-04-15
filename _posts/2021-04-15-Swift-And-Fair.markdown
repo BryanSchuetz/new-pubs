@@ -38,4 +38,4 @@ To make a difference on such complex challenges of global scale, the Climate Bus
 
 Our Climate business unit is a whole-of-company approach to a whole-of-society problem. It sits across the enterprise, acting as the connective tissue uniting different geographies, technical teams, and clients around the climate change mission, and fostering new ways of working, thinking, and delivering impact. I am personally honored to have been selected to lead it and privileged to devote all my professional energies to the most pressing challenge of our time.
 
-*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan) leads DAI’s newly constituted Climate business unit. You can read a Q&A with Donald here.*
+*[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan) leads DAI’s newly constituted Climate business unit. You can read a Q&A with Donald [here](https://dai-global-developments.com/articles/q-and-a-with-donald-lunan-head-of-dais-new-climate-business).*
