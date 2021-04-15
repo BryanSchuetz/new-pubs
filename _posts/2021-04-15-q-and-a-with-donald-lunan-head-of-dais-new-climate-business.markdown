@@ -7,6 +7,8 @@ tags:
 - climate change
 - environment-and-energy
 author: DAI Communications Staff
+thumbnail-image: "/uploads/DonaldLunan-60de67.jpg"
+social-image: "/uploads/DonaldLunan-60de67.jpg"
 publication: Developments
 ---
 
