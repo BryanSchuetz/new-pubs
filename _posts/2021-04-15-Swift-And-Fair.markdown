@@ -7,6 +7,8 @@ tags:
 - climate change
 - environment-and-energy
 author: "[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan)"
+thumbnail-image: "/uploads/A%20Landscape%20of%20LIFT%20Operational%20Area,%20EmbaAlaje%20Woreda,%20Tigray%20Region.JPG"
+social-image: "/uploads/A%20Landscape%20of%20LIFT%20Operational%20Area,%20EmbaAlaje%20Woreda,%20Tigray%20Region.JPG"
 publication: Developments
 ---
 
