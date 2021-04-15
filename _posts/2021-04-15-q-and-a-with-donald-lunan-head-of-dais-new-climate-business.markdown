@@ -1,5 +1,5 @@
 ---
-title: Q&A with Donald Lunan, Head of DAI’s New Climate Business
+title: Q&A with Donald Lunan, Head of DAI’s New Climate Business Unit
 date: 2021-04-15 14:12:00 -04:00
 published: false
 tags:
@@ -7,8 +7,8 @@ tags:
 - climate change
 - environment-and-energy
 author: DAI Communications Staff
-thumbnail-image: "/uploads/DonaldLunan-60de67.jpg"
-social-image: "/uploads/DonaldLunan-60de67.jpg"
+thumbnail-image: "/uploads/PANI%20cover.jpg"
+social-image: "/uploads/PANI%20cover.jpg"
 publication: Developments
 ---
 
