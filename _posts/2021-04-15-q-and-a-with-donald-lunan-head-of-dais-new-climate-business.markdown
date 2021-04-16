@@ -43,7 +43,7 @@ publication: Developments
 
 **What would a successful year look like?**
 
-“Much hinges on COP26 and clearly this forum will dominate the discourse over the coming months. We need to see ambition raised ahead of Glasgow, with governments clarifying their plans to reduce emissions in line with the Paris agreement. I hope President Biden will set the tone for all countries at the Earth Summit later this month. So, clear statements of intent to achieve the target of keeping the rise in global temperatures below 2oC as the minimum. A bold date for the end of coal power would also be significant.
+“Much hinges on COP26 and clearly this forum will dominate the discourse over the coming months. We need to see ambition raised ahead of Glasgow, with governments clarifying their plans to reduce emissions in line with the Paris agreement. I hope President Biden will set the tone for all countries at the Earth Summit later this month. So, clear statements of intent to achieve the target of keeping the rise in global temperatures below 2 degrees Celsius as the minimum. A bold date for the end of coal power would also be significant.
 
 “The private sector also needs to push ahead with its own ambitions. I would like to see further commitments to Net Zero, particularly in sectors such as energy, transport, agriculture, and construction. These commitments should be matched with obligations to research and development into new low-carbon technologies—we need to reduce emissions before we consider offsets. Private companies should view climate change as a huge opportunity, and their investment should reflect this understanding. 
 
