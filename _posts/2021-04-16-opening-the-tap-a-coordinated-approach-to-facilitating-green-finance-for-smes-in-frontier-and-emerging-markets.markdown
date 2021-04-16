@@ -29,7 +29,7 @@ Unlocking climate finance can help the international community limit the global 
 
 As we seek to direct green finance into those sectors, and thus protect the livelihoods of people living on the frontlines of climate vulnerability, supply is not the issue. The [Climate Policy Initiative](https://www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-2019/), a global think tank, estimates that in 2019 there was between $608 billion and $622 billion allocated for climate mitigation and adaptation globally, including $75 billion earmarked for developing countries (against a COP21 target of $100 billion for such countries). But that capital is not getting to users on the ground. Why not?
 
-![DEVS_Green Finance-01-7e5844.jpg](/uploads/DEVS_Green%20Finance-01-7e5844.jpg)
+![DEVS_Green-Finance.jpg](/uploads/DEVS_Green-Finance.jpg)
 
 A major reason is that climate finance designed to flow through national financial systems to smaller financial institutions is not easily mobilised off balance sheets and toward small and medium-sized enterprises (SMEs). In this process, larger commercial banks typically receive funds from major investment banks and development banks accredited by the [Green Climate Fund](https://www.greenclimate.fund/). These commercial banks often seek smaller financial institutions in local markets to syndicate this climate finance. The smaller, downstream institutions are supposed to play an important role in climate mitigation, resilience building, and adaptation efforts. 
 
