@@ -8,6 +8,8 @@ tags:
 - environment-and-energy
 - sustainable-business
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan)"
+thumbnail-image: "/uploads/sm%20nicolas-hippert-NoAFoFl7Iew-unsplash.jpg"
+social-image: "/uploads/sm%20nicolas-hippert-NoAFoFl7Iew-unsplash.jpg"
 publication: Developments
 ---
 
@@ -28,6 +30,8 @@ We are currently drawing down essential “natural capital” at a calamitous ra
 Today, Earth Day, we remember that the actual number of livable planets available to humanity is one. 
 
 Today, let us also embrace a new paradigm wherein corporations—even as they deliver prosperity to billions of people around the world—are conceived as part of the global ecosystem on which we all depend, not as something superimposed on top of it.
+
+![nicolas-hippert-NoAFoFl7Iew-unsplash.jpg](/uploads/nicolas-hippert-NoAFoFl7Iew-unsplash.jpg)`Photo by Nicolas HIPPERT on Unsplash.`
 
 Despite the astounding breadth and rigor of its analysis, the *Review* is likely to be an inflection point in the sustainability debate not principally because of its novelty. After all, environmentally minded economists have highlighted externalities for years. 
 
