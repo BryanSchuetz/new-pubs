@@ -13,7 +13,7 @@ publication: Developments
 
 The way we measure the success of a company has to change—and is changing. That was the message of the *Dasgupta Review*, a landmark study that confirms the paradigm shift we have all suspected for some time. 
 
-The 600-page [*Dasgupta Review*](https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review) (the Review)—led by Professor Sir Partha Dasgupta and commissioned, tellingly, not by an environmental agency but by the U.K. Treasury Department—is an extensive investigation into *The Economics of Biodiversity*. Just as the British government’s [*Stern Review*](https://www.lse.ac.uk/granthaminstitute/publication/the-economics-of-climate-change-the-stern-review/) set the terms of debate around *The Economics of Climate Change* in 2006, so the *Review* promises to be a seminal document in the world of corporate sustainability.
+The 600-page [*Dasgupta Review*](https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review) (the *Review*)—led by Professor Sir Partha Dasgupta and commissioned, tellingly, not by an environmental agency but by the U.K. Treasury Department—is an extensive investigation into *The Economics of Biodiversity*. Just as the British government’s [*Stern Review*](https://www.lse.ac.uk/granthaminstitute/publication/the-economics-of-climate-change-the-stern-review/) set the terms of debate around *The Economics of Climate Change* in 2006, so the *Review* promises to be a seminal document in the world of corporate sustainability.
 
 
 
