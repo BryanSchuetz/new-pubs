@@ -11,7 +11,7 @@ author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan
 publication: Developments
 ---
 
-The way we measure the success of a company has to change—and is changing. That was the message of the Dasgupta Review, a landmark study that confirms the paradigm shift we have all suspected for some time. 
+The way we measure the success of a company has to change—and is changing. That was the message of the *Dasgupta Review*, a landmark study that confirms the paradigm shift we have all suspected for some time. 
 
 The 600-page [Dasgupta Review](https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review) (the Review)—led by Professor Sir Partha Dasgupta and commissioned, tellingly, not by an environmental agency but by the U.K. Treasury Department—is an extensive investigation into The Economics of Biodiversity. Just as the British government’s [Stern Review](https://www.lse.ac.uk/granthaminstitute/publication/the-economics-of-climate-change-the-stern-review/) set the terms of debate around The Economics of Climate Change in 2006, so the Review promises to be a seminal document in the world of corporate sustainability.
 
@@ -46,6 +46,6 @@ Over the course of what promises to be a momentous year, we’ll be sharing some
 
 If you have suggestions for subjects to explore or people to explore them, we’d love to hear from you. 
 
-In the meantime, if you read nothing else this Earth Day, read the headline version of the Dasgupta Review. It could change how you look at your company—and the world of which it is a part.
+In the meantime, if you read nothing else this Earth Day, read the [headline version](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957629/Dasgupta_Review_-_Headline_Messages.pdf) of the *Dasgupta Review*. It could change how you look at your company—and the world of which it is a part.
 
 *Zachary Kaplan is Vice President of DAI's Sustainable Business Group.*
