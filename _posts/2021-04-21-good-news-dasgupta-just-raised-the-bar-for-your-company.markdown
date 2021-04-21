@@ -48,4 +48,4 @@ If you have suggestions for subjects to explore or people to explore them, we’
 
 In the meantime, if you read nothing else this Earth Day, read the [headline version](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957629/Dasgupta_Review_-_Headline_Messages.pdf) of the *Dasgupta Review*. It could change how you look at your company—and the world of which it is a part.
 
-*Zachary Kaplan is Vice President of DAI's Sustainable Business Group.*
+*[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) is Vice President of DAI's Sustainable Business Group.*
