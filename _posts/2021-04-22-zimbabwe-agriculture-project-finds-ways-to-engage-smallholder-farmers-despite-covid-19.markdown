@@ -35,7 +35,7 @@ Several ZAGP grantees have also rolled out a mobile application during the pande
 
 “I can now give farmers the app and they can search for the information they that need even in my absence,” said extension officer Juwanyira Ruramai. “This is very helpful as I have to serve more than 400 households. So with the app, the farmers are never stranded for information. I can quickly refer to the app and get the insights I need to go and train my farmers.” 
 
-A pilot version of the Kurima Mari Beef app has been launched under the ZAGP-funded Beef Enterprise Strengthening and Transformation (BEST) project. Nearly 300 beef farmers have so far registered, and the project is targeting at least 20,000 users across 10 districts.  
+A pilot version of the Kurima Mari Beef app has been launched under the ZAGP-funded [Beef Enterprise Strengthening and Transformation (BEST)](http://www.zagp.org.zw/projects/view/beef) project. Nearly 300 beef farmers have so far registered, and the project is targeting at least 20,000 users across 10 districts.  
 
 Under ZAGP’s Inclusive Poultry Value Chain (IPVC) project, the Kurima Mari Poultry app reaches roughly 10,000 poultry farmers and includes a feature to track the weight of chickens, so farmers have early warning of any problem with food conversion ratios. App training has been provided to 100 lead farmers and extension officers, with the goal to train others how to use it. The poultry app not only educates farmers on farming practices and procedures through videos, podcasts, and manuals—it also offers a digital marketplace where produce can be bought and sold online. 
 
