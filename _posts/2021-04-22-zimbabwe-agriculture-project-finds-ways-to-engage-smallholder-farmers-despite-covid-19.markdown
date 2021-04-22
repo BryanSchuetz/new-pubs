@@ -8,6 +8,8 @@ tags:
 - economic-growth
 - agriculture
 author: 'Neil Orchardson and Thembinkosi Nyathi '
+thumbnail-image: "/uploads/sm%201.jpg"
+social-image: "/uploads/sm%201.jpg"
 publication: Developments
 ---
 
@@ -45,6 +47,8 @@ Poultry production has fallen during the pandemic, which has resulted in the sca
 
 Tecla Manyeruke, a member of Golden Chickens Enterprises, a farmer group working with IPVC in Masvingo province, said: “We were having challenges in buying day-old broiler chicks, feed, and veterinary medicines. The project linked us with feed companies and other input suppliers and negotiated discount purchasing on behalf of us. They also linked us to a hatchery to buy day-old broiler chicks.” 
 
+![1-a1b923.jpg](/uploads/1-a1b923.jpg)`Through the IPVC project’s linkages, poultry producers are able to access inputs and feed despite the national lockdown.`
+
 Thanks to the project’s collective bargaining and buying power, the farmers were able to buy the broiler chicks for 42 cents instead of the prevailing market price of 47 cents and were able to save $5 on every 50-kilogram millet bag they purchased.  
 
 ## Fodder Production 
@@ -55,7 +59,9 @@ ZAGP has used digital extension approaches—including the Kurima Mari Beef app�
 
 Despite COVID-19 and the lockdown restrictions, the participating farmers under the BEST project have been able to harvest and preserve the fodder crucial to their livelihoods. 
 
-Nickson Dube, a 53-year-old farmer with 35 cattle in Gokwe South district, has grappled for years with rearing his herd in a marginal area with low rainfall and therefore poor forage production. He represents this new breed of livestock producers who have ventured into the production of nutritious cattle-feeding fodder crops. “It’s my first time to grow fodder for my cattle. Previously, I would leave my cattle to graze in depleted rangelands, which have insufficient food for them,” he said.   
+Nickson Dube, a 53-year-old farmer with 35 cattle in Gokwe South district, has grappled for years with rearing his herd in a marginal area with low rainfall and therefore poor forage production. He represents this new breed of livestock producers who have ventured into the production of nutritious cattle-feeding fodder crops. “It’s my first time to grow fodder for my cattle. Previously, I would leave my cattle to graze in depleted rangelands, which have insufficient food for them,” he said.
+
+![IMG_3712.JPG](/uploads/IMG_3712.JPG)`This farmers’ group in Gokwe South district in Midlands province is now involved in producing fodder including sunflower, as shown here.`
 
 The ZAGP-funded [Transforming Zimbabwe’s Dairy Value Chain for the Future (TranZDVC)](http://zagp.org.zw/projects/view/dairy) project took a similar approach. Lead farmer Dorica Hwengwere mentors 10 other farmers, including women and youth. Using seed provided for the demonstration plot and her own resources, she has grown maize, velvet beans, cowpeas, and bana grass on her one-and-a-half hectare field. “We have learned and increased production of homegrown nutritious feed, and during the lean season our cattle will not starve or have decreased milk production,” she said. “I have plans to use the harvested crop to make low-cost feed formulations which will lead to reduced cost of production and increased incomes through dairy farming.” 
 
