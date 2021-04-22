@@ -37,7 +37,7 @@ Several ZAGP grantees have also rolled out a mobile application during the pande
 
 A pilot version of the Kurima Mari Beef app has been launched under the ZAGP-funded [Beef Enterprise Strengthening and Transformation (BEST)](http://www.zagp.org.zw/projects/view/beef) project. Nearly 300 beef farmers have so far registered, and the project is targeting at least 20,000 users across 10 districts.  
 
-Under ZAGP’s Inclusive Poultry Value Chain (IPVC) project, the Kurima Mari Poultry app reaches roughly 10,000 poultry farmers and includes a feature to track the weight of chickens, so farmers have early warning of any problem with food conversion ratios. App training has been provided to 100 lead farmers and extension officers, with the goal to train others how to use it. The poultry app not only educates farmers on farming practices and procedures through videos, podcasts, and manuals—it also offers a digital marketplace where produce can be bought and sold online. 
+Under ZAGP’s [Inclusive Poultry Value Chain (IPVC)](http://www.zagp.org.zw/projects/view/poultry) project, the Kurima Mari Poultry app reaches roughly 10,000 poultry farmers and includes a feature to track the weight of chickens, so farmers have early warning of any problem with food conversion ratios. App training has been provided to 100 lead farmers and extension officers, with the goal to train others how to use it. The poultry app not only educates farmers on farming practices and procedures through videos, podcasts, and manuals—it also offers a digital marketplace where produce can be bought and sold online. 
 
 ## Access to Inputs and Markets 
 
@@ -45,7 +45,7 @@ Poultry production has fallen during the pandemic, which has resulted in the sca
 
 Tecla Manyeruke, a member of Golden Chickens Enterprises, a farmer group working with IPVC in Masvingo province, said: “We were having challenges in buying day-old broiler chicks, feed, and veterinary medicines. The project linked us with feed companies and other input suppliers and negotiated discount purchasing on behalf of us. They also linked us to a hatchery to buy day-old broiler chicks.” 
 
-Thanks to the project’s collective bargaining and buying power, the farmers were able to buy the broiler chicks for 42 cents instead of the prevailing market price of 47 cents, and were able to save $5 on every 50-kilogram millet bag they purchased.  
+Thanks to the project’s collective bargaining and buying power, the farmers were able to buy the broiler chicks for 42 cents instead of the prevailing market price of 47 cents and were able to save $5 on every 50-kilogram millet bag they purchased.  
 
 ## Fodder Production 
 
@@ -57,7 +57,7 @@ Despite COVID-19 and the lockdown restrictions, the participating farmers under 
 
 Nickson Dube, a 53-year-old farmer with 35 cattle in Gokwe South district, has grappled for years with rearing his herd in a marginal area with low rainfall and therefore poor forage production. He represents this new breed of livestock producers who have ventured into the production of nutritious cattle-feeding fodder crops. “It’s my first time to grow fodder for my cattle. Previously, I would leave my cattle to graze in depleted rangelands, which have insufficient food for them,” he said.   
 
-The ZAGP-funded Transforming Zimbabwe’s Dairy Value Chain for the Future (TranZDVC) project took a similar approach. Lead farmer Dorica Hwengwere mentors 10 other farmers, including women and youth. Using seed provided for the demonstration plot and her own resources, she has grown maize, velvet beans, cowpeas, and bana grass on her one-and-a-half hectare field. “We have learned and increased production of homegrown nutritious feed, and during the lean season our cattle will not starve or have decreased milk production,” she said. “I have plans to use the harvested crop to make low-cost feed formulations which will lead to reduced cost of production and increased incomes through dairy farming.” 
+The ZAGP-funded [Transforming Zimbabwe’s Dairy Value Chain for the Future (TranZDVC)](http://zagp.org.zw/projects/view/dairy) project took a similar approach. Lead farmer Dorica Hwengwere mentors 10 other farmers, including women and youth. Using seed provided for the demonstration plot and her own resources, she has grown maize, velvet beans, cowpeas, and bana grass on her one-and-a-half hectare field. “We have learned and increased production of homegrown nutritious feed, and during the lean season our cattle will not starve or have decreased milk production,” she said. “I have plans to use the harvested crop to make low-cost feed formulations which will lead to reduced cost of production and increased incomes through dairy farming.” 
 
 The coronavirus crisis facing Zimbabwe’s smallholder farmers is far from over. But ZAGP’s work to mitigate the effects of COVID-19 and the lockdown is paying off and promises to yield benefits that outlast the pandemic.  
 
