@@ -29,7 +29,7 @@ While COVID-19 threw the programme into uncharted territory, its activities did 
 
 ## Digital Solutions and Support  
 
-The pandemic has increased the demand for online services worldwide, Zimbabwe included. Paper-based systems are costly, labor-intensive, and slow. The Transforming Zimbabwe’s Animal Health and Food Safety Systems for the Future (SAFE) project, funded by ZAGP, is developing an information management system to provide value chain stakeholders with current information on disease outbreaks, market regulations, prices, supply and demand, weather, and financial matters. This data will enhance disease surveillance and reporting as well as serve as the basis for a comprehensive Livestock Identification and Traceability System. 
+The pandemic has increased the demand for online services worldwide, Zimbabwe included. Paper-based systems are costly, labor-intensive, and slow. The [Transforming Zimbabwe’s Animal Health and Food Safety Systems for the Future (SAFE)](http://www.zagp.org.zw/projects/view/safe) project, funded by ZAGP, is developing an information management system to provide value chain stakeholders with current information on disease outbreaks, market regulations, prices, supply and demand, weather, and financial matters. This data will enhance disease surveillance and reporting as well as serve as the basis for a comprehensive Livestock Identification and Traceability System. 
 
 Several ZAGP grantees have also rolled out a mobile application during the pandemic called Kurima Mari (“farming for money”), which assists farmers, extension services, and staff working in agricultural and rural development offices. The app has been useful during lockdown, as it enables information sharing without physical meetings and trainings. 
 
