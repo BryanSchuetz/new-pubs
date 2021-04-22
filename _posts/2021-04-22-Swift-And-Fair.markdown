@@ -1,7 +1,6 @@
 ---
 title: '2030: The Transition to a Low-Carbon Economy Must be Swift—and Fair'
-date: 2021-04-22 07:06:00 -04:00
-published: false
+date: 2021-04-22 05:06:00 -04:00
 tags:
 - climate
 - climate change
