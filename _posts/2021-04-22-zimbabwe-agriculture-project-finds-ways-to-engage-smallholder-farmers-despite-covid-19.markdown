@@ -8,6 +8,8 @@ tags:
 - economic-growth
 - agriculture
 author: 'Neil Orchardson and Thembinkosi Nyathi '
+thumbnail-image: "/uploads/sm%201.jpg"
+social-image: "/uploads/sm%201.jpg"
 publication: Developments
 ---
 
@@ -44,6 +46,8 @@ Under ZAGP’s [Inclusive Poultry Value Chain (IPVC)](http://www.zagp.org.zw/pro
 Poultry production has fallen during the pandemic, which has resulted in the scaling down of operations and reduced sales. The IPVC project is now assisting poultry producers, who have been hit hard by travel restrictions, to access inputs and markets for their broilers and eggs beyond what’s been available through the app.  
 
 Tecla Manyeruke, a member of Golden Chickens Enterprises, a farmer group working with IPVC in Masvingo province, said: “We were having challenges in buying day-old broiler chicks, feed, and veterinary medicines. The project linked us with feed companies and other input suppliers and negotiated discount purchasing on behalf of us. They also linked us to a hatchery to buy day-old broiler chicks.” 
+
+![1-a1b923.jpg](/uploads/1-a1b923.jpg)`Through the IPVC project’s linkages, poultry producers are able to access inputs and feed despite the national lockdown.`
 
 Thanks to the project’s collective bargaining and buying power, the farmers were able to buy the broiler chicks for 42 cents instead of the prevailing market price of 47 cents and were able to save $5 on every 50-kilogram millet bag they purchased.  
 
