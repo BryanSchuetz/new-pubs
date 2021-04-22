@@ -1,7 +1,6 @@
 ---
 title: 'Good News: Dasgupta Just Raised the Bar for Your Company'
 date: 2021-04-22 05:07:00 -04:00
-published: false
 tags:
 - Think Piece
 - climate change
