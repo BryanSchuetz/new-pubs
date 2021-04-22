@@ -13,7 +13,7 @@ publication: Developments
 
 March 30 marked one year since the Government of Zimbabwe declared the country’s first nationwide lockdown to curb the spread of COVID-19. The strict lockdown and enforcement measures have [caused significant hardship](https://www.future-agricultures.org/wp-content/uploads/2020/10/APRA_COVID_19_Zimbabwe_Country_Report1.pdf) for most citizens, but particularly for informal traders in poorer urban areas and communities that depend on agriculture for their incomes.  
 
-Agriculture is one of many sectors worldwide hit hard by pandemic restrictions and by associated disruptions in value chains. In Zimbabwe, agriculture is not only crucial for the food supply—it provides livelihoods for 70 percent of the population and makes up 40 percent of exports. 
+Agriculture is one of many sectors worldwide hit hard by pandemic restrictions and by associated disruptions in value chains. In Zimbabwe, agriculture is not only crucial for the food supply—it [provides livelihoods](http://www.fao.org/zimbabwe/fao-in-zimbabwe/zimbabwe-at-a-glance/en/) for 70 percent of the population and makes up 40 percent of exports. 
 
 As the pandemic took hold, Zimbabwe’s Ministry of Lands, Agriculture, Fisheries, Water, and Rural Resettlement designated agriculture as an essential service. Producers were instructed to remain open to ensure minimal disruption of household and national food and nutrition security, as well as public and animal health. Yet farmers have struggled to access needed supplies and move their produce to distribution hubs, markets, and, ultimately, the homes of consumers under lockdown. The pandemic has also reduced consumers’ income and constrained their ability to travel and purchase products. 
 
