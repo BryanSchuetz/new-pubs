@@ -35,7 +35,7 @@ The pandemic has increased the demand for online services worldwide, Zimbabwe in
 
 Several ZAGP grantees have also rolled out a mobile application during the pandemic called Kurima Mari (“farming for money”), which assists farmers, extension services, and staff working in agricultural and rural development offices. The app has been useful during lockdown, as it enables information sharing without physical meetings and trainings. 
 
-![app.png](/uploads/app.png)“I can now give farmers the app and they can search for the information they that need even in my absence,” said extension officer Juwanyira Ruramai. “This is very helpful as I have to serve more than 400 households. So with the app, the farmers are never stranded for information. I can quickly refer to the app and get the insights I need to go and train my farmers.” 
+![app.png](/uploads/app.png){:.float-left}“I can now give farmers the app and they can search for the information they that need even in my absence,” said extension officer Juwanyira Ruramai. “This is very helpful as I have to serve more than 400 households. So with the app, the farmers are never stranded for information. I can quickly refer to the app and get the insights I need to go and train my farmers.” 
 
 A pilot version of the Kurima Mari Beef app has been launched under the ZAGP-funded [Beef Enterprise Strengthening and Transformation (BEST)](http://www.zagp.org.zw/projects/view/beef) project. Nearly 300 beef farmers have so far registered, and the project is targeting at least 20,000 users across 10 districts.  
 
