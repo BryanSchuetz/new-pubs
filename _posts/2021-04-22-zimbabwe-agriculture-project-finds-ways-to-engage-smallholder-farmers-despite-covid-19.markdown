@@ -17,7 +17,7 @@ Agriculture is one of many sectors worldwide hit hard by pandemic restrictions a
 
 As the pandemic took hold, Zimbabwe’s Ministry of Lands, Agriculture, Fisheries, Water, and Rural Resettlement designated agriculture as an essential service. Producers were instructed to remain open to ensure minimal disruption of household and national food and nutrition security, as well as public and animal health. Yet farmers have struggled to access needed supplies and move their produce to distribution hubs, markets, and, ultimately, the homes of consumers under lockdown. The pandemic has also reduced consumers’ income and constrained their ability to travel and purchase products. 
 
-The European Union-funded Zimbabwe Agricultural Growth Programme (ZAGP) works to strengthen local institutions and build capacity across the livestock sector through six projects and our technical assistance. 
+The European Union-funded [Zimbabwe Agricultural Growth Programme (ZAGP)](http://zagp.org.zw/) works to strengthen local institutions and build capacity across the livestock sector through [six projects](http://zagp.org.zw/Projects) and our [technical assistance](https://www.dai.com/our-work/projects/zimbabwe-technical-assistance-to-the-zimbabwe-agricultural-growth-programme-zagp). 
 
 
 
