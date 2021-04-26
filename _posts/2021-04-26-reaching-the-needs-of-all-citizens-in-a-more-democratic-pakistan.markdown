@@ -1,7 +1,6 @@
 ---
 title: Reaching the Needs of All Citizens in a More Democratic Pakistan
-date: 2021-04-14 14:30:00 -04:00
-published: false
+date: 2021-04-26 08:30:00 -04:00
 tags:
 - governance
 - gender
