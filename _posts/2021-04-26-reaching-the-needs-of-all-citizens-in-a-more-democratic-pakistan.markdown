@@ -14,7 +14,7 @@ social-image: "/uploads/sm%201H8A1473.jpg"
 publication: Developments
 ---
 
-A government that citizens can trust with their hard-earned wages. A government that ensures its citizens feel their voices are heard. A government whose priorities reflects its citizens’ aspirations. Such a government is the bedrock of any nation. Yet far too many governments fall short of this goal.
+A government that citizens can trust with their hard-earned wages. A government that ensures its citizens feel their voices are heard. A government whose priorities reflect its citizens’ aspirations. Such a government is the bedrock of any nation. Yet far too many governments fall short of this goal.
 
 Seeking to support good governance specifically in Pakistan, the U.K. Foreign, Commonwealth & Development Office in 2016 launched the [Consolidating Democracy in Pakistan (CDIP)](https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip) programme, just ahead of the 2018 General Election. The results have been impressive.
 
