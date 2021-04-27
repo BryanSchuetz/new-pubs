@@ -8,6 +8,7 @@ tags:
 - agriculture
 - food-security
 - supply-chain
+- sustainable-business
 author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
   [Kamil Nabong](https://www.linkedin.com/in/kamilnabong/)"
 thumbnail-image: "/uploads/ProsectFeed_Larvae%20SM.jpg"
