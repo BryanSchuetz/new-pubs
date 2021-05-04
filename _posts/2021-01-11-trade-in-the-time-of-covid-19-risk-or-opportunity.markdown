@@ -68,7 +68,7 @@ Beyond our trade practice, other parts of DAI have also been exploring how to he
 
 Technology has always driven trade. From the earliest merchant ships to refrigerated containers to the faxed letter of credit, the history of globalisation is intimately tied to tech innovation. Technology was already beginning to reshape the trade landscape and COVID-19 has incentivised increased uptake of “tradetech” solutions across local and global trading systems. 
 
-![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`The DaNa Facility works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs.`
+![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`ERF works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs.`
 
 Technology-driven approaches to enhance access and efficiency are having a positive impact on cross-border commerce. Pioneering govtech countries such as Estonia and Singapore are using information and communications technologies and tradetech (trade finance technology) to catalyse growth in SME exports and strengthen value chains. Smart contracts that use blockchain are creating self-executing agreements that need little action or oversight. E-commerce, electronic payments, and smart contracts are creating potential even for microenterprises to reach regional and global markets, and tap into multicountry value chains. 
 
