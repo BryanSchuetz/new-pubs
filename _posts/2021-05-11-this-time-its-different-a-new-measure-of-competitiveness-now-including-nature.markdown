@@ -9,6 +9,8 @@ author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan
   [Ivan Rossignol](https://www.linkedin.com/in/ivan-rossignol-0614535/), [Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla),
   [Luke Kozumbo](https://www.dai.com/who-we-are/our-team/luke-kozumbo), and [Neil
   Browning](https://www.dai.com/who-we-are/our-team/neil-browning)"
+thumbnail-image: "/uploads/sm%20image002.jpg"
+social-image: "/uploads/sm%20image002.jpg"
 publication: Developing Alternatives
 ---
 
