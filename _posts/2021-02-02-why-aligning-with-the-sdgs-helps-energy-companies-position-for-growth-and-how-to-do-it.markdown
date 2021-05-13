@@ -9,8 +9,8 @@ tags:
 - environment-and-energy
 author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
   [Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards)"
-thumbnail-image: "/uploads/E_SDG_logo_without_UN_emblem_Square_Transparent_WEB.png.png"
-social-image: "/uploads/E_SDG_logo_without_UN_emblem_Square_Transparent_WEB.png.png"
+thumbnail-image: "/uploads/Screen%20Shot%202021-05-12%20at%2011.33.54%20AM.png"
+social-image: "/uploads/Screen%20Shot%202021-05-12%20at%2011.33.54%20AM.png"
 publication: Developments
 ---
 
