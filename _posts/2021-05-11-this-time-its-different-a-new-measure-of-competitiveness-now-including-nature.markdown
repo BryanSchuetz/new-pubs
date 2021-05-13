@@ -12,7 +12,7 @@ author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan
 publication: Developing Alternatives
 ---
 
-*This article is the first in a series that explores the relationship between competitiveness and sustainability through a new lens that seeks to account for the use and abuse of natural capital. In this piece—titled* The Nature of Competitiveness: a New Worldview for Corporate Sustainability—*we endeavor to identify solutions such as new business models, asset valuation and price costing methodologies, and alternative supply chain structures that will help business leaders to conceive, plan, and execute a new vision of competitiveness.*
+*This article is the first in a series that explores the relationship between competitiveness and sustainability through a new lens that seeks to account for the use and abuse of natural capital. In this series—titled* The Nature of Competitiveness: a New Worldview for Corporate Sustainability—*we endeavor to identify solutions such as new business models, asset valuation and price costing methodologies, and alternative supply chain structures that will help business leaders to conceive, plan, and execute a new vision of competitiveness.*
 
 
 
