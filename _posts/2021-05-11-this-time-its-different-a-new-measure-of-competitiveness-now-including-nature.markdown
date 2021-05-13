@@ -31,7 +31,7 @@ To recognize that nature matters in how we conceive and measure competitiveness 
 
 The *Review* helps kick-start what should become a movement of new thinking around firm-level competitiveness. It urges us to fundamentally reimagine the relationship between economies and nature—to consider them embedded *in* nature, not external to it. This paradigm shift implies that companies have failed to appropriately account for natural assets—such as forests, soil, water, and air—that are just as crucial to long-term company performance as other assets, such as machinery and patents. It follows that the calculus needed to measure company competitiveness must now build in natural assets and a company’s use or non-use of them as a core part of its doing business cost formula. No longer should environmental impact be thought of as only a post-profitability external measure relegated to a corporate social responsibility report with a relatively weak tie-back to how business decisions are made.
 
-![IMG_0260.JPG](/uploads/IMG_0260.JPG)
+![image002.jpg](/uploads/image002.jpg)`Solar panels and plastic waste: the promise of a clean energy future and the reality of the polluted present in Cap Haitien, Haiti (2017).`
 
 We believe that integrating sustainability into a company’s vision for growth and its equation for calculating competitiveness is the way forward. Offering a complete valuation of your company’s positive and negative effects on nature may initially be a novel, distinguishing feature in the marketplace, but it will quickly become “tablestakes.” Authentic sustainability is destined to be a core defining factor in long-term competitiveness and viability. 
 
