@@ -2,7 +2,6 @@
 title: 'This Time It’s Different: A New Measure of Competitiveness, Now Including
   Nature'
 date: 2021-05-14 05:39:00 -04:00
-published: false
 tags:
 - sustainable-business
 author: "[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan),
