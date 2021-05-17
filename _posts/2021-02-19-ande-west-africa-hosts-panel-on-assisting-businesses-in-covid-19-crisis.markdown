@@ -1,5 +1,6 @@
 ---
-title: ANDE West Africa Hosts Workshop on Assisting Businesses in COVID-19 Crisis
+title: 'DAI hosts ANDE West Africa Workshop: How Incubators & Accelerators Can Build
+  Corporate Partnerships'
 date: 2021-02-19 14:34:00 -05:00
 tags:
 - covid-19
