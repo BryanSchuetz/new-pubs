@@ -29,6 +29,8 @@ With an anchor location at the Children’s Museum in Muscat and programming pla
 
 The e-stemazone is live in both Arabic and English and offers a library of self-paced learning modules as well as live webinars led by skilled instructors. The stemazone Center at the Children’s Museum has built a modern, vibrant space to host in-person workshops once COVID safety guidelines permit re-opening.
 
+<iframe src="https://player.vimeo.com/video/552003877" width="640" height="329" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
+
 ## A Digital-First Approach to Learning
 
 The stemazone curriculum emphasizes best practices in hands-on learning by doing. Students will learn about technology, develop new skills with the guidance of experienced instructors, and conduct experiments based on the engineering design process—using simple materials they can find in their homes. The platform includes coding exercises for beginners from the age of seven to more intermediate coders. The e-stemazone will also help develop students’ technological skills by having them interact with content online. 
@@ -36,8 +38,6 @@ The stemazone curriculum emphasizes best practices in hands-on learning by doing
 Students can access the library of free courses at any time, with new content added weekly, and attend live webinars in both English and Arabic. The platform allows for easy navigation for students, parents, and teachers. Schools will be able to book private live workshops through the LMS. While the pivot to digital programming was unexpected, in the end, it has provided more opportunity to students outside of the capital city Muscat to participate in the program. 
 
 The e-stemazone uses mechanisms such as gamification to keep students actively learning on the platform and is adaptable to any device, including mobile phones and tablets.
-
-<iframe src="https://player.vimeo.com/video/552003877" width="640" height="329" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
 ## Enabling Future Development in Oman
 
