@@ -1,7 +1,6 @@
 ---
 title: STEAM Education Goes Online with Launch of Stemazone Platform in Oman
-date: 2021-05-18 13:51:00 -04:00
-published: false
+date: 2021-05-19 05:51:00 -04:00
 tags:
 - sustainable-business
 - digital-acceleration
