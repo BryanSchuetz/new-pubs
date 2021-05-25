@@ -42,4 +42,4 @@ TDDA is conducting desk research into equity and health security, examining the 
 
 Policy and programming must respond to the needs of all people if we are to make significant progress toward global health security. Unless services are available to high-risk populations, we won’t achieve the effect on global health we wish to see. 
 
-[Jeffrey Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), FFPH, is Team Leader of the [TDDA](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme.
+[Jeffrey Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), FFPH, is the Team Leader of the [TDDA](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme.
