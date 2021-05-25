@@ -8,6 +8,8 @@ tags:
 - covid-19
 - equity
 author: "[Jeffrey Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey)"
+thumbnail-image: "/uploads/sm%20DSC_4967.jpg"
+social-image: "/uploads/sm%20DSC_4967.jpg"
 publication: Developments
 ---
 
@@ -26,11 +28,15 @@ Since the Spanish Flu in 1918, public health officials have anticipated a diseas
 
 While every pathogen follows its own course, there is evidence that social determinants are critical. These are the factors that dictate, for example, who must work in a market versus work at home, who might fall into debt seeking healthcare versus those who have health insurance, and those who are financially secure versus those who will have to make hard choices, such as taking their children out of school or work. It is these factors that determine who suffers most from these diseases. The differences in risk, access to prevention and treatment, and economic resilience between rich and poor, which that we see with COVID-19 play out in similar ways with most so-called “lifestyle” noncommunicable diseases as well as those infectious diseases.
 
+![DSC_4910.JPG](/uploads/DSC_4910.JPG)`TDDA works across Sub-Saharan Africa.`
+
 Aside from the ethical considerations, there are public health and economic arguments for putting equity at the center of health security. The example of effective disease control makes a compelling case for equity to be given greater importance in International Health Security policymaking. Unless there is fair and equitable coverage of prevention and treatment to combat diseases such as COVID, cholera, and tuberculosis, those diseases will continue to spread—possibly generating dangerous variants—and will ultimately endanger rich and poor alike.
 
 We have some way to go on this front. “Leaving No One Behind” is a central tenet of health equity and the United Nations’ Sustainable Development Goals. Yet, the technical documents related to International Health Security do not explicitly mention equity. As a result, many decision-makers do not see it as a major factor when shaping policy and programming. When politicians neglect considerations of equity, scarce resources are inefficiently allocated, preparedness and response fall short, and social inequities are perpetuated. More lives are lost. 
 
 TDDA, funded by UK Aid and led by DAI Global Health, delivers practical changes that strengthen health systems, crisis preparedness, and early response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda. We target our activities carefully and monitor how effectively our project reaches vulnerable and marginalized groups and disadvantaged geographical areas. For example, our partnership with Centre Pasteur in Cameroon supports the rollout of mass COVID-19 testing in rural areas. Testing is free—which is rare in countries in this region of Africa—and by making tests available outside the capital city and removing financial barriers, we have helped to improve case detection. 
+
+![DSC_4967.JPG](/uploads/DSC_4967.JPG)`TDDA implements changes that ultimately strengthen health systems.`
 
 TDDA is conducting desk research into equity and health security, examining the evidence of the unequal distribution of risk, access, and severity of consequences of diseases with epidemic potential. We will publish our findings in June.
 
