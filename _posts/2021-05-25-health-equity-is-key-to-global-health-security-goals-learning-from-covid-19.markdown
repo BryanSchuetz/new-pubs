@@ -1,7 +1,6 @@
 ---
 title: 'Health Equity is Key to Global Health Security Goals: Learning from COVID-19'
 date: 2021-05-25 16:13:00 -04:00
-published: false
 tags:
 - global-health
 - Think Piece
