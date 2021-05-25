@@ -13,7 +13,7 @@ social-image: "/uploads/sm%20DSC_4967.jpg"
 publication: Developments
 ---
 
-We’ve all heard the adage that “disease does not discriminate.” The reality is very different. The current pandemic has, in fact, shone a light on stark health inequalities around the world. The consequences of COVID-19 are experienced differently by people depending on their circumstances, whether they are in North America, Europe, Asia, or in sub-Saharan Africa, where our [Tackling Deadly Diseases in Africa (TDDA)] (https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme operates. 
+We’ve all heard the adage that “disease does not discriminate.” The reality is very different. The current pandemic has, in fact, shone a light on stark health inequalities around the world. The consequences of COVID-19 are experienced differently by people depending on their circumstances, whether they are in North America, Europe, Asia, or in sub-Saharan Africa, where our [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme operates. 
 
 
 
