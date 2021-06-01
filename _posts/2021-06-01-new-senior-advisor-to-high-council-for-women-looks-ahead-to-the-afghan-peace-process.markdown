@@ -3,6 +3,10 @@ title: New Senior Advisor to High Council for Women Looks Ahead to the Afghan Pe
   Process
 date: 2021-06-01 16:12:00 -04:00
 published: false
+tags:
+- women
+- governance
+- fragile-states
 author: "[Clare McConnachie](https://www.linkedin.com/in/clare-mcconnachie-90295842/)"
 thumbnail-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
 social-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
