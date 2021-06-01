@@ -17,6 +17,11 @@ With the departure of U.S. forces from Afghanistan scheduled for this fall, all 
 
 In recent years, Seerat has worked closely with Musharikat, a U.S. Agency for International Development-funded project that has built a cadre of more than 7,000 activists and 370 civil society organizations across all 34 provinces of Afghanistan to advance women’s equality and empowerment. [Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) works through its coalitions for Women in the Peace Process, Women in the Political Process, and Gender-Based Violence. 
 
+
+
+
+
+
 In the coming months, Musharikat’s peace activists will be especially busy with the impending peace conference in Turkey, where the participation of leading Musharikat women’s rights activists, such as Seerat, is critical for the preservation and expansion of women’s rights in a post-peace process Afghanistan.
 
 ![Sara-Seerat---Peace-Postcard.jpg](/uploads/Sara-Seerat---Peace-Postcard.jpg)
