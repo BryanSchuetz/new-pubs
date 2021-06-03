@@ -1,13 +1,13 @@
 ---
 title: New Senior Advisor to High Council for Women Looks Ahead to the Afghan Peace
   Process
-date: 2021-06-01 16:12:00 -04:00
-published: false
+date: 2021-06-03 04:12:00 -04:00
 tags:
 - women
 - governance
 - fragile-states
-author: "[Clare McConnachie](https://www.linkedin.com/in/clare-mcconnachie-90295842/)"
+- gender
+author: "[Tiffany Tsang ](https://www.linkedin.com/in/tiffany-tsang-05b33241/)"
 thumbnail-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
 social-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
 publication: Developments
@@ -16,6 +16,7 @@ publication: Developments
 With the departure of U.S. forces from Afghanistan scheduled for this fall, all eyes are turning to the peace process, and in particular the place of women’s rights in those negotiations. With those rights in mind, we spoke to Sara Seerat, a leading women’s rights activist recently appointed by presidential decree as Senior Advisor to the High Council of Women in Afghanistan’s Ministry of Women’s Affairs.
 
 In recent years, Seerat has worked closely with Musharikat, a U.S. Agency for International Development-funded project that has built a cadre of more than 7,000 activists and 370 civil society organizations across all 34 provinces of Afghanistan to advance women’s equality and empowerment. [Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) works through its coalitions for Women in the Peace Process, Women in the Political Process, and Gender-Based Violence. 
+
 
 
 
@@ -37,6 +38,6 @@ Seerat’s objectives as Senior Advisor to the High Council are uncompromising. 
 
 In December 2020, Seerat was awarded the Franco-German Human Rights Prize by the French and German governments. True to her principles, she is determined that human rights will remain at the center of the peace process. 
 
-“My red line concerns the second chapter of the Afghan constitution, which details and embraces women’s rights, their involvement in society and rights to education and healthcare,” she said. “I want to see maternal mortality and morbidity decreased. So many mothers are losing their lives due to the insecurity across the country as they are not able to visit clinics for the medical care they need. My other red line for peace is that I want an international guarantee and pressure from the global community to protect the very rights of women.”
+“My red line concerns the second chapter of the Afghan constitution, which details and embraces women’s rights, their involvement in society, and rights to education and healthcare,” she said. “I want to see maternal mortality and morbidity decreased. So many mothers are losing their lives due to the insecurity across the country as they are not able to visit clinics for the medical care they need. My other red line for peace is that I want an international guarantee and pressure from the global community to protect the very rights of women.”
 
-*[Clare McConnachie](https://www.linkedin.com/in/clare-mcconnachie-90295842/) leads the Musharikat program.*
+*[Tiffany Tsang ](https://www.linkedin.com/in/tiffany-tsang-05b33241/) is a Communications & Outreach Specialist for the Musharikat program.*
