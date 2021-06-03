@@ -2,11 +2,11 @@
 title: New Senior Advisor to High Council for Women Looks Ahead to the Afghan Peace
   Process
 date: 2021-06-03 04:12:00 -04:00
-published: false
 tags:
 - women
 - governance
 - fragile-states
+- gender
 author: "[Tiffany Tsang ](https://www.linkedin.com/in/tiffany-tsang-05b33241/)"
 thumbnail-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
 social-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
