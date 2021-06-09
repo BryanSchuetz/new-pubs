@@ -2,6 +2,11 @@
 title: World Bank Project Determined to Rebuild Gaza Solar Facility in Wake of Conflict
 date: 2021-06-09 15:24:00 -04:00
 published: false
+tags:
+- solar
+- investment
+- environment-and-energy
+- resilience
 author: "[Mazen Asad](https://www.linkedin.com/in/mazen-asad-05459210/)"
 publication: Developments
 ---
