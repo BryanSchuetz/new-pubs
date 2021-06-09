@@ -34,4 +34,4 @@ F4J is resolved to help the Gaza Industrial Estate developer and tenants recover
 
 “While nothing can fully replace the losses these companies have incurred,” said Laila Isbaih, Director General of International Relations and Projects at the Ministry of Finance, “the F4J team and our partners will continue to look for solutions to get Gaza back to business and to recover as quickly as possible.”
 
-[Mazen Asad](https://www.linkedin.com/in/mazen-asad-05459210/) is a Project Manager on F4J.
+*[Mazen Asad](https://www.linkedin.com/in/mazen-asad-05459210/) is a Project Manager on F4J.*
