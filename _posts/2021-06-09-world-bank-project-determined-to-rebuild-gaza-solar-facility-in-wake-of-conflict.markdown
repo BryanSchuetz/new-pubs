@@ -18,7 +18,7 @@ In the course of the latest conflict between Israel and Hamas, one of the Gaza S
 
 
 
-The Palestinian Real Estate Investment Co. (PRICO) [Solar Gaza Project](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) was the largest solar array in the West Bank and Gaza and the only privately financed infrastructure project in Gaza in the past decade. It was financed through a grant from F4J, a loan from the International Finance Corporation, and political risk insurance from the Multilateral Investment Guarantee Agency (MIGA). 
+The Palestinian Real Estate Investment Co. (PRICO) [Solar Gaza Project](https://www.worldbank.org/en/about/partners/brief/west-bank-and-gaza-securing-energy-for-growth-and-development) was the largest solar array in the West Bank and Gaza and the only privately financed infrastructure project in Gaza in the past decade. It was financed through a grant from F4J, a loan from the International Finance Corporation, and political risk insurance from the Multilateral Investment Guarantee Agency (MIGA). 
 
 The project [was honored](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) in 2019 for adopting a collaborative approach and overcoming risks presented by Gaza’s legal and operating environment. And by the spring of 2021, Solar Power Project was ready to announce commercial operations supplying the surrounding Gaza Industrial Estate. But then, between May and May 21, the conflict intervened.
 
