@@ -1,5 +1,5 @@
 ---
-title: World Bank Project Determined to Rebuild Gaza Solar Facility in Wake of Conflict
+title: World Bank Project Aims to Rebuild Gaza Solar Facility in Wake of Conflict
 date: 2021-06-09 15:24:00 -04:00
 published: false
 tags:
@@ -11,7 +11,7 @@ author: "[Mazen Asad](https://www.linkedin.com/in/mazen-asad-05459210/)"
 publication: Developments
 ---
 
-In the course of the latest conflict between Israel and Hamas, one of the Gaza Strip’s brightest beacons of promise was almost extinguished. The $11.2 million Solar Gaza Project]—financed through the World Bank’s [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program—lost approximately 5,000 of its 21,000 solar panels to Israeli bombing and suffered damage estimated at up to $4 million. But the F4J team remains committed to supporting economic resilience in Palestine.
+In the course of the latest conflict between Israel and Hamas, one of the Gaza Strip’s brightest beacons of promise was almost extinguished. The $11.2 million Solar Gaza Project]—financed through the World Bank’s [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program—lost approximately 5,000 of its 21,000 solar panels to Israeli bombing and suffered damage estimated at up to $5 million. But the F4J team remains committed to supporting economic resilience in Palestine.
 
 
 
