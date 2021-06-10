@@ -1,7 +1,6 @@
 ---
 title: World Bank Project Aims to Rebuild Gaza Solar Facility in Wake of Conflict
-date: 2021-06-09 15:24:00 -04:00
-published: false
+date: 2021-06-10 03:24:00 -04:00
 tags:
 - solar
 - investment
