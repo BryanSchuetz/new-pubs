@@ -12,7 +12,7 @@ social-image: "/uploads/After%20airstrikes%20in%20Gaza.jpg"
 publication: Developments
 ---
 
-In the course of the latest conflict between Israel and Hamas, one of the Gaza Strip’s brightest beacons of promise was almost extinguished. The $11.2 million Solar Gaza Project]—financed through the World Bank’s [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program—lost approximately 5,000 of its 21,000 solar panels to Israeli bombing and suffered damage estimated at up to $5 million. But the F4J team remains committed to supporting economic resilience in Palestine.
+In the course of the latest conflict between Israel and Hamas, one of the Gaza Strip’s brightest beacons of promise was almost extinguished. The $11.2 million Solar Gaza Project—financed through the World Bank’s [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program—lost approximately 5,000 of its 21,000 solar panels to Israeli bombing and suffered damage estimated at up to $5 million. But the F4J team remains committed to supporting economic resilience in Palestine.
 
 
 
