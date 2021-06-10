@@ -32,6 +32,6 @@ But all is not lost. The Solar Gaza Project’s MIGA insurance will cover losses
 
 F4J is resolved to help the Gaza Industrial Estate developer and tenants recover quickly. In partnership with the World Bank and Palestinian Ministry of Finance, F4J has turned its attention to channeling resources into the Gaza Recovery and Reconstruction Program. This program is still being fleshed out, but it currently envisages budgeting up to $5 million to support the recovery and reconstruction of damaged businesses; replace damaged raw materials, machines, and equipment; and cover temporary rent for businesses and salaries for their employees. 
 
-“While nothing can fully replace the losses these companies have incurred,” said Laila Isbaih, Director General of International Relations and Projects at the Ministry of Finance, “the F4J team and our partners will continue to look for solutions to get Gaza back to business and to recover as quickly as possible.”
+“While nothing can fully replace the losses these companies have incurred, the Ministry of Finance through the F4J team and our partners will continue to look for solutions to get Gaza back to business and to recover as quickly as possible,” said Laila Isbaih, Director General of International Relations and Projects at the Ministry of Finance.
 
 *[Mazen Asad](https://www.linkedin.com/in/mazen-asad-05459210/) is a Project Manager on F4J.*
