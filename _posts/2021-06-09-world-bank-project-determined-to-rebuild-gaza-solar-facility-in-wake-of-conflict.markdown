@@ -8,6 +8,8 @@ tags:
 - environment-and-energy
 - resilience
 author: "[Mazen Asad](https://www.linkedin.com/in/mazen-asad-05459210/)"
+thumbnail-image: "/uploads/After%20airstrikes%20in%20Gaza.jpg"
+social-image: "/uploads/After%20airstrikes%20in%20Gaza.jpg"
 publication: Developments
 ---
 
