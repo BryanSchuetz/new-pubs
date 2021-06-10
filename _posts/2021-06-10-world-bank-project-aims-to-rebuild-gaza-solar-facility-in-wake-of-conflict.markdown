@@ -12,7 +12,7 @@ social-image: "/uploads/After%20airstrikes%20in%20Gaza.jpg"
 publication: Developments
 ---
 
-In the course of the latest conflict between Israel and Hamas, one of the Gaza Strip’s brightest beacons of promise was almost extinguished. The $11.2 million Solar Gaza Project—funded by the World Bank and financed through the Palestinian Ministry of Finance’s [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program—lost approximately 5,000 of its 21,000 solar panels to Israeli bombing and suffered damage estimated at up to $5 million. But the F4J team remains committed to supporting economic resilience in Palestine.
+In the course of the latest conflict between Israel and Palestinian factions in Gaza, one of the Gaza Strip’s brightest beacons of promise was almost extinguished. The $11.2 million Solar Gaza Project—funded by the World Bank and financed through the Palestinian Ministry of Finance’s [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program—lost approximately 5,000 of its 21,000 solar panels to Israeli bombing and suffered damage estimated at up to $5 million. But the F4J team remains committed to supporting economic resilience in Palestine.
 
 
 
@@ -32,7 +32,7 @@ In addition to knocking out solar panels, the bombardment damaged inverters, cab
 ![before and after-4f42e4.jpg](/uploads/before%20and%20after-4f42e4.jpg)
 But all is not lost. The Solar Gaza Project’s MIGA insurance will cover losses resulting from war and civil disturbance, which means it will be reimbursed for the lost solar panels—although not the cost of rebuilding the hangers on which the panels are installed, nor the cost of rehabilitating the client businesses. 
 
-F4J is resolved to help the Gaza Industrial Estate developer and tenants recover quickly. In partnership with the World Bank and Palestinian Ministry of Finance, F4J has turned its attention to channeling resources into the Gaza Recovery and Reconstruction Program. This program is still being fleshed out, but it currently envisages budgeting up to $5 million to support the recovery and reconstruction of damaged businesses; replace damaged raw materials, machines, and equipment; and cover temporary rent for businesses and salaries for their employees. 
+F4J is resolved to help the Gaza Industrial Estate developer and tenants recover quickly. In partnership with the World Bank and Palestinian Ministry of Finance, F4J has turned its attention to channeling resources into the Gaza Recovery and Reconstruction Program. This program is still being fleshed out, but it envisages using F4J resources to support the recovery and reconstruction of damaged businesses; replace damaged raw materials, machines, and equipment; and cover temporary rent for businesses and salaries for their employees. 
 
 “While nothing can fully replace the losses these companies have incurred, the Ministry of Finance through the F4J team and our partners will continue to look for solutions to get Gaza back to business and to recover as quickly as possible,” said Laila Isbaih, Director General of International Relations and Projects at the Ministry of Finance.
 
