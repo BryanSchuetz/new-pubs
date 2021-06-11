@@ -40,7 +40,7 @@ To help demonstrate the viability of TIR and unravel the regulatory, infrastruct
 
 PREIA also worked with another USAID project—the [Central Asia Competitiveness, Trade, and Jobs activity (CTJ)](https://www.dai.com/our-work/projects/central-asia-competitiveness-trade-and-jobs-activity-ctj), also led by DAI, to organize business-to-business and business-to-government meetings between TCS Logistics and the stakeholders in the respective destination countries of the pilot shipments to explore opportunities to leverage transit and trade routes between Pakistan and the Central Asian republics.
 
-The first pilot consignment was initiated this year, when a cargo of herbal medicines departed Karachi on April 28 and arrived in Tashkent, Uzbekistan on May 4 via the Karachi-Kabul-Termez route. Of these eight days, it took only two days to cross Afghanistan and reach Uzbekistan.
+The first pilot consignment [was initiated](https://uz.usembassy.gov/usaid-facilitates-trade-between-pakistan-and-central-asia/) this year, when a cargo of herbal medicines departed Karachi on April 28 and arrived in Tashkent, Uzbekistan on May 4 via the Karachi-Kabul-Termez route. Of these eight days, it took only two days to cross Afghanistan and reach Uzbekistan.
 
 “We would like to express our profound thanks for PREIA's support for conducting the TIR pilot from Pakistan to Uzbekistan carried out by TCS under the TIR framework,” said Tariq M. Rangoonwala, Chair, PNC-ICC. “We are now in the process of finalizing admissions for seven more TIR applicants for whom it will become easier to initiate their own operations as a consequence of your support for conducting the five TIR pilots the first of which has now been realized.”
 
