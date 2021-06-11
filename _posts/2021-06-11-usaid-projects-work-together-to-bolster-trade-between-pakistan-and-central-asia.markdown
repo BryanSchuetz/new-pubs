@@ -28,13 +28,13 @@ This convention facilitates the international carriage of goods among contractin
 
 Pakistan acceded to the TIR Convention in July 2015 and was declared as a TIR operational country by the IRU in April 2018. 
 
-### Cutting the Red Tape
+## Cutting the Red Tape
 
 Studies indicate that just one extra day in transit reduces trade by more than 1 percent, so reducing handling delays is likely to substantially increase trade and transit volume between Pakistan and its regional neighbors, including the Central Asian republics. Currently, goods transiting through Pakistan and destined for Central Asia are treated as coming from the intervening country, Afghanistan, and as Afghan imports by Pakistan Customs, which therefore makes them subject to the provisions of the [Afghanistan-Pakistan Transit Trade Agreement](https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_Transit_Trade_Agreement). Such goods are effectively “re-exported” from Afghanistan and may often require multiple changes of transport units due to the absence/non-enforcement of bilateral and multilateral road transport agreements. These extra steps increase the time and cost of crossborder trade because transshipment may necessitate intrusive customs inspections and guarantee mechanisms for each country en route, increase the administrative and regulatory burden on customs and other regulators, and distort national trade data. 
 
 TIR offers a viable alternative by simplifying, harmonizing, and streamlining customs transit and guarantee procedures at borders. Successful implementation of the TIR system will introduce efficient customs procedures for managing traffic by means of an international single guarantee. However, since the TIR system is still in its early development stage in Pakistan, many stakeholders in both public and private sectors lack experience, knowledge, and understanding of TIR procedures and compliance. To date, there is only one transport company registered in Pakistan as a TIR operator, and no commercial transit consignment has yet moved from Pakistan under TIR carnet.
 
-### How USAID is Helping
+## How USAID is Helping
 
 The U.S. Agency for International Development (USAID)-funded [Pakistan Regional Economic Integration Activity (PREIA)](https://www.dai.com/our-work/projects/pakistan-regional-economic-integration-activity-preia) has supported the operationalization of TIR in Pakistan since 2015. Our team has assisted Pakistan Customs in developing the regulatory and operational framework for TIR; built the institutional capacity of the TIR Carnet issuing authority—the Pakistan National Commission of International Chambers of Commerce (PNC-ICC)—to manage TIR carnets and administer the registration process; and supported public-private sector consultations to monitor progress.
 
