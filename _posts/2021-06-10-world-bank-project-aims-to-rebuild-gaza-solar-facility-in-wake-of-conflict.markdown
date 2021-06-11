@@ -30,7 +30,7 @@ Solar-generated electricity produced by PRICO was enough to power the 50 factori
 In addition to knocking out solar panels, the bombardment damaged inverters, cables, electrical panels, mounting systems, and meters installed on 19 industrial hangars, according to an initial assessment, plus roughly $500,000 worth of spare parts for the solar project. The medium voltage connection lines may also be damaged.
  
 ![before and after-4f42e4.jpg](/uploads/before%20and%20after-4f42e4.jpg)
-But all is not lost. The Solar Gaza Project’s MIGA insurance is expected to cover losses resulting from war and civil disturbance, which means it will be reimbursed for the lost solar panels—although not the cost of rebuilding the hangers on which the panels are installed, nor the cost of rehabilitating the client businesses. 
+But all is not lost. The Solar Gaza Project’s MIGA insurance is expected to cover losses resulting from war and civil disturbance, which means it will be reimbursed for the lost solar panels—although not the cost of rebuilding the hangars on which the panels are installed, nor the cost of rehabilitating the client businesses. 
 
 F4J is resolved to help the Gaza Industrial Estate developer and tenants recover quickly. In partnership with the World Bank and Palestinian Ministry of Finance, F4J has turned its attention to channeling resources into the Gaza Recovery and Reconstruction Program. This program is still being fleshed out, but it envisages using F4J resources to support the recovery and reconstruction of damaged businesses; replace damaged raw materials, machines, and equipment; and cover temporary rent for businesses and salaries for their employees. 
 
