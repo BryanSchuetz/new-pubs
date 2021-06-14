@@ -28,6 +28,8 @@ This convention facilitates the international carriage of goods among contractin
 
 Pakistan acceded to the TIR Convention in July 2015 and was declared as a TIR operational country by the IRU in April 2018. 
 
+![nego.jpg](/uploads/nego.jpg)`Photo credit: USAID CTJ.`
+
 ## Cutting the Red Tape
 
 Studies indicate that just one extra day in transit reduces trade by more than 1 percent, so reducing handling delays is likely to substantially increase trade and transit volume between Pakistan and its regional neighbors, including the Central Asian republics. Currently, goods transiting through Pakistan and destined for Central Asia are treated as coming from the intervening country, Afghanistan, and as Afghan imports by Pakistan Customs, which therefore makes them subject to the provisions of the [Afghanistan-Pakistan Transit Trade Agreement](https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_Transit_Trade_Agreement). Such goods are effectively “re-exported” from Afghanistan and may often require multiple changes of transport units due to the absence/non-enforcement of bilateral and multilateral road transport agreements. These extra steps increase the time and cost of crossborder trade because transshipment may necessitate intrusive customs inspections and guarantee mechanisms for each country en route, increase the administrative and regulatory burden on customs and other regulators, and distort national trade data. 
@@ -41,6 +43,8 @@ The U.S. Agency for International Development (USAID)-funded [Pakistan Regional 
 To help demonstrate the viability of TIR and unravel the regulatory, infrastructure-related, and institutional impediments along the transit routes, PREIA designed a set of [pilot TIR operations](https://uz.usembassy.gov/usaid-facilitates-trade-between-pakistan-and-central-asia/) to be conducted by TCS Logistics, the only transport company currently eligible to transport goods from Pakistan under TIR Carnet. 
 
 PREIA also worked with another USAID project—the [Central Asia Competitiveness, Trade, and Jobs activity (CTJ)](https://www.dai.com/our-work/projects/central-asia-competitiveness-trade-and-jobs-activity-ctj), also led by DAI, to organize business-to-business and business-to-government meetings between TCS Logistics and the stakeholders in the respective destination countries of the pilot shipments to explore opportunities to leverage transit and trade routes between Pakistan and the Central Asian republics.
+
+![truck 1.jpg](/uploads/truck%201.jpg)`Photo credit: USAID CTJ.`
 
 The first pilot consignment [was initiated](https://uz.usembassy.gov/usaid-facilitates-trade-between-pakistan-and-central-asia/) this year, when a cargo of herbal medicines departed Karachi on April 28 and arrived in Tashkent, Uzbekistan on May 4 via the Karachi-Kabul-Termez route. Of these eight days, it took only two days to cross Afghanistan and reach Uzbekistan.
 
