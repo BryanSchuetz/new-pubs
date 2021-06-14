@@ -13,7 +13,7 @@ social-image: "/uploads/PREIA3.jpg"
 publication: Developments
 ---
 
-Despite their proximity, South and Central Asia  are among the least economically integrated regions. Intraregional trade is estimated to be between 0.2 and 4 percent of their total trade to all destinations—significantly below regional trade in Africa, the Middle East, Latin America, and Southeast Asia. Most of the countries in the two regions have traditionally focused on economic relationships with North America and Europe. [Studies show](https://mpra.ub.uni-muenchen.de/66436/) that if these regions—which are rich in natural resources—boosted intraregional trade, the total value could potentially double, benefitting both regional economies. 
+Despite their proximity, South and Central Asia are among the least economically integrated regions. Intraregional trade is estimated to be between 0.2 and 4 percent of their total trade to all destinations—significantly below regional trade in Africa, the Middle East, Latin America, and Southeast Asia. Most of the countries in the two regions have traditionally focused on economic relationships with North America and Europe. [Studies show](https://mpra.ub.uni-muenchen.de/66436/) that if these regions—which are rich in natural resources—boosted intraregional trade, the total value could potentially double, benefitting both regional economies. 
 
 
 
