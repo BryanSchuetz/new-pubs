@@ -18,7 +18,7 @@ In response, the U.S. Agency for International Development (USAID) *[Asegurando 
 
 
 
-![Enrollment campaign 3.jpg](/uploads/Enrollment%20campaign%203.jpg)
+![Enrollment campaign 3.jpg](/uploads/Enrollment%20campaign%203.jpg)`The project team conducted an extensive campaign to encourage students to re-enroll in school. Photo credit: *Asegurando*.`
 
 After the ministry opened registration in early February 2021, enrollment gradually climbed over the next several weeks in March, and *Asegurando* provided weekly updates to the Ministry through a newly developed EWRS dashboard. The dashboard offers decisionmakers a user-friendly visualization of enrollment and retention figures across the country so that officials can respond to challenges in any given region.
 
@@ -26,7 +26,7 @@ But on March 19, some five weeks after school registration re-opened, the enroll
 
 ![Home visits 2.JPG](/uploads/Home%20visits%202.JPG)
 
-### How it Works
+## How it Works
 
 The EWRS equips education stakeholders with the tools, protocols, and training to identify early warning signs of school abandonment and out-migration, and then mobilize resources and take action to keep students in school, studying, and advancing toward graduation. Trained teachers, counselors, and volunteers follow a series of protocols to recognize student behaviors and patterns and then respond by securing academic tutoring, individual or family counseling, or other interventions that facilitate continued education. The system also seizes certain opportunities within the education cycle when students are most vulnerable—enrollment, mid-term and final exams, and formation of migration caravans—to conduct back-to-school or stay-in-school campaigns. 
 
@@ -44,7 +44,7 @@ The team worked with 8,127 parents in the first two of what will be monthly webi
 
 ![School for Parents La Ceiba-491aae.jpg](/uploads/School%20for%20Parents%20La%20Ceiba-491aae.jpg)
  
-### Getting Kids Back in School
+## Getting Kids Back in School
 
 The EWRS field testing, which largely takes place in *Asegurando*’s 50 core schools in four cities, relies on hard work by hundreds of dedicated educators and volunteers. *Asegurando* has conducted distance learning workshops to help teachers better reach and engage students. It has helped organize back-to-school campaigns with flyers and signs at key traffic spots in neighborhoods surrounding schools, and street-by-street awareness-raising activities with messages broadcast via loudspeaker. 
 
@@ -56,7 +56,7 @@ Vocal campaigns also generated TV coverage that helped spread the word on the va
 
 ![School kits Tegucigalpa.jpeg](/uploads/School%20kits%20Tegucigalpa.jpeg)
 
-### Staying in School
+## Staying in School
 
 EWRS’s early results demonstrate how well this fledgling system is working. *Asegurando*’s core schools enjoy an enrollment rate of 102 percent (of the statistically predicted enrollment number) while non-*Asegurando* schools in the same cities have a 90.7 percent rate. But initial enrollment was the easy part. The bigger challenge now is to keep those students in class, learning, and advancing toward completion of the academic year and promotion to the next grade in November. 
 
