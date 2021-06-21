@@ -2,6 +2,8 @@
 title: Early Warning and Response System Increases School Enrollment and Retention
 date: 2021-06-21 15:56:00 -04:00
 published: false
+tags:
+- education
 author: Carlos Maradiaga and [Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/),
   PhD
 thumbnail-image: "/uploads/sm%20School%20kits%20Tegucigalpa.jpg"
