@@ -64,4 +64,4 @@ EWRS’s early results demonstrate how well this fledgling system is working. *A
 
 The final critical period is when migration caravans form. One principal in La Ceiba complained that a caravan announced its formation through WhatsApp and then assembled directly outside the school grounds. He felt helpless to prevent his students from joining. *Asegurando* hopes the EWRS will help schools conduct stay-in-school campaigns throughout these critical periods to focus on helping vulnerable youth perform better in class through tutoring and to promote the value of education and graduation as keys to securing a healthy and rewarding career inside Honduras. 
 
-*Carlos Maradiaga is a Technical Advisor for Asegurando la Educación and [Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/) is Chief of Party.* 
+*Carlos Maradiaga is a Technical Advisor for* Asegurando la Educación *and [Craig Davis](https://www.linkedin.com/in/craig-davis-2084b761/) is Chief of Party.* 
