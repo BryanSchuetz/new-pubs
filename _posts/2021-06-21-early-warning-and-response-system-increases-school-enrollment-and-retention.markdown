@@ -18,13 +18,13 @@ In response, the U.S. Agency for International Development (USAID) *[Asegurando 
 
 
 
-![Enrollment campaign 3.jpg](/uploads/Enrollment%20campaign%203.jpg)`The project team conducted an extensive campaign to encourage students to re-enroll in school. Photo credit: *Asegurando*.`
+![Enrollment campaign 3.jpg](/uploads/Enrollment%20campaign%203.jpg)`The project team conducted an extensive campaign to encourage students to re-enroll in school.`
 
 After the ministry opened registration in early February 2021, enrollment gradually climbed over the next several weeks in March, and *Asegurando* provided weekly updates to the Ministry through a newly developed EWRS dashboard. The dashboard offers decisionmakers a user-friendly visualization of enrollment and retention figures across the country so that officials can respond to challenges in any given region.
 
 But on March 19, some five weeks after school registration re-opened, the enrollment rate had only reached 83 percent of the statistically generated forecast. Minister of Education Arnaldo Bueso called for an emergency Government of Honduras cabinet meeting to address the [historically low rate](https://contracorriente.red/en/2021/02/12/pandemic-sees-thousands-of-honduran-children-missing-out-on-school/), calling it an “education crisis.” He suggested that many Honduran students were migrating to the United States instead of enrolling in school. He called on the cabinet members to support enrollment efforts and asked *Asegurando* to present the EWRS.
 
-![Home visits 2.JPG](/uploads/Home%20visits%202.JPG)
+![Home visits 2.JPG](/uploads/Home%20visits%202.JPG)`Part of the campaign included visits to households to determine whether students were able to return.`
 
 ## How it Works
 
@@ -34,7 +34,7 @@ Because of the education crisis and high rate of irregular out-migration, *Asegu
 
 Nationally, the EWRS had its desired effect. The data shared through the dashboard stimulated action at the highest levels of government. The National Institute of Migration; the National Center for Social Sector Information; the National Directorate for Children, Adolescents, and Families; the Honduras Chancellery; and the Ministry of General Government Coordination all streamlined identification processes and the information flow of returning migrant children so that the Ministry of Education can locate and re-enroll them. 
 
-![Media Interview Enrollment Campaign.jpeg](/uploads/Media%20Interview%20Enrollment%20Campaign.jpeg)
+![Media Interview Enrollment Campaign.jpeg](/uploads/Media%20Interview%20Enrollment%20Campaign.jpeg)`The project team was able to garner more attention to the problem by conducting media interviews.`
 
 The Education Ministry has also consolidated efforts of international nongovernmental organizations to identify and enroll young people who dropped out of school. With *Asegurando* support, 8,844 principals in 8,578 schools and 6,196 teachers in 1,692 schools have been trained on how to use the EWRS. 
 
@@ -42,7 +42,7 @@ Additionally, 2,194 teachers and counselors from 947 high schools are now traine
 
 The team worked with 8,127 parents in the first two of what will be monthly webinars called School for Parents, which focuses on making a healthier home environment that helps students study. An *Asegurando* awareness campaign featured a contest that motivated students to internalize psychosocial messages through 25 social-emotional learning videos and then make their own two-minute video synthesizing one of those messages. Together, the School for Parents initiative and the video contest reached 1.1 million people on social media and an estimated 600,000 on national TV in three months. 
 
-![School for Parents La Ceiba-491aae.jpg](/uploads/School%20for%20Parents%20La%20Ceiba-491aae.jpg)
+![School for Parents La Ceiba-491aae.jpg](/uploads/School%20for%20Parents%20La%20Ceiba-491aae.jpg)`Parents were included in the campaign through courses.`
  
 ## Getting Kids Back in School
 
@@ -54,7 +54,7 @@ Vocal campaigns also generated TV coverage that helped spread the word on the va
 
 *Asegurando* is also conducting other activities designed to boost retention in 185 schools hosting 100,000 students. The project is delivering school supplies for nearly 50,000 young people and will provide workbooks in June and July for 50,000 students who do not have access to internet or electronic devices. Some 125 volunteers are tutoring students who are struggling academically to ensure they pass their tests and stay in school. Also, volunteers are visiting the homes of, and enrolling, out-of-school young people who have yet to sign up this year. And they visit students who have stopped attending virtual classes or turning in assignments, aiming to convince these at-risk students to resume their studies. 
 
-![School kits Tegucigalpa.jpeg](/uploads/School%20kits%20Tegucigalpa.jpeg)
+![School kits Tegucigalpa.jpeg](/uploads/School%20kits%20Tegucigalpa.jpeg)`The project delivered much-needed equipment and materials to students and schools.`
 
 ## Staying in School
 
