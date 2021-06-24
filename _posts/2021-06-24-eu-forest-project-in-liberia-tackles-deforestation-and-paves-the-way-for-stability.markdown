@@ -63,4 +63,4 @@ The current phase of FLEGT-VPA runs until April 2022. And although there is stil
 
 Perhaps most importantly, in a country where illegal logging is historically linked to war and violence, we hope that the groundwork laid by FLEGT-VPA will contribute to a more prosperous and peaceful future. 
 
-*[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) is a Communications Specialist in DAI’s EU business unit.*
+*[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) is a Communications Specialist in DAI’s [EU business unit](https://www.dai.com/who-we-are/global-reach/european-union).*
