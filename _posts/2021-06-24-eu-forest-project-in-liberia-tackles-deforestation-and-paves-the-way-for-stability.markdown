@@ -6,6 +6,9 @@ tags:
 - environment-and-energy
 - forestry
 - economic-growth
+- land rights
+- land tenure
+- resilience
 author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) "
 thumbnail-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter.jpg"
 social-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter.jpg"
