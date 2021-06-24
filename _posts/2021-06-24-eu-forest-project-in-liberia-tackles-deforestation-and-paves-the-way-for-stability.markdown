@@ -10,16 +10,16 @@ author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) "
 publication: Developments
 ---
 
-Liberia is home to half of the remaining rainforest in West Africa. Covering more than 60 percent of the nation’s land surface, forests are the [fourth-largest contributor](https://blogs.worldbank.org/africacan/liberia-understanding-peoples-dependence-forests) to Liberia’s economy and an important source of income for [one-third](https://www.nicfi.no/partner-countries/liberia/) of its 4.5 million people. They also make Liberia one of the world’s hotspots for biological diversity, hosting more than 2,200 species of flora and nearly 900 fauna. However, the forests face pressing challenges due to illegal logging and other drivers of deforestation.
+Liberia is home to half of the remaining rainforest in West Africa. Covering more than 60 percent of the nation’s land surface, forests are the [fourth-largest contributor](https://blogs.worldbank.org/africacan/liberia-understanding-peoples-dependence-forests) to Liberia’s economy and an important source of income for [one-third](https://www.nicfi.no/partner-countries/liberia/) of its 4.5 million people. They also make Liberia one of the world’s hotspots for biological diversity, hosting [more than 2,200](https://blogs.worldbank.org/africacan/liberia-understanding-peoples-dependence-forests) species of flora and nearly 900 fauna. However, the forests face pressing challenges due to illegal logging and other drivers of deforestation.
 
 
 
 
 
 
-These are deep-seated problems. Timber played a significant role in funding the two civil wars that raged in the country between 1989 and 2003. Revenue from illegal exploitation of timber—alongside diamonds and rubber—fuelled the conflict and armed the combatant groups. In 2003, the United Nations Security Council imposed sanctions on Liberian timber export after the Government failed to prove that the revenues were “used for legitimate social, humanitarian, and development purposes.” The sanctions ultimately offered an opportunity for improved rule of law and were lifted three years later following ambitious reform efforts. 
+These are deep-seated problems. Timber played a significant role in funding the two civil wars that raged in the country between 1989 and 2003. Revenue from illegal exploitation of timber—alongside diamonds and rubber—fuelled the conflict and armed the combatant groups. In 2003, the United Nations Security Council imposed sanctions on Liberian timber export after the Government [failed to prove](https://news.un.org/en/story/2003/05/66992-extending-sanctions-against-liberia-security-council-adds-ban-timber-exports) that the revenues were “used for legitimate social, humanitarian, and development purposes.” The sanctions ultimately offered an opportunity for improved rule of law and were lifted three years later following ambitious reform efforts. 
 
-Nevertheless, forest governance in Liberia remains a challenge. Between 1990 and 2010, the country lost 12.2 percent of its forest cover, posing a threat not only to the communities depending on the forest for a living, but also to climate, wildlife, and biodiversity conservation. To tackle these challenges, the European Union (EU) and Liberia signed the Voluntary Partnership Agreement (VPA) in 2011. 
+Nevertheless, forest governance in Liberia remains a challenge. Between 1990 and 2010, the country [lost 12.2 percent ](https://blogs.worldbank.org/africacan/liberia-understanding-peoples-dependence-forests)of its forest cover, posing a threat not only to the communities depending on the forest for a living, but also to climate, wildlife, and biodiversity conservation. To tackle these challenges, the European Union (EU) and Liberia signed the Voluntary Partnership Agreement (VPA) in 2011. 
 
 ## The Liberia-EU Voluntary Partnership Agreement
 
