@@ -6,6 +6,9 @@ tags:
 - environment-and-energy
 - forestry
 - economic-growth
+- land rights
+- land tenure
+- resilience
 author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) "
 thumbnail-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter.jpg"
 social-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter.jpg"
@@ -63,4 +66,4 @@ The current phase of FLEGT-VPA runs until April 2022. And although there is stil
 
 Perhaps most importantly, in a country where illegal logging is historically linked to war and violence, we hope that the groundwork laid by FLEGT-VPA will contribute to a more prosperous and peaceful future. 
 
-*[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) is a Communications Specialist in DAI’s EU business unit.*
+*[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) is a Communications Specialist in DAI’s [EU business unit](https://www.dai.com/who-we-are/global-reach/european-union).*
