@@ -1,7 +1,6 @@
 ---
 title: EU Forest Project in Liberia Tackles Deforestation and Paves the Way for Stability
 date: 2021-06-24 08:32:00 -04:00
-published: false
 tags:
 - environment-and-energy
 - forestry
