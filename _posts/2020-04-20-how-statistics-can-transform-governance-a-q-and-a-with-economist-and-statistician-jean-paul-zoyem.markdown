@@ -4,6 +4,7 @@ title: 'How Statistics Can Transform Governance: A Q&A with Economist and Statis
 date: 2020-04-20 07:28:00 -04:00
 tags:
 - governance
+- european-union
 author: "[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/)"
 thumbnail-image: "/uploads/Gambia1.jpg"
 social-image: "/uploads/Gambia1-aa58ba.jpg"

@@ -20,10 +20,6 @@ In many emerging countries, the capital markets are nascent and borrowing by gov
 
 The funding gap is enormous. The [IFC estimates](https://www.smefinanceforum.org/data-sites/ifc-enterprise-finance-gap-0) that nearly 30 million small and medium-sized enterprises (SMEs) face an aggregate funding gap of more than $4 trillion. In its research on private credit solutions in emerging markets, [EMPEA identified](https://www.empea.org/app/uploads/2019/05/EMPEA-PrivateCreditReport_2019_WEB.pdf) only $57 billion in capital raised since 2006—less than 2 percent of that gap.
 
-
-
-
-
 At the same time, commercial investors from developed markets show an increasing appetite for private investment vehicles in frontier and emerging markets. In addition, impact-oriented investors, such as donors and development finance institutions (DFIs), seek to support SMEs because they promote inclusive and sustainable growth, provide employment, foster innovation, reduce income inequalities, and [generally contribute](https://www.oecd.org/industry/C-MIN-2017-8-EN.pdf) to achieving the Sustainable Development Goals (SDGs).
 
 Clearly, there is some kind of bottleneck between these willing investors and SMEs thirsty for capital. Private market fund managers focused on SMEs are often seen as the primary conduit for this capital. Yet few such managers have been able to meet investor expectations and make the model profitable. They diagnose the problem as a complex one involving fund manager economics, cashflow timing, fund mandates, investor expectations, and investment instruments. Given the existing fund management models, the question is: Can we “break the mold”?
@@ -33,9 +29,7 @@ We have recently released research that seeks to answer this question. Our resea
 * Analyze what alternative models have worked and why.
 * Determine the remaining challenges.
 
-<p>
-<h2 style="text-align: center;"><a href="/uploads/BreakingTheMold_LayoutDesign_R4-6ce27c.pdf">Download Full Report</a></h2>
-</p>
+<p><h2 style="text-align: center;"><a href="/uploads/BreakingTheMold_LayoutDesign_R4-6ce27c.pdf">Download Full Report</a></h2></p>
 
 ### Getting into Specifics
 

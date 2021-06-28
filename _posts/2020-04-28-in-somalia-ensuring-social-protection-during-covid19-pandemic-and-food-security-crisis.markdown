@@ -9,6 +9,7 @@ tags:
 - resilience
 - fragile-states
 - agriculture
+- european-union
 author: "[Azim Manji](https://www.linkedin.com/in/azim-manji-4577811a/)"
 thumbnail-image: "/uploads/sm%20MoH-%20COV19-f65fcb.jpg"
 social-image: "/uploads/sm%20MoH-%20COV19.jpg"

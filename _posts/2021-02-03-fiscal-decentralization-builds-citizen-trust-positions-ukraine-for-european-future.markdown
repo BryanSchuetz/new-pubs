@@ -7,6 +7,7 @@ tags:
 - public-financial-management
 - finance
 - technology
+- european-union
 author: "[Harutyun Urpatyan](https://www.linkedin.com/in/harry-urpatyan-55285b43/)
   and [Mathilde Gaston-Mathé](https://www.linkedin.com/in/mathilde-gaston-math%C3%A9-089a7022/)"
 thumbnail-image: "/uploads/sm%20LOGICA%203.jpg"
