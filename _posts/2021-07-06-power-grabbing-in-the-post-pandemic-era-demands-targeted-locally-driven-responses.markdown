@@ -71,4 +71,4 @@ Programming should address the factors that underpin support for Al Shabaab by:
 
 ## The Way Forward
 
-As the world prepares to build back better in a post-COVID era, the development community must support local actors in fending off illegitimate power grabs. The widespread resilience demonstrated by so many countries during the pandemic offers some encouragement on this front, and while there is no single template to counter power grabbers—the challenges are specific to time and place—acknowledging power-grabbing considerations in program design and implementation will help us seize the opportunities before us.
+As the world prepares to build back better in a post-COVID-19 era, the development community must support local actors in fending off illegitimate power grabs. The widespread resilience demonstrated by so many countries during the pandemic offers some encouragement on this front, and while there is no single template to counter power grabbers—the challenges are specific to time and place—acknowledging power-grabbing considerations in program design and implementation will help us seize the opportunities before us.
