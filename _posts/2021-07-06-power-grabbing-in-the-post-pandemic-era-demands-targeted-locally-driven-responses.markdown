@@ -2,9 +2,13 @@
 title: Power Grabbing in the Post-Pandemic Era Demands Targeted, Locally Driven Responses
 date: 2021-07-06 15:41:00 -04:00
 published: false
-categories:
+tags:
 - covid-19
+- fragile-states
 - stability
+- Think Piece
+- resilience
+- rule of law
 author: Hodan Hassan, Christy Martins, Lindsay North, Celestine Procter, and Abby
   Yarger
 thumbnail-image: "/uploads/sm%201%20SBT007-Photo_After_Sidi%20Bouzid_Center_graffiti%20%20(3).jpg"
