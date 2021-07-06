@@ -7,6 +7,8 @@ categories:
 - stability
 author: Hodan Hassan, Christy Martins, Lindsay North, Celestine Procter, and Abby
   Yarger
+thumbnail-image: "/uploads/sm%201%20SBT007-Photo_After_Sidi%20Bouzid_Center_graffiti%20%20(3).jpg"
+social-image: "/uploads/sm%201%20SBT007-Photo_After_Sidi%20Bouzid_Center_graffiti%20%20(3).jpg"
 publication: Developments
 ---
 
@@ -42,6 +44,8 @@ CRA-S has addressed this issue through public service campaigns and educational 
 ## Tunisia’s Power Vacuums 
 
 The example of Tunisia shows that merely avoiding a power grab is not in itself a solution to the challenges of political transition. Nearly 10 years on from the start of the Arab Spring in Tunisia, the absence of effective governance in the country has been exposed by a succession of challenges, including COVID. Following the upheaval of 2011, President Ben Ali, the repressive ruler of Tunisia since 1987, resigned and fled to Malta. While Tunisia’s democracy has made progress over the ensuing decade, its institutions remain weak. The government’s response to COVID-19 was indicative: it underestimated the threat, moved slowly to enact preventive measures, then compounded its missteps with stringent restrictions and poor case management. Once the ministries did get involved, their lack of coordination was exemplified in the absence of operational headquarters or a national emergency information system. The result: contradictory civil orders and domestic chaos. 
+
+![1 SBT007-Photo_After_Sidi Bouzid_Center_graffiti  (3).JPG](/uploads/1%20SBT007-Photo_After_Sidi%20Bouzid_Center_graffiti%20%20(3).JPG)`Photo courtesy USAID Tunisia Transition Initiative.`
 
 With more pressing regional priorities capturing their attention (Libya and Syria), Tunisia remains low on the international donor priority list, and dismantling 25 years of dominant institutional ideology has proven beyond any one donor. Traditional power grabbing was not a feature of the Tunisian revolution; instead, the population called for transparency and participation in determining a roadmap for the country. Yet those catapulted to power—either by design or happenstance—failed to make positively directed decisions for fear of upsetting the country’s delicate stability. Transitioning from authoritarian rule to systems of pluralism does not in itself fix state capacity and corruption. Fundamental reforms such as reducing budget excesses would increase unemployment and arouse popular resentment, so were avoided by the transitional governments. Today, absent those hard decisions, Tunisia continues to tread water, as reflected in ineffective disaster response, stalled reforms, fragmented political parties, and dissatisfaction with political representation and civil society organizations alike.
 
