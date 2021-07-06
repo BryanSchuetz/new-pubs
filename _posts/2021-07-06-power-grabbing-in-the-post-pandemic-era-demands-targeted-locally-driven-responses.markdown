@@ -37,7 +37,7 @@ In Pakistan, the coronavirus has stirred community tensions along sectarian and 
 
 Discrimination also affected relief efforts in other religious communities. Welfare organizations in Karachi have been accused of refusing to provide relief to Hindu and Christian communities. Other conservative elements declared ration drives as “anti-Muslim” because of a false association with the controversial Ahmadi sect of Islam. These incidents exemplify how extremist groups seize opportunities to deepen societal divides in [pursuit of their own agendas](https://thediplomat.com/2020/04/covid-19-fans-religious-discrimination-in-pakistan/). 
 
-![kpg2.jpg](/uploads/kpg2.jpg)`Photo courtesy CRA-S.`
+![kpg2.jpg](/uploads/kpg2.jpg)`Photo courtesy USAID CRA-S.`
 
 DAI’s Community Resilience Activity-South (CRA-S) works to mitigate narratives of sectarian hatred. A U.S. Agency for International Development (USAID) initiative, CRA-S partners with civil society organizations, young people, universities, and schools to promote acceptance of diversity, and support initiatives that counter violent extremism in Pakistan. The project partners with already-trained community leaders who are influential in shaping public opinion, political choices, and decision making in their communities. With CRA-S grant funding, these community leaders—including prominent clerics, journalists, media personalities, and politicians—voiced messages of tolerance through community gatherings and print, radio, and TV media to counter the violent extremist narratives gaining traction in Karachi, Multan, and Bahawalpur. 
 
