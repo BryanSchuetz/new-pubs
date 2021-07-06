@@ -55,6 +55,8 @@ Al Shabaab’s durable presence in Somalia illustrates the extremist group’s a
 
 As a result of SNA/AMISOM offensives and local community efforts to dislodge the group, the percentage of Somalis living under Al Shabaab [actually dropped](https://www.rand.org/pubs/research_reports/RR1539.html) from 55 percent to 5 percent between 2011 and 2016. In spite of the contraction in territorial control, the group remains a formidable force able to disrupt movement between towns, mount complex attacks, and extort payments. According to Somalia-based think tank [Hiraal Institute](https://hiraalinstitute.org/a-losing-game-countering-al-shababs-financial-system/), Al Shabaab collects up to $15 million in “tax” payments monthly from businesses in the nation’s capital. 
 
+![IMG_2310 - Copy.JPG](/uploads/IMG_2310%20-%20Copy.JPG)`Photo courtesy USAID  Somalia Transition Initiatives for Stabilization.`
+
 The combination of deeply entrenched structural grievances with complex clan and community dynamics remains fundamental to the group’s survival. The most significant structural factors that fuel support for Al Shabaab include a co-opted justice sector that privileges powerful clans and elites; lack of accountability by formal and informal security forces; weak capacity and pervasive corruption at every level of government; a sense of political and economic exclusion among minority clans; and unresolved inter- and intra-clan conflicts. 
 
 Programming should address the factors that underpin support for Al Shabaab by: 
