@@ -14,12 +14,13 @@ In times of crisis—a natural disaster, political upheaval, or a global pandemi
 
 Well-intentioned actors can also affect power dynamics in destabilized environments, for good or ill. Following the fall of Al Bashir in Sudan, new political alliances have sought to fill gaps and address unmet social needs. In post-earthquake Haiti, international organizations jockeyed counter-productively for funding injected into the local economy. 
 
-
-
-
-
-
 But equally, as the example of Tunisia shows, the answer is rarely a hands-off approach that tolerates governance failures and leaves power vacuums to deteriorate. 
+
+
+
+
+
+
 
 So what’s to be done? The question is pressing because COVID-19 has destabilized countries across the globe. The pandemic has served as a convenient excuse for opportunistic actors to silence dissent, reallocate funding, and perpetuate fear. In Asia, for example, Malaysia’s national government has restricted journalism and reporting on the pandemic and amended parliamentary seating for political advantage, while in the Philippines emergency legislation has expanded executive power. Elsewhere, nonstate actors and insurgent groups have exploited the pandemic for nefarious purposes, as evidenced in Mozambique where escalating violence fueled by misinformation has forced families from their homes.
 
