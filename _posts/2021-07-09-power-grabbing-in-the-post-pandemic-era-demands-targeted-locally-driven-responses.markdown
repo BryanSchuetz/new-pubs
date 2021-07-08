@@ -1,6 +1,6 @@
 ---
 title: Power Grabbing in the Post-Pandemic Era Demands Targeted, Locally Driven Responses
-date: 2021-07-06 15:41:00 -04:00
+date: 2021-07-09 08:41:00 -04:00
 published: false
 tags:
 - covid-19
