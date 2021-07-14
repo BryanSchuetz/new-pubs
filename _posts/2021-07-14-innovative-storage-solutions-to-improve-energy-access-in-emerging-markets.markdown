@@ -15,7 +15,7 @@ publication: Developments
 
 Battery technology has the potential to play a significant role in growing the sustainable energy supplies that can fuel economic growth. The Energy Sector Management Assistance Program (ESMAP) estimates that 25.9 GW of new wind and solar capacity will be installed in Sub-Saharan Africa by 2025, despite challenges around enabling environment, access to financing, and project development. 
 
-DAI Sustainable Business Group (SBG)’s William McKenzie and Monique St Jarre sat down with Bushveld Energy co-founder and energy expert, Mikhail Nikomarov, to discuss the future of batteries as a sustainable and competitive solution for emerging market economies. Launched in 2016 by Bushveld Minerals, a vanadium producer in South Africa, Bushveld Energy is an energy storage investor, component manufacturer, and project developer, focused on energy storage systems called Vanadium Redox Flow Batteries (VRFB).* 
+DAI Sustainable Business Group (SBG)’s William McKenzie and Monique St Jarre sat down with Bushveld Energy co-founder and energy expert, Mikhail Nikomarov, to discuss the future of batteries as a sustainable and competitive solution for emerging market economies. Launched in 2016 by Bushveld Minerals, a vanadium producer in South Africa, Bushveld Energy is an energy storage investor, component manufacturer, and project developer focused on energy storage systems called Vanadium Redox Flow Batteries (VRFB).* 
 
 
 
@@ -23,7 +23,7 @@ DAI Sustainable Business Group (SBG)’s William McKenzie and Monique St Jarre s
 
 
 
-DAI SBG: Many of the countries we work in are seeking new technology solutions that can support their growing energy sectors. Why are innovations in battery technology so important?
+**Many of the countries we work in are seeking new technology solutions that can support their growing energy sectors. Why are innovations in battery technology so important?**
 
 Mikhail Nikomarov: As the world increases its reliance on electricity and reduces dependence on fossil fuels, battery storage technologies are becoming an essential part of the energy landscape. With increasing reliance on electricity in new areas, such as electric vehicles or the information sector, comes a need to store more electricity for longer periods of time. 
 The inability of electricity to be stored easily creates a management challenge for utility companies and energy producers as they try to match supply with demand in today’s changing landscape. Traditional methods of pumped hydro storage are large, centralized plants and are increasingly facing environmental challenges around siting and water usage. 
