@@ -11,11 +11,11 @@ social-image: "/uploads/sm%20SBG.jpg"
 publication: Developments
 ---
 
-*As global economies turn toward renewable energy generation, energy storage solutions are becoming a critical part of the conversation. For Sub-Saharan Africa, which faces the largest energy access deficit globally, and where 600 million people lack access to electricity, innovations in energy technology are critical. 
+*As global economies turn toward renewable energy generation, energy storage solutions are becoming a critical part of the conversation. For Sub-Saharan Africa, which faces the largest energy access deficit globally, and where 600 million people lack access to electricity, innovations in energy technology are critical.* 
 
-Battery technology has the potential to play a significant role in growing the sustainable energy supplies that can fuel economic growth. The Energy Sector Management Assistance Program (ESMAP) estimates that 25.9 GW of new wind and solar capacity will be installed in Sub-Saharan Africa by 2025, despite challenges around enabling environment, access to financing, and project development. 
+*Battery technology has the potential to play a significant role in growing the sustainable energy supplies that can fuel economic growth. The Energy Sector Management Assistance Program (ESMAP) estimates that 25.9 GW of new wind and solar capacity will be installed in Sub-Saharan Africa by 2025, despite challenges around enabling environment, access to financing, and project development.* 
 
-Our [Sustainable Business Group (SBG)](https://www.dai.com/our-work/solutions/sustainable-business)’s [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie) and Monique St Jarre sat down with [Bushveld Energy](https://www.bushveldenergy.com/) co-founder and energy expert, Mikhail Nikomarov, to discuss the future of batteries as a sustainable and competitive solution for emerging market economies. Launched in 2016 by Bushveld Minerals, a vanadium producer in South Africa, Bushveld Energy is an energy storage investor, component manufacturer, and project developer focused on energy storage systems called Vanadium Redox Flow Batteries (VRFB).* 
+*Our [Sustainable Business Group (SBG)](https://www.dai.com/our-work/solutions/sustainable-business)’s [William McKenzie](https://www.dai.com/who-we-are/our-team/william-mckenzie) and Monique St Jarre sat down with [Bushveld Energy](https://www.bushveldenergy.com/) co-founder and energy expert, Mikhail Nikomarov, to discuss the future of batteries as a sustainable and competitive solution for emerging market economies. Launched in 2016 by Bushveld Minerals, a vanadium producer in South Africa, Bushveld Energy is an energy storage investor, component manufacturer, and project developer focused on energy storage systems called Vanadium Redox Flow Batteries (VRFB).* 
 
 
 
