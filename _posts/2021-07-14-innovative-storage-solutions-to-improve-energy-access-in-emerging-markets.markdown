@@ -27,7 +27,7 @@ publication: Developments
 
 "As the world increases its reliance on electricity and reduces dependence on fossil fuels, battery storage technologies are becoming an essential part of the energy landscape. With increasing reliance on electricity in new areas, such as electric vehicles or the information sector, comes a need to store more electricity for longer periods of time. 
 
-The inability of electricity to be stored easily creates a management challenge for utility companies and energy producers as they try to match supply with demand in today’s changing landscape. Traditional methods of pumped hydro storage are large, centralized plants and are increasingly facing environmental challenges around siting and water usage. 
+"The inability of electricity to be stored easily creates a management challenge for utility companies and energy producers as they try to match supply with demand in today’s changing landscape. Traditional methods of pumped hydro storage are large, centralized plants and are increasingly facing environmental challenges around siting and water usage. 
 
 "Additionally, the rise of renewable energy technologies such as solar and wind means that there is an even larger mismatch between when energy is being produced and when it is being consumed. Unlike coal and gas, you cannot control when the sun shines or when the wind blows. This creates significant need for both short-term (under four hours) and long-term (six to 10 hours) storage technologies. 
 
