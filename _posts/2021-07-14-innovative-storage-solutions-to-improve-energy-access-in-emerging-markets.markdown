@@ -1,7 +1,10 @@
 ---
-title: Innovative storage solutions to improve energy access in emerging markets
+title: Innovative Storage Solutions to Improve Energy Access in Emerging Markets
 date: 2021-07-14 14:03:00 -04:00
 published: false
+tags:
+- sustainable-business
+- environment-and-energy
 publication: Developments
 ---
 
