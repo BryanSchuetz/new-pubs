@@ -5,6 +5,9 @@ published: false
 tags:
 - sustainable-business
 - environment-and-energy
+author: DAI Communications Staff
+thumbnail-image: "/uploads/sm%20SBG.jpg"
+social-image: "/uploads/sm%20SBG.jpg"
 publication: Developments
 ---
 
