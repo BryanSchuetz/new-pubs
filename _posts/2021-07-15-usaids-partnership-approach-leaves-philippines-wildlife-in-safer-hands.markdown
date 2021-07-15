@@ -5,6 +5,8 @@ published: false
 tags:
 - environment-and-energy
 author: "[Joey Manfredo](https://www.dai.com/who-we-are/our-team/joey-manfredo)"
+thumbnail-image: "/uploads/sm%20Kusor%20Women.jpg"
+social-image: "/uploads/sm%20Kusor%20Women.jpg"
 publication: Developments
 ---
 
@@ -12,7 +14,7 @@ Approximately three-fourths the size of California, the Philippines is brimming 
 
 In 2014, the U.S. Agency for International Development (USAID)’s Biodiversity Policy addressed the very issues facing the Philippines. By 2016, the agency launched the DAI-led [Protect Wildlife](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect) activity to align conservation policy with on-the-ground wildlife management and enforcement in the Philippines. The activity worked in target landscapes and seascapes to reduce threats to biodiversity, reduce poaching and use of illegally harvested wildlife species and byproducts, and improve ecosystem goods and services for human wellbeing.  
 
- 
+![Kusor Women.jpg](/uploads/Kusor%20Women.jpg) 
 
 
 
@@ -27,7 +29,9 @@ Wildlife trafficking networks leverage weak points in natural resources governan
 
 ## Partnerships Boost Results 
 
-Our principal counterpart in all our activities was the Department of Environment and Natural Resources (DENR) Biodiversity Management Bureau, in coordination with the DENR Forest Management Bureau, Department of Agriculture-Bureau of Fisheries and Aquatic Resources, National Commission on Indigenous Peoples, and various national law enforcement agencies.  
+Our principal counterpart in all our activities was the Department of Environment and Natural Resources (DENR) Biodiversity Management Bureau, in coordination with the DENR Forest Management Bureau, Department of Agriculture-Bureau of Fisheries and Aquatic Resources, National Commission on Indigenous Peoples, and various national law enforcement agencies.
+
+![bamboo team.jpg](/uploads/bamboo%20team.jpg)
 
 Locally, we worked directly with DENR regional offices; provincial and community environment and natural resources offices; and provincial, city, and municipal local government units, as well as local offices of the Bureau of Fisheries and Aquatic Resources and the National Commission on Indigenous Peoples. We also worked with nongovernmental and civil society organizations; colleges and universities; and land and resource managers, such as ancestral domain and tenure holders and fisherfolk and coastal community organizations. 
 
@@ -41,6 +45,8 @@ Rather than introduce new tools and approaches, we sought to use what was in pla
 
 By raising awareness about ecosystems and the goods and services they provide—supplying water, regulating flooding and storm surges, and cycling nutrients that fertilize the land—and the ecological connectivity that underpins them, we drew in partners with a joint commitment to work together across jurisdictions at the landscape-seascape scale. This awareness was central to the activity’s success in securing stakeholders’ commitment to coordination and complementarity between management plans and activities. 
 
+![awareness.jpg](/uploads/awareness.jpg)
+
 ## Mapping Out the Future 
 
 With those commitments, Protect Wildlife and its partners mapped landscapes and seascapes as a guide to plan joint activities, moving beyond GIS to chart the following features in a given landscape-seascape: 
@@ -53,11 +59,13 @@ Protect Wildlife and its partners incorporated these layers into the landscape-s
 
 The working groups reached agreement on the protection zones that bind key ecosystems, habitats, and unique natural and cultural attractions; production areas, which become focal sites for social, technical, economic, and infrastructure investments that can increase productivity and strengthen value chains in upland areas; and settlements and built-up areas, which must be properly zoned to reduce the adverse impacts of climate-related disasters. 
 
-To ensure connectivity, the working groups negotiated between DENR and local authorities regarding zoning decisions in a shared landscape-seascape. The goal was to ensure that border areas between their respective management plans and zoning regimes are complementary and feature compatible land and resource use classifications and rules. Once complete, the groups developed management and financial plans, which now function as a guidebook for protection, conservation, and development activities, with rules on restricted land and resource uses and requirements for permitting. 
+To ensure connectivity, the working groups negotiated between DENR and local authorities regarding zoning decisions in a shared landscape-seascape. The goal was to ensure that border areas between their respective management plans and zoning regimes are complementary and feature compatible land and resource use classifications and rules. Once complete, the groups developed management and financial plans, which now function as a guidebook for protection, conservation, and development activities, with rules on restricted land and resource uses and requirements for permitting.
+
+![boat.jpg](/uploads/boat.jpg)
 
 ## Where Land Meets Sea 
 
-Together, maps and management plans guide conservation and development activities within a landscape-seascape. Protect Wildlife added value to activities by contributing to the implementation of management plans and advancing conservation, protection, and development objectives. Our work involved: 
+Together, maps and management guide conservation and development activities within a landscape-seascape. Protect Wildlife added value to activities by contributing to the implementation of management plans and advancing conservation, protection, and development objectives. Our work involved: 
 
 * **Training local campaigners on behavior change communications techniques:** The project reached nearly 1.12 million people through 25 site-level behavior-change campaigns (our goal was 300,000). 
 * **Enabling finance for conservation efforts:** Partners generated $625,000 in revenues from the sale of ecosystem goods and services (our goal was $500,000). 
