@@ -1,7 +1,6 @@
 ---
 title: USAID’s Partnership Approach Leaves Philippines’ Wildlife in Safer Hands
 date: 2021-07-15 10:24:00 -04:00
-published: false
 tags:
 - environment-and-energy
 author: "[Joey Manfredo](https://www.dai.com/who-we-are/our-team/joey-manfredo)"
