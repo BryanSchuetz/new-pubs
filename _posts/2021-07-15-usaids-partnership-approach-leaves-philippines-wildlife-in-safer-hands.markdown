@@ -57,15 +57,12 @@ To ensure connectivity, the working groups negotiated between DENR and local aut
 
 ## Where Land Meets Sea 
 
-Together, maps and management plans serve as a roadmap and investment guide for conservation and development activities within a landscape-seascape. Protect Wildlife opened partners’ doors by addeding value to their partners’ activities by and contributing to the  theirimplementation of management plans and advancingachievement of their conservation, protection, and development objectives. Our work involved: 
+Together, maps and management plans guide conservation and development activities within a landscape-seascape. Protect Wildlife added value to activities by contributing to the implementation of management plans and advancing conservation, protection, and development objectives. Our work involved: 
 
- Training local campaigners on behavior change communications techniques: The project reached nearly 1.12 million people through 25 site-level behavior-change campaigns (our goal was 300,000). 
-
-Enabling finance for conservation efforts: Partners generated $625,000 in revenues from the sale of ecosystem goods and services (our goal was $500,000). 
-
-Supporting research and conservation education: The project worked with local universities to ensure that future scientists, businesspeople, policymakers, and enforcers are informed about the significance of wildlife and biodiversity conservation, as well as the laws that govern them. In addition to supporting 27 research initiatives, the project successfully advocated to include environmental law in the national Commission on Higher Education core curriculum for a degree in criminology—ensuring that the country’s criminology students will be better prepared to address wildlife and environmental crime in their careers. 
-
-Training personnel to enforce environmental and wildlife laws: The project trained appropriate personnel in surveillance, enforcement operations, and prosecution of offenders, while also strengthening policy and processes in line with management plans and zoning regimes. In Palawan alone, newly trained enforcement officers helped double the number of apprehensions since 2017, compared to 2013–2016.   
+* **Training local campaigners on behavior change communications techniques:** The project reached nearly 1.12 million people through 25 site-level behavior-change campaigns (our goal was 300,000). 
+* **Enabling finance for conservation efforts:** Partners generated $625,000 in revenues from the sale of ecosystem goods and services (our goal was $500,000). 
+* **Supporting research and conservation education:** The project worked with local universities to ensure that future scientists, businesspeople, policymakers, and enforcers are informed about the significance of wildlife and biodiversity conservation, as well as the laws that govern them. In addition to supporting 27 research initiatives, the project successfully advocated to include environmental law in the national Commission on Higher Education core curriculum for a degree in criminology—ensuring that the country’s criminology students will be better prepared to address wildlife and environmental crime in their careers. 
+* **Training personnel to enforce environmental and wildlife laws:** The project trained appropriate personnel in surveillance, enforcement operations, and prosecution of offenders, while also strengthening policy and processes in line with management plans and zoning regimes. In Palawan alone, newly trained enforcement officers helped double the number of apprehensions since 2017, compared to 2013–2016.   
 
 All told, Protect Wildlife helped improve natural resource management of more than 750,000 hectares of biologically significant areas (our goal was 500,000); and avoid 1.25 million metric tons of greenhouse gas emissions through sustainable landscape activities focused on protecting and managing forest cover in protected areas and forests (our goal was 703,930). 
 
@@ -73,8 +70,4 @@ All told, Protect Wildlife helped improve natural resource management of more th
 
 The actual impact of our activities on reducing biodiversity threats will take time to materialize and to study, and will depend largely on continued national government support and an increasing flow of technical and financial resources to sites over the coming years. If properly harnessed and cultivated, the work to strengthen capacities in habitat management and wildlife and environmental law enforcement; to generate increased support and coordination from local governments, civil society, private sector, and academe; and to improve the behaviors of communities and institutions will set conservation, national resource management, and enforcement practitioners in the Philippines on a pathway to meet Protect Wildlife’s desired final outcomes. 
 
-
-
-
-
-*[Joey Manfredo](https://www.dai.com/who-we-are/our-team/joey-manfredo) was Deputy Chief of Party on the Protect Wildlife project.*
+*[Joey Manfredo](https://www.dai.com/who-we-are/our-team/joey-manfredo) was Deputy Chief of Party on the Protect Wildlife project. To read the full report, [click here](https://www.dai.com/uploads/Protect%20Wildlife%20Final%20Report.2021-5-14.pdf).*
