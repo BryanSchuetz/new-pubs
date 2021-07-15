@@ -5,6 +5,8 @@ published: false
 tags:
 - environment-and-energy
 author: "[Joey Manfredo](https://www.dai.com/who-we-are/our-team/joey-manfredo)"
+thumbnail-image: "/uploads/sm%20Kusor%20Women.jpg"
+social-image: "/uploads/sm%20Kusor%20Women.jpg"
 publication: Developments
 ---
 
