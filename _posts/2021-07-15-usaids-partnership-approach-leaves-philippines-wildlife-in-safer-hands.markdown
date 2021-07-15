@@ -33,6 +33,14 @@ Locally, we worked directly with DENR regional offices; provincial and community
 
 Mount Mantalingahan Protected Area Superintendent Mildred Suza said Protect Wildlife helped her and her team better interpret existing DENR guidelines and that multistakeholder consultations and access to geographic information systems (GIS) technical assistance enriched the process. “It was important [to me that] the resulting management plan is in harmony with other plans, includes civil society participation, and reflects the needs of our indigenous communities,” she said.  
 
+## Our Approach 
+
+The ecosystems that underpin the country’s biodiversity are spread across regions, provinces, and cities, with segments under different land and resource use systems and only limited coordination between their respective management authorities. One key biodiversity area in the Philippines may contain a legislated protected area, a local government-managed forestland, and an ancestral domain, with each having different management requirements and governance bodies. When zoning rules and land and resource use within an ecosystem are misaligned, habitats can become fragmented and ecosystem services disrupted. 
+
+Rather than introduce new tools and approaches, we sought to use what was in place to help partners view their natural resources and operate at scale at the landscape and seascape level. This approach features two key themes: integrating land and resource use management plans, policies, and stakeholder groups; and adding value—approaching partners where they are and offering to help them strengthen and align their ongoing initiatives to better conserve and protect biodiversity and promote their constituents’ well-being. 
+
+By raising awareness about ecosystems and the goods and services they provide—supplying water, regulating flooding and storm surges, and cycling nutrients that fertilize the land—and the ecological connectivity that underpins them, we drew in partners with a joint commitment to work together across jurisdictions at the landscape-seascape scale. This awareness was central to the activity’s success in securing stakeholders’ commitment to coordination and complementarity between management plans and activities. 
+
 
 
 
