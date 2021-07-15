@@ -41,6 +41,21 @@ Rather than introduce new tools and approaches, we sought to use what was in pla
 
 By raising awareness about ecosystems and the goods and services they provide—supplying water, regulating flooding and storm surges, and cycling nutrients that fertilize the land—and the ecological connectivity that underpins them, we drew in partners with a joint commitment to work together across jurisdictions at the landscape-seascape scale. This awareness was central to the activity’s success in securing stakeholders’ commitment to coordination and complementarity between management plans and activities. 
 
+## Mapping Out the Future 
+
+With those commitments, Protect Wildlife and its partners mapped landscapes and seascapes as a guide to plan joint activities, moving beyond GIS to chart the following features in a given landscape-seascape: 
+
+* **Biophysical characteristics:** Watersheds, biodiversity corridors, forestlands, grasslands, wildlife habitats, and vulnerable or disaster-prone areas. 
+* **Legal classifications:** Laws and policies on land and resource use, environmental protection, and economic development—covering areas designated as ancestral domains, alienable and disposable lands, protected areas, forestlands, and conservation areas. 
+* **Flow of ecosystem goods and services:** Distribution of services, infrastructure, capital, and political power, and the degree of access to knowledge, data, and resources among those who protect or conserve ecosystem goods and services and those who depend upon or exploit them. This information provides insight into the flow of wildlife species and by-products from or through landscapes-seascapes to off-site areas. 
+
+Protect Wildlife and its partners incorporated these layers into the landscape-seascape maps, then consulted with communities to map in their actual land and resource use practices, which do not always align with policy or comport with stated objectives on ecological connectivity. Once the land and resource use maps were validated in this way, we opened discussion on the adjustments needed to promote the flow of ecosystem goods and services across land-use boundaries, conserve critical biodiversity assets, and strengthen local livelihoods.  
+
+The working groups reached agreement on the protection zones that bind key ecosystems, habitats, and unique natural and cultural attractions; production areas, which become focal sites for social, technical, economic, and infrastructure investments that can increase productivity and strengthen value chains in upland areas; and settlements and built-up areas, which must be properly zoned to reduce the adverse impacts of climate-related disasters. 
+
+To ensure connectivity, the working groups negotiated between DENR and local authorities regarding zoning decisions in a shared landscape-seascape. The goal was to ensure that border areas between their respective management plans and zoning regimes are complementary and feature compatible land and resource use classifications and rules. Once complete, the groups developed management and financial plans, which now function as a guidebook for protection, conservation, and development activities, with rules on restricted land and resource uses and requirements for permitting. 
+
+
 
 
 
