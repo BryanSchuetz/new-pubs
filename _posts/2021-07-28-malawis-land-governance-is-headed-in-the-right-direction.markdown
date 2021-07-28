@@ -66,4 +66,4 @@ Given our experience working on land governance in Malawi, we offer the followin
 
 Land administration and planning are critical to Malawi’s economic, societal, and environmental goals. In the past few years, Malawi has made a significant investment in laying the groundwork for a successful land reform process, and with continued financing, coordination, and planning the country can continue on the road to good land governance.
 
-[Felicity Buckle](https://www.dai.com/who-we-are/our-team/felicity-buckle) is a DAI land tenure specialist and [Gustavo Porres](https://www.linkedin.com/in/gustavo-porres-izquierdo-62919679/) is a Project Manager with the [EU Business Unit](https://www.dai.com/who-we-are/global-reach/european-union).
+*[Felicity Buckle](https://www.dai.com/who-we-are/our-team/felicity-buckle) is a DAI land tenure specialist and [Gustavo Porres](https://www.linkedin.com/in/gustavo-porres-izquierdo-62919679/) is a Project Manager with the [EU Business Unit](https://www.dai.com/who-we-are/global-reach/european-union).*
