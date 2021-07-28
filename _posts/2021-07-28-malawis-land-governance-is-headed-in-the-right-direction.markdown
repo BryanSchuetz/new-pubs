@@ -8,6 +8,8 @@ tags:
 - governance
 author: "[Felicity Buckle](https://www.dai.com/who-we-are/our-team/felicity-buckle)
   and [Gustavo Porres](https://www.linkedin.com/in/gustavo-porres-izquierdo-62919679/)"
+thumbnail-image: "/uploads/sm%20Malawi%20Land%20%20Governance_brochure%20(7).jpg"
+social-image: "/uploads/sm%20Malawi%20Land%20%20Governance_brochure%20(7).jpg"
 publication: Developing Alternatives
 ---
 
@@ -24,6 +26,8 @@ Since the mid-1990s, Malawi has been taking measures to address land issues. The
 
 In 2002, Malawi published its National Land Policy, considered key to land reform. It was also the basis for 10 new or amended land laws enacted in 2016—which is when DAI entered the picture.
 
+![top Malawi Land  Governance_brochure (1).jpg](/uploads/top%20Malawi%20Land%20%20Governance_brochure%20(1).jpg)
+
 ## From Policy to Implementation
 
 In 2016, DAI was awarded the EU-supported [Land Governance Project](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) to provide technical assistance and guidance for the implementation of new land laws and the overall land governance framework. In parallel, a consortium of civil society organisations (Oxfam, CEPA, and LandNet) set out to pilot implementation of the Customary Land Act. 
@@ -31,6 +35,8 @@ In 2016, DAI was awarded the EU-supported [Land Governance Project](https://www.
 The primary purpose of our work in Malawi was to help the government move from policy to implementation and ensure the legislative and institutional environment was such that Malawi could progress with land reform. The ultimate objective was improving livelihoods, particularly in rural Malawi, through sustainable agricultural development.
 
 Today, thanks in part to the [EU’s assistance](https://www.dai.com/uploads/Malawi%20Land%20brochure%20A4%20%28pages%29_Final.pdf), Malawi’s institutional framework and capacity for land reform are stronger, and smallholder land rights—in particular women’s land rights—are closer to the principles enshrined in the [Voluntary Guidelines on the Governance of Tenure (VGGT)](http://www.fao.org/policy-support/mechanisms/mechanisms-details/en/c/448858/).
+
+![1 Malawi Land  Governance_brochure (8).jpg](/uploads/1%20Malawi%20Land%20%20Governance_brochure%20(8).jpg)
 
 ## Elements of the Project
 
@@ -53,6 +59,8 @@ Other support included:
 
 **Legal review:** Following the election of a new government in June 2020, the President of Malawi ordered a review of the new land laws, to be led by a specially constituted Land Law Review Committee. DAI’s legal expert worked with the committee to compile comments on the laws from stakeholders and then worked with the committee to produce a report, with recommendations for changes to the laws.
 
+![2 Malawi Land  Governance_brochure (1).png](/uploads/2%20Malawi%20Land%20%20Governance_brochure%20(1).png)
+
 ## What’s Next for Malawi’s Land Reforms?
 
 Malawi’s land reform efforts are headed in the right direction. Six more pilots have been conducted as part of the Agricultural Commercialization project, with funding from the World Bank, and a further pilot is planned through the Shire Valley Transformation Programme, an irrigation project also funded by the World Bank. Separately, the Government of Belgium is funding a rollout of the Customary Land Act in Kasungu District. The Government of Malawi is seeking further funding so that the rollout can be extended countrywide.
@@ -62,7 +70,9 @@ Given our experience working on land governance in Malawi, we offer the followin
 1. **Devolution:** Malawi should implement the devolution and district registry plans to devolve land administration services to the district level.
 1. **Clear management lines:** The Land Reform Implementation Unit should continue to be sufficiently resourced to effectively manage and coordinate initiatives in the sector.
 1. **High-quality training of stakeholders at all levels:** For a national rollout, government stakeholders need precise training in their new roles and responsibilities.
-1. **Coordination between the public sector, private companies, and nongovernmental organisations:** The entities involved in delivering land reform activities need guidance and good communication to avoid duplication of efforts and ensure a consistent approach. 
+1. **Coordination between the public sector, private companies, and nongovernmental organisations:** The entities involved in delivering land reform activities need guidance and good communication to avoid duplication of efforts and ensure a consistent approach.
+
+![map Malawi Land  Governance_brochure (3).png](/uploads/map%20Malawi%20Land%20%20Governance_brochure%20(3).png)
 
 Land administration and planning are critical to Malawi’s economic, societal, and environmental goals. In the past few years, Malawi has made a significant investment in laying the groundwork for a successful land reform process, and with continued financing, coordination, and planning the country can continue on the road to good land governance.
 
