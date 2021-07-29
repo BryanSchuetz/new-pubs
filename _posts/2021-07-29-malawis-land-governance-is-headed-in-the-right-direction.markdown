@@ -1,7 +1,6 @@
 ---
 title: Malawi’s Land Governance is Headed in the Right Direction
-date: 2021-07-28 14:08:00 -04:00
-published: false
+date: 2021-07-29 09:08:00 -04:00
 tags:
 - land rights
 - land tenure
