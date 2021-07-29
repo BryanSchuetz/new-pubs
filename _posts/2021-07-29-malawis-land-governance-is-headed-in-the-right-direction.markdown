@@ -10,6 +10,7 @@ author: "[Felicity Buckle](https://www.dai.com/who-we-are/our-team/felicity-buck
 thumbnail-image: "/uploads/sm%20Malawi%20Land%20%20Governance_brochure%20(7).jpg"
 social-image: "/uploads/sm%20Malawi%20Land%20%20Governance_brochure%20(7).jpg"
 publication: Developing Alternatives
+topic-page: Land Rights
 ---
 
 Malawi’s population is primarily rural, with most of the agricultural sector comprising farmers cultivating small, rain-fed plots intended to grow food for their own consumption. With a rapidly increasing population, the pressure on Malawi’s land and natural resources is high, particularly for smallholder farmers.
