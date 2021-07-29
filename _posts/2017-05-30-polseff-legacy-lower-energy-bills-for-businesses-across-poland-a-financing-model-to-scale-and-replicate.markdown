@@ -6,6 +6,7 @@ tags:
 - economic-growth
 - finance
 - environment-and-energy
+- european-union
 author: Anne-Sofia Holmberg
 thumbnail-image: "/uploads/PolSEFF_award.jpg"
 social-image: "/uploads/PolSEFF_award.jpg"

@@ -4,6 +4,7 @@ date: 2015-10-15 10:05:00 -04:00
 tags:
 - economic-growth
 - resilience
+- european-union
 publication: Developments
 issue: Fall 2015
 author-bio: Mathilde Gaston-Mathé, left, is the Communications Manager for ACP/EU

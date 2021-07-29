@@ -4,6 +4,7 @@ date: 2015-03-05 08:00:00 -05:00
 tags:
 - environment-and-energy
 - economic-growth
+- european-union
 publication: Developments
 issue: Spring 2015
 author-bio: Simone Anzboeck and Inez Couzinet, based in the United Kingdom, are specialists

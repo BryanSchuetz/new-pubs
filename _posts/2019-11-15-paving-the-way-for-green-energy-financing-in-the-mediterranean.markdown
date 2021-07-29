@@ -6,6 +6,7 @@ tags:
 - economic-growth
 - finance
 - climate change
+- european-union
 author: "[Anne-Sofia Holmberg](https://www.dai.com/who-we-are/our-team/anne-sofia-holmberg)
   and Mathilde Gaston-Mathé"
 thumbnail-image: "/uploads/social-428ea2.jpg"
