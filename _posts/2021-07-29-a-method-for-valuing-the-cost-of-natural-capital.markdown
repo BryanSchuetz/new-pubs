@@ -1,5 +1,5 @@
 ---
-title: "Natural Capital: Exploring a Financial Method to Evaluate its Cost"
+title: 'Natural Capital: Exploring a Financial Method to Evaluate its Cost'
 date: 2021-07-29 10:08:00 -04:00
 tags:
 - sustainable-business
