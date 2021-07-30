@@ -1,14 +1,14 @@
 ---
 title: A Method for Valuing the Cost of Natural Capital
 date: 2021-07-29 09:08:00 -04:00
+published: false
 tags:
 - sustainable-business
 - climate-change
-author: "Luke Jordan, Ivan Rossingnol"
+author: Luke Jordan, Ivan Rossingnol
 thumbnail-image: "/uploads/power-plant.jpg"
 social-image: "/uploads/natural-capital-social-image.png"
 publication: Developing Alternatives
-published: false
 ---
 
 Large capital projects are evaluated using the “weighted average cost of capital”, or WACC. Traditionally, WACC is composed of two elements: the cost of debt and the cost of equity. The Dasgupta review on [The Economics of Biodiversity](https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review), along with the growing consensus in capital markets and financial regulation to account for all risks, makes clear that a new term needs to be added: the cost of nature. 
