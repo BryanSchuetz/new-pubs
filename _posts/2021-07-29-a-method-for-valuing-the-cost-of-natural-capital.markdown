@@ -1,13 +1,12 @@
 ---
-title: A Method for Valuing the Cost of Natural Capital
-date: 2021-07-29 09:08:00 -04:00
-published: false
+title: "Natural Capital: Exploring a Financial Method to Evaluate its Cost"
+date: 2021-07-29 10:08:00 -04:00
 tags:
 - sustainable-business
 - climate-change
 author: Luke Jordan, Ivan Rossingnol
 thumbnail-image: "/uploads/power-plant.jpg"
-social-image: "/uploads/natural-capital-social-image.png"
+social-image: "/uploads/natural-capital-updated-social-image.png"
 publication: Developing Alternatives
 ---
 
@@ -89,6 +88,8 @@ Measuring the true cost of nature is a complex and imperfect process. Neverthele
 Decision makers may continue relegating the cost of nature to non-core decision making, or attempt to silo such costs in multiple “bottom line” statements. While an important first step, this approach will still not address the fundamental issue, which is that we are using WACC rates that are less than what they really are. We may choose to ignore this accounting fact, but as financial regulators will probably remind us, this blinkered approach will lead firms to choose investments that may have looked attractive before 2021, but subsequently prove to be financially unviable. The fiduciary responsibility that ensues should not be overlooked.
 
 Conversely, decision makers may start to bring the cost of nature into their core decision making by accounting for its effect on their current and prospective assets, using the same tools that their providers of capital are starting to use. That may also allow the conversation about sustainability and competitiveness to move from a general frame to a practical, quantitative means for assessing trade-offs in the real-world conduct of business.
+
+_Rossignol is a Principal Advisor at DAI. Jordan is a Senior Advisor at DAI._
 
 <aside>
 	<h2>TECHNICAL ANNEX: STRANDED ASSET SIMULATION</h2>
