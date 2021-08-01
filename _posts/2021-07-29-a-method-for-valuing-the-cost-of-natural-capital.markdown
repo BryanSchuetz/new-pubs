@@ -4,7 +4,7 @@ date: 2021-07-29 10:08:00 -04:00
 tags:
 - sustainable-business
 - climate-change
-author: Luke Jordan, Ivan Rossingnol
+author: Luke Jordan, Ivan Rossignol
 thumbnail-image: "/uploads/power-plant.jpg"
 social-image: "/uploads/natural-capital-updated-social-image.png"
 publication: Developing Alternatives
