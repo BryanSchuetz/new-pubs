@@ -3,6 +3,7 @@ title: Supporting Active Citizenship Across Pakistan
 date: 2014-09-23 09:06:00 -04:00
 tags:
 - governance
+- pakistan
 publication: Developments
 issue: Summer 2014
 author-bio: "**Kanwal Manzoor** is Programme Specialist-Communications, and **Sereena

@@ -5,6 +5,7 @@ date: 2018-01-23 06:30:00 -05:00
 tags:
 - stability
 - governance
+- pakistan
 publication: Developments
 issue: Spring 2018
 author-bio: '<p style="display: block; float: right;" >Harry Wynne-Williams, left,

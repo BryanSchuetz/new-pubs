@@ -7,8 +7,8 @@ tags:
 - governance
 author: "[Felicity Buckle](https://www.dai.com/who-we-are/our-team/felicity-buckle)
   and [Gustavo Porres](https://www.linkedin.com/in/gustavo-porres-izquierdo-62919679/)"
-thumbnail-image: "/uploads/sm%20Malawi%20Land%20%20Governance_brochure%20(7).jpg"
-social-image: "/uploads/sm%20Malawi%20Land%20%20Governance_brochure%20(7).jpg"
+thumbnail-image: "/uploads/malawid-land-governance.jpg"
+social-image: "/uploads/malawid-land-governancejpg"
 publication: Developing Alternatives
 topic-page: Land Rights
 ---

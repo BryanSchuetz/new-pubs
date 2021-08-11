@@ -8,6 +8,7 @@ tags:
 - global-health
 - resilience
 - health security
+- pakistan
 author: "[Peter Portier](https://www.linkedin.com/in/peter-portier-a439b725/)"
 thumbnail-image: "/uploads/brace-social.jpg"
 social-image: "/uploads/brace-social.jpg"
