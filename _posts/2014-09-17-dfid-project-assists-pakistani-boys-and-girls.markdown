@@ -4,6 +4,7 @@ title: DFID Project Assists Local Groups in Sending Thousands of Pakistani Boys 
 date: 2014-09-17 11:08:00 -04:00
 tags:
 - governance
+- pakistan
 publication: Developments
 issue: Winter 2013
 author-bio: "**Saad Hamid** is the Communications Specialist for the DAI-managed Ilm

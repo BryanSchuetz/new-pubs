@@ -6,6 +6,7 @@ tags:
 - trade
 - infrastructure
 - economic-growth
+- pakistan
 author: "[Hussan-Bano Burki](https://www.linkedin.com/in/hussan-bano-4892bb1b/) "
 thumbnail-image: "/uploads/PREIA3.jpg"
 social-image: "/uploads/PREIA3.jpg"

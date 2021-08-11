@@ -3,11 +3,7 @@ title: Reaching the Needs of All Citizens in a More Democratic Pakistan
 date: 2021-04-26 08:30:00 -04:00
 tags:
 - governance
-- gender
-- women
-- rule of law
-- transparency
-- access to justice
+- pakistan
 author: Ingrida Skarinke
 thumbnail-image: "/uploads/sm%201H8A1473.jpg"
 social-image: "/uploads/sm%201H8A1473.jpg"
