@@ -5,8 +5,8 @@ tags:
 - economic-growth
 - gender
 author: "Nandi Hall"
-thumbnail-image: "/uploads/Opening a bank account.jpg"
-social-image: "/uploads/Opening a bank account.jpg"
+thumbnail-image: "/uploads/Opening%20a%20bank%20account.jpg"
+social-image: "/uploads/Opening%20a%20bank%20account.jpg"
 publication: Developments
 ---
 The UK Aid-funded [Arab Women’s Enterprise Fund](/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund) (AWEF) began operations in 2015. Since then, it has brought about systemic change to market systems, giving women of all ages better access to economic opportunities. It has encouraged the adoption of new practices and approaches that support women’s economic empowerment in Egypt, Jordan, and Palestine (the latter through March 2018)—strengthening their voices, expanding their range of choices, and assisting their decision making.  
