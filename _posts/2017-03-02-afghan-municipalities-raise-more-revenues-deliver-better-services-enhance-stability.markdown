@@ -28,6 +28,7 @@ assets:
   author?: 'yes'
 thumbnail-image: "/uploads/Devs----SHAHAR-pic-3.jpg"
 social-image: "/uploads/Devs----SHAHAR-pic-3.jpg"
+published: false
 ---
 
 The long-running conflicts in Afghanistan have threatened to reduce its municipalities to mere clusters of people rather than organized cities operating for the local good. But this is changing. Many municipalities are now gaining strength, establishing financial systems, increasing revenues, and improving service delivery by virtue of technical assistance funded by the U.S. Agency for International Development (USAID).

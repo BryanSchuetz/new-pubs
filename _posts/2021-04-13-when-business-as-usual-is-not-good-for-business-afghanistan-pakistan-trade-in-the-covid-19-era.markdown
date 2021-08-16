@@ -12,6 +12,7 @@ author: "[Juan Estrada-Valle](https://www.dai.com/who-we-are/our-team/juan-estra
 thumbnail-image: "/uploads/3-%202-%20AVC-HVC%20trained%20personnel%20spraying%20trucks%20entering%20and%20leaving%20through%20Torkham%20port,%20June%2020,%202020%5B1%5D.JPG"
 social-image: "/uploads/3-%202-%20AVC-HVC%20trained%20personnel%20spraying%20trucks%20entering%20and%20leaving%20through%20Torkham%20port,%20June%2020,%202020%5B1%5D.JPG"
 publication: Developments
+published: false
 ---
 
 Through a combination of laser-focused tactical interventions and support for rapid trade policy reform, the [Afghanistan Value Chains-High Value Crops (AVC-HVC)](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops) project, funded by the U.S. Agency for International Development (USAID), is enabling the Afghan government to address longstanding trade policy and trade logistics challenges, which for decades have limited the country’s export competitiveness.

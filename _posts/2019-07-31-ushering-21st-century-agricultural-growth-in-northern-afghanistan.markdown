@@ -9,6 +9,7 @@ author: "[Rich Magnani](https://www.dai.com/who-we-are/our-team/rich-magnani)"
 thumbnail-image: "/uploads/Screen-Shot-2019-08-01-at-6.50.44-AM.jpg"
 social-image: "/uploads/Screen-Shot-2019-08-01-at-6.50.44-AM-666efa.jpg"
 publication: Developments
+published: false
 ---
 
 Drought and conflict in recent decades sent Afghanistan’s wheat production into sharp decline. Irrigation systems and farm equipment fell into disrepair and farmers were forced to abandon their land. In a country where bread is a substantive part of the rural diet, the decline of its fundamental farm crop resulted in lost livelihoods and stability. Formerly productive communities came to depend on *imported* wheat and flour.

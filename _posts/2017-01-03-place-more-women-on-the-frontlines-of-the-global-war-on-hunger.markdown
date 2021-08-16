@@ -30,6 +30,7 @@ assets:
   name: Devs----Alia-Women--in-Ag-3
 thumbnail-image: "/uploads/Devs----Afshar-Women-in-Ag-1.jpg"
 social-image: "/uploads/Devs----Afshar-Women-in-Ag-1.jpg"
+published: false
 ---
 
 In developing countries, something is missing in the war on hunger: an equal voice for women.

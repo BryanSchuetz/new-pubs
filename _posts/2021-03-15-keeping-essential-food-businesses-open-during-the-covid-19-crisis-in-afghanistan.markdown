@@ -11,6 +11,7 @@ author: "[Patrice Thomas](https://www.linkedin.com/in/patrice-thomas/), [Christi
 thumbnail-image: "/uploads/RADP%20east-822ee1.jpg"
 social-image: "/uploads/RADP%20east-822ee1.jpg"
 publication: Developments
+published: false
 ---
 
 COVID-19 has disrupted the way industries operate globally. Remaining commercially viable in the face of supply and demand shocks, while safeguarding workers, has been challenging for all businesses. In the low- and middle-income countries where DAI operates, the situation is even more severe because the reach of public emergency support to businesses—in the form of loans, credits, tax relief, and financial support to pay wages—is often limited. 

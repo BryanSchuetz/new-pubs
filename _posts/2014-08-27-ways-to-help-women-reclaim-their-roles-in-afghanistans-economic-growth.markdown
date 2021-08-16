@@ -16,6 +16,7 @@ assets:
 - path: "/uploads/afg-women3.jpg"
 thumbnail-image: "/uploads/afg-women1.jpg"
 social-image: "/uploads/afg-women1.jpg"
+published: false
 ---
 
 <p>It was just a generation ago that many women in Afghanistan thrived in academia and the professional workplace. Their standing in society, like that of less privileged Afghan women, has since been destroyed.</p>

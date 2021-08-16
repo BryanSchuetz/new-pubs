@@ -12,6 +12,7 @@ author: "[Elizabeth Drachman](https://www.linkedin.com/in/elizabethdrachman/)"
 thumbnail-image: "/uploads/ad.jpg"
 social-image: "/uploads/ad-9c731a.jpg"
 publication: Developments
+published: false
 ---
 
 Even the strongest economies are struggling to cope with the economic impact of the COVID-19 pandemic. China saw its [first drop](https://www.csis.org/analysis/global-economic-impacts-covid-19) in gross domestic product since 1992 and Germany, Europe's largest economy, [could contract](https://www.rte.ie/news/business/2020/0330/1127328-german-economic-outlook/) by up to 5.4 percent this year. While it’s too soon to predict how less developed countries will fare, [all indicators](http://www.ipsnews.net/2020/04/economic-impact-covid-19-developing-countries-part-2/) point to severe challenges.
