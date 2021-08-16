@@ -1,6 +1,7 @@
 ---
 title: Afghan Farmers Borrowing Money for the First Time, Investing in Their Livelihoods
 date: 2012-08-26 16:28:00 -04:00
+published: false
 tags:
 - economic-growth
 - agriculture

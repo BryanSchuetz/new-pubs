@@ -1,6 +1,7 @@
 ---
 title: Herat Economic Corridor Could Catalyze Growth in Western Afghanistan
 date: 2014-08-27 11:43:00 -04:00
+published: false
 tags:
 - economic-growth
 - stability

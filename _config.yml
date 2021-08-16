@@ -25,10 +25,11 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-excerpt_separator: |2+
-
-
-
+excerpt_separator: "\n\n"
+plugins:
+- jekyll-redirect-from
+- github-pages
+- jekyll-algolia
 email: your-email@domain.com
 exclude:
 - ".gitignore"

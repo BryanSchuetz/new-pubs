@@ -1,6 +1,7 @@
 ---
 title: Economic Empowerment Strategies for Afghan Women
 date: 2014-08-27 14:55:00 -04:00
+published: false
 tags:
 - stability
 - economic-growth

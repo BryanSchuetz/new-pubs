@@ -1,6 +1,7 @@
 ---
 title: 'Agricultural Credit: Delivering the Development Promise in Afghanistan'
 date: 2014-09-02 13:46:00 -04:00
+published: false
 tags:
 - economic-growth
 publication: Developments

@@ -2,6 +2,7 @@
 title: Women and Girls Advocate for Their Place in Afghanistan’s Social and Political
   Mainstream
 date: 2018-11-06 14:06:00 -05:00
+published: false
 tags:
 - governance
 - stability

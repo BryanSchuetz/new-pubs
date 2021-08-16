@@ -2,6 +2,7 @@
 title: 'Simple Solutions: Nutrition and Garden Training in Afghanistan Improves Food
   Security for Thousands'
 date: 2016-12-05 12:15:00 -05:00
+published: false
 tags:
 - agriculture
 - global-health

@@ -1,6 +1,7 @@
 ---
 title: 'Generation Rising: Young, Educated Afghan Women Enter the Workforce'
 date: 2017-05-05 13:56:00 -04:00
+published: false
 tags:
 - economic-growth
 - gender

@@ -1,6 +1,7 @@
 ---
 title: Providing an Afghan Village with Lights and Electricity
 date: 2014-08-27 13:45:00 -04:00
+published: false
 tags:
 - environment-and-energy
 - stability

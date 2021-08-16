@@ -1,6 +1,7 @@
 ---
 title: 'From Desert, Mountain, and Plain: Afghanistan’s First-Ever Nomad Gathering'
 date: 2015-06-24 16:45:00 -04:00
+published: false
 tags:
 - governance
 publication: Developments

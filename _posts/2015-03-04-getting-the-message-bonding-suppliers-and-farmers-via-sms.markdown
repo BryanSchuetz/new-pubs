@@ -1,6 +1,7 @@
 ---
 title: Mutually Profitable Bonding of Suppliers and Farmers via SMS
 date: 2015-03-04 11:30:00 -05:00
+published: false
 tags:
 - economic-growth
 - digital-acceleration
