@@ -4,7 +4,7 @@ date: 2021-07-29 09:08:00 -04:00
 tags:
 - economic-growth
 - gender
-author: Nandi Hall
+author: "[Nandi Hall](https://www.dai.com/who-we-are/our-team/nandi-hall)"
 thumbnail-image: "/uploads/Opening%20a%20bank%20account.jpg"
 social-image: "/uploads/Opening%20a%20bank%20account.jpg"
 publication: Developments
@@ -61,6 +61,3 @@ In parallel, AWEF sought to address high turnover among female staff in the sect
 These changes had a dramatic impact on the retention of female employers and the companies’ productivity, not to mention an improved working environment for all involved. Employees surveyed said they would stay in their jobs because they are happy or satisfied; 2,574 garment factory employees reported benefitting from improved relationships with supervisors who had received training; 46 percent of women said they had more voice and choice in their jobs (of 1,000 women interviewed). In the citrus packhouses, AWEF trained 2,484 women and supervisors in soft skills leading to increased confidence at work and improved working relationships with supervisors and colleagues, and greater job satisfaction.
 
 Find out more about the successes of AWEF in the practitioner learning brief —[Working with the Private Sector to Empower Women: What to Measure and How to Build the Business Case for Change](https://seepnetwork.org/Resource-Post/Working-with-the-Private-Sector-to-Empower-Women-What-to-Measure-and-How-to-Build-the-Business-Case-for-Change), which outlines how to make a business case for employing women, demonstrates the commercial value of empowering women, and provides case studies, tools, and frameworks. 
- 
-
-
