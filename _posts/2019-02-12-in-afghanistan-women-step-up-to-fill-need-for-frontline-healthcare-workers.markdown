@@ -1,6 +1,7 @@
 ---
 title: In Afghanistan, Women Step Up to Fill Need for Frontline Healthcare Workers
 date: 2019-02-12 14:14:00 -05:00
+published: false
 tags:
 - global-health
 - gender
@@ -26,7 +27,6 @@ assets:
   author?: 'yes'
 thumbnail-image: "/uploads/Devs----Afghan-WIE-5.jpg"
 social-image: "/uploads/Devs----Afghan-WIE-5.jpg"
-published: false
 ---
 
 Communities across Afghanistan—especially the dispersed populations in rural areas—have long endured a lack of basic health services due to low numbers of trained health workers and chronic security issues. But this situation is improving. Today, a program to bolster women’s inclusion in Afghanistan’s mainstream economy is also serving to fill high-priority needs in maternal and infant care, vaccination, skilled nursing, and other health services.

@@ -1,6 +1,7 @@
 ---
 title: 'Agricultural Credit: Delivering the Development Promise in Afghanistan'
 date: 2014-09-02 13:46:00 -04:00
+published: false
 tags:
 - economic-growth
 publication: Developments
@@ -16,7 +17,6 @@ assets:
 - path: "/uploads/farmer.jpg"
 thumbnail-image: "/uploads/machine.jpg"
 social-image: "/uploads/machine.jpg"
-published: false
 ---
 
 <p>Economic growth is a necessary condition for long-term stability, especially in conflict-affected environments. In Afghanistan, where more than half of the gross domestic product comes from agriculture and 75 percent of the population lives in rural areas, the growth of the agriculture  sector is critical to economic prosperity and social stability.</p>

@@ -1,6 +1,7 @@
 ---
 title: Afghan Women Re-Enter the Economy as Workers, Business Owners
 date: 2018-09-14 10:13:00 -04:00
+published: false
 tags:
 - economic-growth
 - gender
@@ -36,7 +37,6 @@ assets:
   name: DEVS----WIE-2018-5
 thumbnail-image: "/uploads/Devs----WIE-2018-3.jpg"
 social-image: "/uploads/Devs----WIE-2018-3.jpg"
-published: false
 ---
 
 As Afghanistan transitions toward a market-driven economy and away from one supported by foreign assistance, jobs will inevitably be lost. The Afghan Ministry of Labor, Social Affairs, Martyred, and Disabled predicts that 4 million jobs will be needed over the next five years to replace lost jobs and absorb the rising generation of graduates.

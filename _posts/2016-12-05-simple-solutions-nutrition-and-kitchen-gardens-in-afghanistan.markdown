@@ -2,6 +2,7 @@
 title: 'Simple Solutions: Nutrition and Garden Training in Afghanistan Improves Food
   Security for Thousands'
 date: 2016-12-05 12:15:00 -05:00
+published: false
 tags:
 - agriculture
 - global-health
@@ -32,7 +33,6 @@ assets:
   author?: 'yes'
 thumbnail-image: "/uploads/Devs----RADP-North-5.jpg"
 social-image: "/uploads/Devs----RADP-North-5.jpg"
-published: false
 ---
 
 As in many developing countries, mothers and children in rural Afghanistan suffer from chronic undernutrition, often because they lack knowledge. Thousands of families in northern Afghanistan are now enjoying improved nutrition and food security thanks to work by a U.S. Agency for International Development (USAID) economic growth program.

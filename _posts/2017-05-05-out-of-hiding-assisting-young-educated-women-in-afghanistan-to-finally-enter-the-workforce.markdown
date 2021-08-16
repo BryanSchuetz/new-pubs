@@ -1,6 +1,7 @@
 ---
 title: 'Generation Rising: Young, Educated Afghan Women Enter the Workforce'
 date: 2017-05-05 13:56:00 -04:00
+published: false
 tags:
 - economic-growth
 - gender
@@ -29,7 +30,6 @@ assets:
   name: DEVS----Afgh-WIE-2
 thumbnail-image: "/uploads/Devs----Afgh-WIE-3.jpg"
 social-image: "/uploads/Devs----Afgh-WIE-3.jpg"
-published: false
 ---
 
 It is hard to believe in the wake of the past few decades that 1960s and ’70s Afghanistan was relatively progressive for women, with many women and girls freely attending school, working professionally, and dressing fashionably. Since the 1990s, warlords and, later, the conquering Taliban subjugated females—forbidding girls from going to school and women from working.

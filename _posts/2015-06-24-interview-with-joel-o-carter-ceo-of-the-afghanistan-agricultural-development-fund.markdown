@@ -1,6 +1,7 @@
 ---
 title: Interview with Joel Carter, CEO of Afghanistan’s Agricultural Development Fund
 date: 2015-06-24 14:17:00 -04:00
+published: false
 tags:
 - economic-growth
 - agriculture
@@ -24,7 +25,6 @@ assets:
   author?: 'yes'
 thumbnail-image: "/uploads/Devs-ACE-3.jpg"
 social-image: "/uploads/Devs-ACE-3.jpg"
-published: false
 ---
 
 For generations, Afghanistan’s commercial farmers and agribusinesses had no way to borrow money to invest in their businesses. In 2010, the U.S. Agency for International Development (USAID), in partnership with the Afghanistan Ministry for Agriculture, Irrigation, and Livestock (MAIL), established the Agricultural Development Fund (ADF). USAID’s initial fund contribution of $100 million would be complemented by a technical assistance contract—the [Agricultural Credit Enhancement Program](https://www.dai.com/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace)—awarded to DAI.

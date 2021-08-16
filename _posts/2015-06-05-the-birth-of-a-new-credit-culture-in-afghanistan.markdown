@@ -1,6 +1,7 @@
 ---
 title: The Birth of a New Credit Culture in Afghanistan
 date: 2015-06-05 05:21:00 -04:00
+published: false
 tags:
 - economic-growth
 - agriculture
@@ -19,7 +20,6 @@ assets:
   author?: 'yes'
 thumbnail-image: "/uploads/Devs-ACE-closedown-1.jpg"
 social-image: "/uploads/Devs-ACE-closedown-1.jpg"
-published: false
 ---
 
 Fifty-four months. That’s how long it took to conceive, launch, and hand over the Agricultural Development Fund (ADF) in Afghanistan.

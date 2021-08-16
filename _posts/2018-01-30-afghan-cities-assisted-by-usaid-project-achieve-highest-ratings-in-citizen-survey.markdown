@@ -2,6 +2,7 @@
 title: Afghan Cities Assisted by USAID Project Achieve Highest Ratings in Citizen
   Survey
 date: 2018-01-30 12:42:00 -05:00
+published: false
 tags:
 - stability
 - governance
@@ -25,7 +26,6 @@ assets:
   name: map-of-afghan-cities-in-survey Green
 thumbnail-image: "/uploads/map-of-afghan-cities-in-survey-1.jpg"
 social-image: "/uploads/map-of-afghan-cities-in-survey-1.jpg"
-published: false
 ---
 
 In a citizen assessment of government services in nine Afghan municipalities, the four that ranked the highest—Chaharikar, Hirat, Mazar-e-Sharif, and Jalalabad—are all partners with a U.S. Agency for International Development (USAID) project working to improve the capacity of Afghan municipal officials to meet citizen priorities and service delivery needs. 

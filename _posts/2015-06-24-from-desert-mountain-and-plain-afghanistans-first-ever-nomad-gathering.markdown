@@ -1,6 +1,7 @@
 ---
 title: 'From Desert, Mountain, and Plain: Afghanistan’s First-Ever Nomad Gathering'
 date: 2015-06-24 16:45:00 -04:00
+published: false
 tags:
 - governance
 publication: Developments
@@ -11,7 +12,6 @@ author: Brad Becker
 featured?: 
 thumbnail-image: 
 social-image: 
-published: false
 ---
 
 Known collectively as "Kuchi," the nomadic peoples of Afghanistan recently convened in Kabul for a historic assembly to address longstanding issues specific to their community.

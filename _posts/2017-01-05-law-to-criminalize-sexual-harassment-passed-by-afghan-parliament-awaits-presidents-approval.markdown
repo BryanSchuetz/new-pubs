@@ -1,6 +1,7 @@
 ---
 title: Sexual Harassment Law Passes Afghan Houses
 date: 2017-01-05 14:51:00 -05:00
+published: false
 tags:
 - governance
 - gender
@@ -27,7 +28,6 @@ assets:
   name: devs----alba-7
 thumbnail-image: "/uploads/Devs----ALBA-Duncan-3.jpg"
 social-image: "/uploads/Devs----ALBA-Duncan-3.jpg"
-published: false
 ---
 
 Harassment in the workplace in Afghanistan is a major deterrent to women’s participation. In the private sector, women regularly suffer verbal and physical abuse, blackmail, and the use of authority to coerce sex. But this treatment extends beyond the private sector.

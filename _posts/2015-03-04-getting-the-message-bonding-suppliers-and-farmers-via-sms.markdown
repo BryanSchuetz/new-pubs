@@ -1,6 +1,7 @@
 ---
 title: Mutually Profitable Bonding of Suppliers and Farmers via SMS
 date: 2015-03-04 11:30:00 -05:00
+published: false
 tags:
 - economic-growth
 - digital-acceleration
@@ -18,7 +19,6 @@ assets:
   author?: 'yes'
 thumbnail-image: "/uploads/IDEA-NEW-Heinzelman-1.jpg"
 social-image: "/uploads/IDEA-NEW-Heinzelman-1.jpg"
-published: false
 ---
 
 *For prevention of weeds (Shen Guli), cut stems of weeds before producing seeds and put salty solution on cut stems. Abdul, Jalalabad, 0700555555*

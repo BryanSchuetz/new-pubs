@@ -2,6 +2,7 @@
 title: New Senior Advisor to High Council for Women Looks Ahead to the Afghan Peace
   Process
 date: 2021-06-03 04:12:00 -04:00
+published: false
 tags:
 - women
 - governance
@@ -11,7 +12,6 @@ author: "[Tiffany Tsang ](https://www.linkedin.com/in/tiffany-tsang-05b33241/)"
 thumbnail-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
 social-image: "/uploads/sm%20Sara-Seerat---Peace-Postcard.jpg"
 publication: Developments
-published: false
 ---
 
 With the departure of U.S. forces from Afghanistan scheduled for this fall, all eyes are turning to the peace process, and in particular the place of women’s rights in those negotiations. With those rights in mind, we spoke to Sara Seerat, a leading women’s rights activist recently appointed by presidential decree as Senior Advisor to the High Council of Women in Afghanistan’s Ministry of Women’s Affairs.
