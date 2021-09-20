@@ -22,6 +22,7 @@ publication: Developments
 
 
 *USAID helped local partners improve the natural resource management of 750,000 hectares of biologically significant areas, avoid 1.25 million metric tons of greenhouse gas emissions—through sustainable landscape activities to protect and managing forest cover in protected areas—and achieve other results including:*
+
 ** Reaching nearly 1.12 million people through 25 behavior change campaigns.
 * Generating $625,000 in revenue from the sale of ecosystem goods and services in activity sites.
 * Assisting 19 universities and colleges to develop or strengthen environmental science, marine biology, environmental law and protection, and agroforestry courses.
