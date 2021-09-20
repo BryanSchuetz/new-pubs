@@ -3,6 +3,11 @@ title: 'Q&A with Protect Wildlife Leader Rebecca Paz: Biodiversity Conservation 
   Local Development Can Go Hand in Hand'
 date: 2021-09-20 15:48:00 -04:00
 published: false
+tags:
+- biodiversity
+- climate change
+- rule of law
+- environment-and-energy
 author: Shannon Vasamsetti
 publication: Developments
 ---
