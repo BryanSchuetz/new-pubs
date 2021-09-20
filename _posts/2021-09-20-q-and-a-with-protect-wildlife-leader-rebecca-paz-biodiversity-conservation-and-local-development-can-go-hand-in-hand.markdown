@@ -8,7 +8,7 @@ tags:
 - climate change
 - rule of law
 - environment-and-energy
-author: Shannon Vasamsetti
+author: "[Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti)"
 publication: Developments
 ---
 
@@ -28,7 +28,7 @@ publication: Developments
 * *Assisting 19 universities and colleges to develop or strengthen environmental science, marine biology, environmental law and protection, and agroforestry courses.*
 * *Training 1,116 national government enforcement staff and more than 840 wildlife officers who applied improved environmental law enforcement practices against violators—yielding 1,301 confiscations, seizures, and arrests.*
 
-*Shannon Vasamsetti, from DAI’s Environment team, sat down with Chief of Party Rebecca Paz to discuss the project’s approach.*
+*[Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti), from DAI’s Environment team, sat down with Chief of Party Rebecca Paz to discuss the project’s approach.*
 
 **How did you build effective partnerships with the sub-national government? With civil society? With communities?**
 
@@ -90,4 +90,4 @@ WildALERT is designed to work on low-end smartphones. Recognizing connectivity p
 
 "Both WildALERT and BRAIN have public reporting modules that allow the public to anonymously report wildlife crimes. The reporting module will help diversify sources of information and complement traditional intelligence-gathering techniques."
 
-*Shannon Vasamsetti is a Global Practice Specialist in DAI’s Climate Change and Natural Resources Management practice. For more about lessons learned from Protect Wildlife, [click here](https://www.dai.com/uploads/Protect%20Wildlife%20Final%20Report.2021-5-14.pdf).*
+*For more about lessons learned from Protect Wildlife, [click here](https://www.dai.com/uploads/Protect%20Wildlife%20Final%20Report.2021-5-14.pdf).*
