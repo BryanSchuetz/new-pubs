@@ -9,6 +9,8 @@ tags:
 - rule of law
 - environment-and-energy
 author: "[Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti)"
+thumbnail-image: "/uploads/DSC_0799.jpg"
+social-image: "/uploads/DSC_0799.jpg"
 publication: Developments
 ---
 
