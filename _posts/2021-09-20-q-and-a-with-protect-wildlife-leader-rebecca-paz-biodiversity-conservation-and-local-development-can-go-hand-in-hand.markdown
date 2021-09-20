@@ -25,7 +25,7 @@ publication: Developments
 ** Reaching nearly 1.12 million people through 25 behavior change campaigns.
 * Generating $625,000 in revenue from the sale of ecosystem goods and services in activity sites.
 * Assisting 19 universities and colleges to develop or strengthen environmental science, marine biology, environmental law and protection, and agroforestry courses.
-* Training 1,116 national government enforcement staff and more than 840 wildlife officers who applied improved environmental law enforcement practices against violators—yielding 1,301 confiscations, seizures, and arrests.*
+* Training 1,116 national government enforcement staff and more than 840 wildlife officers who applied improved environmental law enforcement practices against violators—yielding 1,301 confiscations, seizures, and arrests.**
 
 *Shannon Vasamsetti, from DAI’s Environment team, sat down with Chief of Party Rebecca Paz to discuss the project’s approach.*
 
