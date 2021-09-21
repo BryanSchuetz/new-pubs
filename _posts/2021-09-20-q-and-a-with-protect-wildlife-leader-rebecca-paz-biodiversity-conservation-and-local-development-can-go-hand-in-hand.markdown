@@ -44,6 +44,8 @@ publication: Developments
 
 "For communities, we worked with 26 groups mostly on community livelihoods and enterprise development efforts, especially during the last two years of the project when we took part in USAID’s Women’s Global Development and Prosperity (WGDP) Initiative. Even with such a short engagement, I believe we created significant impacts on their livelihoods and enterprises. We linked them with our CSO, local government, and private sector partners that could provide these groups with post-project assistance."
 
+![0857_PFR Security Force.JPG](/uploads/0857_PFR%20Security%20Force.JPG)`Newly trained wildlife enforcement officers.`
+
 **How did you integrate an ecosystem-based approach into a countering wildlife trafficking program (CWT)?** 
 
 "CWT work is often viewed as an enforcement or crime prevention effort, so the usual response emphasizes hiring more enforcers, enacting stricter laws and ordinances, coordinating among enforcement agencies, confiscating and seizing illegal products, and prosecuting violators. 
