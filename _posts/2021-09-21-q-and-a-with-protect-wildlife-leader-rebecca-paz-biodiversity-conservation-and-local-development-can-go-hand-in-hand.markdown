@@ -1,7 +1,7 @@
 ---
 title: 'Q&A with Protect Wildlife Leader Rebecca Paz: Biodiversity Conservation and
   Local Development Can Go Hand in Hand'
-date: 2021-09-20 15:48:00 -04:00
+date: 2021-09-21 15:00:00 -04:00
 published: false
 tags:
 - biodiversity
@@ -44,7 +44,7 @@ publication: Developments
 
 "For communities, we worked with 26 groups mostly on community livelihoods and enterprise development efforts, especially during the last two years of the project when we took part in USAID’s Women’s Global Development and Prosperity (WGDP) Initiative. Even with such a short engagement, I believe we created significant impacts on their livelihoods and enterprises. We linked them with our CSO, local government, and private sector partners that could provide these groups with post-project assistance."
 
-![0857_PFR Security Force.JPG](/uploads/0857_PFR%20Security%20Force.JPG)`Newly trained wildlife enforcement officers.`
+![0857_PFR Security Force-c67d0f.JPG](/uploads/0857_PFR%20Security%20Force-c67d0f.JPG)`Newly trained wildlife enforcement officers.`
 
 **How did you integrate an ecosystem-based approach into a countering wildlife trafficking program (CWT)?** 
 
