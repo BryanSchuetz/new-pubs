@@ -58,6 +58,8 @@ publication: Developments
 
 "We view integrated resource management that is ecosystem-based and participatory as a critical part of the overall effort to reduce illegal wildlife poaching and trade and stem biodiversity loss. Stakeholders—governance authorities, LGU planners, local policymakers, on-site and downstream communities—must understand and appreciate the value of biodiversity and its link to ecosystem goods and services and well-being. There must be a clear land-use zoning regime that considers the need to balance protection and development. Incentives must be provided to communities to adopt conservation-oriented attitudes and behaviors (that is, stop wildlife poaching and other activities that destroy habitat, report violators, favor sustainable rather than extractive agriculture and agroforestry, and so on). Guides and incentives must be provided to direct public and private sector investments to develop production areas and improve the livelihoods of local communities."
 
+![IMG_1776.JPG](/uploads/IMG_1776.JPG)`The project worked to promote ecosystem goods and services, such as abaca (used for its fiber).`
+
 **Protect Wildlife integrated land use planning and land use management with the concept of added value. Can you explain this approach?**
 
 "Let me take up first the question of integration.
