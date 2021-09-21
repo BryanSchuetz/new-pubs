@@ -44,6 +44,8 @@ publication: Developments
 
 "For communities, we worked with 26 groups mostly on community livelihoods and enterprise development efforts, especially during the last two years of the project when we took part in USAID’s Women’s Global Development and Prosperity (WGDP) Initiative. Even with such a short engagement, I believe we created significant impacts on their livelihoods and enterprises. We linked them with our CSO, local government, and private sector partners that could provide these groups with post-project assistance."
 
+![0857_PFR Security Force.JPG](/uploads/0857_PFR%20Security%20Force.JPG)`Newly trained wildlife enforcement officers.`
+
 **How did you integrate an ecosystem-based approach into a countering wildlife trafficking program (CWT)?** 
 
 "CWT work is often viewed as an enforcement or crime prevention effort, so the usual response emphasizes hiring more enforcers, enacting stricter laws and ordinances, coordinating among enforcement agencies, confiscating and seizing illegal products, and prosecuting violators. 
@@ -76,7 +78,7 @@ publication: Developments
 
 "Applying this approach served as Protect Wildlife’s 'value add' in the resource management planning process. The key point is that it’s replicable and can be integrated into protected areas' forestlands and LGU planning policies and processes without overhauling their existing systems."
 
-![Palawan Site Map.jpg](/uploads/Palawan%20Site%20Map.jpg)`Palwan site map created by Protect Wildlife.`
+![Palawan Site Map.jpg](/uploads/Palawan%20Site%20Map.jpg)`Palwan site map created by Protect Wildlife. Similar maps were produced for each site.`
 
 **Protect Wildlife developed key digital platforms to improve enforcement effectiveness. Tell us about these digital applications.**
 
