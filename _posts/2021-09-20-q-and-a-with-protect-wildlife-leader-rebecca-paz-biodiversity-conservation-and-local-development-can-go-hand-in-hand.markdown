@@ -76,6 +76,8 @@ publication: Developments
 
 "Applying this approach served as Protect Wildlife’s 'value add' in the resource management planning process. The key point is that it’s replicable and can be integrated into protected areas' forestlands and LGU planning policies and processes without overhauling their existing systems."
 
+![Palawan Site Map.jpg](/uploads/Palawan%20Site%20Map.jpg)`Palwan site map created by Protect Wildlife.`
+
 **Protect Wildlife developed key digital platforms to improve enforcement effectiveness. Tell us about these digital applications.**
 
 "Faced with enemies—illegal traders and wildlife traffickers—who use online systems and networks to avoid detection, it is imperative that enforcers in the field are equipped with technology solutions to prevent environmental crimes. Wildlife trafficking networks and syndicates take advantage of the weaknesses of current enforcement systems, including the corruption that such systems beget. 
