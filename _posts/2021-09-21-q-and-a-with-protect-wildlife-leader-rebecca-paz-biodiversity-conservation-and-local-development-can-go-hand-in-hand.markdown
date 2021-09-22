@@ -79,7 +79,7 @@ publication: Developments
 
 "Applying this approach served as Protect Wildlife’s 'value add' in the resource management planning process. The key point is that it’s replicable and can be integrated into protected areas' forestlands and LGU planning policies and processes without overhauling their existing systems."
 
-`set-border`![Palawan Site Map-62a7d0.jpg](/uploads/Palawan%20Site%20Map-62a7d0.jpg)`Palawan site map created by Protect Wildlife. Similar maps were produced for each site.`
+![Palawan Site Map-62a7d0.jpg](/uploads/Palawan%20Site%20Map-62a7d0.jpg)`Palawan site map created by Protect Wildlife. Similar maps were produced for each site.``set-border`
 
 **Protect Wildlife developed key digital platforms to improve enforcement effectiveness. Tell us about these digital applications.**
 
