@@ -13,7 +13,7 @@ social-image: "/uploads/DSC_0799.jpg"
 publication: Developments
 ---
 
-![Devs Rebecca R Paz.jpg](/uploads/Devs%20Rebecca%20R%20Paz.jpg){:.float-left}*The Philippines is a megadiverse country with rich marine diversity and unique coral reefs that 1,100 terrestrial invertebrates and 5 percent of the world’s flora call home. Sadly, these biodiversity assets face pressures from such as land conversion for agriculture and settlements; illegal, unregulated, and unreported harvesting; and destructive mining and quarrying.*
+![Devs Rebecca R Paz.jpg](/uploads/Devs%20Rebecca%20R%20Paz.jpg){:.float-left}*The Philippines is a megadiverse country with rich marine diversity and unique coral reefs that 1,100 terrestrial invertebrates and 5 percent of the world’s flora call home. Sadly, these biodiversity assets face pressures such as land conversion for agriculture and settlements; illegal, unregulated, and unreported harvesting; and destructive mining and quarrying.*
 
 *Between 2016 and 2021, the [Protect Wildlife project](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect), funded by the U.S. Agency for International Development (USAID), took a multi-pronged approach to help protect biodiversity in this exceptional environment. Working across varied geographies, the project sought to combat wildlife trafficking by building the capacity of local stakeholders; incentivizing communities and local government units (LGUs); leveraging financing; and deepening knowledge, changing attitudes, and improving practices for the effective management and regulation of wildlife habitats and trafficking transshipment points.*
 
