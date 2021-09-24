@@ -1,7 +1,6 @@
 ---
 title: COP26 is a Chance to Do Justice to People and Planet
 date: 2021-09-24 13:21:00 -04:00
-published: false
 tags:
 - climate
 - climate change
