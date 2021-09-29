@@ -24,14 +24,14 @@ Seventy percent of global, ice-free land is under productive use to support live
 Land suffers the effects of climate change in various ways, from flooding to crop suitability, and the Horn of Africa is no exception. Since 1950, Ethiopia’s temperature has risen by an estimated 0.37°C per decade, with [rainfall decreasing](https://www.usaid.gov/sites/default/files/documents/1860/A%20Climate%20Trend%20Analysis%20of%20Ethiopia.pdf) by 15–20 percent across southern parts of the country from the mid-1970s to the late 2000s.
 
 Smallholder farmers are at the front line of climate change. Their decisions—on issues from land-use intensification to reforestation—will be critical to the success of Ethiopia’s climate adaptation and mitigation strategies. They must also achieve food security without [degrading their land](https://www.ipcc.ch/srccl/). 
- 
-### sub
 
+![01-DAI345_Land and Climate_220921_A.png](/uploads/01-DAI345_Land%20and%20Climate_220921_A.png)
  
-The LIFT programme and tenure security
+### Investing in Themselves
+
 To increase tenure security and spur farmers to invest in their land, LIFT, funded by UK aid, supported the roll-out and provision of second-level land certificates (SLLC) to rural landholders. From 2014 to 2021, the programme provided 14.3 million SLLCs in 175 districts across the Amhara, Oromia, SNNP, and Tigray regions of Ethiopia. LIFT also worked to make the rural land administration system more sustainable and supported interventions in credit access, formal land rental, and input markets. 
 
-Commissioned by LIFT, recent research into the success of this approach used a survey that combined quantitative data collection with qualitative interviews (LIFT, 2021). This study builds on a large body of research on certification, tenure security, and investment (see Lawry et al., 2017), and most recently a study finding a 13 percentage point increase in land investment among those who had received SLLCs, compared to those who had not (Ghebru and Girmachew, 2020). 
+Commissioned by LIFT, recent research into the success of this approach used a survey that combined quantitative data collection with qualitative interviews. The study builds on a [large body of research](https://www.tandfonline.com/doi/full/10.1080/19439342.2016.1160947) on certification, tenure security, and investment, and most recently a study finding a 13 percentage point increase in land investment among those who had received SLLCs, compared to those who had not (Ghebru and Girmachew, 2020). 
 
 LIFT’s research sampled 669 households that had received SLLCs between 2015 and 2018. As shown in Figure 2, a large majority expressed increased confidence in tenure security and perceived reductions in land-related disputes. One-third reported feeling more motivated to invest, and 20 percent reported actually increasing their investment due to the possession of the SLLC. There was variability in these findings across groups, with poorer, older, and widow-headed households less willing or able to invest, despite holding the SLLC.
 
