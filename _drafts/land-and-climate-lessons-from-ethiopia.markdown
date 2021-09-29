@@ -19,7 +19,7 @@ The [Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/pro
 
 
 
-Seventy percent of global, ice-free land is under productive use to support livelihoods and well-being. Land use is also a source of the three major greenhouse gases: methane, nitrous oxide, and carbon dioxide (IPCC 2020a). 
+Seventy percent of global, ice-free land is under productive use to support livelihoods and well-being. Land use is also a source of the three [major greenhouse gases](https://www.ipcc.ch/srccl/): methane, nitrous oxide, and carbon dioxide. 
 
 Land suffers the effects of climate change in various ways, from flooding to crop suitability, and the Horn of Africa is no exception. Since 1950, Ethiopia’s temperature has risen by an estimated 0.37°C per decade, with rainfall decreasing by 15–20 percent across southern parts of the country from the mid-1970s to the late 2000s (Funk et al. 2012).
 
