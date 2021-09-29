@@ -23,7 +23,7 @@ Seventy percent of global, ice-free land is under productive use to support live
 
 Land suffers the effects of climate change in various ways, from flooding to crop suitability, and the Horn of Africa is no exception. Since 1950, Ethiopia’s temperature has risen by an estimated 0.37°C per decade, with [rainfall decreasing](https://www.usaid.gov/sites/default/files/documents/1860/A%20Climate%20Trend%20Analysis%20of%20Ethiopia.pdf) by 15–20 percent across southern parts of the country from the mid-1970s to the late 2000s.
 
-Smallholder farmers are at the front line of climate change. Their decisions—on issues from land-use intensification to reforestation—will be critical to the success of Ethiopia’s climate adaptation and mitigation strategies. They must also achieve food security without degrading their land (IPCC 2020b). 
+Smallholder farmers are at the front line of climate change. Their decisions—on issues from land-use intensification to reforestation—will be critical to the success of Ethiopia’s climate adaptation and mitigation strategies. They must also achieve food security without [degrading their land](https://www.ipcc.ch/srccl/). 
  
 ### sub
 
