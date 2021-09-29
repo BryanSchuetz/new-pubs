@@ -1,6 +1,7 @@
 ---
 title: 'Land and Climate: Lessons from Ethiopia'
 date: 2021-09-24 14:13:00 -04:00
+published: false
 tags:
 - land rights
 - land tenure
@@ -55,5 +56,17 @@ The species planted reflect these different priorities, but also deliver a range
 Tree planting is not without challenges, however. Those planted for fuel and charcoal need careful management to have positive impact. In addition, some farmers were reluctant to plant trees due to effects on neighbouring farms, and some species (such as eucalyptus) can lead to fertility depletion and water deficit, or suppress vegetation (Dessie and Erkossa, 2011).
 
 While tenure security can motivate farmers to make longer-term investments, these individual investments may need to be complemented with communal works to optimise climate adaptation, which may entail support from extension workers and communal investments such as ripping and terracing.
+
+**Recommendations on climate for land programme design**
+
+**1.** Mobilising investment is an increasingly important aspect of land tenure programmes but needs to be made climate-smart. Land programmes need to help ensure that investments are appropriate, particularly in terms of climate change adaptation over the medium- and long-term, both in programme design and implementation.
+**2.** Tenure security incentivises tree planting but the type of tree matters. Investment in some tree species has a clear role in adaptation and mitigation, but some species can have adverse effects on soil fertility, water resources, and neighbouring farms, and may represent a fire risk. The impact on climate can also depend on the trees’ end-use products. Land programmes must understand the risks and promote research and dissemination of knowledge on the impacts of different tree species. 
+**3.** A wider market systems approach is essential to promote successful climate adaptation and mitigation. Household strategies, including decisions to invest, are influenced by extension services and neighbouring farmers. Crop choices are also highly locally correlated. Land programmes should engage with markets and extension services to balance food security and sustainable land management objectives. This includes support to the adoption of specific crops, particularly in drought-prone areas, as well as promoting alternative sources of income to enhance farmers’ resilience.
+
+**Recommendations on land for climate programme design**
+
+**1.** Tenure security is essential to climate change adaptation. Top-down planning may work for larger-scale investments, but it is insufficient to bring about change that depends on the individual choices of numerous households. Influencing those choices requires a systematic approach that calls on climate programmes to model how individuals and communities are incentivised to make long-term changes. Our research suggests tenure security is a key factor underpinning decision making.
+**2.** A balance is needed between communal and individual action. Climate programmes need to support communal work and investment, and also to harness the knowledge of farmers and their incentives to invest. Farmer knowledge is critical where highly localised solutions are required—for example, in adjusting to soil type, tackling erosion, and investing in irrigation and drainage.
+**3.** More vulnerable households to adapt. Poorer households, female-headed households, and older people may be less able to adapt. Climate programmes need to understand these challenges and help more vulnerable groups to enhance their tenure security. This can include, for example, greater engagement with rental market formalisation so that households can confidently and securely rent out their land and engage in more diverse on and off-farm income-generating activities, enabling more climate-resilient households.
 
 *Joseph Holden is an independent consultant who carried out an impact assessment of LIFT. Article contributors include: Felicity Buckle, Senior Consultant in the Resilience Practice; John Leckie, Principal Global Practice Lead for Land; and Donald Lunan, Global Director for Climate.*
