@@ -9,15 +9,15 @@ author: Joseph Holden
 publication: Developing Alternatives
 ---
 
-Land and Climate: Lessons from Ethiopia
- 
+Climate change is leading to higher average temperatures and greater rainfall variability, with a pronounced effect on agricultural productivity and the suitability of major crops in Ethiopia. Farming households with tenure security are more likely to choose to access to credit and to invest in their land by planting trees and longer-term crops, and by reducing soil erosion—for example, via terracing. Such investments can help farmers mitigate risks related to heavy precipitation, such as soil run-off or crop failure. In addition to sequestering carbon, trees, through shade and moisture retention, help to increase land resilience to heat stress.
 
- 
-	Climate change is leading to higher average temperatures and greater rainfall variability, with a pronounced effect on agricultural productivity and the suitability of major crops in Ethiopia.
-	Farming households with tenure security are more likely to choose to access to credit and to invest in their land by planting trees and longer-term crops, and by reducing soil erosion—for example, via terracing.
-	Such investments can help farmers mitigate risks related to heavy precipitation, such as soil run-off or crop failure. In addition to sequestering carbon, trees, through shade and moisture retention, help to increase land resilience to heat stress.
+The [Land Investment for Transformation (LIFT)](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) programme has supported the Government of Ethiopia in providing land certificates to rural landholders. Recent evidence from LIFT highlights the importance of tenure security to incentivise smallholders to adapt to the climate risks they face, with lessons and recommendations for the design of future land and climate programmes.
 
-The Land Investment for Transformation (LIFT) programme has supported the Government of Ethiopia in providing land certificates to rural landholders. This Learning Brief summarises recent evidence from LIFT on the importance of tenure security to incentivise smallholders to adapt to the climate risks they face, with lessons and recommendations for the design of future land and climate programmes.
+
+
+
+
+
 
 Seventy percent of global, ice-free land is under productive use to support livelihoods and well-being. Land use is also a source of the three major greenhouse gases: methane, nitrous oxide, and carbon dioxide (IPCC 2020a). 
 
@@ -25,11 +25,11 @@ Land suffers the effects of climate change in various ways, from flooding to cro
 
 Smallholder farmers are at the front line of climate change. Their decisions—on issues from land-use intensification to reforestation—will be critical to the success of Ethiopia’s climate adaptation and mitigation strategies. They must also achieve food security without degrading their land (IPCC 2020b). 
  
-
+### sub
 
  
 The LIFT programme and tenure security
-To increase tenure security and spur farmers to invest in their land, the UK-funded LIFT programme supported the roll-out and provision of second-level land certificates (SLLC) to rural landholders. From 2014 to 2021, the programme provided 14.3 million SLLCs in 175 districts across the Amhara, Oromia, SNNP, and Tigray regions of Ethiopia. LIFT also worked to make the rural land administration system more sustainable and supported interventions in credit access, formal land rental, and input markets. 
+To increase tenure security and spur farmers to invest in their land, LIFT, funded by UK aid, supported the roll-out and provision of second-level land certificates (SLLC) to rural landholders. From 2014 to 2021, the programme provided 14.3 million SLLCs in 175 districts across the Amhara, Oromia, SNNP, and Tigray regions of Ethiopia. LIFT also worked to make the rural land administration system more sustainable and supported interventions in credit access, formal land rental, and input markets. 
 
 Commissioned by LIFT, recent research into the success of this approach used a survey that combined quantitative data collection with qualitative interviews (LIFT, 2021). This study builds on a large body of research on certification, tenure security, and investment (see Lawry et al., 2017), and most recently a study finding a 13 percentage point increase in land investment among those who had received SLLCs, compared to those who had not (Ghebru and Girmachew, 2020). 
 
