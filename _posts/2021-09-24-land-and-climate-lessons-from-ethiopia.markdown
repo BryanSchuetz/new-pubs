@@ -6,7 +6,9 @@ tags:
 - land rights
 - land tenure
 - environment-and-energy
-author: Joseph Holden
+author: "[Joseph Holden](https://www.linkedin.com/in/joseph-holden/)"
+thumbnail-image: "/uploads/malawi%20land%202-83cb4a.JPG"
+social-image: "/uploads/malawi%20land%202-83cb4a.JPG"
 publication: Developing Alternatives
 ---
 
@@ -71,4 +73,4 @@ While tenure security can motivate farmers to make longer-term investments, thes
 **2.** A balance is needed between communal and individual action. Climate programmes need to support communal work and investment, and also to harness the knowledge of farmers and their incentives to invest. Farmer knowledge is critical where highly localised solutions are required—for example, in adjusting to soil type, tackling erosion, and investing in irrigation and drainage.
 **3.** More vulnerable households to adapt. Poorer households, female-headed households, and older people may be less able to adapt. Climate programmes need to understand these challenges and help more vulnerable groups to enhance their tenure security. This can include, for example, greater engagement with rental market formalisation so that households can confidently and securely rent out their land and engage in more diverse on and off-farm income-generating activities, enabling more climate-resilient households.
 
-*Joseph Holden is an independent consultant who carried out an impact assessment of LIFT. Article contributors include: Felicity Buckle, Senior Consultant in the Resilience Practice; John Leckie, Principal Global Practice Lead for Land; and Donald Lunan, Global Director for Climate.*
+*[Joseph Holden](https://www.linkedin.com/in/joseph-holden/) is an independent consultant who carried out an impact assessment of LIFT. Article contributors include: Felicity Buckle, Senior Consultant in the Resilience Practice; John Leckie, Principal Global Practice Lead for Land; and Donald Lunan, Global Director for Climate.*
