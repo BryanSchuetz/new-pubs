@@ -7,6 +7,8 @@ tags:
 - land tenure
 - environment-and-energy
 author: "[Joseph Holden](https://www.linkedin.com/in/joseph-holden/)"
+thumbnail-image: "/uploads/malawi%20land%202-83cb4a.JPG"
+social-image: "/uploads/malawi%20land%202-83cb4a.JPG"
 publication: Developing Alternatives
 ---
 
