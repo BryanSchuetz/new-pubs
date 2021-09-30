@@ -8,6 +8,7 @@ tags:
 - land rights
 - land tenure
 - resilience
+- european-union
 author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/) "
 thumbnail-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter.jpg"
 social-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter.jpg"
