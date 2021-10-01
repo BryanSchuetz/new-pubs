@@ -6,6 +6,7 @@ tags:
 - covid-19
 - economic-growth
 - agriculture
+- european-union
 author: 'Neil Orchardson and Thembinkosi Nyathi '
 thumbnail-image: "/uploads/sm%201.jpg"
 social-image: "/uploads/sm%201.jpg"
