@@ -1,6 +1,6 @@
 ---
 title: 'Land and Climate: Lessons from Ethiopia'
-date: 2021-09-24 14:13:00 -04:00
+date: 2021-10-04 08:13:00 -04:00
 published: false
 tags:
 - land rights
@@ -52,7 +52,7 @@ Despite the challenging year, farmers continued to invest. Three-quarters report
 
 Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; Figure 4 shows land before and after SLLC roll-out. 
 
-![Graphics_for_DevAlts_article_on_Ethiopia_figure3.jpg](/uploads/Graphics_for_DevAlts_article_on_Ethiopia_figure3.jpg)
+![Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg](/uploads/Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg)
 
 Much of the investment landholders made was in longer-term crops such as coffee, wood, and various kinds of fruit trees. Of those citing an additional motivation for planting trees, 46 percent said it was to reduce erosion or promote soil fertility, 34 percent said it was to generate income from tree/wood sales, 11 percent said it was for food, and 9 percent said it was for use in house building.
 The species planted reflect these different priorities, but also deliver a range of climate impacts. Trees planted for soil management, shade, or boundary demarcation can have a direct positive impact, both for adaptation and mitigation. The same is true for trees planted for fruit or fodder. Trees planted for use as construction and building materials can also have a net positive impact if such trees are replaced once they are felled. 
