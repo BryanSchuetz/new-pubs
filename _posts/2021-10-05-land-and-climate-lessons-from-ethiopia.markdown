@@ -1,6 +1,6 @@
 ---
 title: 'Land and Climate: Lessons from Ethiopia'
-date: 2021-10-04 08:13:00 -04:00
+date: 2021-10-05 08:13:00 -04:00
 published: false
 tags:
 - land rights
@@ -60,6 +60,8 @@ The species planted reflect these different priorities, but also deliver a range
 Tree planting is not without challenges, however. Those planted for fuel and charcoal need careful management to have positive impact. In addition, some farmers were reluctant to plant trees due to effects on neighbouring farms, and some species (such as eucalyptus) can lead to fertility depletion and water deficit, or suppress vegetation (Dessie and Erkossa, 2011).
 
 While tenure security can motivate farmers to make longer-term investments, these individual investments may need to be complemented with communal works to optimise climate adaptation, which may entail support from extension workers and communal investments such as ripping and terracing.
+
+![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse of land within sample: Kacha Bira district, SNNP region.`
 
 **Recommendations on climate for land programme design**
 
