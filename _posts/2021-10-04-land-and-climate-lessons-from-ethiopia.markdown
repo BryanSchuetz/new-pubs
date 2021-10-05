@@ -61,6 +61,8 @@ Tree planting is not without challenges, however. Those planted for fuel and cha
 
 While tenure security can motivate farmers to make longer-term investments, these individual investments may need to be complemented with communal works to optimise climate adaptation, which may entail support from extension workers and communal investments such as ripping and terracing.
 
+![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse of land within sample: Kacha Bira district, SNNP region.`
+
 **Recommendations on climate for land programme design**
 
 **1.** Mobilising investment is an increasingly important aspect of land tenure programmes but needs to be made climate-smart. Land programmes need to help ensure that investments are appropriate, particularly in terms of climate change adaptation over the medium- and long-term, both in programme design and implementation.
