@@ -50,7 +50,7 @@ The survey included questions on production for the 2020/2021 Meher (main growin
 
 Despite the challenging year, farmers continued to invest. Three-quarters reported using inputs, and a third said they have used more inputs over the past three years, including fertiliser, pesticide, and improved seeds. Longer-term investments were made by 83 percent of households over the past three years, with terracing, ripping (deep tillage), and tree planting the most common.
 
-Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; The image below shows land before and after SLLC roll-out. 
+Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; the image below shows land before and after SLLC roll-out. 
 
 ![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse of land within sample: Kacha Bira district, SNNP region.`
 
