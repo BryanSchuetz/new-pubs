@@ -1,7 +1,6 @@
 ---
 title: 'Land and Climate: Lessons from Ethiopia'
 date: 2021-10-05 08:13:00 -04:00
-published: false
 tags:
 - land rights
 - land tenure
