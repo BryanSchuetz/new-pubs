@@ -52,7 +52,7 @@ Despite the challenging year, farmers continued to invest. Three-quarters report
 
 Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; the image below shows land before and after SLLC roll-out. 
 
-![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse of land within sample: Kacha Bira district, SNNP region.`
+![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse imagery of land within sample: Kacha Bira district, SNNP region.`
 
 Much of the investment landholders made was in longer-term crops such as coffee, wood, and various kinds of fruit trees. Of those citing an additional motivation for planting trees, 46 percent said it was to reduce erosion or promote soil fertility, 34 percent said it was to generate income from tree/wood sales, 11 percent said it was for food, and 9 percent said it was for use in house building.
 
