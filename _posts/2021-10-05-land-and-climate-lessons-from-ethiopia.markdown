@@ -8,8 +8,8 @@ tags:
 - climate
 - climate change
 author: "[Joseph Holden](https://www.linkedin.com/in/joseph-holden/)"
-thumbnail-image: "/uploads/malawi%20land%202-83cb4a.JPG"
-social-image: "/uploads/malawi%20land%202-83cb4a.JPG"
+thumbnail-image: "/uploads/A%20Widow%20%20with%20SLLC,%20Hulet%20Eju%20Enese,%20Amhara%20-0dd2f3.JPG"
+social-image: "/uploads/A%20Widow%20%20with%20SLLC,%20Hulet%20Eju%20Enese,%20Amhara%20-0dd2f3.JPG"
 publication: Developing Alternatives
 ---
 
