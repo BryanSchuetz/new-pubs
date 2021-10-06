@@ -51,7 +51,7 @@ The survey included questions on production for the 2020/2021 Meher (main growin
 
 Despite the challenging year, farmers continued to invest. Three-quarters reported using inputs, and a third said they have used more inputs over the past three years, including fertiliser, pesticide, and improved seeds. Longer-term investments were made by 83 percent of households over the past three years, with terracing, ripping (deep tillage), and tree planting the most common.
 
-Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; the image below shows land before and after SLLC roll-out. 
+Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Timelapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; the image below shows land before and after SLLC roll-out. 
 
 ![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse imagery of land within sample: Kacha Bira district, SNNP region.`
 
@@ -61,7 +61,7 @@ The species planted reflect these different priorities, but also deliver a range
 
 ![Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg](/uploads/Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg)
 
-Tree planting is not without challenges, however. Those planted for fuel and charcoal need careful management to have a positive impact. In addition, some farmers were reluctant to plant trees due to effects on neighbouring farms, and some species (such as eucalyptus) can lead to fertility depletion and water deficit, or suppress vegetation (Dessie and Erkossa, 2011).
+Tree planting is not without challenges, however. Those planted for fuel and charcoal need careful management to have a positive impact. In addition, some farmers were reluctant to plant trees due to effects on neighbouring farms, and some species (such as eucalyptus) [can lead to](https://www.scirp.org/(S(351jmbntvnsjt1aadkposzje))/reference/referencespapers.aspx?referenceid=1938879) fertility depletion and water deficit, or suppress vegetation.
 
 While tenure security can motivate farmers to make longer-term investments, these individual investments may need to be complemented with communal works to optimise climate adaptation, which may entail support from extension workers and communal investments such as ripping and terracing.
 
