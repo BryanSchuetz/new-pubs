@@ -50,19 +50,19 @@ The survey included questions on production for the 2020/2021 Meher (main growin
 
 Despite the challenging year, farmers continued to invest. Three-quarters reported using inputs, and a third said they have used more inputs over the past three years, including fertiliser, pesticide, and improved seeds. Longer-term investments were made by 83 percent of households over the past three years, with terracing, ripping (deep tillage), and tree planting the most common.
 
-Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; Figure 4 shows land before and after SLLC roll-out. 
+Respondents were more likely to cite longer-term investments as motivated by SLLC possession and tenure security, the most common being trees or longer-term crops (15 percent of respondents). Shorter-term investments were less likely to be linked to SLLC, with only a handful of those surveyed doing so. Time-lapse imagery shows tree planting and other investments increasingly evident for some parcels covered in the survey; The image below shows land before and after SLLC roll-out. 
 
-![Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg](/uploads/Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg)
+![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse of land within sample: Kacha Bira district, SNNP region.`
 
 Much of the investment landholders made was in longer-term crops such as coffee, wood, and various kinds of fruit trees. Of those citing an additional motivation for planting trees, 46 percent said it was to reduce erosion or promote soil fertility, 34 percent said it was to generate income from tree/wood sales, 11 percent said it was for food, and 9 percent said it was for use in house building.
 
 The species planted reflect these different priorities, but also deliver a range of climate impacts. Trees planted for soil management, shade, or boundary demarcation can have a direct positive impact, both for adaptation and mitigation. The same is true for trees planted for fruit or fodder. Trees planted for use as construction and building materials can also have a net positive impact if such trees are replaced once they are felled. 
 
+![Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg](/uploads/Graphics_for_DevAlts_article_on_Ethiopia_figure3-46dcb4.jpg)
+
 Tree planting is not without challenges, however. Those planted for fuel and charcoal need careful management to have a positive impact. In addition, some farmers were reluctant to plant trees due to effects on neighbouring farms, and some species (such as eucalyptus) can lead to fertility depletion and water deficit, or suppress vegetation (Dessie and Erkossa, 2011).
 
 While tenure security can motivate farmers to make longer-term investments, these individual investments may need to be complemented with communal works to optimise climate adaptation, which may entail support from extension workers and communal investments such as ripping and terracing.
-
-![Screen Shot 2021-10-05 at 4.00.57 PM.png](/uploads/Screen%20Shot%202021-10-05%20at%204.00.57%20PM.png)`Timelapse of land within sample: Kacha Bira district, SNNP region.`
 
 **Recommendations on climate for land programme design**
 
