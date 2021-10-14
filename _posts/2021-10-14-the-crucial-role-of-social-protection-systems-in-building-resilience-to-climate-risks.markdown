@@ -8,6 +8,7 @@ tags:
 - climate change
 - resilience
 - stability
+- covid-19
 author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman) and [Zac
   Bull](https://www.dai.com/who-we-are/our-team/zac-bull)"
 publication: 'Developments '
