@@ -76,3 +76,5 @@ There is potential for Bangladesh to build a shock-responsive social protection 
 Such a systems-based approach offers predictable support under pre-defined circumstances, in line with established policy and entitlements rather than short-term politics and discretion. Such predictability enables individuals and authorities to plan better, make calculated decisions, and better understand and forecast the cost of reducing disaster risk and impact, including through an array of risk financing options. 
 
 Faced with the likely scenarios of rising poverty, growing inequality, and increasingly disrupted weather patterns, having the systems in place to deliver assistance to people when needed should be a high priority. 
+
+*Strengthening Public Financial Management of Social Protection Bangladesh was a one-year project extension, implemented through the supervision of FCDO Bangladesh. DAI took on the management of the project in July 2020.*
