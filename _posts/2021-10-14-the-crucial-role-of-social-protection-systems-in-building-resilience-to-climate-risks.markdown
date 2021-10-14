@@ -11,7 +11,7 @@ tags:
 - covid-19
 author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman) and [Zac
   Bull](https://www.dai.com/who-we-are/our-team/zac-bull)"
-publication: 'Developments '
+publication: Developments
 ---
 
 Already facing severe climate-related disruptions, Bangladesh is now enduring the additional economic and human development setback of the COVID-19 pandemic. Both threaten to reverse the considerable gains made to reduce poverty and inequality in the country. Bangladesh is trying to stay one step ahead, however, by building social protection and disaster response systems that enhance long-term resilience by getting financial resources to the needy when they most need that support.
