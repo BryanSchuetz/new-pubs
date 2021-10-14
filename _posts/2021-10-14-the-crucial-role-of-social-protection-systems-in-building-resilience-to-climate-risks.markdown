@@ -15,19 +15,34 @@ publication: 'Developments '
 ---
 
 Already facing severe climate-related disruptions, Bangladesh is now enduring the additional economic and human development setback of the COVID-19 pandemic. Both threaten to reverse the considerable gains made to reduce poverty and inequality in the country. Bangladesh is trying to stay one step ahead, however, by building social protection and disaster response systems that enhance long-term resilience by getting financial resources to the needy when they most need that support.
+
+
+
+
+
 As part of this process, the Government of Bangladesh has developed a National Social Security Strategy (NSSS) to reform the provision of social assistance. The strategy seeks to help people when they are particularly vulnerable: during pregnancy and infancy, in their early years, or if they incur a disability. It also offers assistance for female-headed households and the elderly. The timetable for implementing the NSSS has now passed the midway point.
+
 The Government of Bangladesh provides two main strands of direct assistance to its citizens: long-term developmental aid and disaster response assistance. The former helps vulnerable people manage the risks they face; the latter builds their resilience so they can respond better to disasters. Aligning the two around common systems and a fair, predictable, and efficient framework would help individuals and authorities to plan and make informed decisions, resulting in a more resilient society. Putting this approach in place requires:
-•	An up-to-date register of people needing long-term support and those exposed to disaster hazards, be they climate-, livelihood-, or health-related; 
-•	A fair way of defining and identifying those most affected;
-•	An efficient means of transferring benefits directly; and 
-•	The ability to track the financial resources transferred and the impact they are having. 
+
+* An up-to-date register of people needing long-term support and those exposed to disaster hazards, be they climate-, livelihood-, or health-related; 
+* A fair way of defining and identifying those most affected;
+* An efficient means of transferring benefits directly; and 
+* The ability to track the financial resources transferred and the impact they are having. 
+
 This article outlines the benefits of such an approach, how such a system works, and what the priorities are to put this in place.
-Current Environment
+
+## Current Environment
+
 Bangladeshi citizens are greatly exposed to natural hazards. In the past, the government responded reactively to disasters, focusing on relief and rehabilitation. Since the 1990s it has taken a more proactive approach including risk reduction, community preparedness, and integrated response efforts. However, Bangladesh faces immense challenges in adapting to climate change. Two-thirds of the country is less than five meters above mean sea level, leaving it severely exposed to rises in sea level, as well as cyclones, storm-surge flooding, and salination. Regions of the country experience droughts, seasonal flooding, and abnormal temperature changes.
+
 Some impressive progress has already been made toward reforming Bangladesh’s plethora of long-term social transfers (direct provision of cash and sometimes in-kind benefits to selected individuals or households). In making these transfers, authorities are starting to consolidate support around certain life stages with an increased risk of falling into poverty. However, the economic disruption caused by COVID-19 has threatened millions of livelihoods in Bangladesh, with many people already plunged into poverty. The government’s resources are now focused on mitigating the impact of COVID-19 among the poor and vulnerable, especially targeting those who are not the current recipients of any of the Social Safety Net Programmes (SSNP).
-The U.K. Foreign, Commonwealth and Development Office’s Strengthening Public Financial Management of Social Protection project, managed by DAI, helped establish a central management information system in the government’s Social Protection Budget Management Unit to monitor social protection expenditure. A groundbreaking achievement of the project is the design, pilot, and successful implementation of an MIS-Integrated Government to Person (G2P) digital payment system for the transfer of social protection allowances. This system, which ensures the efficient transfer of cash benefits directly from the treasury to beneficiaries’ bank account or mobile wallet, has greatly improved efficiency and accountability. Approximately 26 million of the 31 million recipients of regular state cash benefits now receive their payments through this system, compared to just 0.1 million in 2017–2018. The payments management approach will provide the foundation for an adaptive (or shock-responsive) social protection system.
-Gaps in Social Transfer Access and Coverage 
+
+The U.K. Foreign, Commonwealth & Development Office’s Strengthening Public Financial Management of Social Protection project, managed by DAI, helped establish a central management information system in the government’s Social Protection Budget Management Unit to monitor social protection expenditure. A groundbreaking achievement of the project is the design, pilot, and successful implementation of an MIS-Integrated Government to Person (G2P) digital payment system for the transfer of social protection allowances. This system, which ensures the efficient transfer of cash benefits directly from the treasury to beneficiaries’ bank account or mobile wallet, has greatly improved efficiency and accountability. Approximately 26 million of the 31 million recipients of regular state cash benefits now receive their payments through this system, compared to just 0.1 million in 2017–2018. The payments management approach will provide the foundation for an adaptive (or shock-responsive) social protection system.
+
+## Gaps in Social Transfer Access and Coverage
+
 There are some important gaps, however, that need addressing. For example, long-term transfer programs need to expand to benefit pregnant women and children under five; other programs need consolidating to serve vulnerable women and female-headed households. The poorest are also largely excluded; the criteria and data used to target poorer recipients remain error-prone, and are frequently skewed at the self-interested discretion of local officials. Moreover, transfer levels are not adequate  to make meaningful differences to people’s lives. Although high-priority groups are well covered 16 million out of the 31 million people covered are education-related stipends, which have quite low transfer values and are insufficient to result in transformative poverty reduction.
+
 Importantly, there is no consolidated household register. The National Household Database (NHD) has yet to be fully implemented. Much of the data gathered falls out of date relatively quickly, and attempts to use it for targeting a COVID-19 response payment proved that the NHD remains unfit for purpose.
 Furthermore, recipients—especially the most vulnerable people—tend to experience the system as fragmented, impenetrable, and duplicative, both in life-stage support transfers and discretionary disaster-related provisions. In both cases, support is dependent on the financing available and on officials' interpretation of who “deserves” material help. It is thus not predictable or rules-based.
 Although the G2P system can increase cash transfers quickly and accurately to meet growing needs, many programs—especially for emergency distributions—continue to use in-kind transfers even though they are often less efficient and effective. 
