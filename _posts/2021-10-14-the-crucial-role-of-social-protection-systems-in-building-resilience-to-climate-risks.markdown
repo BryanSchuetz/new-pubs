@@ -41,24 +41,38 @@ The U.K. Foreign, Commonwealth & Development Office’s Strengthening Public Fin
 
 ## Gaps in Social Transfer Access and Coverage
 
-There are some important gaps, however, that need addressing. For example, long-term transfer programs need to expand to benefit pregnant women and children under five; other programs need consolidating to serve vulnerable women and female-headed households. The poorest are also largely excluded; the criteria and data used to target poorer recipients remain error-prone, and are frequently skewed at the self-interested discretion of local officials. Moreover, transfer levels are not adequate  to make meaningful differences to people’s lives. Although high-priority groups are well covered 16 million out of the 31 million people covered are education-related stipends, which have quite low transfer values and are insufficient to result in transformative poverty reduction.
+There are some important gaps, however, that need addressing. For example, long-term transfer programs need to expand to benefit pregnant women and children under five; other programs need consolidating to serve vulnerable women and female-headed households. The poorest are also largely excluded; the criteria and data used to target poorer recipients remain error-prone and are frequently skewed at the self-interested discretion of local officials. Moreover, transfer levels are not adequate to make meaningful differences in people’s lives. Although high-priority groups are well covered 16 million out of the 31 million people covered are education-related stipends, which have quite low transfer values and are insufficient to result in transformative poverty reduction.
 
 Importantly, there is no consolidated household register. The National Household Database (NHD) has yet to be fully implemented. Much of the data gathered falls out of date relatively quickly, and attempts to use it for targeting a COVID-19 response payment proved that the NHD remains unfit for purpose.
+
 Furthermore, recipients—especially the most vulnerable people—tend to experience the system as fragmented, impenetrable, and duplicative, both in life-stage support transfers and discretionary disaster-related provisions. In both cases, support is dependent on the financing available and on officials' interpretation of who “deserves” material help. It is thus not predictable or rules-based.
+
 Although the G2P system can increase cash transfers quickly and accurately to meet growing needs, many programs—especially for emergency distributions—continue to use in-kind transfers even though they are often less efficient and effective. 
-COVID-19 has disproportionately affected poor people and people previously in informal or precarious employment who have since fallen into poverty. Poverty rates in Bangladesh have risen during the  pandemic from 23 percent to 36 percent and will take considerable time to fall again. Coverage by social transfers did expand in the wake of COVID, by 5.8 million households, but this expansion does not keep pace with the increase in need. Attempts to make transfers to people not already receiving benefits were hampered by outdated and inaccurate data. Most people in the target group had simply not been on any register.
+
+COVID-19 has disproportionately affected poor people and people previously in informal or precarious employment who have since fallen into poverty. Poverty rates in Bangladesh have risen during the pandemic from 23 percent to 36 percent and will take considerable time to fall again. Coverage by social transfers did expand in the wake of COVID, by 5.8 million households, but this expansion does not keep pace with the increase in need. Attempts to make transfers to people not already receiving benefits were hampered by outdated and inaccurate data. Most people in the target group had simply not been on any register.
+
 Addressing these gaps presents an opportunity to expand protection to cover risks not currently within the remit of the G2P system. Adapting to the impact of the climate crisis, for example, especially in the context of hazards and disasters, will require the Government of Bangladesh to provide targeted, easily accessible, efficient, equitable, and transparent financial support to affected populations. Making climate finance more accessible is a key challenge for providers and recipients. Using existing systems to increase the volume of finance that reaches the local level and individual people, and being able to track those resources and the impact they are having, will greatly enhance resilience to future shocks. Having a clear understanding of the extent to which the G2P system in Bangladesh could be mobilised for transferring climate finance is key. 
-Current Priorities and Next Steps
+
+## Current Priorities and Next Steps
+
 To consolidate the achievements and address the remaining shortfalls under the National Social Security Strategy, it’s first worth re-stating some of the objectives of an improved approach:
-•	Promote inclusion, especially among the poor—expanding coverage to more sectors, particularly climate finance, while reducing exclusion.
-•	Improve accuracy—improving poverty targeting to make it more objective and accurate, and removing discretion based on narrow self-interest.
-•	Enhance shock responsiveness—scaling up the coverage and value of transfers to households in a crisis, whether a climate-based disaster or economic shock. This capability is dependent on the first two elements because it requires widespread inclusion in the system combined with accurate, timely data on those likely to be affected.
+
+* Promote inclusion, especially among the poor—expanding coverage to more sectors, particularly climate finance, while reducing exclusion.
+* Improve accuracy—improving poverty targeting to make it more objective and accurate, and removing discretion based on narrow self-interest.
+* Enhance shock responsiveness—scaling up the coverage and value of transfers to households in a crisis, whether a climate-based disaster or economic shock. This capability is dependent on the first two elements because it requires widespread inclusion in the system combined with accurate, timely data on those likely to be affected.
+
 Three mutually reinforcing actions would help us advance this strategy:
-•	Expanding lifecycle programming and shifting poverty targeting toward a transparent and rule-based approach;
-•	Developing an easy, on-demand, “one-stop-shop” approach to registration, alongside outreach to marginalized groups who might otherwise be left behind; and
-•	Shifting the current transfer program MIS to a comprehensive social registry covering the whole population, integrated across programs and households.
+
+* Expanding lifecycle programming and shifting poverty targeting toward a transparent and rule-based approach;
+* Developing an easy, on-demand, “one-stop-shop” approach to registration, alongside outreach to marginalized groups who might otherwise be left behind; and
+* Shifting the current transfer program MIS to a comprehensive social registry covering the whole population, integrated across programs and households.
+
 Such a scaled-up and improved system would constitute the backbone of a national adaptive response capacity. For acute shocks such as cyclones, the broad coverage of lifecycle programs would enable the system to provide most households in an affected area with emergency cash transfers. At the same time, these programs can strengthen longer-term resilience by increasing transfers as and when necessary to ensure that people in need are not forced into negative coping mechanisms.
+
 There is potential for Bangladesh to build a shock-responsive social protection system, consisting of an inclusive lifecycle targeting approach, an on-demand registration process (made accessible, for example, via the Union Data Centres), and a social registry housed in a Social Protection Budget Management Unit. Such an approach would result in a G2P payments system that could help reduce poverty and inequality while also responding to disasters, whether they be the perennial weather-based hazards of floods and cyclones or the “black swans” of food price spikes and viral pandemics.
-Predictability is a Good Thing
+
+## Predictability is a Good Thing
+
 Such a systems-based approach offers predictable support under pre-defined circumstances, in line with established policy and entitlements rather than short-term politics and discretion. Such predictability enables individuals and authorities to plan better, make calculated decisions, and better understand and forecast the cost of reducing disaster risk and impact, including through an array of risk financing options. 
+
 Faced with the likely scenarios of rising poverty, growing inequality, and increasingly disrupted weather patterns, having the systems in place to deliver assistance to people when needed should be a high priority. 
