@@ -3,6 +3,11 @@ title: The Crucial Role of Social Protection Systems in Building Resilience to C
   Risks
 date: 2021-10-14 09:08:00 -04:00
 published: false
+tags:
+- climate
+- climate change
+- resilience
+- stability
 author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman) and [Zac
   Bull](https://www.dai.com/who-we-are/our-team/zac-bull)"
 publication: 'Developments '
