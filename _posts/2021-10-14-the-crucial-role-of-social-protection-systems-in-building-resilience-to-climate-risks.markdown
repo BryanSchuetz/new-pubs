@@ -11,6 +11,8 @@ tags:
 - covid-19
 author: "[Ric Goodman](https://www.dai.com/who-we-are/our-team/ric-goodman) and [Zac
   Bull](https://www.dai.com/who-we-are/our-team/zac-bull)"
+thumbnail-image: "/uploads/Johannes%20Go_One%20Moring%20at%20Parliament%20Building.jpg"
+social-image: "/uploads/Johannes%20Go_One%20Moring%20at%20Parliament%20Building.jpg"
 publication: Developments
 ---
 
@@ -30,6 +32,8 @@ The Government of Bangladesh provides two main strands of direct assistance to i
 * The ability to track the financial resources transferred and the impact they are having. 
 
 This article outlines the benefits of such an approach, how such a system works, and what the priorities are to put this in place.
+
+![Dhaka0021.jpg](/uploads/Dhaka0021.jpg)
 
 ## Current Environment
 
@@ -54,6 +58,8 @@ Although the G2P system can increase cash transfers quickly and accurately to me
 COVID-19 has disproportionately affected poor people and people previously in informal or precarious employment who have since fallen into poverty. Poverty rates in Bangladesh have risen during the pandemic from [23 percent to 36 percent](https://drbinayaksen.files.wordpress.com/2020/12/ged-extreme-poverty-paper.pdf) and will take considerable time to fall again. Coverage by social transfers did expand in the wake of COVID, by 5.8 million households, but this expansion does not keep pace with the increase in need. Attempts to make transfers to people not already receiving benefits were hampered by outdated and inaccurate data. Most people in the target group had simply not been on any register.
 
 Addressing these gaps presents an opportunity to expand protection to cover risks not currently within the remit of the G2P system. Adapting to the impact of the climate crisis, for example, especially in the context of hazards and disasters, will require the Government of Bangladesh to provide targeted, easily accessible, efficient, equitable, and transparent financial support to affected populations. Making climate finance more accessible is a key challenge for providers and recipients. Using existing systems to increase the volume of finance that reaches the local level and individual people, and being able to track those resources and the impact they are having, will greatly enhance resilience to future shocks. Having a clear understanding of the extent to which the G2P system in Bangladesh could be mobilised for transferring climate finance is key. 
+
+![Groundnut 04_Md Rashedur Rahman_01720041552.jpg](/uploads/Groundnut%2004_Md%20Rashedur%20Rahman_01720041552.jpg)
 
 ## Current Priorities and Next Steps
 
