@@ -1,8 +1,7 @@
 ---
 title: The Crucial Role of Social Protection Systems in Building Resilience to Climate
   Risks
-date: 2021-10-14 09:08:00 -04:00
-published: false
+date: 2021-10-15 09:00:00 -04:00
 tags:
 - climate
 - climate change
