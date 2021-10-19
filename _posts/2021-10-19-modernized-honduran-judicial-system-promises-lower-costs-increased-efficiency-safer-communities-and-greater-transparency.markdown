@@ -33,7 +33,7 @@ SEJE will yield cost savings and make judicial operations more efficient and tra
 
 “Strengthening access to justice creates hope,” said USAID/Honduras Mission Director [Janina Jaruzelski](https://www.usaid.gov/who-we-are/organization/janina-jaruzelski) in her address during the launch event last month. “This will also help to reduce irregular migration, since citizens will feel safer in their country.” The overall impact of this innovation will be more efficient administration of justice and reduced impunity for people who break the law, summed up Unidos Chief of Party [Caterina Valero](https://www.dai.com/who-we-are/our-team/caterina-valero). 
 
-<iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+{:.video}<iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ### Flagship Project
 
 The creation of SEJE started almost four years ago after Unidos assessed the technology the Judicial Branch was using at the time. That assessment resulted in the drafting of a Strategic Innovation and Modernization Plan, with SEJE as the centerpiece. The Supreme Court Plenary then authorized the implementation SEJE and the creation of three groups to oversee it: the National Coordination Committee (justices of the Supreme Court), a Technical Committee, and 18 Departmental Committees to coordinate regional implementation. 
@@ -50,7 +50,7 @@ SEJE is now operational in Tegucigalpa’s Extortion Court and will roll out to 
 
 Another aspect of SEJE designed to bolster people’s security is its biometric controls module, which replaces the current system for documenting the compliance of people charged with crimes but granted pretrial release. Those defendants are obliged to appear periodically before the court and sign a logbook that is stamped and dated by a court secretary. The biometric system will instead require a fingerprint scan that is automatically entered into an electronic court record with a digital timestamp, eliminating the potential for fraudulent registry entries.
 
-![USAID_SEJE_Launch-09784.jpg](/uploads/USAID_SEJE_Launch-09784.jpg)`Project leaders at the launch event of the new SEJE database. Photo credit: USAID Unidos.`
+![USAID_SEJE_Launch-09784.jpg](/uploads/USAID_SEJE_Launch-09784.jpg)`Supreme Court Magistrate Edgardo Cáceres Castellanos, left, and Chief Justice Rolando Agueta, right, give Unidos Chief of Party Caterina Valero, center, a plaque recognizing the project’s support for SEJE during the system’s inauguration event. Photo credit: USAID Unidos.`
 
 ### Second Layer
 
