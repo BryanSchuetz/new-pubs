@@ -50,7 +50,7 @@ The subsequent [Economic Development for a Sustainable Environment](https://www.
 
 To deepen linkages among market actors still further, AVANSE focused not on building the capacity of any single actor or set of actors (that is, farmers or farmer groups), but rather on building the capacities of a wide range of actors, including farmers and their cooperatives, multiple exporters, and universities. Not only did AVANSE emphasize creating strong relationships between actors at different functional levels (between cooperatives and exporters, for example), it also fostered healthy competition between firms at the same level (exporter-exporter) to stimulate innovation and adoption of value-adding practices such as fermentation. This approach yielded better results. 
 
-![Beautiful pics of fermented vs nonfermented cacao.jpg](/uploads/Beautiful%20pics%20of%20fermented%20vs%20nonfermented%20cacao.jpg)`Fermented versus nonfermented cacao.`
+![Beautiful pics of fermented vs nonfermented cacao.jpg](/uploads/Beautiful%20pics%20of%20fermented%20vs%20nonfermented%20cacao.jpg)`Fermented versus nonfermented cacao. Photo: USAID Haiti AVANSE.`
 
 ## Cooperation and Competition
 
@@ -66,7 +66,7 @@ The improved relationship with the exporter also enables the cooperative to draw
 
 In a bid to deepen linkages among market actors still further, AVANSE facilitated partnerships between exporters and local processing businesses. Exporters supply lower-quality, nonexportable cacao at a discount to these local small enterprises, which then transform it into goods such as chocolate bars and cacao butter lotion for the local market. These improved linkages are spurring the growth of a rapidly expanding local cacao confectionery market in the North—one that is increasingly attracting the participation of young people and women as entrepreneurs.
 
-![coop.jpg](/uploads/coop.jpg)`A female cooperative member shows her products.`
+![coop.jpg](/uploads/coop.jpg)`A female cooperative member shows her products. Photo: USAID Haiti AVANSE.`
 
 ## Fomenting Competition
 
