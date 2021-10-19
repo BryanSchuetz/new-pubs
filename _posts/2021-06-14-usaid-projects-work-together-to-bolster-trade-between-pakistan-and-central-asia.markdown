@@ -28,7 +28,7 @@ This convention facilitates the international carriage of goods among contractin
 
 Pakistan acceded to the TIR Convention in July 2015 and was declared as a TIR operational country by the IRU in April 2018. 
 
-![nego.jpg](/uploads/nego.jpg)`Photo credit: USAID CTJ.`
+![nego.jpg](/uploads/nego.jpg)`Photo: USAID CTJ.`
 
 ## Cutting the Red Tape
 
@@ -44,7 +44,7 @@ To help demonstrate the viability of TIR and unravel the regulatory, infrastruct
 
 PREIA also worked with another USAID project—the [Central Asia Competitiveness, Trade, and Jobs activity (CTJ)](https://www.dai.com/our-work/projects/central-asia-competitiveness-trade-and-jobs-activity-ctj), also led by DAI, to organize business-to-business and business-to-government meetings between TCS Logistics and the stakeholders in the respective destination countries of the pilot shipments to explore opportunities to leverage transit and trade routes between Pakistan and the Central Asian republics.
 
-![truck 1.jpg](/uploads/truck%201.jpg)`Photo credit: USAID CTJ.`
+![truck 1.jpg](/uploads/truck%201.jpg)`Photo: USAID CTJ.`
 
 The first pilot consignment [was initiated](https://uz.usembassy.gov/usaid-facilitates-trade-between-pakistan-and-central-asia/) this year, when a cargo of herbal medicines departed Karachi on April 28 and arrived in Tashkent, Uzbekistan on May 4 via the Karachi-Kabul-Termez route. Of these eight days, it took only two days to cross Afghanistan and reach Uzbekistan.
 
