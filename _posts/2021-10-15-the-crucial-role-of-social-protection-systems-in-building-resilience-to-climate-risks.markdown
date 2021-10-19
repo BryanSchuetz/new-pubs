@@ -32,7 +32,7 @@ The Government of Bangladesh provides two main strands of direct assistance to i
 
 This article outlines the benefits of such an approach, how such a system works, what the priorities are to put this in place, how it builds resilience to climatic shocks and could increase the efficiency and impact of climate-specific support.
 
-![Dhaka0021.jpg](/uploads/Dhaka0021.jpg)
+![Dhaka0021.jpg](/uploads/Dhaka0021.jpg)`Photo: DAI.`
 
 ## Current Environment
 
@@ -58,7 +58,7 @@ COVID-19 has disproportionately affected poor people and people previously in in
 
 Addressing these gaps presents an opportunity to expand protection to cover risks not currently within the remit of the G2P system. Adapting to the impact of the climate crisis, for example, especially in the context of hazards and disasters, will require the Government of Bangladesh to provide targeted, easily accessible, efficient, equitable, and transparent financial support to affected populations. Making climate finance more accessible is a key challenge for providers and recipients. Using existing systems to increase the volume of finance that reaches the local level and individual people, and being able to track those resources and the impact they are having, will greatly enhance resilience to future shocks. Having a clear understanding of the extent to which the G2P system in Bangladesh could be mobilised for transferring climate finance is key. 
 
-![Groundnut 04_Md Rashedur Rahman_01720041552.jpg](/uploads/Groundnut%2004_Md%20Rashedur%20Rahman_01720041552.jpg)
+![Groundnut 04_Md Rashedur Rahman_01720041552.jpg](/uploads/Groundnut%2004_Md%20Rashedur%20Rahman_01720041552.jpg)`Photo: USAID Bangladesh Agricultural Value Chains.`
 
 ## Current Priorities and Next Steps
 
