@@ -32,7 +32,7 @@ The Government of Bangladesh provides two main strands of direct assistance to i
 
 This article outlines the benefits of such an approach, how such a system works, what the priorities are to put this in place, how it builds resilience to climatic shocks and could increase the efficiency and impact of climate-specific support.
 
-![Dhaka0021.jpg](/uploads/Dhaka0021.jpg)
+![Dhaka0021.jpg](/uploads/Dhaka0021.jpg)`Photo: DAI.`
 
 ## Current Environment
 
