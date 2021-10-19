@@ -53,7 +53,7 @@ Local campaigns also generated TV coverage that helped spread the word on the va
 
 *Asegurando* is also conducting other activities designed to boost retention in 185 schools hosting 100,000 students. The project is delivering school supplies for nearly 50,000 young people and will provide workbooks in June and July for 50,000 students who do not have access to internet or electronic devices. Some 125 volunteers are conducting activities, such as tutoring students who are struggling academically to ensure they pass their tests and stay in school. 
 
-![School kits Tegucigalpa.jpeg](/uploads/School%20kits%20Tegucigalpa.jpeg)`The project delivered much-needed equipment and materials to students and schools.`
+![School kits Tegucigalpa.jpeg](/uploads/School%20kits%20Tegucigalpa.jpeg)`The project delivered much-needed equipment and materials to students and schools. Photo: USAID Honduras Asegurando.`
 
 ## Staying in School
 
