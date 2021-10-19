@@ -17,7 +17,7 @@ In 2014, the U.S. Agency for International Development (USAID)’s Biodiversity 
 
 
 
-![Pangolin (1).JPG](/uploads/Pangolin%20(1).JPG)
+![DSC_0799-264967.jpg](/uploads/DSC_0799-264967.jpg)`Photo: USAID Philippines Protect Wildlife.`
 
 ## Allure of Wildlife Makes Philippines a Criminal Target 
 
