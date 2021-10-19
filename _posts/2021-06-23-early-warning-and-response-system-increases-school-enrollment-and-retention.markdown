@@ -17,13 +17,13 @@ In response, the U.S. Agency for International Development (USAID) [*Asegurando 
 
 
 
-![Enrollment campaign 3.jpg](/uploads/Enrollment%20campaign%203.jpg)`The project team conducted an extensive campaign to encourage students to re-enroll in school.`
+![Enrollment campaign 3.jpg](/uploads/Enrollment%20campaign%203.jpg)`The project team conducted an extensive campaign to encourage students to re-enroll in school. Photo: USAID Honduras Asegurando.`
 
 After the ministry opened registration in early February 2021, enrollment gradually climbed over the next several weeks in March, and *Asegurando* provided weekly updates to the Ministry through a newly developed EWRS dashboard. The dashboard offers decisionmakers a user-friendly visualization of enrollment and retention figures across the country so that officials can respond to challenges in any given region.
 
 But on March 19, some five weeks after school registration re-opened, the enrollment rate had only reached 83 percent of the statistically generated forecast. Minister of Education Arnaldo Bueso called for an emergency Government of Honduras cabinet meeting to address the [historically low rate](https://contracorriente.red/en/2021/02/12/pandemic-sees-thousands-of-honduran-children-missing-out-on-school/), calling it an “education crisis.” He suggested that many Honduran students were migrating to the United States instead of enrolling in school. He called on the cabinet members to support enrollment efforts and asked *Asegurando* to present the EWRS.
 
-![Home visits 2.JPG](/uploads/Home%20visits%202.JPG)`Part of the campaign included visits to households to determine whether students were able to return.`
+![Home visits 2.JPG](/uploads/Home%20visits%202.JPG)`Part of the campaign included visits to households to determine whether students were able to return. Photo: USAID Honduras Asegurando.`
 
 ## How it Works
 
