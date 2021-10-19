@@ -32,7 +32,7 @@ CDIP’s objective was to support the development of a democratic system in whic
 
 In pursuing all four mandates, CDIP focused on engaging women and other socially excluded groups.
 
-![001.jpg](/uploads/001.jpg)`Photo courtesy: CDIP.`
+![001.jpg](/uploads/001.jpg)`Photo: CDIP.`
 
 ## Better Elections Lead to Better-Functioning Government
 
@@ -44,7 +44,7 @@ Among the triumphs of the 2018 election process was a major milestone for the co
 
 CDIP contributed to other gains in the electoral process, including a technically better-managed election with significantly fewer polling day irregularities than the previous general election; the publication of all polling station results forms; the collection of gender-disaggregated turnout data at the polling station level for the [first time ever](https://fafen.org/fafens-analysis-of-voter-turnout-in-ge-2018/); and uniform, effective enforcement of regulations governing the campaign period for candidates and political parties.
 
-![MG_1533.jpg](/uploads/MG_1533.jpg)`Photo courtesy: CDIP.`
+![MG_1533.jpg](/uploads/MG_1533.jpg)`Photo: CDIP.`
 
 ## After the Election
 
@@ -62,7 +62,7 @@ In addition to the outreach CDIP achieved with women, the team worked to integra
 
 The committee will review laws to protect the rights of persons with disabilities; suggest legislative measures and amendments where required for the welfare of persons with disabilities; report on the implementation status of laws pertaining to persons with disabilities and of international conventions; and take note of abuse of the rights of persons with disabilities and suggest remedial measures. 
 
-![1-8557dc.JPG](/uploads/1-8557dc.JPG)`Photo courtesy: CDIP.`
+![1-8557dc.JPG](/uploads/1-8557dc.JPG)`Photo: CDIP.`
 
 The Speaker of the National Assembly also announced that the Constitution of Pakistan would be translated into braille and the website of the National Assembly made accessible for visually impaired people. The Senate passed a resolution to make all public buildings, hospitals, and recreational and educational facilities accessible for persons with disabilities. And the Federal Directorate of Education committed to ensuring that all public sector education institutions in Islamabad are accessible.
 
