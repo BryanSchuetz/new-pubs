@@ -42,7 +42,7 @@ A similar reform opportunity emerged in Pakistan, where the U.S. Agency for Inte
 
 This exchange, combined with the Committee’s own detailed review of the trade and transit process, has accelerated several key transit and trade reforms that may otherwise have taken years to achieve. PREIA continues to support this process and in October helped to convene the public-private sector [Pakistan-Afghanistan Trade and Investment Forum 2020](https://www.dawn.com/news/1587338). Focused on building trust and reviewing actions to reduce the costs of trade and transit, this high-level event promises to enhance trade, investment, and economic cooperation between the two countries.
 
-![pak ZD4_4896.jpg](/uploads/pak%20ZD4_4896.jpg)`The PREIA team helped to convene the recent public-private sector Pakistan-Afghanistan Trade and Investment Forum 2020, where Imran Khan, Prime Minister of Pakistan, at left, inaugurated the conference, with Asad Qaiser, Speaker of National Assembly of Pakistan.` 
+![pak ZD4_4896.jpg](/uploads/pak%20ZD4_4896.jpg)`The PREIA team helped to convene the recent public-private sector Pakistan-Afghanistan Trade and Investment Forum 2020, where Imran Khan, Prime Minister of Pakistan, at left, inaugurated the conference, with Asad Qaiser, Speaker of National Assembly of Pakistan. Photo: DAI.` 
 
 ## Building Enterprise and Trade Resilience 
 
@@ -56,7 +56,7 @@ COVID-19 prompted similar adaptation in Myanmar. The [Economic Response Facility
 
 This process included a business survey carried out by the Asia Foundation, covering 750 companies; exporter surveys; and policy notes focused on financial inclusion, medical supplies, foreign investment, and support to micro, small, and medium-sized enterprises (MSMEs). This evidence suggested that trade and business continuity was under severe stress. The Asia Foundation found that by May, 29 percent of enterprises had completely closed, profitability had declined, workers were being laid off, and half of enterprises saw their survival at risk. The garments, textiles, hotel, and tourism sectors were particularly hard hit. 
 
-![1 Supporting SME in Chin State.jpg](/uploads/1%20Supporting%20SME%20in%20Chin%20State.jpg)`ERF is helping the government in Myanmar assess how COVID-19 is affecting small firms.` 
+![1 Supporting SME in Chin State.jpg](/uploads/1%20Supporting%20SME%20in%20Chin%20State.jpg)`ERF is helping the government in Myanmar assess how COVID-19 is affecting small firms. Photo: FCDO ERF.` 
 
 These trends are worsening, and while COVID-19 is creating some commercial opportunities—in tech and financial inclusion, for example—there is a pressing need to prioritise reform activities and enhance coordination across the health and economic COVID-19 response. ERF and ITC continue to support this process and are encouraging the government to integrate COVID-19 emergency and recovery response within Myanmar’s existing Private Sector Development Action Plan, National Export Strategy, and investment response.
 
@@ -68,7 +68,7 @@ Beyond our trade practice, other parts of DAI have also been exploring how to he
 
 Technology has always driven trade. From the earliest merchant ships to refrigerated containers to the faxed letter of credit, the history of globalisation is intimately tied to tech innovation. Technology was already beginning to reshape the trade landscape and COVID-19 has incentivised increased uptake of “tradetech” solutions across local and global trading systems. 
 
-![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`ERF works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs.`
+![Photo 1-49ad74.jpg](/uploads/Photo%201-49ad74.jpg)`ERF works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for entrepreneurs. Photo: FCDO ERF.`
 
 Technology-driven approaches to enhance access and efficiency are having a positive impact on cross-border commerce. Pioneering govtech countries such as Estonia and Singapore are using information and communications technologies and tradetech (trade finance technology) to catalyse growth in SME exports and strengthen value chains. Smart contracts that use blockchain are creating self-executing agreements that need little action or oversight. E-commerce, electronic payments, and smart contracts are creating potential even for microenterprises to reach regional and global markets, and tap into multicountry value chains. 
 
