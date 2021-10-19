@@ -34,7 +34,7 @@ In 2003, the EU set up the Forest Law Enforcement, Governance, and Trade (FLEGT)
 
 The current phase of the project, implemented with DFS Deutsche Forest-Service GmbH, is developing Liberia’s capacity to issue FLEGT licenses to help increase international trade with higher-paying markets such as the EU. Other important results to be achieved include completing the so-called legality matrix and extending the VPA to community and informal timber operations. 
 
-![female CoC ranger determining log diameter.jpg](/uploads/female%20CoC%20ranger%20determining%20log%20diameter.jpg)`Female ranger determining log diameter during a training session in Botota.`
+![female CoC ranger determining log diameter.jpg](/uploads/female%20CoC%20ranger%20determining%20log%20diameter.jpg)`Female ranger determining log diameter during a training session in Botota. Photo: EU FLEGT-VPA programme.`
 
 ## Building Capacity for Effective Implementation
 
