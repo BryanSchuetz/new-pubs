@@ -12,6 +12,8 @@ tags:
 - governance
 - technology
 author: "[Dan Alder](https://www.linkedin.com/in/dan-alder-86203812/)"
+thumbnail-image: "/uploads/sm%20USAID_SEJE_LaunchRdx-09526.jpg"
+social-image: "/uploads/sm%20USAID_SEJE_LaunchRdx-09526.jpg"
 publication: Developments
 ---
 
