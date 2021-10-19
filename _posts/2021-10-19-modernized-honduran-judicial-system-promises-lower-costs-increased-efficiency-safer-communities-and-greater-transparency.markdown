@@ -29,7 +29,7 @@ With support from Unidos and its implementing partner, the National Center for S
 
 SEJE will yield cost savings and make judicial operations more efficient and transparent. With complex cases now requiring as many as 30,000 folios, savings on paper alone will be significant. In addition to improving the efficiency of that part of the Judicial Branch responsible for tackling corruption, SEJE will make court operations themselves more transparent and therefore less susceptible to wrongdoing. Digital files will be harder to alter, hide, or misdate due to built-in timestamps and digital fingerprints left by every user action in the system. Documents that are legally public will be easier for citizens to access. 
 
-“Strengthening access to justice creates hope,” said USAID/Honduras Mission Director Janina Jaruzelski in her address during the launch event last month. “This will also help to reduce irregular migration, since citizens will feel safer in their country.” The overall impact of this innovation will be more efficient administration of justice and reduced impunity for people who break the law, summed up Unidos Chief of Party [Caterina Valero](https://www.dai.com/who-we-are/our-team/caterina-valero). 
+“Strengthening access to justice creates hope,” said USAID/Honduras Mission Director [Janina Jaruzelski](https://www.usaid.gov/who-we-are/organization/janina-jaruzelski) in her address during the launch event last month. “This will also help to reduce irregular migration, since citizens will feel safer in their country.” The overall impact of this innovation will be more efficient administration of justice and reduced impunity for people who break the law, summed up Unidos Chief of Party [Caterina Valero](https://www.dai.com/who-we-are/our-team/caterina-valero). 
 <iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ### Flagship Project
 
@@ -41,13 +41,13 @@ As recommended by the Unidos assessment, the Judicial Branch created an executiv
 
 SEJE’s implementation process is designed to train Judicial Branch IT staff to maintain and expand on the system without outside help. And the Judicial Branch has demonstrated its commitment to do just that; it’s already invested in new technology and hired computer programmers and systems designers. This institutional buy-in will help ensure the sustainability of USAID’s investment.
 
-Taking Aim at Corruption
+### Taking Aim at Corruption
 
 SEJE is now operational in Tegucigalpa’s Extortion Court and will roll out to the Corruption Circuit Court by the end of the year. Unidos decided to pilot SEJE in the extortion area because extortion is a major source of revenue for Honduras’ violent street gangs, robbing small business owners of the ability to make a living, putting lives at risk, and depressing economic development. The resulting lack of security and opportunity makes extortion an important push factor for irregular migration. The Judicial Branch plans to eventually extend SEJE to the entire court system, but the next stop in the system’s rollout will be the Corruption Court. While extortion robs people of their security and the ability to make ends meet, corruption robs them of hope that their situation will improve. 
 
 Another aspect of SEJE designed to bolster people’s security is its biometric controls module, which replaces the current system for documenting the compliance of people charged with crimes but granted pretrial release. Those defendants are obliged to appear periodically before the court and sign a logbook that is stamped and dated by a court secretary. The biometric system will instead require a fingerprint scan that is automatically entered into an electronic court record with a digital timestamp, eliminating the potential for fraudulent registry entries.
 
-Second Layer
+### Second Layer
 
 In addition to SEJE, Unidos also supported the creation of an Electronic Annual Operating Plan (e-AOP), which enables Judicial Branch managers track the progress of the Strategic Innovation and Modernization Plan implementation online, in real time, and link to budgets and expenditures, a capability that soared in importance with arrival of the COVID-19 pandemic in Honduras.   
 
