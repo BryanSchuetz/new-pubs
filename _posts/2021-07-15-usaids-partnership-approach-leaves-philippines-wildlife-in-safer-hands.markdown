@@ -27,7 +27,7 @@ Notable interdictions and seizures in recent years include 450 endangered animal
 
 Wildlife trafficking networks leverage weak points in natural resources governance and enforcement—upland and rural poverty, limited coordination between enforcement units, and uneven capacity—to manage poaching and trafficking of wildlife and transshipment through the Philippines to end-markets. Traffickers corrupt local communities who engage as poachers and consolidators, and officials who act as fixers to facilitate transport and arrange export via forged paperwork and other forms of smuggling. Increasingly, international crime syndicates execute transactions online to hide illegal finances and protect network leaders.
 
-![Kusor Women.jpg](/uploads/Kusor%20Women.jpg)  
+![Kusor Women.jpg](/uploads/Kusor%20Women.jpg)`Photo: USAID Philippines Protect Wildlife.`  
 
 ## Partnerships Boost Results 
 
@@ -37,7 +37,7 @@ Locally, we worked directly with DENR regional offices; provincial and community
 
 Mount Mantalingahan Protected Area Superintendent Mildred Suza said Protect Wildlife helped her and her team better interpret existing DENR guidelines and that multistakeholder consultations and access to geographic information systems (GIS) technical assistance enriched the process. “It was important [to me that] the resulting management plan is in harmony with other plans, includes civil society participation, and reflects the needs of our indigenous communities,” she said.  
 
-![bamboo team.jpg](/uploads/bamboo%20team.jpg)
+![bamboo team.jpg](/uploads/bamboo%20team.jpg)`Photo: USAID Philippines Protect Wildlife.`
 
 ## Our Approach 
 
@@ -47,7 +47,7 @@ Rather than introduce new tools and approaches, we sought to use what was in pla
 
 By raising awareness about ecosystems and the goods and services they provide—supplying water, regulating flooding and storm surges, and cycling nutrients that fertilize the land—and the ecological connectivity that underpins them, we drew in partners with a joint commitment to work together across jurisdictions at the landscape-seascape scale. This awareness was central to the activity’s success in securing stakeholders’ commitment to coordination and complementarity between management plans and activities. 
 
-![awareness.jpg](/uploads/awareness.jpg)
+![awareness.jpg](/uploads/awareness.jpg)`Photo: USAID Philippines Protect Wildlife.`
 
 ## Mapping Out the Future 
 
@@ -63,7 +63,7 @@ The working groups reached agreement on the protection zones that bind key ecosy
 
 To ensure connectivity, the working groups negotiated between DENR and local authorities regarding zoning decisions in a shared landscape-seascape. The goal was to ensure that border areas between their respective management plans and zoning regimes are complementary and feature compatible land and resource use classifications and rules. Once complete, the groups developed management and financial plans, which now function as a guidebook for protection, conservation, and development activities, with rules on restricted land and resource uses and requirements for permitting.
 
-![boat.jpg](/uploads/boat.jpg)
+![boat.jpg](/uploads/boat.jpg)`Photo: USAID Philippines Protect Wildlife.`
 
 ## Where Land Meets Sea 
 
