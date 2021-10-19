@@ -32,8 +32,8 @@ With support from Unidos and its implementing partner, the National Center for S
 SEJE will yield cost savings and make judicial operations more efficient and transparent. With complex cases now requiring as many as 30,000 folios, savings on paper alone will be significant. In addition to improving the efficiency of that part of the Judicial Branch responsible for tackling corruption, SEJE will make court operations themselves more transparent and therefore less susceptible to wrongdoing. Digital files will be harder to alter, hide, or misdate due to built-in timestamps and digital fingerprints left by every user action in the system. Documents that are legally public will be easier for citizens to access. 
 
 “Strengthening access to justice creates hope,” said USAID/Honduras Mission Director [Janina Jaruzelski](https://www.usaid.gov/who-we-are/organization/janina-jaruzelski) in her address during the launch event last month. “This will also help to reduce irregular migration, since citizens will feel safer in their country.” The overall impact of this innovation will be more efficient administration of justice and reduced impunity for people who break the law, summed up Unidos Chief of Party [Caterina Valero](https://www.dai.com/who-we-are/our-team/caterina-valero). 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="SEJE Launch Video EngSubs.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Flagship Project
 
