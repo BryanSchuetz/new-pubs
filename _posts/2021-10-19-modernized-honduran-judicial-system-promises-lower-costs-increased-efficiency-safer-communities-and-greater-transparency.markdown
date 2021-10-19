@@ -49,6 +49,8 @@ SEJE is now operational in Tegucigalpa’s Extortion Court and will roll out to 
 
 Another aspect of SEJE designed to bolster people’s security is its biometric controls module, which replaces the current system for documenting the compliance of people charged with crimes but granted pretrial release. Those defendants are obliged to appear periodically before the court and sign a logbook that is stamped and dated by a court secretary. The biometric system will instead require a fingerprint scan that is automatically entered into an electronic court record with a digital timestamp, eliminating the potential for fraudulent registry entries.
 
+![USAID_SEJE_Launch-09784.jpg](/uploads/USAID_SEJE_Launch-09784.jpg)`Project leaders at the launch event of the new SEJE database.`
+
 ### Second Layer
 
 In addition to SEJE, Unidos also supported the creation of an Electronic Annual Operating Plan (e-AOP), which enables Judicial Branch managers track the progress of the Strategic Innovation and Modernization Plan implementation online, in real time, and link to budgets and expenditures, a capability that soared in importance with arrival of the COVID-19 pandemic in Honduras.   
