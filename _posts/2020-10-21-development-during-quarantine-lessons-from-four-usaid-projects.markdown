@@ -52,7 +52,7 @@ To start, LEGIT identified which of its tools and resources could best support c
 
 This work took place in remote counties of Liberia where internet access is undependable at best, electricity is sporadic, and many of the roads are inaccessible during the rainy season. Since most of LEGIT’s partners had mobile phones, or access to one, phone conversations replaced in-person visits as the project’s main form of engagement with partners. While unreliable phone service and connectivity expenses still makes communication difficult, the LEGIT team has found ways to stay in regular contact with partners. 
 
-![REACT-Liberia.jpg](/uploads/REACT-Liberia.jpg)`LEGIT grantee Rural Engagement for Active Citizenship & Transparency (REACT-Liberia) distributes COVID-19 prevention materials in Konobo District, Grand Gedeh County.`
+![REACT-Liberia.jpg](/uploads/REACT-Liberia.jpg)`LEGIT grantee Rural Engagement for Active Citizenship & Transparency (REACT-Liberia) distributes COVID-19 prevention materials in Konobo District, Grand Gedeh County. Photo: USAID Liberia LEGIT.`
 
 To generate solutions, LEGIT turned to its local staff. The project launched a “Work from Home Innovation Award” to recognize staff who found creative solutions to continue to support grantees, especially as they pivoted to assist in government COVID-19 awareness efforts. 
 
@@ -62,7 +62,7 @@ Stryker realized that important information about containing the spread of the p
 
 “The work of these coalition members in reaching out to hard-to-reach communities and border villages near Cote D’Ivoire accounts for a huge success in containing the spread of COVID-19 in our country,” said Stryker, who managed to coordinate activities while himself working from home. “Bravo to the three LEGIT CSO grantees—the Center for Governance and Sustainable Development, Rural Engagement for Active Citizenship & Transparency, and the South Eastern Women Development Association—for their roles in supervising these efforts.”  
 
-![legit.png](/uploads/legit.png)`Left: South Eastern Women Development Association (SEWODA), a LEGIT grantee, trained local coalitions to raise awareness on COVID-19 prevention. Right: LEGIT Participatory Engagement Coordinator Henry Stryker won an award for coordinating COVID-19 response from home, often working from the kitchen.`
+![legit.png](/uploads/legit.png)`Left: South Eastern Women Development Association (SEWODA), a LEGIT grantee, trained local coalitions to raise awareness on COVID-19 prevention. Right: LEGIT Participatory Engagement Coordinator Henry Stryker won an award for coordinating COVID-19 response from home, often working from the kitchen. Photo: USAID Liberia LEGIT.`
 
 ## Ensuring Resilience in South Sudan
 
@@ -74,7 +74,7 @@ To continue this work amidst the infrastructure and coordination challenges brou
 
 Policy LINK is re-situating CECs as part of the project’s PfRR coordination. Through the centers and their User Committees, Policy LINK is supporting a series of dialogues, trainings, pause-and-reflect sessions, and other community engagement. 
 
-![South Sudan.jpg](/uploads/South%20Sudan.jpg)`Photo: USAID/South Sudan.`
+![South Sudan.jpg](/uploads/South%20Sudan.jpg)`Photo: USAID South Sudan.`
 
 ## Supporting Educators and Students in Honduras
 
@@ -86,7 +86,7 @@ Asegurando had to adjust. For some initiatives, that simply meant moving online.
 
 After training from PELE, Principal Padilla met with her school’s teachers to find strategies to help students without internet stay in schools. For example, in some cities, Asegurando-supported educators printed out hard copies of assignments and left them on students’ desks to retrieve at their convenience. Other schools moved internet routers to face the street to allow families to download and upload schoolwork.
 
-![honduras.png](/uploads/honduras.png)`To help students without internet access continue their schoolwork, some schools arranged for students to pick up hard copies of assignments from their classrooms.`
+![honduras.png](/uploads/honduras.png)`To help students without internet access continue their schoolwork, some schools arranged for students to pick up hard copies of assignments from their classrooms. Photo: USAID Honduras Asegurando.`
 
 Padilla’s teaching staff remain committed to identifying measures to keep young people studying and helping them complete the school year. She said, “These processes of training help us to have a better understanding [of the obstacles] and to share [solutions] with parents to help reduce” migration.
 
