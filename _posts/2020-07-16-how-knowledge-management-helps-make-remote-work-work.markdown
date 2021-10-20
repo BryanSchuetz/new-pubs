@@ -36,7 +36,7 @@ Knowledge sharing is always critical to organizational success but even more so 
 
 **Engaging Virtually:** Meetings are the bane and bedrock of corporate workdays. While they may take up productive time, when done properly they are valuable vehicles for the creation, recognition, use, and exchange of both tacit and explicit knowledge. Since the lockdown, the Nigeria office has used the video conferencing platform Microsoft Teams to host new, inclusive organizational get-togethers such as our COVID-19 Crisis Response Team and weekly all-staff meetings. Prior to the crisis, the Nigeria office held weekly meetings in the two separate office locations, Abuja and Lagos. The shift to remote work has actually brought the two offices closer together in that respect, helping us to maintain accountability, boost morale, and reinforce connections.
 
-![Image 4-0c309b.png](/uploads/Image%204-0c309b.png)
+![Image 4-0c309b.png](/uploads/Image%204-0c309b.png)`Photo: DAI Nigeria.`
 
 **Strengthening Communications:** The double whammy of responding to the health crisis and managing a remote workforce has underscored the need to communicate even more frequently, and with more stakeholders. In a weekly internal and monthly external newsletter, for example, we create knowledge flows for project staff, partners, consultants, clients, and beneficiaries. Internally, new WhatsApp Messenger Group chatrooms allow us to sustain immediate, professional, courteous, productive, and supportive conversations among the team. Increasingly, employees and project staff are using the platform to circulate new government directives, announce new wins, share documents, seek collaborators, and check in on colleagues and their wellbeing. 
 
