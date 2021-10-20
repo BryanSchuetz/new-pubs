@@ -77,7 +77,7 @@ Meanwhile, the [Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ)](
 
 Though it is too early to assess the results of these efforts, as of August, a Kazakh matchmaker had arranged 5 contracts, with 23 pre-contracts still under negotiation from matchmaking activity between 29 Central Asian growers and 25 CIS retailers and distributors. U.S. matchmakers, meanwhile, promoted 12 Central Asian growers among 4,900 large buyers, a buyer group representing all countries in Europe, the Middle East, and Southeast Asia. As of August, 18 buyers were in correspondence with these Central Asian growers to receive further information.
 
-![USAID_c01.jpg](/uploads/USAID_c01.jpg)`Images from pre-COVID matchmaker events in Central Asia.`
+![USAID_c01.jpg](/uploads/USAID_c01.jpg)`Images from pre-COVID matchmaker events in Central Asia. Photo: USAID Central Asia CTJ.`
 
 ### Moving Forward	
 
