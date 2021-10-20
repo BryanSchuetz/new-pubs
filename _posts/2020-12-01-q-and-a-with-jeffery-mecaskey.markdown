@@ -30,7 +30,7 @@ publication: Developments
 
 "A couple of decades ago, the idea of community-centred care gained currency. It’s empowering, affordable, and culturally appropriate. A community health worker will likely be someone you know and who understands you. Your community health worker will be able to offer you a wide range of basic health services, hopefully free, but if not, usually very cheaply. Obviously, they often only have basic training, so you wouldn’t be using them if you needed a C-section. But that community health worker would help you know if you needed that C-section and refer you to suitable care. These community health workers are the foundation of a system that can offer an accessible option both for the health authority and the end-user."
 
-![DSC_4297.JPG](/uploads/DSC_4297.JPG)`TDDA spreads the word about COVID-19 and other diseases in Chad.` 
+![DSC_4297.JPG](/uploads/DSC_4297.JPG)`TDDA spreads the word about COVID-19 and other diseases in Chad. Photo: FCDO TDDA.` 
 
 **Primary healthcare is clearly an affordable way of achieving UHC. Is it also meaningful and impactful?**
 
@@ -52,11 +52,11 @@ publication: Developments
 
 "We already know what works, but we need to work together to overcome political challenges. It’s no good pointing fingers or passing the buck. That’s why TDDA is special. We’re not offering technical magic bullets. Yes, we’re technical experts, but the programme is grounded in political understanding of its contexts and locally run. We carried out comprehensive political and economic analyses at the outset. That way we don’t fall into the trap of blinkered, one-size-fits-all solutions."
 
-![DSC_4969.JPG](/uploads/DSC_4969.JPG)`Preparing communities for COVID-19 is part of TDDA's work in Chad.` 
+![DSC_4969.JPG](/uploads/DSC_4969.JPG)`Preparing communities for COVID-19 is part of TDDA's work in Chad. Photo: FCDO TDDA.` 
 
 **You’re recommending increases in primary healthcare spending and improvements in implementation. What kind of changes will people on the ground see if this happens?**
 
-"The simplest way to describe this is from the perspective of people out there who are forced to pay substantial amounts for care—be it formally or informally. We know that poor people have a higher disease burden. The main difference for them will be they will seek care because they will be able to do it without having to sell their cow. They will be able to get their hands on essential medicines, which are life-saving and often underfunded. That’s because they won’t be sent to third party private providers and risk having to pay extortionate prices. They will just be able to see their community-based health worker. Not only that but women and adolescents will be able to get sexual and reproductive care locally, in their community, without fear of stigma or judgment.
+"The simplest way to describe this is from the perspective of people out there who are forced to pay substantial amounts for care—be it formally or informally. We know that poor people have a higher disease burden. The main difference for them will be they will seek care because they will be able to do it without having to sell their cow. They will be able to get their hands on essential medicines, which are life-saving and often underfunded. That’s because they won’t be sent to third-party private providers and risk having to pay extortionate prices. They will just be able to see their community-based health worker. Not only that but women and adolescents will be able to get sexual and reproductive care locally, in their community, without fear of stigma or judgment.
 
 "That’s the sort of difference we are likely to see if our recommendations are followed."
 
