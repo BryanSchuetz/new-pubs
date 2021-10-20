@@ -60,7 +60,7 @@ With the Ministry of Finance and Planning, DAI and the World Bank team developed
 
 Currently, five investment proposals have been assessed and approved by the World Bank to receive grant support through this facility. Those projects are expected to create approximately 2,200 jobs and mobilize private capital of $55 million. The first investment, concluded in 2019, was a photovoltaic solar energy roof at the Gaza Industrial Estate (GIE) (See ["Blended Finance Case Study: Gaza Industrial Estate Solar Energy Rooftop"](dai-global-developments.com/articles/case-study-gaza-industrial-estate-solar-energy-rooftop )). The remaining four investments are solar roofs for schools, a seedless grape facility in the Jordan Valley, a chicken abattoir in Gaza, and a cement production process utilizing pyrolysis (thermal decomposition) of carbon and stone waste.
 
-![palestine workshop.jpg](/uploads/palestine%20workshop.jpg)`Entrepreneurs receive business development support.`
+![palestine workshop.jpg](/uploads/palestine%20workshop.jpg)`Entrepreneurs receive business development support. Photo: World Bank F4J.`
 
 ### 2. Entrepreneurship Ecosystem Matching Grant
 
