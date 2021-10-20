@@ -53,7 +53,7 @@ Another aspect of SEJE designed to bolster people’s security is its biometric 
 
 ### Second Layer
 
-In addition to SEJE, Unidos also supported the creation of an Electronic Annual Operating Plan (e-AOP), which enables Judicial Branch managers track the progress of the Strategic Innovation and Modernization Plan implementation online, in real time, and link to budgets and expenditures, a capability that soared in importance with arrival of the COVID-19 pandemic in Honduras.   
+In addition to SEJE, Unidos also supported the creation of an Electronic Annual Operating Plan (e-AOP), which enables Judicial Branch managers to track the progress of the Strategic Innovation and Modernization Plan implementation online, in real time, and link to budgets and expenditures, a capability that soared in importance with the arrival of the COVID-19 pandemic in Honduras.   
 
 “The advantage of this tool is that it brings everything together in one shared place, allowing us to align our efforts, and all under the established goals and objectives of the institution and the priorities of management,” said Judicial Branch Planning and Budget Director Maria José Laitano. “It allows us to improve all our monitoring and evaluation processes.” 
 
