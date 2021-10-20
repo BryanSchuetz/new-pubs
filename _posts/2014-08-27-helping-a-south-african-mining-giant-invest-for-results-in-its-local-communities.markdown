@@ -5,8 +5,10 @@ tags:
 - economic-growth
 - environment-and-energy
 - sustainable-business
-publication: Developments
 author: Sagay Moodliar
+thumbnail-image: "/uploads/ha1.jpg"
+social-image: "/uploads/ha1.jpg"
+publication: Developments
 issue: Summer 2012
 author-bio: "**Sagay Moodliar** is the Executive Director of ECIAfrica."
 assets:
@@ -14,8 +16,6 @@ assets:
   name: moodilar
   author?: 'yes'
 - path: "/uploads/ha1.jpg"
-thumbnail-image: "/uploads/ha1.jpg"
-social-image: "/uploads/ha1.jpg"
 ---
 
 <p>The Sishen Iron Ore Company Community Development Trust faced a fabulous opportunity—and a daunting challenge. A beneficiary of mining giant Anglo American’s Kumba Iron Ore Company, the trust recently came into a sooner-than-expected windfall of dividend income. This annuity could continue for 20 years or more, depending on the life of the company assets, efficient operation of the mine, and global demand for iron ore.</p>
@@ -24,7 +24,7 @@ social-image: "/uploads/ha1.jpg"
  
 <p>Established in 2006 by Kumba, one of the world’s largest iron ore producers, the trust was determined that its money make a difference in its beneficiary communities beyond the 20-year life of the mine. So in September 2011, it engaged DAI’s Johannesburg-based team to develop a long-term strategy called Vision 2030 to guide the trust’s decisions. We were asked to help the trust achieve systemic change rather than merely consumptive expenditure. We sought to ensure that the trust diversifies its income and spending and follows a sustainable investment strategy while meeting the social needs of the beneficiary communities.</p>
 
-![Photo of Bradley Marais at the site of a future community hall](/uploads/ha1.jpg "Bradley Marais, left, of the Project Management Unit with Malusi Cele of the Super Trust on the site of a future community hall in Olifantshoek, Northern Cape.") 
+![Photo of Bradley Marais at the site of a future community hall](/uploads/ha1.jpg "Bradley Marais, left, of the Project Management Unit with Malusi Cele of the Super Trust on the site of a future community hall in Olifantshoek, Northern Cape. Photo: DAI.") 
 
 <p>These communities are those around the Sishen, Sishen South, and Thabazimbi mines, which are home to 300,000 people, mostly black families and small businesses that support the mining operations but have historically lagged in economic and social opportunity.</p>
 <p>Agreement was reached on the key impacts required to achieve the trust’s vision:</p>
