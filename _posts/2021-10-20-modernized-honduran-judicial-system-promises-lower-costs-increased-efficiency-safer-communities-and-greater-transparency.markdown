@@ -1,7 +1,7 @@
 ---
 title: Modernized Honduran Judicial System Promises Lower Costs, Increased Efficiency,
   Safer Communities, and Greater Transparency
-date: 2021-10-19 13:59:00 -04:00
+date: 2021-10-20 13:00:00 -04:00
 tags:
 - resilience
 - access to justice
