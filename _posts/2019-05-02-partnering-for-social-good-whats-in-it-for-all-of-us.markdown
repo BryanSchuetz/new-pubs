@@ -20,11 +20,11 @@ For that, the right people need to join forces, which is why SwitchPoint exists.
  
 “Across the world, most people have a phone before they have electricity, so why not use mobile phones to deliver healthcare?” noted [ClickMedix](https://clickmedix.com/) founder and CEO Ting Shih, one of the SwitchPoint participants. More on her later.
 
-![Devs----Switch-1.jpg](/uploads/Devs----Switch-1.jpg)`SwitchPoint 2019 kicks off.` 
+![Devs----Switch-1.jpg](/uploads/Devs----Switch-1.jpg)`SwitchPoint 2019 kicks off. Photo: Charles Coon.` 
 
 Development funders such as the U.S. Agency for International Development, the World Bank, and Bill & Melinda Gates Foundation are urging new players to the table in their bids to meet basic healthcare and other needs. These invitations are extended for humanitarian ends, but in the knowledge that corporations and social entrepreneurs—for-profit and nonprofit alike—need both to generate and earn value if they are to win an enduring place in the global health ecosystem.
 
-“If we are creating value for society, we are going to be viable as a business,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), who moderated a SwitchPoint microlab on “Creative Public-Private Partnerships and Alliances: New Models for Catalyzing Impact.” LeGrand is the President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) and a longtime global health entrepreneur. “We are not talking about traditional corporate social responsibility outlays,” he said, “but creating value across the health ecosystem that will deliver better health outcomes and will be sustainable.”
+“If we are creating value for society, we are going to be viable as a business,” said Chris LeGrand, who moderated a SwitchPoint microlab on “Creative Public-Private Partnerships and Alliances: New Models for Catalyzing Impact.” LeGrand is the President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) and a longtime global health entrepreneur. “We are not talking about traditional corporate social responsibility outlays,” he said, “but creating value across the health ecosystem that will deliver better health outcomes and will be sustainable.”
 
 ## Reconciling “Me” and “We”
 
@@ -32,7 +32,7 @@ The microlab tackled one of the key challenges in any PPP—“the right people 
 
 “Each of four actors has to create value that none was going to create on its own,” said LeGrand, who moderated the session along with Shih, IntraHealth Senior Vice President [Rebecca Kohler](https://www.intrahealth.org/people/rebecca-kohler), and [Malcom Riley](https://globalhealth-staging.globalhealth.duke.edu/people/staff/malcom-riley) of the Duke University Global Health Institute.
 
-![Devs----Switch--5.jpg](/uploads/Devs----Switch--5.jpg)`ClickMedix Founder and CEO Ting Shih, center, and IntraHealth Chief Strategy Officer Rebecca Kohler, right, at the microlab.`  
+![Devs----Switch--5.jpg](/uploads/Devs----Switch--5.jpg)`ClickMedix Founder and CEO Ting Shih, center, and IntraHealth Chief Strategy Officer Rebecca Kohler, right, at the microlab. Photo: Charles Coon.`  
 
 Microlab participants described the roadblocks they encountered in the course of the thought experiment. One team’s notional investor—a gold mining company—was only interested in funding work in its area of operations. Another team’s host government, apparently known for corruption, insisted on controlling the partnership yet promised accountability. A third team surmised that local culture encouraged large families, raising questions about the efficacy of family planning assistance.
 
@@ -52,12 +52,12 @@ DAI Global Health and ClickMedix first connected in 2016 through the [Innovation
 
 “DAI is nurturing a series of different kinds of relationships,” LeGrand said. “These are not traditional controlling relationships—for example, we invest in Ting, but we don’t control her. We are building a ‘neural network’ of relationships that will create positive influences in global healthcare delivery.”
 
-![Devs----Switch-8.jpg](/uploads/Devs----Switch-8.jpg)`IntraHealth Chief Technical Officer Dai Hozumi presenting "Global Health Innovation: By Design or by Accident?"`
+![Devs----Switch-8.jpg](/uploads/Devs----Switch-8.jpg)`IntraHealth Chief Technical Officer Dai Hozumi presenting "Global Health Innovation: By Design or by Accident?" Photo: Charles Coon.`
 
 ## “Cool-Headed, Even Cold-Hearted”
 
 In gathering together creative people from across disciplines, SwitchPoint aspires to help them turn their big concepts into workable models. This year, that process included frank talk on cost vs. benefit and the laws of supply and demand. “We have to be cool-headed, even cold-hearted about innovation and resist being blinded by wonderful ideas,” cautioned [Dai Hozumi](https://www.intrahealth.org/people/dai-hozumi), IntraHealth’s Chief Technical Officer, in a well-received presentation on the perils of innovation absent business savvy.
 
-ClickMedix seems to have embraced that ethos. Its customers—in both developing and developed countries—have bought into the platform because at the end of the day it helps them reach more patients. “It’s not donor driven, it’s demand driven,” LeGrand said. “We think it’s a more sustainable model.”
+ClickMedix seems to have embraced that ethos. Its customers—in both developing and developed countries—have bought into the platform because at the end of the day it helps them reach more patients. “It’s not donor-driven, it’s demand-driven,” LeGrand said. “We think it’s a more sustainable model.”
 
 *Charles Coon is a principal communications writer and editor of DAI's Developments newsletter.* 
