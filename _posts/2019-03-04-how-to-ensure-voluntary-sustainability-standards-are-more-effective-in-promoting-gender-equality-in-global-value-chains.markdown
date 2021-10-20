@@ -4,11 +4,13 @@ title: How to Ensure Voluntary Sustainability Standards are More Effective in Pr
 date: 2019-03-04 14:45:00 -05:00
 tags:
 - gender
+author: "[Amy Wilson-Lee](https://www.linkedin.com/in/amy-wilson-lee-97a4bab4/)"
+thumbnail-image: "/uploads/VSS-1.jpg"
+social-image: "/uploads/VSS-1.jpg"
 publication: Developments
 issue: 
 author-bio: Amy Wilson-Lee is a Gender Equality and Social Inclusion Global Practice
   Manager for DAI.
-author: Amy Wilson-Lee
 featured?: 
 assets:
 - path: "/uploads/VSS-1.jpg"
@@ -21,8 +23,6 @@ assets:
   name: VSS and Gender Equality in Global Value Chains 2019
 - path: "/uploads/VSS and Gender Equality in Global Value Chains 2019-1.pdf"
   name: VSS and Gender Equality in Global Value Chains 2019-1
-thumbnail-image: "/uploads/VSS-1.jpg"
-social-image: "/uploads/VSS-1.jpg"
 ---
 
 Voluntary sustainability standards (VSS) are guidelines that industry producers, traders, manufacturers, retailers, or service providers are asked to meet that encourage respect for basic human rights, worker health and safety, environmental impacts, community relations, land-use planning, and more. The standards include certification and ethical branding—such as organic, forest friendly or fairtrade—as well as corporate, ethical, or sustainability standards suppliers are required to meet.
@@ -46,9 +46,9 @@ DAI’s research, led by Sally Smith with Federica Busiello, [Georgia Taylor](ht
 
 [VSS](https://www.iisd.org/library/promoting-gender-equality-foreign-agricultural-investments-lessons-voluntary-sustainability) have largely been developed as a way of upholding and monitoring sustainability, human rights, and workers’ rights within global value chains. They are necessary because international and national laws are not always implemented to the same standard in every country and global companies are under increasing pressure from their customers and their home countries to apply international law and standards to do things such as protect workers’ health and safety; provide decent wages; prevent violence, harassment, and human trafficking; and protect the environment.
 
-![VSS 1](/uploads/VSS-1.jpg "Women work in agricultural value chains in Morocco.") 
+![VSS 1](/uploads/VSS-1.jpg)`Women work in agricultural value chains in Morocco. Photo: USAID Morocco MEC.`
 
-Where there are several types of VSS in the same sector (for example, coffee has fairtrade, organic, Rainforest Alliance, 4Cs, ethical own brands, etc.), the brands associated with each VSS can often end up competing in the same markets, which can hinder effectiveness. Another challenge to the effectiveness of some VSS, known as the “[sustainability standards paradox](https://www.iisd.org/pdf/2014/ssi_2014.pdf),” means that while they intend to support the most in need to access markets, market forces actually rely heavily on supply from those who can provide compliant goods at lowest cost and are therefore often already in a better position than those most in need. This can lead to a concentration of standard compliant production in more developed economies. 
+Where there are several types of VSS in the same sector (for example, coffee has fairtrade, organic, Rainforest Alliance, 4Cs, ethical own brands, etc.), the brands associated with each VSS can often end up competing in the same markets, which can hinder effectiveness. Another challenge to the effectiveness of some VSS, known as the “[sustainability standards paradox](https://www.iisd.org/pdf/2014/ssi_2014.pdf),” means that while they intend to support the most in need to access markets, market forces actually rely heavily on supply from those who can provide compliant goods at lowest cost and are therefore often already in a better position than those most in need. This can lead to a concentration of standard-compliant production in more developed economies. 
 
 ## What About the ‘G’ Word?
 
@@ -60,7 +60,7 @@ We found that while some standards have been associated with positive impacts fo
 
 More broadly, the gendered structure of economies and the extent of informal employment (particularly in low- and middle-income countries), means that while VSS are more likely to work with first-tier organizations, where employment tends to be more formal, much female employment is informal and upstream in global value chains, so VSS often do not reach large populations of the most vulnerable women. 
 
-![VSS 2](/uploads/VSS-2.jpg "A female business owner sells jewelry to a female customer in Afghanistan.") 
+![VSS 2](/uploads/VSS-2.jpg)`A female business owner sells jewelry to a female customer in Afghanistan. Photo: USAID Afghanistan.` 
 
 ## So, What Next?
 
