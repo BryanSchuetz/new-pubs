@@ -4,12 +4,14 @@ date: 2019-02-25 13:02:00 -05:00
 tags:
 - governance
 - public-financial-management
+author: Aaron Sheldon
+thumbnail-image: "/uploads/Devs----Uganda-GAPP-1.jpg"
+social-image: "/uploads/Devs----Uganda-GAPP-1.jpg"
 publication: Developments
 issue: 
 author-bio: "[Aaron Sheldon](https://www.dai.com/who-we-are/our-team/aaron-sheldon)
   manages DAI's work on the Uganda Governance, Accountability, Participation, and
   Performance (GAPP) project."
-author: Aaron Sheldon
 featured?: 
 assets:
 - path: "/uploads/Aaron-Sheldon-mug.jpg"
@@ -24,8 +26,6 @@ assets:
   name: Devs----Uganda--GAPP-2
 - path: "/uploads/Devs----Uganda-GAPP-3.jpg"
   name: Devs----Uganda-GAPP-3
-thumbnail-image: "/uploads/Devs----Uganda-GAPP-1.jpg"
-social-image: "/uploads/Devs----Uganda-GAPP-1.jpg"
 ---
 
 Audits, oversight procedures, compliance protocols—the language of public accountability can seem bureaucratic and dry. The reality in Uganda is anything but.
@@ -37,7 +37,7 @@ Take the June 2018 hearing organized by the Ugandan Parliament’s Public Accoun
 
 Until recently, communities had little role in Ugandan accountability processes. With a public hearing on local government spending, the citizens of Lango are one step closer to securing the government services to which they are entitled—healthcare, education, and accountable stewardship of public resources.
 
-![Devs----Uganda-GAPP-1](/uploads/Devs----Uganda-GAPP-1.jpg "Town of Lira in Lango sub-region of Uganda. Photo credit: facebook.com/ParliamentofUganda") 
+![Devs----Uganda-GAPP-1](/uploads/Devs----Uganda-GAPP-1.jpg)`Town of Lira in Lango sub-region of Uganda. Photo credit: facebook.com/ParliamentofUganda.`
 
 ## Local and National Government in Concert
 
@@ -46,7 +46,7 @@ Starting in 2013, GAPP initiated outreach events with the three primary national
 
 Over the past six years, these events have grown into formal Parliamentary hearings, and they have become central to the conduct of public accountability in Uganda. They have improved Parliament’s capacity to conduct oversight, hold local officials accountable for spending in their jurisdictions, mentor them in budgeting and accounting, and increase citizen participation in the accountability process. 
 
-![Devs----Uganda--GAPP-2](/uploads/Devs----Uganda--GAPP-2.jpg "Photo credit: facebook.com/ParliamentofUganda") 
+![Devs----Uganda--GAPP-2](/uploads/Devs----Uganda--GAPP-2.jpg)`Photo: facebook.com/ParliamentofUganda.`
 
 ## Engaging the Accountability Institutions
 
@@ -58,7 +58,7 @@ The Gulu Regional Manager represented the PPDA. GAPP has worked with PPDA to dev
 
 At the Lira hearing, the Chief Administrative Officers of local governments provided testimony on the accounts under their jurisdiction. Prior to the hearing, these local leaders met with representatives from the Auditor General, PPDA, and GAPP to review the audit findings. Similarly, MPs hosted members of the regional Local Government Public Accounts Committees to provide general guidance on the conduct of accountability hearings. These pre-hearing meetings have proven critical to preparing Chief Administrative Officers and others for the rigors of the hearing process. 
 
-![gapp-6](/uploads/gapp-6.jpg "Tripartite Council meeting in Lira, Uganda.") 
+![gapp-6](/uploads/gapp-6.jpg)`Tripartite Council meeting in Lira, Uganda. Photo: facebook.com/ParliamentofUganda.` 
 
 ## Uncovering Malfeasance
 
@@ -68,7 +68,7 @@ The hearings are also an opportunity for community members to provide input on l
 
 In Lira, one market vendor raised concerns about the local market. Recently refurbished with World Bank funding, new market floodlights were intended to facilitate evening trading. They were only turned on after the MPs arrived. Despite vendors paying market dues, the Lira Town Clerk and Chief Finance Officer testified that the town lacked funding for the market electricity bill. Town officials committed to turning the lights on but reports since the hearing indicate that the Lira market remains dark. The committee is now following up with the Ministry of Local Government and the Ministry of Finance, Planning, and Economic Development to determine the cause of the funding problems—a subject of future hearings.
 
-![Devs----GAPP-4](/uploads/Devs----GAPP-4.jpg "Officials at the meeting in Lira, Uganda, of the Parliament’s Public Accounts Committee on Local Government.") 
+![Devs----GAPP-4](/uploads/Devs----GAPP-4.jpg)`Officials at the meeting in Lira, Uganda, of the Parliament’s Public Accounts Committee on Local Government. Photo: facebook.com/ParliamentofUganda.` 
 
 ## Oversight Yields Insight
 
