@@ -67,7 +67,7 @@ Number two: A lack of awareness. Investors are getting more knowledgeable about 
  
 Number three: We need data. We are just getting started collecting data to prove a gender alpha—that you can get stronger returns by investing in women—and much of the evidence is still anecdotal. But we are starting to make headway, for example in [this report](https://www.calvertimpactcapital.org/insights/gender-report) from Calvert Impact Capital.”
 
-![GLI 2](/uploads/GLI-2.jpg "A business owner near Lake Victoria in Uganda. A USAID project in her community focused on catalyzing private investment. Photo: Bobby Neptune/USAID")
+![GLI 2](/uploads/GLI-2.jpg)`A business owner near Lake Victoria in Uganda. A USAID project in her community focused on catalyzing private investment. Photo: Bobby Neptune/USAID.`
  
 > Learn more about INVEST:
 INVEST unlocks the potential of private capital for international development. Increasingly, investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an opportunity for new forms of collaboration between USAID and the investment community. For more information, visit www.USAID.gov/pcm.
