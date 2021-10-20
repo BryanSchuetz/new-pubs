@@ -32,7 +32,7 @@ publication: Developments
 
 “That organizations will have more impact if and when their leaders are well-rounded and grounded, can work with and inspire diverse teams, and make decisions based on a holistic grasp of diverse kinds and sources of information.”
 
-![CHRIS LEGRAND 2 (1).jpg](/uploads/CHRIS%20LEGRAND%202%20(1).jpg)`Chris LeGrand answers questions from the media about a global health program.`
+![CHRIS LEGRAND 2 (1).jpg](/uploads/CHRIS%20LEGRAND%202%20(1).jpg)`Chris LeGrand answers questions from the media about a global health program. Photo: Chris LeGrand.`
 
 **Why do Complete Business Leaders succeed?** 
 
@@ -56,13 +56,13 @@ publication: Developments
 
 “Getting all those pieces to fit has required me to bring my best self every day. Not that I do of course…that’s just the gold standard you aspire to.”
 
-![Chris1.jpg](/uploads/Chris1.jpg)`LeGrand speaks at the annual awards gala for the Triangle Global Health Consortium, where he was Board Chair for four years.`
+![Chris1.jpg](/uploads/Chris1.jpg)`LeGrand speaks at the annual awards gala for the Triangle Global Health Consortium, where he was Board Chair for four years. Photo: Chris LeGrand.`
 
 **What steps can young professionals take if they want to become Complete Business Leaders?**
 
-“Even as undergrads young people are too often pushed down some single track. From my own experience, I would say resist that. It may take you a little longer to get where you’re going, but on the other side you’ll emerge a better professional and better able to take on a range of challenges. I encourage people to try a lot of things, be a sponge, particularly early in your career.
+“Even as undergrads young people are too often pushed down some single track. From my own experience, I would say resist that. It may take you a little longer to get where you’re going, but on the other side, you’ll emerge a better professional and better able to take on a range of challenges. I encourage people to try a lot of things, be a sponge, particularly early in your career.
 
-“In my case I started as a statistician, an analyst, but I was lucky enough to be given a chance to learn accounting and finance, an experience I describe in the book as an ‘on-the-job MBA.’ It transformed my whole career.”
+“In my case, I started as a statistician, an analyst, but I was lucky enough to be given a chance to learn accounting and finance, an experience I describe in the book as an ‘on-the-job MBA.’ It transformed my whole career.”
 
 **You describe the book as a framework for impact in work and in life. Why “impact” rather than, say, “success”?**
 
