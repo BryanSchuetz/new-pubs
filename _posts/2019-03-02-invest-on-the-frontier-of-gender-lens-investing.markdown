@@ -4,10 +4,12 @@ date: 2019-03-02 14:54:00 -05:00
 tags:
 - gender
 - economic-growth
+author: Lala Faiz
+thumbnail-image: "/uploads/GLI-1.jpg"
+social-image: "/uploads/GLI-1.jpg"
 publication: Developments
 issue: 
 author-bio: Lala Faiz is the Director of USAID’s INVEST initiative.
-author: Lala Faiz
 featured?: 
 assets:
 - path: "/uploads/GLI-1.jpg"
@@ -16,8 +18,6 @@ assets:
   name: GLI 2
 - path: "/uploads/Lalarukh-Faiz.jpg"
   author?: 'yes'
-thumbnail-image: "/uploads/GLI-1.jpg"
-social-image: "/uploads/GLI-1.jpg"
 ---
 
 Gender-lens investing is gaining momentum and for good reason.
@@ -39,7 +39,7 @@ Through [USAID’s INVEST initiative](https://www.dai.com/our-work/projects/worl
  
 Two key findings emerged. First, the business case for gender-lens investing has yet to be made in emerging and developing markets. The evidence, including the data points above, comes mostly from developed and public markets. We will need stronger evidence to make a compelling argument for investors in emerging markets. Second, donors can strengthen this evidence base by developing the ecosystem for women-owned businesses and investors, nurturing the pipeline of opportunities, and building awareness of the opportunity.
 
-![GLI 1](/uploads/GLI-1.jpg "Members of a women’s forum in East Africa. Photo: Tine Frank, USAID")
+![GLI 1](/uploads/GLI-1.jpg)`Members of a women’s forum in East Africa. Photo: Tine Frank, USAID.`
  
 Below, CrossBoundary’s Associate Principal [Soline Minière](https://www.linkedin.com/in/solineminiere/?locale=en_US) shares some more thoughts on what is needed to take gender-lens investing to the next level in sub-Saharan Africa.
  
@@ -67,7 +67,7 @@ Number two: A lack of awareness. Investors are getting more knowledgeable about 
  
 Number three: We need data. We are just getting started collecting data to prove a gender alpha—that you can get stronger returns by investing in women—and much of the evidence is still anecdotal. But we are starting to make headway, for example in [this report](https://www.calvertimpactcapital.org/insights/gender-report) from Calvert Impact Capital.”
 
-![GLI 2](/uploads/GLI-2.jpg "A business owner near Lake Victoria in Uganda. A USAID project in her community focused on catalyzing private investment. Photo: Bobby Neptune/USAID")
+![GLI 2](/uploads/GLI-2.jpg)`A business owner near Lake Victoria in Uganda. A USAID project in her community focused on catalyzing private investment. Photo: Bobby Neptune/USAID.`
  
 > Learn more about INVEST:
 INVEST unlocks the potential of private capital for international development. Increasingly, investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an opportunity for new forms of collaboration between USAID and the investment community. For more information, visit www.USAID.gov/pcm.
