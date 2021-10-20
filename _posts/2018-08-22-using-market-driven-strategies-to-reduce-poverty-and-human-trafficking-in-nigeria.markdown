@@ -4,11 +4,13 @@ date: 2018-08-22 15:23:00 -04:00
 tags:
 - economic-growth
 - market-systems-development
+author: Joe Abah
+thumbnail-image: "/uploads/MADE_article_2-1.jpg"
+social-image: "/uploads/MADE_article_2-1.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: "[Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah) is DAI’s
   Country Director for Nigeria."
-author: Joe Abah
 featured?: 
 assets:
 - path: "/uploads/MADE_article_1.jpg"
@@ -25,8 +27,6 @@ assets:
   name: MADE_article_3-1
 - path: "/uploads/Dr.-Joe-Abah-3.jpg"
   author?: 'yes'
-thumbnail-image: "/uploads/MADE_article_2-1.jpg"
-social-image: "/uploads/MADE_article_2-1.jpg"
 ---
 
 Despite having the largest economy in Africa, around half of Nigeria’s population still lives in extreme poverty. A few hundred miles east of the new skyscrapers and shopping malls of Nigeria’s commercial capital of Lagos, the Niger Delta—made up of nine oil-producing states and home to more than 31 million people—defines the country’s stark contrast in living conditions. Even though it is a major oil-producing region, much of the Delta’s population lives in remote villages and survives on subsistence farming. Exacerbating this poverty is a lack of modern agricultural equipment and supplies that farmers need to improve crop yields, as well as limited access to markets in which to sell their harvests.
@@ -35,7 +35,7 @@ Despite having the largest economy in Africa, around half of Nigeria’s populat
 
 Historically, development practitioners may have viewed subsidizing agricultural supplies as the solution to such predicaments. While these programs had some success in the short term, the models were often unsustainable after projects closed and subsidies ended. When the U.K. Department for International Development launched the [Market Development in the Niger Delta](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made) (MADE) project in 2013, it took a different tack and sought to address the root causes of rural poverty. Utilizing a Making Markets Work for the Poor (M4P) approach, MADE helped leading agribusinesses to see the business value in providing technologies, inputs, and services directly to small farmers and training farmers to use them.
 
-![MADE_article_1-1](/uploads/MADE_article_1-1.jpg "Cassava farmers increased productivity thanks to quality agricultural inputs and improved practices. Photo Credit: U.K. Department for International Development MADE.") 
+![MADE_article_1-1](/uploads/MADE_article_1-1.jpg)`Cassava farmers increased productivity thanks to quality agricultural inputs and improved practices. Photo: U.K. Department for International Development MADE.` 
 
 The results of implementing this M4P approach in the Niger Delta have been encouraging. The recently completed first phase of MADE helped more than 150,000 small farmers increase their incomes. A second phase, MADE II, will continue applying these [market-driven strategies](https://www.dai.com/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development) toward a new goal: to reduce the growing number of Nigerians caught up in modern slavery.
 
