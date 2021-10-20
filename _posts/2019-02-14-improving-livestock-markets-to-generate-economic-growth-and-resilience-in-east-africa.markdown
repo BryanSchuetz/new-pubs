@@ -75,7 +75,7 @@ Pastoralists and others in East Africa’s livestock sector face many challenges
 * Occasional border closures, restrictive trade practices, and a range of informal taxes that inflate market transaction costs; and
 * A chain of middlemen who each takes a share of pastoralists' potential earnings.
 
-![Devs----Livestock-2](/uploads/Devs----Livestock-2.jpg "Attendees at the Wajir, Kenya, livestock trade forum in September 2018.") 
+![Devs----Livestock-2](/uploads/Devs----Livestock-2.jpg)`Attendees at the Wajir, Kenya, livestock trade forum in September 2018. Photo: USAID Hub.`
 
 But these are solvable problems. Efficiently connecting animals to markets remains key, and it presents an opportunity to transform the sector—from the rural markets to the ports. The region’s proximity to and longstanding tradition of trading with the Middle East—Ethiopia and Somalia are chief exporters—represents an opportunity to deepen those trade relations. Surplus livestock and livestock products also provide East Africa with a comparative advantage for the promotion of intra-African trade.
 
