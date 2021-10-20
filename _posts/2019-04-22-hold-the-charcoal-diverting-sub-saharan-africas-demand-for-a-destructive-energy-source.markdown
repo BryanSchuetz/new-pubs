@@ -5,8 +5,8 @@ date: 2019-04-22 08:00:00 -04:00
 tags:
 - environment-and-energy
 - governance
-author: "[John Costenbader]( https://www.dai.com/who-we-are/our-team/john-costenbader)
-  and [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)"
+author: "[John Costenbader]( https://www.linkedin.com/in/johncostenbader/) and [Gwen
+  Andersen](https://www.linkedin.com/in/gwenandersen/)"
 thumbnail-image: "/uploads/thumbnail-charcoal.jpg"
 social-image: "/uploads/thumbnail-charcoal-b55450.jpg"
 publication: Developments
