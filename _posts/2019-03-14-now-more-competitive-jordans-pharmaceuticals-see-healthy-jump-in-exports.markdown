@@ -5,12 +5,14 @@ tags:
 - global-health
 - economic-growth
 - governance
+author: Razan Salih, Samer Badawi, and Luma Batarseh
+thumbnail-image: "/uploads/Devs----Jordan-Pharma-2.jpg"
+social-image: "/uploads/Devs----Jordan-Pharma-2.jpg"
 publication: Developments
 issue: 
 author-bio: '<p style="display: block; float: right;" >Razan Salih, left, is communications
   manager for the USAID Jordan Competitiveness Program; Samer Badawi, center, is JCP’s
   communications advisor; Luma Batarseh is director of JCP''s export promotion component.</p>'
-author: Razan Salih, Samer Badawi, and Luma Batarseh
 featured?: 
 assets:
 - path: "/uploads/Jordan-WFD1.jpg"
@@ -23,11 +25,9 @@ assets:
   name: Devs----Jordan-Pharma-2
 - path: "/uploads/Devs----Luma.jpg"
   author?: 'yes'
-thumbnail-image: "/uploads/Devs----Jordan-Pharma-2.jpg"
-social-image: "/uploads/Devs----Jordan-Pharma-2.jpg"
 ---
 
-Six Jordanian pharmaceutical companies have reported an additional US$55.6 million in exports since installing the electronic Common Technical Document (eCTD) system in December 2016. The installation allows the companies to register their drugs in foreign markets using internationally recognized standards, enabling faster and more competitive delivery. Representing sales through the eCDT, this increase is additional to pre-eCDT projections.
+Six Jordanian pharmaceutical companies have reported an additional $55.6 million in exports since installing the electronic Common Technical Document (eCTD) system in December 2016. The installation allows the companies to register their drugs in foreign markets using internationally recognized standards, enabling faster and more competitive delivery. Representing sales through the eCDT, this increase is additional to pre-eCDT projections.
 
 
 
@@ -55,7 +55,7 @@ Jordan’s pharmaceutical exports had stagnated in the years before JCP's launch
 
 With JCP’s assistance, the JFDA and JAPM have strengthened their partnership and aligned their efforts around a common strategy to enhance exports and improve the enabling environment. This agenda spurred new technological enhancements and automation of the drug registration process—at the regulatory agency and at individual companies served by the JAPM—making the process of submitting, reviewing, and approving new drug applications faster and cheaper.
 
-![Devs----Jordan-Pharma-2](/uploads/Devs----Jordan-Pharma-2.jpg "Photo: USAID") 
+![Devs----Jordan-Pharma-2](/uploads/Devs----Jordan-Pharma-2.jpg)`Photo: USAID.` 
 
 ## A Bastion of the Regional Health Economy
 
@@ -68,7 +68,7 @@ Located in industrial zones around Amman, Jordan's main pharmaceutical productio
 > **Protecting Jordan’s Medical Tourism:**
 While Jordan’s medical tourism sector accounts for up to 10 percent of the country’s gross domestic product, that number plummeted in the years preceding JCP’s launch. In response, JCP channeled a grant to the Private Hospital Association (PHA) to promote Jordan as a leading medical tourism destination. PHA in turn formed the Jordan Medical Tourism Consortium of eight high-profile private hospitals, which subsequently saw substantial increases in patients and contracts from targeted markets in the Middle East, North Africa, and Asia. In 2016, for example, these hospitals served 206 patients from target markets in Algeria, Chad, Kazakhstan, and Oman—in 2018, they saw 1,163 patients from those countries, largely people seeking cosmetic surgery, neurological care, orthopedic procedures, organ transplants, and other treatments. Over the same period, the PHA increased from two to 52 its contracts signed with private hospitals across the region to allow their patients to be treated in Jordan. With the grant funding, the Consortium has targeted additional markets, raising awareness of Jordan's medical offerings through online marketing campaigns, tours, and exhibitions.
 
-![Jordan-WFD1-(2)](/uploads/Jordan-WFD1-(2).jpg "USAID's Jordan Workforce Development Program job fair promoting Al-Quds University scholarships.") 
+![Jordan-WFD1-(2)](/uploads/Jordan-WFD1-(2).jpg)`USAID's Jordan Workforce Development Program job fair promoting Al-Quds University scholarships.`Photo: USAID.`
 
 ## A Source of Jobs for Young Jordanians
 
