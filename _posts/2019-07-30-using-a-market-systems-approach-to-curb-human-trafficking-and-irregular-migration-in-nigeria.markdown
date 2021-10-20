@@ -53,7 +53,7 @@ In a little over one year, ESIP has:
 * Supported the U.K. Cabinet Office to implement a six-week “Not for Sale” communications campaign to discourage young girls and women from migrating abroad into modern slavery while raising awareness of economic opportunities in Edo and throughout Nigeria.
 * Conducted the “Strengthening Market-Based Approaches to Stimulate Livelihoods” conference for more than 100 stakeholders (returnee trafficked persons, vulnerable youth, private sector representatives, Edo State Government, and civil society organizations) to reflect on the MADE approach to livelihoods programming, outcomes, and scale-up approaches. 
 
-![WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg](/uploads/WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg)
+![WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg](/uploads/WhatsApp-Image-2019-07-30-at-8.45.50-AM.jpg)`Photo: DAI Nigeria.`
 
 ## Time to Take Action Against Trafficking
 
