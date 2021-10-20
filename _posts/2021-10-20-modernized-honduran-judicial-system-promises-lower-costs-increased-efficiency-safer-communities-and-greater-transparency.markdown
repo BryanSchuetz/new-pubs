@@ -35,7 +35,7 @@ SEJE will yield cost savings and make judicial operations more efficient and tra
 <iframe class="video" style="border: 1px solid gray;" src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ### Flagship Project
 
-The creation of SEJE started almost four years ago after Unidos assessed the technology the Judicial Branch was using at the time. That assessment resulted in the drafting of a Strategic Innovation and Modernization Plan, with SEJE as the centerpiece. The Supreme Court Plenary then authorized the implementation SEJE and the creation of three groups to oversee it: the National Coordination Committee (justices of the Supreme Court), a Technical Committee, and 18 Departmental Committees to coordinate regional implementation. 
+The creation of SEJE started almost four years ago after Unidos assessed the technology the Judicial Branch was using at the time. That assessment resulted in the drafting of a Strategic Innovation and Modernization Plan, with SEJE as the centerpiece. The Supreme Court Plenary then authorized the implementation of SEJE and the creation of three groups to oversee it: the National Coordination Committee (justices of the Supreme Court), a Technical Committee, and 18 Departmental Committees to coordinate regional implementation. 
 
 The Supreme Court’s approval of the SEJE governance structure and of the 13 courtrooms where SEJE’s implementation will begin represents a crucial sustainability milestone because it ensures that permanent governance bodies will continue to lead this effort beyond the current president’s tenure, which concludes in January 2023.
 
