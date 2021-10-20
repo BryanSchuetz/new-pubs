@@ -6,12 +6,14 @@ tags:
 - agriculture
 - economic-growth
 - trade
+author: Yohannes Assefa and Mary Mbugua
+thumbnail-image: "/uploads/Devs----livestock-1.jpg"
+social-image: "/uploads/Devs----livestock-1.jpg"
 publication: Developments
 issue: 
 author-bio: Yohannes Assefa, left, is director for agriculture and agribusiness of
   the USAID East Africa Trade and Investment Hub, and Mary Mbugua is the Hub’s value
   chain development specialist
-author: Yohannes Assefa and Mary Mbugua
 featured?: 
 assets:
 - path: "/uploads/Yohannes-Assefi-mug-(1)-(1).jpg"
@@ -26,8 +28,6 @@ assets:
   name: Devs----livestock-1
 - path: "/uploads/Devs----Livestock-9.jpg"
   name: Devs----Livestock-9
-thumbnail-image: "/uploads/Devs----livestock-1.jpg"
-social-image: "/uploads/Devs----livestock-1.jpg"
 ---
 
 East Africa's immense livestock resources represent the largest proportion of Africa's livestock population. Many millions of people depend on the sector for food, income, and employment, and it contributes greatly to the region's gross domestic product and foreign currency earnings. Strategically located near the livestock markets of the Arabian Gulf, the East Africa region is Africa's largest exporter of live animals, generating income for producers, traders, and governments.
@@ -37,7 +37,7 @@ East Africa's immense livestock resources represent the largest proportion of Af
 
 While livestock is big business—generating 42 percent of Kenya’s agricultural gross domestic product—the sector provides scant income for the pastoralists who raise most of the animals. These families graze their herds for years in search of grass and water, in the end selling the animals for an unpredictable price. But recent assistance initiatives sparked new sales and energy in Kenya's livestock sector while moving food from areas of surplus to areas of need.
 
-![Devs----livestock-1](/uploads/Devs----livestock-1.jpg "Loading cattle at the Garissa, Kenya, forum in November 2018.") 
+![Devs----livestock-1](/uploads/Devs----livestock-1.jpg)`Loading cattle at the Garissa, Kenya, forum in November 2018. Photo: USAID Hub.`
 
 Regional Livestock B2B Trade Facilitation Forums recently convened in Marsabit, Wajir, Isiolo, and Garissa attracted hundreds of traders from northern Kenya and neighboring Ethiopia, Somalia, and Uganda. Many in these business-to-business events were meeting in person for the first time. Together, they reached trade agreements to sell nearly 28,000 cattle, camels, sheep, and goats for $7.1 million. But just as importantly they began laying a foundation for transformational business growth.
 
@@ -56,7 +56,7 @@ More than 70 percent of Kenya’s livestock is raised in the country’s arid an
 * The sector accounts for approximately 40 percent of the agricultural gross domestic product in Ethiopia and Kenya and nearly 20 percent in Uganda.
 * Sixty to 80 percent of rural households keep livestock to supplement their food needs and incomes.
 
-![Devs----Livestock-8](/uploads/Devs----Livestock-8.jpg "Grazing camels south of Marsabit, Kenya.") 
+![Devs----Livestock-8](/uploads/Devs----Livestock-8.jpg)`Grazing camels south of Marsabit, Kenya. Photo: USAID Hub.`
 
 ## The Importance of Pastoralists
 
