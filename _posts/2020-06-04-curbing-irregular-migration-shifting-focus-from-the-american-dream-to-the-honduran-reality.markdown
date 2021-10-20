@@ -37,13 +37,13 @@ Parents are responding positively. After one such discussion at Cámara Junior S
 
 Principal Clavasquin said that many Honduran youth never reflect on future goals and career choices in Honduras. A [study conducted](https://presencia.unah.edu.hn/noticias/el-63-de-los-estudiantes-de-ultimo-ano-de-colegio-contempla-migrar-tras-graduarse/) last year revealed that 63 percent of Honduran students had hopes of migrating to the United States, Mexico, or Spain. One critical component of *Asegurando*’s awareness campaign is helping students imagine a future in their own country. The project accomplishes this through motivational talks, art workshops, and media outreach. 
 
-![ALE 1.jpg](/uploads/ALE%201.jpg)`Ricardo Sierra gives a motivational talk to high school students.` 
+![ALE 1.jpg](/uploads/ALE%201.jpg)`Ricardo Sierra gives a motivational talk to high school students. Photo: USAID Honduras Asegurando.` 
 
 *Asegurando* helps schools host motivational talks with successful men and women who hail from comparable backgrounds, have suffered similar hardships, and used education to succeed in their field. After listening to alumnus Ricardo Sierra, Chief Economist for the Honduran Sugar Association, speak at 21 de Octubre School in Tegucigalpa, ninth grader Jefferson said, “I admire him because he never gave up.” 
 
 Art workshop facilitators lead discussions with young people to imagine a career for themselves in Honduras, often for the first time. Students are then asked to express themselves through drawings or murals. The mural at Marco Antonio Ponce serves as a daily reminder that youth can have a rewarding future if they study hard and graduate. “They ask ‘When are we going to do it [our mural]?’” Clavasquin said. “And I tell them, ‘This year.’” After one workshop at Oswaldo Arellano School in Choloma, a ninth grade girl said, “Honduras can offer us these opportunities… to achieve our dreams.” 
 
-![ALE 2.jpg](/uploads/ALE%202.jpg)`Students paint a mural during an art workshop.`
+![ALE 2.jpg](/uploads/ALE%202.jpg)`Students paint a mural during an art workshop. Photo: USAID Honduras Asegurando.`
 
 *Asegurando* utilizes social and traditional media to extend the campaign’s reach beyond the project’s 135 schools. For example, it published 147 social media posts promoting the value of education and circulated hashtags such as #*SoñaloViviloAqui* (Dream It, Live it Here) and #*ImaginandoMiFuturoEnHonduras* (Imagining My Future in Honduras). For the first two months of 2020, campaign activities and messaging reached more than 300,000 people.
 
