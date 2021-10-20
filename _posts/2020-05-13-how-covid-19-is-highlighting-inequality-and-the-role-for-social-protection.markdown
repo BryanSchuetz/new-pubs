@@ -18,7 +18,7 @@ Alongside priorities of healthcare and slowing the rate of infection, almost all
 
 Now, governments and international aid agencies are increasingly discussing instruments such as minimum salary guarantees, direct cash transfers, lowering interest rates, and debt forgiveness as primary means of responding—alongside ensuring the least-worst health outcomes. Even the most fiscally conservative authorities are choosing to spend money on and provide for those in need. The global pandemic has brought into sharp focus the fact that relative equality and adequate basic services are in everyone’s best interest.
 
-![ESPII.jpg](/uploads/ESPII.jpg)
+![ESPII.jpg](/uploads/ESPII.jpg)`Photo: Uganda Expanding Social Protection II.`
 
 However, **those most at risk from COVID-19** _(and the secondary impacts of COVID-19)_ **are those most at risk in “normal” times**, too: those living in ongoing humanitarian or protracted crises; contexts with weak health systems; large refugee, forcibly displaced or migrant communities (especially those living in camps); areas of high population density (especially urban and informal settlements); high food insecurity and weak market linkages; the elderly; the disabled; those living with chronic illnesses, including immunodeficiencies; female-headed households; women and girls; and informal workers.
 
