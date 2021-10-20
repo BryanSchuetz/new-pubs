@@ -45,9 +45,9 @@ Most small farms in the Niger Delta produce below their potential due to poor so
 
 MADE identified six value chains with high potential to benefit small farmers—poultry, cassava, palm oil, fisheries, finished leather goods, and agricultural inputs—by remedying this disconnect between input suppliers and farmers. The project partnered with 25 leading agribusinesses and 488 retailers in these value chains to help them understand the potential profit to be gained from targeting rural farmers with affordable products and services.
 
-MADE worked with these companies to reach new rural markets to promote their products and to change attitudes and practices of smallholder farmers.  
+MADE worked with these companies to reach new rural markets to promote their products and to change the attitudes and practices of smallholder farmers.  
 
-![MADE_article_2-1](/uploads/MADE_article_2-1.jpg "Farmers purchasing chicken vaccines for the first time reduced flock mortality and increase profitability for poultry keeping. Photo: U.K. Department for International Development MADE.")
+![MADE_article_2-1](/uploads/MADE_article_2-1.jpg)`Farmers purchasing chicken vaccines for the first time reduced flock mortality and increase profitability for poultry keeping. Photo: U.K. Department for International Development MADE.`
 
 * To promote the use of crop protection products, MADE assisted companies to organize and co-sponsor product demonstrations on trial plots and at field day events, as well as helping companies to develop their distribution channels. The project also brought lead firms together with nongovernmental organizations working in agriculture to train farmers (especially women) how to use new products or improve their practices. Together, these supply companies and NGOs developed 800 demonstration plots across the nine Delta states.
 * MADE piloted and scaled commercially sustainable services, including developing a network of fee-based trainers focused on aquaculture productivity and business skills. More than 4,300 fish farmers purchased the training, which helped them increase their production by up to 65 percent.
