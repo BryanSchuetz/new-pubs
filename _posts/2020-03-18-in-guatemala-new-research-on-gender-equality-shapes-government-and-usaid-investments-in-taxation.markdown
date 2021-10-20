@@ -25,7 +25,7 @@ To understand the discrepancy in the tax treatment of men and women, Guatemala�
 
 The key finding: women are much less likely to be registered taxpayers than men and they earn far less income, yet women and their employers could reap significant social benefits and business opportunities that are available only to the tax compliant. And, in many cases, their compliance would entail minimal tax obligation.
 
-![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)
+![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)`Photo: USAID Guatemala FPRP.`
 
 These findings informed FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
