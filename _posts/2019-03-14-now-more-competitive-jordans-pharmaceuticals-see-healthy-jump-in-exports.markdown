@@ -68,7 +68,7 @@ Located in industrial zones around Amman, Jordan's main pharmaceutical productio
 > **Protecting Jordan’s Medical Tourism:**
 While Jordan’s medical tourism sector accounts for up to 10 percent of the country’s gross domestic product, that number plummeted in the years preceding JCP’s launch. In response, JCP channeled a grant to the Private Hospital Association (PHA) to promote Jordan as a leading medical tourism destination. PHA in turn formed the Jordan Medical Tourism Consortium of eight high-profile private hospitals, which subsequently saw substantial increases in patients and contracts from targeted markets in the Middle East, North Africa, and Asia. In 2016, for example, these hospitals served 206 patients from target markets in Algeria, Chad, Kazakhstan, and Oman—in 2018, they saw 1,163 patients from those countries, largely people seeking cosmetic surgery, neurological care, orthopedic procedures, organ transplants, and other treatments. Over the same period, the PHA increased from two to 52 its contracts signed with private hospitals across the region to allow their patients to be treated in Jordan. With the grant funding, the Consortium has targeted additional markets, raising awareness of Jordan's medical offerings through online marketing campaigns, tours, and exhibitions.
 
-![Jordan-WFD1-(2)](/uploads/Jordan-WFD1-(2).jpg "USAID's Jordan Workforce Development Program job fair promoting Al-Quds University scholarships.") 
+![Jordan-WFD1-(2)](/uploads/Jordan-WFD1-(2).jpg)`USAID's Jordan Workforce Development Program job fair promoting Al-Quds University scholarships.`Photo: USAID.`
 
 ## A Source of Jobs for Young Jordanians
 
