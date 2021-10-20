@@ -1,5 +1,5 @@
 ---
-title: 'It’s Getting Easier to Do Business in Nigeria: How DFID’s Award-Winning Policy
+title: 'It’s Getting Easier to Do Business in Nigeria: How the Award-Winning Policy
   Development Facility Supported Reform'
 date: 2020-06-22 11:10:00 -04:00
 tags:
@@ -21,7 +21,7 @@ How? Doing business has gotten easier in Nigeria thanks to reforms led by the [P
 
 In March 2020, PDF II celebrated its completion. The milestone was made more significant as the project received a special recognition award from PEBEC.  
 
-![pebec.jpg](/uploads/pebec.jpg)`Dr. Titilola Akindeinde, PDF II Program Manager, pictured center, receives the PEBEC award in March 2020.`
+![pebec.jpg](/uploads/pebec.jpg)`Dr. Titilola Akindeinde, PDF II Program Manager, pictured center, receives the PEBEC award in March 2020. Photo: PDF II.`
 
 ### Championing Change
 
@@ -35,14 +35,12 @@ PDF II’s efforts [resulted](https://www.pdfnigeria.org/rc/wp-content/uploads/2
 * **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
 * **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
 * **616 million naira** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
-=======
-PDF II’s efforts [resulted](https://www.pdfnigeria.org/rc/wp-content/uploads/2020/03/P3387_PDFII_results_reducing_poverty_WEB.pdf) in: 
 * **27,765 jobs** directly and indirectly created through interventions such as the Energizing Economies Initiative, green bonds, innovation hubs, and fertilizer programs. 
 * **116 advisers** embedded across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth.
 * **616 million naira** disbursed through the Development Bank of Nigeria to 300 micro, small, and medium-sized enterprises (and another 1.5 billion naira made available for those firms).
 * More than **N25 billion** raised by the government in Sovereign Green Bonds.
 
-UKaid’s investment made a difference. For every pound the British government spent on technical assistance, Nigeria was able to save £3,953 in excess expenditure, and an additional £89 to support budgetary expenditure.
+UK aid’s investment made a difference. For every pound the British government spent on technical assistance, Nigeria was able to save £3,953 in excess expenditure, and an additional £89 to support budgetary expenditure.
 
 “Through technical support provided by PDF II, we developed a roadmap that articulated the vision for the advancement of the mining sector,” says Dr. Kayode Fayemi, Nigeria’s former Minister of Solid Minerals Development and current Executive Governor of Ekiti State.
 
@@ -77,7 +75,7 @@ PEBEC honored the organizations and projects that contributed to Nigeria’s imp
 
 At the event, Vice President Osinbajo Tweeted his appreciation for the private sector’s assistance, saying it “deserves our heartfelt gratitude and commendation for its commitment and collaboration, especially their contributions in technical support and capacity building.”
 
-![pebec1.jpg](/uploads/pebec1.jpg)`PDF II Program Manager Dr. Titilola Akindeinde (ninth from the left) with Vice President Yemi Osinbajo (tenth from the left) and other awardees.`
+![pebec1.jpg](/uploads/pebec1.jpg)`PDF II Program Manager Dr. Titilola Akindeinde (ninth from the left) with Vice President Yemi Osinbajo (tenth from the left) and other awardees. Photo: PDF II.`
 
 ### Looking Ahead
 
