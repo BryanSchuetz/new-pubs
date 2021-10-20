@@ -4,8 +4,8 @@ date: 2019-04-01 02:23:00 -04:00
 tags:
 - youth-employment-series
 - economic-growth
-author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
-  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
+author: "[Estera Barbarasa](https://www.linkedin.com/in/esterabarbarasa/) and [Caterina
+  Valero](https://www.dai.com/who-we-are/our-team/caterina-valero)"
 thumbnail-image: "/uploads/CDS%20girl%20working.png"
 social-image: "/uploads/CDS%20girl%20working.png"
 publication: Developments
@@ -23,7 +23,7 @@ Given the security challenges young people face in traveling to San Salvador’s
 
 In addition to closing the transportation and safety gap, the SDC model offers a low-risk opportunity for employers apprehensive about hiring youth from high-crime areas. They can hire them remotely and try them out on real projects. Firsthand experience usually dispels any adverse preconception about young people from these communities.
 
-![CDS girl working.png](/uploads/CDS%20girl%20working.png)`Photo: Close to 3,000 young women and men are being trained in computer programming courses to meet the needs of El Salvador’s growing IT sector.`
+![CDS girl working.png](/uploads/CDS%20girl%20working.png)`Photo: Close to 3,000 young women and men are being trained in computer programming courses to meet the needs of El Salvador’s growing IT sector. Photo: USAID Bridges.`
 
 At the SDCs, youth go through a ***rigorous nine-month, three-level program*** that prepares them to work remotely as junior front-end or back-end programmers or freelancers for some of El Salvador’s top technology firms. During the first three months (Level One), young people get intensive training and specialization in one of the six computer programming languages and complete life skills courses to reinforce confidence, teamwork, and communications. 
 
