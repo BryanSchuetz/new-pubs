@@ -18,7 +18,7 @@ In Haiti, [more than 60 percent](https://www.worldbank.org/en/country/haiti/over
 
 
 
-![170709_Cap Street_11r.jpg](/uploads/170709_Cap%20Street_11r.jpg)`Street scene in Cap-Haïtien, a port city on the north coast of Haiti.`
+![170709_Cap Street_11r.jpg](/uploads/170709_Cap%20Street_11r.jpg)`Street scene in Cap-Haïtien, a port city on the north coast of Haiti. Photo: DAI.`
 
 ## Locked Out
 
@@ -34,7 +34,7 @@ Some 2 million Haitians—a sixth of the country’s population—live outside H
 
 To tap the diaspora, Haiti INVEST hosted roadshows showcasing investment opportunities, with presentations from Haitian entrepreneurs and discussions with investment experts. INVEST issued a request for proposal (RFP) asking firms how they would organize such a roadshow, including their strategy for engaging the diaspora.
 
-![haiti Picture1.png](/uploads/haiti%20Picture1.png)`Guy-Max Delphin, CEO and Chief Investment Officer of Delphin Investments. Photo courtesy Delphin Investments.`
+![haiti Picture1.png](/uploads/haiti%20Picture1.png)`Guy-Max Delphin, CEO and Chief Investment Officer of Delphin Investments. Photo: Delphin Investments.`
 
 When Guy-Max Delphin, CEO of [Delphin Investments](http://www.delphininvest.com/), heard about the RFP, he knew his firm might be a perfect partner.
 
