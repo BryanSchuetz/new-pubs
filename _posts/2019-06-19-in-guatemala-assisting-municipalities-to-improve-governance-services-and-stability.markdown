@@ -25,7 +25,7 @@ Working exclusively with local and national partners, Nexos Locales has produced
 * Increasing the number of citizens participating in local governance and improving public service delivery. 
 * Developing tools for use in the 44 municipalities that have subsequently been expanded into all 340 municipalities in Guatemala, thanks to the support of the ANAM; these tools have been recognized as best practices in municipal management.
 
-![Devs----Nexos-3.jpg](/uploads/Devs----Nexos-3.jpg)`Water quality testing in Santa Cruz Barillas.`
+![Devs----Nexos-3.jpg](/uploads/Devs----Nexos-3.jpg)`Water quality testing in Santa Cruz Barillas. Photo: USAID Guatemala Nexos Locales.`
 
 ## Increasing Local Revenues
 
