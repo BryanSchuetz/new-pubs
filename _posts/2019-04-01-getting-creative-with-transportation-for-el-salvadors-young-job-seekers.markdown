@@ -4,8 +4,8 @@ date: 2019-04-01 01:09:00 -04:00
 tags:
 - economic-growth
 - youth-employment-series
-author: "[Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa)
-  and [Caterina Valero](https://www.linkedin.com/in/caterina-valero-a7244739/)\n"
+author: "[Estera Barbarasa](https://www.linkedin.com/in/esterabarbarasa/) and [Caterina
+  Valero](https://www.dai.com/who-we-are/our-team/caterina-valero)"
 thumbnail-image: "/uploads/Unknown-63e26b.png"
 social-image: "/uploads/Unknown-63e26b.png"
 publication: Developments
@@ -17,7 +17,7 @@ An estimated 80 percent of El Salvador’s formal jobs are concentrated in great
 
 Many young people outside San Salvador rely on public transportation to commute to work or get to job interviews. But public buses have irregular schedules or no service at hours when workers need transport, and limited routes to where youth live—all of which restricts their ability to get to where the jobs are. Most retail jobs require working late hours or weekend shifts when bus routes are most infrequent, posing safety risks especially for young women. With gangs active in 247 of El Salvador’s 262 municipalities, territoriality between competing gangs affects who can come in and out of which neighborhoods, exacerbating young people’s inability to work outside the areas where they live.
 
-![Unknown-63e26b.png](/uploads/Unknown-63e26b.png)`Photo: By organizing group transportation to San Salvador, training centers’ job placement managers help Salvadoran youth to attend their first job fairs and meet hiring managers`
+![Unknown-63e26b.png](/uploads/Unknown-63e26b.png)`By organizing group transportation to San Salvador, training centers’ job placement managers help Salvadoran youth to attend their first job fairs and meet hiring managers. Photo: USAID Bridges.`
 
 With USAID support, local youth-serving organizations are taking on this challenge. For example, local job placement managers are helping young people ***plan the logistics of the job interview process***. Retail jobs such as fast food or clothing sales often require an interview at a national chain’s headquarters in San Salvador, even if the franchise location is closer to the young person’s home. 
 
@@ -29,6 +29,4 @@ A second approach involves ***co-designing transportation solutions with employe
 
 That said, some young people are still unable to accept ADOC job offers because the infrequent bus schedule does not allow them to make the return trip home after their shift. Bridges to Employment and its partners still have work to do. 
 
-<aside>Plastics is one of El Salvador’s fastest growing sectors, and the industry needs 3,000 skilled technicians. The industry association’s training center, FUNDEPLAST, offers high-quality training programs for technical operators of injection molding and blow molding machines, film extrusion machines, and flexographic printing machines. However, FUNDEPLAST is struggling to attract students to enroll in the training, in part because of its location in the high-crime area of San Bartolo in Ilopango. Youth are scared to go there, and parents are not willing to allow their children to travel there. To address this challenge, Ilopango’s mayor has stepped in to provide safe transportation to bring out-of-town youth to the FUNDEPLAST center.</aside>
-
-
+<aside>Plastics is one of El Salvador’s fastest-growing sectors, and the industry needs 3,000 skilled technicians. The industry association’s training center, FUNDEPLAST, offers high-quality training programs for technical operators of injection molding and blow molding machines, film extrusion machines, and flexographic printing machines. However, FUNDEPLAST is struggling to attract students to enroll in the training, in part because of its location in the high-crime area of San Bartolo in Ilopango. Youth are scared to go there, and parents are not willing to allow their children to travel there. To address this challenge, Ilopango’s mayor has stepped in to provide safe transportation to bring out-of-town youth to the FUNDEPLAST center.</aside>
