@@ -25,7 +25,7 @@ To understand the discrepancy in the tax treatment of men and women, Guatemala�
 
 The key finding: women are much less likely to be registered taxpayers than men and they earn far less income, yet women and their employers could reap significant social benefits and business opportunities that are available only to the tax compliant. And, in many cases, their compliance would entail minimal tax obligation.
 
-![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)
+![Devs----FPRP-gender-6.jpg](/uploads/Devs----FPRP-gender-6.jpg)`Photo: USAID Guatemala FPRP.`
 
 These findings informed FPRP’s work to support domestic resource mobilization, government expenditure management, and public procurement reform in Guatemala. USAID’s goal is to assist the Government of Guatemala to invest more productively in public services by making tax collection more efficient, reducing corruption, and improving public expenditure management.
 
@@ -39,7 +39,7 @@ The FPRP studies spotlighted other issues:
 
 **Distribution of economic and financial resources have placed women at a disadvantage relative to men.** From income tax declarations, the study found that nearly 80 percent of declared assets are in the hands of men. This places women at a disadvantage to men in gaining access to financial services, where only [four out of 10 credits](https://www.sib.gob.gt/web/sib/inicio) or 36 percent of credit amounts are granted to women by banking institutions. This disparity further perpetuates gender inequality.
 
-**Far more men are registered taxpayers—65 percent of men vs. 35 percent of women, both as employees and business-owners.** Men are significantly more likely to be employed in the formal sector, with access to social security, healthcare, disability insurance, and retirement benefits. While most of the Guatemalan economy is informal, nearly all informal economic activity is constrained because these entities lack the legal standing to partake of various business opportunities—including government contracts and sales to corporate supply chains.
+**Far more men are registered taxpayers—65 percent of men vs. 35 percent of women, both as employees and business owners.** Men are significantly more likely to be employed in the formal sector, with access to social security, healthcare, disability insurance, and retirement benefits. While most of the Guatemalan economy is informal, nearly all informal economic activity is constrained because these entities lack the legal standing to partake of various business opportunities—including government contracts and sales to corporate supply chains.
 
 **Tax compliance costs more for women in indigenous and rural populations.** While most Guatemalans in rural areas travel long distances to reach a tax office, women:
 
@@ -51,13 +51,13 @@ Underserved indigenous populations face additional, unique challenges. For examp
 
 > **Guatemala: Latin American Tax Pioneer.** SAT officials have presented these findings at conferences in Chile, Colombia, and Peru, and Guatemala’s experience was highlighted by the Inter-American Center of Tax Administrations CIAT as pioneering in the Latin American region. The SAT recently incorporated gender as a crosscutting part of its Institutional Strategic Plan.
 
-![Devs----FPRP-gender-2.jpg](/uploads/Devs----FPRP-gender-2.jpg)
+![Devs----FPRP-gender-2.jpg](/uploads/Devs----FPRP-gender-2.jpg)`Photo: USAID Guatemala FPRP.`
 
 ## The Value in Poor Women Being Tax-Compliant
 
-Since most Guatemalan women are poor, registering them as taxpayers would not in itself provide the country with an immediate or sizeable revenue boost. However, by the same token, the tax obligation of newly compliant women taxpayers would be minimal, and bringing women onto the tax rolls would help broaden the tax base in Central America’s most populous country. 
+Since most Guatemalan women are poor, registering them as taxpayers would not in itself provide the country with an immediate or sizeable revenue boost. However, by the same token, the tax obligation of newly compliant women taxpayers would be minimal and bringing women onto the tax rolls would help broaden the tax base in Central America’s most populous country. 
 
-While most of these businesses are informal precisely to avoid tax liability, they may see a business case for formalization in the form of larger business opportunities with customers that require their suppliers to have legal standing. Established entrepreneurs who become “legitimized” by tax registration could be well positioned to quickly expand their customer base.
+While most of these businesses are informal precisely to avoid tax liability, they may see a business case for formalization in the form of larger business opportunities with customers that require their suppliers to have legal standing. Established entrepreneurs who become “legitimized” by tax registration could be well-positioned to quickly expand their customer base.
 
 The Guatemalan Government is already seeing substantial benefits arising from a partnership with FPRP that has enabled it to:
 
@@ -68,7 +68,7 @@ The Guatemalan Government is already seeing substantial benefits arising from a 
 
 Fairly and efficiently integrating more women into this broader base of formal taxpayers marks a logical step in developing a domestic resource base commensurate with the country’s development needs.
 
-![Devs----FPRP-gender-1-d74625.jpg](/uploads/Devs----FPRP-gender-1-d74625.jpg)
+![Devs----FPRP-gender-1-d74625.jpg](/uploads/Devs----FPRP-gender-1-d74625.jpg)`Photo: USAID Guatemala FPRP.`
 
 ## Data Helps Shape Tax and Budget Reform
 
