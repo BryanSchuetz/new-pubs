@@ -8,8 +8,8 @@ tags:
 - Think Piece
 - fragile-states
 author: "[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/) "
-thumbnail-image: "/uploads/Oxfam_East_Africa_-_SomalilandDrought014-d89d7a.jpg"
-social-image: "/uploads/Oxfam_East_Africa_-_SomalilandDrought014-d89d7a.jpg"
+thumbnail-image: "/uploads/IMG_2463-47a2ef.JPG"
+social-image: "/uploads/IMG_2463-47a2ef.JPG"
 publication: Developments
 ---
 
