@@ -25,7 +25,7 @@ Small businesses, in particular, are key players in emerging economies. Small an
 
 While COVID-19 is perhaps unprecedented in its sheer scale and abruptness, there are still lessons to be learned from previous examples of governments and donors collaborating to help businesses stay afloat. One such example comes from the Palestinian Territories, where a pair of linked  programmes funded by the U.K. Department for International Development (DFID), the World Bank, and the European Union (EU) supported hundreds of businesses to weather the extreme economic disruption resulting from the war in Gaza and remain viable enterprises that could provide jobs and foster demand and supply in markets.
 
-![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)`The FNMD project helped businesses with hiring staff, among other services.`
+![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)`The FNMD project helped businesses with hiring staff, among other services. Photo: FNMD.`
 
 ## Gaza Back to Work
 
@@ -38,7 +38,7 @@ The grants provided support for up to three months of operating expenses with a 
 
 In 2014, another Israel-Gaza war erupted. The impact on Gaza’s private sector—already fragile, and hampered by an infrastructure weakened by years of blockade—was far reaching. Some 485,000 people were displaced. Physical destruction, disruptions to electricity and power supplies, and unreliable communications networks—compounded by restrictions on movement and on the ability to import and export—severely harmed Gaza’s business prospects. 
 
-![20140802_111303_resized.jpg](/uploads/20140802_111303_resized.jpg)`Offices all over Gaza were heavily damaged.`
+![20140802_111303_resized.jpg](/uploads/20140802_111303_resized.jpg)`Offices all over Gaza were heavily damaged. Photo: DAI Palestine.`
 
 The DFID- and EU-funded [Palestinian Market Development Programme](https://www.dai.com/our-work/projects/palestinian-market-development-programme-pmdp) (PMDP), having learned from the experience with FNMD’s GB2W, responded immediately by launching the Gaza Back to Business (GB2B) grant window. GB2B covered the rehabilitation of damaged equipment to return it to working condition, the replacement of fixed assets, and recurring expenses such as staff payroll. Most awards were for less than $15,000, but their impact—matched, importantly, with grantee contributions—was substantial. Businesses that might have collapsed irrevocably [were able to operate again](https://dai-global-developments.com/articles/getting-back-to-business-in-post-conflict-gaza).
 
