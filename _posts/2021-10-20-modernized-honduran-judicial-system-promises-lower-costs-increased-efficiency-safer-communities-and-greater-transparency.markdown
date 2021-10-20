@@ -35,7 +35,7 @@ SEJE will yield cost savings and make judicial operations more efficient and tra
 <iframe class="video" style="border: 1px solid gray;" src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ### Flagship Project
 
-The creation of SEJE started almost four years ago after Unidos assessed the technology the Judicial Branch was using at the time. That assessment resulted in the drafting of a Strategic Innovation and Modernization Plan, with SEJE as the centerpiece. The Supreme Court Plenary then authorized the implementation SEJE and the creation of three groups to oversee it: the National Coordination Committee (justices of the Supreme Court), a Technical Committee, and 18 Departmental Committees to coordinate regional implementation. 
+The creation of SEJE started almost four years ago after Unidos assessed the technology the Judicial Branch was using at the time. That assessment resulted in the drafting of a Strategic Innovation and Modernization Plan, with SEJE as the centerpiece. The Supreme Court Plenary then authorized the implementation of SEJE and the creation of three groups to oversee it: the National Coordination Committee (justices of the Supreme Court), a Technical Committee, and 18 Departmental Committees to coordinate regional implementation. 
 
 The Supreme Court’s approval of the SEJE governance structure and of the 13 courtrooms where SEJE’s implementation will begin represents a crucial sustainability milestone because it ensures that permanent governance bodies will continue to lead this effort beyond the current president’s tenure, which concludes in January 2023.
 
@@ -53,7 +53,7 @@ Another aspect of SEJE designed to bolster people’s security is its biometric 
 
 ### Second Layer
 
-In addition to SEJE, Unidos also supported the creation of an Electronic Annual Operating Plan (e-AOP), which enables Judicial Branch managers track the progress of the Strategic Innovation and Modernization Plan implementation online, in real time, and link to budgets and expenditures, a capability that soared in importance with arrival of the COVID-19 pandemic in Honduras.   
+In addition to SEJE, Unidos also supported the creation of an Electronic Annual Operating Plan (e-AOP), which enables Judicial Branch managers to track the progress of the Strategic Innovation and Modernization Plan implementation online, in real time, and link to budgets and expenditures, a capability that soared in importance with the arrival of the COVID-19 pandemic in Honduras.   
 
 “The advantage of this tool is that it brings everything together in one shared place, allowing us to align our efforts, and all under the established goals and objectives of the institution and the priorities of management,” said Judicial Branch Planning and Budget Director Maria José Laitano. “It allows us to improve all our monitoring and evaluation processes.” 
 
