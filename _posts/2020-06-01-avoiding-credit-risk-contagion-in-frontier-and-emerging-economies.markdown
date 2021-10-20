@@ -16,11 +16,11 @@ COVID-19 has hit economies around the world, with devastating effects on busines
 
 Financial outflows and a rapid decline in inflows (including remittances) will have a particularly severe impact on micro, small, and medium-sized enterprises (MSMEs), which form the backbone of frontier and emerging economies and are often concentrated in high-priority sectors—such as agribusiness and tourism—that are crucial to economic activity and employment. The World Bank estimates that small enterprises account for [more than half of total employment](https://www.worldbank.org/en/topic/smefinance) in such economies. While many wealthy industrialized countries and advanced emerging markets have found ways to pump money into struggling MSMEs, most developing countries lack the budgetary bandwidth and ready-to-go disbursement mechanisms to do so.
 
-![drew-willson-DigT_twYyiU-unsplash.jpg](/uploads/drew-willson-DigT_twYyiU-unsplash.jpg) 
+![drew-willson-DigT_twYyiU-unsplash.jpg](/uploads/drew-willson-DigT_twYyiU-unsplash.jpg)`Photo: Unsplash.` 
 
 Development finance institutions (DFIs) can support key sectors of the economy and their constituent MSMEs by administering the right mix of capital mobilization, policy advice, and technical assistance to local financial institutions. DFIs might need to consider how they deploy rapid technical assistance to accompany timely adjustments to their loan mechanisms with local financial institutions. In doing so, it is important that they stay attuned to the development part of development finance.
 
-## The Domino effects
+## The Domino Effects
 
 The immediate challenge for development policy makers and practitioners is to avoid the domino effect whereby a credit crunch on banks and microfinance institutions cascades into the COVID-stricken MSME sector—or the reverse situation whereby defaults by MSMEs threaten the soundness of the financial institutions that serve them. Microfinance institutions are particularly at risk because they are largely dependent on MSME loans and lack adequate cash reserves to reschedule loans beyond a few months. These lenders will require external support to bridge the gap and provide more flexibility on loan repayments. 
 
