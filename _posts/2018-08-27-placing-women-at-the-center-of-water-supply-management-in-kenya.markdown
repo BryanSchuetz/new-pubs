@@ -5,12 +5,14 @@ tags:
 - environment-and-energy
 - global-health
 - economic-growth
+author: Emily Mutai and Annabell Waititu
+thumbnail-image: "/uploads/Devs----KIWASH-Women-4.jpg"
+social-image: "/uploads/Devs----KIWASH-Women-4.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: Emily Mutai, left, is the communications and marketing manager for the
   USAID Kenya Integrated Water, Sanitation and Hygiene project; Annabell Waititu is
   the project’s gender specialist.
-author: Emily Mutai and Annabell Waititu
 featured?: 
 assets:
 - path: "/uploads/Emily-Mutai-mug.jpg"
@@ -27,8 +29,6 @@ assets:
   name: Devs----KIWASH-1
 - path: "/uploads/Devs----KIWASH-Women-2.jpg"
   name: Devs----KIWASH-Women-2
-thumbnail-image: "/uploads/Devs----KIWASH-Women-4.jpg"
-social-image: "/uploads/Devs----KIWASH-Women-4.jpg"
 ---
 
 As Christine Kanini checks water meters on her weekly rounds, she recalls that 18 months earlier she could not aspire to this job. “We had mainly male meter readers,” Kanini said. “Then I was promoted to this position from gate keeping. I am happy with the work.” Over the past year, the Wote Water and Sewerage Company (WOWASCO), which serves the small city of Wote in south-central Kenya, has opened up opportunities for women such as Kanini in fields that were previously deemed suited for men only.
@@ -38,7 +38,7 @@ As Christine Kanini checks water meters on her weekly rounds, she recalls that 1
 
 These changes are part of gender initiatives supported by the U.S. Agency for International Development’s Kenya Integrated Water, Sanitation and Health (KIWASH) project. To improve the lives and health of 1 million Kenyans across nine counties, the five-year project (2015–2020) focuses on developing and managing sustainable water, sanitation, and hygiene (WASH) services. Central to this objective is ensuring that everyone—especially women—has equal access to the opportunities created through improved WASH services, including jobs. 
 
-![Devs----KIWASH-Women-2](/uploads/Devs----KIWASH-Women-2.jpg "Christine Kanini, right, speaking with a customer in Makueni County, Kenya. Photo: USAID KIWASH.")  
+![Devs----KIWASH-Women-2](/uploads/Devs----KIWASH-Women-2.jpg)`Christine Kanini, right, speaking with a customer in Makueni County, Kenya. Photo: USAID KIWASH.` 
 
 ## How Water Services Affect Women 
 
@@ -49,7 +49,7 @@ While these adverse conditions have become widely known, women’s potential rol
 Nationally, Kenya has made significant progress toward improving these inequities: its new constitution from 2010 lists access to water and sanitation as a basic human right and mandates equal gender representation in these public sectors. Likewise, the government’s Vision 2030 plan recognizes that gender equality will play a critical role in achieving the country’s development goals. 
 Despite these stipulations, however, progress has been slow. To help the country increase gender equity, KIWASH analyzed 13 water utilities across the nine counties where we work to determine the barriers women face as both employees and customers and to identify areas for improvement.
 
-![Devs----KIWASH-Women-6](/uploads/Devs----KIWASH-Women-6.jpg "Cooperative Bank of Kenya staff received training on water sector financing and ways to improve loan quality and reduce risk. Photo: USAID KIWASH.") 
+![Devs----KIWASH-Women-6](/uploads/Devs----KIWASH-Women-6.jpg)`Cooperative Bank of Kenya staff received training on water sector financing and ways to improve loan quality and reduce risk. Photo: USAID KIWASH.`
 
 ## Improving the Gender Ratio
 
@@ -61,7 +61,7 @@ For example, the Nairobi City Water and Sewerage Company (NCWSC) employs 3,000 p
  
 Vicky Maiyo, the Donor Project Officer with NCWSC, described the progress she is starting to see. “Initially, leadership in the utility company was a male affair,” Maiyo said. “After the trainings, we have four women heading the regions and three of our six managers are women. And with technical work, like those operating water tankers, excavators, or driving heavy commercial vehicles, there is [increased female] representation where before those jobs were dominantly male.”
 
-![Devs----KIWASH-Women-4](/uploads/Devs----KIWASH-Women-4.jpg "Water company staff in Mbooni, Makueni County, received training to reduce revenue losses caused by leaks, theft, poor billing systems, and weak metering policies. Photo: USAID KIWASH.") 
+![Devs----KIWASH-Women-4](/uploads/Devs----KIWASH-Women-4.jpg)`Water company staff in Mbooni, Makueni County, received training to reduce revenue losses caused by leaks, theft, poor billing systems, and weak metering policies. Photo: USAID KIWASH.`
 
 ## Women Doing a Great Job
 
@@ -75,7 +75,7 @@ Two female WOWASCO staff were recently allowed to join the formerly all-male met
 
 KIWASH carries out quarterly assessments of water services providers to track improvements in gender equality mainstreaming. These assessments are premised on short- and medium-term action plans developed during KIWASH trainings. As sexual harassment affects women’s dignity as well as water provider performance and utility/customer relations, sexual harassment needs to be tackled head on. KIWASH worked with the utilities to conduct 11 training sessions and develop action plans that raise awareness of what constitutes sexual harassment and how it harms people and job performance. KIWASH is now advising water companies on how to develop sexual harassment policies. 
 
-![Devs----KIWASH-1](/uploads/Devs----KIWASH-1.jpg "Vicky Maiyo, seated center, and women officers from the biggest water company in Kenya after gender mainstreaming training in Nairobi. Photo: USAID KIWASH.") 
+![Devs----KIWASH-1](/uploads/Devs----KIWASH-1.jpg)`Vicky Maiyo, seated center, and women officers from the biggest water company in Kenya after gender mainstreaming training in Nairobi. Photo: USAID KIWASH.`
 
 ## Reaching More Female Customers
 
@@ -85,7 +85,7 @@ With support from KIWASH, two water companies have addressed this challenge. The
 
 Tailoring some of its key communications to women has also led to increased engagement from female customers. Maiyo recollects how NCWSC did not have a direct gender policy for customer outreach. “The company used to hold joint community meetings with men and women during feasibility studies,” Maiyo said. “Men would dominate the meetings. However, we have learned that in some communities it is better to hold separate meetings for men and women. As a result, women express themselves freely and this is a good step for the company as we obtain inclusive feedback from the community.”
 
-![Devs----KIWASH-Women-5](/uploads/Devs----KIWASH-Women-5.jpg "Demonstration garden in Kisumu County where local suppliers provide seed and fertilizer to showcase production of nutrient-dense, high-value crops using efficient irrigation and water management. Photo: USAID KIWASH.") 
+![Devs----KIWASH-Women-5](/uploads/Devs----KIWASH-Women-5.jpg)`Demonstration garden in Kisumu County where local suppliers provide seed and fertilizer to showcase production of nutrient-dense, high-value crops using efficient irrigation and water management. Photo: USAID KIWASH.` 
 
 ## Removing Barriers, Strengthening Society
 
