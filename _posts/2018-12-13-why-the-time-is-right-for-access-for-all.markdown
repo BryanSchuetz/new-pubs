@@ -4,11 +4,13 @@ date: 2018-12-13 10:12:00 -05:00
 tags:
 - DAI
 - economic-growth
+author: Jim Boomgard
+thumbnail-image: "/uploads/Devs----Boomgard-3.jpg"
+social-image: "/uploads/Devs----Boomgard-3.jpg"
 publication: Developments
 issue: Winter 2018
 author-bio: "[James J. (Jim) Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)
   is President and Chief Executive Officer of DAI Global"
-author: Jim Boomgard
 featured?: 
 assets:
 - path: "/uploads/Devs----Boomgard-mug.jpg"
@@ -19,8 +21,6 @@ assets:
   name: Devs----Boomgard-2
 - path: "/uploads/Devs----Boomgard-3.jpg"
   name: Devs----Boomgard-3
-thumbnail-image: "/uploads/Devs----Boomgard-3.jpg"
-social-image: "/uploads/Devs----Boomgard-3.jpg"
 ---
 
 *Following is DAI CEO Jim Boomgard’s Foreword to [Access for All](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion), Brigit Helms' new book on economic inclusion:*
@@ -40,7 +40,7 @@ And the nice part of this story is that the private sector itself has a powerful
 
 The beauty of this story may be beguiling. While the convergence of opportunity and incentive could yield the economic growth we all want, there is no guarantee it will be the inclusive growth we all hope for. To put it in the terms of this book, there is no guarantee that the roaring engines of change in developing markets come with “access for all.”
 
-![Devs----Boomgard-3](/uploads/Devs----Boomgard-3.jpg "Touring the Hawassa Industrial Park in Ethiopia, a country with a fast-growing sector for garment manufacture and export.")
+![Devs----Boomgard-3](/uploads/Devs----Boomgard-3.jpg)`Touring the Hawassa Industrial Park in Ethiopia, a country with a fast-growing sector for garment manufacture and export. Photo: DFID PEPE.`
 
 Brigit Helms has made a career at the intersection of inclusiveness and economic growth. As a development thinker, as a field worker, as an impact investor and an entrepreneur in her own right, she has striven to understand how markets work in developing countries, how they can work better for all citizens, and how the dizzying and evolving array of market actors are coming together to shape opportunity in frontier economies. 
 
