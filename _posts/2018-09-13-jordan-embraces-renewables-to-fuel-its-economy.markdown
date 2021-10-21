@@ -4,11 +4,13 @@ date: 2018-09-13 15:14:00 -04:00
 tags:
 - environment-and-energy
 - economic-growth
+author: Gwen Andersen
+thumbnail-image: "/uploads/Devs----Jordan-Energy-1.jpg"
+social-image: "/uploads/Devs----Jordan-Energy-1.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: DAI’s [Gwen Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen)
   is a principal global practice specialist in energy.
-author: Gwen Andersen
 featured?: 
 assets:
 - path: "/uploads/Devs----Jordan-Energy-4.jpg"
@@ -27,8 +29,6 @@ assets:
     Industry - FINAL (Branded)[1].pdf"
   name: 1. USAID JCP Competitiveness Brief - Building a New Electric Vehicle Industry
     - FINAL (Branded)[1]
-thumbnail-image: "/uploads/Devs----Jordan-Energy-1.jpg"
-social-image: "/uploads/Devs----Jordan-Energy-1.jpg"
 ---
 
 Jordan needs to grow its economy. More than 700,000 of its young people—[39 percent](https://data.worldbank.org/indicator/ SL.UEM.1524.ZS) of the available labor force ages 15 to 24—are without a job. Many have good educations and are [holding out for high-quality employment](http://dai-global-developments.com/articles/addressing-jordans-youth-unemployment-bubble-usaid-program-aligns-workforce-with-emerging-opportunities/). Jordan is also hosting an enormous influx of Syrian refugees, which has helped swell its population from 7.5 million in 2011 to 10 million today. Many of these newcomers are also seeking work. But Jordan is almost completely reliant on imported oil and gas for its energy, limiting its ability to grow the economy and create jobs.
@@ -40,7 +40,7 @@ In 2014, the [Jordan Competitiveness Program (JCP)](https://www.dai.com/our-work
 
 The JCP team has since assisted Jordan in putting these recommendations to work. Today, Jordan is leading the Middle East and North Africa in [renewable energy growth](https://about.bnef.com/new-energy-outlook/) according to *Bloomberg New Energy Finance*, and is ranked [third out of 71 countries worldwide](http://global-climatescope.org/en/country/jordan/#/enabling-framework). 
 
-![Devs----Jordan-Energy-4](/uploads/Devs----Jordan-Energy-4.jpg "The Oasis500 CleanTech bootcamp assisted by the USAID Jordan Competitiveness Program promoted startups and facilitated access to investors.") 
+![Devs----Jordan-Energy-4](/uploads/Devs----Jordan-Energy-4.jpg)`The Oasis500 CleanTech bootcamp assisted by the USAID Jordan Competitiveness Program promoted startups and facilitated access to investors. Photo: USAID Jordan JCP.`
 
 ## Clean Tech Emerges as an Opportunity 
 
@@ -50,13 +50,13 @@ To assist Jordan down this path, the JCP team, which began its work in 2013, has
 
 The energy audits that made these and other financing transactions possible were conducted through Jordan’s Energy and Environmental Sustainability (EES) unit that was established with JCP support.
 
-![Devs----Jordan-Energy-wind](/uploads/Devs----Jordan-Energy-wind.jpg "The Tafila Wind Farm was built with International Finance Corporation support and inaugurated by the Kingdom of Jordan in 2015. It produces enough energy to power 80,000 homes. Photo: Dominic Chavez/IFC.") 
+![Devs----Jordan-Energy-wind](/uploads/Devs----Jordan-Energy-wind.jpg)`The Tafila Wind Farm was built with International Finance Corporation support and inaugurated by the Kingdom of Jordan in 2015. It produces enough energy to power 80,000 homes. Photo: Dominic Chavez/IFC.`
 
 ## Helping Jordan Meet New Demand 
 
-To meet Jordan’s increasing demand for renewable energy engineers, JCP partnered with EDAMA, a Jordanian business association, to launch energy training courses certified by the Association of Energy Engineers. This initiative helped certify more than 200 Jordanian professionals through programs such as the Renewable Energy Professional curriculum. Notably, JCP sponsored two waves of female engineers to acquire the international certification—64 women in all—in sought-after courses such as Certified Energy Manager, the world’s most recognized energy certification. These certifications have improved young Jordanians’ chances for getting hired in this growing sector, and their certifications are expected to help employers compete for international and regional contracts. Strengthening Jordan’s clean energy workforce has helped improve the country’s reputation as an [investment destination for clean tech projects](https://oxfordbusinessgroup.com/news/jordan-sees-rising-investment-clean-technology).
+To meet Jordan’s increasing demand for renewable energy engineers, JCP partnered with EDAMA, a Jordanian business association, to launch energy training courses certified by the Association of Energy Engineers. This initiative helped certify more than 200 Jordanian professionals through programs such as the Renewable Energy Professional curriculum. Notably, JCP sponsored two waves of female engineers to acquire the international certification—64 women in all—in sought-after courses such as Certified Energy Manager, the world’s most recognized energy certification. These certifications have improved young Jordanians’ chances for getting hired in this growing sector, and their certifications are expected to help employers compete for international and regional contracts. Strengthening Jordan’s clean energy workforce has helped improve the country’s reputation as an [investment destination for cleantech projects](https://oxfordbusinessgroup.com/news/jordan-sees-rising-investment-clean-technology).
 
-![Devs----Jordan-Energy-1](/uploads/Devs----Jordan-Energy-1.jpg "The first electric vehicle charging station in Jordan was unveiled at the King Hussein Business Park.") 
+![Devs----Jordan-Energy-1](/uploads/Devs----Jordan-Energy-1.jpg)`The first electric vehicle charging station in Jordan was unveiled at the King Hussein Business Park. Photo: USAID Jordan JCP.`
 
 ## Pioneering Use of Electric Vehicles
 
@@ -68,7 +68,7 @@ Over the past four years, the JCP team helped Jordan [usher its electric vehicle
 
 Access to energy—and thus electricity—can dramatically improve people’s lives. Being able to turn on a reading lamp, for example, light up a town center, or power up enterprises small and large. While some of DAI’s work specifically addresses energy—notably our work in [energy finance](http://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate/) and [reducing emissions](http://dai-global-developments.com/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/)—all developing countries can benefit from better energy availability and more efficient use, including in sectors such as farming and agribusiness, water and sanitation, health, and, in Jordan’s case, job creation, post-conflict transition, and refugee integration.
 
-![Devs----Jordan-Energy-2](/uploads/Devs----Jordan-Energy-2.jpg "Green Job Fair at the Landmark Hotel linked companies that work in the green technology sector with professionals and graduates who have relevant skills.")
+![Devs----Jordan-Energy-2](/uploads/Devs----Jordan-Energy-2.jpg)`Green Job Fair at the Landmark Hotel linked companies that work in the green technology sector with professionals and graduates who have relevant skills. Photo: USAID Jordan JCP.`
 
 In addition to its own unemployed, Jordan since 2011 has seen 1.4 million refugees cross its border from neighboring Syria. Half are registered and living mostly in encampments, while the other half have been absorbed by Jordan’s cities and communities. While this influx has [strained Jordan’s resources](http://dai-global-developments.com/articles/calculating-syrian-refugee-crisis-fiscal-crisis/), the country has been working with international donors and investors to recast this situation into an economic development opportunity. To do so, the [Jordan Compact was created](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan/) to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
 
