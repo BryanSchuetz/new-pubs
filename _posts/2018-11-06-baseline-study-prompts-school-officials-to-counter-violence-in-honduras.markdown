@@ -5,11 +5,13 @@ tags:
 - governance
 - education
 - stability
+author: Craig Davis, PhD, and Eileen Moore
+thumbnail-image: "/uploads/LaCeiba%20Horadeclase_LaCeiba.jpg"
+social-image: "/uploads/LaCeiba%20Horadeclase_LaCeiba.jpg"
 publication: Developments
 issue: 
 author-bio: Craig Davis, PhD, is Chief of Party and Eileen Moore is International
   Report Writer for the Asegurando la Educación project.
-author: Craig Davis, PhD, and Eileen Moore
 featured?: 
 assets:
 - path: "/uploads/SanPedroSula Chicas_RiveraHernandez_SanPedroSula (1).jpg"
@@ -20,8 +22,6 @@ assets:
   author?: 'Yes'
 - path: "/uploads/LaCeiba Horadeclase_LaCeiba.jpg"
   name: LaCeiba Horadeclase_LaCeiba
-thumbnail-image: "/uploads/LaCeiba%20Horadeclase_LaCeiba.jpg"
-social-image: "/uploads/LaCeiba%20Horadeclase_LaCeiba.jpg"
 ---
 
 Too often, in our experience as development professionals, baseline surveys can seem like proforma exercises—dry, mechanical constructs conducted at the beginning of a project, shelved almost as soon as they are done, then dusted off for the midline survey. By the time we conduct the endline, the project is closing. Baseline findings don’t drive programming.
@@ -44,7 +44,7 @@ Beginning in August, just three months after the completion of the survey, Asegu
 
 One school in San Pedro Sula, Cortés, borders territory claimed by both the Mara Salvatrucha (MS-13) and Barrio 18 gangs. Territorial disputes have spilled onto the school grounds. In addition to gang violence, students must contend with violence based on gender, sexual orientation, race, or other social dynamics that adversely influence their behavior and academic performance.
 
-![SanPedroSula Chicas_RiveraHernandez_SanPedroSula (1)](/uploads/SanPedroSula Chicas_RiveraHernandez_SanPedroSula (1).jpg "Schoolgirls from San Pedro Sula.") 
+![SanPedroSula Chicas_RiveraHernandez_SanPedroSula (1)](/uploads/SanPedroSula Chicas_RiveraHernandez_SanPedroSula (1).jpg)`Schoolgirls from San Pedro Sula. Photo: USAID Honduras Asegurando.`
 
 In August, when staff reported that 87 percent of boys and 74 percent of girls feel unsafe going to the restroom, at first the teachers were in denial. Yet students confirmed the finding. “We were shocked to hear about some of these incidents,” said one fifth-grade teacher. “We will take action with the administration and parents to mitigate these instances.”
 
@@ -74,7 +74,7 @@ Mirna López, the school principal, called the findings eye-opening. “Students
 
 The survey revealed widespread bullying at Marco Antonio Ponce Primary School in La Ceiba, Atlántida. Some 60 percent of the students had been insulted, 43 percent called names, and 34 percent struck. Finally, 48 percent of boys described themselves as sad and felt life was not worth living while 33 percent had mutilated themselves with razor blades, all in the 30 days prior to the survey. 
 
-![LaCeiba Horadeclase_LaCeiba](/uploads/LaCeiba Horadeclase_LaCeiba.jpg "A classroom in La Ceiba.") 
+![LaCeiba Horadeclase_LaCeiba](/uploads/LaCeiba Horadeclase_LaCeiba.jpg)`A classroom in La Ceiba. Photo: USAID Honduras Asegurando.` 
 
 Alerted to the rate of bullying and suicidal thoughts in primary schools, parents and teachers decided to show an anti-bullying film, followed by discussions. School officials have also planned an anti-bullying awareness campaign in an attempt to change behavior and attitudes. 
 
