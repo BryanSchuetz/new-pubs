@@ -80,7 +80,7 @@ Other important roadblocks include issues of due process (can AI provide parties
 
 The topic on which I spoke at the workshop is one of the most challenging problems. Many countries, both developed and developing, do not permit consumers to waive their rights to “traditional justice” (read courts). We can restrict ODR (and other forms of alternative dispute resolution) to business-to-business transactions, but it is often difficult to distinguish between a consumer transaction and one that is for business. Did I buy the computer I’m writing this on for business or for personal use? Even if it was purchased for both personal and business use (which it was), how would the seller know unless I told her? Does it matter? What if something is to be used only for occasional, or even rare, personal use? The rules we apply in the business-to-business ODR context may run severely afoul of national laws on the subject and need to be reconciled for the system to function properly.
 
-![Photo 3](/uploads/Photo 3.jpg "Niche products like roasted coffee are being marketed internationally by microenterprises.") 
+![Photo 3](/uploads/Photo 3.jpg)`Niche products like roasted coffee are being marketed internationally by microenterprises. Photo: Mark Walter.`
 
 ## The Development Community’s Role
 
