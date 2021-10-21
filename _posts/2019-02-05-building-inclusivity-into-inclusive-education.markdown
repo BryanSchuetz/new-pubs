@@ -4,11 +4,13 @@ date: 2019-02-05 10:31:00 -05:00
 tags:
 - education
 - governance
+author: Farah Mahesri and Sakil Malik
+thumbnail-image: "/uploads/Devs----Inclusive-education-1.jpg"
+social-image: "/uploads/Devs----Inclusive-education-1.jpg"
 publication: Developments
 issue: 
 author-bio: Farah Mahesri, left, is an  education consultant; [Sakil Malik](https://www.dai.com/who-we-are/our-team/sakil-malik)
   is DAI’s Senior Global Practice Leader for education.
-author: Farah Mahesri and Sakil Malik
 featured?: 
 assets:
 - path: "/uploads/Farah-Mahesri.jpg"
@@ -21,8 +23,6 @@ assets:
   name: Devs----Inclusive-education-1
 - path: "/uploads/Devs----Inclusive-Education-3.jpg"
   name: Devs----Inclusive-Education-3
-thumbnail-image: "/uploads/Devs----Inclusive-education-1.jpg"
-social-image: "/uploads/Devs----Inclusive-education-1.jpg"
 ---
 
 Since the Millennium Development Goals were established in 2000, the number of out-of-school children in the world has dropped from nearly 100 million to 65 million, and in most countries, girls have [achieved](http://www.undp.org/content/undp/en/home/librarypage/mdg/the-millennium-development-goals-report-2015.html) equal attendance in primary schools through hard-fought wins. At the same time, however, we are still not reaching millions of out-of-school children, nor are we helping all of those we do reach.
@@ -32,7 +32,7 @@ Since the Millennium Development Goals were established in 2000, the number of o
 
 For example, children with physical or learning disabilities represent half of the 65 million children not in school. Our ongoing failure to assist children with disabilities has cumulatively resulted in [only 3 percent](http://blogs.worldbank.org/education/missing-piece-disability-inclusive-education) literacy among the world’s disabled adults—only 1 percent among women. Today, children with disabilities are [less likely](https://www.globalpartnership.org/blog/new-usaid-and-world-bank-partnership-support-inclusive-education) to complete primary school than they were two decades ago.
 
-![Devs----Inclusive-education-1](/uploads/Devs----Inclusive-education-1.jpg "Taking tests in northern Nigeria as part of midwife coursework under the U.K. Department for International Development's Women for Health program.") 
+![Devs----Inclusive-education-1](/uploads/Devs----Inclusive-education-1.jpg)`Taking tests in northern Nigeria as part of midwife coursework under the U.K. Department for International Development's Women for Health program. Photo: DFID W4H.`
 
 To address this problem, countries and donors are emphasizing assistance that equally addresses education for *all* out-of-school children. “Inclusive education” has become the buzz phrase, with the Australian government, the U.K. Department for International Development, and the U.S. Agency for International Development prioritizing inclusive education in their overall education strategies and taking actions such as the U.K. Government’s first [Global Disability Summit](https://www.gov.uk/government/news/global-disability-summit-sparks-170-commitments-to-tackle-stigma-and-discrimination-against-people-with-disabilities) in June 2018.
 
@@ -52,7 +52,7 @@ It is important to define the excluded and ways we can start bringing these youn
 
 * **Adopting assistive technology** supports children in the classroom and beyond, and includes anything from text-to-speech technology to specialized tables and chairs that accommodate all children.
 
-![Devs----TEP-2 (1)](/uploads/Devs----TEP-2 (1).jpg "Advocating for increased funding as part of the U.K. Department for International Development's  Transforming Education in Pakistan program.") 
+![Devs----TEP-2 (1)](/uploads/Devs----TEP-2 (1).jpg)`Advocating for increased funding as part of the U.K. Department for International Development's  Transforming Education in Pakistan program. Photo: DFID Pakistan TEP.` 
 
 ## Steps Toward Inclusive Education
 
@@ -68,7 +68,7 @@ There are actions we can take collectively to increase inclusivity in education 
 
 **Promote relevant technology.** Technology provides exciting options to better support students—from script software that makes reading easier for dyslectics to text-to-speech software that helps the visually impaired consume lessons. A worldwide suite of digital resources is available to help reach learners in remote and even violence-prone areas.
 
-![Devs----Inclusive-Education-3](/uploads/Devs----Inclusive-Education-3.jpg "The USAID/Honduras Securing Education program helps children overcome complex circumstances to attend school.") 
+![Devs----Inclusive-Education-3](/uploads/Devs----Inclusive-Education-3.jpg)`The USAID Honduras Securing Education program helps children overcome complex circumstances to attend school. Photo: USAID Honduras Securing Education.`
 
 ## The Cost of Exclusion  
 
