@@ -11,7 +11,7 @@ tags:
 author: Hodan Hassan, Christy Martins, Lindsay North, Celestine Procter, and Abby
   Yarger
 thumbnail-image: "/uploads/sm%201%20SBT007-Photo_After_Sidi%20Bouzid_Center_graffiti%20%20(3).jpg"
-social-image: "/uploads/sm%201%20SBT007-Photo_After_Sidi%20Bouzid_Center_graffiti%20%20(3).jpg"
+social-image: "/uploads/bouzid-grafiti.jpeg"
 publication: Developments
 ---
 
