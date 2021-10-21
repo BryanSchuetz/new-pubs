@@ -15,6 +15,7 @@ In July 2017, following three years of development and validation testing, [THIN
 
 
 
+
 Rayer Bazar marked a perfect area to apply THINKMD’s technology and demonstrate its core value: expanding community health workers’ capacity to assess and treat potentially deadly conditions in newborns, young children, and mothers. THINKMD also offered program monitoring and evaluation based on real-time data and analytics.
 
 Our work has already demonstrated significant impact for Rayer Bazar’s 30,000 residents. In less than two years, the 10 community health workers have used THINKMD technology to:
@@ -37,8 +38,6 @@ THINKMD’s success in Bangladesh recently gave rise to two new contracts with S
 THINKMD first connected with DAI through DAI’s [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen), a competition to surface innovative ideas, products, and services in the field of international development. DAI was impressed with THINKMD’s potential to improve care, save lives, and reduce unnecessary health expenditures in underserved communities. In addition, THINKMD’s technology promises real-time public health data that shines a light on population health, disease burdens, and pandemic threats.
 
 In 2017, THINKMD and DAI [announced](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology) a strategic partnership to bring THINKMD’s digital health products to new markets. DAI led THINKMD’s ensuing financing round, joined by Fresh Tracks Capital and select private investors. THINKMD is currently working with DAI on its [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program).
-
-<iframe src="https://player.vimeo.com/video/293217023" frameborder="0" allowfullscreen width="640" height="360"></iframe>
 
 ## THINKMD Technology—the Mobile Pediatrician
 
