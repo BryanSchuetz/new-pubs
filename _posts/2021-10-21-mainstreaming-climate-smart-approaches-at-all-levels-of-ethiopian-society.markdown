@@ -11,7 +11,7 @@ author: Olivia Govik
 publication: Developments
 ---
 
-Adapting to climate change and building resilience to its harmful effects is especially important in countries where the population is highly vulnerable to the effects of global heating, such as Ethiopia. That’s exactly what the [GCCA+/Climate Smart Mainstreaming into the Productive Safety Net Program (Climate-Smart PSNP)](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) has been focused on since 2018. The European Union (EU) project is mainstreaming climate-smart approaches at grassroots and institution levels, thereby contributing to a sustainable change of practices when it comes to climate, at all levels of Ethiopian society. 
+Adapting to climate change and building resilience to its harmful effects is especially important in countries where the population is highly vulnerable to the effects of global heating, such as Ethiopia. That’s exactly what the [GCCA+/Climate Smart Mainstreaming into the Productive Safety Net Program (Climate-Smart PSNP)](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) has been focused on since 2018. The European Union (EU) project is mainstreaming climate-smart approaches at grassroots and institutional levels, thereby contributing to a sustainable change of practices when it comes to climate, at all levels of Ethiopian society. 
 
 
 
@@ -66,3 +66,9 @@ During its nearly three years of operation, the Climate-Smart PSNP project has i
 “We are now testing and adjusting the manuals, the training modules, and the climate-smart planning process overall as well as communicating about our findings,” Riley says. “It’s important to remember that climate-smart mainstreaming is a long-term process. It is what the communities and the Ministry of Agriculture does after the catalyst provided by the project.”
 
 At present, a delegation headed by the Ethiopian Ministry of Agriculture, Oumer Hussien Oba, and supported by the project team, will be presenting PSNP’s contributions to Ethiopia’s Nationally Determined Contributions and Sustainable Development Goals at the COP26 in Glasgow. The objective is to increase visibility of PSNP as a climate change adaptation and mitigation programme and to leverage the broader climate finance institutions and stakeholders in view of securing investments to expand climate-smart public works and livelihoods actions in Ethiopia. The way forward is still long, but the path is clear and green.
+
+
+
+
+Climate-smart approaches refer to transforming and reorienting agricultural production systems and food value chains so that they support sustainable development and can ensure food security under climate change. (source: https://www.fao.org/climate-smart-agriculture-sourcebook/concept/en/)
+In the context of PSNP, climate-smart approaches are adopted through sustainable natural resources management, public works, and cash and food transfers. The CSM-PSNP project mainstreams these approaches in three technical areas: planning and implementation, building capacity, and managing the body of knowledge.
