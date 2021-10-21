@@ -5,10 +5,12 @@ tags:
 - agriculture
 - environment-and-energy
 - finance
+author: Noelle O’Brien
+thumbnail-image: "/uploads/Working%20biogas%20unit.jpg"
+social-image: "/uploads/Working%20biogas%20unit.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: Noelle O’Brien led the creation and implementation of the Fund.
-author: Noelle O’Brien
 featured?: 
 assets:
 - path: "/uploads/FICCF Value Chain Poster 1.pdf"
@@ -23,8 +25,6 @@ assets:
   name: Working biogas unit
 - path: "/uploads/Noelle Devs.png"
   author?: 'Yes'
-thumbnail-image: "/uploads/Working%20biogas%20unit.jpg"
-social-image: "/uploads/Working%20biogas%20unit.jpg"
 ---
 
 The effects of climate change in the already arid lands of Kenya are particularly tough on its economy. Think: tourism, arable agriculture, horticulture, floriculture, and livestock—all vulnerable to extreme changes in weather.
@@ -45,7 +45,7 @@ Against this backdrop, the FICCF brings together a novel mix of partners that do
 
 Working through the FICCF, these partners have created a mechanism where climate finance can flow through existing commercial financial institutions to smallholders and aggregators, while at the same time de-risking investments by providing hybrid insurance products and weather advisories. This combination of financial inclusion initiatives and market linkages within a climate lens is at the heart of the innovation.
 
-![MFI](/uploads/MFI.jpg "The financial institutions market their services to smallholder farmers.") 
+![MFI](/uploads/MFI.jpg)`The financial institutions market their services to smallholder farmers. Photo: DFID StARCK+.`
 
 The £2 million fund started as a pilot in 2014. To date, loans have been extended for such things as improved cow breeds, cow housing, fodder production, and seed for sorghum and cassava cuttings. The loans also enable aggregators to pay farmers promptly once they hand over their product, rather than have farmers waiting months until aggregators are paid by end buyers. So far, more than 5,000 farmers across 18 counties have received loans. When the long rainy season hits (March to June), the microfinance institutions provide loans for sorghum production and input financing. Another 4,000 farmers have taken advantage of the sorghum loans. 
 
@@ -59,9 +59,9 @@ Most FICCF clients are smallholders and small to medium-sized enterprises with n
 
 Increased productivity at the farm translates into overall improved livelihoods, a greater ability to borrow and invest. Ann Maina, Managing Director of Inuka Microfinance Institution, said, “We are projecting longer relationships with these farmers and developing other products for them.”  
 
-The four selected commodities—sorghum, cassava, dairy, and chicken—while climate-resilient, are generally bought and sold in unstructured markets exploited by middlemen. Cassava and sorghum are considered subsistence crops by local Kenyans, sold largely in informal markets. Kienyieji chicken is an indigenous variety that is mostly reared in backyards. While a structured market for dairy products exists, producers struggle to achieve sustainable practices and adequate productivity. FICCF’s capacity building support up and down the four value chains has helped to establish scalable and sustainable formal commodity markets where previously there were none. 
+The four selected commodities—sorghum, cassava, dairy, and chicken—while climate-resilient, are generally bought and sold in unstructured markets exploited by middlemen. Cassava and sorghum are considered subsistence crops by local Kenyans, sold largely in informal markets. Kienyieji chicken is an indigenous variety that is mostly reared in backyards. While a structured market for dairy products exists, producers struggle to achieve sustainable practices and adequate productivity. FICCF’s capacity-building support up and down the four value chains has helped to establish scalable and sustainable formal commodity markets where previously there were none. 
 
-![Sorghum drying2](/uploads/Sorghum drying2.jpg "Sorgum is proving to be more climate-resilient than maize because it is naturally drought- and heat-tolerant.") 
+![Sorghum drying2](/uploads/Sorghum drying2.jpg)`Sorgum is proving to be more climate-resilient than maize because it is naturally drought- and heat-tolerant. Photo: DFID StARCK+.`
 
 As a result of these more structured markets, the microfinance institutions are now seeking additional investments through which to scale up their lending potential, and DAI is working to attract agricultural and social investors and other forms of capital to expand the approach to additional countries and value chains. 
 
@@ -83,6 +83,6 @@ In the past two years, the FICCF climate-smart agriculture intervention has reac
  
 The broad range of expertise needed to apply this climate lens to agriculture—encompassing agronomy, veterinary services, energy audits, market linkages, institutional strengthening, and so forth—requires orchestrating a mix of private and public service providers, depending on the nature of the service.
 
-![Working biogas unit](/uploads/Working biogas unit.jpg "Farmers are adopting more sustainable cooking habits, such as using biogas units.") 
+![Working biogas unit](/uploads/Working biogas unit.jpg)`Farmers are adopting more sustainable cooking habits, such as using biogas units. Photo: DFID STARCK+.`
  
 But this work should have long-term benefits. Smallholders who plant drought-resistant crops and practice sustainable farming will better secure rural food sources and build their resilience to climate shocks. Microfinanciers and agripreneurs are now better able to deal with the effects of increased climate variability in farming. And the farmers we have reached will in turn demand relevant climate information as they seek to adopt adaptive and resilient practices and utilize climate-smart technologies on their land.
