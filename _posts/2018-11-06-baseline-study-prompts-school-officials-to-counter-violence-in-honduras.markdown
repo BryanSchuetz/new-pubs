@@ -74,7 +74,7 @@ Mirna López, the school principal, called the findings eye-opening. “Students
 
 The survey revealed widespread bullying at Marco Antonio Ponce Primary School in La Ceiba, Atlántida. Some 60 percent of the students had been insulted, 43 percent called names, and 34 percent struck. Finally, 48 percent of boys described themselves as sad and felt life was not worth living while 33 percent had mutilated themselves with razor blades, all in the 30 days prior to the survey. 
 
-![LaCeiba Horadeclase_LaCeiba](/uploads/LaCeiba Horadeclase_LaCeiba.jpg "A classroom in La Ceiba.") 
+![LaCeiba Horadeclase_LaCeiba](/uploads/LaCeiba Horadeclase_LaCeiba.jpg)`A classroom in La Ceiba. Photo: USAID Honduras Asegurando.` 
 
 Alerted to the rate of bullying and suicidal thoughts in primary schools, parents and teachers decided to show an anti-bullying film, followed by discussions. School officials have also planned an anti-bullying awareness campaign in an attempt to change behavior and attitudes. 
 
