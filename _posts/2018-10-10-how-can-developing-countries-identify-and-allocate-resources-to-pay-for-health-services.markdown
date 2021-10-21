@@ -6,12 +6,14 @@ tags:
 - governance
 - public-financial-management
 - global-health
+author: John Yates and Darrell Freund
+thumbnail-image: "/uploads/Devs----Yates-3.jpg"
+social-image: "/uploads/Devs----Yates-3.jpg"
 publication: Developments
 issue: 
 author-bio: "[John Yates](https://www.dai.com/who-we-are/our-team/john-yates), left,
   is DAI’s global practice lead in public financial management; DAI’s Darrell Freund
   is a senior principal global practice specialist."
-author: John Yates and Darrell Freund
 featured?: 
 assets:
 - path: "/uploads/Devs----John-Yates.jpg"
@@ -26,8 +28,6 @@ assets:
   name: Devs----Yates-graphic-1
 - path: "/uploads/Devs----Yates-1.jpg"
   name: Devs----Yates-1
-thumbnail-image: "/uploads/Devs----Yates-3.jpg"
-social-image: "/uploads/Devs----Yates-3.jpg"
 ---
 
 Governments in many low- and middle-income countries have committed to provide affordable and high-quality health services to their citizens. To make good on these promises, they need to identify more money for health expenditure and need to invest it more wisely. Our recent policy paper—[Financial Management Mechanisms to Support Increased Government Spending on Health](https://www.hfgproject.org/financial-management-mechanisms-to-support-increased-government-spending-on-health/)—provides some guidance on how they might do that.
@@ -52,7 +52,7 @@ But implementing GFMIS has proven challenging in many developing countries due t
 
 To put it in checklist form, governments should aim for their GFMIS to: 1) centralize all government financial transactions; 2) be used exclusively by all line ministries, including ministries of health, to process transactions; 3) capture all health expenditure data across the country; 4) prepare timely and complete government financial reporting; 5) fully implement Treasury Single Account—one virtual spending account within the GFMIS for managing government expenditures and payments, and; 6) improve cash management, which can [increase fiscal space](https://www.dai.com/our-work/projects/philippines-facilitating-public-investment-fpi)—or the flexibility a government enjoys in its spending choices—to allow for more money to be spent on health.
 
-![Devs----Yates-1](/uploads/Devs----Yates-1.jpg "Health systems training as part of the USAID Haiti Strategic Health Information Systems Program.") 
+![Devs----Yates-1](/uploads/Devs----Yates-1.jpg)`Health systems training. Photo: USAID Haiti Strategic Health Information Systems Program.`
 
 ## Forecasting and Budgeting
 
@@ -68,12 +68,12 @@ Some countries are moving toward performance budgeting, but most do not have the
 
 While many ingredients for performance-based budgeting exist in low- and middle-income countries, they rarely have been implemented robustly or at scale. These countries need to improve human and institutional capacity for performance-based budgeting, develop better monitoring and evaluation capabilities, and enhance the quality of the data that feeds the process. To support their goals of increasing health expenditures, health ministries should be early adopters of performance-based budgeting and work with finance ministries to implement (and benefit from) budget reforms.
 
-![Devs----Yates-3](/uploads/Devs----Yates-3.jpg "Community health workers graduate in Nigeria as part of the U.K. Department for International Development's Women for Health program.") 
+![Devs----Yates-3](/uploads/Devs----Yates-3.jpg)`Community health workers graduate in Nigeria. Photo: U.K. Department for International Development Women 4 Health.`
 
 ## Don't Turn Your Nose Up at Earmarks
 
 Earmarks have won a bad reputation for their rigidity and distortive effects on budgeting. However, since government budgeting processes are often susceptible to political pressure, they may be a justifiable means to protect government health funds and demonstrate the government’s commitment to health. Health funding, in particular, requires significant and stable [revenue collections](http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services/), which will affect the choice of the revenue source for the earmark—payroll and consumption taxes, for example, may be appropriate. Policy goals may also come into play, such as using taxes on activities deemed harmful to public health, including alcohol and tobacco sales. 
 
-For example, countries such as Egypt, El Salvador, Philippines, and Tanzania use payroll taxes to fund public health programs, including different forms of national health insurance programs, while Ghana and Chile provide examples of earmarking value-added tax for public health.
+For example, countries such as Egypt, El Salvador, the Philippines, and Tanzania use payroll taxes to fund public health programs, including different forms of national health insurance programs, while Ghana and Chile provide examples of earmarking value-added tax for public health.
 
 In summary, PFM mechanisms and PFM reforms can help national governments maximize the benefits of health spending, justify health budget allocations, and assure citizens and taxpayers that their resources will be well used. In *Financial Management Mechanisms to Support Increased Government Spending on Health*, we hope to guide governments and donors on how best to use these mechanisms and achieve their health objectives, including for universal health care, and ultimately assist developing countries to be more self-reliant.
