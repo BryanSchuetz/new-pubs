@@ -5,11 +5,13 @@ tags:
 - global-health
 - governance
 - digital-acceleration
+author: Atwood Raphael
+thumbnail-image: "/uploads/Devs----Haiti-TB-2.jpg"
+social-image: "/uploads/Devs----Haiti-TB-2.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: Atwood Raphael is Deputy Chief of Party for the USAID/Haiti Strategic
   Health Information System Program.
-author: Atwood Raphael
 featured?: 
 assets:
 - path: "/uploads/Atwood-Raphael-mug.jpg"
@@ -18,8 +20,6 @@ assets:
   name: Devs----Haiti-TB-1
 - path: "/uploads/Devs----Haiti-TB-2.jpg"
   name: Devs----Haiti-TB-2
-thumbnail-image: "/uploads/Devs----Haiti-TB-2.jpg"
-social-image: "/uploads/Devs----Haiti-TB-2.jpg"
 ---
 
 Haiti’s government this year launched a national electronic platform for reporting and tracking tuberculosis (TB), a key step in its efforts to capture, monitor, and report all patient-level data across the country. Information on cases of TB—a contagious and often deadly disease plaguing the Caribbean nation—is being prepared for aggregation into the System d’Information Sanitaire Nationale Unique, or SISNU, which uses the [DHIS2](http://www.hisp.org/aboutus/) open-source software platform for reporting, analyzing, and disseminating national health data.
@@ -40,11 +40,11 @@ Source: <a href="https://extranet.who.int/sree/Reports?op=Replet&amp;name=%2FWHO
 
 For the three-month TB pilot phase, the HIS team trained health professionals at nine facilities from four of Haiti’s departments—Artibonite, Centre, North, and West. This area includes nearly half of all health facilities in Haiti that provide TB care and covers more than 70 percent of Haiti’s reported TB cases. Once the pilot was completed in April 2018, the HIS team and its partners deployed the platform to the rest of the country’s 10 departments, their health offices, and select health care facilities. Our goal was to capture data on 5,000 TB patients—through July 2018, we had captured data on more than 12,000.
 
-![Devs----Haiti-TB-1](/uploads/Devs----Haiti-TB-1.jpg "Training health workers to operate Haiti's national tuberculosis tracker.") 
+![Devs----Haiti-TB-1](/uploads/Devs----Haiti-TB-1.jpg)`Training health workers to operate Haiti's national tuberculosis tracker. Photo: USAID Haiti HIS.`
 
 ## Improving TB Management
 
-TB bacteria is typically spread by coughing, and the bacteria can become resistant to most drug cures if patients go untreated or their treatment is mismanaged. Haiti perpetually suffers the [highest incidence of TB in the Americas](http://apps.who.int/medicinedocs/documents/s23098en/s23098en.pdf), with an estimated 21,000 cases in 2015. Solutions to control drug-resistant TB, as [prescribed](http://www.who.int/features/qa/79/en/) by the World Health Organization, are to cure the TB patient the first time around, provide access to diagnosis, control infection in facilities where patients are treated, and ensure appropriate use of recommended second-line drugs. Implementing these solutions on a national scale requires data. 
+TB bacteria are typically spread by coughing, and the bacteria can become resistant to most drug cures if patients go untreated or their treatment is mismanaged. Haiti perpetually suffers the [highest incidence of TB in the Americas](http://apps.who.int/medicinedocs/documents/s23098en/s23098en.pdf), with an estimated 21,000 cases in 2015. Solutions to control drug-resistant TB, as [prescribed](http://www.who.int/features/qa/79/en/) by the World Health Organization, are to cure the TB patient the first time around, provide access to diagnosis, control infection in facilities where patients are treated, and ensure appropriate use of recommended second-line drugs. Implementing these solutions on a national scale requires data. 
 
 The TB tracker digitizes previously paperbound patient details registered by health care providers at local facilities. These registries previously had to be manually collected and then transported and entered by hand at the department and national levels. The tracker will eventually include four case-specific modules—for routine cases, outset cases, multi-drug resistant cases, and HIV cases (which can be a precursor to TB).
 
@@ -52,7 +52,7 @@ The TB and future trackers will improve data quality and inform decision making;
  
 The five-year HIS program ultimately aims to build the capacity of the Ministry of Health to take ownership and optimize the use of SISNU.
 
-![Devs----Haiti-TB-2](/uploads/Devs----Haiti-TB-2.jpg "Haiti HIS Field Officer Pouchy Dacière trains Northeastern Health Directorate representatives to insert data on SISNU.") 
+![Devs----Haiti-TB-2](/uploads/Devs----Haiti-TB-2.jpg)`Haiti HIS Field Officer Pouchy Dacière trains Northeastern Health Directorate representatives to insert data on SISNU. Photo: USAID Haiti HIS.`
 
 ## Getting Health Systems in Good Order
 
