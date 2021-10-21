@@ -6,10 +6,12 @@ tags:
 - global-health
 - innovation
 - digital-acceleration
+author: DAI Communications Staff
+thumbnail-image: "/uploads/Devs----Finette-QA-3.jpg"
+social-image: "/uploads/Devs----Finette-QA-3.jpg"
 publication: Developments
 issue: Fall 2017
 author-bio: 
-author: 
 featured?: 
 assets:
 - path: "/uploads/Devs----Finette-QA-1.jpg"
@@ -22,8 +24,6 @@ assets:
   name: Devs----Finette-QA-3
 - path: "/uploads/Devs----Finette-QA-4.jpg"
   name: Devs----Finette-QA-4
-thumbnail-image: "/uploads/Devs----Finette-QA-3.jpg"
-social-image: "/uploads/Devs----Finette-QA-3.jpg"
 ---
 
 DAI and THINKMD connected in 2016 through DAI’s [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-begin-implement-their-solutions-field). Our strategic partnership will leverage DAI’s international development network to bring THINKMD’s digital health products to new markets, while THINKMD’s technology will enhance DAI’s global health toolkit. As part of this partnership, [DAI led THINKMD’s latest financing round](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology).
@@ -37,7 +37,7 @@ Founded in 2014, THINKMD soon introduced its first product, MEDSINC—a mobile h
 
 *Developments* recently asked Finette, pictured below in the Philippines, about the prospects for MEDSINC. 
 
-![Devs----Barry-pic](/uploads/Devs----Barry-pic.jpg) 
+![Devs----Barry-pic](/uploads/Devs----Barry-pic.jpg)`Photo: THINKMD.` 
 
 **What sparked the idea for the MEDSINC platform?** 
 
@@ -55,20 +55,17 @@ In many low- and middle-income countries, perinatal and under-5 mortality is ver
 
 The consequences are significant. High infant and childhood mortality damages every aspect of families’ lives. In communities, prevalent childhood illness devastates both emotionally *and* economically. Family members’ ability to work is undermined when they must care for a child or travel hours or days to try to see a doctor. These families are generally larger than those in countries with lower childhood mortality, and the ability to earn income is imperative. Direct and indirect costs to communities are compounded at regional and country levels. Through the implementation of MEDSINC, our models suggest that $19.4 million in productivity gains could be seen per 1,000 MEDSINC users by decreasing morbidity and mortality.
 
-<iframe src="https://player.vimeo.com/video/215518121" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 **There appears to be a great need for better local healthcare in many corners of the globe, but is there a calculated market demand for MEDSINC?**
 
 Absolutely. The social impact opportunity is immense, but the market opportunity is just as great.
 
 Our current and projected technology offerings are configurable to many contexts to solve problems for customers in many sectors—including point-of-care assessment and treatment, humanitarian and emergency response and assistance, health system capacity building, and disease and outbreak surveillance. MEDSINC can fill needs that enable healthcare system efficiency and sustainability without sacrificing quality. We have tested MEDSINC with internationally recognized global health leaders on four continents and developed strategic and commercial partnerships with leading global healthcare groups and organizations.
 
-
 **What were the most important requirements MEDSINC had to meet?**
 
 We studied, observed, and listened first to the beneficiaries—to understand their needs and design a scalable, efficient, mobile platform solution. The main design principle was simplicity over complexity in filtering out the noise and focusing on what mattered. The platform had to have a simple and intuitive user interface and it had to function on/offline, on any web-enabled device. Furthermore, we wanted the platform to act as a continuous learning and training tool for the user. Finally, the tool needed to connect the user to the broader health system as a knowledge acquisition network—facilitating data acquisition and storage, capturing real-time and geo-located health data, and enabling communication between users and healthcare professionals.
 
-![Devs----Finette-QA-1](/uploads/Devs----Finette-QA-1.jpg) 
+![Devs----Finette-QA-1](/uploads/Devs----Finette-QA-1.jpg)`Photo: THINKMD.`
 
 **Where has MEDSINC been used so far, and how has that gone?**
 
@@ -82,7 +79,7 @@ We’ve always been ready to question the way things are and we have been willin
 
 DATASINC is our data repository and analytics tool based on the data that MEDSINC generates through patient interactions. DATASINC translates aggregated MEDSINC data into informative dashboards and reports. This data and analysis offer actionable insights that organizations, governments, or companies can use to make strategic decisions regarding the health of their populations.
 
-![Devs----Finette-QA-2](/uploads/Devs----Finette-QA-2.jpg) 
+![Devs----Finette-QA-2](/uploads/Devs----Finette-QA-2.jpg)`Photo: THINKMD.`
 
 **What will be the effect of rolling out MEDSINC and DATASINC in resource-poor countries?**
 
@@ -94,11 +91,11 @@ The knowledge and data we accumulate via DATASINC leads to new ideas and solutio
 
 At its core, THINKMD is a healthcare innovation company. We are initially focused on providing software and data analytics solutions to a wide range of users. The first products we offer are MEDSINC and DATASINC. We recently launched our first *commercial* implementation of these platforms with Save the Children in Bangladesh. We have a pipeline of partners interested in adopting these products, and as we move our technology out further we’ll grow both MEDSINC and DATASINC revenues. Through growth in users, we’ll generate a profit margin that enables the venture to sustain itself and support internal operations, while continuing to innovate and deliver on our product roadmap of innovations.
 
-![Devs----Finette-QA-4](/uploads/Devs----Finette-QA-4.jpg) 
+![Devs----Finette-QA-4](/uploads/Devs----Finette-QA-4.jpg)`Photo: THINKMD.` 
 
 **What are you finding to be the main hurdles to implementing MEDSINC in developing and conflict-affected countries?**
 
-The main hurdle we face is acceptance of our new technology, coupled with a slow adoption cycle among government and nongovernmental organizations. The process of confirming interest and getting adoption and contracts is traditionally quite slow for those types of entities and is something we must constantly navigate as a small and young company. That said, our persistence is starting to pay off and we are beginning to see partners adopt our products based on their acute need for our solutions, and the fact that we’ve done the appropriate testing and validation to prove that our products work and are user friendly. Our partnerships with groups like Save the Children, UNICEF, and DAI are each force multipliers in our pursuit of product adoption and scale.
+The main hurdle we face is acceptance of our new technology, coupled with a slow adoption cycle among government and nongovernmental organizations. The process of confirming interest and getting adoption and contracts is traditionally quite slow for those types of entities and is something we must constantly navigate as a small and young company. That said, our persistence is starting to pay off and we are beginning to see partners adopt our products based on their acute need for our solutions and the fact that we’ve done the appropriate testing and validation to prove that our products work and are user friendly. Our partnerships with groups like Save the Children, UNICEF, and DAI are each force multipliers in our pursuit of product adoption and scale.
 
 **What if anything has come so far from your partnership with DAI? Insights? New ideas for application?**
 
