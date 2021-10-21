@@ -5,12 +5,14 @@ tags:
 - economic-growth
 - finance
 - investment
+author: Robin Young
+thumbnail-image: "/uploads/Devs----INVEST-1.jpg"
+social-image: "/uploads/Devs----INVEST-1.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: "[Robin Young](https://www.dai.com/who-we-are/our-team/robin-young) is
   an INVEST Project Strategic Investment Advisor and Principal Global Practice Specialist
   with DAI."
-author: Robin Young
 featured?: 'yes'
 assets:
 - path: "/uploads/Devs----Robin-Young-mug-1.jpg"
@@ -21,8 +23,6 @@ assets:
   name: Devs----INVEST-2
 - path: "/uploads/Devs----INVEST 3Finette-QA-1.jpg"
   name: Devs----INVEST 3Finette-QA-1
-thumbnail-image: "/uploads/Devs----INVEST-1.jpg"
-social-image: "/uploads/Devs----INVEST-1.jpg"
 ---
 
 U.S. Agency for International Development (USAID) units around the world are increasingly asking for specialized support to mobilize private capital—requests now being met by the agency’s new [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) program. In less than one year, USAID missions, bureaus, and other operating units have hired the INVEST team to support 17 initiatives to develop market opportunities. These initiatives—to address demand for energy, food, health care, water, and other global needs—are under way or already completed in Afghanistan, Asia, Haiti, India, and North and Sub-Saharan Africa.
@@ -45,7 +45,7 @@ Recent “buy-ins” by USAID units for market assessments and pipeline developm
 
 These and other USAID investments reflect [growing determination](http://dai-global-developments.com/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/) in the [donor community](http://dai-global-developments.com/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/) to enhance development impact by means of “blended finance”—blending private capital with donor-funded local expertise and risk-mitigation measures. The goal is to achieve development objectives by creating profitable partnerships while advancing countries on their journeys to self-reliance.
 
-![Devs----INVEST-2](/uploads/Devs----INVEST-2.jpg "The USAID East Africa Trade and Investment Hub has facilitated $59 million in private sector investments in sectors such as food warehousing and logistics.")
+![Devs----INVEST-2](/uploads/Devs----INVEST-2.jpg)`The USAID East Africa Trade and Investment Hub has facilitated $59 million in private sector investments in sectors such as food warehousing and logistics. Photo: USAID Hub.`
 
 ## Bull Market for Global Needs
 
@@ -60,23 +60,23 @@ INVEST is designed to operate in locales that have less-than-ideal investment cl
 
 **Local Investment Platforms**
 
-* USAID/India engaged INVEST to assess the energy, health, tuberculosis, and WASH sectors and design a new, blended finance-focused funding vehicle.
-* USAID’s Office of Private Capital and Microenterprise, Bureau for Food Security, and USAID/Tunisia have partnered to better understand and leverage the strategic corporate investment trend, including: favorable models and structures in agriculture, energy, and water; appropriate support for these models; structures to attract investors and ensure replicability and additionality; and suitable corporate investment and partnership opportunities already in existence.
+* USAID India engaged INVEST to assess the energy, health, tuberculosis, and WASH sectors and design a new, blended finance-focused funding vehicle.
+* USAID’s Office of Private Capital and Microenterprise, Bureau for Food Security, and USAID Tunisia have partnered to better understand and leverage the strategic corporate investment trend, including: favorable models and structures in agriculture, energy, and water; appropriate support for these models; structures to attract investors and ensure replicability and additionality; and suitable corporate investment and partnership opportunities already in existence.
 
 **Initiatives in Energy**
 
-* USAID/Haiti and the Government of Haiti are pursuing a public-private partnership for Caracol Power Utility’s operations, maintenance, and management; INVEST is providing transaction advice, including due diligence and transaction structuring, transaction implementation, and bidding. 
-* USAID/Kenya and Power Africa are working with INVEST to help household solar systems and off-grid companies attract investment and expand connections.
+* USAID Haiti and the Government of Haiti are pursuing a public-private partnership for Caracol Power Utility’s operations, maintenance, and management; INVEST is providing transaction advice, including due diligence and transaction structuring, transaction implementation, and bidding. 
+* USAID Kenya and Power Africa are working with INVEST to help household solar systems and off-grid companies attract investment and expand connections.
 
 **Agricultural Development**
 
-* USAID/Democratic Republic of the Congo engaged INVEST to explore opportunities and constraints associated with blended finance and the approaches and tools available to support investment in agricultural value chains and responsible mining in Eastern Congo.
+* USAID Democratic Republic of the Congo engaged INVEST to explore opportunities and constraints associated with blended finance and the approaches and tools available to support investment in agricultural value chains and responsible mining in Eastern Congo.
  
 **Training and Learning**
 
 * USAID’s Office of Private Capital and Microenterprise and Center for Transformational Partnerships are developing a learning strategy on private sector engagement to deepen USAID’s capacity in market-based solutions.
 
-![Devs----INVEST 3Finette-QA-1](/uploads/Devs----INVEST 3Finette-QA-1.jpg "Digital health products are among those that the INVEST team are helping USAID units to explore.") 
+![Devs----INVEST 3Finette-QA-1](/uploads/Devs----INVEST 3Finette-QA-1.jpg)`Digital health products are among those that the INVEST team is helping USAID units to explore. Photo: THINKMd.`
 
 ## Developed for Business
 
