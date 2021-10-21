@@ -4,11 +4,13 @@ date: 2018-12-03 16:51:00 -05:00
 tags:
 - global-health
 - governance
+author: Blessing Stephen
+thumbnail-image: "/uploads/Devs----new-pic-UNITED.jpg"
+social-image: "/uploads/Devs----new-pic-UNITED.jpg"
 publication: Developments
 issue: 
 author-bio: Blessing Stephen is the Health System Advisor for DAI Global Health on
   the Integrated Approach to Neglected Tropical Diseases programme in Nigeria.
-author: Blessing Stephen
 featured?: 
 assets:
 - path: "/uploads/Devs----new-pic-UNITED.jpg"
@@ -19,8 +21,6 @@ assets:
   name: Devs----Nigeria-UNITED-5
 - path: "/uploads/Devs----Blessing-Stephen-Nigeria-UNITED.jpg"
   author?: 'yes'
-thumbnail-image: "/uploads/Devs----new-pic-UNITED.jpg"
-social-image: "/uploads/Devs----new-pic-UNITED.jpg"
 ---
 
 In Nigeria, as in many countries, the government faces practical hurdles to funding health systems adequately and preventing sickness and disease among its most susceptible citizens. As Health Systems Advisor for [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) on the [Integrated Approach to Neglected Tropical Diseases (UNITED)](https://www.dai.com/our-work/projects/nigeria-integrated-approach-to-neglected-tropical-diseases-united) programme, I advocate for increased, cost-effective health funding in Nigeria so more people can benefit from health services.
@@ -30,7 +30,7 @@ In Nigeria, as in many countries, the government faces practical hurdles to fund
 
 In 2017, the UNITED programme’s mass drug administration (MDA) to prevent neglected tropical diseases (NTDs) reached 39 million people, and by programme’s end will have distributed more than 110 million treatments in the five northern states of Kano, Katsina, Kaduna, Niger, and Zamfara. These drugs are donated, in whole or in part, by pharmaceutical companies and distributed by community volunteers. The MDA cost comes to $0.08 per person per year and leads to countless additional years of productive life. These are cost-effective results that funders like to see, including government budget officials in Nigeria and donors such as the U.K. Department for International Development, which supports UNITED. But we need to communicate these results in the right way if they are to support the case for continued funding.
 
-![Devs----new-pic-UNITED](/uploads/Devs----new-pic-UNITED.jpg "Joint review of UNITED's health systems strengthening strategies for client states in Nigeria.") 
+![Devs----new-pic-UNITED](/uploads/Devs----new-pic-UNITED.jpg)`Joint review of UNITED's health systems strengthening strategies for client states in Nigeria. Photo: DFID UNITED.` 
 
 Effective health advocacy depends on demonstrating measurable value for money and translating it into easy-to-grasp formats for busy policymakers, an information-overloaded public, and the headline-grabbing media. In today’s media landscape of snappy 30-second videos and tweets, advocacy must be equally attention grabbing but also strategically deployed. Four considerations stand out:
 
@@ -40,14 +40,14 @@ Effective health advocacy depends on demonstrating measurable value for money an
 
 3.	**Map influencers.** In Nigeria, certain state and non-state actors may for various reasons stand between the national allocation of funds and their expenditure at state and local levels. These persons take advantage of the lack of political commitment to ensure the non-release of, for example, health funding. Other barriers to cost-effective health expenditure include: [inadequate revenues](https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services/), misappropriation of funds, insufficient collaboration between health-related sectors, and rivalry between various interests. For example, the feud between health sector unions and the Nigerian Medical Association bedeviled the health sector in Nigeria for years.
 
-       Knowing who will stand for, and against, our advocacy for health funding and expenditure often determines its success or failure. We need to identify the key relationships and specific ways that influential people—including naysayers—might come around to champion cost-effective health care programming.
+Knowing who will stand for, and against, our advocacy for health funding and expenditure often determines its success or failure. We need to identify the key relationships and specific ways that influential people—including naysayers—might come around to champion cost-effective health care programming.
 
 4.	**Target messaging.** Successful advocacy for health expenditure requires reaching decision makers, the media, and the general public. Advocacy plans must include clear channels to effectively communicate with the right audiences. A good message delivered by the wrong messenger or to the wrong place will not be useful. Identify credible sources who can deliver [evidence-based](http://dai-global-developments.com/articles/marshaling-the-evidence-to-better-help-developing-countries-improve-and-afford-their-health-services/) messages to decision makers in government. Include the voices of constituents who add authenticity to the campaign and personalize your efforts. Reach out to coalition, academic, and government partners who can lend supporting statistics and other research.
 
-![Devs----Nigeria-UNITED-5](/uploads/Devs----Nigeria-UNITED-5.jpg "Presenting the Kaduna State, Nigeria, master plan for addressing neglected tropical diseases.") 
+![Devs----Nigeria-UNITED-5](/uploads/Devs----Nigeria-UNITED-5.jpg)`Presenting the Kaduna State, Nigeria, master plan for addressing neglected tropical diseases. Photo: DFID UNITED.`
 
 Advocates need to develop a good working relationship with the media, as journalists and pundits will cover stories and give visibility to causes and information in their audiences’ interest. This collaboration between advocate and journalist helps media outlets achieve their content goals and advocates their messaging goals. Most journalists prefer facts to hyperbole, so providing evidence-based messaging and stories about effective health programming will more likely get your cause noticed. This media-advocate relationship also helps an informed public hold their government to account.
 
-![Devs----Nigeria-UNITED-3](/uploads/Devs----Nigeria-UNITED-3.jpg "Group training of local government officers for monitoring and evaluation on the use of neglected tropical diseases data tools.") 
+![Devs----Nigeria-UNITED-3](/uploads/Devs----Nigeria-UNITED-3.jpg)`Group training of local government officers for monitoring and evaluation on the use of neglected tropical diseases data tools. Photo: DFID UNITED.`
 
 To successfully advocate for adequate funding of health systems and programming requires ongoing effort with an eye toward capturing and demonstrating value for money. Groups that produce rigorous and compelling analyses, develop brilliant advocacy strategies, and execute them flawlessly may still fail to achieve their short-term objectives—unforeseen circumstances such as crises in other sectors may draw away attention from health, and funding and political shifts may occur. The key is for advocates to reflect, understand what happened, adjust their strategy, and go forth again and again, each year conveying a well-prepared case for funding that will underpin healthier and more productive communities and countries.
