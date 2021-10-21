@@ -8,11 +8,13 @@ tags:
 - investment
 - digital-acceleration
 - innovation
+author: Mark Walter
+thumbnail-image: "/uploads/Photo%201.jpg"
+social-image: "/uploads/Photo%201.jpg"
 publication: Developments
 issue: 
 author-bio: "[Mark Walter](https://www.dai.com/who-we-are/our-team/mark-walter) is
   DAI’s Senior Principal Global Practice Specialist in the Trade and Investment Practice."
-author: Mark Walter
 featured?: 
 assets:
 - path: "/uploads/Mark2.jpg"
@@ -21,8 +23,6 @@ assets:
   name: Photo 1
 - path: "/uploads/Photo 3.jpg"
   name: Photo 3
-thumbnail-image: "/uploads/Photo%201.jpg"
-social-image: "/uploads/Photo%201.jpg"
 ---
 
 As a grad student in London in the 1990s, I earned a bit of extra money sourcing and exporting handcrafted furniture from India to the United States for interior designers. My U.S. customers were small businesses, but I was even smaller, so if I wanted to sell to them I had to take on most of the risk. On school breaks I would travel to India, find what my customers were looking for, purchase it, accompany it to the port, and—when I could—watch as it was loaded onto a ship. 
@@ -52,7 +52,7 @@ As with mobile money, ODR is a disruptive innovation driven primarily by technol
 
 Most ODR systems (yes, they’re already out there; see [Modria](https://www.tylertech.com/products/modria) and [Matterhorn](https://getmatterhorn.com/), for example) rely on a multi-tiered dispute resolution approach, administered online with varying degrees of human intervention. Where liability is challenged, the first stage consists of technology-assisted negotiation in which machine learning allows the computer to prompt formulations and reformulations of the problem and of the parties’ interests so that they may achieve a consensual middle ground. Assisted negotiation and mediation aren’t about the law as much as they are about the parties’ future interests rather than their present grievances. Most disputes can end at this stage. Further stages can include AI-driven mediation and, of course, mediation or arbitration that is supported by real people but done remotely using virtual courtrooms and blockchain technology for protecting evidence and other information. 
 
-![Photo 1](/uploads/Photo 1.jpg "Law students in Myanmar learn about dispute resolution.") 
+![Photo 1](/uploads/Photo 1.jpg)`Law students in Myanmar learn about dispute resolution. Photo: USAID Myanmar.`
 
 ## Getting on the Same Page
 
