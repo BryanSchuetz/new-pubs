@@ -32,7 +32,7 @@ publication: Developments
 
 "Enter battery storage technologies. Lithium batteries have become increasingly competitive solutions for short-duration storage, even substituting for peaking power at times. Flow batteries, which differ from lithium in that they utilize liquid for the electrolyte, are cheaper for long-duration storage. Batteries such as the VRFBs, that Bushveld supports, allow you to have the equivalent of more gas in an automobile’s tank to give you more hours of energy, at a lower cost."
 
-![bushveld.jpg](/uploads/bushveld.jpg)`Vanadium flow battery.`
+![bushveld.jpg](/uploads/bushveld.jpg)`Vanadium flow battery. Photo courtesy of Bushveld Enegy.`
 
 **Tell us more about Bushveld and its approach to vanadium battery technology.** 
 
