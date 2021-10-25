@@ -8,6 +8,8 @@ tags:
 - agriculture
 - european-union
 author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/)"
+thumbnail-image: "/uploads/sm%20Bench%20in%20Adwa.jpg"
+social-image: "/uploads/sm%20Bench%20in%20Adwa.jpg"
 publication: Developments
 ---
 
@@ -37,10 +39,14 @@ Climate-Smart PSNP builds on the recognition that climate change is a key driver
 “To start the project, we went through a stocktaking process to understand land use and climate-related issues, evaluate capacities in the field, and to document and map climate-smart practices and technologies already being used within the PSNP regions,” Riley says.
  
 In all the project identified 66 practices and technologies, catalogued in a database developed from 27 woredas. The database also holds information such as the specific vulnerabilities to climate change of the woredas. 
+
+![Focus_Woreda-ver2.png](/uploads/Focus_Woreda-ver2.png)
  
 Among the findings of this stocktaking: agriculture extension agents in the communities implementing PSNP often lacked sufficient understanding of climate change vulnerability and adaptation. In response, the project developed training modules and a manual for frontline implementers that covered content such as basic climate science, climate policy, and climate impacts, particularly as these issues pertain to the agriculture sector. 
 
 “About 2,000 agriculture extension agents received training on the basics of climate change, climate risks, and how to mitigate them. In turn, these frontline workers help the members of their communities in their decision-making processes to better withstand climate risks and implement sustainable landscape management practices, in their requirements for public works and in their everyday lives,” says Aklilu Mesfin Kidane, the Public Works Advisor under the project. 
+
+![Bench in Adwa.jpg](/uploads/Bench%20in%20Adwa.jpg)`Adwa, Ethiopia. Photo: EU Climate-Smart PSNP.`
 
 ## Revised Guidelines
 
@@ -53,6 +59,8 @@ As Ethiopia already had in place a substantial institutional framework for addre
 Another important aspect of the PSNP is the livelihood component, through which beneficiaries access microfinance or grants for on-farm enterprises. With Climate-Smart PSNP, climate-smart business planning is added to this component. “The climate-smart business planning is focused on income-generation activities, such as irrigated vegetables and fruits, cattle and small ruminants fattening,” says Dagnew Menan Woldegiorgis, Livelihood Adviser on Climate-Smart PSNP.
 
 With support from Climate-Smart PSNP, the Livelihoods Implementation Coordination Unit is incorporating climate risk analysis and planning for climate adaptive and resilient enterprises. Tailored to the client and context, the business planning training now includes methodology and tools for climate-smart value chains identification as well as individual enterprise climate risk analysis. 
+
+![20190102_120631.jpg](/uploads/20190102_120631.jpg)`Photo: EU Climate-Smart PSNP.`
 
 ## Digitizing Community Productive Assets
 
