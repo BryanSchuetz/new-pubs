@@ -1,13 +1,15 @@
 ---
 title: Mainstreaming Climate-Smart Approaches at all Levels of Ethiopian Society
-date: 2021-10-21 16:41:00 -04:00
+date: 2021-10-25 13:41:00 -04:00
 published: false
 tags:
 - climate
 - climate change
 - agriculture
 - european-union
-author: Olivia Govik
+author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/)"
+thumbnail-image: "/uploads/sm%20Bench%20in%20Adwa.jpg"
+social-image: "/uploads/sm%20Bench%20in%20Adwa.jpg"
 publication: Developments
 ---
 
@@ -16,10 +18,13 @@ Adapting to climate change and building resilience to its harmful effects is esp
 
 
 
+Approximately 26 million of the 31 million recipients of regular state cash benefits now receive their payments through this system, compared to just 0.1 million in 2017–2018. The payments management approach will provide the foundation for an adaptive (or shock-responsive) social protection system.
 
 Ethiopia is one of the most populous states in Africa and the [fastest-growing economy](https://www.worldbank.org/en/country/ethiopia/overview) in the region. At the same time, it remains a [least-developed country](https://data.worldbank.org/?locations=XL-ET), according to United Nations. While Ethiopia contributes relatively little to climate change—accounting for [less than 0.1 percent](https://www.thereporterethiopia.com/article/waste-management-problem-cant-be-discarded-easily) of global emissions—Ethiopians are increasingly affected by extreme weather events such as drought, erratic rainfall, hailstorms, and floods, and by the spread of climate-related crop and livestock diseases propelled by the increase in temperatures and rainfall variability. 
 
-Building the nation’s capacity for climate adaptation while also developing its green economy has been a priority for the Government of Ethiopia, resulting in the 2019 National Adaptation Plan. A key part of the government’s effort is the multi-donor [Productive Safety Net Programme (PSNP)](https://en.wikipedia.org/wiki/Productive_Safety_Net_Programme), launched in 2005 to integrate climate risks into various interventions, such as tackling food and livelihood insecurity through cash and food transfers, and building sustainable public works. 
+Building the nation’s capacity for climate adaptation while also developing its green economy has been a priority for the Government of Ethiopia, resulting in the 2019 National Adaptation Plan. A key part of the government’s effort is the multi-donor [Productive Safety Net Programme (PSNP)](https://en.wikipedia.org/wiki/Productive_Safety_Net_Programme), launched in 2005 to integrate climate risks into various interventions, such as tackling food and livelihood insecurity through cash and food transfers and building sustainable public works. 
+
+>DEFINITION: Climate-smart approaches [transform and reorient](https://www.fao.org/climate-smart-agriculture-sourcebook/concept/en/) agricultural production systems and food value chains so that they support sustainable development and can ensure food security under climate change.
 
 “The PSNP programme entails soil and water conservation activities, alongside roads and irrigation development‚ all within a participatory watershed planning framework and promotion of household-level livelihood micro-investments. Eight million people are benefitting through the public works and livelihood components as well as through the direct transfers of the programme,” says Teriessa Jalleta, Programme Manager at the EU Delegation to Ethiopia. “PSNP also has a huge potential for addressing climate change impacts—which is why the Ethiopian government and the EU created the Climate-Smart PSNP.”
 
@@ -34,10 +39,14 @@ Climate-Smart PSNP builds on the recognition that climate change is a key driver
 “To start the project, we went through a stocktaking process to understand land use and climate-related issues, evaluate capacities in the field, and to document and map climate-smart practices and technologies already being used within the PSNP regions,” Riley says.
  
 In all the project identified 66 practices and technologies, catalogued in a database developed from 27 woredas. The database also holds information such as the specific vulnerabilities to climate change of the woredas. 
+
+![Focus_Woreda-ver2.png](/uploads/Focus_Woreda-ver2.png)
  
 Among the findings of this stocktaking: agriculture extension agents in the communities implementing PSNP often lacked sufficient understanding of climate change vulnerability and adaptation. In response, the project developed training modules and a manual for frontline implementers that covered content such as basic climate science, climate policy, and climate impacts, particularly as these issues pertain to the agriculture sector. 
 
 “About 2,000 agriculture extension agents received training on the basics of climate change, climate risks, and how to mitigate them. In turn, these frontline workers help the members of their communities in their decision-making processes to better withstand climate risks and implement sustainable landscape management practices, in their requirements for public works and in their everyday lives,” says Aklilu Mesfin Kidane, the Public Works Advisor under the project. 
+
+![Bench in Adwa.jpg](/uploads/Bench%20in%20Adwa.jpg)`Adwa, Ethiopia. Photo: EU Climate-Smart PSNP.`
 
 ## Revised Guidelines
 
@@ -51,6 +60,8 @@ Another important aspect of the PSNP is the livelihood component, through which 
 
 With support from Climate-Smart PSNP, the Livelihoods Implementation Coordination Unit is incorporating climate risk analysis and planning for climate adaptive and resilient enterprises. Tailored to the client and context, the business planning training now includes methodology and tools for climate-smart value chains identification as well as individual enterprise climate risk analysis. 
 
+![20190102_120631.jpg](/uploads/20190102_120631.jpg)`Photo: EU Climate-Smart PSNP.`
+
 ## Digitizing Community Productive Assets
 
 Another key achievement of the project is using geographic information system (GIS) mapping and codification to identify and delineate micro watersheds—first within the 22 woredas, then later the entire country. “This process creates a unique national code and standardised surface area planning unit that provides consistency across all development programmes related to natural resource planning and management in the Ministry of Agriculture,” says Abebe Ejigu, a project GIS Expert. The coding system includes administrative location data as well as topographical and agro-environmental descriptors. 
@@ -61,14 +72,8 @@ The newly delineated and codified watersheds allow planners to rapidly and syste
 
 ## The Way Forward
 
-During its nearly three years of operation, the Climate-Smart PSNP project has identified opportunities and challenges, designed and revised strategies and guidelines, and developed a road map with the Ministry of Agriculture which allowed all parties to agree on a shared vision of how to mainstream climate-smart approaches in the PSNP.
+During its nearly three years of operation, Climate-Smart PSNP has identified opportunities and challenges, designed and revised strategies and guidelines, and developed a road map with the Ministry of Agriculture, allowing all parties to agree on a shared vision of how to mainstream climate-smart approaches in the PSNP.
 
-“We are now testing and adjusting the manuals, the training modules, and the climate-smart planning process overall as well as communicating about our findings,” Riley says. “It’s important to remember that climate-smart mainstreaming is a long-term process. It is what the communities and the Ministry of Agriculture does after the catalyst provided by the project.”
+“We are now testing and adjusting the manuals, the training modules, and the climate-smart planning process overall as well as communicating about our findings,” Riley says. “It’s important to remember that climate-smart mainstreaming is a long-term process. It is what the communities and the Ministry of Agriculture do after the catalyst provided by the project.”
 
-At present, a delegation headed by the Ethiopian Ministry of Agriculture, Oumer Hussien Oba, and supported by the project team, will be presenting PSNP’s contributions to Ethiopia’s Nationally Determined Contributions and Sustainable Development Goals at the COP26 in Glasgow. The objective is to increase visibility of PSNP as a climate change adaptation and mitigation programme and to leverage the broader climate finance institutions and stakeholders in view of securing investments to expand climate-smart public works and livelihoods actions in Ethiopia. The way forward is still long, but the path is clear and green.
-
-
-
-
-Climate-smart approaches refer to transforming and reorienting agricultural production systems and food value chains so that they support sustainable development and can ensure food security under climate change. (source: https://www.fao.org/climate-smart-agriculture-sourcebook/concept/en/)
-In the context of PSNP, climate-smart approaches are adopted through sustainable natural resources management, public works, and cash and food transfers. The CSM-PSNP project mainstreams these approaches in three technical areas: planning and implementation, building capacity, and managing the body of knowledge.
+At present, a delegation headed by the Ethiopian Ministry of Agriculture, Oumer Hussien Oba, and supported by the project team, will be presenting PSNP’s contributions to Ethiopia’s Nationally Determined Contributions and Sustainable Development Goals at the [COP26 in Glasgow](https://ukcop26.org/). The objective is to increase visibility of PSNP as a climate change adaptation and mitigation programme and to leverage the broader climate finance institutions and stakeholders in view of securing investments to expand climate-smart public works and livelihoods actions in Ethiopia. The way forward is still long, but the path is clear and green.
