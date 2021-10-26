@@ -26,7 +26,7 @@ publication: Developments
 
 ##  What has changed for you, your team, and the city since you started working with Clima-Med?
  
-"Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the Covenant of Mayors Mediterranean (CoM-Med)1. This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and CEDRO V projects in Lebanon.
+"Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the [Covenant of Mayors Mediterranean](https://www.com-med.org/en/) (CoM-Med)1. This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and [CEDRO V](https://www.cedro-undp.org/) projects in Lebanon.
 
 ##  Tell us about the challenges you are meeting and how you are overcoming them.
 
