@@ -33,7 +33,7 @@ publication: Developments
 "The main challenge is financial. The Independent Municipalities Fund, which collects all municipal taxes raised by different government departments—public utilities, customs, and property taxes, for example—has failed for the last three years to meet its commitment to redistribute these funds for local development projects. We also face a lack of government support of any kind—there is no maintenance of public lights on main roads nor is there a continuous supply of electricity or drinking water; and work on the much-needed sewage system network still has not begun. 
 
 "Therefore, we have taken the initiative and in our efforts to deliver our Climate Change Action Plan, we are seeking alternative solutions. 
-We started solid waste management three years ago, focusing on sorting refuse from the point of origin, and we are in the process of installing an organic waste products unit. We have received support for these through USAID’s Diverting Waste by Encouraging Reuse and Recycling (DAWERR) activity. However, we need to have clean, renewable energy to run the plant.
+We started solid waste management three years ago, focusing on sorting refuse from the point of origin, and we are in the process of installing an organic waste products unit. We have received support for these through USAID’s [Diverting Waste by Encouraging Reuse and Recycling](https://berytech.org/programs/dawerr/) (DAWERR) activity. However, we need to have clean, renewable energy to run the plant.
 
 "We have a water pump that supplies drinking water from the Awali River to our main reservoir that runs on diesel generators, which we also need to shift to a clean/renewable energy power source.  
 
