@@ -50,7 +50,7 @@ As Ethiopia already had in place a substantial institutional framework for addre
 
 “The revised guidelines promote climate-smart outcomes by including a climate-smart planning protocol,” says Nesredin Abdule, the project’s Management Information System and Monitoring and Evaluation advisor. 
 
-![Bench in Adwa.jpg](/uploads/Bench%20in%20Adwa.jpg)`Adwa, Ethiopia. Photo: EU Climate-Smart PSNP.`
+![Bench in Adwa.jpg](/uploads/Bench%20in%20Adwa.jpg)`Bench terracing of watershed slopes in Adwa Woreda. Photo: PSNP/MOA.`
 
 ## Climate-Smart Business Planning
  
@@ -66,7 +66,7 @@ Another key achievement of the project is using geographic information system (G
 
 The newly delineated and codified watersheds allow planners to rapidly and systematically prepare base maps that include bio-physical assessment data, current land use data, land cover analysis, and other baseline information needed in development planning—thereby supporting M&E and informing decision making. 
 
-![20190102_120631.jpg](/uploads/20190102_120631.jpg)`Photo: EU Climate-Smart PSNP.`
+![20190102_120631.jpg](/uploads/20190102_120631.jpg)`Dam for small-scale irrigation in Kolatembien Woreda. Photo: John Riley/CSM-PSNP.`
 
 ## The Way Forward
 
