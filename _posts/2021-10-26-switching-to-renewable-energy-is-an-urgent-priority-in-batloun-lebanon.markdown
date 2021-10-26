@@ -11,7 +11,7 @@ social-image: "/uploads/Lebanon%20solar%20panels.jpg"
 publication: Developments
 ---
 
-**Q&A with Marwan Kaiss, Mayor of Batloun, Lebanon**
+## Q&A with Marwan Kaiss, Mayor of Batloun, Lebanon
 
 ![Mayor Marwan Kaiss portrait crop.jpg](/uploads/Mayor%20Marwan%20Kaiss%20portrait%20crop.jpg){:.float-left}*Marwan Kaiss has been the Mayor of Batloun, Lebanon, since 2016. Batloun is a small town in the Chouf district, which forms part of the Chouf Biosphere Reserve. Its natural beauty, proximity to the Reserve, and rich history make it a top spot for environmental and cultural tourism. Mayor Kaiss is driven to see Batloun become a “green town” and has been implementing its Climate Change Action Plan (SECAP). Key to this has been the town’s involvement in the [Clima-Med](www.clima-med.eu) project and his membership of the [Covenant of Mayors Mediterranean](http://www.com-med.org/). With the cooperation of citizens and the continued support of the international community, Mayor Kaiss intends Batloun to be on track to help reach the Southern Mediterranean’s 2030 emission reduction targets.*
 
@@ -30,7 +30,7 @@ publication: Developments
 
 ##  What has changed for you, your team, and the city since you started working with Clima-Med?
  
-"Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the [Covenant of Mayors Mediterranean](https://www.com-med.org/en/) (CoM-Med)1. This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and [CEDRO V](https://www.cedro-undp.org/) projects in Lebanon.
+"Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the [Covenant of Mayors Mediterranean](https://www.com-med.org/en/) (CoM-Med).[*](/#footnote-1) This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and [CEDRO V](https://www.cedro-undp.org/) projects in Lebanon.
 
 ##  Tell us about the challenges you are meeting and how you are overcoming them.
 
@@ -65,4 +65,4 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 
 **DAI implements the EU-funded [Clima-Med project](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood).**
 
-<aside>* The Covenant of Mayors for the Mediterranean, (CoM Med), is an initiative funded by the European Union (EU) that brings together and supports Mediterranean local governments in their fight against climate change. It is a voluntary based initiative that allows cities to define and meet ambitious and realistic targets set by themselves in line with the Global Covenant of Mayors for Climate and Energy (GCoM) requirements and their National Determined Contributions (NDCs).</aside>
+<aside id="footnote-1">* The Covenant of Mayors for the Mediterranean, (CoM Med), is an initiative funded by the European Union (EU) that brings together and supports Mediterranean local governments in their fight against climate change. It is a voluntary based initiative that allows cities to define and meet ambitious and realistic targets set by themselves in line with the Global Covenant of Mayors for Climate and Energy (GCoM) requirements and their National Determined Contributions (NDCs).</aside>
