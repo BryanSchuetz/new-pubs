@@ -7,6 +7,7 @@ tags:
 - infrastructure
 - climate-change
 - environment-and-energy
+publication: Developments
 ---
 
 *Demand for clean energy is rapidly growing in Vietnam. To help mobilize finance for investment in clean energy, the [USAID Vietnam Urban Energy Security project](https://www.dai.com/our-work/projects/vietnam-urban-energy-security) is working hand in hand with city governments in Danang and Ho Chi Minh City. There is, however, a critical gap between the finance available from the United States Development Finance Corporation (DFC) and the needs of project developers wanting to scale up rooftop solar and other distributed energy solutions. Many developers were unable to tap into potential financing because they were unfamiliar with the DFC’s development mandate, capabilities, and requirements.*
