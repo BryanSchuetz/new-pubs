@@ -7,6 +7,7 @@ tags:
 - environment-and-energy
 author: Marwan Kaiss
 thumbnail-image: "/uploads/Lebanon%20solar%20panels.jpg"
+social-image: "/uploads/Lebanon%20solar%20panels.jpg"
 publication: Developments
 ---
 
