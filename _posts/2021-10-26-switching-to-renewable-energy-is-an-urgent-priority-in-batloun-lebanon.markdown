@@ -26,7 +26,7 @@ publication: Developments
 
 ##  What has changed for you, your team, and the city since you started working with Clima-Med?
  
-"Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the Covenant of Mayors Mediterranean (CoM-Med)*. This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and CEDRO V projects in Lebanon.
+"Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the Covenant of Mayors Mediterranean (CoM-Med)1. This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and CEDRO V projects in Lebanon.
 
 ##  Tell us about the challenges you are meeting and how you are overcoming them.
 
@@ -54,3 +54,7 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 "We are looking forward to strengthening our relationship with Clima-Med, gaining support and benefiting from funding opportunities for sustainable development projects that include a focus on clean and renewable energy. For example, with Clima-Med support, we responded to an EU funding opportunity—Climate for Cities (C4C)—to have Batloun’s electricity supply converted to solar power. If we are successful, we will be on the track toward meeting our strategic vision.
 
 "We also have another important ambition, for which we need the support of the CoM-Med community. We would like to succeed in “twinning” Batloun with a town in Europe, with a view to receiving support in the exchanging of talent, knowledge, and experience in clean energy and sustainable development."
+
+DAI implements the EU-funded [Clima-Med project](www.clima-med.eu).
+
+*1 The Covenant of Mayors for the Mediterranean, (CoM Med), is an initiative funded by the European Union (EU) that brings together and supports Mediterranean local governments in their fight against climate change. It is a voluntary based initiative that allows cities to define and meet ambitious and realistic targets set by themselves in line with the Global Covenant of Mayors for Climate and Energy (GCoM) requirements and their National Determined Contributions (NDCs).*
