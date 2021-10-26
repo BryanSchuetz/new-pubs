@@ -11,7 +11,7 @@ publication: Developments
 
 **Q&A with Marwan Kaiss, Mayor of Batloun, Lebanon**
 
-![Mayor Marwan Kaiss portrait crop.jpg](/uploads/Mayor%20Marwan%20Kaiss%20portrait%20crop.jpg){:.float-left}*Marwan Kaiss has been the Mayor of Batloun, Lebanon, since 2016. Batloun is a small town in the Chouf district, which forms part of the Chouf Biosphere Reserve. Its natural beauty, proximity to the Reserve, and rich history make it a top spot for environmental and cultural tourism. Mayor Kaiss is driven to see Batloun become a “green town” and has been implementing its Climate Change Action Plan (SECAP). Key to this has been the town’s involvement in the [Clima-Med](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood) project and his membership of the [Covenant of Mayors Mediterranean](http://www.com-med.org/). With the cooperation of citizens and the continued support of the international community, Mayor Kaiss intends Batloun to be on track to help reach the Southern Mediterranean’s 2030 emission reduction targets.*
+![Mayor Marwan Kaiss portrait crop.jpg](/uploads/Mayor%20Marwan%20Kaiss%20portrait%20crop.jpg){:.float-left}*Marwan Kaiss has been the Mayor of Batloun, Lebanon, since 2016. Batloun is a small town in the Chouf district, which forms part of the Chouf Biosphere Reserve. Its natural beauty, proximity to the Reserve, and rich history make it a top spot for environmental and cultural tourism. Mayor Kaiss is driven to see Batloun become a “green town” and has been implementing its Climate Change Action Plan (SECAP). Key to this has been the town’s involvement in the [Clima-Med](www.clima-med.eu) project and his membership of the [Covenant of Mayors Mediterranean](http://www.com-med.org/). With the cooperation of citizens and the continued support of the international community, Mayor Kaiss intends Batloun to be on track to help reach the Southern Mediterranean’s 2030 emission reduction targets.*
 
 
 
@@ -22,7 +22,7 @@ publication: Developments
 
 ##  Why was it important for Batloun to be involved?  
 
-"Batloun is located in the Shouf Biosphere Reserve  – the largest natural cedar reserve in Lebanon. For this reason, we and our neighboring towns already had a sustainable, eco-friendly vision for the future. The European Union-funded Clima-Med project came at an ideal time to provide support from the international and national development community to achieve our 2030 emissions target. 
+"Batloun is located in the [Shouf Biosphere Reserve](http://www.shoufcedar.org/) – the largest natural cedar reserve in Lebanon. For this reason, we and our neighboring towns already had a sustainable, eco-friendly vision for the future. The European Union-funded Clima-Med project came at an ideal time to provide support from the international and national development community to achieve our 2030 emissions target. 
 
 ##  What has changed for you, your team, and the city since you started working with Clima-Med?
  
@@ -55,6 +55,6 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 
 "We also have another important ambition, for which we need the support of the CoM-Med community. We would like to succeed in “twinning” Batloun with a town in Europe, with a view to receiving support in the exchanging of talent, knowledge, and experience in clean energy and sustainable development."
 
-DAI implements the EU-funded [Clima-Med project](www.clima-med.eu).
+**DAI implements the EU-funded [Clima-Med project](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood).**
 
 *1 The Covenant of Mayors for the Mediterranean, (CoM Med), is an initiative funded by the European Union (EU) that brings together and supports Mediterranean local governments in their fight against climate change. It is a voluntary based initiative that allows cities to define and meet ambitious and realistic targets set by themselves in line with the Global Covenant of Mayors for Climate and Energy (GCoM) requirements and their National Determined Contributions (NDCs).*
