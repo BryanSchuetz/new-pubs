@@ -1,5 +1,5 @@
 ---
-title: Making Clean Energy Finance Work in Vietnam
+title: 'Q&A: Making Clean Energy Finance Work in Vietnam'
 date: 2021-10-26 08:42:00 -04:00
 published: false
 tags:
