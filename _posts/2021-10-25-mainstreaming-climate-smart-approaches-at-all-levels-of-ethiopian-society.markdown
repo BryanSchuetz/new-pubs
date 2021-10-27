@@ -30,7 +30,7 @@ Building the nation’s capacity for climate adaptation while also developing it
 
 Climate-Smart PSNP builds on the recognition that climate change is a key driver of food insecurity as well as a threat to the effectiveness and sustainability of the PSNP. The project is designed to assist the government of Ethiopia to improve the resilience and adaptive capacity of the millions of Ethiopians who receive support under PSNP. DAI provides assistance to mainstream climate-smart approaches in three technical areas: planning and implementation, building capacity, and managing the body of knowledge. In the first two years, the project supported the roll-out of climate-smart approaches in 22 districts, locally called woredas. The Ministry of Agriculture has already begun to scale up this experience to more than half of all rural woredas in the country. 
 
-“The activities undertaken as part of the project are integrated into the work of the PSNP, from the Ministry to grassroots level, and build to a high extent on already existing or emerging tools and practices,” says Team Leader John Riley. “This includes adopting practices such as climate-smart livelihood business planning and climate change risk management dimensions.”
+“The activities undertaken as part of the project are integrated into the work of the PSNP, from the Ministry to grassroots level, and build to a high extent on already existing or emerging tools and practices,” says Team Leader John Riley. “This includes adopting practices such as climate-smart livelihood business planning and climate risk management in grassroots development planning.”
 
 ## Building on a Strong Foundation
 
@@ -40,7 +40,7 @@ In all the project identified 66 practices and technologies, catalogued in a dat
 
 ![Focus_Woreda-ver2.png](/uploads/Focus_Woreda-ver2.png)
  
-Among the findings of this stocktaking: agriculture extension agents in the communities implementing PSNP often lacked sufficient understanding of climate change vulnerability and adaptation. In response, the project developed training modules and a manual for frontline implementers that covered content such as basic climate science, climate policy, and climate impacts, particularly as these issues pertain to the agriculture sector. 
+Among the findings of this stocktaking: agriculture extension agents in the communities implementing PSNP often lacked sufficient understanding of climate change vulnerability and adaptation. In response, the project developed training modules and a manual for frontline implementers that covers content such as basic climate science, climate policy, and climate impacts, particularly as these issues pertain to the agriculture sector. 
 
 “About 2,000 agriculture extension agents received training on the basics of climate change, climate risks, and how to mitigate them. In turn, these frontline workers help the members of their communities in their decision-making processes to better withstand climate risks and implement sustainable landscape management practices, in their requirements for public works and in their everyday lives,” says Aklilu Mesfin Kidane, the Public Works Advisor under the project. 
 
