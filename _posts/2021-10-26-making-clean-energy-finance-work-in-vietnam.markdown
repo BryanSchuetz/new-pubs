@@ -7,7 +7,7 @@ tags:
 - infrastructure
 - climate-change
 - environment-and-energy
-author: Van Anh Do and [Rhiannon Gulick](https://www.dai.com/who-we-are/our-team/rhiannon-gulick)
+author: Do Van Anh and [Rhiannon Gulick](https://www.dai.com/who-we-are/our-team/rhiannon-gulick)
 thumbnail-image: "/uploads/USAID_solar%20panel%20thumbnail.jpg"
 social-image: "/uploads/USAID_solar%20panel%20thumbnail.jpg"
 publication: Developments
