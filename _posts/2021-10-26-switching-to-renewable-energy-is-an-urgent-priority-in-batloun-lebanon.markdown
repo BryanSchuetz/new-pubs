@@ -17,21 +17,21 @@ publication: Developments
 
 <!--more-->
 
-##  What was the situation in Batloun before you became involved in the Clima-Med project?
+**What was the situation in Batloun before you became involved in the Clima-Med project?**
 
 "When I took over responsibility for the Batloun Municipality Council in June 2016, there were no plans for development. So my colleagues and I set out a strategic plan for our six-year term, with the vision of turning Batloun into an eco-town role model.
 
-##  Why was it important for Batloun to be involved?  
+**Why was it important for Batloun to be involved?**  
 
 "Batloun is located in the [Shouf Biosphere Reserve](http://www.shoufcedar.org/) – the largest natural cedar reserve in Lebanon. For this reason, we and our neighboring towns already had a sustainable, eco-friendly vision for the future. The European Union-funded Clima-Med project came at an ideal time to provide support from the international and national development community to achieve our 2030 emissions target. 
 
 ![PHOTO-2021-09-16-12-41-24.jpg](/uploads/PHOTO-2021-09-16-12-41-24.jpg)
 
-##  What has changed for you, your team, and the city since you started working with Clima-Med?
+**What has changed for you, your team, and the city since you started working with Clima-Med?**
  
 "Working with Clima-Med showed us a way to achieve our vision, opening doors and guiding us toward international community support. This included joining the [Covenant of Mayors Mediterranean](https://www.com-med.org/en/) (CoM-Med). [*](#footnote-1) This partnership led to the provision of solar energy to Batloun’s three public buildings—the municipality building and two public schools—as a result of cooperation between Clima-Med and [CEDRO V](https://www.cedro-undp.org/) projects in Lebanon.
 
-##  Tell us about the challenges you are meeting and how you are overcoming them.
+**Tell us about the challenges you are meeting and how you are overcoming them.**
 
 "The main challenge is financial. The Independent Municipalities Fund, which collects all municipal taxes raised by different government departments—public utilities, customs, and property taxes, for example—has failed for the last three years to meet its commitment to redistribute these funds for local development projects. We also face a lack of government support of any kind—there is no maintenance of public lights on main roads nor is there a continuous supply of electricity or drinking water; and work on the much-needed sewage system network still has not begun. 
 
@@ -44,7 +44,7 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 
 "We have also coordinated with our local Agri-Union and rehabilitated the irrigation water canals to help prevent landslides and minimize water waste. Our future vision is to have a rainwater-harvesting tank to support a drip irrigation system.
 
-##  How is the energy situation in Batloun now, especially with the current Lebanese energy crisis?
+**How is the energy situation in Batloun now, especially with the current Lebanese energy crisis?**
 
 "To be honest, it is very bad, with energy costs skyrocketing and far exceeding the monthly minimum wage. Prohibitive costs and regular power shortages are also having a very negative effect on the environment due to the high use of diesel for electricity generators that supply power to about 1,000 subscribers for 15 hours a day.
 
@@ -54,7 +54,7 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 
 ![Lebanon4.jpg](/uploads/Lebanon4.jpg)
 
-##  How will you continue in your journey to becoming a clean energy town? 
+**How will you continue in your journey to becoming a clean energy town?** 
 
 "It is part of our strategic vision that Batloun becomes a “Green Town,” so we are focusing on making that a reality.
 
