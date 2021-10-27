@@ -7,7 +7,7 @@ tags:
 - infrastructure
 - climate-change
 - environment-and-energy
-author: Ella Hoxha
+author: Van Anh Do and [Rhiannon Gulick](https://www.dai.com/who-we-are/our-team/rhiannon-gulick)
 publication: Developments
 ---
 
