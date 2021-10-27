@@ -6,8 +6,8 @@ tags:
 - climate
 - environment-and-energy
 author: Marwan Kaiss
-thumbnail-image: "/uploads/Lebanon%20solar%20panels.jpg"
-social-image: "/uploads/Lebanon%20solar%20panels.jpg"
+thumbnail-image: "/uploads/Lebanon%20solar%20panels%20thumbnail.jpg"
+social-image: "/uploads/Lebanon%20solar%20panels%20thumbnail.jpg"
 publication: Developments
 ---
 
