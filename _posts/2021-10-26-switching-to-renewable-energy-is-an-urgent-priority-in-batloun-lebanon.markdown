@@ -25,7 +25,7 @@ publication: Developments
 
 "Batloun is located in the [Shouf Biosphere Reserve](http://www.shoufcedar.org/) – the largest natural cedar reserve in Lebanon. For this reason, we and our neighboring towns already had a sustainable, eco-friendly vision for the future. The European Union-funded Clima-Med project came at an ideal time to provide support from the international and national development community to achieve our 2030 emissions target. 
 
-![PHOTO-2021-09-16-12-41-24.jpg](/uploads/PHOTO-2021-09-16-12-41-24.jpg)
+![PHOTO-2021-09 Batloun Lebanon.jpg](/uploads/PHOTO-2021-09%20Batloun%20Lebanon.jpg)
 
 **What has changed for you, your team, and the city since you started working with Clima-Med?**
  
@@ -38,7 +38,7 @@ publication: Developments
 "Therefore, we have taken the initiative and in our efforts to deliver our Climate Change Action Plan, we are seeking alternative solutions. 
 We started solid waste management three years ago, focusing on sorting refuse from the point of origin, and we are in the process of installing an organic waste products unit. We have received support for these through USAID’s [Diverting Waste by Encouraging Reuse and Recycling](https://berytech.org/programs/dawerr/) (DAWERR) activity. However, we need to have clean, renewable energy to run the plant.
 
-![Lebanon waste recycling.jpg](/uploads/Lebanon%20waste%20recycling.jpg)
+![Lebanon waste recycling crop.jpg](/uploads/Lebanon%20waste%20recycling%20crop.jpg)
 
 "We have a water pump that supplies drinking water from the Awali River to our main reservoir that runs on diesel generators, which we also need to shift to a clean/renewable energy power source.  
 
@@ -52,7 +52,7 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 
 "As for the people in Batloun, they are suffering. They have become more aware of the need to switch to clean/renewable sources—such as solar power—so that they do not have to depend on either the public or private electricity suppliers. They are keen to see their municipality make that transition. Currently, however, only a few families who can afford it have been able to switch to solar energy. 
 
-![Lebanon4.jpg](/uploads/Lebanon4.jpg)
+![Lebanon solar street lights.jpg](/uploads/Lebanon%20solar%20street%20lights.jpg)
 
 **How will you continue in your journey to becoming a clean energy town?** 
 
