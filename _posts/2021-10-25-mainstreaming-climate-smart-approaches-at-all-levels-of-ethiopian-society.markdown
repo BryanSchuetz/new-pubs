@@ -13,7 +13,7 @@ social-image: "/uploads/sm%20Bench%20in%20Adwa.jpg"
 publication: Developments
 ---
 
-Adapting to climate change and building resilience to its harmful effects is especially important in countries where the population is highly vulnerable to the effects of global heating, such as Ethiopia. That’s exactly what the [GCCA+/Climate Smart Mainstreaming into the Productive Safety Net Program (Climate-Smart PSNP)](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) has been focused on since 2018. The European Union (EU) project is mainstreaming climate-smart approaches at grassroots and institutional levels, thereby contributing to a sustainable change of practices when it comes to climate, at all levels of Ethiopian society. 
+Adapting to climate change and building resilience to its harmful effects is especially important in countries where the population is highly vulnerable to the effects of global warming, such as Ethiopia. That’s exactly what the [GCCA+/Climate Smart Mainstreaming into the Productive Safety Net Program (Climate-Smart PSNP)](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) has been focused on since 2018. The European Union (EU) project is mainstreaming climate-smart approaches at grassroots and institutional levels, thereby contributing to a sustainable change of practices when it comes to climate, at all levels of Ethiopian society. 
 
 
 
