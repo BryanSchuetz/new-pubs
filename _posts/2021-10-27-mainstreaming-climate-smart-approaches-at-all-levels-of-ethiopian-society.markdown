@@ -47,7 +47,7 @@ Among the findings of this stocktaking: agriculture extension agents in the comm
 
 As Ethiopia already had in place a substantial institutional framework for addressing climate change, the project focused on how that framework is integrated on the ground. An important part of that work entailed reviewing PSNP’s manuals and guidelines. For example, the project helped revise the national watershed and rangeland development guidelines and piloted these revised guidelines in 22 woredas across a range of ecological areas.
 
-“The revised guidelines promote climate-smart outcomes by including a climate-smart planning protocol,” says Nesredin Abdule, the project’s Management Information System and Monitoring and Evaluation advisor. 
+“The revised guidelines promote climate-smart outcomes by including a climate-smart planning protocol,” says Nesredin Rube, the project’s Management Information System and Monitoring and Evaluation advisor. 
 
 ![Bench in Adwa.jpg](/uploads/Bench%20in%20Adwa.jpg)`Bench terracing of watershed slopes in Adwa Woreda. Photo: PSNP/MOA.`
 
