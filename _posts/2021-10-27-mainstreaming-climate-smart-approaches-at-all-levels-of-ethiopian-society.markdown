@@ -1,7 +1,6 @@
 ---
 title: Mainstreaming Climate-Smart Approaches at all Levels of Ethiopian Society
-date: 2021-10-25 13:41:00 -04:00
-published: false
+date: 2021-10-27 08:21:00 -04:00
 tags:
 - climate
 - climate change
