@@ -1,20 +1,18 @@
 ---
-title: Switching to Renewable Energy is an Urgent Priority in Batloun, Lebanon
+title: 'Q&A: Switching to Renewable Energy is an Urgent Priority in Batloun, Lebanon'
 date: 2021-10-26 11:54:00 -04:00
 published: false
 tags:
 - climate
 - environment-and-energy
 - european-union
-author: Marwan Kaiss
+author: DAI Communications Staff
 thumbnail-image: "/uploads/Lebanon%20solar%20panels%20thumbnail.jpg"
 social-image: "/uploads/Lebanon%20solar%20panels%20thumbnail.jpg"
 publication: Developments
 ---
 
-## Q&A with Marwan Kaiss, Mayor of Batloun, Lebanon
-
-![Mayor Marwan Kaiss portrait crop.jpg](/uploads/Mayor%20Marwan%20Kaiss%20portrait%20crop.jpg){:.float-left}*Marwan Kaiss has been the Mayor of Batloun, Lebanon, since 2016. Batloun is a small town in the Chouf district, which forms part of the Chouf Biosphere Reserve. Its natural beauty, proximity to the Reserve, and rich history make it a top spot for environmental and cultural tourism. Mayor Kaiss is driven to see Batloun become a “green town” and has been implementing its Climate Change Action Plan (SECAP). Key to this has been the town’s involvement in the [Clima-Med](www.clima-med.eu) project and his membership of the [Covenant of Mayors Mediterranean](http://www.com-med.org/). With the cooperation of citizens and the continued support of the international community, Mayor Kaiss intends Batloun to be on track to help reach the Southern Mediterranean’s 2030 emission reduction targets.*
+![Mayor Marwan Kaiss portrait crop.jpg](/uploads/Mayor%20Marwan%20Kaiss%20portrait%20crop.jpg){:.float-left}*Marwan Kaiss has been the Mayor of Batloun, Lebanon, since 2016. Batloun is a small town in the Chouf district, which forms part of the Chouf Biosphere Reserve. Its natural beauty, proximity to the Reserve, and rich history make it a top spot for environmental and cultural tourism. Mayor Kaiss is driven to see Batloun become a “green town” and has been implementing its Climate Change Action Plan (SECAP). Key to this has been the town’s involvement in the [Clima-Med](www.clima-med.eu) project and his membership of the [Covenant of Mayors Mediterranean](http://www.com-med.org/). With the cooperation of citizens and the continued support of the international community, Mayor Kaiss intends Batloun to be on track to help reach the Southern Mediterranean’s 2030 emission reduction targets. We sat with Mayor Kaiss to find out more.*
 
 <!--more-->
 
