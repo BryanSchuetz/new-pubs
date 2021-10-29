@@ -61,6 +61,6 @@ We started solid waste management three years ago, focusing on sorting refuse fr
 
 "We also have another important ambition, for which we need the support of the CoM-Med community. We would like to succeed in 'twinning' Batloun with a town in Europe, with a view to receiving support in the exchanging of talent, knowledge, and experience in clean energy and sustainable development."
 
-**DAI implements the EU-funded [Clima-Med project](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood).**
+**DAI implements the [Clima-Med project](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood).**
 
-<aside id="footnote-1">* The Covenant of Mayors for the Mediterranean, (CoM Med), is an initiative funded by the European Union (EU) that brings together and supports Mediterranean local governments in their fight against climate change. It is a voluntary based initiative that allows cities to define and meet ambitious and realistic targets set by themselves in line with the Global Covenant of Mayors for Climate and Energy (GCoM) requirements and their National Determined Contributions (NDCs).</aside>
+<aside id="footnote-1">* The Covenant of Mayors for the Mediterranean, (CoM Med), is an initiative funded by the European Union that brings together and supports Mediterranean local governments in their fight against climate change. It is a voluntary initiative that allows cities to define and meet ambitious and realistic targets set by themselves in line with the Global Covenant of Mayors for Climate and Energy requirements and their National Determined Contributions.</aside>
