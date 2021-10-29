@@ -32,7 +32,7 @@ publication: Developments
 
 "Our developer partners appreciate how the project has helped make it possible for them to work with the DFC by supporting them to understand better how to make their projects viable, and how to successfully raise investment and potentially unlock additional capital. Renewable energy is a relatively nascent sector in Vietnam and new players are not aware of the evolving investment opportunities and funding available, nor the requirements and expectations of different stakeholders. The investment facilitation and technical assistance services the project offers, therefore, are vital in helping potential projects move forward. Some projects may need help conducting specific studies to meet international standards required by international investors, or understanding the policy and regulation frameworks that affect the viability and feasibility of a project. Others may need advice on structuring the deals, preparing investment documents to present to potential investors, or introductions to suitable investors with similar goals and interests."
 
-![USAID_solar panel-ffa5db.jpg](/uploads/USAID_solar%20panel-ffa5db.jpg)
+![USAID_solar panel-ffa5db.jpg](/uploads/USAID_solar%20panel-ffa5db.jpg) `Photo: USAID.`
 
 **Are there any investment opportunities that the project supported in the DFC pipeline now? If so, when do you expect to see the first of these projects get underway?**
 
