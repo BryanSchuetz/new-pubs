@@ -24,7 +24,7 @@ publication: Developments
 
 "Batloun is located in the [Shouf Biosphere Reserve](http://www.shoufcedar.org/)—the largest natural cedar reserve in Lebanon. For this reason, we and our neighboring towns already had a sustainable, eco-friendly vision for the future. The European Union-funded Clima-Med project came at an ideal time to provide support from the international and national development community to achieve our 2030 emissions target." 
 
-![PHOTO-2021-09 Batloun Lebanon.jpg](/uploads/PHOTO-2021-09%20Batloun%20Lebanon.jpg)`Shouf Biosphere Reserve, Batloun, Lebanon. Photo: Wadih Chehaibar.`
+![PHOTO-2021-09 Batloun Lebanon.jpg](/uploads/PHOTO-2021-09%20Batloun%20Lebanon.jpg)`Batloun, Lebanon. Photo: Wadih Chehaibar.`
 
 **What has changed for you, your team, and the city since you started working with Clima-Med?**
  
