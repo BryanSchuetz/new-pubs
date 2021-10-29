@@ -6,7 +6,7 @@ tags:
 - climate
 - environment-and-energy
 - european-union
-author: Diana Thomas
+author: DAI Communications Team
 thumbnail-image: "/uploads/Lebanon%20solar%20panels%20thumbnail.jpg"
 social-image: "/uploads/Lebanon%20solar%20panels%20thumbnail.jpg"
 publication: Developments
