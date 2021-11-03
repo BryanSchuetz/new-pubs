@@ -4,6 +4,7 @@ date: 2020-06-01 10:22:00 -04:00
 tags:
 - economic-growth
 - covid-19
+- sustainable-business
 author: "[Bhairav Raja](https://www.dai.com/who-we-are/our-team/bhairav-raja)"
 thumbnail-image: "/uploads/mick-haupt-AW-JC0p1FcU-unsplash.jpg"
 social-image: "/uploads/mick-haupt-AW-JC0p1FcU-unsplash.jpg"
