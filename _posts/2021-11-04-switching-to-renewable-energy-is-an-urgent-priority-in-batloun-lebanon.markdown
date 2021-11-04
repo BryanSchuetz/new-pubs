@@ -1,7 +1,6 @@
 ---
 title: 'Q&A: Switching to Renewable Energy is an Urgent Priority in Batloun, Lebanon'
-date: 2021-10-26 11:54:00 -04:00
-published: false
+date: 2021-11-04 11:54:00 -04:00
 tags:
 - climate
 - environment-and-energy
