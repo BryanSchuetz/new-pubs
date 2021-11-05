@@ -57,6 +57,8 @@ Comprehensive financing frameworks that span multiple years endow government act
 
 Climate targets will not be met with public resources alone: They require engaging the business community and leveraging private finance within a public policy framework. Governments play a central role in engaging the private sector through new regulations, incentives, and fiscal policies—possibly including a carbon tax, modified electricity tariffs, or the removal of fossil-fuel subsidies, among other options. But communication is particularly crucial when engaging with the private sector: regulation and incentives to adopt sustainable business models may backfire if they are not based on sound sectoral analysis and stakeholder engagement, for example; companies may be unaware of green business opportunities; they may be reluctant to engage with state agencies on investments perceived as too risky; and public-private dialogue can be a challenge in places with a legacy of corruption and mistrust. 
 
+![honduras.jpg](/uploads/honduras.jpg)`USAID Honduras ProParque.`
+
 But successes are certainly possible. The [Honduras ProParque and Gobernanza en Ecosistemas, Medios de Vida, y Agua](https://www.dai.com/our-work/projects/honduras-ProParque-GEMA), projects, for example, facilitated public-private dialogue on sustainable agriculture and ecotourism and advised enterprises on opportunities and promotion strategies. In Kenya, a [DAI project](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck) improved coordination between financial institutions, climate information providers, and the private sector along agricultural value chains. 
 
 ## Engage Civil Society for Dialogue and Behaviour Change
