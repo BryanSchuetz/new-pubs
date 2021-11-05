@@ -19,6 +19,8 @@ Climate change works against the achievement of all the [Sustainable Development
 
 Government must take the lead in confronting such threats. National and subnational institutions determine how effectively each country integrates climate commitments into action through the laws, systems, and procedures at its disposal. The previous two decades of climate change governance work have provided valuable insights into the design and delivery of climate action, with key lessons emerging on how to leverage governance mechanisms. Following are six lessons we have learned, in part through our experience implementing DAI projects in East Africa, Central America, Southeast Asia, and beyond. 
 
+![indo top.jpg](/uploads/indo%20top.jpg)`Photo: USAID Indonesia APIK.`
+
 
 
 
@@ -45,9 +47,11 @@ A well-executed CPEIR will:
 
 It is important to strengthen the capacities of climate change units in line ministries and agencies, particularly to improve the links between planning and budgeting and to support the preparation and implementation of climate change budget programmes. Development partners should work alongside national agencies to build integrated strategies and capacities for disaster risk management, from comprehensive risk assessments to (financially viable) early warning and response systems. The DAI-managed [Climate Smart Mainstreaming into the Productive Safety Net Programme](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) in Ethiopia, for example, aligns early warning systems for disaster risk management with social protection programmes to mitigate climate-related risks. 
 
+![Indo 1.jpg](/uploads/Indo%201.jpg)`Photo: USAID Indonesia APIK.`
+
 ## Facilitate Climate Change Financing Frameworks (CCFF)
 
-Comprehensive financing frameworks that span multiple years endow government action with predictability, transparency, and credibility. These frameworks make explicit assumptions about the mobilisation of public and private resources to meet climate change targets and bring these resources into national planning and budgeting systems. In Indonesia, for example, the DAI-led [Adaptasi Perubahan Iklim dan Ketangguhan](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption) project integrated climate adaptation and disaster risk management within national and subnational systems, so that climate policies, laws, and regulations are consolidated in medium-term financial frameworks. Having long-term plans that are subject to regular review allows governments to consolidate private and public finance into a coherent fiscal architecture. A CCFF facilitates more accurate monitoring, tracking, and reporting of climate investments, which will, in turn, create an enabling environment for the flow of international climate finance. 
+Comprehensive financing frameworks that span multiple years endow government action with predictability, transparency, and credibility. These frameworks make explicit assumptions about the mobilisation of public and private resources to meet climate change targets and bring these resources into national planning and budgeting systems. In Indonesia, for example, the DAI-led [Adaptasi Perubahan Iklim dan Ketangguhan (APIK)](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption) project integrated climate adaptation and disaster risk management within national and subnational systems, so that climate policies, laws, and regulations are consolidated in medium-term financial frameworks. Having long-term plans that are subject to regular review allows governments to consolidate private and public finance into a coherent fiscal architecture. A CCFF facilitates more accurate monitoring, tracking, and reporting of climate investments, which will, in turn, create an enabling environment for the flow of international climate finance. 
 
 ## Engage with the Private Sector
 
