@@ -10,6 +10,8 @@ tags:
 - governance
 author: "[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/)
   and [Debora Marignani](https://www.linkedin.com/in/debora-marignani-a250b210/) "
+thumbnail-image: "/uploads/sm-c3ae07.jpg"
+social-image: "/uploads/sm-2616db.jpg"
 publication: Developments
 ---
 
