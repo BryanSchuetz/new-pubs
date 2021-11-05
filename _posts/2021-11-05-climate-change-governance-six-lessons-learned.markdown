@@ -33,15 +33,19 @@ Climate change governance requires raising awareness and building strategic capa
 
 A CPEIR involves a climate-focused political economy analysis (PEA) based on structured stakeholder interviews and analysis to identify climate-related expenditures, understand the network of interests at play, and calculate the likely costs and benefits of climate reforms. The PEA will consider, for example, the entrenched business and political interests in the country, and the potentially uneven impact of climate change across groups and communities. Similarly, at the internal government level, ministries with economic, industry, or trade portfolios may resist climate action if they believe it will harm gross domestic product or impede short-term growth. Failure to understand this local and institutional context and its particular distribution of power, interests, beliefs, and expectations is likely to impede reform. (The CPEIR process dovetails well with the Climate Change Financing Framework, discussed below.) 
 
-A well-executed CPEIR will:
-
-* Yield a deeper understanding of how much government spends on delivering climate change policies.
-* Clarify public and private finance flows in the climate change sector.
-* Evaluate the degree to which the national strategy is being translated into plans, budgets, and monitoring systems. 
-* Provide evidence on which to base policy and spending decisions.
-* Delineate the responsibilities of institutions involved in managing the response to climate change.
-* Design and review carbon tax policies with relevant stakeholders.
-* Review the capacity of the institutions involved in climate change policy coordination, planning, budgeting, execution, and monitoring.
+<aside>
+<p><strong>A well-executed CPEIR will:</strong></p>
+<ul>
+<li>Yield a deeper understanding of how much government spends on delivering climate change policies.
+<li>Clarify public and private finance flows in the climate change sector.</li>
+<li>Evaluate the degree to which the national strategy is being translated into plans, budgets, and monitoring systems.
+</li>
+<li>Provide evidence on which to base policy and spending decisions.</li>
+<li>Delineate the responsibilities of institutions involved in managing the response to climate change.</li>
+<li>Design and review carbon tax policies with relevant stakeholders.</li>
+<li>Review the capacity of the institutions involved in climate change policy coordination, planning, budgeting, execution, and monitoring.</li>
+</ul>
+</aside>
 
 ## Connect Climate Change and Sectoral Policies
 
