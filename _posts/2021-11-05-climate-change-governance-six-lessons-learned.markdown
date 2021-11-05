@@ -36,10 +36,9 @@ A CPEIR involves a climate-focused political economy analysis (PEA) based on str
 <aside>
 <p><strong>A well-executed CPEIR will:</strong></p>
 <ul>
-<li>Yield a deeper understanding of how much government spends on delivering climate change policies.
+<li>Yield a deeper understanding of how much government spends on delivering climate change policies.</li>
 <li>Clarify public and private finance flows in the climate change sector.</li>
-<li>Evaluate the degree to which the national strategy is being translated into plans, budgets, and monitoring systems.
-</li>
+<li>Evaluate the degree to which the national strategy is being translated into plans, budgets, and monitoring systems.</li>
 <li>Provide evidence on which to base policy and spending decisions.</li>
 <li>Delineate the responsibilities of institutions involved in managing the response to climate change.</li>
 <li>Design and review carbon tax policies with relevant stakeholders.</li>
