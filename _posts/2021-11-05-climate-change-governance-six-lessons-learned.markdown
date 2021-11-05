@@ -17,6 +17,10 @@ Climate change works against the achievement of all the [Sustainable Development
 
 Government must take the lead in confronting such threats. National and subnational institutions determine how effectively each country integrates climate commitments into action through the laws, systems, and procedures at its disposal. The previous two decades of climate change governance work have provided valuable insights into the design and delivery of climate action, with key lessons emerging on how to leverage governance mechanisms. Following are six lessons we have learned, in part through our experience implementing DAI projects in East Africa, Central America, Southeast Asia, and beyond. 
 
+
+
+
+
 ## Reinforce Strategic Leadership
 
 Climate change governance requires raising awareness and building strategic capacity both at the institutional level and within individual leaders. Establishing leadership for climate change might include creating a dedicated cabinet committee for that purpose; elaborating a long-term strategic plan that defines climate-sensitive national priorities; promoting an intra‐governmental coordinating committee; and introducing regular reporting to parliament. The European Union (EU)-funded [Clima-Med project](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood), for instance, advised national and local leaders on regional governance approaches aligned with their national and subnational strategies. The [Strengthening Adaptation and Resilience to Climate Change in Kenya Plus](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck) project worked with political leaders at national and subnational levels toward implementation of the 2016 Climate Change Act, supporting diverse initiatives the helped to build resilience across a number of sectors.
