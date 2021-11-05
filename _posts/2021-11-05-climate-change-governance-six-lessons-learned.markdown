@@ -47,6 +47,7 @@ A CPEIR involves a climate-focused political economy analysis (PEA) based on str
 </ul>
 </aside>
 
+
 ## Connect Climate Change and Sectoral Policies
 
 It is important to strengthen the capacities of climate change units in line ministries and agencies, particularly to improve the links between planning and budgeting and to support the preparation and implementation of climate change budget programmes. Development partners should work alongside national agencies to build integrated strategies and capacities for disaster risk management, from comprehensive risk assessments to (financially viable) early warning and response systems. The DAI-managed [Climate Smart Mainstreaming into the Productive Safety Net Programme](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) in Ethiopia, for example, aligns early warning systems for disaster risk management with social protection programmes to mitigate climate-related risks. 
