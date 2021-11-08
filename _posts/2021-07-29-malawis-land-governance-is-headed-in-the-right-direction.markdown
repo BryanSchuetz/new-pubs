@@ -21,8 +21,7 @@ Historically, land rights—and hence the ability to sustainably manage land—i
 
 
 
-<iframe class="video" style="border: 1px solid gray;"src="https://player.vimeo.com/video/643611608?h=cbcff3450a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+<iframe class="video" style="border: 1px solid gray;" src="https://player.vimeo.com/video/643611608?h=cbcff3450a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 Since the mid-1990s, Malawi has been taking measures to address land issues. The government’s 2011–16 Growth and Development Strategy II highlighted the need to promote land ownership and title registration, decentralise land administration functions, raise public awareness regarding land laws, develop a geospatial database, and establish planning standards.
 
 In 2002, Malawi published its National Land Policy, considered key to land reform. It was also the basis for 10 new or amended land laws enacted in 2016—which is when DAI entered the picture.
