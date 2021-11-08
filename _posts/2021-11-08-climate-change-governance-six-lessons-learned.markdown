@@ -1,7 +1,6 @@
 ---
 title: 'Climate Change Governance: Six Lessons Learned'
-date: 2021-11-05 09:49:00 -04:00
-published: false
+date: 2021-11-08 08:49:00 -05:00
 tags:
 - climate-change
 - european-union
@@ -36,10 +35,9 @@ A CPEIR involves a climate-focused political economy analysis (PEA) based on str
 <aside>
 <p><strong>A well-executed CPEIR will:</strong></p>
 <ul>
-<li>Yield a deeper understanding of how much government spends on delivering climate change policies.
+<li>Yield a deeper understanding of how much government spends on delivering climate change policies.</li>
 <li>Clarify public and private finance flows in the climate change sector.</li>
-<li>Evaluate the degree to which the national strategy is being translated into plans, budgets, and monitoring systems.
-</li>
+<li>Evaluate the degree to which the national strategy is being translated into plans, budgets, and monitoring systems.</li>
 <li>Provide evidence on which to base policy and spending decisions.</li>
 <li>Delineate the responsibilities of institutions involved in managing the response to climate change.</li>
 <li>Design and review carbon tax policies with relevant stakeholders.</li>
@@ -76,4 +74,4 @@ In 2019, Clima-Med organised a Regional “Planting Day” to engage citizens an
 
 Climate change shocks and stress factors influence peace and stability, economies and livelihoods, and the resilience of households, communities, and public bodies. Our experience confirms the need for political leadership and vision and suggests that local and national governments can provide critical support for inclusive climate action. 
 
-*[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/) is XXXXXXX and [Debora Marignani](https://www.linkedin.com/in/debora-marignani-a250b210/) is XXXXXXXXXXX.* 
+*[Gianfabrizio Ladini](https://www.linkedin.com/in/gianfabrizio-ladini-b5a01920/) is a Project Director based in our Brussels office and [Debora Marignani](https://www.linkedin.com/in/debora-marignani-a250b210/) is a governance specialist and a former DAI staff member. She currently works as a policy officer at the European External Action Service. She co-wrote this paper while working at DAI.*
