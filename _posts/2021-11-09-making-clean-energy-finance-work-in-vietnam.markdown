@@ -1,6 +1,6 @@
 ---
 title: 'Q&A: Making Clean Energy Finance Work in Vietnam'
-date: 2021-11-09 08:42:00 -05:00
+date: 2021-11-09 03:42:00 -05:00
 tags:
 - climate
 - infrastructure
