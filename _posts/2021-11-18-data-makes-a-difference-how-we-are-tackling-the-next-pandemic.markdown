@@ -2,6 +2,11 @@
 title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
 date: 2021-11-18 06:01:00 -05:00
 published: false
+tags:
+- global-health
+- AMR
+- health systems strengthening
+- health security
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
 thumbnail-image: "/uploads/sm%20PAK_2021_Vitek%20Training.jpg"
 social-image: "/uploads/sm%20PAK_2021_Vitek%20Training.jpg"
@@ -35,7 +40,7 @@ Through its work with the Fleming Fund, DAI has helped policymakers understand t
 
 ### Data Sharing Goes Digital 
 
-In Nigeria, the team has been working with the government to improve data sharing. National surveillance systems are typically formed by a collection of hospital-based medical labs and national reference laboratories, such as Nigeria’s National Centre for Disease Control and the National Veterinary Research Institute. Data across all these laboratories are then captured in national databases and integrated with information from public veterinary or environmental labs to highlight resistance patterns between species. None of this is possible, however, without data digitisation and strong, interoperable systems—both of which are challenges in Nigeria. DAI Team Leader Blessing Stephen says laboratories don’t have a common way of reporting data and many labs still use paper-based reporting systems.
+In Nigeria, the team has been working with the government to improve data sharing. National surveillance systems are typically formed by a collection of hospital-based medical labs and national reference laboratories, such as Nigeria’s National Centre for Disease Control and the National Veterinary Research Institute. Data across all these laboratories are then captured in national databases and integrated with information from public veterinary or environmental labs to highlight resistance patterns between species. None of this is possible, however, without data digitisation and strong, interoperable systems—both of which are challenges in Nigeria. DAI Team Leader [Blessing Stephen](https://www.dai.com/who-we-are/our-team/blessing-musa-stephen) says laboratories don’t have a common way of reporting data and many labs still use paper-based reporting systems.
 
 To tackle these problems, DAI has provided several labs with data entry training, computers, and internet connections to support data digitisation. DAI is also supporting the National Antimicrobial Resistance Coordination Committee to implement a national AMR information management system. The system, which will go live by the end of the year, will enable labs across Nigeria to report into a single database. 
 
