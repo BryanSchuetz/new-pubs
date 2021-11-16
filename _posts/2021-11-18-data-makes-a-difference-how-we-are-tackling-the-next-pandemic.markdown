@@ -12,9 +12,7 @@ Many scientists and academics are warning that the next pandemic is right in fro
 
 [Studies](https://amr-review.org/sites/default/files/160525_Final%20paper_with%20cover.pdf) of this “silent pandemic” predict that by 2050, the world will suffer up to 10 million deaths a year and have lost $100 trillion in economic activity if current rates of AMR hold steady. 
 
-Having good AMR data is critical to averting such a scenario. That’s why UK aid’s Fleming Fund is supporting AMR surveillance systems around the world. Just as surveillance and data were critical to addressing the COVID-19 and Ebola crises, AMR data is required to understand how resistance develops, how it spreads, and how we can stop it. DAI is supporting better surveillance systems in [Nigeria](https://www.dai.com/our-work/projects/nigeria-fleming-fund), [Pakistan](https://www.dai.com/our-work/projects/pakistan-fleming-fund), Indonesia, and Bangladesh by helping laboratories and governments produce better data and share it more effectively. 
-
-
+Having good AMR data is critical to averting such a scenario. That’s why UK aid’s Fleming Fund is supporting AMR surveillance systems around the world. Just as surveillance and data were critical to addressing the COVID-19 and Ebola crises, AMR data is required to understand how resistance develops, how it spreads, and how we can stop it. DAI is supporting better surveillance systems in [Nigeria](https://www.dai.com/our-work/projects/nigeria-fleming-fund), [Pakistan](https://www.dai.com/our-work/projects/pakistan-fleming-fund), [Indonesia](https://www.dai.com/our-work/projects/indonesia-fleming-fund), and [Bangladesh](https://www.dai.com/our-work/projects/bangladesh-fleming-fund) by helping laboratories and governments produce better data and share it more effectively. 
 
 
 
