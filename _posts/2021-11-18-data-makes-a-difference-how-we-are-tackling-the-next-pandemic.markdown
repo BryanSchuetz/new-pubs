@@ -1,6 +1,6 @@
 ---
 title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
-date: 2021-11-16 06:01:00 -05:00
+date: 2021-11-18 06:01:00 -05:00
 published: false
 tags:
 - global-health
