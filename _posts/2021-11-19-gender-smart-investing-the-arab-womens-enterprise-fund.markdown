@@ -32,7 +32,7 @@ Egypt is currently undergoing major economic reform as part of its “Vision 203
  
 Research in Egypt for the AWEF Practitioners Brief found that there is a glass ceiling that prevents women from attaining board and leadership positions. While there is evidence that female-owned businesses are reliable, creative, and innovative, only a limited number of companies have strategies in place to engage women more proactively as producers and consumers. 
 
-![DSC00762 2.jpg](/uploads/DSC00762%202.jpg)`Photo: DAI.`
+![DSC00762 2.jpg](/uploads/DSC00762%202.jpg)`Building the case for gender-smart investing. Photo: DAI.`
 
 ### Making the case for GSI in Egypt
 
