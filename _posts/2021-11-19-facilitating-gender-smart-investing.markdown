@@ -15,13 +15,13 @@ With regard to companies and their industry associations, five actions stand out
 
 * **Increase the number of women in leadership and management.** Companies should introduce leadership training and set up women support groups and mentoring schemes to develop a new cadre of women leaders.
 
-*Increase recruitment and retention of female talent and commit to an inclusive workforce. Companies should introduce more inclusive, family-friendly practices including anti-sexual harassment campaigns, supervisory and management training, and policies on maternity leave, returning to the workforce, and flexible work.
+* **Increase recruitment and retention of female talent and commit to an inclusive workforce.** Companies should introduce more inclusive, family-friendly practices including anti-sexual harassment campaigns, supervisory and management training, and policies on maternity leave, returning to the workforce, and flexible work.
 
-*Build and promote more inclusive value chains. Companies can take action at various levels to support women-owned start-ups and companies and to promote female entrepreneurs as role models. Industry organizations and companies should look for opportunities to engage women-owned companies in their supply chains.
+* **Build and promote more inclusive value chains.** Companies can take action at various levels to support women-owned start-ups and companies and to promote female entrepreneurs as role models. Industry organizations and companies should look for opportunities to engage women-owned companies in their supply chains.
 
-*Design and develop products and services for female consumers. In 2019, women controlled around $31.8 trillion in worldwide spending, but they remain a vastly underexplored customer segment. Industry bodies and companies should invest in understanding women users, their market potential, and their preferences. The financial services sector—a key enabler of business growth—warrants particular attention, as the case of Egypt makes clear. 
+* **Design and develop products and services for female consumers.** In 2019, women controlled around $31.8 trillion in worldwide spending, but they remain a vastly underexplored customer segment. Industry bodies and companies should invest in understanding women users, their market potential, and their preferences. The financial services sector—a key enabler of business growth—warrants particular attention, as the case of Egypt makes clear. 
 
-*Strengthen leadership and public commitment to women's empowerment. Regulators should require public disclosure of gender diversity data. Industry bodies should showcase companies and industries that take the lead on inclusion and encourage firms to replicate international good practices.
+* **Strengthen leadership and public commitment to women's empowerment.** Regulators should require public disclosure of gender diversity data. Industry bodies should showcase companies and industries that take the lead on inclusion and encourage firms to replicate international good practices.
 
 ### Bringing GSI to DFIs 
 
