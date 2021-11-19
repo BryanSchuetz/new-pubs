@@ -2,6 +2,8 @@
 title: Facilitating Gender-Smart Investing
 date: 2021-11-19 05:22:00 -05:00
 published: false
+author: Fiona Shera
+publication: Developments
 ---
 
 In June 2021, G7 and Development Finance Institutions (DFIs) renewed and extended their commitment to gender smart investing (GSI) through the [2X Challenge](https://www.2xchallenge.org/). They pledged to mobilize US$15 billion by 2022 to provide women in developing countries with improved access to leadership opportunities, high-quality employment, finance, enterprise support, and products and services that enhance economic participation and access. How can DAI and other development practitioners facilitate gender mainstreaming and encourage greater private sector leadership on GSI?
@@ -38,3 +40,5 @@ The 2X Challenge has emphasized catalyzing change, particularly within financial
 * Offer complimentary services alongside investments. Investees often need technical assistance on how to develop gender-smart business practices. As the Proparco review noted, “A lot of businesses that could be gender compliant need to be nudged and gender value needs to be created. They may not necessarily comply under the 2X challenge unless they receive additional non-financial services such as technical assistance.”
 
 Building a healthy pipeline of gender-smart investable firms in developing countries requires strong leadership, institutional change, and new instruments and approaches. However, such change can be hampered by a lack of awareness or understanding of GSI and its benefits. Ideally, private enterprise and industry leaders—particularly those in the financial sector—and will increasingly appreciate the huge potential gains latent in GSI and drive the change process independently. But until those benefits are more widely understood, development practitioners must play a key role in providing practical support and advice on why GSI makes business sense and what governments, companies, and industry organizations can do to advance sustainable gender-smart strategies. 
+
+*Fiona  Shera is a Principal Consultant in DAI. She is the Group Head on Trade and Investment within DAI Global UK’s Economic Growth Team and worked as the Technical Director for the Arab Women’s Enterprise Fund from 2018 to 2021. She strongly believes in the power and development benefits of investing in women.*
