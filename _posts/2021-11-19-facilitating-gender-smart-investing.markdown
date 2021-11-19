@@ -1,25 +1,18 @@
 ---
 title: Facilitating Gender-Smart Investing
 date: 2021-11-19 05:22:00 -05:00
-published: false
-tags:
-- economic-growth
-- gender
-- finance
-- women
-- development finance
 author: "[Fiona  Shera](https://www.dai.com/who-we-are/our-team/fiona-shera)"
 thumbnail-image: "/uploads/IWD%205.jpg"
 social-image: "/uploads/IWD%205.jpg"
 publication: Developments
 ---
 
-In June 2021, G7 and Development Finance Institutions (DFIs) renewed and extended their commitment to gender smart investing (GSI) through the [2X Challenge](https://www.2xchallenge.org/). They pledged to mobilize US$15 billion by 2022 to provide women in developing countries with improved access to leadership opportunities, high-quality employment, finance, enterprise support, and products and services that enhance economic participation and access. How can DAI and other development practitioners facilitate gender mainstreaming and encourage greater private sector leadership on GSI?
+In June 2021, G7 and development finance institutions (DFIs) renewed and extended their commitment to gender smart investing (GSI) through the [2X Challenge](https://www.2xchallenge.org/). They pledged to mobilize US$15 billion by 2022 to provide women in developing countries with improved access to leadership opportunities, high-quality employment, finance, enterprise support, and products and services that enhance economic participation and access. How can DAI and other development practitioners facilitate gender mainstreaming and encourage greater private sector leadership on GSI?
 
 
 
 
-Based on our experience around the world (see, for example, this case study from the Arab Women’s Enterprise Fund), we see clear strategies for enabling companies and organizations to become more gender-inclusive. And based on our work with Proparco—the private sector financing arm of Agence Française de Développement Group—we see a comparable set of recommendations to help DFIs more effectively pursue GSI.
+Based on our experience around the world (see, for example, this [case study](https://dai-global-developments.com/articles/gender-smart-investing-the-arab-womens-enterprise-fund) from the Arab Women’s Enterprise Fund), we see clear strategies for enabling companies and organizations to become more gender-inclusive. And based on our work with Proparco—the private sector financing arm of Agence Française de Développement Group—we see a comparable set of recommendations to help DFIs more effectively pursue GSI.
 
 With regard to companies and their industry associations, five actions stand out as paramount:
 
@@ -33,9 +26,9 @@ With regard to companies and their industry associations, five actions stand out
 
 * **Strengthen leadership and public commitment to women's empowerment.** Regulators should require public disclosure of gender diversity data. Industry bodies should showcase companies and industries that take the lead on inclusion and encourage firms to replicate international good practices.
 
-![IWD 5.jpg](/uploads/IWD%205.jpg)`Targeting women as entrepreneurs and consumers. Photo: DAI.`
+![IWD 5.jpg](/uploads/IWD%205.jpg)`Gender Smart Investing: targeting women as entrepreneurs, employees and consumers. Photo: DAI.`
 
-### Bringing GSI to DFIs 
+### Bringing GSI to Development Finance Institutions 
 
 The 2X Challenge has emphasized catalyzing change, particularly within financial sector institutions. DAI is currently working with [Proparco](https://www.proparco.fr/en/financial-institution-working-private-sector-and-sustainable-development) to help strengthen the gender investment approach within its financial institutions portfolio, and our review of good practices among DFIs dovetails closely with the enterprise-focused strategies outlined above. It shows DFIs should focus on the following five actions:
 
