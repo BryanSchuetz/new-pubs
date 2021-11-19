@@ -14,7 +14,7 @@ social-image: "/uploads/IWD%205.jpg"
 publication: Developments
 ---
 
-In June 2021, G7 and Development Finance Institutions (DFIs) renewed and extended their commitment to gender smart investing (GSI) through the [2X Challenge](https://www.2xchallenge.org/). They pledged to mobilize US$15 billion by 2022 to provide women in developing countries with improved access to leadership opportunities, high-quality employment, finance, enterprise support, and products and services that enhance economic participation and access. How can DAI and other development practitioners facilitate gender mainstreaming and encourage greater private sector leadership on GSI?
+In June 2021, G7 and development finance institutions (DFIs) renewed and extended their commitment to gender smart investing (GSI) through the [2X Challenge](https://www.2xchallenge.org/). They pledged to mobilize US$15 billion by 2022 to provide women in developing countries with improved access to leadership opportunities, high-quality employment, finance, enterprise support, and products and services that enhance economic participation and access. How can DAI and other development practitioners facilitate gender mainstreaming and encourage greater private sector leadership on GSI?
 
 
 
