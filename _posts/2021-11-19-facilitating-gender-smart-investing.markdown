@@ -5,9 +5,8 @@ published: false
 tags:
 - economic-growth
 - gender
-- finance
 - women
-- development finance
+- development-finance
 author: "[Fiona  Shera](https://www.dai.com/who-we-are/our-team/fiona-shera)"
 thumbnail-image: "/uploads/IWD%205.jpg"
 social-image: "/uploads/IWD%205.jpg"
