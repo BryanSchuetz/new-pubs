@@ -6,6 +6,7 @@ tags:
 - AMR
 - health systems strengthening
 - health security
+- economic-growth
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
 thumbnail-image: "/uploads/sm%20PAK_2021_Vitek%20Training.jpg"
 social-image: "/uploads/sm%20PAK_2021_Vitek%20Training.jpg"
