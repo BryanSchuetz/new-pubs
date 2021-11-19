@@ -13,7 +13,7 @@ In June 2021, G7 and development finance institutions (DFIs) renewed and extende
 
 
 
-Based on our experience around the world (see, for example, this case study from the Arab Women’s Enterprise Fund), we see clear strategies for enabling companies and organizations to become more gender-inclusive. And based on our work with Proparco—the private sector financing arm of Agence Française de Développement Group—we see a comparable set of recommendations to help DFIs more effectively pursue GSI.
+Based on our experience around the world (see, for example, this [case study](https://dai-global-developments.com/articles/gender-smart-investing-the-arab-womens-enterprise-fund) from the Arab Women’s Enterprise Fund), we see clear strategies for enabling companies and organizations to become more gender-inclusive. And based on our work with Proparco—the private sector financing arm of Agence Française de Développement Group—we see a comparable set of recommendations to help DFIs more effectively pursue GSI.
 
 With regard to companies and their industry associations, five actions stand out as paramount:
 
