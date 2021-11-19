@@ -1,5 +1,5 @@
 ---
-title: 'Facilitating Gender-Smart Investing: The Arab Women’s Enterprise Fund'
+title: 'Gender-Smart Investing: The Arab Women’s Enterprise Fund'
 date: 2021-11-19 07:32:00 -05:00
 published: false
 tags:
