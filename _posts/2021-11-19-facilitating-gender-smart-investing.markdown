@@ -34,7 +34,7 @@ With regard to companies and their industry associations, five actions stand out
 
 ![IWD 5.jpg](/uploads/IWD%205.jpg)`Gender Smart Investing: targeting women as entrepreneurs, employees and consumers. Photo: DAI.`
 
-### Bringing GSI to DFIs 
+### Bringing GSI to Development Finance Institutions 
 
 The 2X Challenge has emphasized catalyzing change, particularly within financial sector institutions. DAI is currently working with [Proparco](https://www.proparco.fr/en/financial-institution-working-private-sector-and-sustainable-development) to help strengthen the gender investment approach within its financial institutions portfolio, and our review of good practices among DFIs dovetails closely with the enterprise-focused strategies outlined above. It shows DFIs should focus on the following five actions:
 
