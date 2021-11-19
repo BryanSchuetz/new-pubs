@@ -15,7 +15,7 @@ thumbnail-image: "/uploads/Opening%20a%20bank%20account-406088.jpg"
 
 
 
-![][2]`Photo: DAI.`
+![DSC00762 2.jpg](/uploads/DSC00762%202.jpg)`Photo: DAI.`
 
 
 
