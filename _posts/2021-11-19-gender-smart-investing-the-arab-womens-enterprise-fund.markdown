@@ -15,17 +15,22 @@ thumbnail-image: "/uploads/Opening%20a%20bank%20account-406088.jpg"
 
 The U.K. Foreign, Commonwealth and Development Office-funded Arab Women’s Enterprise Fund (AWEF) sought to demonstrate that women in the Middle East have the interest, skills, and ability to play a much more active role in the economy. This unique program worked to improve women’s access to opportunities while supporting their agency—their voice, choice, and decision making—to empower them to take advantage of these opportunities. A critical element of this process was to encourage gender-smart investment (GSI).
 
+
+
+
 Despite progress over recent years, the Middle East and North Africa (MENA) region is still marked by the largest gender gap in the world. It is also the region that receives the least attention from GSI investors. Yet UNDP research shows that investing in women’s empowerment in Egypt, for example, could lead to 3.8 million fewer people in poverty in the country by 2030. If female employment rates were to match male employment rates in Egypt, this would result in a 34 percent increase in gross domestic product. Research has shown that the presence of women on boards and in senior management can enhance profitability, improve conflict management and communication, reduce employee turnover, and encourage innovation. Women bring distinctive skills and perspectives to the workplace, including often valuable attitudes to risk and collaboration. 
+
 Research carried out for a practitioner’s brief by AWEF—Gender Smart Investing in MENA: an Egyptian perspective on strengthening investment strategies to empower women (2021)— and a 2019 survey of Egyptian companies by the International Finance Corporation indicates that businesses have much to gain from investing in women. The recommendations on how to adopt and strengthen gender-smart business practices in the AWEF brief also align closely with the criteria developed by the 2X Challenge initiative. 
 
 >The 2X Challenge was launched by development finance institutions from the G7 as a call to action to shift more capital toward investments that empower women in less developed countries to access entrepreneurship and leadership opportunities, better jobs, and products and services that enhance their economic participation.
-
 
 The survey found that more inclusive companies foster innovation, increase brand value, and benefit from new market opportunities. Boosting women’s participation in the economy will entail a greater focus on integrating women-owned businesses into supply chains and targeting women’s specific needs as consumers. In 2019, women controlled around USD 31.8 trillion in worldwide spending but they remain a vastly underexplored customer segment. 
 
 Egypt is currently undergoing major economic reform as part of its “Vision 2030 Strategy,” including changing how it approaches social and development policies. However, Vision 2030’s success depends on the private sector response and Egypt is lagging regionally and globally on women’s economic empowerment. Only 7.4 percent of managers in the country are women.
  
 Research in Egypt for the AWEF Practitioners Brief found that there is a glass ceiling that prevents women from attaining board and leadership positions. While there is evidence that female-owned businesses are reliable, creative, and innovative, only a limited number of companies have strategies in place to engage women more proactively as producers and consumers. 
+
+![DSC00762 2.jpg](/uploads/DSC00762%202.jpg)`Photo: DAI.`
 
 ### Making the case for GSI in Egypt
 
@@ -36,11 +41,6 @@ Working with private equity investment manager and project partner Mezzan Invest
 In another example, AWEF partnered with digital transformation and e-payment platform, Fawry, to launch “Heya Fawry,” Egypt’s first female-only e-payment agent network. This initiative has created more than 300 job opportunities for female Heya Fawry agents, enabled thousands of women to benefit from new financial services, and created an entirely new consumer market segment for Fawry. 
 
 AWEF encouraged changes to embedded practices by identifying “win-wins” for business and women, and it worked closely with local partners to co-design GSI-focused interventions. The Practitioners Brief is now serving as a how-to guide for developing a business case for women’s economic empowerment. And AWEF has been cited by the Independent Commission on Aid Impact for its successes in youth employment programming in MENA. We look forward to continuing to learn from its path-breaking approaches.
-
-
-![DSC00762 2.jpg](/uploads/DSC00762%202.jpg)`Photo: DAI.`
-
-
 
 <aside>The Arab Women’s Enterprise Fund focused on market systems change and women’s economic empowerment in Egypt, Jordan, and—until March 2018—Palestine. From June 2020 to October 2021, AWEF 2 focused on Egypt exclusively. Visit the AWEF project page for more information.</aside>
 
