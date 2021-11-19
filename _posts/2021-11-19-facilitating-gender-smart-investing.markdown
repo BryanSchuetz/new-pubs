@@ -25,7 +25,7 @@ With regard to companies and their industry associations, five actions stand out
 
 * **Strengthen leadership and public commitment to women's empowerment.** Regulators should require public disclosure of gender diversity data. Industry bodies should showcase companies and industries that take the lead on inclusion and encourage firms to replicate international good practices.
 
-![IWD 5.jpg](/uploads/IWD%205.jpg)
+![IWD 5.jpg](/uploads/IWD%205.jpg)`Targeting women as entrepreneurs and consumers. Photo: DAI.`
 
 ### Bringing GSI to DFIs 
 
