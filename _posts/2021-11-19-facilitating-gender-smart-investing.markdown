@@ -2,7 +2,7 @@
 title: Facilitating Gender-Smart Investing
 date: 2021-11-19 05:22:00 -05:00
 published: false
-author: Fiona Shera
+author: "[Fiona  Shera](https://www.dai.com/who-we-are/our-team/fiona-shera)"
 publication: Developments
 ---
 
@@ -41,4 +41,4 @@ The 2X Challenge has emphasized catalyzing change, particularly within financial
 
 Building a healthy pipeline of gender-smart investable firms in developing countries requires strong leadership, institutional change, and new instruments and approaches. However, such change can be hampered by a lack of awareness or understanding of GSI and its benefits. Ideally, private enterprise and industry leaders—particularly those in the financial sector—and will increasingly appreciate the huge potential gains latent in GSI and drive the change process independently. But until those benefits are more widely understood, development practitioners must play a key role in providing practical support and advice on why GSI makes business sense and what governments, companies, and industry organizations can do to advance sustainable gender-smart strategies. 
 
-*Fiona  Shera is a Principal Consultant in DAI. She is the Group Head on Trade and Investment within DAI Global UK’s Economic Growth Team and worked as the Technical Director for the Arab Women’s Enterprise Fund from 2018 to 2021. She strongly believes in the power and development benefits of investing in women.*
+*[Fiona  Shera](https://www.dai.com/who-we-are/our-team/fiona-shera) is a Principal Consultant in DAI. She is the Group Head on Trade and Investment within DAI Global UK’s Economic Growth Team and worked as the Technical Director for the Arab Women’s Enterprise Fund from 2018 to 2021. She strongly believes in the power and development benefits of investing in women.*
