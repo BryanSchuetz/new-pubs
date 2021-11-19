@@ -25,6 +25,8 @@ With regard to companies and their industry associations, five actions stand out
 
 * **Strengthen leadership and public commitment to women's empowerment.** Regulators should require public disclosure of gender diversity data. Industry bodies should showcase companies and industries that take the lead on inclusion and encourage firms to replicate international good practices.
 
+![IWD 5.jpg](/uploads/IWD%205.jpg)
+
 ### Bringing GSI to DFIs 
 
 The 2X Challenge has emphasized catalyzing change, particularly within financial sector institutions. DAI is currently working with [Proparco](https://www.proparco.fr/en/financial-institution-working-private-sector-and-sustainable-development) to help strengthen the gender investment approach within its financial institutions portfolio, and our review of good practices among DFIs dovetails closely with the enterprise-focused strategies outlined above. It shows DFIs should focus on the following five actions:
