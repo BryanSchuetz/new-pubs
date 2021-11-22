@@ -14,7 +14,7 @@ social-image: "/uploads/DSC00762%202.jpg"
 publication: Developments
 ---
 
-The U.K. Foreign, Commonwealth & Development Office-funded [Arab Women’s Enterprise Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund) sought to demonstrate that women in the Middle East have the interest, skills, and ability to play a much more active role in the economy. This unique program worked to improve women’s access to opportunities while supporting their agency—their voice, choice, and decision making—to empower them to take advantage of these opportunities. A critical element of this process was to encourage gender-smart investment (GSI).
+The U.K. Foreign, Commonwealth & Development Office-funded [Arab Women’s Enterprise Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund) sought to demonstrate that women in the Middle East have the interest, skills, and ability to play a much more active role in the economy. This unique program worked to improve women’s access to opportunities while supporting their agency—their voice, choice, and decision making—to empower them to take advantage of these opportunities. A critical element of this process was to encourage [gender-smart investment](https://dai-pubs-staging.netlify.app/articles/facilitating-gender-smart-investing) (GSI).
 
 
 

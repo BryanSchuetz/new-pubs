@@ -17,7 +17,7 @@ In June, the G7 (Canada, France, Germany, Italy, Japan, the United Kingdom, and 
 
 
 
-Based on [recent research](https://www.dai.com/uploads/AWEF-Gender%20Smart%20Investing%20in%20MENA%20report%20--FINAL%20-Nov%202021.pdf) and our own experience around the world (see, for example, this [case study](https://dai-global-developments.com/articles/gender-smart-investing-the-arab-womens-enterprise-fund) from the Arab Women’s Enterprise Fund), we see clear strategies for enabling companies and organizations to become more gender-inclusive. 
+Based on [recent research](https://www.dai.com/uploads/AWEF-Gender%20Smart%20Investing%20in%20MENA%20report%20--FINAL%20-Nov%202021.pdf) and our own experience around the world (see, for example, this [case study](https://dai-global-developments.com/articles/gender-smart-investing-the-arab-womens-enterprise-fund) from the Arab Women’s Enterprise Fund), we observe clear strategies for enabling companies and organizations to become more gender-inclusive. 
 
 With regard to companies and their industry associations, five actions stand out as paramount:
 
