@@ -6,7 +6,7 @@ tags:
 - finance
 - public-financial-management
 - investment
-author: Colleen Green
+author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 publication: Developments
 ---
 
