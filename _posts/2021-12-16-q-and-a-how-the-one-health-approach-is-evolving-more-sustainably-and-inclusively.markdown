@@ -19,7 +19,7 @@ DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath)
 
 *The approach mobilizes multiple sectors, disciplines, and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for clean water, energy, and air; safe and nutritious food; action on climate change; and contributing to sustainable development.*
 
-*DAI Global Health's Nicole DeCastro, a specialist in health security, discussed the new, broader and more inclusive definition with Debnath to understand its importance and impact on the future.*  
+*DAI Global Health's Nicole DeCastro, a specialist in health security, discussed the new, broader, and more inclusive definition with Debnath to understand its importance and impact on the future.*  
 
 ![Nitish action.jpg](/uploads/Nitish%20action.jpg)`Dr. Debnath leads the Fleming Fund grant program in Bangladesh.`
 
@@ -33,7 +33,7 @@ DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath)
 
 **The integration of "sustainability" into the definition highlights the importance of climate change and the environment. How will this influence One Health engagement going forward?**
 
-“One of the more important discussions in our panel has been about how One Health can be a little biased and not very inclusive. We can already see the emerging diseases that are coming because of an imbalance and lack of prioritization of sustainability. Climate change is happening, and everything is very linked to health—health of humans and other species as well. 
+“One of the more important discussions in our panel has been about how One Health can be a little biased. We can already see the emerging diseases that are coming because of an imbalance and lack of prioritization of sustainability. Climate change is happening, and everything is very linked to health—health of humans and other species as well. 
 
 “This is why climate is reflected in the new definition. So that when we develop strategies for future programs, climate change and the environment, along with the human and animal health sectors will be considered in implementation. Equity is also one of the important principles of this definition—meaning that each sector and discipline is equally addressed.”
 
