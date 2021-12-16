@@ -7,11 +7,13 @@ tags:
 - health security
 - health systems strengthening
 author: "[Nicole DeCastro](https://www.dai.com/who-we-are/our-team/nicole-decastro)"
+thumbnail-image: "/uploads/smNitish%20action.jpg"
+social-image: "/uploads/smNitish%20action.jpg"
 publication: Developments
 ---
 
 *Earlier this year, the Food and Agriculture Organization, the World Organisation for Animal Health, the United Nations Environment Programme, and the World Health Organization launched the One Health High Level Expert panel to develop solutions to some of the planet’s most difficult health challenges that cut across human, animal, and environmental health. 
-DAI’s Nitish Debnath, Team Leader for the Fleming Fund Country Grant program in Bangladesh, serves on the panel. Debnath, a veterinarian, pioneered the One Health movement in Bangladesh and has decades of experience supporting Bangladesh’s Livestock Department and teaching as a professor.* 
+DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath), Team Leader for the [Fleming Fund](https://www.dai.com/our-work/projects/bangladesh-fleming-fund) country grant program in Bangladesh, serves on the panel. Debnath, a veterinarian, pioneered the One Health movement in Bangladesh and has decades of experience supporting Bangladesh’s Livestock Department and teaching as a professor.* 
 
 *This month, the panel revised the One Health definition to read: an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals, and ecosystems. 
 One Health recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent.*
@@ -19,6 +21,8 @@ One Health recognizes the health of humans, domestic and wild animals, plants, a
 *The approach mobilizes multiple sectors, disciplines, and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for clean water, energy and air, safe and nutritious food, taking action on climate change, and contributing to sustainable development.*
 
 *DAI Global Health's Nicole DeCastro, a specialist in health security, discussed the new, broader and more inclusive definition with Debnath to understand its importance and impact on the future.*  
+
+![Nitish action.jpg](/uploads/Nitish%20action.jpg)`Dr. Debnath leads the Fleming Fund grant program in Bangladesh.`
 
 **What’s the purpose of the expert panel? **
 
@@ -39,6 +43,8 @@ One Health recognizes the health of humans, domestic and wild animals, plants, a
 “The heart of One Health implementation is proper coordination. You must promote collaboration—collaboration within the sciences, the sectors, nationally, and internationally. It is not an issue of one particular nation, it is an international practice—so systems thinking is very important.
 
 “In addition, we need to recognize that political, legal, and societal dynamics are complex. This impacts the creation and implementation of a unified One Health approach from the ground. The commitment must be political, sectoral, organizational, and from individual societies to implement successfully. It will enable us to address other challenges such as biodiversity loss, energy, climate change, food and water security, and social inequalities.”
+
+![P&R bangladesh_hpai.jpg](/uploads/P&R%20bangladesh_hpai.jpg)`Highly pathogenic avian influenza was a major public health threat in Bangladesh after the first reported outbreak in poultry in 2007.`
 
 **How has One Health in Bangladesh changed over the course of your career?**
 
