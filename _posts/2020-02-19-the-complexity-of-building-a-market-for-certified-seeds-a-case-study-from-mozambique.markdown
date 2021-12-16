@@ -135,7 +135,7 @@ Another important indicator of farmer enthusiasm for the program has been the st
 
 As uptake and interest in the FA have grown, InovAgro has learned a number of lessons about the challenges that remain, including:
 
-**Seed company limitations—planning, management, and distribution.** As the demand from farmers increases, seed companies are more interested in dealing with them. But companies are still constrained in their managerial and distribution channels. Sales in 20198 may have surpassed the $13759,5600 level, if the seed companies had more ability to respond to the demand. This ability is inhibited by: 
+**Seed company limitations—planning, management, and distribution.** As the demand from farmers increases, seed companies are more interested in dealing with them. But companies are still constrained in their managerial and distribution channels. Sales in 2019 may have surpassed the $137,550 level, if the seed companies had more ability to respond to the demand. This ability is inhibited by: 
 
 * *Seed availability and planning.* Seed companies in Mozambique are still relatively small and limited in how much seed they have for sale each year. As demand increases, companies must plan more effectively and prepare their geographic priorities to get seeds to the necessary areas on time.
 
