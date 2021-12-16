@@ -35,9 +35,9 @@ DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath)
 
 “One of the more important discussions in our panel has been about how One Health can be a little biased. We can already see the emerging diseases that are coming because of an imbalance and lack of prioritization of sustainability. Climate change is happening, and everything is very linked to health—health of humans and other species as well. 
 
-“This is why climate is reflected in the new definition. So that when we develop strategies for future programs, climate change and the environment, along with the human and animal health sectors will be considered in implementation. Equity is also one of the important principles of this definition—meaning that each sector and discipline is equally addressed.”
+“This is why climate is reflected in the new definition. So that when we develop strategies for future programs, climate change and the environment, along with the human and animal health sectors, will be considered in implementation. Equity is also one of the important principles of this definition—meaning that each sector and discipline is equally addressed.”
 
-**How will the new definition impact program design and implementation?**
+**How will the new definition affect program design and implementation?**
 
 “The heart of One Health implementation is proper coordination. You must promote collaboration—collaboration within the sciences, the sectors, nationally, and internationally. It is not an issue of one particular nation, it is an international practice—so systems thinking is very important.
 
