@@ -24,7 +24,7 @@ One Health recognizes the health of humans, domestic and wild animals, plants, a
 
 ![Nitish action.jpg](/uploads/Nitish%20action.jpg)`Dr. Debnath leads the Fleming Fund grant program in Bangladesh.`
 
-**What’s the purpose of the expert panel? **
+**What’s the purpose of the expert panel?**
 
 “We are a 26-member team with colleagues from all over the globe. This group provides guidance on One Health matters and supports improved cooperation among governments. We create tools that support policy and scientific assessments for health crises arising from the human and animal ecosystem interface. We help develop strategies to reduce the risk of zoonotic disease. We also use monitoring and early warning frameworks to help institutionalize our One Health approach, including areas with pandemic risk.”
 
