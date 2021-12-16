@@ -17,7 +17,7 @@ DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath)
 
 *This month, the panel [revised the One Health](https://wedocs.unep.org/bitstream/handle/20.500.11822/37600/JTFOWU.pdf) definition to read as follows: "an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals, and ecosystems. One Health recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent."*
 
-*The approach mobilizes multiple sectors, disciplines, and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for clean water, energy and air, safe and nutritious food, taking action on climate change, and contributing to sustainable development.*
+*The approach mobilizes multiple sectors, disciplines, and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for clean water, energy, and air; safe and nutritious food; action on climate change; and contributing to sustainable development.*
 
 *DAI Global Health's Nicole DeCastro, a specialist in health security, discussed the new, broader and more inclusive definition with Debnath to understand its importance and impact on the future.*  
 
