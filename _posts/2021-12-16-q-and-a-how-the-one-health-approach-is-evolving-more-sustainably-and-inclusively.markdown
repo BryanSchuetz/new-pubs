@@ -41,7 +41,7 @@ DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath)
 
 “The heart of One Health implementation is proper coordination. You must promote collaboration—collaboration within the sciences, the sectors, nationally, and internationally. It is not an issue of one particular nation, it is an international practice—so systems thinking is very important.
 
-“In addition, we need to recognize that political, legal, and societal dynamics are complex. This impacts the creation and implementation of a unified One Health approach from the ground. The commitment must be political, sectoral, organizational, and from individual societies to implement successfully. It will enable us to address other challenges such as biodiversity loss, energy, climate change, food and water security, and social inequalities.”
+“In addition, we need to recognize that political, legal, and social dynamics are complex, and understanding those dynamics is crucial to effective implementation of a One Health approach on the ground. Aligning political, sectoral, organizational, and broader social commitments will lead to more successful implementation and better enable us to address other challenges such as biodiversity loss, energy, climate change, food and water security, and social inequalities.”
 
 ![P&R bangladesh_hpai.jpg](/uploads/P&R%20bangladesh_hpai.jpg)`Highly pathogenic avian influenza was a major public health threat in Bangladesh after the first reported outbreak in poultry in 2007.`
 
