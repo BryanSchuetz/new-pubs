@@ -11,11 +11,11 @@ social-image: "/uploads/smNitish%20action.jpg"
 publication: Developments
 ---
 
-*Earlier this year, the Food and Agriculture Organization, the World Organisation for Animal Health, the United Nations Environment Programme, and the World Health Organization launched the One Health High Level Expert panel to develop solutions to some of the planet’s most difficult health challenges that cut across human, animal, and environmental health. 
+*Earlier this year, the Food and Agriculture Organization, the World Organisation for Animal Health, the United Nations Environment Programme, and the World Health Organization launched the One Health High Level Expert panel to develop solutions to some of the planet’s most difficult health challenges that cut across human, animal, and environmental health.* 
 
 
 
-DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath), Team Leader for the [Fleming Fund](https://www.dai.com/our-work/projects/bangladesh-fleming-fund) country grant program in Bangladesh, serves on the panel. Debnath, a veterinarian, pioneered the One Health movement in Bangladesh and has decades of experience supporting Bangladesh’s Livestock Department and teaching as a professor.* 
+*DAI’s [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath), Team Leader for the [Fleming Fund](https://www.dai.com/our-work/projects/bangladesh-fleming-fund) country grant program in Bangladesh, serves on the panel. Debnath, a veterinarian, pioneered the One Health movement in Bangladesh and has decades of experience supporting Bangladesh’s Livestock Department and teaching as a professor.* 
 
 *This month, the panel [revised the One Health](https://wedocs.unep.org/bitstream/handle/20.500.11822/37600/JTFOWU.pdf) definition to read as follows: "an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals, and ecosystems. One Health recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent."*
 
