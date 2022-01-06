@@ -1,6 +1,6 @@
 ---
 title: Transforming the Ukrainian Financial Sector
-date: 2021-12-15 11:28:00 -05:00
+date: 2022-01-06 07:28:00 -05:00
 published: false
 tags:
 - finance
@@ -41,12 +41,16 @@ Financial sector laws and modernization efforts supported by FST include the fol
 * *Consumer Protection.* To address abuses of consumers by banks and nonbank financial institutions, particularly in the area of misleading advertising around loan pricing and poor or absent disclosures on prepayments or late repayment, FST supported two important pieces of legislation: 1) the Consumer Lending Law, which regulates banks and nonbank financial institutions on truth in advertising and information disclosure, provides for a formalized contractual relationship between institutions and borrowers, and sets the parameters around which the true cost of a loan is advertised; and 2) the Financial Services Consumer Protection Law (September 2019), which gave regulators a mandate to protect financial service consumers, including allowing a review of consumer complaints and undertaking supervision of financial institutions. Violators of consumer rights are now subject to financial penalties. 
 * *Pension Reform.* FST successfully supported a pension reform law (October 2017) that improved the soundness of the system by allowing the government to increase basic payments to pensioners while raising the eligibility age, thereby slowing the drain on the Government of Ukraine budget.
 * *Leasing.* Seeing great potential for SME finance in the leasing market, FST supported the passage of the Financial Leasing Law (2021), which addressed gaps in the previous law by providing clearer definitions, introducing consumer protection mechanisms, and enhancing the investment environment, thereby facilitating better access to finance for SMEs and consumers. 
+
+![FST-01.jpg](/uploads/FST-01.jpg)
  
 ## Improving Financial Literacy and Protecting Consumers 
 
 In addition to its policy reform work, FST improved overall financial literacy and increased consumer protections. Historically speaking, Ukrainian consumers have been poorly served by the financial sector and lack tools to better understand modern financial services. Early on, FST used a standardized baseline survey to measure the nation’s literacy and identify gaps to address through activities such as the development and nationwide adoption of a high school financial literacy course for tenth graders; the rollout of an afterschool “Me and My Money” financial education program; community events for young people in rural areas hosted by the U.S. Peace Corps; financial empowerment activities for internally displaced persons, the elderly, the unemployed, and vocational students, implemented by the Ukrainian Women’s Fund; and the launch of the first-ever online loan comparison tool—Liga.Money—that allows consumers to shop and compare car, mortgage, and consumer loan products. 
 
 In 2021, FST re-measured Ukrainian financial literacy and found that Ukraine’s score had risen from 11.6 to 12.3 on the standardized scale, moving past countries such as Italy, Georgia, Romania, and Montenegro.  
+
+![FST-02.jpg](/uploads/FST-02.jpg)
  
 In addition to improving how consumers understand financial institutions, products, and services, FST introduced the first-ever consumer protection measures aimed at curbing consumer abuses perpetrated by financial institutions. FST’s work included drafting and advocating for the passage of tougher consumer protection laws, supporting the NBU to improve enforcement, and demonstrating through mystery shopping surveys where banks and finance companies fell short in their lending practices.
 
@@ -55,6 +59,8 @@ In addition to improving how consumers understand financial institutions, produc
 Leasing—the buying of an asset by a financial leasing company for its rental back to a lessee (an individual or business)—was FST’s focal point in its efforts to expand access to finance for SMEs. However, the Ukrainian market for leasing presented two obstacles: 1) a lack of access to capital (domestic and foreign) by leasing companies for on-leasing and 2) limited awareness and understanding by SMEs of leasing as a viable financial product. 
 
 Through partnerships with the U.S. Development Finance Corporation, Ukraine’s Government Business Fund, and the European Investment Bank, the project raised €800 million in leasing capital. Additionally, the project supported the Ukrainian Union of Lessors—the leasing industry’s association—to build its institutional capacity and membership services, resulting in a nearly 60 percent membership growth, from 17 to 27 member companies. The addition of new members and professional development offerings in a host of areas (information services, market studies, advocacy, promotion, and networking) enables the union to continue to provide services to the leasing sector well beyond FST’s closure. Due in part to FST’s initiatives, leasing activity has more than doubled from UAH 23.3 billion in late 2016 to UAH 53 billion (almost US$2 billion) in early 2021, with particularly strong growth in transport and agricultural equipment leases.
+
+![Server transfer to PFU.jpg](/uploads/Server%20transfer%20to%20PFU.jpg)`Transferring IT equipment to the Pension Fund. Photo: USAID FST.`
 
 ## Reforming the Pension System
 
