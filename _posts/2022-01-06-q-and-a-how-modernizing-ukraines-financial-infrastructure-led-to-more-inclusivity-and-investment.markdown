@@ -20,7 +20,7 @@ publication: Developments
 
 *DAI’s Vice President of Economic Growth [Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green) sat down with three women from FST’s leadership team to get their perspective on the recently concluded project’s achievements, on being women leaders in the financial sector in Ukraine, and on what’s next.* 
 
-*Green interviewed Deputy Chief of Party Yulia Vitka (recently named one of Ukraine’s Top 50 Women in Fintech), Financial Literacy and Communications Director Natasha Lozytska, and Legal Team Lead Tetyana Grischenko.*
+*Green interviewed Deputy Chief of Party [Yulia Vitka](https://www.youtube.com/watch?v=QTDYIj0fwK0) (recently named one of Ukraine’s Top 50 Women in Fintech), Financial Literacy and Communications Director Natasha Lozytska, and Legal Team Lead [Tetyana Grischenko](https://www.linkedin.com/in/tetyanagrischenko/).*
 
 
 
@@ -61,7 +61,7 @@ Vitka: The greatest barrier is the resistance of the market itself, and for two 
 
 **Q:** You three have been important drivers of FST’s results. Yet global surveys show that on average only around 20 percent of women reach senior leadership or executive roles in finance. Who were your role models and mentors to get to this point?
 
-**Vitka:** I don’t think my role model comes from the financial sector. There are many women that do a lot in other sectors and social areas. For example, the woman who runs the charity, Tabletochki. Or others that do a lot of charity work. They work with people who have hardships. To me that is motivational.
+**Vitka:** I don’t think my role model comes from the financial sector. There are many women that do a lot in other sectors and social areas. For example, the woman who runs the charity, [Tabletochki](https://tabletochki.org/en/main-2/). Or others that do a lot of charity work. They work with people who have hardships. To me that is motivational.
  
 **Grischenko:** My father played the greatest role in allowing me to become who I am. He pushed me. It wasn’t a punishment. He just pushed me to do more. I now have a daughter and son and I am trying to instill in them that they can do things in their life that make them happy. 
 Lozytska: There is no difference between what a man or woman can do. If you are motivated, you can do this for yourself, for your kids, for the country. 
