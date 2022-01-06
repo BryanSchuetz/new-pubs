@@ -8,6 +8,7 @@ tags:
 - digital-acceleration
 - gender
 - investment
+- fst-series
 author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 thumbnail-image: "/uploads/sm%20FST%20trio.jpg"
 social-image: "/uploads/sm%20FST%20trio.jpg"
