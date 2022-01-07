@@ -6,6 +6,7 @@ tags:
 - finance
 - public-financial-management
 - investment
+- fst series
 author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green)"
 thumbnail-image: "/uploads/smFST%20launch%20event.jpg"
 social-image: "/uploads/smFST%20launch%20event.jpg"
@@ -15,6 +16,7 @@ publication: Developments
 When the U.S. Agency for International Development (USAID) launched the [Financial Sector Transformation (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst) activity in 2016, Ukraine was in a deep financial crisis. Its lead financial regulator, the National Bank of Ukraine (NBU), was managing the closure and liquidation of close to 100 banks and addressing the need to nationalize the country’s largest bank, PrivatBank, after financial malfeasance. Ukrainian consumers and businesses were poorly served by a financial system that lacked modern instruments such as retirement savings, affordable debt, and investment products to support entrepreneurs, not to mention consumer protections for average citizens.
 
 Today, although Ukraine continues to be a challenging environment—particularly in light of an oligarch-dominated business landscape; changes in the Presidential administration and parliament; the COVID-19 pandemic; and heightened tensions with Russia—a new ethos has taken hold. The FST activity has fostered new types of finance for consumers and businesses, given pensioners transparent access to their retirement savings, and supported reforms to the regulatory system that protect consumers, thereby boosting trust in the system. Ukraine is on its way to becoming a place where efficient, competitive, and fair financial services are available to both consumers and businesses.
+
 
 
 
