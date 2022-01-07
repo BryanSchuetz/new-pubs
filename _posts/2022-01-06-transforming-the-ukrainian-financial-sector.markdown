@@ -21,6 +21,7 @@ Today, although Ukraine continues to be a challenging environment—particularly
 
 
 
+
 ## Building on Previous Support
 
 Over almost three decades, Ukraine has received support from donors such as USAID and the European Union, and international financial institutions including the International Monetary Fund, the European Bank for Reconstruction and Development (EBRD), International Finance Corporation, and the European Investment Bank, in critical sectors such as energy, agriculture, and small business. Additionally, the World Bank has provided technical expertise, especially in the financial sector, and provided economic support loans. FST built on three previous generations of USAID support when it set out to achieve the following goals:
