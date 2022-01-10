@@ -1,7 +1,6 @@
 ---
 title: Transforming the Ukrainian Financial Sector
 date: 2022-01-06 07:28:00 -05:00
-published: false
 tags:
 - finance
 - public-financial-management
@@ -53,7 +52,7 @@ In addition to its policy reform work, FST improved overall financial literacy a
 
 In 2021, FST re-measured Ukrainian financial literacy and found that Ukraine’s score had risen from 11.6 to 12.3 on the standardized scale, moving past countries such as Italy, Georgia, Romania, and Montenegro.  
 
-![FST-02.jpg](/uploads/FST-02.jpg)
+![FST-02-849b04.jpg](/uploads/FST-02-849b04.jpg)
  
 In addition to improving how consumers understand financial institutions, products, and services, FST introduced the first-ever consumer protection measures aimed at curbing consumer abuses perpetrated by financial institutions. FST’s work included drafting and advocating for the passage of tougher consumer protection laws, supporting the NBU to improve enforcement, and demonstrating through mystery shopping surveys where banks and finance companies fell short in their lending practices.
 
