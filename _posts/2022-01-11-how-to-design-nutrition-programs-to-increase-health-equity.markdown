@@ -37,6 +37,8 @@ Because nutrition is multidimensional, solutions must be too. Strong health prog
 **1. Talk to People**
 “The first step of any intervention is to understand, talk to people, and bring them into the program design from the start,” says [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), Technical Lead for Reproductive, Maternal, Newborn, Child and Adolescent Health, Evidence and Learning at DAI. “People from particularly marginalized groups tend to have multiple problems or vulnerabilities; they may be exceptionally poor, socially excluded, or have a disability. Understanding the community’s particular vulnerabilities is key.”
 
+![MAM_ZMB_2018_children and young mother_065.jpg](/uploads/MAM_ZMB_2018_children%20and%20young%20mother_065.jpg)`Interventions in Zambia focused on increasing access to health services. Photo: Medicines for Malaria Venture MAMaZ.)
+
 Quigley tells a story from her community health work in Zambia, on the [MAMaZ Against Malaria project](https://www.dai.com/our-work/projects/zambia-moblising-access-to-maternal-health-services-mamaz), where she and her colleagues found an entire community blacklisted and shunned by the surrounding groups for various reasons. They were cut off from services, highly vulnerable, and in the absence of a comprehensive community engagement process would have missed out completely on the MAMaZ program’s offerings. 
  
 Social norms, cultural beliefs, and practices are intrinsically tied to knowledge, attitudes, and behaviors that can perpetuate nutritional inequities. A thoughtful understanding of how behavioral norms affect daily life for people can ensure interventions are appropriately nuanced and based on evidence.  
