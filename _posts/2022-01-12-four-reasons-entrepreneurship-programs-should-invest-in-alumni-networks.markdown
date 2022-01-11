@@ -1,7 +1,6 @@
 ---
 title: Four Reasons Entrepreneurship Programs Should Invest in Alumni Networks
 date: 2022-01-12 03:00:00 -05:00
-published: false
 tags:
 - sustainable-business
 author: "[Christina Aguila](https://www.dai.com/who-we-are/our-team/christina-aguila)
