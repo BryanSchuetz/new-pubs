@@ -12,7 +12,7 @@ social-image: "/uploads/2m%20MAM_ZMB_2018_children%20and%20young%20mother_065.jp
 publication: Developments
 ---
 
-Good nutrition is important for everyone—but for the most vulnerable people, healthy diets can mean the difference between life or death. To design effective nutrition programs, international development practitioners need to understand what defines people as vulnerable, what causes that vulnerability, and what to do about it. Recent guidance on Improving How FCDO Reaches Those Most-at-risk of Malnutrition, drafted by DAI for the U.K. Foreign, Commonwealth & Development Office (FCDO), sheds light on these issues.
+Good nutrition is important for everyone—but for the most vulnerable people, healthy diets can mean the difference between life or death. To design effective nutrition programs, international development practitioners need to understand what defines people as vulnerable, what causes that vulnerability, and what to do about it. Recent guidance on [Improving How FCDO Reaches Those Most-at-risk of Malnutrition](/uploads/FCDO%20Guidance_Reaching%20Those%20Most%20at%20%20Risk-final-revised-09Nov2021.pdf), drafted by DAI for the U.K. Foreign, Commonwealth & Development Office (FCDO), sheds light on these issues.
 
 
 
@@ -28,12 +28,16 @@ The guidance highlights the multidimensional nature of nutrition, explaining tha
 
 Geographic and environmental factors can exacerbate vulnerability, adds [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), Senior Global Practice Leader of Innovation in DAI’s health team. “In Bangladesh, for example, living in flood-prone regions of the country significantly affects people’s ability to farm and grow food, affecting supply chains, livelihoods, and market access to food, making them more vulnerable. Additionally, internal and cross-border instability and displacement, like that currently affecting the Rohingya population, can increase food insecurity and decrease food production.” 
 
+![25.jpg](/uploads/25.jpg)`Bangladeshis live in flood-prone regions. Photo: USAID Bangladesh.`
+
 ### Tackling the Multiple Dimension of Malnutrition
 
 Because nutrition is multidimensional, solutions must be too. Strong health programming, nutrition-focused or otherwise, starts by authentically engaging communities in identifying their problems and needs, working within existing systems, empowering both women and men, and improving transparency in resource allocation and decision making. Reaching the most vulnerable means engaging the health and community systems active at their level and working with them in partnership. 
 
 **1. Talk to People**
 “The first step of any intervention is to understand, talk to people, and bring them into the program design from the start,” says [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), Technical Lead for Reproductive, Maternal, Newborn, Child and Adolescent Health, Evidence and Learning at DAI. “People from particularly marginalized groups tend to have multiple problems or vulnerabilities; they may be exceptionally poor, socially excluded, or have a disability. Understanding the community’s particular vulnerabilities is key.”
+
+![MAM_ZMB_2018_children and young mother_065.jpg](/uploads/MAM_ZMB_2018_children%20and%20young%20mother_065.jpg)`Interventions in Zambia focused on increasing access to health services. Photo: Medicines for Malaria Venture MAMaZ.)
 
 Quigley tells a story from her community health work in Zambia, on the [MAMaZ Against Malaria project](https://www.dai.com/our-work/projects/zambia-moblising-access-to-maternal-health-services-mamaz), where she and her colleagues found an entire community blacklisted and shunned by the surrounding groups for various reasons. They were cut off from services, highly vulnerable, and in the absence of a comprehensive community engagement process would have missed out completely on the MAMaZ program’s offerings. 
  
