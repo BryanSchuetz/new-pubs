@@ -56,6 +56,8 @@ In the MAMaZ program, the team worked within the national health system to provi
 
 In communities with more traditional or patriarchal structures, ensuring women and men are incorporated in decision making and program development is vital. Pregnant and nursing women are some of the most physiologically vulnerable people, and often the most socially vulnerable because of behavioral norms. Improving gender equality can improve the health and wellbeing of the entire community.
 
+![MAM_ZMB_2018_singing and dancing women_190.jpg](/uploads/MAM_ZMB_2018_singing%20and%20dancing%20women_190.jpg)`Interventions in Zambia also focused on increasing the number of women involved. Photo: Medicines for Malaria Venture MAMaZ.`
+
 “Improving gender equality starts with creating more awareness of inequality,” says Quigley. Within the MAMaZ project, Quigley and her team educated both men and women about maternal and newborn health, the impact of gender-based violence, and the importance of safe pregnancy and motherhood. Men in the community were asked to volunteer time for emergency transport schemes—ferrying women to medical services by boat, bicycle, or taxi, for example—thereby giving them responsibility and co-ownership in the maternal health initiative. 
 
 As men came to better understand how their actions affected women around them, they began to change, and health improved. Through its empowerment approach, the project reported an 88 percent decrease in gender-based violence and a 27 percent increase in the number of babies delivered by a skilled birth attendant.
