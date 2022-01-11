@@ -35,6 +35,7 @@ Geographic and environmental factors can exacerbate vulnerability, adds [Stephen
 Because nutrition is multidimensional, solutions must be too. Strong health programming, nutrition-focused or otherwise, starts by authentically engaging communities in identifying their problems and needs, working within existing systems, empowering both women and men, and improving transparency in resource allocation and decision making. Reaching the most vulnerable means engaging the health and community systems active at their level and working with them in partnership. 
 
 **1. Talk to People**
+
 “The first step of any intervention is to understand, talk to people, and bring them into the program design from the start,” says [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), Technical Lead for Reproductive, Maternal, Newborn, Child and Adolescent Health, Evidence and Learning at DAI. “People from particularly marginalized groups tend to have multiple problems or vulnerabilities; they may be exceptionally poor, socially excluded, or have a disability. Understanding the community’s particular vulnerabilities is key.”
 
 Quigley tells a story from her community health work in Zambia, on the [MAMaZ Against Malaria project](https://www.dai.com/our-work/projects/zambia-moblising-access-to-maternal-health-services-mamaz), where she and her colleagues found an entire community blacklisted and shunned by the surrounding groups for various reasons. They were cut off from services, highly vulnerable, and in the absence of a comprehensive community engagement process would have missed out completely on the MAMaZ program’s offerings. 
@@ -45,19 +46,22 @@ Social norms, cultural beliefs, and practices are intrinsically tied to knowledg
 
 For example, in Bangladesh, the [Policy LINK](https://www.dai.com/our-work/projects/worldwide-policy-link) project is working with highly vulnerable communities to revitalize sustainable agriculture to improve their food security and nutritional status. The project is underpinned by a rigorous co-creation process that engages stakeholders at regional, community, and national levels to understand local motivations, attitudes, and behaviors. Co-creation and participatory stakeholder engagement are critical to designing interventions that stick. 
 
-**1. Work with What’s There** 
+**2. Work with What’s There**
+
 “If something exists, even only on paper, we will always aim to strengthen that and build on it rather than develop something new.” That’s the principal Quigley and DAI work from—to work within systems wherever possible, rather than creating new ones. Many countries have national community health programs, with community health workers or volunteers and health facilities. Supporting government systems, no matter how nascent they are, helps ensure interventions are sustainable. 
 
 In the MAMaZ program, the team worked within the national health system to provide safety nets for pregnant women and new mothers. Local volunteers led safe motherhood groups and were visited regularly by community health workers and community facilitators. Health workers were supported by local health facilities and facilities were supported by district health authorities, ensuring the program was strengthened by government public health structures.
 
-**1. Improve Gender Equality** 
+**3. Improve Gender Equality**
+
 In communities with more traditional or patriarchal structures, ensuring women and men are incorporated in decision making and program development is vital. Pregnant and nursing women are some of the most physiologically vulnerable people, and often the most socially vulnerable because of behavioral norms. Improving gender equality can improve the health and wellbeing of the entire community.
 
 “Improving gender equality starts with creating more awareness of inequality,” says Quigley. Within the MAMaZ project, Quigley and her team educated both men and women about maternal and newborn health, the impact of gender-based violence, and the importance of safe pregnancy and motherhood. Men in the community were asked to volunteer time for emergency transport schemes—ferrying women to medical services by boat, bicycle, or taxi, for example—thereby giving them responsibility and co-ownership in the maternal health initiative. 
 
 As men came to better understand how their actions affected women around them, they began to change, and health improved. Through its empowerment approach, the project reported an 88 percent decrease in gender-based violence and a 27 percent increase in the number of babies delivered by a skilled birth attendant.
 
-**1. Track the Money**
+**4. Track the Money**
+
 Improving how funding is tracked, as it moves from national health systems to the community level, helps ensure the most vulnerable people can access healthcare. Better financial transparency and accountability through internal controls, auditing, and budgeting procedures means money is more likely to reach the people at the "last mile” of a health system. For example, in Malawi, under the Accelerating Support to Advanced Local Partners project, health authorities have been able to hire hundreds more health workers in the community because of better financial and human resource systems. 
 
 Rahaim says “improving the targeting of social benefits” can also improve the equity of access to services. For example, in Bangladesh, politically appointed local leaders are responsible for identifying who is most vulnerable in order for them to qualify for social benefits. The selection of community members, therefore, is often politically motivated, rather than being criteria- and needs-based. Objective vulnerability frameworks allow those most in need to receive social benefits that can improve their ability to access nutritious foods and appropriate healthcare services, making social benefits more impactful.
