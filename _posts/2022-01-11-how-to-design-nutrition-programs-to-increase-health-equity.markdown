@@ -2,6 +2,10 @@
 title: How to Design Nutrition Programs to Increase Health Equity
 date: 2022-01-11 11:22:00 -05:00
 published: false
+tags:
+- global-health
+- inclusion
+- nutrition
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
 thumbnail-image: "/uploads/2m%20MAM_ZMB_2018_children%20and%20young%20mother_065.jpg"
 social-image: "/uploads/2m%20MAM_ZMB_2018_children%20and%20young%20mother_065.jpg"
@@ -14,7 +18,7 @@ Good nutrition is important for everyone—but for the most vulnerable people, h
 
 
 
-Malnutrition occurs when people have deficiencies, excesses, or imbalances in the food they eat that results in poor growth, limited development, or impairment. According to the World Health Organization, there are four periods in life when people are most nutritionally vulnerable: the first 1,000 days (pregnancy to age 2), which is the most critical; early childhood (ages 2 to 5), when health and dietary behaviors begin to form; middle childhood (5 to 9), when those behaviors become habits; and adolescence (10 to 19), the second-fastest stage of growth and development in the life cycle, when habits solidify.  
+Malnutrition occurs when people have deficiencies, excesses, or imbalances in the food they eat that results in poor growth, limited development, or impairment. [According to the World Health Organization](https://apps.who.int/iris/bitstream/handle/10665/272603/9789241514064-eng.pdf), there are four periods in life when people are most nutritionally vulnerable: the first 1,000 days (pregnancy to age 2), which is the most critical; early childhood (ages 2 to 5), when health and dietary behaviors begin to form; middle childhood (5 to 9), when those behaviors become habits; and adolescence (10 to 19), the second-fastest stage of growth and development in the life cycle, when habits solidify.  
 
 Nutritional vulnerability increases when people cannot access nutritious diets, health services, nurturing care, or adequate water and sanitation. Vulnerability also increases when people are marginalized through factors such as poverty, gender inequity, violence, environmental toxins, climate change, or poor mental health.
 
