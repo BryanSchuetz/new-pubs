@@ -28,6 +28,8 @@ The guidance highlights the multidimensional nature of nutrition, explaining tha
 
 Geographic and environmental factors can exacerbate vulnerability, adds [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), Senior Global Practice Leader of Innovation in DAI’s health team. “In Bangladesh, for example, living in flood-prone regions of the country significantly affects people’s ability to farm and grow food, affecting supply chains, livelihoods, and market access to food, making them more vulnerable. Additionally, internal and cross-border instability and displacement, like that currently affecting the Rohingya population, can increase food insecurity and decrease food production.” 
 
+![25.jpg](/uploads/25.jpg)`Bangladeshis live in flood-prone regions. Photo: USAID Bangladesh.`
+
 ### Tackling the Multiple Dimension of Malnutrition
 
 Because nutrition is multidimensional, solutions must be too. Strong health programming, nutrition-focused or otherwise, starts by authentically engaging communities in identifying their problems and needs, working within existing systems, empowering both women and men, and improving transparency in resource allocation and decision making. Reaching the most vulnerable means engaging the health and community systems active at their level and working with them in partnership. 
