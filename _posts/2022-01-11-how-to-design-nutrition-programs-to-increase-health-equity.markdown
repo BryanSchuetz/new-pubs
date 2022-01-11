@@ -12,7 +12,7 @@ social-image: "/uploads/2m%20MAM_ZMB_2018_children%20and%20young%20mother_065.jp
 publication: Developments
 ---
 
-Good nutrition is important for everyone—but for the most vulnerable people, healthy diets can mean the difference between life or death. To design effective nutrition programs, international development practitioners need to understand what defines people as vulnerable, what causes that vulnerability, and what to do about it. Recent guidance on Improving How FCDO Reaches Those Most-at-risk of Malnutrition, drafted by DAI for the U.K. Foreign, Commonwealth & Development Office (FCDO), sheds light on these issues.
+Good nutrition is important for everyone—but for the most vulnerable people, healthy diets can mean the difference between life or death. To design effective nutrition programs, international development practitioners need to understand what defines people as vulnerable, what causes that vulnerability, and what to do about it. Recent guidance on [Improving How FCDO Reaches Those Most-at-risk of Malnutrition](/uploads/FCDO%20Guidance_Reaching%20Those%20Most%20at%20%20Risk-final-revised-09Nov2021.pdf), drafted by DAI for the U.K. Foreign, Commonwealth & Development Office (FCDO), sheds light on these issues.
 
 
 
