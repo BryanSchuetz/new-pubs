@@ -1,7 +1,6 @@
 ---
 title: How to Design Nutrition Programs to Increase Health Equity
 date: 2022-01-12 08:22:00 -05:00
-published: false
 tags:
 - global-health
 - inclusion
@@ -26,13 +25,13 @@ Understanding who is most at risk, nutritionally, starts by understanding who is
 
 The guidance highlights the multidimensional nature of nutrition, explaining that multiple intersecting factors increase vulnerability. She says: “The tricky thing is that there are so many underlying determinants to good nutrition—education levels, access to a range of foods, cultural norms. It is very difficult to isolate a cause. We must look at the whole context including how the social impacts the physical.”
 
-Geographic and environmental factors can exacerbate vulnerability, adds [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), Senior Global Practice Leader of Innovation in DAI’s Global Health team. “In Bangladesh, for example, living in flood-prone regions of the country significantly affects people’s ability to farm and grow food, affecting supply chains, livelihoods, and market access to food, making them more vulnerable. Additionally, internal and cross-border instability and displacement, like that currently affecting the Rohingya population, can increase food insecurity and decrease food production.” 
+Geographic and environmental factors can exacerbate vulnerability, adds [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), Senior Global Practice Leader for Market Solutions in DAI’s Global Health team. “In Bangladesh, for example, living in flood-prone regions of the country significantly affects people’s ability to farm and grow food, affecting supply chains, livelihoods, and market access to food, making them more vulnerable. Additionally, internal and cross-border instability and displacement, like that currently affecting the Rohingya population, can increase food insecurity and decrease food production.” 
 
 ![25.jpg](/uploads/25.jpg)`Bangladeshis live in flood-prone regions. Photo: USAID Bangladesh.`
 
-### Tackling the Multiple Dimension of Malnutrition
+### Tackling the Multiple Dimensions of Malnutrition
 
-Because nutrition is multidimensional, solutions must be too. Strong health programming, nutrition-focused or otherwise, starts by authentically engaging communities in identifying their problems and needs, working within existing systems, empowering both women and men, and improving transparency in resource allocation and decision making. Reaching the most vulnerable means engaging the health and community systems active at their level and working with them in partnership. 
+Because nutrition is multidimensional, solutions must be too. Strong health programming, nutrition-focused or otherwise, starts by authentically engaging communities in identifying their problems and needs, working within existing systems, empowering both women and men, and improving transparency in resource allocation and decision making. Reaching the most vulnerable means working with health and community systems in partnership. 
 
 **1. Talk to People**
 
