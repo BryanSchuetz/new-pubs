@@ -44,3 +44,5 @@ KIC in Ghana actively connects with ecosystem partners in the country, which has
 Corporates and donors can leverage their program alumni to attract strong applicants and secure mentors. As the Global Accelerator Network has found from experience with its members, alumni can be an excellent source for applicants and mentors, while also serving as reliable program advocates. Conducting graduate surveys is a good way to assess the likelihood that alumni will recommend your program to other entrepreneurs, and a way to gauge alumni satisfaction.
 
 Program sustainability is linked to the ability to track and report on performance. By designing and implementing an alumni network, corporates will enhance the sustainability of entrepreneurship programs, strengthen ecosystems for startup success, and generate learning and compelling impact stories.
+
+*[Learn more about entrepreneurship programs DAI has designed and implemented](https://www.dai.com/our-work/solutions/sustainable/sustainable-business-enterprise-innovation)*
