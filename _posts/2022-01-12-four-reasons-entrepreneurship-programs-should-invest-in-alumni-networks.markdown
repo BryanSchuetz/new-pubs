@@ -11,11 +11,11 @@ publication: Developments
 Field name: 
 ---
 
-![Image17\[90\].png](/uploads/Image17%5B90%5D.png)`Established in 2016, Kosmos Innovation Centre in Ghana focuses on entrepreneurs innovating in agriculture. Photo: Kosmos Innovation Centre.`
-
 What happens to entrepreneurs after they have completed a three-to-nine-month accelerator program, often including months of training, pitch presentations, and culminating in graduation? That’s a question many corporate funders and program managers are left wondering. Without an answer, it is near impossible to measure and report on a program’s medium- and long-term impact. Lack of impact data makes it challenging to argue for increased financing, implement improvements, bolster sustainability reporting, and strengthen broader entrepreneurship ecosystems.
 
 Corporations make significant investments in their entrepreneurship programs but often miss a critical component of a sustainable program: an alumni network. Based on DAI’s experience designing and managing entrepreneurship programs around the world, we offer four reasons why these networks are so important.
+
+![Image17\[90\].png](/uploads/Image17%5B90%5D.png)`Established in 2016, Kosmos Innovation Centre in Ghana focuses on entrepreneurs innovating in agriculture. Photo: Kosmos Innovation Centre.`
 
 ## Generate Compelling Impact Stories to Grow Your Programs’ Reach and Brand
 
