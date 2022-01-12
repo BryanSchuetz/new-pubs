@@ -1,6 +1,6 @@
 ---
 title: How to Design Nutrition Programs to Increase Health Equity
-date: 2022-01-11 11:22:00 -05:00
+date: 2022-01-12 08:22:00 -05:00
 published: false
 tags:
 - global-health
