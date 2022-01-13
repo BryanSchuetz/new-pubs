@@ -8,6 +8,8 @@ tags:
 - climate change
 - environment-and-energy
 author: "[Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/)"
+thumbnail-image: "/uploads/Nexos.jpg"
+social-image: "/uploads/Nexos.jpg"
 publication: Developments
 ---
 
@@ -25,7 +27,9 @@ publication: Developments
 
 “DAI has an internal fund for interesting technical ideas from staff. Our [Natural Resources Management (NRM)](https://www.dai.com/our-work/solutions/environment-solutions/natural-resource-management) team brainstormed some ideas, and I came up with an idea to help translate all the information that local governments have about climate change into better action on the ground. Originally, I thought it would be more closely linked to a vulnerability assessment, but we realized that there are enough tools out there to identify vulnerabilities; the challenge is understanding not just how to address them, but what kind of skills government might need to do that effectively. 
 
-“I worked closely with a few colleagues—[Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti) from the Climate Change and NRM team, and [Colin McCabe](https://www.dai.com/who-we-are/our-team/colin-mccabe) from the Governance team—to develop the framework for the tool. We then held a set of co-creation sessions to refine it, and engaged with one of DAI’s projects in Guatemala, USAID [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales), to update the tool for the Guatemalan context and pilot it on the ground.”  
+“I worked closely with a few colleagues—[Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti) from the Climate Change and NRM team, and [Colin McCabe](https://www.dai.com/who-we-are/our-team/colin-mccabe) from the Governance team—to develop the framework for the tool. We then held a set of co-creation sessions to refine it, and engaged with one of DAI’s projects in Guatemala, USAID [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales), to update the tool for the Guatemalan context and pilot it on the ground.”
+
+![IMG_2518.JPG](/uploads/IMG_2518.JPG)`After successfully piloting the MuniCAT in xxx municipalities in Guatemala, the Nexos Locales team plans to expand it to xxxx more. Photo: USAID Nexos Locales.`
 
 **What gap does MuniCAT fill?**  
 
