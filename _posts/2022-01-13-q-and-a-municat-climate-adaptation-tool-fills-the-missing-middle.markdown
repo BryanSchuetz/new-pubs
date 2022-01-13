@@ -1,5 +1,5 @@
 ---
-title: 'Q&A: MuniCAT Climate Adaptation Tool Fills the "Missing Middle"'
+title: 'Q&A: MuniCAT Climate Adaptation Tool Fills the “Missing Middle”'
 date: 2022-01-13 14:21:00 -05:00
 published: false
 tags:
@@ -19,7 +19,8 @@ publication: Developments
  
 
 
-**You and your colleagues developed a new climate adaptation tool called MuniCAT. What is it? ** 
+
+**You and your colleagues developed a new climate adaptation tool called MuniCAT. What is it?** 
 
 “MuniCAT is a benchmarking tool that helps local governments consolidate, understand, and apply information about climate change in order to take better action on the ground. It helps them understand the skills and capacities they need if they are going to contribute to national adaptation efforts and support their own constituents and communities. By measuring these capacities, MuniCAT helps local governments understand not only what kind of skills they need, but also helps them identify where their capacity falls short, and where external support or other resources would be most effective at supporting adaptation.” 
 
