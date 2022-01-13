@@ -1,5 +1,5 @@
 ---
-title: 'Q&A: How the MuniCat Climate Adaptation Tool Fills the ‘Missing Middle’'
+title: 'Q&A: MuniCAT Climate Adaptation Tool Fills the "Missing Middle"'
 date: 2022-01-13 14:21:00 -05:00
 published: false
 tags:
@@ -13,7 +13,7 @@ social-image: "/uploads/Nexos.jpg"
 publication: Developments
 ---
 
-*In 2021, DAI introduced the Awesomeness Fund, an internal competition for funding for innovative ideas. Seventeen technical teams across the company took on the challenge; six were successful and spent half the year working to pilot their solutions. [Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/), a communications specialist at DAI, sat down with [Rhi Gulick](https://www.dai.com/who-we-are/our-team/rhiannon-gulick), a technical expert in natural resource management, energy, and climate change. Gulick and her teammates created a municipal climate adaptation tool, or MuniCAT.* 
+*In 2021, DAI introduced an internal innovation competition for funding for innovative ideas. Seventeen technical teams across the company took on the challenge; six were successful and spent half the year working to pilot their solutions. [Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/), a communications specialist at DAI, sat down with [Rhi Gulick](https://www.dai.com/who-we-are/our-team/rhiannon-gulick), a technical expert in natural resource management, energy, and climate change. Gulick and her teammates created a municipal climate adaptation tool, or MuniCAT.* 
 
 
  
