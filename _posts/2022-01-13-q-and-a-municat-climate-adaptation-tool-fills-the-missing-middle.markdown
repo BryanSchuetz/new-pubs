@@ -30,7 +30,7 @@ publication: Developments
 
 “I worked closely with a few colleagues—[Shannon Vasamsetti](https://www.dai.com/who-we-are/our-team/shannon-Vasamsetti) from the Climate Change and NRM team, and [Colin McCabe](https://www.dai.com/who-we-are/our-team/colin-mccabe) from the Governance team—to develop the framework for the tool. We then held co-creation sessions to refine it and engaged with one of DAI’s projects in Guatemala, USAID [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales), to update the tool for the Guatemalan context and pilot it.”
 
-![IMG_2518.JPG](/uploads/IMG_2518.JPG)`After successfully piloting the MuniCAT in xxx municipalities in Guatemala, the Nexos Locales team plans to expand it to xxxx more. Photo: USAID Nexos Locales.`
+![IMG_2518.JPG](/uploads/IMG_2518.JPG)`After piloting the tool in four municipalities, the team plans to expand to all 22 Nexos Locales municipalities in the Western Highlands of Guatemala. Photo: USAID Nexos Locales.`
 
 **What gap does MuniCAT fill?**  
 
