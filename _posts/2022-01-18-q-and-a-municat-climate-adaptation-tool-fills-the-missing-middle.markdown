@@ -1,7 +1,6 @@
 ---
 title: 'Q&A: MuniCAT Climate Adaptation Tool Fills the “Missing Middle”'
-date: 2022-01-17 08:21:00 -05:00
-published: false
+date: 2022-01-18 08:21:00 -05:00
 tags:
 - innovation
 - climate
