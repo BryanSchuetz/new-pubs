@@ -69,4 +69,4 @@ Rahaim says “improving the targeting of social benefits” can also improve th
 
 Reaching those most in need requires programs built on genuine engagement, determined support to existing systems, a deep understanding of cultural barriers and behavioral triggers, and financial transparency. Whether it is improving agricultural practices in Bangladesh, upgrading maternal health in Malawi, or developing guidance on reaching the underserved, understanding people, working collaboratively, and taking the time to seek out and support the most vulnerable means our programs can make the world a more equitable place. 
 
-*Megan Howe is a Senior Communications and Knowledge Management Advisor for DAI’s Global Health practice.*
+*Megan Howe is a Senior Communications and Knowledge Management Advisor for DAI’s Global Health practice. [Email Megan](mailto:megan_howe@dai.com) with questions or comments.*
