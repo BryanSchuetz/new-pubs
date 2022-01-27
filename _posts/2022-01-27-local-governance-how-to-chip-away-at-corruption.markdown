@@ -46,7 +46,7 @@ In Kyrgyzstan, lack of transparency and accountability at the local level (both 
 
 When the USAID [Community and Municipal Governance Initiative (CAMI)](https://www.dai.com/our-work/projects/kyrgyzstan-community-and-municipal-governance-initiative-cami) began in 2016, the DAI team commissioned a local research firm to assess the scale of corruption at the local level. A citizen survey showed that people perceived a lack of transparency in the information provided by government officials, and revealed a general lack of trust that local governments were ensuring openness, fair competition, and non-partisanship when procuring goods and services for municipal needs. 
 
-![cami.jpg](/uploads/cami.jpg)`Photo: USAID CAMI.`
+![cami.jpg](/uploads/cami.jpg)`CAMI honored 'Successful Municipality' recipients. Photo: USAID CAMI.`
 
 Along with administrative and service delivery capacity building, CAMI introduced and encouraged various internal controls designed to reduce corruption and improve operational and financial management. For example, the project helped develop and promote a Municipal Code of Ethics for elected local council members, municipal servants, and heads of town administrations. CAMI also guided the creation of municipal development codes for transparent service delivery standards.  
 
