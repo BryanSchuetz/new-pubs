@@ -2,7 +2,11 @@
 title: 'Local Governance: How to Chip Away at Corruption'
 date: 2022-01-27 16:33:00 -05:00
 published: false
+tags:
+- governance
+- anti-corruption
 author: 'Robert Bodo and [Carmen Conley](https://www.dai.com/who-we-are/our-team/carmen-conley) '
+publication: Developments
 ---
 
 Alongside national-level anticorruption initiatives, it is crucial to prevent, detect, and tackle corruption at the local level, especially as local governments take on greater financial and administrative responsibilities as a result of the decentralization process. Ordinary citizens encounter government primarily in their own cities and towns, where they access basic services. Lack of transparency and accountability, and associated cases or perceptions of corruption at the local level, can erode the legitimacy of the entire democratic state, thereby hampering and distorting development. Improving local governance provides opportunities to counter corruption through more transparent public procurement of local goods, better asset management, more efficient public financial management and control, open data, and citizen participation in local decision making. 
@@ -18,7 +22,7 @@ Across a variety of sometimes challenging country contexts, DAI has worked with 
 
 Citizens, civil society organizations, and private sector economic operators have documented that public procurement in Kosovo has historically been compromised by political patronage, nepotism, fraud, and other forms of corruption. This corruption strains public resources, undermines public confidence, and deters foreign investment. Addressing weaknesses or gaps in the system is critically important for Kosovo because 40 percent of the government’s budget is spent through public procurement, with 23 percent channeled through municipal procurement.  
 
-Through USAID’s Transparent, Effective, and Accountable Municipalities (TEAM) Activity, DAI worked in Kosovo since 2017 to modernize public procurement and limit municipal vulnerability to corruption. When the USAID activity started, public procurement at the municipal level faced many challenges—TEAM identified 19 key risks across the 32 steps of the procurement process, including the use of manual systems that are vulnerable to bid-rigging, kickbacks, or selection processes based on patronage or nepotism.
+Through USAID’s [Transparent, Effective, and Accountable Municipalities (TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) Activity, DAI worked in Kosovo since 2017 to modernize public procurement and limit municipal vulnerability to corruption. When the USAID activity started, public procurement at the municipal level faced many challenges—TEAM identified 19 key risks across the 32 steps of the procurement process, including the use of manual systems that are vulnerable to bid-rigging, kickbacks, or selection processes based on patronage or nepotism.
 
 The project was designed with the assumption that a comprehensive, centrally managed electronic procurement system—an integrity reform agreed between Kosovo government officials and the International Monetary Fund—was functioning, and the focus would be to further roll out the reforms and build capacity. However, as TEAM began initial stakeholder consultations, it became evident that the electronic procurement system was in fact on the verge of collapse due to a combination of technical problems, capacity issues, and a resulting loss of confidence in the system by government officials. The collapse of the system would mean local officials reverting to or continuing with a patchwork of non-transparent, manual systems susceptible to patronage and bid-rigging.   
 
