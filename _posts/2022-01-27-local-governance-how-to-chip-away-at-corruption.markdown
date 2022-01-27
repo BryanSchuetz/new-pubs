@@ -6,6 +6,8 @@ tags:
 - governance
 - anti-corruption
 author: 'Robert Bodo and [Carmen Conley](https://www.dai.com/who-we-are/our-team/carmen-conley) '
+thumbnail-image: "/uploads/sm%20Performance%20with%20Umbrellas%20-%20TEAM%20%20-%20FOL%20%20(15).jpg"
+social-image: "/uploads/sm%20Performance%20with%20Umbrellas%20-%20TEAM%20%20-%20FOL%20%20(15).jpg"
 publication: Developments
 ---
 
@@ -23,6 +25,8 @@ Across a variety of sometimes challenging country contexts, DAI has worked with 
 Citizens, civil society organizations, and private sector economic operators have documented that public procurement in Kosovo has historically been compromised by political patronage, nepotism, fraud, and other forms of corruption. This corruption strains public resources, undermines public confidence, and deters foreign investment. Addressing weaknesses or gaps in the system is critically important for Kosovo because 40 percent of the government’s budget is spent through public procurement, with 23 percent channeled through municipal procurement.  
 
 Through USAID’s [Transparent, Effective, and Accountable Municipalities (TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity, DAI worked in Kosovo since 2017 to modernize public procurement and limit municipal vulnerability to corruption. When the USAID activity started, public procurement at the municipal level faced many challenges—TEAM identified 19 key risks across the 32 steps of the procurement process, including the use of manual systems that are vulnerable to bid-rigging, kickbacks, or selection processes based on patronage or nepotism.
+
+![Administrators Visit 7.jpg](/uploads/Administrators%20Visit%207.jpg)`Former USAID Administrator Mark Green in 2019 visited the upgraded municipal archive and an office for bid opening and evaluation, an investment co-financed by the Municipality of Pristina and TEAM. Photo: USAID TEAM.`
 
 The project was designed with the assumption that a comprehensive, centrally managed electronic procurement system—an integrity reform agreed between Kosovo government officials and the International Monetary Fund—was functioning, and the focus would be to further roll out the reforms and build capacity. However, as TEAM began initial stakeholder consultations, it became evident that the electronic procurement system was in fact on the verge of collapse due to a combination of technical problems, capacity issues, and a resulting loss of confidence in the system by government officials. The collapse of the system would mean local officials reverting to or continuing with a patchwork of non-transparent, manual systems susceptible to patronage and bid-rigging.   
 
