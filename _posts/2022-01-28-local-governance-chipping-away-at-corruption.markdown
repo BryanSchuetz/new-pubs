@@ -54,7 +54,8 @@ CAMI drafted the *Handbook on Public Procurement at the Local Level*, a manual a
 
 CAMI also trained town officials and staff to develop citizen communications and outreach strategies and introduced citizen service monitoring and complaint mechanisms via SMS and WhatsApp. “I believe that WhatsApp mechanism and communications should become an integral part of municipal communication with citizens. We live in a world where information technologies are developing rapidly. We believe this mechanism will help improve our interaction with citizens,” said Temirbolot Abykeev, Head of Kosh-Dobo municipality.
  
-By supporting Kush-Dobo, CAMI succeeded in reducing the trust deficit measured by the gap between government officials’ capacity and citizen oversight and interaction from 97 points in 2016 to 55 points in 2021—a significant improvement of citizen satisfaction. 
+Through these and other efforts, CAMI succeeded in reducing the citizen trust deficit (measured through a scoring methodology as the gap between local government technical capacity and citizen’s perceptions of performance and accountability) from 97 points in 2016 to 55 points in 2021—a significant improvement.
+
 
 ## Building the Integrity of Local Public Finances in Malawi
 
