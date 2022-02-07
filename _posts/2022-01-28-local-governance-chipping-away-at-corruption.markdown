@@ -4,7 +4,8 @@ date: 2022-01-28 04:33:00 -05:00
 tags:
 - governance
 - anti-corruption
-author: 'Robert Bodo and [Carmen Conley](https://www.dai.com/who-we-are/our-team/carmen-conley) '
+author: "[Robert Bodo](https://www.dai.com/who-we-are/our-team/robert-bodo) and [Carmen
+  Conley](https://www.dai.com/who-we-are/our-team/carmen-conley) "
 thumbnail-image: "/uploads/sm%20Performance%20with%20Umbrellas%20-%20TEAM%20%20-%20FOL%20%20(15).jpg"
 social-image: "/uploads/sm%20Performance%20with%20Umbrellas%20-%20TEAM%20%20-%20FOL%20%20(15).jpg"
 publication: Developments
@@ -86,5 +87,4 @@ IGA has invited provincial staff to visit localities and observe and monitor pro
 
 Corruption affects the performance of local governments, distorts the allocation of local resources, reduces efficiency, and erodes public trust in institutions and decentralization processes. Working with local governments to address corruption requires a context-specific approach to identify key areas of “leakage” and build support for anti-corruption through community participation. The examples presented here illustrate some of the ways to tailor international good practices in anti-corruption to the local systems in each country and build effective, accountable, and transparent systems that are able to efficiently deliver services. Most importantly, these approaches were able to improve the legitimacy of local governments and build trust in the democratic process. 
 
-*Robert Bodo was Chief of Party of the CAMI project and [Carmen Conley](https://www.dai.com/who-we-are/our-team/carmen-conley) is a governance specialist at DAI.*
-
+*[Robert Bodo](https://www.dai.com/who-we-are/our-team/robert-bodo) was Chief of Party of the CAMI project and [Carmen Conley](https://www.dai.com/who-we-are/our-team/carmen-conley) is a governance specialist at DAI.*
