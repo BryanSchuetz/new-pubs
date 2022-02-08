@@ -3,6 +3,9 @@ title: Collaboration is Essential to Improving Maternal and Newborn Health in In
 date: 2018-08-17 10:45:00 -04:00
 tags:
 - global-health
+author: "[Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks) "
+thumbnail-image: "/uploads/ibubayi.jpg"
+social-image: "/uploads/ibubayi.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: "[Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks)
@@ -10,15 +13,12 @@ author-bio: "[Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-wee
   Project ](https://www.dai.com/our-work/projects/indonesia-jalin) in Indonesia. Jalin,
   which means “intertwined or interwoven,” is promoting locally led solutions to preventing
   maternal and newborn deaths and extending health services to impoverished areas."
-author: Kirsten Weeks
 featured?: 
 assets:
 - path: "/uploads/weeks dev.png"
   author?: 'yes'
 - path: "/uploads/ibubayi.jpg"
   name: ibubayi
-thumbnail-image: "/uploads/ibubayi.jpg"
-social-image: "/uploads/ibubayi.jpg"
 ---
 
 *This opinion piece was first published in the [Jakarta Post](http://www.thejakartapost.com/) on August 15, 2018.* 
