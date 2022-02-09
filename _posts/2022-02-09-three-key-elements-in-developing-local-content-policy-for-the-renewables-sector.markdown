@@ -5,7 +5,7 @@ tags:
 - sustainable-business
 author: "[Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), [Louise
   Flynn](https://www.dai.com/who-we-are/our-team/louise-flynn) and Tommy Cerja"
-thumbnail-image: "/uploads/AdobeStock_177493788%20(3)-2c2e8b.jpeg"
+thumbnail-image: "/uploads/AdobeStock_177493788%20(3).png"
 social-image: "/uploads/3%20Key%20Elements%20in%20developing%20local%20content%20policy%20for%20renewables.png"
 publication: Developments
 ---
