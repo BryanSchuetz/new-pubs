@@ -11,6 +11,7 @@ publication: Developments
 ---
 
 As countries move to embrace low-carbon energy sources, they will want to ensure that they are growing their own capacity in renewable energy and capturing the economic value of greening their economies. Drawing on lessons learned from local content policy development in the oil and gas sector, we suggest three key elements that corporations and governments should consider when developing policies to generate domestic benefits.
+![AdobeStock_177493788 (3)-c36957.jpeg](/uploads/AdobeStock_177493788%20(3)-c36957.jpeg)`agnormark - stock.adobe.com.`
 
 ## 1. Determine current local capacity to participate in renewable energy projects
 
