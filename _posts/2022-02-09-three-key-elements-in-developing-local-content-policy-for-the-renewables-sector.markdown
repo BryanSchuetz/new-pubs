@@ -13,7 +13,7 @@ publication: Developments
 
 As countries move to embrace low-carbon energy sources, they will want to ensure that they are growing their own capacity in renewable energy and capturing the economic value of greening their economies. Drawing on lessons learned from local content policy development in the oil and gas sector, we suggest three key elements that corporations and governments should consider when developing policies to generate domestic benefits.
 
-## 1.Determine current local capacity to participate in renewable energy projects
+## 1. Determine current local capacity to participate in renewable energy projects
 
 Local content requirements can be aspirational but must consider the current capacity of a country’s manufacturing, supplier base, and workforce to contribute to these projects. Countries, and the firms operating there, must develop an understanding of the competitiveness of existing suppliers compared to international suppliers and assess whether local workers have the skill sets to meet the particular requirements of the renewables industry. Given those distinct requirements—in terms of the technical abilities, goods, and services involved—the workers and suppliers in the country’s traditional energy sector will not be able to immediately transition to renewables.
 
@@ -21,7 +21,7 @@ In Oman, for example, the government has assessed the workforce’s current capa
 
 Conducting an industrial baseline study or market assessment may also help to inform a country’s strategy for green investments. The most effective method for promoting development through renewables will vary depending on the country’s comparative advantage. For instance, it may not be sensible to compete with China’s PV manufacturing given the latter’s economies of scale in this area. Morocco successfully built its utility-scale solar and wind sectors by establishing gradually increasing production targets in key areas such as tanks for solar thermal and masts for wind turbines. At the same time, Morocco recognized its limitations when it came to manufacturing components, so instead it supported the development of an industrial base built around the final assembly and fabrication of parts, in the process enabling Morocco to develop a more technically skilled workforce. 
 
-## 2.Require low-cost job training and unified certification processes
+## 2. Require low-cost job training and unified certification processes
 
 One hurdle to developing a renewable workforce is education. In the United Kingdom, while North Sea oil and gas workers have been encouraged to move to the renewable energy sector, they have had to pay expensive annual fees for certifications and are often required to repeat existing training when starting a contract with a new employer, or a new contract with the same employer, and when moving to jobs in another offshore sector. Governments could ensure that training requirements within a sector are standardized and recognized sector-wide. Standardized certification enables workers to move easily between projects, avoids redundant and costly training, and allows renewables companies to readily verify skills. 
 
