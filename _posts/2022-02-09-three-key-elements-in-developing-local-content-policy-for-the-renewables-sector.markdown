@@ -1,7 +1,6 @@
 ---
 title: Three Key Elements in Developing Local Content Policy for the Renewables Sector
 date: 2022-02-09 08:58:00 -05:00
-published: false
 tags:
 - sustainable-business
 author: "[Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), [Louise
