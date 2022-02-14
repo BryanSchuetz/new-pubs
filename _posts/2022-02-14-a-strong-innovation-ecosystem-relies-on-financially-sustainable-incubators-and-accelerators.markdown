@@ -20,7 +20,7 @@ Innovation ecosystem builders such as international donors, foundations, and gov
 
 In their efforts to develop sustainable business models, ESOs should consider a mix of grants, sponsorships, fees, and service provisions. Funding models for incubators and accelerators differ somewhat, but generally speaking, incubators are much more likely to succeed when supported by multiple streams of public and private sector funding. Similarly, most accelerators ([60 percent globally](https://www.galidata.org/accelerators/)) rely on two or more sources of funding.
 
-![KIC article-e025cf.png](/uploads/KIC%20article-e025cf.png)`learn more about the Kosmos Innovation Centre at https://www.kosmosinnovationcenter.com/`
+![KIC article-e025cf.png](/uploads/KIC%20article-e025cf.png)`Learn more about the Kosmos Innovation Centre at https://www.kosmosinnovationcenter.com/`
 
 The Kosmos Innovation Centre (KIC) in Ghana, which empowers young entrepreneurs to innovate within the country’s agriculture sector, has succeeded in becoming a sustainable program by diversifying its sources of funding.  Executive Director Benjamin Gyan-Kesse told us that despite recently receiving a large grant, KIC does not have the luxury of waiting for it to run out before looking for new funding sources. “We have to start now. And that takes investment. In fact, we have hired two full-time staff that are dedicated to business development who have expertise in marketing, sales, strategy, and client engagement.” 
 
