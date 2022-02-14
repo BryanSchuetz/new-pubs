@@ -7,6 +7,9 @@ tags:
 - sustainable-business
 author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
   [Amy Fisher](https://www.dai.com/who-we-are/our-team/amy-fisher)"
+thumbnail-image: "/uploads/AdobeStock_306010633.jpeg"
+social-image: "/uploads/Innovation%20Ecosystem_.png"
+publication: Developments
 ---
 
 A strong local ecosystem of incubators, accelerators, and other entrepreneur support organizations (ESOs) is critical to supporting the long-term, sustainable growth of small businesses. Unfortunately, these organizations often launch with a one-time pot of funding and then find themselves struggling after a few years to secure reliable sources of revenue. As a result, some incubators and accelerators end up failing to keep pace with local demand from entrepreneurs, sacrificing the quality of services, or even shutting down. This can lead to a confusing landscape where entrepreneurs and funders alike are not sure which organizations to trust or rely on for the long term.
