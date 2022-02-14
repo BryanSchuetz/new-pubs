@@ -3,8 +3,6 @@ title: A Strong Innovation Ecosystem Relies on Financially Sustainable Incubator
   and Accelerators
 date: 2022-02-14 05:28:00 -05:00
 published: false
-tags:
-- sustainable-business
 author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
   [Amy Fisher](https://www.dai.com/who-we-are/our-team/amy-fisher)"
 thumbnail-image: "/uploads/AdobeStock_306010633.jpeg"
@@ -40,7 +38,7 @@ Some ESOs pursue “earned revenues” such as charging startups rent or fees fo
 
 Charging a fee for program participation will be difficult at first, as there are so many ESOs offering services free of charge. An accelerator working with more mature companies that have proven results and a recognizable brand is more likely to be successful charging fees.
 
-##Strengthen Internal Systems
+## Strengthen Internal Systems
 
 Funders tend to prefer funding for specific programs rather than to cover overhead costs. However, ESOs need stable financial and operating systems to achieve long-term viability. Innovation ecosystem builders should invest in building a cadre of strong, sustainable ESOs in each market that can be a stable source of services and support to entrepreneurs over time.
 
