@@ -53,13 +53,15 @@ South Africa has relatively strong credentials in designing policies to support 
 ### What Happens Next?
 
 The structure of that partnership is starting to emerge. The Presidential Climate Commission has been tasked with developing a transition framework in 2022. It released an initial report in January, which includes an analysis of the coal value chain, financing options, and implications for water security in the context of climate risks. The report provides the framework to start to address issues relating to governance, economic diversification, labor market interventions, and social support. 
+
 Clarity is still required around how the Declaration will be operationalized, including who will be on the task force and how decisions will be made. Still to be fleshed out is the investment framework, agreement on how differing views of the donors and the Government of South Africa will be reconciled, and how three key strands of activity— decommissioning coal plants, supporting renewable energy, and transitioning skills and jobs—will be prioritized.
+
 Other challenges to be addressed include: 
--	Supporting coal-dependent and vulnerable regions and sectors: The country already suffers from unemployment and, while transitioning jobs from coal to renewables sounds ideal, many of these jobs will not be accessible to workers leaving coal production—the skills required in the renewables sector are not the same. 
--	Transparency and ownership: South Africa must increase efforts to ensure the transparency of the transition process and step up inclusive social dialogue around it. 
--	Equity in decision making: Women and under-represented communities need to be included in decision making and in job creation activities.   
--	Local value creation: The disruptions caused by COVID-19 highlighted the importance of domestic value chains. Strengthening these will present local job opportunities that should also promote social justice in both racial and gender terms. South Africa has recently discovered substantial gas reserves that might be used as a bridging fuel, which would support the national economy and align with a lower carbon trajectory but would not support Net Zero. How will natural gas feature in the transition strategy?
--	Additional finance: Eskom estimates the transition from coal will cost $27 billion, three times more than the amount to be facilitated via the Declaration. Will there be other funding sources (public and especially private) that will bridge this gap without adding debt? 
+* **Supporting coal-dependent and vulnerable regions and sectors:** The country already suffers from unemployment and, while transitioning jobs from coal to renewables sounds ideal, many of these jobs will not be accessible to workers leaving coal production—the skills required in the renewables sector are not the same. 
+* **Transparency and ownership:** South Africa must increase efforts to ensure the transparency of the transition process and step up inclusive social dialogue around it. 
+* **Equity in decision making:** Women and under-represented communities need to be included in decision making and in job creation activities.   
+* **Local value creation:** The disruptions caused by COVID-19 highlighted the importance of domestic value chains. Strengthening these will present local job opportunities that should also promote social justice in both racial and gender terms. South Africa has recently discovered substantial gas reserves that might be used as a bridging fuel, which would support the national economy and align with a lower carbon trajectory but would not support Net Zero. How will natural gas feature in the transition strategy?
+* **Additional finance:** Eskom estimates the transition from coal will cost $27 billion, three times more than the amount to be facilitated via the Declaration. Will there be other funding sources (public and especially private) that will bridge this gap without adding debt? 
 
 ### The Way Forward 
 
