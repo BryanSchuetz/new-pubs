@@ -6,8 +6,8 @@ tags:
 - climate
 - energy
 - south africa
-author: "[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), [Sofia
-  Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
+author: "[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan) and
+  [Sofia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
 thumbnail-image: "/uploads/albert-hyseni-COAL-unsplash.jpg"
 social-image: "/uploads/albert-hyseni-COAL-unsplash.jpg"
 publication: Developments
