@@ -2,6 +2,11 @@
 title: Four Ways to Tackle Corruption in Health Supply Chains
 date: 2022-02-15 14:18:00 -05:00
 published: false
+tags:
+- global-health
+- anti-corruption
+- supply-chain
+- supply-chains
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) and [Anna
   Schuesterl](https://www.linkedin.com/in/annaschuesterl2021/)"
 thumbnail-image: "/uploads/sm%20SCshutterstock_784765822.jpg"
@@ -30,7 +35,7 @@ Rahaim suggests working with both governments and donors to develop a single set
 Heredia-Ortiz said the key to ensuring that donor and national regulations are aligned is to follow international standards and build worker capacity. “International standards improve data management, system interoperability, and efficiency,” she said.
 
 **1. Strengthen supply chain structures and processes**
-Oversight and coordination of national supply chains should sit with governments to ensure sustainability and national ownership, the experts agreed. “Government leadership, however, must be based on best procurement practices and not political motives, maintaining transparency of supply chain costs and expenditure throughout,” said Dirk Van Wyke, Crown Agents’ Team Lead for the Saving Lives Programme in Sierra Leone.
+Oversight and coordination of national supply chains should sit with governments to ensure sustainability and national ownership, the experts agreed. “Government leadership, however, must be based on best procurement practices and not political motives, maintaining transparency of supply chain costs and expenditure throughout,” said [Dirk Van Wyke](https://www.linkedin.com/in/dirk-van-wyk-06113b52/?originalSubdomain=za), Crown Agents’ Team Lead for the [Saving Lives Programme](https://www.crownagents.com/project/saving-lives-in-sierra-leone-phase-ii/#:~:text=The%20Saving%20Lives%20Phase%20II,child%20health%20and%20nutrition%20services.) in Sierra Leone.
 
 In addition, Otuonye said, “Governance structures need to make financial processes as transparent and traceable as possible. Mechanisms such as fiduciary risk assessments and the application of public financial management systems can [help].” For example, in Sierra Leone, Crown Agents provides regular fiduciary management oversight and technical assistance to the Ministry of Health and Sanitation through hands-on budgetary support, operational oversight on procurement and inventory management.
 
