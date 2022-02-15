@@ -31,13 +31,13 @@ Increased funding to tackle the pandemic can also increase the risk of corruptio
 
 For international development practitioners, supporting governments to tackle corruption within supply chains is important because it means leaving more money available to fund national health budgets. We spoke to experts from DAI and Crown Agents about how governments can curb procurement corruption in their health supply chains.
 
-![ppe.jpg](/uploads/ppe.jpg)`Health supply chains are under pressure to personal protective equipment and other pandemic-related equipment. Photo: UKaid Tackling Deadly Diseases in Africa.`
-
 **1. Apply a single set of procurement guidelines that follow international standards**
 
 Rahaim suggests working with both governments and donors to develop a single set of procurement guidelines that donors can accept and trust as rigorous. “We need to help countries review and update policies and procurement regulations to which all donors can align,” he said. Donor compliance regulations often mean that countries must set up parallel supply chains to deliver goods and services, rather than relying on their own national health supply chain. However, donors increasingly are seeking to strengthen national supply chains rather than insisting on parallel delivery systems. This is true in countries such as Nigeria, Tanzania, and Zambia that receive funds from the President's Emergency Plan for AIDS Relief (PEPFAR). This shift in the donor mindset creates an ideal moment for harmonizing national guidelines with donor compliance requirements, said Rahaim. 
 
 Heredia-Ortiz said the key to ensuring that donor and national regulations are aligned is to follow international standards and build worker capacity. “International standards improve data management, system interoperability, and efficiency,” she said.
+
+![ppe.jpg](/uploads/ppe.jpg)`Health supply chains are under pressure to personal protective equipment and other pandemic-related equipment. Photo: UKaid Tackling Deadly Diseases in Africa.`
 
 **2. Strengthen supply chain structures and processes**
 
