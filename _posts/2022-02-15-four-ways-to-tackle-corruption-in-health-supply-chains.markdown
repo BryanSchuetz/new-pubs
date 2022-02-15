@@ -45,6 +45,8 @@ In addition, Otuonye said, “Governance structures need to make financial proce
 
 Heredia-Ortiz emphasized the need for a holistic approach that encompasses an improved legal and regulatory framework, healthy private sector participation, and capacity building throughout the supply chain. “Some countries have effective rules and regulations, but poor business processes,” she said. “That’s not enough and doesn’t make for a strong sustainable supply chain system. Strong supply chains link people, processes, and technology together. We need to build people’s capacity, set up strong processes and legal frameworks, and then bring in technology to make everything interoperable.”
 
+![Guatemala 1.jpg](/uploads/Guatemala%201.jpg)`DAI helped standardize health systems in Guatemala. Photo: DAI.`
+
 **3. Improve data architecture** 
 
 “Better data is key,” Heredia-Ortiz continued, [highlighting a project](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp) where DAI helped standardize Guatemala’s procurement catalog and supplier management system. The new system helped highlight irregularities, standardize procurement requests, and track suppliers across 11 ministries, providing greater transparency.
