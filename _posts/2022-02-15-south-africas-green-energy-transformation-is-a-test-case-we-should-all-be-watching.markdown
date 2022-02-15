@@ -7,9 +7,9 @@ author: "[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), [
 thumbnail-image: "/uploads/albert-hyseni-COAL-unsplash.jpg"
 ---
 
-The transition to clean energy requires massive investment from all quarters. The Intergovernmental Panel on Climate Change made it clear that the world will never reach the goals of the Paris Agreement on climate change without major contributions from advanced *and* emerging economies, which currently account for around 70 percent of global emissions. 
+The transition to clean energy requires massive investment from all quarters. The Intergovernmental Panel on Climate Change made it clear that the world will never reach the goals of the [Paris Agreement](https://www.un.org/en/climatechange/paris-agreement) on climate change without major contributions from advanced *and* emerging economies, which currently account for around 70 percent of global emissions. 
 
-Enter, via the melee that was COP26, the Political Declaration on the Just Energy Transition in South Africa. Signed by the governments of South Africa, the United Kingdom, the United States, France, Germany, and the European Union, the Declaration outlines a partnership to support the decarbonization of South Africa’s heavily coal-dependent energy system—underwritten by financing of $8.5 billion over the next three to five years. 
+Enter, via the melee that was COP26, the [Political Declaration on the Just Energy Transition in South Africa](https://ukcop26.org/political-declaration-on-the-just-energy-transition-in-south-africa/). Signed by the governments of South Africa, the United Kingdom, the United States, France, Germany, and the European Union, the Declaration outlines a partnership to support the decarbonization of South Africa’s heavily coal-dependent energy system—underwritten by financing of $8.5 billion over the next three to five years. 
 
 
 
@@ -23,13 +23,14 @@ Finding the right balance between just transition, climate change action, and eq
 
 The past 12 months have seen increased scrutiny of the coal sector, which currently supplies around 35 percent of global energy. Its higher carbon emissions per watt-hour, compared to other hydrocarbons, make it a primary target for replacement, particularly as cleaner alternatives become cheaper. Countries still planning long-term coal investments risk ending up with expensive stranded assets.
  
-Mindful of this risk, many financial institutions have stepped away from funding coal projects. Even countries such as China, South Korea, and Japan, which had been filling that investment gap in many African and Asian countries have stepped back. At the 76th session of the UN General Assembly in September 2021, President Xi Jinping announced that China “will not build new coal-fired power projects abroad.” Shortly after, the Bank of China announced it would no longer finance new coal mining and power projects abroad for the last quarter of 2021, including a new coal-fired power plant for the South African Musina-Makhado Special Economic Zone.  
+Mindful of this risk, many financial institutions have stepped away from funding coal projects. Even countries such as China, South Korea, and Japan, which had been filling that investment gap in many African and Asian countries have stepped back. At the 76th session of the UN General Assembly in September 2021, President Xi Jinping announced that China “will not build new coal-fired power projects abroad.” Shortly after, the [Bank of China](https://www.climatechangenews.com/2021/07/01/chinas-biggest-bank-ditching-zimbabwe-coal-plant-campaigners-say/
+https://www.unep.org/news-and-stories/story/lamu-coal-plant-case-reveals-tips-other-community-led-campaigns) announced it would no longer finance new coal mining and power projects abroad for the last quarter of 2021, including [a new coal-fired power plant](https://mg.co.za/environment/2021-11-18-china-wont-fund-coal-power-for-musina-makhado-special-economic-zone-ambassador-confirms/) for the South African Musina-Makhado Special Economic Zone.  
 
 Granted, the final language of the Glasgow Climate Pact saw the "phase out" of coal-fired power replaced with "phase down," but the general sentiment remains squarely anti-coal. 
 
 ## South Africa—A Coal Dependent Nation
 
-For the South African government, addressing climate change is a priority, particularly its transition from coal to clean power. President Ramaphosa set up the nation’s Presidential Climate Commission to develop an energy transition framework that is fair for all. Ahead of COP26, South Africa submitted new, more ambitious climate commitments in its revised Nationally Determined Contribution (NDC), underscoring the country’s commitment to reach Net Zero by 2050. 
+For the South African government, addressing climate change is a priority, particularly its transition from coal to clean power. President Ramaphosa set up the nation’s [Presidential Climate Commission]( https://www.climatecommission.org.za/) to develop an energy transition framework that is fair for all. Ahead of COP26, South Africa submitted new, more ambitious climate commitments in its revised [Nationally Determined Contribution](https://www.un.org/en/climatechange/all-about-ndcs) (NDC), underscoring the country’s commitment to reach Net Zero by 2050. 
 
 Delivering against this NDC will not be easy. The fourth largest global exporter of coal, South Africa is both fossil fuel-rich and fossil fuel-dependent. Around 80 percent of its energy needs are met by coal power and even today the country is modernizing old and inefficient power plants and infrastructure to increase output still further. 
 
@@ -65,7 +66,7 @@ Other challenges to be addressed include:
 
 ### The Way Forward 
 
-The successful rollout of the Declaration in South Africa is contingent on the partner countries' delivery of the funding. South Africa is the biggest and most important economy in the Southern African Development Community region, and is capable of leveraging significant funds. In our view, there are five areas that South Africa and the partners need to implement, that will provide the governance structure and help mobilize further public and private finance: 
+The successful rollout of the Declaration in South Africa is contingent on the partner countries' delivery of the funding. South Africa is the biggest and most important economy in the Southern African Development Community region and is capable of leveraging significant funds. In our view, there are five areas that South Africa and the partners need to implement, that will provide the governance structure and help mobilize further public and private finance: 
  
 1. Define a transition financing plan with sectorial investment needs and packages relevant to the context of South Africa’s highly constrained fiscal situation.   
 2. Establish a realistic plan to resolve Eskom’s problems, including unbundling the company to its principal components—generation, transmission, and distribution—and encourage fair and transparent private sector participation in the energy sector. The Government has recently approved amendments to the Electricity Regulation Act, which will create a competitive market for electricity generation and allow an independent state-owned transmission company to be established.
