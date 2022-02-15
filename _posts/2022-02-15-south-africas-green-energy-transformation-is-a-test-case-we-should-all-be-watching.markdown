@@ -33,7 +33,7 @@ https://www.unep.org/news-and-stories/story/lamu-coal-plant-case-reveals-tips-ot
 
 Granted, the final language of the Glasgow Climate Pact saw the "phase out" of coal-fired power replaced with "phase down," but the general sentiment remains squarely anti-coal. 
 
-## South Africa—A Coal Dependent Nation
+### South Africa—A Coal Dependent Nation
 
 For the South African government, addressing climate change is a priority, particularly its transition from coal to clean power. President Ramaphosa set up the nation’s [Presidential Climate Commission]( https://www.climatecommission.org.za/) to develop an energy transition framework that is fair for all. Ahead of COP26, South Africa submitted new, more ambitious climate commitments in its revised [Nationally Determined Contribution](https://www.un.org/en/climatechange/all-about-ndcs) (NDC), underscoring the country’s commitment to reach Net Zero by 2050. 
 
