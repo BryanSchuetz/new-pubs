@@ -14,28 +14,40 @@ Enter, via the melee that was COP26, the Political Declaration on the Just Energ
 
 
 Such targeted support to a key producer and consumer of coal could be transformative if it is well implemented, and could emerge as a model. There are already suggestions of similar packages in the works for countries such as India (the second largest producer of coal after China), Indonesia (the fourth largest producer of coal and Southeast Asia’s biggest gas supplier), and Kazakhstan (home to Central Asia's largest recoverable coal reserves). 
+
 Extending such measures to developing economies where reserves of coal, oil, and gas have not yet been exploited could also be effective, but raises complex issues including energy access and the right to develop energy resources. These concerns are paramount in Sub-Saharan Africa, home to three-quarters of the global population without access to electricity. In neighboring Mozambique, for example, rich in coal and boasting the third-largest reserves of natural gas in Africa, only 32 percent of the population has reliable access to electricity, dropping to just seven percent in rural areas. 
-Finding the right balance between just transition, climate change action, and equitable energy access will be critical, and the eyes of the world will be on the South African test case. In this paper, we briefly review the Declaration and the complex questions it raises, and offer some initial thoughts on how policy makers and development practitioners can address some of the challenges ahead.
+
+Finding the right balance between just transition, climate change action, and equitable energy access will be critical, and the eyes of the world will be on the South African test case. In this paper, we briefly review the Declaration and the complex questions it raises, and offer some initial thoughts on how policymakers and development practitioners can address some of the challenges ahead.
 
 ### Coal—The “Dirty” Fuel
 
-The past 12 months have seen increased scrutiny of the coal sector, which currently supplies around 35 percent of global energy. Its higher carbon emissions per watt-hour, compared to other hydrocarbons, make it a primary target for replacement, particularly as cleaner alternatives become cheaper. Countries still planning long-term coal investments risk ending up with expensive stranded assets. 
-Mindful of this risk, many financial institutions have stepped away from funding coal projects. Even countries such as China, South Korea, and Japan, which had been filling that investment gap in many African and Asian countries, have stepped back. At the 76th session of the UN General Assembly in September 2021, President Xi Jinping announced that China “will not build new coal-fired power projects abroad.” Shortly after, the Bank of China  announced it would no longer finance new coal mining and power projects abroad for the last quarter of 2021, including a new coal-fired power plant for the South African Musina-Makhado Special Economic Zone.  
+The past 12 months have seen increased scrutiny of the coal sector, which currently supplies around 35 percent of global energy. Its higher carbon emissions per watt-hour, compared to other hydrocarbons, make it a primary target for replacement, particularly as cleaner alternatives become cheaper. Countries still planning long-term coal investments risk ending up with expensive stranded assets.
+ 
+Mindful of this risk, many financial institutions have stepped away from funding coal projects. Even countries such as China, South Korea, and Japan, which had been filling that investment gap in many African and Asian countries have stepped back. At the 76th session of the UN General Assembly in September 2021, President Xi Jinping announced that China “will not build new coal-fired power projects abroad.” Shortly after, the Bank of China announced it would no longer finance new coal mining and power projects abroad for the last quarter of 2021, including a new coal-fired power plant for the South African Musina-Makhado Special Economic Zone.  
+
 Granted, the final language of the Glasgow Climate Pact saw the "phase out" of coal-fired power replaced with "phase down," but the general sentiment remains squarely anti-coal. 
-South Africa—A Coal Dependent Nation
-For the South African government, addressing climate change is a priority, particularly its transition from coal to clean power. President Ramaphosa set up the nation’s Presidential Climate Commission  to develop an energy transition framework that is fair for all. Ahead of COP26, South Africa submitted new, more ambitious climate commitments in its revised Nationally Determined Contribution  (NDC), underscoring the country’s commitment to reach Net Zero by 2050. 
+
+## South Africa—A Coal Dependent Nation
+
+For the South African government, addressing climate change is a priority, particularly its transition from coal to clean power. President Ramaphosa set up the nation’s Presidential Climate Commission to develop an energy transition framework that is fair for all. Ahead of COP26, South Africa submitted new, more ambitious climate commitments in its revised Nationally Determined Contribution (NDC), underscoring the country’s commitment to reach Net Zero by 2050. 
+
 Delivering against this NDC will not be easy. The fourth largest global exporter of coal, South Africa is both fossil fuel-rich and fossil fuel-dependent. Around 80 percent of its energy needs are met by coal power and even today the country is modernizing old and inefficient power plants and infrastructure to increase output still further. 
+
 This dependence on coal is the primary reason why South Africa is the world’s 12th largest emitter of CO2 and there has been both internal and external pressure for the country to transition to cleaner energy, both for climate and health reasons (5,000 deaths a year are attributable to poor air quality linked to coal-fired power stations) and as part of a broader system upgrade (power outages are a major constraint on the country’s economic growth). 
 
 ### The Declaration
 
 The South African Government itself was the primary architect of the Political Declaration on the Just Energy Transition in South Africa, which aims to move the nation toward low emissions and climate-resilient development, accelerate the decarbonization of the electricity system, and develop new economic opportunities. 
+
 A “just” transition is particularly important to South Africa. It was the only country to mention justice in its first NDC, providing a chapter on “just transition” in the National Development Plan, and it has supported a series of national dialogues, assessments, and consultations on the social and economic challenges involved. To be just, the transition must ensure that a workforce dependent on the fossil-fuel sector has opportunities to retrain, and that women, youth, minorities, and marginalized groups have equal opportunity to participate; that new jobs provide a living wage, safe workplaces, and rights that are respected; and that people, particularly the poor and vulnerable, do not become collateral damage in the transition and can access affordable and clean energy.
+
 Acknowledging South Africa’s complex economic context and the need to rapidly decarbonize while protecting the economy and livelihoods, the Declaration envisages a task force that will oversee the partnership and guide the process by:
-•	Supporting the jobs and skills transition. 
-•	Managing state energy company Eskom’s debt and supporting it as an agent of change.
-•	Supporting local industry and supply chains to take advantage of the transition.
-•	Supporting technical innovation to drive further acceleration. 
+
+* Supporting the jobs and skills transition. 
+* Managing state energy company Eskom’s debt and supporting it as an agent of change.
+* Supporting local industry and supply chains to take advantage of the transition.
+* Supporting technical innovation to drive further acceleration. 
+
 South Africa has relatively strong credentials in designing policies to support an inclusive energy transition. The South African Renewable Energy Technology Center, for example, provides basic safety and technical training and accredits wind turbine and PV service technicians. More than 32,000 direct jobs have been attributed to this program through 2017, and the Center estimates it will support more than 100,000 jobs over the 20-year program period. It will be interesting to see how new policies and programs will be developed under the auspices of the Declaration and its partners. 
 
 ### What Happens Next?
