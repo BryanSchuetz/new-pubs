@@ -2,6 +2,10 @@
 title: South Africa’s Green Energy Transformation is a Test Case We Should All Be
   Watching
 date: 2022-02-15 05:11:00 -05:00
+tags:
+- climate
+- energy
+- south africa
 author: "[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), [Sofia
   Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
 thumbnail-image: "/uploads/albert-hyseni-COAL-unsplash.jpg"
