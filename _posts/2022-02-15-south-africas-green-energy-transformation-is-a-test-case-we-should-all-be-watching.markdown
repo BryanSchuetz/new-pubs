@@ -5,6 +5,8 @@ date: 2022-02-15 05:11:00 -05:00
 author: "[Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), [Sofia
   Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
 thumbnail-image: "/uploads/albert-hyseni-COAL-unsplash.jpg"
+social-image: "/uploads/albert-hyseni-COAL-unsplash.jpg"
+publication: Developments
 ---
 
 The transition to clean energy requires massive investment from all quarters. The Intergovernmental Panel on Climate Change made it clear that the world will never reach the goals of the [Paris Agreement](https://www.un.org/en/climatechange/paris-agreement) on climate change without major contributions from advanced *and* emerging economies, which currently account for around 70 percent of global emissions. 
