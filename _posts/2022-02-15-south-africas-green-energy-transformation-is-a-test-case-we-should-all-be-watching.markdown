@@ -13,6 +13,7 @@ Enter, via the melee that was COP26, the [Political Declaration on the Just Ener
 
 
 
+
 Such targeted support to a key producer and consumer of coal could be transformative if it is well implemented, and could emerge as a model. There are already suggestions of similar packages in the works for countries such as India (the second largest producer of coal after China), Indonesia (the fourth largest producer of coal and Southeast Asia’s biggest gas supplier), and Kazakhstan (home to Central Asia's largest recoverable coal reserves). 
 
 Extending such measures to developing economies where reserves of coal, oil, and gas have not yet been exploited could also be effective, but raises complex issues including energy access and the right to develop energy resources. These concerns are paramount in Sub-Saharan Africa, home to three-quarters of the global population without access to electricity. In neighboring Mozambique, for example, rich in coal and boasting the third-largest reserves of natural gas in Africa, only 32 percent of the population has reliable access to electricity, dropping to just seven percent in rural areas. 
