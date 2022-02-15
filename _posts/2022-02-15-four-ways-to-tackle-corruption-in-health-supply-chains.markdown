@@ -4,6 +4,8 @@ date: 2022-02-15 14:18:00 -05:00
 published: false
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) and [Anna
   Schuesterl](https://www.linkedin.com/in/annaschuesterl2021/)"
+thumbnail-image: "/uploads/sm%20SCshutterstock_784765822.jpg"
+social-image: "/uploads/sm%20SCshutterstock_784765822.jpg"
 publication: Developments
 ---
 
