@@ -22,6 +22,8 @@ Extending such measures to developing economies where reserves of coal, oil, and
 
 Finding the right balance between just transition, climate change action, and equitable energy access will be critical, and the eyes of the world will be on the South African test case. In this paper, we briefly review the Declaration and the complex questions it raises, and offer some initial thoughts on how policymakers and development practitioners can address some of the challenges ahead.
 
+![albert-hyseni-COAL-unsplash.jpg](/uploads/albert-hyseni-COAL-unsplash.jpg)`Finding the right balance in decarbonizing South Africa's coal industry. Photo courtesy: Albert Hyseni`
+
 ### Coal—The “Dirty” Fuel
 
 The past 12 months have seen increased scrutiny of the coal sector, which currently supplies around 35 percent of global energy. Its higher carbon emissions per watt-hour, compared to other hydrocarbons, make it a primary target for replacement, particularly as cleaner alternatives become cheaper. Countries still planning long-term coal investments risk ending up with expensive stranded assets.
@@ -38,6 +40,8 @@ For the South African government, addressing climate change is a priority, parti
 Delivering against this NDC will not be easy. The fourth largest global exporter of coal, South Africa is both fossil fuel-rich and fossil fuel-dependent. Around 80 percent of its energy needs are met by coal power and even today the country is modernizing old and inefficient power plants and infrastructure to increase output still further. 
 
 This dependence on coal is the primary reason why South Africa is the world’s 12th largest emitter of CO2 and there has been both internal and external pressure for the country to transition to cleaner energy, both for climate and health reasons (5,000 deaths a year are attributable to poor air quality linked to coal-fired power stations) and as part of a broader system upgrade (power outages are a major constraint on the country’s economic growth). 
+
+![AdobeStock_406350316.jpeg](/uploads/AdobeStock_406350316.jpeg)`South Africa's dependence on coal makes it the 12th largest emitter of CO2. Photo: AdobeStock`
 
 ### The Declaration
 
