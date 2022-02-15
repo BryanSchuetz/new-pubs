@@ -1,8 +1,7 @@
 ---
 title: A Strong Innovation Ecosystem Relies on Financially Sustainable Incubators
   and Accelerators
-date: 2022-02-14 05:28:00 -05:00
-published: false
+date: 2022-02-15 05:00:00 -05:00
 tags:
 - sustainable-business
 author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
