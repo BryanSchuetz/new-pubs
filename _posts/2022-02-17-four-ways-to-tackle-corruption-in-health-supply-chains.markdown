@@ -36,7 +36,7 @@ Rahaim suggests working with both governments and donors to develop a single set
 
 Heredia-Ortiz said the key to ensuring that donor and national regulations are aligned is to follow international standards and build worker capacity. “International standards improve data management, system interoperability, and efficiency,” she said.
 
-![ppe.jpg](/uploads/ppe.jpg)`Health supply chains are under pressure to personal protective equipment and other pandemic-related equipment. Photo: UKaid Tackling Deadly Diseases in Africa.`
+![ppe.jpg](/uploads/ppe.jpg)`Health supply chains are under pressure to deliver personal protective equipment and other pandemic-related goods. Photo: FCDO Tackling Deadly Diseases in Africa.`
 
 **2. Strengthen supply chain structures and processes**
 
