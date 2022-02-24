@@ -36,7 +36,7 @@ In February 2017, therefore, the Ministry of Finance (MoF) and other relevant pu
 
 ## The Logic of Fiscal Administration
 
-“Among the key challenges of public finance management systems for local governments were inefficient budget processes, which were prone to errors with potentially inconsistent use of accounting principles, weak fiscal frameworks, and [ lack of] oversight of local government borrowing,” said Petkov. “The limited accountability of local governments was also a problem which Ukraine had to overcome.”
+“Among the key challenges of public finance management systems for local governments were inefficient budget processes, which were prone to errors with potentially inconsistent use of accounting principles, weak fiscal frameworks, and [lack of] oversight of local government borrowing,” said Petkov. “The limited accountability of local governments was also a problem which Ukraine had to overcome.”
 
 DAI’s technical assistance team spent the better part of three years in Ukraine, working closely with the MoF and peer organizations. For decentralization to work effectively, said Petkov, simply transferring responsibilities to lower levels of government is not enough: you have to ensure that subnational authorities have adequate capacities to carry out their function, proper coordination mechanisms, effective monitoring systems, and a better balance in the way policy functions are decentralized.
 
