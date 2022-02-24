@@ -63,7 +63,7 @@ The USAID-funded Economic Resilience Activity (ERA) seeks to address this surge 
 
 Even before the pandemic, the UN High Commission on Refugees had highlighted the lack of shelters in Eastern Ukraine, but this need has been exacerbated by a doubling of domestic violence reports in the region related to COVID-19.
 
-The need for support to women—both those in shelters and those at risk—is now dire, said [Andrea Chartock](https://www.dai.com/who-we-are/our-team/andrea-chartock), a DAI Senior Global Development Practitioner. While the Oblast Social Service Departments and NGOs offer psychosocial support, they do not currently offer comprehensive workforce or livelihoods support nor offer a consistent or strategic “off-ramp” for women and their families to restart their lives after leaving shelter care, she said. 
+The need for support to women—both those in shelters and those at risk—is now dire, said [Andrea Chartock](https://www.dai.com/who-we-are/our-team/andrea-chartock), a DAI Senior Global Development Practitioner. While the Oblast Social Service Departments and nongovernmental groups offer psychosocial support, they do not currently offer comprehensive workforce or livelihoods support nor offer a consistent or strategic “off-ramp” for women and their families to restart their lives after leaving shelter care, she said. 
 
 In addition to building the capacity of the existing shelters, ERA will help build a network of institutions supporting survivors; investigate issues affecting survivors and support advocacy for regulatory solutions; provide professional skills training to women; and carry out a campaign to address gender-based violence.
 
