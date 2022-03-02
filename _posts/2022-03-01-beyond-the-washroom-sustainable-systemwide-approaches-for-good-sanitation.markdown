@@ -26,8 +26,6 @@ This multiplicity of goals requires a reset in our thinking: sanitation is not j
 
 In more than a dozen countries, DAI is implementing sustainable sanitation approaches and transferring tools into local hands to scale results beyond the typical five-year lifecycle of project funding. The following examples offer some practical insights into how to achieve lasting access to sanitation and move toward universal coverage.
  
-# Digitizing Access in Urban Indonesia
-
 ## Digitizing Access in Urban Indonesia
 
 In Indonesia, where 90 percent of groundwater in bustling Jakarta is contaminated with E.Coli bacteria and 100,000 children die of waterborne diarrheal diseases each year, solutions extend far beyond hardware provision. DAI and the U.S. Agency for International Development (USAID) implemented a multi-pronged approach through the [Indonesia Urban Water, Sanitation, and Hygiene Penyehatan Lingkungan untuk Semua](https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash) (IUWASH PLUS) project, which improved urban sanitation by building local demand for sanitation services and then affording households with access to service providers through a mobile application called [Go Ploong](https://play.google.com/store/apps/details?id=com.uptpal.ipalscan&hl=in&gl=US). Broadly, the [project](https://www.iuwashplus.or.id/?lang=en) improved community access to septic systems and desludging services, boosted local governments’ ability to better manage sanitation systems and utilities, and facilitated joint investments by local governments, Central Government, and private sector firms to help maintain WASH projects and waste treatment services in the long run.
