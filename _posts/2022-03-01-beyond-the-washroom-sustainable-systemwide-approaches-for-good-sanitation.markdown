@@ -74,4 +74,4 @@ Financial sustainability and engagement across service providers, customers, and
 
 Across the globe, smart sanitation must increasingly think beyond the construction of hardware—valuable as that is—and focus on the system-level changes necessary to make waste management an efficient and viable enterprise for the long term. 
 
-*[Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/) is a strategic communications consultant. Email Kimberly [here](mailto:kimberly_keeton@dai.com).*
+*[Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/) is a strategic communications consultant. Email Kimberly [here](mailto:contact_kimberly_keeton@dai.com).*
