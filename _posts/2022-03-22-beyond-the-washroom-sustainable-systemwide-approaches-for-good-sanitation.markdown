@@ -2,6 +2,11 @@
 title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
 date: 2022-03-22 07:24:00 -04:00
 published: false
+tags:
+- Water
+- WASH
+- environment-and-energy
+- usaid
 author: "[Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/)"
 thumbnail-image: "/uploads/SM%20SANI.jpg"
 social-image: "/uploads/SM%20SANI.jpg"
