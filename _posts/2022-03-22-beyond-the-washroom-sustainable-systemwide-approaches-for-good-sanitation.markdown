@@ -59,11 +59,10 @@ Lastly, on the treatment side, the project provided technical assistance to reop
 
 The project’s model in Haiti emphasizes sustainability. Ensuring that utility and sanitation providers can recover their costs enables them to thrive in the long term, which in turn provides Haitians with the safe waste disposal needed to reduce waterborne disease. Best of all, the model is replicable across the country. According to the project’s Chief of Party [Daniel O’Neil](https://www.dai.com/who-we-are/our-team/daniel-oneil), “We’re trying to develop sustainable utilities. If we pull this off, Haiti will have clear models for how all the [utility service providers] should be functioning.”
 
-Sustainable Solutions and Systemic Thinking
+## Sustainable Solutions and Systemic Thinking
 
 Financial sustainability and engagement across service providers, customers, and governments are the common threads in these examples. The path toward universal sanitation entails investing in approaches that empower communities and governments to implement and scale practices that make good business sense—whether by digitizing community access to desludging services in Indonesia, training county-level sanitation entrepreneurs in Kenya, or providing a roadmap for self-reliant FSM sites in Haiti.
 
 Across the globe, smart sanitation must increasingly think beyond the construction of hardware—valuable as that is—and focus on the system-level changes necessary to make waste management an efficient and viable enterprise for the long term. 
-
 
 *[Kimberly Keeton](https://www.linkedin.com/in/kimberlyekeeton/) is a strategic communications consultant. Email Kimberly [here](mailto:kimberly_keeton@dai.com).*
