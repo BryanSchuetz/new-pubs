@@ -8,6 +8,13 @@ publication: Developments
 
 After years of growing professional interest, economic analyses, and policy engagement on global sanitation issues, there is now a solid body of evidence on the value of good sanitation. But to achieve universal access to adequate and sustainable sanitation services, we must translate this momentum into action. The next frontier in sanitation will have to advance on many fronts—identifying champions who can articulate the rationale for good sanitation and influence other development partners and actors; recognizing the critical role of the private sector in extending public services; seizing opportunities to blend public finance with commercial investment for wider benefit; sustaining behavior change to drive demand for services; and using knowledge and training to scale promising approaches in new geographies and demographics. 
 
+
+
+
+
+
+
+
 This multiplicity of goals requires a reset in our thinking: sanitation is not just toilets, facility construction, and hygiene campaigns. Today’s sanitation interventions must integrate actions on governance, policy, regulation, and finance; empower institutions and communities—especially marginalized groups; and integrate tools and technologies that make good sanitation broadly accessible and, crucially, financially sustainable. 
 In more than a dozen countries, DAI is implementing sustainable sanitation approaches and transferring tools into local hands to scale results beyond the typical five-year lifecycle of project funding. The following examples offer some practical insights into how to achieve lasting access to sanitation and move toward universal coverage. 
 Digitizing Access in Urban Indonesia
