@@ -12,9 +12,9 @@ social-image: "/uploads/sm%20NSG%20school.jpg"
 publication: Developments
 ---
 
-With more than 1 million employees, the South African government is the country’s single-largest employer. Public officials, both elected and appointed, play a critical role in the efficiency of the state, their competence directly affecting the governance and functioning of institutions.  
+With more than 1 million employees, the South African government is the country’s [single-largest employer](http://www.dpru.uct.ac.za/sites/default/files/image_tool/images/36/Publications/Other/2017-11-30%20Public%20Sector%20Factsheet.pdf). Public officials, both elected and appointed, play a critical role in the efficiency of the state, their competence directly affecting the governance and functioning of institutions.  
 
-Since its transition to democracy in 1994, South Africa’s governance and administrative systems have gradually incorporated modernized models of service delivery. The South African National Developmental Plan (NDP), which serves as the country's development roadmap, envisions a transformative role for the state and sees the public sector as the essential engine for development. But the discrepancy between these aspirations and the reality of generally poor public service delivery remains stark. 
+Since its transition to democracy in 1994, South Africa’s governance and administrative systems have gradually incorporated modernized models of service delivery. The [South African National Developmental Plan](https://www.gov.za/issues/national-development-plan-2030) (NDP), which serves as the country's development roadmap, envisions a transformative role for the state and sees the public sector as the essential engine for development. But the discrepancy between these aspirations and the reality of generally poor public service delivery remains stark. 
 
 There are numerous reasons for the disconnect, including outmoded practices in human resource management and development, and a lack of capacity among managers and support staff. The government provided no systematic evaluation of successes and failures, little standardisation, and no needs assessment. Training was too often outsourced to Ill-equipped vendors.
 
