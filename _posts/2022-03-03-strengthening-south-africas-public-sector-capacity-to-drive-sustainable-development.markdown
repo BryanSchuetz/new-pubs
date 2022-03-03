@@ -7,6 +7,8 @@ tags:
 - european-union
 - governance
 author: "[Olivia Govik](https://www.linkedin.com/in/olivia-govik/)"
+thumbnail-image: "/uploads/sm%20NSG%20school.jpg"
+social-image: "/uploads/sm%20NSG%20school.jpg"
 publication: Developments
 ---
 
@@ -24,7 +26,7 @@ It was against this backdrop that the National School of Government (NSG) was la
 
 
  
-`South Africa's National School of Government. Photo: NSG.`
+![NSG school.jpg](/uploads/NSG%20school.jpg)`South Africa's National School of Government. Photo: NSG.`
 
 ## Determining a Baseline
  
@@ -50,7 +52,7 @@ The project’s direct training support culminated in a training-of-trainer init
 
 “The European Union support has been central to achieving positive results in our cadet and youth development programmes,” said NSG Director of Cadet and Youth Development, Ephraim Mmekoa. “In addition to assisting with the delivery of the training initiatives across the country, the technical support provided has been significant in ensuring that we now have a longer-term and more sustainable initiative that specifically targets young new entrants into Public Service. We are hopeful that the support will continue as we move towards a higher level of delivery and ensure that our efforts remain central towards enhancing the NSG’s ability to contribute towards improving state capacity for delivery in South Africa.”
   
-`Youth Orientation Training Programme Training of Trainers Session. Photo: EU Technical Expertise and Implementation Support Services for the NSG project.`
+![training session.jpg](/uploads/training%20session.jpg)`Youth Orientation Training Programme training of trainers session. Photo: EU Technical Expertise and Implementation Support Services for the NSG project.`
 
 ## Raising the Profile
 
