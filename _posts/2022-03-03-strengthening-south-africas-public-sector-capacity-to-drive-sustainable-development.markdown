@@ -18,7 +18,7 @@ Since its transition to democracy in 1994, South Africa’s governance and admin
 
 There are numerous reasons for the disconnect, including outmoded practices in human resource management and development, and a lack of capacity among managers and support staff. The government provided no systematic evaluation of successes and failures, little standardisation, and no needs assessment. Training was too often outsourced to Ill-equipped vendors.
 
-It was against this backdrop that the National School of Government (NSG) was launched in 2013 to “Empower public servants to be responsive to citizen needs and government priorities, through education, training, and development interventions.” Since 2019, DAI has been working through the European Union-funded Technical Expertise and Implementation Support Services for the NSG project to advance this goal.  
+It was against this backdrop that the National School of Government (NSG) was launched in 2013 to “Empower public servants to be responsive to citizen needs and government priorities, through education, training, and development interventions.” Since 2019, DAI has been working through the European Union-funded [Technical Expertise and Implementation Support Services for the NSG](https://www.dai.com/our-work/projects/south-africa-technical-expertise-and-implementation-support-services-for-the-national-school-of-government-nsg) project to advance this goal.  
 
 
 
@@ -30,7 +30,7 @@ It was against this backdrop that the National School of Government (NSG) was la
 
 ## Determining a Baseline
  
-The project team was tasked to deliver three interlinked objectives: 1) Enable the school to operate more efficiently, 2) Support the rollout of training programmes, and 3) Strengthen the position of the NSG within strategic networks and partnerships. 
+The project team was tasked to deliver three [interlinked objectives](https://www.thensg.gov.za/mandate/): 1) Enable the school to operate more efficiently, 2) Support the rollout of training programmes, and 3) Strengthen the position of the NSG within strategic networks and partnerships. 
 
 The project kicked off during a period of intense reflection and planning regarding the future of the NSG. Government leaders were keen for the NSG to take on an expanded mandate, including capacity building for the wider public sector, local authorities, and public enterprises. DAI helped revamp the school’s strategic plan, design a new organisational structure, and conduct a skills audit of NSG staff. “The resulting staff profiles database is proving particularly useful right now,” said Team Leader Robert Taylor, as the NSG assigns individuals to new roles in its new structure. 
 
