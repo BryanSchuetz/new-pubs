@@ -35,6 +35,8 @@ In Indonesia, where 90 percent of groundwater in bustling Jakarta is contaminate
 “Creating market demand for sanitation begins at the community level,” said IUWASH PLUS Deputy Chief of Party Alifah Lestari, which is why the project headed straight to communities and placed women at the center of the approach in 2019, promoting scheduled desludging services among groups of women from nearby households. Once enrolled, hundreds of pilot households received desludging services on a scheduled basis. At the same time, IUWASH PLUS worked with private sector sludge removal operators to improve their disposal practices and meet environmental and safety standards, while also linking them to the municipal wastewater agency to agree on regulations for safe disposal and treatment. The pilot database evolved into the Go Ploong app, which now links customers directly to a network of trained and qualified private service providers for safe and continuous desludging services. 
  
 In Indonesia, the key to a sustainable approach was creating a long-term market for sanitation products and services. “Together with the Government of Indonesia, USAID is [ensuring] that activities like desludging are self-sustaining beyond the project period—because they are creating a market for those services,” said Trigeany Linggoatmodjo, senior WASH program specialist with USAID in Indonesia.
+
+![PAGE 24.JPG](/uploads/PAGE%2024.JPG)`IUWASH brought reliable water supply to more than 3 million people and safely managed sanitation services to more 960,000 city dwellers. Photo: USAID IUWASH.`
   
 ## Empowering WASH Innovations in Kenya
 
