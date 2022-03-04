@@ -60,7 +60,7 @@ To raise the NSG’s relatively low profile, the project team assisted NSG in im
 
 “The branding is vital as the NSG has to compete with private providers in the capacity building space and does not have a monopoly in capacity efforts,” said Taylor.
 
-With the support of our team, the NSG is now better known, better connected, and better equipped to deliver on the more ambitious mandate its government has assigned it. As DAI Project Director Storyan Georgiev put it, “Our intervention strengthened the NSG as a training institution, successfully rolling out three important training programmes, and strengthened the network and collaborations of the NSG in an effort to create new opportunities for the school and its beneficiaries.” 
+With the support of our team, the NSG is now better known, better connected, and better equipped to deliver on the more ambitious mandate its government has assigned it. As DAI Project Director Stoyan Georgiev put it, “Our intervention strengthened the NSG as a training institution, successfully rolling out three important training programmes, and strengthened the network and collaborations of the NSG in an effort to create new opportunities for the school and its beneficiaries.” 
 
 We look forward to celebrating the contributions of South Africa’s empowered civil servants as they continue to advance the cause of sustainable development.  
 
