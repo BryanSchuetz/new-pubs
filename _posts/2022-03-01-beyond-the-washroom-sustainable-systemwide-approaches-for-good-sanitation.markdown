@@ -64,7 +64,11 @@ In Les Cayes, on Haiti’s southern coast, the project successfully addressed al
 
 Then, the project supported an association of manual latrine pit emptiers to help them professionalize their work, register as companies, and get training on safe removal and transport of fecal sludge. The project also provided them with personal protective equipment and tools to ensure their safety, and the local OREPA arranged vehicles for the emptiers to rent to safely transport fecal sludge. 
 
+![FSM site Haiti - Credit Dan ONeil.JPG](/uploads/FSM%20site%20Haiti%20-%20Credit%20Dan%20ONeil.JPG)`The Fonfred FSM site in Haiti reopened and operationalized with USAID’s assistance. Photo: Dan O’Neil.`
+
 Lastly, on the treatment side, the project provided technical assistance to reopen a previously closed FSM site in Fonfred (located within Les Cayes), in collaboration with the World Bank, which is financing the infrastructure rehabilitation. To ensure the site’s long-term sustainability, the project helped create a business plan that will enable it to reach its breakeven point within just five months.  
+
+![Manual emptiers Haiti - Credit Marc Lee Steed.jpg](/uploads/Manual%20emptiers%20Haiti%20-%20Credit%20Marc%20Lee%20Steed.jpg)`Manual latrine emptiers in Les Cayes wear protective gear to ensure their safety. Photo: Marc Lee Steed.`
 
 The project’s model in Haiti emphasizes sustainability. Ensuring that utility and sanitation providers can recover their costs enables them to thrive in the long term, which in turn provides Haitians with the safe waste disposal needed to reduce waterborne disease. Best of all, the model is replicable across the country. According to the project’s Chief of Party [Daniel O’Neil](https://www.dai.com/who-we-are/our-team/daniel-oneil), “We’re trying to develop sustainable utilities. If we pull this off, Haiti will have clear models for how all the [utility service providers] should be functioning.”
 
