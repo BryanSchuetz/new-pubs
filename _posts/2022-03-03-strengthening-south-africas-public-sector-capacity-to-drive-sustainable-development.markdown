@@ -32,7 +32,7 @@ It was against this backdrop that the National School of Government (NSG) was la
  
 The project team was tasked to deliver three [interlinked objectives](https://www.thensg.gov.za/mandate/): 1) Enable the school to operate more efficiently, 2) Support the rollout of training programmes, and 3) Strengthen the position of the NSG within strategic networks and partnerships. 
 
-The project kicked off during a period of intense reflection and planning regarding the future of the NSG. Government leaders were keen for the NSG to take on an expanded mandate, including capacity building for the wider public sector, local authorities, and public enterprises. DAI helped revamp the school’s strategic plan, design a new organisational structure, and conduct a skills audit of NSG staff. “The resulting staff profiles database is proving particularly useful right now,” said Team Leader Robert Taylor, as the NSG assigns individuals to new roles in its new structure. 
+The project kicked off during a period of intense reflection and planning regarding the future of the NSG. Government leaders were keen for the NSG to take on an expanded mandate, including capacity building for the wider public sector, local authorities, and public enterprises. DAI helped revamp the school’s strategic plan, design a new organizational structure, and conduct a skills audit of NSG staff. “The resulting staff profiles database is proving particularly useful right now,” said Team Leader Robert Taylor, as the NSG assigns individuals to new roles in its new structure. 
 
 In addition to this, the project helped develop a wide range of discussion papers and presentations, focusing on business indicators, new funding models, and long-term repositioning.
 
