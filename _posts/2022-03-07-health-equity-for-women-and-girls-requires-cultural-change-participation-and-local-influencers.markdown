@@ -3,12 +3,11 @@ title: Health Equity for Women and Girls Requires Cultural Change, Participation
   and Local Influencers
 date: 2022-03-07 08:30:00 -05:00
 published: false
-categories:
-- global health
+tags:
+- global-health
 - gender
 - women
-- gender-based violence
-- health
+- health systems strengthening
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) and [Abigail
   Kaplan Ramage](https://www.dai.com/who-we-are/our-team/abigail-kaplan-ramage) "
 thumbnail-image: "/uploads/sm%20DSC_4290.jpg"
