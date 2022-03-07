@@ -59,7 +59,7 @@ Understanding locally accepted practices, gender norms, and key influencers is a
 
 For example, the [MAMaZ Against Malaria (MAM)](https://www.dai.com/our-work/projects/zambia-mamaz-against-malaria) and MAM@Scale projects in Zambia aimed to reduce child malaria deaths by training community health volunteers to give ill children a pre-referral medication that would help them survive until they reached a health facility. To encourage male participation, the project employed men as community health volunteers and bicycle ambulance drivers. As a result, men began taking a greater interest in the health of their wives and children—84 percent of community health volunteers reported domestic violence had decreased, and 95 percent of female community health volunteers reported they had a stronger voice in the community. Overall, the project saved nearly 500 children’s lives and improved the lives of more than 8,000 people.  
 
-![Devs----Zambia-malaria1-a88b71.jpg](/uploads/Devs----Zambia-malaria1-a88b71.jpg)`Healthcare delivery services via bicycle helped extend services in Zambia to all. Photo: MAM.`
+![Devs----Zambia-malaria1-a88b71.jpg](/uploads/Devs----Zambia-malaria1-a88b71.jpg)`Healthcare delivery services via bicycle helped extend services in Zambia to all. Photo: Toby Madden/Transaid.`
 
 “Because I’m a man, I try to set an example. I tell other men that you can copy what I do…. I’m sensitizing other men to be more involved at home,” said one of the male community health volunteers. “Men should also take their children to the health center.” 
 
