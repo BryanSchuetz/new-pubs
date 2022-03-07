@@ -5,13 +5,15 @@ date: 2018-08-01 14:57:00 -04:00
 tags:
 - governance
 - global-health
+author: Cathy Green and Paula Quigley
+thumbnail-image: "/uploads/Devs----Zambia-4.jpg"
+social-image: "/uploads/Devs----Zambia-4.jpg"
 publication: Developments
 issue: Fall 2018
 author-bio: Cathy Green, left, is a Senior Technical Adviser for Community Engagement
   to MAMaZ Against Malaria; [DAI Global Health](https://www.dai.com/our-work/solutions/global-health)’s
   [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley) is a Technical
   Lead for reproductive, maternal, newborn, child, and adolescent health.
-author: Cathy Green and Paula Quigley
 featured?: 
 assets:
 - path: "/uploads/Devs----Zambia-malaria1.jpg"
@@ -34,8 +36,6 @@ assets:
   name: Devs----Zambia-3
 - path: "/uploads/Evidence brief FINAL.pdf"
   name: Evidence brief FINAL
-thumbnail-image: "/uploads/Devs----Zambia-4.jpg"
-social-image: "/uploads/Devs----Zambia-4.jpg"
 ---
 
 Thousands of infants and children in rural Zambia suffer or die unnecessarily from malaria each year because they lack access to high-quality medicines and proper medical care. But a recent pilot program shows how trained local volunteers administering crucial medicine can keep a child well enough to be transported to a health care facility for further, potentially lifesaving treatment.
@@ -47,7 +47,7 @@ With technical and financial support from the Switzerland-based Medicines for Ma
 
 MAM produced encouraging results. In its intervention area from November 2017 to March 2018 (peak malaria season), the team identified 1,215 cases of children ages 5 and under with severe malaria danger signs, with three children dying; this compares with only 224 cases identified during the baseline period one year before, when 18 children died. This indicates the work increased the intervention communities’ ability to identify danger signs, provide pre-referral treatment to children with RAS, and refer them to health facilities without delay. 
 
-![Devs----Zambia-2-1](/uploads/Devs----Zambia-2-1.jpg "Photo: Toby Madden/Transaid") 
+![Devs----Zambia-2-1](/uploads/Devs----Zambia-2-1.jpg)`Photo: Toby Madden/Transaid.`
 
 When confronted with patients with severe malaria, the trained volunteers administered RAS 100 percent of the time, sent patients to the nearest health facility, and achieved strong compliance on following up with patients when they returned home. At the same time, residents increased their recognition of key symptoms of severe malaria, such as “not being able to eat or drink,” from 29 percent to 86 percent, leading to improved case management and care.
 
@@ -67,7 +67,7 @@ The MAM team trained health care providers at the district’s eight interventio
 
 Close partnering with the District Health Management Team and NMEC ensured that key activities were led and supported by the Zambian government, helping pave the way for scaled-up services.
 
-![Devs----Zambia-malaria1](/uploads/Devs----Zambia-malaria1.jpg "Photo: Toby Madden/Transaid.") 
+![Devs----Zambia-malaria1](/uploads/Devs----Zambia-malaria1.jpg)`Photo: Toby Madden/Transaid.` 
 
 Key lessons learned from the pilot program, detailed in the evidence brief, include the following:
 
@@ -77,7 +77,7 @@ Key lessons learned from the pilot program, detailed in the evidence brief, incl
 * For the project’s hard-to-reach sites, the average distance to a health facility was nearly 14 kilometers; community-managed emergency transport systems such as bicycle ambulances can significantly reduce travel times to health facilities and encourage prompt referral of very sick children. 
 * Increasing demand for severe malaria services must be met with a reliable supply of drugs and medical consumables as well as health facilities that are accessible around the clock and capable of managing severe malaria cases.
 
-![Devs----Zambia-Malaria3](/uploads/Devs----Zambia-Malaria3.jpg "Photo: Toby Madden/Transaid.") 
+![Devs----Zambia-Malaria3](/uploads/Devs----Zambia-Malaria3.jpg)`Photo: Toby Madden/Transaid.` 
 
 ## Scaling Up the Success
 
@@ -85,7 +85,7 @@ Zambia’s NMEC wants to roll out the use of RAS across the country. Should it d
 
 MAM’s evidence-based training approach could be adapted for national community health volunteer training manuals, including those for integrated community case management of malaria volunteers and for Zambia's Safe Motherhood Action Groups. As quality-assured RAS is distributed broadly, it will be important to ensure an uninterrupted supply of injectable artesunate and malaria commodities (such as rapid diagnostic tests and disposal gloves) at rural health facilities. 
 
-In addition, community-managed bicycle ambulances have been shown to ensure patients get to health care facilities to receive  appropriate and sometimes lifesaving care. Ideally, these bicycle transport systems can be successfully budgeted for, managed, and maintained locally.
+In addition, community-managed bicycle ambulances have been shown to ensure patients get to health care facilities to receive appropriate and sometimes lifesaving care. Ideally, these bicycle transport systems can be successfully budgeted for, managed, and maintained locally.
 
 ## The Way Forward
 
