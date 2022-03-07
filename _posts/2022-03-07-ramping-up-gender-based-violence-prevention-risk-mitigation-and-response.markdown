@@ -16,7 +16,7 @@ publication: Developments
 
 COVID-19 [exacerbated gender inequalities](https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era) and reversed hard-earned gains on everything from domestic violence, child marriage, and unemployment to food insecurity and poverty. Gender-based violence (GBV), in particular, saw a spike during the lockdowns and associated disruptions, to the extent that the United Nations proclaimed it a “[shadow pandemic](https://www.unwomen.org/en/news/in-focus/in-focus-gender-equality-in-covid-19-response/violence-against-women-during-covid-19).”
  
-As the coronavirus pandemic shows signs of abating, now is the moment to press forward with initiatives that accelerate GBV prevention, risk mitigation, and response. DAI-led programs in Mexico, Honduras, Iraq, and Uganda offer promising and replicable examples.
+As the coronavirus pandemic shows signs of abating, now is the moment to press forward with initiatives that accelerate GBV prevention, risk mitigation, and response through national and market systems strengthening approaches. DAI-led programs in Mexico, Honduras, Iraq, and Uganda offer promising and replicable examples.
 
 
 
@@ -45,7 +45,7 @@ Meanwhile, in the state of Coahuila, ConJusticia is helping to develop GBV polic
 
 On the dusty soccer field of Tegucigalpa’s Villa Nueva sector, police officers look on as children bounce on a trampoline, play board games, and delight at the antics of stilted clowns and mimes. This is the setting for a concerted outreach campaign by the Honduran National Police Gender Unit, which led group dialogues on GBV, providing guidance on how survivors and women at risk can get help. Supported by USAID’s [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice), this community event was one of more than 270 community activities across 28 neighborhoods experiencing high levels of crime and violence.
 
-![Unidos_CitizenSecurity-01975.jpg](/uploads/Unidos_CitizenSecurity-01975.jpg)`Community outreach has been key for Unidos. Photo: Dan Alder.`    
+![Unidos_PN AccessFairVillaNueva-04358Rdx.jpg](/uploads/Unidos_PN%20AccessFairVillaNueva-04358Rdx.jpg)`A prosecutor and a psychologist from the Special Integrated Service Module in Tegucigalpa provide a woman with information about GBV services at a community service fair organized by Unidos and the National Police. Photo: Dan Alder.`    
 
 This kind of outreach has been instrumental in breaking down barriers hindering women’s access to justice. “Broaching [the issue of] gender-based violence in public pushes cultural boundaries in Honduras,” said gender specialist Isabel Ferrufino. “Many still believe that family violence is a private matter rather than a crime. With local police at the forefront of tackling GBV, this helps to bring an oft-hidden push factor for migration out into the open.” 
 
