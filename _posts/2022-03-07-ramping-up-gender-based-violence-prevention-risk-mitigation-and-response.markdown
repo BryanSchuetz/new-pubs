@@ -37,6 +37,8 @@ The U.S. Agency for International Development (USAID) [ConJusticia](https://www.
 
 ConJusticia is also working to enhance the national government’s capacity to prosecute high-priority crimes. It is strengthening state attorney general offices to step up prosecution rates for high-priority GBV crimes, and designing and testing approaches for better assessing risk, ensuring the security of survivors, prioritizing cases, and calculating reparations in the state of Sonora.
 
+![Screen Shot 2022-03-07 at 2.16.42 PM.png](/uploads/Screen%20Shot%202022-03-07%20at%202.16.42%20PM.png)`ConJusticia gathered in virtual working sessions with Coahuila's Attorney General Office to design a sub-policy within the criminal prosecution policy that will focus on GBV.`
+
 Meanwhile, in the state of Coahuila, ConJusticia is helping to develop GBV policies within the broader criminal prosecution framework. “Previously there were no guidelines, manuals, nor frameworks to consistently identify high-risk GBV cases,” said Martha Rivera, head of the state’s special victims unit. “Now as we institutionalize policy for handling GBV crimes and develop clear frameworks and protocols, we will certainly be more effective in prosecuting these crimes, prioritizing the safety of survivors, and working toward ending impunity for these crimes against women and girls.”
  
 ## Survivor-Centered Justice
