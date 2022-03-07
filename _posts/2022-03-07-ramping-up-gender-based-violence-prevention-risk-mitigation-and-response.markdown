@@ -9,6 +9,8 @@ tags:
 - justice
 - access to justice
 author: Jane Kim
+thumbnail-image: "/uploads/sm%2020210526_150623%20(3).jpg"
+social-image: "/uploads/sm%2020210526_150623%20(3).jpg"
 publication: Developments
 ---
 
@@ -39,7 +41,9 @@ Meanwhile, in the state of Coahuila, ConJusticia is helping to develop GBV polic
  
 ## Survivor-Centered Justice
 
-On the dusty soccer field of Tegucigalpa’s Villa Nueva sector, police officers look on as children bounce on a trampoline, play board games, and delight at the antics of stilted clowns and mimes. This is the setting for a concerted outreach campaign by the Honduran National Police Gender Unit, which led group dialogues on GBV, providing guidance on how survivors and women at risk can get help. Supported by USAID’s [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice), this community event was one of more than 270 community activities across 28 neighborhoods experiencing high levels of crime and violence.       
+On the dusty soccer field of Tegucigalpa’s Villa Nueva sector, police officers look on as children bounce on a trampoline, play board games, and delight at the antics of stilted clowns and mimes. This is the setting for a concerted outreach campaign by the Honduran National Police Gender Unit, which led group dialogues on GBV, providing guidance on how survivors and women at risk can get help. Supported by USAID’s [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice), this community event was one of more than 270 community activities across 28 neighborhoods experiencing high levels of crime and violence.
+
+![Unidos_CitizenSecurity-01975.jpg](/uploads/Unidos_CitizenSecurity-01975.jpg)`Community outreach has been key for Unidos. Photo: Dan Alder.`    
 
 This kind of outreach has been instrumental in breaking down barriers hindering women’s access to justice. “Broaching [the issue of] gender-based violence in public pushes cultural boundaries in Honduras,” said gender specialist Isabel Ferrufino. “Many still believe that family violence is a private matter rather than a crime. With local police at the forefront of tackling GBV, this helps to bring an oft-hidden push factor for migration out into the open.” 
 
@@ -63,7 +67,9 @@ Recognizing the importance of mobilizing broader segments of Iraqi society to re
           
 ## Accelerating Women’s Economic Empowerment 
 
-Poverty is a risk factor associated with GBV and, all too often, intersects with and reinforces gender inequality. As COVID-19 is [projected to push](https://www.un.org/press/en/2021/sgsm20822.doc.htm) 47 million women and girls into extreme poverty, the urgency of accelerating women’s economic empowerment is acute. DAI programs around the world are working to catalyze broader women’s economic empowerment while exploring opportunities to integrate GBV prevention, risk mitigation, and response strategies.    
+Poverty is a risk factor associated with GBV and, all too often, intersects with and reinforces gender inequality. As COVID-19 is [projected to push](https://www.un.org/press/en/2021/sgsm20822.doc.htm) 47 million women and girls into extreme poverty, the urgency of accelerating women’s economic empowerment is acute. DAI programs around the world are working to catalyze broader women’s economic empowerment while exploring opportunities to integrate GBV prevention, risk mitigation, and response strategies.
+
+![20210526_150623 (3).jpg](/uploads/20210526_150623%20(3).jpg)`IAM activities integrate marginalized groups including women, youth, refugees, and host communities. Photo: Feed the Future USAID Uganda IAM.`
 
 In Uganda, for instance, taking a market systems development approach, USAID’s [Feed the Future Inclusive Agricultural Markets](https://www.dai.com/our-work/projects/uganda-inclusive-agricultural-markets-iam) (IAM) project works to increase incomes and improve livelihoods in Uganda by promoting agriculture-led economic growth. With the aim of ensuring 60 percent of those benefitting from activities are women and 40 percent are young people, IAM activities integrate marginalized groups including women, youth, refugees, and host communities. 
 
