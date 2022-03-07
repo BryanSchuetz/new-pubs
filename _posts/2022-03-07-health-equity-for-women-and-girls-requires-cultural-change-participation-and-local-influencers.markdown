@@ -6,6 +6,9 @@ published: false
 categories:
 - global health
 - gender
+- women
+author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) and [Abigail
+  Kaplan Ramage](https://www.dai.com/who-we-are/our-team/abigail-kaplan-ramage) "
 publication: Developments
 ---
 
@@ -51,4 +54,4 @@ For example, the MAMaZ Against Malaria (MAM) and MAM@Scale projects aimed to red
 
 Working carefully to change or replace harmful cultural norms, increasing women’s participation in decision making, and letting local influencers lead are all strategies that can increase access to high-quality healthcare for women, girls, and other vulnerable groups. If the development community can methodically embed these strategies, build the agency of all members of society, and create opportunities that support individual and collective action, we will see the benefits in terms of reduced health inequalities.    
 
-*Editor’s Note: Jacqui Moller Larsen, Osob Osman, and Paula Quigley contributed to this article.* 
+*Editor’s Note: [Jacqui Moller Larsen](https://www.dai.com/who-we-are/our-team/jacqui-larsen), [Osob Osman](https://www.linkedin.com/in/osob-osman/), and [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley) contributed to this article.* 
