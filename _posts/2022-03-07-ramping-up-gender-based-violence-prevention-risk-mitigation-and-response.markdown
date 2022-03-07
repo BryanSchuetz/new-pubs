@@ -39,7 +39,9 @@ Meanwhile, in the state of Coahuila, ConJusticia is helping to develop GBV polic
  
 ## Survivor-Centered Justice
 
-On the dusty soccer field of Tegucigalpa’s Villa Nueva sector, police officers look on as children bounce on a trampoline, play board games, and delight at the antics of stilted clowns and mimes. This is the setting for a concerted outreach campaign by the Honduran National Police Gender Unit, which led group dialogues on GBV, providing guidance on how survivors and women at risk can get help. Supported by USAID’s [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice), this community event was one of more than 270 community activities across 28 neighborhoods experiencing high levels of crime and violence.       
+On the dusty soccer field of Tegucigalpa’s Villa Nueva sector, police officers look on as children bounce on a trampoline, play board games, and delight at the antics of stilted clowns and mimes. This is the setting for a concerted outreach campaign by the Honduran National Police Gender Unit, which led group dialogues on GBV, providing guidance on how survivors and women at risk can get help. Supported by USAID’s [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice), this community event was one of more than 270 community activities across 28 neighborhoods experiencing high levels of crime and violence.
+
+![Unidos_CitizenSecurity-01975.jpg](/uploads/Unidos_CitizenSecurity-01975.jpg)`Community outreach has been key for Unidos. Photo: Dan Alder.`    
 
 This kind of outreach has been instrumental in breaking down barriers hindering women’s access to justice. “Broaching [the issue of] gender-based violence in public pushes cultural boundaries in Honduras,” said gender specialist Isabel Ferrufino. “Many still believe that family violence is a private matter rather than a crime. With local police at the forefront of tackling GBV, this helps to bring an oft-hidden push factor for migration out into the open.” 
 
