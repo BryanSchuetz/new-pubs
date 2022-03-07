@@ -9,6 +9,8 @@ categories:
 - women
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) and [Abigail
   Kaplan Ramage](https://www.dai.com/who-we-are/our-team/abigail-kaplan-ramage) "
+thumbnail-image: "/uploads/sm%20DSC_4290.jpg"
+social-image: "/uploads/sm%20DSC_4290.jpg"
 publication: Developments
 ---
 
@@ -46,7 +48,7 @@ What this often means in practice is helping governments develop healthcare poli
 
 For example, the FCDO’s [Technical Assistance to Strengthen Capabilities](https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities) project supports governments to develop inclusive nutrition policies and programmes. In Madagascar, in partnership with national women’s groups, DAI integrated gender, equity, and social inclusion components into the country’s National Action Plan for Nutrition—a blueprint for reducing malnutrition among men, women, girls, and boys, and marginalized groups, with recommendations specific to gender and equity.  
 
-![DSC_4967-052007.JPG](/uploads/DSC_4967-052007.JPG)`TDDA 
+![DSC_4290-927337.JPG](/uploads/DSC_4290-927337.JPG)`TDDA-trained women healthcare workers help spread awareness among communities about COVID-19 and other issues.`
 
 FCDO’s [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme, working across six countries, advocates for the participation of women in health security activities. In Cameroon, for example, the project insisted that its community health workers should include women, people living with disabilities, young people, religious minorities, and representatives from other groups. In Mali and Côte d’Ivoire, TDDA encouraged the inclusion of women in the National One Health Platform leadership and we are now exploring ways to integrate women’s affairs ministries into health security programmes. Overall, the average percentage of female participants across TDDA-supported events is 29 percent, with Uganda reaching 43 percent. Still some way to go, but trending the right way. 
 
