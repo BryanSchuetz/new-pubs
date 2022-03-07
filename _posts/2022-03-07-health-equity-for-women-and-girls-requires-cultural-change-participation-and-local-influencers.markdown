@@ -12,7 +12,7 @@ author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) and [Abi
 publication: Developments
 ---
 
-Health equity will be a reality when all people have the same opportunity to attain their full potential for health and wellbeing, and when unfair and avoidable differences in health status no longer exist. Currently, we are far from that ideal, particularly for women and girls, and especially for women and girls among the rural poor in low- and middle-income countries.  
+Health equity will be a reality when all people have the same opportunity to attain their full potential for health and wellbeing, and when unfair and avoidable differences in health status no longer exist. Currently, we are far from that ideal, particularly for women and girls, and especially for women and girls among the [rural poor](https://cdn.who.int/media/docs/default-source/documents/gender/un-hlpc-itt-policy-brief-rural-inequalities-2021_print.pdf?sfvrsn=155e5f0e_5&download=true) in low- and middle-income countries.  
 
 But there are powerful examples of programmatic approaches that advance gender health equity. Here we focus on three of them: changing harmful gender norms, increasing women’s participation in decision making, and supporting local influencers to lead change. 
 
