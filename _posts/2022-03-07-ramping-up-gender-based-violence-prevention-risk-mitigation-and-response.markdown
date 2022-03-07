@@ -9,6 +9,8 @@ tags:
 - justice
 - access to justice
 author: Jane Kim
+thumbnail-image: "/uploads/sm%2020210526_150623%20(3).jpg"
+social-image: "/uploads/sm%2020210526_150623%20(3).jpg"
 publication: Developments
 ---
 
@@ -65,7 +67,9 @@ Recognizing the importance of mobilizing broader segments of Iraqi society to re
           
 ## Accelerating Women’s Economic Empowerment 
 
-Poverty is a risk factor associated with GBV and, all too often, intersects with and reinforces gender inequality. As COVID-19 is [projected to push](https://www.un.org/press/en/2021/sgsm20822.doc.htm) 47 million women and girls into extreme poverty, the urgency of accelerating women’s economic empowerment is acute. DAI programs around the world are working to catalyze broader women’s economic empowerment while exploring opportunities to integrate GBV prevention, risk mitigation, and response strategies.    
+Poverty is a risk factor associated with GBV and, all too often, intersects with and reinforces gender inequality. As COVID-19 is [projected to push](https://www.un.org/press/en/2021/sgsm20822.doc.htm) 47 million women and girls into extreme poverty, the urgency of accelerating women’s economic empowerment is acute. DAI programs around the world are working to catalyze broader women’s economic empowerment while exploring opportunities to integrate GBV prevention, risk mitigation, and response strategies.
+
+![20210526_150623 (3).jpg](/uploads/20210526_150623%20(3).jpg)`IAM activities integrate marginalized groups including women, youth, refugees, and host communities. Photo: Feed the Future USAID Uganda IAM.`
 
 In Uganda, for instance, taking a market systems development approach, USAID’s [Feed the Future Inclusive Agricultural Markets](https://www.dai.com/our-work/projects/uganda-inclusive-agricultural-markets-iam) (IAM) project works to increase incomes and improve livelihoods in Uganda by promoting agriculture-led economic growth. With the aim of ensuring 60 percent of those benefitting from activities are women and 40 percent are young people, IAM activities integrate marginalized groups including women, youth, refugees, and host communities. 
 
