@@ -12,7 +12,7 @@ author: Jane Kim
 publication: Developments
 ---
 
-COVID-19 [exacerbated gender inequalities](https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era) and reversed hard-earned gains on everything from domestic violence, child marriage, and unemployment to food insecurity and poverty. Gender-based violence (GBV), in particular, saw a spike during the lockdowns and associated disruptions, to the extent that the United Nations proclaimed it a “shadow pandemic.”
+COVID-19 [exacerbated gender inequalities](https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era) and reversed hard-earned gains on everything from domestic violence, child marriage, and unemployment to food insecurity and poverty. Gender-based violence (GBV), in particular, saw a spike during the lockdowns and associated disruptions, to the extent that the United Nations proclaimed it a “[shadow pandemic](https://www.unwomen.org/en/news/in-focus/in-focus-gender-equality-in-covid-19-response/violence-against-women-during-covid-19).”
  
 As the coronavirus pandemic shows signs of abating, now is the moment to press forward with initiatives that accelerate GBV prevention, risk mitigation, and response. DAI-led programs in Mexico, Honduras, Iraq, and Uganda offer promising and replicable examples.
 
@@ -23,19 +23,19 @@ As the coronavirus pandemic shows signs of abating, now is the moment to press f
 
 ## Prioritizing Survivor Safety 
 
-Ten women and girls are murdered every day in Mexico, according to Amnesty International. Indeed all forms of GBV—including rape, sexual assault, and domestic violence—are reportedly on the rise. Despite criminal justice reform efforts, progress has been slow and uneven at the national and state levels. 
+Ten women and girls are murdered every day in Mexico, [according to](https://www.amnesty.org/en/latest/news/2021/09/mexico-failings-investigations-feminicides-state-mexico-violate-womens-rights-life-physical-safety-access-justice/) Amnesty International. Indeed all forms of GBV—including rape, sexual assault, and domestic violence—are reportedly on the rise. Despite criminal justice reform efforts, progress has been slow and uneven at the national and state levels. 
 
 In May 2021, authorities and other stakeholders in the small western state of Nayarit launched an ambitious “100-Day Challenge” seeking ways to reduce impunity for serious crimes, including for domestic violence, while improving outcomes for survivors.
 
-The U.S. Agency for International Development (USAID) ConJusticia project contributed by swiftly scaling up Alerta Naranja, a back-end technology solution developed with the Rapid Results Institute. In less than six months, Alerta Naranja cut the response time to domestic violence calls by half, from 42 to 21 minutes. With tech-enabled call history (by caller and location), Alerta Naranja provides a tool for 911 operators to identify and expedite responses to high-risk repeat cases. 
+The U.S. Agency for International Development (USAID) [ConJusticia](https://www.dai.com/our-work/projects/mexico-ConJusticia) project contributed by swiftly scaling up *Alerta Naranja*, a back-end technology solution developed with the [Rapid Results Institute](https://www.rapidresults.org/). In less than six months, *Alerta Naranja* cut the response time to domestic violence calls by half, from 42 to 21 minutes. With tech-enabled call history (by caller and location), *Alerta Naranja* provides a tool for 911 operators to identify and expedite responses to high-risk repeat cases. 
 
-“This [tool] has enabled the police to quickly intervene before the violence escalates and potentially results in femicide,” said Luz Martinez, ConJusticia Investigation and Litigation Leader. Alerta Naranja improved confidence in the justice system, increased reporting of crimes, and enhanced the prosecution process, because 911 call records serve as evidence to demonstrate patterns of violence, resulting in stiffer sentences and more robust protection measures for survivors. 
+“This [tool] has enabled the police to quickly intervene before the violence escalates and potentially results in femicide,” said Luz Martinez, *ConJusticia* Investigation and Litigation Leader. *Alerta Naranja* improved confidence in the justice system, increased reporting of crimes, and enhanced the prosecution process, because 911 call records serve as evidence to demonstrate patterns of violence, resulting in stiffer sentences and more robust protection measures for survivors. 
 
 ## Strategic Prosecution 
 
-ConJusticia is also working to enhance the national government’s capacity to prosecute high-priority crimes. It is strengthening state attorney general offices to step up prosecution rates for high-priority GBV crimes, and designing and testing approaches for better assessing risk, ensuring the security of survivors, prioritizing cases, and calculating reparations in the state of Sonora.
+*ConJusticia* is also working to enhance the national government’s capacity to prosecute high-priority crimes. It is strengthening state attorney general offices to step up prosecution rates for high-priority GBV crimes, and designing and testing approaches for better assessing risk, ensuring the security of survivors, prioritizing cases, and calculating reparations in the state of Sonora.
 
-Meanwhile, in the state of Coahuila, ConJusticia is helping to develop GBV policies within the broader criminal prosecution framework. “Previously there were no guidelines, manuals, nor frameworks to consistently identify high-risk GBV cases,” said Martha Rivera, head of the state’s special victims unit. “Now as we institutionalize policy for handling GBV crimes and develop clear frameworks and protocols, we will certainly be more effective in prosecuting these crimes, prioritizing the safety of survivors, and working toward ending impunity for these crimes against women and girls.”
+Meanwhile, in the state of Coahuila, *ConJusticia* is helping to develop GBV policies within the broader criminal prosecution framework. “Previously there were no guidelines, manuals, nor frameworks to consistently identify high-risk GBV cases,” said Martha Rivera, head of the state’s special victims unit. “Now as we institutionalize policy for handling GBV crimes and develop clear frameworks and protocols, we will certainly be more effective in prosecuting these crimes, prioritizing the safety of survivors, and working toward ending impunity for these crimes against women and girls.”
  
 ## Survivor-Centered Justice
 
