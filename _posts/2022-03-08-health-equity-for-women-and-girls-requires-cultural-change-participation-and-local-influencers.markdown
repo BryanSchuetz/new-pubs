@@ -1,7 +1,7 @@
 ---
 title: Health Equity for Women and Girls Requires Cultural Change, Participation,
   and Local Influencers
-date: 2022-03-07 08:30:00 -05:00
+date: 2022-03-08 05:30:00 -05:00
 tags:
 - global-health
 - gender
