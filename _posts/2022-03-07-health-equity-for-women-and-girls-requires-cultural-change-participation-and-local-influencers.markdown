@@ -2,7 +2,6 @@
 title: Health Equity for Women and Girls Requires Cultural Change, Participation,
   and Local Influencers
 date: 2022-03-07 08:30:00 -05:00
-published: false
 tags:
 - global-health
 - gender
@@ -47,7 +46,7 @@ As the late U.S. Congresswoman Shirley Chisholm said, “If they don’t give yo
 
 What this often means in practice is helping governments develop healthcare policies that benefit women, men, girls, and boys equally. And this in turn means engaging directly with women and girls, addressing any barriers that might stand in the way of that engagement, and ensuring that organizations representing marginalized communities have platforms to be heard.  
 
-For example, the FCDO’s [Technical Assistance to Strengthen Capabilities](https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities) project supports governments to develop inclusive nutrition policies and programmes. In Madagascar, in partnership with national women’s groups, DAI integrated gender, equity, and social inclusion components into the country’s National Action Plan for Nutrition—a blueprint for reducing malnutrition among men, women, girls, and boys, and marginalized groups, with recommendations specific to gender and equity.  
+For example, the FCDO’s [Technical Assistance to Strengthen Capabilities (TASC)](https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities) project supports governments to develop inclusive nutrition policies and programmes. In Madagascar, in partnership with national women’s groups, TASC, led by DAI, integrated gender, equity, and social inclusion components into the country’s National Action Plan for Nutrition—a blueprint for reducing malnutrition among men, women, girls, and boys, and marginalized groups, with recommendations specific to gender and equity.  
 
 ![DSC_4290-927337.JPG](/uploads/DSC_4290-927337.JPG)`TDDA-trained women healthcare workers help spread awareness among communities about COVID-19 and other issues.`
 
