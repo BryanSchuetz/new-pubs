@@ -16,11 +16,6 @@ After years of growing professional interest, economic analyses, and policy enga
 
 
 
-
-
-
-
-
 This multiplicity of goals requires a reset in our thinking: sanitation is not just toilets, facility construction, and hygiene campaigns. Today’s sanitation interventions must integrate actions on governance, policy, regulation, and finance; empower institutions and communities—especially marginalized groups; and integrate tools and technologies that make good sanitation broadly accessible and, crucially, financially sustainable. 
 
 In more than a dozen countries, DAI is implementing sustainable sanitation approaches and transferring tools into local hands to scale results beyond the typical five-year lifecycle of project funding. The following examples offer some practical insights into how to achieve lasting access to sanitation and move toward universal coverage.
