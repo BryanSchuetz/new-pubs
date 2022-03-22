@@ -1,7 +1,6 @@
 ---
 title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
-date: 2022-03-22 07:24:00 -04:00
-published: false
+date: 2022-03-22 06:24:00 -04:00
 tags:
 - Water
 - WASH
