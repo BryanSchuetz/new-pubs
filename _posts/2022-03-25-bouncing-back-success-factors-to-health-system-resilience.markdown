@@ -28,6 +28,8 @@ Resilient health systems absorb shocks; they provide consistent, basic, healthca
 
 Other sectors and services can also help. Health ministries need to engage with businesses, sanitation teams, educators, animal health and biodiversity specialists, and local governments to maintain continuity and ensure surge capacity. Development and aid actors can support these efforts by coordinating across humanitarian and development spheres to respond to the most urgent needs and use the health workforce most effectively.  
 
+![DSC_4969-959d43.JPG](/uploads/DSC_4969-959d43.JPG)`The TDDA team quickly responded to the need for COVID-19 testing in Chad and other countries. Photo: FCDO TDDA.`
+
 For example, the U.K. Foreign, Commonwealth & Development Office (FCDO)-funded [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) project was able to absorb pandemic response needs in Cameroon and Chad by working with local governments to adapt early response mechanisms, improve laboratories’ capacities to diagnose COVID-19, roll out free testing, and develop guidelines for detecting and managing sick travelers at border entry points.
 
 ## Build Adaptive Capacity
