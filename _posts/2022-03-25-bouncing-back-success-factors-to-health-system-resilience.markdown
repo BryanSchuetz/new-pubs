@@ -8,6 +8,8 @@ tags:
 - covid-19
 author: "[Nicole DeCastro](https://www.dai.com/who-we-are/our-team/nicole-decastro)
   and [Janine Mitchell](https://www.dai.com/who-we-are/our-team/janine-mitchell)"
+thumbnail-image: "/uploads/sm%20FFCGP_PAK_2021_NVL%20Hands%20On%20Training%20Biosafety%20and%20Biosecurity.jpg"
+social-image: "/uploads/sm%20FFCGP_PAK_2021_NVL%20Hands%20On%20Training%20Biosafety%20and%20Biosecurity.jpg"
 publication: Developments
 ---
 
