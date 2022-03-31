@@ -1,11 +1,12 @@
 ---
 title: Sounding Board Gives Youth a Voice in Development Decision Making
 date: 2022-03-31 13:13:00 -04:00
-published: false
 tags:
 - european-union
 - youth
 author: "[Maksymilian Fras](https://www.linkedin.com/in/maxfras/) and [Olivia Govik](https://www.linkedin.com/in/olivia-govik/)"
+thumbnail-image: "/uploads/Screen%20Shot%202022-03-31%20at%201.25.48%20PM.png"
+social-image: "/uploads/Screen%20Shot%202022-03-31%20at%201.25.48%20PM.png"
 publication: Developments
 ---
 
@@ -33,7 +34,12 @@ The Youth Sounding Board—modeled on a successful initiative in Denmark—aims 
 
 ![S1 (6).PNG](/uploads/S1%20(6).PNG)`In February 2021, in preparation for the launch of the Youth Sounding Board, 20 young advocates meet with EU Commissioner Jutta Urpilainen.`
 
+## Young People Want to Contribute 
 
+Interest in joining the Youth Sounding Board was immediate and impressive—the project team processed about 4,000 applications from young people all over the world, of whom 25 were selected for two-year terms. Hailing from Africa, Asia, the Middle East, the Pacific, Latin America and the Caribbean, and Europe, they are a diverse group, selected based on their expertise, interests, age, gender, and background.   
 
+The board has been operational since July 2021 and has met three times to advise Urpilainen and the EU Department for International Partnerships on topics spanning all EU priorities, including climate, sustainable growth and jobs, digital innovation, and peace and security.  
+
+“These talented, bright young people will help us make the European Union’s external actions work better for their peers back home and across the world,” Urpilainen said. 
 
 *[Maksymilian Fras](https://www.linkedin.com/in/maxfras/) is a capacity-building expert and [Olivia Govik](https://www.linkedin.com/in/olivia-govik/) is a Communications Specialist.*
