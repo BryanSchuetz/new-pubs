@@ -31,6 +31,8 @@ The Youth Sounding Board—modeled on a successful initiative in Denmark—aims 
 
 “The decisions we politicians are taking now—on climate change, economic recovery, education, and so on—will have long-lasting consequences for this planet and its people,” [said](https://ec.europa.eu/international-partnerships/news/youth-sounding-board-kickstarts-its-work_en)  Jutta Urpilainen, EU Commissioner for International Partnerships. “It is therefore more than right that we consult those in the frontline—the young people of today.” 
 
+![S1 (6).PNG](/uploads/S1%20(6).PNG)`In February 2021, in preparation for the launch of the Youth Sounding Board, 20 young advocates meet with EU Commissioner Jutta Urpilainen.`
+
 
 
 
