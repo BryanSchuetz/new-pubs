@@ -26,13 +26,13 @@ For its part, the EU certainly has a strong commitment to youth in policy making
 
 The EU is currently developing a global Youth Action Plan to guide youth participation over the next five years across different sectors—the consultation process was supported by our project. 
 
+![S1 (6).PNG](/uploads/S1%20(6).PNG)`In February 2021, in preparation for the launch of the Youth Sounding Board, 20 young advocates meet with EU Commissioner Jutta Urpilainen.`
+
 ## The Youth Sounding Board 
 
 The Youth Sounding Board—modeled on a successful initiative in Denmark—aims to create a meaningful space for young people to have a say on topics related to partnerships with countries outside the EU. 
 
 “The decisions we politicians are taking now—on climate change, economic recovery, education, and so on—will have long-lasting consequences for this planet and its people,” [said](https://ec.europa.eu/international-partnerships/news/youth-sounding-board-kickstarts-its-work_en)  Jutta Urpilainen, EU Commissioner for International Partnerships. “It is therefore more than right that we consult those in the frontline—the young people of today.” 
-
-![S1 (6).PNG](/uploads/S1%20(6).PNG)`In February 2021, in preparation for the launch of the Youth Sounding Board, 20 young advocates meet with EU Commissioner Jutta Urpilainen.`
 
 ## Young People Want to Contribute 
 
