@@ -22,7 +22,7 @@ Research by the project team shows that while many donors do have mechanisms for
 
 ## An EU Priority 
 
-For its part, the EU certainly has a strong commitment to youth in policy making—both within and outside the Union. Since 2021, the EU has had a dedicated Commissioner for Innovation, Research, Culture, Education and Youth, [Mariya Gabriel](https://ec.europa.eu/commission/commissioners/2019-2024/gabriel_en), and the current Multiannual Financial Framework reflects a sharp focus on young people. Moreover, 2022 has been dubbed the [European Year of Youth](https://europa.eu/youth/year-of-youth_en#content), highlighting the importance of “including the voices of young citizens of the Union to shape a better, greener, and more inclusive future.” 
+For its part, the EU certainly has a strong commitment to youth in policy making—both within and outside the Union. Since 2021, the EU has had a dedicated Commissioner for Innovation, Research, Culture, Education and Youth, [Mariya Gabriel](https://ec.europa.eu/commission/commissioners/2019-2024/gabriel_en), and the current Multiannual Financial Framework reflects a sharp focus on young people. Moreover, 2022 has been declared the [European Year of Youth](https://europa.eu/youth/year-of-youth_en#content), highlighting the importance of “including the voices of young citizens of the Union to shape a better, greener, and more inclusive future.” 
 
 The EU is currently developing a global Youth Action Plan to guide youth participation over the next five years across different sectors—the consultation process was supported by our project. 
 
