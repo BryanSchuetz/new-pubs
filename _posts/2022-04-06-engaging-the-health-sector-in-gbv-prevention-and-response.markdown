@@ -29,6 +29,20 @@ In recent years, Honduras has witnessed [alarming rates](https://evaw-global-dat
 
 The projects helped establish screening, referral, and response protocols between health and justice officials from San Pedro Sula’s Integrated Criminal Justice Center, the Domestic Violence Court, and the MP’s Special Integrated Service Module. “This was an issue that was invisible in health facilities and now we know there are standards for handling these issues of violence and abuse,” stated Dr. Bessy Rivera, Director of the Las Palmas Health Facility in San Pedro Sula. “These practices will be replicated across the region.” 
 
-## 
+## Mobilizing Safe Motherhood Groups
+
+GBV is a serious problem in Zambia, with damaging social, health, and economic consequences. And despite the Zambian Anti-Gender Based Violence Act of 2011, GBV rates remain high. Under a Zero Tolerance for GBV banner, the [More Mobilising Access to Maternal Health Services in Zambia Programme (MORE MAMaZ)](https://www.dai.com/our-work/projects/zambia-more-mobilising-access-to-maternal-health-services) integrated a GBV focus into community-based maternal health interventions, focusing on safe pregnancy and delivery. MORE MAMaZ helped front-line health providers understand the nexus between GBV, social exclusion, and low health service use. MORE MAMaZ strengthened the capacity of health providers to identify the least supported women, including those at risk of GBV, and connected them to essential social services. 
+
+At the community level, specifically, MORE MAMaZ mobilized Safe Motherhood Action Groups (SMAGs), whose volunteers—including male peer educators—worked to shift harmful GBV norms. Former perpetrators of GBV joined in “peer education” efforts to influence others and stop the violence. Traditional leaders also cautioned, fined, or reported perpetrators of GBV.      
+
+Overall, the program’s results were impressive, with skilled birth attendance rates rising from 46 percent to 78 percent, the number of women attending antenatal care visits in their first trimester from 37 percent to 62 percent, and the use of modern family planning from 24 percent to 38 percent. But alongside these health impacts, significant reductions in GBV were recorded across communities, and 79 percent of men and women in intervention sites attributed the decline in GBV to the SMAGs, as shifting norms cascaded from the health workers to the wider communities, and then the communities themselves challenged the acceptance of GBV.  
+
+## Raising Accountability in Health Systems 
+
+In Malawi, which ranks 142nd out of 189 countries on the United Nations’ Gender Inequality Index, the European Union-funded Chilungamo (Justice and Accountability) project works to enhance democratic governance and increase access to justice for all, with a particular focus on gender equality. The project supported almost 60,000 victims of GBV, trained 225 police investigators in the collection and preservation of DNA forensic evidence, rehabilitated 10 support units for GBV survivors, and resolved 1,672 cased of GBV through mobile courts. 
+
+Among its efforts, Chilungamo supported the Malawi Office of the Ombudsman to investigate allegations of pervasive negligence across health facilities, uncovering several instances of sexual abuse, including one high-profile case resulting in the offending doctor being charged, convicted, and now serving more than five years in jail. “This case sent a clear message that sexual violence will not be tolerated in hospitals,” reflected team leader Sophie Racine, who said that with some 300 hospital ombudsman across the country, there is now increased public confidence in the reporting system. “Although there is still a long way to go, we witnessed some improvements in health service delivery and greater accountability where there is a hospital ombudsman.” 
+
+
 
 
