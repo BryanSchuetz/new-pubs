@@ -46,7 +46,7 @@ Overall, the program’s results were impressive, with skilled birth attendance 
 
 In Malawi, which ranks 142nd out of 189 countries on the United Nations’ Gender Inequality Index, the European Union-funded [Chilungamo (Justice and Accountability)](https://www.dai.com/our-work/projects/malawi-justice-and-accountability-programme-chilungamo) project works to enhance democratic governance and increase access to justice for all, with a particular focus on gender equality. The project supported almost 60,000 victims of GBV, trained 225 police investigators in the collection and preservation of DNA forensic evidence, rehabilitated 10 support units for GBV survivors, and resolved 1,672 cases of GBV through mobile courts. 
 
-![chilungamo_media_2.jpg](/uploads/chilungamo_media_2.jpg)`Photo: EU Chilungamo.`
+![chilungamo_media_2.jpg](/uploads/chilungamo_media_2.jpg)`Chilungamo promotes justice in health and other sectors. Photo: EU Chilungamo.`
 
 Among its efforts, Chilungamo supported the Malawi Office of the Ombudsman to investigate allegations of pervasive negligence across health facilities, uncovering several instances of sexual abuse, including one high-profile case resulting in the offending doctor being charged, convicted, and now serving more than five years in jail. “This case sent a clear message that sexual violence will not be tolerated in hospitals,” reflected Team Leader [Sophie Racine](https://www.linkedin.com/in/sophie-racine-426a8319/), who said that with some 300 hospital ombudsman across the country, there is now increased public confidence in the reporting system. “Although there is still a long way to go, we witnessed some improvements in health service delivery and greater accountability where there is a hospital ombudsman.” 
 
