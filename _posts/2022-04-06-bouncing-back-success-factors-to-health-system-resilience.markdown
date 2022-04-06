@@ -1,7 +1,6 @@
 ---
 title: 'Bouncing Back: Success Factors to Health System Resilience'
-date: 2022-04-07 05:36:00 -04:00
-published: false
+date: 2022-04-06 05:36:00 -04:00
 tags:
 - global-health
 - health systems strengthening
