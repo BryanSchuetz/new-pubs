@@ -36,7 +36,7 @@ The projects helped establish screening, referral, and response protocols betwee
 
 GBV is a serious problem in Zambia, with damaging social, health, and economic consequences. And despite the Zambian Anti-Gender Based Violence Act of 2011, GBV rates remain high. Under a Zero Tolerance for GBV banner, the [More Mobilising Access to Maternal Health Services in Zambia Programme (MORE MAMaZ)](https://www.dai.com/our-work/projects/zambia-more-mobilising-access-to-maternal-health-services) integrated a GBV focus into community-based maternal health interventions, focusing on safe pregnancy and delivery. MORE MAMaZ helped front-line health providers understand the nexus between GBV, social exclusion, and low health service use. MORE MAMaZ strengthened the capacity of health providers to identify the least supported women, including those at risk of GBV, and connected them to essential social services. 
 
-![highlights_ZAMBIA_051.jpg](/uploads/highlights_ZAMBIA_051.jpg)`Photo: Toby Madden/Transaid.`
+![highlights_ZAMBIA_051.jpg](/uploads/highlights_ZAMBIA_051.jpg)`MORE MAMaZ helped provide comprehensive community-based health services. Photo: Toby Madden/Transaid.`
 
 At the community level, specifically, MORE MAMaZ mobilized Safe Motherhood Action Groups (SMAGs), whose volunteers—including male peer educators—worked to shift harmful GBV norms. Former perpetrators of GBV joined in “peer education” efforts to influence others and stop the violence. Traditional leaders also cautioned, fined, or reported perpetrators of GBV.      
 
@@ -46,7 +46,7 @@ Overall, the program’s results were impressive, with skilled birth attendance 
 
 In Malawi, which ranks 142nd out of 189 countries on the United Nations’ Gender Inequality Index, the European Union-funded [Chilungamo (Justice and Accountability)](https://www.dai.com/our-work/projects/malawi-justice-and-accountability-programme-chilungamo) project works to enhance democratic governance and increase access to justice for all, with a particular focus on gender equality. The project supported almost 60,000 victims of GBV, trained 225 police investigators in the collection and preservation of DNA forensic evidence, rehabilitated 10 support units for GBV survivors, and resolved 1,672 cases of GBV through mobile courts. 
 
-![chilungamo_media_2.jpg](/uploads/chilungamo_media_2.jpg)`Photo: EU Chilungamo.`
+![chilungamo_media_2.jpg](/uploads/chilungamo_media_2.jpg)`Chilungamo promotes justice in health and other sectors. Photo: EU Chilungamo.`
 
 Among its efforts, Chilungamo supported the Malawi Office of the Ombudsman to investigate allegations of pervasive negligence across health facilities, uncovering several instances of sexual abuse, including one high-profile case resulting in the offending doctor being charged, convicted, and now serving more than five years in jail. “This case sent a clear message that sexual violence will not be tolerated in hospitals,” reflected Team Leader [Sophie Racine](https://www.linkedin.com/in/sophie-racine-426a8319/), who said that with some 300 hospital ombudsman across the country, there is now increased public confidence in the reporting system. “Although there is still a long way to go, we witnessed some improvements in health service delivery and greater accountability where there is a hospital ombudsman.” 
 
