@@ -43,6 +43,5 @@ In Malawi, which ranks 142nd out of 189 countries on the United Nations’ Gende
 
 Among its efforts, Chilungamo supported the Malawi Office of the Ombudsman to investigate allegations of pervasive negligence across health facilities, uncovering several instances of sexual abuse, including one high-profile case resulting in the offending doctor being charged, convicted, and now serving more than five years in jail. “This case sent a clear message that sexual violence will not be tolerated in hospitals,” reflected team leader Sophie Racine, who said that with some 300 hospital ombudsman across the country, there is now increased public confidence in the reporting system. “Although there is still a long way to go, we witnessed some improvements in health service delivery and greater accountability where there is a hospital ombudsman.” 
 
-
-
+*Jane Kim is a Rule of Law and GBV Specialist.*
 
