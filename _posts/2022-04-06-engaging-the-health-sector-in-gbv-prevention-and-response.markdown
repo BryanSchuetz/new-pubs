@@ -6,6 +6,8 @@ tags:
 - global-health
 - gender
 author: Jane Kim
+thumbnail-image: "/uploads/sm%20highlights_ZAMBIA_051.jpg"
+social-image: "/uploads/sm%20highlights_ZAMBIA_051.jpg"
 publication: Developments
 ---
 
@@ -33,7 +35,7 @@ The projects helped establish screening, referral, and response protocols betwee
 
 GBV is a serious problem in Zambia, with damaging social, health, and economic consequences. And despite the Zambian Anti-Gender Based Violence Act of 2011, GBV rates remain high. Under a Zero Tolerance for GBV banner, the [More Mobilising Access to Maternal Health Services in Zambia Programme (MORE MAMaZ)](https://www.dai.com/our-work/projects/zambia-more-mobilising-access-to-maternal-health-services) integrated a GBV focus into community-based maternal health interventions, focusing on safe pregnancy and delivery. MORE MAMaZ helped front-line health providers understand the nexus between GBV, social exclusion, and low health service use. MORE MAMaZ strengthened the capacity of health providers to identify the least supported women, including those at risk of GBV, and connected them to essential social services. 
 
-
+![highlights_ZAMBIA_051.jpg](/uploads/highlights_ZAMBIA_051.jpg)`
 
 At the community level, specifically, MORE MAMaZ mobilized Safe Motherhood Action Groups (SMAGs), whose volunteers—including male peer educators—worked to shift harmful GBV norms. Former perpetrators of GBV joined in “peer education” efforts to influence others and stop the violence. Traditional leaders also cautioned, fined, or reported perpetrators of GBV.      
 
