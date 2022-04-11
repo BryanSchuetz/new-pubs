@@ -2,7 +2,6 @@
 title: Green Bonds and Good Governance Accelerate Investment in Climate-Smart Solutions
   in Egypt
 date: 2022-04-11 15:59:00 -04:00
-published: false
 tags:
 - environment-and-energy
 - climate
