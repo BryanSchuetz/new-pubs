@@ -18,11 +18,11 @@ In the wake of high economic and population growth as well as political and sect
 
 The consequences of poor solid waste management are avoidable by implementing effective waste management strategies including: the introduction of waste management policies; source segregation of waste, the establishment of material recovery facilities to sort out and recover valuable materials from the waste stream; separate collection for organic waste; and the construction of engineered landfills with methane capture and utilization. 
 
-Methane is a hydrocarbon that is a primary component of natural gas. It is also a greenhouse gas and has 34 times the greenhouse effect of carbon dioxide, resulting in landfills being a top source of global methane emissions (releasing 12 percent of the world’s total, by some estimates). The gas also poses a dangerous fire and combustion risk. 
+Methane is a hydrocarbon that is a primary component of natural gas. It is also a greenhouse gas and has 34 times the greenhouse effect of carbon dioxide, resulting in landfills being a [top source](https://www.globalmethane.org/documents/landfill_fs_eng.pdf) of global methane emissions (releasing 12 percent of the world’s total, by some estimates). The gas also poses a dangerous fire and combustion risk. 
 
 Finding an Energy Opportunity 
 
-But methane from landfill waste is not all bad. As the main ingredient in natural gas, it also presents an opportunity—if captured properly—to be burned to produce electricity. Capturing methane before it gets into the atmosphere can generate valuable energy for societies while also helping to reduce the effects of climate change. 
+But methane from landfill waste is not all bad. As the main ingredient in natural gas, it also presents an opportunity—if captured properly—to be burned to produce electricity. [Capturing methane](https://archive.epa.gov/climatechange/kids/solutions/technologies/methane.html#:~:text=Methane%20is%20a%20very%20powerful,buildings%2C%20or%20power%20garbage%20trucks.) before it gets into the atmosphere can generate valuable energy for societies while also helping to reduce the effects of climate change. 
 
 ## Addressing Solid Waste from an Unlikely Angle 
 
