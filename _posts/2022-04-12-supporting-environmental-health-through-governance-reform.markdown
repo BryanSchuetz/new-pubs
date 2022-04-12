@@ -7,6 +7,7 @@ tags:
 - governance
 - environment-and-energy
 author: "[Joshua Palfreman](https://www.dai.com/who-we-are/our-team/joshua-palfreman)"
+thumbnail-image: "/uploads/sm%20Image%20option%201%20-%20Joshua%20Palfreman.jpg"
 publication: Developments
 ---
 
