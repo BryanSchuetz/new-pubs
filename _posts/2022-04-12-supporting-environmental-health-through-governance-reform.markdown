@@ -37,9 +37,9 @@ IGPA and SHAHAR utilized their mandates to enhance public utility service delive
 
 Both IGPA and SHAHAR also designed, trialed, and employed accompanying tools, pegged to international best practice standards, but tailored to local contexts, to help local partners assess and implement the available technologies. Some tools help users identify environmental hazards at landfill and waste disposal sites, while others offer a checklist for spotting factors that lead to risky outcomes, like methane flaring—burning excess natural gas that can result in harmful emissions. Through training on these tools and field visits to build capacity in engineering methods for methane gas containment and capture, IGPA implemented effective, locally appropriate, and affordable technologies to upgrade old dumpsites to enable methane capturing and utilization.
 
-![Image option 1 - Joshua Palfreman.jpg](/uploads/Image%20option%201%20-%20Joshua%20Palfreman.jpg)`Topsoil operations at a dumpsite. Photo: Joshua Palfreman.`
-
 The tools and training modules provided users from government ministries as well as landfill site managers with the knowledge and skills required to tap methane resources to produce clean energy for generating electricity or heat, on-site, and mitigating methane leakage into the atmosphere—providing a twofold environmental benefit: preventing landfill emissions and displacing the requirement for less sustainable energy alternatives, such as coal, oil, or natural gas. If methane capture could be successfully implemented in this context, it would be a win-win.
+
+![Image option 1 - Joshua Palfreman.jpg](/uploads/Image%20option%201%20-%20Joshua%20Palfreman.jpg)`Topsoil operations at a dumpsite. Photo: Joshua Palfreman.`
 
 ## Ensuring Sustainability Through Good Policies
 
