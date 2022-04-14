@@ -72,3 +72,18 @@ The WALIS Improving WASH Evidence-Based Decision-Making (program took a demand-d
 
 ![Screen Shot 2022-04-14 at 9.44.25 AM.png](/uploads/Screen%20Shot%202022-04-14%20at%209.44.25%20AM.png)`IWED Tanzania worked with Tanzania’s MoHCDGEC to roll out the National Sanitation Management Information System and National WASH Web portal. Video: Global Waters.`
 
+## Lesson 5: Learning and Adaptive Management are Crucial
+
+The process of strengthening WSSH systems rarely follows a simple, linear progression. A strong focus on [collaboration, learning, and adapting (CLA)](https://usaidlearninglab.org/qrg/understanding-cla-0)—underpinned by robust monitoring and evaluation and data systems—has proven critical to understanding our progress and challenges. We learned that to be able to operate in complex environments, our projects needed to build in processes (and time) to learn, reflect, and adapt their approaches as needed. 
+
+Monitoring and learning activities, using both qualitative and quantitative data, were an important foundation across our projects. Using data beyond typical performance monitoring indicators allowed project staff to focus on meaningful outcomes that could inform intervention strategies, as the USAID Water and Sanitation project did in measuring Haiti’s utility performance against the utility turnaround framework, in addition to tracking project beneficiaries.
+
+Under IUWASH PLUS, the project team realized that tailored strategies would be needed to reach the bottom 40 percent by wealth. Developing these strategies required deep learning about people’s motivations for investing in WSSH services, and the barriers they face. To complement a traditional formative research study using household surveys and focus group discussions, IUWASH staff added 30 hours of continuous, “live-in” observation of families as they went about their daily routines. These “homestays” provided a unique window into the lives of the urban poor and how they cope with sub-optimal access to water and sanitation facilities, shedding light on behaviors that are sometimes habitual and unconscious.
+
+Over the approximately five years that these WADI projects were active, they saw significant changes in the operating contexts. In Haiti, our project continued operating throughout widespread protests, kidnappings, the assassination of the president, and a magnitude 7.2 earthquake. The COVID-19 pandemic and resulting economic impacts affected every country in the world, putting pressure on essential services such as water and sanitation, and affecting the ability of staff to implement activities. 
+
+All our projects adapted their approaches in response, as with the inclusion of new handwashing promotion activities in IUWASH PLUS and KIWASH to support infection prevention, for example, and LWP’s emphasis on reducing operating and maintenance costs to support utilities facing falling revenues. 
+
+Learning and demonstration activities at the sub-national or service provider scale created entry points to catalyze national change. For example, in the USAID Water and Sanitation project, the mWater data system was developed in cooperation with the project’s partner utilities and regional authorities to meet their specific needs. Haiti’s regional and national authorities then took on the key role of sharing learning about the data system with other utilities, thereby enabling widespread adoption of the tool beyond the project sites. 
+
+
