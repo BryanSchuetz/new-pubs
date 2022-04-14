@@ -7,6 +7,8 @@ tags:
 - WASH
 - environment-and-energy
 author: "[Liz Jordan](https://www.dai.com/who-we-are/our-team/liz-jordan)"
+thumbnail-image: "/uploads/sm%20Photo%20four.jpg"
+social-image: "/uploads/sm%20Photo%20four.jpg"
 publication: Developments
 ---
 
@@ -46,6 +48,7 @@ WADI projects typically work across multiple jurisdictions, where local governme
 
 But building valuable and durable partnerships takes time—often more time than a typical five-year project allows—and benefits from consistency in personal relationships. Once locally sustainable partnerships are established, our projects can taper their support, eventually exiting entirely.
 
+![kiwash.jpg](/uploads/kiwash.jpg)`Partnering with entrepreneurs is one pathway to sustainability. Photo: USAID Kenya KIWASH.`
 
 
 
