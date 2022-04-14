@@ -88,10 +88,10 @@ Learning and demonstration activities at the sub-national or service provider sc
 
 
 
-<aside><p>**Sidebar: Results from Blending Hardware and Software Interventions in Haiti**
+<aside><p>Sidebar: Results from Blending Hardware and Software Interventions in Haiti
 
 When the USAID Water and Sanitation project began in late 2017, only two out of the 28 utilities in Haiti generated enough revenue from water sales to cover their basic operating costs. The remaining utilities were caught in a downward spiral of poor service leading to lower customer revenues, resulting in dependency on ad hoc subsidies to deliver services. The project began using the World Bank’s Utility Turnaround Framework Approach (UTF) to allow utilities to self-identify their current performance levels and their performance aspirations against a performance ladder. Utilities were then able to chart the goals and tasks that would take them from one performance level to the next—aligning everyone around a common vision of success and generating more ownership of the process.
 
-![haiti.png](/uploads/haiti.png)`Photo: USAID Water and Sanitation.`
-
 The project then designed a capacity-building program using liaison agents placed in each utility office who worked directly with the staff to identify and overcome problems. Much of this coaching focused on adopting foundational systems for tracking customers, billing, accounting, meter reading, and asset management. It invested in targeted hardware—such as piping for network expansion and additional pumping capacity—to support the utilities to achieve their service goals. Following these interventions, 250,000 people now have improved water services, and there has been a 30 percent increase in the number of customers paying for water services, and 14 of the 28 utilities are on track to be able to cover all of their operating expenses.</p></aside>
+
+![haiti.png](/uploads/haiti.png)`Photo: USAID Water and Sanitation.`
