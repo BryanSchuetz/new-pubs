@@ -86,4 +86,4 @@ All our projects adapted their approaches in response, as with the inclusion of 
 
 Learning and demonstration activities at the sub-national or service provider scale created entry points to catalyze national change. For example, in the USAID Water and Sanitation project, the mWater data system was developed in cooperation with the project’s partner utilities and regional authorities to meet their specific needs. Haiti’s regional and national authorities then took on the key role of sharing learning about the data system with other utilities, thereby enabling widespread adoption of the tool beyond the project sites. 
 
-![Untitled-1-ea9502.png](/uploads/Untitled-1-ea9502.png)
+![Untitled-1-24d745.png](/uploads/Untitled-1-24d745.png)
