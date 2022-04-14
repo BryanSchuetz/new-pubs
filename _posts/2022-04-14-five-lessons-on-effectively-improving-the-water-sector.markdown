@@ -31,6 +31,7 @@ The appropriate blend of hard and soft interventions will vary, by necessity, de
 All of our country-specific projects included investments in both infrastructure and technical assistance, but the proportion targeted toward hardware interventions was relatively higher in Haiti, a fragile state with large infrastructure needs, than in Indonesia, where the existing infrastructure is more expansive and the government devotes significant public resources to the water sector. In all cases, the review underscored the importance of ensuring that infrastructure is designed to support service providers in achieving performance goals and is not driven by top-down political priorities.
 
 ![LWP-8395.jpg](/uploads/LWP-8395.jpg)`Capacity building at pumping stations integrates 'soft' and 'hard' interventions. Photo: USAID Lebanon Water Project.` 
- 
+
+
 
 
