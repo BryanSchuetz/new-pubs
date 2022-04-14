@@ -59,4 +59,3 @@ The WSSH sector’s understanding of sanitation market systems has evolved since
 Even when larger-scale manufacturers are active in the sanitation market, the availability of products alone is not enough to drive widespread adoption of household sanitation. KIWASH worked with both Lixil and SilAfrica to increase sales of sanitation products, with KIWASH strengthening the enabling environment by helping public health departments to aggregate demand and facilitating savings/credit groups to offer finance. By addressing all these aspects of the market system, KIWASH enabled its target villages to achieve a dramatic increase in households having access to improved sanitation—from 3 percent to 67 percent over the life of the project.
 
 
-
