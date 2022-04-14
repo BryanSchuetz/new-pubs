@@ -14,6 +14,8 @@ When the U.S. Agency for International Development (USAID) launched the [U.S. Gl
 
 The agency designed the Water and Development (WADI) contract as an umbrella mechanism to procure activities in support of these goals. As DAI recently wrapped up WADI projects in Haiti, Indonesia, Kenya, Lebanon, and a regional project covering Africa, we brought in a third-party evaluator—[Aguaconsult](https://aguaconsult.co.uk/)—to illuminate which activities had proved most effective. This evaluation yielded the five lessons presented below.
 
+![Picture1-ed9c61.jpg](/uploads/Picture1-ed9c61.jpg)
+
 ## Lesson 1: “Hardware” Must Be Complemented By Technical Assistance and Other “Soft” Interventions
 
 The water sector has largely shifted away from an infrastructure-first approach, with development partners acknowledging that interventions need to holistically address ongoing service delivery, thereby complementing the impact of shiny new facilities. Our projects primarily focused on technical assistance and governance-related interventions, using infrastructure investments strategically to improve service provider performance. 
@@ -27,6 +29,8 @@ Layering “hard” and “soft” interventions within a single demonstration z
 The appropriate blend of hard and soft interventions will vary, by necessity, depending on where a country is on its development journey. As countries mobilize and direct more of their internal budgets toward infrastructure and sector development, development partners can dedicate more of their budgets toward “software,” eventually moving towards graduation from traditional development aid. 
 
 All of our country-specific projects included investments in both infrastructure and technical assistance, but the proportion targeted toward hardware interventions was relatively higher in Haiti, a fragile state with large infrastructure needs, than in Indonesia, where the existing infrastructure is more expansive and the government devotes significant public resources to the water sector. In all cases, the review underscored the importance of ensuring that infrastructure is designed to support service providers in achieving performance goals and is not driven by top-down political priorities.
+
+![LWP-8395.jpg](/uploads/LWP-8395.jpg)`Capacity building at pumping stations integrates 'soft' and 'hard' interventions. Photo: USAID Lebanon Water Project.` 
  
 
 
