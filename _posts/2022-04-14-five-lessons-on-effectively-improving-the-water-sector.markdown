@@ -38,7 +38,7 @@ All of our country-specific projects included investments in both infrastructure
 
 Across all five projects, expanded access to sustainable water security, sanitation, and hygiene (WSSH) services relied on forming strong partnerships with local sector actors. Being responsive to the needs of local partners and accountable for commitments to them are key to building these effective relationships. 
 
-Under the [Water for Africa Through Leadership and Institutional Support (WALIS)](https://www.dai.com/our-work/projects/worldwide-water-africa-through-leadership-and-institutional-support-walis) project, governments developed their own requests for WALIS’s training and equipment support to build the data and monitoring systems they wanted. Working with service providers and local governments, our projects developed performance improvement plans, governance regimes, and monitoring tools to help set service delivery and management goals and co-designed the support that would help achieve them. Partnerships with the private sector and financial institutions were equally important in driving change in the WSSH sector. 
+Under the [Water for Africa Through Leadership and Institutional Support (WALIS)](https://www.dai.com/our-work/projects/worldwide-water-africa-through-leadership-and-institutional-support-walis) project, governments developed their own requests for [WALIS](https://www.globalwaters.org/walis)’s training and equipment support to build the data and monitoring systems they wanted. Working with service providers and local governments, our projects developed performance improvement plans, governance regimes, and monitoring tools to help set service delivery and management goals and co-designed the support that would help achieve them. Partnerships with the private sector and financial institutions were equally important in driving change in the WSSH sector. 
 
 LWP, for example, facilitated a partnership between the South Lebanon Water Establishment and Cash United, with the approval of the Ministry of Finance. This contract allowed for the expansion of customer points of service, online bill payment, electronic points of sale, and door-to-door bill collection service for the utility. The project acted as a trusted, neutral broker to facilitate relationships among governments, service providers, and the private sector.
 
@@ -49,6 +49,8 @@ WADI projects typically work across multiple jurisdictions, where local governme
 But building valuable and durable partnerships takes time—often more time than a typical five-year project allows—and benefits from consistency in personal relationships. Once locally sustainable partnerships are established, our projects can taper their support, eventually exiting entirely.
 
 ![kiwash.jpg](/uploads/kiwash.jpg)`Partnering with entrepreneurs is one pathway to sustainability. Photo: USAID Kenya KIWASH.`
+
+
 
 
 
