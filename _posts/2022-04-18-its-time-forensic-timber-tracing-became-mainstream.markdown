@@ -1,0 +1,40 @@
+---
+title: It’s Time Forensic Timber Tracing Became Mainstream
+date: 2022-04-18 16:17:00 -04:00
+published: false
+tags:
+- forestry
+- environment-and-energy
+author: "[David Abrahamson](https://www.dai.com/who-we-are/our-team/david-abrahamson)"
+publication: Developments
+---
+
+When I was in Myanmar on a Fulbright Fellowship in 2014, a colleague at an environmental advocacy group asked me to investigate the use of DNA and isotopes to trace timber and combat illegal logging. What I found was promising. New advances in technology meant that trees could be matched to the forest where they were felled and traced to the country where they were shipped, anywhere in the world. It seemed feasible that labs at ports could identify the origin of imported trees and customs agents could use handheld devices to quickly verify claims of origin. 
+
+In recent discussions with industry experts, though, I was surprised to find that these high-tech methods have not been widely adopted. Nor are they cheaper or much more developed than they were in 2014. If we’re serious about tackling the $152 billion-a-year illegal logging industry and the threat it poses to sustainable forestry and the fight against climate change, we need to get serious about mainstreaming this technology. 
+
+## What’s the Hold-Up?
+
+Various barriers are keeping these and other solutions out of common use, including inadequate investment, a lack of regulatory requirements, and the difficulty of international cooperation to agree on the data required to make these methods readily available and enforceable. But efforts to make “stump-to-product” timber tracing are underway.
+
+Among several scientific methods for timber tracing, “DNA fingerprinting” and stable isotope analysis are particularly useful—particularly in combination. If the DNA sequenced from a tree’s genetic sample is stored in a database, then DNA extracted from logs or timber products elsewhere can be compared to it. Lab results can verify if it is the same species, from a genetically similar tree—perhaps from the same forest or plantation—or even if it is the same individual tree. The quality of the reference database is key: just as human fingerprints found at a crime scene need to be compared against samples stored in a repository, so timber forensics depends on having the right records for comparison and matching. Another limitation is that DNA fingerprinting only identifies the tree type, not the location. Unless that tree species only grows in one place, the origin cannot be determined.
+
+But that’s where isotope analysis comes in. While DNA fingerprinting provides species information but not location, stable isotope analysis can provide information on the geography in which the tree was grown (but not the tree type). Each environment has specific characteristics of altitude, latitude, temperature, sunlight, and other factors that yield a unique set of isotopes in the air, soil, and water that nourish the tree. Looking at the stable isotopes in a wood shipment can reveal what country, state, or even hillside the tree grew in. As with DNA tracing, the utility and accuracy of stable isotope analysis depends on the size and quality of the reference database used.
+
+## Case by Case
+
+Such methods have shown value in the relatively few cases where they have been employed. In 2004, Purdue University scientists used DNA fingerprinting to solve a black walnut theft. In 2016, U.S.-based Lumber Liquidators was fined more than $13 million when the Environmental Investigation Agency used DNA fingerprinting to prove the company was illegally sourcing timber from Russia. In 2021, law enforcement and the U.S. Forest Service matched DNA from illegally felled bigleaf maple stumps to timber in a mill, leading to a successful prosecution. Internationally, Sri Lankan Authorities cooperated with the U.S. Fish and Wildlife Service Forensics Lab to thwart importation of Madagascar rosewood labeled as another species. Similar examples have been documented in Germany, Indonesia, Malaysia, the Netherlands, and Papua New Guinea.
+
+Despite the technology’s potential, there are no laws specifically requiring DNA or stable isotope verification in the United States or European Union (EU). Authorities do not have the funding to widely use scientific tracing in enforcement, and tend to employ such methods only where a clear violation is suspected or when third parties such as nongovernmental organizations intervene. In 2015, for example, WWF Germany and the commercial research company Agroisolab used stable isotopes to find that eight of 26 products tests were not from their claimed origin.  
+
+## Signs of Collaboration
+
+The scientists, nongovernmental organizations, and timber experts I spoke with say that the biggest challenges to technology mainstreaming are the lack of expertise, high cost, and lack of a consolidated reference database that covers species from locations around the world. Various universities, government departments, verification service providers, and other organizations do maintain timber DNA and isotope databases, but attempts to coordinate information sharing among them have not been successful. Employing such analysis requires expensive equipment and highly trained scientists, of which there are few, resulting in long waits and high costs. Technical challenges include the fact that DNA degrades when processed, making verification of highly processed products more difficult.
+
+Recently, though, a group of stakeholders—the U.S. Forest Service, World Resources Institute, Kew Royal Botanical Gardens, the Forest Stewardship Council, and Agroisolab—came together to launch World Forest ID. Gathering timber samples from around the world, World Forest ID is compiling a database that can be used for DNA fingerprinting, stable isotope analysis, and potentially other forensic methods, such as trace element analysis. With World Forest ID’s training, local organizations are participating in a collection effort that has to date has resulted in 2,163 samples from 207 species. This achievement represents progress, but World Forest ID’s goal is to eventually collect 500,000 specimens. 
+
+While these high-tech methods are attractive, experts agree that even if they come to fruition, they will supplement rather than replace the documentation regimes and governance systems currently serving as the first line of defense against illegal logging, such as the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement between Liberia and the EU—for which DAI has long provided technical assistance.
+ 
+DAI is also working with governments to advise solutions to wildlife crime, including illegal logging. Under USAID Peru Prevent, for example, we have helped the Ministry of Environment and Forestry and Wildlife Resource Oversight Agency by developing the “miBosque” app, which provides data in real time, thereby reducing the time and cost required to supervise forest resources. In implementing USAID Philippines Protect Wildlife, DAI advanced three policy initiatives that strengthen crime prevention and created the WildAlert mobile app to aid enforcement personnel. For the USAID Integrated Natural Resources Management effort, DAI is researching the scope of Asia’s illegal timber trade and exploring solutions to strengthen the legitimate timber industry. 
+
+All of these efforts could benefit from an expansion in the use of effective forensics technology. The hope is that in a logging industry still predominantly low-tech—relying on stamps and handwritten documents—some targeted investment, perhaps coordinated by promising initiatives such as World Forest ID, could bring costs down to the point where state-of-the-art technology becomes a viable, widespread option for the governments charged with sustaining the world’s forests.
