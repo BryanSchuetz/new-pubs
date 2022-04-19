@@ -32,6 +32,8 @@ The appropriate blend of hard and soft interventions will vary, by necessity, de
 
 All of our country-specific projects included investments in both infrastructure and technical assistance, but the proportion targeted toward hardware interventions was relatively higher in Haiti, a fragile state with large infrastructure needs, than in Indonesia, where the existing infrastructure is more expansive and the government devotes significant public resources to the water sector. In all cases, the review underscored the importance of ensuring that infrastructure is designed to support service providers in achieving performance goals and is not driven by top-down political priorities.
 
+![Untitled-1-923c02.png](/uploads/Untitled-1-923c02.png)
+
 ## Lesson 2: Strong Partnerships Drive Successful Service Delivery Reform—But Take Time to Create
 
 Across all five projects, expanded access to sustainable water security, sanitation, and hygiene (WSSH) services relied on forming strong partnerships with local sector actors. Being responsive to the needs of local partners and accountable for commitments to them are key to building these effective relationships. 
@@ -83,5 +85,3 @@ Learning and demonstration activities at the sub-national or service provider sc
 Over the approximately five years that these WADI projects were active, they saw significant changes in the operating contexts. In Haiti, our project continued operating throughout widespread protests, kidnappings, the assassination of the president, and a magnitude 7.2 earthquake. 
 
 The COVID-19 pandemic and resulting economic impacts affected every country in the world, putting pressure on essential services such as water and sanitation, and affecting the ability of staff to implement activities. All our projects adapted their approaches in response, as with the inclusion of new handwashing promotion activities in IUWASH PLUS and KIWASH to support infection prevention, for example, and LWP’s emphasis on reducing operating and maintenance costs to support utilities facing falling revenues. 
-
-![Untitled-1-923c02.png](/uploads/Untitled-1-923c02.png)
