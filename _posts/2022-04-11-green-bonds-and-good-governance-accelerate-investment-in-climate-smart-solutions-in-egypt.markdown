@@ -34,6 +34,6 @@ Building on Egypt’s efforts to move toward green finance, the DAI-led MESR pro
 
 However MESR is not a project focused on climate change or the environment—it is a fiscal reform project working to address Egypt’s macroeconomic challenges. Yet because GOE leadership has recognized that climate change and macro-fiscal stability are intertwined—as evidenced in Egypt Vision 2030—addressing climate change through green financing became an implicit objective of the project.
 
-For governance practitioners, development assistance must match the priorities of the governments we support and the challenges they face. MESR’s work shows that—by supporting green finance mechanisms— governance projects can help countries build resilience to climate risks and catalyze a shift toward a low-carbon and economically sustainable future. 
+For governance practitioners, development assistance must match the priorities of the governments we support and the challenges they face. MESR’s work shows that—by supporting green finance mechanisms—governance projects can help countries build resilience to climate risks and catalyze a shift toward a low-carbon and economically sustainable future. 
 
 *[Gareth Davies](https://www.dai.com/who-we-are/our-team/gareth-davies) is the Chief of Party for MESR; [Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen) is DAI’s Vice President for Environment; and [David Hall](https://www.dai.com/who-we-are/our-team/david-hall) is the Global Practice Manager, Public Financial Management and Fiscal Transparency.*
