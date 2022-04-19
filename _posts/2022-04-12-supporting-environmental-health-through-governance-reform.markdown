@@ -43,7 +43,8 @@ The tools and training modules provided users from government ministries as well
 
 ## Ensuring Sustainability Through Good Policies
 
-The IGPA team also helped influence policy definitions in the new waste management law of Iraq—expected to strongly promote and influence the uptake of methane gas capture systems across the country, where underlying engineering and operational management conditions allow.  
+The IGPA team also helped influence policy definitions in the new waste management law of Iraq—expected to strongly promote and influence the uptake of methane gas capture systems across the country, where underlying engineering and operational management conditions allow. 
+ 
 By engaging with the private sector, these programs helped governments find ways to stop—and even reverse—the negative environmental impacts of open dumpsites. The programs also helped design and trial field checklists to assess the feasibility of methane capture at dumpsites and landfills across the country. Through remedial engineering measures, they ensured that dumpsites could support methane extraction activities, while also mitigating the risk of methane fires or dumpsite landslides. 
 
 Environmental health and sustainability can be achieved through positive governance reform. IGPA and SHAHAR’s successful waste management reform efforts demonstrate how closely linked economic and governance health is to environmental health and sustainability. IGPA, for instance, streamlined 100 water, solid waste, and social service delivery processes, which improved the efficiency and effectiveness of government services in eight provinces. The project also created a government-civil society coalition that conducted more than 425 water and solid waste management campaigns in seven provinces with local government funding of nearly $900,000. 
