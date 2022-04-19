@@ -6,12 +6,16 @@ tags:
 - forestry
 - environment-and-energy
 author: "[David Abrahamson](https://www.dai.com/who-we-are/our-team/david-abrahamson)"
+thumbnail-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter-d59293.jpg"
+social-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter-d59293.jpg"
 publication: Developments
 ---
 
 When I was in Myanmar on a Fulbright Fellowship in 2014, a colleague at an environmental advocacy group asked me to investigate the use of DNA and isotopes to trace timber and combat illegal logging. What I found was promising. New advances in technology meant that trees could be matched to the forest where they were felled and traced to the country where they were shipped, anywhere in the world. It seemed feasible that labs at ports could identify the origin of imported trees and customs agents could use handheld devices to quickly verify claims of origin. 
 
 In recent discussions with industry experts, though, I was surprised to find that these high-tech methods have not been widely adopted. Nor are they cheaper or much more developed than they were in 2014. If we’re serious about tackling the $152 billion-a-year [illegal logging industry](https://www.nationalgeographic.com/environment/article/the-timber-detectives-on-the-front-lines-of-illegal-wood-trade) and the threat it poses to sustainable forestry and the fight against climate change, we need to get serious about mainstreaming this technology. 
+
+![CIFOR.jpg](/uploads/CIFOR.jpg)`These illegal logs were seized, while in transit, and are impounded at district police offices, Riau, Sumatra, Indonesia. Photo: Sofi Mardiah/CIFOR.`
 
 ## What’s the Hold-Up?
 
@@ -20,6 +24,8 @@ Various barriers are keeping these and other solutions out of common use, includ
 Among several scientific methods for timber tracing, “DNA fingerprinting” and stable isotope analysis are particularly useful—particularly in combination. If the DNA sequenced from a tree’s genetic sample is stored in a database, then DNA extracted from logs or timber products elsewhere can be compared to it. Lab results can verify if it is the same species, from a genetically similar tree—perhaps from the same forest or plantation—or even if it is the same individual tree. The quality of the reference database is key: just as human fingerprints found at a crime scene need to be compared against samples stored in a repository, so timber forensics depends on having the right records for comparison and matching. Another limitation is that DNA fingerprinting only identifies the tree type, not the location. Unless that tree species only grows in one place, the origin cannot be determined.
 
 But that’s where isotope analysis comes in. While DNA fingerprinting provides species information but not location, stable isotope analysis can provide information on the geography in which the tree was grown (but not the tree type). Each environment has specific characteristics of altitude, latitude, temperature, sunlight, and other factors that yield a unique set of isotopes in the air, soil, and water that nourish the tree. Looking at the stable isotopes in a wood shipment can reveal what country, state, or even hillside the tree grew in. As with DNA tracing, the utility and accuracy of stable isotope analysis depends on the size and quality of the reference database used.
+
+![female CoC ranger determining log diameter-324532.jpg](/uploads/female%20CoC%20ranger%20determining%20log%20diameter-324532.jpg)`A ranger determines log diameter. Photo: EU Liberia FLEGT-VPA.`
 
 ## Case by Case
 
