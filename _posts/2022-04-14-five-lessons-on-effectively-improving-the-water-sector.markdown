@@ -32,8 +32,6 @@ The appropriate blend of hard and soft interventions will vary, by necessity, de
 
 All of our country-specific projects included investments in both infrastructure and technical assistance, but the proportion targeted toward hardware interventions was relatively higher in Haiti, a fragile state with large infrastructure needs, than in Indonesia, where the existing infrastructure is more expansive and the government devotes significant public resources to the water sector. In all cases, the review underscored the importance of ensuring that infrastructure is designed to support service providers in achieving performance goals and is not driven by top-down political priorities.
 
-![LWP-8395.jpg](/uploads/LWP-8395.jpg)`Capacity building at pumping stations integrates 'soft' and 'hard' interventions. Photo: USAID Lebanon Water Project.` 
-
 ## Lesson 2: Strong Partnerships Drive Successful Service Delivery Reform—But Take Time to Create
 
 Across all five projects, expanded access to sustainable water security, sanitation, and hygiene (WSSH) services relied on forming strong partnerships with local sector actors. Being responsive to the needs of local partners and accountable for commitments to them are key to building these effective relationships. 
@@ -48,7 +46,7 @@ WADI projects typically worked across multiple jurisdictions, where local govern
 
 But building valuable and durable partnerships takes time—often more time than a typical five-year project allows—and benefits from consistency in personal relationships. Once locally sustainable partnerships are established, our projects can taper their support, eventually exiting entirely.
 
-![kiwash.jpg](/uploads/kiwash.jpg)`Partnering with entrepreneurs is one pathway to sustainability. Photo: USAID Kenya KIWASH.`
+![LWP-8395.jpg](/uploads/LWP-8395.jpg)`The Lebanon Water Project embedded staff within utility offices, using government and utility protocols, staff, and reporting channels to deliver project results. Photo: USAID LWP.` 
 
 ## Lesson 3: Sizeable Commercial Partners Are Needed to Achieve Sustainable Household Sanitation at Scale
 
