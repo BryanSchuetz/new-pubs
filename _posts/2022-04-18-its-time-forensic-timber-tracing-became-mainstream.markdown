@@ -1,7 +1,6 @@
 ---
 title: It’s Time Forensic Timber Tracing Became Mainstream
 date: 2022-04-18 16:17:00 -04:00
-published: false
 tags:
 - forestry
 - environment-and-energy
