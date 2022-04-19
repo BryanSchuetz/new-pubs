@@ -4,6 +4,8 @@ date: 2022-04-18 16:17:00 -04:00
 tags:
 - forestry
 - environment-and-energy
+- climate
+- climate change
 author: "[David Abrahamson](https://www.dai.com/who-we-are/our-team/david-abrahamson)"
 thumbnail-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter-d59293.jpg"
 social-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter-d59293.jpg"
