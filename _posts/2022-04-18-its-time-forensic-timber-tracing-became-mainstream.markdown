@@ -25,7 +25,7 @@ Among several scientific methods for timber tracing, “DNA fingerprinting” an
 
 But that’s where isotope analysis comes in. While DNA fingerprinting provides species information but not location, stable isotope analysis can provide information on the geography in which the tree was grown (but not the tree type). Each environment has specific characteristics of altitude, latitude, temperature, sunlight, and other factors that yield a unique set of isotopes in the air, soil, and water that nourish the tree. Looking at the stable isotopes in a wood shipment can reveal what country, state, or even hillside the tree grew in. As with DNA tracing, the utility and accuracy of stable isotope analysis depends on the size and quality of the reference database used.
 
-![female CoC ranger determining log diameter-324532.jpg](/uploads/female%20CoC%20ranger%20determining%20log%20diameter-324532.jpg)`A ranger determines log diameter. Photo: EU Liberia FLEGT-VPA.`
+![Liberia VPA-SU_2.jpg](/uploads/Liberia%20VPA-SU_2.jpg)`DAI provided technical assistance, funded by the EU, to implement the Voluntary Partnership Agreement in Liberia.`
 
 ## Case by Case
 
@@ -41,7 +41,7 @@ Recently, though, a group of stakeholders—the U.S. Forest Service, World Resou
 
 While these high-tech methods are attractive, experts agree that even if they come to fruition, they will supplement rather than replace the documentation regimes and governance systems currently serving as the first line of defense against illegal logging, such as the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement between Liberia and the EU—for which DAI has long provided [technical assistance](https://www.dai.com/our-work/projects/liberia-long-term-technical-assistance-for-the-implementation-of-the-voluntary-partnership-agreement-flegt-vpa).
 
-![Liberia VPA-SU_2.jpg](/uploads/Liberia%20VPA-SU_2.jpg)`DAI provided technical assistance, funded by the EU, to implement the Voluntary Partnership Agreement in Liberia.`
+![female CoC ranger determining log diameter-324532.jpg](/uploads/female%20CoC%20ranger%20determining%20log%20diameter-324532.jpg)`A ranger determines log diameter. Photo: EU Liberia FLEGT-VPA.`
  
 DAI is also working with governments to advise solutions to wildlife crime, including illegal logging. Under [USAID Peru Prevent](https://www.dai.com/our-work/projects/peru-prevent#:~:text=The%20Prevent%20activity%20was%20designed,to%20protecting%20Peru's%20environmental%20assets.), for example, we have helped the Ministry of Environment and Forestry and Wildlife Resource Oversight Agency by developing the “miBosque” app, which provides data in real time, thereby reducing the time and cost required to supervise forest resources. In implementing [USAID Philippines Protect Wildlife](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect), DAI advanced three policy initiatives that strengthen crime prevention and created the [WildAlert mobile app](https://technology.inquirer.net/97103/app-to-help-curb-wildlife-trafficking) to aid enforcement personnel. For the [USAID Integrated Natural Resources Management](https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm) effort, DAI is researching the scope of Asia’s illegal timber trade and exploring solutions to strengthen the legitimate timber industry. 
 
