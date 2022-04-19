@@ -14,7 +14,7 @@ publication: Developments
 
 When the U.S. Agency for International Development (USAID) launched the Water and Development Plan under the [U.S. Global Water Strategy](https://www.usaid.gov/what-we-do/water-and-sanitation/us-global-water-strategy) (2017–2022), it set an ambitious target of reaching 15 million people with sustainable drinking water services and 8 million with sustainable sanitation services. 
 
-The agency designed the Water and Development (WADI) contract as an umbrella mechanism to procure activities in support of these goals. As DAI is now wrapping up WADI projects in Haiti, Indonesia, Kenya, Lebanon, and a regional project covering Africa, we engaged an external consultant from [Aguaconsult](https://aguaconsult.co.uk/) to illuminate lessons learned with the potential to inform future programs.
+The agency designed the Water and Development (WADI) contract as an umbrella mechanism to procure activities in support of these goals. As DAI is now wrapping up WADI projects in Haiti, Indonesia, Kenya, Lebanon, and an institutional support project in Africa, we engaged an external consultant from [Aguaconsult](https://aguaconsult.co.uk/) to illuminate lessons learned with the potential to inform future programs.
 
 ![Picture1-ed9c61.jpg](/uploads/Picture1-ed9c61.jpg)
 
@@ -80,7 +80,7 @@ Monitoring and learning activities, using both qualitative and quantitative data
 
 Under IUWASH PLUS, the project team realized that tailored strategies would be needed to reach the bottom 40 percent by wealth. Developing these strategies required deep learning about people’s motivations for investing in WSSH services, and the barriers they face. To complement a traditional formative research study using household surveys and focus group discussions, IUWASH PLUS staff added 30 hours of continuous, “live-in” observation of families as they went about their daily routines. These “homestays” provided a unique window into the lives of the urban poor and how they cope with sub-optimal access to water and sanitation facilities, shedding light on behaviors that are sometimes habitual and unconscious.
 
-![3. Masnia.jpg](/uploads/3.%20Masnia.jpg)`IUWASH PLUS developed social and behavior change strategies based on deep formative research in 840 households. Photo: USAID Indonesia IUWASH Plus.`
+![3. Masnia.jpg](/uploads/3.%20Masnia.jpg)`IUWASH PLUS developed social and behavior change strategies based on deep formative research in bottom 40 households. Photo: USAID Indonesia IUWASH Plus.`
 
 Learning and demonstration activities at the sub-national or service provider scale created entry points to catalyze national change. For example, in the USAID Water and Sanitation project, the mWater data system was developed in cooperation with the project’s partner utilities and regional authorities to meet their specific needs. Haiti’s regional and national authorities then took on the key role of sharing learning about the data system with other utilities, thereby enabling widespread adoption of the tool beyond the project sites. 
 
