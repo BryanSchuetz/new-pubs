@@ -6,12 +6,16 @@ tags:
 - forestry
 - environment-and-energy
 author: "[David Abrahamson](https://www.dai.com/who-we-are/our-team/david-abrahamson)"
+thumbnail-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter-d59293.jpg"
+social-image: "/uploads/sm%20female%20CoC%20ranger%20determining%20log%20diameter-d59293.jpg"
 publication: Developments
 ---
 
 When I was in Myanmar on a Fulbright Fellowship in 2014, a colleague at an environmental advocacy group asked me to investigate the use of DNA and isotopes to trace timber and combat illegal logging. What I found was promising. New advances in technology meant that trees could be matched to the forest where they were felled and traced to the country where they were shipped, anywhere in the world. It seemed feasible that labs at ports could identify the origin of imported trees and customs agents could use handheld devices to quickly verify claims of origin. 
 
 In recent discussions with industry experts, though, I was surprised to find that these high-tech methods have not been widely adopted. Nor are they cheaper or much more developed than they were in 2014. If we’re serious about tackling the $152 billion-a-year [illegal logging industry](https://www.nationalgeographic.com/environment/article/the-timber-detectives-on-the-front-lines-of-illegal-wood-trade) and the threat it poses to sustainable forestry and the fight against climate change, we need to get serious about mainstreaming this technology. 
+
+![CIFOR.jpg](/uploads/CIFOR.jpg)`These illegal logs were seized, while in transit, and are impounded at district police offices, Riau, Sumatra, Indonesia. Photo: Sofi Mardiah/CIFOR.`
 
 ## What’s the Hold-Up?
 
@@ -20,6 +24,8 @@ Various barriers are keeping these and other solutions out of common use, includ
 Among several scientific methods for timber tracing, “DNA fingerprinting” and stable isotope analysis are particularly useful—particularly in combination. If the DNA sequenced from a tree’s genetic sample is stored in a database, then DNA extracted from logs or timber products elsewhere can be compared to it. Lab results can verify if it is the same species, from a genetically similar tree—perhaps from the same forest or plantation—or even if it is the same individual tree. The quality of the reference database is key: just as human fingerprints found at a crime scene need to be compared against samples stored in a repository, so timber forensics depends on having the right records for comparison and matching. Another limitation is that DNA fingerprinting only identifies the tree type, not the location. Unless that tree species only grows in one place, the origin cannot be determined.
 
 But that’s where isotope analysis comes in. While DNA fingerprinting provides species information but not location, stable isotope analysis can provide information on the geography in which the tree was grown (but not the tree type). Each environment has specific characteristics of altitude, latitude, temperature, sunlight, and other factors that yield a unique set of isotopes in the air, soil, and water that nourish the tree. Looking at the stable isotopes in a wood shipment can reveal what country, state, or even hillside the tree grew in. As with DNA tracing, the utility and accuracy of stable isotope analysis depends on the size and quality of the reference database used.
+
+![Liberia VPA-SU_2.jpg](/uploads/Liberia%20VPA-SU_2.jpg)`DAI provided technical assistance, funded by the EU, to implement the Voluntary Partnership Agreement in Liberia.`
 
 ## Case by Case
 
@@ -34,6 +40,8 @@ The scientists, nongovernmental organizations, and timber experts I spoke with s
 Recently, though, a group of stakeholders—the U.S. Forest Service, World Resources Institute, Kew Royal Botanical Gardens, the Forest Stewardship Council, and Agroisolab—came together to launch [World Forest ID](https://worldforestid.org/). Gathering timber samples from around the world, World Forest ID is compiling a database that can be used for DNA fingerprinting, stable isotope analysis, and potentially other forensic methods, such as trace element analysis. With World Forest ID’s training, local organizations are participating in a collection effort that has to date has resulted in 2,163 samples from 207 species. This achievement represents progress, but World Forest ID’s goal is to eventually collect 500,000 specimens. 
 
 While these high-tech methods are attractive, experts agree that even if they come to fruition, they will supplement rather than replace the documentation regimes and governance systems currently serving as the first line of defense against illegal logging, such as the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement between Liberia and the EU—for which DAI has long provided [technical assistance](https://www.dai.com/our-work/projects/liberia-long-term-technical-assistance-for-the-implementation-of-the-voluntary-partnership-agreement-flegt-vpa).
+
+![female CoC ranger determining log diameter-324532.jpg](/uploads/female%20CoC%20ranger%20determining%20log%20diameter-324532.jpg)`A ranger determines log diameter. Photo: EU Liberia FLEGT-VPA.`
  
 DAI is also working with governments to advise solutions to wildlife crime, including illegal logging. Under [USAID Peru Prevent](https://www.dai.com/our-work/projects/peru-prevent#:~:text=The%20Prevent%20activity%20was%20designed,to%20protecting%20Peru's%20environmental%20assets.), for example, we have helped the Ministry of Environment and Forestry and Wildlife Resource Oversight Agency by developing the “miBosque” app, which provides data in real time, thereby reducing the time and cost required to supervise forest resources. In implementing [USAID Philippines Protect Wildlife](https://www.dai.com/our-work/projects/philippines-protect-wildlife-protect), DAI advanced three policy initiatives that strengthen crime prevention and created the [WildAlert mobile app](https://technology.inquirer.net/97103/app-to-help-curb-wildlife-trafficking) to aid enforcement personnel. For the [USAID Integrated Natural Resources Management](https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm) effort, DAI is researching the scope of Asia’s illegal timber trade and exploring solutions to strengthen the legitimate timber industry. 
 
