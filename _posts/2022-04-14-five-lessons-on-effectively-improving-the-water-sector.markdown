@@ -14,7 +14,7 @@ publication: Developments
 
 When the U.S. Agency for International Development (USAID) launched the Water and Development Plan under the [U.S. Global Water Strategy](https://www.usaid.gov/what-we-do/water-and-sanitation/us-global-water-strategy) (2017–2022), it set an ambitious target of reaching 15 million people with sustainable drinking water services and 8 million with sustainable sanitation services. 
 
-The agency designed the Water and Development (WADI) contract as an umbrella mechanism to procure activities in support of these goals. As DAI is now wrapping up WADI projects in Haiti, Indonesia, Kenya, Lebanon, and a regional project covering Africa, we engaged an external consultant from [Aguaconsult](https://aguaconsult.co.uk/) to illuminate which activities have proved most effective. This evaluation yielded the five lessons presented below.
+The agency designed the Water and Development (WADI) contract as an umbrella mechanism to procure activities in support of these goals. As DAI is now wrapping up WADI projects in Haiti, Indonesia, Kenya, Lebanon, and a regional project covering Africa, we engaged an external consultant from [Aguaconsult](https://aguaconsult.co.uk/) to illuminate which activities have proved most effective. This review yielded the five lessons presented below.
 
 ![Picture1-ed9c61.jpg](/uploads/Picture1-ed9c61.jpg)
 
