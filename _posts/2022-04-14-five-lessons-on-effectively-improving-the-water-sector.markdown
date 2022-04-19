@@ -6,6 +6,7 @@ tags:
 - Water
 - WASH
 - environment-and-energy
+- WSSH
 author: "[Liz Jordan](https://www.dai.com/who-we-are/our-team/liz-jordan)"
 thumbnail-image: "/uploads/sm%20Photo%20four.jpg"
 social-image: "/uploads/sm%20Photo%20four.jpg"
