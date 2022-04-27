@@ -7,7 +7,7 @@ tags:
 author: "[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) and
   [Amy Fisher](https://www.dai.com/who-we-are/our-team/amy-fisher)"
 thumbnail-image: "/uploads/AdobeStock_306010633.jpeg"
-social-image: "/uploads/Innovation%20Ecosystem_.png"
+social-image: "/uploads/Innovation%20Ecosystem2.png"
 publication: Developments
 ---
 
