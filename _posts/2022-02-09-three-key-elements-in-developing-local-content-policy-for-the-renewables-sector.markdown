@@ -6,7 +6,7 @@ tags:
 author: "[Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), [Louise
   Flynn](https://www.dai.com/who-we-are/our-team/louise-flynn) and Tommy Cerja"
 thumbnail-image: "/uploads/AdobeStock_177493788%20small(3).png"
-social-image: "/uploads/3%20Key%20Elements%20in%20developing%20local%20content%20policy%20for%20renewables_S-53634d.png"
+social-image: "/uploads/3%20Key%20Elemnts%20in%20LC%20and%20Renewables2.png"
 publication: Developments
 ---
 
