@@ -6,7 +6,8 @@ tags:
 - covid-19
 - economic-growth
 - sustainable-business
-author: "[Alyssa Menz](https://www.dai.com/who-we-are/our-team/alyssa-menz)"
+author: "[Alyssa Menz](https://www.dai.com/who-we-are/our-team/alyssa-menz) and [Zaki
+  Raheem] (https://www.dai.com/who-we-are/our-team/zaki-raheem)"
 thumbnail-image: "/uploads/Screen%20Shot%202021-02-18%20at%202.36.46%20PM.png"
 social-image: "/uploads/Screen%20Shot%202021-02-18%20at%202.36.46%20PM.png"
 publication: Developments
