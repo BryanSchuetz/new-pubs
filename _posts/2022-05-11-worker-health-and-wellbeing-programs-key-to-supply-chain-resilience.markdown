@@ -4,8 +4,6 @@ date: 2022-05-11 09:18:00 -04:00
 published: false
 tags:
 - sustainable-business
-- supply-chain
-- health
 author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
   [Alice Rossignol](https://www.dai.com/who-we-are/our-team/alice-rossignol-d21052)"
 publication: Developments
