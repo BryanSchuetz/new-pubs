@@ -1,6 +1,14 @@
 ---
 title: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
 date: 2022-05-11 09:18:00 -04:00
+published: false
+tags:
+- sustainable-business
+- supply-chain
+- health
+author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
+  [Alice Rossignol](https://www.dai.com/who-we-are/our-team/alice-rossignol-d21052)"
+publication: Developments
 ---
 
 Among the supply chain vulnerabilities laid bare by the COVID-19 pandemic is the reliance that a company’s supply and distribution network has on a healthy workforce. The knock-on impact of worker ill-health affects all the companies in a supply chain, up to the multinational buyer. Without healthy workers, materials cannot be sourced, manufactured, or delivered.
