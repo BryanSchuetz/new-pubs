@@ -26,7 +26,7 @@ DAI supports VF Corporation in its supplier factories in Indonesia and Vietnam. 
 In both countries, DAI has developed standard operating procedures (SOPs) and health promotion materials, and adapted procurement plans for each factory to meet their needs for personal protective equipment, self-test kits, and vaccinations. These health programs have played a role to enable companies such as VF Corporation to operate under changing pandemic restrictions.
 
 > "Training like this is rarely held in the factory. Usually, most people in the factory are just working. So, this \[training\] is good to add insight as we are getting new knowledge. In fact, there are things that I did not know before” Eli Susilawati, five months pregnant worker, PT Uwu Jump
->
+
 > "In the past, most workers were reluctant to get vaccinated, but as we regularly play the audio clips and display the posters \[developed by the MNH Plus Program\], they showed a more positive attitude towards getting vaccinated.” Bondan Pratomo, a Health, Security and Environment Officer, PT Kanindo Makmur Jaya 2
 
 ## Expanding the Definition of Worker Health
