@@ -36,7 +36,7 @@ In both countries, DAI has developed standard operating procedures (SOPs) and he
 
 In recent years, the definition of worker health has expanded in no small part due to the development of environmental, social, and governance (ESG) regulations. Multinational buyers now bear increased responsibility for their suppliers and workforce. Several indicators in the “S” pillar of reporting frameworks relate to supplier due diligence and worker health and safety. The European Commission recently adopted a [Corporate Sustainability Due Diligence Directive](https://ec.europa.eu/info/business-economy-euro/doing-business-eu/corporate-sustainability-due-diligence_en), requiring companies in the EU market to identify, end, prevent, and mitigate adverse human rights and environmental impacts in their operations and those of their subsidiaries and global supply chains. The Directive emerged from the EU’s Sustainable Corporate Governance initiative. DAI provided the EU with an analysis of the initiative's potential impact on emerging economies.
 
-As this sphere of responsibility increases among corporations, so does the aperture for their community health and wellbeing initiatives, which must recognize that a multitude of factors, inside and outside the workplace, play a role in workers’ wellbeing
+As this sphere of responsibility increases among corporations, so does the aperture for their community health and wellbeing initiatives, which must recognize that a multitude of factors, inside and outside the workplace, play a role in workers’ wellbeing.
 
 A workforce benefitting from holistic health and wellbeing programs is likely to have higher satisfaction, lower absenteeism, and increased staff retention.
 
