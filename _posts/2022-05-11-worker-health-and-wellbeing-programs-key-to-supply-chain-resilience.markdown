@@ -55,7 +55,7 @@ At a factory level, any SOPs should be in line with national guidelines, with cl
 
 To promote ownership and expand program reach, a training-of-trainers model can be adopted, with factory clinic staff and foremen rolling out training on their factory floors. These collaborative approaches, such as peer-to-peer education, are designed so that workers can continue sharing the information even after the program ends.
 
-## COVID-19 Showed The Way Forward
+## COVID-19 Showed the Way Forward
 
 COVID-19 disruptions highlighted the importance of a fit and healthy workforce, the risks that absenteeism poses to productivity, and the importance of preparing health programs that mitigate the impact of future shocks. In the future, total worker health—promoting the health and wellbeing of workers inside and outside the factory—will be an increasingly important strategic imperative for multinationals committed to sustainable procurement and truly robust supply chains.
 
