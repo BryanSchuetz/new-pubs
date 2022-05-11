@@ -6,6 +6,8 @@ tags:
 - sustainable-business
 author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
   [Alice Rossignol](https://www.dai.com/who-we-are/our-team/alice-rossignol-d21052)"
+thumbnail-image: "/uploads/workerfactory.jpg"
+social-image: "/uploads/Worker%20Health%20and%20wellbeing.png"
 publication: Developments
 ---
 
