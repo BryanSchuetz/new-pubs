@@ -4,6 +4,8 @@ date: 2022-05-11 05:40:00 -04:00
 published: false
 tags:
 - sustainable-business
+- supply-chain
+- global-health
 author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
   [Alice Rossignol](https://www.dai.com/who-we-are/our-team/alice-rossignol-d21052)"
 thumbnail-image: "/uploads/workerfactory.jpg"
@@ -15,7 +17,7 @@ Among the supply chain vulnerabilities laid bare by the COVID-19 pandemic is the
 
 Worker health has been a challenge for decades. Small and medium suppliers in emerging economies often lack the capacity, infrastructure, or regulatory framework to uphold worker health and safety. DAI’s work designing and implementing supplier workplace health and safety programs across the globe affords us insights into the key success factors multinationals should consider when developing worker health programs.
 
-![workerfactory-e71eaa.jpg](/uploads/workerfactory-e71eaa.jpg)`The Most Effective Worker Health Programs Do Not Stop at the Factory Gates. Photo: Ekaterina - stock.adobe.com.`
+![workerfactory-e71eaa.jpg](/uploads/workerfactory-e71eaa.jpg)`Photo: Ekaterina - stock.adobe.com.`
 
 ## The Most Effective Worker Health Programs Do Not Stop at the Factory Gates
 
@@ -39,9 +41,7 @@ In both countries, DAI has developed standard operating procedures (SOPs) and he
 
 In recent years, the definition of worker health has expanded in no small part due to the development of environmental, social, and governance (ESG) regulations. Multinational buyers now bear increased responsibility for their suppliers and workforce. Several indicators in the “S” pillar of reporting frameworks relate to supplier due diligence and worker health and safety. The European Commission recently adopted a [Corporate Sustainability Due Diligence Directive](https://ec.europa.eu/info/business-economy-euro/doing-business-eu/corporate-sustainability-due-diligence_en), requiring companies in the EU market to identify, end, prevent, and mitigate adverse human rights and environmental impacts in their operations and those of their subsidiaries and global supply chains. The Directive emerged from the EU’s Sustainable Corporate Governance initiative. DAI provided the EU with an analysis of the initiative's potential impact on emerging economies.
 
-As this sphere of responsibility increases among corporations, so does the aperture for their community health and wellbeing initiatives, which must recognize that a multitude of factors, inside and outside the workplace, play a role in workers’ wellbeing.
-
-A workforce benefitting from holistic health and wellbeing programs is likely to have higher satisfaction, lower absenteeism, and increased staff retention.
+As this sphere of responsibility increases among corporations, so does the aperture for their community health and wellbeing initiatives, which must recognize that a multitude of factors, inside and outside the workplace, play a role in workers’ wellbeing. A workforce benefitting from holistic health and wellbeing programs is likely to have higher satisfaction, lower absenteeism, and increased staff retention.
 
 An example of a holistic wellbeing program is the [Walmart Foundation’s Global Women’s Economic Empowerment Initiative](https://www.dai.com/our-work/projects/worldwide-walmart-women-360-training-evaluation), implemented in factories in India, Bangladesh, China, and Central America. Trainers taught 60,000 women life skills related to communication, hygiene, reproductive health, occupational health and safety, identifying personal strengths, and gender sensitivity. Up to 8,000 women also received leadership training to develop skills for personal and career development. The foundation has plans to scale the initiative across 150 factories.
 
@@ -55,7 +55,7 @@ At a factory level, any SOPs should be in line with national guidelines, with cl
 
 To promote ownership and expand program reach, a training-of-trainers model can be adopted, with factory clinic staff and foremen rolling out training on their factory floors. These collaborative approaches, such as peer-to-peer education, are designed so that workers can continue sharing the information even after the program ends.
 
-## COVID-19 Showed The Way Forward
+## COVID-19 Showed the Way Forward
 
 COVID-19 disruptions highlighted the importance of a fit and healthy workforce, the risks that absenteeism poses to productivity, and the importance of preparing health programs that mitigate the impact of future shocks. In the future, total worker health—promoting the health and wellbeing of workers inside and outside the factory—will be an increasingly important strategic imperative for multinationals committed to sustainable procurement and truly robust supply chains.
 
