@@ -1,6 +1,7 @@
 ---
 title: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
 date: 2022-05-11 05:40:00 -04:00
+published: false
 tags:
 - sustainable-business
 author: "[Jeanne Ellis](https://www.dai.com/who-we-are/our-team/jeanne-ellis) and
@@ -29,7 +30,7 @@ In both countries, DAI has developed standard operating procedures (SOPs) and he
 > "Training like this is rarely held in the factory. Usually, most people in the factory are just working. So, this \[training\] is good to add insight as we are getting new knowledge. In fact, there are things that I did not know before”
 > 
 > Eli Susilawati, five months pregnant worker, PT Uwu Jump
->
+
 > "In the past, most workers were reluctant to get vaccinated, but as we regularly play the audio clips and display the posters \[developed by the MNH Plus Program\], they showed a more positive attitude towards getting vaccinated.”
 > 
 > Bondan Pratomo, a Health, Security and Environment Officer, PT Kanindo Makmur Jaya 2
