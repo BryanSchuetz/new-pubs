@@ -14,7 +14,7 @@ Among the supply chain vulnerabilities laid bare by the COVID-19 pandemic is the
 
 Worker health has been a challenge for decades. Small and medium suppliers in emerging economies often lack the capacity, infrastructure, or regulatory framework to uphold worker health and safety. DAI’s work designing and implementing supplier workplace health and safety programs across the globe affords us insights into the key success factors multinationals should consider when developing worker health programs.
 
-![workerfactory-e71eaa.jpg](/uploads/workerfactory-e71eaa.jpg)`The Most Effective Worker Health Programs Do Not Stop at the Factory Gates Photo:Ekaterina - stock.adobe.com.`
+![workerfactory-e71eaa.jpg](/uploads/workerfactory-e71eaa.jpg)`The Most Effective Worker Health Programs Do Not Stop at the Factory Gates. Photo: Ekaterina - stock.adobe.com.`
 
 ## The Most Effective Worker Health Programs Do Not Stop at the Factory Gates
 
