@@ -1,7 +1,6 @@
 ---
 title: Financing Sustainable Land Use—Three Models From Brazil
 date: 2022-05-16 07:32:00 -04:00
-published: false
 tags:
 - climate
 - sustainable landscapes
