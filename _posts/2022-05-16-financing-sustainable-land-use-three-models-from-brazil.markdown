@@ -51,6 +51,20 @@ To date, the Fund has supported 7,500 families and helped preserve 175,000 hecta
 
 Natura is a Brazilian-owned multinational that produces cosmetics. Known for its sustainable practices and use of natural ingredients, Natura sources its ingredients from [RECA](https://www.projetoreca.com.br/en/about-us/), a cooperative of more than 270 household farmers established 30 years ago. 
 
-RECA is located in Rondônia state, a region experiencing intense deforestation pressure from both livestock farmers and the logging industry. The cooperative has well established agroforestry systems combining planting and conservation of native vegetation with agricultural crops and animal husbandry. Families manage some 1,000 hectares planted with more than 40 native fruit and timber species, producing pupunha heart, andiroba, cupuaçu (pulp, oils, and butters), coffee, and açaí—all organically certified.
+RECA is located in Rondônia state, a region experiencing intense deforestation pressure from both livestock farmers and the logging industry. The cooperative has well-established agroforestry systems combining planting and conservation of native vegetation with agricultural crops and animal husbandry. Families manage some 1,000 hectares planted with more than 40 native fruit and timber species, producing pupunha heart, andiroba, cupuaçu (pulp, oils, and butters), coffee, and açaí—all organically certified.
 
+![Example of RECA’s Agroforestry Systems.png](/uploads/Example%20of%20RECA%E2%80%99s%20Agroforestry%20Systems.png)
+`Example of RECA’s Agroforestry Systems. Photo courtesy: www.projetoreca.com.br.`
 
+Since 2017, Natura has paid RECA annually for the environmental services its farmers provide by not depleting the legal forest reserves. These payments are made directly to families and into a cooperative fund. The practice—payment for environmental services within a company’s supply chain—is known as carbon inserting. 
+
+In addition to the ingredients supply contract, RECA and Natura have a 25-year agreement to reward avoided deforestation. The credits that arise from avoided deforestation are issued according to an agreed methodology that includes third-party verification and a baseline established yearly by reference to deforestation rates in the surrounding area.
+
+The carbon credit methodology employed in RECA’s project was developed in partnership with [Idesam](https://idesam.org/en/), a nonprofit dedicated to the conservation and sustainable development of the Amazon. It was necessary to tailor the approach because certification methodologies and standards currently available (such as Verra’s Verified Carbon Standards and the World Bank’s FCPF) are expensive and not easily applied in micro and small-scale settings.
+
+Providing credit for the additional carbon sequestration afforded by agroforestry systems is not yet an option due to the lack of appropriate methodologies and the high cost of carbon performance measurement. Should this change, producers would have access to additional revenue streams.
+
+The RECA-Natura initiative demonstrates how carbon credits may be associated with an economic activity—in this case, RECA selling biodiversity products to a company. The income arising from the carbon credit sales is partly reinvested in the cooperative’s growth—a seed processing factory, for example—and partly distributed among its members.
+
+In terms of conservation, the results are impressive. According to Idesam’s analysis, based on satellite imagery from the National Institute for Space Research, the average annual deforestation in the RECA lots is one fifth  the average forest conversion rate observed on land in the same region.
+How the Three Models Compare
