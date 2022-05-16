@@ -24,7 +24,7 @@ Such financial commitments and policies are a necessary first step. But it is eq
 Brazil is a relatively mature market—it has financial institutions and infrastructure to support small and medium-sized enterprises (SMEs) as well as international corporations and supply chains. We found a diverse mix of public sector interventions, public-private partnerships, and corporate initiatives, each with distinct innovations and benefits, making the country a great learning ground for other geographies and contexts. In this article, we briefly highlight three innovative financial models currently operating in Brazil’s Amazon states.
 
 ![AdobeStock_286769996 land conversion Brazil rainforest. Licenced.jpeg](/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rainforest.%20Licenced.jpeg)
-'Brazilian rainforest land used for a variety of tropical crops.'
+`Brazilian rainforest land used for a variety of tropical crops. Photo: Adobe Stock.`
 
 ### Integrated Jurisdictional Approach
 
