@@ -66,5 +66,6 @@ Providing credit for the additional carbon sequestration afforded by agroforestr
 
 The RECA-Natura initiative demonstrates how carbon credits may be associated with an economic activity—in this case, RECA selling biodiversity products to a company. The income arising from the carbon credit sales is partly reinvested in the cooperative’s growth—a seed processing factory, for example—and partly distributed among its members.
 
-In terms of conservation, the results are impressive. According to Idesam’s analysis, based on satellite imagery from the National Institute for Space Research, the average annual deforestation in the RECA lots is one fifth  the average forest conversion rate observed on land in the same region.
+In terms of conservation, the results are impressive. According to Idesam’s analysis, based on satellite imagery from the National Institute for Space Research, the average annual deforestation in the RECA lots is [one fifth](https://plenamata.eco/en/2021/10/01/reca-sustainable-way-of-living-with-the-forest/) the average forest conversion rate observed on land in the same region.
+
 How the Three Models Compare
