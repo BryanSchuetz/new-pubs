@@ -19,7 +19,7 @@ Brazil is a relatively mature market—it has financial institutions and infrast
 
 ### Integrated Jurisdictional Approach
 
-Produce, Conserve and Include (PCI), an initiative of Mato Grosso State, came about through a long process of engagement between stakeholders from public, private, and civil society sectors. PCI is one of the first jurisdictional initiatives in Brazil and indeed globally. (Further information on such approaches is published by the Carbon Disclosure Project.)
+Produce, Conserve and Include (PCI), an initiative of Mato Grosso State, came about through a long process of engagement between stakeholders from public, private, and civil society sectors. PCI is one of the first jurisdictional initiatives in Brazil and indeed globally. (Further information on such approaches is published by the [Carbon Disclosure Project](https://cdn.cdp.net/cdp-production/cms/policy_briefings/documents/000/005/673/original/CDP_Brazil_JurisdictionalApproach_PolicyBrief_English.pdf?1617963574#:~:text=Jurisdictional%20approach%20is%20a%20type,high%20level%20of%20governmental%20involvement).)
 
 PCI takes an integrated approach that formalizes long-term commitments aimed at reducing deforestation through land use planning and policies, conserving native vegetation, and intensifying agricultural production in a socially inclusive manner. 
 
