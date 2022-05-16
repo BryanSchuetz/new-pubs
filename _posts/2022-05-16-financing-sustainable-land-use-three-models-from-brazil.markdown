@@ -13,7 +13,7 @@ social-image: "/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rain
 publication: Developments
 ---
 
-Spurred on by decarbonization commitments, governments, and the private sector are looking for new ways of reducing emissions to achieve Net Zero targets. This quest has renewed interest in the role of forests in avoiding emissions and sequestering carbon, as well as the part played by supply chains in driving deforestation. Reducing forest conversion is one of the most cost-effective options for reducing emissions, alongside solar and wind energy promotion, according to the latest [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-7/) report (April 2022).
+Spurred on by decarbonization commitments, governments and the private sector are looking for new ways of reducing emissions to achieve Net Zero targets. This quest has renewed interest in the role of forests in avoiding emissions and sequestering carbon, as well as the part played by supply chains in driving deforestation. Reducing forest conversion is one of the most cost-effective options for reducing emissions, alongside solar and wind energy promotion, according to the latest [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-7/) report (April 2022).
 
 
 
