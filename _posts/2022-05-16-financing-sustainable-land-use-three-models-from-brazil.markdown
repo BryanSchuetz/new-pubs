@@ -8,6 +8,8 @@ tags:
 - biodiversity
 - Brazil
 author: "[Catherine Wallis](https://www.dai.com/who-we-are/our-team/catherine-wallis)"
+thumbnail-image: "/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rainforest.%20Licenced.jpeg"
+social-image: "/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rainforest.%20Licenced.jpeg"
 publication: Developments
 ---
 
