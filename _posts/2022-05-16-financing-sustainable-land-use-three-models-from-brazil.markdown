@@ -24,10 +24,9 @@ Such financial commitments and policies are a necessary first step. But it is eq
 
 Brazil is a relatively mature market—it has financial institutions and infrastructure to support small and medium-sized enterprises (SMEs) as well as international corporations and supply chains. We found a diverse mix of public sector interventions, public-private partnerships, and corporate initiatives, each with distinct innovations and benefits, making the country a great learning ground for other geographies and contexts. In this article, we briefly highlight three innovative financial models currently operating in Brazil’s Amazon states.
 
-![AdobeStock_286769996 land conversion Brazil rainforest. Licenced.jpeg](/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rainforest.%20Licenced.jpeg)
-`Brazilian rainforest land used for a variety of tropical crops. Photo: Adobe Stock.`
+![AdobeStock_286769996 land conversion Brazil rainforest. Licenced.jpeg](/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rainforest.%20Licenced.jpeg)`Brazilian rainforest land used for a variety of tropical crops. Photo: Adobe Stock.`
 
-### Integrated Jurisdictional Approach
+## Integrated Jurisdictional Approach
 
 Produce, Conserve and Include (PCI), an initiative of Mato Grosso State, came about through a long process of engagement between stakeholders from public, private, and civil society sectors. PCI is one of the first jurisdictional initiatives in Brazil and indeed globally. (Further information on such approaches is published by the [Carbon Disclosure Project](https://cdn.cdp.net/cdp-production/cms/policy_briefings/documents/000/005/673/original/CDP_Brazil_JurisdictionalApproach_PolicyBrief_English.pdf?1617963574#:~:text=Jurisdictional%20approach%20is%20a%20type,high%20level%20of%20governmental%20involvement).)
 
@@ -47,7 +46,7 @@ The PCI approach also offers a legitimate model to support Brazil’s compliance
 
 Jurisdictional systems development, however, requires hefty public budget resources and donor contributions to support the technical assistance aspect of the model. It also depends on strong local leadership and collective ownership. To replicate the approach in other geographies would also require adequate regulatory and institutional frameworks.
 
-### Green Business Accelerator for Producer Groups
+## Green Business Accelerator for Producer Groups
 
 Cooperatives and producer organizations are critical to keeping forests intact. Such organizations are often key land users and can be incentivized to pursue sustainable economic pathways employing regenerative farming models. However, these groups struggle to access finance earmarked for promoting sustainable agriculture because they are typically unable to meet the minimum business revenue requirements. Larger investment funds find it hard to adapt their structures to these “small ticket” agents. 
 
@@ -59,14 +58,13 @@ The Conexsus Fund is the only blended finance fund dedicated specifically to gre
 The initiative is one of the few in Brazil that relies on a diverse mix of financing resources and agents, with varying finance terms based on business maturity stage, making it lower risk for all parties engaged. It also offers a strong social innovation component such as providing financial and business assistance to cooperatives and SMEs that would not otherwise be able to access rural credit lines at affordable rates.
 To date, the Fund has supported 7,500 families and helped preserve 175,000 hectares of Brazilian rainforest. Over time it is expected to achieve at least 900 million tCO2e in avoided emissions by preserving existing vegetation. 
 
-### Supply Chain Carbon Insetting
+## Supply Chain Carbon Insetting
 
 Natura is a Brazilian-owned multinational that produces cosmetics. Known for its sustainable practices and use of natural ingredients, Natura sources its ingredients from [RECA](https://www.projetoreca.com.br/en/about-us/), a cooperative of more than 270 household farmers established 30 years ago. 
 
 RECA is located in Rondônia state, a region experiencing intense deforestation pressure from both livestock farmers and the logging industry. The cooperative has well-established agroforestry systems combining planting and conservation of native vegetation with agricultural crops and animal husbandry. Families manage some 1,000 hectares planted with more than 40 native fruit and timber species, producing pupunha heart, andiroba, cupuaçu (pulp, oils, and butters), coffee, and açaí—all organically certified.
 
-![Example of RECA’s Agroforestry Systems.png](/uploads/Example%20of%20RECA%E2%80%99s%20Agroforestry%20Systems.png)
-`Example of RECA’s Agroforestry Systems. Photo courtesy: www.projetoreca.com.br.`
+![Example of RECA’s Agroforestry Systems.png](/uploads/Example%20of%20RECA%E2%80%99s%20Agroforestry%20Systems.png)`Example of RECA’s Agroforestry Systems. Photo: www.projetoreca.com.br.`
 
 Since 2017, Natura has paid RECA annually for the environmental services its farmers provide by not depleting the legal forest reserves. These payments are made directly to families and into a cooperative fund. The practice—payment for environmental services within a company’s supply chain—is known as carbon inserting. 
 
@@ -80,7 +78,7 @@ The RECA-Natura initiative demonstrates how carbon credits may be associated wit
 
 In terms of conservation, the results are impressive. According to Idesam’s analysis, based on satellite imagery from the National Institute for Space Research, the average annual deforestation in the RECA lots is [one fifth](https://plenamata.eco/en/2021/10/01/reca-sustainable-way-of-living-with-the-forest/) the average forest conversion rate observed on land in the same region.
 
-### How the Three Models Compare
+## How the Three Models Compare
 
 ![Three Models From Brazil-01.jpg](/uploads/Three%20Models%20From%20Brazil-01.jpg)
 
@@ -90,7 +88,7 @@ In terms of conservation, the results are impressive. According to Idesam’s an
 
 **The RECA-Natura Carbon Insetting Model** has direct climate and nature benefits. Its scale is constrained by the order book and the amount of forest land managed by the community. It is, however, relatively easy to replicate so long as the demand for certified deforestation-free organic produce continues to grow. One limitation of the carbon insetting model is the need for farmers to hold formal land ownership documents. 
 
-### Learning and Metrics Are Key
+## Learning and Metrics Are Key
 
 Each of these three models is unique, having evolved from a specific set of conditions and needs, but is potentially adaptable to other settings. However, if we are to connect such initiatives with the growing sources of funding for climate change-related projects, we need to better document and share their business cases and results, so that new, similar initiatives will receive appropriate consideration. Funding institutions—private and public—need practical tools to assess the impact of projects and activities focused on climate, biodiversity conservation, and livelihoods. 
 
