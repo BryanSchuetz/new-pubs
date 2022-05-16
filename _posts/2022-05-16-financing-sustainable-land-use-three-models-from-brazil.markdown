@@ -23,6 +23,9 @@ Such financial commitments and policies are a necessary first step. But it is eq
 
 Brazil is a relatively mature market—it has financial institutions and infrastructure to support small and medium-sized enterprises (SMEs) as well as international corporations and supply chains. We found a diverse mix of public sector interventions, public-private partnerships, and corporate initiatives, each with distinct innovations and benefits, making the country a great learning ground for other geographies and contexts. In this article, we briefly highlight three innovative financial models currently operating in Brazil’s Amazon states.
 
+![AdobeStock_286769996 land conversion Brazil rainforest. Licenced.jpeg](/uploads/AdobeStock_286769996%20land%20conversion%20Brazil%20rainforest.%20Licenced.jpeg)
+'Brazilian rainforest land used for a variety of tropical crops.'
+
 ### Integrated Jurisdictional Approach
 
 Produce, Conserve and Include (PCI), an initiative of Mato Grosso State, came about through a long process of engagement between stakeholders from public, private, and civil society sectors. PCI is one of the first jurisdictional initiatives in Brazil and indeed globally. (Further information on such approaches is published by the [Carbon Disclosure Project](https://cdn.cdp.net/cdp-production/cms/policy_briefings/documents/000/005/673/original/CDP_Brazil_JurisdictionalApproach_PolicyBrief_English.pdf?1617963574#:~:text=Jurisdictional%20approach%20is%20a%20type,high%20level%20of%20governmental%20involvement).)
