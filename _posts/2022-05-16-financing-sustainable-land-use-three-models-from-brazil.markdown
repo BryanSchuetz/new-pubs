@@ -60,7 +60,7 @@ Since 2017, Natura has paid RECA annually for the environmental services its far
 
 In addition to the ingredients supply contract, RECA and Natura have a 25-year agreement to reward avoided deforestation. The credits that arise from avoided deforestation are issued according to an agreed methodology that includes third-party verification and a baseline established yearly by reference to deforestation rates in the surrounding area.
 
-The carbon credit methodology employed in RECA’s project was developed in partnership with [Idesam](https://idesam.org/en/), a nonprofit dedicated to the conservation and sustainable development of the Amazon. It was necessary to tailor the approach because certification methodologies and standards currently available (such as Verra’s Verified Carbon Standards and the World Bank’s FCPF) are expensive and not easily applied in micro and small-scale settings.
+The carbon credit methodology employed in RECA’s project was developed in partnership with [Idesam](https://idesam.org/en/), a nonprofit dedicated to the conservation and sustainable development of the Amazon. It was necessary to tailor the approach because certification methodologies and standards currently available (such as Verra’s [Verified Carbon Standards](https://verra.org/methodologies/) and the World Bank’s [FCPF](https://www.forestcarbonpartnership.org/carbon-fund-methodological-framework)) are expensive and not easily applied in micro and small-scale settings.
 
 Providing credit for the additional carbon sequestration afforded by agroforestry systems is not yet an option due to the lack of appropriate methodologies and the high cost of carbon performance measurement. Should this change, producers would have access to additional revenue streams.
 
