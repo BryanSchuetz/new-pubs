@@ -68,4 +68,17 @@ The RECA-Natura initiative demonstrates how carbon credits may be associated wit
 
 In terms of conservation, the results are impressive. According to Idesam’s analysis, based on satellite imagery from the National Institute for Space Research, the average annual deforestation in the RECA lots is [one fifth](https://plenamata.eco/en/2021/10/01/reca-sustainable-way-of-living-with-the-forest/) the average forest conversion rate observed on land in the same region.
 
-How the Three Models Compare
+### How the Three Models Compare
+
+![Three Models From Brazil-01.jpg](/uploads/Three%20Models%20From%20Brazil-01.jpg)
+
+The PCI Jurisdictional Model works at a landsdcape level, achieving multiple positive outcomes and ensuring that sustainable, climate-friendly land-use activities work together with services that preserve the ecosystem and protect biodiversity. However, the model draws heavily on public resources. 
+
+The Conexsus Accelerator Fund deepens financial inclusion and offers farmers an accessible and cost-effective alternative to public systems and policies. One of its shortfalls is the size of its pipeline due to limited numbers of businesses that can present adequate risk levels and return-on-investment profiles, which makes it hard to deploy at scale.
+The RECA-Natura Carbon Insetting Model has direct climate and nature benefits. Its scale is constrained by the order book and the amount of forest land managed by the community. It is, however, relatively easy to replicate so long as the demand for certified deforestation-free organic produce continues to grow. One limitation of the carbon insetting model is the need for farmers to hold formal land ownership documents. 
+
+### Learning and Metrics Are Key
+
+Each of these three models is unique, having evolved from a specific set of conditions and needs, but is potentially adaptable to other settings. However, if we are to connect such initiatives with the growing sources of funding for climate change-related projects, we need to better document and share their business cases and results, so that new, similar initiatives will receive appropriate consideration. Funding institutions—private and public—need practical tools to assess the impact of projects and activities focused on climate, biodiversity conservation, and livelihoods. 
+
+Practically speaking, that means funding more research into the impacts of different financial mechanisms on sustainable land use, particularly research that yields meaningful comparisons across those mechanisms (for example, how much carbon does a given mechanism sequester over a given period, and what social inclusion benefits does it yield?). And we need more insight into the reasons for the success or failure of these mechanisms, which will entail a deeper contextual understanding of their governance structures and enabling conditions. 
