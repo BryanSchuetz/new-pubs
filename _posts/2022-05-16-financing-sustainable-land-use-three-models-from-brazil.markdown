@@ -72,10 +72,11 @@ In terms of conservation, the results are impressive. According to Idesam’s an
 
 ![Three Models From Brazil-01.jpg](/uploads/Three%20Models%20From%20Brazil-01.jpg)
 
-The PCI Jurisdictional Model works at a landsdcape level, achieving multiple positive outcomes and ensuring that sustainable, climate-friendly land-use activities work together with services that preserve the ecosystem and protect biodiversity. However, the model draws heavily on public resources. 
+**The PCI Jurisdictional Model** works at a landsdcape level, achieving multiple positive outcomes and ensuring that sustainable, climate-friendly land-use activities work together with services that preserve the ecosystem and protect biodiversity. However, the model draws heavily on public resources. 
 
-The Conexsus Accelerator Fund deepens financial inclusion and offers farmers an accessible and cost-effective alternative to public systems and policies. One of its shortfalls is the size of its pipeline due to limited numbers of businesses that can present adequate risk levels and return-on-investment profiles, which makes it hard to deploy at scale.
-The RECA-Natura Carbon Insetting Model has direct climate and nature benefits. Its scale is constrained by the order book and the amount of forest land managed by the community. It is, however, relatively easy to replicate so long as the demand for certified deforestation-free organic produce continues to grow. One limitation of the carbon insetting model is the need for farmers to hold formal land ownership documents. 
+**The Conexsus Accelerator Fund** deepens financial inclusion and offers farmers an accessible and cost-effective alternative to public systems and policies. One of its shortfalls is the size of its pipeline due to limited numbers of businesses that can present adequate risk levels and return-on-investment profiles, which makes it hard to deploy at scale.
+
+**The RECA-Natura Carbon Insetting Model** has direct climate and nature benefits. Its scale is constrained by the order book and the amount of forest land managed by the community. It is, however, relatively easy to replicate so long as the demand for certified deforestation-free organic produce continues to grow. One limitation of the carbon insetting model is the need for farmers to hold formal land ownership documents. 
 
 ### Learning and Metrics Are Key
 
