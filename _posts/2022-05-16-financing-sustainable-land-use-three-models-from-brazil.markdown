@@ -46,3 +46,11 @@ The Conexsus Fund is the only blended finance fund dedicated specifically to gre
 
 The initiative is one of the few in Brazil that relies on a diverse mix of financing resources and agents, with varying finance terms based on business maturity stage, making it lower risk for all parties engaged. It also offers a strong social innovation component such as providing financial and business assistance to cooperatives and SMEs that would not otherwise be able to access rural credit lines at affordable rates.
 To date, the Fund has supported 7,500 families and helped preserve 175,000 hectares of Brazilian rainforest. Over time it is expected to achieve at least 900 million tCO2e in avoided emissions by preserving existing vegetation. 
+
+### Supply Chain Carbon Insetting
+
+Natura is a Brazilian-owned multinational that produces cosmetics. Known for its sustainable practices and use of natural ingredients, Natura sources its ingredients from [RECA](https://www.projetoreca.com.br/en/about-us/), a cooperative of more than 270 household farmers established 30 years ago. 
+
+RECA is located in Rondônia state, a region experiencing intense deforestation pressure from both livestock farmers and the logging industry. The cooperative has well established agroforestry systems combining planting and conservation of native vegetation with agricultural crops and animal husbandry. Families manage some 1,000 hectares planted with more than 40 native fruit and timber species, producing pupunha heart, andiroba, cupuaçu (pulp, oils, and butters), coffee, and açaí—all organically certified.
+
+
