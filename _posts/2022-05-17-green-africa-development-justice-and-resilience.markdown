@@ -4,5 +4,72 @@ date: 2022-05-17 11:08:00 -04:00
 published: false
 author: "[Sofia Martinez[(https://www.dai.com/who-we-are/our-team/sofia-martinez)
   and [Donald Lunen](https://www.dai.com/who-we-are/our-team/donald-lunan)"
+publication: Developments
 ---
 
+The most recent Intergovernmental Panel on Climate Change report  was a stark reminder of the consequences of inaction on climate change. Global warming, it showed, is harming low-income countries the most. Vulnerability to climate change is explicitly linked to inequality, which has been exacerbated by COVID-19 and will become even more acute if the target 1.5oC limit to global warming is missed.
+
+
+
+
+Africa, specifically, responsible for just 3.8 percent of global greenhouse gas emissions, is home to many of the countries most severely affected by climate change. Their resilience was already being tested, even before Russia’s invasion of Ukraine dramatically inflated the cost of grain and fertilizer—a potentially catastrophic development for the poorest households, who already spend two-thirds of their income on food. For these countries and their international partners, the challenge is to sustain and accelerate the economic growth that has characterized Sub-Saharan Africa in recent years—which in turn depends on more widespread energy access and electrification—but to do so in a way that complements rather than weakens global climate action while ensuring that no one is left behind.
+
+The opportunity for the continent is alluring: bridging the existing energy gap by means of sustainable energy while electrifying the economy promises to spur a resilient and inclusive form of development. But the social, financial, and technical obstacles to achieving this vision are significant. Based on DAI’s decades of work in the energy and policy arenas in Africa and elsewhere, this article offers recommendations for how best to address those obstacles and seize the opportunities inherent in the energy transition.
+
+###Africa Needs Clean, Reliable, Affordable Energy
+
+In recent years, a cornerstone of development policy in Africa has been to increase access to energy. Energy is essential to economic growth—supporting businesses and households, creating jobs, and diversifying livelihoods—while also helping to deliver other development goals, from education and health outcomes to gender equality. In line with consistent economic growth across all parts of the continent, the number of people across Africa with access to electricity has been increasing since 2013. But in 2020, the coronavirus pandemic reversed that progress, with those lacking access to electricity creeping back up by 13 million—or 2 percent—from the previous year  to more than 590 million.
+
+Sustaining economic growth in a faltering global economy will be a challenge. The economies of most African countries remain dependent on income from natural capital exports and commodities. Access to electricity helps drive businesses that provide jobs and spur industries with the capacity to diversify rural and urban economies. Given that 70 percent of its population is under the age of 30, Sub-Saharan Africa has the potential to become a hugely dynamic and productive economic region—but this will require a sustained push on energy access.
+
+###Green Energy Transformation
+
+The green energy transformation—and the substantial infrastructure investment required to achieve it—could be a powerful catalyst for that dynamic economy. According to the International Renewable Energy Agency (IRENA), in collaboration with the African Development Bank, the transition could bring a wave of new sustainable energy investment to Africa, increasing gross domestic product in 2030 by a further 7.5 percent compared with current projections. By 2050, a coordinated rollout of clean energy across the continent would see more high-quality jobs created, outweighing those lost by moving away from traditional sources. Such a rollout would significantly improve energy access and offer profound social welfare and environmental benefits.
+
+However, financial flows and investments are not yet reaching much of Africa. According to the Climate Policy Initiative , Sub-Saharan Africa received just 3 percent of global climate finance in 2019. Less than 2 percent of international investments in renewable energy in the past two decades were made on the continent, and less than 3 percent of jobs related to renewables are located there (IRENA ).
+
+In addition to rectifying the shortfall in clean energy investment from public and private sources, policymakers interested in advancing the energy transition are also confronted with some difficult trade-offs, many of which will hit the poorest and most vulnerable the hardest if they are not given due consideration.
+
+For example, if the clean energy economy depends on overseas manufacturers for its renewable technology systems, maintenance, and parts, African countries may be signing up for prolonged dependence on international markets and external trade. “Local content” will be as important in the renewables field as it has come to be in the oil, gas, and traditional energy arena.
+
+In those fossil fuel-rich countries, the transition may lead to stranded assets, some loss of fiscal revenues, and employment impacts. In any given country, the new opportunities created by the switch to renewables may not be located in the same regions as existing energy jobs and are likely to require different or specialized skills.
+
+As countries start to design and implement clean energy transition plans, then, national governments and their international partners must ensure that those plans include a commitment to achieving universal access to electricity and clean cooking in the next decade, and recognize the challenges of attaining those two goals at the same time. Citizen engagement will be crucial, especially civil dialogue channels that give excluded groups a voice. Governments will need to support labor markets, vocational education, and training while offering some degree of protection to vulnerable communities. Social safety nets—helping those who cannot afford them to access modern energy services—will likely figure prominently in any equitable solution.
+
+###Recommendations for Africa’s Partners
+
+If the United Nations’ Sustainable Development Goals are to be met, Africa should not be left to bear the costs of such a transformation alone. But how should international partners best assist their African partners?
+
+DAI has been working for decades with public and private sector clients in the energy sector: promoting local content; improving economic governance and planning; supporting climate-proofing and climate mainstreaming; developing policy and regulations; building institutional capacity; and implementing investment and financing strategies, facilities, and instruments. Our experience suggests that a successful energy transformation in Sub-Saharan Africa by 2030 requires an inclusive, people-centered approach built around six interconnected pillars:
+
+1. Access to clean, sustainable, and affordable energy
+2. Electrification
+3. Decentralization, diversification, and local value chain creation
+4. Efficiency
+5. Democratization
+6. Digitalization
+
+These building blocks underly the following recommendations for achieving universal energy access while electrifying the economy:
+* Advance regional integration of national power sectors and allow private sector participation while strengthening and expanding electricity distribution systems. Off-grid systems and mini-grids, for instance, have emerged as cost-efficient and reliable ways to power rural communities, healthcare facilities, schools, and enterprises. The mini-grids and off-grid value chains provide opportunities for new employment and entrepreneurial activities, including women and youth. DAI’s work with USAID INVEST  includes investments in new and upgraded connections to facilitate clean energy transition through Power Africa in Kenya, Uganda, and Tunisia.
+
+* Build capacity and provide technical assistance to support policy and regulatory frameworks that allow integrated energy planning and encourage innovation. This assistance should help utilities achieve financial viability, green their power generation mix, lower supply costs, and expand electricity access to lower-income and remote households. DAI is working in this energy policy arena through our European Union (EU)-funded project in Egypt, for example,  and U.K.-funded work in Nigeria . The Supporting the Policy Environment for Economic Development (SPEED+ ) project has supported the creation of the Energy Regulatory Authority that will oversee the energy transition in Mozambique.
+
+* Develop local industrial clusters across the sustainable energy value chain to maximize socioeconomic benefits—including decent jobs—and drive industrialization. For example, DAI is working with the European Bank for Reconstruction and Development (EBRD) on green value chains  and green economy financing  in Morocco, where improved energy access enables productive energy use, creates job opportunities, and stimulates local economic activity, especially for women and youth. DAI is also supporting Turkey’s renewable energy industry and services in and around the city of Izmir.
+
+* Promote energy efficiency—a powerful and under-used approach. Energy efficiency helps to reduce costs for businesses and households and increases energy affordability. Reducing baseload, particularly in industrial areas, allows for more agile deployment of renewables and accelerates the electrification of the economy. See our work with the EBRD in Morocco and Tunisia.
+
+* Increase funding for energy access and address affordability and last-mile delivery issues. In seeking to bridge the energy finance gap, policymakers must consider the needs and limitations of consumers and end-users, especially high-risk customers. They also must meet the needs and constraints of the wider energy ecosystem, from investors and lenders to energy suppliers, equipment producers, and distributors. Part of the solution is to expand the reach of innovative finance instruments that mitigate investment risk, reduce costs, and mobilize blended finance, combining private and public funds. For instance, the USAID INVEST  program, Power Africa, and USAID/Southern Africa Regional Office are harnessing the resources of institutional investors to increase the number of people and businesses with access to power in Sub-Saharan Africa.
+
+* Employ a people-centered energy-access approach that is context-sensitive and inclusive. Awareness-raising, participatory governance, and community ownership are fundamental to the just transition process. For example, DAI is working with the EU in Sierra Leone to empower young people and women as key players in the transition process.
+
+* Reduce or remove inefficient subsidies for fossil fuels. Subsidies often provide perverse incentives in both the supply and the demand for different fuels. While rapid and poorly designed reforms may have a negative impact on both households and industry, environmentally impactful policy reform to phase out subsidies would support a smoother transition to cleaner energy sources and global electrification. Subsidies and public money can be shifted away from fossil fuels and toward investments that are in line with the Sustainable Development Goals and lift people out of poverty, including energy poverty.
+
+* Prioritize universal access to clean cooking and include decentralized energy and renewable-energy products and systems distribution in national plans and policies. More than 900 million people in Africa lack access to clean cooking facilities. Universal access by 2030 is feasible, given €1.8 billion in financial commitments per annum, according to the IEA . Reaching that goal will require mobilizing domestic, regional, and international stakeholders across all value chain segments. DAI plays a small part in the clean cooking movement through its relationship with HomeBiogas.
+
+* Support digitalization of energy systems to maximize the integration of renewable energy—including smart grids in cities and rural areas—and enabling technologies such as storage or green hydrogen. DAI is supporting smart grids and the implementation of the Covenant of Majors concept globally  and in the Mediterranean. Another relevant example is the work carried out by DAI in the Middle East to assess the economic impact of the transition to clean hydrogen energy use by 2040. Digital-enabled business models such as pay-as-you-go (PAYG) are essential for financial inclusion and facilitating access to digital tools across the whole value chain to improve electrification and energy access. Through USAID INVEST, for example, DAI has provided transaction advisory support to Power Africa for solar energy and mini-grid expansion in Kenya using PAYG models, raising more than $60 million in equity transactions. 
+
+##Toward COP27
+
+In COP26 in Glasgow, we saw a concrete example of what a just transition in the energy sector could look like in the form of the South Africa Political Declaration—a partnership approach that could be a game-changer . Importantly, the Declaration acknowledges the interrelated technical, social, and economic elements of the transition and the significant financial investment required to bring it about.
+
+At COP27 in Sharm-el-Sheikh, we need to find ways to replicate that model across Sub-Saharan Africa to bridge the energy access gap, combining public and private financing with technical expertise while maximizing the socioeconomic and environmental benefits of the sustainable energy transition. It’s an alluring vision, and the EU, African Union, G7 Presidency, and COP27 Presidency have announced their determination to work closely together ahead of the meeting in November 2022. DAI is committed to working with its partners to inform their thinking and help bring it closer to reality.
