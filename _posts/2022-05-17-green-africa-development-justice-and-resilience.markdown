@@ -17,6 +17,7 @@ The most recent Intergovernmental Panel on Climate Change [report](https://www.i
 
 
 
+
 Africa, specifically, responsible for just 3.8 percent of global greenhouse gas emissions, is home to many of the countries most severely affected by climate change. Their resilience was already being tested, even before Russia’s invasion of Ukraine dramatically inflated the cost of grain and fertilizer—a potentially catastrophic development for the poorest households, who already spend two-thirds of their income on food. For these countries and their international partners, the challenge is to sustain and accelerate the economic growth that has characterized Sub-Saharan Africa in recent years—which in turn depends on more widespread energy access and electrification—but to do so in a way that complements rather than weakens global climate action while ensuring that no one is left behind.
 
 The opportunity for the continent is alluring: bridging the existing energy gap by means of sustainable energy while electrifying the economy promises to spur a resilient and inclusive form of development. But the social, financial, and technical obstacles to achieving this vision are significant. Based on DAI’s decades of work in the energy and policy arenas in Africa and elsewhere, this article offers recommendations for how best to address those obstacles and seize the opportunities inherent in the energy transition.
