@@ -33,6 +33,8 @@ The green energy transformation—and the substantial infrastructure investment 
 
 However, financial flows and investments are not yet reaching much of Africa. According to the [Climate Policy Initiative](https://www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-2021/), Sub-Saharan Africa received just 3 percent of global climate finance in 2019. Less than 2 percent of international investments in renewable energy in the past two decades were made on the continent, and less than 3 percent of jobs related to renewables are located there ([IRENA[(https://www.irena.org/newsroom/pressreleases/2022/Jan/IRENA-AfDB-report)).
 
+![Overall renewable energy investment in Africa and globally, 2000-2020.jpg](/uploads/Overall%20renewable%20energy%20investment%20in%20Africa%20and%20globally,%202000-2020.jpg)`Overall renewable energy investment in Africa and globally, 2000-2020. Photo: [IRENA Market Africa 2022](https://www.researchgate.net/publication/357992691_IRENA_Market_Africa_2022).`
+
 In addition to rectifying the shortfall in clean energy investment from public and private sources, policymakers interested in advancing the energy transition are also confronted with some difficult trade-offs, many of which will hit the poorest and most vulnerable the hardest if they are not given due consideration.
 
 For example, if the clean energy economy depends on overseas manufacturers for its renewable technology systems, maintenance, and parts, African countries may be signing up for prolonged dependence on international markets and external trade. “Local content” will be as important in the renewables field as it has come to be in the oil, gas, and traditional energy arena.
