@@ -77,4 +77,4 @@ In COP26 in Glasgow, we saw a concrete example of what a just transition in the 
 
 At COP27 in Sharm-el-Sheikh, we need to find ways to replicate that model across Sub-Saharan Africa to bridge the energy access gap, combining public and private financing with technical expertise while maximizing the socioeconomic and environmental benefits of the sustainable energy transition. It’s an alluring vision, and the EU, African Union, G7 Presidency, and COP27 Presidency have announced their determination to work closely together ahead of the meeting in November 2022. DAI is committed to working with its partners to inform their thinking and help bring it closer to reality.
 
-*Please see our [DAI and Energy](https://dai-assets.s3.amazonaws.com/our-work/dai-energy.pdf) flyer for more information about our renewable energy projects.*
+*Download our [DAI and Energy](https://dai-assets.s3.amazonaws.com/our-work/dai-energy.pdf) flyer for more information about our renewable energy projects.*
