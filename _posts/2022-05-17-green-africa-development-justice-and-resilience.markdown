@@ -2,12 +2,17 @@
 title: 'Green Africa: Development, Justice, and Resilience'
 date: 2022-05-17 11:08:00 -04:00
 published: false
+tags:
+- renewable-energy
+- Sub-Saharan Africa
+- energy-transition
+- cilmate-change
 author: "[Sofia Martinez[(https://www.dai.com/who-we-are/our-team/sofia-martinez)
   and [Donald Lunen](https://www.dai.com/who-we-are/our-team/donald-lunan)"
 publication: Developments
 ---
 
-The most recent Intergovernmental Panel on Climate Change report was a stark reminder of the consequences of inaction on climate change. Global warming, it showed, is harming low-income countries the most. Vulnerability to climate change is explicitly linked to inequality, which has been exacerbated by COVID-19 and will become even more acute if the target 1.5oC limit to global warming is missed.
+The most recent Intergovernmental Panel on Climate Change [report](https://www.ipcc.ch/report/ar6/wg2/) was a stark reminder of the consequences of inaction on climate change. Global warming, it showed, is harming low-income countries the most. Vulnerability to climate change is explicitly linked to inequality, which has been exacerbated by COVID-19 and will become even more acute if the target 1.5oC limit to global warming is missed.
 
 
 
@@ -18,7 +23,7 @@ The opportunity for the continent is alluring: bridging the existing energy gap 
 
 ###Africa Needs Clean, Reliable, Affordable Energy
 
-In recent years, a cornerstone of development policy in Africa has been to increase access to energy. Energy is essential to economic growth—supporting businesses and households, creating jobs, and diversifying livelihoods—while also helping to deliver other development goals, from education and health outcomes to gender equality. In line with consistent economic growth across all parts of the continent, the number of people across Africa with access to electricity has been increasing since 2013. But in 2020, the coronavirus pandemic reversed that progress, with those lacking access to electricity creeping back up by 13 million—or 2 percent—from the previous year to more than 590 million.
+In recent years, a cornerstone of development policy in Africa has been to increase access to energy. Energy is essential to economic growth—supporting businesses and households, creating jobs, and diversifying livelihoods—while also helping to deliver other development goals, from education and health outcomes to gender equality. In line with consistent economic growth across all parts of the continent, the number of people across Africa with access to electricity has been increasing since 2013. But in 2020, the coronavirus pandemic [reversed that progress](https://www.iea.org/articles/the-covid-19-crisis-is-reversing-progress-on-energy-access-in-africa https://www.irena.org/publications/2021/Jun/Tracking-SDG-7-2021), with those lacking access to electricity creeping back up by 13 million—or 2 percent—from the previous year to more than 590 million.
 
 Sustaining economic growth in a faltering global economy will be a challenge. The economies of most African countries remain dependent on income from natural capital exports and commodities. Access to electricity helps drive businesses that provide jobs and spur industries with the capacity to diversify rural and urban economies. Given that 70 percent of its population is under the age of 30, Sub-Saharan Africa has the potential to become a hugely dynamic and productive economic region—but this will require a sustained push on energy access.
 
