@@ -21,13 +21,13 @@ Africa, specifically, responsible for just 3.8 percent of global greenhouse gas 
 
 The opportunity for the continent is alluring: bridging the existing energy gap by means of sustainable energy while electrifying the economy promises to spur a resilient and inclusive form of development. But the social, financial, and technical obstacles to achieving this vision are significant. Based on DAI’s decades of work in the energy and policy arenas in Africa and elsewhere, this article offers recommendations for how best to address those obstacles and seize the opportunities inherent in the energy transition.
 
-###Africa Needs Clean, Reliable, Affordable Energy
+### Africa Needs Clean, Reliable, Affordable Energy
 
 In recent years, a cornerstone of development policy in Africa has been to increase access to energy. Energy is essential to economic growth—supporting businesses and households, creating jobs, and diversifying livelihoods—while also helping to deliver other development goals, from education and health outcomes to gender equality. In line with consistent economic growth across all parts of the continent, the number of people across Africa with access to electricity has been increasing since 2013. But in 2020, the coronavirus pandemic [reversed that progress](https://www.iea.org/articles/the-covid-19-crisis-is-reversing-progress-on-energy-access-in-africa https://www.irena.org/publications/2021/Jun/Tracking-SDG-7-2021), with those lacking access to electricity creeping back up by 13 million—or 2 percent—from the previous year to more than 590 million.
 
 Sustaining economic growth in a faltering global economy will be a challenge. The economies of most African countries remain dependent on income from natural capital exports and commodities. Access to electricity helps drive businesses that provide jobs and spur industries with the capacity to diversify rural and urban economies. Given that 70 percent of its population is under the age of 30, Sub-Saharan Africa has the potential to become a hugely dynamic and productive economic region—but this will require a sustained push on energy access.
 
-###Green Energy Transformation
+### Green Energy Transformation
 
 The green energy transformation—and the substantial infrastructure investment required to achieve it—could be a powerful catalyst for that dynamic economy. According to the International Renewable Energy Agency (IRENA), in collaboration with the African Development Bank, the transition could bring a wave of [new sustainable energy investment](https://www.irena.org/newsroom/articles/2022/Feb/An-African-Green-Deal-to-Deliver-Prosperous-Future) to Africa, increasing gross domestic product in 2030 by a further 7.5 percent compared with current projections. By 2050, a coordinated rollout of clean energy across the continent would see more high-quality jobs created, outweighing those lost by moving away from traditional sources. Such a rollout would significantly improve energy access and offer profound social welfare and environmental benefits.
 
@@ -45,7 +45,7 @@ As countries start to design and implement clean energy transition plans, then, 
 
 [Working biogas unit-c7bbaa.JPG](/uploads/Working%20biogas%20unit-c7bbaa.JPG)`Clean cooking using a biogas cookstove, StARK project Kenya. Photo: DAI.`
 
-###Recommendations for Africa’s Partners
+### Recommendations for Africa’s Partners
 
 If the United Nations’ Sustainable Development Goals are to be met, Africa should not be left to bear the costs of such a transformation alone. But how should international partners best assist their African partners?
 
@@ -78,7 +78,7 @@ These building blocks underly the following recommendations for achieving univer
 
 * **Support digitalization of energy systems to maximize the integration of renewable energy—including smart grids in cities and rural areas—and enabling technologies such as storage or green hydrogen.** DAI is supporting smart grids and the implementation of the Covenant of Majors concept [globally](https://www.dai.com/our-work/projects/support-the-secretariat-of-the-global-covenant-of-mayors-for-climate-and-energy) and in the [Mediterranean](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood). Another relevant example is the work carried out by DAI in the Middle East to assess the economic impact of the [transition to clean hydrogen](https://www.dai.com/our-work/projects/a-macroeconomic-impact-assessment-of-a-transition-to-green-hydrogen) energy use by 2040. Digital-enabled business models such as pay-as-you-go (PAYG) are essential for financial inclusion and facilitating access to digital tools across the whole value chain to improve electrification and energy access. Through USAID INVEST, for example, DAI has provided transaction advisory support to Power Africa for [solar energy and mini-grid expansion in Kenya](https://www.dai.com/our-work/projects/worldwide-the-invest-project) using PAYG models, raising more than $60 million in equity transactions. 
 
-##Toward COP27
+### Toward COP27
 
 In COP26 in Glasgow, we saw a concrete example of what a just transition in the energy sector could look like in the form of the South Africa Political Declaration—a partnership approach that could be [a game-changer](https://dai-global-developments.com/articles/south-africas-green-energy-transformation-is-a-test-case-we-should-all-be-watching?utm_source=daidotcom). Importantly, the Declaration acknowledges the interrelated technical, social, and economic elements of the transition and the significant financial investment required to bring it about.
 
