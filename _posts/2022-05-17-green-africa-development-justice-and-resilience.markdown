@@ -7,7 +7,7 @@ tags:
 - Sub-Saharan Africa
 - energy-transition
 - cilmate-change
-author: "[Sofia Martinez[(https://www.dai.com/who-we-are/our-team/sofia-martinez)
+author: "[Sofia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)
   and [Donald Lunen](https://www.dai.com/who-we-are/our-team/donald-lunan)"
 publication: Developments
 ---
