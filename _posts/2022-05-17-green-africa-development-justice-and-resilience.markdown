@@ -43,6 +43,8 @@ In those fossil fuel-rich countries, the transition may lead to stranded assets,
 
 As countries start to design and implement clean energy transition plans, then, national governments and their international partners must ensure that those plans include a commitment to achieving universal access to electricity and clean cooking in the next decade, and recognize the challenges of attaining those two goals at the same time. Citizen engagement will be crucial, especially in civil dialogue channels that give excluded groups a voice. Governments will need to support labor markets, vocational education, and training while offering some degree of protection to vulnerable communities. Social safety nets—helping those who cannot afford them to access modern energy services—will likely figure prominently in any equitable solution.
 
+[Working biogas unit-c7bbaa.JPG](/uploads/Working%20biogas%20unit-c7bbaa.JPG)`Clean cooking using a biogas cookstove, StARK project Kenya. Photo: DAI.`
+
 ###Recommendations for Africa’s Partners
 
 If the United Nations’ Sustainable Development Goals are to be met, Africa should not be left to bear the costs of such a transformation alone. But how should international partners best assist their African partners?
