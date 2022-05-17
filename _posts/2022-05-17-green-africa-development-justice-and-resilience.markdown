@@ -12,7 +12,7 @@ author: "[Sofia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez
 publication: Developments
 ---
 
-The most recent Intergovernmental Panel on Climate Change [report](https://www.ipcc.ch/report/ar6/wg2/) was a stark reminder of the consequences of inaction on climate change. Global warming, it showed, is harming low-income countries the most. Vulnerability to climate change is explicitly linked to inequality, which has been exacerbated by COVID-19 and will become even more acute if the target 1.5oC limit to global warming is missed.
+The most recent Intergovernmental Panel on Climate Change [report](https://www.ipcc.ch/report/ar6/wg2/) was a stark reminder of the consequences of inaction on climate change. Global warming, it showed, is harming low-income countries the most. Vulnerability to climate change is explicitly linked to inequality, which has been exacerbated by COVID-19 and will become even more acute if the target 1.5°C limit to global warming is missed.
 
 
 
