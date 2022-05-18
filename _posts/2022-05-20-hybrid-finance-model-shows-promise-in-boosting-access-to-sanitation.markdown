@@ -11,6 +11,8 @@ tags:
 - development-finance
 author: "[Doreen Erfe](https://www.linkedin.com/in/doreen-carla-erfe-5a841331/) and
   [Kate Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/)"
+thumbnail-image: "/uploads/smVirgie.png"
+social-image: "/uploads/smVirgie.png"
 publication: Developments
 ---
 
@@ -25,6 +27,8 @@ Improved sanitation reduces the spread and impact of deadly diseases. It also pr
 One of the largest barriers to addressing this problem is the upfront cost of the toilet facility itself, averaging $600-800—almost a third of what a low-income Filipino household earns in a year. While there is demand for toilets, poor households are often unable to overcome this financial hurdle. Many of these households could afford to build a toilet if they could borrow and spread the cost over time, but banks won’t lend to them.
 
 To help the Philippine government close this financing gap, the U.S. Agency for International Development (USAID)-funded [Safe Water](https://www.dai.com/our-work/projects/philippines-safe-water) activity has piloted a hybrid financing model—a mix of blended finance and targeted sanitation subsidies aimed at the poorest households. Output-based aid subsidies are paid to service providers based on verification of pre-agreed project outputs, giving them an incentive to provide services to customers with the greatest needs. This method helps make toilets more affordable for poor households and creates the right incentives for microfinance institutions to serve these customers. The pilot was implemented in the Alabel and Sagay City municipalities in collaboration with WATER.ORG and two microfinance institutions—ASA Philippines and the Negros Women for Tomorrow Foundation—from July to November 2021. 
+
+![Virgie.png](/uploads/Virgie.png)`Virgie Montero, a beneficiary of a new innovative financing scheme that enables poor households to access affordable sanitary toilets, shows her newly constructed toilet.`
 
 ## Blended Finance and Output-Based Aid 
 
