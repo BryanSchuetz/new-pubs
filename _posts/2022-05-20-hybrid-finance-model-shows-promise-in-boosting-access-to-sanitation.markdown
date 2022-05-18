@@ -26,6 +26,8 @@ One of the largest barriers to addressing this problem is the upfront cost of th
 
 To help the Philippine government close this financing gap, the U.S. Agency for International Development (USAID)-funded [Safe Water](https://www.dai.com/our-work/projects/philippines-safe-water) activity has piloted a hybrid financing model—a mix of blended finance and targeted sanitation subsidies aimed at the poorest households. Output-based aid subsidies are paid to service providers based on verification of pre-agreed project outputs, giving them an incentive to provide services to customers with the greatest needs. This method helps make toilets more affordable for poor households and creates the right incentives for microfinance institutions to serve these customers. The pilot was implemented in the Alabel and Sagay City municipalities in collaboration with WATER.ORG and two microfinance institutions—ASA Philippines and the Negros Women for Tomorrow Foundation—from July to November 2021. 
 
+![Virgie.png](/uploads/Virgie.png)`Virgie Montero, a beneficiary of a new innovative financing scheme that enables poor households to access affordable sanitary toilets, shows her newly constructed toilet.`
+
 ## Blended Finance and Output-Based Aid 
 
 DAI provided $30,000 in sanitation subsidies as a guarantee to the partners for them to cover, on average, two-thirds of toilet construction costs for each qualified household. The remaining cost of the toilet was then financed by the households, which applied for financing from the partner lender to pay this cost. 
