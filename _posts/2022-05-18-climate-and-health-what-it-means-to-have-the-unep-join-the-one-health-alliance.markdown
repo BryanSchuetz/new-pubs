@@ -4,6 +4,8 @@ date: 2022-05-18 13:22:00 -04:00
 published: false
 tags:
 - global-health
+- covid-19
+- health security
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
 publication: Developments
 ---
@@ -14,15 +16,15 @@ In March, the World Health Organization (WHO) announced that the United Nations 
 
 
 
-For development practitioners and the global health community, the move to embrace one of the world’s leading environment agencies also signals a greater commitment to health security and an acknowledgement of the intimate connection between human health and the environment. Air pollution, water use, sanitation, biodiversity, waste management, and climate change—all bedrock concerns for UNEP—are critical factors that have a direct impact on health. Recent data, published by the Global Alliance of Health & Pollution, indicates that pollution alone accounts for 9 million deaths a year, equating to one in six deaths worldwide. Without managing environmental issues that can exacerbate health security crises, for example, disease outbreaks and pandemics can easily spiral out of control. 
+For development practitioners and the global health community, [the move](https://www.who.int/news/item/18-03-2022-un-environment-programme-joins-alliance-to-implement-one-health-approach) to embrace one of the world’s leading environment agencies also signals a greater commitment to health security and an acknowledgement of the intimate connection between human health and the environment. Air pollution, water use, sanitation, biodiversity, waste management, and climate change—all bedrock concerns for UNEP—are critical factors that have a direct impact on health. Recent data, published by the [Global Alliance of Health & Pollution](https://gahp.net/), indicates that pollution alone accounts for 9 million deaths a year, equating to one in six deaths worldwide. Without managing environmental issues that can exacerbate health security crises, for example, disease outbreaks and pandemics can easily spiral out of control. 
 
 ## A Boost for Health Security 
 
-“When we consider pollution, waste, chemical pollution, or climate change, we can see the great interdependencies between people and the environment,” says Omer Njajou, Technical Lead for the U.K. Foreign, Commonwealth & Development Office-funded Tackling Deadly Diseases in Africa (TDDA) programme, which aims to strengthen national One Health platforms and health security action plans across the continent.
+“When we consider pollution, waste, chemical pollution, or climate change, we can see the great interdependencies between people and the environment,” says Omer Njajou, Technical Lead for the U.K. Foreign, Commonwealth & Development Office-funded [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme, which aims to strengthen national One Health platforms and health security action plans across the continent.
 
 Such interdependencies are magnified during health security crises, says Njajou, who saw first-hand how managing environmental factors was critical to reducing the threat of COVID-19. “During the height of the pandemic, the TDDA project supported testing and healthcare worker training, and combatted COVID-19 misinformation in communities. But we started asking, what happens to all the COVID-19 waste, like gloves, masks, tests, etcetera? These biohazards can endanger human and animal health and there was no way to manage them. Now we are working with the national government in Cameroon to develop a waste management plan and standard operating procedures for medical and chemical waste disposal.”
 
-Professor Nitish Debnath, Team Leader for the Bangladesh Fleming Fund program, and a member of the WHO’s One Health High-level Expert Panel, also emphasized the importance of incorporating environmental concerns into health security threat mitigation. 
+Professor [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath), Team Leader for the [Bangladesh Fleming Fund ](https://www.dai.com/our-work/projects/bangladesh-fleming-fund)program, and a member of the WHO’s One Health High-level Expert Panel, also emphasized the importance of incorporating environmental concerns into health security threat mitigation. 
 
 “I was a founding member of the One Health Platform in Bangladesh and since 2008, the platform has been collaborating with the Ministry of Health & Family Welfare, the Ministry of Environment and Forest, and the Ministry of Livestock & Fisheries,” says Debnath. “Our One Health strategic framework and partnership agreement helped us to successfully respond to the avian influenza and nipah virus outbreaks in Bangladesh several years ago.” Both viruses can spread through wildlife, endangering the health of humans and animals. 
 
