@@ -14,11 +14,17 @@ author: "[Doreen Erfe](https://www.linkedin.com/in/doreen-carla-erfe-5a841331/) 
 publication: Developments
 ---
 
-[Doreen Erfe](https://www.linkedin.com/in/doreen-carla-erfe-5a841331/) and [Kate Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/)
 The Philippines is one of only two countries in Southeast Asia behind in their commitments to eliminating open defecation and achieving universal access to basic sanitation by 2030, according to the World Health Organization. It is estimated that 16 percent of the population has access only to unsanitary and shared toilets, and more than 4 million Filipinos have no access at all.
-Improved sanitation reduces the spread and impact of deadly diseases. It also promotes dignity and ensures safety, particularly for women and girls, and improves school attendance. Studies show that the economic return for sanitation improvements is considerable: $5.50 for every $1 invested.
+
+Improved sanitation reduces the spread and impact of deadly diseases. It also promotes dignity and ensures safety, particularly for women and girls, and improves school attendance. [Studies show](https://news.un.org/en/story/2014/11/484032-every-dollar-invested-water-sanitation-brings-four-fold-return-costs-un#:~:text=%E2%80%9CEconomic%20benefits%20include%20an%20overall,society%2C%E2%80%9D%20the%20report%20said.) that the economic return for sanitation improvements is considerable: $5.50 for every $1 invested.
+
+
+
+
+
 One of the largest barriers to addressing this problem is the upfront cost of the toilet facility itself, averaging $600-800—almost a third of what a low-income Filipino household earns in a year. While there is demand for toilets, poor households are often unable to overcome this financial hurdle. Many of these households could afford to build a toilet if they could borrow and spread the cost over time, but banks won’t lend to them.
-To help the Philippine government close this financing gap, the U.S. Agency for International Development (USAID)-funded Safe Water activity has piloted a hybrid financing model—a mix of blended finance and targeted sanitation subsidies aimed at the poorest households. Output-based aid subsidies are paid to service providers based on verification of pre-agreed project outputs, giving them an incentive to provide services to customers with the greatest needs. This method helps make toilets more affordable for poor households and creates the right incentives for microfinance institutions to serve these customers. The pilot was implemented in the Alabel and Sagay City municipalities in collaboration with WATER.ORG and two microfinance institutions—ASA Philippines and the Negros Women for Tomorrow Foundation—from July to November 2021. 
+
+To help the Philippine government close this financing gap, the U.S. Agency for International Development (USAID)-funded [Safe Water](https://www.dai.com/our-work/projects/philippines-safe-water) activity has piloted a hybrid financing model—a mix of blended finance and targeted sanitation subsidies aimed at the poorest households. Output-based aid subsidies are paid to service providers based on verification of pre-agreed project outputs, giving them an incentive to provide services to customers with the greatest needs. This method helps make toilets more affordable for poor households and creates the right incentives for microfinance institutions to serve these customers. The pilot was implemented in the Alabel and Sagay City municipalities in collaboration with WATER.ORG and two microfinance institutions—ASA Philippines and the Negros Women for Tomorrow Foundation—from July to November 2021. 
 
 ## Blended Finance and Output-Based Aid 
 
@@ -34,6 +40,8 @@ To lay the groundwork for this pilot financing method, Safe Water had to:
 * Train masons to construct the toilets.
 
 We selected eligible communities based on their poverty (targeting the bottom 50 percent of the poor population, those with monthly incomes less than $200), access to sanitation (the proportion of households with unimproved access and practicing open defecation), and prevalence of waterborne diseases. 
+
+![Picture1-813580.jpg](/uploads/Picture1-813580.jpg)`Safe Water Chief of Party Alma Porciuncula, Alabel Mayor Vic Salarda, and ASA Philippines Senior Director for Operations Maria Regina Pacifico sign the ceremonial voucher to express the multi-sectoral partnership of the pilot activity.`
 
 ## What Changes Did We See?
 
@@ -54,6 +62,8 @@ Poor households were eager to take on loans for a partially subsidized latrine. 
 The output-based aid/blended finance program was more effective than other more traditional sanitation subsidy programs. The previous local government subsidy program provided a lower subsidy amount compared to the output-based aid/blended finance program and only included the distribution of toilet bowls and construction materials. There were no resources provided to link households to masons or microfinance institutions. Conversely, the output-based aid/blended finance program was driven by microfinance institution coordination, which did lead to overhead costs for staff time from local governments, microfinance institutions, and the Safe Water team. However, while the output-based aid/blended finance program had a higher overhead cost than the local government’s subsidy program, the pilot’s implementation efficiency (i.e. the rate at which beneficiary households built code-complaint toilets) of the scheme was 100 percent compared to an average success rate of 8 percent for the local government’s regular subsidy program.
 
 Moreover, while our pilot’s overhead costs were in excess of the Philippines local government’s subsidy program but had a higher rate of success when comparing to other subsidy efforts globally, the overhead costs were minimal. For instance, one USAID study in Ghana found that the operational costs of Ghana’s subsidy program were equal to, if not more than, the subsidy amount itself. Conversely, the blended finance pilot program carried a much smaller operational or overhead cost consisting of about 10 percent of the program’s overall cost—demonstrating the value for money. 
+
+![Traditional-v.-Blended-Financing-Scheme (2)-8c7dd4.jpg](/uploads/Traditional-v.-Blended-Financing-Scheme%20(2)-8c7dd4.jpg)
 
 ## What’s Next?
 
