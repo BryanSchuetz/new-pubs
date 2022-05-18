@@ -7,6 +7,8 @@ tags:
 - covid-19
 - health security
 author: "[Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
+thumbnail-image: "/uploads/sm%20DSC_4969.jpg"
+social-image: "/uploads/sm%20DSC_4969.jpg"
 publication: Developments
 ---
 
