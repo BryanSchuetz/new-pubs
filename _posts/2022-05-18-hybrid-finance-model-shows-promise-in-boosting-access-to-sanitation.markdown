@@ -59,6 +59,8 @@ Improved affordability and access to sanitation. The scheme facilitated access f
 **Expanded customer base for lenders.** The microfinance institutions garnered new clients and new loans which have helped them after economic hardships brought about by the COVID-19 pandemic. At the same time, new borrowers were integrated into the financial system and established credit history for non-entrepreneurial loans. The microfinance institutions lent a total of $15,000 to the 100 household beneficiaries, roughly 60 percent of them first-time borrowers.  
 Generated economic, environmental, and social benefits. The scheme helped local governments and microfinance institutions jointly address issues such as waterborne diseases and child stunting, and yielded gains in dignity, security, and convenience for householders, especially women and children.  
 
+![welcome.png](/uploads/welcome.png)`Women eco-tourist attendants at Suyac Island and pilot beneficiaries welcome guests from USAID Philippines, the Safe Water Project, DAI, NWTF, and LGU Sagay City.` 
+
 ## What Have We Learned?
 
 Poor households were eager to take on loans for a partially subsidized latrine. Many households indicated an interest in participating but the program was constrained by the amount of subsidy funds available and the policy of a partner lender to lend only to existing members. Some 265 low-income households were identified as eligible, of which 137 participated. 
