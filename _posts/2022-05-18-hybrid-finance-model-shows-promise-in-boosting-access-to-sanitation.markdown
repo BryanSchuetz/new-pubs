@@ -1,6 +1,6 @@
 ---
 title: Hybrid Finance Model Shows Promise in Boosting Access to Sanitation
-date: 2022-05-20 14:26:00 -04:00
+date: 2022-05-18 14:26:00 -04:00
 published: false
 tags:
 - environment-and-energy
@@ -11,6 +11,8 @@ tags:
 - development-finance
 author: "[Doreen Erfe](https://www.linkedin.com/in/doreen-carla-erfe-5a841331/) and
   [Kate Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/)"
+thumbnail-image: "/uploads/smVirgie.png"
+social-image: "/uploads/smVirgie.png"
 publication: Developments
 ---
 
