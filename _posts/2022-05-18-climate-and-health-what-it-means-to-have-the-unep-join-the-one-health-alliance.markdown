@@ -20,6 +20,8 @@ In March, the World Health Organization (WHO) announced that the United Nations 
 
 For development practitioners and the global health community, [the move](https://www.who.int/news/item/18-03-2022-un-environment-programme-joins-alliance-to-implement-one-health-approach) to embrace one of the world’s leading environment agencies also signals a greater commitment to health security and an acknowledgement of the intimate connection between human health and the environment. Air pollution, water use, sanitation, biodiversity, waste management, and climate change—all bedrock concerns for UNEP—are critical factors that have a direct impact on health. Recent data, published by the [Global Alliance of Health & Pollution](https://gahp.net/), indicates that pollution alone accounts for 9 million deaths a year, equating to one in six deaths worldwide. Without managing environmental issues that can exacerbate health security crises, for example, disease outbreaks and pandemics can easily spiral out of control. 
 
+![DSC_4969-10ef2f.JPG](/uploads/DSC_4969-10ef2f.JPG)`TDDA works to strengthen health systems in Africa. Photo: FCDO TDDA.`
+
 ## A Boost for Health Security 
 
 “When we consider pollution, waste, chemical pollution, or climate change, we can see the great interdependencies between people and the environment,” says Omer Njajou, Technical Lead for the U.K. Foreign, Commonwealth & Development Office-funded [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) programme, which aims to strengthen national One Health platforms and health security action plans across the continent.
@@ -31,6 +33,8 @@ Professor [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnat
 “I was a founding member of the One Health Platform in Bangladesh and since 2008, the platform has been collaborating with the Ministry of Health & Family Welfare, the Ministry of Environment and Forest, and the Ministry of Livestock & Fisheries,” says Debnath. “Our One Health strategic framework and partnership agreement helped us to successfully respond to the avian influenza and nipah virus outbreaks in Bangladesh several years ago.” Both viruses can spread through wildlife, endangering the health of humans and animals. 
 
 Calling antimicrobial resistance (AMR) a “growing global health security threat,” Debnath says we need to think about how that threat is compounded by factors related to the environment. “Resistant bacteria can travel through waste, water, and soil, and further exacerbate resistance,” he says. "In Bangladesh, the Fleming Fund, which aims to strengthen AMR surveillance, has further boosted One Health collaboration and is supporting integrated surveillance to tackle AMR.” Integrated surveillance incorporates human, animal, and environmental data.
+
+![3 MEMBERS OF ONE HEALTH PLATFORM AT THE COMMEMORATION OF THE 6TH INTERNATIONAL CELEBRATIONS  AT  QUEEN ELIZABETH NATIONAL PARK.jpg](/uploads/3%20MEMBERS%20OF%20ONE%20HEALTH%20PLATFORM%20AT%20THE%20COMMEMORATION%20OF%20THE%206TH%20INTERNATIONAL%20CELEBRATIONS%20%20AT%20%20QUEEN%20ELIZABETH%20NATIONAL%20PARK.jpg)`Members of a One Health platform in Uganda. Photo: FCDO TDDA.`
 
 ## “Big Win” for People and Planet 
 
