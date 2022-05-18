@@ -1,14 +1,13 @@
 ---
 title: 'Green Africa: Development, Justice, and Resilience'
 date: 2022-05-17 11:08:00 -04:00
-published: false
 tags:
 - renewable-energy
 - Sub-Saharan Africa
 - energy-transition
 - cilmate-change
 author: "[Sofia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)
-  and [Donald Lunen](https://www.dai.com/who-we-are/our-team/donald-lunan)"
+  and [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan)"
 thumbnail-image: "/uploads/Working%20biogas%20unit%20Kenya%20StARK%202.jpg"
 social-image: "/uploads/Working%20biogas%20unit%20Kenya%20StARK%202.jpg"
 publication: Developments
