@@ -16,9 +16,9 @@ social-image: "/uploads/smVirgie.png"
 publication: Developments
 ---
 
-The Philippines is one of only two countries in Southeast Asia behind in their commitments to eliminating open defecation and achieving universal access to basic sanitation by 2030, according to the World Health Organization. It is estimated that 16 percent of the population has access only to unsanitary and shared toilets, and more than 4 million Filipinos have no access at all.
+The Philippines is one of only two countries in Southeast Asia to be behind in their commitments to eliminating open defecation and achieving universal access to basic sanitation by 2030, according to the UNICEF-World Health Organization Joint Monitoring Programme. It is estimated that 16 percent of the population has access only to unsanitary and shared toilets, and more than 4 million Filipinos have no access at all in 2020.
 
-Improved sanitation reduces the spread and impact of deadly diseases. It also promotes dignity and ensures safety, particularly for women and girls, and improves school attendance. [Studies show](https://news.un.org/en/story/2014/11/484032-every-dollar-invested-water-sanitation-brings-four-fold-return-costs-un#:~:text=%E2%80%9CEconomic%20benefits%20include%20an%20overall,society%2C%E2%80%9D%20the%20report%20said.) that the economic return for sanitation improvements is considerable: $5.50 for every $1 invested.
+Improved sanitation reduces the spread and impact of deadly diseases as well as addresses childhood malnutrition, which can have life-long mental and physical impacts. It also promotes dignity and ensures safety, particularly for women and girls, and improves school attendance. [Studies show](https://news.un.org/en/story/2014/11/484032-every-dollar-invested-water-sanitation-brings-four-fold-return-costs-un#:~:text=%E2%80%9CEconomic%20benefits%20include%20an%20overall,society%2C%E2%80%9D%20the%20report%20said.) that the economic return for sanitation improvement is considerable: $5.50 for every $1 invested.
 
 
 
