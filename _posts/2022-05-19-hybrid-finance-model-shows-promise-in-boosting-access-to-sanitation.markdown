@@ -40,10 +40,10 @@ To lay the groundwork for this pilot financing method, Safe Water had to:
 * Forge partnership agreements with local government units and microfinance institutions;
 * Develop information materials to build demand among households;
 * Design and price the toilet and septic tank based on the Philippine Sanitation Code;
-* Identify and training independent verifiers; and
+* Identify and train independent verifiers; and
 * Train masons to construct the toilets.
 
-We selected eligible communities based on their poverty (targeting the bottom 50 percent of the poor population, those with monthly incomes less than $200), access to sanitation (the proportion of households with unimproved access and practicing open defecation), and prevalence of waterborne diseases. 
+We selected eligible communities based on their poverty incidence (targeting the bottom 50 percent of the poor population, those with monthly incomes less than $200), access to sanitation (the proportion of households with unimproved access and practicing open defecation), and prevalence of waterborne diseases. 
 
 ![Picture1-813580.jpg](/uploads/Picture1-813580.jpg)`Safe Water Chief of Party Alma Porciuncula, Alabel Mayor Vic Salarda, and ASA Philippines Senior Director for Operations Maria Regina Pacifico sign the ceremonial voucher to express the multi-sectoral partnership of the pilot activity.`
 
