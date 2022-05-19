@@ -50,7 +50,8 @@ We selected eligible communities based on their poverty incidence (targeting the
 ## What Changes Did We See?
 
 The hybrid scheme proved effective in generating demand for and investments in household sanitation facilities. Among the results:
-Improved affordability and access to sanitation. The scheme facilitated access for 100 households to affordable sanitation facilities that comply with the Philippine Sanitation Code, resulting in 500 people gaining access to safely managed and affordable sanitation. 
+
+**Improved affordability and access to sanitation.** The scheme facilitated access for 100 households to affordable sanitation facilities that comply with the Philippine Sanitation Code, resulting in 500 people gaining access to safely managed and affordable sanitation.
 
 **Leveraged resources to support demand generation.** The grants stimulated the mobilization of resources to provide affordable sanitation facilities. The blending of resources enabled the local governments and lenders to use limited resources to reach more poor households. DAI’s $30,000 grant was leveraged 1.5 times by public, private, and household contributions.
 
