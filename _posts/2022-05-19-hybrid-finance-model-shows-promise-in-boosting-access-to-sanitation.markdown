@@ -9,8 +9,8 @@ tags:
 - finance
 - blended finance
 - development-finance
-author: "[Doreen Erfe](https://www.dai.com/who-we-are/our-team/doreen-erfe) and [Kate
-  Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/)"
+author: "[Alma Porciuncula](https://www.dai.com/who-we-are/our-team/alma-porciuncula),
+  [Doreen Erfe](https://www.dai.com/who-we-are/our-team/doreen-erfe), and [Kate Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/)"
 thumbnail-image: "/uploads/smVirgie.png"
 social-image: "/uploads/smVirgie.png"
 publication: Developments
@@ -78,4 +78,4 @@ The success of the pilot argues for more funding from national and local governm
 
 Safe Water has developed information, education, and awareness-raising materials to make the case for expanded investment in finance as a means to improve access to sanitation, targeting policy and decision-makers, lenders, and local communities themselves. Those communities have shown they understand the links between water, sanitation, hygiene, and health, and they are willing to pay for better sanitation—given the chance.
 
-*[Doreen Erfe](https://www.dai.com/who-we-are/our-team/doreen-erfe) is the Resources Mobilization Specialist for the Safe Water Activity. [Kate Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/) is a Senior Project Manager in DAI’s Asia region.*
+*[Alma Porciuncula](https://www.dai.com/who-we-are/our-team/alma-porciuncula) is Chief of Party of the Philippines Safe Water Activity, [Doreen Erfe](https://www.dai.com/who-we-are/our-team/doreen-erfe) is the Resources Mobilization Specialist for the Safe Water Activity, and [Kate Edelen](https://www.linkedin.com/in/katherine-kate-edelen-59ba8911/) is a Senior Project Manager in DAI’s Asia region.*
