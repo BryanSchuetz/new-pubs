@@ -1,6 +1,6 @@
 ---
 title: Hybrid Finance Model Shows Promise in Boosting Access to Sanitation
-date: 2022-05-18 14:26:00 -04:00
+date: 2022-05-19 08:00:00 -04:00
 published: false
 tags:
 - environment-and-energy
@@ -74,7 +74,7 @@ Moreover, while our pilot’s overhead costs were in excess of the Philippines l
 
 ## What’s Next?
 
-The success of the pilot argues for more funding from national and local governments to enhance sanitation subsidy programs. Our experience shows that strong support from the local government is crucial to the success of the approach. Safe Water will use the pilot as proof-of-concept to advocate for greater investment from the national government, other local municipalities, and the private sector, and we are working to ensure the sustainability for the scheme by integrating it into local government plans and budgets.
+The success of the pilot argues for more funding from national and local governments to enhance sanitation subsidy programs. Our experience shows that strong support from the local government is crucial to the success of the approach. Safe Water will use the pilot as proof-of-concept to advocate for greater investment from the national government, other local municipalities, and the private sector. And we are working to ensure the sustainability of the scheme by integrating it into local government plans and budgets.
 
 Safe Water has developed information, education, and awareness-raising materials to make the case for expanded investment in finance as a means to improve access to sanitation, targeting policy and decision-makers, lenders, and local communities themselves. Those communities have shown they understand the links between water, sanitation, hygiene, and health, and they are willing to pay for better sanitation—given the chance.
 
