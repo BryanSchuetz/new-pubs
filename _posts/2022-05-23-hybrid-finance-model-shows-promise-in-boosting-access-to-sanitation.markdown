@@ -1,6 +1,6 @@
 ---
 title: Hybrid Finance Model Shows Promise in Boosting Access to Sanitation
-date: 2022-05-19 08:00:00 -04:00
+date: 2022-05-23 08:00:00 -04:00
 published: false
 tags:
 - environment-and-energy
