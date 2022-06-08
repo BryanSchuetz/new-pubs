@@ -88,4 +88,4 @@ If they are to build a positive future for trade, the world’s donors, governme
 
 DAI’s experience in the first year of COVID-19 has convinced us that such partnerships are essential and possible, but they must be grounded in commercial realities and driven by a long-term vision to “build back better” on trade. We look forward to implementing that vision with our partners in 2021 and beyond. 
 
-*Editor's note: [Mark Walter](https://www.dai.com/who-we-are/our-team/mark-walter), [James Naughton](https://www.linkedin.com/in/james-naughton-69973417/), and [Rebecca Gross](https://www.linkedin.com/in/rebecca-gross-31991644/) contributed to this article.*  
+*Editor's note: [Mark Walter](https://www.dai.com/who-we-are/our-team/mark-walter), [James Naughton](https://www.dai.com/who-we-are/our-team/james-naughton), and [Rebecca Gross](https://www.linkedin.com/in/rebecca-gross-31991644/) contributed to this article.*  
