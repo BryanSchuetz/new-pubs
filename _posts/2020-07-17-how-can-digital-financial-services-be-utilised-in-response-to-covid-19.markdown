@@ -6,9 +6,9 @@ tags:
 - economic-growth
 - digital-acceleration
 - finance
-author: "[James Naughton](https://www.linkedin.com/in/james-naughton-69973417/), [Katja
-  Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander), and
-  [Rebecca Kinahan ](https://www.linkedin.com/in/rebecca-kinahan-9b5a5889/)"
+author: "[James Naughton](https://www.dai.com/who-we-are/our-team/james-naughton),
+  [Katja Silva-Leander](https://www.dai.com/who-we-are/our-team/katja-silva-leander),
+  and [Rebecca Kinahan ](https://www.linkedin.com/in/rebecca-kinahan-9b5a5889/)"
 thumbnail-image: "/uploads/mfs%20sm.png"
 social-image: "/uploads/mfs%20sm.png"
 publication: Developments
