@@ -30,6 +30,8 @@ Our team worked closely with the formal water utilities, small WASH enterprises,
 
 By 2021, these KIWASH partner service providers were able to increase their billing by an average of 11 percent and each of the nine counties—Busia, Kakamega, Kisumu, Kitui, Makueni, Migori, Nairobi, Nyamira, and Siaya—now has drafted water bills, water policies, and environmental health and sanitation bills. 
 
+![Map_KIWASH Target Counties.jpg](/uploads/Map_KIWASH%20Target%20Counties.jpg)
+
 ## County-Led, County-Driven 
 
 In forming county project teams—one per target county—and embedding select project staff within the nascent county water departments, KIWASH built trust between project staff and counterparts, allowing the project to gain a deeper understanding of the intricacies of each county. The KIWASH team was a supporting actor, encouraging counties to invest in service improvement and expansion while providing targeted support and training. 
