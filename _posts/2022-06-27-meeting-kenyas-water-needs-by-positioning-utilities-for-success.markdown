@@ -11,9 +11,9 @@ social-image: "/uploads/sm%20Photo%20B_Kyatune%20B%20Water%20Project_%20Kitui%20
 publication: Developments
 ---
 
-Since DAI launched a six-year water project across nine Kenyan counties, the country’s population has surpassed 50 million. That population is projected to double by 2050. To tackle the rapidly growing population’s needs, the water project, funded by the U.S. Agency for International Development (USAID), implemented activities that combined nutrition programming with improved access to water, sanitation, and hygiene—particularly in rural areas where nearly half the population lacks sufficient access to water.
+Since DAI launched a six-year water project across nine Kenyan counties, the country’s population has surpassed 50 million. That population is projected to [double by 2050](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/404). To tackle the rapidly growing population’s needs, the water project, funded by the U.S. Agency for International Development (USAID), implemented activities that [combined nutrition programming](https://medium.com/usaid-global-waters/tackling-malnutrition-at-every-turn-ff0961ade674#.ff6g4pdvj) with improved access to water, sanitation, and hygiene—particularly in rural areas where [nearly half the population](https://www.usaid.gov/sites/default/files/documents/1860/KIWASH_Fact_Sheet_revised.pdf) lacks sufficient access to water.
 
-The results are now in. The Kenya Integrated Water, Sanitation, and Hygiene (KIWASH) project enabled nearly 900,000 Kenyans to gain access to improved water security, sanitation, and hygiene services as well as irrigation and nutrition services. 
+The results are now in. The [Kenya Integrated Water, Sanitation, and Hygiene (KIWASH)](https://www.dai.com/our-work/projects/kenya-integrated-water-sanitation-and-hygiene-project-kiwash) project enabled [nearly 900,000](https://www.usglc.org/blog/clean-water-education-access-opportunity/) Kenyans to gain access to improved water security, sanitation, and hygiene services as well as irrigation and nutrition services. 
 
 
 
@@ -64,7 +64,7 @@ Across all the counties, the biggest technical challenges facing water service p
 
 ## Replication, Scalability, Sustainability
 
-From the start, KIWASH was committed to locally developed and locally led solutions. Work with county governments laid a foundation for the sector during Kenya’s devolution and improved understanding of roles and responsibilities, ensuring these were codified in policy. Tailored support to water service providers and small WASH enterprises resulted in operational improvements and more financially efficient and viable businesses. Not only did these activities open doors to external financing, commercial or otherwise, but they also freed up domestic revenue to be used to support underserved, less financially viable areas.  
+From the start, KIWASH was committed to locally developed and locally led solutions. Work with county governments laid a foundation for the sector during [Kenya’s devolution](https://www.worldbank.org/en/country/kenya/brief/kenyas-devolution) and improved understanding of roles and responsibilities, ensuring these were codified in policy. Tailored support to water service providers and small WASH enterprises resulted in operational improvements and more financially efficient and viable businesses. Not only did these activities open doors to external financing, commercial or otherwise, but they also freed up domestic revenue to be used to support underserved, less financially viable areas.  
 
 Water service provider KIWASCO served as an example for other utilities. “One thing that I think we learned that works is that it is very critical to build the capacity of the smaller institutions by building on the experience that you have from the more successful, bigger institutions,” said Mbuvi. “The work that KIWASCO has been able to do in terms of mentoring the growth of others has been very critical. This is something that I think that we can replicate across the country.”  
 
@@ -83,4 +83,4 @@ As Kenya continues to develop its decentralized water service delivery systems, 
 * Sustainability must be at the center of programming, and that entails coordination between actors early on to ensure that their joint efforts reinforce sustainability. KIWASH worked with stakeholders and development partners at the beginning of the program to map out which activities could be coordinated to show the effectiveness of overlaying interventions and to reduce replication. 
 * Programming to support the strengthening of water service providers and small WASH enterprises must meet providers where they are in terms of technical, financial, and operational capacity. Co-designed performance improvement plans can play a key role in strengthening smaller, less capable providers and systems. 
  
-[Devin Nihill](https://www.linkedin.com/in/devin-nihill-16451a146/) worked as a Global Practice Specialist for DAI’s Water Security, Sanitation, and Hygiene practice.
+[Devin Nihill](https://www.linkedin.com/in/devin-nihill-16451a146/) worked as a Global Practice Specialist for DAI’s [Water Security, Sanitation, and Hygiene](https://www.dai.com/our-work/solutions/environment-solutions/water-and-sanitation-services-and-resource-management) practice.
