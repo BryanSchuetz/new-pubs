@@ -5,7 +5,7 @@ tags:
 - sustainable-business
 - digital-acceleration
 - education
-author: "[Julian Kesler](https://www.linkedin.com/in/julian-kesler/)"
+author: Julian Kesler
 thumbnail-image: "/uploads/Screen%20Shot%202021-05-18%20at%202.04.19%20PM.png"
 social-image: "/uploads/Screen%20Shot%202021-05-18%20at%202.04.19%20PM.png"
 publication: Developments
