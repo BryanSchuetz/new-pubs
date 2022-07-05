@@ -53,8 +53,6 @@ Predictably, conditions varied by county. In Makueni, project activities enjoyed
 
 In Kisumu, the project was not as lucky. A change in county government personnel halfway through the project interrupted the progress the team had been making. Without frameworks, policies, and procedures, and lacking formal roles and responsibilities beyond those established through individual staff understanding, the change in personnel required KIWASH to start from scratch. This setback underscored how much improvement was needed in county governance to ensure that systems and service delivery can remain intact through changes in government. 
 
-![Devs----KIWASH-Women-3.jpg](/uploads/Devs----KIWASH-Women-3.jpg)`Integrating women into KIWASH's programming was key. Photo: USAID KIWASH.`
-
 ## Organizational Challenges
 
 It was clear early on that the water service providers were not operating to their potential, hindered by issues such as poor corporate governance, high levels of uncollected revenue, inadequate financial management, and low technical capacity. This organizational disfunction was interfering with the providers’ ability to attract external financing. In response, KIWASH developed performance improvement plans tailored to each provider.
@@ -68,6 +66,8 @@ All told, WOWASCO and KIMAWASCO increased revenue collection to 95 percent and 9
 Meanwhile, in Kisumu, the major service provider, KIWASCO, was performing at a capacity where KIWASH did not deem a performance improvement plan warranted. Instead, with KIWASH support, KIWASCO itself became a “mentor” organization, pairing with two smaller providers—GULF and NYANAS. KIWASCO provided support and mentorship to the two utilities, improving their performance while they continued to operate independently. Under KIWASCO’s supervision, GULF and NYANAS saw a 19 percent and 16 percent decrease in non-revenue water, respectively, and they added more than 470 new water connections. 
 
 Across all the counties, the biggest technical challenges facing water service providers and small WASH enterprises were dilapidated infrastructure, poor operational and maintenance techniques, and ineffective asset management. Complementary to the internal strengthening and training KIWASH provided, the project facilitated improvements to locally prioritized infrastructure needs. Importantly, KIWASH paired its infrastructure support with technical and operational support to providers to ensure they can adequately manage expanded services, more customers, and a higher volume of billing and revenue collection. The pairing of technical, operational, and infrastructure programming resulted in new or improved water service delivery for 25,800 people in Kisumu, and 55,406 in Makueni. 
+
+![Devs----KIWASH-Women-3.jpg](/uploads/Devs----KIWASH-Women-3.jpg)`Integrating women into KIWASH's programming was key. Photo: USAID KIWASH.`
 
 ## Replication, Scalability, Sustainability
 
