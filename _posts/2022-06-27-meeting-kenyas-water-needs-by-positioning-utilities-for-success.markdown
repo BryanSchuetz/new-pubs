@@ -64,11 +64,11 @@ Addressing debt management with WOWASCO, KIWASH helped establish a debt collecti
 
 All told, WOWASCO and KIMAWASCO increased revenue collection to 95 percent and 91 percent, respectively. With more revenue and less debt, KIMAWASCO improved its payment practices and bolstered morale. “When the company fails to remit staff deductions, [employees] assume that the management is ‘eating’ their money,” said KIMAWASCO’s Managing Director. “But as soon as you start paying their salaries on time, there is improved rapport, and they are motivated to work and deliver.” 
 
+![WOWASCO--pump-site-Makueni-County.jpg](/uploads/WOWASCO--pump-site-Makueni-County.jpg)`WOWASCO worker on a pump system. Photo: USAID KIWASH.`
+
 Meanwhile, in Kisumu, the major service provider, KIWASCO, was performing at a capacity where KIWASH did not deem a performance improvement plan warranted. Instead, with KIWASH support, KIWASCO itself became a “mentor” organization, pairing with two smaller providers—GULF and NYANAS. KIWASCO provided support and mentorship to the two utilities, improving their performance while they continued to operate independently. Under KIWASCO’s supervision, GULF and NYANAS saw a 19 percent and 16 percent decrease in non-revenue water, respectively, and they added more than 470 new water connections. 
 
 Across all the counties, the biggest technical challenges facing water service providers and small WASH enterprises were dilapidated infrastructure, poor operational and maintenance techniques, and ineffective asset management. Complementary to the internal strengthening and training KIWASH provided, the project facilitated improvements to locally prioritized infrastructure needs. Importantly, KIWASH paired its infrastructure support with technical and operational support to providers to ensure they can adequately manage expanded services, more customers, and a higher volume of billing and revenue collection. The pairing of technical, operational, and infrastructure programming resulted in new or improved water service delivery for 25,800 people in Kisumu, and 55,406 in Makueni. 
-
-![Devs----KIWASH-Women-3.jpg](/uploads/Devs----KIWASH-Women-3.jpg)`Integrating women into KIWASH's programming was key. Photo: USAID KIWASH.`
 
 ## Replication, Scalability, Sustainability
 
@@ -78,7 +78,7 @@ Water service provider KIWASCO served as an example for other utilities. “One 
 
 Complementing the success of capacity building carried out through existing institutions, KIWASH saw success in cross-utility knowledge-sharing networks, and exchange visits between water service providers and small WASH enterprises, which yielded productive benchmarking and joint planning efforts. In Kisumu, noting KIWASCO’s successes in improving customer relations and management systems, the project facilitated a learning exchange for staff from GWASCO to KIWASCO to learn good customer management skills, such as customer satisfaction and identification surveys, and the re-design of customer contracts. 
 
-![WOWASCO--pump-site-Makueni-County.jpg](/uploads/WOWASCO--pump-site-Makueni-County.jpg)`WOWASCO worker on a pump system. Photo: USAID KIWASH.`
+![Devs----KIWASH-Women-3.jpg](/uploads/Devs----KIWASH-Women-3.jpg)`Integrating women into KIWASH's programming was key. Photo: USAID KIWASH.`
 
 ## Filling the Gaps and Thriving
 
