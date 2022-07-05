@@ -41,7 +41,7 @@ By working to increase tariff collection and improve operational and technical e
 
 To promote the sustainability of its activities, KIWASH paired all infrastructure upgrades with improvements in operations and maintenance support, creating a culture of ongoing maintenance and service provision, and ensuring infrastructure investments reinforce larger service delivery goals. 
 
-![KIWASH infrastructure water supply.jpg](/uploads/KIWASH%20infrastructure%20water%20supply.jpg)`Investing in infrastructure was a major part of the project.`
+![KIWASH infrastructure water supply.jpg](/uploads/KIWASH%20infrastructure%20water%20supply.jpg)`Investing in infrastructure was a major part of the project. Photo: USAID KIWASH.`
 
 ## Comprehensive Governance Support 
 
@@ -52,6 +52,8 @@ Engaging early with county government officers, the KIWASH governance team ident
 Predictably, conditions varied by county. In Makueni, project activities enjoyed the enthusiastic support of an engaged county governor. As KIWASH Chief of Party Japheth Mbuvi said: “In Makueni, we were lucky. We had a very involved, encouraging, supporting governor who took his time to want to know what we were doing and to be part and parcel of what we were doing. A lot of the things that we did in terms of trying to get the policies happening, trying to get the regulations happening, we really had his total support.” 
 
 In Kisumu, the project was not as lucky. A change in county government personnel halfway through the project interrupted the progress the team had been making. Without frameworks, policies, and procedures, and lacking formal roles and responsibilities beyond those established through individual staff understanding, the change in personnel required KIWASH to start from scratch. This setback underscored how much improvement was needed in county governance to ensure that systems and service delivery can remain intact through changes in government. 
+
+![Devs----KIWASH-Women-3.jpg](/uploads/Devs----KIWASH-Women-3.jpg)`Integrating women into KIWASH's programming was key. Photo: USAID KIWASH.`
 
 ## Organizational Challenges
 
