@@ -20,6 +20,7 @@ The results are now in. The [Kenya Integrated Water, Sanitation, and Hygiene (KI
 
 
 
+
 Behind that impressive number was a collaborative approach that took its lead from Kenyan water service providers and the communities they serve.
 
 ## Strengthening Water Service Providers and County Governments
@@ -39,6 +40,8 @@ In forming county project teams—one per target county—and embedding select p
 By working to increase tariff collection and improve operational and technical efficiencies—such as financial management, infrastructure management and repair, and reductions in non-revenue water—the providers, in turn, increased their ability to attract investment. KIWASH additionally supported lobbying efforts to achieve a 67 percent increase in county budget allocations for water services. “The professionalization of our services—courtesy of KIWASH—has seen us enjoy enormous support from partners,” said the Director of Water Services in Busia. “The county government has since increased budgetary allocation towards urban water to $200,000.” 
 
 To promote the sustainability of its activities, KIWASH paired all infrastructure upgrades with improvements in operations and maintenance support, creating a culture of ongoing maintenance and service provision, and ensuring infrastructure investments reinforce larger service delivery goals. 
+
+![KIWASH infrastructure water supply.jpg](/uploads/KIWASH%20infrastructure%20water%20supply.jpg)`Investing in infrastructure was a major part of the project.`
 
 ## Comprehensive Governance Support 
 
