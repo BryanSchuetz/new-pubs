@@ -78,6 +78,8 @@ Water service provider KIWASCO served as an example for other utilities. “One 
 
 Complementing the success of capacity building carried out through existing institutions, KIWASH saw success in cross-utility knowledge-sharing networks, and exchange visits between water service providers and small WASH enterprises, which yielded productive benchmarking and joint planning efforts. In Kisumu, noting KIWASCO’s successes in improving customer relations and management systems, the project facilitated a learning exchange for staff from GWASCO to KIWASCO to learn good customer management skills, such as customer satisfaction and identification surveys, and the re-design of customer contracts. 
 
+![WOWASCO--pump-site-Makueni-County.jpg](/uploads/WOWASCO--pump-site-Makueni-County.jpg)`WOWASCO worker on a pump system. Photo: USAID KIWASH.`
+
 ## Filling the Gaps and Thriving
 
 Prior to KIWASH, water service delivery in the partner counties was hampered by technical and operational gaps and weak policy management. Existing rules and regulations were not well defined and with the country’s decentralization of service delivery, responsibilities between stakeholders were not well understood. By the project’s close in 2021, KIWASH ensured that all nine counties’ policies and procedures were codified in law, and water service providers were performing at higher levels. 
