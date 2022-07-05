@@ -15,13 +15,14 @@ Since DAI launched a six-year water project across nine Kenyan counties, the cou
 
 The results are now in. The [Kenya Integrated Water, Sanitation, and Hygiene (KIWASH)](https://www.dai.com/our-work/projects/kenya-integrated-water-sanitation-and-hygiene-project-kiwash) project enabled [nearly 900,000](https://www.usglc.org/blog/clean-water-education-access-opportunity/) Kenyans to gain access to improved water security, sanitation, and hygiene services as well as irrigation and nutrition services. 
 
-![impact 1.png](/uploads/impact%201.png)
-
-
-
-
-
 Behind that impressive number was a collaborative approach that took its lead from Kenyan water service providers and the communities they serve.
+
+
+
+
+
+
+![impact 1.png](/uploads/impact%201.png)
 
 ## Strengthening Water Service Providers and County Governments
 
