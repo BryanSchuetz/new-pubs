@@ -15,6 +15,7 @@ Since DAI launched a six-year water project across nine Kenyan counties, the cou
 
 The results are now in. The [Kenya Integrated Water, Sanitation, and Hygiene (KIWASH)](https://www.dai.com/our-work/projects/kenya-integrated-water-sanitation-and-hygiene-project-kiwash) project enabled [nearly 900,000](https://www.usglc.org/blog/clean-water-education-access-opportunity/) Kenyans to gain access to improved water security, sanitation, and hygiene services as well as irrigation and nutrition services. 
 
+![impact 1.png](/uploads/impact%201.png)
 
 
 
@@ -40,6 +41,8 @@ By working to increase tariff collection and improve operational and technical e
 
 To promote the sustainability of its activities, KIWASH paired all infrastructure upgrades with improvements in operations and maintenance support, creating a culture of ongoing maintenance and service provision, and ensuring infrastructure investments reinforce larger service delivery goals. 
 
+![KIWASH infrastructure water supply.jpg](/uploads/KIWASH%20infrastructure%20water%20supply.jpg)`Investing in infrastructure was a major part of the project. Photo: USAID KIWASH.`
+
 ## Comprehensive Governance Support 
 
 KIWASH supported governance in two ways—working with county governments to improve the enabling environment through codified laws and policies to manage the water sector at the county level and directly assisting service providers to improve their own corporate governance. 
@@ -63,6 +66,8 @@ All told, WOWASCO and KIMAWASCO increased revenue collection to 95 percent and 9
 Meanwhile, in Kisumu, the major service provider, KIWASCO, was performing at a capacity where KIWASH did not deem a performance improvement plan warranted. Instead, with KIWASH support, KIWASCO itself became a “mentor” organization, pairing with two smaller providers—GULF and NYANAS. KIWASCO provided support and mentorship to the two utilities, improving their performance while they continued to operate independently. Under KIWASCO’s supervision, GULF and NYANAS saw a 19 percent and 16 percent decrease in non-revenue water, respectively, and they added more than 470 new water connections. 
 
 Across all the counties, the biggest technical challenges facing water service providers and small WASH enterprises were dilapidated infrastructure, poor operational and maintenance techniques, and ineffective asset management. Complementary to the internal strengthening and training KIWASH provided, the project facilitated improvements to locally prioritized infrastructure needs. Importantly, KIWASH paired its infrastructure support with technical and operational support to providers to ensure they can adequately manage expanded services, more customers, and a higher volume of billing and revenue collection. The pairing of technical, operational, and infrastructure programming resulted in new or improved water service delivery for 25,800 people in Kisumu, and 55,406 in Makueni. 
+
+![Devs----KIWASH-Women-3.jpg](/uploads/Devs----KIWASH-Women-3.jpg)`Integrating women into KIWASH's programming was key. Photo: USAID KIWASH.`
 
 ## Replication, Scalability, Sustainability
 
