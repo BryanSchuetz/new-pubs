@@ -22,7 +22,7 @@ Historically, trade in seeds has been curtailed by a lack of mutual recognition 
 
 
 
-In response to these interconnected issues, SADC, in the late 1980s, conceived a strategy for standardizing seed laws across the region. The SADC Harmonized Seed Regulatory System (HSRS), a set of guidelines for seed production and export that all SADC member states agreed on, created a common legal framework with agreed standards, rules, and procedures. In 2001, SADC recognized the importance to move on the HSRS and introduced the SADC Seed Security Network, which was instrumental in creating technical agreements between member states. Unfortunately, the system yielded few tangible results. 
+In response to these interconnected issues, SADC, in the late 1980s, conceived a strategy for standardizing seed laws across the region. The [SADC Harmonized Seed Regulatory System (HSRS)](https://www.youtube.com/watch?v=EYMZvZGRe_g), a set of guidelines for seed production and export that all SADC member states agreed on, created a common legal framework with agreed standards, rules, and procedures. In 2001, SADC recognized the importance to move on the HSRS and introduced the SADC Seed Security Network, which was instrumental in creating technical agreements between member states. Unfortunately, the system yielded few tangible results. 
 
 ## From Policy to Implementation
 
