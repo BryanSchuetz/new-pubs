@@ -32,7 +32,7 @@ The Seed Trade Project engaged numerous stakeholders in the seed sector—includ
 
 Taking a consultative approach, alongside technical assistance and financial support, the Seed Trade Project built the capacity of stakeholders to implement and conform with regulations stipulated in the technical agreements. It focused on four SADC countries—Malawi, Mozambique, [Zambia](https://www.usaid.gov/news-information/videos/zambian-seed-industry-expanding-southern-africa-regional-markets-%E2%80%93-feed), and Zimbabwe—but its policy work had implications across all 16 member states. 
 
-![SEED TRADE381.jpg](/uploads/SEED%20TRADE381.jpg)
+![SEED TRADE381.jpg](/uploads/SEED%20TRADE381.jpg)`The inaugural export of seed under the SADC HSRS using SADC Seed Labels and Certificates by Seed Co. from Zambia to the Democratic Republic of Congo. Photo: Seed Trade Project.`
 
 ## Impact and Results 
 
@@ -42,7 +42,7 @@ Over six years, the Seed Trade Project achieved impressive results that position
 * Trained 2,156 people and supported 192 organizations (private companies, trade associations, community-based organizations, and so forth) in more effectively and efficiently implementing HSRS. Before the HSRS, it took an average of three years for companies to conduct the required national performance trials to release varieties in each of the 16 SADC countries. With the HSRS, a company just needs to release the variety in two member states, then apply for regional release; it takes less than a year to release the variety in the additional 14 SADC countries. By the close of the project, using the HSRS variety release system, 15 seed companies had registered 96 seed varieties on the regional catalogue, with seven additional varieties in the pipeline. These varieties, once registered on the catalogue, may be produced and traded in any of the 16 SADC member states without additional tests.
 * Helped establish the SADC Seed Centre in Lusaka, Zambia, by providing technical assistance to develop a sustainable, fee-based business model. The [SADC Seed Centre](https://www.sadcseedcentre.com/) is the backbone of HSRS—it coordinates implementation of HSRS across member states and serves as a key advisor on seed policy, seed availability, and capacity building.  
 
-![SADC Seed Label Refined.jpg](/uploads/SADC%20Seed%20Label%20Refined.jpg)
+![SADC Seed Label Refined.jpg](/uploads/SADC%20Seed%20Label%20Refined.jpg)`The SADC Seed Label.`
 
 ## Spotlight on Malawi
 
