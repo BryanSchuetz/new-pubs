@@ -58,6 +58,8 @@ SSU head Dr. Grace Kaudzu confirms that the Online Seed Certification System has
 
 The Seed Trade Project also completed training of Malawi seed quality assurance personnel, including seed inspectors and seed testing technicians. In addition, the project supported the [procurement of new technology](https://www.sadcseedcentre.com/youtube_video/malawi-technology-transfer/) for the Chitedze Seed Testing Laboratory in 2021 and 2022, which included seed testing equipment, an industrial generator to curb power outages, and computers and other IT equipment to ensure full implementation of the Online Seed Certification System across the country. All procured equipment serves to ensure that Malawi meets the standards required by the HSRS, as well as other international seed quality assurance standards such as those of the International Seed Testing Association and the Organisation for Economic Co-operation and Development Seed Schemes. 
 
+![Lake Agriculture hybrid maize seed production according to the SADC HSRS, variety Lake 601 .JPG](/uploads/Lake%20Agriculture%20hybrid%20maize%20seed%20production%20according%20to%20the%20SADC%20HSRS,%20variety%20Lake%20601%20.JPG)`Lake Agriculture hybrid maize seed production according to the SADC HSRS, variety Lake 601. Photo: Seed Trade Project.`
+
 ## What’s Next? 
 
 All SADC member states need to revise their seed laws to fully align with the HSRS for the region and fully integrate their seed markets into one SADC-wide market trading in high-quality seed of improved, resilient varieties.
