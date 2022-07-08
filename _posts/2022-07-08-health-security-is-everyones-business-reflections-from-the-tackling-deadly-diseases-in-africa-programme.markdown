@@ -33,7 +33,7 @@ Inclusive national health security systems must take a [One Health](https://dai-
 
 When TDDA began its work in Chad, we started speaking to various ministries (environment, agriculture, health, and others) and brought them all together. We agreed that the government would take the steering wheel in this process, so to speak, while TDDA sat in the passenger seat with a map. We offered technical expertise, but we were there to support—not lead—the way. We asked our government partners what they wanted to achieve, but we didn’t impose our goals upon them. We helped them form a group of One Health champions and write a first One Health governance manual. Meeting regularly, the champions were soon recognized by the Prime Minister and tasked with helping to coordinate, manage, and support the country’s COVID-19 response. Chad’s One Health champions are now in the [final stages](https://100f161e-3021-410f-a63a-b5852e300315.usrfiles.com/ugd/100f16_6a4338a64dc54d7cb2c2b12460fa8acf.pdf) of becoming an official, formally recognized, national body. The Prime Minister will personally endorse the One Health platform and a presidential decree is in the pipeline. His support has generated political will for the initiative and helped the entire government understand the importance of the One Health approach in pandemic preparedness and response. 
 
-![DSC_4290-ffff1f.JPG](/uploads/DSC_4290-ffff1f.JPG)`Community wwareness campaigns in Chad helped get the word out about COVID-19. Photo: FCDO TDDA.`
+![DSC_4290-ffff1f.JPG](/uploads/DSC_4290-ffff1f.JPG)`Community awareness campaigns in Chad helped get the word out about COVID-19. Photo: FCDO TDDA.`
 
 ## Why National Health Security Systems Must be Multisectoral
 
