@@ -1,13 +1,12 @@
 ---
 title: 'Seed Trade in Southern Africa: Operationalizing 15 Years of Policy in Six
   Years'
-date: 2022-07-07 15:29:00 -04:00
-published: false
+date: 2022-07-12 12:00:00 -04:00
 tags:
 - trade
 - food security
 - governance
-author: 'Itai Makanda and Mia Marshall '
+author: "[Itai Makanda](https://www.linkedin.com/in/itai-m-50791a31/) and [Mia Marshall](https://www.linkedin.com/in/miamarshall/)"
 thumbnail-image: "/uploads/SM%20Seed%20Trade%20various%20beans%20and%20grains.jpg"
 social-image: "/uploads/SM%20Seed%20Trade%20various%20beans%20and%20grains.jpg"
 publication: Developments
