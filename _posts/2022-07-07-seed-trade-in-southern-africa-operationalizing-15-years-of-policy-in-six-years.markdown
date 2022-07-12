@@ -7,7 +7,7 @@ tags:
 - trade
 - food security
 - governance
-author: 'Itai Makanda and Mia Marshall '
+author: "[Itai Makanda](https://www.linkedin.com/in/itai-m-50791a31/) and [Mia Marshall](https://www.linkedin.com/in/miamarshall/)"
 thumbnail-image: "/uploads/SM%20Seed%20Trade%20various%20beans%20and%20grains.jpg"
 social-image: "/uploads/SM%20Seed%20Trade%20various%20beans%20and%20grains.jpg"
 publication: Developments
