@@ -1,8 +1,7 @@
 ---
 title: 'Seed Trade in Southern Africa: Operationalizing 15 Years of Policy in Six
   Years'
-date: 2022-07-07 15:29:00 -04:00
-published: false
+date: 2022-07-12 12:00:00 -04:00
 tags:
 - trade
 - food security
