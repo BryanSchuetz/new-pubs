@@ -22,7 +22,7 @@ Behind that impressive number was a collaborative approach that took its lead fr
 
 
 
-![KIWASH_Infographic_900px.jpg](/uploads/KIWASH_Infographic_900px.jpg)
+![KIWASH_Infographic_03.jpg](/uploads/KIWASH_Infographic_03.jpg)
 
 ## Strengthening Water Service Providers and County Governments
 
