@@ -9,6 +9,8 @@ tags:
 - food security
 - agriculture
 author: "[Ngasuma Kanyeka](https://www.linkedin.com/in/ngasuma-kanyeka-2378221a/)"
+thumbnail-image: "/uploads/sm%20AY%203.jpg"
+social-image: "/uploads/sm%20AY%203-381c47.jpg"
 publication: Developments
 ---
 
