@@ -3,6 +3,11 @@ title: 'There Are 42,000 Young People Ready to Lead Tanzania’s Economic Growth
   How They Got There'
 date: 2022-07-18 13:27:00 -04:00
 published: false
+tags:
+- youth
+- economic-growth
+- food security
+- agriculture
 author: "[Ngasuma Kanyeka](https://www.linkedin.com/in/ngasuma-kanyeka-2378221a/)"
 publication: Developments
 ---
