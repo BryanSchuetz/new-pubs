@@ -47,6 +47,8 @@ The labor and market survey, which was geared toward learning what the agribusin
 
 Unfortunately, we also learned that industry players generally lack trust in young people, assuming them to be lazy and quick results-driven, and this attitude constrains opportunities for youth. Such misconceptions explain why Advancing Youth employs the USAID [Positive Youth Development](https://www.usaid.gov/node/373551) framework, which advocates that youth are worthy of trust but need skills, opportunities, and resources if they are to prosper—and in turn bring prosperity to Tanzania.
 
+![AY 3.jpg](/uploads/AY%203.jpg)`Sixty percent of the young people selected for activities were female. Photo: USAID Advancing Youth.`
+
 ## What Worked
 
 So, what did we do that worked? In sum, very simple solutions. First, in response to our youth and gender assessment, we created prescriptive gender selection measures, ensuring that 60 percent of the young people we selected for activities were female, because in this context parity alone does not foster equity. Additionally, 60 percent of all youth selected to take part in our program had to be under the age of 24, because while it is hard to reach them, they are the most in need. 
@@ -60,6 +62,8 @@ After much success in her own business, Tetere co-founded a consulting firm call
 Arguably the most impactful aspect of the project has been infusing funding into youth-led business. While most financial institutions are apprehensive about trusting young people with money, Advancing Youth has modeled success in this arena. A great example is Hadija Jabir. In 2017, Jabir was a 27-year-old running an agribusiness called GBRI, exporting fresh horticultural goods to Europe. While the business had been slowly growing, GBRI saw rapid success after receiving scale-up funding of $98,000 from our project. GBRI was able to hire 250 young people, expand its production and packing operations, and launch Agriedo, an agribusiness consulting firm. 
 
 In Zanzibar, Pili Kashinje started out with one small shop. After receiving horticulture training through Feed the Future Mboga na Matunda, a horticulture value chain initiative, Kashinje started producing sweet potatoes. Later, she received entrepreneurship training and access to a YSLA that provided financing to start processing and packaging sweet potato flour. Advancing Youth then supported her to access more markets and she now supplies flour to nine schools. Kashinje recently bought a truck to transport the flour and built a small factory that employs 15 young people.
+
+![AY 2 Hotel Owner.jpg](/uploads/AY%202%20Hotel%20Owner.jpg)`Young entrepreneurs were able to re-invest in their companies through the use of savings groups. Photo: USAID Advancing Youth.`
  
 Through cases like these, the project found YSLAs to be ideal sources of alternative funding for youth-owned businesses. The magic behind them is that they are organizations built on trust, where self-selected individuals come together to save, lend, and reap the dividends of their association. The second part of the success is that the interest rates are accessible—ranging from 3 to 10 percent, compared to 18 to 50 percent that banks offer. Advancing Youth created 312 youth savings and lending groups, made up of 5,370 young people, who are collectively worth 2.4 billion Tanzanian shillings. The return rates achieved are approximately 87 percent, once again illustrating that young people can be trusted by financial institutions (especially when they have demonstrable records of borrowing and repayment).
 
@@ -74,6 +78,8 @@ As a result of Advancing Youth’s leadership training, 2,000 young people are n
 The final pillar of our activities was life skills training. Like any other group of people, the young do not have uniform experiences. A 19-year-old mother’s needs differ from those of a 29-year-old man, and our life skills training and approaches varied accordingly, with some skills training being conducted in schools, for example, but also a separate program for mothers under 24. The young mothers’ curriculum includes skills that help them raise and provide proper nutrition for their children, take leadership roles in their communities, and negotiate better outcomes for themselves and their families. 
 
 What made our young mothers’ program particularly effective was its combination of assistance in healthy living with a focus on planning and economic and leadership skills. But to make our approach work, we had to recognize the practical challenges young mothers face. For example, we offered childcare allowances so young mothers could free their time for participation in the training. At first, providing this allowance was seen as almost a revolutionary act, but once our partners saw it in action, they immediately recognized it as a pragmatic way to address the competing demands on young mothers’ time. By addressing this crucial obstacle, we reached more than 4,500 young mothers (15 percent of the entire program) who would have otherwise been excluded.
+
+![AY 1.jpg](/uploads/AY%201.jpg)`More mothers were able to participate in training through the use of childcare allowances. Photo: USAID Advacing Youth.` 
 
 ## Crucial Partnership
 
