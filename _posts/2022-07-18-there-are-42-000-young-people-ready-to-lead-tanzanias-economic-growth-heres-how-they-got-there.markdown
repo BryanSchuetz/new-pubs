@@ -29,7 +29,7 @@ Although several Feed the Future projects already had targets to work with young
 
 Advancing Youth leveraged existing Feed the Future investments in horticulture and cereal value chains to ensure that young people in Iringa, Mbeya, and Zanzibar connect to agribusiness opportunities by gaining either employment or entrepreneurship opportunities. In addition, Advancing Youth equipped them to make better decisions about their futures through leadership training, life skills instruction, and improved access to health services. 
 
-[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
+![Look Book.png](/uploads/Look%20Book.png)[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
 
 ## Beyond Training
 
