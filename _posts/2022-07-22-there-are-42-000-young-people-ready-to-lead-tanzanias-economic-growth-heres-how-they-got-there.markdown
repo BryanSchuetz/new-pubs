@@ -29,6 +29,8 @@ Although several Feed the Future projects already had targets to work with young
 
 Advancing Youth leveraged existing Feed the Future investments in horticulture and cereal value chains to ensure that young people in Iringa, Mbeya, and Zanzibar connect to agribusiness opportunities by gaining either employment or entrepreneurship opportunities. In addition, Advancing Youth equipped them to make better decisions about their futures through leadership training, life skills instruction, and improved access to health services. 
 
+![332.jpg](/uploads/332.jpg)`The project created spaces where youth-led firms could readily access funding through a lending group to start or improve businesses.`
+
 ## Beyond Training
 
 Advancing Youth also prided itself on being a “beyond training” project, recognizing that while foundational skills are important, the real challenge young people face has more to do with systemic barriers that new skills alone cannot surmount. In fact, the assumption that educated young people have the prerequisite skills to compete in the job market is typically false. They need ongoing re-skilling of soft skills and hard skills through experiential training, internships, and apprenticeships, where they experience more vivid, exemplary, and hands-on problem solving. What Advancing Youth has been able to uncover with our beyond training model is that many essential skills—such as lateral thinking, growth mindsets, conflict mediation, parenting, nutrition awareness, critical decision making, and leadership—are not taught in Tanzanian classrooms. We also learned that young Tanzanians need vocational skills in food processing and modern agriculture if they are to be valuable as employees in agricultural value chains. 
