@@ -21,13 +21,15 @@ I do not have all the answers, but I will tell you with confidence who does—yo
 
 
 
+![Advancing Youth Impact Stories Booklet_img.jpg](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet_img.jpg)[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
+
 Seventy percent of Tanzanians live in rural areas and rely on agriculture, and roughly half of Tanzania’s 60 million people is under the age of 35. In fact, the average age of a Tanzanian is just 17. To develop Tanzania’s economy therefore requires stimulating rural economies and working closely with young people. In its [Vision 2025](http://extwprlegs1.fao.org/docs/pdf/tan154578.pdf), the Government of Tanzania recognizes this priority and the need to create a “strong and competitive economy.” In alignment with this priority, the U.S. Agency for International Development (USAID) has invested in Tanzanian agribusiness, focusing on rural people’s ability to increase agricultural production, mechanize operations, and expand market opportunities through [Feed the Future](https://www.feedthefuture.gov/), the U.S. Government’s initiative to stimulate and secure food systems. 
 
 Although several Feed the Future projects already had targets to work with young people, USAID saw a need for a concerted initiative to empower youth. So, in 2017, the [Feed the Future Tanzania Advancing Youth Activity](https://www.dai.com/our-work/projects/tanzania-youth-economic-empowerment-activity) was born. 
 
 Advancing Youth leveraged existing Feed the Future investments in horticulture and cereal value chains to ensure that young people in Iringa, Mbeya, and Zanzibar connect to agribusiness opportunities by gaining either employment or entrepreneurship opportunities. In addition, Advancing Youth equipped them to make better decisions about their futures through leadership training, life skills instruction, and improved access to health services. 
 
-![Advancing Youth Impact Stories Booklet_img.jpg](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet_img.jpg)(/uploads/Look%20Book.png)[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
+![Advancing Youth Impact Stories Booklet_img.jpg](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet_img.jpg)[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
 
 ## Beyond Training
 
