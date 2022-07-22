@@ -24,7 +24,7 @@ I do not have all the answers, but I will tell you with confidence who does—yo
 Seventy percent of Tanzanians live in rural areas and rely on agriculture, and roughly half of Tanzania’s 60 million people is under the age of 35. In fact, the average age of a Tanzanian is just 17. To develop Tanzania’s economy therefore requires stimulating rural economies and working closely with young people. In its [Vision 2025](http://extwprlegs1.fao.org/docs/pdf/tan154578.pdf), the Government of Tanzania recognizes this priority and the need to create a “strong and competitive economy.” In alignment with this priority, the U.S. Agency for International Development (USAID) has invested in Tanzanian agribusiness, focusing on rural people’s ability to increase agricultural production, mechanize operations, and expand market opportunities through [Feed the Future](https://www.feedthefuture.gov/), the U.S. Government’s initiative to stimulate and secure food systems. 
 
 Although several Feed the Future projects already had targets to work with young people, USAID saw a need for a concerted initiative to empower youth. So, in 2017, the [Feed the Future Tanzania Advancing Youth Activity](https://www.dai.com/our-work/projects/tanzania-youth-economic-empowerment-activity) was born. 
-<iframe src="https://player.vimeo.com/video/732455607?h=da6355b206" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 Advancing Youth leveraged existing Feed the Future investments in horticulture and cereal value chains to ensure that young people in Iringa, Mbeya, and Zanzibar connect to agribusiness opportunities by gaining either employment or entrepreneurship opportunities. In addition, Advancing Youth equipped them to make better decisions about their futures through leadership training, life skills instruction, and improved access to health services. 
 
 ![Advancing Youth Impact Stories Booklet_img.jpg](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet_img.jpg)(/uploads/Look%20Book.png)[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
@@ -88,5 +88,8 @@ Government partnership has led to young participants receiving 200 acres of land
 Over the past four years, more than 42,000 youth have taken part in Advancing Youth activities. What does this mean? It means there are 42,000 people whose lives and livelihoods have felt the genuine and collaborative support of USAID, the Government of Tanzania, and private sector actors. It means 3,650 jobs created and 5,200 new businesses established or improved. It means youth equipped with leadership skills enabling them to transcend deep-rooted notions of their potential and limitations, engage in dialog with adults in their communities, and participate more fully in those communities. 
 
 They say the health and wealth of a nation is measured by how well young people are prepared to face the future. These 42,000 young people are ready to lead and shape Tanzania’s economic growth and prosperity today.
+
+## Learn More
+<iframe src="https://player.vimeo.com/video/732455607?h=da6355b206" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 *[Ngasuma Kanyeka](https://www.linkedin.com/in/ngasuma-kanyeka-2378221a/) was Chief of Party of the Feed the Future Tanzania Advancing Youth activity.*
