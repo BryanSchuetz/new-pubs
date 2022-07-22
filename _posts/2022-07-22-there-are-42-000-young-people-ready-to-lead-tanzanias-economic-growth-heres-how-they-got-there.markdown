@@ -1,7 +1,7 @@
 ---
 title: 'There Are 42,000 Young People Ready to Lead Tanzania’s Economic Growth: Here’s
   How They Got There'
-date: 2022-07-18 13:27:00 -04:00
+date: 2022-07-22 12:27:00 -04:00
 published: false
 tags:
 - youth
@@ -90,6 +90,6 @@ Over the past four years, more than 42,000 youth have taken part in Advancing Yo
 They say the health and wealth of a nation is measured by how well young people are prepared to face the future. These 42,000 young people are ready to lead and shape Tanzania’s economic growth and prosperity today.
 
 ## Learn More
-<iframe src="https://player.vimeo.com/video/732455607?h=da6355b206" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/732455607?h=da6355b206" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 *[Ngasuma Kanyeka](https://www.linkedin.com/in/ngasuma-kanyeka-2378221a/) was Chief of Party of the Feed the Future Tanzania Advancing Youth activity.*
