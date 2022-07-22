@@ -1,7 +1,7 @@
 ---
 title: 'There Are 42,000 Young People Ready to Lead Tanzania’s Economic Growth: Here’s
   How They Got There'
-date: 2022-07-18 13:27:00 -04:00
+date: 2022-07-22 12:27:00 -04:00
 published: false
 tags:
 - youth
@@ -29,8 +29,6 @@ Although several Feed the Future projects already had targets to work with young
 
 Advancing Youth leveraged existing Feed the Future investments in horticulture and cereal value chains to ensure that young people in Iringa, Mbeya, and Zanzibar connect to agribusiness opportunities by gaining either employment or entrepreneurship opportunities. In addition, Advancing Youth equipped them to make better decisions about their futures through leadership training, life skills instruction, and improved access to health services. 
 
-![Advancing Youth Impact Stories Booklet_img.jpg](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet_img.jpg)[Check out Stories of Impact from the project.](/uploads/Advancing%20Youth%20Impact%20Stories%20Booklet%20APPROVED%5B83%5D.pdf)
-
 ## Beyond Training
 
 Advancing Youth also prided itself on being a “beyond training” project, recognizing that while foundational skills are important, the real challenge young people face has more to do with systemic barriers that new skills alone cannot surmount. In fact, the assumption that educated young people have the prerequisite skills to compete in the job market is typically false. They need ongoing re-skilling of soft skills and hard skills through experiential training, internships, and apprenticeships, where they experience more vivid, exemplary, and hands-on problem solving. What Advancing Youth has been able to uncover with our beyond training model is that many essential skills—such as lateral thinking, growth mindsets, conflict mediation, parenting, nutrition awareness, critical decision making, and leadership—are not taught in Tanzanian classrooms. We also learned that young Tanzanians need vocational skills in food processing and modern agriculture if they are to be valuable as employees in agricultural value chains. 
@@ -53,7 +51,7 @@ Unfortunately, we also learned that industry players generally lack trust in you
 
 So, what did we do that worked? In sum, very simple solutions. First, in response to our youth and gender assessment, we created prescriptive gender selection measures, ensuring that 60 percent of the young people we selected for activities were female, because in this context parity alone does not foster equity. Additionally, 60 percent of all youth selected to take part in our program had to be under the age of 24, because while it is hard to reach them, they are the most in need. 
 
-Second, we worked with local and private sector partners as grantees. We trained young people in soft skills, then followed up with vocational skills. But the real game changer was creating youth savings and lending groups (YSLAs), and getting these groups registered to gather youth savings and disburse loans. The young people involved are not forced to establish group businesses, but we created a space where they could readily access funding through the YSLAs to start or improve businesses. Each grantee was also provided with a clear mandate to give startup capital or startup kits to young people, because helping them to get a business going required more than skills and often capital is the great impediment to getting a business off the ground. Then we followed up with mentorship and coaching. Market exposure was the next pillar—getting young people in front of buyers and potential buyers through deal rooms and trips to conduct their own market surveys and exhibitions. Some young people also received digital training to help sell their products online. Other activities included referring young people to trader associations, private companies, and other players.
+Second, we worked with local and private sector partners as grantees. We trained young people in soft skills, then followed up with vocational skills. But the real game changer was creating youth savings and lending associations (YSLAs), and getting them registered to gather youth savings and disburse loans. The young people involved are not forced to establish group businesses, but we created a space where they could readily access funding through the YSLAs to start or improve businesses. Each grantee was also provided with a clear mandate to give startup capital or startup kits to young people, because helping them to get a business going required more than skills and often capital is the great impediment to getting a business off the ground. Then we followed up with mentorship and coaching. Market exposure was the next pillar—getting young people in front of buyers and potential buyers through deal rooms and trips to conduct their own market surveys and exhibitions. Some young people also received digital training to help sell their products online. Other activities included referring young people to trader associations, private companies, and other players.
  
 As a result of these activities, many young people have grown their businesses exponentially. To take just one example, Mkami Tetere, a 25-year-old mother of two, now packages and sells ginger, tea masala, and other cooking spices under her own brand, Mkami Products. She also supplies more than two tons of rice per week to a Dar es Salaam buyer. In addition, she produces batik fabric and accessories. 
 
@@ -63,9 +61,9 @@ Arguably the most impactful aspect of the project has been infusing funding into
 
 In Zanzibar, Pili Kashinje started out with one small shop. After receiving horticulture training through Feed the Future Mboga na Matunda, a horticulture value chain initiative, Kashinje started producing sweet potatoes. Later, she received entrepreneurship training and access to a YSLA that provided financing to start processing and packaging sweet potato flour. Advancing Youth then supported her to access more markets and she now supplies flour to nine schools. Kashinje recently bought a truck to transport the flour and built a small factory that employs 15 young people.
 
-![tz1.jpg](/uploads/tz1.jpg)`Young entrepreneurs were able to re-invest in their businesses through the use of savings groups. Photo: USAID Advancing Youth.`
+![tz1.jpg](/uploads/tz1.jpg)`Young entrepreneurs were able to re-invest in their businesses through the use of savings associations. Photo: USAID Advancing Youth.`
  
-Through cases like these, the project found YSLAs to be ideal sources of alternative funding for youth-owned businesses. The magic behind them is that they are organizations built on trust, where self-selected individuals come together to save, lend, and reap the dividends of their association. The second part of the success is that the interest rates are accessible—ranging from 3 to 10 percent, compared to 18 to 50 percent that banks offer. Advancing Youth created 312 youth savings and lending groups, made up of 5,370 young people, who are collectively worth 2.4 billion Tanzanian shillings. The return rates achieved are approximately 87 percent, once again illustrating that young people can be trusted by financial institutions (especially when they have demonstrable records of borrowing and repayment).
+Through cases like these, the project found YSLAs to be ideal sources of alternative funding for youth-owned businesses. The magic behind them is that they are organizations built on trust, where self-selected individuals come together to save, lend, and reap the dividends of their association. The second part of the success is that the interest rates are accessible—ranging from 3 to 10 percent, compared to 18 to 50 percent that banks offer. Advancing Youth created 312 YSLAs, made up of 5,370 young people, who are collectively worth 2.4 billion Tanzanian shillings. The return rates achieved are approximately 87 percent, once again illustrating that young people can be trusted by financial institutions (especially when they have demonstrable records of borrowing and repayment).
 
 ## Taking the Reins of Leadership
 
@@ -92,6 +90,6 @@ Over the past four years, more than 42,000 youth have taken part in Advancing Yo
 They say the health and wealth of a nation is measured by how well young people are prepared to face the future. These 42,000 young people are ready to lead and shape Tanzania’s economic growth and prosperity today.
 
 ## Learn More
-<iframe src="https://player.vimeo.com/video/732455607?h=da6355b206" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/732455607?h=da6355b206" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 *[Ngasuma Kanyeka](https://www.linkedin.com/in/ngasuma-kanyeka-2378221a/) was Chief of Party of the Feed the Future Tanzania Advancing Youth activity.*
