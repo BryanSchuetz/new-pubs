@@ -29,7 +29,7 @@ Although several Feed the Future projects already had targets to work with young
 
 Advancing Youth leveraged existing Feed the Future investments in horticulture and cereal value chains to ensure that young people in Iringa, Mbeya, and Zanzibar connect to agribusiness opportunities by gaining either employment or entrepreneurship opportunities. In addition, Advancing Youth equipped them to make better decisions about their futures through leadership training, life skills instruction, and improved access to health services. 
 
-![332.jpg](/uploads/332.jpg)`The project created spaces where youth-led firms could readily access funding to start or improve businesses. Photo: USAID Advancing Youth.`
+![332.jpg](/uploads/332.jpg)`The project created spaces where youth-led firms could readily access funding to start or improve businesses. Photo: Daniel Msirikale/USAID Tanzania.`
 
 ## Beyond Training
 
@@ -63,7 +63,7 @@ Arguably the most impactful aspect of the project has been infusing funding into
 
 In Zanzibar, Pili Kashinje started out with one small shop. After receiving horticulture training through Feed the Future Mboga na Matunda, a horticulture value chain initiative, Kashinje started producing sweet potatoes. Later, she received entrepreneurship training and access to a YSLA that provided financing to start processing and packaging sweet potato flour. Advancing Youth then supported her to access more markets and she now supplies flour to nine schools. Kashinje recently bought a truck to transport the flour and built a small factory that employs 15 young people.
 
-![tz1.jpg](/uploads/tz1.jpg)`Young entrepreneurs were able to re-invest in their businesses through the use of savings associations. Photo: USAID Advancing Youth.`
+![tz1.jpg](/uploads/tz1.jpg)`Young entrepreneurs were able to re-invest in their businesses through the use of savings associations. Photo: Daniel Msirikale/USAID Tanzania.`
  
 Through cases like these, the project found YSLAs to be ideal sources of alternative funding for youth-owned businesses. The magic behind them is that they are organizations built on trust, where self-selected individuals come together to save, lend, and reap the dividends of their association. The second part of the success is that the interest rates are accessible—ranging from 3 to 10 percent, compared to 18 to 50 percent that banks offer. Advancing Youth created 312 YSLAs, made up of 5,370 young people, who are collectively worth 2.4 billion Tanzanian shillings. The return rates achieved are approximately 87 percent, once again illustrating that young people can be trusted by financial institutions (especially when they have demonstrable records of borrowing and repayment).
 
@@ -79,7 +79,7 @@ The final pillar of our activities was life skills training. Like any other grou
 
 What made our young mothers’ program particularly effective was its combination of assistance in healthy living with a focus on planning and economic and leadership skills. But to make our approach work, we had to recognize the practical challenges young mothers face. For example, we offered childcare allowances so young mothers could free their time for participation in the training. At first, providing this allowance was seen as almost a revolutionary act, but once our partners saw it in action, they immediately recognized it as a pragmatic way to address the competing demands on young mothers’ time. By addressing this crucial obstacle, we reached more than 4,500 young mothers (15 percent of the entire program) who would have otherwise been excluded.
 
-![moms (1).jpg](/uploads/moms%20(1).jpg)`More mothers were able to participate in training through the use of childcare allowances. Photo: USAID Advacing Youth.` 
+![moms (1).jpg](/uploads/moms%20(1).jpg)`More mothers were able to participate in training through the use of childcare allowances. Photo: Daniel Msirikale/USAID Tanzania.` 
 
 ## Crucial Partnership
 
