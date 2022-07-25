@@ -47,7 +47,7 @@ The labor and market survey, which was geared toward learning what the agribusin
 
 Unfortunately, we also learned that industry players generally lack trust in young people, assuming them to be lazy and quick results-driven, and this attitude constrains opportunities for youth. Such misconceptions explain why Advancing Youth employs the USAID [Positive Youth Development](https://www.usaid.gov/node/373551) framework, which advocates that youth are worthy of trust but need skills, opportunities, and resources if they are to prosper—and in turn bring prosperity to Tanzania.
 
-![AY 3.jpg](/uploads/AY%203.jpg)`Sixty percent of the young people selected for activities were female. Photo: USAID Advancing Youth.`
+![AY 3.jpg](/uploads/AY%203.jpg)`Sixty percent of the young people selected for activities were female. Photo: Meg Edwin/USAID Tanzania.`
 
 ## What Worked
 
