@@ -36,7 +36,7 @@ In Malawi, for example, the USAID G2G mechanism has been used at the national an
 
 Through DAI’s work engaging with governments as direct recipients of aid, we have identified four critical factors to enable successful government-led initiatives:
 
-![image 2-39235a.png](/uploads/image%202-39235a.png)
+![Local3.png](/uploads/Local3.png)
 
 1. Secure Stakeholder Commitment
 
