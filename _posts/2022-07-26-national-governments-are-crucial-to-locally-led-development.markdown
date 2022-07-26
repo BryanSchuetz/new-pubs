@@ -25,6 +25,8 @@ Working with national governments in this way requires effective tools and metho
 
 Direct investment in government places funding closer to those with the potential to benefit most and—if done properly—has the potential to strengthen government service delivery systems. But with increased scrutiny on aid spending, development agencies wary of the scope for waste or even corruption are sometimes dissuaded from using country systems to manage funding. However, several mechanisms have emerged to mitigate the risks of direct investment in counterpart governments.
 
+USAID’s [government-to-government (G2G) mechanism](https://www.usaid.gov/sites/default/files/documents/220.pdf) is a case in point. The G2G approach assesses a counterpart government’s readiness to receive direct funding based on its existing operational, management, accountability, and financial systems. Following the assessment, USAID and the counterpart government develop a risk mitigation plan (often in concert with a capacity development plan) to help reduce and track emerging risks once funding flows through government systems. 
+In Malawi, for example, the USAID G2G mechanism has been used at the national and local levels to strengthen public financial management, while enabling the government to hire and transition more than 350 additional health professionals onto government payrolls. This investment has greatly and sustainably expanded access to care for 1.3 million Malawians. 
 
 
 
