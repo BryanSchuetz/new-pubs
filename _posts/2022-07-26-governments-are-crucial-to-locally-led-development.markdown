@@ -7,6 +7,8 @@ tags:
 - governance
 author: "[Rachel Couper](https://www.dai.com/who-we-are/our-team/rachel-couper) and
   [Teddie Mandala](https://www.linkedin.com/in/teddie-mandala-89b5bb74/)"
+thumbnail-image: "/uploads/doctor-C%202.png"
+social-image: "/uploads/doctor-C%202.png"
 publication: Developments
 ---
 
