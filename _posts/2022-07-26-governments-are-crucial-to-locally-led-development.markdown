@@ -1,5 +1,5 @@
 ---
-title: National Governments Are Crucial to Locally Led Development
+title: Governments Are Crucial to Locally Led Development
 date: 2022-07-26 12:49:00 -04:00
 published: false
 tags:
