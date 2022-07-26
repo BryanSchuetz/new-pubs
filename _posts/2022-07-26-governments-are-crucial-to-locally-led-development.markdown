@@ -47,7 +47,7 @@ Government staff need to understand not only how an initiative will benefit thei
 
 All stakeholders should be aligned to a common development objective for which the government partner is accountable. Within the G2G framework, for example, the program workplan and the risk mitigation plan shape a common understanding between development agencies and partner governments. The workplan is co-designed at the project’s inception and outlines the main activities for funding. The risk mitigation plan is developed following a capacity assessment and supports local agencies to develop their public financial management systems. Both parties must share an understanding of risk mitigation requirements and agree how gaps will be addressed. Development partners are responsible for supporting and advising governments, rather than executing work on their behalf. 
 
-**3. Agree on Milestones and Resources Required **
+**3. Agree on Milestones and Resources Required**
 
 For direct investment in partner governments to be successful, there must be broad agreement between the development agency and the counterpart government on the milestones envisaged and the resources required to achieve them. Defining this roadmap could mean defining precise “process indicators” as triggers for payment milestones (for example, X number of health care workers hired on to government payroll). 
 
