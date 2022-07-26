@@ -20,7 +20,7 @@ While the role of civil society organizations, local research institutions, the 
 
 
 
-![Local2.png](/uploads/Local2.png)`Local Systems Development: actors and actions. Adapted from USAID's "Draft Local Capacity Development Policy, Version 8."`
+![Local2.png](/uploads/Local2.png)`Local Systems Development: actors and actions. Adapted from a draft of USAID's "Local Capacity Development Policy, Version 8."`
 
 Working with national governments in this way requires effective tools and methodologies to assess government systems’ readiness and strengthen government capacity. In this article, we look at the critical factors for successfully engaging governments as partners.
 
