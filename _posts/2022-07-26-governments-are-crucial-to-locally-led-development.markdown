@@ -18,6 +18,7 @@ While the role of civil society organizations, local research institutions, the 
 
 
 
+![Local2.png](/uploads/Local2.png)
 
 Working with national governments in this way requires effective tools and methodologies to assess government systems’ readiness and strengthen government capacity. In this article, we look at the critical factors for successfully engaging governments as partners.
 
