@@ -38,22 +38,22 @@ Through DAI’s work engaging with governments as direct recipients of aid, we h
 
 ![Local3.png](/uploads/Local3.png)
 
-1. Secure Stakeholder Commitment
+**1. Secure Stakeholder Commitment**
 
 Effective development approaches will empower governments as conveners and connectors while recognizing the critical roles of civil society, donors, and advocacy organizations to hold government to account. Governments are like all organizations—employee buy-in is critical to their success. Thinking about government ministries as clients can help. Partners should have a clear understanding of the country’s public sector writ large, the unique “company culture” in a particular ministry or agency, and the nature of staff and managerial incentives. 
 Government staff need to understand not only how an initiative will benefit their agency or community, but also how it will benefit them in their own jobs. Communicating value with openness and tact is key. Civil servants can be bombarded by programs and new initiatives from development agencies, so demonstrating how and why new initiatives will deliver value and benefit can broaden participation and support. Finally, demonstrating the impact arising from implementation will foster trust and staff loyalty toward new projects.  
 
-1. Define Common Objectives
+**2. Define Common Objectives**
 
 All stakeholders should be aligned to a common development objective for which the government partner is accountable. Within the G2G framework, for example, the program workplan and the risk mitigation plan shape a common understanding between development agencies and partner governments. The workplan is co-designed at the project’s inception and outlines the main activities for funding. The risk mitigation plan is developed following a capacity assessment and supports local agencies to develop their public financial management systems. Both parties must share an understanding of risk mitigation requirements and agree how gaps will be addressed. Development partners are responsible for supporting and advising governments, rather than executing work on their behalf. 
 
-1. Agree on Milestones and Resources Required 
+**3. Agree on Milestones and Resources Required **
 
 For direct investment in partner governments to be successful, there must be broad agreement between the development agency and the counterpart government on the milestones envisaged and the resources required to achieve them. Defining this roadmap could mean defining precise “process indicators” as triggers for payment milestones (for example, X number of health care workers hired on to government payroll). 
 
 Before implementation, parties should agree on potential investments and the resources needed to achieve each milestone. For example, does a counterpart government need to invest in a new financial management package to demonstrate increased transparency?
 
-1. Ensure Sustainable Integration of Efforts Within Government Systems
+**4. Ensure Sustainable Integration of Efforts Within Government Systems**
 
 Sustainable activities and investments must be government-led and implemented, though there is room here for implementing partners to ensure sustainable integration of activities. As tenured implementers, advisors can help incrementally strengthen the capacity of governments to be direct recipients of aid, while supporting and equipping local government staff to deliver their own project objectives and ensure integration of activities (for example, into government budget lines). Governments themselves lead, manage, and maintain, and critically, integrate activities rather than advisors or development partners, ensuring efforts and activities are sustained beyond the life of the project.  
 
