@@ -58,4 +58,4 @@ Sustainable activities and investments must be government-led and implemented, t
 
 As development partners seek to maximize impacts by investing more resources locally, the role of governments as direct funding recipients should not be overlooked. Stakeholder commitment, common development objectives, agreed-upon milestones, and sustainable integration of these initiatives can all work in concert to mitigate potential risks and ensure the success of development agencies’ direct investments. 
 
-*[Rachel Couper](https://www.dai.com/who-we-are/our-team/rachel-couper) is a Senior Global Health Specialist in the Health Governance Practice at DAI and [Teddie Mandala](https://www.linkedin.com/in/teddie-mandala-89b5bb74/) Teddie Mandala is a Malawi-based Government-to-Government Funding Monitoring Advisor with DAI.*
+*[Rachel Couper](https://www.dai.com/who-we-are/our-team/rachel-couper) is a Senior Global Health Specialist in the Health Governance Practice at DAI and [Teddie Mandala](https://www.linkedin.com/in/teddie-mandala-89b5bb74/) is a Malawi-based Government-to-Government Funding Monitoring Advisor with DAI.*
