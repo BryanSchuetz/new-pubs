@@ -5,7 +5,6 @@ tags:
 - finance
 - public-financial-management
 - investment
-- FST series
 author: "[Colleen Green](https://www.dai.com/who-we-are/our-team/colleen-green) and
   [Lucas King](https://www.linkedin.com/in/lucas-king-development/)"
 thumbnail-image: "/uploads/smFST%20launch%20event.jpg"
