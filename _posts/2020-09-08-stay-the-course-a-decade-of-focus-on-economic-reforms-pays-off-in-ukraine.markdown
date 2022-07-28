@@ -1,7 +1,6 @@
 ---
 title: 'Stay the Course: A Decade of Focus on Economic Reforms Pays off in Ukraine'
 date: 2020-09-08 16:01:00 -04:00
-published: false
 tags:
 - governance
 - finance
@@ -36,13 +35,13 @@ FST raised public and institutional awareness about the law so that people could
 
 Passage of the Regulated Markets and Derivatives Law comes on the heels of four other laws that DAI and USAID helped craft and pass, including legislation to protect consumers of financial services, reform the tax system, stop money laundering, and regulate nonbank financial institutions. Following is a summary of this legislation and the lessons we learned in helping push these important economic reforms over the line.
 
-![vru_1sept2020_1-f16a38.jpg](/uploads/vru_1sept2020_1-f16a38.jpg)`Ukraine’s parliament, the Verkhovna Rada, in 2020. Photo by Andriy Nesterenko.`
+![vru_1sept2020_1-f16a38.jpg](/uploads/vru_1sept2020_1-f16a38.jpg)`Ukraine’s parliament, the Verkhovna Rada, in 2020. Photo: Andriy Nesterenko.`
 
 ## Making Consumer Protection Effective
 
 USAID has been on the side of users of financial services in Ukraine for more than a decade. In 2011–12, an early USAID project drafted and introduced into Parliament two laws—a Truth in Lending Law providing consumers with the right to information about loans, and a Consumer Protection Law allowing regulators to penalize financial companies and banks. The first law was adopted by Parliament in November 2016; the second, in September 2019.
 
-FST  monitored the implementation of the Truth in Lending law by surveying the retail credit practices of financial institutions and conducting several waves of “mystery shopper” exercises. The findings: a uniformly low level of compliance and inadequate enforcement by financial authorities. FST made these findings public, highlighting habitual violations such as misleading customers and charging hidden fees on loans, all of which undermines public confidence in the financial sector.
+FST monitored the implementation of the Truth in Lending law by surveying the retail credit practices of financial institutions and conducting several waves of “mystery shopper” exercises. The findings: a uniformly low level of compliance and inadequate enforcement by financial authorities. FST made these findings public, highlighting habitual violations such as misleading customers and charging hidden fees on loans, which undermine public confidence in the financial sector.
 
 Based on the findings, FST drafted a legal brief for the National Bank of Ukraine (NBU), outlining the steps necessary to improve compliance. The report galvanized public and international organization support for a new Financial Services Consumer Protection law, which was passed in September 2019, and in June 2019 the central bank created a new consumer protection division.
 
@@ -55,11 +54,8 @@ In Ukraine, offshore schemes to evade taxes have resulted in significant losses 
 [BEPS bill No. 1210](http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=66520) was introduced in Parliament in 2019 and [became law](https://zakon.rada.gov.ua/laws/show/466-IX#Text) in May 2020. The law amended the tax code to stop the inappropriate use of double tax treaties and introduced more transparent transfer pricing rules between affiliated companies. Among the likely results of its reforms:
 
 * Capital outflows from Ukraine to countries with zero or low-income tax rates will be reduced;
-
 * Ukraine’s state budget tax revenues will increase;
-
 * Business transparency and guards against corruption and illegal activity will be enhanced; and
-
 * Ukraine’s international image and investment attractiveness will improve, thereby encouraging local and foreign capital.
 
 ## Tackling Corruption
@@ -80,7 +76,7 @@ On July 1, 2020, the NBU and the National Securities and Stock Market Commission
 
 This major legislative change entrusts the central bank and the commission with the regulation and supervision of insurance, leasing, lending (including by credit unions, pawnshops, and financial companies), and factoring markets, as well as construction financing and non-state pension funds. The new law eliminated the existing understaffed and underfinanced regulator, the National Commission for Financial Services Markets Regulation, which was considered ineffective and too aligned with industry interests.
 
-“\[This law\] helps create a fair and competitive regulatory framework, levels the playing field for financial institutions, and increases trust and transparency in the market,” said Yulia Vitka, deputy COP and head of project legal activities. “It also solves a regulatory arbitrage problem, where regulatory standards for activities of certain nonbanks were much lower than standards for banking activities, often to the detriment of financial services consumers.”
+“[This law] helps create a fair and competitive regulatory framework, levels the playing field for financial institutions, and increases trust and transparency in the market,” said FTP's head of legal activities. “It also solves a regulatory arbitrage problem, where regulatory standards for activities of certain nonbanks were much lower than standards for banking activities, often to the detriment of financial services consumers.”
 
 Public debate over this law lasted for four years. USAID supported its adoption, providing legal and technical advice and organizational support at every step of the draft law consultations. The team worked in Parliament to educate and inform members how these reforms would benefit consumers, eliminate dubious companies, and strengthen the financial sector. It built public awareness of how the law would benefit citizens while at the same time working to reassure the financial sector, many members of which saw benefit in a status quo lacking strong oversight.
 
@@ -88,8 +84,8 @@ Public debate over this law lasted for four years. USAID supported its adoption,
 
 Throughout the past decade, the most important factor in crafting, revising, and finally passing these laws was the coming together of multiple parties to work in concert, from start to finish. USAID and DAI made dialogue a priority, with and between the government, the private sector, and the general public. FST also had the support of a financial sector legislative working group of international financial institutions active in Ukraine—the IMF, World Bank, and the European Union.
 
-“It wasn’t easy, but we had allies,” said Bond. “The reception was great from the Ukraine counterparts including the NBU and the securities commission. We worked with the Parliament on all drafts, and today we are still an active member of parliamentary working groups focused on finance and banking.”
+“It wasn’t easy, but we had allies,” said Bond. “The reception was great from the Ukraine counterparts including the NBU and the securities commission. We worked with the Parliament on all drafts, and today we are still an active member of parliamentary working groups focused on finance and banking.
 
-Vitka added, “We put a lot of effort into publicizing and explaining these laws to get everyone on board.” Promotions and events included international conferences, study tours abroad, panel discussions, and white papers. “A lot of education needed to be done.”
+“We put a lot of effort into publicizing and explaining these laws to get everyone on board.” Promotions and events included international conferences, study tours abroad, panel discussions, and white papers. “A lot of education needed to be done.”
 
 The FST team doesn’t expect to see an influx of new market entrants or investment just yet, but already Ukraine has seen an uptick in competition and some weeding out of weaker and non-compliant institutions. “We don’t see ‘quick wins’—the full impact will take time,” said Bond. “But now the legal framework is in place to develop capital and commodity markets, to create new financial instruments, to protect investors and consumers, and to root out corrupt business practices. The key now is implementing and enforcing the new rules.”
