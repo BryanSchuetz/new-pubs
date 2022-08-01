@@ -79,7 +79,7 @@ The final pillar of our activities was life skills training. Like any other grou
 
 What made our young mothers’ program particularly effective was its combination of assistance in healthy living with a focus on planning and economic and leadership skills. But to make our approach work, we had to recognize the practical challenges young mothers face. For example, we offered childcare allowances so young mothers could free their time for participation in the training. At first, providing this allowance was seen as almost a revolutionary act, but once our partners saw it in action, they immediately recognized it as a pragmatic way to address the competing demands on young mothers’ time. By addressing this crucial obstacle, we reached more than 4,500 young mothers (15 percent of the entire program) who would have otherwise been excluded.
 
-![moms (1).jpg](/uploads/moms%20(1).jpg)`More mothers were able to participate in training through the use of childcare allowances. Photo: Daniel Msirikale/USAID Tanzania.` 
+![moms (1).jpg](/uploads/moms%20(1).jpg)`More mothers were able to participate in training by bringing their children to the training. Photo: Daniel Msirikale/USAID Tanzania.` 
 
 ## Crucial Partnership
 
