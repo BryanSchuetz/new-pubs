@@ -6,6 +6,8 @@ tags:
 - natural resource management
 - climate
 author: "[Sallie Sherman](https://www.linkedin.com/in/sallie-sherman/)"
+thumbnail-image: "/uploads/sm%20Plantation%20forest.jpg"
+social-image: "/uploads/sm%20Plantation%20forest.jpg"
 publication: Developments
 ---
 
@@ -13,7 +15,7 @@ publication: Developments
 
 **First, why is forest conservation so important?** 
 
-**Tom:** “Forests are important for many reasons. Beyond climate change mitigation via carbon sequestration, forests are critical for providing other environmental services, such as water regulation. Forest ecosystems also harbor a large percentage of the world’s biodiversity, and they provide key economic products, like timber and lumber, firewood, and non-timber forest products (fruit, nuts), and they have recreational value. In short, forests are multifunctional—hence the importance of conserving and restoring them.”
+![Tom Erdmann.jpg](/uploads/Tom%20Erdmann.jpg){:.float-left} **Tom:** “Forests are important for many reasons. Beyond climate change mitigation via carbon sequestration, forests are critical for providing other environmental services, such as water regulation. Forest ecosystems also harbor a large percentage of the world’s biodiversity, and they provide key economic products, like timber and lumber, firewood, and non-timber forest products (fruit, nuts), and they have recreational value. In short, forests are multifunctional—hence the importance of conserving and restoring them.”
 
 **Teo:** “Forests offer enormous financial value. Globally, the [estimated total value](https://www.bcg.com/publications/2020/the-staggering-value-of-forests-and-how-to-save-them) of the world’s forests is around $150 trillion. And they present a massive opportunity for job creation. Globally, forests [could create $230 billion](https://www3.weforum.org/docs/WEF_New_Nature_Economy_Report_2020.pdf) in business opportunities and 16 million jobs worldwide by 2030. In Vietnam alone, as of 2018, there were more than 11,000 enterprises operating businesses relating to timber and forestry, employing approximately 505,000 workers, according to USAID’s Green Annamites Project. CO2 emissions reductions and carbon sequestration within the forestry sector enable the Government of Vietnam to fulfill its commitment to achieving neutral carbon by 2025. Lastly, research shows that more biodiversity (including in forests) can decrease the likelihood of wildlife-to-human disease transmission that occurs when humans encroach upon natural habitats.” 
 
@@ -22,6 +24,8 @@ publication: Developments
 **Tom:** “I have always been a nature lover; my family, especially my maternal grandmother, instilled this love in me at an early age. I started planting trees during summers in high school and college, working for a landscaping company. This led to a Peace Corps job as an agroforestry volunteer in Mali and Rwanda, which reinforced my love for forests. After Peace Corps, I went to grad school at the University of Florida, earning an M.S. in forestry with a specialization in agroforestry.”
 
 **Teo:** “Like many local high school pupils in my rural mountainous village, Gia Thanh, in central Vietnam, I had not considered the power of forestry until my family relied on cutting trees, and burning, producing, and selling charcoal for a daily living since 1985. Eight years later, forestry resources in my family were gradually depleting due to heavy charcoal and brick production. To address this environmental issue, I enrolled in the agriculture and forestry undergraduate program at Hue University. After that, I started my career journey with different sustainable natural resources management activities, focusing on forestry conservation. After more than 20 years working on sustainable forestry in Southeast Asia and Africa, I found that the more I worked, the more I struggled to find the optimal approach to achieve the ‘triple bottom line.’ I decided to enroll in the master’s program for international development at Clark University and later pursued my Ph.D in development management in Bangkok, Thailand, focusing on sustainable financing mechanisms, especially [payments for forest environmental services](https://www.cifor.org/knowledge/publication/5052/#:~:text=press%2Drelease-,Payment%20for%20forest%20environmental%20services%20(PFES)%20in%20Vietnam%3A%20findings,from%20three%20years%20of%20implementation&text=Vietnam's%20payments%20for%20forest%20environmental,providing%20compensation%20for%20their%20efforts.).”
+
+![Teo pic - formal.jpg](/uploads/Teo%20pic%20-%20formal.jpg)`Teo Dang Do makes a presentation in Vietnam.`
 
 **Where do you think sustainable forestry is working best?** 
 
@@ -41,6 +45,8 @@ What are the greatest near-term and long-term challenges facing forest conservat
 **Tom:** “The concept of reducing emissions from deforestation and forest degradation ([REDD+](https://redd.unfccc.int/)) still holds great promise. Payments to local communities and stewards for sequestered forest carbon can provide a critical incentive for conserving and preserving large swaths of forest. If we can demonstrate the proof of concept in a couple of places—carbon payments trickling down to local communities and stewards, who then reinforce their efforts to protect forests in their backyards—I think this could have a huge positive impact for forest conservation.”  
 
 **Teo:** “From a policy angle, I found the Government of Vietnam and forestry scholars have had a paradigm shift from forest protection and biodiversity conservation to natural resources economic management, recognizing the key role of the private sector. One of the greatest opportunities is that the Government has shown its very strong commitment to addressing climate change issues and achieving the goal of being carbon neutral by 2025, as declared by the Prime Minister H.E. Pham Minh Chinh at COP 26. To contribute to achieving this ambitious goal, the forestry sector has a huge opportunity to reduce emissions and enhance sequestration of CO2. The public-private community market-based approach has also been widely applied in Vietnam with support from USAID.”
+
+![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)
 
 **Lastly, what actions can we take in our organizations—and as individuals in our daily lives—to promote forest conservation?**
 
