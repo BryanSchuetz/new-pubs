@@ -23,7 +23,7 @@ publication: Developments
 
 **Teo:** “Like many local high school pupils in my rural mountainous village, Gia Thanh, in central Vietnam, I had not considered the power of forestry until my family relied on cutting trees, and burning, producing, and selling charcoal for a daily living since 1985. Eight years later, forestry resources in my family were gradually depleting due to heavy charcoal and brick production. To address this environmental issue, I enrolled in the agriculture and forestry undergraduate program at Hue University. After that, I started my career journey with different sustainable natural resources management activities, focusing on forestry conservation. After more than 20 years working on sustainable forestry in Southeast Asia and Africa, I found that the more I worked, the more I struggled to find the optimal approach to achieve the ‘triple bottom line.’ I decided to enroll in the master’s program for international development at Clark University and later pursued my Ph.D in development management in Bangkok, Thailand, focusing on sustainable financing mechanisms, especially [payments for forest environmental services](https://www.cifor.org/knowledge/publication/5052/#:~:text=press%2Drelease-,Payment%20for%20forest%20environmental%20services%20(PFES)%20in%20Vietnam%3A%20findings,from%20three%20years%20of%20implementation&text=Vietnam's%20payments%20for%20forest%20environmental,providing%20compensation%20for%20their%20efforts.).”
 
-![Teo pic - formal.jpg](/uploads/Teo%20pic%20-%20formal.jpg)
+![Teo pic - formal.jpg](/uploads/Teo%20pic%20-%20formal.jpg)`Teo Dang Do makes a presentation.`
 
 **Where do you think sustainable forestry is working best?** 
 
