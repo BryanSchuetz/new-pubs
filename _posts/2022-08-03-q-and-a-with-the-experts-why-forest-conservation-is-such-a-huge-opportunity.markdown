@@ -32,7 +32,10 @@ publication: Developments
 **Tom:** “Where there is a developed and responsible forest industry coupled with good and environmentally sound oversight and engaged local communities. The Forest Stewardship Council model of certified forest management has always appealed to me, though I wish it would have more of an impact in tropical forest ecosystems where most forest biodiversity is found. The European Forest Law Enforcement, Governance, and Trade model has also produced promising sustainable forest management results in places such as Liberia and Southeast Asia. Sustainable community forestry works best when the local communities and stewards have clear rights over forest resources, can gain economic benefits from the forests, and are supported by local and national government policy and forest services as well as an effective national-level apex organization. Perhaps the most successful [model is in Nepal,](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI) with community forest users groups.”
 
 **Teo:** “It is quite challenging for me to determine where sustainable forestry is working best. Personally, I think the forest in Central Annamites (especially Quang Nam and Thua Thien Hue provinces) is still effectively conserved, for six main reasons: political willingness; strong and responsible leadership; stable institutional arrangements; competent personnel and active forest rangers; appropriate and timely strategies, policies, and programs on sustainable forest management; and advanced law enforcement practices.”
-What are the greatest near-term and long-term challenges facing forest conservation? 
+
+![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)
+
+**What are the greatest near-term and long-term challenges facing forest conservation? **
 
 **Tom:** “Near-term challenges for community forestry revolve mainly around devolution of rights to community forest management organizations. Supporting local managers is critical as they begin to exercise management rights; they often need training to develop and implement management plans and need back-up from government.
 
