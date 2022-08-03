@@ -6,6 +6,8 @@ tags:
 - natural resource management
 - climate
 author: "[Sallie Sherman](https://www.linkedin.com/in/sallie-sherman/)"
+thumbnail-image: "/uploads/sm%20Plantation%20forest.jpg"
+social-image: "/uploads/sm%20Plantation%20forest.jpg"
 publication: Developments
 ---
 
@@ -43,6 +45,8 @@ What are the greatest near-term and long-term challenges facing forest conservat
 **Tom:** “The concept of reducing emissions from deforestation and forest degradation ([REDD+](https://redd.unfccc.int/)) still holds great promise. Payments to local communities and stewards for sequestered forest carbon can provide a critical incentive for conserving and preserving large swaths of forest. If we can demonstrate the proof of concept in a couple of places—carbon payments trickling down to local communities and stewards, who then reinforce their efforts to protect forests in their backyards—I think this could have a huge positive impact for forest conservation.”  
 
 **Teo:** “From a policy angle, I found the Government of Vietnam and forestry scholars have had a paradigm shift from forest protection and biodiversity conservation to natural resources economic management, recognizing the key role of the private sector. One of the greatest opportunities is that the Government has shown its very strong commitment to addressing climate change issues and achieving the goal of being carbon neutral by 2025, as declared by the Prime Minister H.E. Pham Minh Chinh at COP 26. To contribute to achieving this ambitious goal, the forestry sector has a huge opportunity to reduce emissions and enhance sequestration of CO2. The public-private community market-based approach has also been widely applied in Vietnam with support from USAID.”
+
+![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)
 
 **Lastly, what actions can we take in our organizations—and as individuals in our daily lives—to promote forest conservation?**
 
