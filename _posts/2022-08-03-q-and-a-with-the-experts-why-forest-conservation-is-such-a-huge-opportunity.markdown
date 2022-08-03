@@ -9,7 +9,7 @@ author: "[Sallie Sherman](https://www.linkedin.com/in/sallie-sherman/)"
 publication: Developments
 ---
 
-Tom Erdmann is a Principal Global Practice Specialist in DAI’s Climate Change and Natural Resources Management Practice. Teo Dang Do is Deputy Chief of Party for the U.S. Agency for International Development (USAID) Vietnam Sustainable Forest Management Activity. DAI sought out their perspectives on why forest conservation matters.
+*[Thomas Erdmann](https://www.dai.com/who-we-are/our-team/thomas-erdmann) is a Principal Global Practice Specialist in DAI’s Climate Change and Natural Resources Management Practice. [Teo Dang Do](https://www.linkedin.com/in/teo-dang-do-02037414/) is Deputy Chief of Party for the U.S. Agency for International Development (USAID) [Vietnam Sustainable Forest Management](https://www.dai.com/our-work/projects/vietnam-sustainable-forest-management-activity-sfm) Activity. DAI sought out their perspectives on why forest conservation matters.*
 
 First, why is forest conservation so important? 
 Tom: “Forests are important for many reasons. Beyond climate change mitigation via carbon sequestration, forests are critical for providing other environmental services, such as water regulation. Forest ecosystems also harbor a large percentage of the world’s biodiversity, and they provide key economic products, like timber and lumber, firewood, and non-timber forest products (fruit, nuts), and they have recreational value. In short, forests are multifunctional—hence the importance of conserving and restoring them.”
