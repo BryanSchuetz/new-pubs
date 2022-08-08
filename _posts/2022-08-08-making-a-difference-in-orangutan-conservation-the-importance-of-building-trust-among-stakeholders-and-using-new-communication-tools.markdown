@@ -12,7 +12,7 @@ social-image: "/uploads/Male_branches5_crop.jpg"
 publication: Developments
 ---
 
-In the more than 10 years since the U.S. Agency for International Development (USAID) funded the Orangutan Conservation Service Program (OCSP), led by DAI in Indonesia from 2007 to 2010, the world has changed in many significant ways, some expected, some not, some hoped for, some not. Some of the initiatives started under the project contributed to positive developments that continue to this day, while other changes could not have been predicted but are, nonetheless, opportunities to be capitalized on if Indonesia’s iconic “people of the forest” are to thrive. 
+In the more than 10 years since the U.S. Agency for International Development (USAID) funded the [Orangutan Conservation Service Program (OCSP)](https://www.dai.com/our-work/projects/indonesia-orangutan-conservation-services-program-ocsp), led by DAI in Indonesia from 2007 to 2010, the world has changed in many significant ways, some expected, some not, some hoped for, some not. Some of the initiatives started under the project contributed to positive developments that continue to this day, while other changes could not have been predicted but are, nonetheless, opportunities to be capitalized on if Indonesia’s iconic “people of the forest” are to thrive. 
 
 
 
@@ -21,9 +21,11 @@ In the more than 10 years since the U.S. Agency for International Development (U
 
 The orangutan population is still under threat, its habitat reduced and further fragmented by encroaching timber concessions, plantations, mines, roads, and other human activities. But there is some cause for optimism. The decline in the number of orangutans in Indonesia has started to slow, now standing at about 104,700 (Bornean), 13,846 (Sumatran), 800 (Tapanuli) animals, according to the World Wildlife Fund in 2021. The struggle to boost those numbers continues, and former OCSP team members have taken forward the holistic and strategic approach of the project, responding to new challenges and opportunities in the past decade. In interviews with former OCSP team members, they compare then and now and consider how the picture has changed for the orangutan, what has been sustained following the project’s contributions, and what is needed for further improvement.
 
-##Then: 15 Years Ago
+## Then: 15 Years Ago
 
 There is a sense that adversarial relationships between national and international nongovernmental organizations (NGOs) and private sector companies got in the way of advances in orangutan conservation. Negative assumptions about what other players were doing or planning meant that organizations were hobbled and lacked a complete picture of what could be done. Private companies developing plantations and other businesses in and near forests were not aware of how to “do no harm” and tended to block conservation activity, while NGOs, leery of the profit motive, did not want to engage with the firms or the government officials who were perceived to be handing out concessions that would further harm the orangutan and the forest. Worse, the orangutan was still hunted in many locations.
+
+![early days.jpg](/uploads/early%20days.jpg)`Early days of strategizing how to assist Indonesia in conserving the orangutan population. Photo: USAID OCSP.`
 
 At the same time, organizations working on orangutan conservation tended to focus exclusively on rescue and rehabilitation, and while their narrow focus undoubtedly made a difference to the orangutans they saved, they tended to miss the wider context and what was driving the underlying issues. 
 
