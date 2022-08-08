@@ -41,7 +41,7 @@ Hard as it is to imagine now, little more than a decade ago, projects such as OC
 
 Other former OCSP teammates continue to lead in orangutan conservation today. “We made a strong base for orangutan conservation through FORINA,” reflected [Jamartin Sihite](https://www.linkedin.com/in/jamartin-sihite-6ba31116/), OCSP’s Deputy Chief of Party. Sihite is now CEO of the Borneo Orangutan Survival Foundation, where he builds on the policies and plans that he, Hartman, the OCSP team, and the Indonesian government started more than 10 years ago. “The national strategy became a mirror for the government and all organizations involved in orangutan conservation to look at to evaluate themselves and measure their achievement of targets, making their collaboration more effective and less sporadic,” Sihite said.
 
-![OCSP 1.jpeg](/uploads/OCSP%201.jpeg)`Jamartin Sihite is now CEO of the Borneo Orangutan Survival Foundation.`
+![OCSP 1-26a51b.jpeg](/uploads/OCSP%201-26a51b.jpeg)`Jamartin Sihite is now CEO of the Borneo Orangutan Survival Foundation.`
 
 Professor Erik Meijaard, an OCSP science advisor and now Managing Director of Borneo Futures, notes that OCSP data has contributed substantially to global conservation knowledge, including 20 high-level scientific publications. “The data was gathered from surveys where we collaborated with 20 local NGOs that interviewed 7,000 people across 700 villages, about orangutans and killings, environmental services, and deforestation at different scales.” 
 
