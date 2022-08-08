@@ -55,11 +55,11 @@ Changes in the wider world may also present opportunities for orangutan conserva
 
 Given that most communication fora set up under development projects tend to fade as the initial energy and resources drain, it is significant that FORINA is still thriving. It now has an expanded scope, with its Jakarta-based national membership focusing on where change happens: in the regions. Regional orangutan fora in Kalimantan and Sumatera continue to monitor orangutan populations and drive conservation efforts, all the stronger for including “all kinds of stakeholders, not only scientists and NGOs, but also private sector companies, the government, and people who are interested,” said Dr. Sri Suci Utami, who recently completed a series of field monitoring visits to orangutan habitats under the auspices of FORINA in Aceh.
 
-![OCSP 2-e3aa5c.jpeg](/uploads/OCSP%202-e3aa5c.jpeg)`Sihite in the field.`
-
 ## We Have a Chance
 
 A national approach is important to set the framework for change and support it. However, the real work happens in the areas where orangutans, communities, and businesses are based. FORINA’s national forum sets out to support the regional efforts rather than lead them, visiting research stations in all the parks. According to Utami, FORINA is joining forces with other conservation partners in Sumatra and Kalimantan, with the support of the Ministry of Environment and Forestry’s Director General of Nature Conservation and Ecosystems, to find ways to collaborate on the conservation of Indonesia’s other endangered species including the tiger, the rhinoceros, and the elephant.
+
+![OCSP 2-e3aa5c.jpeg](/uploads/OCSP%202-e3aa5c.jpeg)`Sihite in the field.`
  
 Meijaard is thinking about innovative ways to conserve the orangutan, having analyzed how much has already been spent to try to save the orangutan through various means. “We are now experimenting with blockchain payments where the orangutan actually holds a digital wallet from which he can pay the villagers for protective services,” he said. “This allows a direct financial link between someone on the couch in London and the orangutan deep in the heart of Borneo, cutting out all the overheads.”
 
