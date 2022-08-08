@@ -41,6 +41,8 @@ According to Hartman, who led the OCSP’s contribution to the 10-year National 
 
 Other former OCSP teammates continue to lead in orangutan conservation today. “We made a strong base for orangutan conservation through FORINA,” reflected Jamartin Sihite, OCSP’s Deputy Chief of Party. Sihite is now CEO of the Borneo Orangutan Survival Foundation, where he builds on the policies and plans that he, Hartman, the OCSP team, and the Indonesian government started more than 10 years ago. “The national strategy became a mirror for the government and all organizations involved in orangutan conservation to look at to evaluate themselves and measure their achievement of targets, making their collaboration more effective and less sporadic,” Sihite said.
 
+![OCSP 1.jpeg](/uploads/OCSP%201.jpeg)
+
 Professor Erik Meijaard, an OCSP science advisor and now Managing Director of Borneo Futures, notes that OCSP data has contributed substantially to global conservation knowledge, including 20 high-level scientific publications. “The data was gathered from surveys where we collaborated with 20 local NGOs that interviewed 7,000 people across 700 villages, about orangutans and killings, environmental services, and deforestation at different scales.” 
 
 “We developed best management practices to support conservation management planning for orangutans within the plantations and to help companies recognize that they must be part of the conservation solution,” said Hartman. According to Dr. Sri Suci Utami, biologist and orangutan specialist, then with OCSP and now a lecturer and FORINA member, “More and more companies are using the best management practices and FORINA has provided training for company partners since 2007, using guidelines we developed for them to use and adapt for their unique situations.”
@@ -52,6 +54,8 @@ Some OCSP staff went on to bridge the gap between conservation and private secto
 Changes in the wider world may also present opportunities for orangutan conservation. The recent increase in connectivity and ability to share and store data, and Indonesia’s massive adoption of smartphones and social media, all point to more ways to raise awareness about the need to protect orangutans and their forest habitats and at the same time to participate in tracking and monitoring them. “It is now easier to engage with multiple actors and use online platforms,” said Hartman, who thinks this kind of engagement on a global scale could open opportunities for financing conservation. 
 
 Given that most communication fora set up under development projects tend to fade as the initial energy and resources drain, it is significant that FORINA is still thriving. It now has an expanded scope, with its Jakarta-based national membership focusing on where change happens: in the regions. Regional orangutan fora in Kalimantan and Sumatera continue to monitor orangutan populations and drive conservation efforts, all the stronger for including “all kinds of stakeholders, not only scientists and NGOs, but also private sector companies, the government, and people who are interested,” said Dr. Sri Suci Utami, who recently completed a series of field monitoring visits to orangutan habitats under the auspices of FORINA in Aceh.
+
+![OCSP 2-e3aa5c.jpeg](/uploads/OCSP%202-e3aa5c.jpeg)
 
 ## We Have a Chance
 
