@@ -33,6 +33,8 @@ According to former OCSP Chief of Party Paul Hartman, now a Senior Environmental
 
 Hard as it is to imagine now, little more than a decade ago, projects such as OCSP got the word out about the issues and their work primarily through traditional media: radio, TV, and print were the most common means—far more difficult to exploit than today's social media environment, where anyone can mobilize people around issues and share up-to-date information. 
 
+![orangutan karst-Nardy photo.JPG](/uploads/orangutan%20karst-Nardy%20photo.JPG)`Photo: USAID OCSP.`
+
 ## What Was Planned—And Achieved
 
 According to Hartman, who led the OCSP’s contribution to the 10-year National Orangutan Strategy (2007–2017) and helped establish the Indonesian Orangutan Forum, FORINA, “The orangutan conservation strategy along with increased government forest policy and regulation then created a better enabling environment for conservation. We are now seeing some positive results for Indonesia’s forests following the moratorium on new forest concessions, and actors across the palm oil supply chain pushing for sustainability.” 
