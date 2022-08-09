@@ -34,7 +34,7 @@ publication: Developments
 
 ![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)`Ground forest clearance in the Forest Stewardship Council forest of Quang Tri province. Photo: Cintapo.`
 
-### What are the greatest near-term and long-term challenges facing forest conservation? 
+### What are the greatest near-term and long-term challenges? 
 
 **Tom:** “Near-term challenges for community forestry revolve mainly around devolution of rights to community forest management organizations. Supporting local managers is critical as they begin to exercise management rights; they often need training to develop and implement management plans and need back-up from government.
 
