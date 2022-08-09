@@ -1,7 +1,6 @@
 ---
 title: 'Q&A with the Experts: Why Forest Conservation is Such a Huge Opportunity'
-date: 2022-08-03 13:47:00 -04:00
-published: false
+date: 2022-08-09 08:47:00 -04:00
 tags:
 - natural resource management
 - climate
@@ -33,7 +32,7 @@ publication: Developments
 
 **Teo:** “It is quite challenging for me to determine where sustainable forestry is working best. Personally, I think the forest in Central Annamites (especially Quang Nam and Thua Thien Hue provinces) is still effectively conserved, for six main reasons: political willingness; strong and responsible leadership; stable institutional arrangements; competent personnel and active forest rangers; appropriate and timely strategies, policies, and programs on sustainable forest management; and advanced law enforcement practices.”
 
-![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)
+![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)`Ground forest clearance in the Forest Stewardship Council forest of Quang Tri province. Photo: Cintapo.`
 
 **What are the greatest near-term and long-term challenges facing forest conservation? **
 
@@ -49,7 +48,7 @@ publication: Developments
 
 **Teo:** “From a policy angle, I found the Government of Vietnam and forestry scholars have had a paradigm shift from forest protection and biodiversity conservation to natural resources economic management, recognizing the key role of the private sector. One of the greatest opportunities is that the Government has shown its very strong commitment to addressing climate change issues and achieving the goal of being carbon neutral by 2025, as declared by the Prime Minister H.E. Pham Minh Chinh at COP 26. To contribute to achieving this ambitious goal, the forestry sector has a huge opportunity to reduce emissions and enhance sequestration of CO2. The public-private community market-based approach has also been widely applied in Vietnam with support from USAID.”
 
-![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)
+![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)`Signing of a partnership agreement between SFM and the Tien Phuoc Dried Betel Nut Cooperative in Quang Nam province. Photo: A Lang Nguoc.`
 
 **Lastly, what actions can we take in our organizations—and as individuals in our daily lives—to promote forest conservation?**
 
