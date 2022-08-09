@@ -59,7 +59,7 @@ Given that most communication fora set up under development projects tend to fad
 
 A national approach is important to set the framework for change and support it. However, the real work happens in the areas where orangutans, communities, and businesses are based. FORINA’s national forum sets out to support the regional efforts rather than lead them, visiting research stations in all the parks. According to Utami, FORINA is joining forces with other conservation partners in Sumatra and Kalimantan, with the support of the Ministry of Environment and Forestry’s Director General of Nature Conservation and Ecosystems, to find ways to collaborate on the conservation of Indonesia’s other endangered species including the tiger, the rhinoceros, and the elephant.
 
-![OCSP 2-e3aa5c.jpeg](/uploads/OCSP%202-e3aa5c.jpeg)`Sihite in the field.`
+![OCSP 2-e3aa5c.jpeg](/uploads/OCSP%202-e3aa5c.jpeg)`Sihite releasing a rehabilitated orangutan.`
  
 Meijaard is thinking about innovative ways to conserve the orangutan, having analyzed how much has already been spent to try to save the orangutan through various means. “We are now experimenting with blockchain payments where the orangutan actually holds a digital wallet from which he can pay the villagers for protective services,” he said. “This allows a direct financial link between someone on the couch in London and the orangutan deep in the heart of Borneo, cutting out all the overheads.”
 
