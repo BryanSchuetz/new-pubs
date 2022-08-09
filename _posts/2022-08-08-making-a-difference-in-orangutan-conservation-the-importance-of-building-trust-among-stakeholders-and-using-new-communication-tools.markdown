@@ -6,7 +6,7 @@ published: false
 tags:
 - natural resource management
 - biodiversity
-author: "[John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie)"
+author: "[Sheila Town](https://www.linkedin.com/in/sheila-town-14209b2b/)"
 thumbnail-image: "/uploads/Male_branches5_crop.jpg"
 social-image: "/uploads/Male_branches5_crop.jpg"
 publication: Developments
@@ -64,3 +64,5 @@ A national approach is important to set the framework for change and support it.
 Meijaard is thinking about innovative ways to conserve the orangutan, having analyzed how much has already been spent to try to save the orangutan through various means. “We are now experimenting with blockchain payments where the orangutan actually holds a digital wallet from which he can pay the villagers for protective services,” he said. “This allows a direct financial link between someone on the couch in London and the orangutan deep in the heart of Borneo, cutting out all the overheads.”
 
 Overall, 10 years on, there is a sense of cautious optimism among these former colleagues. They acknowledge that plantations and other businesses work in the forests, but that these companies can contribute to orangutan conservation. They agree that working with communities toward more sustainable livelihoods will make a difference, as will working with the Indonesian government nationally and in the provinces where the orangutans live. Connecting to people at their laptops in cafes as well as the communities who live in and near orangutan habitats will help. It might be tough at times, but in the words of Sihite: “We are struggling but working.”
+
+*[Sheila Town](https://www.linkedin.com/in/sheila-town-14209b2b/) is a consultant based in Indonesia.*
