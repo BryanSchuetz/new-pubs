@@ -49,7 +49,7 @@ publication: Developments
 
 **Teo:** “From a policy angle, I found the Government of Vietnam and forestry scholars have had a paradigm shift from forest protection and biodiversity conservation to natural resources economic management, recognizing the key role of the private sector. One of the greatest opportunities is that the Government has shown its very strong commitment to addressing climate change issues and achieving the goal of being carbon neutral by 2025, as declared by the Prime Minister H.E. Pham Minh Chinh at COP 26. To contribute to achieving this ambitious goal, the forestry sector has a huge opportunity to reduce emissions and enhance sequestration of CO2. The public-private community market-based approach has also been widely applied in Vietnam with support from USAID.”
 
-![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)
+![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)`Signing of a partnership agreement between SFM and the Tien Phuoc Dried Betel Nut Cooperative in Quang Nam province. Photo: A Lang Nguoc.`
 
 **Lastly, what actions can we take in our organizations—and as individuals in our daily lives—to promote forest conservation?**
 
