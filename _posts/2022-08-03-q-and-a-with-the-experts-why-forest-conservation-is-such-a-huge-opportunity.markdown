@@ -33,7 +33,7 @@ publication: Developments
 
 **Teo:** “It is quite challenging for me to determine where sustainable forestry is working best. Personally, I think the forest in Central Annamites (especially Quang Nam and Thua Thien Hue provinces) is still effectively conserved, for six main reasons: political willingness; strong and responsible leadership; stable institutional arrangements; competent personnel and active forest rangers; appropriate and timely strategies, policies, and programs on sustainable forest management; and advanced law enforcement practices.”
 
-![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)
+![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)`Ground forest clearance in the Forest Stewardship Council forest of Quang Tri province. Photo: Cintapo.`
 
 **What are the greatest near-term and long-term challenges facing forest conservation? **
 
