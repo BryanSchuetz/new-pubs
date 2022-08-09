@@ -20,13 +20,13 @@ publication: Developments
 
 ![Teo pic - formal.jpg](/uploads/Teo%20pic%20-%20formal.jpg)`Teo Dang Do makes a presentation in Vietnam.`
 
-**What inspired you to get into forestry?** 
+### What inspired you to get into forestry?
 
 **Tom:** “I have always been a nature lover; my family, especially my maternal grandmother, instilled this love in me at an early age. I started planting trees during summers in high school and college, working for a landscaping company. This led to a Peace Corps job as an agroforestry volunteer in Mali and Rwanda, which reinforced my love for forests. After Peace Corps, I went to grad school at the University of Florida, earning an M.S. in forestry with a specialization in agroforestry.”
 
 **Teo:** “Like many local high school pupils in my rural mountainous village, Gia Thanh, in central Vietnam, I had not considered the power of forestry until my family relied on cutting trees, and burning, producing, and selling charcoal for a daily living since 1985. Eight years later, forestry resources in my family were gradually depleting due to heavy charcoal and brick production. To address this environmental issue, I enrolled in the agriculture and forestry undergraduate program at Hue University. After that, I started my career journey with different sustainable natural resources management activities, focusing on forestry conservation. After more than 20 years working on sustainable forestry in Southeast Asia and Africa, I found that the more I worked, the more I struggled to find the optimal approach to achieve the ‘triple bottom line.’ I decided to enroll in the master’s program for international development at Clark University and later pursued my Ph.D in development management in Bangkok, Thailand, focusing on sustainable financing mechanisms, especially [payments for forest environmental services](https://www.cifor.org/knowledge/publication/5052/#:~:text=press%2Drelease-,Payment%20for%20forest%20environmental%20services%20(PFES)%20in%20Vietnam%3A%20findings,from%20three%20years%20of%20implementation&text=Vietnam's%20payments%20for%20forest%20environmental,providing%20compensation%20for%20their%20efforts.).”
 
-**Where do you think sustainable forestry is working best?** 
+### Where do you think sustainable forestry is working best?
 
 **Tom:** “Where there is a developed and responsible forest industry coupled with good and environmentally sound oversight and engaged local communities. The Forest Stewardship Council model of certified forest management has always appealed to me, though I wish it would have more of an impact in tropical forest ecosystems where most forest biodiversity is found. The European Forest Law Enforcement, Governance, and Trade model has also produced promising sustainable forest management results in places such as Liberia and Southeast Asia. Sustainable community forestry works best when the local communities and stewards have clear rights over forest resources, can gain economic benefits from the forests, and are supported by local and national government policy and forest services as well as an effective national-level apex organization. Perhaps the most successful [model is in Nepal,](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI) with community forest users groups.”
 
@@ -34,7 +34,7 @@ publication: Developments
 
 ![Plantation forest.jpg](/uploads/Plantation%20forest.jpg)`Ground forest clearance in the Forest Stewardship Council forest of Quang Tri province. Photo: Cintapo.`
 
-**What are the greatest near-term and long-term challenges facing forest conservation? **
+### What are the greatest near-term and long-term challenges facing forest conservation? 
 
 **Tom:** “Near-term challenges for community forestry revolve mainly around devolution of rights to community forest management organizations. Supporting local managers is critical as they begin to exercise management rights; they often need training to develop and implement management plans and need back-up from government.
 
@@ -42,7 +42,7 @@ publication: Developments
 
 **Teo:** ”A baseline study by USAID’s [Vietnam Sustainable Forest Management](https://www.dai.com/our-work/projects/vietnam-sustainable-forest-management-activity-sfm) Activity found six main challenges facing forest conservation: (i) illegal logging; (ii) hunting and trapping; (iii) over-harvesting non-timber forest products; (iv) forest land encroachment; (v) infrastructure development; and (vi) mineral resource extraction. The first three challenges are considered near-term challenges, and the remaining are long-term challenges for private sector engagement.”
 
-**What are the greatest opportunities or recent innovations in forest conservation?**
+### What are the greatest opportunities or recent innovations in forest conservation?
 
 **Tom:** “The concept of reducing emissions from deforestation and forest degradation ([REDD+](https://redd.unfccc.int/)) still holds great promise. Payments to local communities and stewards for sequestered forest carbon can provide a critical incentive for conserving and preserving large swaths of forest. If we can demonstrate the proof of concept in a couple of places—carbon payments trickling down to local communities and stewards, who then reinforce their efforts to protect forests in their backyards—I think this could have a huge positive impact for forest conservation.”  
 
@@ -50,7 +50,7 @@ publication: Developments
 
 ![VSFM pic1.jpg](/uploads/VSFM%20pic1.jpg)`Signing of a partnership agreement between SFM and the Tien Phuoc Dried Betel Nut Cooperative in Quang Nam province. Photo: A. Lang Nguoc.`
 
-**Lastly, what actions can we take in our organizations—and as individuals in our daily lives—to promote forest conservation?**
+### Lastly, what actions can we take in our organizations—and as individuals in our daily lives—to promote forest conservation?
 
 **Tom:** “Look at national policy with respect to forest conservation as a starting point and try to support those efforts. Nationally Determined Contributions to the United Nations Framework Convention on Climate Change may be a good place to begin as they may include climate change mitigation measures via forest carbon sequestration. Engaging with local environmental nongovernmental groups can be another good entry point.
 
