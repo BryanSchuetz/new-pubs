@@ -42,7 +42,7 @@ publication: Developments
 
 **Teo:** ”A baseline study by USAID’s [Vietnam Sustainable Forest Management](https://www.dai.com/our-work/projects/vietnam-sustainable-forest-management-activity-sfm) Activity found six main challenges facing forest conservation: (i) illegal logging; (ii) hunting and trapping; (iii) over-harvesting non-timber forest products; (iv) forest land encroachment; (v) infrastructure development; and (vi) mineral resource extraction. The first three challenges are considered near-term challenges, and the remaining are long-term challenges for private sector engagement.”
 
-### What are the greatest opportunities or recent innovations in forest conservation?
+### What are the greatest opportunities or recent innovations?
 
 **Tom:** “The concept of reducing emissions from deforestation and forest degradation ([REDD+](https://redd.unfccc.int/)) still holds great promise. Payments to local communities and stewards for sequestered forest carbon can provide a critical incentive for conserving and preserving large swaths of forest. If we can demonstrate the proof of concept in a couple of places—carbon payments trickling down to local communities and stewards, who then reinforce their efforts to protect forests in their backyards—I think this could have a huge positive impact for forest conservation.”  
 
