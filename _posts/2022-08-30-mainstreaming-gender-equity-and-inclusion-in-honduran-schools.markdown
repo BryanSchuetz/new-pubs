@@ -10,6 +10,8 @@ tags:
 - inclusion
 author: "[Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) and [Lylli
   Moya](https://www.linkedin.com/in/lyllimoya/) "
+thumbnail-image: "/uploads/sm%201%20Student%20leaders.jpg"
+social-image: "/uploads/sm%201%20Student%20leaders.jpg"
 publication: Developments
 ---
 
@@ -17,7 +19,7 @@ Persistently high levels of violence in Honduras drive irregular out-migration, 
 
 The U.S. Agency for International Development’s [School-Based Violence Prevention Activity](https://www.dai.com/our-work/projects/honduras-securing-education), known locally as *Asegurando la Educación*, is led by DAI in 200 schools from 11 cities across Honduras. Our work helps students feel safer in their schools so they can commit to their education, graduate, and pursue careers in their communities, rather than migrating. *Asegurando* engages with educators, students, families, government authorities, and community actors to strengthen safe, inclusive learning spaces while building institutional capacity to sustain these efforts. 
 
-`Students participate in a student government forum about safe learning spaces. Photo: USAID Honduras *Asegurando.*`
+![1 Student leaders.JPG](/uploads/1%20Student%20leaders.JPG)`Students participate in a student government forum about safe learning spaces. Photo: USAID Honduras *Asegurando.*`
 
 Honduras has the [highest femicide rate](https://unsdg.un.org/latest/stories/violence-against-women-other-pandemic-impacting-honduras#:~:text=Honduras%20has%20the%20highest%20femicide%20rate%20in%20the%20Latin%20American,have%20lost%20their%20lives%20violently) in Latin America and young women and girls especially experience high rates of physical and emotional violence. Accordingly, *Asegurando* integrates a gender and social inclusion (GESI) lens in all its activities. Raising awareness, mainstreaming gender topics—including roles and stereotypes—and addressing social perceptions of equity and inclusion are all contributing elements of [gender-based violence prevention](https://www.coe.int/en/web/gender-matters). When combined with efforts to promote social-emotional learning, well-being, and psychosocial support, GESI themes contribute to safer learning spaces, which support improved academic performance, retention, and graduation rates. 
 
