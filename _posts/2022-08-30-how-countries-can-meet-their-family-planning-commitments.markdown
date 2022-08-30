@@ -18,6 +18,8 @@ Contraception is beneficial for whole societies—not just for women. Estimates 
 
 As population dynamics shift, governments face evolving challenges in providing social, public, and health services. Managing these population dynamics and improving health and education are critical to allow countries to meet economic and social development goals. So, how can countries meet their SDG targets, and what factors are critical to their success? 
 
+![1 YPE4AH USAID Visit to Lagos - Nigeria Oct 13-15, 21 (To a PHC Offering Adolescent Friendly Services) (5) (2).jpg](/uploads/1%20YPE4AH%20USAID%20Visit%20to%20Lagos%20-%20Nigeria%20Oct%2013-15,%2021%20(To%20a%20PHC%20Offering%20Adolescent%20Friendly%20Services)%20(5)%20(2).jpg)`The U.S. Agency for International Development works through youth hubs in Nigeria to provide family planning and other services to young people. Photo: USAID Nigeria Youth-Powered Ecosystem to Advance Urban Adolescent Health.`
+
 ## Build Family Planning into the Budget 
 
 It may sound obvious to budget for health services. But given that family planning can be politically charged, and governments have numerous competing health priorities, getting adequate funds for reproductive services can be tricky. Policy makers can succeed by speaking the lingua franca of their treasury departments. In short, family planning saves money. 
@@ -37,6 +39,8 @@ For example, Nigeria has a high teen pregnancy rate, with nearly one-third of ad
 Finally, to increase access to contraception, governments should build public-private partnerships. Family planning has one of the longest histories of public-private partnerships in the health systems arena and works best when driven by a total market approach, which coordinates public, private, and civil society service providers to reach the whole population.
 
 Within a [total market approach](https://www.globalhealthlearning.org/course/total-market-approach), private sector actors often play the supplier role. For example, partnerships between contraceptive manufacturers, social marketing companies, governments, and private pharmacies provide access to family planning for people willing and able to pay. Development actors have supported private pharmacy franchises to provide high-quality products while increasing the demand for contraception through branding efforts and quality assurance. Private pharmacies are critical sources of information for their customers and are often the first stop for households seeking family planning options.
+
+![rio-lecatompessy-cfDURuQKABk-unsplash.jpg](/uploads/rio-lecatompessy-cfDURuQKABk-unsplash.jpg)`Businesses can also provide contracpetion services to their workers. Photo: Unsplash.`
 
 Businesses and large employers can also act as service providers. For example, the [VF Corporation](https://www.vfc.com/), one of the world’s largest apparel manufacturers, [developed clinics](https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience) at its factories in Indonesia. These clinics provide primary healthcare, family planning, and maternal and newborn care for their factory workers, 70 percent of whom are women. The DAI-led program will reach 18,500 employees by the end of 2022 and has led to a 450 percent increase in clinic attendance. 
 
