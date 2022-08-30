@@ -35,8 +35,17 @@ According to 10th grader Zenia Amaya, who became the first female president at h
 
 “By teaching our students about the important role women play…they respond with their support so that each student (boys and girls) will be represented in decision-making spaces,” said Melvin Lago, a teacher at the German Technical Center Institute of Honduras. 
 
-`Students contribute to promote equitable gender roles in their school communities. Photo: USAID Honduras *Asegurando.*`
+`Students promote equitable gender roles in their school communities. Photo: USAID Honduras *Asegurando.*`
 
+## Gender Training and Support for Educators
+
+For too many educators in Honduras, violence is a constant shadow in their classrooms and their interactions with students. Educators find themselves on the frontlines, acting both as mediators and confidants for students, especially students with no support at home. These stories of trauma, violence, and abuse lie heavy on teachers, who strive to act as both educators and protectors. On top of their own personal challenges, this burden can place undue stress on teachers, making it more difficult for them to provide support. Sometimes, the violence that takes place among students in schools is gender-based and many educators lack the training to respond. One counselor in Tegucigalpa shared her experience supporting a young girl who had been raped and impregnated by her stepfather. “It is hard…[because] there are gangs,” said the counselor. “It gets to the point where [we are limited in] how we can report the complaint of abuse because they say, ‘the gang will come after them.’”
+
+*Asegurando* uses two programs to equip educators to support their students in violence-related challenges: Educators for Peace and Teacher Well-being. The former, a professional development program, devotes an entire module to the types of violence that can affect education, based on the [human rights framework](https://www.un.org/en/about-us/universal-declaration-of-human-rights), child protection, and gender-based violence prevention. The module incorporates basic gender concepts, stereotypes, and social norms related to femininity and masculinity, and teaches educators to recognize signs of gender-based violence and transgression in the classroom. Approximately 4,300 teachers have completed or are in the process of completing the Educators for Peace program.  
+
+The Teacher Well-being program equips educators with gender- and trauma-informed responses to the challenges they encounter. As in-person learning resumed after the COVID-19 pandemic, students and teachers alike carried with them the experiences they had undergone over the previous two years, and Teacher Well-being sessions helped educators deal with these and other challenges. Teachers learn deep breathing and other relaxation techniques to help manage their emotions. They also discuss challenges their schools face and collaborate with colleagues to share the emotional burden of addressing these challenges. Since 2018, more than 13,000 educators have participated, contributing to healthier learning environments for approximately 800,000 students.
+
+`Teachers who apply well-being practices provide support to their students. Photo: USAID Honduras *Asegurando*.`
 
 
 [Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) and [Lylli Moya](https://www.linkedin.com/in/lyllimoya/) 
