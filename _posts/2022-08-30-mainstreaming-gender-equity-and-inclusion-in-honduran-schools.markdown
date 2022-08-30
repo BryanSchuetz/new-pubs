@@ -35,7 +35,7 @@ According to 10th grader Zenia Amaya, who became the first female president at h
 
 “By teaching our students about the important role women play…they respond with their support so that each student (boys and girls) will be represented in decision-making spaces,” said Melvin Lago, a teacher at the German Technical Center Institute of Honduras. 
 
-
+`Students contribute to promote equitable gender roles in their school communities. Photo: USAID Honduras *Asegurando.*`
 
 
 
