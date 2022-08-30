@@ -11,6 +11,8 @@ Persistently high levels of violence in Honduras drive irregular out-migration, 
 
 The U.S. Agency for International Development’s [School-Based Violence Prevention Activity](https://www.dai.com/our-work/projects/honduras-securing-education), known locally as *Asegurando la Educación*, is led by DAI in 200 schools from 11 cities across Honduras. Our work helps students feel safer in their schools so they can commit to their education, graduate, and pursue careers in their communities, rather than migrating. *Asegurando* engages with educators, students, families, government authorities, and community actors to strengthen safe, inclusive learning spaces while building institutional capacity to sustain these efforts. 
 
+`Students participate in a student government forum about safe learning spaces. Photo: USAID *Asegurando.*`
+
 Honduras has the highest feminicide rate in Latin America and young women and girls especially experience high rates of physical and emotional violence. Accordingly, *Asegurando* integrates a gender and social inclusion (GESI) lens in all its activities. Raising awareness, mainstreaming gender topics—including roles and stereotypes—and addressing social perceptions of equity and inclusion are all contributing elements of gender-based violence prevention. When combined with efforts to promote social-emotional learning, well-being, and psychosocial support, GESI themes contribute to safer learning spaces, which support improved academic performance, retention, and graduation rates. 
 
 The following examples illustrate how *Asegurando* helps to prevent gender-based violence in schools by integrating equity and inclusion into its interventions. 
