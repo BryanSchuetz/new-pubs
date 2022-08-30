@@ -2,6 +2,12 @@
 title: Mainstreaming Gender Equity and Inclusion in Honduran Schools
 date: 2022-08-30 13:58:00 -04:00
 published: false
+tags:
+- education
+- gender
+- fragile-states
+- covid-19
+- inclusion
 author: "[Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) and [Lylli
   Moya](https://www.linkedin.com/in/lyllimoya/) "
 publication: Developments
