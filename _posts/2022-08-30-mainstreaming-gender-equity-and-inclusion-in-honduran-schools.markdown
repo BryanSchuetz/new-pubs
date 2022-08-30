@@ -19,7 +19,7 @@ Persistently high levels of violence in Honduras drive irregular out-migration, 
 
 The U.S. Agency for International Development’s [School-Based Violence Prevention Activity](https://www.dai.com/our-work/projects/honduras-securing-education), known locally as *Asegurando la Educación*, is led by DAI in 200 schools from 11 cities across Honduras. Our work helps students feel safer in their schools so they can commit to their education, graduate, and pursue careers in their communities, rather than migrating. *Asegurando* engages with educators, students, families, government authorities, and community actors to strengthen safe, inclusive learning spaces while building institutional capacity to sustain these efforts. 
 
-![1 Student leaders.JPG](/uploads/1%20Student%20leaders.JPG)`Students participate in a student government forum about safe learning spaces. Photo: USAID Honduras *Asegurando.*`
+![1 Student leaders.JPG](/uploads/1%20Student%20leaders.JPG)`Students participate in a student government forum about safe learning spaces. Photo: USAID Honduras Asegurando.`
 
 Honduras has the [highest femicide rate](https://unsdg.un.org/latest/stories/violence-against-women-other-pandemic-impacting-honduras#:~:text=Honduras%20has%20the%20highest%20femicide%20rate%20in%20the%20Latin%20American,have%20lost%20their%20lives%20violently) in Latin America and young women and girls especially experience high rates of physical and emotional violence. Accordingly, *Asegurando* integrates a gender and social inclusion (GESI) lens in all its activities. Raising awareness, mainstreaming gender topics—including roles and stereotypes—and addressing social perceptions of equity and inclusion are all contributing elements of [gender-based violence prevention](https://www.coe.int/en/web/gender-matters). When combined with efforts to promote social-emotional learning, well-being, and psychosocial support, GESI themes contribute to safer learning spaces, which support improved academic performance, retention, and graduation rates. 
 
@@ -31,7 +31,7 @@ In Honduras, especially in poorer communities, rigid social norms adversely affe
 
 “A lot of women and girls have grown up [being told], you are a woman, you have to do this, you have to do the washing, you have to iron, you have to cook,” as one student from La Ceiba put it. On the other hand, men and boys in Honduras are often conditioned to believe they must be strong providers who lead households in an authoritarian manner, based on fear. They must always present themselves as strong and are told not to cry or express emotions. For male students, this can make it even more difficult to deal with challenging situations and find healthy outlets for emotions and trauma without turning to violence. 
 
-![2 SEL PASE Schools.JPG](/uploads/2%20SEL%20PASE%20Schools.JPG)`Social-emotional learning programs change gender stereotypes, even in sports. Photo: USAID Honduras *Asegurando.*`
+![2 SEL PASE Schools.JPG](/uploads/2%20SEL%20PASE%20Schools.JPG)`Social-emotional learning programs change gender stereotypes, even in sports. Photo: USAID Honduras Asegurando.`
 
 *Asegurando* facilitates programs for the school community to encourage positive change. All of the social-emotional learning (SEL) programs, such as [Influencer 504](https://www.youtube.com/watch?v=OMDqmGBWgFM&list=PLUkTqAE0ApJU9hhFmMV6PlH9UiAEw0OQ7) and [School-for-Parents](https://www.youtube.com/playlist?list=PLUkTqAE0ApJU4f3TpAqAqjjqCJ7QpxH3D), promote GESI by discussing domestic roles and responsibilities and focusing on issues of equity, equality, empathy, and respect, to name a few examples. *Asegurando* also supports school leaders and School Community Committees—parent-teacher-student groups that analyze problems in their schools and design solutions to strengthen safe learning spaces. Committee members participate in training sessions that emphasize equal gender roles, social inclusion, and gender-based violence prevention. Student leaders become peer educators by sharing with their classmates what they have learned. The students also use the violence-meter (*violentómetro*), a thermometer-like visual that helps raise awareness of preventing violence in relationships. 
 
@@ -39,7 +39,7 @@ According to 10th grader Zenia Amaya, who became the first female president at h
 
 “By teaching our students about the important role women play…they respond with their support so that each student (boys and girls) will be represented in decision-making spaces,” said Melvin Lago, a teacher at the German Technical Center Institute of Honduras. 
 
-![3 SCC Gender roles 2.jpg](/uploads/3%20SCC%20Gender%20roles%202.jpg)`Students promote equitable gender roles in their school communities. Photo: USAID Honduras *Asegurando.*`
+![3 SCC Gender roles 2.jpg](/uploads/3%20SCC%20Gender%20roles%202.jpg)`Students promote equitable gender roles in their school communities. Photo: USAID Honduras Asegurando.`
 
 ## Gender Training and Support for Educators
 
@@ -49,7 +49,7 @@ For too many educators in Honduras, violence is a constant shadow in their class
 
 The Teacher Well-being program equips educators with gender- and trauma-informed responses to the challenges they encounter. As in-person learning resumed after the COVID-19 pandemic, students and teachers alike carried with them the experiences they had undergone over the previous two years, and Teacher Well-being sessions helped educators deal with these and other challenges. Teachers learn deep breathing and other relaxation techniques to help manage their emotions. They also discuss challenges their schools face and collaborate with colleagues to share the emotional burden of addressing these challenges. Since 2018, more than 13,000 educators have participated, contributing to healthier learning environments for approximately 800,000 students.
 
-![4 Teacher wellbeing.jpg](/uploads/4%20Teacher%20wellbeing.jpg)`Teachers who apply well-being practices provide support to their students. Photo: USAID Honduras *Asegurando*.`
+![4 Teacher wellbeing.jpg](/uploads/4%20Teacher%20wellbeing.jpg)`Teachers who apply well-being practices provide support to their students. Photo: USAID Honduras Asegurando.`
 
 ## Psychosocial Support for Students
 
@@ -59,7 +59,7 @@ One 15-year-old girl described what happened when she told her family she was pr
 
 *Asegurando*’s Staying Positive program comprises 16 group therapy sessions, with a focus on psychosocial support for students at risk of falling victim to or being perpetrators of violence in the school community. Counselors use a screening tool to help identify referred students who have experienced gender-based violence, either as victims or perpetrators. Typically, such students disrupt the school environment and struggle with their grades, but after their participation, they often become leaders of positive change. Facilitators convey GESI messages throughout the sessions, while recognizing the diverse challenges and experiences that bring the students to the program. 
 
-![5 Staying Positive.JPG](/uploads/5%20Staying%20Positive.JPG)`Students who receive psychosocial support often become leaders of positive change. Photo: USAID Honduras *Asegurando*.`
+![5 Staying Positive.JPG](/uploads/5%20Staying%20Positive.JPG)`Students who receive psychosocial support often become leaders of positive change. Photo: USAID Honduras Asegurando.`
 
 An 11th-grade girl from Tegucigalpa who was participating in the program was on track to be the first in her family to graduate from high school. When she found out she was pregnant, she was devastated, and her family was shocked. Seeking advice from her counselor and teachers, the girl realized that she did not want her new challenges to prevent her from graduating. “The most important [thing] is to make the girl feel [and understand] that even though she is pregnant, she is important. She is a woman who [is valued and deserves respect]. She is special,” said her counselor. The student is now determined to complete high school, and—with the support of her counselors and school—she is on track to do so. “I had the option to leave school…but many people advised me…they told me to stay in school…that I could be someone in my life.”
 
