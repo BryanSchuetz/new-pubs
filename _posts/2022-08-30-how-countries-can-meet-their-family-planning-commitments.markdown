@@ -7,6 +7,8 @@ tags:
 - health systems strengthening
 author: "[Jacqui Larsen](https://www.dai.com/who-we-are/our-team/jacqui-larsen), [Stephen
   Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), and [Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
+thumbnail-image: "/uploads/sm%201%20YPE4AH.jpg"
+social-image: "/uploads/sm%201%20YPE4AH.jpg"
 publication: Developments
 ---
 
