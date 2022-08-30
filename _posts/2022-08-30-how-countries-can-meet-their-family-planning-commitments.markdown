@@ -22,7 +22,7 @@ As population dynamics shift, governments face evolving challenges in providing 
 
 ## Build Family Planning into the Budget 
 
-It may sound obvious to budget for health services. But given that family planning can be politically charged, and governments have numerous competing health priorities, getting adequate funds for reproductive services can be tricky. Policy makers can succeed by speaking the lingua franca of their treasury departments. In short, family planning saves money. 
+It may sound obvious to budget for health services. But given that family planning can be politically charged, and governments have numerous competing health priorities, getting adequate funds for reproductive services can be tricky. Policy makers can succeed by speaking the *lingua franca* of their treasury departments. In short, family planning saves money. 
 
 Health policy makers should also earmark funding to a specific family planning budget line, so that contraceptive services continue during health crises and shocks. [Research highlights](https://gh.bmj.com/content/2/4/e000377) that during conflicts, pregnant women face greater pregnancy complications, despite the fact that in emergencies the fertility rate can remain stable. Reducing unintended pregnancies by maintaining family planning services can lighten the load on hospitals and service providers and the burden on women and families.
 
