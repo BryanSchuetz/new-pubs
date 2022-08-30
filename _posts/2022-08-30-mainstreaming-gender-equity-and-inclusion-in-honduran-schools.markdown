@@ -1,7 +1,6 @@
 ---
 title: Mainstreaming Gender Equity and Inclusion in Honduran Schools
 date: 2022-08-30 13:58:00 -04:00
-published: false
 tags:
 - education
 - gender
