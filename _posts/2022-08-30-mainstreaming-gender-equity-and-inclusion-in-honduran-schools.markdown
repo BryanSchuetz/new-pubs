@@ -67,4 +67,4 @@ An 11th-grade girl from Tegucigalpa who was participating in the program was on 
 
 By incorporating GESI themes, *Asegurando* is championing respect, equity, and inclusion as social norms that will serve as the first line of defense against gender-based violence in the school community. *Asegurando* is working with the Ministry of Education to make these school-based violence prevention practices sustainable and scalable. Through the consistent implementation of such practices, authorities, teachers, and students at partner schools are better equipped to promote safe learning environments and mainstream gender equity inclusion in Honduras.
 
-*[Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) is an International Writer and [Lylli Moya](https://www.linkedin.com/in/lyllimoya/) is Communications and Knowledge Management Director on Asegurando.* 
+*[Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) is an International Writer and [Lylli Moya](https://www.linkedin.com/in/lyllimoya/) is the Communications and Knowledge Management Director on Asegurando.* 
