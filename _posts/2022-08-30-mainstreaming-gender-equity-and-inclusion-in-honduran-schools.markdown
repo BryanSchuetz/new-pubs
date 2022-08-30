@@ -47,5 +47,20 @@ The Teacher Well-being program equips educators with gender- and trauma-informed
 
 `Teachers who apply well-being practices provide support to their students. Photo: USAID Honduras *Asegurando*.`
 
+## Psychosocial Support for Students
 
-[Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) and [Lylli Moya](https://www.linkedin.com/in/lyllimoya/) 
+For students, having an educator or school counselor who is emotionally available can help them to overcome challenges and stay in school. In many cases though, students who have experienced trauma or gender-based violence need clinical support. For families already struggling with poverty, the additional costs of an unwanted pregnancy can be devastating, exposing girls to further physical and emotional jeopardy. 
+
+One 15-year-old girl described what happened when she told her family she was pregnant: “[They] beat me; they scolded me. I felt judged by my own family, I didn’t know what to do. I just cried.” On top of the physical changes of pregnancy and the pressure of raising a child, this kind of experience can discourage girls from finishing their education during or after pregnancy. Those who do stay in school face social isolation in the classroom. 
+
+*Asegurando*’s Staying Positive program comprises 16 group therapy sessions, with a focus on psychosocial support for students at risk of falling victim to or being perpetrators of violence in the school community. Counselors use a screening tool to help identify referred students who have experienced gender-based violence, either as victims or perpetrators. Typically, such students disrupt the school environment and struggle with their grades, but after their participation, they often become leaders of positive change. Facilitators convey GESI messages throughout the sessions, while recognizing the diverse challenges and experiences that bring the students to the program. 
+
+`Students who receive psychosocial support often become leaders of positive change. Photo: USAID Honduras *Asegurando*.`
+
+An 11th-grade girl from Tegucigalpa who was participating in the program was on track to be the first in her family to graduate from high school. When she found out she was pregnant, she was devastated, and her family was shocked. Seeking advice from her counselor and teachers, the girl realized that she did not want her new challenges to prevent her from graduating. “The most important [thing] is to make the girl feel [and understand] that even though she is pregnant, she is important. She is a woman who [is valued and deserves respect]. She is special,” said her counselor. The student is now determined to complete high school, and—with the support of her counselors and school—she is on track to do so. “I had the option to leave school…but many people advised me…they told me to stay in school…that I could be someone in my life.”
+
+*Asegurando* has trained approximately 3,800 educators and school counselors from 1,453 schools to provide psychosocial support.  
+
+By incorporating GESI themes, *Asegurando* is championing respect, equity, and inclusion as social norms that will serve as the first line of defense against gender-based violence in the school community. *Asegurando* is working with the Ministry of Education to make these school-based violence prevention practices sustainable and scalable. Through the consistent implementation of such practices, authorities, teachers, and students at partner schools are better equipped to promote safe learning environments and mainstream gender equity inclusion in Honduras.
+
+*[Claire McGilley](https://www.linkedin.com/in/claire-mcgilley/) is an International Writer and [Lylli Moya](https://www.linkedin.com/in/lyllimoya/) is Communications and Knowledge Management Director on Asegurando.* 
