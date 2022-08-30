@@ -18,7 +18,7 @@ Contraception is beneficial for whole societies—not just for women. Estimates 
 
 As population dynamics shift, governments face evolving challenges in providing social, public, and health services. Managing these population dynamics and improving health and education are critical to allow countries to meet economic and social development goals. So, how can countries meet their SDG targets, and what factors are critical to their success? 
 
-![1 YPE4AH USAID Visit to Lagos - Nigeria Oct 13-15, 21 (To a PHC Offering Adolescent Friendly Services) (5) (2).jpg](/uploads/1%20YPE4AH%20USAID%20Visit%20to%20Lagos%20-%20Nigeria%20Oct%2013-15,%2021%20(To%20a%20PHC%20Offering%20Adolescent%20Friendly%20Services)%20(5)%20(2).jpg)`The U.S. Agency for International Development works through youth hubs in Nigeria to provide family planning and other services to young people. Photo: USAID Nigeria Youth-Powered Ecosystem to Advance Urban Adolescent Health.`
+![1 YPE4AH USAID Visit to Lagos - Nigeria Oct 13-15, 21 (To a PHC Offering Adolescent Friendly Services) (5) (2).jpg](/uploads/1%20YPE4AH%20USAID%20Visit%20to%20Lagos%20-%20Nigeria%20Oct%2013-15,%2021%20(To%20a%20PHC%20Offering%20Adolescent%20Friendly%20Services)%20(5)%20(2).jpg)`The U.S. Agency for International Development (USAID) works through youth hubs in Nigeria to provide family planning and other services to young people. Photo: USAID Nigeria Youth-Powered Ecosystem to Advance Urban Adolescent Health.`
 
 ## Build Family Planning into the Budget 
 
