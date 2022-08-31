@@ -5,8 +5,9 @@ published: false
 tags:
 - global-health
 - health systems strengthening
-author: "[Jacqui Larsen](https://www.dai.com/who-we-are/our-team/jacqui-larsen), [Stephen
-  Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), and [Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
+author: "[Jacqui Moller Larsen](https://www.dai.com/who-we-are/our-team/jacqui-larsen),
+  [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim), and [Megan
+  Howe](https://www.linkedin.com/in/megan-howe-3a868972/)"
 thumbnail-image: "/uploads/sm%201%20YPE4AH.jpg"
 social-image: "/uploads/sm%201%20YPE4AH.jpg"
 publication: Developments
@@ -46,4 +47,4 @@ Businesses and large employers can also act as service providers. For example, t
 
 Although family planning can be both a politically and emotionally charged issue, engaging with the topic sensitively and providing accurate information for youth and couples can help people make better decisions for themselves, their families, and their futures. Governments that recognize the fiscal benefits of investing in family planning and leverage public-private partnerships are more likely to meet both SDG and economic development goals.
 
-*[Jacqui Larsen](https://www.dai.com/who-we-are/our-team/jacqui-larsen) is the Senior Practice Lead for Health Equity. [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim) is the Senior Global Practice Leader for Global Health Market Solutions, and [Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) is the Senior Communication Advisor for Global Health. The article also has contributions from [Ishani Patel](https://www.dai.com/who-we-are/our-team/ishani-patel), Associate Global Practice Specialist.*
+*[Jacqui Moller Larsen](https://www.dai.com/who-we-are/our-team/jacqui-larsen) is the Senior Practice Lead for Health Equity. [Stephen Rahaim](https://www.dai.com/who-we-are/our-team/stephen-rahaim) is the Senior Global Practice Leader for Global Health Market Solutions, and [Megan Howe](https://www.linkedin.com/in/megan-howe-3a868972/) is the Senior Communication Advisor for Global Health. The article also has contributions from [Ishani Patel](https://www.dai.com/who-we-are/our-team/ishani-patel), Associate Global Practice Specialist.*
