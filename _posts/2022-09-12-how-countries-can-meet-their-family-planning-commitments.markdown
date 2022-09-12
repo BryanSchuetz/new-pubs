@@ -40,7 +40,7 @@ Finally, to increase access to contraception, governments should build public-pr
 
 Within a [total market approach](https://www.globalhealthlearning.org/course/total-market-approach), private sector actors often play the supplier role. For example, partnerships between contraceptive manufacturers, social marketing companies, governments, and private pharmacies provide access to family planning for people willing and able to pay. Development actors have supported private pharmacy franchises to provide high-quality products while increasing the demand for contraception through branding efforts and quality assurance. Private pharmacies are critical sources of information for their customers and are often the first stop for households seeking family planning options.
 
-![rio-lecatompessy-cfDURuQKABk-unsplash.jpg](/uploads/rio-lecatompessy-cfDURuQKABk-unsplash.jpg)`Businesses can also provide contraception services to their workers. Photo: Unsplash.`
+![rio-lecatompessy-cfDURuQKABk-unsplash.jpg](/uploads/rio-lecatompessy-cfDURuQKABk-unsplash.jpg)`Businesses can also provide contraception services to their workers. Photo: Borgen Magazine/Unsplash.`
 
 Businesses and large employers can also act as service providers. For example, the [VF Corporation](https://www.vfc.com/), one of the world’s largest apparel manufacturers, [developed clinics](https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience) at its factories in Indonesia. These clinics provide primary healthcare, family planning, and maternal and newborn care for their factory workers, 70 percent of whom are women. The DAI-led program will reach 18,500 employees by the end of 2022 and has led to a 450 percent increase in clinic attendance. 
 
