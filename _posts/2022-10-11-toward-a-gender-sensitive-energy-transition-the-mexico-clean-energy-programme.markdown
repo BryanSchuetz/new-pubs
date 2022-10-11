@@ -8,7 +8,7 @@ tags:
 - climate
 - Mexico
 - gender
-author: "[Sophia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
+author: "[Sofia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
 thumbnail-image: "/uploads/DSC_0913.JPG"
 social-image: "/uploads/DSC_0913.JPG"
 publication: Developments
