@@ -1,6 +1,8 @@
 ---
 title: 'Toward a Gender-Sensitive Energy Transition: The Mexico Clean Energy Programme'
 date: 2022-10-11 07:13:00 -04:00
+author: "[Sophia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
+publication: Developments
 ---
 
 The recently concluded [Mexico Clean Energy Programme](https://www.dai.com/our-work/projects/mexico-prosperity-fund-mexico-energy-services-programme) (MCEP) was a collaboration between the U.K. Government and the Mexican energy sector to facilitate the latter’s transition to greener, more sustainable energy sources and practices. The project saw considerable success, notably in its efforts to sow the seeds of what we might call a more “gender-just” energy transition.
