@@ -7,7 +7,7 @@ The recently concluded [Mexico Clean Energy Programme](https://www.dai.com/our-w
  
 The Foreign, Commonwealth & Development Office program was developed using a demand-driven capacity-building approach to support the Mexican government’s commitment to make the energy transition a fair one, including from the perspective of gender. As it stands, Mexico’s energy sector is overwhelmingly male. According to the [Mexican Network of Women in Renewables and Energy Efficiency](https://www.mujeresenergia.org/hoja-de-ruta) (REDMEREE), women account for just 25 percent of the jobs in the sector and hold only 2 percent of technical roles in the National Commission of Electricity.
  
-Gender and Social Inclusion
+## Gender and Social Inclusion
 
 Central to its efforts, MCEP created an enterprise development center called EPI (Energía, Participación e Inclusión), which delivered specialized courses to build the capacity of people in the energy workforce and equip them to take advantage of new opportunities opening up in green power and renewables. 
 
@@ -21,6 +21,6 @@ The results were positive: 52 percent of participants were women (3 percent sing
 
 Notably, MCEP capitalized on the U.K. Government’s relationship with Mexico and reinforced it by helping to foster stronger partnerships and engaging with British industry experts and technical, vocational, and training institutions to design and implement EPI courses and events.
 
-More Research Required
+## More Research Required
 
 Gender mainstreaming in the energy sector—and in the transition to clean energy—is gaining momentum globally. While we certainly need more evidence of successful experiences, data, and research to help us understand how to attract and retain women in the sector, MCEP demonstrated that online and gender-sensitive training is effective and can be designed to provide greater reach so that historically marginalized people are included. 
