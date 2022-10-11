@@ -32,7 +32,7 @@ The results were positive: 52 percent of participants were women (3 percent sing
 
 Notably, MCEP capitalized on the U.K. Government’s relationship with Mexico and reinforced it by helping to foster stronger partnerships and engaging with British industry experts and technical, vocational, and training institutions to design and implement EPI courses and events.
 
-![DSC_0952.JPG](/uploads/DSC_0952.JPG)`. Photo: .`
+![DSC_0952.JPG](/uploads/DSC_0952.JPG)`The Mexico Clean Energy Programme (MCEP) introduced an initiative to support young female professionals to enter the clean energy sector. Photo: MECP.`
 
 ## More Research Required
 
