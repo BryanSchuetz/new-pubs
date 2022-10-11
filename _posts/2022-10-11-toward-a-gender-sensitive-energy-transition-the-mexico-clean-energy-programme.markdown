@@ -9,6 +9,8 @@ tags:
 - Mexico
 - gender
 author: "[Sophia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
+thumbnail-image: "/uploads/DSC_0913.JPG"
+social-image: "/uploads/DSC_0913.JPG"
 publication: Developments
 ---
 
@@ -29,6 +31,8 @@ The program also created networking opportunities for women, providing the mento
 The results were positive: 52 percent of participants were women (3 percent single mothers), which is more than double the percentage of women working in Mexico’s energy sector. Other participants from marginalized groups included 3 percent who identified as indigenous and 4 percent as Afro-Mexicans. Most participants (54 percent) had a monthly income of less than MXN 11,500 (US$570). 
 
 Notably, MCEP capitalized on the U.K. Government’s relationship with Mexico and reinforced it by helping to foster stronger partnerships and engaging with British industry experts and technical, vocational, and training institutions to design and implement EPI courses and events.
+
+![DSC_0952.JPG](/uploads/DSC_0952.JPG)`. Photo: .`
 
 ## More Research Required
 
