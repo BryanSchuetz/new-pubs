@@ -1,6 +1,13 @@
 ---
 title: 'Toward a Gender-Sensitive Energy Transition: The Mexico Clean Energy Programme'
 date: 2022-10-11 07:13:00 -04:00
+tags:
+- energy
+- energy-transition
+- renewable-energy
+- climate
+- Mexico
+- gender
 author: "[Sophia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez)"
 publication: Developments
 ---
