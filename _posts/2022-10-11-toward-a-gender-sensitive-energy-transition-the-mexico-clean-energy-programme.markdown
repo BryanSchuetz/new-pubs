@@ -1,5 +1,5 @@
 ---
-title: 'Toward a Gender-Sensitive Energy Transition: The Mexico Clean Energy Programme'
+title: 'Mexico: Toward a Gender-Sensitive Energy Transition'
 date: 2022-10-11 07:13:00 -04:00
 tags:
 - energy
